@@ -1,0 +1,7803 @@
+1
+00:00:00,000 --> 00:00:03,000
+Welcome to a brand new episode of Ogrodje.
+
+2
+00:00:03,000 --> 00:00:06,000
+This time with a beautiful picture,
+
+3
+00:00:06,000 --> 00:00:08,000
+with beautiful guests,
+
+4
+00:00:08,000 --> 00:00:10,000
+with a beautiful sound,
+
+5
+00:00:10,000 --> 00:00:12,000
+in a pleasant ambience,
+
+6
+00:00:12,000 --> 00:00:15,000
+and with a new Elan,
+
+7
+00:00:15,000 --> 00:00:18,000
+with a new energy that we tried to choose
+
+8
+00:00:18,000 --> 00:00:20,000
+for this episode.
+
+9
+00:00:20,000 --> 00:00:23,000
+So, welcome to the new episode of Ogrodje.
+
+10
+00:00:23,000 --> 00:00:26,000
+This time with a beautiful picture,
+
+11
+00:00:26,000 --> 00:00:28,000
+with beautiful guests,
+
+12
+00:00:28,000 --> 00:00:31,000
+with a new energy that we tried to choose
+
+13
+00:00:31,000 --> 00:00:33,000
+for this episode.
+
+14
+00:00:33,000 --> 00:00:36,000
+In our Ogrodje we have now shot
+
+15
+00:00:36,000 --> 00:00:39,000
+I think about 22-23 episodes.
+
+16
+00:00:39,000 --> 00:00:42,000
+These are episodes that are somewhat
+
+17
+00:00:42,000 --> 00:00:45,000
+suitable especially for experienced experts,
+
+18
+00:00:45,000 --> 00:00:48,000
+for people who work in our industry,
+
+19
+00:00:48,000 --> 00:00:51,000
+people who do not work in our industry.
+
+20
+00:00:51,000 --> 00:00:54,000
+And among all these stories,
+
+21
+00:00:54,000 --> 00:00:57,000
+we listen to a lot of the audience,
+
+22
+00:00:57,000 --> 00:01:00,000
+we listen to our listeners and viewers.
+
+23
+00:01:00,000 --> 00:01:03,000
+And we started to ask ourselves
+
+24
+00:01:03,000 --> 00:01:06,000
+how we could make Ogrodje
+
+25
+00:01:06,000 --> 00:01:09,000
+even more accessible to the next generation
+
+26
+00:01:09,000 --> 00:01:12,000
+of developers,
+
+27
+00:01:12,000 --> 00:01:15,000
+beginners, juniors,
+
+28
+00:01:15,000 --> 00:01:18,000
+and people who try to enter this industry,
+
+29
+00:01:18,000 --> 00:01:21,000
+because they have already seen that it is interesting
+
+30
+00:01:21,000 --> 00:01:24,000
+intellectually and because it is also
+
+31
+00:01:24,000 --> 00:01:27,000
+very attractive.
+
+32
+00:01:27,000 --> 00:01:30,000
+And because we somehow tried in Ogrodje
+
+33
+00:01:30,000 --> 00:01:33,000
+to realize that it makes no sense
+
+34
+00:01:33,000 --> 00:01:36,000
+to simplify our debates with great experts
+
+35
+00:01:36,000 --> 00:01:39,000
+too much to bring certain people
+
+36
+00:01:39,000 --> 00:01:42,000
+closer to the beginners,
+
+37
+00:01:42,000 --> 00:01:45,000
+we decided to make a new series
+
+38
+00:01:45,000 --> 00:01:48,000
+of episodes that would be
+
+39
+00:01:48,000 --> 00:01:51,000
+very beginner-friendly.
+
+40
+00:01:51,000 --> 00:01:54,000
+This series of episodes will be called
+
+41
+00:01:54,000 --> 00:01:57,000
+Zagon and you will find them
+
+42
+00:01:57,000 --> 00:02:00,000
+in podcast platforms and also on YouTube.
+
+43
+00:02:00,000 --> 00:02:03,000
+They will be marked by themselves
+
+44
+00:02:03,000 --> 00:02:06,000
+and are thoughts for beginners
+
+45
+00:02:06,000 --> 00:02:09,000
+and also for those who would like
+
+46
+00:02:09,000 --> 00:02:12,000
+to become beginners.
+
+47
+00:02:12,000 --> 00:02:15,000
+Not to mention that we have
+
+48
+00:02:15,000 --> 00:02:18,000
+some experts who
+
+49
+00:02:18,000 --> 00:02:21,000
+talk about these things
+
+50
+00:02:21,000 --> 00:02:24,000
+in a very disconnected way.
+
+51
+00:02:24,000 --> 00:02:27,000
+We decided to invite them
+
+52
+00:02:27,000 --> 00:02:30,000
+as hosts of Zagon
+
+53
+00:02:30,000 --> 00:02:33,000
+Sara Vashini-Gašper.
+
+54
+00:02:33,000 --> 00:02:36,000
+Hi!
+
+55
+00:02:36,000 --> 00:02:39,000
+She joined us in one of the previous episodes
+
+56
+00:02:39,000 --> 00:02:42,000
+where we talked about talent.
+
+57
+00:02:42,000 --> 00:02:45,000
+It was a very well-prepared episode.
+
+58
+00:02:45,000 --> 00:02:48,000
+She also joined us as a co-host
+
+59
+00:02:48,000 --> 00:02:51,000
+in one of the episodes.
+
+60
+00:02:51,000 --> 00:02:54,000
+And now we will see how Sara
+
+61
+00:02:54,000 --> 00:02:57,000
+treats us.
+
+62
+00:02:57,000 --> 00:03:00,000
+I don't have any notes today
+
+63
+00:03:00,000 --> 00:03:03,000
+but we agreed on that.
+
+64
+00:03:06,000 --> 00:03:09,000
+I still don't understand
+
+65
+00:03:09,000 --> 00:03:12,000
+why I'm stealing this podcast for today.
+
+66
+00:03:12,000 --> 00:03:15,000
+But on the other hand,
+
+67
+00:03:15,000 --> 00:03:18,000
+I know he will be happy to talk
+
+68
+00:03:18,000 --> 00:03:21,000
+and not ask questions.
+
+69
+00:03:21,000 --> 00:03:24,000
+Greetings from my side.
+
+70
+00:03:24,000 --> 00:03:27,000
+For those who don't know yet,
+
+71
+00:03:27,000 --> 00:03:30,000
+I'm a tech recruiter
+
+72
+00:03:30,000 --> 00:03:33,000
+at the Slovenian and international markets.
+
+73
+00:03:33,000 --> 00:03:36,000
+I'm here today to protect the debate
+
+74
+00:03:36,000 --> 00:03:39,000
+on a fairly low level
+
+75
+00:03:39,000 --> 00:03:42,000
+and to provide all the information
+
+76
+00:03:42,000 --> 00:03:45,000
+that IT people need.
+
+77
+00:03:45,000 --> 00:03:48,000
+Not only those who want to program
+
+78
+00:03:48,000 --> 00:03:51,000
+but also those who would like
+
+79
+00:03:51,000 --> 00:03:54,000
+to decode some concepts.
+
+80
+00:03:54,000 --> 00:03:57,000
+I managed to invite Petar Kešet
+
+81
+00:03:57,000 --> 00:04:00,000
+in this episode.
+
+82
+00:04:00,000 --> 00:04:03,000
+I will start with my left.
+
+83
+00:04:03,000 --> 00:04:06,000
+Petar Kešet is a master engineer
+
+84
+00:04:06,000 --> 00:04:09,000
+and programmer.
+
+85
+00:04:09,000 --> 00:04:12,000
+He hacked supercomputers
+
+86
+00:04:12,000 --> 00:04:15,000
+in Australia in the 90s.
+
+87
+00:04:15,000 --> 00:04:18,000
+He is the leader of the Slovenian
+
+88
+00:04:18,000 --> 00:04:21,000
+national IT team at the Olympics
+
+89
+00:04:21,000 --> 00:04:24,000
+for 5 years.
+
+90
+00:04:24,000 --> 00:04:27,000
+He has been working at the Jožef Štefan Institute
+
+91
+00:04:27,000 --> 00:04:30,000
+for a long time.
+
+92
+00:04:30,000 --> 00:04:33,000
+He has a lot to do with video.
+
+93
+00:04:33,000 --> 00:04:36,000
+You know a lot about video.
+
+94
+00:04:36,000 --> 00:04:39,000
+You probably know everything
+
+95
+00:04:39,000 --> 00:04:42,000
+that can be done with video.
+
+96
+00:04:42,000 --> 00:04:45,000
+No, I haven't done a lot of things yet.
+
+97
+00:04:45,000 --> 00:04:48,000
+There is still a lot to do.
+
+98
+00:04:48,000 --> 00:04:51,000
+Petar is currently employed
+
+99
+00:04:51,000 --> 00:04:54,000
+as a lead data scientist
+
+100
+00:04:54,000 --> 00:04:57,000
+at the Http pool.
+
+101
+00:04:57,000 --> 00:05:00,000
+On my right is Dr. Mateu Špesek.
+
+102
+00:05:00,000 --> 00:05:03,000
+Those who go to FRI know him.
+
+103
+00:05:03,000 --> 00:05:06,000
+Those who don't know him
+
+104
+00:05:06,000 --> 00:05:09,000
+know him now.
+
+105
+00:05:09,000 --> 00:05:12,000
+He is a doctor and a lecturer at FRI.
+
+106
+00:05:12,000 --> 00:05:15,000
+He has his own laboratory
+
+107
+00:05:15,000 --> 00:05:18,000
+for computer graphics and multimedia.
+
+108
+00:05:18,000 --> 00:05:21,000
+I am a member of this laboratory.
+
+109
+00:05:21,000 --> 00:05:24,000
+You study and research
+
+110
+00:05:24,000 --> 00:05:27,000
+graphics and multimedia.
+
+111
+00:05:27,000 --> 00:05:30,000
+Your main focus is audio, music,
+
+112
+00:05:30,000 --> 00:05:33,000
+transcription, speech.
+
+113
+00:05:33,000 --> 00:05:36,000
+We have always been interested in audio.
+
+114
+00:05:36,000 --> 00:05:39,000
+We have dealt a lot with different types of audio.
+
+115
+00:05:39,000 --> 00:05:42,000
+From human singing to piano transcription
+
+116
+00:05:42,000 --> 00:05:45,000
+to data collection
+
+117
+00:05:45,000 --> 00:05:48,000
+from data
+
+118
+00:05:48,000 --> 00:05:51,000
+that is not studied
+
+119
+00:05:51,000 --> 00:05:54,000
+or recorded on such microphones.
+
+120
+00:05:55,000 --> 00:05:58,000
+In the 70s, when older guests
+
+121
+00:05:58,000 --> 00:06:01,000
+gather and sing human songs,
+
+122
+00:06:01,000 --> 00:06:04,000
+you can hear trumpets,
+
+123
+00:06:04,000 --> 00:06:07,000
+maybe a train or something else.
+
+124
+00:06:07,000 --> 00:06:10,000
+Especially what they do,
+
+125
+00:06:10,000 --> 00:06:13,000
+when they sing,
+
+126
+00:06:13,000 --> 00:06:16,000
+what type of singing it is.
+
+127
+00:06:16,000 --> 00:06:19,000
+These things connect us
+
+128
+00:06:19,000 --> 00:06:22,000
+with non-computer areas.
+
+129
+00:06:22,000 --> 00:06:25,000
+Today, I thought
+
+130
+00:06:25,000 --> 00:06:28,000
+that we will go a bit historical
+
+131
+00:06:28,000 --> 00:06:31,000
+and a bit current.
+
+132
+00:06:31,000 --> 00:06:34,000
+Nothing difficult.
+
+133
+00:06:34,000 --> 00:06:37,000
+We will try to explain
+
+134
+00:06:37,000 --> 00:06:40,000
+to the audience
+
+135
+00:06:40,000 --> 00:06:43,000
+what it means to be a programmer,
+
+136
+00:06:43,000 --> 00:06:46,000
+what is a day-to-day job in this industry,
+
+137
+00:06:46,000 --> 00:06:49,000
+what are the different profiles,
+
+138
+00:06:49,000 --> 00:06:52,000
+because I see that there is a lot of misunderstanding
+
+139
+00:06:52,000 --> 00:06:55,000
+about where to start.
+
+140
+00:06:55,000 --> 00:06:58,000
+If we start at the beginning
+
+141
+00:06:58,000 --> 00:07:01,000
+with some definitions,
+
+142
+00:07:01,000 --> 00:07:04,000
+if we first clarify
+
+143
+00:07:04,000 --> 00:07:07,000
+who is an IT person,
+
+144
+00:07:07,000 --> 00:07:10,000
+who is a programmer,
+
+145
+00:07:10,000 --> 00:07:13,000
+who is an engineer,
+
+146
+00:07:13,000 --> 00:07:16,000
+what are the differences between them.
+
+147
+00:07:16,000 --> 00:07:19,000
+You will start, Petar.
+
+148
+00:07:25,000 --> 00:07:28,000
+I would say that all these people
+
+149
+00:07:28,000 --> 00:07:31,000
+have something in common,
+
+150
+00:07:31,000 --> 00:07:34,000
+all these profiles.
+
+151
+00:07:34,000 --> 00:07:37,000
+This is a kind of
+
+152
+00:07:37,000 --> 00:07:40,000
+computational-analytical thinking.
+
+153
+00:07:40,000 --> 00:07:43,000
+It can be very synthetic.
+
+154
+00:07:47,000 --> 00:07:50,000
+An IT person is anyone
+
+155
+00:07:50,000 --> 00:07:53,000
+in the computational industry.
+
+156
+00:07:53,000 --> 00:07:56,000
+Programmers, I think,
+
+157
+00:07:56,000 --> 00:07:59,000
+should not be the first to explain
+
+158
+00:07:59,000 --> 00:08:02,000
+how they are represented in movies,
+
+159
+00:08:02,000 --> 00:08:05,000
+how a code is rolled,
+
+160
+00:08:05,000 --> 00:08:08,000
+etc.
+
+161
+00:08:08,000 --> 00:08:11,000
+What is an engineer?
+
+162
+00:08:12,000 --> 00:08:15,000
+What is the difference
+
+163
+00:08:15,000 --> 00:08:18,000
+between a programmer,
+
+164
+00:08:18,000 --> 00:08:21,000
+a developer, an engineer?
+
+165
+00:08:21,000 --> 00:08:24,000
+Are they all the same?
+
+166
+00:08:24,000 --> 00:08:27,000
+I have always seen it this way.
+
+167
+00:08:27,000 --> 00:08:30,000
+The difference between a developer and an engineer
+
+168
+00:08:30,000 --> 00:08:33,000
+is the definition I will use.
+
+169
+00:08:33,000 --> 00:08:36,000
+A developer is someone who uses
+
+170
+00:08:36,000 --> 00:08:39,000
+libraries, libraries that are already written,
+
+171
+00:08:39,000 --> 00:08:42,000
+and an engineer is someone
+
+172
+00:08:42,000 --> 00:08:45,000
+who works on those things
+
+173
+00:08:45,000 --> 00:08:48,000
+and goes deeper into it,
+
+174
+00:08:48,000 --> 00:08:51,000
+who has a deeper knowledge
+
+175
+00:08:51,000 --> 00:08:54,000
+of the computer itself,
+
+176
+00:08:54,000 --> 00:08:57,000
+if he knows it,
+
+177
+00:08:57,000 --> 00:09:00,000
+and creates it.
+
+178
+00:09:00,000 --> 00:09:03,000
+I can also say that
+
+179
+00:09:03,000 --> 00:09:06,000
+there are some differences.
+
+180
+00:09:06,000 --> 00:09:09,000
+An engineer is someone who uses
+
+181
+00:09:09,000 --> 00:09:12,000
+the libraries he receives
+
+182
+00:09:12,000 --> 00:09:15,000
+and creates something out of them.
+
+183
+00:09:15,000 --> 00:09:18,000
+He doesn't have a deep knowledge.
+
+184
+00:09:18,000 --> 00:09:21,000
+I think there is a similar analogy
+
+185
+00:09:21,000 --> 00:09:24,000
+with music.
+
+186
+00:09:24,000 --> 00:09:27,000
+You know how to play an instrument,
+
+187
+00:09:27,000 --> 00:09:30,000
+you know how to take notes,
+
+188
+00:09:30,000 --> 00:09:33,000
+and you can also write music.
+
+189
+00:09:33,000 --> 00:09:36,000
+An engineer is someone
+
+190
+00:09:36,000 --> 00:09:39,000
+you can trust to find a solution
+
+191
+00:09:39,000 --> 00:09:42,000
+to your problem,
+
+192
+00:09:42,000 --> 00:09:45,000
+even if you don't know
+
+193
+00:09:45,000 --> 00:09:48,000
+how to solve it.
+
+194
+00:09:48,000 --> 00:09:51,000
+But on the basis of all the previous
+
+195
+00:09:51,000 --> 00:09:54,000
+experiences and deep knowledge,
+
+196
+00:09:54,000 --> 00:09:57,000
+you somehow come up with a solution
+
+197
+00:09:57,000 --> 00:10:00,000
+that is satisfactory.
+
+198
+00:10:01,000 --> 00:10:04,000
+I see that there is a result
+
+199
+00:10:04,000 --> 00:10:07,000
+that I could use,
+
+200
+00:10:07,000 --> 00:10:10,000
+but more in the context of
+
+201
+00:10:10,000 --> 00:10:13,000
+being able to come up with a solution
+
+202
+00:10:13,000 --> 00:10:16,000
+that is relatively optimal in this context.
+
+203
+00:10:16,000 --> 00:10:19,000
+But what is the difference
+
+204
+00:10:19,000 --> 00:10:22,000
+between a senior developer
+
+205
+00:10:22,000 --> 00:10:25,000
+and a senior engineer?
+
+206
+00:10:25,000 --> 00:10:28,000
+We used to say that there is a difference
+
+207
+00:10:28,000 --> 00:10:31,000
+between an assistant and a student,
+
+208
+00:10:31,000 --> 00:10:34,000
+that the assistant has already googled
+
+209
+00:10:34,000 --> 00:10:37,000
+everything that has been googled.
+
+210
+00:10:37,000 --> 00:10:40,000
+Maybe in this context.
+
+211
+00:10:40,000 --> 00:10:43,000
+If we look at the polls on your group
+
+212
+00:10:43,000 --> 00:10:46,000
+on Facebook,
+
+213
+00:10:46,000 --> 00:10:49,000
+do we really know the difference
+
+214
+00:10:49,000 --> 00:10:52,000
+between a junior and a senior mid?
+
+215
+00:10:52,000 --> 00:10:55,000
+These are some signs that
+
+216
+00:10:55,000 --> 00:10:58,000
+they are not exactly the same.
+
+217
+00:10:58,000 --> 00:11:01,000
+For example, one of the reasons
+
+218
+00:11:01,000 --> 00:11:04,000
+is that they are on Google.
+
+219
+00:11:04,000 --> 00:11:07,000
+If we compare them with other companies,
+
+220
+00:11:07,000 --> 00:11:10,000
+they are completely unrelated.
+
+221
+00:11:10,000 --> 00:11:13,000
+I think that you are nothing more than
+
+222
+00:11:13,000 --> 00:11:16,000
+an engineer.
+
+223
+00:11:16,000 --> 00:11:19,000
+You don't care about the names,
+
+224
+00:11:19,000 --> 00:11:22,000
+titles and signs.
+
+225
+00:11:23,000 --> 00:11:26,000
+I haven't gone so far as to say
+
+226
+00:11:26,000 --> 00:11:29,000
+that you are a full challenger,
+
+227
+00:11:29,000 --> 00:11:32,000
+but depending on the organization...
+
+228
+00:11:32,000 --> 00:11:35,000
+If we are going to talk about
+
+229
+00:11:35,000 --> 00:11:38,000
+the fact that it was for beginners,
+
+230
+00:11:38,000 --> 00:11:41,000
+now that we have laid out the concepts,
+
+231
+00:11:41,000 --> 00:11:44,000
+titles are important in a way
+
+232
+00:11:44,000 --> 00:11:47,000
+because when you go to a meeting
+
+233
+00:11:47,000 --> 00:11:50,000
+and talk to other people,
+
+234
+00:11:50,000 --> 00:11:53,000
+these titles help you understand
+
+235
+00:11:53,000 --> 00:11:56,000
+where you are in the organization
+
+236
+00:11:56,000 --> 00:11:59,000
+and what your role is.
+
+237
+00:11:59,000 --> 00:12:02,000
+For certain titles, you know where you are.
+
+238
+00:12:02,000 --> 00:12:05,000
+If you are a senior product manager,
+
+239
+00:12:05,000 --> 00:12:08,000
+you probably have a bigger role
+
+240
+00:12:08,000 --> 00:12:11,000
+than a junior product manager.
+
+241
+00:12:11,000 --> 00:12:14,000
+Again, it depends on the industry,
+
+242
+00:12:14,000 --> 00:12:17,000
+size and so on.
+
+243
+00:12:17,000 --> 00:12:20,000
+It depends on the context,
+
+244
+00:12:20,000 --> 00:12:23,000
+the company itself,
+
+245
+00:12:23,000 --> 00:12:26,000
+how you fall into it.
+
+246
+00:12:26,000 --> 00:12:29,000
+But let's take a step back.
+
+247
+00:12:29,000 --> 00:12:32,000
+We are talking about people
+
+248
+00:12:32,000 --> 00:12:35,000
+who write code.
+
+249
+00:12:35,000 --> 00:12:38,000
+Engineers and developers
+
+250
+00:12:38,000 --> 00:12:41,000
+write code.
+
+251
+00:12:41,000 --> 00:12:44,000
+On the other hand,
+
+252
+00:12:44,000 --> 00:12:47,000
+there are also IT people.
+
+253
+00:12:47,000 --> 00:12:50,000
+I don't know.
+
+254
+00:12:50,000 --> 00:12:53,000
+I don't like all IT people.
+
+255
+00:12:53,000 --> 00:12:56,000
+Why?
+
+256
+00:12:56,000 --> 00:12:59,000
+In recent years,
+
+257
+00:12:59,000 --> 00:13:02,000
+technology has eaten up companies
+
+258
+00:13:02,000 --> 00:13:05,000
+and transformed them.
+
+259
+00:13:05,000 --> 00:13:08,000
+Some companies know this,
+
+260
+00:13:08,000 --> 00:13:11,000
+others don't.
+
+261
+00:13:11,000 --> 00:13:14,000
+They try to implement
+
+262
+00:13:14,000 --> 00:13:17,000
+some digital processes in the company.
+
+263
+00:13:17,000 --> 00:13:20,000
+These are different people
+
+264
+00:13:20,000 --> 00:13:23,000
+and you can't just say IT.
+
+265
+00:13:23,000 --> 00:13:26,000
+A lot of people hide this.
+
+266
+00:13:26,000 --> 00:13:29,000
+Even in large companies
+
+267
+00:13:29,000 --> 00:13:32,000
+that are not primarily technological oriented.
+
+268
+00:13:32,000 --> 00:13:35,000
+It can be the same person
+
+269
+00:13:35,000 --> 00:13:38,000
+who tries to implement processes
+
+270
+00:13:38,000 --> 00:13:41,000
+and digital transformation.
+
+271
+00:13:41,000 --> 00:13:44,000
+We've been talking about it a lot in the last two years.
+
+272
+00:13:44,000 --> 00:13:47,000
+It can be relatively dead on paper
+
+273
+00:13:47,000 --> 00:13:50,000
+because we don't have enough staff.
+
+274
+00:13:50,000 --> 00:13:53,000
+What is changing?
+
+275
+00:13:53,000 --> 00:13:56,000
+If we look back 20-30 years,
+
+276
+00:13:56,000 --> 00:13:59,000
+the problems are changing very quickly.
+
+277
+00:13:59,000 --> 00:14:02,000
+You can still study,
+
+278
+00:14:02,000 --> 00:14:05,000
+but you go to high school.
+
+279
+00:14:05,000 --> 00:14:08,000
+You are a supporter of IT equipment
+
+280
+00:14:08,000 --> 00:14:11,000
+and you can also be a supporter
+
+281
+00:14:11,000 --> 00:14:14,000
+of IT software equipment.
+
+282
+00:14:14,000 --> 00:14:17,000
+If you look at it from a different perspective,
+
+283
+00:14:17,000 --> 00:14:20,000
+yes, sometimes they hide,
+
+284
+00:14:20,000 --> 00:14:23,000
+but it seems to me
+
+285
+00:14:23,000 --> 00:14:26,000
+that they hide quite often
+
+286
+00:14:26,000 --> 00:14:29,000
+because we are so old
+
+287
+00:14:29,000 --> 00:14:32,000
+and we don't know much about digital writing.
+
+288
+00:14:32,000 --> 00:14:35,000
+But someone who is starting today
+
+289
+00:14:35,000 --> 00:14:38,000
+and is 15 years old
+
+290
+00:14:38,000 --> 00:14:41,000
+can focus either on IT equipment
+
+291
+00:14:41,000 --> 00:14:44,000
+or on digital writing.
+
+292
+00:14:44,000 --> 00:14:47,000
+Or not.
+
+293
+00:14:47,000 --> 00:14:50,000
+I would say that
+
+294
+00:14:50,000 --> 00:14:53,000
+my experience is different.
+
+295
+00:14:53,000 --> 00:14:56,000
+We often say,
+
+296
+00:14:56,000 --> 00:14:59,000
+when you have a guest
+
+297
+00:14:59,000 --> 00:15:02,000
+that you don't know much about.
+
+298
+00:15:02,000 --> 00:15:05,000
+Digital writing is a part of the IT world.
+
+299
+00:15:05,000 --> 00:15:08,000
+Over time,
+
+300
+00:15:08,000 --> 00:15:11,000
+you learn a little bit about everything.
+
+301
+00:15:11,000 --> 00:15:14,000
+You can specialize in something
+
+302
+00:15:14,000 --> 00:15:17,000
+or you can see better in something.
+
+303
+00:15:17,000 --> 00:15:20,000
+It is also typical
+
+304
+00:15:20,000 --> 00:15:23,000
+when it comes to maintaining equipment.
+
+305
+00:15:23,000 --> 00:15:26,000
+You need to know a lot about the software
+
+306
+00:15:26,000 --> 00:15:29,000
+because sometimes you need to download
+
+307
+00:15:29,000 --> 00:15:32,000
+some software to see
+
+308
+00:15:32,000 --> 00:15:35,000
+if it is working properly.
+
+309
+00:15:39,000 --> 00:15:42,000
+When do you decide?
+
+310
+00:15:47,000 --> 00:15:50,000
+I would say
+
+311
+00:15:50,000 --> 00:15:53,000
+that it is best to try new things.
+
+312
+00:15:54,000 --> 00:15:57,000
+Over time,
+
+313
+00:15:57,000 --> 00:16:00,000
+there is also a key moment.
+
+314
+00:16:00,000 --> 00:16:03,000
+You come into an environment
+
+315
+00:16:03,000 --> 00:16:06,000
+where you have to offer
+
+316
+00:16:06,000 --> 00:16:09,000
+a hardware challenge.
+
+317
+00:16:13,000 --> 00:16:16,000
+You like it and you deal with it.
+
+318
+00:16:16,000 --> 00:16:19,000
+I would not say
+
+319
+00:16:19,000 --> 00:16:22,000
+that it is better or worse than others.
+
+320
+00:16:22,000 --> 00:16:25,000
+I think that everything is fine.
+
+321
+00:16:25,000 --> 00:16:28,000
+I am also a hardware engineer.
+
+322
+00:16:28,000 --> 00:16:31,000
+I agree with that.
+
+323
+00:16:31,000 --> 00:16:34,000
+In this context,
+
+324
+00:16:34,000 --> 00:16:37,000
+it is not that you choose,
+
+325
+00:16:37,000 --> 00:16:40,000
+but experience chooses you.
+
+326
+00:16:40,000 --> 00:16:43,000
+There is a project
+
+327
+00:16:43,000 --> 00:16:46,000
+that is so specific that you can say
+
+328
+00:16:46,000 --> 00:16:49,000
+that you are a high-value expert
+
+329
+00:16:49,000 --> 00:16:52,000
+and there are 5 of us in Slovenia.
+
+330
+00:16:52,000 --> 00:16:55,000
+Then there is another project
+
+331
+00:16:55,000 --> 00:16:58,000
+and you lost the previous knowledge
+
+332
+00:16:58,000 --> 00:17:01,000
+and you have to change it.
+
+333
+00:17:01,000 --> 00:17:04,000
+That is why it is so much better in something else.
+
+334
+00:17:04,000 --> 00:17:07,000
+Every project is so challenging.
+
+335
+00:17:07,000 --> 00:17:10,000
+I think that is the frustration
+
+336
+00:17:10,000 --> 00:17:13,000
+that makes us engineers.
+
+337
+00:17:13,000 --> 00:17:16,000
+You are born an engineer.
+
+338
+00:17:16,000 --> 00:17:19,000
+You are always frustrated
+
+339
+00:17:19,000 --> 00:17:22,000
+and you want to solve things.
+
+340
+00:17:22,000 --> 00:17:25,000
+No one said that programming,
+
+341
+00:17:25,000 --> 00:17:28,000
+development of hardware,
+
+342
+00:17:28,000 --> 00:17:31,000
+development of hardware is a big gift.
+
+343
+00:17:31,000 --> 00:17:34,000
+It is black magic.
+
+344
+00:17:34,000 --> 00:17:37,000
+We do not understand how it works.
+
+345
+00:17:37,000 --> 00:17:40,000
+It is very complicated
+
+346
+00:17:40,000 --> 00:17:43,000
+and we are very frustrated,
+
+347
+00:17:43,000 --> 00:17:46,000
+and we do not want to experience it.
+
+348
+00:17:46,000 --> 00:17:49,000
+It is very esoteric.
+
+349
+00:17:49,000 --> 00:17:52,000
+I think that
+
+350
+00:17:52,000 --> 00:17:55,000
+you will see that
+
+351
+00:17:55,000 --> 00:17:58,000
+when you are recruiting.
+
+352
+00:17:58,000 --> 00:18:01,000
+When you are looking for talent,
+
+353
+00:18:01,000 --> 00:18:04,000
+when you are looking for people
+
+354
+00:18:04,000 --> 00:18:07,000
+with whom you want to work,
+
+355
+00:18:07,000 --> 00:18:10,000
+how do you recognize
+
+356
+00:18:10,000 --> 00:18:13,000
+if persistence is something
+
+357
+00:18:13,000 --> 00:18:16,000
+that can be achieved,
+
+358
+00:18:16,000 --> 00:18:19,000
+if you have to be highly motivated.
+
+359
+00:18:19,000 --> 00:18:22,000
+Can you learn that?
+
+360
+00:18:22,000 --> 00:18:25,000
+Can you learn to be persistent?
+
+361
+00:18:25,000 --> 00:18:28,000
+Can you learn how to pick apples
+
+362
+00:18:28,000 --> 00:18:31,000
+when you go to eat together?
+
+363
+00:18:31,000 --> 00:18:34,000
+Part of that is the environment.
+
+364
+00:18:34,000 --> 00:18:37,000
+If you are in an environment
+
+365
+00:18:37,000 --> 00:18:40,000
+where you can pick apples,
+
+366
+00:18:40,000 --> 00:18:43,000
+I think that everything comes
+
+367
+00:18:43,000 --> 00:18:46,000
+from personal motivation.
+
+368
+00:18:46,000 --> 00:18:49,000
+If you have knowledge,
+
+369
+00:18:49,000 --> 00:18:52,000
+no problem.
+
+370
+00:18:52,000 --> 00:18:55,000
+If you have enough motivation,
+
+371
+00:18:55,000 --> 00:18:58,000
+you will achieve it.
+
+372
+00:18:58,000 --> 00:19:01,000
+Everything comes from personal motivation
+
+373
+00:19:01,000 --> 00:19:04,000
+and that is a big challenge.
+
+374
+00:19:04,000 --> 00:19:07,000
+Maybe you are born as an engineer
+
+375
+00:19:07,000 --> 00:19:10,000
+and you have it implicitly in you
+
+376
+00:19:10,000 --> 00:19:13,000
+that you want to overcome that frustration.
+
+377
+00:19:13,000 --> 00:19:16,000
+It is similar to going to the gym
+
+378
+00:19:16,000 --> 00:19:19,000
+or fitness.
+
+379
+00:19:19,000 --> 00:19:22,000
+You decide that you will lose weight
+
+380
+00:19:22,000 --> 00:19:25,000
+because you have 50 kilos too much.
+
+381
+00:19:25,000 --> 00:19:28,000
+That is why you need a lot of motivation
+
+382
+00:19:28,000 --> 00:19:31,000
+and everything else comes with time.
+
+383
+00:19:31,000 --> 00:19:34,000
+Is your metabolism like that or not?
+
+384
+00:19:34,000 --> 00:19:37,000
+Those are things that affect you.
+
+385
+00:19:37,000 --> 00:19:40,000
+There are some coefficients in that path.
+
+386
+00:19:40,000 --> 00:19:43,000
+If you have motivation,
+
+387
+00:19:43,000 --> 00:19:46,000
+you can achieve anything.
+
+388
+00:19:46,000 --> 00:19:49,000
+It is the same for all potential
+
+389
+00:19:49,000 --> 00:19:52,000
+future programmers and juniors.
+
+390
+00:19:52,000 --> 00:19:55,000
+If you have a problem,
+
+391
+00:19:55,000 --> 00:19:58,000
+if you use one week instead of one hour,
+
+392
+00:19:58,000 --> 00:20:01,000
+it becomes easier for you.
+
+393
+00:20:01,000 --> 00:20:04,000
+Much better.
+
+394
+00:20:04,000 --> 00:20:07,000
+Most of my generation doesn't program anymore.
+
+395
+00:20:11,000 --> 00:20:14,000
+I was in the business
+
+396
+00:20:14,000 --> 00:20:17,000
+and I am back now.
+
+397
+00:20:17,000 --> 00:20:20,000
+I can program now.
+
+398
+00:20:20,000 --> 00:20:23,000
+I feel rewarded with it.
+
+399
+00:20:23,000 --> 00:20:26,000
+I really enjoy it.
+
+400
+00:20:26,000 --> 00:20:29,000
+You mentioned how to recognize
+
+401
+00:20:29,000 --> 00:20:32,000
+who is what.
+
+402
+00:20:32,000 --> 00:20:35,000
+You talk to a person about a problem
+
+403
+00:20:35,000 --> 00:20:38,000
+and then you see how he deals with it.
+
+404
+00:20:38,000 --> 00:20:41,000
+That is what it is about.
+
+405
+00:20:41,000 --> 00:20:44,000
+Do you have a person in your class
+
+406
+00:20:44,000 --> 00:20:47,000
+who talks about problems
+
+407
+00:20:47,000 --> 00:20:50,000
+or is it a special search
+
+408
+00:20:50,000 --> 00:20:53,000
+to find the answer to a complex question?
+
+409
+00:20:53,000 --> 00:20:56,000
+I can ask you one more question.
+
+410
+00:20:56,000 --> 00:20:59,000
+I hope we all agree.
+
+411
+00:20:59,000 --> 00:21:02,000
+It is about solving problems.
+
+412
+00:21:02,000 --> 00:21:05,000
+Difficult problems.
+
+413
+00:21:05,000 --> 00:21:08,000
+You will solve them difficultly.
+
+414
+00:21:08,000 --> 00:21:11,000
+There is a lot of work involved.
+
+415
+00:21:11,000 --> 00:21:14,000
+Do you ask questions?
+
+416
+00:21:14,000 --> 00:21:17,000
+There is a lot of trial and error.
+
+417
+00:21:17,000 --> 00:21:20,000
+Let's go back to music.
+
+418
+00:21:20,000 --> 00:21:23,000
+How do you start improvising in music?
+
+419
+00:21:23,000 --> 00:21:26,000
+That is a typical problem.
+
+420
+00:21:26,000 --> 00:21:29,000
+There are people who graduated from an academy
+
+421
+00:21:29,000 --> 00:21:32,000
+who are great musicians
+
+422
+00:21:32,000 --> 00:21:35,000
+and know how to create music.
+
+423
+00:21:35,000 --> 00:21:38,000
+The qualitative leap in the field
+
+424
+00:21:38,000 --> 00:21:41,000
+of improvising is one thing
+
+425
+00:21:41,000 --> 00:21:44,000
+that you have to try.
+
+426
+00:21:44,000 --> 00:21:47,000
+On the other hand,
+
+427
+00:21:47,000 --> 00:21:50,000
+everything you have done
+
+428
+00:21:50,000 --> 00:21:53,000
+in the past
+
+429
+00:21:53,000 --> 00:21:56,000
+always takes away the influence
+
+430
+00:21:56,000 --> 00:21:59,000
+of previous musicians.
+
+431
+00:21:59,000 --> 00:22:02,000
+You have already learned a lot
+
+432
+00:22:02,000 --> 00:22:05,000
+and now you are correcting it.
+
+433
+00:22:05,000 --> 00:22:08,000
+Every project has to be different.
+
+434
+00:22:08,000 --> 00:22:11,000
+If you don't do projects
+
+435
+00:22:11,000 --> 00:22:14,000
+that are too simple,
+
+436
+00:22:14,000 --> 00:22:17,000
+you have reached the optimum
+
+437
+00:22:17,000 --> 00:22:20,000
+and nothing has changed in your life.
+
+438
+00:22:20,000 --> 00:22:23,000
+You have to have another project like that.
+
+439
+00:22:23,000 --> 00:22:26,000
+Every project has to be so complex
+
+440
+00:22:26,000 --> 00:22:29,000
+that in the end you see that you grow from it.
+
+441
+00:22:29,000 --> 00:22:32,000
+Do you have to finish them?
+
+442
+00:22:32,000 --> 00:22:35,000
+Unfinished projects are an experience.
+
+443
+00:22:35,000 --> 00:22:38,000
+When you realize that you have a lot of unfinished projects,
+
+444
+00:22:38,000 --> 00:22:41,000
+you have to ask yourself why they are unfinished.
+
+445
+00:22:41,000 --> 00:22:44,000
+What does solving problems mean
+
+446
+00:22:44,000 --> 00:22:47,000
+in everyday life?
+
+447
+00:22:47,000 --> 00:22:50,000
+How do you solve them?
+
+448
+00:22:50,000 --> 00:22:53,000
+What kind of problems do you solve
+
+449
+00:22:53,000 --> 00:22:56,000
+as a programmer and how do you solve them?
+
+450
+00:22:56,000 --> 00:22:59,000
+What kind of problems do you get
+
+451
+00:22:59,000 --> 00:23:02,000
+and how do you solve them?
+
+452
+00:23:02,000 --> 00:23:05,000
+What does this fight look like every day?
+
+453
+00:23:05,000 --> 00:23:08,000
+Where do you get problems?
+
+454
+00:23:08,000 --> 00:23:11,000
+You have enough problems in your life.
+
+455
+00:23:11,000 --> 00:23:14,000
+If you start with some automation,
+
+456
+00:23:14,000 --> 00:23:17,000
+if you are preparing to do something repetitive,
+
+457
+00:23:17,000 --> 00:23:20,000
+you can get to it quickly.
+
+458
+00:23:20,000 --> 00:23:23,000
+I have a problem that I would like to solve
+
+459
+00:23:23,000 --> 00:23:26,000
+in a programmer way.
+
+460
+00:23:26,000 --> 00:23:29,000
+You can solve it on a blackboard.
+
+461
+00:23:29,000 --> 00:23:32,000
+It is great that you can solve it on a blackboard
+
+462
+00:23:32,000 --> 00:23:35,000
+and it is great that you can talk to other people
+
+463
+00:23:35,000 --> 00:23:38,000
+who are not necessarily seniors.
+
+464
+00:23:38,000 --> 00:23:41,000
+Sometimes you just have to put things out of yourself
+
+465
+00:23:41,000 --> 00:23:44,000
+in a way that you can easily explain
+
+466
+00:23:44,000 --> 00:23:47,000
+what you are solving.
+
+467
+00:23:47,000 --> 00:23:50,000
+Sometimes you have to ask yourself if you are not solving
+
+468
+00:23:50,000 --> 00:23:53,000
+something that is a part of the solution
+
+469
+00:23:53,000 --> 00:23:56,000
+that you don't know how to solve.
+
+470
+00:23:56,000 --> 00:23:59,000
+A lot of people come to me and say
+
+471
+00:23:59,000 --> 00:24:02,000
+that they have a problem with a framework.
+
+472
+00:24:02,000 --> 00:24:05,000
+You can tell them that their problem is a third one.
+
+473
+00:24:05,000 --> 00:24:08,000
+They are explaining a part of the solution.
+
+474
+00:24:08,000 --> 00:24:11,000
+You can always take that step back.
+
+475
+00:24:11,000 --> 00:24:14,000
+A blackboard is great because you can take that step
+
+476
+00:24:14,000 --> 00:24:17,000
+back in a physical form.
+
+477
+00:24:17,000 --> 00:24:20,000
+A while ago I got a question from a student
+
+478
+00:24:20,000 --> 00:24:23,000
+why do we have to program on paper?
+
+479
+00:24:23,000 --> 00:24:26,000
+Why do we have to write code on paper?
+
+480
+00:24:26,000 --> 00:24:29,000
+As far as I can see,
+
+481
+00:24:29,000 --> 00:24:32,000
+you just try to explain what the problem is
+
+482
+00:24:32,000 --> 00:24:35,000
+when you write something on paper
+
+483
+00:24:35,000 --> 00:24:38,000
+or on a blackboard.
+
+484
+00:24:38,000 --> 00:24:41,000
+Do I really understand what the problem is?
+
+485
+00:24:41,000 --> 00:24:44,000
+Is it clear to me what I have to do?
+
+486
+00:24:44,000 --> 00:24:47,000
+Do I need more information?
+
+487
+00:24:47,000 --> 00:24:50,000
+What is it that I don't know?
+
+488
+00:24:50,000 --> 00:24:53,000
+What is it that I know?
+
+489
+00:24:53,000 --> 00:24:56,000
+What is it that I don't know?
+
+490
+00:24:56,000 --> 00:24:59,000
+What are the things that I have to get rid of?
+
+491
+00:24:59,000 --> 00:25:02,000
+What are the limits?
+
+492
+00:25:00,000 --> 00:25:04,000
+I would like to start talking about drafts in the problem.
+
+493
+00:25:04,000 --> 00:25:09,000
+As I said, there are hundreds of problems.
+
+494
+00:25:09,000 --> 00:25:14,000
+A good way is to use tools.
+
+495
+00:25:14,000 --> 00:25:17,000
+For example, if you play video games,
+
+496
+00:25:17,000 --> 00:25:20,000
+today you have different tools,
+
+497
+00:25:20,000 --> 00:25:23,000
+studio for making plugins,
+
+498
+00:25:23,000 --> 00:25:26,000
+or if you create music,
+
+499
+00:25:26,000 --> 00:25:30,000
+you will try to change some settings,
+
+500
+00:25:30,000 --> 00:25:33,000
+or find some scripts.
+
+501
+00:25:33,000 --> 00:25:36,000
+Wherever you use a software,
+
+502
+00:25:36,000 --> 00:25:39,000
+you try to understand it,
+
+503
+00:25:39,000 --> 00:25:42,000
+then you try to break it,
+
+504
+00:25:42,000 --> 00:25:45,000
+or you try to prepare how it works,
+
+505
+00:25:45,000 --> 00:25:48,000
+or you try to automate it,
+
+506
+00:25:48,000 --> 00:25:51,000
+or you try to make an app for the phone,
+
+507
+00:25:51,000 --> 00:25:54,000
+or an app for VR,
+
+508
+00:25:54,000 --> 00:25:57,000
+and then you go back.
+
+509
+00:25:57,000 --> 00:26:00,000
+As an engineer, you try to find problems,
+
+510
+00:26:00,000 --> 00:26:03,000
+and you try to solve them yourself.
+
+511
+00:26:03,000 --> 00:26:06,000
+Or on YouTube.
+
+512
+00:26:06,000 --> 00:26:09,000
+If we talk about day-to-day,
+
+513
+00:26:09,000 --> 00:26:12,000
+usually companies look for programmers,
+
+514
+00:26:12,000 --> 00:26:15,000
+that's why people come to the company,
+
+515
+00:26:15,000 --> 00:26:18,000
+and usually, if they are big companies,
+
+516
+00:26:18,000 --> 00:26:21,000
+if they are juniors,
+
+517
+00:26:22,000 --> 00:26:25,000
+usually they are part of a team,
+
+518
+00:26:25,000 --> 00:26:28,000
+usually they are more experienced people,
+
+519
+00:26:28,000 --> 00:26:31,000
+who define some tasks,
+
+520
+00:26:31,000 --> 00:26:34,000
+and then it depends on the company.
+
+521
+00:26:34,000 --> 00:26:37,000
+If you work in a satellite company,
+
+522
+00:26:37,000 --> 00:26:40,000
+you will probably work on satellites.
+
+523
+00:26:40,000 --> 00:26:43,000
+As a data scientist,
+
+524
+00:26:43,000 --> 00:26:46,000
+what problems do you solve every day,
+
+525
+00:26:46,000 --> 00:26:49,000
+and how do you solve them?
+
+526
+00:26:49,000 --> 00:26:52,000
+I always deal with the problem
+
+527
+00:26:52,000 --> 00:26:55,000
+that I have too little data.
+
+528
+00:26:55,000 --> 00:26:58,000
+I always want to have more,
+
+529
+00:26:58,000 --> 00:27:01,000
+but I don't have to solve that problem.
+
+530
+00:27:01,000 --> 00:27:04,000
+There are problems that we solve,
+
+531
+00:27:04,000 --> 00:27:07,000
+and from somewhere,
+
+532
+00:27:07,000 --> 00:27:10,000
+our art begins.
+
+533
+00:27:10,000 --> 00:27:13,000
+We call it constraints.
+
+534
+00:27:13,000 --> 00:27:16,000
+If you want to write poetry,
+
+535
+00:27:16,000 --> 00:27:19,000
+it's easier to write prose,
+
+536
+00:27:19,000 --> 00:27:22,000
+because you don't have a structure,
+
+537
+00:27:22,000 --> 00:27:25,000
+but if you want to write poetry,
+
+538
+00:27:25,000 --> 00:27:28,000
+you need to have a structure,
+
+539
+00:27:28,000 --> 00:27:31,000
+and you have to, and so on.
+
+540
+00:27:31,000 --> 00:27:34,000
+The most interesting thing is that
+
+541
+00:27:34,000 --> 00:27:37,000
+in the end, prose can be more pronounced.
+
+542
+00:27:37,000 --> 00:27:40,000
+This part of my structure,
+
+543
+00:27:40,000 --> 00:27:43,000
+where I am limited,
+
+544
+00:27:43,000 --> 00:27:46,000
+means that I have too little data.
+
+545
+00:27:46,000 --> 00:27:49,000
+Let's start with that.
+
+546
+00:27:49,000 --> 00:27:52,000
+Let's try to take too little data,
+
+547
+00:27:52,000 --> 00:27:55,000
+and put it back together
+
+548
+00:27:55,000 --> 00:27:58,000
+on the basis of some models,
+
+549
+00:27:58,000 --> 00:28:01,000
+as it seems to us.
+
+550
+00:28:01,000 --> 00:28:04,000
+What are the processes
+
+551
+00:28:04,000 --> 00:28:07,000
+that generate too little data?
+
+552
+00:28:07,000 --> 00:28:10,000
+What is the most likely thing
+
+553
+00:28:10,000 --> 00:28:13,000
+to happen in the future?
+
+554
+00:28:13,000 --> 00:28:16,000
+Then we can make some business decisions.
+
+555
+00:28:16,000 --> 00:28:19,000
+Let's transfer some money from some accounts
+
+556
+00:28:19,000 --> 00:28:22,000
+to some other accounts.
+
+557
+00:28:22,000 --> 00:28:25,000
+OK, great.
+
+558
+00:28:25,000 --> 00:28:28,000
+This connection with non-problematic,
+
+559
+00:28:28,000 --> 00:28:31,000
+real life,
+
+560
+00:28:31,000 --> 00:28:34,000
+what is the result of such work?
+
+561
+00:28:34,000 --> 00:28:37,000
+Let's go back in history a bit.
+
+562
+00:28:37,000 --> 00:28:40,000
+I will ask you again.
+
+563
+00:28:40,000 --> 00:28:43,000
+Who were the first programmers?
+
+564
+00:28:43,000 --> 00:28:46,000
+How did they program?
+
+565
+00:28:46,000 --> 00:28:49,000
+How did it start?
+
+566
+00:28:49,000 --> 00:28:52,000
+I believe it didn't start on Windows 95.
+
+567
+00:28:52,000 --> 00:28:55,000
+What was the beginning like?
+
+568
+00:28:55,000 --> 00:28:58,000
+How did it start?
+
+569
+00:28:59,000 --> 00:29:02,000
+I first came across these personal computers.
+
+570
+00:29:02,000 --> 00:29:05,000
+No, they weren't personal.
+
+571
+00:29:05,000 --> 00:29:08,000
+They weren't computers.
+
+572
+00:29:08,000 --> 00:29:11,000
+They were Commodores and Spectrums.
+
+573
+00:29:11,000 --> 00:29:14,000
+In 1983-1984,
+
+574
+00:29:14,000 --> 00:29:17,000
+my colleagues started getting
+
+575
+00:29:17,000 --> 00:29:20,000
+Spectrums,
+
+576
+00:29:20,000 --> 00:29:23,000
+and then they started playing games.
+
+577
+00:29:23,000 --> 00:29:26,000
+I saw them a couple of times,
+
+578
+00:29:27,000 --> 00:29:30,000
+and they asked me at home,
+
+579
+00:29:30,000 --> 00:29:33,000
+if I was interested,
+
+580
+00:29:33,000 --> 00:29:36,000
+and I told them that I wasn't.
+
+581
+00:29:36,000 --> 00:29:39,000
+My mother was working on some statistics,
+
+582
+00:29:39,000 --> 00:29:42,000
+and they had a programming course.
+
+583
+00:29:42,000 --> 00:29:45,000
+My mother came home
+
+584
+00:29:45,000 --> 00:29:48,000
+with a basic script,
+
+585
+00:29:48,000 --> 00:29:51,000
+translated into Slovenian,
+
+586
+00:29:51,000 --> 00:29:54,000
+with 16 photocopies.
+
+587
+00:29:54,000 --> 00:29:57,000
+I started getting lessons,
+
+588
+00:29:57,000 --> 00:30:00,000
+and I saw that it was possible to program.
+
+589
+00:30:00,000 --> 00:30:03,000
+I could say something to a computer,
+
+590
+00:30:03,000 --> 00:30:06,000
+and it would do something for me.
+
+591
+00:30:06,000 --> 00:30:09,000
+I was fascinated by it.
+
+592
+00:30:09,000 --> 00:30:12,000
+When I went to a party with my family,
+
+593
+00:30:12,000 --> 00:30:15,000
+if I had a computer,
+
+594
+00:30:15,000 --> 00:30:18,000
+I would plug it into the TV,
+
+595
+00:30:18,000 --> 00:30:21,000
+and I would play a game.
+
+596
+00:30:21,000 --> 00:30:24,000
+That was my beginning.
+
+597
+00:30:24,000 --> 00:30:27,000
+It was a basic,
+
+598
+00:30:27,000 --> 00:30:30,000
+where you wrote 10,
+
+599
+00:30:30,000 --> 00:30:33,000
+print Peter, and 20 go to 10,
+
+600
+00:30:33,000 --> 00:30:36,000
+and then print Peter was printed
+
+601
+00:30:36,000 --> 00:30:39,000
+across the screen.
+
+602
+00:30:39,000 --> 00:30:42,000
+Those were the beginnings.
+
+603
+00:30:42,000 --> 00:30:45,000
+Then there was the 8th grade.
+
+604
+00:30:45,000 --> 00:30:48,000
+I think it was the 3rd or 4th grade.
+
+605
+00:30:48,000 --> 00:30:51,000
+We got our first teacher at school,
+
+606
+00:30:51,000 --> 00:30:54,000
+with a partner,
+
+607
+00:30:54,000 --> 00:30:57,000
+and that's how I met Pascal.
+
+608
+00:30:57,000 --> 00:31:00,000
+Then I was at Pascal for many years.
+
+609
+00:31:00,000 --> 00:31:03,000
+Partners are not the same as computers.
+
+610
+00:31:03,000 --> 00:31:06,000
+You should say that for younger listeners.
+
+611
+00:31:06,000 --> 00:31:09,000
+Partners are not partners,
+
+612
+00:31:09,000 --> 00:31:12,000
+in the context of cooperation.
+
+613
+00:31:12,000 --> 00:31:15,000
+What about you?
+
+614
+00:31:15,000 --> 00:31:18,000
+The first computer I got,
+
+615
+00:31:18,000 --> 00:31:21,000
+when I was younger,
+
+616
+00:31:21,000 --> 00:31:24,000
+was a 286.
+
+617
+00:31:24,000 --> 00:31:27,000
+It didn't even have a black and white screen.
+
+618
+00:31:27,000 --> 00:31:30,000
+It had an orange screen.
+
+619
+00:31:30,000 --> 00:31:33,000
+That was my first contact.
+
+620
+00:31:33,000 --> 00:31:36,000
+There were a lot of players,
+
+621
+00:31:36,000 --> 00:31:39,000
+and I played a lot of games.
+
+622
+00:31:39,000 --> 00:31:42,000
+That was my first experience.
+
+623
+00:31:43,000 --> 00:31:46,000
+Later on, I worked with Pascal.
+
+624
+00:31:46,000 --> 00:31:49,000
+Borland, Toru, Pascal...
+
+625
+00:31:49,000 --> 00:31:52,000
+There are a lot of people
+
+626
+00:31:52,000 --> 00:31:55,000
+who know what's going on.
+
+627
+00:31:55,000 --> 00:31:58,000
+I worked with them.
+
+628
+00:31:58,000 --> 00:32:01,000
+Before that, I worked a lot
+
+629
+00:32:01,000 --> 00:32:04,000
+on the Internet.
+
+630
+00:32:04,000 --> 00:32:07,000
+I worked on the first page
+
+631
+00:32:07,000 --> 00:32:10,000
+of Internet Explorer 4.
+
+632
+00:32:10,000 --> 00:32:13,000
+Then I started learning HTML,
+
+633
+00:32:13,000 --> 00:32:16,000
+from some monitors.
+
+634
+00:32:16,000 --> 00:32:19,000
+I spent my whole career
+
+635
+00:32:19,000 --> 00:32:22,000
+on the Internet.
+
+636
+00:32:22,000 --> 00:32:25,000
+The more the Internet developed,
+
+637
+00:32:25,000 --> 00:32:28,000
+the more I understood the platform.
+
+638
+00:32:28,000 --> 00:32:31,000
+I worked a lot with it.
+
+639
+00:32:31,000 --> 00:32:34,000
+At the beginning of my career,
+
+640
+00:32:34,000 --> 00:32:37,000
+I worked a lot with Flash.
+
+641
+00:32:37,000 --> 00:32:40,000
+Some of you may know it.
+
+642
+00:32:40,000 --> 00:32:43,000
+It was a tool
+
+643
+00:32:43,000 --> 00:32:46,000
+where you had a timeline
+
+644
+00:32:46,000 --> 00:32:49,000
+with a video editor,
+
+645
+00:32:49,000 --> 00:32:52,000
+and you could make animations.
+
+646
+00:32:52,000 --> 00:32:55,000
+You said, at this point,
+
+647
+00:32:55,000 --> 00:32:58,000
+the square will be here,
+
+648
+00:32:58,000 --> 00:33:01,000
+and when the time comes,
+
+649
+00:33:01,000 --> 00:33:04,000
+it will be here.
+
+650
+00:33:04,000 --> 00:33:07,000
+It was visual,
+
+651
+00:33:07,000 --> 00:33:10,000
+and you could make animations.
+
+652
+00:33:10,000 --> 00:33:13,000
+It was interesting,
+
+653
+00:33:13,000 --> 00:33:16,000
+because you could click,
+
+654
+00:33:16,000 --> 00:33:19,000
+and the editor opened,
+
+655
+00:33:19,000 --> 00:33:22,000
+and you could write code inside.
+
+656
+00:33:22,000 --> 00:33:25,000
+It surprised me.
+
+657
+00:33:25,000 --> 00:33:28,000
+When I came to high school,
+
+658
+00:33:28,000 --> 00:33:31,000
+I expected to work on something more modern,
+
+659
+00:33:31,000 --> 00:33:34,000
+so I started working with Pascal.
+
+660
+00:33:34,000 --> 00:33:37,000
+I had a pain in my back,
+
+661
+00:33:37,000 --> 00:33:40,000
+because I knew a bit about C,
+
+662
+00:33:40,000 --> 00:33:43,000
+so I could work with Pascal.
+
+663
+00:33:43,000 --> 00:33:46,000
+I learned algorithms in high school
+
+664
+00:33:46,000 --> 00:33:49,000
+with Borland Pascal.
+
+665
+00:33:49,000 --> 00:33:52,000
+I'm a bit younger,
+
+666
+00:33:52,000 --> 00:33:55,000
+but I'm obsessed with old computers,
+
+667
+00:33:55,000 --> 00:33:58,000
+so I collect old computers.
+
+668
+00:33:58,000 --> 00:34:01,000
+Old computers...
+
+669
+00:34:01,000 --> 00:34:04,000
+It's hard to explain,
+
+670
+00:34:04,000 --> 00:34:07,000
+maybe harder than drugs in your family.
+
+671
+00:34:07,000 --> 00:34:10,000
+Why do you collect old stuff?
+
+672
+00:34:10,000 --> 00:34:13,000
+I started with 386,
+
+673
+00:34:13,000 --> 00:34:16,000
+Windows 13,
+
+674
+00:34:16,000 --> 00:34:19,000
+then Windows 95 and 98.
+
+675
+00:34:19,000 --> 00:34:22,000
+I started programming in Logo.
+
+676
+00:34:22,000 --> 00:34:25,000
+It's a programming language
+
+677
+00:34:25,000 --> 00:34:28,000
+where you go through a two-dimensional envelope
+
+678
+00:34:28,000 --> 00:34:31,000
+and solve various things.
+
+679
+00:34:31,000 --> 00:34:34,000
+I think it was probably the best thing in the world
+
+680
+00:34:34,000 --> 00:34:37,000
+in terms of spatial representation.
+
+681
+00:34:37,000 --> 00:34:40,000
+First of all, it's phenomenally simple.
+
+682
+00:34:40,000 --> 00:34:43,000
+You can get a lot of web pages
+
+683
+00:34:43,000 --> 00:34:46,000
+that allow a web interpreter for Logo.
+
+684
+00:34:46,000 --> 00:34:49,000
+I recommend it.
+
+685
+00:34:49,000 --> 00:34:52,000
+I tried it on my children.
+
+686
+00:34:52,000 --> 00:34:55,000
+And it turns out that they love it.
+
+687
+00:34:55,000 --> 00:34:58,000
+They solve it and enjoy it.
+
+688
+00:34:58,000 --> 00:35:01,000
+Because the visual component
+
+689
+00:35:01,000 --> 00:35:04,000
+makes it easier for people.
+
+690
+00:35:04,000 --> 00:35:07,000
+Imagine a 5-year-old
+
+691
+00:35:07,000 --> 00:35:10,000
+solving a 90-degree cube.
+
+692
+00:35:10,000 --> 00:35:13,000
+You don't have to explain it to him.
+
+693
+00:35:13,000 --> 00:35:16,000
+He has the experience of trying to make a star or a square.
+
+694
+00:35:16,000 --> 00:35:19,000
+Why not go in the same direction?
+
+695
+00:35:19,000 --> 00:35:22,000
+Andrei Bitenc,
+
+696
+00:35:22,000 --> 00:35:25,000
+from ZRI,
+
+697
+00:35:25,000 --> 00:35:28,000
+who also had children in elementary school.
+
+698
+00:35:28,000 --> 00:35:31,000
+Then relatively quickly,
+
+699
+00:35:31,000 --> 00:35:34,000
+in middle school, there were web pages.
+
+700
+00:35:34,000 --> 00:35:37,000
+Back then, there were front pages.
+
+701
+00:35:37,000 --> 00:35:40,000
+Most people probably don't remember that anymore.
+
+702
+00:35:40,000 --> 00:35:43,000
+Then there were Dreamweavers,
+
+703
+00:35:43,000 --> 00:35:46,000
+a tool for working on the front page.
+
+704
+00:35:46,000 --> 00:35:49,000
+It wasn't one-sided anymore.
+
+705
+00:35:49,000 --> 00:35:52,000
+Maybe there were some other big corporations.
+
+706
+00:35:52,000 --> 00:35:55,000
+We also started with Android relatively quickly.
+
+707
+00:35:55,000 --> 00:35:58,000
+There were 1.2, 1.5, 1.6 versions.
+
+708
+00:35:58,000 --> 00:36:01,000
+We wrote tutorials with a colleague
+
+709
+00:36:01,000 --> 00:36:04,000
+on how to program.
+
+710
+00:36:04,000 --> 00:36:07,000
+There was also Eclipse,
+
+711
+00:36:07,000 --> 00:36:10,000
+which is no longer a favorite environment
+
+712
+00:36:10,000 --> 00:36:13,000
+for publishing.
+
+713
+00:36:13,000 --> 00:36:16,000
+Back then, there was everything.
+
+714
+00:36:16,000 --> 00:36:19,000
+Those were simple times
+
+715
+00:36:19,000 --> 00:36:22,000
+when you didn't have to install pip,
+
+716
+00:36:22,000 --> 00:36:25,000
+but you could install it on 150 packages
+
+717
+00:36:25,000 --> 00:36:28,000
+so that you could make Hello World.
+
+718
+00:36:28,000 --> 00:36:31,000
+Nice, simple times.
+
+719
+00:36:31,000 --> 00:36:34,000
+I started with Windows 98.
+
+720
+00:36:34,000 --> 00:36:37,000
+I'm not a programmer,
+
+721
+00:36:37,000 --> 00:36:40,000
+but that was the first Windows I used.
+
+722
+00:36:40,000 --> 00:36:43,000
+Back then, if you wanted to make something,
+
+723
+00:36:43,000 --> 00:36:46,000
+you got either a CD or a floppy disk.
+
+724
+00:36:46,000 --> 00:36:49,000
+I still remember floppy disks.
+
+725
+00:36:49,000 --> 00:36:52,000
+I know why a floppy disk is a safe icon.
+
+726
+00:36:52,000 --> 00:36:55,000
+You could also browse the Internet.
+
+727
+00:36:55,000 --> 00:36:58,000
+It was much harder because you had to connect
+
+728
+00:36:58,000 --> 00:37:01,000
+over the phone.
+
+729
+00:37:01,000 --> 00:37:04,000
+But if you wanted to get something on your computer,
+
+730
+00:37:04,000 --> 00:37:07,000
+you could install it.
+
+731
+00:37:07,000 --> 00:37:10,000
+What was the development like back then?
+
+732
+00:37:10,000 --> 00:37:13,000
+Who was doing what with some random applications?
+
+733
+00:37:13,000 --> 00:37:16,000
+Why were they able to package it that way?
+
+734
+00:37:16,000 --> 00:37:19,000
+What was the difference between
+
+735
+00:37:19,000 --> 00:37:22,000
+some random application
+
+736
+00:37:22,000 --> 00:37:25,000
+and a connected application?
+
+737
+00:37:25,000 --> 00:37:28,000
+The reason was very simple.
+
+738
+00:37:28,000 --> 00:37:31,000
+Back then, there was no Internet.
+
+739
+00:37:31,000 --> 00:37:34,000
+When it appeared,
+
+740
+00:37:34,000 --> 00:37:37,000
+you had to browse the Internet
+
+741
+00:37:37,000 --> 00:37:40,000
+and click on a modem on your phone.
+
+742
+00:37:40,000 --> 00:37:43,000
+That's why you could have all the applications
+
+743
+00:37:43,000 --> 00:37:46,000
+on your computer.
+
+744
+00:37:46,000 --> 00:37:49,000
+It was similar to what you have on your phone today.
+
+745
+00:37:49,000 --> 00:37:52,000
+If you had an Android phone
+
+746
+00:37:52,000 --> 00:37:55,000
+without a data link,
+
+747
+00:37:55,000 --> 00:37:58,000
+you could only use the games
+
+748
+00:37:58,000 --> 00:38:01,000
+or applications you have on your phone.
+
+749
+00:38:04,000 --> 00:38:07,000
+I think that the analogy
+
+750
+00:38:07,000 --> 00:38:10,000
+with the telephone applications
+
+751
+00:38:10,000 --> 00:38:13,000
+is quite good now.
+
+752
+00:38:13,000 --> 00:38:16,000
+Who was writing
+
+753
+00:38:16,000 --> 00:38:19,000
+those random applications?
+
+754
+00:38:19,000 --> 00:38:22,000
+How were the engineers divided?
+
+755
+00:38:22,000 --> 00:38:25,000
+What were they writing?
+
+756
+00:38:25,000 --> 00:38:28,000
+Probably because Windows 98
+
+757
+00:38:28,000 --> 00:38:31,000
+was a different kind of elementary school.
+
+758
+00:38:31,000 --> 00:38:34,000
+I wouldn't be able to say for sure.
+
+759
+00:38:34,000 --> 00:38:37,000
+Maybe the difference was that
+
+760
+00:38:37,000 --> 00:38:40,000
+the younger generation felt
+
+761
+00:38:40,000 --> 00:38:43,000
+through the gaming console.
+
+762
+00:38:43,000 --> 00:38:46,000
+The difference was that when you did it,
+
+763
+00:38:46,000 --> 00:38:49,000
+you wrote it down on a piece of paper
+
+764
+00:38:49,000 --> 00:38:52,000
+and sent it somewhere.
+
+765
+00:38:52,000 --> 00:38:55,000
+There was no room for the next update.
+
+766
+00:38:55,000 --> 00:38:58,000
+We would fix what we forgot
+
+767
+00:38:58,000 --> 00:39:01,000
+and we didn't do it well.
+
+768
+00:39:01,000 --> 00:39:04,000
+I think that the level of production
+
+769
+00:39:04,000 --> 00:39:07,000
+was higher because the price
+
+770
+00:39:07,000 --> 00:39:10,000
+of changing something like that
+
+771
+00:39:10,000 --> 00:39:13,000
+was higher than it is now.
+
+772
+00:39:13,000 --> 00:39:16,000
+We can publish an application
+
+773
+00:39:16,000 --> 00:39:19,000
+and move fast and break things.
+
+774
+00:39:19,000 --> 00:39:22,000
+We prepare the next week to fix something
+
+775
+00:39:22,000 --> 00:39:25,000
+and then we can fix everything.
+
+776
+00:39:25,000 --> 00:39:28,000
+It was especially difficult
+
+777
+00:39:28,000 --> 00:39:31,000
+because of the connectivity,
+
+778
+00:39:31,000 --> 00:39:34,000
+data transfer and media,
+
+779
+00:39:34,000 --> 00:39:37,000
+which were much slower and smaller.
+
+780
+00:39:37,000 --> 00:39:40,000
+People got used to one floppy disk,
+
+781
+00:39:40,000 --> 00:39:43,000
+1.44 megabytes.
+
+782
+00:39:43,000 --> 00:39:46,000
+It's a 16-bit picture from an iPhone
+
+783
+00:39:46,000 --> 00:39:49,000
+and you can save it in that context.
+
+784
+00:39:49,000 --> 00:39:52,000
+That floppy disk was very slow.
+
+785
+00:39:52,000 --> 00:39:55,000
+You could only have two floppy disks
+
+786
+00:39:55,000 --> 00:39:58,000
+because there was a whole operating system
+
+787
+00:39:58,000 --> 00:40:01,000
+on one floppy disk.
+
+788
+00:40:01,000 --> 00:40:04,000
+You could use it on the same floppy disk
+
+789
+00:40:04,000 --> 00:40:07,000
+and get something out of it.
+
+790
+00:40:07,000 --> 00:40:10,000
+For example, help files for Windows 95
+
+791
+00:40:10,000 --> 00:40:13,000
+could be used on a 30 megabyte floppy disk
+
+792
+00:40:13,000 --> 00:40:16,000
+if you really tried hard.
+
+793
+00:40:16,000 --> 00:40:19,000
+Otherwise, it was 150 megabytes.
+
+794
+00:40:19,000 --> 00:40:22,000
+It was so expensive
+
+795
+00:40:22,000 --> 00:40:25,000
+that we had to work harder
+
+796
+00:40:25,000 --> 00:40:28,000
+because of the applications we created.
+
+797
+00:40:28,000 --> 00:40:31,000
+We had to test them
+
+798
+00:40:31,000 --> 00:40:34,000
+because we felt like we were
+
+799
+00:40:34,000 --> 00:40:37,000
+doing it all over again.
+
+800
+00:40:37,000 --> 00:40:40,000
+Now we know what testing looks like.
+
+801
+00:40:40,000 --> 00:40:43,000
+The industry has some cycles
+
+802
+00:40:43,000 --> 00:40:46,000
+that are being repeated.
+
+803
+00:40:46,000 --> 00:40:49,000
+Let's talk about writing applications
+
+804
+00:40:49,000 --> 00:40:52,000
+and programming.
+
+805
+00:40:52,000 --> 00:40:55,000
+Was there a difference between
+
+806
+00:40:55,000 --> 00:40:58,000
+back-end and front-end software?
+
+807
+00:40:58,000 --> 00:41:01,000
+The biggest difference is probably
+
+808
+00:41:01,000 --> 00:41:04,000
+that we're going back to those times.
+
+809
+00:41:04,000 --> 00:41:07,000
+I hope I won't have to say too much.
+
+810
+00:41:07,000 --> 00:41:10,000
+We talked about Kadr in desktop applications.
+
+811
+00:41:10,000 --> 00:41:13,000
+I have AutoCAD in my head
+
+812
+00:41:13,000 --> 00:41:16,000
+for constructing scripts.
+
+813
+00:41:16,000 --> 00:41:19,000
+It was an app that worked
+
+814
+00:41:19,000 --> 00:41:22,000
+on a computer without any connection
+
+815
+00:41:22,000 --> 00:41:25,000
+to other computers.
+
+816
+00:41:25,000 --> 00:41:28,000
+You set it up as we talked
+
+817
+00:41:28,000 --> 00:41:31,000
+and drew a script on it.
+
+818
+00:41:31,000 --> 00:41:34,000
+You drew it with a plotter
+
+819
+00:41:34,000 --> 00:41:37,000
+or you pressed it or whatever.
+
+820
+00:41:37,000 --> 00:41:40,000
+The script was then used.
+
+821
+00:41:40,000 --> 00:41:43,000
+There were no physical changes
+
+822
+00:41:43,000 --> 00:41:46,000
+but there were media that were used.
+
+823
+00:41:46,000 --> 00:41:49,000
+Kadr then worked with networks.
+
+824
+00:41:49,000 --> 00:41:52,000
+Those terminals were called mainframes.
+
+825
+00:41:52,000 --> 00:41:55,000
+Those were those huge computers
+
+826
+00:41:55,000 --> 00:41:58,000
+with their own operating systems
+
+827
+00:41:58,000 --> 00:42:01,000
+that were attached.
+
+828
+00:42:01,000 --> 00:42:04,000
+When the computers started to connect
+
+829
+00:42:04,000 --> 00:42:07,000
+you had that connection
+
+830
+00:42:07,000 --> 00:42:10,000
+to the terminal.
+
+831
+00:42:10,000 --> 00:42:13,000
+What those terminals were like
+
+832
+00:42:13,000 --> 00:42:16,000
+is another story.
+
+833
+00:42:16,000 --> 00:42:19,000
+But the concept of a plotter
+
+834
+00:42:19,000 --> 00:42:22,000
+and then you connect to it
+
+835
+00:42:22,000 --> 00:42:25,000
+with your own computers
+
+836
+00:42:25,000 --> 00:42:28,000
+is still present today.
+
+837
+00:42:28,000 --> 00:42:31,000
+We still see it but we don't talk
+
+838
+00:42:31,000 --> 00:42:34,000
+about those mainframes.
+
+839
+00:42:34,000 --> 00:42:37,000
+I think those two softwares
+
+840
+00:42:37,000 --> 00:42:40,000
+still exist.
+
+841
+00:42:40,000 --> 00:42:43,000
+A lot of theories and statements
+
+842
+00:42:43,000 --> 00:42:46,000
+still come from those.
+
+843
+00:42:46,000 --> 00:42:49,000
+Terminals are like that,
+
+844
+00:42:49,000 --> 00:42:52,000
+servers are like that.
+
+845
+00:42:52,000 --> 00:42:55,000
+These things come from it.
+
+846
+00:42:55,000 --> 00:42:58,000
+Basically, this software is good
+
+847
+00:42:58,000 --> 00:43:01,000
+to solve a problem.
+
+848
+00:43:01,000 --> 00:43:04,000
+But it's not like those programs
+
+849
+00:43:04,000 --> 00:43:07,000
+or modern systems
+
+850
+00:43:07,000 --> 00:43:10,000
+where programs work together.
+
+851
+00:43:10,000 --> 00:43:13,000
+That's the thing.
+
+852
+00:43:13,000 --> 00:43:16,000
+What did a back-end engineer do?
+
+853
+00:43:16,000 --> 00:43:19,000
+What did a front-end engineer do?
+
+854
+00:43:19,000 --> 00:43:22,000
+Could there have been another engineer?
+
+855
+00:43:22,000 --> 00:43:25,000
+I would say one thing
+
+856
+00:43:25,000 --> 00:43:28,000
+that would be different
+
+857
+00:43:28,000 --> 00:43:31,000
+is that programs were smaller
+
+858
+00:43:31,000 --> 00:43:34,000
+than they are now.
+
+859
+00:43:34,000 --> 00:43:37,000
+Now you work with big teams.
+
+860
+00:43:37,000 --> 00:43:40,000
+I remember when we wrote
+
+861
+00:43:40,000 --> 00:43:43,000
+the first Windows desktop applications.
+
+862
+00:43:43,000 --> 00:43:46,000
+There was a program environment
+
+863
+00:43:46,000 --> 00:43:49,000
+very popular called Delphi.
+
+864
+00:43:49,000 --> 00:43:52,000
+The middle Pascal.
+
+865
+00:43:52,000 --> 00:43:55,000
+Pascal was given an add-on
+
+866
+00:43:55,000 --> 00:43:58,000
+for an object programming.
+
+867
+00:43:58,000 --> 00:44:01,000
+Then some graphic designers
+
+868
+00:44:01,000 --> 00:44:04,000
+started working on it.
+
+869
+00:44:04,000 --> 00:44:07,000
+Delphi was one of the most ingenious
+
+870
+00:44:07,000 --> 00:44:10,000
+programming tools at the time.
+
+871
+00:44:10,000 --> 00:44:13,000
+What was interesting
+
+872
+00:44:13,000 --> 00:44:16,000
+was that Delphi was written
+
+873
+00:44:16,000 --> 00:44:19,000
+by 3 or 4 programmers
+
+874
+00:44:19,000 --> 00:44:22,000
+in a big company called Borland.
+
+875
+00:44:22,000 --> 00:44:25,000
+That was a product
+
+876
+00:44:25,000 --> 00:44:28,000
+that the company probably lived off
+
+877
+00:44:28,000 --> 00:44:31,000
+for another 10 years.
+
+878
+00:44:31,000 --> 00:44:34,000
+The gentleman who invented Delphi
+
+879
+00:44:34,000 --> 00:44:37,000
+went on to work with Microsoft
+
+880
+00:44:37,000 --> 00:44:40,000
+and then wrote C Sharp
+
+881
+00:44:40,000 --> 00:44:43,000
+and TypeScript and so on.
+
+882
+00:44:44,000 --> 00:44:47,000
+Andres Heisberg.
+
+883
+00:44:51,000 --> 00:44:54,000
+What was interesting here
+
+884
+00:44:54,000 --> 00:44:57,000
+was that 4 people did it.
+
+885
+00:44:57,000 --> 00:45:00,000
+They probably split the work,
+
+886
+00:45:00,000 --> 00:45:03,000
+but most of them did everything.
+
+887
+00:45:03,000 --> 00:45:06,000
+Software was also typical at the time.
+
+888
+00:45:06,000 --> 00:45:09,000
+In Slovenia, there was a typical
+
+889
+00:45:09,000 --> 00:45:12,000
+software company called One Man Band
+
+890
+00:45:12,000 --> 00:45:15,000
+and this man did everything
+
+891
+00:45:15,000 --> 00:45:18,000
+from the calculations to the database
+
+892
+00:45:18,000 --> 00:45:21,000
+to the users and so on.
+
+893
+00:45:24,000 --> 00:45:27,000
+With all this software,
+
+894
+00:45:27,000 --> 00:45:30,000
+especially if it's bigger,
+
+895
+00:45:30,000 --> 00:45:33,000
+you have people who are architects
+
+896
+00:45:33,000 --> 00:45:36,000
+and their job is to take care
+
+897
+00:45:36,000 --> 00:45:39,000
+of where certain components are,
+
+898
+00:45:39,000 --> 00:45:42,000
+how they will grow,
+
+899
+00:45:42,000 --> 00:45:45,000
+how they will change.
+
+900
+00:45:45,000 --> 00:45:48,000
+Then the architects decide
+
+901
+00:45:48,000 --> 00:45:51,000
+how the application will be split.
+
+902
+00:45:51,000 --> 00:45:54,000
+Will we need a back-end developer
+
+903
+00:45:54,000 --> 00:45:57,000
+or a front-end developer
+
+904
+00:45:57,000 --> 00:46:00,000
+or will it be one person
+
+905
+00:46:00,000 --> 00:46:03,000
+who will do everything?
+
+906
+00:46:04,000 --> 00:46:07,000
+If we look at Wikipedia
+
+907
+00:46:07,000 --> 00:46:10,000
+and the big eggs in the programs
+
+908
+00:46:10,000 --> 00:46:13,000
+of the same region,
+
+909
+00:46:13,000 --> 00:46:16,000
+Windows 95, Windows 98,
+
+910
+00:46:16,000 --> 00:46:19,000
+they weren't that big a team.
+
+911
+00:46:19,000 --> 00:46:22,000
+At the end of that team,
+
+912
+00:46:22,000 --> 00:46:25,000
+there were a few people
+
+913
+00:46:25,000 --> 00:46:28,000
+who knew better or worse abilities
+
+914
+00:46:28,000 --> 00:46:31,000
+of others and managed to coordinate them.
+
+915
+00:46:31,000 --> 00:46:34,000
+Even if we look at the descriptions
+
+916
+00:46:34,000 --> 00:46:37,000
+of those people in the 30s,
+
+917
+00:46:37,000 --> 00:46:40,000
+they don't have all the beautiful
+
+918
+00:46:40,000 --> 00:46:43,000
+descriptions of samurais and everything
+
+919
+00:46:43,000 --> 00:46:46,000
+that we have now.
+
+920
+00:46:46,000 --> 00:46:49,000
+On the other hand,
+
+921
+00:46:49,000 --> 00:46:52,000
+we probably have 500 people
+
+922
+00:46:52,000 --> 00:46:55,000
+in the Microsoft team
+
+923
+00:46:55,000 --> 00:46:58,000
+who deal with the search bar
+
+924
+00:46:58,000 --> 00:47:01,000
+and a lot of things were put
+
+925
+00:47:01,000 --> 00:47:04,000
+more ad hoc than they are now.
+
+926
+00:47:04,000 --> 00:47:07,000
+On the other hand,
+
+927
+00:47:07,000 --> 00:47:10,000
+we will return to the fact
+
+928
+00:47:10,000 --> 00:47:13,000
+that some things are not as important
+
+929
+00:47:13,000 --> 00:47:16,000
+as others.
+
+930
+00:47:16,000 --> 00:47:19,000
+There is a stereotype
+
+931
+00:47:19,000 --> 00:47:22,000
+that front-end is easy,
+
+932
+00:47:22,000 --> 00:47:25,000
+back-end is hard,
+
+933
+00:47:25,000 --> 00:47:28,000
+but I don't think so,
+
+934
+00:47:28,000 --> 00:47:31,000
+because you can do it in any way.
+
+935
+00:47:31,000 --> 00:47:34,000
+Back-end was a real engineering.
+
+936
+00:47:34,000 --> 00:47:37,000
+I can try.
+
+937
+00:47:37,000 --> 00:47:40,000
+In this context,
+
+938
+00:47:40,000 --> 00:47:43,000
+the first thing is that
+
+939
+00:47:43,000 --> 00:47:46,000
+front-end is not for everyone.
+
+940
+00:47:46,000 --> 00:47:49,000
+I have a few colleagues
+
+941
+00:47:49,000 --> 00:47:52,000
+who are phenomenal back-enders,
+
+942
+00:47:52,000 --> 00:47:55,000
+maybe it's connected
+
+943
+00:47:55,000 --> 00:47:58,000
+to some other property,
+
+944
+00:47:58,000 --> 00:48:01,000
+maybe talent for art
+
+945
+00:48:01,000 --> 00:48:04,000
+or visual composition.
+
+946
+00:48:04,000 --> 00:48:07,000
+On the front-end,
+
+947
+00:48:07,000 --> 00:48:10,000
+if you break things,
+
+948
+00:48:10,000 --> 00:48:13,000
+they are broken in a way
+
+949
+00:48:13,000 --> 00:48:16,000
+that doesn't affect the whole structure.
+
+950
+00:48:16,000 --> 00:48:19,000
+But I still think that at some point,
+
+951
+00:48:19,000 --> 00:48:22,000
+people who have 30 years of experience
+
+952
+00:48:22,000 --> 00:48:25,000
+will see the difference
+
+953
+00:48:25,000 --> 00:48:28,000
+between what is more appealing
+
+954
+00:48:28,000 --> 00:48:31,000
+and what is more talented.
+
+955
+00:48:31,000 --> 00:48:34,000
+I wouldn't say that front-end is easier
+
+956
+00:48:34,000 --> 00:48:37,000
+or harder.
+
+957
+00:48:37,000 --> 00:48:40,000
+Everyone should combine.
+
+958
+00:48:40,000 --> 00:48:43,000
+I wouldn't say that back-end is harder,
+
+959
+00:48:43,000 --> 00:48:46,000
+because it can be at the end
+
+960
+00:48:46,000 --> 00:48:49,000
+very similar to front-end.
+
+961
+00:48:49,000 --> 00:48:52,000
+You don't have to imagine
+
+962
+00:48:52,000 --> 00:48:55,000
+big architectural systems
+
+963
+00:48:55,000 --> 00:48:58,000
+at every moment.
+
+964
+00:48:58,000 --> 00:49:01,000
+I wouldn't say that front-end
+
+965
+00:49:01,000 --> 00:49:04,000
+is harder or harder.
+
+966
+00:49:04,000 --> 00:49:07,000
+Maybe it's more appealing
+
+967
+00:49:07,000 --> 00:49:10,000
+to some people,
+
+968
+00:49:10,000 --> 00:49:13,000
+but not to others.
+
+969
+00:49:13,000 --> 00:49:16,000
+I've been working on front-end
+
+970
+00:49:16,000 --> 00:49:19,000
+for many years now.
+
+971
+00:49:19,000 --> 00:49:22,000
+In front-end,
+
+972
+00:49:22,000 --> 00:49:25,000
+things are very visual.
+
+973
+00:49:25,000 --> 00:49:28,000
+When you do something there,
+
+974
+00:49:28,000 --> 00:49:31,000
+you can see what you've done.
+
+975
+00:49:31,000 --> 00:49:34,000
+You can adjust your time very quickly.
+
+976
+00:49:34,000 --> 00:49:37,000
+You can't hide.
+
+977
+00:49:37,000 --> 00:49:40,000
+You can see the consequences.
+
+978
+00:49:40,000 --> 00:49:43,000
+When the functionality
+
+979
+00:49:43,000 --> 00:49:46,000
+of a product goes out,
+
+980
+00:49:46,000 --> 00:49:49,000
+it will be very fast.
+
+981
+00:49:49,000 --> 00:49:52,000
+You will be the one who will say
+
+982
+00:49:52,000 --> 00:49:55,000
+that you've done your job
+
+983
+00:49:55,000 --> 00:49:58,000
+and now it's over.
+
+984
+00:49:58,000 --> 00:50:01,000
+People don't see the back-end.
+
+985
+00:50:00,000 --> 00:50:07,000
+and sometimes it's even harder to adjust what you're doing in the back if it's not visible.
+
+986
+00:50:07,000 --> 00:50:12,000
+And some people enjoy the default system, as he said,
+
+987
+00:50:12,000 --> 00:50:19,000
+but the front end does not exist without the back end, and vice versa.
+
+988
+00:50:19,000 --> 00:50:24,000
+These things have to be connected, and if the back end doesn't work,
+
+989
+00:50:24,000 --> 00:50:29,000
+you can have a very nice make-up and nothing will work.
+
+990
+00:50:29,000 --> 00:50:34,000
+So we have to take these things into some kind of synergy.
+
+991
+00:50:34,000 --> 00:50:37,000
+Both things are tribal.
+
+992
+00:50:37,000 --> 00:50:45,000
+Especially in the last few years, I think that these specializations have created
+
+993
+00:50:45,000 --> 00:50:47,000
+that these things are more diverse.
+
+994
+00:50:47,000 --> 00:50:50,000
+I think that in the past we had a term called web developer,
+
+995
+00:50:50,000 --> 00:50:53,000
+and it meant that you did everything.
+
+996
+00:50:53,000 --> 00:50:59,000
+Today, perhaps, it's a bit more physical, but for beginners,
+
+997
+00:50:59,000 --> 00:51:03,000
+I think it's always good to understand the universe,
+
+998
+00:51:03,000 --> 00:51:06,000
+to understand what's in the back and what's in the front.
+
+999
+00:51:06,000 --> 00:51:10,000
+Because you won't be able to communicate with people
+
+1000
+00:51:10,000 --> 00:51:12,000
+if you don't understand both sides.
+
+1001
+00:51:12,000 --> 00:51:14,000
+Everything is in some basics.
+
+1002
+00:51:14,000 --> 00:51:17,000
+But maybe it also stems from the fact that,
+
+1003
+00:51:17,000 --> 00:51:23,000
+for example, if we take a typical software from 20 years ago,
+
+1004
+00:51:23,000 --> 00:51:26,000
+you drive it to some public back end,
+
+1005
+00:51:26,000 --> 00:51:29,000
+and in the front you have HTML, CSS and JavaScript.
+
+1006
+00:51:29,000 --> 00:51:34,000
+We are already working in technology.
+
+1007
+00:51:34,000 --> 00:51:39,000
+But it also stems from the fact that you are closer to the current technology.
+
+1008
+00:51:39,000 --> 00:51:42,000
+You can be a very good public developer,
+
+1009
+00:51:42,000 --> 00:51:46,000
+and in short, a very good JavaScript and HTML and CSS developer.
+
+1010
+00:51:46,000 --> 00:51:48,000
+Yes, probably.
+
+1011
+00:51:48,000 --> 00:51:52,000
+But I would also say that something is the same as your love,
+
+1012
+00:51:52,000 --> 00:51:55,000
+your passion, something is the same as what you did
+
+1013
+00:51:55,000 --> 00:51:58,000
+to get through that frustration and get to the end.
+
+1014
+00:51:58,000 --> 00:52:01,000
+From the point of view of the back end,
+
+1015
+00:52:01,000 --> 00:52:03,000
+what Otto wanted to say,
+
+1016
+00:52:03,000 --> 00:52:05,000
+the conversation of a system engineer.
+
+1017
+00:52:05,000 --> 00:52:08,000
+When everything works, we don't know why they pay you,
+
+1018
+00:52:08,000 --> 00:52:11,000
+and when something doesn't work, you are still guilty.
+
+1019
+00:52:11,000 --> 00:52:13,000
+Because it doesn't work, so we could.
+
+1020
+00:52:13,000 --> 00:52:18,000
+Yes, the back end can be more tricky from that point of view.
+
+1021
+00:52:18,000 --> 00:52:22,000
+But all in all, I remember from those times,
+
+1022
+00:52:22,000 --> 00:52:25,000
+now we will change one programming language,
+
+1023
+00:52:25,000 --> 00:52:29,000
+which will hurt a lot, PHP.
+
+1024
+00:52:29,000 --> 00:52:33,000
+From those times when we wrote that part in PHP,
+
+1025
+00:52:33,000 --> 00:52:36,000
+when we came to the first MWCs,
+
+1026
+00:52:36,000 --> 00:52:42,000
+what was it, Symfony, PHP Cake, Zend, and so on.
+
+1027
+00:52:42,000 --> 00:52:45,000
+Yes, we did something in CSS,
+
+1028
+00:52:45,000 --> 00:52:49,000
+but we didn't deal with the design in that way.
+
+1029
+00:52:49,000 --> 00:52:52,000
+On the other hand, we have in all categories,
+
+1030
+00:52:52,000 --> 00:52:55,000
+we have to look at which ones will suit each other,
+
+1031
+00:52:55,000 --> 00:52:58,000
+and we now have phenomenal designers
+
+1032
+00:52:58,000 --> 00:53:02,000
+who are very focused in the technological aspect,
+
+1033
+00:53:02,000 --> 00:53:06,000
+in the web, in the specifics of it.
+
+1034
+00:53:06,000 --> 00:53:10,000
+We have designers who will work on leaflets and pamphlets
+
+1035
+00:53:10,000 --> 00:53:13,000
+but they will never touch the web.
+
+1036
+00:53:13,000 --> 00:53:16,000
+And if you compare both outputs,
+
+1037
+00:53:16,000 --> 00:53:19,000
+one is very good for something,
+
+1038
+00:53:19,000 --> 00:53:22,000
+and it's great as a designer for that package,
+
+1039
+00:53:22,000 --> 00:53:25,000
+for that leaflet, for that CGP, in that way.
+
+1040
+00:53:25,000 --> 00:53:29,000
+The other is phenomenal for implementing it on the website.
+
+1041
+00:53:29,000 --> 00:53:31,000
+I think it's the same with programmers.
+
+1042
+00:53:31,000 --> 00:53:33,000
+We are not all good for everything.
+
+1043
+00:53:33,000 --> 00:53:35,000
+We can be good, quite good,
+
+1044
+00:53:35,000 --> 00:53:37,000
+because of a project, let's say.
+
+1045
+00:53:37,000 --> 00:53:40,000
+But we don't have to be great in the sense
+
+1046
+00:53:40,000 --> 00:53:45,000
+that we will use our talent for everything.
+
+1047
+00:53:45,000 --> 00:53:48,000
+I would like to add something.
+
+1048
+00:53:48,000 --> 00:53:52,000
+As a beginner, it's not so...
+
+1049
+00:53:52,000 --> 00:53:55,000
+It's not so...
+
+1050
+00:53:55,000 --> 00:53:57,000
+I call myself a backend developer,
+
+1051
+00:53:57,000 --> 00:53:59,000
+I call myself a frontend developer.
+
+1052
+00:53:59,000 --> 00:54:01,000
+Your job...
+
+1053
+00:54:01,000 --> 00:54:05,000
+It's better to try as much as you can at the beginning,
+
+1054
+00:54:05,000 --> 00:54:07,000
+to play as much as you can.
+
+1055
+00:54:07,000 --> 00:54:09,000
+We talked about frontend and backend.
+
+1056
+00:54:09,000 --> 00:54:11,000
+You also have mobile,
+
+1057
+00:54:11,000 --> 00:54:13,000
+you also have games,
+
+1058
+00:54:13,000 --> 00:54:15,000
+you also have electronic programming.
+
+1059
+00:54:15,000 --> 00:54:18,000
+Try as much as you can,
+
+1060
+00:54:18,000 --> 00:54:20,000
+and you will hear,
+
+1061
+00:54:20,000 --> 00:54:23,000
+oh, I can make an interface,
+
+1062
+00:54:23,000 --> 00:54:24,000
+and it's great.
+
+1063
+00:54:24,000 --> 00:54:27,000
+Maybe you can do it later.
+
+1064
+00:54:27,000 --> 00:54:30,000
+We have already mentioned the web.
+
+1065
+00:54:30,000 --> 00:54:33,000
+Before, we were talking about web applications.
+
+1066
+00:54:33,000 --> 00:54:36,000
+How did the web change that?
+
+1067
+00:54:36,000 --> 00:54:40,000
+And what exactly do you program in the browser?
+
+1068
+00:54:40,000 --> 00:54:45,000
+Because web applications work differently
+
+1069
+00:54:45,000 --> 00:54:50,000
+than if you are only in the browser.
+
+1070
+00:54:52,000 --> 00:54:55,000
+The web has brought with it
+
+1071
+00:54:55,000 --> 00:54:58,000
+such an interesting concept,
+
+1072
+00:54:58,000 --> 00:55:00,000
+especially since it came from
+
+1073
+00:55:00,000 --> 00:55:02,000
+the classical static split pages.
+
+1074
+00:55:02,000 --> 00:55:05,000
+The first split pages were created by the server.
+
+1075
+00:55:05,000 --> 00:55:08,000
+It was a static HTML,
+
+1076
+00:55:08,000 --> 00:55:10,000
+and then it was tampered with,
+
+1077
+00:55:10,000 --> 00:55:12,000
+and when something went wrong,
+
+1078
+00:55:12,000 --> 00:55:14,000
+it went back to the server.
+
+1079
+00:55:14,000 --> 00:55:17,000
+Then, at one point, we started working
+
+1080
+00:55:17,000 --> 00:55:20,000
+with single-page dynamic applications.
+
+1081
+00:55:22,000 --> 00:55:24,000
+And what has changed?
+
+1082
+00:55:24,000 --> 00:55:28,000
+Back then, software was also written on the frontend.
+
+1083
+00:55:28,000 --> 00:55:32,000
+And we started with very primitive tools,
+
+1084
+00:55:32,000 --> 00:55:35,000
+such as jQuery and so on.
+
+1085
+00:55:35,000 --> 00:55:38,000
+These were then huge repositories
+
+1086
+00:55:38,000 --> 00:55:41,000
+of unmanageable spaghetti codes.
+
+1087
+00:55:41,000 --> 00:55:46,000
+And what web development has brought with it,
+
+1088
+00:55:46,000 --> 00:55:51,000
+is the fact that it was decoupled
+
+1089
+00:55:51,000 --> 00:55:54,000
+from the browser,
+
+1090
+00:55:54,000 --> 00:55:59,000
+from the business logic on the backend,
+
+1091
+00:55:59,000 --> 00:56:03,000
+and from the user logic on the frontend.
+
+1092
+00:56:03,000 --> 00:56:06,000
+And these two could communicate
+
+1093
+00:56:06,000 --> 00:56:09,000
+in a nice and elegant way.
+
+1094
+00:56:09,000 --> 00:56:11,000
+The second thing is that
+
+1095
+00:56:11,000 --> 00:56:13,000
+in the frontend environment,
+
+1096
+00:56:13,000 --> 00:56:15,000
+there was a problem.
+
+1097
+00:56:15,000 --> 00:56:19,000
+The classical way of compiling applications
+
+1098
+00:56:19,000 --> 00:56:22,000
+and learning functionality,
+
+1099
+00:56:22,000 --> 00:56:24,000
+so that when something clicked,
+
+1100
+00:56:24,000 --> 00:56:26,000
+something happened.
+
+1101
+00:56:26,000 --> 00:56:29,000
+When it was stopped with jQuery
+
+1102
+00:56:29,000 --> 00:56:32,000
+and the classic JavaScript tool,
+
+1103
+00:56:32,000 --> 00:56:35,000
+they simply stopped together,
+
+1104
+00:56:35,000 --> 00:56:40,000
+and then they were looking for better solutions
+
+1105
+00:56:40,000 --> 00:56:43,000
+to solve these problems,
+
+1106
+00:56:43,000 --> 00:56:47,000
+how to structure these frontend applications.
+
+1107
+00:56:47,000 --> 00:56:50,000
+And the solutions that appeared,
+
+1108
+00:56:50,000 --> 00:56:53,000
+and are still appearing,
+
+1109
+00:56:53,000 --> 00:56:56,000
+were very beautiful.
+
+1110
+00:56:56,000 --> 00:56:59,000
+And this way of thinking,
+
+1111
+00:56:59,000 --> 00:57:02,000
+the frontend,
+
+1112
+00:57:02,000 --> 00:57:05,000
+I think, works in its own way.
+
+1113
+00:57:05,000 --> 00:57:08,000
+In many ways, the frontend is the one
+
+1114
+00:57:08,000 --> 00:57:11,000
+that pulls the computer industry forward
+
+1115
+00:57:11,000 --> 00:57:14,000
+with new ideas and concepts.
+
+1116
+00:57:14,000 --> 00:57:16,000
+And then these concepts
+
+1117
+00:57:16,000 --> 00:57:19,000
+settle on the backend.
+
+1118
+00:57:20,000 --> 00:57:24,000
+Take V8 and make a runtime environment
+
+1119
+00:57:24,000 --> 00:57:26,000
+for JavaScript,
+
+1120
+00:57:26,000 --> 00:57:28,000
+and then you go to Node,
+
+1121
+00:57:28,000 --> 00:57:30,000
+where you can write JavaScript
+
+1122
+00:57:30,000 --> 00:57:32,000
+on the frontend and the backend.
+
+1123
+00:57:32,000 --> 00:57:36,000
+Has this changed people's day-to-day jobs?
+
+1124
+00:57:36,000 --> 00:57:40,000
+If I look at Twitter,
+
+1125
+00:57:40,000 --> 00:57:44,000
+they started adding abstraction levels.
+
+1126
+00:57:45,000 --> 00:57:48,000
+There was also a Mootool project.
+
+1127
+00:57:48,000 --> 00:57:50,000
+A drag-and-drop operation
+
+1128
+00:57:50,000 --> 00:57:53,000
+with 2,000 types of code.
+
+1129
+00:57:53,000 --> 00:57:55,000
+At some point,
+
+1130
+00:57:55,000 --> 00:57:58,000
+we created one type of code in jQuery,
+
+1131
+00:57:58,000 --> 00:58:01,000
+and if we look back at jQuery now,
+
+1132
+00:58:01,000 --> 00:58:03,000
+we say, what have I done?
+
+1133
+00:58:03,000 --> 00:58:05,000
+I had such huge functions written
+
+1134
+00:58:05,000 --> 00:58:07,000
+that something small happened.
+
+1135
+00:58:07,000 --> 00:58:09,000
+These levels of abstraction
+
+1136
+00:58:09,000 --> 00:58:11,000
+started to be added,
+
+1137
+00:58:11,000 --> 00:58:13,000
+and how to integrate all of this
+
+1138
+00:58:13,000 --> 00:58:15,000
+is problematic.
+
+1139
+00:58:15,000 --> 00:58:17,000
+I work in the operating system,
+
+1140
+00:58:17,000 --> 00:58:20,000
+and I always say that 99% of the questions
+
+1141
+00:58:20,000 --> 00:58:23,000
+about this subject are answers from legacy.
+
+1142
+00:58:23,000 --> 00:58:25,000
+Why do we call a terminal a terminal?
+
+1143
+00:58:25,000 --> 00:58:27,000
+Why do we use an icon?
+
+1144
+00:58:27,000 --> 00:58:29,000
+And so on.
+
+1145
+00:58:29,000 --> 00:58:31,000
+We are so old now
+
+1146
+00:58:31,000 --> 00:58:34,000
+that we know why this is so.
+
+1147
+00:58:34,000 --> 00:58:37,000
+Some things are phenomenally illogical
+
+1148
+00:58:37,000 --> 00:58:39,000
+for a beginner.
+
+1149
+00:58:39,000 --> 00:58:41,000
+Sometimes you have the feeling
+
+1150
+00:58:41,000 --> 00:58:43,000
+that you can turn everything off
+
+1151
+00:58:43,000 --> 00:58:45,000
+and start writing anew.
+
+1152
+00:58:45,000 --> 00:58:47,000
+It's stupid.
+
+1153
+00:58:47,000 --> 00:58:49,000
+A bunch of stories show
+
+1154
+00:58:49,000 --> 00:58:51,000
+that Johnny did something on Tuesday
+
+1155
+00:58:51,000 --> 00:58:53,000
+and said, this is it.
+
+1156
+00:58:53,000 --> 00:58:55,000
+Let's look at bash.
+
+1157
+00:58:55,000 --> 00:58:57,000
+This thing is totally broken.
+
+1158
+00:58:57,000 --> 00:58:59,000
+Before Microsoft said,
+
+1159
+00:58:59,000 --> 00:59:01,000
+let's do a few more,
+
+1160
+00:59:01,000 --> 00:59:03,000
+and all the names were shown
+
+1161
+00:59:03,000 --> 00:59:05,000
+to be Japanese.
+
+1162
+00:59:05,000 --> 00:59:08,000
+They have at least 15 characters.
+
+1163
+00:59:08,000 --> 00:59:10,000
+But these levels of abstraction
+
+1164
+00:59:10,000 --> 00:59:12,000
+maybe scare us a bit,
+
+1165
+00:59:12,000 --> 00:59:14,000
+even us old people,
+
+1166
+00:59:14,000 --> 00:59:16,000
+because there are so many of them.
+
+1167
+00:59:16,000 --> 00:59:18,000
+You have a stack on the front end,
+
+1168
+00:59:18,000 --> 00:59:20,000
+and a stack on the back end.
+
+1169
+00:59:20,000 --> 00:59:22,000
+This is running in some
+
+1170
+00:59:22,000 --> 00:59:24,000
+virtualization environments
+
+1171
+00:59:24,000 --> 00:59:26,000
+that have their own stack.
+
+1172
+00:59:26,000 --> 00:59:28,000
+In the past, we installed LAMP
+
+1173
+00:59:28,000 --> 00:59:30,000
+in Apache.
+
+1174
+00:59:30,000 --> 00:59:32,000
+We put it in the folder
+
+1175
+00:59:32,000 --> 00:59:34,000
+and it worked.
+
+1176
+00:59:34,000 --> 00:59:36,000
+And that was it.
+
+1177
+00:59:36,000 --> 00:59:38,000
+Do you really have to know everything
+
+1178
+00:59:38,000 --> 00:59:40,000
+to be able to do it?
+
+1179
+00:59:40,000 --> 00:59:42,000
+No, but it's a huge advantage
+
+1180
+00:59:42,000 --> 00:59:44,000
+for a beginner to be able
+
+1181
+00:59:44,000 --> 00:59:46,000
+to do so many things.
+
+1182
+00:59:46,000 --> 00:59:48,000
+Why can't you just install
+
+1183
+00:59:48,000 --> 00:59:50,000
+150 lines to write Hello World?
+
+1184
+00:59:50,000 --> 00:59:52,000
+In Pascal, we added a diskette
+
+1185
+00:59:52,000 --> 00:59:54,000
+that ran the whole system
+
+1186
+00:59:54,000 --> 00:59:56,000
+together with the text editor.
+
+1187
+00:59:56,000 --> 00:59:58,000
+And that was it.
+
+1188
+00:59:58,000 --> 01:00:00,000
+A lot of diskettes and editors
+
+1189
+01:00:00,000 --> 01:00:02,000
+ran from the compiled program.
+
+1190
+01:00:02,000 --> 01:00:04,000
+And that was it.
+
+1191
+01:00:04,000 --> 01:00:06,000
+I think it's a huge advantage
+
+1192
+01:00:06,000 --> 01:00:08,000
+for all of us in the industry.
+
+1193
+01:00:08,000 --> 01:00:10,000
+On the other hand,
+
+1194
+01:00:10,000 --> 01:00:12,000
+we have to ask ourselves
+
+1195
+01:00:12,000 --> 01:00:14,000
+how many people,
+
+1196
+01:00:14,000 --> 01:00:16,000
+with all their signs,
+
+1197
+01:00:16,000 --> 01:00:18,000
+actually know these things.
+
+1198
+01:00:18,000 --> 01:00:20,000
+Probably more or less.
+
+1199
+01:00:20,000 --> 01:00:22,000
+Those who know
+
+1200
+01:00:22,000 --> 01:00:24,000
+are already very close to retirement.
+
+1201
+01:00:24,000 --> 01:00:26,000
+And this knowledge,
+
+1202
+01:00:26,000 --> 01:00:28,000
+this transfer of knowledge,
+
+1203
+01:00:28,000 --> 01:00:30,000
+we have to give a certain gift
+
+1204
+01:00:30,000 --> 01:00:32,000
+and ask ourselves
+
+1205
+01:00:32,000 --> 01:00:34,000
+if it's enough
+
+1206
+01:00:34,000 --> 01:00:36,000
+if we learn everything now,
+
+1207
+01:00:36,000 --> 01:00:38,000
+whether we are developers
+
+1208
+01:00:38,000 --> 01:00:40,000
+and use this book,
+
+1209
+01:00:40,000 --> 01:00:42,000
+and that book,
+
+1210
+01:00:42,000 --> 01:00:44,000
+and another book,
+
+1211
+01:00:44,000 --> 01:00:46,000
+do we want people to realize
+
+1212
+01:00:46,000 --> 01:00:48,000
+that such books are capable
+
+1213
+01:00:48,000 --> 01:00:50,000
+of self-development
+
+1214
+01:00:50,000 --> 01:00:52,000
+and are capable of completing
+
+1215
+01:00:52,000 --> 01:00:54,000
+this never-ending stack.
+
+1216
+01:00:54,000 --> 01:00:56,000
+The last step of this
+
+1217
+01:00:56,000 --> 01:00:58,000
+is the NoCode platform.
+
+1218
+01:00:58,000 --> 01:01:00,000
+You don't even use
+
+1219
+01:01:00,000 --> 01:01:02,000
+a mobile app anymore.
+
+1220
+01:01:04,000 --> 01:01:06,000
+If we talk about NoCode
+
+1221
+01:01:06,000 --> 01:01:08,000
+and serverless,
+
+1222
+01:01:08,000 --> 01:01:10,000
+why companies
+
+1223
+01:01:10,000 --> 01:01:12,000
+are adopting
+
+1224
+01:01:12,000 --> 01:01:14,000
+serverless and NoCode tools
+
+1225
+01:01:14,000 --> 01:01:16,000
+is exactly because of this.
+
+1226
+01:01:16,000 --> 01:01:18,000
+Now you have to realize
+
+1227
+01:01:18,000 --> 01:01:20,000
+that you don't care
+
+1228
+01:01:20,000 --> 01:01:22,000
+about these things anymore.
+
+1229
+01:01:22,000 --> 01:01:24,000
+The boss is happy,
+
+1230
+01:01:24,000 --> 01:01:26,000
+the company is happy,
+
+1231
+01:01:26,000 --> 01:01:28,000
+I'm crying, I hope.
+
+1232
+01:01:28,000 --> 01:01:30,000
+Every level of abstraction
+
+1233
+01:01:30,000 --> 01:01:32,000
+that we add
+
+1234
+01:01:32,000 --> 01:01:34,000
+has a set of things
+
+1235
+01:01:34,000 --> 01:01:36,000
+at the very beginning.
+
+1236
+01:01:36,000 --> 01:01:38,000
+But the level of abstraction
+
+1237
+01:01:38,000 --> 01:01:40,000
+that we add doesn't mean
+
+1238
+01:01:40,000 --> 01:01:42,000
+that it automatically reduces
+
+1239
+01:01:42,000 --> 01:01:44,000
+the complexity of the bottom.
+
+1240
+01:01:44,000 --> 01:01:46,000
+It just removes it
+
+1241
+01:01:46,000 --> 01:01:48,000
+or hides it a little.
+
+1242
+01:01:48,000 --> 01:01:50,000
+Even if we were historically
+
+1243
+01:01:50,000 --> 01:01:52,000
+like Peter said,
+
+1244
+01:01:52,000 --> 01:01:54,000
+writing Go To,
+
+1245
+01:01:54,000 --> 01:01:56,000
+or even Assemble,
+
+1246
+01:01:56,000 --> 01:01:58,000
+it would be even more brutal.
+
+1247
+01:01:58,000 --> 01:02:00,000
+Now we've made levels, levels, levels,
+
+1248
+01:02:00,000 --> 01:02:02,000
+levels, levels, levels,
+
+1249
+01:02:02,000 --> 01:02:04,000
+and now NoCode will
+
+1250
+01:02:04,000 --> 01:02:06,000
+pull it down
+
+1251
+01:02:06,000 --> 01:02:08,000
+year after year,
+
+1252
+01:02:08,000 --> 01:02:10,000
+because you don't program anything anymore.
+
+1253
+01:02:10,000 --> 01:02:12,000
+But Assemble still works.
+
+1254
+01:02:12,000 --> 01:02:14,000
+You can still find a job
+
+1255
+01:02:14,000 --> 01:02:16,000
+to work with Assemble.
+
+1256
+01:02:16,000 --> 01:02:18,000
+And all these stacks are jobs.
+
+1257
+01:02:20,000 --> 01:02:22,000
+I would add
+
+1258
+01:02:22,000 --> 01:02:24,000
+that we are working
+
+1259
+01:02:24,000 --> 01:02:26,000
+on these abstractions.
+
+1260
+01:02:26,000 --> 01:02:28,000
+Sometimes we even find them.
+
+1261
+01:02:28,000 --> 01:02:30,000
+A nice example is
+
+1262
+01:02:30,000 --> 01:02:32,000
+Frontend,
+
+1263
+01:02:32,000 --> 01:02:34,000
+where they are using
+
+1264
+01:02:34,000 --> 01:02:36,000
+an architecture
+
+1265
+01:02:36,000 --> 01:02:38,000
+called React,
+
+1266
+01:02:38,000 --> 01:02:40,000
+State Management,
+
+1267
+01:02:40,000 --> 01:02:42,000
+which is already called
+
+1268
+01:02:42,000 --> 01:02:44,000
+Redux.
+
+1269
+01:02:46,000 --> 01:02:48,000
+Redux is an abstraction
+
+1270
+01:02:48,000 --> 01:02:50,000
+that was invented in another
+
+1271
+01:02:50,000 --> 01:02:52,000
+programming language called Elm.
+
+1272
+01:02:52,000 --> 01:02:54,000
+And then they saw it in Elm
+
+1273
+01:02:54,000 --> 01:02:56,000
+and said,
+
+1274
+01:02:56,000 --> 01:02:58,000
+maybe we could
+
+1275
+01:02:58,000 --> 01:03:00,000
+use a similar concept
+
+1276
+01:03:00,000 --> 01:03:02,000
+in JavaScript.
+
+1277
+01:03:04,000 --> 01:03:06,000
+But it's a little difficult,
+
+1278
+01:03:06,000 --> 01:03:08,000
+because JavaScript is
+
+1279
+01:03:08,000 --> 01:03:10,000
+a different language,
+
+1280
+01:03:10,000 --> 01:03:12,000
+and these things are not
+
+1281
+01:03:12,000 --> 01:03:14,000
+one-to-one mapped.
+
+1282
+01:03:16,000 --> 01:03:18,000
+This original Elm,
+
+1283
+01:03:18,000 --> 01:03:20,000
+or something like that,
+
+1284
+01:03:20,000 --> 01:03:22,000
+a rare company
+
+1285
+01:03:22,000 --> 01:03:24,000
+implemented a complete Redux
+
+1286
+01:03:24,000 --> 01:03:26,000
+that was presented
+
+1287
+01:03:26,000 --> 01:03:28,000
+from Elm
+
+1288
+01:03:28,000 --> 01:03:30,000
+in JavaScript.
+
+1289
+01:03:30,000 --> 01:03:32,000
+Again, I can't imagine
+
+1290
+01:03:32,000 --> 01:03:34,000
+why something is needed,
+
+1291
+01:03:34,000 --> 01:03:36,000
+and they said,
+
+1292
+01:03:36,000 --> 01:03:38,000
+we won't do that.
+
+1293
+01:03:38,000 --> 01:03:40,000
+But then it turns out
+
+1294
+01:03:40,000 --> 01:03:42,000
+that when you start
+
+1295
+01:03:42,000 --> 01:03:44,000
+assembling together,
+
+1296
+01:03:44,000 --> 01:03:46,000
+more complex things
+
+1297
+01:03:46,000 --> 01:03:48,000
+come together than
+
+1298
+01:03:48,000 --> 01:03:50,000
+Lego bricks.
+
+1299
+01:03:50,000 --> 01:03:52,000
+And here is the problem
+
+1300
+01:03:52,000 --> 01:03:54,000
+that we have
+
+1301
+01:03:54,000 --> 01:03:56,000
+so many abstractions
+
+1302
+01:03:56,000 --> 01:03:58,000
+in the computer.
+
+1303
+01:03:58,000 --> 01:04:00,000
+We would like
+
+1304
+01:04:00,000 --> 01:04:02,000
+to express ourselves
+
+1305
+01:04:02,000 --> 01:04:04,000
+on a higher
+
+1306
+01:04:04,000 --> 01:04:06,000
+abstract level.
+
+1307
+01:04:06,000 --> 01:04:08,000
+I wouldn't like to
+
+1308
+01:04:08,000 --> 01:04:10,000
+do everything myself,
+
+1309
+01:04:10,000 --> 01:04:12,000
+but since we used abstractions
+
+1310
+01:04:12,000 --> 01:04:14,000
+that were poorly translated
+
+1311
+01:04:14,000 --> 01:04:16,000
+into another programming language,
+
+1312
+01:04:16,000 --> 01:04:18,000
+we need to know
+
+1313
+01:04:18,000 --> 01:04:20,000
+what's going on down there.
+
+1314
+01:04:22,000 --> 01:04:24,000
+It's not easy.
+
+1315
+01:04:24,000 --> 01:04:26,000
+Let's get back to
+
+1316
+01:04:26,000 --> 01:04:28,000
+why you need to program on paper.
+
+1317
+01:04:28,000 --> 01:04:30,000
+Because it increases
+
+1318
+01:04:30,000 --> 01:04:32,000
+your internal buffer.
+
+1319
+01:04:32,000 --> 01:04:34,000
+Why do you need to understand
+
+1320
+01:04:34,000 --> 01:04:36,000
+or burn a couple of LEDs
+
+1321
+01:04:36,000 --> 01:04:38,000
+in an assembly on a development board?
+
+1322
+01:04:38,000 --> 01:04:40,000
+Why do you need to know
+
+1323
+01:04:40,000 --> 01:04:42,000
+how UART works?
+
+1324
+01:04:42,000 --> 01:04:44,000
+There are a lot of things
+
+1325
+01:04:44,000 --> 01:04:46,000
+that may seem banal,
+
+1326
+01:04:46,000 --> 01:04:48,000
+but on the other hand,
+
+1327
+01:04:48,000 --> 01:04:50,000
+it gives us the depth
+
+1328
+01:04:50,000 --> 01:04:52,000
+where we can understand
+
+1329
+01:04:52,000 --> 01:04:54,000
+or develop things more easily.
+
+1330
+01:04:54,000 --> 01:04:56,000
+A typical example
+
+1331
+01:04:56,000 --> 01:04:58,000
+when we did the first Android apps.
+
+1332
+01:04:58,000 --> 01:05:00,000
+You need a state machine
+
+1333
+01:05:00,000 --> 01:05:02,000
+for messaging,
+
+1334
+01:05:02,000 --> 01:05:04,000
+or if we look at what happens
+
+1335
+01:05:04,000 --> 01:05:06,000
+when you turn off the application
+
+1336
+01:05:06,000 --> 01:05:08,000
+and then turn it on,
+
+1337
+01:05:08,000 --> 01:05:10,000
+there are a lot of states
+
+1338
+01:05:10,000 --> 01:05:12,000
+in the modern frameworks.
+
+1339
+01:05:12,000 --> 01:05:14,000
+One colleague,
+
+1340
+01:05:14,000 --> 01:05:16,000
+who is a great Flutter programmer
+
+1341
+01:05:16,000 --> 01:05:18,000
+from Alpha,
+
+1342
+01:05:18,000 --> 01:05:20,000
+has as much experience as Flutter,
+
+1343
+01:05:20,000 --> 01:05:22,000
+but not as much
+
+1344
+01:05:22,000 --> 01:05:24,000
+as the people
+
+1345
+01:05:24,000 --> 01:05:26,000
+who write their stories.
+
+1346
+01:05:26,000 --> 01:05:28,000
+They have more experience
+
+1347
+01:05:28,000 --> 01:05:30,000
+than the programming language
+
+1348
+01:05:30,000 --> 01:05:32,000
+in the city.
+
+1349
+01:05:32,000 --> 01:05:34,000
+One time,
+
+1350
+01:05:34,000 --> 01:05:36,000
+when we were talking,
+
+1351
+01:05:36,000 --> 01:05:38,000
+he said,
+
+1352
+01:05:38,000 --> 01:05:40,000
+why would you write an app
+
+1353
+01:05:40,000 --> 01:05:42,000
+if you couldn't write an app?
+
+1354
+01:05:42,000 --> 01:05:44,000
+One guy came and said,
+
+1355
+01:05:44,000 --> 01:05:46,000
+we know how to do it in C,
+
+1356
+01:05:46,000 --> 01:05:48,000
+for Android.
+
+1357
+01:05:48,000 --> 01:05:50,000
+You see,
+
+1358
+01:05:50,000 --> 01:05:52,000
+this level,
+
+1359
+01:05:52,000 --> 01:05:54,000
+maybe 10 years of difference
+
+1360
+01:05:54,000 --> 01:05:56,000
+between us,
+
+1361
+01:05:56,000 --> 01:05:58,000
+gives me something very familiar
+
+1362
+01:05:58,000 --> 01:06:00,000
+and state-of-the-art
+
+1363
+01:06:00,000 --> 01:06:02,000
+in my perception
+
+1364
+01:06:02,000 --> 01:06:04,000
+of what is Flutter capable of.
+
+1365
+01:06:04,000 --> 01:06:06,000
+Understanding how these state machines
+
+1366
+01:06:06,000 --> 01:06:08,000
+interact with each other.
+
+1367
+01:06:08,000 --> 01:06:10,000
+If you don't want to
+
+1368
+01:06:10,000 --> 01:06:12,000
+hit anything,
+
+1369
+01:06:12,000 --> 01:06:14,000
+you get into trouble
+
+1370
+01:06:14,000 --> 01:06:16,000
+where you reach your optimum
+
+1371
+01:06:16,000 --> 01:06:18,000
+and you say,
+
+1372
+01:06:18,000 --> 01:06:20,000
+I did this,
+
+1373
+01:06:20,000 --> 01:06:22,000
+and I'll do it again.
+
+1374
+01:06:22,000 --> 01:06:24,000
+You quickly get to the point
+
+1375
+01:06:24,000 --> 01:06:26,000
+where you start
+
+1376
+01:06:26,000 --> 01:06:28,000
+implicitly learning these things.
+
+1377
+01:06:28,000 --> 01:06:30,000
+Which is great,
+
+1378
+01:06:30,000 --> 01:06:32,000
+because there is
+
+1379
+01:06:32,000 --> 01:06:34,000
+a hidden dark web,
+
+1380
+01:06:34,000 --> 01:06:36,000
+hidden in the projects.
+
+1381
+01:06:36,000 --> 01:06:38,000
+We are already talking a lot.
+
+1382
+01:06:38,000 --> 01:06:40,000
+We are getting close
+
+1383
+01:06:40,000 --> 01:06:42,000
+to the end,
+
+1384
+01:06:42,000 --> 01:06:44,000
+so I will stop
+
+1385
+01:06:44,000 --> 01:06:46,000
+and ask specifically.
+
+1386
+01:06:46,000 --> 01:06:48,000
+Today, someone who is going
+
+1387
+01:06:48,000 --> 01:06:50,000
+on this path,
+
+1388
+01:06:50,000 --> 01:06:52,000
+where does it start?
+
+1389
+01:06:52,000 --> 01:06:54,000
+In which programming language?
+
+1390
+01:06:54,000 --> 01:06:56,000
+Is it mobile development?
+
+1391
+01:06:56,000 --> 01:06:58,000
+Is it splat development?
+
+1392
+01:06:58,000 --> 01:07:00,000
+Will it be you?
+
+1393
+01:07:00,000 --> 01:07:02,000
+Where does it start?
+
+1394
+01:07:02,000 --> 01:07:04,000
+Probably Python,
+
+1395
+01:07:04,000 --> 01:07:06,000
+and JavaScript.
+
+1396
+01:07:06,000 --> 01:07:08,000
+I think that today
+
+1397
+01:07:08,000 --> 01:07:10,000
+most of the computational paths
+
+1398
+01:07:10,000 --> 01:07:12,000
+start with Python.
+
+1399
+01:07:12,000 --> 01:07:14,000
+I think it's both
+
+1400
+01:07:14,000 --> 01:07:16,000
+a great language for learning.
+
+1401
+01:07:16,000 --> 01:07:18,000
+Where does it start?
+
+1402
+01:07:22,000 --> 01:07:24,000
+On the one hand,
+
+1403
+01:07:24,000 --> 01:07:26,000
+you find a problem
+
+1404
+01:07:26,000 --> 01:07:28,000
+that you would like to solve.
+
+1405
+01:07:28,000 --> 01:07:30,000
+On the other hand,
+
+1406
+01:07:30,000 --> 01:07:32,000
+I don't know,
+
+1407
+01:07:32,000 --> 01:07:34,000
+these complex portals with
+
+1408
+01:07:34,000 --> 01:07:36,000
+some kind of requirements.
+
+1409
+01:07:36,000 --> 01:07:38,000
+I think that you can
+
+1410
+01:07:38,000 --> 01:07:40,000
+learn a lot from them.
+
+1411
+01:07:40,000 --> 01:07:42,000
+The question is
+
+1412
+01:07:42,000 --> 01:07:44,000
+whether
+
+1413
+01:07:44,000 --> 01:07:46,000
+these requirements
+
+1414
+01:07:46,000 --> 01:07:48,000
+are presented
+
+1415
+01:07:48,000 --> 01:07:50,000
+in the right way.
+
+1416
+01:07:50,000 --> 01:07:52,000
+If they are presented in the right way,
+
+1417
+01:07:52,000 --> 01:07:54,000
+then
+
+1418
+01:07:54,000 --> 01:07:56,000
+the complexity
+
+1419
+01:07:56,000 --> 01:07:58,000
+gradually decreases.
+
+1420
+01:07:58,000 --> 01:08:00,000
+Sometimes you start
+
+1421
+01:08:00,000 --> 01:08:02,000
+solving two tasks,
+
+1422
+01:08:02,000 --> 01:08:04,000
+and the third one is like that.
+
+1423
+01:08:04,000 --> 01:08:06,000
+In the last year,
+
+1424
+01:08:06,000 --> 01:08:08,000
+my expectations
+
+1425
+01:08:08,000 --> 01:08:10,000
+have increased.
+
+1426
+01:08:10,000 --> 01:08:12,000
+The same with Python.
+
+1427
+01:08:12,000 --> 01:08:14,000
+I solved two or three tasks,
+
+1428
+01:08:14,000 --> 01:08:16,000
+but the fourth one
+
+1429
+01:08:16,000 --> 01:08:18,000
+seemed too easy for me.
+
+1430
+01:08:18,000 --> 01:08:20,000
+I really took a lot of time
+
+1431
+01:08:20,000 --> 01:08:22,000
+to figure out
+
+1432
+01:08:22,000 --> 01:08:24,000
+what programming is for.
+
+1433
+01:08:24,000 --> 01:08:26,000
+Where do you start?
+
+1434
+01:08:26,000 --> 01:08:28,000
+At the faculty?
+
+1435
+01:08:28,000 --> 01:08:30,000
+At the university program,
+
+1436
+01:08:30,000 --> 01:08:32,000
+we start with Java and C.
+
+1437
+01:08:32,000 --> 01:08:34,000
+At the university program,
+
+1438
+01:08:34,000 --> 01:08:36,000
+we start with Java and Python.
+
+1439
+01:08:36,000 --> 01:08:38,000
+It's always a debate
+
+1440
+01:08:38,000 --> 01:08:40,000
+whether I need to know C or not.
+
+1441
+01:08:40,000 --> 01:08:42,000
+Java has references,
+
+1442
+01:08:42,000 --> 01:08:44,000
+which is basically pointer to pointer.
+
+1443
+01:08:44,000 --> 01:08:46,000
+If you know what a pointer is,
+
+1444
+01:08:46,000 --> 01:08:48,000
+I wouldn't say for a beginner
+
+1445
+01:08:48,000 --> 01:08:50,000
+to start with C.
+
+1446
+01:08:50,000 --> 01:08:52,000
+I can say that
+
+1447
+01:08:52,000 --> 01:08:54,000
+you can start with C.
+
+1448
+01:08:54,000 --> 01:08:56,000
+Come for free.
+
+1449
+01:08:56,000 --> 01:08:58,000
+What can the faculty give you?
+
+1450
+01:08:58,000 --> 01:09:00,000
+It can't give you all the knowledge
+
+1451
+01:09:00,000 --> 01:09:02,000
+we have available
+
+1452
+01:09:02,000 --> 01:09:04,000
+on mobile devices and computers.
+
+1453
+01:09:04,000 --> 01:09:06,000
+There are people
+
+1454
+01:09:06,000 --> 01:09:08,000
+who can ask you in a very
+
+1455
+01:09:08,000 --> 01:09:10,000
+stupid way,
+
+1456
+01:09:10,000 --> 01:09:12,000
+I don't need to be an expert,
+
+1457
+01:09:12,000 --> 01:09:14,000
+I don't need to know what to google,
+
+1458
+01:09:14,000 --> 01:09:16,000
+I don't need to know which tutorial
+
+1459
+01:09:16,000 --> 01:09:18,000
+to find on the internet.
+
+1460
+01:09:18,000 --> 01:09:20,000
+There are people who will
+
+1461
+01:09:20,000 --> 01:09:22,000
+give you all the knowledge.
+
+1462
+01:09:22,000 --> 01:09:24,000
+Free has the beauty
+
+1463
+01:09:24,000 --> 01:09:26,000
+of making a relatively open
+
+1464
+01:09:26,000 --> 01:09:28,000
+room for other faculties.
+
+1465
+01:09:28,000 --> 01:09:30,000
+You can come to any laboratory
+
+1466
+01:09:30,000 --> 01:09:32,000
+and ask for a cup of coffee.
+
+1467
+01:09:32,000 --> 01:09:34,000
+You don't have to worry
+
+1468
+01:09:34,000 --> 01:09:36,000
+that it's someone
+
+1469
+01:09:36,000 --> 01:09:38,000
+who has a doctorate
+
+1470
+01:09:38,000 --> 01:09:40,000
+and isn't a doctorate
+
+1471
+01:09:40,000 --> 01:09:42,000
+or is a professor.
+
+1472
+01:09:42,000 --> 01:09:44,000
+You can come to any of them
+
+1473
+01:09:44,000 --> 01:09:46,000
+and say that you have a problem
+
+1474
+01:09:46,000 --> 01:09:48,000
+and they help you solve it.
+
+1475
+01:09:48,000 --> 01:09:50,000
+Then you get people
+
+1476
+01:09:50,000 --> 01:09:52,000
+who will welcome you
+
+1477
+01:09:52,000 --> 01:09:54,000
+and say that they have solved
+
+1478
+01:09:54,000 --> 01:09:56,000
+a very complex problem.
+
+1479
+01:09:56,000 --> 01:09:58,000
+If I may ask you,
+
+1480
+01:09:58,000 --> 01:10:00,000
+why do I go to free
+
+1481
+01:10:00,000 --> 01:10:02,000
+rather than to math
+
+1482
+01:10:02,000 --> 01:10:04,000
+or physics?
+
+1483
+01:10:04,000 --> 01:10:06,000
+After all, I see people
+
+1484
+01:10:06,000 --> 01:10:08,000
+who come from different
+
+1485
+01:10:08,000 --> 01:10:10,000
+Norwegian faculties
+
+1486
+01:10:10,000 --> 01:10:12,000
+in programming.
+
+1487
+01:10:12,000 --> 01:10:14,000
+That's a good question.
+
+1488
+01:10:14,000 --> 01:10:16,000
+From this point of view,
+
+1489
+01:10:16,000 --> 01:10:18,000
+two students from all
+
+1490
+01:10:18,000 --> 01:10:20,000
+Norwegian technical faculties
+
+1491
+01:10:20,000 --> 01:10:22,000
+could be relatively the same.
+
+1492
+01:10:22,000 --> 01:10:24,000
+The difference is
+
+1493
+01:10:24,000 --> 01:10:26,000
+in the applicability.
+
+1494
+01:10:26,000 --> 01:10:28,000
+Probably in math and physics
+
+1495
+01:10:28,000 --> 01:10:30,000
+students deal with different
+
+1496
+01:10:30,000 --> 01:10:32,000
+problems than we do.
+
+1497
+01:10:32,000 --> 01:10:34,000
+We will go to the application
+
+1498
+01:10:34,000 --> 01:10:36,000
+for a specific field
+
+1499
+01:10:36,000 --> 01:10:38,000
+and specific problems.
+
+1500
+01:10:38,000 --> 01:10:40,000
+The theoretical part
+
+1501
+01:10:40,000 --> 01:10:42,000
+will probably be more powerful
+
+1502
+01:10:42,000 --> 01:10:44,000
+there.
+
+1503
+01:10:44,000 --> 01:10:46,000
+I am on a relatively high level
+
+1504
+01:10:46,000 --> 01:10:48,000
+and you can find people
+
+1505
+01:10:48,000 --> 01:10:50,000
+everywhere
+
+1506
+01:10:50,000 --> 01:10:52,000
+where you can come to them
+
+1507
+01:10:52,000 --> 01:10:54,000
+and say that you have a problem
+
+1508
+01:10:54,000 --> 01:10:56,000
+or they will help you
+
+1509
+01:10:56,000 --> 01:10:58,000
+solve it.
+
+1510
+01:10:58,000 --> 01:11:00,000
+That's the beauty of FACS.
+
+1511
+01:11:00,000 --> 01:11:02,000
+Nowadays, when we realized
+
+1512
+01:11:02,000 --> 01:11:04,000
+that everyone can work
+
+1513
+01:11:04,000 --> 01:11:06,000
+online and watch lectures,
+
+1514
+01:11:06,000 --> 01:11:08,000
+personal contact is the only
+
+1515
+01:11:08,000 --> 01:11:10,000
+thing the faculty can give you
+
+1516
+01:11:10,000 --> 01:11:12,000
+if you don't need all the knowledge.
+
+1517
+01:11:12,000 --> 01:11:14,000
+I don't need to do as good
+
+1518
+01:11:14,000 --> 01:11:16,000
+a lecture as someone on Coursera
+
+1519
+01:11:16,000 --> 01:11:18,000
+who did one lecture in three months.
+
+1520
+01:11:18,000 --> 01:11:20,000
+What we can give you is
+
+1521
+01:11:20,000 --> 01:11:22,000
+that you come to me, we work
+
+1522
+01:11:22,000 --> 01:11:24,000
+together on some problems,
+
+1523
+01:11:24,000 --> 01:11:26,000
+we work together on complex tasks
+
+1524
+01:11:26,000 --> 01:11:28,000
+and I can help you and guide you.
+
+1525
+01:11:28,000 --> 01:11:30,000
+That's the only added value
+
+1526
+01:11:30,000 --> 01:11:32,000
+of FACS.
+
+1527
+01:11:32,000 --> 01:11:34,000
+You have all the other things
+
+1528
+01:11:34,000 --> 01:11:36,000
+on the internet.
+
+1529
+01:11:36,000 --> 01:11:38,000
+You can sit down and discuss
+
+1530
+01:11:38,000 --> 01:11:40,000
+all the knowledge through YouTube
+
+1531
+01:11:40,000 --> 01:11:42,000
+or through FACS.
+
+1532
+01:11:42,000 --> 01:11:44,000
+Most of us are mortals
+
+1533
+01:11:44,000 --> 01:11:46,000
+and we need someone who has
+
+1534
+01:11:46,000 --> 01:11:48,000
+been through a lot
+
+1535
+01:11:48,000 --> 01:11:50,000
+to help us along the way.
+
+1536
+01:11:50,000 --> 01:11:52,000
+That's why.
+
+1537
+01:11:52,000 --> 01:11:54,000
+Jesus, you are so well-founded.
+
+1538
+01:11:56,000 --> 01:11:58,000
+When are you going to sign up?
+
+1539
+01:12:00,000 --> 01:12:02,000
+No, you sold well.
+
+1540
+01:12:02,000 --> 01:12:04,000
+I am also a high school teacher
+
+1541
+01:12:04,000 --> 01:12:06,000
+for those who have to go to high school.
+
+1542
+01:12:06,000 --> 01:12:08,000
+You can tell them the same.
+
+1543
+01:12:08,000 --> 01:12:10,000
+The thing is
+
+1544
+01:12:10,000 --> 01:12:12,000
+that most people
+
+1545
+01:12:12,000 --> 01:12:14,000
+who work in this industry
+
+1546
+01:12:14,000 --> 01:12:16,000
+really have a passion
+
+1547
+01:12:16,000 --> 01:12:18,000
+for technology.
+
+1548
+01:12:18,000 --> 01:12:20,000
+They like to talk about it.
+
+1549
+01:12:20,000 --> 01:12:22,000
+They like to help.
+
+1550
+01:12:22,000 --> 01:12:24,000
+Most of the people
+
+1551
+01:12:24,000 --> 01:12:26,000
+will want to help you.
+
+1552
+01:12:26,000 --> 01:12:28,000
+Don't be afraid to ask.
+
+1553
+01:12:28,000 --> 01:12:30,000
+I know it's hard to ask.
+
+1554
+01:12:30,000 --> 01:12:32,000
+I know that sometimes
+
+1555
+01:12:32,000 --> 01:12:34,000
+it's natural to ask.
+
+1556
+01:12:34,000 --> 01:12:36,000
+I know that sometimes
+
+1557
+01:12:36,000 --> 01:12:38,000
+people will help you
+
+1558
+01:12:38,000 --> 01:12:40,000
+in a special way.
+
+1559
+01:12:40,000 --> 01:12:42,000
+The world is so connected
+
+1560
+01:12:42,000 --> 01:12:44,000
+that you really have
+
+1561
+01:12:44,000 --> 01:12:46,000
+a lot of communities
+
+1562
+01:12:46,000 --> 01:12:48,000
+for everything.
+
+1563
+01:12:48,000 --> 01:12:50,000
+Maybe it's English
+
+1564
+01:12:50,000 --> 01:12:52,000
+and you learn English smartly.
+
+1565
+01:12:52,000 --> 01:12:54,000
+But you also have a community
+
+1566
+01:12:54,000 --> 01:12:56,000
+in Slovenia.
+
+1567
+01:12:56,000 --> 01:12:58,000
+You have a Python meetup,
+
+1568
+01:12:58,000 --> 01:13:00,000
+an ARM meetup,
+
+1569
+01:13:00,000 --> 01:13:02,000
+a JavaScript meetup.
+
+1570
+01:13:02,000 --> 01:13:04,000
+You have events
+
+1571
+01:13:04,000 --> 01:13:06,000
+with people who already know it.
+
+1572
+01:13:06,000 --> 01:13:08,000
+That's a great way
+
+1573
+01:13:08,000 --> 01:13:10,000
+to do it.
+
+1574
+01:13:10,000 --> 01:13:12,000
+When it comes to technology,
+
+1575
+01:13:14,000 --> 01:13:16,000
+try as many
+
+1576
+01:13:16,000 --> 01:13:18,000
+different things as you can.
+
+1577
+01:13:18,000 --> 01:13:20,000
+Then say
+
+1578
+01:13:20,000 --> 01:13:22,000
+I will learn one thing well,
+
+1579
+01:13:22,000 --> 01:13:24,000
+whatever it is,
+
+1580
+01:13:24,000 --> 01:13:26,000
+to go through
+
+1581
+01:13:26,000 --> 01:13:28,000
+one language from start to finish.
+
+1582
+01:13:28,000 --> 01:13:30,000
+Whether it's Java
+
+1583
+01:13:30,000 --> 01:13:32,000
+or C++.
+
+1584
+01:13:32,000 --> 01:13:34,000
+Finish the book
+
+1585
+01:13:34,000 --> 01:13:36,000
+so you can learn
+
+1586
+01:13:36,000 --> 01:13:38,000
+some things.
+
+1587
+01:13:38,000 --> 01:13:40,000
+When you switch languages,
+
+1588
+01:13:40,000 --> 01:13:42,000
+you have to learn
+
+1589
+01:13:42,000 --> 01:13:44,000
+the difference
+
+1590
+01:13:44,000 --> 01:13:46,000
+or the specifics.
+
+1591
+01:13:46,000 --> 01:13:48,000
+A lot of
+
+1592
+01:13:48,000 --> 01:13:50,000
+basic algorithms
+
+1593
+01:13:50,000 --> 01:13:52,000
+are transferable.
+
+1594
+01:13:52,000 --> 01:13:54,000
+A lot of knowledge is transferable.
+
+1595
+01:13:54,000 --> 01:13:56,000
+When we talk about abstractions,
+
+1596
+01:13:56,000 --> 01:13:58,000
+a lot of abstractions are transferable.
+
+1597
+01:13:58,000 --> 01:14:00,000
+You have to go through
+
+1598
+01:14:00,000 --> 01:14:02,000
+the book
+
+1599
+01:14:02,000 --> 01:14:04,000
+from start to finish.
+
+1600
+01:14:04,000 --> 01:14:06,000
+I would recommend
+
+1601
+01:14:06,000 --> 01:14:08,000
+a lot of side projects.
+
+1602
+01:14:08,000 --> 01:14:10,000
+A lot of side projects.
+
+1603
+01:14:10,000 --> 01:14:12,000
+What are side projects?
+
+1604
+01:14:12,000 --> 01:14:14,000
+We can ask the guests.
+
+1605
+01:14:14,000 --> 01:14:16,000
+If you can,
+
+1606
+01:14:16,000 --> 01:14:18,000
+you can ask the last question.
+
+1607
+01:14:18,000 --> 01:14:20,000
+No, I think
+
+1608
+01:14:20,000 --> 01:14:22,000
+in 15 minutes
+
+1609
+01:14:22,000 --> 01:14:24,000
+the last one
+
+1610
+01:14:24,000 --> 01:14:26,000
+will be over.
+
+1611
+01:14:26,000 --> 01:14:28,000
+Great,
+
+1612
+01:14:28,000 --> 01:14:30,000
+thank you for doing this.
+
+1613
+01:14:30,000 --> 01:14:32,000
+What would you like, Peter,
+
+1614
+01:14:32,000 --> 01:14:34,000
+for a junior to bring with him
+
+1615
+01:14:34,000 --> 01:14:36,000
+when he joins your team?
+
+1616
+01:14:36,000 --> 01:14:38,000
+What would he or she
+
+1617
+01:14:38,000 --> 01:14:40,000
+already know?
+
+1618
+01:14:40,000 --> 01:14:42,000
+What can they learn?
+
+1619
+01:14:44,000 --> 01:14:46,000
+My team is very specific
+
+1620
+01:14:46,000 --> 01:14:48,000
+because we work on data science.
+
+1621
+01:14:48,000 --> 01:14:50,000
+Data science
+
+1622
+01:14:50,000 --> 01:14:52,000
+is a national
+
+1623
+01:14:52,000 --> 01:14:54,000
+endeavor.
+
+1624
+01:14:54,000 --> 01:14:56,000
+It's a medical space.
+
+1625
+01:14:56,000 --> 01:14:58,000
+It's a medical space.
+
+1626
+01:14:58,000 --> 01:15:00,000
+It's a medical space.
+
+1627
+01:15:00,000 --> 01:15:06,000
+Data science is like the next big thing, and everyone wanted to be a data scientist,
+
+1628
+01:15:06,000 --> 01:15:08,000
+but that's not true.
+
+1629
+01:15:08,000 --> 01:15:12,000
+In order to be a good data scientist, you need to be very good at programming,
+
+1630
+01:15:12,000 --> 01:15:15,000
+you need to be very good at math, especially in statistics,
+
+1631
+01:15:15,000 --> 01:15:19,000
+you often get a certificate in mathematics, you don't have to, right?
+
+1632
+01:15:19,000 --> 01:15:28,000
+Well, I think there was a third one, but I don't remember.
+
+1633
+01:15:28,000 --> 01:15:30,000
+There was a third one.
+
+1634
+01:15:30,000 --> 01:15:33,000
+Blackmagic will do it.
+
+1635
+01:15:33,000 --> 01:15:37,000
+And now people are introducing themselves,
+
+1636
+01:15:37,000 --> 01:15:45,000
+I know how to write in those Pandas, Python notebooks, some graphs,
+
+1637
+01:15:45,000 --> 01:15:48,000
+and now I will be a data scientist.
+
+1638
+01:15:48,000 --> 01:16:01,000
+So, I think that in my field, people can use music, but they don't.
+
+1639
+01:16:01,000 --> 01:16:06,000
+I think people can use statistics and probability,
+
+1640
+01:16:06,000 --> 01:16:11,000
+and I think that's a very valuable thing,
+
+1641
+01:16:11,000 --> 01:16:16,000
+and I think that's another thing you would want to program.
+
+1642
+01:16:16,000 --> 01:16:24,000
+It has the capacity, and the desire to solve problems.
+
+1643
+01:16:24,000 --> 01:16:28,000
+So, maybe I, if I have to answer,
+
+1644
+01:16:28,000 --> 01:16:31,000
+who would I like to have in my team?
+
+1645
+01:16:31,000 --> 01:16:35,000
+I have 30 years of experience.
+
+1646
+01:16:35,000 --> 01:16:42,000
+On the other hand, we have some young people,
+
+1647
+01:16:42,000 --> 01:16:49,000
+and it's fascinating how they have the right approach,
+
+1648
+01:16:49,000 --> 01:16:52,000
+it's interesting, it's okay to solve this problem,
+
+1649
+01:16:52,000 --> 01:16:55,000
+but what else can I do?
+
+1650
+01:16:55,000 --> 01:17:01,000
+Mateo, at the beginning we didn't say that you are not only a teacher,
+
+1651
+01:17:01,000 --> 01:17:04,000
+but you also work a lot with companies,
+
+1652
+01:17:04,000 --> 01:17:10,000
+so you probably have a look at what Fax gives to someone,
+
+1653
+01:17:10,000 --> 01:17:16,000
+and what Fax doesn't prepare people who join.
+
+1654
+01:17:16,000 --> 01:17:20,000
+Yes, because of that, who would I like to have in my team?
+
+1655
+01:17:20,000 --> 01:17:22,000
+Highly motivated people.
+
+1656
+01:17:22,000 --> 01:17:24,000
+That's it, primarily.
+
+1657
+01:17:24,000 --> 01:17:27,000
+Everything else, we will get to that, no problem,
+
+1658
+01:17:27,000 --> 01:17:30,000
+we will get to that, you will know, you will have a certain level.
+
+1659
+01:17:30,000 --> 01:17:36,000
+And I think, because of cooperation with the economy,
+
+1660
+01:17:36,000 --> 01:17:41,000
+I would say that what Fax gives you,
+
+1661
+01:17:41,000 --> 01:17:46,000
+is that sometimes you have to believe that we know why it's good,
+
+1662
+01:17:46,000 --> 01:17:48,000
+that you know the jigsaw,
+
+1663
+01:17:48,000 --> 01:17:51,000
+even if you don't know at the moment why it's good.
+
+1664
+01:17:51,000 --> 01:17:54,000
+But if you come to Peter in five years,
+
+1665
+01:17:54,000 --> 01:17:57,000
+you would think that these are simple problems,
+
+1666
+01:17:57,000 --> 01:17:59,000
+that you can solve them.
+
+1667
+01:17:59,000 --> 01:18:02,000
+Depending on the specific frame,
+
+1668
+01:18:02,000 --> 01:18:05,000
+or orientation in a specific direction or topic,
+
+1669
+01:18:05,000 --> 01:18:08,000
+people need motivation.
+
+1670
+01:18:08,000 --> 01:18:10,000
+When people come motivated,
+
+1671
+01:18:10,000 --> 01:18:13,000
+yes, everyone has a little more or less listening,
+
+1672
+01:18:13,000 --> 01:18:16,000
+and of course we all want the most listening,
+
+1673
+01:18:16,000 --> 01:18:19,000
+but if people don't have motivation,
+
+1674
+01:18:20,000 --> 01:18:23,000
+then they usually don't give you a fax,
+
+1675
+01:18:23,000 --> 01:18:28,000
+and they usually know that in the quality of the projects,
+
+1676
+01:18:28,000 --> 01:18:32,000
+the way of cooperation, freelancing or employment.
+
+1677
+01:18:32,000 --> 01:18:37,000
+Then this is somehow taken away in other aspects.
+
+1678
+01:18:37,000 --> 01:18:42,000
+Rarely, a person would say that he doesn't need a fax,
+
+1679
+01:18:42,000 --> 01:18:44,000
+because it's good.
+
+1680
+01:18:44,000 --> 01:18:47,000
+Because these are the people who made a fax for Zravan,
+
+1681
+01:18:47,000 --> 01:18:50,000
+who did it, because it wasn't hard for them.
+
+1682
+01:18:50,000 --> 01:18:52,000
+Some of you had tears,
+
+1683
+01:18:52,000 --> 01:18:54,000
+some of you were my classmates,
+
+1684
+01:18:54,000 --> 01:18:56,000
+when I was a graduate,
+
+1685
+01:18:56,000 --> 01:18:59,000
+and I can say that these are phenomenal people,
+
+1686
+01:18:59,000 --> 01:19:02,000
+who would say that you don't need a fax.
+
+1687
+01:19:02,000 --> 01:19:06,000
+But sometimes you have to go through a very difficult topic,
+
+1688
+01:19:06,000 --> 01:19:09,000
+which is very challenging for you,
+
+1689
+01:19:09,000 --> 01:19:11,000
+because your partner,
+
+1690
+01:19:11,000 --> 01:19:14,000
+who went through a similar topic in three years,
+
+1691
+01:19:14,000 --> 01:19:17,000
+says that if he was able to go through it,
+
+1692
+01:19:17,000 --> 01:19:20,000
+then he would be able to finish the project.
+
+1693
+01:19:20,000 --> 01:19:23,000
+I can also say that we had some topics
+
+1694
+01:19:23,000 --> 01:19:26,000
+that were shared with me.
+
+1695
+01:19:26,000 --> 01:19:28,000
+Why would I need it?
+
+1696
+01:19:28,000 --> 01:19:31,000
+For example, we had a lecture
+
+1697
+01:19:31,000 --> 01:19:33,000
+on computer technology,
+
+1698
+01:19:33,000 --> 01:19:36,000
+which was taught by Professor Sretkar.
+
+1699
+01:19:36,000 --> 01:19:38,000
+I said that your older colleagues
+
+1700
+01:19:38,000 --> 01:19:40,000
+will tell you that it's physics 2,
+
+1701
+01:19:40,000 --> 01:19:42,000
+but if you look at computers,
+
+1702
+01:19:42,000 --> 01:19:45,000
+what is different from physics?
+
+1703
+01:19:45,000 --> 01:19:47,000
+Then you start to put electrons
+
+1704
+01:19:47,000 --> 01:19:49,000
+into infinite potential holes.
+
+1705
+01:19:49,000 --> 01:19:51,000
+Sometimes 10 to the minus 34.
+
+1706
+01:19:51,000 --> 01:19:53,000
+We didn't even know what it had to do
+
+1707
+01:19:53,000 --> 01:19:55,000
+with our forces on the slope.
+
+1708
+01:19:55,000 --> 01:19:57,000
+That's physics, of course.
+
+1709
+01:19:57,000 --> 01:19:59,000
+You know it from high school.
+
+1710
+01:19:59,000 --> 01:20:01,000
+But 10-15 years later,
+
+1711
+01:20:01,000 --> 01:20:03,000
+we're working on a scheme
+
+1712
+01:20:03,000 --> 01:20:06,000
+of automatic elucidation of organic bonds.
+
+1713
+01:20:06,000 --> 01:20:09,000
+Basically, we're trying to automate
+
+1714
+01:20:09,000 --> 01:20:11,000
+the understanding of spectra,
+
+1715
+01:20:11,000 --> 01:20:13,000
+on different spectra,
+
+1716
+01:20:13,000 --> 01:20:15,000
+which have their own flaws,
+
+1717
+01:20:15,000 --> 01:20:17,000
+which are maybe a bit blurred,
+
+1718
+01:20:17,000 --> 01:20:19,000
+which are not all visible.
+
+1719
+01:20:19,000 --> 01:20:22,000
+We're trying to use all this knowledge
+
+1720
+01:20:22,000 --> 01:20:25,000
+from this subject to understand
+
+1721
+01:20:25,000 --> 01:20:27,000
+what they're trying to explain
+
+1722
+01:20:27,000 --> 01:20:29,000
+to us through some tables
+
+1723
+01:20:29,000 --> 01:20:32,000
+that have been calculated in the last 100 years.
+
+1724
+01:20:32,000 --> 01:20:34,000
+In the meantime, you have to have
+
+1725
+01:20:34,000 --> 01:20:36,000
+a bit of faith that your boss,
+
+1726
+01:20:36,000 --> 01:20:38,000
+or whoever he is, knows
+
+1727
+01:20:38,000 --> 01:20:40,000
+that there's a good reason
+
+1728
+01:20:40,000 --> 01:20:42,000
+why this moment doesn't seem
+
+1729
+01:20:42,000 --> 01:20:44,000
+so important to you.
+
+1730
+01:20:44,000 --> 01:20:46,000
+Because in five years,
+
+1731
+01:20:46,000 --> 01:20:48,000
+this probability and statistics
+
+1732
+01:20:48,000 --> 01:20:50,000
+will be very important
+
+1733
+01:20:50,000 --> 01:20:52,000
+for your understanding
+
+1734
+01:20:52,000 --> 01:20:54,000
+of our problems on our farm.
+
+1735
+01:20:54,000 --> 01:20:56,000
+No, that's too long.
+
+1736
+01:20:56,000 --> 01:20:58,000
+No, no, it's cool.
+
+1737
+01:20:58,000 --> 01:21:00,000
+I always have an answer.
+
+1738
+01:21:00,000 --> 01:21:02,000
+The most valuable part,
+
+1739
+01:21:02,000 --> 01:21:04,000
+the most valuable employee,
+
+1740
+01:21:04,000 --> 01:21:06,000
+the most valuable colleague
+
+1741
+01:21:06,000 --> 01:21:08,000
+with whom I work,
+
+1742
+01:21:08,000 --> 01:21:10,000
+and we can all talk about this
+
+1743
+01:21:10,000 --> 01:21:12,000
+in technology later,
+
+1744
+01:21:12,000 --> 01:21:14,000
+but what does it mean
+
+1745
+01:21:14,000 --> 01:21:16,000
+that he has it?
+
+1746
+01:21:16,000 --> 01:21:18,000
+If someone,
+
+1747
+01:21:18,000 --> 01:21:20,000
+you said motivated,
+
+1748
+01:21:20,000 --> 01:21:22,000
+means that he will find
+
+1749
+01:21:22,000 --> 01:21:24,000
+this energy,
+
+1750
+01:21:24,000 --> 01:21:26,000
+that he will learn
+
+1751
+01:21:26,000 --> 01:21:28,000
+what he doesn't know yet,
+
+1752
+01:21:28,000 --> 01:21:30,000
+that if he,
+
+1753
+01:21:30,000 --> 01:21:32,000
+if we go to the very beginning
+
+1754
+01:21:32,000 --> 01:21:34,000
+of our conversation,
+
+1755
+01:21:34,000 --> 01:21:36,000
+that if he comes to the problem
+
+1756
+01:21:36,000 --> 01:21:38,000
+that he will grind,
+
+1757
+01:21:38,000 --> 01:21:40,000
+that he will learn,
+
+1758
+01:21:40,000 --> 01:21:42,000
+that he will research,
+
+1759
+01:21:42,000 --> 01:21:44,000
+that he will look,
+
+1760
+01:21:44,000 --> 01:21:46,000
+that he will grow,
+
+1761
+01:21:46,000 --> 01:21:48,000
+that he will shoot,
+
+1762
+01:21:48,000 --> 01:21:50,000
+whatever.
+
+1763
+01:21:50,000 --> 01:21:52,000
+That desire,
+
+1764
+01:21:52,000 --> 01:21:54,000
+it can be overcome,
+
+1765
+01:21:54,000 --> 01:21:56,000
+but that's what you need
+
+1766
+01:21:56,000 --> 01:21:58,000
+in the end.
+
+1767
+01:21:58,000 --> 01:22:00,000
+If you want,
+
+1768
+01:22:00,000 --> 01:22:02,000
+you have different teams,
+
+1769
+01:22:02,000 --> 01:22:04,000
+but for me,
+
+1770
+01:22:04,000 --> 01:22:06,000
+the most important thing
+
+1771
+01:22:06,000 --> 01:22:08,000
+is motivation.
+
+1772
+01:22:08,000 --> 01:22:10,000
+You can try this
+
+1773
+01:22:10,000 --> 01:22:12,000
+through CV,
+
+1774
+01:22:12,000 --> 01:22:14,000
+through references,
+
+1775
+01:22:14,000 --> 01:22:16,000
+through experience,
+
+1776
+01:22:16,000 --> 01:22:18,000
+through 5 projects,
+
+1777
+01:22:18,000 --> 01:22:20,000
+whatever,
+
+1778
+01:22:20,000 --> 01:22:22,000
+but I always looked for
+
+1779
+01:22:22,000 --> 01:22:24,000
+this interest,
+
+1780
+01:22:24,000 --> 01:22:26,000
+this desire.
+
+1781
+01:22:26,000 --> 01:22:28,000
+Such people will learn.
+
+1782
+01:22:28,000 --> 01:22:30,000
+You can't buy it.
+
+1783
+01:22:30,000 --> 01:22:32,000
+From this recruiting,
+
+1784
+01:22:32,000 --> 01:22:34,000
+when you get
+
+1785
+01:22:34,000 --> 01:22:36,000
+the first game server I made
+
+1786
+01:22:36,000 --> 01:22:38,000
+when I was 12 years old,
+
+1787
+01:22:38,000 --> 01:22:40,000
+I put it in the room
+
+1788
+01:22:40,000 --> 01:22:42,000
+and there were a million users
+
+1789
+01:22:42,000 --> 01:22:44,000
+when I was 12 years old.
+
+1790
+01:22:44,000 --> 01:22:46,000
+This real
+
+1791
+01:22:46,000 --> 01:22:48,000
+motivation.
+
+1792
+01:22:48,000 --> 01:22:50,000
+At the same time,
+
+1793
+01:22:50,000 --> 01:22:52,000
+this real motivation.
+
+1794
+01:22:52,000 --> 01:22:54,000
+It probably takes a long time.
+
+1795
+01:22:54,000 --> 01:22:56,000
+Maybe it looks like
+
+1796
+01:22:56,000 --> 01:22:58,000
+someone who comes to FACS
+
+1797
+01:22:58,000 --> 01:23:00,000
+without actually
+
+1798
+01:23:00,000 --> 01:23:02,000
+trying.
+
+1799
+01:23:02,000 --> 01:23:04,000
+Again, it's about motivation.
+
+1800
+01:23:04,000 --> 01:23:06,000
+Everything else comes with time.
+
+1801
+01:23:06,000 --> 01:23:08,000
+But the motivation
+
+1802
+01:23:08,000 --> 01:23:10,000
+and loyalty,
+
+1803
+01:23:10,000 --> 01:23:12,000
+that you are there.
+
+1804
+01:23:12,000 --> 01:23:14,000
+These are two components
+
+1805
+01:23:14,000 --> 01:23:16,000
+of a person
+
+1806
+01:23:16,000 --> 01:23:18,000
+that are the most important.
+
+1807
+01:23:18,000 --> 01:23:20,000
+Because of this,
+
+1808
+01:23:20,000 --> 01:23:22,000
+this person will be able
+
+1809
+01:23:22,000 --> 01:23:24,000
+to finish the project
+
+1810
+01:23:24,000 --> 01:23:26,000
+because he will be there
+
+1811
+01:23:26,000 --> 01:23:28,000
+or he doesn't have the motivation
+
+1812
+01:23:28,000 --> 01:23:30,000
+for a long time or
+
+1813
+01:23:30,000 --> 01:23:32,000
+for three years.
+
+1814
+01:23:32,000 --> 01:23:34,000
+You have to be satisfied
+
+1815
+01:23:34,000 --> 01:23:36,000
+in a way that
+
+1816
+01:23:36,000 --> 01:23:38,000
+you set yourself
+
+1817
+01:23:38,000 --> 01:23:40,000
+some goals.
+
+1818
+01:23:40,000 --> 01:23:42,000
+Some ambitious goals.
+
+1819
+01:23:42,000 --> 01:23:44,000
+You sometimes say
+
+1820
+01:23:44,000 --> 01:23:46,000
+I will become the best
+
+1821
+01:23:46,000 --> 01:23:48,000
+back-end developer.
+
+1822
+01:23:48,000 --> 01:23:50,000
+It's better to say
+
+1823
+01:23:50,000 --> 01:23:52,000
+I will do this project
+
+1824
+01:23:52,000 --> 01:23:54,000
+and you do it.
+
+1825
+01:23:54,000 --> 01:23:56,000
+You get some satisfaction from it
+
+1826
+01:23:56,000 --> 01:23:58,000
+and you do the next project.
+
+1827
+01:23:58,000 --> 01:24:00,000
+It's much better
+
+1828
+01:24:00,000 --> 01:24:02,000
+if you set yourself
+
+1829
+01:24:02,000 --> 01:24:04,000
+a long-term
+
+1830
+01:24:04,000 --> 01:24:06,000
+and unrealistic goal
+
+1831
+01:24:06,000 --> 01:24:08,000
+and then you push it.
+
+1832
+01:24:08,000 --> 01:24:10,000
+It's better to cut
+
+1833
+01:24:10,000 --> 01:24:12,000
+the path to some side projects
+
+1834
+01:24:12,000 --> 01:24:14,000
+and then you get
+
+1835
+01:24:14,000 --> 01:24:16,000
+the feedback loop
+
+1836
+01:24:16,000 --> 01:24:18,000
+that you did something good
+
+1837
+01:24:18,000 --> 01:24:20,000
+and you develop it
+
+1838
+01:24:20,000 --> 01:24:22,000
+habitually.
+
+1839
+01:24:22,000 --> 01:24:24,000
+Habitually.
+
+1840
+01:24:24,000 --> 01:24:26,000
+Habitually.
+
+1841
+01:24:26,000 --> 01:24:28,000
+That was
+
+1842
+01:24:28,000 --> 01:24:30,000
+a really great
+
+1843
+01:24:30,000 --> 01:24:32,000
+summary of what
+
+1844
+01:24:32,000 --> 01:24:34,000
+I'm learning.
+
+1845
+01:24:34,000 --> 01:24:36,000
+Mata, I would like to ask
+
+1846
+01:24:36,000 --> 01:24:38,000
+one more summary
+
+1847
+01:24:38,000 --> 01:24:40,000
+for people
+
+1848
+01:24:40,000 --> 01:24:42,000
+who come to this industry.
+
+1849
+01:24:42,000 --> 01:24:44,000
+I would really
+
+1850
+01:24:44,000 --> 01:24:46,000
+rely on what he said.
+
+1851
+01:24:48,000 --> 01:24:50,000
+A big part
+
+1852
+01:24:50,000 --> 01:24:52,000
+of the IT industry
+
+1853
+01:24:52,000 --> 01:24:54,000
+is
+
+1854
+01:24:54,000 --> 01:24:56,000
+this.
+
+1855
+01:24:56,000 --> 01:24:58,000
+Maybe this is also
+
+1856
+01:24:58,000 --> 01:25:00,000
+a part of engineering.
+
+1857
+01:25:00,000 --> 01:25:02,000
+How to
+
+1858
+01:25:02,000 --> 01:25:04,000
+solve
+
+1859
+01:25:04,000 --> 01:25:06,000
+a problem
+
+1860
+01:25:06,000 --> 01:25:08,000
+in a way
+
+1861
+01:25:08,000 --> 01:25:10,000
+that
+
+1862
+01:25:10,000 --> 01:25:12,000
+every problem
+
+1863
+01:25:12,000 --> 01:25:14,000
+is a whole
+
+1864
+01:25:14,000 --> 01:25:16,000
+that can be
+
+1865
+01:25:16,000 --> 01:25:18,000
+disassembled and tested
+
+1866
+01:25:18,000 --> 01:25:20,000
+and something starts again.
+
+1867
+01:25:20,000 --> 01:25:22,000
+These parts
+
+1868
+01:25:22,000 --> 01:25:24,000
+are
+
+1869
+01:25:24,000 --> 01:25:26,000
+equally
+
+1870
+01:25:26,000 --> 01:25:28,000
+big.
+
+1871
+01:25:28,000 --> 01:25:30,000
+You can do one or two a day.
+
+1872
+01:25:32,000 --> 01:25:34,000
+My experience
+
+1873
+01:25:34,000 --> 01:25:36,000
+and what I remember
+
+1874
+01:25:36,000 --> 01:25:38,000
+from my colleagues
+
+1875
+01:25:38,000 --> 01:25:40,000
+30 years ago
+
+1876
+01:25:40,000 --> 01:25:42,000
+when we learned to program
+
+1877
+01:25:42,000 --> 01:25:44,000
+and more.
+
+1878
+01:25:44,000 --> 01:25:46,000
+Even now, I think
+
+1879
+01:25:46,000 --> 01:25:48,000
+it's true.
+
+1880
+01:25:48,000 --> 01:25:50,000
+You imagine something
+
+1881
+01:25:50,000 --> 01:25:52,000
+that is too complex,
+
+1882
+01:25:52,000 --> 01:25:54,000
+and then you don't know
+
+1883
+01:25:54,000 --> 01:25:56,000
+where to start.
+
+1884
+01:25:56,000 --> 01:25:58,000
+We start short
+
+1885
+01:25:58,000 --> 01:26:00,000
+and see that
+
+1886
+01:26:00,000 --> 01:26:02,000
+what we put together
+
+1887
+01:26:02,000 --> 01:26:04,000
+doesn't come.
+
+1888
+01:26:04,000 --> 01:26:06,000
+How to build
+
+1889
+01:26:06,000 --> 01:26:08,000
+like a cake.
+
+1890
+01:26:08,000 --> 01:26:10,000
+First a layer of
+
+1891
+01:26:10,000 --> 01:26:12,000
+dough, then a cream,
+
+1892
+01:26:12,000 --> 01:26:14,000
+then a little more dough.
+
+1893
+01:26:14,000 --> 01:26:16,000
+I agree with both.
+
+1894
+01:26:16,000 --> 01:26:18,000
+In the end,
+
+1895
+01:26:18,000 --> 01:26:20,000
+we all know
+
+1896
+01:26:20,000 --> 01:26:22,000
+XKCD as a funny
+
+1897
+01:26:22,000 --> 01:26:24,000
+video game that comes out
+
+1898
+01:26:24,000 --> 01:26:26,000
+three times a week.
+
+1899
+01:26:26,000 --> 01:26:28,000
+There is a good picture
+
+1900
+01:26:28,000 --> 01:26:30,000
+of what is the most effective.
+
+1901
+01:26:30,000 --> 01:26:32,000
+800 hours of lectures,
+
+1902
+01:26:32,000 --> 01:26:34,000
+400 hours of homework,
+
+1903
+01:26:34,000 --> 01:26:36,000
+or one weekend of playing with a ball.
+
+1904
+01:26:36,000 --> 01:26:38,000
+Maybe it's so hard
+
+1905
+01:26:38,000 --> 01:26:40,000
+to play
+
+1906
+01:26:40,000 --> 01:26:42,000
+that the kids
+
+1907
+01:26:42,000 --> 01:26:44,000
+won't know what a ball is.
+
+1908
+01:26:44,000 --> 01:26:46,000
+They don't need to know.
+
+1909
+01:26:46,000 --> 01:26:48,000
+Just try it.
+
+1910
+01:26:48,000 --> 01:26:50,000
+When you were a kid,
+
+1911
+01:26:50,000 --> 01:26:52,000
+you used to disassemble a computer.
+
+1912
+01:26:52,000 --> 01:26:54,000
+You were crazy about it,
+
+1913
+01:26:54,000 --> 01:26:56,000
+but you wanted to know
+
+1914
+01:26:56,000 --> 01:26:58,000
+what's inside.
+
+1915
+01:26:58,000 --> 01:27:00,000
+Just the motivation
+
+1916
+01:27:00,000 --> 01:27:02,000
+is all you need.
+
+1917
+01:27:02,000 --> 01:27:04,000
+I have nothing more to add.
+
+1918
+01:27:04,000 --> 01:27:06,000
+Great, isn't it?
+
+1919
+01:27:06,000 --> 01:27:08,000
+I don't know.
+
+1920
+01:27:08,000 --> 01:27:10,000
+I can only say
+
+1921
+01:27:10,000 --> 01:27:12,000
+thank you a lot.
+
+1922
+01:27:12,000 --> 01:27:14,000
+No, you can thank yourself.
+
+1923
+01:27:14,000 --> 01:27:16,000
+I would just say
+
+1924
+01:27:16,000 --> 01:27:18,000
+to share this episode
+
+1925
+01:27:18,000 --> 01:27:20,000
+with your colleagues
+
+1926
+01:27:20,000 --> 01:27:22,000
+who may be trying
+
+1927
+01:27:22,000 --> 01:27:24,000
+in this direction.
+
+1928
+01:27:24,000 --> 01:27:26,000
+Give us feedback
+
+1929
+01:27:26,000 --> 01:27:28,000
+to see how far we are from the truth.
+
+1930
+01:27:28,000 --> 01:27:30,000
+You decide.
+
+1931
+01:27:30,000 --> 01:27:32,000
+Thank you,
+
+1932
+01:27:32,000 --> 01:27:34,000
+Petr, and thank you,
+
+1933
+01:27:34,000 --> 01:27:36,000
+Mateo, for taking the time.
+
+1934
+01:27:36,000 --> 01:27:38,000
+I hope it wasn't too short.
+
+1935
+01:27:38,000 --> 01:27:40,000
+Thank you, Oto, for letting me
+
+1936
+01:27:40,000 --> 01:27:42,000
+host this podcast.
+
+1937
+01:27:42,000 --> 01:27:44,000
+I hope it wasn't too short, either.
+
+1938
+01:27:44,000 --> 01:27:46,000
+It wasn't.
+
+1939
+01:27:46,000 --> 01:27:48,000
+I hope you enjoyed it.
+
+1940
+01:27:48,000 --> 01:27:50,000
+Maybe I'll say it one more time.
+
+1941
+01:27:50,000 --> 01:27:52,000
+Share, like,
+
+1942
+01:27:52,000 --> 01:27:54,000
+get as many people
+
+1943
+01:27:54,000 --> 01:27:56,000
+as possible.
+
+1944
+01:27:56,000 --> 01:27:58,000
+Watch us
+
+1945
+01:27:58,000 --> 01:28:00,000
+and listen to us.
+
+1946
+01:28:00,000 --> 01:28:02,000
+If you need anything,
+
+1947
+01:28:02,000 --> 01:28:04,000
+you can always contact us.
+
+1948
+01:28:04,000 --> 01:28:06,000
+We'll put the links below.
+
+1949
+01:28:06,000 --> 01:28:08,000
+Thank you for hosting.
+
+1950
+01:28:08,000 --> 01:28:10,000
+Thank you, Sarah.
+
+1951
+01:28:10,000 --> 01:28:12,000
+Thank you, good luck.

@@ -1,0 +1,2379 @@
+1
+00:00:00,000 --> 00:00:14,000
+Let's start with the new episode of Grodje.
+
+2
+00:00:14,000 --> 00:00:22,000
+Today I have in front of me and in front of the microphone Benjamin Džuburja from Zebra BI.
+
+3
+00:00:22,000 --> 00:00:32,000
+It's a Slovenian business that deals with the development of business intelligence products.
+
+4
+00:00:32,000 --> 00:00:41,000
+Benjamin will be going to the Congress Square after this podcast,
+
+5
+00:00:41,000 --> 00:00:46,000
+where he will have three lectures at Slovenia AI meetup.
+
+6
+00:00:46,000 --> 00:00:51,000
+He will be talking about agents.
+
+7
+00:00:51,000 --> 00:01:01,000
+You will be running, I will give you 20 minutes to explain what you are doing and what is so interesting about your work.
+
+8
+00:01:01,000 --> 00:01:03,000
+Benjamin, welcome.
+
+9
+00:01:03,000 --> 00:01:05,000
+Thank you.
+
+10
+00:01:05,000 --> 00:01:08,000
+Tell me what Zebra BI is all about.
+
+11
+00:01:08,000 --> 00:01:29,000
+Zebra BI is a company that started with the development of SAS solutions for business intelligence.
+
+12
+00:01:29,000 --> 00:01:40,000
+We developed a plugin for Microsoft Excel, where you can visualize your data.
+
+13
+00:01:40,000 --> 00:01:44,000
+When you click on it, you get a chart.
+
+14
+00:01:44,000 --> 00:01:46,000
+It was great.
+
+15
+00:01:46,000 --> 00:01:52,000
+It followed a standard of how good it is to present the data,
+
+16
+00:01:52,000 --> 00:01:57,000
+so that the stakeholders that you present insights to,
+
+17
+00:01:57,000 --> 00:02:00,000
+can quickly understand what you are doing,
+
+18
+00:02:00,000 --> 00:02:05,000
+and can quickly decide on the basis of these visualizations.
+
+19
+00:02:06,000 --> 00:02:10,000
+I saw this product in Excel a while ago,
+
+20
+00:02:10,000 --> 00:02:13,000
+when I was working on Dell EPS.
+
+21
+00:02:13,000 --> 00:02:18,000
+I was fascinated by what people were doing with Excel.
+
+22
+00:02:18,000 --> 00:02:21,000
+When I saw this plugin, I was like, wow.
+
+23
+00:02:21,000 --> 00:02:28,000
+This plugin doesn't just create a pie chart,
+
+24
+00:02:28,000 --> 00:02:33,000
+but it has terms that I don't understand at all.
+
+25
+00:02:33,000 --> 00:02:38,000
+Is it a special tool or not?
+
+26
+00:02:38,000 --> 00:02:43,000
+It is a very specific tool, a very advanced tool.
+
+27
+00:02:43,000 --> 00:02:50,000
+We experienced this boom with Power BI,
+
+28
+00:02:50,000 --> 00:02:58,000
+when Microsoft introduced Power BI in 2014-2015.
+
+29
+00:02:58,000 --> 00:03:03,000
+We were one of the first to look into it.
+
+30
+00:03:03,000 --> 00:03:07,000
+We saw the potential in this tool,
+
+31
+00:03:07,000 --> 00:03:14,000
+and the BI field started to develop.
+
+32
+00:03:15,000 --> 00:03:21,000
+We then rewritten our visualization in Power BI.
+
+33
+00:03:21,000 --> 00:03:27,000
+It started as a relatively simple visualization,
+
+34
+00:03:27,000 --> 00:03:30,000
+with two different plugins,
+
+35
+00:03:30,000 --> 00:03:34,000
+which we then developed more and more.
+
+36
+00:03:34,000 --> 00:03:39,000
+Now it is a fully interactive visualization,
+
+37
+00:03:39,000 --> 00:03:45,000
+in which you can directly prepare various calculations,
+
+38
+00:03:45,000 --> 00:03:48,000
+add new items directly via QA.
+
+39
+00:03:48,000 --> 00:03:51,000
+It is very responsive.
+
+40
+00:03:51,000 --> 00:03:58,000
+The main point is to visualize these insights as best as possible.
+
+41
+00:03:58,000 --> 00:04:04,000
+We achieved success together with Power BI on KPP.
+
+42
+00:04:05,000 --> 00:04:22,000
+If you want to use this tool in Excel or Power BI,
+
+43
+00:04:22,000 --> 00:04:27,000
+do you have to prepare your data in such a way that it works?
+
+44
+00:04:27,000 --> 00:04:30,000
+It is very complicated.
+
+45
+00:04:30,000 --> 00:04:33,000
+It is a good question.
+
+46
+00:04:33,000 --> 00:04:36,000
+It is a very good question,
+
+47
+00:04:36,000 --> 00:04:42,000
+because in the current or previous versions of products,
+
+48
+00:04:42,000 --> 00:04:48,000
+a specific form of data is needed so that you can use it well.
+
+49
+00:04:48,000 --> 00:04:57,000
+We have also taught our partners how to prepare their data.
+
+50
+00:04:57,000 --> 00:05:00,000
+This is a very interesting topic,
+
+51
+00:05:00,000 --> 00:05:05,000
+because it becomes very interesting with AI technology,
+
+52
+00:05:05,000 --> 00:05:11,000
+because you can also send this bottleneck to an AI agent.
+
+53
+00:05:13,000 --> 00:05:18,000
+If you go to the product page of Zebra,
+
+54
+00:05:18,000 --> 00:05:23,000
+you can see that it is Zebra for Office,
+
+55
+00:05:23,000 --> 00:05:33,000
+and you can use this widget in PowerPoint or Excel.
+
+56
+00:05:33,000 --> 00:05:36,000
+Then there is the second segment, Power BI,
+
+57
+00:05:36,000 --> 00:05:39,000
+where you can use it as a storage.
+
+58
+00:05:39,000 --> 00:05:42,000
+Now you have opened the third vertical.
+
+59
+00:05:42,000 --> 00:05:46,000
+I assume you work the most on this vertical,
+
+60
+00:05:46,000 --> 00:05:49,000
+where you call Zebra AI.
+
+61
+00:05:49,000 --> 00:05:52,000
+This is a visual tool.
+
+62
+00:05:52,000 --> 00:05:57,000
+I got a look at the slides you will have today,
+
+63
+00:05:57,000 --> 00:06:00,000
+and I scrolled inside,
+
+64
+00:06:00,000 --> 00:06:05,000
+and then I was inside the YouTube demo of your Zebra AI product.
+
+65
+00:06:05,000 --> 00:06:11,000
+In the demo, you probably choose data from some Excel,
+
+66
+00:06:11,000 --> 00:06:17,000
+and drag and drop it into the UI of Zebra AI,
+
+67
+00:06:17,000 --> 00:06:20,000
+and boom, boom, boom, boom, I see charts,
+
+68
+00:06:20,000 --> 00:06:24,000
+second, third, sales, up, and everything.
+
+69
+00:06:24,000 --> 00:06:27,000
+Additionally, I have the input, so I can print,
+
+70
+00:06:27,000 --> 00:06:34,000
+and it's really, wow, a quantum leap visually.
+
+71
+00:06:34,000 --> 00:06:39,000
+I don't know if these are synthetic data or real data,
+
+72
+00:06:39,000 --> 00:06:42,000
+but it seems to me that you really feel
+
+73
+00:06:43,000 --> 00:06:46,000
+a real leap with this technology.
+
+74
+00:06:46,000 --> 00:06:48,000
+How do you feel about it?
+
+75
+00:06:48,000 --> 00:06:51,000
+It must be very exciting for you.
+
+76
+00:06:51,000 --> 00:06:54,000
+It's very exciting,
+
+77
+00:06:54,000 --> 00:06:59,000
+and the idea of automating the whole process
+
+78
+00:06:59,000 --> 00:07:02,000
+from the very beginning,
+
+79
+00:07:02,000 --> 00:07:07,000
+but we couldn't really realize it.
+
+80
+00:07:08,000 --> 00:07:13,000
+You can achieve this with a large number of codes,
+
+81
+00:07:13,000 --> 00:07:16,000
+algorithms, some settings,
+
+82
+00:07:16,000 --> 00:07:21,000
+how the tool behaves in certain situations,
+
+83
+00:07:21,000 --> 00:07:24,000
+but it was a lot of effort,
+
+84
+00:07:24,000 --> 00:07:27,000
+and also the classic data science approaches,
+
+85
+00:07:27,000 --> 00:07:30,000
+which can, for example,
+
+86
+00:07:30,000 --> 00:07:33,000
+from the raw data you get,
+
+87
+00:07:33,000 --> 00:07:36,000
+somehow prepare,
+
+88
+00:07:36,000 --> 00:07:39,000
+for example, make a table,
+
+89
+00:07:39,000 --> 00:07:41,000
+an individual table,
+
+90
+00:07:41,000 --> 00:07:43,000
+what does a table mean,
+
+91
+00:07:43,000 --> 00:07:46,000
+so that you can make decisions on the basis of it.
+
+92
+00:07:46,000 --> 00:07:49,000
+They were very soft,
+
+93
+00:07:49,000 --> 00:07:54,000
+and difficult to adapt to the domain of data
+
+94
+00:07:54,000 --> 00:07:57,000
+for which we are specialized,
+
+95
+00:07:57,000 --> 00:08:00,000
+such as sales, finance, and business data.
+
+96
+00:08:00,000 --> 00:08:03,000
+And then, when it came out,
+
+97
+00:08:03,000 --> 00:08:06,000
+that was November 2022,
+
+98
+00:08:06,000 --> 00:08:09,000
+it was already impressive,
+
+99
+00:08:09,000 --> 00:08:12,000
+and we saw some potential in it,
+
+100
+00:08:12,000 --> 00:08:15,000
+and then at the beginning of the next year,
+
+101
+00:08:15,000 --> 00:08:19,000
+when we saw these concepts of tools and agents,
+
+102
+00:08:19,000 --> 00:08:22,000
+we realized that this is a breakthrough,
+
+103
+00:08:22,000 --> 00:08:25,000
+and we got an idea
+
+104
+00:08:25,000 --> 00:08:28,000
+of how we could build a system
+
+105
+00:08:28,000 --> 00:08:31,000
+that would be quite flexible,
+
+106
+00:08:31,000 --> 00:08:34,000
+it wouldn't need a single set of code
+
+107
+00:08:34,000 --> 00:08:37,000
+to cover all the cases,
+
+108
+00:08:37,000 --> 00:08:40,000
+but would somehow understand the data
+
+109
+00:08:40,000 --> 00:08:43,000
+and make certain decisions.
+
+110
+00:08:43,000 --> 00:08:46,000
+And then we started developing Zebra AI,
+
+111
+00:08:46,000 --> 00:08:49,000
+we made a proof of concept,
+
+112
+00:08:49,000 --> 00:08:52,000
+we were all shocked,
+
+113
+00:08:52,000 --> 00:08:55,000
+and then we decided to develop it further,
+
+114
+00:08:55,000 --> 00:08:58,000
+and then I,
+
+115
+00:08:58,000 --> 00:09:01,000
+I was alone at the time,
+
+116
+00:09:01,000 --> 00:09:04,000
+I started to develop it further,
+
+117
+00:09:04,000 --> 00:09:07,000
+and then we expanded the team.
+
+118
+00:09:07,000 --> 00:09:10,000
+Let's go a bit deeper,
+
+119
+00:09:10,000 --> 00:09:13,000
+tell me what is BI,
+
+120
+00:09:13,000 --> 00:09:16,000
+business intelligence,
+
+121
+00:09:16,000 --> 00:09:19,000
+how does it work,
+
+122
+00:09:19,000 --> 00:09:22,000
+and how does it relate to business intelligence?
+
+123
+00:09:25,000 --> 00:09:28,000
+Business intelligence is a field
+
+124
+00:09:28,000 --> 00:09:31,000
+that deals with a lot of issues,
+
+125
+00:09:31,000 --> 00:09:34,000
+it is primarily business analysts,
+
+126
+00:09:34,000 --> 00:09:37,000
+they deal with the analysis of business data,
+
+127
+00:09:37,000 --> 00:09:40,000
+primarily internal data of a company,
+
+128
+00:09:40,000 --> 00:09:43,000
+how it operates, etc.,
+
+129
+00:09:43,000 --> 00:09:46,000
+and they also analyze
+
+130
+00:09:46,000 --> 00:09:49,000
+SQL, ETL,
+
+131
+00:09:49,000 --> 00:09:52,000
+which is used as a tool
+
+132
+00:09:52,000 --> 00:09:55,000
+to transform and clean data
+
+133
+00:09:55,000 --> 00:09:58,000
+from the beginning,
+
+134
+00:09:58,000 --> 00:10:01,000
+then they go on to model,
+
+135
+00:10:01,000 --> 00:10:04,000
+understand data,
+
+136
+00:10:04,000 --> 00:10:07,000
+connect it, search it,
+
+137
+00:10:07,000 --> 00:10:10,000
+prepare insights,
+
+138
+00:10:10,000 --> 00:10:13,000
+build visualizations,
+
+139
+00:10:13,000 --> 00:10:16,000
+dashboards, etc.,
+
+140
+00:10:16,000 --> 00:10:19,000
+prepare messages for stakeholders,
+
+141
+00:10:19,000 --> 00:10:22,000
+and then add recommendations.
+
+142
+00:10:22,000 --> 00:10:25,000
+All of this together
+
+143
+00:10:25,000 --> 00:10:28,000
+is called business intelligence.
+
+144
+00:10:28,000 --> 00:10:31,000
+It is not enough to know only SQL,
+
+145
+00:10:31,000 --> 00:10:34,000
+you also need to know
+
+146
+00:10:34,000 --> 00:10:37,000
+business aspects,
+
+147
+00:10:37,000 --> 00:10:40,000
+processes,
+
+148
+00:10:40,000 --> 00:10:43,000
+the importance of data,
+
+149
+00:10:43,000 --> 00:10:46,000
+because you need to know
+
+150
+00:10:46,000 --> 00:10:49,000
+if it is correct or not.
+
+151
+00:10:49,000 --> 00:10:52,000
+Yes, you definitely need to know the field well,
+
+152
+00:10:52,000 --> 00:10:55,000
+but also, depending on how far you go
+
+153
+00:10:55,000 --> 00:10:58,000
+with the last step,
+
+154
+00:10:58,000 --> 00:11:01,000
+some recommendations for management,
+
+155
+00:11:01,000 --> 00:11:04,000
+and to some extent you need to know
+
+156
+00:11:04,000 --> 00:11:07,000
+the importance of the results.
+
+157
+00:11:07,000 --> 00:11:10,000
+The fact that companies want to
+
+158
+00:11:10,000 --> 00:11:13,000
+prepare data,
+
+159
+00:11:13,000 --> 00:11:16,000
+means that there is a lot of work
+
+160
+00:11:16,000 --> 00:11:19,000
+for BI or tools,
+
+161
+00:11:19,000 --> 00:11:22,000
+which, if they are good,
+
+162
+00:11:22,000 --> 00:11:25,000
+will help you prepare the data,
+
+163
+00:11:25,000 --> 00:11:28,000
+they will also help you
+
+164
+00:11:28,000 --> 00:11:31,000
+prepare high-level data.
+
+165
+00:11:31,000 --> 00:11:34,000
+It is always more important
+
+166
+00:11:34,000 --> 00:11:37,000
+that these segments are healthy,
+
+167
+00:11:37,000 --> 00:11:40,000
+and that the data is up-to-date.
+
+168
+00:11:40,000 --> 00:11:43,000
+Yes.
+
+169
+00:11:43,000 --> 00:11:46,000
+It is often not like that.
+
+170
+00:11:46,000 --> 00:11:49,000
+It is always the same.
+
+171
+00:11:49,000 --> 00:11:52,000
+Especially in smaller or medium-sized companies,
+
+172
+00:11:52,000 --> 00:11:55,000
+they don't have a team of people
+
+173
+00:11:55,000 --> 00:11:58,000
+who would deal with it,
+
+174
+00:11:58,000 --> 00:12:01,000
+and this is the segment
+
+175
+00:12:01,000 --> 00:12:04,000
+that is the most interesting for us.
+
+176
+00:12:04,000 --> 00:12:07,000
+From a certain perspective,
+
+177
+00:12:07,000 --> 00:12:10,000
+these are the people who are looking for solutions.
+
+178
+00:12:10,000 --> 00:12:13,000
+They see this technology, AI,
+
+179
+00:12:13,000 --> 00:12:16,000
+and they see a change in it.
+
+180
+00:12:16,000 --> 00:12:19,000
+Wow, this will solve this situation.
+
+181
+00:12:19,000 --> 00:12:22,000
+Maybe I won't need to employ someone from BI,
+
+182
+00:12:22,000 --> 00:12:25,000
+but I can skip some steps with this smart tool,
+
+183
+00:12:25,000 --> 00:12:28,000
+and I will get some insights that will help me
+
+184
+00:12:28,000 --> 00:12:31,000
+I hope people understand what BI is.
+
+185
+00:12:34,000 --> 00:12:37,000
+Let's talk about these agents.
+
+186
+00:12:37,000 --> 00:12:40,000
+Can you tell us
+
+187
+00:12:40,000 --> 00:12:43,000
+what exactly these agents mean
+
+188
+00:12:43,000 --> 00:12:46,000
+in the context of AI?
+
+189
+00:12:46,000 --> 00:12:49,000
+What are these agents?
+
+190
+00:12:49,000 --> 00:12:52,000
+For me, agents are,
+
+191
+00:12:52,000 --> 00:12:55,000
+as far as I remember,
+
+192
+00:12:55,000 --> 00:12:58,000
+reinforcement learning,
+
+193
+00:12:58,000 --> 00:13:01,000
+where we have agents
+
+194
+00:13:01,000 --> 00:13:04,000
+who communicate with the environment
+
+195
+00:13:04,000 --> 00:13:07,000
+and then get feedback from the environment
+
+196
+00:13:07,000 --> 00:13:10,000
+and work in return.
+
+197
+00:13:10,000 --> 00:13:13,000
+In this case,
+
+198
+00:13:13,000 --> 00:13:16,000
+we have LLMs,
+
+199
+00:13:16,000 --> 00:13:19,000
+which we can use
+
+200
+00:13:19,000 --> 00:13:22,000
+as a core for brainwashing the agent,
+
+201
+00:13:22,000 --> 00:13:25,000
+and they have access to the environment,
+
+202
+00:13:25,000 --> 00:13:28,000
+which is an additional tool.
+
+203
+00:13:31,000 --> 00:13:34,000
+A typical example is
+
+204
+00:13:34,000 --> 00:13:37,000
+writing and extracting code
+
+205
+00:13:37,000 --> 00:13:40,000
+on the basis of data.
+
+206
+00:13:40,000 --> 00:13:43,000
+An agent can write a piece of code
+
+207
+00:13:43,000 --> 00:13:46,000
+to answer a user's question,
+
+208
+00:13:46,000 --> 00:13:49,000
+get results,
+
+209
+00:13:49,000 --> 00:13:52,000
+and then decide
+
+210
+00:13:52,000 --> 00:13:55,000
+whether he did the right thing
+
+211
+00:13:55,000 --> 00:13:58,000
+or whether he will try again
+
+212
+00:13:58,000 --> 00:14:01,000
+or decide to go back to the user.
+
+213
+00:14:01,000 --> 00:14:04,000
+In this sense,
+
+214
+00:14:04,000 --> 00:14:07,000
+this is the definition of an agent.
+
+215
+00:14:07,000 --> 00:14:10,000
+We can imagine this as
+
+216
+00:14:10,000 --> 00:14:13,000
+the brains of a robot,
+
+217
+00:14:13,000 --> 00:14:16,000
+a large language model,
+
+218
+00:14:16,000 --> 00:14:19,000
+which can interact with the world
+
+219
+00:14:19,000 --> 00:14:22,000
+through some processes, mechanisms, and tooling.
+
+220
+00:14:22,000 --> 00:14:25,000
+It has a perception of the world,
+
+221
+00:14:25,000 --> 00:14:28,000
+it has the ability to interact with the world,
+
+222
+00:14:28,000 --> 00:14:31,000
+and then it probably also learns,
+
+223
+00:14:31,000 --> 00:14:34,000
+or is it a matter of conversation?
+
+224
+00:14:34,000 --> 00:14:37,000
+It can also be counter-learned.
+
+225
+00:14:37,000 --> 00:14:40,000
+Everything is definitely learned from this context.
+
+226
+00:14:40,000 --> 00:14:43,000
+With these interactions,
+
+227
+00:14:43,000 --> 00:14:46,000
+you can learn new things.
+
+228
+00:14:46,000 --> 00:14:49,000
+There are also different architectures
+
+229
+00:14:49,000 --> 00:14:52,000
+where you can learn new things.
+
+230
+00:14:52,000 --> 00:14:55,000
+For example, you can learn about cancer,
+
+231
+00:14:55,000 --> 00:14:58,000
+or you can learn online
+
+232
+00:14:58,000 --> 00:15:01,000
+about the effects of cancer.
+
+233
+00:15:04,000 --> 00:15:07,000
+I don't know,
+
+234
+00:15:07,000 --> 00:15:10,000
+I don't think this is a need for an agent.
+
+235
+00:15:10,000 --> 00:15:13,000
+It's more of an interaction with the environment
+
+236
+00:15:13,000 --> 00:15:16,000
+and some kind of autonomy.
+
+237
+00:15:16,000 --> 00:15:19,000
+Often people associate agents with autonomy.
+
+238
+00:15:19,000 --> 00:15:22,000
+It flows in a loop.
+
+239
+00:15:22,000 --> 00:15:25,000
+An agent can also be imagined
+
+240
+00:15:25,000 --> 00:15:28,000
+as a workflow in the final implementation.
+
+241
+00:15:28,000 --> 00:15:31,000
+You will do this and that,
+
+242
+00:15:31,000 --> 00:15:34,000
+you will have some loops,
+
+243
+00:15:34,000 --> 00:15:37,000
+you can suspend or move.
+
+244
+00:15:38,000 --> 00:15:41,000
+Can you give us an example
+
+245
+00:15:41,000 --> 00:15:44,000
+of what an agent or process looks like
+
+246
+00:15:44,000 --> 00:15:47,000
+in your Zebra AI?
+
+247
+00:15:47,000 --> 00:15:50,000
+Let me give you an example.
+
+248
+00:15:50,000 --> 00:15:53,000
+That's a great question.
+
+249
+00:15:53,000 --> 00:15:56,000
+If I can.
+
+250
+00:15:56,000 --> 00:15:59,000
+I will think about how to put it.
+
+251
+00:15:59,000 --> 00:16:02,000
+We use agents in all the phases
+
+252
+00:16:02,000 --> 00:16:05,000
+that I mentioned,
+
+253
+00:16:05,000 --> 00:16:08,000
+for example,
+
+254
+00:16:08,000 --> 00:16:11,000
+in the last version.
+
+255
+00:16:11,000 --> 00:16:14,000
+An agent tries to determine
+
+256
+00:16:14,000 --> 00:16:17,000
+how clean the data is,
+
+257
+00:16:17,000 --> 00:16:20,000
+how it meets the requirements
+
+258
+00:16:20,000 --> 00:16:23,000
+that we have,
+
+259
+00:16:23,000 --> 00:16:26,000
+so that the remainder works as it should.
+
+260
+00:16:26,000 --> 00:16:29,000
+It is also able to clean them in a loop,
+
+261
+00:16:29,000 --> 00:16:32,000
+improve them,
+
+262
+00:16:32,000 --> 00:16:35,000
+and then move on to the next step,
+
+263
+00:16:35,000 --> 00:16:38,000
+which is semantic modeling.
+
+264
+00:16:38,000 --> 00:16:41,000
+This is primarily about understanding the data well.
+
+265
+00:16:41,000 --> 00:16:44,000
+If you have a SQL database on Input,
+
+266
+00:16:44,000 --> 00:16:47,000
+you want to understand
+
+267
+00:16:47,000 --> 00:16:50,000
+what certain columns represent,
+
+268
+00:16:50,000 --> 00:16:53,000
+what values are present there,
+
+269
+00:16:53,000 --> 00:16:56,000
+and what these values mean
+
+270
+00:16:56,000 --> 00:16:59,000
+for certain combinations,
+
+271
+00:16:59,000 --> 00:17:02,000
+for certain processes,
+
+272
+00:17:02,000 --> 00:17:05,000
+for analysis, etc.
+
+273
+00:17:05,000 --> 00:17:08,000
+This is where a lot can be done.
+
+274
+00:17:08,000 --> 00:17:11,000
+You can create graphs,
+
+275
+00:17:11,000 --> 00:17:14,000
+networks,
+
+276
+00:17:14,000 --> 00:17:17,000
+where you define relationships,
+
+277
+00:17:17,000 --> 00:17:20,000
+dependencies, etc.
+
+278
+00:17:20,000 --> 00:17:23,000
+The next step is explorative analysis,
+
+279
+00:17:23,000 --> 00:17:26,000
+where we have five agents
+
+280
+00:17:26,000 --> 00:17:29,000
+who decide on the basis of some guidelines
+
+281
+00:17:29,000 --> 00:17:32,000
+and tools
+
+282
+00:17:32,000 --> 00:17:35,000
+what to look for in the data,
+
+283
+00:17:35,000 --> 00:17:38,000
+where you can do an extensive search
+
+284
+00:17:38,000 --> 00:17:41,000
+of a specific column of data
+
+285
+00:17:41,000 --> 00:17:44,000
+and look for patterns,
+
+286
+00:17:44,000 --> 00:17:47,000
+outliers,
+
+287
+00:17:47,000 --> 00:17:50,000
+various curiosities,
+
+288
+00:17:50,000 --> 00:17:53,000
+and then move them forward.
+
+289
+00:17:53,000 --> 00:17:56,000
+The next phase is visualization
+
+290
+00:17:56,000 --> 00:17:59,000
+of these interesting results.
+
+291
+00:17:59,000 --> 00:18:02,000
+We have integrated with the agents,
+
+292
+00:18:02,000 --> 00:18:05,000
+we have shown them
+
+293
+00:18:05,000 --> 00:18:08,000
+an interface with our visualizations
+
+294
+00:18:08,000 --> 00:18:11,000
+so that they can show the data,
+
+295
+00:18:11,000 --> 00:18:14,000
+the results, and build a dashboard.
+
+296
+00:18:14,000 --> 00:18:17,000
+The agent decides
+
+297
+00:18:17,000 --> 00:18:20,000
+which dimensions will be shown,
+
+298
+00:18:20,000 --> 00:18:23,000
+which filters will be applied.
+
+299
+00:18:23,000 --> 00:18:26,000
+Do you have to limit it somehow?
+
+300
+00:18:26,000 --> 00:18:29,000
+Yes, definitely.
+
+301
+00:18:29,000 --> 00:18:32,000
+You limit it with these tools
+
+302
+00:18:32,000 --> 00:18:35,000
+and with checking its output.
+
+303
+00:18:35,000 --> 00:18:38,000
+You require the output to be
+
+304
+00:18:38,000 --> 00:18:41,000
+precisely structured,
+
+305
+00:18:41,000 --> 00:18:44,000
+like JSON,
+
+306
+00:18:44,000 --> 00:18:47,000
+and then you also check
+
+307
+00:18:47,000 --> 00:18:50,000
+what is shown in the data.
+
+308
+00:18:50,000 --> 00:18:53,000
+Then you can sparse it
+
+309
+00:18:53,000 --> 00:18:56,000
+and build a dashboard.
+
+310
+00:18:56,000 --> 00:18:59,000
+The last step is summarization,
+
+311
+00:18:59,000 --> 00:19:02,000
+a classic LLM use case,
+
+312
+00:19:02,000 --> 00:19:05,000
+where you can try to
+
+313
+00:19:05,000 --> 00:19:08,000
+recommend something interesting
+
+314
+00:19:08,000 --> 00:19:11,000
+to look at in the future,
+
+315
+00:19:11,000 --> 00:19:14,000
+so that your attention is focused
+
+316
+00:19:14,000 --> 00:19:17,000
+on some insights.
+
+317
+00:19:20,000 --> 00:19:23,000
+Great!
+
+318
+00:19:23,000 --> 00:19:26,000
+My experience was there.
+
+319
+00:19:26,000 --> 00:19:29,000
+In Grodno,
+
+320
+00:19:29,000 --> 00:19:32,000
+it's not just an enterprise company,
+
+321
+00:19:32,000 --> 00:19:35,000
+but we have an Excel table
+
+322
+00:19:35,000 --> 00:19:38,000
+with these finances,
+
+323
+00:19:38,000 --> 00:19:41,000
+and I dragged it into my Excel table.
+
+324
+00:19:41,000 --> 00:19:44,000
+The first step was
+
+325
+00:19:44,000 --> 00:19:47,000
+when I found out
+
+326
+00:19:47,000 --> 00:19:50,000
+that the data was like this,
+
+327
+00:19:50,000 --> 00:19:53,000
+and I received 3 or 4 warnings
+
+328
+00:19:53,000 --> 00:19:56,000
+that the data was not OK
+
+329
+00:19:56,000 --> 00:19:59,000
+and that it could be delayed.
+
+330
+00:19:59,000 --> 00:20:02,000
+It could be delayed with analysis
+
+331
+00:20:02,000 --> 00:20:05,000
+or import, but it warned me
+
+332
+00:20:05,000 --> 00:20:08,000
+that I wouldn't be able to do it
+
+333
+00:20:08,000 --> 00:20:11,000
+until I clicked Next.
+
+334
+00:20:11,000 --> 00:20:14,000
+But today,
+
+335
+00:20:14,000 --> 00:20:17,000
+as you said before,
+
+336
+00:20:17,000 --> 00:20:20,000
+you helped to shape the data
+
+337
+00:20:20,000 --> 00:20:23,000
+so that it could be analyzed better.
+
+338
+00:20:23,000 --> 00:20:26,000
+Today, this problem is being solved
+
+339
+00:20:26,000 --> 00:20:29,000
+in a very concrete way.
+
+340
+00:20:29,000 --> 00:20:32,000
+I was surprised that the data
+
+341
+00:20:32,000 --> 00:20:35,000
+was not in the right shape,
+
+342
+00:20:35,000 --> 00:20:38,000
+but it managed to make a few charts
+
+343
+00:20:38,000 --> 00:20:41,000
+and to see that we are ready.
+
+344
+00:20:41,000 --> 00:20:44,000
+I have to say that what you say
+
+345
+00:20:44,000 --> 00:20:47,000
+works legitimately and I hope
+
+346
+00:20:47,000 --> 00:20:50,000
+that you will improve it.
+
+347
+00:20:50,000 --> 00:20:53,000
+It was very fascinating
+
+348
+00:20:53,000 --> 00:20:56,000
+when I saw the widgets
+
+349
+00:20:56,000 --> 00:20:59,000
+that were the same as in Power BI,
+
+350
+00:20:59,000 --> 00:21:02,000
+and how you reuse it.
+
+351
+00:21:02,000 --> 00:21:05,000
+Today, I have a chat input
+
+352
+00:21:05,000 --> 00:21:08,000
+and I can ask him some questions.
+
+353
+00:21:08,000 --> 00:21:11,000
+I like the fact that today
+
+354
+00:21:11,000 --> 00:21:14,000
+he understands the data.
+
+355
+00:21:14,000 --> 00:21:17,000
+You get a feeling
+
+356
+00:21:17,000 --> 00:21:20,000
+that he knows what kind of data
+
+357
+00:21:20,000 --> 00:21:23,000
+he has, what he can say
+
+358
+00:21:23,000 --> 00:21:26,000
+and what he cannot say.
+
+359
+00:21:26,000 --> 00:21:29,000
+Do you also deal with this?
+
+360
+00:21:29,000 --> 00:21:32,000
+This is the last big goal, right?
+
+361
+00:21:32,000 --> 00:21:35,000
+Yes, this is the consequence
+
+362
+00:21:35,000 --> 00:21:38,000
+of iterating on these agents
+
+363
+00:21:38,000 --> 00:21:41,000
+all the time, trying to improve them.
+
+364
+00:21:41,000 --> 00:21:44,000
+This is the whole workflow
+
+365
+00:21:44,000 --> 00:21:47,000
+that I described earlier.
+
+366
+00:21:47,000 --> 00:21:50,000
+We are trying to achieve
+
+367
+00:21:50,000 --> 00:21:53,000
+this effect,
+
+368
+00:21:53,000 --> 00:21:56,000
+so that the system really understands
+
+369
+00:21:56,000 --> 00:21:59,000
+what it is doing.
+
+370
+00:21:59,000 --> 00:22:02,000
+Thanks to the agents,
+
+371
+00:22:02,000 --> 00:22:05,000
+it somehow saves us,
+
+372
+00:22:05,000 --> 00:22:08,000
+and we hope that it will improve.
+
+373
+00:22:08,000 --> 00:22:11,000
+I have already asked this question
+
+374
+00:22:11,000 --> 00:22:14,000
+before, but I don't know
+
+375
+00:22:14,000 --> 00:22:17,000
+if I can correct myself.
+
+376
+00:22:17,000 --> 00:22:20,000
+This is a good question.
+
+377
+00:22:20,000 --> 00:22:23,000
+Do you use chat GPT,
+
+378
+00:22:23,000 --> 00:22:26,000
+source models, combination models,
+
+379
+00:22:26,000 --> 00:22:29,000
+Gemini?
+
+380
+00:22:29,000 --> 00:22:32,000
+Is this a relevant question?
+
+381
+00:22:32,000 --> 00:22:35,000
+Are these models so good
+
+382
+00:22:35,000 --> 00:22:38,000
+that they are all pretty much the same?
+
+383
+00:22:38,000 --> 00:22:41,000
+Is this a meaningful question?
+
+384
+00:22:41,000 --> 00:22:44,000
+To a certain extent, yes.
+
+385
+00:22:44,000 --> 00:22:47,000
+For a specific agent,
+
+386
+00:22:47,000 --> 00:22:50,000
+you need more capable models
+
+387
+00:22:50,000 --> 00:22:53,000
+that give more detailed answers
+
+388
+00:22:53,000 --> 00:22:56,000
+and results.
+
+389
+00:22:56,000 --> 00:22:59,000
+The rest of the pipeline
+
+390
+00:22:59,000 --> 00:23:02,000
+depends on the results.
+
+391
+00:23:02,000 --> 00:23:05,000
+Here we have a combination
+
+392
+00:23:05,000 --> 00:23:08,000
+of enclosed sources.
+
+393
+00:23:08,000 --> 00:23:11,000
+We have already experimented
+
+394
+00:23:11,000 --> 00:23:14,000
+with open source.
+
+395
+00:23:14,000 --> 00:23:17,000
+At the time, there was no DeepSeek R1.
+
+396
+00:23:17,000 --> 00:23:20,000
+There were no on-par results
+
+397
+00:23:20,000 --> 00:23:23,000
+with closed source models.
+
+398
+00:23:23,000 --> 00:23:26,000
+This is definitely something
+
+399
+00:23:26,000 --> 00:23:29,000
+that we are still preparing for.
+
+400
+00:23:29,000 --> 00:23:32,000
+When open source models
+
+401
+00:23:32,000 --> 00:23:35,000
+are on par,
+
+402
+00:23:35,000 --> 00:23:38,000
+this leads to additional things,
+
+403
+00:23:38,000 --> 00:23:41,000
+such as a security database.
+
+404
+00:23:41,000 --> 00:23:44,000
+Are there any models
+
+405
+00:23:44,000 --> 00:23:47,000
+for large language models
+
+406
+00:23:47,000 --> 00:23:50,000
+that specialize in finance?
+
+407
+00:23:50,000 --> 00:23:53,000
+Is this a niche?
+
+408
+00:23:53,000 --> 00:23:56,000
+Is it possible to pay someone
+
+409
+00:23:56,000 --> 00:23:59,000
+to do this or to distill it
+
+410
+00:23:59,000 --> 00:24:02,000
+just for the financial industry
+
+411
+00:24:02,000 --> 00:24:05,000
+or for visualization?
+
+412
+00:24:05,000 --> 00:24:08,000
+You can pay to distill,
+
+413
+00:24:08,000 --> 00:24:11,000
+but you can't pay to take
+
+414
+00:24:11,000 --> 00:24:14,000
+smaller and more specialized models.
+
+415
+00:24:14,000 --> 00:24:17,000
+For example, for finance,
+
+416
+00:24:17,000 --> 00:24:20,000
+you can pay $70 billion to LLM
+
+417
+00:24:20,000 --> 00:24:23,000
+to make a Chai GPT
+
+418
+00:24:23,000 --> 00:24:26,000
+in O3 with reasoning
+
+419
+00:24:26,000 --> 00:24:29,000
+and a billion other parameters.
+
+420
+00:24:29,000 --> 00:24:32,000
+The tasks that these agents solve
+
+421
+00:24:32,000 --> 00:24:35,000
+require a lot of reasoning
+
+422
+00:24:35,000 --> 00:24:38,000
+and this specialized model
+
+423
+00:24:38,000 --> 00:24:41,000
+is what gives us good results
+
+424
+00:24:41,000 --> 00:24:44,000
+and is better for larger models
+
+425
+00:24:44,000 --> 00:24:47,000
+all at once.
+
+426
+00:24:47,000 --> 00:24:50,000
+So the reasoning process
+
+427
+00:24:50,000 --> 00:24:53,000
+improves the one-shot approach?
+
+428
+00:24:53,000 --> 00:24:56,000
+Yes.
+
+429
+00:24:56,000 --> 00:24:59,000
+Where do you talk to yourself
+
+430
+00:24:59,000 --> 00:25:02,000
+until you're confident it's the right answer?
+
+431
+00:25:00,000 --> 00:25:02,000
+Is that a mantra?
+
+432
+00:25:02,000 --> 00:25:04,000
+Yes, it's a way of thinking,
+
+433
+00:25:04,000 --> 00:25:06,000
+it's a time to think about the task.
+
+434
+00:25:06,000 --> 00:25:12,000
+Some tasks are not specifically coding tasks,
+
+435
+00:25:12,000 --> 00:25:18,000
+but they are tasks where you look at the structure of the dataset
+
+436
+00:25:18,000 --> 00:25:21,000
+and mark which columns are which,
+
+437
+00:25:21,000 --> 00:25:23,000
+what do you think,
+
+438
+00:25:23,000 --> 00:25:26,000
+how are you going to model those columns,
+
+439
+00:25:26,000 --> 00:25:29,000
+and not mark the properties of those columns.
+
+440
+00:25:29,000 --> 00:25:31,000
+So, in fact, for such purposes,
+
+441
+00:25:31,000 --> 00:25:35,000
+they are much better in our experiments,
+
+442
+00:25:35,000 --> 00:25:37,000
+especially the larger models.
+
+443
+00:25:37,000 --> 00:25:39,000
+You're making a lot of water,
+
+444
+00:25:39,000 --> 00:25:41,000
+I'm going to make a little commercial.
+
+445
+00:25:41,000 --> 00:25:45,000
+In Grodno, maybe because of the well-known Patreons,
+
+446
+00:25:45,000 --> 00:25:46,000
+thank you,
+
+447
+00:25:46,000 --> 00:25:48,000
+and maybe also because of the companies
+
+448
+00:25:48,000 --> 00:25:50,000
+VisionEch, Kaldi, HumanFrog and Koforki,
+
+449
+00:25:50,000 --> 00:25:52,000
+who give us storage.
+
+450
+00:25:52,000 --> 00:25:54,000
+Thank you for being with us.
+
+451
+00:25:54,000 --> 00:25:57,000
+Now we have the last five minutes.
+
+452
+00:25:57,000 --> 00:26:02,000
+I'm more interested in the existence now,
+
+453
+00:26:02,000 --> 00:26:07,000
+let's say that a few years ago there was a boom
+
+454
+00:26:07,000 --> 00:26:11,000
+with OpenAI and 4GPT,
+
+455
+00:26:11,000 --> 00:26:13,000
+and you did a lot of leaps,
+
+456
+00:26:13,000 --> 00:26:16,000
+and then LAMA, and so on.
+
+457
+00:26:16,000 --> 00:26:18,000
+Are we now entering a period
+
+458
+00:26:18,000 --> 00:26:21,000
+when this ecosystem,
+
+459
+00:26:21,000 --> 00:26:24,000
+I won't say standardizes,
+
+460
+00:26:24,000 --> 00:26:28,000
+but are we at a point where these tasks are interchangeable,
+
+461
+00:26:28,000 --> 00:26:31,000
+and are already forming some standards?
+
+462
+00:26:31,000 --> 00:26:33,000
+Now specifically,
+
+463
+00:26:33,000 --> 00:26:35,000
+in the last few weeks,
+
+464
+00:26:35,000 --> 00:26:38,000
+I've noticed that this MCP has become
+
+465
+00:26:38,000 --> 00:26:43,000
+a de facto standard for doing some extensions.
+
+466
+00:26:44,000 --> 00:26:46,000
+At the end of the month,
+
+467
+00:26:46,000 --> 00:26:50,000
+I realized that MCP is Model Context Protocol,
+
+468
+00:26:50,000 --> 00:26:55,000
+and the idea is that through a client
+
+469
+00:26:55,000 --> 00:26:57,000
+that runs your LLM model,
+
+470
+00:26:57,000 --> 00:26:59,000
+or an agent, for example,
+
+471
+00:26:59,000 --> 00:27:01,000
+using a standard protocol,
+
+472
+00:27:01,000 --> 00:27:05,000
+you can call tools or capabilities
+
+473
+00:27:05,000 --> 00:27:07,000
+that can be on a server,
+
+474
+00:27:07,000 --> 00:27:10,000
+which means that you can have a weather tool,
+
+475
+00:27:10,000 --> 00:27:13,000
+and it will tell you what the weather is like,
+
+476
+00:27:13,000 --> 00:27:15,000
+and the model will call that tool
+
+477
+00:27:15,000 --> 00:27:17,000
+and tell you the weather.
+
+478
+00:27:17,000 --> 00:27:19,000
+It's a classic example.
+
+479
+00:27:19,000 --> 00:27:21,000
+You can send an email,
+
+480
+00:27:21,000 --> 00:27:23,000
+and the tool will send you an email.
+
+481
+00:27:23,000 --> 00:27:25,000
+Have you ever played with this?
+
+482
+00:27:25,000 --> 00:27:27,000
+Maybe you can say something about it,
+
+483
+00:27:27,000 --> 00:27:30,000
+because I see that it's becoming a very hot topic,
+
+484
+00:27:30,000 --> 00:27:33,000
+and a next phase of integration of models.
+
+485
+00:27:33,000 --> 00:27:35,000
+Yes, yes.
+
+486
+00:27:35,000 --> 00:27:37,000
+My sister came to me,
+
+487
+00:27:37,000 --> 00:27:39,000
+and I check it every day.
+
+488
+00:27:39,000 --> 00:27:41,000
+I was at MCP last week.
+
+489
+00:27:43,000 --> 00:27:46,000
+Yes, I think it's definitely great
+
+490
+00:27:46,000 --> 00:27:51,000
+that this access to various tools is being standardized.
+
+491
+00:27:52,000 --> 00:27:55,000
+At the moment, it seems to me that everyone,
+
+492
+00:27:55,000 --> 00:27:57,000
+I think this is an introduction to Antropica,
+
+493
+00:27:57,000 --> 00:28:03,000
+OpenAI still has its own way of using these tools,
+
+494
+00:28:03,000 --> 00:28:06,000
+if you use their LLMs,
+
+495
+00:28:06,000 --> 00:28:08,000
+they somehow expose you
+
+496
+00:28:08,000 --> 00:28:12,000
+in their best way how to use these tools.
+
+497
+00:28:12,000 --> 00:28:16,000
+This seems to me also because of the way they are taught.
+
+498
+00:28:16,000 --> 00:28:20,000
+In what format is it best to use this?
+
+499
+00:28:20,000 --> 00:28:23,000
+So I think it would be great
+
+500
+00:28:23,000 --> 00:28:26,000
+if this standard would be used in the future
+
+501
+00:28:26,000 --> 00:28:28,000
+for some new models,
+
+502
+00:28:28,000 --> 00:28:31,000
+and it would be so effective,
+
+503
+00:28:31,000 --> 00:28:35,000
+and all models would know how to use it well.
+
+504
+00:28:37,000 --> 00:28:41,000
+But at the moment, we're not there yet.
+
+505
+00:28:43,000 --> 00:28:47,000
+I was talking about the spec of this MCP,
+
+506
+00:28:47,000 --> 00:28:51,000
+the basics are for JSON RPC,
+
+507
+00:28:51,000 --> 00:28:54,000
+so you have to use, let's say,
+
+508
+00:28:54,000 --> 00:28:56,000
+capabilities or tools,
+
+509
+00:28:56,000 --> 00:28:59,000
+make a request, where do you have the tools,
+
+510
+00:28:59,000 --> 00:29:01,000
+and then also methods,
+
+511
+00:29:01,000 --> 00:29:03,000
+face recognition, arguments,
+
+512
+00:29:03,000 --> 00:29:05,000
+and he knows that.
+
+513
+00:29:05,000 --> 00:29:08,000
+What's interesting is that it enables streaming,
+
+514
+00:29:08,000 --> 00:29:10,000
+so if he gets a request,
+
+515
+00:29:10,000 --> 00:29:12,000
+he can answer it like that,
+
+516
+00:29:12,000 --> 00:29:14,000
+or he can answer it later,
+
+517
+00:29:14,000 --> 00:29:16,000
+what are the new capabilities,
+
+518
+00:29:16,000 --> 00:29:18,000
+and it also has a way
+
+519
+00:29:18,000 --> 00:29:22,000
+to send it back as a notification.
+
+520
+00:29:22,000 --> 00:29:28,000
+So it's a very interesting way of integration,
+
+521
+00:29:28,000 --> 00:29:31,000
+it will definitely be possible to do with these parts,
+
+522
+00:29:31,000 --> 00:29:33,000
+so I see that it's very...
+
+523
+00:29:33,000 --> 00:29:36,000
+I see that it's still a bit in the middle,
+
+524
+00:29:36,000 --> 00:29:38,000
+but it's definitely a direction
+
+525
+00:29:38,000 --> 00:29:42,000
+that I see will be very interesting to think about.
+
+526
+00:29:42,000 --> 00:29:44,000
+Maybe the last question,
+
+527
+00:29:44,000 --> 00:29:47,000
+and then I'll let you go.
+
+528
+00:29:49,000 --> 00:29:51,000
+What do you think...
+
+529
+00:29:51,000 --> 00:29:53,000
+What do you think...
+
+530
+00:29:56,000 --> 00:30:01,000
+Will we need more of these analysts in the future,
+
+531
+00:30:01,000 --> 00:30:06,000
+or do we just need more large language models,
+
+532
+00:30:06,000 --> 00:30:09,000
+or a better process,
+
+533
+00:30:09,000 --> 00:30:11,000
+or what do you think?
+
+534
+00:30:11,000 --> 00:30:13,000
+Do you think that...
+
+535
+00:30:13,000 --> 00:30:16,000
+Because we also have the same question
+
+536
+00:30:16,000 --> 00:30:18,000
+with programmers now,
+
+537
+00:30:18,000 --> 00:30:21,000
+because of all those wipe codings,
+
+538
+00:30:21,000 --> 00:30:23,000
+and that tooling,
+
+539
+00:30:23,000 --> 00:30:25,000
+people think,
+
+540
+00:30:25,000 --> 00:30:27,000
+oh, we don't need programmers anymore.
+
+541
+00:30:27,000 --> 00:30:29,000
+Do you think that people will also start
+
+542
+00:30:29,000 --> 00:30:31,000
+using these tools?
+
+543
+00:30:31,000 --> 00:30:33,000
+I don't know,
+
+544
+00:30:33,000 --> 00:30:35,000
+but I hope so.
+
+545
+00:30:35,000 --> 00:30:37,000
+Definitely,
+
+546
+00:30:37,000 --> 00:30:39,000
+I think it's very similar,
+
+547
+00:30:39,000 --> 00:30:42,000
+what programmers are experiencing,
+
+548
+00:30:42,000 --> 00:30:45,000
+and I think the answer is also very similar,
+
+549
+00:30:45,000 --> 00:30:47,000
+because in BI,
+
+550
+00:30:47,000 --> 00:30:50,000
+you can also use writing some codes,
+
+551
+00:30:50,000 --> 00:30:52,000
+some queries,
+
+552
+00:30:52,000 --> 00:30:54,000
+to get...
+
+553
+00:30:56,000 --> 00:30:58,000
+It's hard to say,
+
+554
+00:30:58,000 --> 00:31:00,000
+but I think,
+
+555
+00:31:00,000 --> 00:31:02,000
+now I think,
+
+556
+00:31:02,000 --> 00:31:05,000
+that for some of these lighter tasks,
+
+557
+00:31:05,000 --> 00:31:08,000
+an agent is already able to do a lot,
+
+558
+00:31:08,000 --> 00:31:10,000
+and it's almost...
+
+559
+00:31:10,000 --> 00:31:12,000
+I don't know,
+
+560
+00:31:12,000 --> 00:31:14,000
+those solutions,
+
+561
+00:31:14,000 --> 00:31:16,000
+like Devin,
+
+562
+00:31:16,000 --> 00:31:18,000
+or those automatic programmers,
+
+563
+00:31:18,000 --> 00:31:20,000
+who would do anything,
+
+564
+00:31:20,000 --> 00:31:22,000
+are already impressive.
+
+565
+00:31:22,000 --> 00:31:24,000
+They can do a lot of other tasks,
+
+566
+00:31:24,000 --> 00:31:26,000
+but they also get stuck,
+
+567
+00:31:26,000 --> 00:31:29,000
+and they always make more mistakes,
+
+568
+00:31:29,000 --> 00:31:32,000
+or make some inoptimal things,
+
+569
+00:31:32,000 --> 00:31:35,000
+and they need to be corrected all the time.
+
+570
+00:31:35,000 --> 00:31:37,000
+So, I think that,
+
+571
+00:31:37,000 --> 00:31:39,000
+first of all,
+
+572
+00:31:39,000 --> 00:31:41,000
+it will take a long time,
+
+573
+00:31:41,000 --> 00:31:43,000
+that we will also,
+
+574
+00:31:43,000 --> 00:31:45,000
+for some, not so senior people,
+
+575
+00:31:45,000 --> 00:31:47,000
+that we won't need them anymore,
+
+576
+00:31:47,000 --> 00:31:49,000
+but especially for those seniors,
+
+577
+00:31:49,000 --> 00:31:51,000
+who will be supervising AI,
+
+578
+00:31:51,000 --> 00:31:53,000
+I think,
+
+579
+00:31:53,000 --> 00:31:55,000
+it will take some time,
+
+580
+00:31:56,000 --> 00:31:58,000
+and also in BI,
+
+581
+00:31:58,000 --> 00:32:00,000
+I think we will need analysts
+
+582
+00:32:00,000 --> 00:32:02,000
+for such a long time,
+
+583
+00:32:02,000 --> 00:32:04,000
+because, for example,
+
+584
+00:32:04,000 --> 00:32:06,000
+in BI, I think,
+
+585
+00:32:06,000 --> 00:32:08,000
+the adoption of AI
+
+586
+00:32:08,000 --> 00:32:10,000
+is a bit slower,
+
+587
+00:32:10,000 --> 00:32:12,000
+because it's a field
+
+588
+00:32:12,000 --> 00:32:14,000
+that deals with sensitive data,
+
+589
+00:32:14,000 --> 00:32:16,000
+and people are afraid of AI,
+
+590
+00:32:16,000 --> 00:32:18,000
+they don't understand it as much,
+
+591
+00:32:18,000 --> 00:32:20,000
+as maybe programmers do.
+
+592
+00:32:20,000 --> 00:32:22,000
+Great.
+
+593
+00:32:22,000 --> 00:32:24,000
+Benjamin, thank you for your time,
+
+594
+00:32:24,000 --> 00:32:26,000
+and good luck with your sales.
+
+595
+00:32:26,000 --> 00:32:28,000
+Thank you.

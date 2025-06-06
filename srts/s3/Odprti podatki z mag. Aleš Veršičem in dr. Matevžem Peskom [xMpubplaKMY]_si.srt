@@ -1,0 +1,6971 @@
+1
+00:00:30,000 --> 00:00:44,240
+novim izgledom, novimi barvami in novimi lanom, pa tudi Lara se nam je pridržala, da pomagala to besedovo in zvok poširiti do mlajše populacije, ki jo drugače ne ulovimo z temi kanaljami, na katerih smo zdaj bili.
+
+2
+00:00:44,240 --> 00:01:04,800
+Nič, zdaj, tvoje načelo ima ta nek intro, jaz imam tukaj full time danes za vajo. Zdaj, ko sem malo raziskoval, pa to bistvo bila bistveno več nastopa, ta je ono, kot jaz smo gotovili, pa imate več tega stika z audiensom, kot jaz.
+
+3
+00:01:05,199 --> 00:01:08,239
+Tako da, če bom kaj okvrto prašal, lahko praviti.
+
+4
+00:01:08,239 --> 00:01:09,360
+Ni problema.
+
+5
+00:01:09,360 --> 00:01:37,360
+Ne. Ok, ja, jaz sem vajal danes po vablju, v bistvu že, ko smo začeli podcast, pa je bilo pač, ej ote, zakaj bi ta podcast imeli, kdo so gosti, koga boste sploh povabljali, potem sem jaz imel pač, ok, želel bi se pogovarjati s direktrico Microsofta Slovenija, recimo, pa verjši, če moram imeti za open data, pa moči, če še pese, ki jo autologo, pa vej to pismo, to so nekje teme, ki jih moramo imeti.
+
+6
+00:01:37,360 --> 00:01:46,160
+Zdaj, veliko nekih drugih tem smo že v preteklih sezonah imeli, ampak toto epizodo z open data, pa jaz sem res če uporabljen, da začnemo novo sezono s tem, pa da
+
+7
+00:01:46,160 --> 00:01:51,760
+da ljudem pokažemo, da so to neki otprti podatki, pa da lahko neki zanimljega s temi podatki se naredijo, pa
+
+8
+00:01:51,760 --> 00:02:01,040
+hotel sem tudi, da bi imel danes malo odkrili, kaj je ta nek trud, ki ga je treba vložiti v to, da so ti podatki dostopni, da so pripravljeni, ažurni in to.
+
+9
+00:02:01,440 --> 00:02:10,639
+Tako da, ja, to je danes premisa tega podkesta, z mano sta magister Aleš Veršič, pa dr. Mateš Pesek iz FRIA.
+
+10
+00:02:12,240 --> 00:02:18,880
+Zdaj, ti si na Ministrstvu za digitalno preobrazbo, transformacijo, to je to, dobrodošli oba.
+
+11
+00:02:18,880 --> 00:02:20,880
+Živjo, hvala, živjo.
+
+12
+00:02:20,880 --> 00:02:29,839
+Moje introti so včasih ful predolgi, pa nočem zgobiti gosto, tako da, zdaj vidimo, da imate fult tudi to zgodbo, da
+
+13
+00:02:30,399 --> 00:02:40,320
+autolog, ki se ga pripravil, pa ste ga razvili do tega stanja, da je uporabljeno za juzera, je ga ljudje uporabljajo in je tudi integrirano v
+
+14
+00:02:40,320 --> 00:02:42,320
+portal, ne morem se spomenemena.
+
+15
+00:02:42,320 --> 00:02:43,839
+Opsi?
+
+16
+00:02:43,839 --> 00:02:44,800
+Ne.
+
+17
+00:02:44,800 --> 00:02:46,080
+Dobro auto?
+
+18
+00:02:46,080 --> 00:02:48,080
+Ja, dobro auto.
+
+19
+00:02:48,080 --> 00:02:55,839
+Tako da, v bistvu, vzeli ste odprte podatke, uporabljeni so produkti razviti in je integrirano tudi v neko večjo zgodbo.
+
+20
+00:02:55,839 --> 00:02:56,399
+Ja.
+
+21
+00:02:56,399 --> 00:02:58,160
+A mogoče začnemo na tvoji strani.
+
+22
+00:02:58,240 --> 00:03:06,800
+Ja, saj, mogoče en preljudi v to. Mi dva z Lešom so se spoznali tam leta 2014, zaradi Žejna, kolega.
+
+23
+00:03:06,800 --> 00:03:07,679
+Aha, ok.
+
+24
+00:03:07,679 --> 00:03:08,240
+Hruške.
+
+25
+00:03:08,240 --> 00:03:08,800
+Gašper.
+
+26
+00:03:08,800 --> 00:03:09,360
+Ja.
+
+27
+00:03:09,360 --> 00:03:09,919
+Tako da.
+
+28
+00:03:09,919 --> 00:03:10,639
+Želja, ja.
+
+29
+00:03:10,639 --> 00:03:11,679
+Ja.
+
+30
+00:03:11,679 --> 00:03:12,399
+Po naključju.
+
+31
+00:03:12,399 --> 00:03:22,960
+Po naključju smo se dobili enkrat v Kornarju, začeli govoriti o podatkih, kaj vse se da delati in potem smo počali štartati. Mi smo začeli prej eno predmeto, v bistvu na našem
+
+32
+00:03:22,960 --> 00:03:29,279
+VSAŠA študiju, multimedijske tehnologije, te podatke počasnu porabljati kot tematike, na katerih se da delati seminarske analoge.
+
+33
+00:03:29,279 --> 00:03:29,839
+Aha.
+
+34
+00:03:29,839 --> 00:03:41,600
+Torej, vzemi podatke, ugotovi, kaj se da dobiti. Na drugi strani smo imeli Leša, Alenko občiničnik, Marino Rajč zdaj v zadnjih letih, ki so nam v bistvu pomagali držati te kontakte z vsemi različnimi agencijami, ki so tukaj opletene.
+
+35
+00:03:41,600 --> 00:03:45,679
+To je bilo še v bistvu pred OPSI portalom skoraj, da ne.
+
+36
+00:03:45,679 --> 00:03:46,639
+V bistvu sočasno.
+
+37
+00:03:46,639 --> 00:03:48,639
+Ja, ta šele let za tem je prišel ven, ne.
+
+38
+00:03:48,720 --> 00:03:59,600
+Če napišeš opendata.si, priješ na eno spletno stran, ki so gore neki projekti, ta mi piše, da je 2012 letnica, pa hrubo je zraja.
+
+39
+00:03:59,600 --> 00:04:07,679
+Ja, to je še gašper delal vtekrat. On je bil že takrat zelo navdušen na temi podatki, ne. OPSI, portale, potem kasnej 2015, 2016.
+
+40
+00:04:07,679 --> 00:04:08,720
+Docembar 2016.
+
+41
+00:04:08,720 --> 00:04:16,720
+Ja, je rato, ne. In mi smo začeli s temi podatki in smo imeli tako, ful je bilo dobro, ne, bila smo Aleša, ki je težil tem agencijam, da bi si želeli neke podatke.
+
+42
+00:04:16,720 --> 00:04:28,720
+Veliko je bilo nekih strahov, veliko je bilo nekega tako občutka potveganja z vzdika teh agencij, zatem, kar naenkrat daš te podatke, ven ljudje začnejo ugotavljati, da kaj narobijo v teh podatkih, ne.
+
+43
+00:04:28,720 --> 00:04:30,720
+Potem fast forward.
+
+44
+00:04:30,720 --> 00:04:33,679
+Čakaj, študenti ne najdejo napake še takoj v teh podatkih.
+
+45
+00:04:33,679 --> 00:04:47,679
+Ja, velika pride do kakšnih zanimivih napak, zanimivih nekonsistenc, recimo, vzeli smo državni proračun in so ljudje vizualizirali državni proračun in se jih skaže v nekih aspektih, da tem je pa en kup projektov, ampak res neka masa projektov, ki je vredna milijarde skupin, ne.
+
+46
+00:04:47,679 --> 00:04:51,679
+Kjer so vsi projekti vredni 100 evrov, ne.
+
+47
+00:04:51,679 --> 00:05:05,679
+Tako, res veliko. In sem rekel, ok, kaj je, da je samo ta dnar men, dajte, pa sem zadovoljen za nekih deset generacij, ne. In se jih skaže, da nekdo nekje v nekem trenutku, ko je odprl, ki je hotel odpreti projekt, je mogel dajt minimalno vrednost, minimalnega badžeta, ki je bila umejena na 100 evrov.
+
+48
+00:05:05,679 --> 00:05:17,679
+In to so bili projekti, ki se nikoli niso izvedeli, ne. V državni proračunu so še vedno, še vedno je bila tista lokacija in smo ki to v vizualizaciji tako videli, kot res, res ogromno dnarja, ne, ki nekje je, čeprav nikoli ni bil redansko realiziran, ne.
+
+49
+00:05:17,679 --> 00:05:39,679
+Po, recimo, ko smo šli v vizualizacijo občin, podatkov o plačah, o porabi, pa smo gledali manjša občina, napravljamo večino občina, tukaj se vidi zelo enostavno, koliko pa reto ne optimalni smo z vidika, recimo, porabe teh sredstev, ne, mehna občina porab, tam dve, tretjini dnarja za plača od župana, pa mogoče administrativno osebe, ne.
+
+50
+00:05:39,679 --> 00:06:08,679
+Lahko, Ljoti, govori. Ja, znam to zgodbo, me smo imeli, Transparency International je vzel občinske proračune in tle bo nekot tista klasična, mogoče, napaka analitika, ko opaziš neko nenavadno odsopanje, sploh, kot je rekul Matej, plača pri mehničnih občinah, ampak, če me keč, nekatere manjša občina so sedeži skupnih občinskih oprav in ta občin oprave bi se ustoritil za deset občin in vsi ljudi, ki so v tej občini zaposleni, za določeno področje, dela za teh deset občin.
+
+51
+00:06:08,679 --> 00:06:37,679
+In bi bil mogoče tam, je pa dejansko mogoče strošek dela toliko nižji in je potem bilo napaka, ena je bila v podatkih, da ni bilo podopombo označen, gre za skupnih občinskih oprav, to je bilo ena napaka na strani ministrstva, ki pač dela v podatke, oziroma v stvarja in pa tudi konc vlazi nekakva analitika, ki bi moral alarmi zasvetiti, lej, tle imaš pa ful neke odsopanja, preveri pri lasniku, zakaj je do teh odsopanj prišlo, ali napaka v podatkih, ne vem, napakačna decimalka ali skupnih občinskih oprav.
+
+52
+00:06:37,679 --> 00:06:52,679
+Veliko tega je nam bilo zelo enostavno reševati, zato ker smo vedno na drugi strani imeli nekaj sogovorcev, ki ga je le širito ali pa ne. Dejansko veliko lažje, ko če nekdo vzame podatke na portalu, jih zdavnljava in potem proba dobiti nek kontakt, čeprav so ten kontakt ne v sebi.
+
+53
+00:06:52,679 --> 00:07:07,679
+Feedback je različen, glede na različne ljudi. Tako, Fast Forward, na ene 218, s kolegom Vidom, ki se je lih pri nas zaposlil v Lebu, so se osedlali in so rekli, mi da bo v sobotah nekaj hekala.
+
+54
+00:07:07,679 --> 00:07:24,679
+In so gledali različne storinje in so rekli, o pismo. In so mi rekli, te podatke v avtih, že prej sem študentom rekel, je to ful dobro, dejte kaj narediti, dejte kaj narediti, te podatke bojo ful kul. In so mi rekli, naj bo zanima za najne avte, koliko je bilo prejšnjih glasnikov, kdo so bili, koliko so bili stari, odkot so bili, koliko kilometrov imajo avt in tako naprej.
+
+55
+00:07:24,679 --> 00:07:48,679
+In so potem, mislim, da je v tem janvarju 2019, medtem, ka so se vozila na Dunaj, ka so šla po e-residency estonski, so v bistvu diplojala zadeva in v tem naprej je zadeva ful, ful, ful zaživela. Ful pozitivnih feedbackov, veliko različnih zgodb je bilo, ka so ljudje potem ugotovili, da so bili prevarani, ker nihče ni gledal zapisnikov tehničnih pregledov.
+
+56
+00:07:48,679 --> 00:07:59,679
+Veliko ljudi je prišlo, o, mi imamo, pa ne, premeni, pa čisto drugačna avto. Vsi dobimo zapisnih tehničnega pregledov, roko nobenega ne pogleda. Torej, ti si sprejel ta dokument, nisi pogledal in zdaj težiš, da so podatke napačni. Ampak, kool, ne?
+
+57
+00:07:59,679 --> 00:08:11,679
+Dejmo najti način, kako mi skrautsorsamo pravilnost podatkov državi nazaj. In to delamo sicer z mnogimi bypassi, zatega, ker MZI oziroma kontaktne osebe tam niso strašno navdušene nad tem.
+
+58
+00:08:11,679 --> 00:08:24,679
+Zdaj, samo intermezo, Autolog je spletna stran, kjer opišeš v inšti veliko svojega avta ali pač avta in dobiš nazaj podatke, koliko kilometrov je imel avto na določen čas.
+
+59
+00:08:24,679 --> 00:08:37,679
+Celoten zapisnik tehničnega pregledov. Kaj se je zgodil, je bil uspešen ali neuspešen, kakšne napake so bile, kakšne so meritve na vseh treh stopnah s teze za tehnični in tako naprej.
+
+60
+00:08:37,679 --> 00:08:45,679
+Niso bili čisto vsi ljudje navdušeni nad tem, ne? Nekateri, ki se okvarjajo s preprodajah vzil, so bili mogoče mnogo navdušeni.
+
+61
+00:08:45,679 --> 00:08:56,679
+Nekateri ljudje niso bili navdušeni, recimo en zanimiv klid sem imel enkrat leta nazaj, ki je nekdo me klid sem rekel, da to ful ni dobro, da imamo te podatke gor, ker zdaj njega vse ose dve, da ima on BMW analizing.
+
+62
+00:08:56,679 --> 00:09:03,679
+Zdaj ga, ker piše, da je lesnik pravna oseba, čeprav je on sosedo vse čas razlagal, da ga je kupil z narjem in da to ful ni dobro.
+
+63
+00:09:03,679 --> 00:09:13,679
+Veliko takih zgod pride ven, ampak generalno gledano ljudje so bili predvsem navdušeni zatega, ker je to mogoče prvi korak tej transparentnosti našega trga, ki je zelo, zelo bil poloma.
+
+64
+00:09:13,679 --> 00:09:19,679
+V meji smo dodali recimo bazo ukradnih vozil od ministerstva za notrene zadeve.
+
+65
+00:09:19,679 --> 00:09:21,679
+Tudi povejš te velike?
+
+66
+00:09:21,679 --> 00:09:24,679
+Tako. Tam so še registrarske objavljane zaradi tega, ker so ukradne vozila.
+
+67
+00:09:24,679 --> 00:09:32,679
+In se kaže, da tako na sto avtov oziroma drugih vozil je potem, ker je bilo ukradnih, uspešno šlo čez tehnični pregled.
+
+68
+00:09:32,679 --> 00:09:38,679
+Zadeva je bila zelo sumljiva. Policija je pa rekla, da v bistvu mi nismo popravljali tega, ko smo najdeli te avte.
+
+69
+00:09:38,679 --> 00:09:41,679
+Oziroma včasih je veliko te šlo za kakšne leasinge od Tweetve.
+
+70
+00:09:41,679 --> 00:09:46,679
+Nas so klicali recimo potem iz leasinghiša, a lahko od strante smo avto dobili nazaj.
+
+71
+00:09:46,679 --> 00:09:49,679
+Policija pa tega ni naredila, pa smo bili malenko soprecepljeni.
+
+72
+00:09:49,679 --> 00:09:54,679
+Sicer tam, ker imaš neko konkretno leasinghišo odzali, pa veš kako se pogovarjaš.
+
+73
+00:09:54,679 --> 00:09:58,679
+Samo ne bi mogel v tem, če gremo zdaj na Aleša.
+
+74
+00:09:58,679 --> 00:10:01,679
+Dajte pa pač sodopomiti to zgodbo za Vinštevilko.
+
+75
+00:10:02,679 --> 00:10:08,679
+Namareč, mi smo imeli pred časom, pač naš ministerstvo, pa Majev, ki smo v skrbniku portala OPSI,
+
+76
+00:10:08,679 --> 00:10:11,679
+pa ministro za infrastrukturo, pač sestank pri informacijskem oblaščenju.
+
+77
+00:10:11,679 --> 00:10:14,679
+Namareč, v enem postopku so govorili glihto o Vinštevilko.
+
+78
+00:10:14,679 --> 00:10:19,679
+Namareč, takrat so nam tudi povedali, da je po nekaj evropske uredbi Vinštevilka vsebni podatek.
+
+79
+00:10:19,679 --> 00:10:27,679
+Kar pomeni, v mojem vsebnem mnenju, nekaj poskus upliva avtoindustrije, kako omejiti dostop do teh podatkov.
+
+80
+00:10:27,679 --> 00:10:33,679
+Kaj potem mora obdelal vseh teh podatkov, kjer je veze na Vinštevilko, obdelovati po GDPR-ju.
+
+81
+00:10:33,679 --> 00:10:36,679
+Kar seveda predstavlja določene izzive.
+
+82
+00:10:36,679 --> 00:10:42,679
+In vse te informacijske oblaščensti na tem postopku, ki jih moram pohvaliti, so šli v celem postopku zelo na roko.
+
+83
+00:10:42,679 --> 00:10:49,679
+Zadeva se seveda, če zdaj vrti, mazaj mora spomeniti zakon in zapisati, da je Vinštevilka,
+
+84
+00:10:49,679 --> 00:10:52,679
+kljub temu, da je to vsebni podatek, lahko javni podatek.
+
+85
+00:10:52,679 --> 00:10:57,679
+Kar koncno tudi zemljiška pricela, za njeno številko, je vsebni podatek.
+
+86
+00:10:57,679 --> 00:11:02,679
+Če imaš zadnji imen in primak vlastnika pricela, vendar je za nekega širšega interesa.
+
+87
+00:11:02,679 --> 00:11:05,679
+Ta številka je še vedno javno dostopna.
+
+88
+00:11:05,679 --> 00:11:08,679
+Iščeš po številki in lahko dobiš določene podatke.
+
+89
+00:11:08,679 --> 00:11:10,679
+Kaj pa v registerske?
+
+90
+00:11:10,679 --> 00:11:12,679
+Registerske spada pod vsebni podatek.
+
+91
+00:11:12,679 --> 00:11:14,679
+Samo pro kradnih vozilih so objavljene.
+
+92
+00:11:14,679 --> 00:11:16,679
+Kaj se je takrat zgodilo?
+
+93
+00:11:16,679 --> 00:11:20,679
+Je bilo zanimivo to, da je policija rekla, da ni imamo baza v kradnih vozilih.
+
+94
+00:11:20,679 --> 00:11:22,679
+To je samo informativni seznam.
+
+95
+00:11:22,679 --> 00:11:27,679
+Je pa res, da od takrat naprej policija zelo redno updajta ta informativni seznam.
+
+96
+00:11:27,679 --> 00:11:31,679
+Kar pomeni, da nek takšen feedback odprtih podatkov je to,
+
+97
+00:11:31,679 --> 00:11:39,679
+da lahko prsileš okolico, skupnost, državo, da so stvari bolj transparentne in prečiščene.
+
+98
+00:11:39,679 --> 00:11:44,679
+Ligaš, preželjene, je enkrat rekel v 2016.
+
+99
+00:11:44,679 --> 00:11:50,679
+Ljudje ne razumejo, da je konsistenca podatkov interni ongoing process.
+
+100
+00:11:50,679 --> 00:11:54,679
+To ni nekaj, ki enkrat narediš in potem pustiš in čez deset let rečeš,
+
+101
+00:11:54,679 --> 00:11:56,679
+ups, kaj imam jaz tukaj noter.
+
+102
+00:11:56,679 --> 00:11:58,679
+In tega je zelo veliko.
+
+103
+00:11:58,679 --> 00:12:00,679
+Zato je tudi ta strah.
+
+104
+00:12:00,679 --> 00:12:02,679
+Podatkov na odličnost?
+
+105
+00:12:02,679 --> 00:12:04,679
+Ja, vse nalepke pa značke, pa slončke si lahko oddaš,
+
+106
+00:12:04,679 --> 00:12:07,679
+ampak problem je to, da nekdo mora biti odzadi, kaj ve.
+
+107
+00:12:07,679 --> 00:12:12,679
+In velikrat pri teh zberkah je to nekdo, ki je mogoče pol leta pred penzijo,
+
+108
+00:12:12,679 --> 00:12:15,679
+ki je šel čez na deset leti tega in ve vse te stvari v glavi,
+
+109
+00:12:15,679 --> 00:12:17,679
+nekjer ni naš dokumentiran, nekjer ni naš zapisan.
+
+110
+00:12:17,679 --> 00:12:21,679
+Potem moraš tega človeka dobiti in ga spraševati direktno za tega,
+
+111
+00:12:21,679 --> 00:12:24,679
+ker on ve vse te stvari, vse izjeme, vse zakonske podlage,
+
+112
+00:12:24,679 --> 00:12:26,679
+kaj se je zgodil, kaj se je spreminil.
+
+113
+00:12:26,679 --> 00:12:29,679
+Kdo je nekaj odločitev 15 let nazaj spreminil, da se je nekaj izgodil.
+
+114
+00:12:29,679 --> 00:12:32,679
+Tega nažalost ni in tukaj še nismo na tistem nivoju podatkov,
+
+115
+00:12:32,679 --> 00:12:35,679
+kjer boš ti šel gor, boš ozel podatke in ti bo vse jasno,
+
+116
+00:12:35,679 --> 00:12:37,679
+zato, ker boš dokumentacijo prebral.
+
+117
+00:12:37,679 --> 00:12:39,679
+Ampak vse te zbirke imajo skrbnike?
+
+118
+00:12:39,679 --> 00:12:42,679
+Tako je, imajo vse skrbnike, nekako osebe, ki so odgovorne
+
+119
+00:12:42,679 --> 00:12:47,679
+pri sami organizaciji, da tu te podatke objavijo na portalu OPSI.
+
+120
+00:12:47,679 --> 00:12:49,679
+Oziroma so različni pristopi.
+
+121
+00:12:49,679 --> 00:12:53,679
+Recimo primer statističnega urada, ki imajo tam cirka 30 tisoč plus zbirk.
+
+122
+00:12:53,679 --> 00:12:56,679
+Potem pač mi imamo z njimi nareden sistem harvestinga
+
+123
+00:12:56,679 --> 00:12:58,679
+in oni nam potem samo še pošiljajo update.
+
+124
+00:12:58,679 --> 00:13:01,679
+Se pravi, katera zbirka se mogoče umakne, kaj se nekaj spreminil,
+
+125
+00:13:02,679 --> 00:13:04,679
+katera je nova zbirka, katera se popravi.
+
+126
+00:13:04,679 --> 00:13:08,679
+Podobno imamo za geoprostorske podatke s strani geodetske uprave,
+
+127
+00:13:08,679 --> 00:13:11,679
+ki imajo en geoportal, potem direktiranje v Ispajer,
+
+128
+00:13:11,679 --> 00:13:15,679
+kjer mi še jemljamo te njihove vpise, zato, ker portal OPSI
+
+129
+00:13:15,679 --> 00:13:21,679
+v osnovi bi bil centralni državni katalog vseh zbirk podatkov.
+
+130
+00:13:21,679 --> 00:13:23,679
+Zdaj, ne samo odprtih podatkov.
+
+131
+00:13:23,679 --> 00:13:27,679
+Na portalu OPSI imamo dva zavihka že nekaj časa.
+
+132
+00:13:27,679 --> 00:13:31,679
+Eno so odprti podatki, drugo so katalog informacijalnega znažaja,
+
+133
+00:13:31,679 --> 00:13:34,679
+IASZ na skratico, kjer so tudi objavljene tiste zbirke,
+
+134
+00:13:34,679 --> 00:13:37,679
+ki so zaprte, kjer so lahko osebni podatki.
+
+135
+00:13:37,679 --> 00:13:41,679
+Ampak je pomembno, da uporabnik je vedel, da ta zbirka obstaja
+
+136
+00:13:41,679 --> 00:13:44,679
+in se tudi tam ne bi bili pač zapisani pogoji,
+
+137
+00:13:44,679 --> 00:13:46,679
+pod kakšnimi lahko nekdo prilag teh podatkov,
+
+138
+00:13:46,679 --> 00:13:49,679
+bodi si ali ima neko zakonsko podlago kot nek raziskovalec
+
+139
+00:13:49,679 --> 00:13:53,679
+in gre v neko varno kole, kjer lahko obdruje te vrovane podatke,
+
+140
+00:13:53,679 --> 00:13:57,679
+ali pa prosi in reče, dajte nam narest neko statistiko,
+
+141
+00:13:57,679 --> 00:14:01,679
+primer, jaz znam ponovat evidenco migrantov,
+
+142
+00:14:01,679 --> 00:14:04,679
+ki jih pač vodi policija, za nekega družbe oslovca,
+
+143
+00:14:04,679 --> 00:14:07,679
+seveda ne zanima imen, primer, posama za migranta,
+
+144
+00:14:07,679 --> 00:14:10,679
+ki jih stopa skozi državo, zanima jih mogoče država izvora,
+
+145
+00:14:10,679 --> 00:14:14,679
+zanima jih po neko število, pa po mesecu, da pač imamo na to dinamiko.
+
+146
+00:14:14,679 --> 00:14:17,679
+Tudi v izogib nekim političnim pregravanjem,
+
+147
+00:14:17,679 --> 00:14:20,679
+da potem neka stranka reče, ne vem koliko.
+
+148
+00:14:20,679 --> 00:14:23,679
+Če se to objavi kot nek odprti podatek, redna mesečna
+
+149
+00:14:23,679 --> 00:14:27,679
+pa tedenska statistika, izogljamo se vsem nekim špekulacijam,
+
+150
+00:14:27,679 --> 00:14:31,679
+stvar je bolj transparentna in nobeno more nekako blefirati
+
+151
+00:14:31,679 --> 00:14:34,679
+in reči, aha, to, ki je migranto, je temne maturadno evidenco
+
+152
+00:14:34,679 --> 00:14:37,679
+in je pač temna boljo, recimo.
+
+153
+00:14:37,679 --> 00:14:41,679
+Tudi mi poskušamo skupino to, kaj že Mateo še omenil,
+
+154
+00:14:41,679 --> 00:14:44,679
+pač Lenka, Marlina, pa še kolegica Mateja Prešerenka
+
+155
+00:14:44,679 --> 00:14:47,679
+je bom nekaj ta pravni del pokrivala pa nas,
+
+156
+00:14:47,679 --> 00:14:51,679
+urednikom in ministerstvom razlagati, da ne odprejo podatke,
+
+157
+00:14:51,679 --> 00:14:54,679
+ki bojo najde noter najboljš napake.
+
+158
+00:14:54,679 --> 00:14:57,679
+Jaz se spominjam še s času mojega študija,
+
+159
+00:14:57,679 --> 00:15:00,679
+ko sem delal eni spet nagradi na Faksu pred profesor Šumradi,
+
+160
+00:15:00,679 --> 00:15:03,679
+v njegovih knjigah pa če bom pravil, tako 65 procentov
+
+161
+00:15:03,679 --> 00:15:06,679
+točnost podatkov je zelo visoka številka.
+
+162
+00:15:06,679 --> 00:15:09,679
+100 procentov ne bomo imeli nikoli, zmer bo,
+
+163
+00:15:09,679 --> 00:15:13,679
+mislim, ja, ena polje v eni vrstici pa mogoče za danes.
+
+164
+00:15:13,679 --> 00:15:16,679
+Več podatkov, več je lahko napakane.
+
+165
+00:15:17,679 --> 00:15:20,679
+Jaz vsakmo rečem, če date vi brezplačno,
+
+166
+00:15:20,679 --> 00:15:23,679
+se pravi, podatke niso stale za stolj, ampak je ponovno uporaba
+
+167
+00:15:23,679 --> 00:15:26,679
+brezplačna, se pravi, vsak na tem planetu,
+
+168
+00:15:26,679 --> 00:15:29,679
+konče, lahko te podatke uporabi.
+
+169
+00:15:29,679 --> 00:15:32,679
+Kaj je benefit ministerstvu, ker mi smo tudi na podatku
+
+170
+00:15:32,679 --> 00:15:35,679
+naredili, pa če imamo neko kontaktno okno,
+
+171
+00:15:35,679 --> 00:15:38,679
+okno, kjer pa čemo rečemo kontaktira urednika,
+
+172
+00:15:38,679 --> 00:15:41,679
+kjer mu ti lahko sporočiš, najde san te napake, najde san v trete,
+
+173
+00:15:41,679 --> 00:15:44,679
+s tem v bistvu izboljšamo te podatke,
+
+174
+00:15:44,679 --> 00:15:47,679
+in znovi pa te podatke bi pa tudi morali biti neka strokovna podlaga
+
+175
+00:15:47,679 --> 00:15:50,679
+pri politikah. Tukaj je Mateo še rekel,
+
+176
+00:15:50,679 --> 00:15:53,679
+da je v pazu neko dinamično stane števcev gore-dole,
+
+177
+00:15:53,679 --> 00:15:56,679
+enkrat gre gor, enkrat je dosmak takrat,
+
+178
+00:15:56,679 --> 00:15:59,679
+kaj bi doktorna vozila, pri uvozu so šli števci gor,
+
+179
+00:15:59,679 --> 00:16:02,679
+potem dol. Zdaj, jaz sem o tem tudi razmišljal,
+
+180
+00:16:02,679 --> 00:16:05,679
+v bistvu, ni plan ta zdaj, da mi, ok,
+
+181
+00:16:05,679 --> 00:16:08,679
+najda smo težavo v sistemu. Zdaj, prvi korak,
+
+182
+00:16:08,679 --> 00:16:11,679
+ki bi bil za mene, če gledam tako kot državljan,
+
+183
+00:16:11,679 --> 00:16:14,679
+da bi, v bistvu, že na tehničnem pregledu, ko ti pridaš,
+
+184
+00:16:14,679 --> 00:16:17,679
+in tis, ki dela tehnične preglede, tudi pregleda prejšnje stane števca.
+
+185
+00:16:17,679 --> 00:16:20,679
+In reče, pogledajte,
+
+186
+00:16:20,679 --> 00:16:23,679
+ne možeš registrirati auto, če je,
+
+187
+00:16:23,679 --> 00:16:26,679
+se pravi, bi moral, že pri viru, tehnični pregled je tudi,
+
+188
+00:16:26,679 --> 00:16:29,679
+končno pravzi, bi moral biti realno stane števca.
+
+189
+00:16:29,679 --> 00:16:32,679
+In bitem, se pravi, Mateo še zdaj samo bo neko
+
+190
+00:16:32,679 --> 00:16:35,679
+razkril napako v sistemu, in zdaj bi moral
+
+191
+00:16:35,679 --> 00:16:38,679
+na neko odločevalci reči, dejmo to sistem popraviti,
+
+192
+00:16:38,679 --> 00:16:41,679
+tako da, se pravi, ne poznam detalje o procesu registracije, ampak...
+
+193
+00:16:41,679 --> 00:16:44,679
+Se pravi, ni pravi izraz, ampak podržaviti
+
+194
+00:16:44,679 --> 00:16:47,679
+autolog v svoji procesu.
+
+195
+00:16:47,679 --> 00:16:50,679
+Ne, ne, autolog je bil razkril
+
+196
+00:16:50,679 --> 00:16:53,679
+sistemske težave...
+
+197
+00:16:53,679 --> 00:16:56,679
+Ker lahko interne procese ti izboljšuješ. A veš, tukaj je velike
+
+198
+00:16:56,679 --> 00:16:59,679
+takih stvari, kjer smo mi, mogoče, brcal malo ministerstva,
+
+199
+00:16:59,679 --> 00:17:02,679
+pa druge agencije, pa jim je rekel, dejte, lej, se vam, mi to naredimo,
+
+200
+00:17:02,679 --> 00:17:05,680
+samo dejte nam... Recimo tipičen
+
+201
+00:17:05,680 --> 00:17:08,680
+primer je bil, ko smo v Furs sprašvali Lenke,
+
+202
+00:17:08,680 --> 00:17:11,680
+v našem menu sprašvali, strani ministerstva
+
+203
+00:17:11,680 --> 00:17:14,680
+zajavno upravljajo, če lahko dobimo podatke, kakšne so
+
+204
+00:17:14,680 --> 00:17:17,680
+stanje števcev pri plačilu dav, ki nam to
+
+205
+00:17:17,680 --> 00:17:20,680
+dozivajo. Ker je skažen, da tam nekje umes pač ponavadi
+
+206
+00:17:20,680 --> 00:17:23,680
+se zgobi za kašnih 100.000 km. Torej, postiš
+
+207
+00:17:23,680 --> 00:17:26,680
+visoke kilometre, doko ne plačaš DMV-ja, potem pa zbijoš
+
+208
+00:17:26,680 --> 00:17:29,680
+kilometre. Torej, ima država dva podatka, unga,
+
+209
+00:17:29,680 --> 00:17:32,680
+ki ga potem dobiš noter pri tehničnem pregledu, pa unga, ki si ga dobil
+
+210
+00:17:32,680 --> 00:17:35,680
+v DMV-ju. Kar pomeni, da v bistvu nekdo ogolfa državo.
+
+211
+00:17:35,680 --> 00:17:38,680
+In je Furs rekel, da ne, da te podatki, da to pa on izploh ne,
+
+212
+00:17:38,680 --> 00:17:41,680
+da to je pa informativne narave, da to pa ni šans. Pol leta kasneje
+
+213
+00:17:41,680 --> 00:17:44,680
+so naredili app, kjer so rekli, da je to ključen podatek za potrošnika.
+
+214
+00:17:44,680 --> 00:17:47,680
+Tako da, veš, na nek način, po eni strani sem se počutil,
+
+215
+00:17:47,680 --> 00:17:50,680
+come on, mi smo vam rekli, da hočemo to narediti, pa v autologiji
+
+216
+00:17:50,680 --> 00:17:53,680
+bi imeli ta podatek noter. Po drugi strani pa, ok, Furs
+
+217
+00:17:53,680 --> 00:17:56,680
+je finaliziral nekaj nares na tem. Veliko takih stvari
+
+218
+00:17:56,680 --> 00:17:59,680
+se da transparentno spelati in je boljš za celotno skupnost.
+
+219
+00:17:59,680 --> 00:18:02,680
+Z vidika autologa, kilometri, ok, oškodovanje je
+
+220
+00:18:02,680 --> 00:18:05,680
+nekega potrošnika, ki kupuje rabljen avto.
+
+221
+00:18:05,680 --> 00:18:08,680
+Ampak po drugi strani gre, da ne vem, ukolevarstveni aspekt,
+
+222
+00:18:08,680 --> 00:18:11,680
+varnostni aspekt na cesti, v kateri mi sploh ne govorimo,
+
+223
+00:18:11,680 --> 00:18:14,680
+pa bi mogli, mogoče, kakšno ministrstvo za zdravje ali pa kdo drug,
+
+224
+00:18:14,680 --> 00:18:17,680
+reči, ej, če imamo jaz avto s pol milijona kilometri, taj katalizator
+
+225
+00:18:17,680 --> 00:18:20,680
+definitivno ne nadeluje, tako kot ti, pa vemo, da na tehničnem pregledu
+
+226
+00:18:20,680 --> 00:18:23,680
+katalizator, ali jih ne padaš, če me razumeš.
+
+227
+00:18:23,680 --> 00:18:26,680
+Ali pa varnostni aspekt, servisiranje avta, ki ima 500.000 kilometrov,
+
+228
+00:18:26,680 --> 00:18:29,680
+pa avta, ki ima 100.000 kilometrov. Zdaj govorimo tukaj samo o avtih,
+
+229
+00:18:29,680 --> 00:18:32,680
+verjetno tudi o motorih, kamionih in tako naprej.
+
+230
+00:18:32,680 --> 00:18:38,680
+Veliko je tega, da ko se neka agencija, nekdo spravi nekaj narest,
+
+231
+00:18:38,680 --> 00:18:41,680
+tukaj nekaj naradi milijonski projekt.
+
+232
+00:18:41,680 --> 00:18:44,680
+Mi smo bili, recimo, pretočni si, ko smo začeli to delati.
+
+233
+00:18:44,680 --> 00:18:47,680
+Ak sam mikrofon malo više... Seveda.
+
+234
+00:18:47,680 --> 00:18:50,680
+Kako je pomembne misli.
+
+235
+00:18:52,680 --> 00:18:56,680
+Pretočni si smo imeli ta aspekt, kjer smo se pogovarjali.
+
+236
+00:18:56,680 --> 00:19:00,680
+Smo rekeli, da je bilo dobro imeti nekaj meta-api za podatke o LPP-jih,
+
+237
+00:19:00,680 --> 00:19:06,680
+o drugih avtih, o medkrajonem prometu, o Avantigo, o vseh kolesih,
+
+238
+00:19:06,680 --> 00:19:09,680
+car-share-ih, bike-share-ih, whatever it is.
+
+239
+00:19:09,680 --> 00:19:12,680
+In je bil en tekoč evropski projekt, pa smo rekeli,
+
+240
+00:19:12,680 --> 00:19:16,680
+z Matejem Cererjem smo pripravili eno predstavito iz Mola.
+
+241
+00:19:17,680 --> 00:19:20,680
+Občina bi lahko tudi te podatke pridobila, ker veliko teh stvari
+
+242
+00:19:20,680 --> 00:19:25,680
+je občina nekaj skrbnik, koordinator ali celolesnik teh podatkov.
+
+243
+00:19:25,680 --> 00:19:28,680
+Zdaj tam ustav. Predem gremo v promet.
+
+244
+00:19:28,680 --> 00:19:32,680
+Biš rad soprašil, da v Autolog pač par let ga delate,
+
+245
+00:19:32,680 --> 00:19:36,680
+boš mi povedal točkolik, verjetno pet let ali šest.
+
+246
+00:19:38,680 --> 00:19:41,680
+Vsako leto dobite nek dump za vsako leto posebej.
+
+247
+00:19:41,680 --> 00:19:44,680
+Kaj ste ugotovili v teh petih letih?
+
+248
+00:19:45,680 --> 00:19:48,680
+Kaj si se navčil po petih letih?
+
+249
+00:19:48,680 --> 00:19:51,680
+Nekaj 95 milijonov rekordov.
+
+250
+00:19:51,680 --> 00:19:55,680
+Imamo tehnične preglede, to so vozila, ki so šter leta ali starejša.
+
+251
+00:19:55,680 --> 00:19:59,680
+Imamo novo registrirano vozilo, imamo neke presečne podatke,
+
+252
+00:19:59,680 --> 00:20:02,680
+mislim, da na pol leta še.
+
+253
+00:20:02,680 --> 00:20:05,680
+Mislim, da je uspešnost tehničnih pa še ne za 9,5 leta.
+
+254
+00:20:05,680 --> 00:20:08,680
+Nekatere na leto, nekatere pa na mesečno vinovojo,
+
+255
+00:20:08,680 --> 00:20:10,680
+ko so novo registrirano vozilo.
+
+256
+00:20:10,680 --> 00:20:14,680
+Zanimivo je, da ste videli to, da napake se pojavljajo,
+
+257
+00:20:14,680 --> 00:20:18,680
+ko ljudje prepisujo kilometre iz odometra v računalnik,
+
+258
+00:20:18,680 --> 00:20:22,680
+ampak da je teh napak tako statistično pri nekaterih nemških znamkah
+
+259
+00:20:22,680 --> 00:20:25,680
+bistveno več kot pri drugih nenemških znamkah.
+
+260
+00:20:27,680 --> 00:20:30,680
+Na nek način mi lahko dvignemo to transparentnost,
+
+261
+00:20:30,680 --> 00:20:33,680
+po drugi strani se pa treba zavedati, da mi zelo radi kupujemo
+
+262
+00:20:33,680 --> 00:20:36,680
+stare nemške avte in se delamo, da imajo malo kilometrov
+
+263
+00:20:36,680 --> 00:20:39,680
+in je naša kupna moč bistveno manjša, kot bi bili pripravljeni
+
+264
+00:20:39,680 --> 00:20:43,680
+za ta avto. Kar pomenem v praksi, če obstaja poprašovanje,
+
+265
+00:20:43,680 --> 00:20:48,680
+bo tudi ponudba. Druga stvar, ki je mogoče zanimiva,
+
+266
+00:20:48,680 --> 00:20:52,680
+je, da neverjetno veliko število ljudi v drugih aspektih
+
+267
+00:20:52,680 --> 00:20:55,680
+tega mogoče nakupa, prodaje, ozdržovanja vozila,
+
+268
+00:20:55,680 --> 00:21:00,680
+uporablja avtolog. Zavrvaničari, policisti, avtomehaniki in tako naprej.
+
+269
+00:21:00,680 --> 00:21:04,680
+Kar se mi je zdaj vedno fascinantno, ker bi čakalo,
+
+270
+00:21:04,680 --> 00:21:08,680
+da neke druge zbirke že obstajajo ali pa da mogoče to znajo.
+
+271
+00:21:09,680 --> 00:21:13,680
+Z vodijo sektore za provare sem se pogovarjal,
+
+272
+00:21:13,680 --> 00:21:16,680
+je super za tega, ker mi lahko na podlagi tega dogotavljamo
+
+273
+00:21:16,680 --> 00:21:20,680
+kakšna idejanska škoda na avtih, ki so bili mogoče že parkat obrneli.
+
+274
+00:21:20,680 --> 00:21:23,680
+Potem dobimo neke škodne primere za zelo draga vozila,
+
+275
+00:21:23,680 --> 00:21:25,680
+ki je tako, ja, avto je imel samo 100.000 kilometrov,
+
+276
+00:21:25,680 --> 00:21:28,680
+pa se jih skaže, da je imel pet let nazaj 400.000 kilometrov.
+
+277
+00:21:28,680 --> 00:21:31,680
+Kar pomeni oceneni vrednosti vozila kot totalke.
+
+278
+00:21:31,680 --> 00:21:36,680
+Mogoče izplečila škode. Govorimo o par deset tisoč evrih.
+
+279
+00:21:36,680 --> 00:21:41,680
+Veliko takih aspektov je, ki so strašno zanimivi in padejo v neki residual vizualiti,
+
+280
+00:21:41,680 --> 00:21:45,680
+ki niso bili privarjeni na men, nismo vedeli, da to obstaja,
+
+281
+00:21:45,680 --> 00:21:48,680
+ampak folk je full happy in mi smo full happy.
+
+282
+00:21:48,680 --> 00:21:52,680
+A bi te podatke, ki se glede na uporabo,
+
+283
+00:21:52,680 --> 00:21:55,680
+možda nisi tudi vi zdaj ustvarjate nek data stream
+
+284
+00:21:55,680 --> 00:21:59,680
+ali neko količino podatkov, ali bote jih dali nazaj?
+
+285
+00:21:59,680 --> 00:22:03,680
+Kar mi delamo je to, da zdaj avtologje pod okrivno imamo za seja
+
+286
+00:22:03,680 --> 00:22:07,680
+in imamo v bistvu proces, kako te podatke popravljati za državo.
+
+287
+00:22:07,680 --> 00:22:10,680
+Če ugotoviš, da so tvoji podatki napačni,
+
+288
+00:22:10,680 --> 00:22:14,680
+imamo celoten postop, kako te podatke popraviti v mrv v leju
+
+289
+00:22:14,680 --> 00:22:18,680
+in potem tudi v avtologu, kjer ne dobimo updatnega dampa.
+
+290
+00:22:18,680 --> 00:22:21,680
+Popraviti do te mere, da so te podatke konsistentni.
+
+291
+00:22:21,680 --> 00:22:24,680
+Kar smo v bistvu naredili, smo naredili bypass tega,
+
+292
+00:22:24,680 --> 00:22:27,680
+kar bi MZI že itak po defoltu si verjetno želel imeti,
+
+293
+00:22:27,680 --> 00:22:32,680
+pa ni bilo politične vole, da se to v zadnjih petih šestih letih naredi.
+
+294
+00:22:32,680 --> 00:22:38,680
+Da te podatki so boljši, da so bolj transparentni, da so bolj konsistentni.
+
+295
+00:22:38,680 --> 00:22:43,680
+Z tega vidika to delamo, z vidika točen si smo odprli celot napi.
+
+296
+00:22:43,680 --> 00:22:45,680
+Točen si moramo z demonolega postaviti.
+
+297
+00:22:45,680 --> 00:22:47,680
+Aha, sorry, sorry.
+
+298
+00:22:47,680 --> 00:22:50,680
+Zdaj bomo te samo prosili, da si malo mikrofon v okvarječke vine,
+
+299
+00:22:50,680 --> 00:22:53,680
+malo slabo nastaviti. Tebe bomo vprašali.
+
+300
+00:22:53,680 --> 00:22:59,680
+Kaj so pa za tebe dobri odimalci teh podatkov?
+
+301
+00:22:59,680 --> 00:23:07,680
+Ali so to v bistvu raziskovalci, ali so to neki ljudje, ki jih integrirajo v produkte,
+
+302
+00:23:07,680 --> 00:23:09,680
+ali vam je v resnici vse enkaj se zgodijo?
+
+303
+00:23:09,680 --> 00:23:12,680
+Verjetno rabeš nek feedback od use case ali kaj?
+
+304
+00:23:12,680 --> 00:23:16,680
+V osnovi nam je vse enak, pač kot so namenili vsem pod enakim pogoju.
+
+305
+00:23:16,680 --> 00:23:19,680
+Težavamo samo v tem, ker nimamo dost feedbacka.
+
+306
+00:23:19,680 --> 00:23:23,680
+Za Matejo že vemo, pa še za kakšne posamoznike, ki nam daja feedback recimo.
+
+307
+00:23:23,680 --> 00:23:29,680
+Bi se želeli tega več, ker na podlagi tega feedbacka nam tudi koristi pri nas.
+
+308
+00:23:29,680 --> 00:23:34,680
+Vsako leto pač Evropska komisija ocenjuje, koliko smo zreli kot država predpiranja podatkov.
+
+309
+00:23:34,680 --> 00:23:39,680
+OECD na 4 leta. Da se pohvaljamo, se pravi, zadnje poročilo,
+
+310
+00:23:39,680 --> 00:23:44,680
+kaj je bilo od OECD v decembru, se pravi, znotraj OECD držav,
+
+311
+00:23:44,680 --> 00:23:48,680
+govorimo za cel svet, smo napredovali iz desetega na sedmo mesto.
+
+312
+00:23:48,680 --> 00:23:51,680
+Kaj sem dobil kavo, da leša zaradi tega.
+
+313
+00:23:51,680 --> 00:23:53,680
+Znotraj Evropske komisije...
+
+314
+00:23:53,680 --> 00:23:56,680
+Potko se reče laptop, ampak drug, daj bolič.
+
+315
+00:23:56,680 --> 00:24:02,680
+Komisiji so pa po štelju mest nazadovali, po procentnih osvednjih točk,
+
+316
+00:24:02,680 --> 00:24:05,680
+smo še zmerjamo na istem, 90% vseh možnih točk,
+
+317
+00:24:05,680 --> 00:24:08,680
+smo nazadovali iz devetnega na petnesto mesto.
+
+318
+00:24:08,680 --> 00:24:12,680
+Ampak je tudi treba vedati, da tudi, ki smo gledali, pri OECD-ju,
+
+319
+00:24:12,680 --> 00:24:17,680
+pred štirimi leti je bilo med top deset državami OECD pet evropskih,
+
+320
+00:24:17,680 --> 00:24:19,680
+pa pet neevropskih.
+
+321
+00:24:19,680 --> 00:24:23,680
+V zadnjem poročilu je devet evropskih, pa ena neevropska Ljužna Koreja.
+
+322
+00:24:23,680 --> 00:24:26,680
+Če vidiš, da Koreja zbira podatke...
+
+323
+00:24:26,680 --> 00:24:30,680
+Zgodbo za se, ampak želim samo reči, da tudi Evropska komisija
+
+324
+00:24:30,680 --> 00:24:34,680
+z svojimi predpisnikih sprejema, izboljšala to kulturo,
+
+325
+00:24:34,680 --> 00:24:38,680
+ampak ta pogled odprtih podatkov na nivoj Evrope in je Evropa
+
+326
+00:24:38,680 --> 00:24:42,680
+globalno gledanje. Včasih pa, če mi se prejemo v svoje dvorišče
+
+327
+00:24:42,680 --> 00:24:45,680
+in smo ful happy, pa če smo na to srečo, da pri svojem delu
+
+328
+00:24:45,680 --> 00:24:48,680
+tudi srečujem kolege iz cega sveta.
+
+329
+00:24:48,680 --> 00:24:52,680
+Moram reči, da Evropa, kar se tega tiče dostopnosti do podatkov,
+
+330
+00:24:52,680 --> 00:24:57,680
+je na vrhu med boljšimi kontinenti in tudi v neku sistemi
+
+331
+00:24:57,680 --> 00:24:59,680
+globalno gledanje.
+
+332
+00:25:00,000 --> 00:25:08,000
+Afrika, pač še spet žalostna zgodba, kjer jih bo neko druga država kupujeva, včasih so sorovine zdaj, tam podatke kakšni kupujejo.
+
+333
+00:25:08,000 --> 00:25:15,000
+Azija je tudi kot-kako, kakšne države so pač izjema, seda ZDA, Kanada, je svoja zgodba.
+
+334
+00:25:15,000 --> 00:25:24,000
+In Užnja Amerika je tudi vse trudila, so neki napredki, Evropa je pa tukaj res, moram reči, krm, neko napredvala v zadnjih 4-5 letih.
+
+335
+00:25:24,000 --> 00:25:31,000
+In tudi moram reči, da tudi bo publika razumela, proces odspiranja podatkov se je začel pred 20 leti.
+
+336
+00:25:31,000 --> 00:25:42,000
+Takrat je bilo še bistvu informacijalnega značaja, lansko leto je bilo glih 200 letnica tudi prvega zakona, ki je omogočil dostop do informacijalnega značaja,
+
+337
+00:25:42,000 --> 00:25:51,000
+ki se je s časoma evolvirala, bom neko zdaj v Evropsko direktivo o odprtih podatkih, v Sloveniji imamo pač to zakon dostopu informacijalnega značaja.
+
+338
+00:25:51,000 --> 00:25:58,000
+Tukaj bi tudi mogoče publiko v pozoru na eno stvar, ki je pomembna pri teh, ki hoče, tako kot je Mateo še pa useti,
+
+339
+00:25:58,000 --> 00:26:10,000
+imamo se pravi zakon dostopu informacijalnega značaja, ko je nekdo zahtel od inštitucije, da bi rad imel podatke za informacijalnega značaja, je dovolj, da dobiš PDF.
+
+340
+00:26:10,000 --> 00:26:16,000
+S tem je državna inštitucija izpolnila stvar zahteva. To je zahteva, to si jo vprašal.
+
+341
+00:26:16,000 --> 00:26:18,000
+Je v digitalni obliki.
+
+342
+00:26:18,000 --> 00:26:28,000
+Če pa ti rečeš, da želiš imeti podatke za ponovno uporabo, tukaj je ta catch, ti pa moraš imeti podatke v strojnobrljiv obliki.
+
+343
+00:26:28,000 --> 00:26:31,000
+Potem pa ustopi ta strojnobrljivost.
+
+344
+00:26:31,000 --> 00:26:34,000
+Tudi Excel je v osnovi.
+
+345
+00:26:34,000 --> 00:26:37,000
+Ni več, ko skeneram PDF, ampak je natipkam PDF.
+
+346
+00:26:38,000 --> 00:26:52,000
+Ne, ne, ne. So jasni kriterije. Strojnobrljiv format pomeni, da se pravi po te zvezice ustanovanja, ki je tri zvezice dogovorimo v odprtih formatih,
+
+347
+00:26:52,000 --> 00:26:59,000
+ki se pravi CSV, XML in podobne, recimo pa JSON-i, PDF, Excel, Word, apsolutno ne.
+
+348
+00:26:59,000 --> 00:27:09,000
+Tudi, če nekdo objavi, pri nas recimo na OPS-i imamo sistemsko grejeno, da nekaj inštitucije, ko objavi gor neke podatke, in če objavi Excel, ta zbirka ne bo vidna kot odprti podatek.
+
+349
+00:27:09,000 --> 00:27:12,000
+Bo vidna samo kot informacijalnega značaja.
+
+350
+00:27:12,000 --> 00:27:14,000
+Kodaj, podatki obstajajo?
+
+351
+00:27:14,000 --> 00:27:17,000
+Obstajajo, lahko jih odpreš v nekem Excelu.
+
+352
+00:27:17,000 --> 00:27:23,000
+Tudi vemo, da pa, še do toga, da ti lahko Excel odpreš tudi v drugem programu.
+
+353
+00:27:23,000 --> 00:27:29,000
+Vendar, če se zdrjimo strogo in tukaj se res, zato smo rekli, da tukaj ne želimo, da človek tisti, ki odloča.
+
+354
+00:27:29,000 --> 00:27:39,000
+Mi smo določili od pravila igre, določili smo formate, ki so strojno objavljivi, in če upload in datotekam pač ne izpoljuje teh kriterijev, pač enostavno ne bo open data, pač se lahko na glavo postavi.
+
+355
+00:27:39,000 --> 00:27:43,000
+Tukaj treba nekaj podarti, recimo list za podatke v vzilih.
+
+356
+00:27:43,000 --> 00:27:47,000
+Te podatke so v nekih CSV-ih objavljenih gor.
+
+357
+00:27:47,000 --> 00:27:55,000
+Hovever, te podatke nekdo ročno zgleda dumpa, kar pomeni, da mi imamo za vsako leto posebno izjemo, kako sparsati te CSV-e.
+
+358
+00:27:55,000 --> 00:28:00,000
+Recimo ročno so hederi popravljeni, ki so v UTF-16, ostale v UTF-8.
+
+359
+00:28:00,000 --> 00:28:10,000
+Nekdo je v nekem hederi odkolom na stisnu po nesreč Enter pa Ž, in imaš notr New Line pa Ž, imena, stopcev se menjujejo.
+
+360
+00:28:11,000 --> 00:28:19,000
+Za staro zvoznika imamo eno celo funkcijo, kako to spisati, ker nekdo vsako leto preračuna, kakšna je staro zvoznika.
+
+361
+00:28:19,000 --> 00:28:21,000
+Ti ne dobiš letnice rojstva, kar bi bil fiksen podatek.
+
+362
+00:28:21,000 --> 00:28:30,000
+In nekdo, ki pogane to skripto iz leta v leto ali pa vsake pol leta, seveda pozabi plus ena dat na karantir, ko odšteva te podatke.
+
+363
+00:28:30,000 --> 00:28:37,000
+Potem imaš podatke med 2.12 pa 2.14, ki so vsi ravni, ker je nekdo pozabil plus ena delat na letih.
+
+364
+00:28:37,000 --> 00:28:42,000
+In to mi v bistvu po tem ugodavljamo na podlagi individualnih primerov, kako lahko generaliziramo te zadeve.
+
+365
+00:28:42,000 --> 00:28:50,000
+Recimo zadnji damp podatkov, ki je gore objavljen na Opsiju, nima nobenega nič enega čaja noter.
+
+366
+00:28:50,000 --> 00:28:53,000
+Torej, ajdevščina, karkoli, vse je z čajem.
+
+367
+00:28:53,000 --> 00:28:58,000
+Ful je enih takih problemov, ki so bili reportani v vprašanje, če bo kdaj spremenjeni.
+
+368
+00:28:58,000 --> 00:29:02,000
+Torej, treba se zavedati, vse so strojno brljivi podatki, however,
+
+369
+00:29:02,000 --> 00:29:04,000
+garbi džin, garbi džal.
+
+370
+00:29:04,000 --> 00:29:07,000
+Garbi džin, garbi džal. In je tukaj nekaj prepocavanja, neskončno veliko.
+
+371
+00:29:07,000 --> 00:29:12,000
+Matej, želimo, da bo, če se spomneš, niko nam pozabil, nekaj od prejšnjih ministrov,
+
+372
+00:29:12,000 --> 00:29:14,000
+bodo se govorili, nekaj, ki pa je domenal zameru.
+
+373
+00:29:14,000 --> 00:29:17,000
+Prišel je glih iz cebita, seveda, nahajpan.
+
+374
+00:29:17,000 --> 00:29:22,000
+Njihovi študent je pač predstavljal in študent pač pove, kaj je za znov, težavo podatkih.
+
+375
+00:29:22,000 --> 00:29:26,000
+Ja, da je Mercedes-Benz zapisan v vedemcah na sedem različnih načinov.
+
+376
+00:29:27,000 --> 00:29:33,000
+Ker pač ne obstaja neki šifrant, ki bi rekel, Mercedes-Benz, bi še točno tako,
+
+377
+00:29:33,000 --> 00:29:39,000
+in vsi, ki vnašajo v ta sistema, nekdo bi pač moral skrbeti za šifrante.
+
+378
+00:29:39,000 --> 00:29:43,000
+Zdaj smo to pobritelj, zdaj ga obstaja manufacturer identifier.
+
+379
+00:29:43,000 --> 00:29:50,000
+To bi fair, če gremo kjerokoli večjo ali pa veliko firmo gledati sisteme,
+
+380
+00:29:50,000 --> 00:29:55,000
+ki so v realno produkciji 10, 15, bok ne daj 20, še več let.
+
+381
+00:29:55,000 --> 00:29:57,000
+Vprašanje, kaj je tam?
+
+382
+00:29:57,000 --> 00:30:00,000
+Seveda, seveda, ampak tukaj lahko to gledaš kot na problematiko,
+
+383
+00:30:00,000 --> 00:30:05,000
+da rečeš, ok, šit, ne bomo odpirali podatke, zato ker bo folk vedel, da imamo krep podatke.
+
+384
+00:30:05,000 --> 00:30:08,000
+Lahko gledaš pa kot na priložnost, ej, mi bomo odprli te podatke,
+
+385
+00:30:08,000 --> 00:30:10,000
+pa nam bo folk pokrali odsorsov to.
+
+386
+00:30:10,000 --> 00:30:14,000
+A veš, torej, nimam lastnih kadrov, ki bojo šli za 30 let staro bazo prepucavati,
+
+387
+00:30:14,000 --> 00:30:18,000
+ampak se bojo drugi to naredili na mes nas in nam bojo sporočali te nekonsistence
+
+388
+00:30:18,000 --> 00:30:21,000
+in bomo mi lahko sproti do grevalti naš proces.
+
+389
+00:30:21,000 --> 00:30:25,000
+Tega se ministrstvo malce bojijo. Kaj se bo zgodilo, ne, če odpremo?
+
+390
+00:30:25,000 --> 00:30:28,000
+Kaj so pa največji bojazni na drugi strani?
+
+391
+00:30:28,000 --> 00:30:32,000
+Kaj prilikaš, da boš likal neke osebne podatke, ki naj bi smel?
+
+392
+00:30:32,000 --> 00:30:35,000
+Ne, tukaj pri osebnih podatkih mislim, da pa je ta zavest v Sloveniji
+
+393
+00:30:35,000 --> 00:30:39,000
+tako močna, da ljudje zelo pazijo in da prej dvakrat preverijo,
+
+394
+00:30:39,000 --> 00:30:42,000
+in tudi procesi so anotar, ti ne boš, zelo teško boš ti,
+
+395
+00:30:42,000 --> 00:30:45,000
+da boš drugo nekoga dobjavo osebne podatke.
+
+396
+00:30:45,000 --> 00:30:49,000
+Seveda, zdaj, lahko, seveda, primer spet teh avtomobila,
+
+397
+00:30:49,000 --> 00:30:52,000
+hipotetično bi ti lahko iz enega zapisa.
+
+398
+00:30:52,000 --> 00:30:54,000
+De-anonimizira, v bistvu.
+
+399
+00:30:54,000 --> 00:30:58,000
+Bi lahko, potovo, ne vem, traktor, lastnica ženskega spola,
+
+400
+00:30:58,000 --> 00:31:01,000
+stara, 55 leti, iz občine, nekaj manjše občine, recimo.
+
+401
+00:31:01,000 --> 00:31:05,000
+Zdaj, si tudi tako, mi tukaj ne bomo vedeli, za katero osebo gre.
+
+402
+00:31:05,000 --> 00:31:07,000
+Njej sosed bo vedel, ampak, jaz se rečem,
+
+403
+00:31:07,000 --> 00:31:09,000
+sej ta sosed že dones ve, kaj se ima ono traktor.
+
+404
+00:31:09,000 --> 00:31:13,000
+Tako da to je, pri osebnih podatkih je to zelo taka tematika,
+
+405
+00:31:13,000 --> 00:31:16,000
+kjer po teoriji, seveda, je to lahko, določaš osebo,
+
+406
+00:31:16,000 --> 00:31:19,000
+kaj je pač to eni traktor v občini, recimo, ne.
+
+407
+00:31:19,000 --> 00:31:21,000
+Ampak jaz se zmeru pravim, ali,
+
+408
+00:31:22,000 --> 00:31:25,000
+lahko kdor, ko na tem svetu, to osebo določi na ta način,
+
+409
+00:31:25,000 --> 00:31:27,000
+razumem, da ne gre tja in pogleda, ne.
+
+410
+00:31:27,000 --> 00:31:30,000
+Tako da tukaj so tu, ti, bom neko bojazni izmerje,
+
+411
+00:31:30,000 --> 00:31:32,000
+ampak, pač, jaz pravim.
+
+412
+00:31:32,000 --> 00:31:36,000
+Kaj, kakšni so pa pogoji, ki valjajo, recimo, za Matevža,
+
+413
+00:31:36,000 --> 00:31:38,000
+ko uporablja te podatke?
+
+414
+00:31:38,000 --> 00:31:40,000
+V bistvu, mi imamo...
+
+415
+00:31:40,000 --> 00:31:43,000
+A more on tudi, ne vem, naprej te podatke deliti?
+
+416
+00:31:43,000 --> 00:31:44,000
+Ne, ne.
+
+417
+00:31:45,000 --> 00:31:47,000
+Lahko dela z njimi, kako pa želija.
+
+418
+00:31:47,000 --> 00:31:52,000
+Mi imamo na OBS-ju, se pravi, vsi podatke izvijemo,
+
+419
+00:31:54,000 --> 00:31:57,000
+podatko v Euroterm se pravi, te, ki so prevodi,
+
+420
+00:31:57,000 --> 00:31:59,000
+ki pač je dejansko avtorsko delo, no,
+
+421
+00:31:59,000 --> 00:32:02,000
+noter ugrejeno, pač, sem, tudi oni imajo, v bistvu,
+
+422
+00:32:03,000 --> 00:32:06,000
+uporabljamo vsi CC BY licenco, štiri nič,
+
+423
+00:32:07,000 --> 00:32:10,000
+v večinama so CC BY, se pravi, pač, zato bomo navede žvir.
+
+424
+00:32:10,000 --> 00:32:12,000
+Se pravi, Creative Commons.
+
+425
+00:32:12,000 --> 00:32:13,000
+Creative Commons, ja.
+
+426
+00:32:13,000 --> 00:32:15,000
+V primeru, recimo, teh Eurotermov, ki se pravi,
+
+427
+00:32:15,000 --> 00:32:18,000
+to, ki je dejansko prevod, ki je avtorsko delo,
+
+428
+00:32:18,000 --> 00:32:20,000
+pač ni za komercialno rabo.
+
+429
+00:32:20,000 --> 00:32:23,000
+Pri vseh ostalih podatkih se lahko uporablja tudi
+
+430
+00:32:23,000 --> 00:32:24,000
+za komercialno rabo.
+
+431
+00:32:24,000 --> 00:32:27,000
+Tudi, da Mateo še s tega naredi biznis za službe milijone,
+
+432
+00:32:27,000 --> 00:32:29,000
+so obijet, pač, bo plačal za javno službe,
+
+433
+00:32:29,000 --> 00:32:32,000
+zato višja, ker pač, bo pač plačal v večzavku
+
+434
+00:32:32,000 --> 00:32:34,000
+in bo pač šel denar v proračun.
+
+435
+00:32:34,000 --> 00:32:36,000
+Tako da, tukaj, mi smo veseli, da so taki.
+
+436
+00:32:37,000 --> 00:32:40,000
+Ko počnem reči, da v osnovi so vsi podatke na vole
+
+437
+00:32:40,000 --> 00:32:41,000
+pod enake in pogojne.
+
+438
+00:32:41,000 --> 00:32:46,000
+Namreč, Evropa se tudi, in tudi mi, poskušamo omogočiti
+
+439
+00:32:46,000 --> 00:32:48,000
+dostop do podatkov vsem pod enake in pogojne.
+
+440
+00:32:48,000 --> 00:32:50,000
+Ker najhujše je, da bi imel nekdo ekskluzivno pravico
+
+441
+00:32:50,000 --> 00:32:53,000
+dostopu do nekih podatkov in njihče del.
+
+442
+00:32:53,000 --> 00:32:55,000
+To se tudi dogaja pri nas.
+
+443
+00:32:55,000 --> 00:32:58,000
+Mi smo imeli to izkušnjo z automobilskimi podatki.
+
+444
+00:32:58,000 --> 00:33:00,000
+Mi dobivamo te dampe letne pa poletne.
+
+445
+00:33:00,000 --> 00:33:03,000
+Obstaja neka firma, ki ti zaračuna deset evrov
+
+446
+00:33:03,000 --> 00:33:05,000
+za to, da ti te iste podatke v naslednji dan
+
+447
+00:33:05,000 --> 00:33:07,000
+nek bo imela podatka v tvojem tehničnem pregledu.
+
+448
+00:33:07,000 --> 00:33:10,000
+Smo se prcali z ministrstvom za infrastrukturo
+
+449
+00:33:10,000 --> 00:33:12,000
+pred vsej časa.
+
+450
+00:33:12,000 --> 00:33:14,000
+Jaz sem najprej govoril z developom iz srca,
+
+451
+00:33:14,000 --> 00:33:17,000
+ki im je naredil ta API za to specifično firmo.
+
+452
+00:33:17,000 --> 00:33:19,000
+In mi je pisal, da lahko damo še njim API.
+
+453
+00:33:19,000 --> 00:33:21,000
+In sem rekel, da ne imamo časa se s tem ukvarjati.
+
+454
+00:33:21,000 --> 00:33:24,000
+Nakon sem pisal ministrov, kjer je bil ta vrtovec.
+
+455
+00:33:24,000 --> 00:33:26,000
+In se je dogovoril za sestanek.
+
+456
+00:33:26,000 --> 00:33:28,000
+In sem rekel, da nam date te podatke.
+
+457
+00:33:28,000 --> 00:33:30,000
+Ne, ne moramo. To stane.
+
+458
+00:33:30,000 --> 00:33:32,000
+Sej poznam developerja, ki vam je to naredil.
+
+459
+00:33:32,000 --> 00:33:34,000
+In mi je pisal mail, da mi lahko da podatke.
+
+460
+00:33:34,000 --> 00:33:36,000
+Vi plačujete za ta API.
+
+461
+00:33:36,000 --> 00:33:38,000
+Mela ga je pa samo ena komercijalna firma, ki je zračunavala tebi
+
+462
+00:33:38,000 --> 00:33:42,000
+za tvoje podatke, ki jih je država njim dajala za ston.
+
+463
+00:33:42,000 --> 00:33:46,000
+Tako da, so še vedno situacije, kjer imamo neke monopoliste.
+
+464
+00:33:46,000 --> 00:33:49,000
+Poskušamo to dobiti.
+
+465
+00:33:49,000 --> 00:33:52,000
+Če dajo, dejte vsem enako.
+
+466
+00:33:52,000 --> 00:33:54,000
+Po drugi strani, mi, kad redevelopamo te storije
+
+467
+00:33:54,000 --> 00:33:56,000
+pred teh ostalih projektih, je ravno to,
+
+468
+00:33:56,000 --> 00:33:59,000
+da mi delamo nek buffer agencijam,
+
+469
+00:33:59,000 --> 00:34:02,000
+ki si ne morajo prevoščati, kot država, infrastrukture,
+
+470
+00:34:02,000 --> 00:34:05,000
+da bi te zadeve na nivoju API access-a všerali.
+
+471
+00:34:05,000 --> 00:34:08,000
+Dejte nam en API access, bomo mi kje širali podatke,
+
+472
+00:34:08,000 --> 00:34:11,000
+pa bomo mi dal to naprej, pa bo naša infrastruktura poskrbela.
+
+473
+00:34:11,000 --> 00:34:14,000
+Zato pa se bomo mi ukvarjali z tem, da bo nekdo preveč vlekel,
+
+474
+00:34:14,000 --> 00:34:17,000
+pa ima neke probleme z request-i in tako naprej.
+
+475
+00:34:17,000 --> 00:34:20,000
+Kaj bi v tem primeru bilo, če se najde kakšen tak primer,
+
+476
+00:34:20,000 --> 00:34:23,000
+da se vam zdi, da ni to, kaj bi moral biti.
+
+477
+00:34:23,000 --> 00:34:26,000
+Se pa, če obrne, ali bodo si na informaciji oblaščenca,
+
+478
+00:34:26,000 --> 00:34:29,000
+ali pa na misljenju pravke, če je zložen za ta zakon,
+
+479
+00:34:29,000 --> 00:34:32,000
+na njej se pozori, da prihaja do nekih pomnenj,
+
+480
+00:34:32,000 --> 00:34:35,000
+uporabnikov, odsopan od zakonske regulative,
+
+481
+00:34:35,000 --> 00:34:38,000
+in pa se bo to uredilo.
+
+482
+00:34:38,000 --> 00:34:41,000
+Najboljše je to, da če nihče ne ve, da je to problem,
+
+483
+00:34:41,000 --> 00:34:44,000
+potem ga nihče ne rešijo.
+
+484
+00:34:44,000 --> 00:34:47,000
+Ja, čeprav, mogoče, jaz sem takrat tisti ljuden,
+
+485
+00:34:47,000 --> 00:34:50,000
+ki so bili takrat zamizani, rekel, dejte, nas je nismo otraci.
+
+486
+00:34:50,000 --> 00:34:53,000
+Jaz vem, da API obstaja, developer ve, da API obstaja,
+
+487
+00:34:54,000 --> 00:34:57,000
+developer mi hoče, da te exes, če mu vi potvrdite, da te exes.
+
+488
+00:34:57,000 --> 00:35:00,000
+Vi plačujete za ta API, ampak mi se še vedno delamo, da ta API ne obstaja.
+
+489
+00:35:00,000 --> 00:35:03,000
+Izmravljajo.
+
+490
+00:35:03,000 --> 00:35:06,000
+Zadevo je relativno enostavno preveriti.
+
+491
+00:35:06,000 --> 00:35:09,000
+Auto pelješ na izredni tehnični pregled, naredi se zapisnik
+
+492
+00:35:09,000 --> 00:35:12,000
+tehničnega pregleda in naslednji dan greš na neko spletna stran,
+
+493
+00:35:12,000 --> 00:35:15,000
+kjer upišeš svoje viništevilko in dobim podatke o svojem auto,
+
+494
+00:35:15,000 --> 00:35:18,000
+ki sem ga včeraj peljel na tehnični pregled.
+
+495
+00:35:18,000 --> 00:35:21,000
+API obstaja.
+
+496
+00:35:21,000 --> 00:35:24,000
+API obstaja nekaj exes, ampak po drugi strani pa res.
+
+497
+00:35:24,000 --> 00:35:27,000
+Zdaj na te točki bom ful oprašal.
+
+498
+00:35:27,000 --> 00:35:30,000
+Zdaj smo del Evropske unije.
+
+499
+00:35:30,000 --> 00:35:33,000
+Ta je zakonodaja, direktiva velja Evropske unije.
+
+500
+00:35:33,000 --> 00:35:36,000
+A lahko je oto log narediti za nemški trg?
+
+501
+00:35:36,000 --> 00:35:39,000
+Ni čisto tako enostavno. Mi imamo različne interpretacije
+
+502
+00:35:39,000 --> 00:35:42,000
+po različnih državah. Specifično Nemci so zelo mahni
+
+503
+00:35:42,000 --> 00:35:45,000
+na to, da je viništevilka osebni podatek.
+
+504
+00:35:45,000 --> 00:35:48,000
+Tudi nemška industrija nekako forsira to, da je viništevilka
+
+505
+00:35:48,000 --> 00:35:51,000
+podatek, ker imajo druge poslovne interese.
+
+506
+00:35:51,000 --> 00:35:54,000
+Ne bi mogel ga narediti za njihov trg, ker bi imel
+
+507
+00:35:54,000 --> 00:35:57,000
+veliko problemov, ampak za Italijo bi bilo predvsej lažje.
+
+508
+00:35:57,000 --> 00:36:00,000
+Tukaj mi imamo ena predložnost, da bi hotel
+
+509
+00:36:00,000 --> 00:36:03,000
+v ravno ta Balkan, ker imamo to transverzalo.
+
+510
+00:36:03,000 --> 00:36:06,000
+Auto je tri kat nov.
+
+511
+00:36:06,000 --> 00:36:09,000
+Prvič v Sloveniji, drugič v Nemčiji,
+
+512
+00:36:09,000 --> 00:36:12,000
+drugič v Sloveniji in tretjič na Balkanu.
+
+513
+00:36:12,000 --> 00:36:15,000
+Da bi lahko ta del pokrival na žalost
+
+514
+00:36:16,000 --> 00:36:19,000
+ali pa na srečo. Nekaterih podatkov ne može dobiti,
+
+515
+00:36:19,000 --> 00:36:22,000
+ker v Nemčiji avti delajo tehnične preglede po treh letih.
+
+516
+00:36:27,000 --> 00:36:30,000
+Veliko teh avt, ki se prodava v Sloveniji,
+
+517
+00:36:30,000 --> 00:36:33,000
+so službeni. Če imaš 3000 vozil v svoji floti,
+
+518
+00:36:33,000 --> 00:36:36,000
+imaš svojega mehanika, ne greš na pooblaščen BMW-servis.
+
+519
+00:36:36,000 --> 00:36:39,000
+Ravno na te nemške znamke.
+
+520
+00:36:39,000 --> 00:36:42,000
+Pridejo potem v Slovenijo kot malo rabljene,
+
+521
+00:36:42,000 --> 00:36:45,000
+ampak te avti so vsi naredili 300.000 km,
+
+522
+00:36:45,000 --> 00:36:48,000
+enega zapisa nimaš v njih.
+
+523
+00:36:48,000 --> 00:36:51,000
+Da bi kakršen kol servis obstavljal, pa kol km so imeli.
+
+524
+00:36:51,000 --> 00:36:54,000
+Ponovat pri teh avtih to vidiš tako,
+
+525
+00:36:54,000 --> 00:36:57,000
+da je Audi A6 letnik 2016 z ročno klimo.
+
+526
+00:36:57,000 --> 00:37:00,000
+Se vprašaš, kako za boga si lahko ročno klimo leta 2016 skupaj
+
+527
+00:37:00,000 --> 00:37:03,000
+v kateremkol avtu, ko je v Twingo, ne moraš.
+
+528
+00:37:03,000 --> 00:37:06,000
+Ne pa v Audi A6.
+
+529
+00:37:06,000 --> 00:37:09,000
+Te avti imajo velikrat zelo čudne kombinacije opreme.
+
+530
+00:37:09,000 --> 00:37:12,000
+Ne pa ročne šibe zadej.
+
+531
+00:37:12,000 --> 00:37:15,000
+Ne pa še nod v kontekst.
+
+532
+00:37:15,000 --> 00:37:18,000
+Pri teh avtih nič ne boš zvedel.
+
+533
+00:37:18,000 --> 00:37:21,000
+Pri avtih, ki imamo neke podatke o poškodbah,
+
+534
+00:37:21,000 --> 00:37:24,000
+tam boš lahko zvedel, da so mogoče nekatere poškodbe obstajale.
+
+535
+00:37:24,000 --> 00:37:27,000
+Tukaj se tudi veliko pogovarjamo,
+
+536
+00:37:27,000 --> 00:37:30,000
+kako bi bilo fajn to imeti na nivoju poškodb vuzil tudi v Sloveniji.
+
+537
+00:37:30,000 --> 00:37:33,000
+Zrovanica ima spet svoj zakon.
+
+538
+00:37:33,000 --> 00:37:36,000
+Mogoče bi mogli ta zakon potem bilo adresati.
+
+539
+00:37:37,000 --> 00:37:40,000
+Ker bi bilo fenomenalno fino, da bi vedel,
+
+540
+00:37:40,000 --> 00:37:43,000
+da avto, ki je imel tako in tako vredno, se je bila danednja taka in taka škoda.
+
+541
+00:37:43,000 --> 00:37:46,000
+Če imaš avtostar 20 let, pa ti je pad v kamen na šipo.
+
+542
+00:37:46,000 --> 00:37:49,000
+Je to verjetno ekonomska totalka.
+
+543
+00:37:49,000 --> 00:37:52,000
+Veš pa, da je to stalo v velikostnem rangu tisoč evrov.
+
+544
+00:37:52,000 --> 00:37:55,000
+Na podlagi tega bi se lahko odločal,
+
+545
+00:37:55,000 --> 00:37:58,000
+kaj se je s tem avtom dogajalo, kakšna je bila resna škoda.
+
+546
+00:37:58,000 --> 00:38:01,000
+Po drugi strani, ljudje, ki imajo kasko, svarbajo svoje avto,
+
+547
+00:38:01,000 --> 00:38:04,000
+vsako prasko popravljajo in bo te škode tudi tisoč evrov na leto,
+
+548
+00:38:04,000 --> 00:38:07,000
+ampak je ta škoda mogoče bolj odras,
+
+549
+00:38:07,000 --> 00:38:10,000
+tega, da je nekdo skrbel za vozilo, kot pa to, da je bilo vozilo poškodvano.
+
+550
+00:38:10,000 --> 00:38:13,000
+Definitivno bi pa velik, velik, bolj transparental
+
+551
+00:38:13,000 --> 00:38:16,000
+naredil naš trg rabljenih vozil.
+
+552
+00:38:16,000 --> 00:38:19,000
+In to je v bistvu naš namen na konc neva.
+
+553
+00:38:19,000 --> 00:38:22,000
+Dajmo probati to spušati do te mere, da bo lahko
+
+554
+00:38:22,000 --> 00:38:25,000
+poprečen človek, ki bo šel kupovati avto, ne bo rabil biti ekspert,
+
+555
+00:38:25,000 --> 00:38:28,000
+pa poklicati tri sosede in pet mehanikov,
+
+556
+00:38:28,000 --> 00:38:31,000
+pa pač drugi avto, zato trgovine pa nazaj.
+
+557
+00:38:31,000 --> 00:38:34,000
+Če te zveš, se tu mali zovemo od poslovnih modelih nad otprtimi podatki.
+
+558
+00:38:34,000 --> 00:38:37,000
+Tukaj ti bi se lahko odločil v nekem trenutku,
+
+559
+00:38:37,000 --> 00:38:40,000
+da bi rekel, avtolog, če hočeš piti na utrebništevilko,
+
+560
+00:38:40,000 --> 00:38:43,000
+plačaš novem X, pa dobiš te podatke in potem gremo tam.
+
+561
+00:38:43,000 --> 00:38:46,000
+Ja, mi delamo zdaj to z AMZS.
+
+562
+00:38:46,000 --> 00:38:49,000
+Avtolog je podotkril AMZS, a jaz mislim, da AMZS nikoli ne bo tega naredil
+
+563
+00:38:49,000 --> 00:38:52,000
+na tak način, zatem je pravni tudi, čeprav so v bistvu
+
+564
+00:38:52,000 --> 00:38:55,000
+zasebna firma, delujejo v nekem javnem interesu.
+
+565
+00:38:58,000 --> 00:39:01,000
+Zdaj za ta njihov večji produkt, kjer pa je nek avtomarket.
+
+566
+00:39:01,000 --> 00:39:04,000
+Tudi za njihove produkte, tako, za dobro avto.
+
+567
+00:39:04,000 --> 00:39:07,000
+Za druge storitvuki, recimo z dobrim avtom,
+
+568
+00:39:07,000 --> 00:39:10,000
+se je to bilo, mogoče moja spet osebno mnenje, kar govorim,
+
+569
+00:39:10,000 --> 00:39:13,000
+ne, mogoče njihova pozicija, ampak lahko to, kar so oni poskušali
+
+570
+00:39:13,000 --> 00:39:16,000
+narediti z dobrim avtom, pikasi je bilo to, da
+
+571
+00:39:16,000 --> 00:39:19,000
+dejmo prodajati avt, ampak najbolj stvarijo avt,
+
+572
+00:39:19,000 --> 00:39:22,000
+čim bolj transparentno. Najbolj transparentno, ja.
+
+573
+00:39:22,000 --> 00:39:25,000
+Ker nekak ta igra poprašovanja in ponudbe
+
+574
+00:39:25,000 --> 00:39:28,000
+pri nas še vedno lafaj teh avtov, na manj kot na kakšnih drugih portaljih,
+
+575
+00:39:28,000 --> 00:39:31,000
+ampak nekak je na meni, da ohranimo to, da je vinštevilka dostopna,
+
+576
+00:39:31,000 --> 00:39:34,000
+veš, kaj se dogaja z avtom. Ne samo, da imaš vinštevilko,
+
+577
+00:39:34,000 --> 00:39:37,000
+lej, tukaj imaš že cel graf narisan, ne se kjer jesem, mi ti ga bomo
+
+578
+00:39:37,000 --> 00:39:40,000
+prpelali z avtologa. Seveda to pomeni
+
+579
+00:39:40,000 --> 00:39:43,000
+veliko večje overhead za nek produkt.
+
+580
+00:39:43,000 --> 00:39:46,000
+Veliko lažje je narediti to brez tega.
+
+581
+00:39:46,000 --> 00:39:49,000
+Ker kaj pa če so neke napake, aha, pa me bo prodajal skrb rekel,
+
+582
+00:39:50,000 --> 00:39:53,000
+kako bomo zdaj napake odpravljali, da so bili kilometri obrneni,
+
+583
+00:39:53,000 --> 00:39:56,000
+pa v bistvu niso bili, ampak se je nekdo zmotil in napisal,
+
+584
+00:39:56,000 --> 00:39:59,000
+da ima avto milijon kilometrov, namesto sto tisoč.
+
+585
+00:39:59,000 --> 00:40:02,000
+Tudi take zadeve, taki vnose se dogajajo. Ampak gremo biti realni.
+
+586
+00:40:02,000 --> 00:40:05,000
+Takih vnose približno manj kot procent.
+
+587
+00:40:05,000 --> 00:40:08,000
+Zdaj pri kakšnih specifičnih znamkah imamo tam več kot tri procente
+
+588
+00:40:08,000 --> 00:40:11,000
+negativnih kilometrov na letni ravni.
+
+589
+00:40:11,000 --> 00:40:14,000
+Vsem tiste dva procenta, tam tisto razliko,
+
+590
+00:40:14,000 --> 00:40:17,000
+v bistvu mi naslavljamo s tem.
+
+591
+00:40:17,000 --> 00:40:20,000
+Lahko malo več še, mogoče smo malo preskočili.
+
+592
+00:40:20,000 --> 00:40:26,000
+V tem OPSI portalu je search engine, lahko poiščeš po besedah
+
+593
+00:40:26,000 --> 00:40:32,000
+in dobiš potem, rekordi so v bistvu te imena zbirk.
+
+594
+00:40:32,000 --> 00:40:35,000
+Potem so pa različni formati.
+
+595
+00:40:35,000 --> 00:40:40,000
+Zdaj, te formati so, se vi odločite v katerih oblikah bojo,
+
+596
+00:40:40,000 --> 00:40:44,000
+ali jih tudi transformirate vmes, ali to je nekdo, ki je
+
+597
+00:40:44,000 --> 00:40:47,000
+dal podatke gor, on zagotavlja.
+
+598
+00:40:47,000 --> 00:40:51,000
+V deločnih primerih je lahko, v zakonodajah je deloča,
+
+599
+00:40:51,000 --> 00:40:54,000
+kakšen format mora biti, recimo sploh za te geoprostorske podatke,
+
+600
+00:40:54,000 --> 00:40:59,000
+ki je pač ta direktiva Inspire deloča, nekaterih struktur,
+
+601
+00:40:59,000 --> 00:41:02,000
+kakšnih tipik formatov so pač podatki na voljo.
+
+602
+00:41:02,000 --> 00:41:07,000
+Dragi se pa v bistvu v neko organizacijo samo odloča.
+
+603
+00:41:07,000 --> 00:41:10,000
+Zdaj, poskušamo jih odzvaljati od Excel-a,
+
+604
+00:41:11,000 --> 00:41:15,000
+pač ker je to nekaj čisto nesmislno v današnjem času.
+
+605
+00:41:15,000 --> 00:41:18,000
+In poskušamo jih prepričati v to, da bom rekel,
+
+606
+00:41:18,000 --> 00:41:22,000
+naredijo saj CSV, recimo, pač se ni toliko veliko izziv.
+
+607
+00:41:22,000 --> 00:41:26,000
+Mi smo tudi pal po ozoru Črnogorcev, pač vsi starejši
+
+608
+00:41:26,000 --> 00:41:30,000
+pa znajo vidice o Črnogorcih in njihove produktivnosti,
+
+609
+00:41:30,000 --> 00:41:35,000
+so nam pač pokazali, kako so one njihovo open data portalu
+
+610
+00:41:36,000 --> 00:41:40,000
+pustili, da lahko kdokoli objavi Excel in so v zaledju
+
+611
+00:41:40,000 --> 00:41:44,000
+Excel pretvorili v CSV. In pa smo rekel, pa dajmo še miniti.
+
+612
+00:41:44,000 --> 00:41:48,000
+Tako da mi imamo zdaj določne zbirke, ki so tudi v Excel objavljene.
+
+613
+00:41:48,000 --> 00:41:51,000
+Imamo naredjen pač nek api omestnik, kjer potem ti lahko
+
+614
+00:41:51,000 --> 00:41:58,000
+ta Excel pokličeš, bom rekel, JSON, XML, mislim, da so formati,
+
+615
+00:41:58,000 --> 00:42:01,000
+ki ti omogočajo, da ta podatek predobiš.
+
+616
+00:42:01,000 --> 00:42:05,000
+Tudi, če bi nekdo v Excel objavil, imamo omogočeno vrode,
+
+617
+00:42:05,000 --> 00:42:08,000
+da ga lahko prikličaš na strani način.
+
+618
+00:42:08,000 --> 00:42:12,000
+Zdaj, tu bom, ta Mateožo primer je v bistvu zgrajen,
+
+619
+00:42:12,000 --> 00:42:15,000
+jaz mislim, da ti na CSV delaš svoje api.
+
+620
+00:42:15,000 --> 00:42:19,000
+Delaš svojo bazo, pa pol iz baze ponovi stvari.
+
+621
+00:42:19,000 --> 00:42:20,000
+Tako.
+
+622
+00:42:20,000 --> 00:42:24,000
+Ampak v vaši zbirki imaš tudi api, ki verjetno niso samo read-only,
+
+623
+00:42:24,000 --> 00:42:28,000
+imate tudi write-only, kjer je vzadi tudi nekaj o autentifikacija.
+
+624
+00:42:29,000 --> 00:42:30,000
+Za enkrat ne.
+
+625
+00:42:30,000 --> 00:42:31,000
+Ne?
+
+626
+00:42:31,000 --> 00:42:32,000
+Za enkrat ne.
+
+627
+00:42:32,000 --> 00:42:35,000
+Imamo tudi, da smo že spostavili opcijo api modum,
+
+628
+00:42:35,000 --> 00:42:39,000
+ki ne bi bil katalog vseh api umestnikov z vso dokumentacijo.
+
+629
+00:42:39,000 --> 00:42:45,000
+Treba tudi vedeti, da z zadnjo verzijo Europske direktive
+
+630
+00:42:45,000 --> 00:42:49,000
+odprtih podatkih se je vzpostavil termik, ki se mora reči
+
+631
+00:42:49,000 --> 00:42:53,000
+angliško high value data set, oziroma zbirke velike vrednosti.
+
+632
+00:42:54,000 --> 00:43:00,000
+In za te zbirke in te hekr, lep obseg, morajo biti podatke dostopne
+
+633
+00:43:00,000 --> 00:43:01,000
+preko api umestnika.
+
+634
+00:43:01,000 --> 00:43:03,000
+In bom naštel samo v področja.
+
+635
+00:43:03,000 --> 00:43:06,000
+Se pravi gre za podatke geoprostorske, se pravi nekako to,
+
+636
+00:43:06,000 --> 00:43:08,000
+kar ima čezga dretsko pravo.
+
+637
+00:43:08,000 --> 00:43:11,000
+Potem so podatke o pozovanju zemlje in okolja, se pravi
+
+638
+00:43:11,000 --> 00:43:15,000
+vsi okoljske podatki, satelitski posnetki in podobno.
+
+639
+00:43:16,000 --> 00:43:21,000
+Metraloški podatki, statistični podatki, podatki registra
+
+640
+00:43:21,000 --> 00:43:25,000
+poslovnih sobjekt, se pravi tako IPS čez, in pa podatki mobilnosti.
+
+641
+00:43:25,000 --> 00:43:30,000
+To so te šest področji, za katere je nekako že predpisano,
+
+642
+00:43:30,000 --> 00:43:35,000
+da se morajo vzpostaviti api umestniki, kateri bojo na razpolagu
+
+643
+00:43:35,000 --> 00:43:37,000
+uporabnikom, da bojo preko api dobili te podatke.
+
+644
+00:43:37,000 --> 00:43:39,000
+Tako da tukaj je ...
+
+645
+00:43:39,000 --> 00:43:40,000
+To je super za nas.
+
+646
+00:43:40,000 --> 00:43:43,000
+Ta korak naprej za vse developerje, da bojo dejansko imeli
+
+647
+00:43:43,000 --> 00:43:45,000
+lažji dostop do podatkov.
+
+648
+00:43:45,000 --> 00:43:48,000
+Da ne bojo rabili tam razbijati, downloadati,
+
+649
+00:43:48,000 --> 00:43:50,000
+pa sami vse pretvarjati.
+
+650
+00:43:50,000 --> 00:43:52,000
+Tukaj pa bo treba vzpostaviti api.
+
+651
+00:43:52,000 --> 00:43:54,000
+A to pomeni, da bo ...
+
+652
+00:43:54,000 --> 00:43:55,000
+Zdaj ...
+
+653
+00:43:55,000 --> 00:43:58,000
+Opsi je, če pravi razumem, pod ministerstvom za digitalno preobrazovo.
+
+654
+00:43:58,000 --> 00:44:01,000
+A to pomeni, da bo ministerstvo za digitalno preobrazovo
+
+655
+00:44:01,000 --> 00:44:03,000
+nek koordinator?
+
+656
+00:44:03,000 --> 00:44:05,000
+Ali to pomeni, da boste vi razvili api?
+
+657
+00:44:05,000 --> 00:44:08,000
+Ali boste skrbeli kot nek imenik?
+
+658
+00:44:08,000 --> 00:44:10,000
+Zdaj tako je že v osnovi.
+
+659
+00:44:10,000 --> 00:44:14,000
+Večina državnih organov so centralizirani državni organi,
+
+660
+00:44:14,000 --> 00:44:17,000
+ki imajo svojo infrastrukturo na našem ministerstvu.
+
+661
+00:44:17,000 --> 00:44:20,000
+Se pravi v sklopu tega državnega ročanskega oblaka.
+
+662
+00:44:20,000 --> 00:44:23,000
+In pa če imajo tam na voljo, bom neko hardver,
+
+663
+00:44:23,000 --> 00:44:25,000
+softar naporabil.
+
+664
+00:44:25,000 --> 00:44:27,000
+In zdaj ...
+
+665
+00:44:27,000 --> 00:44:29,000
+Tu, ki vem, da ima že gradetsko pravo,
+
+666
+00:44:29,000 --> 00:44:31,000
+že ima narejene api omestnike.
+
+667
+00:44:31,000 --> 00:44:33,000
+Že po tej direktivi INSPIRE.
+
+668
+00:44:33,000 --> 00:44:36,000
+Tako da večina teh podatkov, ki sem jih prej omenil,
+
+669
+00:44:36,000 --> 00:44:38,000
+se nanaša po direktivi INSPIRE.
+
+670
+00:44:38,000 --> 00:44:40,000
+Kar tudi Europa je šla v nek kompromis
+
+671
+00:44:40,000 --> 00:44:43,000
+in je vedela, da ne bo nalagala nekih dodatnih stroškov,
+
+672
+00:44:43,000 --> 00:44:46,000
+da morajo ministerstva in države
+
+673
+00:44:46,000 --> 00:44:48,000
+fuld apljo razvijati.
+
+674
+00:44:48,000 --> 00:44:50,000
+So že uporabljali neke rešitve, neke predpise,
+
+675
+00:44:50,000 --> 00:44:53,000
+ki so že določili nek strojni dostop.
+
+676
+00:44:53,000 --> 00:44:55,000
+Tudi ta direktiva INSPIRE določa,
+
+677
+00:44:55,000 --> 00:44:57,000
+kaj še mora biti odzivni časi,
+
+678
+00:44:57,000 --> 00:45:00,000
+če neka slika, neka geometrija, ki jo dobiš preko tega,
+
+679
+00:45:00,000 --> 00:45:03,000
+koliko časa je ta odzivni čas in koliko mora biti
+
+680
+00:45:03,000 --> 00:45:05,000
+down time lahko na največje na leto.
+
+681
+00:45:05,000 --> 00:45:07,000
+Tukaj so bo nekaj te okviri.
+
+682
+00:45:07,000 --> 00:45:09,000
+In tudi mogoče ...
+
+683
+00:45:09,000 --> 00:45:12,000
+Zdaj, naslonsko bom rekel na te predpise,
+
+684
+00:45:12,000 --> 00:45:14,000
+ki urejo te podatke.
+
+685
+00:45:14,000 --> 00:45:16,000
+Ne da pač uporabljam dobi podatke,
+
+686
+00:45:16,000 --> 00:45:18,000
+ampak treba vedjeti, kateri so predpisi, ki to urejo.
+
+687
+00:45:18,000 --> 00:45:20,000
+Zato je, da če je kajne dobitko, kaj bi si želel,
+
+688
+00:45:20,000 --> 00:45:22,000
+da ve na kaj so vbrani.
+
+689
+00:45:22,000 --> 00:45:24,000
+Se pravi, imamo GDPR za vsebne podatke, ki jih varuje,
+
+690
+00:45:24,000 --> 00:45:27,000
+in vemo na kakšen način lahko obdobljuješ vsebne podatke.
+
+691
+00:45:27,000 --> 00:45:29,000
+Potem imamo to direktivo odprtih podatkih,
+
+692
+00:45:29,000 --> 00:45:31,000
+imamo direktivo INSPIRE,
+
+693
+00:45:31,000 --> 00:45:33,000
+potem imamo še eno evropsko uredbo,
+
+694
+00:45:33,000 --> 00:45:37,000
+sopravo free flow of non-personal data,
+
+695
+00:45:37,000 --> 00:45:40,000
+kjer lahko država omeji določene podatke,
+
+696
+00:45:40,000 --> 00:45:43,000
+ki jih izvažajo iz države, kjer pač ima nek interes,
+
+697
+00:45:43,000 --> 00:45:45,000
+bodi si strateški kot kakor.
+
+698
+00:45:45,000 --> 00:45:47,000
+Potem imamo še dva predpisa,
+
+699
+00:45:47,000 --> 00:45:50,000
+ki so pa zdaj v zadnjem letu sprejeti,
+
+700
+00:45:50,000 --> 00:45:53,000
+ki boste pa prinesli k revolucijo.
+
+701
+00:45:53,000 --> 00:45:55,000
+Eno je uredbo upravne podatke,
+
+702
+00:45:55,000 --> 00:45:57,000
+oziroma Data Governance Act,
+
+703
+00:45:57,000 --> 00:46:00,000
+ki upeljuje termine, kot je Data Intermediaries.
+
+704
+00:46:00,000 --> 00:46:02,000
+To so bila kot kakšna pošta
+
+705
+00:46:02,000 --> 00:46:04,000
+za prenos pošte in paketov.
+
+706
+00:46:04,000 --> 00:46:06,000
+Te bojo pa dejansko bili namenjeni so temu,
+
+707
+00:46:06,000 --> 00:46:09,000
+da so posredniki izmenjajo podatke med dvema subjektoma.
+
+708
+00:46:09,000 --> 00:46:12,000
+Zagotavljati morajo tehnično in pravno podporo.
+
+709
+00:46:12,000 --> 00:46:15,000
+Se pravi, da on pripravi pogodbo za izmenjajo
+
+710
+00:46:15,000 --> 00:46:18,000
+tudi vseh poslovnih podatkov med dvema podetjima.
+
+711
+00:46:18,000 --> 00:46:20,000
+Se bo gre za biznis tu biznis.
+
+712
+00:46:20,000 --> 00:46:22,000
+In na ta način omogoča
+
+713
+00:46:22,000 --> 00:46:25,000
+neko legalno, varno izmenjajo podatko.
+
+714
+00:46:25,000 --> 00:46:28,000
+Ta podetja se bo potem lahko notificirala.
+
+715
+00:46:28,000 --> 00:46:31,000
+Gre samo, da ti priglasiš svojo dejavnost
+
+716
+00:46:31,000 --> 00:46:34,000
+in lahko to pa počneš na nivoj celote Evrope.
+
+717
+00:46:34,000 --> 00:46:36,000
+Zdaj, trenutno, ak so gledali,
+
+718
+00:46:37,000 --> 00:46:40,000
+je trenutno samo eno finjsko podjetje,
+
+719
+00:46:40,000 --> 00:46:42,000
+ki se s tem ukvarja.
+
+720
+00:46:42,000 --> 00:46:44,000
+Tukaj pač moj poziv podetjem,
+
+721
+00:46:44,000 --> 00:46:46,000
+da to je neka poslovna priložnost.
+
+722
+00:46:46,000 --> 00:46:49,000
+Namreč, v to potem bo tudi sodel v podatkovne prostore,
+
+723
+00:46:49,000 --> 00:46:51,000
+da imamo Data Spaces,
+
+724
+00:46:51,000 --> 00:46:53,000
+ki bo potrebno omogočati varno
+
+725
+00:46:53,000 --> 00:46:55,000
+in zaupaj nevredno izmenjajo podatko.
+
+726
+00:46:55,000 --> 00:46:58,000
+In tisti, ki bojo pač prvi, bojo pač prvi.
+
+727
+00:46:58,000 --> 00:47:01,000
+Pa je ena, ki je pa za me podobno revolucionarna
+
+728
+00:47:01,000 --> 00:47:03,000
+zvedika umestitev EU,
+
+729
+00:47:04,000 --> 00:47:07,000
+na globalu, je pa vredno podatno zmoj Data Act,
+
+730
+00:47:07,000 --> 00:47:09,000
+ki povpeljuje to, da bojo vsi,
+
+731
+00:47:09,000 --> 00:47:12,000
+ki imajo neko storitev ali napravo,
+
+732
+00:47:12,000 --> 00:47:15,000
+ki ustvarja podatke, kot so pametne ure in podobno,
+
+733
+00:47:15,000 --> 00:47:17,000
+a pa pametna vozila,
+
+734
+00:47:17,000 --> 00:47:19,000
+rekel, dragi proizvajalec,
+
+735
+00:47:19,000 --> 00:47:21,000
+naprave ozima ponudnih storitev,
+
+736
+00:47:21,000 --> 00:47:23,000
+moja podatka, ki sem jih ustvaril
+
+737
+00:47:23,000 --> 00:47:25,000
+s to napravo, a pa s tem produktom,
+
+738
+00:47:25,000 --> 00:47:27,000
+a pa s to storitev,
+
+739
+00:47:27,000 --> 00:47:29,000
+želim deliti nekaj,
+
+740
+00:47:29,000 --> 00:47:31,000
+da bi se to vrnilo
+
+741
+00:47:31,000 --> 00:47:33,000
+pa s to storitev, želim deliti
+
+742
+00:47:33,000 --> 00:47:35,000
+z Matejo in pa z tabo o to.
+
+743
+00:47:35,000 --> 00:47:37,000
+In bo moral on to brezplačno omogočiti
+
+744
+00:47:37,000 --> 00:47:39,000
+nama dostop v teh podatkov.
+
+745
+00:47:39,000 --> 00:47:41,000
+In vsa podjetja izvan,
+
+746
+00:47:41,000 --> 00:47:43,000
+a priti od Evropske, ki ne bojo spoštovala
+
+747
+00:47:43,000 --> 00:47:45,000
+tega predpisa, ne bojo mogla posloviti
+
+748
+00:47:45,000 --> 00:47:47,000
+v Evropi.
+
+749
+00:47:47,000 --> 00:47:49,000
+Kako pri GDPR-ju, hočeš probati
+
+750
+00:47:49,000 --> 00:47:51,000
+ameriški časopis,
+
+751
+00:47:51,000 --> 00:47:53,000
+ti si iz Evrope, GDPR nas ne zanima,
+
+752
+00:47:53,000 --> 00:47:55,000
+ne boš dobiti dostopu.
+
+753
+00:47:55,000 --> 00:47:57,000
+In ta Data Act bo podejansko
+
+754
+00:47:57,000 --> 00:47:59,000
+prinesel revolucijo, taj bi v sprejet
+
+755
+00:47:59,000 --> 00:48:01,000
+12. decembra lanskogo leta.
+
+756
+00:48:01,000 --> 00:48:03,000
+Tudi govori o nekem
+
+757
+00:48:03,000 --> 00:48:05,000
+enostavnošem prehodu
+
+758
+00:48:05,000 --> 00:48:07,000
+pri cloud providerih.
+
+759
+00:48:07,000 --> 00:48:09,000
+Se pravi, da če se ti prejeno v cloud providerju,
+
+760
+00:48:09,000 --> 00:48:11,000
+želiš jo tako drugmu, bi ne bilo to
+
+761
+00:48:11,000 --> 00:48:13,000
+brezplačno. Pač vemo, da bojo najboljši
+
+762
+00:48:13,000 --> 00:48:15,000
+ugrodili v oceno storitev,
+
+763
+00:48:15,000 --> 00:48:17,000
+da bo pač to lahko omogočalo.
+
+764
+00:48:17,000 --> 00:48:19,000
+Te, potem kot v porabniku...
+
+765
+00:48:19,000 --> 00:48:21,000
+Teoretično, najlažje
+
+766
+00:48:21,000 --> 00:48:23,000
+plastično to predstaviti,
+
+767
+00:48:23,000 --> 00:48:25,000
+ne vem, slike imam zdaj na
+
+768
+00:48:25,000 --> 00:48:27,000
+Apple-ovem cloudu, pa berat mi jo na Google Photos.
+
+769
+00:48:27,000 --> 00:48:29,000
+Kaj bo za podjetja?
+
+770
+00:48:29,000 --> 00:48:31,000
+Se bojo na Azure vzadju.
+
+771
+00:48:31,000 --> 00:48:33,000
+Ne, pač gre za to, da če ima nek...
+
+772
+00:48:33,000 --> 00:48:35,000
+Ne, ne, ne, prej ne verjam.
+
+773
+00:48:35,000 --> 00:48:37,000
+Da ima nekje najet prostor in da potem pač ima tam
+
+774
+00:48:37,000 --> 00:48:39,000
+obdolje neke podatke in bi to želel
+
+775
+00:48:39,000 --> 00:48:41,000
+vzajet nekam drugem, kar pač ima boljše pogoje.
+
+776
+00:48:41,000 --> 00:48:43,000
+Bi to moral biti nekakv simles
+
+777
+00:48:43,000 --> 00:48:45,000
+prines. Sedaj,
+
+778
+00:48:45,000 --> 00:48:47,000
+bojo oni prejastne to ugrodil
+
+779
+00:48:47,000 --> 00:48:49,000
+v oceno storitev in bo rekel, ok,
+
+780
+00:48:49,000 --> 00:48:51,000
+manj šicer ne boš takrat plačal,
+
+781
+00:48:51,000 --> 00:48:53,000
+boš pa predvideljal, da bojo tako
+
+782
+00:48:53,000 --> 00:48:55,000
+pač podjetja ronalna.
+
+783
+00:48:55,000 --> 00:48:57,000
+In pa, ker tle treba pazati, zdi,
+
+784
+00:48:57,000 --> 00:48:59,000
+kot državnih organov, recimo,
+
+785
+00:48:59,000 --> 00:49:01,000
+rečem, ok, ful obr, bomo to pravno uredili,
+
+786
+00:49:01,000 --> 00:49:03,000
+imamo pravne okvirje itd.
+
+787
+00:49:03,000 --> 00:49:05,000
+Imamo DRO, ta državni...
+
+788
+00:49:05,000 --> 00:49:07,000
+Državni oblake.
+
+789
+00:49:07,000 --> 00:49:09,000
+Velik
+
+790
+00:49:09,000 --> 00:49:11,000
+nekih agencij, ki objavlja,
+
+791
+00:49:11,000 --> 00:49:13,000
+ali pa bi potencialno objavljali podatke,
+
+792
+00:49:13,000 --> 00:49:15,000
+ali pa so celo zavezane objavljati podatke
+
+793
+00:49:15,000 --> 00:49:17,000
+na opsiju, jih ne.
+
+794
+00:49:17,000 --> 00:49:19,000
+Zdaj, ker nimajo
+
+795
+00:49:19,000 --> 00:49:21,000
+ali kadra, ali nimajo tech supporta,
+
+796
+00:49:21,000 --> 00:49:23,000
+ali nimajo tega, da
+
+797
+00:49:23,000 --> 00:49:25,000
+ta api nekje lavfa, pa jim morajo to nekdo sprogramirati.
+
+798
+00:49:25,000 --> 00:49:27,000
+In tle jaz vidim,
+
+799
+00:49:27,000 --> 00:49:29,000
+ta, mogoče tako, open data community,
+
+800
+00:49:29,000 --> 00:49:31,000
+to, kar smo mi pač delali
+
+801
+00:49:31,000 --> 00:49:33,000
+in delamo še, kot en
+
+802
+00:49:33,000 --> 00:49:35,000
+način, kako to malo tako
+
+803
+00:49:35,000 --> 00:49:37,000
+pohekat mimo vsega tega.
+
+804
+00:49:37,000 --> 00:49:39,000
+Torej, lej, mi ti bomo naredili, ti nam zagotovi
+
+805
+00:49:39,000 --> 00:49:41,000
+en initial, pač access point,
+
+806
+00:49:41,000 --> 00:49:43,000
+mi ti bomo zagotovili, mi ti bomo
+
+807
+00:49:43,000 --> 00:49:45,000
+naprej te podatke pošiljali.
+
+808
+00:49:45,000 --> 00:49:47,000
+Konc konco objavljamo opsiju, ne,
+
+809
+00:49:47,000 --> 00:49:49,000
+in tako naprej. Ni nujno, da
+
+810
+00:49:49,000 --> 00:49:51,000
+jemljamo, da more pa res zdaj neka mala občina,
+
+811
+00:49:51,000 --> 00:49:53,000
+ali pa nek agencijak
+
+812
+00:49:53,000 --> 00:49:55,000
+s petjimi zaposlenimi, ne, bo pa zdaj
+
+813
+00:49:55,000 --> 00:49:57,000
+mogla zagotavljati to, ne. Zgodilo se bo to, da
+
+814
+00:49:57,000 --> 00:49:59,000
+pač ne bo, zatega, ker pač fizično ne morejo.
+
+815
+00:49:59,000 --> 00:50:01,000
+In lahko in petnaest
+
+816
+00:50:00,000 --> 00:50:05,680
+stvari pod ZDJZ-o, pa počemarkol poštašar, pa podejte ga vrne sektov in se to ne bo zgodilo.
+
+817
+00:50:05,680 --> 00:50:11,280
+In tukaj imamo mi priložnost, da to naredimo, ker lahko s tem tudi sebi omogočimo marsikaj več.
+
+818
+00:50:11,280 --> 00:50:17,360
+Se pravi, sam to verjetno tudi v vaši poziciji. Je veliko prijatelj tega, da pač možeš reči,
+
+819
+00:50:17,360 --> 00:50:22,240
+to je pa po, kje je ta skop, kjer se OPSI portal konča, pa rečeš,
+
+820
+00:50:22,240 --> 00:50:26,000
+ok, to je ful dober, ampak to je pa ni izva naše prestojnosti.
+
+821
+00:50:26,879 --> 00:50:31,280
+Lahko en tuden primer, iz ogrodja lahko povem, zdaj je omrežnjena.
+
+822
+00:50:31,280 --> 00:50:36,240
+Zračunavanje omrežnjene je zdaj top tema in se spreminja,
+
+823
+00:50:36,240 --> 00:50:39,040
+meda ni tako dramatično, ampak …
+
+824
+00:50:39,040 --> 00:50:41,040
+Spreminja se z inflacijo, ne?
+
+825
+00:50:41,040 --> 00:50:48,720
+Spreminja se, obstaja vzadi en portal, moje elektro.si, mislim, da je naslov,
+
+826
+00:50:48,720 --> 00:50:54,639
+kje ga uporabljajo drugi distribuceri, tam se prijaviš s certifikatom in dobiš podatke iz teh meteringa.
+
+827
+00:50:55,360 --> 00:51:01,200
+Vzadi je zdaj velik interes hacker space, hacker komuniteja, če hočeš,
+
+828
+00:51:01,200 --> 00:51:06,800
+in tudi v našem ogrodju skupnosti imamo vzaj programmerje, ki se ukvarjajo s tem, da vizualizirajo
+
+829
+00:51:06,800 --> 00:51:09,279
+in si sami hočejo zračunati te stvari, ne?
+
+830
+00:51:09,279 --> 00:51:15,360
+In zdaj je nastalo recimo 4, 5 različnih prototipov, ali pa tudi full-fledged produktov,
+
+831
+00:51:15,360 --> 00:51:20,559
+ki se zdaj ukvarjajo, kako bi grafi zgledali, ali pa tudi zelo modelirajo porabo, ne?
+
+832
+00:51:20,720 --> 00:51:26,239
+In zdaj recimo, se sprašujejo, ok, jaz naredim to produkt, to je verjetno full uporabno,
+
+833
+00:51:26,239 --> 00:51:35,519
+zdaj, kak naj zdaj to nekako dobi open-sourcem z opciji, nekim pristopom, da ta tool,
+
+834
+00:51:35,519 --> 00:51:38,000
+ki rešuje problem, dobi nek backing v širšem smislu.
+
+835
+00:51:38,000 --> 00:51:40,959
+A pa tako pa se preumere, ne, ta uredbo podatkih, ne?
+
+836
+00:51:40,959 --> 00:51:44,959
+Seveda ti bi v tem primeru lahko svoje podatke iz svojega števca,
+
+837
+00:51:44,959 --> 00:51:48,879
+da v nekomu, ti bomo vizualizirali, mi ti ugotovo, daj moš pa paziti,
+
+838
+00:51:48,879 --> 00:51:53,120
+daj ti greš preko tem, ne, in pa bi na to naredil lahko storitev,
+
+839
+00:51:53,120 --> 00:51:58,160
+tako kot je bilo v Autolog, bi zdaj lahko naredil, ne vem, omrežje log, ali nekaj,
+
+840
+00:51:58,160 --> 00:52:02,639
+pač štrom log, ali pa kar koli, in bi dejansko pač ti svoje podatke delal, recimo.
+
+841
+00:52:02,639 --> 00:52:07,839
+Mi imamo zdaj, pač je obsevno dilema, a ne, pa šli smo zdaj ne točke po,
+
+842
+00:52:07,839 --> 00:52:12,880
+se pravi, december 2016 je pač portal v tej obliki postavljen,
+
+843
+00:52:12,880 --> 00:52:16,800
+pred tem so bi deločeni te podatke, odprli podatke na portalu NIO,
+
+844
+00:52:16,800 --> 00:52:22,479
+pač bo nikoli, da je to pravoče opcija, a ne, in
+
+845
+00:52:22,479 --> 00:52:26,160
+tudi v končni fazi, če govorimo zdaj o digitalni družbi kot tako,
+
+846
+00:52:26,160 --> 00:52:29,520
+ne, se pa tudi, pač jaz prihajam z direktorata za digitalno družbo,
+
+847
+00:52:29,520 --> 00:52:34,399
+a ne, se je tudi podetja sodel digitalne skupnosti, ne,
+
+848
+00:52:34,399 --> 00:52:38,000
+ne, in bi tudi mogoče želel, da bi tudi podetja začela malo
+
+849
+00:52:38,080 --> 00:52:42,320
+odpirati svoje podatke, sveda, ob skrbo verovanih postavljenih skrbnosti in
+
+850
+00:52:42,320 --> 00:52:44,960
+osebnih podatkov, ne, jaz imam primer,
+
+851
+00:52:44,960 --> 00:52:47,679
+kar sem bi pač en v mojem izobraževanju za Data Stewarda,
+
+852
+00:52:47,679 --> 00:52:50,559
+pač v Ameriki, pač online sveda,
+
+853
+00:52:50,559 --> 00:52:53,759
+in je bila pač predstavnica Mastercarda,
+
+854
+00:52:53,759 --> 00:52:59,119
+a ne, kjer je pač rekel, da oni delijo deločne podatke za skupnostjo,
+
+855
+00:52:59,119 --> 00:53:03,520
+a ne, ta bo nekaj koncept še prihaja v Evropo, ne, pač Amerika je
+
+856
+00:53:03,520 --> 00:53:07,279
+za mene vse en pri deljenju s podatki
+
+857
+00:53:07,279 --> 00:53:10,240
+dosta bolj napredna, mislim, saj
+
+858
+00:53:10,240 --> 00:53:13,199
+za denar, ne, za denar, ne, za denar je pomembno.
+
+859
+00:53:13,199 --> 00:53:15,679
+Če prašička razbiješ, potem vse rešiš, ne.
+
+860
+00:53:15,679 --> 00:53:18,320
+Počem več vse en, mi kot tako podatkovna kultura, no,
+
+861
+00:53:18,320 --> 00:53:21,759
+se mi zdi po mojem občutku, no, v Ameriki vse en
+
+862
+00:53:21,759 --> 00:53:25,039
+tako korak naprej, Evropa je sveda pač
+
+863
+00:53:25,039 --> 00:53:28,080
+uspešno sledi, in tukaj se mi zdi, da bi mogoče tudi podetja,
+
+864
+00:53:28,080 --> 00:53:31,919
+in tukaj potem vprašanje, ne, ali pa
+
+865
+00:53:32,000 --> 00:53:35,839
+podetje objavljati v pise teh zbirk pod ostalo podatko na portalu OPSI.
+
+866
+00:53:35,839 --> 00:53:39,520
+To je zdaj ta dilema, ki imamo, pač OPSI je zdaj
+
+867
+00:53:40,080 --> 00:53:43,119
+nekaj tolok državnih, pa podatko javnega sektora, ne.
+
+868
+00:53:43,119 --> 00:53:46,160
+Ali bi tudi podetja objavljala,
+
+869
+00:53:46,160 --> 00:53:48,160
+mi imamo pa te podatke in jih želimo deliti.
+
+870
+00:53:48,160 --> 00:53:51,600
+Mislim, da bi to podajpe spika si pasal, ne, v bistvu v kontekst.
+
+871
+00:53:51,600 --> 00:53:55,199
+Ne, ti se poslovni registrat, ampak če imaš registrat samo podetja, pa ko.
+
+872
+00:53:55,199 --> 00:53:57,199
+Ampak, veš, tukaj
+
+873
+00:53:57,199 --> 00:54:00,960
+treba razumet, ne, da ta strah pred deljenjem podatkov
+
+874
+00:54:00,960 --> 00:54:02,960
+načeloma izvira iz
+
+875
+00:54:02,960 --> 00:54:05,919
+strahu pred nerazumevanjem, kaj imaš, ne.
+
+876
+00:54:05,919 --> 00:54:09,360
+Tudi na državnih, na nivoju državnih evencij.
+
+877
+00:54:09,360 --> 00:54:11,360
+Mi ne bomo tega delil, veš zakaj,
+
+878
+00:54:11,360 --> 00:54:13,360
+zato, ko mi v bistvu ne vemo, čisto točno, kaj je,
+
+879
+00:54:13,360 --> 00:54:15,360
+no, da ne bo kje backfire-o.
+
+880
+00:54:15,360 --> 00:54:18,559
+To je tudi neka moč v tema, ne. Če poseduješ informacijo, ki drug ima,
+
+881
+00:54:18,559 --> 00:54:20,559
+je tudi lahka pozicija.
+
+882
+00:54:20,559 --> 00:54:24,000
+Enako je za firme, ne. Firme prepričat, ne, okej, mi bomo pa odprali neke podatke, ne.
+
+883
+00:54:24,000 --> 00:54:26,880
+Verjetno, na nivoju tega, da rečeš, ej,
+
+884
+00:54:26,880 --> 00:54:28,880
+rejte odprete podatke, bojo vsi rekli, ja, kamon, ne.
+
+885
+00:54:28,880 --> 00:54:30,880
+Whatever, ne.
+
+886
+00:54:30,880 --> 00:54:32,880
+Če pa imaš posamezne
+
+887
+00:54:32,880 --> 00:54:35,519
+use case-e, kaj bi se to izkazalo za uporabno,
+
+888
+00:54:35,519 --> 00:54:39,839
+en, kaj treba širše gledati od tega, da, okej, ne vem, firma proizvaja, ne vem,
+
+889
+00:54:39,839 --> 00:54:42,720
+pokrovčke za steklenice in zdaj nas zanima samo to, ne.
+
+890
+00:54:42,720 --> 00:54:46,000
+Mogoče nas zanimajo njihovi senzori po talnice, ne.
+
+891
+00:54:46,000 --> 00:54:48,000
+Ki so bistveno bolj zanimivi,
+
+892
+00:54:48,000 --> 00:54:51,839
+mogoče za skupnost, kot pa to, koliko so pokrovčkov za steklenice, ne.
+
+893
+00:54:51,839 --> 00:54:55,440
+Izven tega ukvira, aha, to je samo moja primarna dejavnost.
+
+894
+00:54:55,440 --> 00:54:58,399
+Verjetno imam še en kup drugih senzorjev, ki bi bili strašno uporabni.
+
+895
+00:54:58,399 --> 00:55:00,399
+Če karikiram, recimo, enkrat sem gledal
+
+896
+00:55:00,399 --> 00:55:02,399
+podatke o nasnaženosti,
+
+897
+00:55:02,399 --> 00:55:04,399
+pa če živimo v Ljubljani, vemo, da je
+
+898
+00:55:04,399 --> 00:55:06,399
+pač, ne, niga čez 1,9 TDI,
+
+899
+00:55:06,399 --> 00:55:08,399
+kar pomeni, da pač zdaj mora vsaj vsi crkan za tega,
+
+900
+00:55:08,399 --> 00:55:10,399
+da pa imamo pol litra nižje uporabo, ne.
+
+901
+00:55:10,399 --> 00:55:13,279
+Po zimi je zrak ogaben, ne.
+
+902
+00:55:13,279 --> 00:55:16,079
+Zdaj imaš tistih par mirilnih mest, ki so
+
+903
+00:55:16,079 --> 00:55:17,119
+uradna, ne.
+
+904
+00:55:17,119 --> 00:55:20,720
+Na čeloma niti ne preveč blizu velkih cest več, ne.
+
+905
+00:55:20,799 --> 00:55:24,239
+Na slovenski je bil en, pa slovenska je zdaj zaprta, pa imamo krne enkrat.
+
+906
+00:55:24,239 --> 00:55:25,040
+Čist zrak.
+
+907
+00:55:25,040 --> 00:55:29,200
+Čist zrak, ne, niže vsebnosti PM delcev, ne.
+
+908
+00:55:29,200 --> 00:55:30,160
+Logično, ne.
+
+909
+00:55:30,160 --> 00:55:34,320
+Ampak dejmo se postaviti na Tivoljsko, pa bomo verjetno imeli že drugačno sliko, ne.
+
+910
+00:55:34,320 --> 00:55:39,600
+Koliko enih ljudi, koliko enih firm, pa tudi obstajajo že taki mogoče crowdsource projekti ravno na tem področju,
+
+911
+00:55:39,600 --> 00:55:42,399
+je, ker te podatke lahko zbiramo predvsej bolj natačno
+
+912
+00:55:42,399 --> 00:55:45,119
+in imamo velik, velik bolj realno sliko, kaj se dogaja, ne.
+
+913
+00:55:45,119 --> 00:55:49,040
+Tiste povprečne vrednosti, ki jih poberemo dol, potem konc, konc so tudi na vopsi objavljenih, ne.
+
+914
+00:55:49,040 --> 00:55:54,480
+In rečemo, v Ljubljani je bil pa presežen, presežena vrednost je bila, ne vem, šestkrat, ne, v letu ali pa dvesetkrat v letu.
+
+915
+00:55:54,480 --> 00:55:59,119
+Itak ponovat presežamo tisto mejno število dni, pri katerih lahko presežamo, ne.
+
+916
+00:55:59,119 --> 00:56:02,079
+Ampak v bistvu v realnosti, ne,
+
+917
+00:56:02,079 --> 00:56:05,920
+jaz živim v Šiški, ne, veliko ljudi še vedno kuri na drva, ne.
+
+918
+00:56:05,920 --> 00:56:08,720
+Zrak je terbel, ne.
+
+919
+00:56:08,720 --> 00:56:10,720
+Mogoče imate jo še to, kar ste rekel, crowdsourcing, ne.
+
+920
+00:56:10,720 --> 00:56:11,279
+Ja.
+
+921
+00:56:11,600 --> 00:56:16,880
+Kaj so prej v menju to, no, pač predpise, žeo, pač prihaja z ministerstva, kaj pač se okvarja s predpisi.
+
+922
+00:56:16,880 --> 00:56:22,640
+Data, gavr, ne, sejf, pa da, da, gaz, kratico, pač veliko upravljamo kratico, ne, tako kripovalno.
+
+923
+00:56:22,640 --> 00:56:25,119
+No, ja, sam bom tukaj, ne.
+
+924
+00:56:25,119 --> 00:56:33,760
+Nekdo se mora okvarjati s temi kraticami, pa z governmentom, ker če se ti ne, če se vi ne okvarjate, potem to pade na tebe.
+
+925
+00:56:33,760 --> 00:56:34,720
+Ja.
+
+926
+00:56:34,720 --> 00:56:36,160
+A ne, mislim, vsej...
+
+927
+00:56:36,160 --> 00:56:36,959
+Ne, tukaj je treba okvarjati...
+
+928
+00:56:37,040 --> 00:56:42,559
+Da bi, da bi se on okvarjal z tistim, kar zna, bi se mora okvarjati čez nek polisje, pa nekaj še...
+
+929
+00:56:42,559 --> 00:56:43,920
+Ne, tukaj moram Aleša pokvarjati, ne.
+
+930
+00:56:43,920 --> 00:56:49,760
+On je z našega vidika, kot uporabnikov teh podatkov, pa v bistvu provajderjev nekih servisov naprej, ne.
+
+931
+00:56:49,760 --> 00:56:55,200
+Aleš, Lenka, pa Marina, ne, oni so tako, pa Mateja, to je tako shout-out, ne.
+
+932
+00:56:55,200 --> 00:57:06,720
+Oni so tist del MEU-ja prej, pa zdaj, recimo, MDP in MEU-ja, ne, kjer mi prijemo pojokat, lej, tukaj nam se res ne moramo zment, ne, pa oni poskušajo interno, ne, recimo, da...
+
+933
+00:57:06,880 --> 00:57:11,359
+gledamo državo, kot, ne, na neko enkapsulirano enoto, interno urediti te stvari
+
+934
+00:57:11,359 --> 00:57:16,480
+na način, da mi ni treba pisati, dopisati, ampak da gre nekdo tega prej, če, lej, te podatke bi mogli dati,
+
+935
+00:57:16,480 --> 00:57:17,679
+ampak tukaj bi to...
+
+936
+00:57:17,679 --> 00:57:19,920
+Se tako nekoli prostor, ja.
+
+937
+00:57:19,920 --> 00:57:20,480
+Tako.
+
+938
+00:57:20,480 --> 00:57:27,839
+Mi bi lahko, mislim, obstajali nek, če predstavnik ne objavlja vsak zbir podatkov, ne, bi ga po zakonu, mislim, da ga celo lahko kaznujemo, ampak
+
+939
+00:57:27,839 --> 00:57:32,959
+jaz sem nekak pristaž, ne, te neke prisile, ne, tudi
+
+940
+00:57:33,119 --> 00:57:36,559
+da jemo pač ljudi pripričati na bolj mehek način, tudi tujini, gledam,
+
+941
+00:57:36,559 --> 00:57:38,559
+pohvaljamo tisti, ki so dobri,
+
+942
+00:57:38,559 --> 00:57:41,440
+e, in ne vene, ki so pač, kaznovati, ki so slabi, ne.
+
+943
+00:57:41,440 --> 00:57:42,000
+Ja, točno to.
+
+944
+00:57:42,000 --> 00:57:44,160
+Ne, recimo, primer moram pohvaljati pač
+
+945
+00:57:44,160 --> 00:57:45,519
+Ministrstvo za finance,
+
+946
+00:57:45,519 --> 00:57:50,160
+recimo pač njihova spetna stran, prolečon.go.si,
+
+947
+00:57:50,160 --> 00:57:53,679
+Slovenija je ena redkih držav na svetu,
+
+948
+00:57:54,559 --> 00:57:56,320
+ki, kjer ti lahko vidiš
+
+949
+00:57:56,320 --> 00:57:58,320
+dnevno porabova državnega denarja.
+
+950
+00:57:58,320 --> 00:58:00,480
+Oni vsak dan spremiljajo,
+
+951
+00:58:00,559 --> 00:58:03,040
+koliko smo včeraj porabili denarja,
+
+952
+00:58:03,040 --> 00:58:05,040
+pa koliko smo ga zbrali zdavki.
+
+953
+00:58:05,040 --> 00:58:05,519
+Zdaj, ne.
+
+954
+00:58:05,519 --> 00:58:06,959
+Zdaj, ne, to dobro.
+
+955
+00:58:06,959 --> 00:58:08,160
+Jaz vidi, kaj trans...
+
+956
+00:58:08,160 --> 00:58:09,279
+Jaz vidi, kaj transparentnosti.
+
+957
+00:58:09,279 --> 00:58:12,000
+Ne, pa tudi tudi, da pokaži, da reči politik, ja, ne vem,
+
+958
+00:58:12,000 --> 00:58:12,959
+ne vem, kaj, tudi
+
+959
+00:58:12,959 --> 00:58:15,279
+tam lahko pogledaš vse pretekle prolečune, ne.
+
+960
+00:58:15,279 --> 00:58:16,079
+Tudi recimo
+
+961
+00:58:16,079 --> 00:58:18,559
+pogledaš lahko, koliko se je porabili denarja za šolstvo,
+
+962
+00:58:18,559 --> 00:58:21,600
+a ne, ko pač po 30-ih letih si prej, če mislim, pa bogi,
+
+963
+00:58:21,600 --> 00:58:24,000
+potem greš v negrafijo in potem pač vidiš,
+
+964
+00:58:24,079 --> 00:58:27,040
+koliko se je v zadnjih letih sreca za šolstvo ali pa za kulturo
+
+965
+00:58:27,040 --> 00:58:29,679
+ali povečeval, ali malo bolj mnogo, ne.
+
+966
+00:58:30,720 --> 00:58:32,640
+Zdaj, predpravljamo z njimi
+
+967
+00:58:33,919 --> 00:58:35,359
+objavo še enih podatkov,
+
+968
+00:58:35,359 --> 00:58:37,359
+ne vem, če jih lahko povem.
+
+969
+00:58:37,359 --> 00:58:40,239
+Bojo pa zelo zanimivi zvedika
+
+970
+00:58:40,239 --> 00:58:42,239
+teh blagajen, ki so, ne.
+
+971
+00:58:42,239 --> 00:58:45,760
+Tako da pričakujte v kratkem na portalu OPSI
+
+972
+00:58:45,760 --> 00:58:47,200
+te podatke.
+
+973
+00:58:47,200 --> 00:58:49,679
+Tako da, in tukaj so oni zelo...
+
+974
+00:58:50,239 --> 00:58:51,599
+Tudi na račun,
+
+975
+00:58:51,679 --> 00:58:54,239
+s pomočjo Mateuža, kjer je pač ena kolegica
+
+976
+00:58:54,239 --> 00:58:56,880
+vesne drančine, je bila takrat izminjstva v Franciji,
+
+977
+00:58:56,880 --> 00:58:59,760
+motor in je na podlagi sodelovan s njihovimi študenti
+
+978
+00:58:59,760 --> 00:59:01,840
+nastol ta aplikacija, ne.
+
+979
+00:59:01,840 --> 00:59:04,880
+Zdaj, tudi to sodelovanje, kako so študenti vizualizirali podatke,
+
+980
+00:59:04,880 --> 00:59:08,320
+je pač njihne odihnel in so potem to objavili, recimo, ne.
+
+981
+00:59:08,320 --> 00:59:12,159
+Kaj sem pa še prej hodil, je, da je ta crowdsourcing, ta DGA uredba,
+
+982
+00:59:12,159 --> 00:59:14,159
+vpeljuje tuden termin, jaz sem bil prič, ko sem to slišal,
+
+983
+00:59:14,159 --> 00:59:16,159
+jaz sem neko, no, to ne more biti res, ne,
+
+984
+00:59:16,159 --> 00:59:21,280
+podatkovni altruizem, ne. Zdaj, kaj je to za vraga podatkovni altruizem, ne.
+
+985
+00:59:21,280 --> 00:59:27,679
+Zdaj, gre je za to, da bojo obstavljale organizacije za podatkovni altruizem,
+
+986
+00:59:27,679 --> 00:59:31,200
+ki bojo postredniki med raziskovalci, kot je recimo Mateuž,
+
+987
+00:59:31,200 --> 00:59:37,200
+in državljani, če je želel pod državljani deliti svoje osebne podatke.
+
+988
+00:59:37,200 --> 00:59:39,679
+Pač njih je nalazil goloba COVID-a,
+
+989
+00:59:39,679 --> 00:59:44,960
+kjer je pač Robert Koch Inšitut imel težavo, ker je želel ugotavljati žarišča COVID-a
+
+990
+00:59:44,960 --> 00:59:48,159
+in so želeli iz pametnih hur potegljati temperaturo posameznika,
+
+991
+00:59:48,159 --> 00:59:51,919
+kjer bi lahko ugotavljati pač nekaj velikih 100 ljudi z visoko temperaturo,
+
+992
+00:59:51,919 --> 00:59:53,919
+bi lahko rekli, tam imamo pa že žarišče COVID-a, ne.
+
+993
+00:59:53,919 --> 00:59:56,960
+In potem so rekli, kako je zdaj to urediti, da bo to enostavno, ne.
+
+994
+00:59:56,960 --> 00:59:59,200
+Ker, če imaš ti, ne vem, pa govorimo zdaj o večjih številkah, ne,
+
+995
+00:59:59,200 --> 01:00:00,960
+če govorimo o petih ljudih je brez veze, ne.
+
+996
+01:00:00,960 --> 01:00:06,080
+Pa, kaj recimo neka Nemča, 20.000 ljudi, ti rabiš 20.000 soglasi po GDPR-ju, ne.
+
+997
+01:00:06,080 --> 01:00:09,280
+A se bo en Mateuž me od sajta s tem ukvarjati? Ne bo.
+
+998
+01:00:09,280 --> 01:00:11,679
+Kaj bo pa že, kaj je, nimam od sajta, briga me.
+
+999
+01:00:11,679 --> 01:00:16,080
+Ne, in kaj nas obi te organizacije za podatkovni turizem,
+
+1000
+01:00:16,080 --> 01:00:20,880
+ki bojo v imenu Mateuža zbirala vsa ta soglasja,
+
+1001
+01:00:20,880 --> 01:00:24,080
+popotrebi tudi podatke in mu jih postradovala, ne.
+
+1002
+01:00:24,080 --> 01:00:26,880
+Sedaj, on bo se, če mora v tej organizaciji plačati,
+
+1003
+01:00:26,880 --> 01:00:30,479
+ker pač to ne sme biti profitna organizacija, mora biti pač neprofitna,
+
+1004
+01:00:30,479 --> 01:00:33,679
+ampak sedaj, njemu bo še zmero nažje mogoče im plačati,
+
+1005
+01:00:33,679 --> 01:00:35,679
+pač bodo bilo nek projekti, bo pač neko, ne vem,
+
+1006
+01:00:35,679 --> 01:00:38,479
+ampak kaj je nažje do raziskavo, vam plačam tako denarja, pač…
+
+1007
+01:00:38,479 --> 01:00:41,280
+Zdaj, vsi, ko so ful prestrašeni v tej izraji,
+
+1008
+01:00:41,280 --> 01:00:44,080
+tukaj vedno verjetno govorimo o anonimiziranih podatkih,
+
+1009
+01:00:44,080 --> 01:00:48,479
+ki končni fazite ne zanima, pa sami z njih zanimajo te verjetno trendi, pa neke…
+
+1010
+01:00:48,479 --> 01:00:51,479
+Tako, na konc, to, spremem ga, sedaj pač ti moš te podatke pač zbrati,
+
+1011
+01:00:51,479 --> 01:00:53,479
+pa jih združati, pa potem anonimizirati, ampak…
+
+1012
+01:00:53,479 --> 01:00:55,679
+In zdaj, tukaj sedaj spet, ker govorijo o tem,
+
+1013
+01:00:55,679 --> 01:00:58,679
+kako je te podatkovne ali turistizmo te organizacije,
+
+1014
+01:00:58,679 --> 01:01:01,679
+morajo biti neprofitne, sedaj, jaz, ko sem v tem razmišljenju,
+
+1015
+01:01:01,679 --> 01:01:04,679
+kot tako je, sedaj, problem je, če so neprofitni, nimajo denarja,
+
+1016
+01:01:04,679 --> 01:01:06,679
+da spakov spostavijo neko infrastrukturo, ne?
+
+1017
+01:01:06,679 --> 01:01:08,679
+In tukaj pač jaz, koliko sem razmišljal, bi bilo smisleno,
+
+1018
+01:01:08,679 --> 01:01:13,479
+da potem neko podjetje, ki se recimo notificira kot ta posrednik podatk,
+
+1019
+01:01:13,479 --> 01:01:16,679
+kot pa ta data intermediarij, ponudi tem organizacijam
+
+1020
+01:01:16,679 --> 01:01:20,280
+svojo infrastrukturo v NEM. To je pač moje razmišljanje,
+
+1021
+01:01:20,280 --> 01:01:23,679
+se pravi, težko ti nekmu Transparency Internationala rečeš,
+
+1022
+01:01:24,679 --> 01:01:27,679
+pa nima denarja to upostoti. Če pa neko podjetje pa reče,
+
+1023
+01:01:27,679 --> 01:01:31,679
+ok, pay as you go, in on ima nekega raziskovalca.
+
+1024
+01:01:31,679 --> 01:01:35,679
+Čeprav jaz mislim, to, kar mi delamo s enim kupom teh podatkov
+
+1025
+01:01:35,679 --> 01:01:38,679
+na različnih projektih, je basically to. Mi v bistvu gremo do agencije
+
+1026
+01:01:38,679 --> 01:01:41,679
+in rečemo, mi ti bomo te podatke zbrali, mi ti bomo naredili
+
+1027
+01:01:41,679 --> 01:01:44,679
+API gateway, mi ti bomo gledali, kaj se dogaja naprej,
+
+1028
+01:01:44,679 --> 01:01:49,679
+pa mi bomo širal te podatke naprej. Jaz mislim, da ta del tukaj
+
+1029
+01:01:49,679 --> 01:01:52,679
+lahko mogoče ravno, free, tako kot tako raziskovalna organizacija,
+
+1030
+01:01:52,679 --> 01:01:55,679
+prevzame tako vlogo kot neprofitna organizacija, ki pa že ima
+
+1031
+01:01:55,679 --> 01:01:59,679
+infrastruktura. Tega se ne bo mogo iti nekdo, ki se je prej ukvarjal
+
+1032
+01:01:59,679 --> 01:02:04,679
+z vrtičkanjem, ampak lahko se pa ukvarja nekdo, ki ima že tako
+
+1033
+01:02:04,679 --> 01:02:07,679
+neko infrastrukturo in nam to postaviti, ful ni velik problem,
+
+1034
+01:02:07,679 --> 01:02:11,679
+ker lahko postavimo tisoč takih API access gateway-ov in delamo
+
+1035
+01:02:11,679 --> 01:02:16,679
+te stvari. Ampak meni se zdi to fenomenalno dobro. Mi zdaj govorimo,
+
+1036
+01:02:16,679 --> 01:02:20,679
+če gledamo deset let nazaj, ko smo se pogovarjali o demipolizem
+
+1037
+01:02:20,679 --> 01:02:25,679
+CSV, a veš, v teh desetih letih, to je bilo nora, nora velik step.
+
+1038
+01:02:25,679 --> 01:02:28,679
+Koliko enih podatkov smo mi predobivali, koliko enih stvari smo
+
+1039
+01:02:28,679 --> 01:02:32,679
+obdelovali in dokaj smo zdaj počeli, nočen se zdaj pogovarjamo.
+
+1040
+01:02:32,679 --> 01:02:36,679
+Ampak vse, na konc, papir prenese vse. Na konc, če ni tebe,
+
+1041
+01:02:36,679 --> 01:02:40,679
+ki nekaj hakaš, pa en kup ljudi v mrežnini. Sprejeli smo akt
+
+1042
+01:02:40,679 --> 01:02:43,679
+o mrežnini in potem imaš tam ljudi na tvojem Discordu,
+
+1043
+01:02:43,679 --> 01:02:47,679
+ki dejansko tiste zadeve hakajo, da znamo nekaj izračunati.
+
+1044
+01:02:47,679 --> 01:02:50,679
+Se nekdo je takrat napisal, mislim, da je na Twitteru Lih Seba bil,
+
+1045
+01:02:50,679 --> 01:02:54,679
+je rekel, agencija ima 60 ljudi, pa niso uspeli enega kalkulatorja
+
+1046
+01:02:54,679 --> 01:02:58,679
+obeseti gor, če že sprejmejo ta akt, oziroma predlagajo ta akt.
+
+1047
+01:02:58,679 --> 01:03:02,679
+Tukaj pozadimo na to, to je ta večna kolektivna neodgovornost.
+
+1048
+01:03:02,679 --> 01:03:05,679
+Nekaj se je sprejelo, nekaj se je dogovorilo. Ta pasivni aktiv,
+
+1049
+01:03:05,679 --> 01:03:08,679
+ki nam je ful všeč. Išče se stanovanje. Ne bom napisal
+
+1050
+01:03:08,679 --> 01:03:10,679
+jaz išče stanovanje, išče se stanovanje.
+
+1051
+01:03:10,679 --> 01:03:13,679
+Mislim, na koncu so podatki, samo podatki še vedno.
+
+1052
+01:03:13,679 --> 01:03:17,679
+Ja, ampak torej je pa to, da na teh ljudeh temeli, da se bo nekaj spremenil.
+
+1053
+01:03:17,679 --> 01:03:21,679
+In to je tista svetla točka tega, ker jaz mislim, da je sicer
+
+1054
+01:03:21,679 --> 01:03:25,679
+fenomenalno dober, da peljamo ta pravni aspekt, ampak po drugi strani
+
+1055
+01:03:25,679 --> 01:03:28,679
+moraš imeti tukaj ljudi, ki ti bojo to hakali, pa po drugi strani
+
+1056
+01:03:28,679 --> 01:03:32,679
+moraš imeti Veršiča pa Lenko pa ostale tam na ministerstvu,
+
+1057
+01:03:32,679 --> 01:03:36,679
+ki ti bojo supportali ta proces. Če prav, a veš, lahko bi tudi oni rekel,
+
+1058
+01:03:36,679 --> 01:03:38,679
+it's not my job, tako kot marsik do drug, kjerkoli.
+
+1059
+01:03:38,679 --> 01:03:43,679
+Ampak ne, živijo za tega, da naredijo en korak več, da naredijo nekaj
+
+1060
+01:03:43,679 --> 01:03:47,679
+iz tega, da res v svojo ulogi naredijo maksimalno, kar lahko ne.
+
+1061
+01:03:47,679 --> 01:03:51,679
+Zaradi tega mi je fajn se dolovati z njimi. Zateker nimam unga
+
+1062
+01:03:51,679 --> 01:03:55,679
+feelinga, da me prime, da bi umrl, zato, ker sem prišel tja
+
+1063
+01:03:55,679 --> 01:03:58,679
+se pogovarjati in peram neke zakonske podlage in se delamo,
+
+1064
+01:03:58,679 --> 01:04:00,679
+da se nič ne da.
+
+1065
+01:04:00,679 --> 01:04:02,679
+Zato bi mu vbral.
+
+1066
+01:04:03,679 --> 01:04:06,679
+Ne, pa ne govorim za tebe specifično, ampak za veliko agencij.
+
+1067
+01:04:06,679 --> 01:04:08,679
+Ne, ne, govorimo o 5, 6 tisoč agencij.
+
+1068
+01:04:08,679 --> 01:04:11,679
+Ne, pa hočem reči, veš, mi smo kot neka korporacija, vsi
+
+1069
+01:04:11,679 --> 01:04:14,679
+doskonek pobzabljajo, pač vlade Republike Slovenije, z vsemi
+
+1070
+01:04:14,679 --> 01:04:16,679
+ministerstvi, proganjeva sestavija in pa...
+
+1071
+01:04:18,679 --> 01:04:21,679
+Če števim, vojsko in policijo, to je crk 30 000 ljudi.
+
+1072
+01:04:22,679 --> 01:04:23,679
+Korporacije.
+
+1073
+01:04:24,679 --> 01:04:27,679
+Peter, Microsoft, kako by tam, ne.
+
+1074
+01:04:27,679 --> 01:04:30,479
+Ja, pa moja je bilo podobna zgodba, predvederevam.
+
+1075
+01:04:30,479 --> 01:04:30,979
+Je.
+
+1076
+01:04:31,679 --> 01:04:33,679
+Nazaj, nazaj zgleda kot...
+
+1077
+01:04:33,679 --> 01:04:36,679
+Može biti vsega nekaj predpisan, zato da pač ustvariš nekaj
+
+1078
+01:04:36,679 --> 01:04:40,679
+enotne pogoje, zmir boš mi posamaznik, ki bo pač rekal,
+
+1079
+01:04:40,679 --> 01:04:42,679
+ej, nimam časa, ne bom, ga je strah.
+
+1080
+01:04:42,679 --> 01:04:45,679
+Pri podpiranju podatkov je ta težava, jaz se spomnil,
+
+1081
+01:04:45,679 --> 01:04:48,679
+ko sem bil za Lenko, pri Ničniku, na enemu vzpostavljanju
+
+1082
+01:04:48,679 --> 01:04:51,679
+v Londonu, pač na tem opodnatoj inštitutu, ne, in tako,
+
+1083
+01:04:51,679 --> 01:04:55,679
+bojo deset pravil, ne, klasičnih izgovorov, zakaj ne bodo
+
+1084
+01:04:55,679 --> 01:04:56,679
+prijeti podatke, ne.
+
+1085
+01:04:56,679 --> 01:04:58,679
+Podatke nama nih če razumel, ne.
+
+1086
+01:04:58,679 --> 01:05:01,679
+Te podatke za sobo samo jaz, ne, to je bilo tako, klasika, ne.
+
+1087
+01:05:01,679 --> 01:05:05,679
+Ja, bojo notri najde na paket, ja, so what, ne, pač ti bojo
+
+1088
+01:05:05,679 --> 01:05:09,679
+pomagali izvožati, ne. Ja, bojo zaslužil, ja, in, ne,
+
+1089
+01:05:09,679 --> 01:05:14,679
+sej, pač, te podatke so bili ustvari, sej, če gledamo podatke,
+
+1090
+01:05:14,679 --> 01:05:17,679
+da se ima zmrvaloje, ne, sej, v bistvu nastanejo, ko ti plačeš
+
+1091
+01:05:17,679 --> 01:05:20,679
+neko upravno takso, ne, ko ti plačeš registracijo,
+
+1092
+01:05:20,679 --> 01:05:23,679
+in del tega denarja gre tudi za te podatke, spravo so bili
+
+1093
+01:05:23,679 --> 01:05:26,679
+te podatke v bistvu že plačeni strani nas upravnikov, ne,
+
+1094
+01:05:26,679 --> 01:05:29,679
+tako da tukaj izmer treba gledati, pač, iz večjih aspektov, ne,
+
+1095
+01:05:29,679 --> 01:05:33,679
+in tukaj, apsolutno, je, pač, treba tako gledati, no.
+
+1096
+01:05:33,679 --> 01:05:37,679
+Ej, jaz pa bom zdaj vprašal, ti še imaš dva ali tri projekte,
+
+1097
+01:05:37,679 --> 01:05:40,679
+kot si autolog. Veliko, ja. Veš več? Ja.
+
+1098
+01:05:40,679 --> 01:05:43,679
+Publiki, no, ono, ok. Ampak bi vajal, jaz se jem izvel,
+
+1099
+01:05:43,679 --> 01:05:47,679
+iPass, recimo, me zanima, ne. iPass je,
+
+1100
+01:05:47,679 --> 01:05:52,679
+aj, to je državno podjetje, državo je stanoviteljica,
+
+1101
+01:05:52,679 --> 01:05:55,679
+jaz grem notri, se prijavim, vidim podatke za svojo firmu,
+
+1102
+01:05:55,679 --> 01:05:59,679
+in za nazaj, potem pa je tam ključavnica narisana, pa reče,
+
+1103
+01:05:59,679 --> 01:06:03,679
+sorry, tole bo 350 evrov na leto. Ja.
+
+1104
+01:06:03,679 --> 01:06:07,679
+To je narejeno v bistvu isto z odprtimi podatki?
+
+1105
+01:06:07,679 --> 01:06:11,679
+Ali ni? Oni del podatkov objavljajo na portalu OPSI,
+
+1106
+01:06:11,679 --> 01:06:15,679
+se pravi, postolnji registr subjektov objavljajo, mislim,
+
+1107
+01:06:15,679 --> 01:06:18,679
+da enkrat na meseč, no, pač, osvežijo podatke na OPSI-u.
+
+1108
+01:06:18,679 --> 01:06:24,679
+Moram pa vedeti nekaj, ne. iPass je sitr država,
+
+1109
+01:06:24,679 --> 01:06:28,679
+stanoviteljice, mislim, da, ampak problem je ten, da oni polovice denarja
+
+1110
+01:06:28,679 --> 01:06:30,679
+morejo ustvariti na trgu, se pravi, niti kot naše,
+
+1111
+01:06:30,679 --> 01:06:33,679
+nisto so pa katere kot drugo, ki dobimo 100% denarja izpločeno
+
+1112
+01:06:33,679 --> 01:06:36,679
+in s tistim denarjem pač delamo kar hočemo, iPass pa more
+
+1113
+01:06:36,679 --> 01:06:39,679
+vse eno delo denarja zaslužiti na trgu, ne.
+
+1114
+01:06:39,679 --> 01:06:42,679
+In tudi zadnjič, ko smo imeli vse snag, vse z njimi zelo dobro sodelujemo,
+
+1115
+01:06:42,679 --> 01:06:46,679
+pač tam zvodijo registra, so zelo podpravljeni,
+
+1116
+01:06:46,679 --> 01:06:48,679
+tudi so zelo kooperativni, ne, samo pač morajo se zavedati
+
+1117
+01:06:48,679 --> 01:06:53,679
+svojih omejitev, ne, in tudi pač, kako smo se pogovarjali,
+
+1118
+01:06:53,679 --> 01:06:57,679
+je Slovenija pri dostopu do teh podatkov in po nekih storitvah,
+
+1119
+01:06:57,679 --> 01:07:00,679
+ki jih iPass izdvaja, med boljšimi v Evropi, ne.
+
+1120
+01:07:00,679 --> 01:07:03,679
+Ne, pač mislim, da primer iz Italije, ki je možnost
+
+1121
+01:07:03,679 --> 01:07:05,680
+iz vsakega stvara, vsakega spremembe pač plačati, ne.
+
+1122
+01:07:05,680 --> 01:07:07,680
+Pri nas mislim, da pač, ne vem, spremembe vlasnika,
+
+1123
+01:07:07,680 --> 01:07:10,680
+da ne vem, kako je s tem, pač nisem jo poslazen,
+
+1124
+01:07:10,680 --> 01:07:15,680
+ampak dejansko vse trudi pač v neku žovu pač na konc
+
+1125
+01:07:15,680 --> 01:07:19,680
+denarje tisti, ki jim omejuje, pač...
+
+1126
+01:07:19,680 --> 01:07:21,680
+Ja, ampak to, kar je o to hotel svojstaviti, jaz se malo strinjam,
+
+1127
+01:07:21,680 --> 01:07:24,680
+zanim, ne vem, tukaj gre zdaj tako double billing problem, ne.
+
+1128
+01:07:24,680 --> 01:07:26,680
+Ti kot firma plačaš za to, da te podatke njim pošliš,
+
+1129
+01:07:26,680 --> 01:07:29,680
+potem pa kot firma ali pa kot posameznik plačaš,
+
+1130
+01:07:29,680 --> 01:07:30,680
+da te podatke dobiš, ne.
+
+1131
+01:07:30,680 --> 01:07:32,680
+Dejmo se odločiti, na kaj strani bomo to zračunavali,
+
+1132
+01:07:32,680 --> 01:07:36,680
+ok, bomo zračunavali, no worries, ne, ampak ne na obih, ne.
+
+1133
+01:07:36,680 --> 01:07:38,680
+Torej, ali rečeš, ok, firma je plačila, kot ti,
+
+1134
+01:07:38,680 --> 01:07:43,680
+35, 40 evrov, whatever, za te podatke vsako leto, cool, ne,
+
+1135
+01:07:43,680 --> 01:07:45,680
+ampak potem dej te podatke in jih odpri, ne.
+
+1136
+01:07:45,680 --> 01:07:48,680
+Ne moraš zračunavati za iste podatke, za katere ti nekdo plača,
+
+1137
+01:07:48,680 --> 01:07:51,680
+ker je zakonsko obvezan, ne, za to, da ti te podatke pošilja.
+
+1138
+01:07:51,680 --> 01:07:53,680
+Meni je to tako malo problematično.
+
+1139
+01:07:53,680 --> 01:07:55,680
+Mislim, gre v neke vode, ki...
+
+1140
+01:07:55,680 --> 01:08:01,680
+Pre autologov je zelo lažje videti ta poslovni model,
+
+1141
+01:08:01,680 --> 01:08:04,680
+ampak očitnost, pač ti morajo prižeti na trgo.
+
+1142
+01:08:04,680 --> 01:08:06,680
+Ja, ampak ne na obih, ne.
+
+1143
+01:08:07,680 --> 01:08:09,680
+Odloce za enega, pa fur je to, ne.
+
+1144
+01:08:09,680 --> 01:08:11,680
+Meni se zdi to vse eno problematično z tega vidika.
+
+1145
+01:08:11,680 --> 01:08:15,680
+In tukaj, ne, zakaj pa je tih hipes tak, ne.
+
+1146
+01:08:15,680 --> 01:08:17,680
+Zakaj pa furst ni tak, ne.
+
+1147
+01:08:17,680 --> 01:08:21,680
+Zato, ker je furst bit 100% plačen iz strani države.
+
+1148
+01:08:21,680 --> 01:08:23,680
+Seveda, ne, ampak zakaj hipes ni, ne.
+
+1149
+01:08:23,680 --> 01:08:25,680
+A veš, kako hočem reči, ne, tukaj je nekaj,
+
+1150
+01:08:25,680 --> 01:08:27,680
+kjer se da vsem, mogoče malo razmisliti,
+
+1151
+01:08:27,680 --> 01:08:30,680
+pa rečeš, ok, cool, ali bomo dal še vnet dva milijona za to, ne.
+
+1152
+01:08:30,680 --> 01:08:32,680
+Saj jih damo za veliko drugih bedarij v življenju, ne,
+
+1153
+01:08:32,680 --> 01:08:34,680
+ali kakor koli, kolikor koli rabijo, ne.
+
+1154
+01:08:34,680 --> 01:08:36,680
+Pa dajmo to pokriti, pa dajmo vse te podatke odpreti, ne.
+
+1155
+01:08:36,680 --> 01:08:40,680
+Ampak potem tudi ne, firmam teži, da mora 35 evrov plačati, ne.
+
+1156
+01:08:40,680 --> 01:08:41,680
+Ker je malo čudo, ne.
+
+1157
+01:08:41,680 --> 01:08:43,680
+Predtem, da, a veš, če zmišljaš, kaj imamo,
+
+1158
+01:08:43,680 --> 01:08:46,680
+koliko je teh firm v Sloveniji, pa znožimo te cifre vse.
+
+1159
+01:08:46,680 --> 01:08:48,680
+Veš, te gadnare, po eni strani ni tako malo,
+
+1160
+01:08:48,680 --> 01:08:50,680
+po drugi strani pa tudi ni tako veliko, ne.
+
+1161
+01:08:50,680 --> 01:08:52,680
+Nismo v nekem velikostnem razredu,
+
+1162
+01:08:52,680 --> 01:08:54,680
+ki ne bi bilo obvedodljiv, ne.
+
+1163
+01:08:54,680 --> 01:08:55,680
+In jaz se tukaj spremljam.
+
+1164
+01:08:55,680 --> 01:08:57,680
+Teza devja sploh, z vidika teh agencij,
+
+1165
+01:08:57,680 --> 01:09:01,680
+kjer obstaja spet neke zakonske izjeme, ne,
+
+1166
+01:09:01,680 --> 01:09:03,680
+na podlagi, katerih potem operiramo,
+
+1167
+01:09:03,680 --> 01:09:06,680
+z tem, ne, to je treba bolj postreamlinat, ne.
+
+1168
+01:09:06,680 --> 01:09:09,680
+Torej, če vlaza vse te, za tega pa ne,
+
+1169
+01:09:09,680 --> 01:09:11,680
+sorry, ne, mogoče se moramo vprašati,
+
+1170
+01:09:11,680 --> 01:09:13,680
+zakaj je do tega prišlo.
+
+1171
+01:09:13,680 --> 01:09:15,680
+In v večinoma, tako kot ponovati rečem
+
+1172
+01:09:15,680 --> 01:09:17,680
+pri mojih predmetih, ne,
+
+1173
+01:09:17,680 --> 01:09:19,680
+spohporu operacijskih sistemih, ne,
+
+1174
+01:09:19,680 --> 01:09:21,680
+pri ostalih stvarih, ne, odgovorna,
+
+1175
+01:09:21,680 --> 01:09:23,680
+zakaj je, ponovati bi, kaj z legacy.
+
+1176
+01:09:23,680 --> 01:09:25,680
+Nekdo je leta 65 nekam nekaj napisal.
+
+1177
+01:09:25,680 --> 01:09:27,680
+V drugih časih.
+
+1178
+01:09:27,680 --> 01:09:29,680
+We've always done it that way, ne,
+
+1179
+01:09:29,680 --> 01:09:30,680
+in tako ostane, ne.
+
+1180
+01:09:30,680 --> 01:09:32,680
+Dej bo se vprašati, a je res tako nujno, ne,
+
+1181
+01:09:32,680 --> 01:09:34,680
+in velikat, in pri podatkih, in pri vseh zadevah,
+
+1182
+01:09:34,680 --> 01:09:37,680
+mi operiramo tako v nekim naboru stvari,
+
+1183
+01:09:37,680 --> 01:09:39,680
+kjer bi nam ta rubber duck programming pomagal,
+
+1184
+01:09:39,680 --> 01:09:41,680
+pa rekel, lej, dej vprašaj se, če za tvoje
+
+1185
+01:09:41,680 --> 01:09:43,680
+je tako inišelo samčni pravilni,
+
+1186
+01:09:43,680 --> 01:09:45,680
+ker verjetno niso, ne.
+
+1187
+01:09:45,680 --> 01:09:47,680
+Enako je tukaj, ne.
+
+1188
+01:09:47,680 --> 01:09:49,680
+Ja, tukaj je pač, spremljam, dejansko vprašanje
+
+1189
+01:09:49,680 --> 01:09:51,680
+pač funkcionirajo, ne, vem.
+
+1190
+01:09:51,680 --> 01:09:53,680
+Pač kukamo se stanke tako, pač se debeljamo,
+
+1191
+01:09:53,680 --> 01:09:55,680
+pač vem, da se je ful trudil, so zelo,
+
+1192
+01:09:55,680 --> 01:09:57,680
+tudi se spomnim preteklosti,
+
+1193
+01:09:57,680 --> 01:09:59,680
+glih, ta PRS,
+
+1194
+01:09:59,680 --> 01:10:01,680
+ko so ga objavljali, je bilo v bistvu brez
+
+1195
+01:10:01,680 --> 01:10:03,680
+HSMID-a, oziroma pač tega identifikatorja
+
+1196
+01:10:03,680 --> 01:10:05,680
+hišnih številk, ne,
+
+1197
+01:10:05,680 --> 01:10:07,680
+pač poslali smo nekaj, lej, ali lahko dodate še ta stolb,
+
+1198
+01:10:07,680 --> 01:10:09,680
+pa so ga naredili, ker pač vedeli smo, da te podatke majo,
+
+1199
+01:10:09,680 --> 01:10:11,680
+pa se nekoli je dodana vrednost te zbiljke,
+
+1200
+01:10:11,680 --> 01:10:14,680
+da potem ti lahko poslovni registar subjektov
+
+1201
+01:10:14,680 --> 01:10:16,680
+povežeš za podatke genetske prave in
+
+1202
+01:10:16,680 --> 01:10:18,680
+umestiš vse te subjekte v prostor.
+
+1203
+01:10:18,680 --> 01:10:20,680
+In potem lahko delaš analitiko, ne. Zdaj imamo novo
+
+1204
+01:10:20,680 --> 01:10:22,680
+zgodbo, število za poslednjih po podjetjih,
+
+1205
+01:10:22,680 --> 01:10:24,680
+ne. To se mi zdaj, kar tudi na tem
+
+1206
+01:10:24,680 --> 01:10:26,680
+bohekat, ono, kar so ga imeli v klub Ada,
+
+1207
+01:10:26,680 --> 01:10:28,680
+ne, je bilo eno od vprašanj
+
+1208
+01:10:28,680 --> 01:10:30,680
+ekip, ne, kje dobim podatek
+
+1209
+01:10:30,680 --> 01:10:32,680
+o številu za poslednjih na podjetjih, ker bi lahko
+
+1210
+01:10:32,680 --> 01:10:34,680
+imeli bolj nekakšne stvari, tako da
+
+1211
+01:10:34,680 --> 01:10:36,680
+take stvari pač nam zelo koristijo,
+
+1212
+01:10:36,680 --> 01:10:38,680
+dobimo te informacije, da potem
+
+1213
+01:10:38,680 --> 01:10:40,680
+poškušamo to, kaj, ko bomo te jo še pač premakali,
+
+1214
+01:10:40,680 --> 01:10:42,680
+pa reči, dajte, ali to imate,
+
+1215
+01:10:42,680 --> 01:10:44,680
+a pa govoriti, kdo bi to lahko imel, ne,
+
+1216
+01:10:44,680 --> 01:10:46,680
+satistika, kdorkolj,
+
+1217
+01:10:46,680 --> 01:10:48,680
+pa mogoče govorimo, da sploh imamo v tej državi
+
+1218
+01:10:48,680 --> 01:10:50,680
+nima nekega sistemskega pristopa z bironjo
+
+1219
+01:10:50,680 --> 01:10:52,680
+podatkov v številu za poslednjih, ampak to dele
+
+1220
+01:10:52,680 --> 01:10:54,680
+pračavanja, ne vem, na število ura pa kakorkoli,
+
+1221
+01:10:54,680 --> 01:10:56,680
+tako da to je pa zdaj eno stvari, kar se tudi pogovarjamo,
+
+1222
+01:10:56,680 --> 01:10:58,680
+da pač bi probal te podatke,
+
+1223
+01:10:58,680 --> 01:11:00,680
+kar sprem,
+
+1224
+01:11:00,680 --> 01:11:02,680
+koliko je neko podjetje veliko,
+
+1225
+01:11:02,680 --> 01:11:04,680
+je zanimiv podatek, ne,
+
+1226
+01:11:04,680 --> 01:11:06,680
+pač, ne vem, tudi, če hočeš neko kampanjo delati, ne vem,
+
+1227
+01:11:06,680 --> 01:11:08,680
+kakšen marketing, a veš,
+
+1228
+01:11:08,680 --> 01:11:10,680
+boš pozol pač podjetja, ki ima, ne vem, več kot 50
+
+1229
+01:11:10,680 --> 01:11:12,680
+zaposlenih, ne, boš se maltratiral
+
+1230
+01:11:12,680 --> 01:11:14,680
+vsa manjša podjetja, ki je
+
+1231
+01:11:14,680 --> 01:11:16,680
+neko stvarjo, ki se jih mogoče ne tiče,
+
+1232
+01:11:16,680 --> 01:11:18,680
+ne, zdaj, tako da to je, pač in to je ta,
+
+1233
+01:11:18,680 --> 01:11:20,680
+men, užitek pri podatkih,
+
+1234
+01:11:20,680 --> 01:11:22,680
+a ne, ta dodana vrednost,
+
+1235
+01:11:22,680 --> 01:11:24,680
+ko lahko samo z enim atributem,
+
+1236
+01:11:24,680 --> 01:11:26,680
+ne, podatku
+
+1237
+01:11:26,680 --> 01:11:28,680
+daš ogromno težo, ne,
+
+1238
+01:11:28,680 --> 01:11:30,680
+ga napikneš v neke nestute
+
+1239
+01:11:30,680 --> 01:11:32,680
+v neko razsežnosti, ne,
+
+1240
+01:11:32,680 --> 01:11:34,680
+glih ta geoprostorska komponenta, ne,
+
+1241
+01:11:34,680 --> 01:11:36,680
+je, zdaj, da smo, smo bili tudi zadnjič en posvet na temo
+
+1242
+01:11:36,680 --> 01:11:38,680
+podatkovnih prostorov,
+
+1243
+01:11:38,680 --> 01:11:40,680
+saj neko lete, če imate vi za vsako
+
+1244
+01:11:40,680 --> 01:11:42,680
+neko stvar, x, y koordinato,
+
+1245
+01:11:44,680 --> 01:11:46,680
+statistično urad ima neko mrežo,
+
+1246
+01:11:46,680 --> 01:11:48,680
+ki se ima reče grid, se pravi, oni lahko večji
+
+1247
+01:11:48,680 --> 01:11:50,680
+del svojih podatkov na to mrežo pripnejo,
+
+1248
+01:11:50,680 --> 01:11:52,680
+ti potem lahko tudi za neke te seda, pač,
+
+1249
+01:11:52,680 --> 01:11:54,680
+obhorovanje v statistično zgodnosti, pa tako naprej,
+
+1250
+01:11:54,680 --> 01:11:56,680
+lahko dobiš še kakšne statistične
+
+1251
+01:11:56,680 --> 01:11:58,680
+podatke, ki niso, da so vezeni na
+
+1252
+01:11:58,680 --> 01:12:00,680
+neko območje naselja občine,
+
+1253
+01:12:00,680 --> 01:12:02,680
+kot pač so uradne podatke, ne. Torej, če želimo
+
+1254
+01:12:02,680 --> 01:12:04,680
+pa za ta grid, oni imajo tam ene aplikacije,
+
+1255
+01:12:04,680 --> 01:12:06,680
+ko se reče Stage, kjer ti lahko tudi downloadoš
+
+1256
+01:12:06,680 --> 01:12:08,680
+podatke na to mrežo in ti imaš
+
+1257
+01:12:08,680 --> 01:12:10,680
+v tej celici, najmanjša celica je
+
+1258
+01:12:10,680 --> 01:12:12,680
+100 kodsov metrov, ne, kar se mi zdi zelo
+
+1259
+01:12:12,680 --> 01:12:14,680
+dosno tančen podatek, da ti dobiš
+
+1260
+01:12:14,680 --> 01:12:16,680
+podatke za 100 kodsov mrežo in
+
+1261
+01:12:16,680 --> 01:12:18,680
+potem lahko scale up narediš do 50
+
+1262
+01:12:18,680 --> 01:12:20,680
+kod 50 kilometrov, pač, veliko mrežo, ne,
+
+1263
+01:12:20,680 --> 01:12:22,680
+in je tudi del evropske mreže, tako da to
+
+1264
+01:12:22,680 --> 01:12:24,680
+se potem stvar ne ustavi na slovenskih
+
+1265
+01:12:24,680 --> 01:12:26,680
+mejah, ampak lahko potem
+
+1266
+01:12:26,680 --> 01:12:28,680
+v mrežu drugih evropskih držav
+
+1267
+01:12:28,680 --> 01:12:30,680
+potem te podatke dobiš, ne. Tako da tukaj
+
+1268
+01:12:30,680 --> 01:12:32,680
+se mi zdi tako včasih
+
+1269
+01:12:32,680 --> 01:12:34,680
+minimalna
+
+1270
+01:12:34,680 --> 01:12:36,680
+sprememba pa dodatek podatku
+
+1271
+01:12:36,680 --> 01:12:38,680
+ti naredi, scale up
+
+1272
+01:12:38,680 --> 01:12:40,680
+na ful stvari, ne.
+
+1273
+01:12:40,680 --> 01:12:42,680
+Veste, pa fajno
+
+1274
+01:12:42,680 --> 01:12:44,680
+oblečeno, jaz sem pol kratkih rokaži
+
+1275
+01:12:44,680 --> 01:12:46,680
+zdaj, tako že cel dan.
+
+1276
+01:12:46,680 --> 01:12:48,680
+Za publikum zelo postavlja.
+
+1277
+01:12:48,680 --> 01:12:50,680
+Zdaj imam to v grodi
+
+1278
+01:12:50,680 --> 01:12:52,680
+tišrt.
+
+1279
+01:12:52,680 --> 01:12:54,680
+Mi ga nismo dobila, ne, tako da
+
+1280
+01:12:54,680 --> 01:12:56,680
+sorry, ne.
+
+1281
+01:12:56,680 --> 01:12:58,680
+Bi pršla oblečena.
+
+1282
+01:12:58,680 --> 01:13:00,680
+Lesen sloven, ne, je, da
+
+1283
+01:13:00,680 --> 01:13:02,680
+rabiš tišrt. Kudije rabim.
+
+1284
+01:13:02,680 --> 01:13:04,680
+Ne, radeš kudija, ne.
+
+1285
+01:13:04,680 --> 01:13:06,680
+Kudija rabim.
+
+1286
+01:13:06,680 --> 01:13:08,680
+To je zdaj iz
+
+1287
+01:13:08,680 --> 01:13:10,680
+prototipnega beča smo jih najprej naredili
+
+1288
+01:13:10,680 --> 01:13:12,680
+da vidimo kakšen materjal in je odličen
+
+1289
+01:13:12,680 --> 01:13:14,680
+in tudi stikeri imamo in jaz sem
+
+1290
+01:13:14,680 --> 01:13:16,680
+hotel zdaj na tej točki povabiti
+
+1291
+01:13:16,680 --> 01:13:18,680
+naše poslošalce,
+
+1292
+01:13:18,680 --> 01:13:20,680
+gledalce, da se nam pridružijo in na
+
+1293
+01:13:20,680 --> 01:13:22,680
+Discordu in da, če jim je všeč
+
+1294
+01:13:22,680 --> 01:13:24,680
+v grodi, da nas tudi podpravijo
+
+1295
+01:13:24,680 --> 01:13:26,680
+na Patreonu, da bomo lažje
+
+1296
+01:13:26,680 --> 01:13:28,680
+še naprej delali to zgodbo na tej kvaliteti.
+
+1297
+01:13:28,680 --> 01:13:30,680
+Zahvaljujem se tudi
+
+1298
+01:13:30,680 --> 01:13:32,680
+Human Frogu pa
+
+1299
+01:13:32,680 --> 01:13:34,680
+Triflesejo za podporo.
+
+1300
+01:13:34,680 --> 01:13:36,680
+Tak da upam, da
+
+1301
+01:13:36,680 --> 01:13:38,680
+naši gledalci
+
+1302
+01:13:38,680 --> 01:13:40,680
+in slošalci uživajo v tem, pa da nam dati
+
+1303
+01:13:40,680 --> 01:13:42,680
+feedback, da bomo lahko še naprej gradiri.
+
+1304
+01:13:42,680 --> 01:13:44,680
+To je ta EPP,
+
+1305
+01:13:44,680 --> 01:13:46,680
+tako ga moram ves povedati.
+
+1306
+01:13:46,680 --> 01:13:48,680
+Zdaj se bi lahko zdaj vprašal, ker
+
+1307
+01:13:50,680 --> 01:13:52,680
+ljudje mi bojo zamerili,
+
+1308
+01:13:52,680 --> 01:13:54,680
+če ne bom vprašal, ampak kje je tu notri
+
+1309
+01:13:54,680 --> 01:13:56,680
+v tem prostoru nek ta
+
+1310
+01:13:56,680 --> 01:13:58,680
+open source komponenta?
+
+1311
+01:13:58,680 --> 01:14:00,680
+Kje vi dovisite, da
+
+1312
+01:14:00,680 --> 01:14:02,680
+vam lahko
+
+1313
+01:14:02,680 --> 01:14:04,680
+community najbolj
+
+1314
+01:14:04,680 --> 01:14:06,680
+pomaga ustvarjati
+
+1315
+01:14:06,680 --> 01:14:08,680
+te use cases,
+
+1316
+01:14:08,680 --> 01:14:10,680
+ustvarjati produkte?
+
+1317
+01:14:10,680 --> 01:14:12,680
+Kje vi da vidite
+
+1318
+01:14:12,680 --> 01:14:14,680
+največjo to priložnost?
+
+1319
+01:14:14,680 --> 01:14:16,680
+Kje vi vidite open source,
+
+1320
+01:14:16,680 --> 01:14:18,680
+pa kako je zelo pomembenje?
+
+1321
+01:14:18,680 --> 01:14:20,680
+Ja, mislim, z vidika,
+
+1322
+01:14:20,680 --> 01:14:22,680
+prva stvar, kar mi poskušamo
+
+1323
+01:14:22,680 --> 01:14:24,680
+delati, je da vedno pač probamo te podatke
+
+1324
+01:14:24,680 --> 01:14:26,680
+spušati naprej. Ne omimimo se na to, da
+
+1325
+01:14:26,680 --> 01:14:28,680
+v naredu sem en produkt,
+
+1326
+01:14:28,680 --> 01:14:30,680
+lej ta produkt bo tako obsolit, če prijemem vam
+
+1327
+01:14:30,680 --> 01:14:32,680
+prije, pa čez pet let bo en drug produkt,
+
+1328
+01:14:32,680 --> 01:14:34,680
+ki bo to bolj uždelal. Če pa lahko zagotavljaš
+
+1329
+01:14:34,680 --> 01:14:36,680
+to visoko, kako je ovo s podatkov,
+
+1330
+01:14:36,680 --> 01:14:38,680
+potem pa lahko pride jožen
+
+1331
+01:14:38,680 --> 01:14:40,680
+Mirko, John in Jimmy, imamo in ima čez dva
+
+1332
+01:14:40,680 --> 01:14:42,680
+tedna na web nared. Vedno, ko smo mi
+
+1333
+01:14:42,680 --> 01:14:44,680
+developali zadeve, ki je folk rekel, to je pa en miljon,
+
+1334
+01:14:44,680 --> 01:14:46,680
+to je javna dručila.
+
+1335
+01:14:46,680 --> 01:14:48,680
+Smo rekli, da imamo to dveh tednih nared, pa smo
+
+1336
+01:14:48,680 --> 01:14:50,680
+naredili, ker nismo vedeli, da je težko.
+
+1337
+01:14:50,680 --> 01:14:52,680
+In jaz verjamem, da 10, 20, 30...
+
+1338
+01:14:52,680 --> 01:14:54,680
+Vesko več davka se plače pri enem miljonu, ako bo pri...
+
+1339
+01:14:54,680 --> 01:14:56,680
+Ja, to je tudi res.
+
+1340
+01:14:56,680 --> 01:14:58,680
+Moramo pogruniti
+
+1341
+01:14:58,680 --> 01:15:00,680
+te davčne oase.
+
+1342
+01:15:00,000 --> 01:15:05,920
+Ampak razumeš, tukaj bo 100 drugih ljudi lahko prišlo in bo vzeli te podatke,
+
+1343
+01:15:05,920 --> 01:15:09,920
+tako kot jih imamo za točnosti in za druge stvari, pa bo naredil svoj produkt.
+
+1344
+01:15:09,920 --> 01:15:11,920
+I don't care. Hvala Bogu.
+
+1345
+01:15:11,920 --> 01:15:15,920
+In če jaz dam samo ta svoj produkt ven in rečem, da je to moj produkt,
+
+1346
+01:15:15,920 --> 01:15:19,920
+pa bom te podatke enkapsuliral v ta produkt, sem jaz tako v bistvu že failal v osnovi.
+
+1347
+01:15:19,920 --> 01:15:21,920
+Meni je ful bilo pomembno, da dam te podatke naprej
+
+1348
+01:15:21,920 --> 01:15:23,920
+in potem je vseeno, je to closed source ali open source,
+
+1349
+01:15:23,920 --> 01:15:25,920
+zatem lahko vsak v dveh tednih naredi nekaj svojega.
+
+1350
+01:15:25,920 --> 01:15:27,920
+In sem ful bil happy about it,
+
+1351
+01:15:27,920 --> 01:15:32,919
+kot pa, da rečem, aha, bomo to open sourcali in pa se bomo kregali tam,
+
+1352
+01:15:32,919 --> 01:15:35,919
+a bomo zdaj nekaj spremenili kot community notary ali ne.
+
+1353
+01:15:35,919 --> 01:15:37,919
+Naredi svojega. I don't care.
+
+1354
+01:15:37,919 --> 01:15:41,919
+Ne bomo se šli v vrtičko, pa poprejčen ga kreganje v društvu potem.
+
+1355
+01:15:41,919 --> 01:15:45,919
+Naredi. Ampak tukaj imaš podatke in lahko delaš z njimi karkoli hočeš
+
+1356
+01:15:45,919 --> 01:15:50,919
+in doker mi pač nekaj ne kržiš totalno, zračej servisa ne morem zagotavljati,
+
+1357
+01:15:50,919 --> 01:15:52,919
+pejt, pa ga uporabljaj.
+
+1358
+01:15:52,919 --> 01:15:55,919
+In z tega vzdušnja, kot open sourcenje podatkov,
+
+1359
+01:15:55,919 --> 01:15:58,919
+bolj kot open sourcenje nekih produktov, kjer bi rekel,
+
+1360
+01:15:58,919 --> 01:16:00,919
+o, jaz uporabljam ta produkt. Ne vem, za Autolok,
+
+1361
+01:16:00,919 --> 01:16:03,919
+mogoče so uporabljali 50 ur skupaj s čiščenjem podatkov,
+
+1362
+01:16:03,919 --> 01:16:06,919
+postavljajo infrastrukture, vsega. Ali pa mogoče 100, ne vem.
+
+1363
+01:16:06,919 --> 01:16:08,919
+Sva veliko kave pila v mesi, pa bluzila.
+
+1364
+01:16:08,919 --> 01:16:10,919
+Z vidom, ne, klopčešnja, ko delava to.
+
+1365
+01:16:12,919 --> 01:16:16,919
+Iskreno, a je to zdaj tako full valuable time, da bi rekel,
+
+1366
+01:16:16,919 --> 01:16:19,919
+zdaj pa noben drug na svetu tega ne more v 100-ih, a pa v 200-ih,
+
+1367
+01:16:19,919 --> 01:16:21,919
+a pa v 1000-ih urah narediti.
+
+1368
+01:16:21,919 --> 01:16:23,919
+To se bi zdaj ko videl, da se da.
+
+1369
+01:16:23,919 --> 01:16:26,919
+Ja, točno to, ne. Pač da se, naredi. Don't worry about it.
+
+1370
+01:16:26,919 --> 01:16:30,919
+A je full pomembno, da jaz uporabljal sem ta produkt kot produkt sam.
+
+1371
+01:16:30,919 --> 01:16:33,919
+Ne, z tega, ki imam res nek hot value z tega vidika.
+
+1372
+01:16:33,919 --> 01:16:35,919
+Ni Rocket Science za to narediti.
+
+1373
+01:16:35,919 --> 01:16:38,919
+To, da pa lahko jaz te podatke, tako kot smo jih natočili,
+
+1374
+01:16:38,919 --> 01:16:40,919
+kaj smo vse v API postavljali, pa znormalizirali te podatke
+
+1375
+01:16:40,919 --> 01:16:43,919
+iz različnih providerjev, pa rekel, lej, tukaj imaš podatke
+
+1376
+01:16:43,919 --> 01:16:46,919
+o vseh teh možnih prevozih, tukaj imaš OTP server,
+
+1377
+01:16:49,919 --> 01:16:53,919
+pa jaz bi bil happy, ker lahko zbiraš kolesa in avta in peš in vse živo.
+
+1378
+01:16:53,919 --> 01:16:56,919
+In lahko rečeš, ok, zanima me ekološka varčnost pa ekologija
+
+1379
+01:16:56,919 --> 01:17:00,919
+ali pa trajnost pa whatever, pa greš po svojih prioritetah to delati.
+
+1380
+01:17:00,919 --> 01:17:03,919
+Basically, meni je to full pomembno, da ti jaz dam ta del,
+
+1381
+01:17:03,919 --> 01:17:06,919
+mogoče lahko rečemo produkta, ne, do te mere, da ti rečeš,
+
+1382
+01:17:06,919 --> 01:17:09,919
+ej, cool, jaz imam pa app, ki je osmeren v ta specifičen aspekt,
+
+1383
+01:17:09,919 --> 01:17:12,919
+ki ga hočem zdeveljavati kot final produkt, pa se ne rabim ukvarjati
+
+1384
+01:17:12,919 --> 01:17:15,919
+s tem, da bom zdaj tri mesece rabil te podatke zbirati,
+
+1385
+01:17:15,919 --> 01:17:18,919
+pa jih sestavljati skup, pa delati neko analitiko na njih,
+
+1386
+01:17:18,919 --> 01:17:21,919
+pa pucati, pa vse to, jaz ti bom to naredil na mesto tebe.
+
+1387
+01:17:21,919 --> 01:17:24,919
+Ti se bov ukvarjali danes s produktom, pa ga open source je zaradi mene.
+
+1388
+01:17:24,919 --> 01:17:27,919
+Se pravi, da si bolje infrastructure provider.
+
+1389
+01:17:27,919 --> 01:17:31,919
+Ja, dajmo tako reči, ja, mi open sourceamo podatke skozi infrastrukturo.
+
+1390
+01:17:31,919 --> 01:17:34,919
+A ti si data intermediar. Ja, ja, jaz pa nisem vedel, da sem to,
+
+1391
+01:17:34,919 --> 01:17:37,919
+dokrat nisem te kratice danes slišal.
+
+1392
+01:17:39,919 --> 01:17:43,919
+Če se notificiraš, potem lahko upravaš ta logo.
+
+1393
+01:17:43,919 --> 01:17:46,919
+Aha, čakaj.
+
+1394
+01:17:46,919 --> 01:17:49,919
+Seveda moram še zahrati predspret, ampak...
+
+1395
+01:17:49,919 --> 01:17:52,919
+A, kuj, če štert do šest let upravaš?
+
+1396
+01:17:52,919 --> 01:17:55,919
+Kako časa smo za Zvob-2 rabili?
+
+1397
+01:17:55,919 --> 01:17:58,919
+Torej, Zvob-2 je trtor.
+
+1398
+01:17:58,919 --> 01:18:01,919
+Ne, ne, tale bo šla, predvidimo, v februari.
+
+1399
+01:18:01,919 --> 01:18:04,919
+Slovenska implementacija te evropske vrede bo šla, predvidimo, v februari,
+
+1400
+01:18:04,919 --> 01:18:07,919
+v javno obronavo, kjer bomo pač odhvežni.
+
+1401
+01:18:07,919 --> 01:18:10,919
+Zdaj, Leša, moramo pogledati, da on je večni optimist.
+
+1402
+01:18:11,919 --> 01:18:14,919
+Ne bomo zdaj direlo z Zvob-2.
+
+1403
+01:18:18,919 --> 01:18:21,919
+Skupno spomagamo.
+
+1404
+01:18:21,919 --> 01:18:24,919
+Imamo možnost, da lahko objavijo aplikacije, ki so bile razvite,
+
+1405
+01:18:24,919 --> 01:18:27,919
+tudi, ko se je prijavila aplikacija, ti lahko poskrološ
+
+1406
+01:18:27,919 --> 01:18:30,919
+in rečeš, uporablil sem te zberke za opcija,
+
+1407
+01:18:30,919 --> 01:18:33,919
+da vemo, kjer so se uporabljale.
+
+1408
+01:18:33,919 --> 01:18:36,919
+To bi nam pomagal, ker trenutno imamo
+
+1409
+01:18:36,919 --> 01:18:39,919
+največjo težavo pri teh ocenevanjah v strani komisije.
+
+1410
+01:18:39,919 --> 01:18:42,919
+Impakt je social, ekonomik,
+
+1411
+01:18:42,919 --> 01:18:45,919
+potem je
+
+1412
+01:18:45,919 --> 01:18:48,919
+environmental,
+
+1413
+01:18:48,919 --> 01:18:51,919
+pa governmental.
+
+1414
+01:18:51,919 --> 01:18:54,919
+Kaj še so te včinki pri ponovni uporabi podatku?
+
+1415
+01:18:54,919 --> 01:18:57,919
+Če je nekdo naredil tisto, kar je on naredil,
+
+1416
+01:18:57,919 --> 01:19:00,919
+nek socialni včinek, okoljski ali ekonomski,
+
+1417
+01:19:00,919 --> 01:19:03,919
+bi to nam pomagal, da vemo za te primere.
+
+1418
+01:19:03,919 --> 01:19:06,919
+Potem, ko nas je komisija spreškala,
+
+1419
+01:19:06,919 --> 01:19:09,919
+je reče, da je tole in tole v Sloveniji ne nastalo,
+
+1420
+01:19:09,919 --> 01:19:12,919
+iz odpartih podatkov.
+
+1421
+01:19:12,919 --> 01:19:15,919
+Tega feedbacka, to je prekletstvo odpiranja podatkov,
+
+1422
+01:19:15,919 --> 01:19:18,920
+ker mi lahko bi dal neko prijavo,
+
+1423
+01:19:18,920 --> 01:19:21,920
+pa če je to ful sovražno, nekaj sprejetno stran,
+
+1424
+01:19:21,920 --> 01:19:24,920
+daj se prijav, a lahko nehaš.
+
+1425
+01:19:24,920 --> 01:19:27,920
+Problem je, ker hočeš preizkusiti čimprej.
+
+1426
+01:19:27,920 --> 01:19:30,920
+Če daš neki čes, jaz prijajem dodatni korak.
+
+1427
+01:19:30,920 --> 01:19:33,920
+Kaj smo pač projekt delali,
+
+1428
+01:19:34,920 --> 01:19:37,920
+in pač en od mojih zahtev je,
+
+1429
+01:19:37,920 --> 01:19:40,920
+kaj se gleda druge države,
+
+1430
+01:19:40,920 --> 01:19:43,920
+nobenih prijavnič. To, ki imaš,
+
+1431
+01:19:43,920 --> 01:19:46,920
+to, ki so podatke ne voljo, deli kar hočeš z njimi,
+
+1432
+01:19:46,920 --> 01:19:49,920
+vse so pod enakim pogoju.
+
+1433
+01:19:49,920 --> 01:19:52,920
+Tukaj moram pohvaljati, ne vem, naj dovolje NPP ali ni,
+
+1434
+01:19:52,920 --> 01:19:55,920
+developerja, ki skrbi, se pravi Marko Kudar
+
+1435
+01:19:55,920 --> 01:19:58,920
+iz podjetja XLab. Z njimi pač imamo že vse leta pogodbo.
+
+1436
+01:19:58,920 --> 01:20:01,920
+In z njimi pač je bilo meni zmerj užitek sodelovati,
+
+1437
+01:20:02,920 --> 01:20:05,920
+pač vse naše ideje.
+
+1438
+01:20:05,920 --> 01:20:08,920
+Skoraj tukaj z nami, malo downscalamo.
+
+1439
+01:20:08,920 --> 01:20:11,920
+Vse naše želje je Marko uspel zelo hitro realizirati,
+
+1440
+01:20:11,920 --> 01:20:14,920
+in smo zadovoljni za sodelovanje,
+
+1441
+01:20:14,920 --> 01:20:17,920
+ker dejansko vse hitro vbrno.
+
+1442
+01:20:17,920 --> 01:20:20,920
+In tudi bom rekel, narediti koliko je treba.
+
+1443
+01:20:20,920 --> 01:20:23,920
+In tudi za sluga njemu je,
+
+1444
+01:20:23,920 --> 01:20:26,920
+da je portal obsi v tej obliki, kako je,
+
+1445
+01:20:26,920 --> 01:20:29,920
+pač tako, kako je. In tukaj bi pozval skupnostno,
+
+1446
+01:20:30,920 --> 01:20:33,920
+da se nam pač odzove objavi v obliku aplikacij,
+
+1447
+01:20:33,920 --> 01:20:36,920
+ki so nastale. Če so kakšni študi, lahko,
+
+1448
+01:20:36,920 --> 01:20:39,920
+da so samo dokumenti nastali, nam lahko piše.
+
+1449
+01:20:39,920 --> 01:20:42,920
+Bom dal link je spod spodaj.
+
+1450
+01:20:42,920 --> 01:20:45,920
+Da nam pač to sporočijo, da vemo,
+
+1451
+01:20:45,920 --> 01:20:48,920
+zakaj se gre. Da veš, kdo uporablja, zakaj uporablja.
+
+1452
+01:20:48,920 --> 01:20:51,920
+Ker to se mi zdi v Sloveniji doskrat težavo.
+
+1453
+01:20:51,920 --> 01:20:54,920
+Nekaj nekdo naredi in potem noče deli z zombenim.
+
+1454
+01:20:54,920 --> 01:20:57,920
+Epiki so bili impact na konc.
+
+1455
+01:20:58,920 --> 01:21:01,920
+Autolok ima 13.000 active device v obih platformah.
+
+1456
+01:21:01,920 --> 01:21:04,920
+Kjer basically Autolok od tebi dela samo to,
+
+1457
+01:21:04,920 --> 01:21:07,920
+da ti vino OCR-a in ti odpravi webviju websajta.
+
+1458
+01:21:07,920 --> 01:21:10,920
+Ker se je skazali, da ljudje imajo probleme pripisovati
+
+1459
+01:21:10,920 --> 01:21:13,920
+teh 17 števil, ki pa črkne.
+
+1460
+01:21:13,920 --> 01:21:16,920
+Zelo hitro lahko, kot viš, eni par teh app-ov imaš v Sloveniji,
+
+1461
+01:21:16,920 --> 01:21:19,920
+ki imajo relativno nek veliki impact.
+
+1462
+01:21:19,920 --> 01:21:22,920
+Veliko je pa teh, mogoče latentnih uporab,
+
+1463
+01:21:22,920 --> 01:21:25,920
+za kjer je ne veš. Autolok sam je tam,
+
+1464
+01:21:25,920 --> 01:21:28,920
+ampak kaj pa to pomeni, če nekdo te podatke uporablja v nekem
+
+1465
+01:21:28,920 --> 01:21:31,920
+svojem procesu in kako njemu to ta proces izboljšuje.
+
+1466
+01:21:31,920 --> 01:21:34,920
+Tega feedbacka ne možda bi.
+
+1467
+01:21:34,920 --> 01:21:37,920
+Ti lahko ogasneš, pa boš hitro, vredno ti bojo povedali.
+
+1468
+01:21:37,920 --> 01:21:40,920
+To so mi recimo primer, anegdoto z OPC-ja.
+
+1469
+01:21:40,920 --> 01:21:43,920
+Ena je vezana na Autolok,
+
+1470
+01:21:43,920 --> 01:21:46,920
+ko pač podjetja, ki jo Aža je vozila,
+
+1471
+01:21:46,920 --> 01:21:49,920
+so bili vnavajeni, da so podatki na OPC-u njej
+
+1472
+01:21:49,920 --> 01:21:52,920
+prvi, drugi dan v mesecu. Tako je bila dinamika.
+
+1473
+01:21:52,920 --> 01:21:55,920
+In če jih ni bilo, cela drama. Telefonski kljud si imeli,
+
+1474
+01:21:55,920 --> 01:21:58,920
+kje so podatke, zakaj jih še ni gor.
+
+1475
+01:21:58,920 --> 01:22:01,920
+Njihovi poslovni modeli so bili tako narodni,
+
+1476
+01:22:01,920 --> 01:22:04,920
+da so gledali, kaj dela konkurenca, pa so rekli, da moramo pojačati
+
+1477
+01:22:04,920 --> 01:22:07,920
+kompanijo, glede na to, da imaš ti podatek.
+
+1478
+01:22:07,920 --> 01:22:10,920
+Večinoma je šlo za dnevne registracije, da se številke napihujejo.
+
+1479
+01:22:10,920 --> 01:22:13,920
+Gre za to, recimo tam si ti lahko deli podatek po občinah.
+
+1480
+01:22:13,920 --> 01:22:16,920
+In ti se vidi, koliko je bilo prodanih prejšnji mesec BMW-jo
+
+1481
+01:22:16,920 --> 01:22:19,920
+v eni občini. In koliko so bili stali kupci,
+
+1482
+01:22:19,920 --> 01:22:22,920
+pa spol. Se vidi, kakšnih družboslovcev je to kar zanimiva zbirka.
+
+1483
+01:22:22,920 --> 01:22:25,920
+Eno, kaj pa mene tako šokiral, je bilo pa
+
+1484
+01:22:25,920 --> 01:22:28,920
+registr fitofamacijskih sredstev.
+
+1485
+01:22:28,920 --> 01:22:31,920
+Seveda vse te, ki jo težko kupila.
+
+1486
+01:22:31,920 --> 01:22:34,920
+Ker ni bilo objavno, takrat so objavljase,
+
+1487
+01:22:34,920 --> 01:22:37,920
+Marino je uspela jih nekako spraviti, da so šli v nek
+
+1488
+01:22:37,920 --> 01:22:40,920
+XC, CSV, pa DFL, ki ima 300 strani.
+
+1489
+01:22:40,920 --> 01:22:43,920
+Ampak pored tem, da koliko so nastopili,
+
+1490
+01:22:43,920 --> 01:22:46,920
+če ti ni dobiš zadnje verzije, in če tam nikakšen
+
+1491
+01:22:46,920 --> 01:22:49,920
+produkt, ki bi ga tirat, prodal, na tem se znamo, da ga ne moreš prodajati.
+
+1492
+01:22:49,920 --> 01:22:52,920
+Pa je malo podjetij.
+
+1493
+01:22:52,920 --> 01:22:55,920
+Lahko je občin v enih zgodbah tako,
+
+1494
+01:22:55,920 --> 01:22:58,920
+huge scale, imaš pa lahko deset podjetij, ki se v Sloveniji okvarja,
+
+1495
+01:22:58,920 --> 01:23:01,920
+in brez ene evidence, ki je pač
+
+1496
+01:23:01,920 --> 01:23:04,920
+osnovna za njihovo poslovanje,
+
+1497
+01:23:04,920 --> 01:23:07,920
+če ni updated. Lahko se v proces dobila.
+
+1498
+01:23:07,920 --> 01:23:10,920
+Samo za deset podjetij, ampak je to njim življenjskega pomena.
+
+1499
+01:23:10,920 --> 01:23:13,920
+Ja, pa ne samo njim. Veš, ta impakt BMW-ja,
+
+1500
+01:23:13,920 --> 01:23:16,920
+je to. Ja, točno to.
+
+1501
+01:23:16,920 --> 01:23:19,920
+Včasih je lahko ena mehna zbirka, ki bi rekel, pač okej,
+
+1502
+01:23:19,920 --> 01:23:22,920
+registram ocenjivske sredstev, big deal.
+
+1503
+01:23:22,920 --> 01:23:25,920
+Do kmeta pa na konc. Kmet bi nekaj kupil, pa ne more,
+
+1504
+01:23:25,920 --> 01:23:28,920
+ki pač ni v registru in ne more pač jim prodati.
+
+1505
+01:23:28,920 --> 01:23:31,920
+Tukaj so te zgodbe zanimive.
+
+1506
+01:23:31,920 --> 01:23:34,919
+Ampak to pomen, da zdaj, ki imaš te impekte z računami,
+
+1507
+01:23:34,919 --> 01:23:37,919
+pa le veš, kakšen impakt imajo, zaradi pa ti jo oni ocenjijo nazaj,
+
+1508
+01:23:37,919 --> 01:23:40,919
+ti dajo feedback. In pa lahko začneš malo hackat,
+
+1509
+01:23:41,919 --> 01:23:44,919
+pač vse je zaprešeno, da vidimo, kaj se bodo zvali.
+
+1510
+01:23:44,919 --> 01:23:47,919
+Ne, v bistvu ti spremljaš čim bolj čudne zakone. Tukaj imamo
+
+1511
+01:23:47,919 --> 01:23:50,919
+hackade tako, kot za omrežnino. Veš, ki bodo te zakone implementirali
+
+1512
+01:23:50,919 --> 01:23:53,919
+in pa to prodaš kot odprte podatke nazaj. Veš, ko da ti nam feedaš
+
+1513
+01:23:53,919 --> 01:23:56,919
+čim bolj čudno zakonodaje, zatem, da mi bolj bypassamo to.
+
+1514
+01:23:56,919 --> 01:23:59,919
+Ko se je omenil elektro, zadeval pač tala agencija je tudi,
+
+1515
+01:23:59,919 --> 01:24:02,919
+recimo, en od zahtev je, ko meri očenkovitost tih elektropodetij,
+
+1516
+01:24:02,919 --> 01:24:05,919
+je pač mislim, da je zapisala, da mora biti podatnik
+
+1517
+01:24:05,919 --> 01:24:08,919
+na obsejo objavljeno. Meni je to šokiralo.
+
+1518
+01:24:08,919 --> 01:24:11,919
+Kaj, elektrodispotenja? Ja, en od HPI-ja pač pri njih je
+
+1519
+01:24:11,919 --> 01:24:14,919
+ravno to, ali so podatki na obsejo, ne in tako naprej.
+
+1520
+01:24:14,919 --> 01:24:17,919
+Tudi, mogoče, me smo pred tekmosti ful težavali govoriti
+
+1521
+01:24:17,919 --> 01:24:20,919
+spraviti občine, pač kot reku, ki imajo nekaj ne so,
+
+1522
+01:24:20,919 --> 01:24:23,919
+nimajo tako ljudi. Do točka, ko smo imeli en razpis
+
+1523
+01:24:23,919 --> 01:24:26,919
+za pametna mesta, ki je bil že neuspešen,
+
+1524
+01:24:26,919 --> 01:24:29,919
+so ga pač prekinjali, ampak posledico tega razpise
+
+1525
+01:24:29,919 --> 01:24:32,919
+je bilo, da so se potem občine masovno začeli
+
+1526
+01:24:32,919 --> 01:24:35,919
+objavljati podatke na obsejo, ki je pač en od kriterijev,
+
+1527
+01:24:35,919 --> 01:24:38,919
+pač ponovno uporabo vlastnih zbirk za obseja.
+
+1528
+01:24:38,919 --> 01:24:41,919
+In je bilo pač nekolik... Ne, interes je, ne,
+
+1529
+01:24:41,919 --> 01:24:44,919
+sploh na tem nivoju, ne. Človek ima še neki halešov nekje,
+
+1530
+01:24:44,919 --> 01:24:47,919
+tako bom rekel, ne. Znaš, to bo tako,
+
+1531
+01:24:47,919 --> 01:24:50,919
+kako proto-model človeka v javni upravi,
+
+1532
+01:24:50,919 --> 01:24:53,919
+ki ima življenjski cilj, da nekaj spremeniji
+
+1533
+01:24:53,919 --> 01:24:56,919
+za skupno dobro, ne. Ampak je pa problem to,
+
+1534
+01:24:56,919 --> 01:24:59,919
+in to mi kot Fri tudi veliko zgodilo,
+
+1535
+01:24:59,919 --> 01:25:02,919
+ne delamo teh projektov v finančno,
+
+1536
+01:25:02,919 --> 01:25:05,919
+full beneficial aspekto, ampak delamo zaradi tega,
+
+1537
+01:25:05,919 --> 01:25:08,919
+ker lahko nekaj naredimo in lahko naredimo full,
+
+1538
+01:25:08,919 --> 01:25:11,919
+veliki impact, ne. In to nam je tako strašno,
+
+1539
+01:25:11,919 --> 01:25:14,919
+nek tako, reku, gonilo.
+
+1540
+01:25:14,919 --> 01:25:17,919
+Sweet spot. Ja, tako, ne. In tukaj,
+
+1541
+01:25:17,919 --> 01:25:20,919
+veš, ta collaboration, ta mogoče naš connection,
+
+1542
+01:25:20,919 --> 01:25:23,919
+zaradi tega tako dobro funkcionira. Zdaj,
+
+1543
+01:25:23,919 --> 01:25:26,919
+ker smo vsi komplementarni in si lahko dajemo drug drugmu tisto,
+
+1544
+01:25:26,919 --> 01:25:29,919
+ne vem, Aleš rabi epe, ja, mi jih itak delamo, ne,
+
+1545
+01:25:29,919 --> 01:25:32,919
+mi rabimo, da Aleša, ne, dej, prosim, pomagi nam zrihtati to,
+
+1546
+01:25:32,919 --> 01:25:35,919
+ki bi itak mogli pa zakon odobiti, ne, ampak sve. Eno je na papiru,
+
+1547
+01:25:35,919 --> 01:25:38,919
+drugo je v praksi. In pa imaš tam ljudi, ki se ukvarjajo aktivno s tem,
+
+1548
+01:25:38,919 --> 01:25:41,919
+ne, v bistvu s teboj se ukvarjajo, ne, tako reku. Malo,
+
+1549
+01:25:41,919 --> 01:25:44,919
+malo pravlično zvenine. Mogoče, mater, što ko zdaj reku,
+
+1550
+01:25:44,919 --> 01:25:47,919
+pač, ne, po samer z niki, ne. Zdaj, mi smo pač
+
+1551
+01:25:47,919 --> 01:25:50,919
+od tega en projekt začeli, skupaj z OCDM,
+
+1552
+01:25:50,919 --> 01:25:53,919
+namreč vzpostavljali smo v mreže Data Stewardov,
+
+1553
+01:25:53,919 --> 01:25:56,919
+pač glejško, upravljamo glejško, vse drugače v slovenski,
+
+1554
+01:25:56,919 --> 01:26:00,919
+skrbnik, skrbnik podatkov, ne, namreč to ne bi bile osebe
+
+1555
+01:26:00,919 --> 01:26:03,919
+na inštitucah, ki bi bile pač prvi kontakt na sebe
+
+1556
+01:26:03,919 --> 01:26:06,919
+za vse podatke, ne samo za otprte, ampak tako podatki
+
+1557
+01:26:06,919 --> 01:26:09,919
+od inštitucije, ki bi tudi potem bila njihova vloga
+
+1558
+01:26:09,919 --> 01:26:13,919
+svetovati vodstvu inštituci, ne, glede področja podatkov,
+
+1559
+01:26:13,919 --> 01:26:16,919
+poskušati vzpostavljati neke interne postopke, kot je
+
+1560
+01:26:16,919 --> 01:26:19,919
+kontrola kakovosti, ker tega se je vsega še nismo dotaknili.
+
+1561
+01:26:19,919 --> 01:26:23,919
+Tudi zdaj delamo en srb z Mateužem na temu metodologije
+
+1562
+01:26:23,919 --> 01:26:26,919
+kakovosti objavljenih podatkov na obsegu, ker pač je,
+
+1563
+01:26:26,919 --> 01:26:29,919
+kar je, ne, in zdaj moramo imeti next step, next level,
+
+1564
+01:26:29,919 --> 01:26:32,919
+diganj to kakovost, ker pač vemo, lahko je podatek
+
+1565
+01:26:32,919 --> 01:26:35,919
+za nek namen odličen, pa je za nek drug namen,
+
+1566
+01:26:35,919 --> 01:26:38,919
+pa povamem krep, ne, in kakovost tudi ...
+
+1567
+01:26:38,919 --> 01:26:40,919
+Pa interoperabilnost, veš, ta povezljivost, ne,
+
+1568
+01:26:40,919 --> 01:26:42,919
+nekdo ti objavlja nek šifrant, če je saj drug,
+
+1569
+01:26:42,919 --> 01:26:45,919
+ti pa ne objavlja šifrant in potem mi delaš ti matching, ne.
+
+1570
+01:26:45,919 --> 01:26:48,919
+In to vbreže, ne, tudi pač gledamo v to, da bi pač
+
+1571
+01:26:48,919 --> 01:26:51,919
+probali nekakši stvari, neke smernice, neke priporočila.
+
+1572
+01:26:51,919 --> 01:26:53,919
+Da lahko stvari povezuješ v končne faze.
+
+1573
+01:26:53,919 --> 01:26:55,919
+Pa tudi otomotizirati do določene mere, a veš, ne,
+
+1574
+01:26:55,919 --> 01:26:57,919
+neke stvari, ki smo, kaj sem jih jaz pravi zlagal,
+
+1575
+01:26:57,919 --> 01:27:00,919
+recimo mrvljajo v dampih, ne, veš, te stvari se da relativno
+
+1576
+01:27:00,919 --> 01:27:02,919
+enostavno zaotomotizirati, zatem da pogledaš,
+
+1577
+01:27:02,919 --> 01:27:05,919
+če konsistenca obstaja do tega, da lahko to zalepaš
+
+1578
+01:27:05,919 --> 01:27:07,919
+v isto schema, ne, če hočeš kodikirati, ne.
+
+1579
+01:27:07,919 --> 01:27:10,919
+Pa še en moment je, veš, če se pogovarjamo med sabo, ne,
+
+1580
+01:27:10,919 --> 01:27:13,919
+se pravi pač to mrežje kot neki vrste forum posamoznikov,
+
+1581
+01:27:13,919 --> 01:27:16,919
+trenutno je predstavljanje kot tri in tri sodržalnih
+
+1582
+01:27:16,919 --> 01:27:20,919
+inštitucij, ne, a ne in kogotoviš, da nimaš sam,
+
+1583
+01:27:20,919 --> 01:27:23,919
+sam ti te probleme, da jih imajo vsi.
+
+1584
+01:27:23,919 --> 01:27:26,919
+Potem tudi lažje nasloviš te probleme in se skupaj
+
+1585
+01:27:26,919 --> 01:27:29,919
+lotaš raševanje teh problemov, ne. In tudi tu, ki moram reči,
+
+1586
+01:27:29,919 --> 01:27:32,919
+sem zelo nadušen posamozniki v tej skupini,
+
+1587
+01:27:33,919 --> 01:27:36,919
+ki želijo nekaj spremeniti, ki so promotori nekih,
+
+1588
+01:27:36,919 --> 01:27:39,919
+recimo dober rešitor, recimo pa členin država ima v sposobnoj
+
+1589
+01:27:39,919 --> 01:27:42,919
+sistem Pladan, ki umogoče izmenjavo podatkov,
+
+1590
+01:27:42,919 --> 01:27:45,919
+od tem odložbe CSD-jo, zato je odlož podatke,
+
+1591
+01:27:45,919 --> 01:27:48,919
+podatki izmenjava poteka prek Pladna, ne.
+
+1592
+01:27:48,919 --> 01:27:51,919
+Pladan iz 47 različnih podatkovnih virov
+
+1593
+01:27:51,919 --> 01:27:54,919
+potegne podatke in jih pošta na CSD-je in oni iz tega
+
+1594
+01:27:54,919 --> 01:27:57,919
+naredijo odložbo. Druga stvar, ki smo spet pri teh vozilih
+
+1595
+01:27:57,919 --> 01:28:01,919
+in imamo za sejo, mednarodna voznička dovoljenja.
+
+1596
+01:28:01,919 --> 01:28:04,919
+Preko Pladna pridobijo podatek o stanju,
+
+1597
+01:28:04,919 --> 01:28:07,919
+ali imaš ti dovolje, lahko vozeš avto ali ne,
+
+1598
+01:28:07,919 --> 01:28:10,919
+se pravi, imaš prepovat nek alkoholu v notretje.
+
+1599
+01:28:10,919 --> 01:28:13,919
+Dokument je iz vozničke na papirju, vsi pač notrami je napisan
+
+1600
+01:28:13,919 --> 01:28:16,919
+prepovat vožnja nek pol leta. Ko smo prišli na plastiko,
+
+1601
+01:28:16,919 --> 01:28:19,919
+pač tega ni bilo. In je bil problem, imamo za sejo,
+
+1602
+01:28:19,919 --> 01:28:22,919
+izdat mednarodno vozničko, ki ni vedel,
+
+1603
+01:28:22,919 --> 01:28:25,919
+imamo še kakšno umetelje. Potem je država začastna
+
+1604
+01:28:25,919 --> 01:28:28,919
+uvedla rešitev, da si šla ti na upravljeno noto,
+
+1605
+01:28:28,919 --> 01:28:31,919
+so ti izdalj potrdila, da nimaš umetelje,
+
+1606
+01:28:31,919 --> 01:28:34,919
+ampak si moral v isten dnev prijeti na imamo za sejo.
+
+1607
+01:28:34,919 --> 01:28:37,919
+Če si zamudil, to potrdilo naslednje največ ne veljalo.
+
+1608
+01:28:37,919 --> 01:28:40,919
+In si ping-pong, ping-pong. Do trenutka, ko je pač
+
+1609
+01:28:40,919 --> 01:28:43,919
+imamo za sejo to povedal, so vzpostavili preko Pladna
+
+1610
+01:28:43,919 --> 01:28:46,919
+pridobijo nek podatek in dodegaš ti na imamo za sejo
+
+1611
+01:28:46,919 --> 01:28:49,919
+in dobiš mednarodno vozničko brez večjih težav.
+
+1612
+01:28:49,919 --> 01:28:52,919
+To so taki manjši use case, ki so...
+
+1613
+01:28:52,919 --> 01:28:55,919
+Z vidika Pladna, tukaj imamo ful enih case,
+
+1614
+01:28:56,919 --> 01:28:59,919
+kjer bi znotraj države lahko te zadeve postreamljala.
+
+1615
+01:28:59,919 --> 01:29:02,919
+Ni politične vole, mogoče, ampak nekaj druga.
+
+1616
+01:29:02,919 --> 01:29:05,919
+Ne več je, kako politične, mogoče nerazumevanje.
+
+1617
+01:29:05,919 --> 01:29:08,919
+Država že ima vse tvoje podatke, ampak ti še vedno
+
+1618
+01:29:08,919 --> 01:29:11,919
+izpunuješ konc konco neke obraste.
+
+1619
+01:29:11,919 --> 01:29:14,919
+Ful nehvaležno vprašanje je to, ampak
+
+1620
+01:29:14,919 --> 01:29:17,919
+v resnici ful velik moči je v tem, ko se odloči,
+
+1621
+01:29:17,919 --> 01:29:20,919
+že začenjš iz tem, da bo se nekdo odločil,
+
+1622
+01:29:20,919 --> 01:29:23,919
+ali bo dal CSV tja gor, ali bo sam PD
+
+1623
+01:29:24,919 --> 01:29:27,919
+naložil. Ljudi moraš izobraziti.
+
+1624
+01:29:27,919 --> 01:29:30,919
+Verjetno je ogromno truda in energije.
+
+1625
+01:29:30,919 --> 01:29:33,919
+A ljudje splošt hočejo slišati, ali bojo to videli
+
+1626
+01:29:33,919 --> 01:29:36,919
+kot dodatno delo, ali bojo to videli kot neka stvar,
+
+1627
+01:29:36,919 --> 01:29:39,919
+ki bi tudi njim pripomogla. To se v resnici ful začne.
+
+1628
+01:29:39,919 --> 01:29:42,919
+Mi to poskušamo. Zato poskušamo z temi mehanizmi,
+
+1629
+01:29:42,919 --> 01:29:45,919
+da objavljajo Excel, pa imamo potem, če ti uploadaš
+
+1630
+01:29:45,919 --> 01:29:48,919
+Excel na Opsi, je tam potem možnost, da potem ti prek
+
+1631
+01:29:48,919 --> 01:29:51,919
+upja, pokličaš ta Excel na Opsi,
+
+1632
+01:29:52,919 --> 01:29:55,919
+ki je pač v uplado.
+
+1633
+01:29:55,919 --> 01:29:58,919
+Če proveleš, zgodika mene kot zonanje,
+
+1634
+01:29:58,919 --> 01:30:01,919
+če se spomnim, mi smo še nije uporabljali,
+
+1635
+01:30:01,919 --> 01:30:04,919
+kaj smo spomnili prej, toliko let nazaj že bilo.
+
+1636
+01:30:04,919 --> 01:30:07,919
+Nacionalni inoperabilnostni okvir.
+
+1637
+01:30:07,919 --> 01:30:10,919
+Ja, super.
+
+1638
+01:30:10,919 --> 01:30:13,919
+Zveni, ker nekaj kar misliš na registrsko dolo.
+
+1639
+01:30:13,919 --> 01:30:16,919
+Takrat, če se spomnim, ljudi, ki so bili postavljeni,
+
+1640
+01:30:16,919 --> 01:30:19,919
+takrat ni bilo Data Stewardov, ampak si imeli skrbnike
+
+1641
+01:30:19,919 --> 01:30:22,919
+podatkovnih zbirkarjev, nekaj tam,
+
+1642
+01:30:22,919 --> 01:30:25,919
+zvika te osnovne naloge.
+
+1643
+01:30:25,919 --> 01:30:28,919
+To je bila tako ena dvajseta naloga nekoga, ki smo rekli,
+
+1644
+01:30:28,919 --> 01:30:31,919
+zdaj pa ti še to delo. In je bil že attitude,
+
+1645
+01:30:31,919 --> 01:30:34,919
+kako smo mi to uporabljali, toliko napačeno, toliko broken.
+
+1646
+01:30:34,919 --> 01:30:37,919
+Imaš 35 stvari za narediti, potem ti pa nekdo reče,
+
+1647
+01:30:37,919 --> 01:30:40,919
+zdaj ti bo pa tle še en mult s težijo z nekimi pomejljih,
+
+1648
+01:30:40,919 --> 01:30:43,919
+da mu moraš hitrati te podatke in ga boš ti steril nekam,
+
+1649
+01:30:43,919 --> 01:30:46,919
+zatem ti bom prišel po ZDJZ viskati te podatke in potem
+
+1650
+01:30:46,919 --> 01:30:49,919
+se boš ti delal, da te podatke ne znaš čisto dobro eksportati.
+
+1651
+01:30:49,919 --> 01:30:52,919
+A veš, te zadeve. Potem bi se rekel, dej mi za ponovno pravo
+
+1652
+01:30:52,919 --> 01:30:55,919
+in potem boš rekel, shit.
+
+1653
+01:30:55,919 --> 01:30:58,919
+V desetih letih se je tudi ta attitude bistveno spremenil,
+
+1654
+01:30:58,919 --> 01:31:01,919
+da so ljudje to začeli reči, da ima nekaj še en task,
+
+1655
+01:31:01,919 --> 01:31:04,919
+ki mu je nekdo napisal, ker obstaja neka zakonska podlaga
+
+1656
+01:31:04,919 --> 01:31:07,919
+na podlagi direktive, kjer moramo to delati.
+
+1657
+01:31:07,919 --> 01:31:10,919
+Se je tudi ideja za Data Stewardov, da bi bili to nekaj full-time,
+
+1658
+01:31:10,919 --> 01:31:13,919
+ki bi se samo s tem ukvarjali, da bi imeli na podatkih ogromno.
+
+1659
+01:31:13,919 --> 01:31:16,919
+Spet proces. Tukaj je žal, da je trebalo zavestiti,
+
+1660
+01:31:16,919 --> 01:31:19,919
+ampak se pravim, jaz sem bil tako presenečen,
+
+1661
+01:31:19,919 --> 01:31:22,919
+ko smo ta prejeg štartali, sem rekel, ok, če bomo imeli
+
+1662
+01:31:22,919 --> 01:31:25,919
+deset Data Stewardov iz državna prava, bo tako je.
+
+1663
+01:31:25,919 --> 01:31:28,919
+In potem, ko poštimo obvestilo ministrov, da predlagajo to vsebo,
+
+1664
+01:31:28,919 --> 01:31:31,919
+potem nekaj tako se vsuje in pogledam end number,
+
+1665
+01:31:31,919 --> 01:31:34,919
+tako 3 in 3, in sem rekel, wow.
+
+1666
+01:31:34,919 --> 01:31:37,919
+E-reza in profili so takšni in drugačni,
+
+1667
+01:31:37,919 --> 01:31:40,919
+ker je to za vse novost. Moram reketi, Slovenija je ena prvi držav
+
+1668
+01:31:40,919 --> 01:31:45,919
+na svetu, ki sistematično peljuje to funkcijo v inštitucijo.
+
+1669
+01:31:45,919 --> 01:31:48,919
+Tega ni, imam početek, da se se pogovarjajo.
+
+1670
+01:31:48,919 --> 01:31:51,919
+Estonija ima nekaj na tem delu, mogoče Irska,
+
+1671
+01:31:51,919 --> 01:31:54,919
+potem se pa to, mogoče Amerika.
+
+1672
+01:31:54,919 --> 01:31:57,919
+Ampak bodimo iskreni, to, kar se zdaj pogovarjamo,
+
+1673
+01:31:57,919 --> 01:32:00,919
+bo nekaj, kar nam bo vzelo vsak dan, čez deset let.
+
+1674
+01:32:00,919 --> 01:32:03,919
+Tako kot se zdaj pogovarjamo o nekih situacijah,
+
+1675
+01:32:03,919 --> 01:32:06,920
+ker mi že APX-e delamo, deset let nazaj nismo v nobenih APX-anjah,
+
+1676
+01:32:06,920 --> 01:32:09,920
+sanj, da smo v tem, dej mi podatke, zaradi mene, na Golobu mi jih pošli,
+
+1677
+01:32:09,920 --> 01:32:12,920
+pa jih bom jaz pretipkal.
+
+1678
+01:32:12,920 --> 01:32:15,920
+Čeprav Zonijo zadele futuristično, zelo hitro se bomo navadili
+
+1679
+01:32:15,920 --> 01:32:18,920
+na ta lakžeri tega, kako te podatke dobimo, kakšen ekses imamo,
+
+1680
+01:32:18,920 --> 01:32:21,920
+do koga imamo ekses, s kom lahko komuniciramo.
+
+1681
+01:32:21,920 --> 01:32:24,920
+In to je ta lepota tega. Čeprav pogledam zdaj, kot dan smo jih
+
+1682
+01:32:24,920 --> 01:32:29,920
+res zadeli, zadnjih deset plus let, noro od stvari je šlo naprej.
+
+1683
+01:32:29,920 --> 01:32:33,920
+Noro od stvari smo v bistvu uspeli narediti. Čeprav včasih
+
+1684
+01:32:33,920 --> 01:32:37,920
+imam in jaz, pa sploh Haleš in ostali na ministerstvu,
+
+1685
+01:32:37,920 --> 01:32:41,920
+mogoče filim, da bojujemo nek boj z mlini na veter.
+
+1686
+01:32:41,920 --> 01:32:44,920
+Ampak so vse stvari spravljile in za to želimo.
+
+1687
+01:32:44,920 --> 01:32:47,920
+Dej, dej, dej. Zdaj menedžer je zebe.
+
+1688
+01:32:47,920 --> 01:32:54,920
+Zdaj bomo probali nekako prepeljati do konca, pa sem še hotel
+
+1689
+01:32:54,920 --> 01:33:00,920
+to vprašati, kaj je nek ta holy grail, ki si ga želite videti
+
+1690
+01:33:00,920 --> 01:33:04,920
+v teh data setih? Kaj je nek ta podatek ali pa data source?
+
+1691
+01:33:05,920 --> 01:33:09,920
+Bi si želel, da je ta noter v tistih zbirkah, pa ga recimo zdaj ni.
+
+1692
+01:33:09,920 --> 01:33:14,920
+A pa kaj si želiš? A so to nekaj IoT podatki ali nekaj
+
+1693
+01:33:14,920 --> 01:33:17,920
+vesokofrekvenčnih podatki?
+
+1694
+01:33:17,920 --> 01:33:21,920
+Hale, to je... Jaz vem. Je v poslovu spisak.
+
+1695
+01:33:21,920 --> 01:33:27,920
+Če več podatkov, pa da iz teh podatkov skupnost naredi
+
+1696
+01:33:27,920 --> 01:33:32,920
+čim več dober izgod. Kaj se malo domišljuje, se da naredi...
+
+1697
+01:33:32,920 --> 01:33:36,920
+Se da naredi... Če Mateoš iz podatkov izmrvelo... Kaj je prvotno?
+
+1698
+01:33:36,920 --> 01:33:39,920
+Meni pa je samo, da imamo evidencijo, da je registriran vzor,
+
+1699
+01:33:39,920 --> 01:33:43,920
+pa pregled tega. Če bi pregledal, bi se tega naredil v autolog.
+
+1700
+01:33:43,920 --> 01:33:49,920
+Samo to rečem. Čim več tih zgod, bi si želel, da dejansko
+
+1701
+01:33:49,920 --> 01:33:56,920
+ta vrednost odpiranja podatkov zaživi. Na tej točki, ki bom čel,
+
+1702
+01:33:56,920 --> 01:34:01,920
+pa še mogoče, da nas spremljate, ker prvi teden marca
+
+1703
+01:34:01,920 --> 01:34:05,920
+je se toni dan odprtih podatkov. Mi bomo čel, imamo kakšno
+
+1704
+01:34:05,920 --> 01:34:08,920
+kampanjo, tako da spremljate nas.
+
+1705
+01:34:08,920 --> 01:34:10,920
+Ok, hvala.
+
+1706
+01:34:10,920 --> 01:34:17,920
+Ja, tako kot si vmenil autolog, meni je tist res najboljši
+
+1707
+01:34:17,920 --> 01:34:21,920
+feeling na svetu, ko vzamaš neke podatke in narediš produkt,
+
+1708
+01:34:21,920 --> 01:34:24,920
+za kjer ga folk mislil, da ga itak ni bilo možno narediti.
+
+1709
+01:34:24,920 --> 01:34:27,920
+Oziroma, ne tekla nihče tega problema, ker itak sploh ne ve,
+
+1710
+01:34:27,920 --> 01:34:29,920
+da se ga da teklat.
+
+1711
+01:34:30,920 --> 01:34:33,920
+Ne vem, lahko zdaj zvemo, je ta avto obbrnan, ali ne.
+
+1712
+01:34:33,920 --> 01:34:37,920
+Ne da se, nimamo podatkov. Mi imamo tako še ene, dve, tri
+
+1713
+01:34:37,920 --> 01:34:40,920
+ful dobre, da je ta trenutek, ki jih hočemo spušati,
+
+1714
+01:34:40,920 --> 01:34:43,920
+ti bomo objavljali na OPS portalov.
+
+1715
+01:34:43,920 --> 01:34:44,920
+Prosim, prosim.
+
+1716
+01:34:44,920 --> 01:34:46,920
+Če dobimo kavica pa, ali ne.
+
+1717
+01:34:48,920 --> 01:34:51,920
+Razumemo Aleševo pozicijo, in v bistvu mi ga moramo soportati
+
+1718
+01:34:51,920 --> 01:34:54,920
+v tem, da mu dajamo take stvari in jih objavljamo in promoviramo,
+
+1719
+01:34:54,920 --> 01:34:58,920
+ampak imamo že ta trenutek, količina podatkov, ki jih imamo,
+
+1720
+01:34:58,920 --> 01:35:00,920
+tako enih dobrih produktov lahko narediš.
+
+1721
+01:35:00,920 --> 01:35:04,920
+Biznis aspekt, mogoče nekaj, kar bi nekoč drugič govoril o tem,
+
+1722
+01:35:04,920 --> 01:35:08,920
+je do določene mere, ampak mogoče ne tako neposreden,
+
+1723
+01:35:08,920 --> 01:35:12,920
+kot je posredno v specifičnih branžah, recimo tako naprej.
+
+1724
+01:35:12,920 --> 01:35:16,920
+In je noro, noro veliko enega added value-ja v ful različnih
+
+1725
+01:35:16,920 --> 01:35:19,920
+aspektih v teh podatkih že zdaj.
+
+1726
+01:35:19,920 --> 01:35:22,920
+Kar koli bo pa še več, bo pa sam še ful bolj awesome.
+
+1727
+01:35:23,920 --> 01:35:27,920
+Ok. Zdaj, jaz na to bi sam še dodal, jaz samo dam še vse,
+
+1728
+01:35:27,920 --> 01:35:29,920
+kaj je priložnost. Zdaj ne mislim, ali bo ta še kaj dodala,
+
+1729
+01:35:29,920 --> 01:35:31,920
+ker če ne bom jaz se naredil.
+
+1730
+01:35:32,920 --> 01:35:33,920
+Good?
+
+1731
+01:35:33,920 --> 01:35:35,920
+Jaz mislim, da čez deset let moramo spet to narediti.
+
+1732
+01:35:35,920 --> 01:35:36,920
+Čez deset let? O, bomo trebali.
+
+1733
+01:35:36,920 --> 01:35:37,920
+Prej, prej, prej.
+
+1734
+01:35:37,920 --> 01:35:38,920
+Prej kot čez deset let.
+
+1735
+01:35:38,920 --> 01:35:40,920
+Jaz imam še par projektov, tako da tega se še slišim.
+
+1736
+01:35:40,920 --> 01:35:41,920
+Se še slišiš.
+
+1737
+01:35:42,920 --> 01:35:45,920
+Potem na tej točki se vama obvema zelo zahvaljujem za vajen čas,
+
+1738
+01:35:45,920 --> 01:35:48,920
+zahvaljujem se, ker ste poslušali v Grodje.
+
+1739
+01:35:48,920 --> 01:35:51,920
+Upam, da boste še naprej letos z nami.
+
+1740
+01:35:51,920 --> 01:35:55,920
+Zahvaljujem se ekipi, zahvaljujem se podpornikom in do naslednjič.
+
+1741
+01:35:55,920 --> 01:35:56,920
+Hvala in srečno.
+
+1742
+01:35:56,920 --> 01:35:57,920
+Hvala.
+
+1743
+01:35:57,920 --> 01:35:58,920
+Hvala.

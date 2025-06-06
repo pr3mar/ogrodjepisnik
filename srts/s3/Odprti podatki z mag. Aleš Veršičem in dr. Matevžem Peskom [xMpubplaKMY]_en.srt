@@ -1,0 +1,10823 @@
+1
+00:00:00,000 --> 00:00:12,000
+The first episode of the third season in Grodno.
+
+2
+00:00:12,000 --> 00:00:16,000
+Who would have thought that we would survive until the third season, but now we have started the third season.
+
+3
+00:00:16,000 --> 00:00:19,000
+Some kind of government.
+
+4
+00:00:19,000 --> 00:00:24,000
+So, with brand new stickers, you see, we have a new merch.
+
+5
+00:00:24,000 --> 00:00:27,000
+The players have made the whole graphic design.
+
+6
+00:00:27,000 --> 00:00:33,000
+So, we will start on all the channels, with a new look, new colors and a new melody.
+
+7
+00:00:33,000 --> 00:00:40,000
+Lara has also joined us to help spread the word and the sound to the younger population,
+
+8
+00:00:40,000 --> 00:00:44,000
+which we don't usually catch with the channels we are on now.
+
+9
+00:00:44,000 --> 00:00:49,000
+So, this is the beginning of the intro.
+
+10
+00:00:49,000 --> 00:00:52,000
+I have a full-time job here today.
+
+11
+00:00:52,000 --> 00:00:59,000
+When I was doing some research, I saw that you have a bigger audience than I do.
+
+12
+00:00:59,000 --> 00:01:05,000
+So, you have more in common with the audience than I do.
+
+13
+00:01:05,000 --> 00:01:08,000
+So, if I ask you something awkward, I can fix it.
+
+14
+00:01:08,000 --> 00:01:11,000
+No problem.
+
+15
+00:01:12,000 --> 00:01:18,000
+I was thinking today, when we started the podcast,
+
+16
+00:01:18,000 --> 00:01:21,000
+why would you have this podcast?
+
+17
+00:01:21,000 --> 00:01:24,000
+Who are the guests? Who will you invite?
+
+18
+00:01:24,000 --> 00:01:30,000
+I would like to talk to the director of Microsoft Slovenia.
+
+19
+00:01:30,000 --> 00:01:33,000
+What should Vršič have for Open Data?
+
+20
+00:01:33,000 --> 00:01:36,000
+Maybe 50K autologs and a letter.
+
+21
+00:01:36,000 --> 00:01:38,000
+These are some of the topics we need to have.
+
+22
+00:01:38,000 --> 00:01:41,000
+We already had some other topics in previous seasons,
+
+23
+00:01:41,000 --> 00:01:46,000
+but this episode with Open Data, I really hope we can start a new season with it,
+
+24
+00:01:46,000 --> 00:01:49,000
+so that we can show people that this is open data,
+
+25
+00:01:49,000 --> 00:01:52,000
+and that something interesting can be done with this data.
+
+26
+00:01:52,000 --> 00:01:59,000
+I would also like to find out what is the effort that needs to be put into making these data accessible,
+
+27
+00:01:59,000 --> 00:02:02,000
+that they are prepared and up-to-date.
+
+28
+00:02:02,000 --> 00:02:05,000
+This is one of the themes of this podcast,
+
+29
+00:02:05,000 --> 00:02:11,000
+with me Magister Aleš Vršič and Dr. Mateš Pesek from FRIA.
+
+30
+00:02:11,000 --> 00:02:16,000
+You are the Minister of Digital Transformation.
+
+31
+00:02:16,000 --> 00:02:19,000
+Welcome, both of you.
+
+32
+00:02:19,000 --> 00:02:21,000
+Thank you.
+
+33
+00:02:21,000 --> 00:02:26,000
+My introductions are usually too long, so I don't want to lose the guest.
+
+34
+00:02:27,000 --> 00:02:34,000
+As you can see, you also have the story that the autolog that was prepared and developed
+
+35
+00:02:34,000 --> 00:02:38,000
+to the point where it is usable for the user,
+
+36
+00:02:38,000 --> 00:02:41,000
+people use it and it is also integrated into the portal.
+
+37
+00:02:41,000 --> 00:02:43,000
+I don't remember the name.
+
+38
+00:02:43,000 --> 00:02:44,000
+Opsi?
+
+39
+00:02:44,000 --> 00:02:45,000
+No.
+
+40
+00:02:45,000 --> 00:02:46,000
+Dobro auto?
+
+41
+00:02:46,000 --> 00:02:48,000
+Yes, Dobro auto.
+
+42
+00:02:48,000 --> 00:02:56,000
+So, you took open data, used it, developed products and integrated it into a bigger story.
+
+43
+00:02:56,000 --> 00:02:57,000
+Yes.
+
+44
+00:02:57,000 --> 00:02:59,000
+Maybe we should start on your side.
+
+45
+00:02:59,000 --> 00:03:01,000
+Yes, maybe a prelude to that.
+
+46
+00:03:01,000 --> 00:03:07,000
+I met you and Aleš in 2014 because of Žejna, my colleague.
+
+47
+00:03:07,000 --> 00:03:08,000
+Ah, ok.
+
+48
+00:03:08,000 --> 00:03:09,000
+Hruške.
+
+49
+00:03:09,000 --> 00:03:10,000
+Gašper.
+
+50
+00:03:10,000 --> 00:03:12,000
+Shout out, yes.
+
+51
+00:03:12,000 --> 00:03:15,000
+We met once in Kornar.
+
+52
+00:03:15,000 --> 00:03:20,000
+We started talking about data, what can be done with it, and then we started.
+
+53
+00:03:20,000 --> 00:03:25,000
+We started with one topic, our VSS studio, multimedia technology.
+
+54
+00:03:25,000 --> 00:03:29,000
+We started using this data as a theme for our seminar.
+
+55
+00:03:29,000 --> 00:03:32,000
+So, we took the data, prepared what can be done with it.
+
+56
+00:03:32,000 --> 00:03:37,000
+On the other hand, we had Aleš, Alenka Občaničnik, Marino Rajic in recent years,
+
+57
+00:03:37,000 --> 00:03:42,000
+who helped us keep in touch with all the agencies involved.
+
+58
+00:03:42,000 --> 00:03:45,000
+That was before Opsi portal.
+
+59
+00:03:45,000 --> 00:03:46,000
+At the same time.
+
+60
+00:03:46,000 --> 00:03:48,000
+Yes, a year later it came out.
+
+61
+00:03:48,000 --> 00:03:53,000
+If you type opendata.si and go to the fifth page,
+
+62
+00:03:53,000 --> 00:03:56,000
+some projects are listed there.
+
+63
+00:03:56,000 --> 00:03:58,000
+It says 2012.
+
+64
+00:03:58,000 --> 00:03:59,000
+Yes, Hruške.
+
+65
+00:03:59,000 --> 00:04:02,000
+I think Gašper was working on it at the time.
+
+66
+00:04:02,000 --> 00:04:05,000
+He was already very inspired by this data.
+
+67
+00:04:05,000 --> 00:04:08,000
+Opsi portal, later 2015-2016.
+
+68
+00:04:08,000 --> 00:04:09,000
+December 2016.
+
+69
+00:04:09,000 --> 00:04:10,000
+Yes, he was working on it.
+
+70
+00:04:10,000 --> 00:04:13,000
+We started with the data, and it was great.
+
+71
+00:04:13,000 --> 00:04:16,000
+We were Aleš, who was in touch with the agencies,
+
+72
+00:04:16,000 --> 00:04:17,000
+asking for data.
+
+73
+00:04:17,000 --> 00:04:19,000
+There were a lot of fears.
+
+74
+00:04:19,000 --> 00:04:24,000
+There was a lot of feeling of isolation from the agencies.
+
+75
+00:04:24,000 --> 00:04:29,000
+Because when you give the data, people start to prepare what to do with it.
+
+76
+00:04:29,000 --> 00:04:31,000
+Then, fast forward.
+
+77
+00:04:31,000 --> 00:04:34,000
+The students didn't find a way to use the data.
+
+78
+00:04:34,000 --> 00:04:37,000
+There were some interesting inconsistencies.
+
+79
+00:04:37,000 --> 00:04:39,000
+For example, we took a state budget.
+
+80
+00:04:39,000 --> 00:04:41,000
+People visualized the state budget,
+
+81
+00:04:41,000 --> 00:04:44,000
+and it turned out that there is a bunch of projects,
+
+82
+00:04:44,000 --> 00:04:47,000
+a mass of projects worth billions,
+
+83
+00:04:47,000 --> 00:04:50,000
+where all projects are worth 100 euros.
+
+84
+00:04:50,000 --> 00:04:52,000
+Really a lot.
+
+85
+00:04:52,000 --> 00:04:54,000
+I said, ok, cool, give me the money,
+
+86
+00:04:54,000 --> 00:04:57,000
+and I'm happy for the next 10 generations.
+
+87
+00:04:57,000 --> 00:05:00,000
+It turned out that someone, at some point,
+
+88
+00:05:00,000 --> 00:05:02,000
+when he wanted to open a project,
+
+89
+00:05:02,000 --> 00:05:04,000
+could give a minimum value, a minimum budget,
+
+90
+00:05:04,000 --> 00:05:06,000
+which was limited to 100 euros.
+
+91
+00:05:06,000 --> 00:05:08,000
+These were projects that never took place.
+
+92
+00:05:08,000 --> 00:05:11,000
+In the state budget, it was still the same location,
+
+93
+00:05:11,000 --> 00:05:13,000
+and we saw it in the visualization,
+
+94
+00:05:13,000 --> 00:05:15,000
+as a huge amount of money,
+
+95
+00:05:15,000 --> 00:05:18,000
+which is something, if it was never realized.
+
+96
+00:05:18,000 --> 00:05:20,000
+Then, when we went to the visualization,
+
+97
+00:05:20,000 --> 00:05:24,000
+the municipality used the data on payments,
+
+98
+00:05:24,000 --> 00:05:27,000
+and the smaller municipality made more money.
+
+99
+00:05:27,000 --> 00:05:30,000
+Here you can see how optimal we were,
+
+100
+00:05:30,000 --> 00:05:33,000
+when it comes to using the data.
+
+101
+00:05:33,000 --> 00:05:35,000
+The smaller municipality used 2-3 dinars
+
+102
+00:05:35,000 --> 00:05:37,000
+for the payment from the municipality,
+
+103
+00:05:37,000 --> 00:05:40,000
+and maybe the administrative person.
+
+104
+00:05:40,000 --> 00:05:42,000
+I know this story,
+
+105
+00:05:42,000 --> 00:05:44,000
+because we had Transparency International
+
+106
+00:05:44,000 --> 00:05:46,000
+take a state budget,
+
+107
+00:05:46,000 --> 00:05:49,000
+and here there is a classic mistake
+
+108
+00:05:49,000 --> 00:05:51,000
+of an analyst,
+
+109
+00:05:51,000 --> 00:05:54,000
+when you notice an unusual deviation.
+
+110
+00:05:55,000 --> 00:05:57,000
+As you said, the municipality pays,
+
+111
+00:05:57,000 --> 00:05:59,000
+but what is the catch?
+
+112
+00:05:59,000 --> 00:06:01,000
+Some of the smaller municipalities
+
+113
+00:06:01,000 --> 00:06:03,000
+are members of the municipal council,
+
+114
+00:06:03,000 --> 00:06:05,000
+and this municipality would be responsible
+
+115
+00:06:05,000 --> 00:06:07,000
+for 10 municipalities,
+
+116
+00:06:07,000 --> 00:06:09,000
+and all the people who are employed
+
+117
+00:06:09,000 --> 00:06:11,000
+in this municipality,
+
+118
+00:06:11,000 --> 00:06:13,000
+work for these 10 municipalities.
+
+119
+00:06:13,000 --> 00:06:15,000
+And it is possible that there,
+
+120
+00:06:15,000 --> 00:06:17,000
+the public expenditure is lower,
+
+121
+00:06:17,000 --> 00:06:19,000
+and then there was a mistake,
+
+122
+00:06:19,000 --> 00:06:21,000
+one was in the data,
+
+123
+00:06:22,000 --> 00:06:24,000
+and then there was an analyst,
+
+124
+00:06:24,000 --> 00:06:26,000
+who would have to alert the public,
+
+125
+00:06:26,000 --> 00:06:28,000
+that there are some deviations,
+
+126
+00:06:28,000 --> 00:06:30,000
+and check with the owner,
+
+127
+00:06:30,000 --> 00:06:32,000
+why these deviations occurred.
+
+128
+00:06:32,000 --> 00:06:34,000
+Either in the data,
+
+129
+00:06:34,000 --> 00:06:36,000
+in the decimal,
+
+130
+00:06:36,000 --> 00:06:38,000
+or in the public sector.
+
+131
+00:06:38,000 --> 00:06:40,000
+A lot of these things
+
+132
+00:06:40,000 --> 00:06:42,000
+can be easily solved,
+
+133
+00:06:42,000 --> 00:06:44,000
+because we always have a negotiator
+
+134
+00:06:44,000 --> 00:06:46,000
+on the other side.
+
+135
+00:06:46,000 --> 00:06:48,000
+It is much easier
+
+136
+00:06:48,000 --> 00:06:50,000
+if someone takes the data
+
+137
+00:06:50,000 --> 00:06:52,000
+and downloads it,
+
+138
+00:06:52,000 --> 00:06:54,000
+and then tries to get a contact.
+
+139
+00:06:54,000 --> 00:06:56,000
+The feedback is different
+
+140
+00:06:56,000 --> 00:06:58,000
+when there are different people.
+
+141
+00:06:58,000 --> 00:07:00,000
+At Fast Forward,
+
+142
+00:07:00,000 --> 00:07:02,000
+at 1.2.18,
+
+143
+00:07:02,000 --> 00:07:04,000
+me and my colleague Vido,
+
+144
+00:07:04,000 --> 00:07:06,000
+who worked with us in Lebo,
+
+145
+00:07:06,000 --> 00:07:08,000
+sat down and said,
+
+146
+00:07:08,000 --> 00:07:10,000
+we are going to hack something on Saturday.
+
+147
+00:07:10,000 --> 00:07:12,000
+We looked at different pages,
+
+148
+00:07:12,000 --> 00:07:14,000
+and said, let's write.
+
+149
+00:07:14,000 --> 00:07:16,000
+I said, the data in the cars,
+
+150
+00:07:16,000 --> 00:07:18,000
+I told the student,
+
+151
+00:07:18,000 --> 00:07:20,000
+how old were the previous owners,
+
+152
+00:07:20,000 --> 00:07:22,000
+who they were, how old they were,
+
+153
+00:07:22,000 --> 00:07:24,000
+how many kilometers they had, etc.
+
+154
+00:07:24,000 --> 00:07:26,000
+I think that in January 2019,
+
+155
+00:07:26,000 --> 00:07:28,000
+while we were driving to the Danube,
+
+156
+00:07:28,000 --> 00:07:30,000
+on the E-Residency,
+
+157
+00:07:30,000 --> 00:07:32,000
+the Estonian one,
+
+158
+00:07:32,000 --> 00:07:34,000
+we deployed for the job,
+
+159
+00:07:34,000 --> 00:07:36,000
+and since then,
+
+160
+00:07:36,000 --> 00:07:38,000
+we have had a lot of success.
+
+161
+00:07:38,000 --> 00:07:40,000
+A lot of positive feedback.
+
+162
+00:07:40,000 --> 00:07:42,000
+A lot of different stories.
+
+163
+00:07:42,000 --> 00:07:44,000
+People were convinced
+
+164
+00:07:44,000 --> 00:07:46,000
+that they were deceived,
+
+165
+00:07:46,000 --> 00:07:48,000
+because they didn't want to look
+
+166
+00:07:48,000 --> 00:07:50,000
+at the technical reviews.
+
+167
+00:07:50,000 --> 00:07:52,000
+A lot of people said,
+
+168
+00:07:52,000 --> 00:07:54,000
+we have a completely different car.
+
+169
+00:07:54,000 --> 00:07:56,000
+Everyone gets a technical review,
+
+170
+00:07:56,000 --> 00:07:58,000
+but they don't look at it.
+
+171
+00:07:58,000 --> 00:08:00,000
+You made the document,
+
+172
+00:08:00,000 --> 00:08:02,000
+you didn't look at it,
+
+173
+00:08:02,000 --> 00:08:04,000
+and now you want the data to be hacked.
+
+174
+00:08:04,000 --> 00:08:06,000
+But it's cool.
+
+175
+00:08:06,000 --> 00:08:08,000
+Let's find a way
+
+176
+00:08:08,000 --> 00:08:10,000
+to crowdsource the data back to the state.
+
+177
+00:08:10,000 --> 00:08:12,000
+We do this with a lot of bypasses,
+
+178
+00:08:12,000 --> 00:08:14,000
+because the MZI
+
+179
+00:08:14,000 --> 00:08:16,000
+is a website
+
+180
+00:08:16,000 --> 00:08:18,000
+where you enter the size of your car,
+
+181
+00:08:18,000 --> 00:08:20,000
+or car,
+
+182
+00:08:20,000 --> 00:08:22,000
+and you get the data,
+
+183
+00:08:22,000 --> 00:08:24,000
+how many kilometers the car had
+
+184
+00:08:24,000 --> 00:08:26,000
+for a certain period of time.
+
+185
+00:08:26,000 --> 00:08:28,000
+A complete technical review.
+
+186
+00:08:28,000 --> 00:08:30,000
+What happened, was it successful,
+
+187
+00:08:30,000 --> 00:08:32,000
+was it unsuccessful,
+
+188
+00:08:32,000 --> 00:08:34,000
+what were the mistakes,
+
+189
+00:08:34,000 --> 00:08:36,000
+what are the measures
+
+190
+00:08:36,000 --> 00:08:38,000
+on all three levels of the technical review.
+
+191
+00:08:38,000 --> 00:08:40,000
+Not all people were
+
+192
+00:08:40,000 --> 00:08:42,000
+satisfied with this.
+
+193
+00:08:42,000 --> 00:08:44,000
+Some people who buy our cars
+
+194
+00:08:44,000 --> 00:08:46,000
+were less satisfied.
+
+195
+00:08:46,000 --> 00:08:48,000
+Some people weren't satisfied.
+
+196
+00:08:48,000 --> 00:08:50,000
+I had a very interesting call
+
+197
+00:08:50,000 --> 00:08:52,000
+a year ago.
+
+198
+00:08:52,000 --> 00:08:54,000
+Someone called me and said
+
+199
+00:08:54,000 --> 00:08:56,000
+it's good to have the data up,
+
+200
+00:08:56,000 --> 00:08:58,000
+because now everyone knows
+
+201
+00:08:58,000 --> 00:09:00,000
+that he has BMW Analyzing.
+
+202
+00:09:00,000 --> 00:09:02,000
+Now he writes that the owner is a legal person.
+
+203
+00:09:02,000 --> 00:09:04,000
+If he is a neighbor,
+
+204
+00:09:04,000 --> 00:09:06,000
+he could have bought it with Narem.
+
+205
+00:09:06,000 --> 00:09:08,000
+A lot of such stories come out.
+
+206
+00:09:08,000 --> 00:09:10,000
+But generally speaking,
+
+207
+00:09:10,000 --> 00:09:12,000
+this is the first step of the transparency
+
+208
+00:09:12,000 --> 00:09:14,000
+of our market, which was very broken.
+
+209
+00:09:14,000 --> 00:09:16,000
+We added a database
+
+210
+00:09:16,000 --> 00:09:18,000
+of stolen vehicles
+
+211
+00:09:18,000 --> 00:09:20,000
+from the Ministry of Internal Affairs.
+
+212
+00:09:22,000 --> 00:09:24,000
+There are also registration reports
+
+213
+00:09:24,000 --> 00:09:26,000
+for the stolen vehicles.
+
+214
+00:09:26,000 --> 00:09:28,000
+It is said that
+
+215
+00:09:28,000 --> 00:09:30,000
+out of 100 cars or other vehicles,
+
+216
+00:09:30,000 --> 00:09:32,000
+the one that was stolen
+
+217
+00:09:32,000 --> 00:09:34,000
+was a successful technical review.
+
+218
+00:09:34,000 --> 00:09:36,000
+The investigation was very suspicious.
+
+219
+00:09:36,000 --> 00:09:38,000
+The police said that they didn't
+
+220
+00:09:38,000 --> 00:09:40,000
+find the stolen car.
+
+221
+00:09:40,000 --> 00:09:42,000
+There were a lot of tweets about leasing.
+
+222
+00:09:42,000 --> 00:09:44,000
+They called us from the leasing office
+
+223
+00:09:44,000 --> 00:09:46,000
+and asked if we could get the car back.
+
+224
+00:09:46,000 --> 00:09:48,000
+The police didn't do that.
+
+225
+00:09:48,000 --> 00:09:50,000
+We were a bit surprised.
+
+226
+00:09:50,000 --> 00:09:52,000
+When you have a leasing office
+
+227
+00:09:52,000 --> 00:09:54,000
+in the background,
+
+228
+00:09:54,000 --> 00:09:56,000
+you don't know who you're talking to.
+
+229
+00:09:56,000 --> 00:09:58,000
+If we go to Aleš now...
+
+230
+00:09:58,000 --> 00:10:00,000
+I want to mention
+
+231
+00:10:00,000 --> 00:10:02,000
+the story about Vinšte Vilko.
+
+232
+00:10:02,000 --> 00:10:04,000
+If we had
+
+233
+00:10:04,000 --> 00:10:06,000
+our Ministry
+
+234
+00:10:06,000 --> 00:10:08,000
+and the Ministry of Information
+
+235
+00:10:08,000 --> 00:10:10,000
+and the Ministry of Infrastructure
+
+236
+00:10:10,000 --> 00:10:12,000
+meeting at the Information Commission,
+
+237
+00:10:12,000 --> 00:10:14,000
+Vinšte Vilko would have
+
+238
+00:10:14,000 --> 00:10:16,000
+been prepared in one step.
+
+239
+00:10:16,000 --> 00:10:18,000
+According to some European regulations,
+
+240
+00:10:18,000 --> 00:10:20,000
+Vinšte Vilko is a personal data.
+
+241
+00:10:20,000 --> 00:10:22,000
+In my opinion,
+
+242
+00:10:22,000 --> 00:10:24,000
+it somehow influences
+
+243
+00:10:24,000 --> 00:10:26,000
+the car industry
+
+244
+00:10:26,000 --> 00:10:28,000
+how to limit access to these data.
+
+245
+00:10:28,000 --> 00:10:30,000
+You have to process all the data
+
+246
+00:10:30,000 --> 00:10:32,000
+related to Vinšte Vilko
+
+247
+00:10:32,000 --> 00:10:34,000
+via GDPR.
+
+248
+00:10:34,000 --> 00:10:36,000
+It represents
+
+249
+00:10:36,000 --> 00:10:38,000
+a certain challenge.
+
+250
+00:10:38,000 --> 00:10:40,000
+The Information Commission
+
+251
+00:10:40,000 --> 00:10:42,000
+approved the whole process.
+
+252
+00:10:42,000 --> 00:10:44,000
+It took a lot of time.
+
+253
+00:10:44,000 --> 00:10:46,000
+Now,
+
+254
+00:10:46,000 --> 00:10:48,000
+I have to change the law
+
+255
+00:10:48,000 --> 00:10:50,000
+and write that
+
+256
+00:10:50,000 --> 00:10:52,000
+Vinšte Vilko is a personal data
+
+257
+00:10:52,000 --> 00:10:54,000
+and it can be public data.
+
+258
+00:10:54,000 --> 00:10:56,000
+The land plot
+
+259
+00:10:56,000 --> 00:10:58,000
+for Vinšte Vilko is a personal data
+
+260
+00:10:58,000 --> 00:11:00,000
+if you have the last name
+
+261
+00:11:00,000 --> 00:11:02,000
+and the owner of the plot.
+
+262
+00:11:02,000 --> 00:11:04,000
+Vinšte Vilko is public
+
+263
+00:11:04,000 --> 00:11:06,000
+and accessible.
+
+264
+00:11:06,000 --> 00:11:08,000
+You search for Vinšte Vilko
+
+265
+00:11:08,000 --> 00:11:10,000
+and you can get personal data.
+
+266
+00:11:10,000 --> 00:11:12,000
+What about registration?
+
+267
+00:11:12,000 --> 00:11:14,000
+Registration is also a personal data.
+
+268
+00:11:14,000 --> 00:11:16,000
+Stealing vehicles have been reported.
+
+269
+00:11:16,000 --> 00:11:18,000
+What happened
+
+270
+00:11:18,000 --> 00:11:20,000
+is that the police said
+
+271
+00:11:20,000 --> 00:11:22,000
+that they do not have a database
+
+272
+00:11:22,000 --> 00:11:24,000
+of stolen vehicles,
+
+273
+00:11:24,000 --> 00:11:26,000
+only the Information Commission.
+
+274
+00:11:26,000 --> 00:11:28,000
+Since then, the police have been
+
+275
+00:11:28,000 --> 00:11:30,000
+updating the Information Commission.
+
+276
+00:11:30,000 --> 00:11:32,000
+This is a feedback
+
+277
+00:11:32,000 --> 00:11:34,000
+of the open data.
+
+278
+00:11:34,000 --> 00:11:36,000
+You can force the environment,
+
+279
+00:11:36,000 --> 00:11:38,000
+the state as a whole
+
+280
+00:11:38,000 --> 00:11:40,000
+to make things better, more transparent
+
+281
+00:11:40,000 --> 00:11:42,000
+and cleaner.
+
+282
+00:11:46,000 --> 00:11:48,000
+People don't understand
+
+283
+00:11:48,000 --> 00:11:50,000
+that the consistency of data
+
+284
+00:11:50,000 --> 00:11:52,000
+is an internal ongoing process.
+
+285
+00:11:52,000 --> 00:11:54,000
+You don't do something
+
+286
+00:11:54,000 --> 00:11:56,000
+and then let it go.
+
+287
+00:11:56,000 --> 00:11:58,000
+That's why
+
+288
+00:11:58,000 --> 00:12:00,000
+there is a fear.
+
+289
+00:12:00,000 --> 00:12:02,000
+It's a kind of personal data.
+
+290
+00:12:02,000 --> 00:12:04,000
+Yes, yes, yes.
+
+291
+00:12:04,000 --> 00:12:06,000
+But the problem is
+
+292
+00:12:06,000 --> 00:12:08,000
+that someone has to be behind the scenes.
+
+293
+00:12:08,000 --> 00:12:10,000
+Often in these polls,
+
+294
+00:12:10,000 --> 00:12:12,000
+it's someone who is
+
+295
+00:12:12,000 --> 00:12:14,000
+maybe half a year before retirement,
+
+296
+00:12:14,000 --> 00:12:16,000
+who has gone through a decade
+
+297
+00:12:16,000 --> 00:12:18,000
+and knows everything in his head.
+
+298
+00:12:18,000 --> 00:12:20,000
+You can get this person
+
+299
+00:12:20,000 --> 00:12:22,000
+and ask him directly
+
+300
+00:12:22,000 --> 00:12:24,000
+because he knows everything.
+
+301
+00:12:24,000 --> 00:12:26,000
+All the laws,
+
+302
+00:12:26,000 --> 00:12:28,000
+who decided 15 years ago
+
+303
+00:12:28,000 --> 00:12:30,000
+that something happened.
+
+304
+00:12:30,000 --> 00:12:32,000
+Unfortunately, this is not the case.
+
+305
+00:12:32,000 --> 00:12:34,000
+We are not yet at the level
+
+306
+00:12:34,000 --> 00:12:36,000
+where you go up, take the data
+
+307
+00:12:36,000 --> 00:12:38,000
+and everything will be clear
+
+308
+00:12:38,000 --> 00:12:40,000
+because you will be documenting it.
+
+309
+00:12:40,000 --> 00:12:42,000
+But all the polls have a repository, right?
+
+310
+00:12:42,000 --> 00:12:44,000
+That's right.
+
+311
+00:12:44,000 --> 00:12:46,000
+They have a repository,
+
+312
+00:12:46,000 --> 00:12:48,000
+people who are responsible
+
+313
+00:12:48,000 --> 00:12:50,000
+for publishing the data
+
+314
+00:12:50,000 --> 00:12:52,000
+on the OPCI portal.
+
+315
+00:12:52,000 --> 00:12:54,000
+There are different approaches.
+
+316
+00:12:54,000 --> 00:12:56,000
+We have a system of harvesting
+
+317
+00:12:56,000 --> 00:12:58,000
+and they send us updates
+
+318
+00:12:58,000 --> 00:13:00,000
+on which collection
+
+319
+00:13:00,000 --> 00:13:02,000
+may be removed,
+
+320
+00:13:02,000 --> 00:13:04,000
+which is a new collection,
+
+321
+00:13:04,000 --> 00:13:06,000
+which is being corrected.
+
+322
+00:13:06,000 --> 00:13:08,000
+We have a similar situation
+
+323
+00:13:08,000 --> 00:13:10,000
+for geospatial data
+
+324
+00:13:10,000 --> 00:13:12,000
+by the City Administration,
+
+325
+00:13:12,000 --> 00:13:14,000
+which has a geoportal
+
+326
+00:13:14,000 --> 00:13:16,000
+under the directorate of WISPIRE.
+
+327
+00:13:16,000 --> 00:13:18,000
+We read their descriptions
+
+328
+00:13:18,000 --> 00:13:20,000
+because the OPCI portal
+
+329
+00:13:20,000 --> 00:13:22,000
+would not be the central
+
+330
+00:13:22,000 --> 00:13:24,000
+source of information.
+
+331
+00:13:24,000 --> 00:13:26,000
+We are not in the open data.
+
+332
+00:13:26,000 --> 00:13:28,000
+We have two links on the OPCI portal
+
+333
+00:13:28,000 --> 00:13:30,000
+for some time now.
+
+334
+00:13:30,000 --> 00:13:32,000
+One is open data,
+
+335
+00:13:32,000 --> 00:13:34,000
+the other is a collection
+
+336
+00:13:34,000 --> 00:13:36,000
+of information,
+
+337
+00:13:36,000 --> 00:13:38,000
+where the collections
+
+338
+00:13:38,000 --> 00:13:40,000
+that are closed
+
+339
+00:13:40,000 --> 00:13:42,000
+are published.
+
+340
+00:13:42,000 --> 00:13:44,000
+But it is important
+
+341
+00:13:44,000 --> 00:13:46,000
+that the user knows
+
+342
+00:13:46,000 --> 00:13:48,000
+that this collection exists
+
+343
+00:13:48,000 --> 00:13:50,000
+and that there were not
+
+344
+00:13:50,000 --> 00:13:52,000
+any other sources
+
+345
+00:13:52,000 --> 00:13:54,000
+where this information
+
+346
+00:13:54,000 --> 00:13:56,000
+could be obtained.
+
+347
+00:13:56,000 --> 00:13:58,000
+Let's look at some statistics.
+
+348
+00:13:58,000 --> 00:14:00,000
+For example,
+
+349
+00:14:00,000 --> 00:14:02,000
+the evidence of migrants
+
+350
+00:14:02,000 --> 00:14:04,000
+led by the police.
+
+351
+00:14:04,000 --> 00:14:06,000
+I have an example
+
+352
+00:14:06,000 --> 00:14:08,000
+of a migrant
+
+353
+00:14:08,000 --> 00:14:10,000
+who walks through the state.
+
+354
+00:14:10,000 --> 00:14:12,000
+Maybe the state is interested in them.
+
+355
+00:14:12,000 --> 00:14:14,000
+Maybe they are interested
+
+356
+00:14:14,000 --> 00:14:16,000
+in the population
+
+357
+00:14:16,000 --> 00:14:18,000
+and the dynamics.
+
+358
+00:14:18,000 --> 00:14:20,000
+If this is published
+
+359
+00:14:20,000 --> 00:14:22,000
+as open data,
+
+360
+00:14:22,000 --> 00:14:24,000
+monthly and weekly statistics,
+
+361
+00:14:24,000 --> 00:14:26,000
+we can speculate
+
+362
+00:14:26,000 --> 00:14:28,000
+that the information
+
+363
+00:14:28,000 --> 00:14:30,000
+is more transparent
+
+364
+00:14:30,000 --> 00:14:32,000
+and does not have to bluff
+
+365
+00:14:32,000 --> 00:14:34,000
+and say that the migrant
+
+366
+00:14:34,000 --> 00:14:36,000
+is a dark-skinned person
+
+367
+00:14:36,000 --> 00:14:38,000
+with a dark will.
+
+368
+00:14:38,000 --> 00:14:40,000
+We are also trying
+
+369
+00:14:40,000 --> 00:14:42,000
+with the group of
+
+370
+00:14:42,000 --> 00:14:44,000
+Mateja Šumena,
+
+371
+00:14:44,000 --> 00:14:46,000
+Lenka Marlina and Mateja Prešeran,
+
+372
+00:14:46,000 --> 00:14:48,000
+to not open
+
+373
+00:14:48,000 --> 00:14:50,000
+the data
+
+374
+00:14:50,000 --> 00:14:52,000
+because it will
+
+375
+00:14:52,000 --> 00:14:54,000
+contain the most mistakes.
+
+376
+00:14:54,000 --> 00:14:56,000
+I remember
+
+377
+00:14:56,000 --> 00:14:58,000
+when I was studying
+
+378
+00:14:58,000 --> 00:15:00,000
+at the University of Šumrada
+
+379
+00:15:00,000 --> 00:15:02,000
+for a PhD.
+
+380
+00:15:02,000 --> 00:15:04,000
+In his book,
+
+381
+00:15:04,000 --> 00:15:06,000
+he said that the accuracy
+
+382
+00:15:06,000 --> 00:15:08,000
+of the data is very high.
+
+383
+00:15:08,000 --> 00:15:10,000
+We will never be 100% sure.
+
+384
+00:15:10,000 --> 00:15:12,000
+One half of an investment
+
+385
+00:15:12,000 --> 00:15:14,000
+is possible for today.
+
+386
+00:15:14,000 --> 00:15:16,000
+The more data,
+
+387
+00:15:16,000 --> 00:15:18,000
+the more mistakes can be made.
+
+388
+00:15:18,000 --> 00:15:20,000
+I always say that
+
+389
+00:15:20,000 --> 00:15:22,000
+if you give data for free,
+
+390
+00:15:22,000 --> 00:15:24,000
+it is not a crime.
+
+391
+00:15:24,000 --> 00:15:26,000
+But if you use it for free again,
+
+392
+00:15:26,000 --> 00:15:28,000
+everyone on this planet
+
+393
+00:15:28,000 --> 00:15:30,000
+can use this data.
+
+394
+00:15:30,000 --> 00:15:32,000
+What is the benefit?
+
+395
+00:15:32,000 --> 00:15:34,000
+We have also made
+
+396
+00:15:34,000 --> 00:15:36,000
+a contact window
+
+397
+00:15:36,000 --> 00:15:38,000
+where you can
+
+398
+00:15:38,000 --> 00:15:40,000
+contact the manager
+
+399
+00:15:40,000 --> 00:15:42,000
+and tell him
+
+400
+00:15:42,000 --> 00:15:44,000
+to improve the data.
+
+401
+00:15:44,000 --> 00:15:46,000
+The data should also
+
+402
+00:15:46,000 --> 00:15:48,000
+have a structural basis
+
+403
+00:15:48,000 --> 00:15:50,000
+for the policies.
+
+404
+00:15:50,000 --> 00:15:52,000
+As Mateo said,
+
+405
+00:15:52,000 --> 00:15:54,000
+to watch the dynamics
+
+406
+00:15:54,000 --> 00:15:56,000
+of the data.
+
+407
+00:15:56,000 --> 00:15:58,000
+Sometimes it goes up,
+
+408
+00:15:58,000 --> 00:16:00,000
+sometimes it goes down.
+
+409
+00:16:00,000 --> 00:16:02,000
+When I thought about it,
+
+410
+00:16:02,000 --> 00:16:04,000
+I realized
+
+411
+00:16:04,000 --> 00:16:06,000
+that we found
+
+412
+00:16:06,000 --> 00:16:08,000
+a problem in the system.
+
+413
+00:16:08,000 --> 00:16:10,000
+The first step
+
+414
+00:16:10,000 --> 00:16:12,000
+is to have a technical overview
+
+415
+00:16:12,000 --> 00:16:14,000
+when you come in.
+
+416
+00:16:14,000 --> 00:16:16,000
+And those who do
+
+417
+00:16:16,000 --> 00:16:18,000
+a technical overview
+
+418
+00:16:18,000 --> 00:16:20,000
+also look at the current
+
+419
+00:16:20,000 --> 00:16:22,000
+status of the data.
+
+420
+00:16:22,000 --> 00:16:24,000
+You can't register the car
+
+421
+00:16:24,000 --> 00:16:26,000
+if it is broken.
+
+422
+00:16:26,000 --> 00:16:28,000
+A technical overview
+
+423
+00:16:28,000 --> 00:16:30,000
+also has to be a real
+
+424
+00:16:30,000 --> 00:16:32,000
+status of the data.
+
+425
+00:16:32,000 --> 00:16:34,000
+Mateo just revealed
+
+426
+00:16:34,000 --> 00:16:36,000
+a bug in the system.
+
+427
+00:16:36,000 --> 00:16:38,000
+Now the decision makers
+
+428
+00:16:38,000 --> 00:16:40,000
+have to fix the system.
+
+429
+00:16:40,000 --> 00:16:42,000
+I don't know the details
+
+430
+00:16:42,000 --> 00:16:44,000
+of the registration process.
+
+431
+00:16:44,000 --> 00:16:46,000
+It is not a big deal
+
+432
+00:16:46,000 --> 00:16:48,000
+to have an autolog in your process.
+
+433
+00:16:48,000 --> 00:16:50,000
+No.
+
+434
+00:16:50,000 --> 00:16:52,000
+The autolog revealed
+
+435
+00:16:52,000 --> 00:16:54,000
+the system difficulties.
+
+436
+00:16:54,000 --> 00:16:56,000
+You improve the internal processes.
+
+437
+00:16:56,000 --> 00:16:58,000
+There are a lot of things
+
+438
+00:16:58,000 --> 00:17:00,000
+where we were in a hurry.
+
+439
+00:17:00,000 --> 00:17:02,000
+The minister and other agencies
+
+440
+00:17:02,000 --> 00:17:04,000
+told us to do it ourselves.
+
+441
+00:17:04,000 --> 00:17:06,000
+For example,
+
+442
+00:17:06,000 --> 00:17:08,000
+when we were in Furs,
+
+443
+00:17:08,000 --> 00:17:10,000
+we asked the minister
+
+444
+00:17:10,000 --> 00:17:12,000
+if we can get the data
+
+445
+00:17:12,000 --> 00:17:14,000
+on the state of the car
+
+446
+00:17:14,000 --> 00:17:16,000
+when we paid the taxes.
+
+447
+00:17:16,000 --> 00:17:18,000
+It is said that
+
+448
+00:17:18,000 --> 00:17:20,000
+some amount
+
+449
+00:17:20,000 --> 00:17:22,000
+is lost for some 100,000 km.
+
+450
+00:17:22,000 --> 00:17:24,000
+You drive for a long distance
+
+451
+00:17:24,000 --> 00:17:26,000
+until you pay VAT,
+
+452
+00:17:26,000 --> 00:17:28,000
+then you drive for a long distance.
+
+453
+00:17:28,000 --> 00:17:30,000
+The state has two data.
+
+454
+00:17:30,000 --> 00:17:32,000
+When you get the data
+
+455
+00:17:32,000 --> 00:17:34,000
+through a technical overview,
+
+456
+00:17:34,000 --> 00:17:36,000
+it is clear that someone is
+
+457
+00:17:36,000 --> 00:17:38,000
+fooling the state.
+
+458
+00:17:38,000 --> 00:17:40,000
+It is not a chance.
+
+459
+00:17:40,000 --> 00:17:42,000
+Half a year later,
+
+460
+00:17:42,000 --> 00:17:44,000
+they made an app
+
+461
+00:17:44,000 --> 00:17:46,000
+where they said it is
+
+462
+00:17:46,000 --> 00:17:48,000
+the key data for the consumer.
+
+463
+00:17:48,000 --> 00:17:50,000
+On the one hand,
+
+464
+00:17:50,000 --> 00:17:52,000
+we told you that we wanted
+
+465
+00:17:52,000 --> 00:17:54,000
+to do it in the autolog,
+
+466
+00:17:54,000 --> 00:17:56,000
+but on the other hand,
+
+467
+00:17:56,000 --> 00:17:58,000
+Furs was doing something
+
+468
+00:17:58,000 --> 00:18:00,000
+about it.
+
+469
+00:18:00,000 --> 00:18:02,000
+A lot of things can be
+
+470
+00:18:02,000 --> 00:18:04,000
+said about the damage
+
+471
+00:18:04,000 --> 00:18:06,000
+of a consumer buying a car.
+
+472
+00:18:06,000 --> 00:18:08,000
+On the other hand,
+
+473
+00:18:08,000 --> 00:18:10,000
+there is the safety aspect
+
+474
+00:18:10,000 --> 00:18:12,000
+on the road.
+
+475
+00:18:12,000 --> 00:18:14,000
+We don't talk about it,
+
+476
+00:18:14,000 --> 00:18:16,000
+so maybe the Minister of Health
+
+477
+00:18:16,000 --> 00:18:18,000
+or someone else could say
+
+478
+00:18:18,000 --> 00:18:20,000
+that if we have a car with half a million km,
+
+479
+00:18:20,000 --> 00:18:22,000
+the catalyst does not work.
+
+480
+00:18:22,000 --> 00:18:24,000
+We know that you don't fall
+
+481
+00:18:24,000 --> 00:18:26,000
+because of the catalyst.
+
+482
+00:18:26,000 --> 00:18:28,000
+There is also the safety aspect
+
+483
+00:18:28,000 --> 00:18:30,000
+of servicing a car
+
+484
+00:18:30,000 --> 00:18:32,000
+on the motorway,
+
+485
+00:18:32,000 --> 00:18:34,000
+trucks, and so on.
+
+486
+00:18:34,000 --> 00:18:36,000
+It is a big deal
+
+487
+00:18:36,000 --> 00:18:38,000
+that when an agency
+
+488
+00:18:38,000 --> 00:18:40,000
+does something,
+
+489
+00:18:40,000 --> 00:18:42,000
+it sometimes creates a million-dollar project.
+
+490
+00:18:42,000 --> 00:18:44,000
+We had the opportunity
+
+491
+00:18:44,000 --> 00:18:46,000
+when we started doing it.
+
+492
+00:18:52,000 --> 00:18:54,000
+We had the opportunity
+
+493
+00:18:54,000 --> 00:18:56,000
+when we started talking
+
+494
+00:18:56,000 --> 00:18:58,000
+and we said it would be great
+
+495
+00:18:58,000 --> 00:19:00,000
+to have a meta-app for data
+
+496
+00:19:00,000 --> 00:19:02,000
+on LPPs, other cars,
+
+497
+00:19:02,000 --> 00:19:04,000
+intercity traffic,
+
+498
+00:19:04,000 --> 00:19:06,000
+Avantigo,
+
+499
+00:19:06,000 --> 00:19:08,000
+all wheels, car-share,
+
+500
+00:19:08,000 --> 00:19:10,000
+bike-share, whatever it is.
+
+501
+00:19:10,000 --> 00:19:12,000
+It was also a European project.
+
+502
+00:19:12,000 --> 00:19:14,000
+We prepared a presentation
+
+503
+00:19:14,000 --> 00:19:16,000
+with Matejan Cerer from MOL.
+
+504
+00:19:16,000 --> 00:19:18,000
+He said it would be great
+
+505
+00:19:18,000 --> 00:19:20,000
+if the municipality could get the data
+
+506
+00:19:20,000 --> 00:19:22,000
+because a lot of these things
+
+507
+00:19:22,000 --> 00:19:24,000
+are managed by the municipality,
+
+508
+00:19:24,000 --> 00:19:26,000
+the coordinator, or the owner.
+
+509
+00:19:26,000 --> 00:19:28,000
+Before we go to traffic,
+
+510
+00:19:28,000 --> 00:19:30,000
+I would like to ask you
+
+511
+00:19:30,000 --> 00:19:32,000
+that you have been working
+
+512
+00:19:32,000 --> 00:19:34,000
+in Autolok for a couple of years.
+
+513
+00:19:34,000 --> 00:19:36,000
+You will tell me exactly how long.
+
+514
+00:19:36,000 --> 00:19:38,000
+Probably 5 or 6 years.
+
+515
+00:19:38,000 --> 00:19:40,000
+Every year you get a dump
+
+516
+00:19:40,000 --> 00:19:42,000
+for each year individually.
+
+517
+00:19:42,000 --> 00:19:44,000
+What did you prepare
+
+518
+00:19:44,000 --> 00:19:46,000
+in those 5 years?
+
+519
+00:19:46,000 --> 00:19:48,000
+What did you learn
+
+520
+00:19:48,000 --> 00:19:50,000
+in those 5 years?
+
+521
+00:19:50,000 --> 00:19:52,000
+About 95 million records.
+
+522
+00:19:52,000 --> 00:19:54,000
+We have technical reviews,
+
+523
+00:19:54,000 --> 00:19:56,000
+which are 4 years or older.
+
+524
+00:19:56,000 --> 00:19:58,000
+We have new registered vehicles,
+
+525
+00:19:58,000 --> 00:20:00,000
+we have some average data
+
+526
+00:20:00,000 --> 00:20:02,000
+for half a year.
+
+527
+00:20:02,000 --> 00:20:04,000
+I think the technical success
+
+528
+00:20:04,000 --> 00:20:06,000
+is still there for 9.5 years.
+
+529
+00:20:06,000 --> 00:20:08,000
+Some are for a year,
+
+530
+00:20:08,000 --> 00:20:10,000
+some for a month,
+
+531
+00:20:10,000 --> 00:20:12,000
+when we have new registered vehicles.
+
+532
+00:20:12,000 --> 00:20:14,000
+The interesting thing is
+
+533
+00:20:14,000 --> 00:20:16,000
+that errors appear
+
+534
+00:20:16,000 --> 00:20:18,000
+when people re-write kilometers
+
+535
+00:20:18,000 --> 00:20:20,000
+from odometer to computer.
+
+536
+00:20:20,000 --> 00:20:22,000
+However, these errors
+
+537
+00:20:22,000 --> 00:20:24,000
+are much higher
+
+538
+00:20:24,000 --> 00:20:26,000
+in some German records.
+
+539
+00:20:26,000 --> 00:20:28,000
+In a way,
+
+540
+00:20:28,000 --> 00:20:30,000
+we can raise
+
+541
+00:20:30,000 --> 00:20:32,000
+the transparency,
+
+542
+00:20:32,000 --> 00:20:34,000
+but on the other hand,
+
+543
+00:20:34,000 --> 00:20:36,000
+we often buy old German cars
+
+544
+00:20:36,000 --> 00:20:38,000
+and pretend that they have
+
+545
+00:20:38,000 --> 00:20:40,000
+a small odometer.
+
+546
+00:20:40,000 --> 00:20:42,000
+In practice,
+
+547
+00:20:42,000 --> 00:20:44,000
+if there is a demand,
+
+548
+00:20:44,000 --> 00:20:46,000
+there will also be an offer.
+
+549
+00:20:46,000 --> 00:20:48,000
+Another interesting thing
+
+550
+00:20:48,000 --> 00:20:50,000
+is that there are
+
+551
+00:20:50,000 --> 00:20:52,000
+an incredible number of people
+
+552
+00:20:52,000 --> 00:20:54,000
+in other aspects of the purchase,
+
+553
+00:20:54,000 --> 00:20:56,000
+sale, maintenance of vehicles
+
+554
+00:20:56,000 --> 00:20:58,000
+who use Autolok.
+
+555
+00:20:58,000 --> 00:21:00,000
+For example, police officers,
+
+556
+00:21:00,000 --> 00:21:02,000
+car mechanics, etc.
+
+557
+00:21:02,000 --> 00:21:04,000
+I have always found it fascinating,
+
+558
+00:21:04,000 --> 00:21:06,000
+because I would expect
+
+559
+00:21:06,000 --> 00:21:08,000
+that there are other choices.
+
+560
+00:21:08,000 --> 00:21:10,000
+For example,
+
+561
+00:21:10,000 --> 00:21:12,000
+I talked to the leaders
+
+562
+00:21:12,000 --> 00:21:14,000
+of the test sector.
+
+563
+00:21:14,000 --> 00:21:16,000
+They said that Autolok is great
+
+564
+00:21:16,000 --> 00:21:18,000
+because we can use it
+
+565
+00:21:18,000 --> 00:21:20,000
+to reduce the damage
+
+566
+00:21:20,000 --> 00:21:22,000
+on cars that have been
+
+567
+00:21:22,000 --> 00:21:24,000
+turned over a few times.
+
+568
+00:21:24,000 --> 00:21:26,000
+Then we get some harmful examples
+
+569
+00:21:26,000 --> 00:21:28,000
+of a very expensive vehicle
+
+570
+00:21:28,000 --> 00:21:30,000
+that had only 100,000 kilometers
+
+571
+00:21:30,000 --> 00:21:32,000
+and then it turns out
+
+572
+00:21:32,000 --> 00:21:34,000
+that five years ago
+
+573
+00:21:34,000 --> 00:21:36,000
+it had 400,000 kilometers.
+
+574
+00:21:36,000 --> 00:21:38,000
+This means that the estimated
+
+575
+00:21:38,000 --> 00:21:40,000
+value of the vehicle as a whole
+
+576
+00:21:40,000 --> 00:21:42,000
+may have paid off.
+
+577
+00:21:42,000 --> 00:21:44,000
+We are talking about a couple
+
+578
+00:21:44,000 --> 00:21:46,000
+of tens of thousands of euros.
+
+579
+00:21:46,000 --> 00:21:48,000
+People are very happy
+
+580
+00:21:48,000 --> 00:21:50,000
+and we are very happy.
+
+581
+00:21:50,000 --> 00:21:52,000
+If you were to use
+
+582
+00:21:52,000 --> 00:21:54,000
+this data,
+
+583
+00:21:54,000 --> 00:21:56,000
+would you also create
+
+584
+00:21:56,000 --> 00:21:58,000
+a data stream
+
+585
+00:21:58,000 --> 00:22:00,000
+or give it back?
+
+586
+00:22:00,000 --> 00:22:02,000
+What we are doing
+
+587
+00:22:02,000 --> 00:22:04,000
+is that Autolok has provided
+
+588
+00:22:04,000 --> 00:22:06,000
+us with a process
+
+589
+00:22:06,000 --> 00:22:08,000
+on how to correct this data
+
+590
+00:22:08,000 --> 00:22:10,000
+for the state.
+
+591
+00:22:10,000 --> 00:22:12,000
+If you make sure
+
+592
+00:22:12,000 --> 00:22:14,000
+that your data is correct,
+
+593
+00:22:14,000 --> 00:22:16,000
+and then also in Autolok,
+
+594
+00:22:16,000 --> 00:22:18,000
+where we don't get an update,
+
+595
+00:22:18,000 --> 00:22:20,000
+to correct it to the extent
+
+596
+00:22:20,000 --> 00:22:22,000
+that the data is consistent.
+
+597
+00:22:22,000 --> 00:22:24,000
+What we did was a bypass
+
+598
+00:22:24,000 --> 00:22:26,000
+of what most people
+
+599
+00:22:26,000 --> 00:22:28,000
+would like to have by default.
+
+600
+00:22:28,000 --> 00:22:30,000
+Maybe it wasn't a political choice
+
+601
+00:22:30,000 --> 00:22:32,000
+to do this in the last five or six years,
+
+602
+00:22:32,000 --> 00:22:34,000
+so that the data
+
+603
+00:22:34,000 --> 00:22:36,000
+is better,
+
+604
+00:22:36,000 --> 00:22:38,000
+more transparent,
+
+605
+00:22:38,000 --> 00:22:40,000
+more consistent.
+
+606
+00:22:40,000 --> 00:22:42,000
+We have opened
+
+607
+00:22:42,000 --> 00:22:44,000
+the whole NAPI.
+
+608
+00:22:44,000 --> 00:22:46,000
+You have to stand up now.
+
+609
+00:22:46,000 --> 00:22:48,000
+Sorry, sorry.
+
+610
+00:22:48,000 --> 00:22:50,000
+I will just ask you
+
+611
+00:22:50,000 --> 00:22:52,000
+if you have a microphone.
+
+612
+00:22:52,000 --> 00:22:54,000
+I will ask you.
+
+613
+00:22:54,000 --> 00:22:56,000
+What are
+
+614
+00:22:56,000 --> 00:22:58,000
+the good
+
+615
+00:22:58,000 --> 00:23:00,000
+holders of this data for you?
+
+616
+00:23:00,000 --> 00:23:02,000
+Are they
+
+617
+00:23:02,000 --> 00:23:04,000
+researchers?
+
+618
+00:23:04,000 --> 00:23:06,000
+Are they people
+
+619
+00:23:06,000 --> 00:23:08,000
+who integrate it into products?
+
+620
+00:23:08,000 --> 00:23:10,000
+Or do you know everything?
+
+621
+00:23:10,000 --> 00:23:12,000
+Do you get any feedback
+
+622
+00:23:12,000 --> 00:23:14,000
+from use cases?
+
+623
+00:23:14,000 --> 00:23:16,000
+Basically,
+
+624
+00:23:16,000 --> 00:23:18,000
+we only complain
+
+625
+00:23:18,000 --> 00:23:20,000
+because we don't have enough feedback.
+
+626
+00:23:20,000 --> 00:23:22,000
+For Mateo, we already know
+
+627
+00:23:22,000 --> 00:23:24,000
+the individuals who give us feedback.
+
+628
+00:23:24,000 --> 00:23:26,000
+We would like more of this.
+
+629
+00:23:26,000 --> 00:23:28,000
+Because on the basis of this feedback,
+
+630
+00:23:28,000 --> 00:23:30,000
+we also benefit from
+
+631
+00:23:30,000 --> 00:23:32,000
+what the European Commission
+
+632
+00:23:32,000 --> 00:23:34,000
+estimates every year,
+
+633
+00:23:34,000 --> 00:23:36,000
+how mature we are as a state
+
+634
+00:23:36,000 --> 00:23:38,000
+in terms of data,
+
+635
+00:23:38,000 --> 00:23:40,000
+and what we are proud of.
+
+636
+00:23:40,000 --> 00:23:42,000
+The last message from the OECD in December
+
+637
+00:23:42,000 --> 00:23:44,000
+was that we are
+
+638
+00:23:44,000 --> 00:23:46,000
+within the OECD state,
+
+639
+00:23:46,000 --> 00:23:48,000
+we are speaking for the whole world,
+
+640
+00:23:48,000 --> 00:23:50,000
+we are in the top 10,
+
+641
+00:23:50,000 --> 00:23:52,000
+in the 7th place.
+
+642
+00:23:52,000 --> 00:23:54,000
+I drank a lot of coffee because of that.
+
+643
+00:23:54,000 --> 00:23:56,000
+You are talking with a laptop,
+
+644
+00:23:56,000 --> 00:23:58,000
+give me another one.
+
+645
+00:23:58,000 --> 00:24:00,000
+The European Commission
+
+646
+00:24:00,000 --> 00:24:02,000
+is satisfied with the number of places.
+
+647
+00:24:02,000 --> 00:24:04,000
+According to the percentage points,
+
+648
+00:24:04,000 --> 00:24:06,000
+we are still at the same,
+
+649
+00:24:06,000 --> 00:24:08,000
+we are still in the 15th place.
+
+650
+00:24:08,000 --> 00:24:10,000
+But we should know that
+
+651
+00:24:10,000 --> 00:24:12,000
+when we look at the OECD,
+
+652
+00:24:12,000 --> 00:24:14,000
+four years ago,
+
+653
+00:24:14,000 --> 00:24:16,000
+among the top 10 states,
+
+654
+00:24:16,000 --> 00:24:18,000
+the OECD had 5 European states
+
+655
+00:24:18,000 --> 00:24:20,000
+and 5 non-European states.
+
+656
+00:24:20,000 --> 00:24:22,000
+In the last message,
+
+657
+00:24:22,000 --> 00:24:24,000
+there were 9 European states and 1 non-European,
+
+658
+00:24:24,000 --> 00:24:26,000
+South Korea.
+
+659
+00:24:28,000 --> 00:24:30,000
+I want to say that
+
+660
+00:24:30,000 --> 00:24:32,000
+the European Commission,
+
+661
+00:24:32,000 --> 00:24:34,000
+according to its estimates,
+
+662
+00:24:34,000 --> 00:24:36,000
+has improved the culture
+
+663
+00:24:36,000 --> 00:24:38,000
+and the view of open data
+
+664
+00:24:38,000 --> 00:24:40,000
+at the level of Europe.
+
+665
+00:24:40,000 --> 00:24:42,000
+Europe is a global unit.
+
+666
+00:24:42,000 --> 00:24:44,000
+We are happy
+
+667
+00:24:44,000 --> 00:24:46,000
+and I am happy
+
+668
+00:24:46,000 --> 00:24:48,000
+to meet my colleagues
+
+669
+00:24:48,000 --> 00:24:50,000
+from all over the world.
+
+670
+00:24:50,000 --> 00:24:52,000
+Europe,
+
+671
+00:24:52,000 --> 00:24:54,000
+when it comes to access to data,
+
+672
+00:24:54,000 --> 00:24:56,000
+is at the top,
+
+673
+00:24:56,000 --> 00:24:58,000
+among the best in the continent
+
+674
+00:24:58,000 --> 00:25:00,000
+and in the global system.
+
+675
+00:25:00,000 --> 00:25:08,000
+Africa is a sad story, other countries are buying their data,
+
+676
+00:25:08,000 --> 00:25:19,000
+Asia is also a sad story, USA, Canada and South America are trying to make some progress.
+
+677
+00:25:19,000 --> 00:25:24,000
+Europe is a real mess in the last 4-5 years,
+
+678
+00:25:24,000 --> 00:25:27,000
+and I have to say that the public will understand,
+
+679
+00:25:27,000 --> 00:25:31,000
+that the process of opening the data started 20 years ago.
+
+680
+00:25:31,000 --> 00:25:35,000
+There was also the information value,
+
+681
+00:25:35,000 --> 00:25:42,000
+the first law that enabled the access of information value,
+
+682
+00:25:42,000 --> 00:25:44,000
+which evolved over time,
+
+683
+00:25:44,000 --> 00:25:47,000
+I will talk about it in the European Directive on Open Data,
+
+684
+00:25:47,000 --> 00:25:51,000
+in Slovenia we have the law on the access of information value.
+
+685
+00:25:51,000 --> 00:25:54,000
+Here the public should pay attention to one thing,
+
+686
+00:25:54,000 --> 00:26:01,000
+we have the law on the access of information value,
+
+687
+00:26:01,000 --> 00:26:08,000
+if someone demanded from the institution to have data for the information value,
+
+688
+00:26:08,000 --> 00:26:10,000
+he had to get a PDF.
+
+689
+00:26:10,000 --> 00:26:14,000
+Then the state institution fulfilled this demand.
+
+690
+00:26:14,000 --> 00:26:17,000
+It is in digital form.
+
+691
+00:26:17,000 --> 00:26:22,000
+If you say you want to have data for re-use,
+
+692
+00:26:22,000 --> 00:26:24,000
+and here is the catch,
+
+693
+00:26:24,000 --> 00:26:26,000
+you have to have data for re-use,
+
+694
+00:26:26,000 --> 00:26:28,000
+you have to have data in digital form.
+
+695
+00:26:28,000 --> 00:26:31,000
+And this is where the machine intelligence comes in.
+
+696
+00:26:31,000 --> 00:26:34,000
+Excel is also based on it.
+
+697
+00:26:34,000 --> 00:26:37,000
+I don't scan the PDF anymore, but I type the PDF.
+
+698
+00:26:37,000 --> 00:26:39,000
+No, no, no.
+
+699
+00:26:39,000 --> 00:26:41,000
+There are clear criteria,
+
+700
+00:26:41,000 --> 00:26:46,000
+the digital format means that it is based on the table of contents.
+
+701
+00:26:46,000 --> 00:26:47,000
+Passable.
+
+702
+00:26:48,000 --> 00:26:52,000
+We have at least three stars in open formats,
+
+703
+00:26:52,000 --> 00:26:56,000
+CSV, XML, JSON.
+
+704
+00:26:56,000 --> 00:26:59,000
+PDF, Excel, Word, absolutely not.
+
+705
+00:26:59,000 --> 00:27:01,000
+Even if someone publishes,
+
+706
+00:27:01,000 --> 00:27:03,000
+we have a system order.
+
+707
+00:27:03,000 --> 00:27:06,000
+If an institution publishes some data,
+
+708
+00:27:06,000 --> 00:27:08,000
+and if it publishes Excel,
+
+709
+00:27:08,000 --> 00:27:11,000
+this collection will not be visible as open data.
+
+710
+00:27:11,000 --> 00:27:14,000
+It will be visible only as information value.
+
+711
+00:27:14,000 --> 00:27:17,000
+You can open them in Excel.
+
+712
+00:27:17,000 --> 00:27:23,000
+We know that you can open Excel in any other program.
+
+713
+00:27:23,000 --> 00:27:25,000
+However, if we are strict,
+
+714
+00:27:25,000 --> 00:27:29,000
+and this is why we said that we don't want a person to decide.
+
+715
+00:27:29,000 --> 00:27:31,000
+We have decided on the rules of the game,
+
+716
+00:27:31,000 --> 00:27:33,000
+we have decided on formats that are readily available,
+
+717
+00:27:33,000 --> 00:27:36,000
+and if the uploader does not meet these criteria,
+
+718
+00:27:36,000 --> 00:27:38,000
+it will simply not be open data,
+
+719
+00:27:38,000 --> 00:27:40,000
+and it can become a headache.
+
+720
+00:27:40,000 --> 00:27:42,000
+Here you have to hit something.
+
+721
+00:27:43,000 --> 00:27:47,000
+These data are published in some CSVs.
+
+722
+00:27:47,000 --> 00:27:51,000
+However, these data are somewhat manually dumped,
+
+723
+00:27:51,000 --> 00:27:54,000
+which means that every year we have a special challenge
+
+724
+00:27:54,000 --> 00:27:56,000
+on how to parse these CSVs.
+
+725
+00:27:56,000 --> 00:27:58,000
+For example, headers are manually corrected.
+
+726
+00:27:58,000 --> 00:28:00,000
+When WTF16 is set to WTF8,
+
+727
+00:28:00,000 --> 00:28:04,000
+someone in some column header
+
+728
+00:28:04,000 --> 00:28:06,000
+presses Enter, then Z,
+
+729
+00:28:06,000 --> 00:28:08,000
+and you have a new line, then Z,
+
+730
+00:28:08,000 --> 00:28:10,000
+the names of the columns are changed.
+
+731
+00:28:11,000 --> 00:28:14,000
+For example, we have a whole function
+
+732
+00:28:14,000 --> 00:28:16,000
+for the age of the carrier,
+
+733
+00:28:16,000 --> 00:28:18,000
+because someone calculates every year
+
+734
+00:28:18,000 --> 00:28:20,000
+what the age of the carrier is.
+
+735
+00:28:20,000 --> 00:28:22,000
+You don't get the year of birth,
+
+736
+00:28:22,000 --> 00:28:24,000
+which would be a fixed data,
+
+737
+00:28:24,000 --> 00:28:26,000
+and someone who runs this script every year
+
+738
+00:28:26,000 --> 00:28:29,000
+will of course forget to put plus one on the current year.
+
+739
+00:28:29,000 --> 00:28:31,000
+When you read the data,
+
+740
+00:28:31,000 --> 00:28:34,000
+and then you have data between 2.12 and 2.14,
+
+741
+00:28:34,000 --> 00:28:36,000
+which are all equal,
+
+742
+00:28:36,000 --> 00:28:38,000
+because someone forgot to put plus one on the years.
+
+743
+00:28:38,000 --> 00:28:40,000
+So we rely on individual examples
+
+744
+00:28:40,000 --> 00:28:42,000
+on how we can generalize these tasks.
+
+745
+00:28:42,000 --> 00:28:44,000
+For example, the last dump of data
+
+746
+00:28:44,000 --> 00:28:46,000
+that was published on Ops.java
+
+747
+00:28:46,000 --> 00:28:50,000
+doesn't have a single letter in it.
+
+748
+00:28:50,000 --> 00:28:52,000
+I mean, ID or whatever,
+
+749
+00:28:52,000 --> 00:28:54,000
+everything is a letter.
+
+750
+00:28:54,000 --> 00:28:56,000
+There are a lot of such problems
+
+751
+00:28:56,000 --> 00:28:58,000
+that were reported,
+
+752
+00:28:58,000 --> 00:29:00,000
+and the question is if they will ever be changed.
+
+753
+00:29:00,000 --> 00:29:02,000
+So you have to realize that
+
+754
+00:29:02,000 --> 00:29:04,000
+all data are manually variable.
+
+755
+00:29:04,000 --> 00:29:06,000
+Garbage in, garbage out.
+
+756
+00:29:07,000 --> 00:29:09,000
+Matej, if you remember,
+
+757
+00:29:09,000 --> 00:29:11,000
+one of the previous ministers,
+
+758
+00:29:11,000 --> 00:29:13,000
+Boris Goprivnik,
+
+759
+00:29:13,000 --> 00:29:15,000
+came out of his cell,
+
+760
+00:29:15,000 --> 00:29:17,000
+of course, all hyped up.
+
+761
+00:29:17,000 --> 00:29:19,000
+He introduced us to the students,
+
+762
+00:29:19,000 --> 00:29:21,000
+and the student said,
+
+763
+00:29:21,000 --> 00:29:23,000
+what is the problem with the data?
+
+764
+00:29:23,000 --> 00:29:25,000
+That Mercedes-Benz is recorded in the data
+
+765
+00:29:25,000 --> 00:29:27,000
+in seven different ways.
+
+766
+00:29:27,000 --> 00:29:29,000
+Because there is no code
+
+767
+00:29:29,000 --> 00:29:31,000
+that would say
+
+768
+00:29:31,000 --> 00:29:33,000
+Mercedes-Benz,
+
+769
+00:29:33,000 --> 00:29:35,000
+and everyone who is involved
+
+770
+00:29:35,000 --> 00:29:37,000
+in the system
+
+771
+00:29:37,000 --> 00:29:39,000
+wouldn't need,
+
+772
+00:29:39,000 --> 00:29:41,000
+I mean, no one would have to worry
+
+773
+00:29:41,000 --> 00:29:43,000
+about the code.
+
+774
+00:29:43,000 --> 00:29:45,000
+Now we have changed it.
+
+775
+00:29:45,000 --> 00:29:47,000
+To be fair,
+
+776
+00:29:47,000 --> 00:29:49,000
+if we go to a bigger or larger company
+
+777
+00:29:49,000 --> 00:29:51,000
+and look at systems
+
+778
+00:29:51,000 --> 00:29:53,000
+that have been in production
+
+779
+00:29:53,000 --> 00:29:55,000
+for 10, 15, God forbid, 20 years,
+
+780
+00:29:55,000 --> 00:29:57,000
+the question is what is in there.
+
+781
+00:29:57,000 --> 00:29:59,000
+But here you can look at it
+
+782
+00:29:59,000 --> 00:30:01,000
+as a problem.
+
+783
+00:30:01,000 --> 00:30:03,000
+Shit, we won't open the data
+
+784
+00:30:03,000 --> 00:30:05,000
+because people will know we have the data.
+
+785
+00:30:05,000 --> 00:30:07,000
+You can look at it as an opportunity.
+
+786
+00:30:07,000 --> 00:30:09,000
+We will open the data,
+
+787
+00:30:09,000 --> 00:30:11,000
+and people will steal the source.
+
+788
+00:30:11,000 --> 00:30:13,000
+I don't have my own personnel
+
+789
+00:30:13,000 --> 00:30:15,000
+who will go to a 30-year-old database
+
+790
+00:30:15,000 --> 00:30:17,000
+to check it,
+
+791
+00:30:17,000 --> 00:30:19,000
+but others will do it instead of us
+
+792
+00:30:19,000 --> 00:30:21,000
+and they will explain the inconsistencies
+
+793
+00:30:21,000 --> 00:30:23,000
+and we will be able to counteract
+
+794
+00:30:23,000 --> 00:30:25,000
+our process.
+
+795
+00:30:25,000 --> 00:30:27,000
+What are the biggest fears
+
+796
+00:30:27,000 --> 00:30:29,000
+on the other side?
+
+797
+00:30:29,000 --> 00:30:31,000
+Do you mean that you will leak
+
+798
+00:30:31,000 --> 00:30:33,000
+some personal data?
+
+799
+00:30:33,000 --> 00:30:35,000
+No, I mean personal data.
+
+800
+00:30:35,000 --> 00:30:37,000
+I think that in Slovenia
+
+801
+00:30:37,000 --> 00:30:39,000
+people are very careful
+
+802
+00:30:39,000 --> 00:30:41,000
+and they check twice
+
+803
+00:30:41,000 --> 00:30:43,000
+and there are processes.
+
+804
+00:30:43,000 --> 00:30:45,000
+It is very difficult
+
+805
+00:30:45,000 --> 00:30:47,000
+to leak personal data.
+
+806
+00:30:47,000 --> 00:30:49,000
+Of course,
+
+807
+00:30:49,000 --> 00:30:51,000
+hypothetically,
+
+808
+00:30:51,000 --> 00:30:53,000
+from one record
+
+809
+00:30:53,000 --> 00:30:55,000
+you could anonymize
+
+810
+00:30:55,000 --> 00:30:57,000
+a tractor
+
+811
+00:30:57,000 --> 00:30:59,000
+from a 50-year-old woman
+
+812
+00:30:59,000 --> 00:31:01,000
+from a smaller municipality.
+
+813
+00:31:01,000 --> 00:31:03,000
+We won't know
+
+814
+00:31:03,000 --> 00:31:05,000
+which person it is.
+
+815
+00:31:05,000 --> 00:31:07,000
+No one will know,
+
+816
+00:31:07,000 --> 00:31:09,000
+but this person already knows
+
+817
+00:31:09,000 --> 00:31:11,000
+what kind of tractor it is.
+
+818
+00:31:11,000 --> 00:31:13,000
+From personal data,
+
+819
+00:31:13,000 --> 00:31:15,000
+it is a topic
+
+820
+00:31:15,000 --> 00:31:17,000
+where you can anonymize
+
+821
+00:31:17,000 --> 00:31:19,000
+a person who is the only tractor
+
+822
+00:31:19,000 --> 00:31:21,000
+in the municipality,
+
+823
+00:31:21,000 --> 00:31:23,000
+but I always ask
+
+824
+00:31:23,000 --> 00:31:25,000
+if anyone in the world
+
+825
+00:31:25,000 --> 00:31:27,000
+knows what kind of tractor it is.
+
+826
+00:31:31,000 --> 00:31:33,000
+What are the conditions
+
+827
+00:31:33,000 --> 00:31:35,000
+for Mateuš
+
+828
+00:31:35,000 --> 00:31:37,000
+when he uses the data?
+
+829
+00:31:39,000 --> 00:31:41,000
+Does he have to
+
+830
+00:31:41,000 --> 00:31:43,000
+delete the data
+
+831
+00:31:43,000 --> 00:31:45,000
+in some conditions?
+
+832
+00:31:45,000 --> 00:31:47,000
+Can he work with them
+
+833
+00:31:47,000 --> 00:31:49,000
+as he wishes?
+
+834
+00:31:49,000 --> 00:31:51,000
+No, no,
+
+835
+00:31:51,000 --> 00:31:53,000
+all the data
+
+836
+00:31:53,000 --> 00:31:55,000
+in Euroterm
+
+837
+00:31:55,000 --> 00:31:57,000
+are translations
+
+838
+00:31:57,000 --> 00:31:59,000
+that are a part
+
+839
+00:31:59,000 --> 00:32:01,000
+of the author's work.
+
+840
+00:32:03,000 --> 00:32:05,000
+We use all CC BY licenses,
+
+841
+00:32:05,000 --> 00:32:07,000
+four and nothing.
+
+842
+00:32:07,000 --> 00:32:09,000
+CC BY is
+
+843
+00:32:09,000 --> 00:32:11,000
+Creative Commons.
+
+844
+00:32:13,000 --> 00:32:15,000
+For example,
+
+845
+00:32:15,000 --> 00:32:17,000
+Euroterm is a translation
+
+846
+00:32:17,000 --> 00:32:19,000
+that is a part of the author's work
+
+847
+00:32:19,000 --> 00:32:21,000
+and is not commercial.
+
+848
+00:32:21,000 --> 00:32:23,000
+It can also be used
+
+849
+00:32:23,000 --> 00:32:25,000
+for commercial purposes.
+
+850
+00:32:25,000 --> 00:32:27,000
+Even if Mateuš makes a business
+
+851
+00:32:27,000 --> 00:32:29,000
+and earns millions,
+
+852
+00:32:29,000 --> 00:32:31,000
+so be it,
+
+853
+00:32:31,000 --> 00:32:33,000
+he will pay for public service
+
+854
+00:32:33,000 --> 00:32:35,000
+and so on,
+
+855
+00:32:35,000 --> 00:32:37,000
+because he will pay
+
+856
+00:32:37,000 --> 00:32:39,000
+as much as he can
+
+857
+00:32:39,000 --> 00:32:41,000
+and he will get the money
+
+858
+00:32:41,000 --> 00:32:43,000
+in installments.
+
+859
+00:32:43,000 --> 00:32:45,000
+I want to say
+
+860
+00:32:45,000 --> 00:32:47,000
+that basically
+
+861
+00:32:47,000 --> 00:32:49,000
+all data levels
+
+862
+00:32:49,000 --> 00:32:51,000
+are exclusive to
+
+863
+00:32:51,000 --> 00:32:53,000
+100% of the data.
+
+864
+00:32:53,000 --> 00:32:55,000
+This happens to us as well.
+
+865
+00:32:55,000 --> 00:32:57,000
+We had this experience with
+
+866
+00:32:57,000 --> 00:32:59,000
+car data.
+
+867
+00:32:59,000 --> 00:33:01,000
+We get these annual and
+
+868
+00:33:01,000 --> 00:33:03,000
+half-annual installments.
+
+869
+00:33:03,000 --> 00:33:05,000
+There is a company that
+
+870
+00:33:05,000 --> 00:33:07,000
+charges you 10 euros
+
+871
+00:33:07,000 --> 00:33:09,000
+for the same data,
+
+872
+00:33:09,000 --> 00:33:11,000
+and the next day
+
+873
+00:33:11,000 --> 00:33:13,000
+you will have the data
+
+874
+00:33:13,000 --> 00:33:15,000
+in your technical review.
+
+875
+00:33:15,000 --> 00:33:17,000
+I spoke to the developer
+
+876
+00:33:17,000 --> 00:33:19,000
+and he asked me
+
+877
+00:33:19,000 --> 00:33:21,000
+if he could give him more data.
+
+878
+00:33:21,000 --> 00:33:23,000
+I told him that we didn't have time
+
+879
+00:33:23,000 --> 00:33:25,000
+to deal with this.
+
+880
+00:33:25,000 --> 00:33:27,000
+I wrote to the minister
+
+881
+00:33:27,000 --> 00:33:29,000
+and he agreed to the meeting.
+
+882
+00:33:29,000 --> 00:33:31,000
+I asked him if he would give me
+
+883
+00:33:31,000 --> 00:33:33,000
+the data. He said no.
+
+884
+00:33:33,000 --> 00:33:35,000
+I told him that I know developers
+
+885
+00:33:35,000 --> 00:33:37,000
+and he wrote me an email
+
+886
+00:33:37,000 --> 00:33:39,000
+to give me the data.
+
+887
+00:33:39,000 --> 00:33:41,000
+You pay for the data,
+
+888
+00:33:41,000 --> 00:33:43,000
+but there is only one
+
+889
+00:33:43,000 --> 00:33:45,000
+commercial company that
+
+890
+00:33:45,000 --> 00:33:47,000
+provides the data.
+
+891
+00:33:47,000 --> 00:33:49,000
+We are trying to get
+
+892
+00:33:49,000 --> 00:33:51,000
+all the data equally.
+
+893
+00:33:51,000 --> 00:33:53,000
+On the other hand,
+
+894
+00:33:53,000 --> 00:33:55,000
+when we develop these stories
+
+895
+00:33:55,000 --> 00:33:57,000
+for other projects,
+
+896
+00:33:57,000 --> 00:33:59,000
+we are creating a buffer
+
+897
+00:33:59,000 --> 00:34:01,000
+for agencies that don't have to
+
+898
+00:34:01,000 --> 00:34:03,000
+transfer the data to the state
+
+899
+00:34:03,000 --> 00:34:05,000
+for the infrastructure to
+
+900
+00:34:05,000 --> 00:34:07,000
+share it.
+
+901
+00:34:07,000 --> 00:34:09,000
+We will share the data,
+
+902
+00:34:09,000 --> 00:34:11,000
+we will provide it,
+
+903
+00:34:11,000 --> 00:34:13,000
+and our infrastructure will take care
+
+904
+00:34:13,000 --> 00:34:15,000
+of it.
+
+905
+00:34:17,000 --> 00:34:19,000
+If you find an example
+
+906
+00:34:19,000 --> 00:34:21,000
+where you think
+
+907
+00:34:21,000 --> 00:34:23,000
+that this is not what it should be,
+
+908
+00:34:23,000 --> 00:34:25,000
+you should contact
+
+909
+00:34:25,000 --> 00:34:27,000
+the information officer
+
+910
+00:34:27,000 --> 00:34:29,000
+or the Ministry of Justice
+
+911
+00:34:29,000 --> 00:34:31,000
+if you are responsible for the law.
+
+912
+00:34:31,000 --> 00:34:33,000
+You should warn them
+
+913
+00:34:33,000 --> 00:34:35,000
+to come to the opinion
+
+914
+00:34:35,000 --> 00:34:37,000
+of the users
+
+915
+00:34:37,000 --> 00:34:39,000
+of the law and
+
+916
+00:34:39,000 --> 00:34:41,000
+it will be done.
+
+917
+00:34:41,000 --> 00:34:43,000
+If no one knows
+
+918
+00:34:43,000 --> 00:34:45,000
+that this is a problem,
+
+919
+00:34:45,000 --> 00:34:47,000
+no one will solve it.
+
+920
+00:34:47,000 --> 00:34:49,000
+I am one of those people
+
+921
+00:34:49,000 --> 00:34:51,000
+who think that we are not children.
+
+922
+00:34:51,000 --> 00:34:53,000
+I know that the API exists.
+
+923
+00:34:53,000 --> 00:34:55,000
+The developer knows that the API exists.
+
+924
+00:34:55,000 --> 00:34:57,000
+The developer wants the data access
+
+925
+00:34:57,000 --> 00:34:59,000
+if you confirm it.
+
+926
+00:34:59,000 --> 00:35:01,000
+You pay for the API,
+
+927
+00:35:01,000 --> 00:35:03,000
+but we still pretend that it doesn't exist.
+
+928
+00:35:03,000 --> 00:35:05,000
+Sorry.
+
+929
+00:35:05,000 --> 00:35:07,000
+It is relatively easy to check.
+
+930
+00:35:07,000 --> 00:35:09,000
+Autopilot, technical inspection,
+
+931
+00:35:09,000 --> 00:35:11,000
+and the next day
+
+932
+00:35:11,000 --> 00:35:13,000
+you go to a website
+
+933
+00:35:13,000 --> 00:35:15,000
+where you write your data
+
+934
+00:35:15,000 --> 00:35:17,000
+about your car.
+
+935
+00:35:17,000 --> 00:35:19,000
+The API exists.
+
+936
+00:35:19,000 --> 00:35:21,000
+The economy exists.
+
+937
+00:35:21,000 --> 00:35:23,000
+There is some access.
+
+938
+00:35:23,000 --> 00:35:25,000
+On the other hand...
+
+939
+00:35:25,000 --> 00:35:27,000
+I will ask you a lot of questions.
+
+940
+00:35:27,000 --> 00:35:29,000
+We are now part
+
+941
+00:35:29,000 --> 00:35:31,000
+of the European Union.
+
+942
+00:35:31,000 --> 00:35:33,000
+This law is the directive of the EU.
+
+943
+00:35:33,000 --> 00:35:35,000
+Can Autolog do for the German market?
+
+944
+00:35:35,000 --> 00:35:37,000
+It is not that simple.
+
+945
+00:35:37,000 --> 00:35:39,000
+We have different interpretations
+
+946
+00:35:39,000 --> 00:35:41,000
+in different countries.
+
+947
+00:35:41,000 --> 00:35:43,000
+The Germans are very interested
+
+948
+00:35:43,000 --> 00:35:45,000
+in private data mining.
+
+949
+00:35:45,000 --> 00:35:47,000
+The German industry also
+
+950
+00:35:47,000 --> 00:35:49,000
+forces private data mining
+
+951
+00:35:49,000 --> 00:35:51,000
+because they have other business interests.
+
+952
+00:35:51,000 --> 00:35:53,000
+They could not do it
+
+953
+00:35:53,000 --> 00:35:55,000
+for their market
+
+954
+00:35:55,000 --> 00:35:57,000
+because they would have a lot of problems,
+
+955
+00:35:57,000 --> 00:35:59,000
+but for Italy it would be easier.
+
+956
+00:35:59,000 --> 00:36:01,000
+I think that here we have
+
+957
+00:36:01,000 --> 00:36:03,000
+an opportunity
+
+958
+00:36:03,000 --> 00:36:05,000
+if the Balkans
+
+959
+00:36:05,000 --> 00:36:07,000
+are transformed.
+
+960
+00:36:07,000 --> 00:36:09,000
+The car is three times new.
+
+961
+00:36:09,000 --> 00:36:11,000
+First in Germany, second in Slovenia,
+
+962
+00:36:11,000 --> 00:36:13,000
+and third in the Balkans.
+
+963
+00:36:13,000 --> 00:36:15,000
+In order to cover this part
+
+964
+00:36:15,000 --> 00:36:17,000
+unfortunately or luckily,
+
+965
+00:36:17,000 --> 00:36:19,000
+some data
+
+966
+00:36:19,000 --> 00:36:21,000
+cannot be obtained
+
+967
+00:36:21,000 --> 00:36:23,000
+because in Germany
+
+968
+00:36:23,000 --> 00:36:25,000
+cars undergo technical inspection
+
+969
+00:36:25,000 --> 00:36:27,000
+after three years.
+
+970
+00:36:27,000 --> 00:36:29,000
+You have that period.
+
+971
+00:36:29,000 --> 00:36:31,000
+Exactly.
+
+972
+00:36:31,000 --> 00:36:33,000
+A lot of cars sold in Slovenia
+
+973
+00:36:33,000 --> 00:36:35,000
+have 3,000 cars in their fleet,
+
+974
+00:36:35,000 --> 00:36:37,000
+have their own mechanics,
+
+975
+00:36:37,000 --> 00:36:39,000
+do not go to a BMW service.
+
+976
+00:36:39,000 --> 00:36:41,000
+German cars
+
+977
+00:36:41,000 --> 00:36:43,000
+come to Slovenia
+
+978
+00:36:43,000 --> 00:36:45,000
+as little needed,
+
+979
+00:36:45,000 --> 00:36:47,000
+but all of these cars
+
+980
+00:36:47,000 --> 00:36:49,000
+cover 300,000 kilometers.
+
+981
+00:36:49,000 --> 00:36:51,000
+In order to cover
+
+982
+00:36:51,000 --> 00:36:53,000
+any service,
+
+983
+00:36:53,000 --> 00:36:55,000
+they have to cover kilometers.
+
+984
+00:36:55,000 --> 00:36:57,000
+Audi A6
+
+985
+00:36:57,000 --> 00:36:59,000
+is the year 2016.
+
+986
+00:36:59,000 --> 00:37:01,000
+You ask yourself how you can
+
+987
+00:37:01,000 --> 00:37:03,000
+not have Audi A6.
+
+988
+00:37:03,000 --> 00:37:05,000
+These cars often
+
+989
+00:37:05,000 --> 00:37:07,000
+have very strange
+
+990
+00:37:07,000 --> 00:37:09,000
+combinations of equipment.
+
+991
+00:37:09,000 --> 00:37:11,000
+Handles,
+
+992
+00:37:11,000 --> 00:37:13,000
+tailpipes,
+
+993
+00:37:13,000 --> 00:37:15,000
+it does not fit into the context.
+
+994
+00:37:15,000 --> 00:37:17,000
+You will not know anything about these cars.
+
+995
+00:37:17,000 --> 00:37:19,000
+For cars that have
+
+996
+00:37:19,000 --> 00:37:21,000
+some damage data,
+
+997
+00:37:21,000 --> 00:37:23,000
+you will know
+
+998
+00:37:23,000 --> 00:37:25,000
+that there may have been some damage.
+
+999
+00:37:25,000 --> 00:37:27,000
+We also talk a lot about
+
+1000
+00:37:27,000 --> 00:37:29,000
+how nice it would be
+
+1001
+00:37:29,000 --> 00:37:31,000
+to have a car like this
+
+1002
+00:37:31,000 --> 00:37:33,000
+in Slovenia.
+
+1003
+00:37:33,000 --> 00:37:35,000
+It would be phenomenal
+
+1004
+00:37:35,000 --> 00:37:37,000
+to know that a car
+
+1005
+00:37:37,000 --> 00:37:39,000
+that had so much value
+
+1006
+00:37:39,000 --> 00:37:41,000
+did not have so much damage.
+
+1007
+00:37:41,000 --> 00:37:43,000
+If you have a 20-year-old car
+
+1008
+00:37:43,000 --> 00:37:45,000
+and it fell to the ground,
+
+1009
+00:37:45,000 --> 00:37:47,000
+it is probably an economic total.
+
+1010
+00:37:47,000 --> 00:37:49,000
+But you know
+
+1011
+00:37:49,000 --> 00:37:51,000
+that it cost
+
+1012
+00:37:51,000 --> 00:37:53,000
+around 1,000 euros.
+
+1013
+00:37:53,000 --> 00:37:55,000
+On the basis of this,
+
+1014
+00:37:55,000 --> 00:37:57,000
+you could decide
+
+1015
+00:37:57,000 --> 00:37:59,000
+what was the real damage.
+
+1016
+00:37:59,000 --> 00:38:01,000
+On the other hand,
+
+1017
+00:38:01,000 --> 00:38:03,000
+people who have a helmet paint their car,
+
+1018
+00:38:03,000 --> 00:38:05,000
+fix every crack.
+
+1019
+00:38:05,000 --> 00:38:07,000
+The damage is also 1,000 euros per year,
+
+1020
+00:38:07,000 --> 00:38:09,000
+but the damage is probably more
+
+1021
+00:38:09,000 --> 00:38:11,000
+because someone took care of the vehicle
+
+1022
+00:38:11,000 --> 00:38:13,000
+than because the vehicle was damaged.
+
+1023
+00:38:13,000 --> 00:38:15,000
+It would definitely be much more
+
+1024
+00:38:15,000 --> 00:38:17,000
+transparent for people
+
+1025
+00:38:17,000 --> 00:38:19,000
+in the market of vehicles.
+
+1026
+00:38:19,000 --> 00:38:21,000
+Let's try to push it to the extent
+
+1027
+00:38:21,000 --> 00:38:23,000
+that an average person
+
+1028
+00:38:23,000 --> 00:38:25,000
+who goes to buy a car
+
+1029
+00:38:25,000 --> 00:38:27,000
+can call three neighbors
+
+1030
+00:38:27,000 --> 00:38:29,000
+and five mechanics
+
+1031
+00:38:29,000 --> 00:38:31,000
+to buy a buggy car
+
+1032
+00:38:31,000 --> 00:38:33,000
+to go back to the market.
+
+1033
+00:38:33,000 --> 00:38:35,000
+Let's talk a little bit
+
+1034
+00:38:35,000 --> 00:38:37,000
+about business models
+
+1035
+00:38:37,000 --> 00:38:39,000
+over open data.
+
+1036
+00:38:39,000 --> 00:38:41,000
+You could decide
+
+1037
+00:38:41,000 --> 00:38:43,000
+at some point
+
+1038
+00:38:43,000 --> 00:38:45,000
+to go to AutoLock.
+
+1039
+00:38:45,000 --> 00:38:47,000
+If you type in the red arrow,
+
+1040
+00:38:47,000 --> 00:38:49,000
+you pay X and get the data.
+
+1041
+00:38:49,000 --> 00:38:51,000
+We are doing this with AMZS.
+
+1042
+00:38:51,000 --> 00:38:53,000
+AutoLock will discover AMZS.
+
+1043
+00:38:53,000 --> 00:38:55,000
+They work in a public interest.
+
+1044
+00:38:55,000 --> 00:38:57,000
+AutoLock is a service
+
+1045
+00:38:57,000 --> 00:38:59,000
+for their larger product.
+
+1046
+00:38:59,000 --> 00:39:01,000
+Also for their products.
+
+1047
+00:39:01,000 --> 00:39:03,000
+For a good car.
+
+1048
+00:39:03,000 --> 00:39:05,000
+On the other hand,
+
+1049
+00:39:05,000 --> 00:39:07,000
+with a good car,
+
+1050
+00:39:07,000 --> 00:39:09,000
+this is my personal opinion,
+
+1051
+00:39:09,000 --> 00:39:11,000
+maybe not their position,
+
+1052
+00:39:11,000 --> 00:39:13,000
+but what they tried to do
+
+1053
+00:39:13,000 --> 00:39:15,000
+with a good car.
+
+1054
+00:39:15,000 --> 00:39:17,000
+Let's sell a car,
+
+1055
+00:39:17,000 --> 00:39:19,000
+but we won't make cars
+
+1056
+00:39:19,000 --> 00:39:21,000
+as transparent as possible.
+
+1057
+00:39:21,000 --> 00:39:23,000
+This game of questions
+
+1058
+00:39:23,000 --> 00:39:25,000
+and offers
+
+1059
+00:39:25,000 --> 00:39:27,000
+is still running on some
+
+1060
+00:39:27,000 --> 00:39:29,000
+other portals,
+
+1061
+00:39:29,000 --> 00:39:31,000
+but it's important
+
+1062
+00:39:31,000 --> 00:39:33,000
+to keep it open.
+
+1063
+00:39:33,000 --> 00:39:35,000
+Not only that,
+
+1064
+00:39:35,000 --> 00:39:37,000
+but here you have
+
+1065
+00:39:37,000 --> 00:39:39,000
+the whole graph.
+
+1066
+00:39:39,000 --> 00:39:41,000
+Of course, this means
+
+1067
+00:39:41,000 --> 00:39:43,000
+a lot more overhead
+
+1068
+00:39:43,000 --> 00:39:45,000
+for a product.
+
+1069
+00:39:45,000 --> 00:39:47,000
+It's a lot easier
+
+1070
+00:39:47,000 --> 00:39:49,000
+to do it without it.
+
+1071
+00:39:49,000 --> 00:39:51,000
+I don't know how we would
+
+1072
+00:39:51,000 --> 00:39:53,000
+do it without it.
+
+1073
+00:39:53,000 --> 00:39:55,000
+It would look like
+
+1074
+00:39:55,000 --> 00:39:57,000
+there are a million kilometers
+
+1075
+00:39:57,000 --> 00:39:59,000
+instead of a hundred thousand.
+
+1076
+00:39:59,000 --> 00:40:01,000
+This is also happening.
+
+1077
+00:40:01,000 --> 00:40:03,000
+But let's be realistic.
+
+1078
+00:40:03,000 --> 00:40:05,000
+There are less than a percent
+
+1079
+00:40:05,000 --> 00:40:07,000
+of such relationships.
+
+1080
+00:40:07,000 --> 00:40:09,000
+We have more than 3%
+
+1081
+00:40:09,000 --> 00:40:11,000
+of negative kilometers
+
+1082
+00:40:11,000 --> 00:40:13,000
+on the summer level.
+
+1083
+00:40:13,000 --> 00:40:15,000
+All these 2%
+
+1084
+00:40:15,000 --> 00:40:17,000
+we celebrate with this.
+
+1085
+00:40:17,000 --> 00:40:19,000
+Let's jump a bit further.
+
+1086
+00:40:21,000 --> 00:40:23,000
+In the OPSI portal,
+
+1087
+00:40:23,000 --> 00:40:25,000
+which is a search engine,
+
+1088
+00:40:25,000 --> 00:40:27,000
+you can search for words
+
+1089
+00:40:27,000 --> 00:40:29,000
+and get the records.
+
+1090
+00:40:29,000 --> 00:40:31,000
+These are the
+
+1091
+00:40:31,000 --> 00:40:33,000
+names of the collections.
+
+1092
+00:40:33,000 --> 00:40:35,000
+Then there are different formats.
+
+1093
+00:40:35,000 --> 00:40:37,000
+Do you decide
+
+1094
+00:40:37,000 --> 00:40:39,000
+which formats
+
+1095
+00:40:39,000 --> 00:40:41,000
+they will be in?
+
+1096
+00:40:41,000 --> 00:40:43,000
+Do you also transform them?
+
+1097
+00:40:43,000 --> 00:40:45,000
+Or did someone
+
+1098
+00:40:45,000 --> 00:40:47,000
+give you the data?
+
+1099
+00:40:47,000 --> 00:40:49,000
+In certain cases,
+
+1100
+00:40:49,000 --> 00:40:51,000
+it is up to the legislator
+
+1101
+00:40:51,000 --> 00:40:53,000
+to decide the format.
+
+1102
+00:40:53,000 --> 00:40:55,000
+For example,
+
+1103
+00:40:55,000 --> 00:40:57,000
+the geospatial data
+
+1104
+00:40:57,000 --> 00:40:59,000
+is decided by the
+
+1105
+00:40:59,000 --> 00:41:01,000
+directorate.
+
+1106
+00:41:03,000 --> 00:41:05,000
+There is
+
+1107
+00:41:05,000 --> 00:41:07,000
+a self-decision
+
+1108
+00:41:07,000 --> 00:41:09,000
+organization.
+
+1109
+00:41:09,000 --> 00:41:11,000
+We try to separate them
+
+1110
+00:41:11,000 --> 00:41:13,000
+from Excel.
+
+1111
+00:41:13,000 --> 00:41:15,000
+We try to
+
+1112
+00:41:15,000 --> 00:41:17,000
+separate them from
+
+1113
+00:41:17,000 --> 00:41:19,000
+CSV,
+
+1114
+00:41:19,000 --> 00:41:21,000
+but it is not a big deal.
+
+1115
+00:41:21,000 --> 00:41:23,000
+We are also
+
+1116
+00:41:23,000 --> 00:41:25,000
+following the example of Montenegro.
+
+1117
+00:41:25,000 --> 00:41:27,000
+Older people know
+
+1118
+00:41:27,000 --> 00:41:29,000
+the views of Montenegro
+
+1119
+00:41:29,000 --> 00:41:31,000
+and their productivity.
+
+1120
+00:41:31,000 --> 00:41:33,000
+They showed us
+
+1121
+00:41:33,000 --> 00:41:35,000
+how they allowed
+
+1122
+00:41:35,000 --> 00:41:37,000
+anyone to publish
+
+1123
+00:41:37,000 --> 00:41:39,000
+Excel in their
+
+1124
+00:41:39,000 --> 00:41:41,000
+open data portal.
+
+1125
+00:41:41,000 --> 00:41:43,000
+Then we decided
+
+1126
+00:41:43,000 --> 00:41:45,000
+to add them.
+
+1127
+00:41:45,000 --> 00:41:47,000
+We have certain collections
+
+1128
+00:41:47,000 --> 00:41:49,000
+that are published in Excel.
+
+1129
+00:41:49,000 --> 00:41:51,000
+We have an app
+
+1130
+00:41:51,000 --> 00:41:53,000
+where you can
+
+1131
+00:41:53,000 --> 00:41:55,000
+add JSON,
+
+1132
+00:41:55,000 --> 00:41:57,000
+XML,
+
+1133
+00:41:57,000 --> 00:41:59,000
+formats that
+
+1134
+00:41:59,000 --> 00:42:01,000
+allow you to get the data.
+
+1135
+00:42:01,000 --> 00:42:03,000
+Even if someone publishes it in Excel,
+
+1136
+00:42:03,000 --> 00:42:05,000
+we have tools
+
+1137
+00:42:05,000 --> 00:42:07,000
+that allow you to add it
+
+1138
+00:42:07,000 --> 00:42:09,000
+in a different way.
+
+1139
+00:42:09,000 --> 00:42:11,000
+Mateo, in your example,
+
+1140
+00:42:11,000 --> 00:42:13,000
+I think that
+
+1141
+00:42:13,000 --> 00:42:15,000
+you are working on your app
+
+1142
+00:42:15,000 --> 00:42:17,000
+in CSV.
+
+1143
+00:42:17,000 --> 00:42:19,000
+You work on your database,
+
+1144
+00:42:19,000 --> 00:42:21,000
+and then on the database.
+
+1145
+00:42:21,000 --> 00:42:23,000
+In your collection,
+
+1146
+00:42:23,000 --> 00:42:25,000
+you also have apps that are not only read-only.
+
+1147
+00:42:25,000 --> 00:42:27,000
+You also have write-only,
+
+1148
+00:42:27,000 --> 00:42:29,000
+which is based on authentication.
+
+1149
+00:42:29,000 --> 00:42:31,000
+Not yet.
+
+1150
+00:42:31,000 --> 00:42:33,000
+We also have
+
+1151
+00:42:33,000 --> 00:42:35,000
+a common app module
+
+1152
+00:42:35,000 --> 00:42:37,000
+which would be a catalog
+
+1153
+00:42:37,000 --> 00:42:39,000
+of all app users
+
+1154
+00:42:39,000 --> 00:42:41,000
+and their documentation.
+
+1155
+00:42:41,000 --> 00:42:43,000
+You should know that
+
+1156
+00:42:43,000 --> 00:42:45,000
+the last version of the
+
+1157
+00:42:45,000 --> 00:42:47,000
+European Directive on Open Data
+
+1158
+00:42:47,000 --> 00:42:49,000
+includes a term
+
+1159
+00:42:49,000 --> 00:42:51,000
+called the High Value Dataset.
+
+1160
+00:42:51,000 --> 00:42:53,000
+It includes collections of high value.
+
+1161
+00:42:53,000 --> 00:42:55,000
+For these collections
+
+1162
+00:42:55,000 --> 00:42:57,000
+and for each of them,
+
+1163
+00:42:57,000 --> 00:42:59,000
+there must be
+
+1164
+00:42:59,000 --> 00:43:01,000
+data available to the app user.
+
+1165
+00:43:01,000 --> 00:43:03,000
+We will create an area
+
+1166
+00:43:03,000 --> 00:43:05,000
+for data
+
+1167
+00:43:05,000 --> 00:43:07,000
+on geospatial data,
+
+1168
+00:43:07,000 --> 00:43:09,000
+data on land and environment,
+
+1169
+00:43:09,000 --> 00:43:11,000
+environmental data,
+
+1170
+00:43:11,000 --> 00:43:13,000
+satellite images,
+
+1171
+00:43:13,000 --> 00:43:15,000
+meteorological data,
+
+1172
+00:43:15,000 --> 00:43:17,000
+statistical data,
+
+1173
+00:43:17,000 --> 00:43:19,000
+data on the register
+
+1174
+00:43:19,000 --> 00:43:21,000
+of business objects,
+
+1175
+00:43:21,000 --> 00:43:23,000
+and data on mobility.
+
+1176
+00:43:23,000 --> 00:43:25,000
+These are the six areas
+
+1177
+00:43:25,000 --> 00:43:27,000
+for which it is already
+
+1178
+00:43:27,000 --> 00:43:29,000
+prescribed that
+
+1179
+00:43:29,000 --> 00:43:31,000
+the app users
+
+1180
+00:43:31,000 --> 00:43:33,000
+must be created,
+
+1181
+00:43:33,000 --> 00:43:35,000
+which will enable
+
+1182
+00:43:35,000 --> 00:43:37,000
+the app user to get
+
+1183
+00:43:37,000 --> 00:43:39,000
+this data.
+
+1184
+00:43:39,000 --> 00:43:41,000
+That's great for us.
+
+1185
+00:43:41,000 --> 00:43:43,000
+The first step for all developers
+
+1186
+00:43:43,000 --> 00:43:45,000
+is to have easy access
+
+1187
+00:43:45,000 --> 00:43:47,000
+to the data,
+
+1188
+00:43:47,000 --> 00:43:49,000
+so they don't have to download
+
+1189
+00:43:49,000 --> 00:43:51,000
+and convert it themselves.
+
+1190
+00:43:51,000 --> 00:43:53,000
+The app must be created here.
+
+1191
+00:43:53,000 --> 00:43:55,000
+Does this mean that
+
+1192
+00:43:55,000 --> 00:43:57,000
+the Ministry of Digital Transformation
+
+1193
+00:43:57,000 --> 00:43:59,000
+will have a coordinator
+
+1194
+00:43:59,000 --> 00:44:01,000
+for this?
+
+1195
+00:44:01,000 --> 00:44:03,000
+Does this mean
+
+1196
+00:44:03,000 --> 00:44:05,000
+that you will develop the app
+
+1197
+00:44:05,000 --> 00:44:07,000
+or will you manage it?
+
+1198
+00:44:07,000 --> 00:44:09,000
+Most state bodies
+
+1199
+00:44:09,000 --> 00:44:11,000
+are centralized.
+
+1200
+00:44:11,000 --> 00:44:13,000
+They have all the infrastructure
+
+1201
+00:44:13,000 --> 00:44:15,000
+in our Ministry.
+
+1202
+00:44:15,000 --> 00:44:17,000
+They are part of the
+
+1203
+00:44:17,000 --> 00:44:19,000
+state government.
+
+1204
+00:44:19,000 --> 00:44:21,000
+They have the freedom
+
+1205
+00:44:21,000 --> 00:44:23,000
+to use the hardware
+
+1206
+00:44:23,000 --> 00:44:25,000
+and software.
+
+1207
+00:44:25,000 --> 00:44:27,000
+As far as I know,
+
+1208
+00:44:27,000 --> 00:44:29,000
+the Ministry of Digital Transformation
+
+1209
+00:44:29,000 --> 00:44:31,000
+has already created
+
+1210
+00:44:31,000 --> 00:44:33,000
+the app users
+
+1211
+00:44:33,000 --> 00:44:35,000
+according to the Inspire Directive.
+
+1212
+00:44:35,000 --> 00:44:37,000
+Most of the data
+
+1213
+00:44:37,000 --> 00:44:39,000
+was created
+
+1214
+00:44:39,000 --> 00:44:41,000
+according to the Inspire Directive.
+
+1215
+00:44:41,000 --> 00:44:43,000
+When Europe came to a compromise
+
+1216
+00:44:43,000 --> 00:44:45,000
+and decided not to impose
+
+1217
+00:44:45,000 --> 00:44:47,000
+additional costs
+
+1218
+00:44:47,000 --> 00:44:49,000
+on the Ministry of State
+
+1219
+00:44:49,000 --> 00:44:51,000
+to develop the app,
+
+1220
+00:44:51,000 --> 00:44:53,000
+they used some solutions
+
+1221
+00:44:53,000 --> 00:44:55,000
+and regulations
+
+1222
+00:44:55,000 --> 00:44:57,000
+that determined
+
+1223
+00:44:57,000 --> 00:44:59,000
+the amount of time
+
+1224
+00:44:59,000 --> 00:45:01,000
+required for the application
+
+1225
+00:45:01,000 --> 00:45:03,000
+and the amount of downtime
+
+1226
+00:45:03,000 --> 00:45:05,000
+for the maximum number of years.
+
+1227
+00:45:05,000 --> 00:45:07,000
+There are some rules
+
+1228
+00:45:07,000 --> 00:45:09,000
+and regulations
+
+1229
+00:45:09,000 --> 00:45:11,000
+that regulate
+
+1230
+00:45:11,000 --> 00:45:13,000
+the data.
+
+1231
+00:45:13,000 --> 00:45:15,000
+The administration
+
+1232
+00:45:15,000 --> 00:45:17,000
+must know
+
+1233
+00:45:17,000 --> 00:45:19,000
+which regulations regulate it.
+
+1234
+00:45:19,000 --> 00:45:21,000
+If you want to get something,
+
+1235
+00:45:21,000 --> 00:45:23,000
+you need to know what it is for.
+
+1236
+00:45:23,000 --> 00:45:25,000
+We have GDPR for personal data
+
+1237
+00:45:25,000 --> 00:45:27,000
+and how you can get personal data.
+
+1238
+00:45:27,000 --> 00:45:29,000
+Then we have the Directive on Open Data.
+
+1239
+00:45:29,000 --> 00:45:31,000
+We have the Inspire Directive.
+
+1240
+00:45:31,000 --> 00:45:33,000
+Then we have
+
+1241
+00:45:33,000 --> 00:45:35,000
+the European Free Flow
+
+1242
+00:45:35,000 --> 00:45:37,000
+of Personal Data,
+
+1243
+00:45:37,000 --> 00:45:39,000
+where the state can
+
+1244
+00:45:39,000 --> 00:45:41,000
+remove certain data
+
+1245
+00:45:41,000 --> 00:45:43,000
+from the state that has
+
+1246
+00:45:43,000 --> 00:45:45,000
+a strategic interest.
+
+1247
+00:45:45,000 --> 00:45:47,000
+Then we have two more regulations
+
+1248
+00:45:47,000 --> 00:45:49,000
+that were adopted
+
+1249
+00:45:49,000 --> 00:45:51,000
+last year
+
+1250
+00:45:51,000 --> 00:45:53,000
+that will bring a revolution.
+
+1251
+00:45:53,000 --> 00:45:55,000
+One is the Governance Act
+
+1252
+00:45:55,000 --> 00:45:57,000
+that regulates terms
+
+1253
+00:45:57,000 --> 00:45:59,000
+such as data intermediaries.
+
+1254
+00:45:59,000 --> 00:46:01,000
+These are the amount of mail
+
+1255
+00:46:01,000 --> 00:46:03,000
+for the transfer of mail and packages.
+
+1256
+00:46:03,000 --> 00:46:05,000
+These will be designed
+
+1257
+00:46:05,000 --> 00:46:07,000
+to allow intermediaries
+
+1258
+00:46:07,000 --> 00:46:09,000
+to exchange data between two subjects.
+
+1259
+00:46:09,000 --> 00:46:11,000
+Like brokers?
+
+1260
+00:46:11,000 --> 00:46:13,000
+Yes, they must prepare
+
+1261
+00:46:13,000 --> 00:46:15,000
+technical and legal support.
+
+1262
+00:46:15,000 --> 00:46:17,000
+They prepare an agreement
+
+1263
+00:46:17,000 --> 00:46:19,000
+to exchange personal and business data
+
+1264
+00:46:19,000 --> 00:46:21,000
+between two entities.
+
+1265
+00:46:21,000 --> 00:46:23,000
+In this way,
+
+1266
+00:46:23,000 --> 00:46:25,000
+it is possible to legally
+
+1267
+00:46:25,000 --> 00:46:27,000
+and safely exchange data.
+
+1268
+00:46:27,000 --> 00:46:29,000
+This data will then be
+
+1269
+00:46:29,000 --> 00:46:31,000
+notified.
+
+1270
+00:46:31,000 --> 00:46:33,000
+You just need to register
+
+1271
+00:46:33,000 --> 00:46:35,000
+your activity
+
+1272
+00:46:35,000 --> 00:46:37,000
+and it can then start
+
+1273
+00:46:37,000 --> 00:46:39,000
+all over Europe.
+
+1274
+00:46:39,000 --> 00:46:41,000
+At the moment,
+
+1275
+00:46:41,000 --> 00:46:43,000
+there is only one Finnish company
+
+1276
+00:46:43,000 --> 00:46:45,000
+that deals with this.
+
+1277
+00:46:45,000 --> 00:46:47,000
+My call to companies
+
+1278
+00:46:47,000 --> 00:46:49,000
+is that this is a business opportunity.
+
+1279
+00:46:49,000 --> 00:46:51,000
+This will then be implemented
+
+1280
+00:46:51,000 --> 00:46:53,000
+in the data space
+
+1281
+00:46:53,000 --> 00:46:55,000
+where it will be necessary
+
+1282
+00:46:55,000 --> 00:46:57,000
+to legally and safely exchange data.
+
+1283
+00:46:57,000 --> 00:46:59,000
+Those who will be the first
+
+1284
+00:46:59,000 --> 00:47:01,000
+will be the first.
+
+1285
+00:47:01,000 --> 00:47:03,000
+Then there is one
+
+1286
+00:47:03,000 --> 00:47:05,000
+that is similarly revolutionary
+
+1287
+00:47:05,000 --> 00:47:07,000
+due to the EU's involvement
+
+1288
+00:47:07,000 --> 00:47:09,000
+on the global stage.
+
+1289
+00:47:09,000 --> 00:47:11,000
+It is the Data Act
+
+1290
+00:47:11,000 --> 00:47:13,000
+that encourages
+
+1291
+00:47:13,000 --> 00:47:15,000
+everyone who has
+
+1292
+00:47:15,000 --> 00:47:17,000
+a computer or a device
+
+1293
+00:47:17,000 --> 00:47:19,000
+to share their data
+
+1294
+00:47:19,000 --> 00:47:21,000
+whether it is a smart watch
+
+1295
+00:47:21,000 --> 00:47:23,000
+or a smart car.
+
+1296
+00:47:23,000 --> 00:47:25,000
+My data, which I have created
+
+1297
+00:47:25,000 --> 00:47:27,000
+with this product,
+
+1298
+00:47:27,000 --> 00:47:29,000
+I want to share
+
+1299
+00:47:29,000 --> 00:47:31,000
+with Mateo and you.
+
+1300
+00:47:31,000 --> 00:47:33,000
+He will have to
+
+1301
+00:47:33,000 --> 00:47:35,000
+provide us
+
+1302
+00:47:35,000 --> 00:47:37,000
+access to this data
+
+1303
+00:47:37,000 --> 00:47:39,000
+for free.
+
+1304
+00:47:39,000 --> 00:47:41,000
+All companies outside
+
+1305
+00:47:41,000 --> 00:47:43,000
+of Europe
+
+1306
+00:47:43,000 --> 00:47:45,000
+that will not respect
+
+1307
+00:47:45,000 --> 00:47:47,000
+this data
+
+1308
+00:47:47,000 --> 00:47:49,000
+will not be able
+
+1309
+00:47:49,000 --> 00:47:51,000
+to access it.
+
+1310
+00:47:51,000 --> 00:47:53,000
+As with GDPR,
+
+1311
+00:47:53,000 --> 00:47:55,000
+if you want to use
+
+1312
+00:47:55,000 --> 00:47:57,000
+an American watch,
+
+1313
+00:47:57,000 --> 00:47:59,000
+you are from Europe,
+
+1314
+00:47:59,000 --> 00:48:01,000
+we are not interested in GDPR,
+
+1315
+00:48:01,000 --> 00:48:03,000
+you will not be able
+
+1316
+00:48:03,000 --> 00:48:05,000
+to access it.
+
+1317
+00:48:05,000 --> 00:48:07,000
+This Data Act will
+
+1318
+00:48:07,000 --> 00:48:09,000
+bring a revolution.
+
+1319
+00:48:09,000 --> 00:48:11,000
+It also talks about
+
+1320
+00:48:11,000 --> 00:48:13,000
+a simpler transition
+
+1321
+00:48:13,000 --> 00:48:15,000
+so that it will be built
+
+1322
+00:48:15,000 --> 00:48:17,000
+into the price of the device.
+
+1323
+00:48:19,000 --> 00:48:21,000
+Theoretically,
+
+1324
+00:48:21,000 --> 00:48:23,000
+is it possible to present
+
+1325
+00:48:23,000 --> 00:48:25,000
+a picture on the Apple Cloud
+
+1326
+00:48:25,000 --> 00:48:27,000
+and then choose Google Photos?
+
+1327
+00:48:27,000 --> 00:48:29,000
+Both on Azure.
+
+1328
+00:48:29,000 --> 00:48:31,000
+Both on Azure.
+
+1329
+00:48:31,000 --> 00:48:33,000
+No, because if
+
+1330
+00:48:33,000 --> 00:48:35,000
+someone does not have
+
+1331
+00:48:35,000 --> 00:48:37,000
+enough space
+
+1332
+00:48:37,000 --> 00:48:39,000
+and then they want
+
+1333
+00:48:39,000 --> 00:48:41,000
+to take some other data,
+
+1334
+00:48:41,000 --> 00:48:43,000
+it would have to be seamless.
+
+1335
+00:48:43,000 --> 00:48:45,000
+They will build it
+
+1336
+00:48:45,000 --> 00:48:47,000
+into the price of the device
+
+1337
+00:48:47,000 --> 00:48:49,000
+and will say,
+
+1338
+00:48:49,000 --> 00:48:51,000
+you will not pay this much,
+
+1339
+00:48:51,000 --> 00:48:53,000
+but you will pay more.
+
+1340
+00:48:53,000 --> 00:48:55,000
+I expect it to be like that.
+
+1341
+00:48:55,000 --> 00:48:57,000
+You have to be careful
+
+1342
+00:48:57,000 --> 00:48:59,000
+with regard to state bodies.
+
+1343
+00:48:59,000 --> 00:49:01,000
+We will do it legally,
+
+1344
+00:49:01,000 --> 00:49:03,000
+we have legal framework and so on.
+
+1345
+00:49:03,000 --> 00:49:05,000
+We have DRO,
+
+1346
+00:49:05,000 --> 00:49:07,000
+the state cloud.
+
+1347
+00:49:07,000 --> 00:49:09,000
+A lot of agencies
+
+1348
+00:49:09,000 --> 00:49:11,000
+that would potentially
+
+1349
+00:49:11,000 --> 00:49:13,000
+publish data,
+
+1350
+00:49:13,000 --> 00:49:15,000
+or are bound to publish data
+
+1351
+00:49:15,000 --> 00:49:17,000
+in general, do not have it.
+
+1352
+00:49:17,000 --> 00:49:19,000
+Because they do not have
+
+1353
+00:49:19,000 --> 00:49:21,000
+a frame or tech support,
+
+1354
+00:49:21,000 --> 00:49:23,000
+or they do not have
+
+1355
+00:49:23,000 --> 00:49:25,000
+the API running somewhere,
+
+1356
+00:49:25,000 --> 00:49:27,000
+so they have to program it.
+
+1357
+00:49:27,000 --> 00:49:29,000
+Here I see the open data community.
+
+1358
+00:49:29,000 --> 00:49:31,000
+What we have been doing
+
+1359
+00:49:31,000 --> 00:49:33,000
+and are still doing,
+
+1360
+00:49:33,000 --> 00:49:35,000
+in a way,
+
+1361
+00:49:35,000 --> 00:49:37,000
+how to hack it,
+
+1362
+00:49:37,000 --> 00:49:39,000
+we will prepare
+
+1363
+00:49:39,000 --> 00:49:41,000
+an initial access point,
+
+1364
+00:49:41,000 --> 00:49:43,000
+we will prepare it,
+
+1365
+00:49:43,000 --> 00:49:45,000
+we will send the data,
+
+1366
+00:49:45,000 --> 00:49:47,000
+and finally publish it in the community.
+
+1367
+00:49:47,000 --> 00:49:49,000
+It is not necessary
+
+1368
+00:49:49,000 --> 00:49:51,000
+to have a small community
+
+1369
+00:49:51,000 --> 00:49:53,000
+or an agency
+
+1370
+00:49:53,000 --> 00:49:55,000
+with 5 employees,
+
+1371
+00:49:55,000 --> 00:49:57,000
+they will be able to prepare it.
+
+1372
+00:49:57,000 --> 00:49:59,000
+It will not happen,
+
+1373
+00:49:59,000 --> 00:50:01,000
+because they physically do not have it.
+
+1374
+00:50:00,000 --> 00:50:05,680
+things under ZDiAZ, or whatever you send, and then give it back to the sector, and it won't happen.
+
+1375
+00:50:05,680 --> 00:50:11,360
+And here we have an opportunity to do that, because we can do something more with it.
+
+1376
+00:50:11,360 --> 00:50:17,360
+I mean, probably in your position, it's a lot more pleasant than you can say,
+
+1377
+00:50:17,360 --> 00:50:22,080
+where is the scope where the OPSI portal ends, and you say,
+
+1378
+00:50:22,080 --> 00:50:26,080
+ok, that's good, but it's not out of our reach.
+
+1379
+00:50:26,959 --> 00:50:30,959
+I can give you an example from Ogrod, I can tell you about networking.
+
+1380
+00:50:30,959 --> 00:50:35,919
+Networking is now a top topic, and it is changing,
+
+1381
+00:50:35,919 --> 00:50:39,919
+although not so dramatically, but it is changing.
+
+1382
+00:50:39,919 --> 00:50:41,919
+And it is changing with inflation, right?
+
+1383
+00:50:41,919 --> 00:50:46,880
+It is changing, there is now a portal,
+
+1384
+00:50:46,880 --> 00:50:48,880
+myelectro.si, I think that's the title,
+
+1385
+00:50:48,880 --> 00:50:50,880
+which is used by other distributors,
+
+1386
+00:50:50,880 --> 00:50:54,880
+there you sign up with a certificate and get data from those emitters.
+
+1387
+00:50:55,680 --> 00:50:59,680
+There is now a lot of interest in the hacker space,
+
+1388
+00:50:59,680 --> 00:51:01,680
+the hacker community, if you will,
+
+1389
+00:51:01,680 --> 00:51:03,680
+and also in our Ogrod community, we now have programmers
+
+1390
+00:51:03,680 --> 00:51:09,680
+who deal with visualizing, and they want to calculate these things themselves.
+
+1391
+00:51:09,680 --> 00:51:13,680
+And now, for example, 4-5 different prototypes,
+
+1392
+00:51:13,680 --> 00:51:15,680
+or full-fledged products,
+
+1393
+00:51:15,680 --> 00:51:17,680
+which now deal with how graphs look,
+
+1394
+00:51:17,680 --> 00:51:19,680
+or also model the use.
+
+1395
+00:51:19,680 --> 00:51:21,680
+And now, for example,
+
+1396
+00:51:21,680 --> 00:51:23,680
+they ask themselves, ok, I make this product,
+
+1397
+00:51:24,480 --> 00:51:26,480
+it is probably fully usable,
+
+1398
+00:51:26,480 --> 00:51:30,480
+how can I get it open-sourced,
+
+1399
+00:51:30,480 --> 00:51:32,480
+with an option,
+
+1400
+00:51:32,480 --> 00:51:34,480
+with some approach,
+
+1401
+00:51:34,480 --> 00:51:36,480
+so that the tool that solves the problem
+
+1402
+00:51:36,480 --> 00:51:38,480
+gets some kind of backing, in a broad sense.
+
+1403
+00:51:38,480 --> 00:51:40,480
+That's what I mentioned about data management.
+
+1404
+00:51:40,480 --> 00:51:42,480
+In this example,
+
+1405
+00:51:42,480 --> 00:51:44,480
+if you could visualize your data from your emitter
+
+1406
+00:51:44,480 --> 00:51:46,480
+to someone else,
+
+1407
+00:51:46,480 --> 00:51:48,480
+especially where you can pay attention to,
+
+1408
+00:51:48,480 --> 00:51:50,480
+where you go over those walls,
+
+1409
+00:51:51,279 --> 00:51:53,279
+you could create a network log,
+
+1410
+00:51:53,279 --> 00:51:55,279
+or a stream log,
+
+1411
+00:51:55,279 --> 00:51:57,279
+or something like that,
+
+1412
+00:51:57,279 --> 00:51:59,279
+and give them your data,
+
+1413
+00:51:59,279 --> 00:52:01,279
+for example.
+
+1414
+00:52:01,279 --> 00:52:03,279
+We now have an optional dilemma,
+
+1415
+00:52:03,279 --> 00:52:05,279
+we went to a point,
+
+1416
+00:52:05,279 --> 00:52:07,279
+in December 2016,
+
+1417
+00:52:07,279 --> 00:52:09,279
+the portal was set up in this form,
+
+1418
+00:52:09,279 --> 00:52:11,279
+before that,
+
+1419
+00:52:11,279 --> 00:52:13,279
+the open data was determined
+
+1420
+00:52:13,279 --> 00:52:15,279
+on the NIO portal,
+
+1421
+00:52:15,279 --> 00:52:17,279
+so we will say
+
+1422
+00:52:17,279 --> 00:52:19,279
+that this is an optional option.
+
+1423
+00:52:20,080 --> 00:52:22,080
+At the end of the phase,
+
+1424
+00:52:22,080 --> 00:52:24,080
+if we talk about a digital society,
+
+1425
+00:52:24,080 --> 00:52:26,080
+and I am the director of a digital society,
+
+1426
+00:52:26,080 --> 00:52:28,080
+data is also a part
+
+1427
+00:52:28,080 --> 00:52:30,080
+of the digital community,
+
+1428
+00:52:30,080 --> 00:52:32,080
+and it would seem
+
+1429
+00:52:32,080 --> 00:52:34,080
+that the data
+
+1430
+00:52:34,080 --> 00:52:36,080
+should also open up
+
+1431
+00:52:36,080 --> 00:52:38,080
+its data,
+
+1432
+00:52:38,080 --> 00:52:40,080
+of course,
+
+1433
+00:52:40,080 --> 00:52:42,080
+due to the existence
+
+1434
+00:52:42,080 --> 00:52:44,080
+of personal data.
+
+1435
+00:52:44,080 --> 00:52:46,080
+I know an example,
+
+1436
+00:52:46,080 --> 00:52:48,080
+when I was still studying for a Data Steward,
+
+1437
+00:52:48,880 --> 00:52:50,880
+and there was a representative
+
+1438
+00:52:50,880 --> 00:52:52,880
+of MasterCard,
+
+1439
+00:52:52,880 --> 00:52:54,880
+who said that
+
+1440
+00:52:54,880 --> 00:52:56,880
+they share certain data
+
+1441
+00:52:56,880 --> 00:52:58,880
+for the community.
+
+1442
+00:52:58,880 --> 00:53:00,880
+This is a concept
+
+1443
+00:53:00,880 --> 00:53:02,880
+that is still coming to Europe,
+
+1444
+00:53:02,880 --> 00:53:04,880
+and America has replaced
+
+1445
+00:53:04,880 --> 00:53:06,880
+the sharing of data
+
+1446
+00:53:06,880 --> 00:53:08,880
+with a much more advanced one.
+
+1447
+00:53:08,880 --> 00:53:10,880
+I mean, for the money.
+
+1448
+00:53:10,880 --> 00:53:12,880
+For the money,
+
+1449
+00:53:12,880 --> 00:53:14,880
+for the money.
+
+1450
+00:53:15,679 --> 00:53:17,679
+In my opinion,
+
+1451
+00:53:17,679 --> 00:53:19,679
+it seems to me
+
+1452
+00:53:19,679 --> 00:53:21,679
+that in America
+
+1453
+00:53:21,679 --> 00:53:23,679
+there is only one step forward.
+
+1454
+00:53:23,679 --> 00:53:25,679
+Europe, of course,
+
+1455
+00:53:25,679 --> 00:53:27,679
+is successful,
+
+1456
+00:53:27,679 --> 00:53:29,679
+and it seems to me
+
+1457
+00:53:29,679 --> 00:53:31,679
+that we can also
+
+1458
+00:53:31,679 --> 00:53:33,679
+publish data,
+
+1459
+00:53:33,679 --> 00:53:35,679
+describe their collection
+
+1460
+00:53:35,679 --> 00:53:37,679
+based on open data
+
+1461
+00:53:37,679 --> 00:53:39,679
+on the OPCI portal.
+
+1462
+00:53:39,679 --> 00:53:41,679
+This is the dilemma
+
+1463
+00:53:41,679 --> 00:53:43,679
+that we now have
+
+1464
+00:53:44,479 --> 00:53:46,479
+where data is published,
+
+1465
+00:53:46,479 --> 00:53:48,479
+and we have this data
+
+1466
+00:53:48,479 --> 00:53:50,479
+and we want to share it.
+
+1467
+00:53:50,479 --> 00:53:52,479
+I mean, this is a database,
+
+1468
+00:53:52,479 --> 00:53:54,479
+right?
+
+1469
+00:53:54,479 --> 00:53:56,479
+No, this is a business registry,
+
+1470
+00:53:56,479 --> 00:53:58,479
+but if you have a registry,
+
+1471
+00:53:58,479 --> 00:54:00,479
+only data.
+
+1472
+00:54:00,479 --> 00:54:02,479
+You have to understand
+
+1473
+00:54:02,479 --> 00:54:04,479
+that this fear of sharing data
+
+1474
+00:54:04,479 --> 00:54:06,479
+initially stems from the fear
+
+1475
+00:54:06,479 --> 00:54:08,479
+of not understanding what you have.
+
+1476
+00:54:08,479 --> 00:54:10,479
+Also at the state level.
+
+1477
+00:54:10,479 --> 00:54:12,479
+We will not share it,
+
+1478
+00:54:13,279 --> 00:54:15,279
+but it is a kind of power.
+
+1479
+00:54:15,279 --> 00:54:17,279
+If you have information
+
+1480
+00:54:17,279 --> 00:54:19,279
+that someone else has,
+
+1481
+00:54:19,279 --> 00:54:21,279
+it is also an easy position.
+
+1482
+00:54:21,279 --> 00:54:23,279
+It is the same for companies.
+
+1483
+00:54:23,279 --> 00:54:25,279
+Companies say,
+
+1484
+00:54:25,279 --> 00:54:27,279
+we will open some data,
+
+1485
+00:54:27,279 --> 00:54:29,279
+probably at the level
+
+1486
+00:54:29,279 --> 00:54:31,279
+where you say,
+
+1487
+00:54:31,279 --> 00:54:33,279
+go open the data,
+
+1488
+00:54:33,279 --> 00:54:35,279
+everyone would say,
+
+1489
+00:54:35,279 --> 00:54:37,279
+come on, whatever.
+
+1490
+00:54:37,279 --> 00:54:39,279
+If you have individual use cases,
+
+1491
+00:54:39,279 --> 00:54:41,279
+how would it look usable?
+
+1492
+00:54:42,079 --> 00:54:44,079
+Maybe we are interested
+
+1493
+00:54:44,079 --> 00:54:46,079
+in their sensors under the glass,
+
+1494
+00:54:46,079 --> 00:54:48,079
+which are really very interesting
+
+1495
+00:54:48,079 --> 00:54:50,079
+for the community,
+
+1496
+00:54:50,079 --> 00:54:52,079
+how many steps are there for the glass.
+
+1497
+00:54:52,079 --> 00:54:54,079
+Outside of this framework,
+
+1498
+00:54:54,079 --> 00:54:56,079
+this is just my primary activity.
+
+1499
+00:54:56,079 --> 00:54:58,079
+I probably have a bunch of other sensors
+
+1500
+00:54:58,079 --> 00:55:00,079
+that would be very useful.
+
+1501
+00:55:00,079 --> 00:55:02,079
+For example,
+
+1502
+00:55:02,079 --> 00:55:04,079
+if we live in Ljubljana
+
+1503
+00:55:04,079 --> 00:55:06,079
+and we know that
+
+1504
+00:55:06,079 --> 00:55:08,079
+the water level is over 1.9 TDI,
+
+1505
+00:55:08,079 --> 00:55:10,079
+which means that everyone has to go to church
+
+1506
+00:55:10,880 --> 00:55:12,880
+in the winter, the air is polluted.
+
+1507
+00:55:12,880 --> 00:55:14,880
+Now you have a couple of peaceful cities
+
+1508
+00:55:14,880 --> 00:55:16,880
+that are organized.
+
+1509
+00:55:16,880 --> 00:55:18,880
+At the beginning,
+
+1510
+00:55:18,880 --> 00:55:20,880
+it is not too close to big cities anymore.
+
+1511
+00:55:20,880 --> 00:55:22,880
+In Slovenia, there was one,
+
+1512
+00:55:22,880 --> 00:55:24,880
+but Slovenia is now closed,
+
+1513
+00:55:24,880 --> 00:55:26,880
+so we have a clean air.
+
+1514
+00:55:26,880 --> 00:55:28,880
+It is lower in the population.
+
+1515
+00:55:28,880 --> 00:55:30,880
+It is logical,
+
+1516
+00:55:30,880 --> 00:55:32,880
+but if we go to Tivoli,
+
+1517
+00:55:32,880 --> 00:55:34,880
+we will probably have a different picture.
+
+1518
+00:55:34,880 --> 00:55:36,880
+How many people,
+
+1519
+00:55:36,880 --> 00:55:38,880
+how many companies,
+
+1520
+00:55:39,679 --> 00:55:41,679
+where we can collect this data more precisely
+
+1521
+00:55:41,679 --> 00:55:43,679
+and we have a much better reality
+
+1522
+00:55:43,679 --> 00:55:45,679
+of what is happening.
+
+1523
+00:55:45,679 --> 00:55:47,679
+The average values that we collect
+
+1524
+00:55:47,679 --> 00:55:49,679
+are finally published in the newspaper.
+
+1525
+00:55:49,679 --> 00:55:51,679
+In Ljubljana, the average value
+
+1526
+00:55:51,679 --> 00:55:53,679
+was 6 times a year,
+
+1527
+00:55:53,679 --> 00:55:55,679
+or 20 times a year.
+
+1528
+00:55:55,679 --> 00:55:57,679
+We still exceed the average number of days
+
+1529
+00:55:57,679 --> 00:55:59,679
+in which we can exceed,
+
+1530
+00:55:59,679 --> 00:56:01,679
+but in reality,
+
+1531
+00:56:01,679 --> 00:56:03,679
+I live in Šiška,
+
+1532
+00:56:03,679 --> 00:56:05,679
+a lot of people still smoke on the trees,
+
+1533
+00:56:05,679 --> 00:56:07,679
+the air is terrible.
+
+1534
+00:56:08,480 --> 00:56:10,480
+Maybe, Mateo,
+
+1535
+00:56:10,480 --> 00:56:12,480
+as you said, crowdsourcing.
+
+1536
+00:56:12,480 --> 00:56:14,480
+As I mentioned earlier,
+
+1537
+00:56:14,480 --> 00:56:16,480
+you are a prime minister,
+
+1538
+00:56:16,480 --> 00:56:18,480
+so you have to sign everything.
+
+1539
+00:56:18,480 --> 00:56:20,480
+The government says
+
+1540
+00:56:20,480 --> 00:56:22,480
+to cut it short,
+
+1541
+00:56:22,480 --> 00:56:24,480
+but there are a lot of shortcomings.
+
+1542
+00:56:24,480 --> 00:56:26,480
+Someone has to deal
+
+1543
+00:56:26,480 --> 00:56:28,480
+with these shortcomings,
+
+1544
+00:56:28,480 --> 00:56:30,480
+and with the government.
+
+1545
+00:56:30,480 --> 00:56:32,480
+If you don't deal with it,
+
+1546
+00:56:32,480 --> 00:56:34,480
+then it falls on you.
+
+1547
+00:56:34,480 --> 00:56:36,480
+I mean,
+
+1548
+00:56:37,279 --> 00:56:39,279
+if you don't deal with what you know,
+
+1549
+00:56:39,279 --> 00:56:41,279
+then you have to deal
+
+1550
+00:56:41,279 --> 00:56:43,279
+with some policies.
+
+1551
+00:56:43,279 --> 00:56:45,279
+We have to thank Aleš.
+
+1552
+00:56:45,279 --> 00:56:47,279
+He is from our point of view,
+
+1553
+00:56:47,279 --> 00:56:49,279
+as a user of this data,
+
+1554
+00:56:49,279 --> 00:56:51,279
+and a provider of some services.
+
+1555
+00:56:51,279 --> 00:56:53,279
+Aleš, Lenka, Marina,
+
+1556
+00:56:53,279 --> 00:56:55,279
+and Mateo,
+
+1557
+00:56:55,279 --> 00:56:57,279
+that's a shout-out.
+
+1558
+00:56:57,279 --> 00:56:59,279
+They are part of MEU,
+
+1559
+00:56:59,279 --> 00:57:01,279
+and now MDP and MEU,
+
+1560
+00:57:01,279 --> 00:57:03,279
+where we accept calls
+
+1561
+00:57:03,279 --> 00:57:05,279
+where we really don't have to change,
+
+1562
+00:57:06,079 --> 00:57:08,079
+where we look at the state
+
+1563
+00:57:08,079 --> 00:57:10,079
+as an encapsulated note,
+
+1564
+00:57:10,079 --> 00:57:12,079
+internally does these things
+
+1565
+00:57:12,079 --> 00:57:14,079
+in a way that we don't have
+
+1566
+00:57:14,079 --> 00:57:16,079
+to write it down,
+
+1567
+00:57:16,079 --> 00:57:18,079
+but someone tells you
+
+1568
+00:57:18,079 --> 00:57:20,079
+that they could give the data.
+
+1569
+00:57:20,079 --> 00:57:22,079
+If the representative
+
+1570
+00:57:22,079 --> 00:57:24,079
+didn't publish all the data,
+
+1571
+00:57:24,079 --> 00:57:26,079
+we would punish him by law.
+
+1572
+00:57:26,079 --> 00:57:28,079
+But I am a supporter
+
+1573
+00:57:28,079 --> 00:57:30,079
+of some kind of coercion.
+
+1574
+00:57:30,079 --> 00:57:32,079
+Let's talk to people
+
+1575
+00:57:32,079 --> 00:57:34,079
+in a softer way,
+
+1576
+00:57:34,880 --> 00:57:36,880
+let's praise those
+
+1577
+00:57:36,880 --> 00:57:38,880
+who are good,
+
+1578
+00:57:38,880 --> 00:57:40,880
+and not the ones
+
+1579
+00:57:40,880 --> 00:57:42,880
+who are bad.
+
+1580
+00:57:42,880 --> 00:57:44,880
+For example,
+
+1581
+00:57:44,880 --> 00:57:46,880
+I have to praise the Minister
+
+1582
+00:57:46,880 --> 00:57:48,880
+of Finance,
+
+1583
+00:57:48,880 --> 00:57:50,880
+their website is prolecum.go.si.
+
+1584
+00:57:50,880 --> 00:57:52,880
+Slovenia is one of the rare countries
+
+1585
+00:57:52,880 --> 00:57:54,880
+in the world
+
+1586
+00:57:54,880 --> 00:57:56,880
+where you can see
+
+1587
+00:57:56,880 --> 00:57:58,880
+the daily use of state money.
+
+1588
+00:57:58,880 --> 00:58:00,880
+They change every day
+
+1589
+00:58:00,880 --> 00:58:02,880
+how much money we used yesterday,
+
+1590
+00:58:02,880 --> 00:58:04,880
+and how much we collected from taxes.
+
+1591
+00:58:04,880 --> 00:58:06,880
+That's good.
+
+1592
+00:58:06,880 --> 00:58:08,880
+It's a lot of transparency.
+
+1593
+00:58:08,880 --> 00:58:10,880
+I don't know,
+
+1594
+00:58:10,880 --> 00:58:12,880
+you can also look
+
+1595
+00:58:12,880 --> 00:58:14,880
+at all the past calculations.
+
+1596
+00:58:14,880 --> 00:58:16,880
+You can also see
+
+1597
+00:58:16,880 --> 00:58:18,880
+how much money is used for education.
+
+1598
+00:58:18,880 --> 00:58:20,880
+Some people say
+
+1599
+00:58:20,880 --> 00:58:22,880
+that they are gods,
+
+1600
+00:58:22,880 --> 00:58:24,880
+then you go to the graph
+
+1601
+00:58:24,880 --> 00:58:26,880
+and see how much money is used
+
+1602
+00:58:26,880 --> 00:58:28,880
+for education, culture,
+
+1603
+00:58:28,880 --> 00:58:30,880
+and more or less.
+
+1604
+00:58:30,880 --> 00:58:32,880
+Now we are preparing
+
+1605
+00:58:32,880 --> 00:58:34,880
+to publish more data
+
+1606
+00:58:34,880 --> 00:58:36,880
+with them,
+
+1607
+00:58:36,880 --> 00:58:38,880
+I don't know if I can tell you.
+
+1608
+00:58:38,880 --> 00:58:40,880
+It will be very interesting
+
+1609
+00:58:40,880 --> 00:58:42,880
+because of the blog posts.
+
+1610
+00:58:42,880 --> 00:58:44,880
+So, wait for the data
+
+1611
+00:58:44,880 --> 00:58:46,880
+on the OPSI portal.
+
+1612
+00:58:50,880 --> 00:58:52,880
+With the help of Mateuž,
+
+1613
+00:58:52,880 --> 00:58:54,880
+who is a colleague
+
+1614
+00:58:54,880 --> 00:58:56,880
+of the Minister of Finance,
+
+1615
+00:58:56,880 --> 00:58:58,880
+the engine and the foundation
+
+1616
+00:58:58,880 --> 00:59:00,880
+and their students
+
+1617
+00:59:00,880 --> 00:59:02,880
+this application was created.
+
+1618
+00:59:02,880 --> 00:59:04,880
+The way the students
+
+1619
+00:59:04,880 --> 00:59:06,880
+visualized the data
+
+1620
+00:59:06,880 --> 00:59:08,880
+inspired them and then
+
+1621
+00:59:08,880 --> 00:59:10,880
+they published it.
+
+1622
+00:59:10,880 --> 00:59:12,880
+What I wanted to say before
+
+1623
+00:59:12,880 --> 00:59:14,880
+is that crowdsourcing,
+
+1624
+00:59:14,880 --> 00:59:16,880
+the DGA,
+
+1625
+00:59:16,880 --> 00:59:18,880
+is a tax altruism.
+
+1626
+00:59:18,880 --> 00:59:20,880
+What is it?
+
+1627
+00:59:20,880 --> 00:59:22,880
+It's about
+
+1628
+00:59:22,880 --> 00:59:24,880
+setting up organizations
+
+1629
+00:59:24,880 --> 00:59:26,880
+for tax altruism
+
+1630
+00:59:26,880 --> 00:59:28,880
+that will be intermediaries
+
+1631
+00:59:28,880 --> 00:59:30,880
+between the researchers,
+
+1632
+00:59:30,880 --> 00:59:32,880
+like Mateuž,
+
+1633
+00:59:32,880 --> 00:59:34,880
+and the citizens,
+
+1634
+00:59:34,880 --> 00:59:36,880
+if they want to share
+
+1635
+00:59:36,880 --> 00:59:38,880
+their personal data.
+
+1636
+00:59:38,880 --> 00:59:40,880
+Their story is about COVID.
+
+1637
+00:59:40,880 --> 00:59:42,880
+Robert Cook Institute
+
+1638
+00:59:42,880 --> 00:59:44,880
+had a problem because
+
+1639
+00:59:44,880 --> 00:59:46,880
+they wanted to set up
+
+1640
+00:59:46,880 --> 00:59:48,880
+a COVID lab
+
+1641
+00:59:48,880 --> 00:59:50,880
+and they wanted to raise
+
+1642
+00:59:50,880 --> 00:59:52,880
+the temperature of the individual
+
+1643
+00:59:52,880 --> 00:59:54,880
+from the brain.
+
+1644
+00:59:54,880 --> 00:59:56,880
+They wanted to make it simple.
+
+1645
+00:59:56,880 --> 00:59:58,880
+If you have, let's say,
+
+1646
+00:59:58,880 --> 01:00:00,880
+5,000 stars,
+
+1647
+01:00:00,880 --> 01:00:02,880
+or 20,000 people,
+
+1648
+01:00:02,880 --> 01:00:04,880
+you need 20,000 agreements
+
+1649
+01:00:04,880 --> 01:00:06,880
+on GDPR,
+
+1650
+01:00:06,880 --> 01:00:08,880
+and Mateuž won't bother
+
+1651
+01:00:08,880 --> 01:00:10,880
+with that.
+
+1652
+01:00:10,880 --> 01:00:12,880
+He will say,
+
+1653
+01:00:12,880 --> 01:00:14,880
+I don't have time, I don't care.
+
+1654
+01:00:14,880 --> 01:00:16,880
+Here are the organizations
+
+1655
+01:00:16,880 --> 01:00:18,880
+for tax altruism
+
+1656
+01:00:18,880 --> 01:00:20,880
+that will collect
+
+1657
+01:00:20,880 --> 01:00:22,880
+all the agreements
+
+1658
+01:00:22,880 --> 01:00:24,880
+between the researchers.
+
+1659
+01:00:24,880 --> 01:00:26,880
+If we pay these organizations,
+
+1660
+01:00:26,880 --> 01:00:28,880
+it can't be a profitable organization,
+
+1661
+01:00:28,880 --> 01:00:30,880
+it has to be non-profitable,
+
+1662
+01:00:30,880 --> 01:00:32,880
+but we will find a way
+
+1663
+01:00:32,880 --> 01:00:34,880
+to pay them.
+
+1664
+01:00:34,880 --> 01:00:36,880
+There will be a project
+
+1665
+01:00:36,880 --> 01:00:38,880
+and we will find a way
+
+1666
+01:00:38,880 --> 01:00:40,880
+to pay them.
+
+1667
+01:00:40,880 --> 01:00:42,880
+We are always talking about
+
+1668
+01:00:42,880 --> 01:00:44,880
+anonymized data.
+
+1669
+01:00:44,880 --> 01:00:46,880
+The final phases are not interesting
+
+1670
+01:00:46,880 --> 01:00:48,880
+for the individuals,
+
+1671
+01:00:48,880 --> 01:00:50,880
+but for the trends.
+
+1672
+01:00:50,880 --> 01:00:52,880
+You can collect the data,
+
+1673
+01:00:52,880 --> 01:00:54,880
+extract it, and then anonymize it.
+
+1674
+01:00:54,880 --> 01:00:56,880
+Here we are talking about
+
+1675
+01:00:56,880 --> 01:00:58,880
+tax altruism.
+
+1676
+01:00:58,880 --> 01:01:00,880
+It has to be non-profitable.
+
+1677
+01:01:00,880 --> 01:01:02,880
+I thought about it
+
+1678
+01:01:02,880 --> 01:01:04,880
+as a problem.
+
+1679
+01:01:04,880 --> 01:01:06,880
+If they are non-profitable,
+
+1680
+01:01:06,880 --> 01:01:08,880
+they don't have money
+
+1681
+01:01:08,880 --> 01:01:10,880
+to set up an infrastructure.
+
+1682
+01:01:10,880 --> 01:01:12,880
+It would make sense
+
+1683
+01:01:12,880 --> 01:01:14,880
+to have a company
+
+1684
+01:01:14,880 --> 01:01:16,880
+that notifies
+
+1685
+01:01:16,880 --> 01:01:18,880
+the organizations
+
+1686
+01:01:18,880 --> 01:01:20,880
+about it.
+
+1687
+01:01:20,880 --> 01:01:22,880
+It's hard to tell
+
+1688
+01:01:22,880 --> 01:01:24,880
+Transparency International
+
+1689
+01:01:24,880 --> 01:01:26,880
+to set up an infrastructure
+
+1690
+01:01:26,880 --> 01:01:28,880
+and not have money to set it up.
+
+1691
+01:01:28,880 --> 01:01:30,880
+If an organization says
+
+1692
+01:01:30,880 --> 01:01:32,880
+pay as you go,
+
+1693
+01:01:32,880 --> 01:01:34,880
+and it has a researcher...
+
+1694
+01:01:34,880 --> 01:01:36,880
+What we do with a bunch
+
+1695
+01:01:36,880 --> 01:01:38,880
+of data on different projects
+
+1696
+01:01:38,880 --> 01:01:40,880
+is basically that.
+
+1697
+01:01:40,880 --> 01:01:42,880
+We go to the agency
+
+1698
+01:01:42,880 --> 01:01:44,880
+and tell them
+
+1699
+01:01:44,880 --> 01:01:46,880
+we will collect the data,
+
+1700
+01:01:46,880 --> 01:01:48,880
+I think this part
+
+1701
+01:01:48,880 --> 01:01:50,880
+can be treated
+
+1702
+01:01:50,880 --> 01:01:52,880
+as a non-profit organization
+
+1703
+01:01:52,880 --> 01:01:54,880
+that already has
+
+1704
+01:01:54,880 --> 01:01:56,880
+an infrastructure.
+
+1705
+01:01:56,880 --> 01:01:58,880
+You can't go to someone
+
+1706
+01:01:58,880 --> 01:02:00,880
+who has already
+
+1707
+01:02:00,880 --> 01:02:02,880
+set up
+
+1708
+01:02:02,880 --> 01:02:04,880
+an infrastructure
+
+1709
+01:02:04,880 --> 01:02:06,880
+and set it up.
+
+1710
+01:02:06,880 --> 01:02:08,880
+It's not a big deal.
+
+1711
+01:02:08,880 --> 01:02:10,880
+We can set up a thousand
+
+1712
+01:02:10,880 --> 01:02:12,880
+APIXS gateways and do it.
+
+1713
+01:02:12,880 --> 01:02:14,880
+I think it's
+
+1714
+01:02:14,880 --> 01:02:16,880
+phenomenally good.
+
+1715
+01:02:16,880 --> 01:02:18,880
+If we look back 10 years
+
+1716
+01:02:18,880 --> 01:02:20,880
+when we were talking about
+
+1717
+01:02:20,880 --> 01:02:22,880
+NCSV,
+
+1718
+01:02:22,880 --> 01:02:24,880
+it was a huge step.
+
+1719
+01:02:24,880 --> 01:02:26,880
+We were collecting
+
+1720
+01:02:26,880 --> 01:02:28,880
+a lot of data,
+
+1721
+01:02:28,880 --> 01:02:30,880
+we were doing a lot of things,
+
+1722
+01:02:30,880 --> 01:02:32,880
+and now we are talking about
+
+1723
+01:02:32,880 --> 01:02:34,880
+how far we have come.
+
+1724
+01:02:34,880 --> 01:02:36,880
+But in the end,
+
+1725
+01:02:36,880 --> 01:02:38,880
+if you don't hack
+
+1726
+01:02:38,880 --> 01:02:40,880
+and a bunch of people
+
+1727
+01:02:40,880 --> 01:02:42,880
+in the network,
+
+1728
+01:02:42,880 --> 01:02:44,880
+I don't know how many people
+
+1729
+01:02:44,880 --> 01:02:46,880
+on your Discord are hacking
+
+1730
+01:02:46,880 --> 01:02:48,880
+so we can calculate something.
+
+1731
+01:02:48,880 --> 01:02:50,880
+I think someone wrote
+
+1732
+01:02:50,880 --> 01:02:52,880
+on Twitter,
+
+1733
+01:02:52,880 --> 01:02:54,880
+the agency has 60 people
+
+1734
+01:02:54,880 --> 01:02:56,880
+and they haven't managed
+
+1735
+01:02:56,880 --> 01:02:58,880
+to get one calculator up
+
+1736
+01:02:58,880 --> 01:03:00,880
+if they have already
+
+1737
+01:03:00,880 --> 01:03:02,880
+submitted the proposal.
+
+1738
+01:03:02,880 --> 01:03:04,880
+This is the collective
+
+1739
+01:03:04,880 --> 01:03:06,880
+irresponsibility,
+
+1740
+01:03:06,880 --> 01:03:08,880
+let everything be accepted,
+
+1741
+01:03:08,880 --> 01:03:10,880
+let everything be negotiated.
+
+1742
+01:03:10,880 --> 01:03:12,880
+And in the end,
+
+1743
+01:03:12,880 --> 01:03:14,880
+it's just data.
+
+1744
+01:03:14,880 --> 01:03:16,880
+It's up to you and the people
+
+1745
+01:03:16,880 --> 01:03:18,880
+to change something.
+
+1746
+01:03:18,880 --> 01:03:20,880
+This is the bright side of it.
+
+1747
+01:03:20,880 --> 01:03:22,880
+I think it's phenomenally good
+
+1748
+01:03:22,880 --> 01:03:24,880
+to look at the legal aspect,
+
+1749
+01:03:24,880 --> 01:03:26,880
+but on the other hand,
+
+1750
+01:03:26,880 --> 01:03:28,880
+you need people to hack it,
+
+1751
+01:03:28,880 --> 01:03:30,880
+and on the other hand,
+
+1752
+01:03:30,880 --> 01:03:32,880
+you need Vršič, Lenko and others
+
+1753
+01:03:32,880 --> 01:03:34,880
+at the ministry to support the process.
+
+1754
+01:03:34,880 --> 01:03:36,880
+First, they could say
+
+1755
+01:03:36,880 --> 01:03:38,880
+it's not my job,
+
+1756
+01:03:38,880 --> 01:03:40,880
+but no,
+
+1757
+01:03:40,880 --> 01:03:42,880
+I live to take one step further,
+
+1758
+01:03:42,880 --> 01:03:44,880
+to do my best
+
+1759
+01:03:44,880 --> 01:03:46,880
+in my job.
+
+1760
+01:03:46,880 --> 01:03:48,880
+That's why I like
+
+1761
+01:03:48,880 --> 01:03:50,880
+working with them.
+
+1762
+01:03:50,880 --> 01:03:52,880
+I don't have the feeling
+
+1763
+01:03:52,880 --> 01:03:54,880
+that they will accept me
+
+1764
+01:03:54,880 --> 01:03:56,880
+to die because I came
+
+1765
+01:03:56,880 --> 01:03:58,880
+to talk to them and wash
+
+1766
+01:03:58,880 --> 01:04:00,880
+some legal grounds and act
+
+1767
+01:04:00,880 --> 01:04:02,880
+as if nothing is allowed.
+
+1768
+01:04:02,880 --> 01:04:04,880
+I'm not talking about you specifically,
+
+1769
+01:04:04,880 --> 01:04:06,880
+but for a large agency,
+
+1770
+01:04:06,880 --> 01:04:08,880
+we have 5-6 thousand members.
+
+1771
+01:04:08,880 --> 01:04:10,880
+We are like a corporation.
+
+1772
+01:04:10,880 --> 01:04:12,880
+Everyone forgets that
+
+1773
+01:04:12,880 --> 01:04:14,880
+the government of the Republic of Slovenia
+
+1774
+01:04:14,880 --> 01:04:16,880
+with all the ministries,
+
+1775
+01:04:16,880 --> 01:04:18,880
+etc.,
+
+1776
+01:04:18,880 --> 01:04:20,880
+is about 30,000 people
+
+1777
+01:04:20,880 --> 01:04:22,880
+in one police force.
+
+1778
+01:04:22,880 --> 01:04:24,880
+It's a corporation.
+
+1779
+01:04:24,880 --> 01:04:26,880
+Microsoft,
+
+1780
+01:04:26,880 --> 01:04:28,880
+I don't know,
+
+1781
+01:04:28,880 --> 01:04:30,880
+I think it's a similar story.
+
+1782
+01:04:30,880 --> 01:04:32,880
+It looks like a corporation.
+
+1783
+01:04:32,880 --> 01:04:34,880
+You have to sign something
+
+1784
+01:04:34,880 --> 01:04:36,880
+so that the situation
+
+1785
+01:04:36,880 --> 01:04:38,880
+doesn't get worse.
+
+1786
+01:04:38,880 --> 01:04:40,880
+You will always be alone
+
+1787
+01:04:40,880 --> 01:04:42,880
+and you will say,
+
+1788
+01:04:42,880 --> 01:04:44,880
+I don't have time,
+
+1789
+01:04:44,880 --> 01:04:46,880
+I won't do it,
+
+1790
+01:04:46,880 --> 01:04:48,880
+I'm afraid.
+
+1791
+01:04:48,880 --> 01:04:50,880
+With the support of data,
+
+1792
+01:04:50,880 --> 01:04:52,880
+I remember when I was
+
+1793
+01:04:52,880 --> 01:04:54,880
+a student in London
+
+1794
+01:04:54,880 --> 01:04:56,880
+at the Open Data Institute,
+
+1795
+01:04:56,880 --> 01:04:58,880
+there were 10 rules.
+
+1796
+01:04:58,880 --> 01:05:00,880
+A classic explanation
+
+1797
+01:05:00,880 --> 01:05:02,880
+of why not to open the data.
+
+1798
+01:05:02,880 --> 01:05:04,880
+The data will be found inside the package.
+
+1799
+01:05:04,880 --> 01:05:06,880
+So what?
+
+1800
+01:05:06,880 --> 01:05:08,880
+You will help to export it.
+
+1801
+01:05:08,880 --> 01:05:10,880
+It will be worth it.
+
+1802
+01:05:10,880 --> 01:05:12,880
+If we look at the data
+
+1803
+01:05:12,880 --> 01:05:14,880
+from Mravoloj,
+
+1804
+01:05:14,880 --> 01:05:16,880
+it is created
+
+1805
+01:05:16,880 --> 01:05:18,880
+when you pay a tax.
+
+1806
+01:05:18,880 --> 01:05:20,880
+When you pay registration.
+
+1807
+01:05:20,880 --> 01:05:22,880
+Part of that money
+
+1808
+01:05:22,880 --> 01:05:24,880
+also goes to the data.
+
+1809
+01:05:24,880 --> 01:05:26,880
+The data is already paid
+
+1810
+01:05:26,880 --> 01:05:28,880
+by the government.
+
+1811
+01:05:28,880 --> 01:05:30,880
+You always have to look
+
+1812
+01:05:30,880 --> 01:05:32,880
+at the data.
+
+1813
+01:05:34,880 --> 01:05:36,880
+I will ask you now.
+
+1814
+01:05:36,880 --> 01:05:38,880
+You have two or three projects
+
+1815
+01:05:38,880 --> 01:05:40,880
+as an autologist.
+
+1816
+01:05:40,880 --> 01:05:42,880
+A lot.
+
+1817
+01:05:42,880 --> 01:05:44,880
+I would call it
+
+1818
+01:05:44,880 --> 01:05:46,880
+IPAS.
+
+1819
+01:05:46,880 --> 01:05:48,880
+IPAS is
+
+1820
+01:05:48,880 --> 01:05:50,880
+a state entity.
+
+1821
+01:05:50,880 --> 01:05:52,880
+The state is the owner.
+
+1822
+01:05:52,880 --> 01:05:54,880
+I go inside,
+
+1823
+01:05:54,880 --> 01:05:56,880
+I see the data for my company.
+
+1824
+01:05:56,880 --> 01:05:58,880
+Then the key is written
+
+1825
+01:05:58,880 --> 01:06:00,880
+and you say
+
+1826
+01:06:00,880 --> 01:06:02,880
+sorry, this will be 350 euros per year.
+
+1827
+01:06:02,880 --> 01:06:04,880
+Is it
+
+1828
+01:06:04,880 --> 01:06:06,880
+actually the same
+
+1829
+01:06:06,880 --> 01:06:08,880
+with open data?
+
+1830
+01:06:08,880 --> 01:06:10,880
+They publish part of the data
+
+1831
+01:06:10,880 --> 01:06:12,880
+on the OPSI portal.
+
+1832
+01:06:12,880 --> 01:06:14,880
+They publish it
+
+1833
+01:06:14,880 --> 01:06:16,880
+once a month
+
+1834
+01:06:16,880 --> 01:06:18,880
+and refresh the data on OPSI.
+
+1835
+01:06:18,880 --> 01:06:20,880
+I have to say something.
+
+1836
+01:06:20,880 --> 01:06:22,880
+IPAS is
+
+1837
+01:06:22,880 --> 01:06:24,880
+a state
+
+1838
+01:06:24,880 --> 01:06:26,880
+entity.
+
+1839
+01:06:26,880 --> 01:06:28,880
+The problem is
+
+1840
+01:06:28,880 --> 01:06:30,880
+that half of the money
+
+1841
+01:06:30,880 --> 01:06:32,880
+has to be invested in the market.
+
+1842
+01:06:32,880 --> 01:06:34,880
+We get 100% of the money
+
+1843
+01:06:34,880 --> 01:06:36,880
+and we do what we want with it.
+
+1844
+01:06:36,880 --> 01:06:38,880
+IPAS has to invest
+
+1845
+01:06:38,880 --> 01:06:40,880
+part of the money in the market.
+
+1846
+01:06:40,880 --> 01:06:42,880
+We have a good relationship
+
+1847
+01:06:42,880 --> 01:06:44,880
+with them.
+
+1848
+01:06:44,880 --> 01:06:46,880
+They are very prepared
+
+1849
+01:06:46,880 --> 01:06:48,880
+and cooperative.
+
+1850
+01:06:48,880 --> 01:06:50,880
+They have to know their limits.
+
+1851
+01:06:50,880 --> 01:06:52,880
+As we said,
+
+1852
+01:06:52,880 --> 01:06:54,880
+Slovenia
+
+1853
+01:06:54,880 --> 01:06:56,880
+has access to the data
+
+1854
+01:06:56,880 --> 01:06:58,880
+and we are in a position
+
+1855
+01:06:58,880 --> 01:07:00,880
+where IPAS is one of the best in Europe.
+
+1856
+01:07:00,880 --> 01:07:02,880
+For example,
+
+1857
+01:07:02,880 --> 01:07:04,880
+in Italy, you have to pay
+
+1858
+01:07:04,880 --> 01:07:06,880
+for every change.
+
+1859
+01:07:06,880 --> 01:07:08,880
+I don't know how it is
+
+1860
+01:07:08,880 --> 01:07:10,880
+with the change of the owner.
+
+1861
+01:07:10,880 --> 01:07:12,880
+Actually,
+
+1862
+01:07:12,880 --> 01:07:14,880
+all the effort
+
+1863
+01:07:14,880 --> 01:07:16,880
+is in the money
+
+1864
+01:07:16,880 --> 01:07:18,880
+that they get.
+
+1865
+01:07:18,880 --> 01:07:20,880
+I agree with what
+
+1866
+01:07:20,880 --> 01:07:22,880
+Otto wanted to say.
+
+1867
+01:07:22,880 --> 01:07:24,880
+As a company,
+
+1868
+01:07:24,880 --> 01:07:26,880
+you pay for the data
+
+1869
+01:07:26,880 --> 01:07:28,880
+and as an individual
+
+1870
+01:07:28,880 --> 01:07:30,880
+you pay for the data.
+
+1871
+01:07:30,880 --> 01:07:32,880
+We have to decide
+
+1872
+01:07:32,880 --> 01:07:34,880
+which side we will count on.
+
+1873
+01:07:34,880 --> 01:07:36,880
+No worries,
+
+1874
+01:07:36,880 --> 01:07:38,880
+but not on both sides.
+
+1875
+01:07:38,880 --> 01:07:40,880
+A company pays 35-40 euros
+
+1876
+01:07:40,880 --> 01:07:42,880
+for the data every year.
+
+1877
+01:07:42,880 --> 01:07:44,880
+Cool.
+
+1878
+01:07:44,880 --> 01:07:46,880
+But you can't count
+
+1879
+01:07:46,880 --> 01:07:48,880
+for the same data
+
+1880
+01:07:48,880 --> 01:07:50,880
+that someone paid you
+
+1881
+01:07:50,880 --> 01:07:52,880
+to send you the data.
+
+1882
+01:07:52,880 --> 01:07:54,880
+I think it's a bit problematic.
+
+1883
+01:07:54,880 --> 01:07:56,880
+I think it's easier
+
+1884
+01:07:56,880 --> 01:07:58,880
+to see the business model
+
+1885
+01:07:58,880 --> 01:08:00,880
+in the eyes of an autologist
+
+1886
+01:08:00,880 --> 01:08:02,880
+than in the eyes of an individual
+
+1887
+01:08:02,880 --> 01:08:04,880
+who has to come to the market.
+
+1888
+01:08:04,880 --> 01:08:06,880
+Yes, but not on both sides.
+
+1889
+01:08:06,880 --> 01:08:08,880
+The decision is made for one
+
+1890
+01:08:08,880 --> 01:08:10,880
+and that's it.
+
+1891
+01:08:10,880 --> 01:08:12,880
+I think it's problematic.
+
+1892
+01:08:12,880 --> 01:08:14,880
+Why is the IPAS
+
+1893
+01:08:14,880 --> 01:08:16,880
+like this?
+
+1894
+01:08:16,880 --> 01:08:18,880
+Why isn't it always like this?
+
+1895
+01:08:18,880 --> 01:08:20,880
+Because it's always 100%
+
+1896
+01:08:20,880 --> 01:08:22,880
+paid by the state.
+
+1897
+01:08:22,880 --> 01:08:24,880
+But why is the IPAS not like this?
+
+1898
+01:08:24,880 --> 01:08:26,880
+It's something
+
+1899
+01:08:26,880 --> 01:08:28,880
+that everyone thinks about.
+
+1900
+01:08:28,880 --> 01:08:30,880
+Will we pay 2 million for this?
+
+1901
+01:08:30,880 --> 01:08:32,880
+We pay for a lot of other things
+
+1902
+01:08:32,880 --> 01:08:34,880
+or whatever they need.
+
+1903
+01:08:34,880 --> 01:08:36,880
+Let's cover this up
+
+1904
+01:08:36,880 --> 01:08:38,880
+and give them all the data.
+
+1905
+01:08:38,880 --> 01:08:40,880
+But it's not like a company
+
+1906
+01:08:40,880 --> 01:08:42,880
+has to pay 35 euros.
+
+1907
+01:08:42,880 --> 01:08:44,880
+If we count how many companies
+
+1908
+01:08:44,880 --> 01:08:46,880
+there are in Slovenia
+
+1909
+01:08:46,880 --> 01:08:48,880
+on the one hand
+
+1910
+01:08:48,880 --> 01:08:50,880
+it's not that small,
+
+1911
+01:08:50,880 --> 01:08:52,880
+but on the other hand
+
+1912
+01:08:52,880 --> 01:08:54,880
+it's not that big.
+
+1913
+01:08:54,880 --> 01:08:56,880
+We're not in a huge market
+
+1914
+01:08:56,880 --> 01:08:58,880
+that wouldn't be profitable.
+
+1915
+01:08:58,880 --> 01:09:00,880
+And I agree with this.
+
+1916
+01:09:00,880 --> 01:09:02,880
+These 9.5 million
+
+1917
+01:09:02,880 --> 01:09:04,880
+because of the agencies
+
+1918
+01:09:04,880 --> 01:09:06,880
+where there are some
+
+1919
+01:09:06,880 --> 01:09:08,880
+legal violations
+
+1920
+01:09:08,880 --> 01:09:10,880
+on the basis of which
+
+1921
+01:09:10,880 --> 01:09:12,880
+we operate.
+
+1922
+01:09:12,880 --> 01:09:14,880
+That needs to be streamlined.
+
+1923
+01:09:14,880 --> 01:09:16,880
+I repeat,
+
+1924
+01:09:16,880 --> 01:09:18,880
+in my field,
+
+1925
+01:09:18,880 --> 01:09:20,880
+especially in operating systems
+
+1926
+01:09:20,880 --> 01:09:22,880
+and other things,
+
+1927
+01:09:22,880 --> 01:09:24,880
+why is it because of legacy?
+
+1928
+01:09:24,880 --> 01:09:26,880
+Someone wrote something
+
+1929
+01:09:26,880 --> 01:09:28,880
+in 1965.
+
+1930
+01:09:28,880 --> 01:09:30,880
+We've always done it that way.
+
+1931
+01:09:30,880 --> 01:09:32,880
+And it stays that way.
+
+1932
+01:09:32,880 --> 01:09:34,880
+Let's ask ourselves
+
+1933
+01:09:34,880 --> 01:09:36,880
+if it's really necessary.
+
+1934
+01:09:36,880 --> 01:09:38,880
+We operate in a set of things
+
+1935
+01:09:38,880 --> 01:09:40,880
+where the rubber duck programming
+
+1936
+01:09:40,880 --> 01:09:42,880
+would help us.
+
+1937
+01:09:42,880 --> 01:09:44,880
+It's not about the rules.
+
+1938
+01:09:44,880 --> 01:09:46,880
+They probably aren't.
+
+1939
+01:09:46,880 --> 01:09:48,880
+It's the same here.
+
+1940
+01:09:48,880 --> 01:09:50,880
+It's a daily question.
+
+1941
+01:09:50,880 --> 01:09:52,880
+Why do they work?
+
+1942
+01:09:52,880 --> 01:09:54,880
+We look at the data
+
+1943
+01:09:54,880 --> 01:09:56,880
+and we know they worked hard.
+
+1944
+01:09:56,880 --> 01:09:58,880
+I remember the PRS
+
+1945
+01:09:58,880 --> 01:10:00,880
+that was published.
+
+1946
+01:10:00,880 --> 01:10:02,880
+It was without HSMID.
+
+1947
+01:10:02,880 --> 01:10:04,880
+We take the HSI.
+
+1948
+01:10:04,880 --> 01:10:06,880
+We sent it to them
+
+1949
+01:10:06,880 --> 01:10:08,880
+and they did it.
+
+1950
+01:10:08,880 --> 01:10:10,880
+We knew they had the data.
+
+1951
+01:10:10,880 --> 01:10:12,880
+The value of the data is
+
+1952
+01:10:12,880 --> 01:10:14,880
+that you can connect
+
+1953
+01:10:14,880 --> 01:10:16,880
+the business register of subjects
+
+1954
+01:10:16,880 --> 01:10:18,880
+to the data of the law
+
+1955
+01:10:18,880 --> 01:10:20,880
+and place all the subjects in the space.
+
+1956
+01:10:20,880 --> 01:10:22,880
+Then you can work in analytics.
+
+1957
+01:10:22,880 --> 01:10:24,880
+We have a new story
+
+1958
+01:10:24,880 --> 01:10:26,880
+about the number of employees
+
+1959
+01:10:26,880 --> 01:10:28,880
+in companies.
+
+1960
+01:10:28,880 --> 01:10:30,880
+There was a team
+
+1961
+01:10:30,880 --> 01:10:32,880
+that was asked
+
+1962
+01:10:32,880 --> 01:10:34,880
+where to get the data
+
+1963
+01:10:34,880 --> 01:10:36,880
+on the number of employees
+
+1964
+01:10:36,880 --> 01:10:38,880
+in a company.
+
+1965
+01:10:38,880 --> 01:10:40,880
+We asked them
+
+1966
+01:10:40,880 --> 01:10:42,880
+if they had it.
+
+1967
+01:10:42,880 --> 01:10:44,880
+Who could have it?
+
+1968
+01:10:44,880 --> 01:10:46,880
+Statistics?
+
+1969
+01:10:46,880 --> 01:10:48,880
+Maybe they had it.
+
+1970
+01:10:48,880 --> 01:10:50,880
+In this country,
+
+1971
+01:10:50,880 --> 01:10:52,880
+there is no system
+
+1972
+01:10:52,880 --> 01:10:54,880
+to collect data on the number of employees.
+
+1973
+01:10:54,880 --> 01:10:56,880
+It's one of the things
+
+1974
+01:10:56,880 --> 01:10:58,880
+we are discussing.
+
+1975
+01:10:58,880 --> 01:11:00,880
+We would like to try
+
+1976
+01:11:00,880 --> 01:11:02,880
+the data.
+
+1977
+01:11:02,880 --> 01:11:04,880
+The more data there is,
+
+1978
+01:11:04,880 --> 01:11:06,880
+the more interesting it is.
+
+1979
+01:11:06,880 --> 01:11:08,880
+If you are in marketing,
+
+1980
+01:11:08,880 --> 01:11:10,880
+you will attract data
+
+1981
+01:11:10,880 --> 01:11:12,880
+that has more than 50 employees.
+
+1982
+01:11:12,880 --> 01:11:14,880
+You will mistreat
+
+1983
+01:11:14,880 --> 01:11:16,880
+all the smaller data
+
+1984
+01:11:16,880 --> 01:11:18,880
+that may not be relevant.
+
+1985
+01:11:18,880 --> 01:11:20,880
+This is the pleasure
+
+1986
+01:11:20,880 --> 01:11:22,880
+of data,
+
+1987
+01:11:22,880 --> 01:11:24,880
+the added value
+
+1988
+01:11:24,880 --> 01:11:26,880
+that you can give
+
+1989
+01:11:26,880 --> 01:11:28,880
+to the data
+
+1990
+01:11:28,880 --> 01:11:30,880
+with just one attribute.
+
+1991
+01:11:30,880 --> 01:11:32,880
+It's like a geospatial component.
+
+1992
+01:11:32,880 --> 01:11:34,880
+We had the last
+
+1993
+01:11:34,880 --> 01:11:36,880
+talk about data spaces.
+
+1994
+01:11:36,880 --> 01:11:38,880
+If you have a TV for everyone,
+
+1995
+01:11:38,880 --> 01:11:40,880
+they create a thing
+
+1996
+01:11:40,880 --> 01:11:42,880
+with x and y coordinates.
+
+1997
+01:11:42,880 --> 01:11:44,880
+A statistician
+
+1998
+01:11:44,880 --> 01:11:46,880
+has a grid.
+
+1999
+01:11:46,880 --> 01:11:48,880
+They can connect
+
+2000
+01:11:48,880 --> 01:11:50,880
+most of their data
+
+2001
+01:11:50,880 --> 01:11:52,880
+to this grid.
+
+2002
+01:11:52,880 --> 01:11:54,880
+They can also get
+
+2003
+01:11:54,880 --> 01:11:56,880
+statistical data
+
+2004
+01:11:56,880 --> 01:11:58,880
+that is not related
+
+2005
+01:11:58,880 --> 01:12:00,880
+to the population.
+
+2006
+01:12:00,880 --> 01:12:02,880
+For this grid,
+
+2007
+01:12:02,880 --> 01:12:04,880
+they have an application
+
+2008
+01:12:04,880 --> 01:12:06,880
+called Stage,
+
+2009
+01:12:06,880 --> 01:12:08,880
+where you can download
+
+2010
+01:12:08,880 --> 01:12:10,880
+data on this network.
+
+2011
+01:12:10,880 --> 01:12:12,880
+The smallest cell
+
+2012
+01:12:12,880 --> 01:12:14,880
+is 100 km,
+
+2013
+01:12:14,880 --> 01:12:16,880
+which is very thin data
+
+2014
+01:12:16,880 --> 01:12:18,880
+that you can get
+
+2015
+01:12:18,880 --> 01:12:20,880
+for 100 km.
+
+2016
+01:12:20,880 --> 01:12:22,880
+You can scale up
+
+2017
+01:12:22,880 --> 01:12:24,880
+up to 50 km.
+
+2018
+01:12:24,880 --> 01:12:26,880
+It's part of the European network.
+
+2019
+01:12:26,880 --> 01:12:28,880
+It doesn't stop at Slovenian borders.
+
+2020
+01:12:28,880 --> 01:12:30,880
+You can get this data
+
+2021
+01:12:30,880 --> 01:12:32,880
+with minimal
+
+2022
+01:12:32,880 --> 01:12:34,880
+changes
+
+2023
+01:12:34,880 --> 01:12:36,880
+and additions.
+
+2024
+01:12:36,880 --> 01:12:38,880
+You can scale up
+
+2025
+01:12:38,880 --> 01:12:40,880
+to the maximum.
+
+2026
+01:12:40,880 --> 01:12:42,880
+You're well-dressed.
+
+2027
+01:12:42,880 --> 01:12:44,880
+I have short sleeves.
+
+2028
+01:12:44,880 --> 01:12:46,880
+I'm sorry.
+
+2029
+01:12:46,880 --> 01:12:48,880
+I have a T-shirt
+
+2030
+01:12:48,880 --> 01:12:50,880
+in my chest.
+
+2031
+01:12:50,880 --> 01:12:52,880
+We didn't get it.
+
+2032
+01:12:52,880 --> 01:12:54,880
+Sorry.
+
+2033
+01:12:54,880 --> 01:12:56,880
+It's a test.
+
+2034
+01:12:56,880 --> 01:12:58,880
+It's easy.
+
+2035
+01:12:58,880 --> 01:13:00,880
+I'm a Slovenian.
+
+2036
+01:13:00,880 --> 01:13:02,880
+You need a T-shirt.
+
+2037
+01:13:02,880 --> 01:13:04,880
+I need a hoodie.
+
+2038
+01:13:04,880 --> 01:13:06,880
+You need a hoodie.
+
+2039
+01:13:06,880 --> 01:13:08,880
+We made it
+
+2040
+01:13:08,880 --> 01:13:10,880
+from a prototype batch
+
+2041
+01:13:10,880 --> 01:13:12,880
+to see what material it is.
+
+2042
+01:13:12,880 --> 01:13:14,880
+We have a sticker.
+
+2043
+01:13:14,880 --> 01:13:16,880
+I want to call
+
+2044
+01:13:16,880 --> 01:13:18,880
+our listeners
+
+2045
+01:13:18,880 --> 01:13:20,880
+and viewers to join us
+
+2046
+01:13:20,880 --> 01:13:22,880
+on Discord.
+
+2047
+01:13:22,880 --> 01:13:24,880
+If they like it in Grodno,
+
+2048
+01:13:24,880 --> 01:13:26,880
+to support us on Patreon
+
+2049
+01:13:26,880 --> 01:13:28,880
+so we can make stories of this quality.
+
+2050
+01:13:28,880 --> 01:13:30,880
+I also want to thank
+
+2051
+01:13:30,880 --> 01:13:32,880
+Human Frog and
+
+2052
+01:13:32,880 --> 01:13:34,880
+Trifles for their support.
+
+2053
+01:13:34,880 --> 01:13:36,880
+I hope
+
+2054
+01:13:36,880 --> 01:13:38,880
+our viewers and listeners
+
+2055
+01:13:38,880 --> 01:13:40,880
+enjoy it and give you feedback
+
+2056
+01:13:40,880 --> 01:13:42,880
+so we can keep building.
+
+2057
+01:13:42,880 --> 01:13:44,880
+That's the EPP
+
+2058
+01:13:44,880 --> 01:13:46,880
+I have to say.
+
+2059
+01:13:46,880 --> 01:13:48,880
+I would like to ask
+
+2060
+01:13:48,880 --> 01:13:50,880
+because
+
+2061
+01:13:50,880 --> 01:13:52,880
+people will ask me
+
+2062
+01:13:52,880 --> 01:13:54,880
+intentionally, but where is
+
+2063
+01:13:54,880 --> 01:13:56,880
+the open source
+
+2064
+01:13:56,880 --> 01:13:58,880
+component?
+
+2065
+01:13:58,880 --> 01:14:00,880
+Where do you think
+
+2066
+01:14:00,880 --> 01:14:02,880
+the community
+
+2067
+01:14:02,880 --> 01:14:04,880
+can help you the most?
+
+2068
+01:14:04,880 --> 01:14:06,880
+Create
+
+2069
+01:14:06,880 --> 01:14:08,880
+use cases,
+
+2070
+01:14:08,880 --> 01:14:10,880
+create products.
+
+2071
+01:14:10,880 --> 01:14:12,880
+Where do you see
+
+2072
+01:14:12,880 --> 01:14:14,880
+the biggest opportunity?
+
+2073
+01:14:14,880 --> 01:14:16,880
+Where do you see open source
+
+2074
+01:14:16,880 --> 01:14:18,880
+and how important is it?
+
+2075
+01:14:18,880 --> 01:14:20,880
+First of all,
+
+2076
+01:14:20,880 --> 01:14:22,880
+what we are trying to do
+
+2077
+01:14:22,880 --> 01:14:24,880
+is to try to push
+
+2078
+01:14:24,880 --> 01:14:26,880
+the data forward.
+
+2079
+01:14:26,880 --> 01:14:28,880
+We are not focusing on
+
+2080
+01:14:28,880 --> 01:14:30,880
+creating a product.
+
+2081
+01:14:30,880 --> 01:14:32,880
+This product will be obsolete
+
+2082
+01:14:32,880 --> 01:14:34,880
+in 5 years.
+
+2083
+01:14:34,880 --> 01:14:36,880
+If you can build it
+
+2084
+01:14:36,880 --> 01:14:38,880
+as high as you can with data,
+
+2085
+01:14:38,880 --> 01:14:40,880
+then you can come
+
+2086
+01:14:40,880 --> 01:14:42,880
+and have it on the web
+
+2087
+01:14:42,880 --> 01:14:44,880
+in 2 weeks.
+
+2088
+01:14:44,880 --> 01:14:46,880
+We are a developer
+
+2089
+01:14:46,880 --> 01:14:48,880
+with 1 million users.
+
+2090
+01:14:48,880 --> 01:14:50,880
+We did it in 2 weeks
+
+2091
+01:14:50,880 --> 01:14:52,880
+and we still have 10, 20, 30...
+
+2092
+01:14:52,880 --> 01:14:54,880
+How much data do you pay for 1 million?
+
+2093
+01:14:54,880 --> 01:14:56,880
+That's true.
+
+2094
+01:14:56,880 --> 01:14:58,880
+We have to bury the data.
+
+2095
+01:15:00,000 --> 01:15:06,000
+You know, a hundred other people could come in and take the data,
+
+2096
+01:15:06,000 --> 01:15:08,000
+as much as we have for accuracy and other things,
+
+2097
+01:15:08,000 --> 01:15:10,000
+and make their own product.
+
+2098
+01:15:10,000 --> 01:15:12,000
+I don't care. Thank God.
+
+2099
+01:15:12,000 --> 01:15:15,000
+And if I just put my product out there and say,
+
+2100
+01:15:15,000 --> 01:15:18,000
+this is my product, and encapsulate it in that product,
+
+2101
+01:15:18,000 --> 01:15:20,000
+I've basically already failed.
+
+2102
+01:15:20,000 --> 01:15:22,000
+It's much more important to me to put the data out there,
+
+2103
+01:15:22,000 --> 01:15:24,000
+and have a sense of whether it's closed source or open source,
+
+2104
+01:15:24,000 --> 01:15:26,000
+so that everyone can make something of their own in two weeks.
+
+2105
+01:15:26,000 --> 01:15:28,000
+And I was really happy about it,
+
+2106
+01:15:28,000 --> 01:15:31,000
+when I said, we're going to open source this,
+
+2107
+01:15:31,000 --> 01:15:34,000
+and then we're going to look at whether we're going to change anything
+
+2108
+01:15:34,000 --> 01:15:36,000
+in the community or not.
+
+2109
+01:15:36,000 --> 01:15:38,000
+Make your own. I don't care.
+
+2110
+01:15:38,000 --> 01:15:41,000
+We're not going to go around looking at it in a circle.
+
+2111
+01:15:41,000 --> 01:15:44,000
+Do it. But here you have the data,
+
+2112
+01:15:44,000 --> 01:15:46,000
+and you can do whatever you want with it,
+
+2113
+01:15:46,000 --> 01:15:48,000
+and as long as you don't break anything for me,
+
+2114
+01:15:48,000 --> 01:15:50,000
+because I don't have to prepare the service,
+
+2115
+01:15:50,000 --> 01:15:52,000
+then use it.
+
+2116
+01:15:52,000 --> 01:15:54,000
+And that's why I call it open source,
+
+2117
+01:15:54,000 --> 01:15:56,000
+because I see it as open source data,
+
+2118
+01:15:56,000 --> 01:15:58,000
+more like open source of some products,
+
+2119
+01:15:58,000 --> 01:16:00,000
+where you say, oh, I use that product.
+
+2120
+01:16:00,000 --> 01:16:02,000
+I don't know, for Autolock, I don't know,
+
+2121
+01:16:02,000 --> 01:16:04,000
+maybe I used 50 hours with clean data,
+
+2122
+01:16:04,000 --> 01:16:06,000
+I set up infrastructure and everything,
+
+2123
+01:16:06,000 --> 01:16:08,000
+or maybe 100, I don't know,
+
+2124
+01:16:08,000 --> 01:16:10,000
+because we drank a lot of coffee,
+
+2125
+01:16:10,000 --> 01:16:12,000
+and we were drunk with the view,
+
+2126
+01:16:12,000 --> 01:16:14,000
+when the guys were doing it.
+
+2127
+01:16:14,000 --> 01:16:16,000
+Honestly, is it really that fully valuable now,
+
+2128
+01:16:16,000 --> 01:16:18,000
+that I would say,
+
+2129
+01:16:18,000 --> 01:16:20,000
+no one in the world can do it in hundreds,
+
+2130
+01:16:20,000 --> 01:16:22,000
+or in hundreds, or in thousands of hours?
+
+2131
+01:16:22,000 --> 01:16:24,000
+Yes, exactly.
+
+2132
+01:16:24,000 --> 01:16:26,000
+But you can, do it.
+
+2133
+01:16:26,000 --> 01:16:28,000
+Don't worry about it.
+
+2134
+01:16:28,000 --> 01:16:30,000
+Is it really that important,
+
+2135
+01:16:30,000 --> 01:16:32,000
+that it's an open source product?
+
+2136
+01:16:32,000 --> 01:16:34,000
+No, because it has a hood value.
+
+2137
+01:16:34,000 --> 01:16:36,000
+It's not rocket science to do that.
+
+2138
+01:16:36,000 --> 01:16:38,000
+The fact that you can use that data,
+
+2139
+01:16:38,000 --> 01:16:40,000
+because we set it up in the app,
+
+2140
+01:16:40,000 --> 01:16:42,000
+and normalized the data from different providers,
+
+2141
+01:16:42,000 --> 01:16:44,000
+and said, look, here you have data
+
+2142
+01:16:44,000 --> 01:16:46,000
+about all the possible transports,
+
+2143
+01:16:46,000 --> 01:16:48,000
+here you have an OTP server,
+
+2144
+01:16:48,000 --> 01:16:50,000
+which does multimodal transport,
+
+2145
+01:16:50,000 --> 01:16:52,000
+and you can pick up bikes and cars,
+
+2146
+01:16:52,000 --> 01:16:54,000
+and walk, and everything,
+
+2147
+01:16:54,000 --> 01:16:56,000
+and you can say, ok, I'm interested
+
+2148
+01:16:56,000 --> 01:16:58,000
+in ecological sustainability,
+
+2149
+01:16:58,000 --> 01:17:00,000
+or sustainability, or whatever,
+
+2150
+01:17:00,000 --> 01:17:02,000
+and you do it according to your priorities.
+
+2151
+01:17:02,000 --> 01:17:04,000
+Basically, I think it's really important,
+
+2152
+01:17:04,000 --> 01:17:06,000
+that I give you this part,
+
+2153
+01:17:06,000 --> 01:17:08,000
+maybe we can call it a product,
+
+2154
+01:17:08,000 --> 01:17:10,000
+to the extent that you say,
+
+2155
+01:17:10,000 --> 01:17:12,000
+hey, cool, I have an app,
+
+2156
+01:17:12,000 --> 01:17:14,000
+which is focused on this specific aspect,
+
+2157
+01:17:14,000 --> 01:17:16,000
+which I want to develop as a final product,
+
+2158
+01:17:16,000 --> 01:17:18,000
+and I don't have to deal with the fact
+
+2159
+01:17:18,000 --> 01:17:20,000
+that I have to make a policy on them,
+
+2160
+01:17:20,000 --> 01:17:22,000
+and shoot, and all that,
+
+2161
+01:17:22,000 --> 01:17:24,000
+I will do it for you.
+
+2162
+01:17:24,000 --> 01:17:26,000
+You deal with the product,
+
+2163
+01:17:26,000 --> 01:17:28,000
+and it's open source because of me.
+
+2164
+01:17:28,000 --> 01:17:30,000
+So you're more of an infrastructure provider?
+
+2165
+01:17:30,000 --> 01:17:32,000
+Yes, let's put it that way.
+
+2166
+01:17:32,000 --> 01:17:34,000
+We open source data through infrastructure.
+
+2167
+01:17:34,000 --> 01:17:36,000
+And you're a data intermediary?
+
+2168
+01:17:36,000 --> 01:17:38,000
+Yes, yes, I didn't know I was that
+
+2169
+01:17:38,000 --> 01:17:40,000
+until I heard it today.
+
+2170
+01:17:40,000 --> 01:17:42,000
+If you notify yourself,
+
+2171
+01:17:42,000 --> 01:17:44,000
+then you can use this logo.
+
+2172
+01:17:44,000 --> 01:17:46,000
+Aha!
+
+2173
+01:17:46,000 --> 01:17:48,000
+I wanted to say something before,
+
+2174
+01:17:48,000 --> 01:17:50,000
+but...
+
+2175
+01:17:50,000 --> 01:17:52,000
+Oh, cool, in four to six months.
+
+2176
+01:17:52,000 --> 01:17:54,000
+No, no, no.
+
+2177
+01:17:54,000 --> 01:17:56,000
+How long did we need for Zvob 2?
+
+2178
+01:17:56,000 --> 01:17:58,000
+No, no, no, this will go
+
+2179
+01:17:58,000 --> 01:18:00,000
+in February,
+
+2180
+01:18:00,000 --> 01:18:02,000
+the Slovenian implementation
+
+2181
+01:18:02,000 --> 01:18:04,000
+of the European order will go
+
+2182
+01:18:04,000 --> 01:18:06,000
+in February in public defense,
+
+2183
+01:18:06,000 --> 01:18:08,000
+where we will also be active.
+
+2184
+01:18:08,000 --> 01:18:10,000
+We have to look at Aleš,
+
+2185
+01:18:10,000 --> 01:18:12,000
+he's an eternal optimist,
+
+2186
+01:18:12,000 --> 01:18:14,000
+he talked to me about Zvob 2 for years,
+
+2187
+01:18:14,000 --> 01:18:16,000
+but we won't talk about Zvob 2 now.
+
+2188
+01:18:18,000 --> 01:18:20,000
+We can help together.
+
+2189
+01:18:20,000 --> 01:18:22,000
+For example, we have the option
+
+2190
+01:18:22,000 --> 01:18:24,000
+to publish applications
+
+2191
+01:18:24,000 --> 01:18:26,000
+that have been developed,
+
+2192
+01:18:26,000 --> 01:18:28,000
+as soon as the application is published,
+
+2193
+01:18:28,000 --> 01:18:30,000
+you can scroll and say,
+
+2194
+01:18:30,000 --> 01:18:32,000
+ok, I used these options,
+
+2195
+01:18:32,000 --> 01:18:34,000
+so we know where they were used.
+
+2196
+01:18:34,000 --> 01:18:36,000
+That would help us a lot,
+
+2197
+01:18:36,000 --> 01:18:38,000
+because at the moment,
+
+2198
+01:18:38,000 --> 01:18:40,000
+we have the biggest difficulty
+
+2199
+01:18:40,000 --> 01:18:42,000
+in assessing the commission
+
+2200
+01:18:42,000 --> 01:18:44,000
+because we have social,
+
+2201
+01:18:44,000 --> 01:18:46,000
+economic,
+
+2202
+01:18:50,000 --> 01:18:52,000
+environmental,
+
+2203
+01:18:52,000 --> 01:18:54,000
+and governmental impacts.
+
+2204
+01:18:54,000 --> 01:18:56,000
+What are the effects
+
+2205
+01:18:56,000 --> 01:18:58,000
+when you re-use the data,
+
+2206
+01:18:58,000 --> 01:19:00,000
+if someone did something,
+
+2207
+01:19:00,000 --> 01:19:02,000
+or what he did,
+
+2208
+01:19:02,000 --> 01:19:04,000
+a social, environmental,
+
+2209
+01:19:04,000 --> 01:19:06,000
+or economic effect,
+
+2210
+01:19:06,000 --> 01:19:08,000
+it would help us a lot
+
+2211
+01:19:08,000 --> 01:19:10,000
+to know about these examples.
+
+2212
+01:19:10,000 --> 01:19:12,000
+If you say,
+
+2213
+01:19:12,000 --> 01:19:14,000
+this and that didn't happen
+
+2214
+01:19:14,000 --> 01:19:16,000
+in Slovenia because of the data.
+
+2215
+01:19:16,000 --> 01:19:18,000
+This feedback,
+
+2216
+01:19:18,000 --> 01:19:20,000
+I would say,
+
+2217
+01:19:20,000 --> 01:19:22,000
+is a threat to the data,
+
+2218
+01:19:22,000 --> 01:19:24,000
+because someone could
+
+2219
+01:19:24,000 --> 01:19:26,000
+give us an application,
+
+2220
+01:19:26,000 --> 01:19:28,000
+but if it's very hostile,
+
+2221
+01:19:28,000 --> 01:19:30,000
+where is the application,
+
+2222
+01:19:30,000 --> 01:19:32,000
+can you leave it?
+
+2223
+01:19:32,000 --> 01:19:34,000
+The problem is that you want
+
+2224
+01:19:34,000 --> 01:19:36,000
+to re-experience as soon as possible,
+
+2225
+01:19:36,000 --> 01:19:38,000
+and if you give it a chance,
+
+2226
+01:19:38,000 --> 01:19:40,000
+I would also like to say
+
+2227
+01:19:40,000 --> 01:19:42,000
+that there are no applications in other countries.
+
+2228
+01:19:42,000 --> 01:19:44,000
+What you have,
+
+2229
+01:19:44,000 --> 01:19:46,000
+where the data is,
+
+2230
+01:19:46,000 --> 01:19:48,000
+you can do whatever you want with it.
+
+2231
+01:19:48,000 --> 01:19:50,000
+I have to thank,
+
+2232
+01:19:50,000 --> 01:19:52,000
+I don't know if it's enough to say,
+
+2233
+01:19:52,000 --> 01:19:54,000
+the developers,
+
+2234
+01:19:54,000 --> 01:19:56,000
+Marko Kudor,
+
+2235
+01:19:56,000 --> 01:19:58,000
+from the XLAB company,
+
+2236
+01:19:58,000 --> 01:20:00,000
+we have been working with them
+
+2237
+01:20:00,000 --> 01:20:02,000
+for many years,
+
+2238
+01:20:02,000 --> 01:20:04,000
+and it has always been a pleasure
+
+2239
+01:20:04,000 --> 01:20:06,000
+to work with them.
+
+2240
+01:20:06,000 --> 01:20:08,000
+Marko managed to realize
+
+2241
+01:20:08,000 --> 01:20:10,000
+all our wishes very quickly,
+
+2242
+01:20:10,000 --> 01:20:12,000
+and we are very satisfied
+
+2243
+01:20:12,000 --> 01:20:14,000
+with the cooperation,
+
+2244
+01:20:14,000 --> 01:20:16,000
+because everything is going
+
+2245
+01:20:16,000 --> 01:20:18,000
+very quickly,
+
+2246
+01:20:18,000 --> 01:20:20,000
+and we will do what we need to do.
+
+2247
+01:20:20,000 --> 01:20:22,000
+It is also thanks to him
+
+2248
+01:20:22,000 --> 01:20:24,000
+that the portal is in the form
+
+2249
+01:20:24,000 --> 01:20:26,000
+it is now,
+
+2250
+01:20:26,000 --> 01:20:28,000
+and here I would like
+
+2251
+01:20:28,000 --> 01:20:30,000
+to call together
+
+2252
+01:20:30,000 --> 01:20:32,000
+to publish our feedback
+
+2253
+01:20:32,000 --> 01:20:34,000
+based on the applications
+
+2254
+01:20:34,000 --> 01:20:36,000
+that have been created.
+
+2255
+01:20:36,000 --> 01:20:38,000
+If there are any studies,
+
+2256
+01:20:38,000 --> 01:20:40,000
+or documents,
+
+2257
+01:20:40,000 --> 01:20:42,000
+you can write to us.
+
+2258
+01:20:42,000 --> 01:20:44,000
+I will put the links in the description.
+
+2259
+01:20:44,000 --> 01:20:46,000
+So that we know
+
+2260
+01:20:46,000 --> 01:20:48,000
+what it is all about.
+
+2261
+01:20:48,000 --> 01:20:50,000
+So that you know who used it,
+
+2262
+01:20:50,000 --> 01:20:52,000
+and why.
+
+2263
+01:20:52,000 --> 01:20:54,000
+Because it seems to me that in Slovenia
+
+2264
+01:20:54,000 --> 01:20:56,000
+it is quite difficult to do something
+
+2265
+01:20:56,000 --> 01:20:58,000
+on the night of a zombie attack.
+
+2266
+01:20:58,000 --> 01:21:00,000
+At the end,
+
+2267
+01:21:00,000 --> 01:21:02,000
+Autolock has 13,000 active devices
+
+2268
+01:21:02,000 --> 01:21:04,000
+where Autolock
+
+2269
+01:21:04,000 --> 01:21:06,000
+does the job of opening
+
+2270
+01:21:06,000 --> 01:21:08,000
+the web view of the website.
+
+2271
+01:21:08,000 --> 01:21:10,000
+Because it turned out that people
+
+2272
+01:21:10,000 --> 01:21:12,000
+have a lot of trouble registering
+
+2273
+01:21:12,000 --> 01:21:14,000
+those 17 digits.
+
+2274
+01:21:14,000 --> 01:21:16,000
+Very quickly, as you can see,
+
+2275
+01:21:16,000 --> 01:21:18,000
+a couple of these apps
+
+2276
+01:21:18,000 --> 01:21:20,000
+have a relatively large impact in Slovenia.
+
+2277
+01:21:20,000 --> 01:21:22,000
+A lot of them are
+
+2278
+01:21:22,000 --> 01:21:24,000
+latent applications.
+
+2279
+01:21:24,000 --> 01:21:26,000
+Autolock itself is there,
+
+2280
+01:21:26,000 --> 01:21:28,000
+but what does it mean
+
+2281
+01:21:28,000 --> 01:21:30,000
+if someone uses this data
+
+2282
+01:21:30,000 --> 01:21:32,000
+and how does it improve the process?
+
+2283
+01:21:32,000 --> 01:21:34,000
+I don't think we can get that feedback.
+
+2284
+01:21:34,000 --> 01:21:36,000
+You can turn it off,
+
+2285
+01:21:36,000 --> 01:21:38,000
+and they will probably tell you.
+
+2286
+01:21:38,000 --> 01:21:40,000
+We had an example of that.
+
+2287
+01:21:40,000 --> 01:21:42,000
+An anecdote for the community.
+
+2288
+01:21:42,000 --> 01:21:44,000
+One is related to Autolock.
+
+2289
+01:21:44,000 --> 01:21:46,000
+When a child
+
+2290
+01:21:46,000 --> 01:21:48,000
+was driving in Aže,
+
+2291
+01:21:48,000 --> 01:21:50,000
+they were surprised
+
+2292
+01:21:50,000 --> 01:21:52,000
+that the data was available
+
+2293
+01:21:52,000 --> 01:21:54,000
+on the first or second day of the month.
+
+2294
+01:21:54,000 --> 01:21:56,000
+And if they didn't have it,
+
+2295
+01:21:56,000 --> 01:21:58,000
+the whole drama.
+
+2296
+01:21:58,000 --> 01:22:00,000
+Because their business models
+
+2297
+01:22:00,000 --> 01:22:02,000
+were so normal.
+
+2298
+01:22:02,000 --> 01:22:04,000
+They saw what the competition was doing,
+
+2299
+01:22:04,000 --> 01:22:06,000
+and they said, we need to strengthen the company,
+
+2300
+01:22:06,000 --> 01:22:08,000
+because you have this data.
+
+2301
+01:22:08,000 --> 01:22:10,000
+Most of it was for daily registration,
+
+2302
+01:22:10,000 --> 01:22:12,000
+for the numbers to be printed.
+
+2303
+01:22:12,000 --> 01:22:14,000
+It's not about that.
+
+2304
+01:22:14,000 --> 01:22:16,000
+You can get the data from the municipalities.
+
+2305
+01:22:16,000 --> 01:22:18,000
+You can see how many BMWs were sold
+
+2306
+01:22:18,000 --> 01:22:20,000
+in a municipality last month.
+
+2307
+01:22:20,000 --> 01:22:22,000
+And how many buyers and shareholders
+
+2308
+01:22:22,000 --> 01:22:24,000
+were there.
+
+2309
+01:22:24,000 --> 01:22:26,000
+It's an interesting collection.
+
+2310
+01:22:26,000 --> 01:22:28,000
+Another thing that shocked us
+
+2311
+01:22:28,000 --> 01:22:30,000
+was the register of pharmaceutical products.
+
+2312
+01:22:30,000 --> 01:22:32,000
+It was hard to buy.
+
+2313
+01:22:32,000 --> 01:22:34,000
+It wasn't public.
+
+2314
+01:22:34,000 --> 01:22:36,000
+But when it was,
+
+2315
+01:22:36,000 --> 01:22:38,000
+Marina managed to send them
+
+2316
+01:22:38,000 --> 01:22:40,000
+to some Excel or CSV.
+
+2317
+01:22:40,000 --> 01:22:42,000
+And it had 300 pages.
+
+2318
+01:22:42,000 --> 01:22:44,000
+But besides that,
+
+2319
+01:22:44,000 --> 01:22:46,000
+if you don't get the latest version,
+
+2320
+01:22:46,000 --> 01:22:48,000
+and if there's no product
+
+2321
+01:22:48,000 --> 01:22:50,000
+that would sell it,
+
+2322
+01:22:50,000 --> 01:22:52,000
+you know you can't sell it.
+
+2323
+01:22:52,000 --> 01:22:54,000
+And it's for a small company.
+
+2324
+01:22:54,000 --> 01:22:56,000
+In some municipalities,
+
+2325
+01:22:56,000 --> 01:22:58,000
+it's a huge scale.
+
+2326
+01:22:58,000 --> 01:23:00,000
+You can have 10 data in Slovenia,
+
+2327
+01:23:00,000 --> 01:23:02,000
+and without any evidence,
+
+2328
+01:23:02,000 --> 01:23:04,000
+which is basic for their business,
+
+2329
+01:23:04,000 --> 01:23:06,000
+if it's not updated...
+
+2330
+01:23:06,000 --> 01:23:08,000
+You can go to the process.
+
+2331
+01:23:08,000 --> 01:23:10,000
+It's only for 10 data,
+
+2332
+01:23:10,000 --> 01:23:12,000
+because it doesn't mean anything.
+
+2333
+01:23:12,000 --> 01:23:14,000
+It's not just about them.
+
+2334
+01:23:14,000 --> 01:23:16,000
+It's about the impact.
+
+2335
+01:23:16,000 --> 01:23:18,000
+In some municipalities,
+
+2336
+01:23:18,000 --> 01:23:20,000
+one small collection
+
+2337
+01:23:20,000 --> 01:23:22,000
+of pharmaceutical products is a big deal.
+
+2338
+01:23:22,000 --> 01:23:24,000
+But in some municipalities,
+
+2339
+01:23:24,000 --> 01:23:26,000
+you can't sell it,
+
+2340
+01:23:26,000 --> 01:23:28,000
+because it's not registered.
+
+2341
+01:23:28,000 --> 01:23:30,000
+Here, the stories are interesting.
+
+2342
+01:23:32,000 --> 01:23:34,000
+But when you have the impact,
+
+2343
+01:23:34,000 --> 01:23:36,000
+you calculate the impact
+
+2344
+01:23:36,000 --> 01:23:38,000
+for the app.
+
+2345
+01:23:38,000 --> 01:23:40,000
+They give you feedback.
+
+2346
+01:23:40,000 --> 01:23:42,000
+Then you can start hacking.
+
+2347
+01:23:42,000 --> 01:23:44,000
+Yes, yes.
+
+2348
+01:23:44,000 --> 01:23:46,000
+You have weird laws.
+
+2349
+01:23:46,000 --> 01:23:48,000
+Here we have a hacker
+
+2350
+01:23:48,000 --> 01:23:50,000
+for the network.
+
+2351
+01:23:50,000 --> 01:23:52,000
+Then you sell the data back.
+
+2352
+01:23:52,000 --> 01:23:54,000
+It's like you're feeding us
+
+2353
+01:23:54,000 --> 01:23:56,000
+weird laws to bypass it.
+
+2354
+01:23:56,000 --> 01:23:58,000
+When they changed the electricity,
+
+2355
+01:23:58,000 --> 01:24:00,000
+the agency...
+
+2356
+01:24:00,000 --> 01:24:02,000
+One of the requirements
+
+2357
+01:24:02,000 --> 01:24:04,000
+was the efficiency of the data.
+
+2358
+01:24:04,000 --> 01:24:06,000
+I think it said
+
+2359
+01:24:06,000 --> 01:24:08,000
+that the data must be updated.
+
+2360
+01:24:08,000 --> 01:24:10,000
+I was shocked by that.
+
+2361
+01:24:10,000 --> 01:24:12,000
+Electro-disposal?
+
+2362
+01:24:12,000 --> 01:24:14,000
+Yes.
+
+2363
+01:24:14,000 --> 01:24:16,000
+One of the KPIs was
+
+2364
+01:24:16,000 --> 01:24:18,000
+whether the data is updated or not.
+
+2365
+01:24:18,000 --> 01:24:20,000
+In the past, it was very difficult
+
+2366
+01:24:20,000 --> 01:24:22,000
+to talk to municipalities.
+
+2367
+01:24:22,000 --> 01:24:24,000
+There weren't that many people.
+
+2368
+01:24:24,000 --> 01:24:26,000
+Until we had a plan
+
+2369
+01:24:26,000 --> 01:24:28,000
+for a smart city,
+
+2370
+01:24:28,000 --> 01:24:30,000
+which was already unsuccessful.
+
+2371
+01:24:30,000 --> 01:24:32,000
+But the consequence
+
+2372
+01:24:32,000 --> 01:24:34,000
+of that plan was
+
+2373
+01:24:34,000 --> 01:24:36,000
+that municipalities started
+
+2374
+01:24:36,000 --> 01:24:38,000
+uploading data to the municipality.
+
+2375
+01:24:38,000 --> 01:24:40,000
+One of the criteria
+
+2376
+01:24:40,000 --> 01:24:42,000
+was to re-use their own collection.
+
+2377
+01:24:42,000 --> 01:24:44,000
+There was some...
+
+2378
+01:24:44,000 --> 01:24:46,000
+There's interest.
+
+2379
+01:24:46,000 --> 01:24:48,000
+It's like a prototype
+
+2380
+01:24:48,000 --> 01:24:50,000
+of a human rights model
+
+2381
+01:24:50,000 --> 01:24:52,000
+that has a goal
+
+2382
+01:24:52,000 --> 01:24:54,000
+to change something
+
+2383
+01:24:54,000 --> 01:24:56,000
+for the better.
+
+2384
+01:24:56,000 --> 01:24:58,000
+But there's a problem.
+
+2385
+01:24:58,000 --> 01:25:00,000
+We, as Free,
+
+2386
+01:25:00,000 --> 01:25:02,000
+work a lot.
+
+2387
+01:25:02,000 --> 01:25:04,000
+We don't do these projects
+
+2388
+01:25:04,000 --> 01:25:06,000
+in a financially beneficial way,
+
+2389
+01:25:06,000 --> 01:25:08,000
+but we do them
+
+2390
+01:25:08,000 --> 01:25:10,000
+because we can make
+
+2391
+01:25:10,000 --> 01:25:12,000
+a big impact.
+
+2392
+01:25:12,000 --> 01:25:14,000
+It was a very
+
+2393
+01:25:14,000 --> 01:25:16,000
+sweet spot.
+
+2394
+01:25:16,000 --> 01:25:18,000
+Yes, that's right.
+
+2395
+01:25:18,000 --> 01:25:20,000
+This collaboration
+
+2396
+01:25:20,000 --> 01:25:22,000
+and our connection
+
+2397
+01:25:22,000 --> 01:25:24,000
+works so well
+
+2398
+01:25:24,000 --> 01:25:26,000
+because we're all complementary
+
+2399
+01:25:26,000 --> 01:25:28,000
+and we can give each other...
+
+2400
+01:25:28,000 --> 01:25:30,000
+Aleš needs apps. We're working on them.
+
+2401
+01:25:30,000 --> 01:25:32,000
+We need Aleš to help us
+
+2402
+01:25:32,000 --> 01:25:34,000
+because we could legally get
+
+2403
+01:25:34,000 --> 01:25:36,000
+everything.
+
+2404
+01:25:36,000 --> 01:25:38,000
+One is on paper, the other is in practice.
+
+2405
+01:25:38,000 --> 01:25:40,000
+And then you have people
+
+2406
+01:25:40,000 --> 01:25:42,000
+who are actively involved with you.
+
+2407
+01:25:42,000 --> 01:25:44,000
+It's a bit of a legal thing.
+
+2408
+01:25:44,000 --> 01:25:46,000
+Maybe, as Mateš said,
+
+2409
+01:25:46,000 --> 01:25:48,000
+we're all connected.
+
+2410
+01:25:48,000 --> 01:25:50,000
+We started a project
+
+2411
+01:25:50,000 --> 01:25:52,000
+together with OECD.
+
+2412
+01:25:52,000 --> 01:25:54,000
+We set up a network of data stewards
+
+2413
+01:25:54,000 --> 01:25:56,000
+in English.
+
+2414
+01:25:56,000 --> 01:25:58,000
+In Slovenian it's called
+
+2415
+01:25:58,000 --> 01:26:00,000
+skrbnik.
+
+2416
+01:26:00,000 --> 01:26:02,000
+These would be individuals
+
+2417
+01:26:02,000 --> 01:26:04,000
+at institutions who would be
+
+2418
+01:26:04,000 --> 01:26:06,000
+in contact with each other for all the data.
+
+2419
+01:26:06,000 --> 01:26:08,000
+Not just for the open data,
+
+2420
+01:26:08,000 --> 01:26:10,000
+but data from the institution
+
+2421
+01:26:10,000 --> 01:26:12,000
+and try to set up
+
+2422
+01:26:12,000 --> 01:26:14,000
+internal procedures
+
+2423
+01:26:14,000 --> 01:26:16,000
+such as quality control.
+
+2424
+01:26:16,000 --> 01:26:18,000
+We haven't reached that yet.
+
+2425
+01:26:18,000 --> 01:26:20,000
+We're working with Mateuš
+
+2426
+01:26:20,000 --> 01:26:22,000
+on the methodology
+
+2427
+01:26:22,000 --> 01:26:24,000
+of quality of public data.
+
+2428
+01:26:24,000 --> 01:26:26,000
+Because it is what it is.
+
+2429
+01:26:26,000 --> 01:26:28,000
+Now we have to take it to the next level
+
+2430
+01:26:28,000 --> 01:26:30,000
+by raising the quality.
+
+2431
+01:26:30,000 --> 01:26:32,000
+Because we know that data
+
+2432
+01:26:32,000 --> 01:26:34,000
+can be excellent for one purpose,
+
+2433
+01:26:34,000 --> 01:26:36,000
+and completely crap for another.
+
+2434
+01:26:36,000 --> 01:26:38,000
+And the quality...
+
+2435
+01:26:38,000 --> 01:26:40,000
+Interoperability.
+
+2436
+01:26:40,000 --> 01:26:42,000
+That connectivity.
+
+2437
+01:26:42,000 --> 01:26:44,000
+Someone gives you a password,
+
+2438
+01:26:44,000 --> 01:26:46,000
+and the other one doesn't,
+
+2439
+01:26:46,000 --> 01:26:48,000
+and then you do a matching.
+
+2440
+01:26:48,000 --> 01:26:50,000
+We're also looking at
+
+2441
+01:26:50,000 --> 01:26:52,000
+trying out some things,
+
+2442
+01:26:52,000 --> 01:26:54,000
+recommendations.
+
+2443
+01:26:54,000 --> 01:26:56,000
+To be able to connect things.
+
+2444
+01:26:56,000 --> 01:26:58,000
+To automate them to a certain extent.
+
+2445
+01:26:58,000 --> 01:27:00,000
+Some things, for example,
+
+2446
+01:27:00,000 --> 01:27:02,000
+can be automated relatively easily.
+
+2447
+01:27:02,000 --> 01:27:04,000
+To see if consistency exists,
+
+2448
+01:27:04,000 --> 01:27:06,000
+to be able to stick it
+
+2449
+01:27:06,000 --> 01:27:08,000
+to the same scheme.
+
+2450
+01:27:08,000 --> 01:27:10,000
+One more thing.
+
+2451
+01:27:10,000 --> 01:27:12,000
+If we talk to each other,
+
+2452
+01:27:12,000 --> 01:27:14,000
+the network is like a forum.
+
+2453
+01:27:14,000 --> 01:27:16,000
+The individual is currently represented
+
+2454
+01:27:16,000 --> 01:27:18,000
+as a team of 30 state institutions.
+
+2455
+01:27:18,000 --> 01:27:20,000
+As soon as you realize
+
+2456
+01:27:20,000 --> 01:27:22,000
+that you're not the only one with these problems,
+
+2457
+01:27:22,000 --> 01:27:24,000
+that we all have them,
+
+2458
+01:27:24,000 --> 01:27:26,000
+then you start solving these problems
+
+2459
+01:27:26,000 --> 01:27:28,000
+together.
+
+2460
+01:27:28,000 --> 01:27:30,000
+I have to say
+
+2461
+01:27:30,000 --> 01:27:32,000
+that I'm very proud of the individuals
+
+2462
+01:27:32,000 --> 01:27:34,000
+in this group
+
+2463
+01:27:34,000 --> 01:27:36,000
+who want to change something.
+
+2464
+01:27:36,000 --> 01:27:38,000
+Who are promoters of good solutions.
+
+2465
+01:27:38,000 --> 01:27:40,000
+For example, a member of the state
+
+2466
+01:27:40,000 --> 01:27:42,000
+has a payment system
+
+2467
+01:27:42,000 --> 01:27:44,000
+that can change data.
+
+2468
+01:27:44,000 --> 01:27:46,000
+In the decision of the CSD
+
+2469
+01:27:46,000 --> 01:27:48,000
+on data transfer,
+
+2470
+01:27:48,000 --> 01:27:50,000
+the data is transferred via a payment.
+
+2471
+01:27:50,000 --> 01:27:52,000
+Payment of data from 47 different
+
+2472
+01:27:52,000 --> 01:27:54,000
+data centers.
+
+2473
+01:27:54,000 --> 01:27:56,000
+They send them to the CSD
+
+2474
+01:27:56,000 --> 01:27:58,000
+and they make a decision.
+
+2475
+01:27:58,000 --> 01:28:00,000
+Another thing,
+
+2476
+01:28:00,000 --> 01:28:02,000
+international driver's license.
+
+2477
+01:28:02,000 --> 01:28:04,000
+Through the payment,
+
+2478
+01:28:04,000 --> 01:28:06,000
+they receive data
+
+2479
+01:28:06,000 --> 01:28:08,000
+about the condition of the vehicle.
+
+2480
+01:28:08,000 --> 01:28:10,000
+Can you drive a car or not?
+
+2481
+01:28:10,000 --> 01:28:12,000
+Can you transfer alcohol inside?
+
+2482
+01:28:12,000 --> 01:28:14,000
+When the documents were on paper,
+
+2483
+01:28:14,000 --> 01:28:16,000
+it was written
+
+2484
+01:28:16,000 --> 01:28:18,000
+to transfer the vehicle.
+
+2485
+01:28:18,000 --> 01:28:20,000
+When we came to plastic,
+
+2486
+01:28:20,000 --> 01:28:22,000
+there was no such thing.
+
+2487
+01:28:22,000 --> 01:28:24,000
+There was a problem
+
+2488
+01:28:24,000 --> 01:28:26,000
+with the international driver's license.
+
+2489
+01:28:26,000 --> 01:28:28,000
+Then the state took the time
+
+2490
+01:28:28,000 --> 01:28:30,000
+to make a decision
+
+2491
+01:28:30,000 --> 01:28:32,000
+and they confirmed that
+
+2492
+01:28:32,000 --> 01:28:34,000
+there was no problem.
+
+2493
+01:28:34,000 --> 01:28:36,000
+But you had to come to the CSD.
+
+2494
+01:28:36,000 --> 01:28:38,000
+If you were late,
+
+2495
+01:28:38,000 --> 01:28:40,000
+the CSD didn't work anymore.
+
+2496
+01:28:40,000 --> 01:28:42,000
+Until the moment when the CSD
+
+2497
+01:28:42,000 --> 01:28:44,000
+said it,
+
+2498
+01:28:44,000 --> 01:28:46,000
+data was transferred via payment.
+
+2499
+01:28:46,000 --> 01:28:48,000
+You come to the CSD
+
+2500
+01:28:48,000 --> 01:28:50,000
+and you get the international driver's license
+
+2501
+01:28:50,000 --> 01:28:52,000
+without any problems.
+
+2502
+01:28:52,000 --> 01:28:54,000
+These are small use cases.
+
+2503
+01:28:54,000 --> 01:28:56,000
+Because of the payment,
+
+2504
+01:28:56,000 --> 01:28:58,000
+we have a lot of cases
+
+2505
+01:28:58,000 --> 01:29:00,000
+where the state can
+
+2506
+01:29:00,000 --> 01:29:02,000
+make these problems.
+
+2507
+01:29:02,000 --> 01:29:04,000
+Maybe it's not political will.
+
+2508
+01:29:04,000 --> 01:29:06,000
+I don't know if it's political.
+
+2509
+01:29:06,000 --> 01:29:08,000
+Maybe it's misunderstanding.
+
+2510
+01:29:08,000 --> 01:29:10,000
+The state already has all your data,
+
+2511
+01:29:10,000 --> 01:29:12,000
+but you still fill in some spaces.
+
+2512
+01:29:12,000 --> 01:29:14,000
+It's a very ungrateful question.
+
+2513
+01:29:14,000 --> 01:29:16,000
+But
+
+2514
+01:29:16,000 --> 01:29:18,000
+there is a lot of power
+
+2515
+01:29:18,000 --> 01:29:20,000
+when you decide
+
+2516
+01:29:20,000 --> 01:29:22,000
+or when you start
+
+2517
+01:29:22,000 --> 01:29:24,000
+that someone will decide
+
+2518
+01:29:24,000 --> 01:29:26,000
+to give the CSD up there
+
+2519
+01:29:26,000 --> 01:29:28,000
+or to hire a CEO.
+
+2520
+01:29:28,000 --> 01:29:30,000
+You have to portray people.
+
+2521
+01:29:30,000 --> 01:29:32,000
+It's a lot of work
+
+2522
+01:29:32,000 --> 01:29:34,000
+and energy.
+
+2523
+01:29:34,000 --> 01:29:36,000
+People want to hear
+
+2524
+01:29:36,000 --> 01:29:38,000
+and they will see it as additional work.
+
+2525
+01:29:38,000 --> 01:29:40,000
+They will see it as something
+
+2526
+01:29:40,000 --> 01:29:42,000
+that will help them.
+
+2527
+01:29:42,000 --> 01:29:44,000
+We are trying to do that.
+
+2528
+01:29:44,000 --> 01:29:46,000
+We are trying to do that.
+
+2529
+01:29:46,000 --> 01:29:48,000
+We are trying to do that
+
+2530
+01:29:48,000 --> 01:29:50,000
+with Excel.
+
+2531
+01:29:50,000 --> 01:29:52,000
+If you upload Excel on Ops,
+
+2532
+01:29:52,000 --> 01:29:54,000
+there is a possibility
+
+2533
+01:29:54,000 --> 01:29:56,000
+that it will be uploaded.
+
+2534
+01:29:56,000 --> 01:29:58,000
+If I remember correctly,
+
+2535
+01:29:58,000 --> 01:30:00,000
+we haven't used it yet.
+
+2536
+01:30:00,000 --> 01:30:02,000
+We haven't used it yet.
+
+2537
+01:30:02,000 --> 01:30:04,000
+It's been a year.
+
+2538
+01:30:04,000 --> 01:30:06,000
+It's been a year.
+
+2539
+01:30:06,000 --> 01:30:08,000
+It's been a year.
+
+2540
+01:30:08,000 --> 01:30:10,000
+It's been a year.
+
+2541
+01:30:10,000 --> 01:30:12,000
+It's been a year.
+
+2542
+01:30:12,000 --> 01:30:14,000
+It's been a year.
+
+2543
+01:30:14,000 --> 01:30:16,000
+If I remember correctly,
+
+2544
+01:30:16,000 --> 01:30:18,000
+the people who were hired,
+
+2545
+01:30:18,000 --> 01:30:20,000
+there were no data stewards,
+
+2546
+01:30:20,000 --> 01:30:22,000
+but there were data collectors
+
+2547
+01:30:22,000 --> 01:30:24,000
+who collected the basic data.
+
+2548
+01:30:24,000 --> 01:30:26,000
+It was like the 20th task
+
+2549
+01:30:26,000 --> 01:30:28,000
+of someone.
+
+2550
+01:30:28,000 --> 01:30:30,000
+It was like the 20th task of someone.
+
+2551
+01:30:30,000 --> 01:30:32,000
+There was an attitude
+
+2552
+01:30:32,000 --> 01:30:34,000
+of how we implemented it.
+
+2553
+01:30:34,000 --> 01:30:36,000
+It was so broken.
+
+2554
+01:30:36,000 --> 01:30:38,000
+You have 35 things to do,
+
+2555
+01:30:38,000 --> 01:30:40,000
+then someone will tell you
+
+2556
+01:30:40,000 --> 01:30:42,000
+that you will have to delete
+
+2557
+01:30:42,000 --> 01:30:44,000
+some of the data.
+
+2558
+01:30:44,000 --> 01:30:46,000
+Then they will come to you
+
+2559
+01:30:46,000 --> 01:30:48,000
+and ask for the data.
+
+2560
+01:30:48,000 --> 01:30:50,000
+You don't know how to export it.
+
+2561
+01:30:50,000 --> 01:30:52,000
+Then they will ask you to do it again.
+
+2562
+01:30:52,000 --> 01:30:54,000
+Then they will ask you to do it again.
+
+2563
+01:30:54,000 --> 01:30:56,000
+Then they will ask you to do it again.
+
+2564
+01:30:56,000 --> 01:30:58,000
+In the 10th year,
+
+2565
+01:30:58,000 --> 01:31:00,000
+the attitude changed.
+
+2566
+01:31:00,000 --> 01:31:02,000
+People started to have
+
+2567
+01:31:02,000 --> 01:31:04,000
+one more task.
+
+2568
+01:31:04,000 --> 01:31:06,000
+There is a legal basis
+
+2569
+01:31:06,000 --> 01:31:08,000
+on which we have to do it.
+
+2570
+01:31:08,000 --> 01:31:10,000
+The idea of the data stewards
+
+2571
+01:31:10,000 --> 01:31:12,000
+was to make it full-time
+
+2572
+01:31:12,000 --> 01:31:14,000
+where you would have a lot of data.
+
+2573
+01:31:14,000 --> 01:31:16,000
+But the process...
+
+2574
+01:31:16,000 --> 01:31:18,000
+I was so surprised
+
+2575
+01:31:18,000 --> 01:31:20,000
+when we started this project.
+
+2576
+01:31:20,000 --> 01:31:22,000
+I thought that if we would have
+
+2577
+01:31:22,000 --> 01:31:24,000
+10 data stewards from the state,
+
+2578
+01:31:24,000 --> 01:31:26,000
+it would be like that.
+
+2579
+01:31:26,000 --> 01:31:28,000
+When we sent a message to the minister
+
+2580
+01:31:28,000 --> 01:31:30,000
+to propose it to him,
+
+2581
+01:31:30,000 --> 01:31:32,000
+he got angry and said
+
+2582
+01:31:32,000 --> 01:31:34,000
+end number 33.
+
+2583
+01:31:34,000 --> 01:31:36,000
+I was like wow.
+
+2584
+01:31:36,000 --> 01:31:38,000
+The profiles are different.
+
+2585
+01:31:38,000 --> 01:31:40,000
+It is a novelty.
+
+2586
+01:31:40,000 --> 01:31:42,000
+Slovenia is one of the first countries
+
+2587
+01:31:42,000 --> 01:31:44,000
+in the world that systematically
+
+2588
+01:31:44,000 --> 01:31:46,000
+implements this function in the institution.
+
+2589
+01:31:46,000 --> 01:31:48,000
+Estonia,
+
+2590
+01:31:48,000 --> 01:31:50,000
+maybe Ireland,
+
+2591
+01:31:50,000 --> 01:31:52,000
+then America.
+
+2592
+01:31:54,000 --> 01:31:56,000
+Let's be honest.
+
+2593
+01:31:56,000 --> 01:31:58,000
+What we are talking about now
+
+2594
+01:31:58,000 --> 01:32:00,000
+will be something that we will need
+
+2595
+01:32:00,000 --> 01:32:02,000
+every day in the next 10 years.
+
+2596
+01:32:02,000 --> 01:32:04,000
+Like we are talking about some situations
+
+2597
+01:32:04,000 --> 01:32:06,000
+where we have been working for 10 years
+
+2598
+01:32:06,000 --> 01:32:08,000
+and we haven't sent any APIX.
+
+2599
+01:32:08,000 --> 01:32:10,000
+I hope that we have sent them
+
+2600
+01:32:10,000 --> 01:32:12,000
+a lot of data because of me.
+
+2601
+01:32:12,000 --> 01:32:14,000
+If you are interested in the futuristic part,
+
+2602
+01:32:14,000 --> 01:32:16,000
+we will get used to the luxury
+
+2603
+01:32:16,000 --> 01:32:18,000
+of how to get this data,
+
+2604
+01:32:18,000 --> 01:32:20,000
+what access we have,
+
+2605
+01:32:20,000 --> 01:32:22,000
+to whom we have access,
+
+2606
+01:32:22,000 --> 01:32:24,000
+who we can communicate with.
+
+2607
+01:32:24,000 --> 01:32:26,000
+That is the beauty of it.
+
+2608
+01:32:26,000 --> 01:32:28,000
+If I look at it now,
+
+2609
+01:32:28,000 --> 01:32:30,000
+we have been working like this
+
+2610
+01:32:30,000 --> 01:32:32,000
+for the last 10 plus years.
+
+2611
+01:32:32,000 --> 01:32:34,000
+A lot of things have gone forward.
+
+2612
+01:32:34,000 --> 01:32:36,000
+We have succeeded in a lot of things.
+
+2613
+01:32:36,000 --> 01:32:38,000
+At the same time,
+
+2614
+01:32:38,000 --> 01:32:40,000
+I, Aleš and others at the ministry
+
+2615
+01:32:40,000 --> 01:32:42,000
+have a feeling that we are fighting
+
+2616
+01:32:42,000 --> 01:32:44,000
+but we have succeeded in everything
+
+2617
+01:32:44,000 --> 01:32:46,000
+and that is what we are fighting for.
+
+2618
+01:32:46,000 --> 01:32:48,000
+Now the manager is talking shit.
+
+2619
+01:32:52,000 --> 01:32:54,000
+We will try to get through
+
+2620
+01:32:54,000 --> 01:32:56,000
+to the end.
+
+2621
+01:32:56,000 --> 01:32:58,000
+I would like to ask
+
+2622
+01:32:58,000 --> 01:33:00,000
+what is the holy grail
+
+2623
+01:33:00,000 --> 01:33:02,000
+that you want to see in the datasets?
+
+2624
+01:33:02,000 --> 01:33:04,000
+What is the data source
+
+2625
+01:33:04,000 --> 01:33:06,000
+or something
+
+2626
+01:33:06,000 --> 01:33:08,000
+that you would like to have
+
+2627
+01:33:08,000 --> 01:33:10,000
+in the same collection
+
+2628
+01:33:10,000 --> 01:33:12,000
+or what do you want?
+
+2629
+01:33:12,000 --> 01:33:14,000
+Is it some IoT data
+
+2630
+01:33:14,000 --> 01:33:16,000
+or some high frequency data?
+
+2631
+01:33:18,000 --> 01:33:20,000
+I know.
+
+2632
+01:33:20,000 --> 01:33:22,000
+He sent us a list.
+
+2633
+01:33:24,000 --> 01:33:26,000
+The more data,
+
+2634
+01:33:26,000 --> 01:33:28,000
+the more good stories
+
+2635
+01:33:28,000 --> 01:33:30,000
+we can make out of it.
+
+2636
+01:33:30,000 --> 01:33:32,000
+When you think about it,
+
+2637
+01:33:32,000 --> 01:33:34,000
+if Mateuš
+
+2638
+01:33:34,000 --> 01:33:36,000
+from the data,
+
+2639
+01:33:36,000 --> 01:33:38,000
+which is primarily
+
+2640
+01:33:38,000 --> 01:33:40,000
+registered vehicles,
+
+2641
+01:33:40,000 --> 01:33:42,000
+would have done
+
+2642
+01:33:42,000 --> 01:33:44,000
+an auto log.
+
+2643
+01:33:44,000 --> 01:33:46,000
+Wow!
+
+2644
+01:33:46,000 --> 01:33:48,000
+As many stories as possible,
+
+2645
+01:33:48,000 --> 01:33:50,000
+I would like
+
+2646
+01:33:50,000 --> 01:33:52,000
+the value
+
+2647
+01:33:52,000 --> 01:33:54,000
+of data
+
+2648
+01:33:54,000 --> 01:33:56,000
+to come to life.
+
+2649
+01:33:56,000 --> 01:33:58,000
+At this point,
+
+2650
+01:33:58,000 --> 01:34:00,000
+I would like you to welcome us
+
+2651
+01:34:00,000 --> 01:34:02,000
+because the first week of March
+
+2652
+01:34:02,000 --> 01:34:04,000
+is the World Data Day.
+
+2653
+01:34:04,000 --> 01:34:06,000
+We will have a campaign
+
+2654
+01:34:06,000 --> 01:34:08,000
+so welcome us.
+
+2655
+01:34:08,000 --> 01:34:10,000
+Thank you.
+
+2656
+01:34:12,000 --> 01:34:14,000
+As you mentioned the auto log,
+
+2657
+01:34:14,000 --> 01:34:16,000
+I have the best feeling
+
+2658
+01:34:16,000 --> 01:34:18,000
+in the world
+
+2659
+01:34:18,000 --> 01:34:20,000
+when you take some data
+
+2660
+01:34:20,000 --> 01:34:22,000
+and make a product
+
+2661
+01:34:22,000 --> 01:34:24,000
+that people thought
+
+2662
+01:34:24,000 --> 01:34:26,000
+it was impossible to do.
+
+2663
+01:34:26,000 --> 01:34:28,000
+There is no problem
+
+2664
+01:34:28,000 --> 01:34:30,000
+because you don't know
+
+2665
+01:34:30,000 --> 01:34:32,000
+if you can do it.
+
+2666
+01:34:32,000 --> 01:34:34,000
+For example,
+
+2667
+01:34:34,000 --> 01:34:36,000
+we don't have the data.
+
+2668
+01:34:36,000 --> 01:34:38,000
+We have one, two, three
+
+2669
+01:34:38,000 --> 01:34:40,000
+very good ideas.
+
+2670
+01:34:40,000 --> 01:34:42,000
+If you want to listen to them,
+
+2671
+01:34:42,000 --> 01:34:44,000
+we will post them on the OPS portal.
+
+2672
+01:34:44,000 --> 01:34:46,000
+If we get coffee.
+
+2673
+01:34:48,000 --> 01:34:50,000
+We understand Aleš's position.
+
+2674
+01:34:50,000 --> 01:34:52,000
+We have to support him
+
+2675
+01:34:52,000 --> 01:34:54,000
+by giving him such things
+
+2676
+01:34:54,000 --> 01:34:56,000
+and promoting them.
+
+2677
+01:34:56,000 --> 01:34:58,000
+But at this moment,
+
+2678
+01:34:58,000 --> 01:35:00,000
+the amount of data
+
+2679
+01:35:00,000 --> 01:35:02,000
+we have,
+
+2680
+01:35:02,000 --> 01:35:04,000
+is to a certain extent,
+
+2681
+01:35:04,000 --> 01:35:06,000
+but maybe not as much
+
+2682
+01:35:06,000 --> 01:35:08,000
+as it is
+
+2683
+01:35:08,000 --> 01:35:10,000
+in specific industries.
+
+2684
+01:35:14,000 --> 01:35:16,000
+There is a lot of added value
+
+2685
+01:35:16,000 --> 01:35:18,000
+in a lot of different aspects
+
+2686
+01:35:18,000 --> 01:35:20,000
+of the data.
+
+2687
+01:35:20,000 --> 01:35:22,000
+The more,
+
+2688
+01:35:22,000 --> 01:35:24,000
+the more awesome.
+
+2689
+01:35:24,000 --> 01:35:26,000
+I would add
+
+2690
+01:35:26,000 --> 01:35:28,000
+to that,
+
+2691
+01:35:28,000 --> 01:35:30,000
+I will give you a chance
+
+2692
+01:35:30,000 --> 01:35:32,000
+because I will not give up.
+
+2693
+01:35:32,000 --> 01:35:34,000
+Good?
+
+2694
+01:35:34,000 --> 01:35:36,000
+I think we have to do it again in 10 years.
+
+2695
+01:35:36,000 --> 01:35:38,000
+In 10 years?
+
+2696
+01:35:38,000 --> 01:35:40,000
+We have a few more projects,
+
+2697
+01:35:40,000 --> 01:35:42,000
+so you have to hear more.
+
+2698
+01:35:42,000 --> 01:35:44,000
+At this point,
+
+2699
+01:35:44,000 --> 01:35:46,000
+I would like to thank you
+
+2700
+01:35:46,000 --> 01:35:48,000
+for your time.
+
+2701
+01:35:48,000 --> 01:35:50,000
+Thank you for listening.
+
+2702
+01:35:50,000 --> 01:35:52,000
+I hope you will continue
+
+2703
+01:35:52,000 --> 01:35:54,000
+with us this year.
+
+2704
+01:35:54,000 --> 01:35:56,000
+Thank you to the team,
+
+2705
+01:35:56,000 --> 01:35:58,000
+to the supporters.
+
+2706
+01:35:58,000 --> 01:36:00,000
+Thank you.

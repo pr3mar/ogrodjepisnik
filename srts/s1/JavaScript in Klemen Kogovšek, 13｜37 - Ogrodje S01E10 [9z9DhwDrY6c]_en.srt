@@ -1,0 +1,9619 @@
+1
+00:00:00,000 --> 00:00:16,000
+We have a new SD card, which donated a lot to us today, so we have how much more?
+
+2
+00:00:16,000 --> 00:00:24,000
+46 hours, we can talk about Javascript today, in the broadest sense, to the most special sense,
+
+3
+00:00:24,000 --> 00:00:34,000
+we can debate back and front, we can get closer to the beginners, we can go to the executive decisions,
+
+4
+00:00:34,000 --> 00:00:39,000
+which invest millions in Javascript.
+
+5
+00:00:39,000 --> 00:00:49,000
+Today we have with us Clement Kugovšek and Andraž Brodnik, and today we will talk about Javascript.
+
+6
+00:00:49,000 --> 00:00:57,000
+Now, you will just try to introduce yourself, you will tell us what you are doing, so people can get the feeling.
+
+7
+00:00:57,000 --> 00:01:08,000
+I am Clement, I work for the company Kterinaj37, I work with everything that drives Javascript,
+
+8
+00:01:08,000 --> 00:01:13,000
+and all the environments where Javascript flows.
+
+9
+00:01:13,000 --> 00:01:21,000
+So, my decisions have changed a lot, so I am trying to support Javascript somewhere else.
+
+10
+00:01:21,000 --> 00:01:28,000
+So, you are not identifying as a front-end developer, or a back-end developer, you are identifying as a Javascript developer.
+
+11
+00:01:28,000 --> 00:01:36,000
+Yes, you could say that. Full stack can be a very problematic expression, because people start to assume that you work with hardware,
+
+12
+00:01:36,000 --> 00:01:40,000
+but you are also a developer, so you could say that.
+
+13
+00:01:40,000 --> 00:01:42,000
+Amazing.
+
+14
+00:01:42,000 --> 00:01:49,000
+I was also thinking about how to include the debate in some aspects of Javascript,
+
+15
+00:01:49,000 --> 00:01:55,000
+where everyone knows each other, everyone is happy with it.
+
+16
+00:01:55,000 --> 00:02:02,000
+I mean, today it is hard not to know what Javascript is, if you are doing anything, as I imagine it.
+
+17
+00:02:02,000 --> 00:02:09,000
+We will try to include this debate in some aspects, we will try to start with some basics,
+
+18
+00:02:09,000 --> 00:02:13,000
+then we will go a bit more front-end, a bit more back-end, we will jump a bit into the mix,
+
+19
+00:02:13,000 --> 00:02:17,000
+and then we will find some interesting topics for everyone.
+
+20
+00:02:17,000 --> 00:02:21,000
+I was thinking about what kind of questions we can ask, and my question is,
+
+21
+00:02:21,000 --> 00:02:28,000
+if Javascript was religion, what kind of religion would Javascript be for you?
+
+22
+00:02:29,000 --> 00:02:32,000
+For me, it would be Czechoslovak Zombie Church.
+
+23
+00:02:32,000 --> 00:02:34,000
+Czechoslovak Zombie Church.
+
+24
+00:02:34,000 --> 00:02:36,000
+And is it friendly?
+
+25
+00:02:39,000 --> 00:02:42,000
+No, Javascript is a bit more like C.
+
+26
+00:02:44,000 --> 00:02:46,000
+I mean, you have a pointer, right?
+
+27
+00:02:46,000 --> 00:02:47,000
+Most of the time it is a pointer.
+
+28
+00:02:47,000 --> 00:02:49,000
+I mean, that's how it is.
+
+29
+00:02:49,000 --> 00:02:50,000
+I mean, that's how it is friendly.
+
+30
+00:02:50,000 --> 00:02:52,000
+Well, at least there are some of them here.
+
+31
+00:02:53,000 --> 00:02:58,000
+I have a computer at home that programs Javascript,
+
+32
+00:02:58,000 --> 00:03:02,000
+and unlike other microcontrollers that I have used,
+
+33
+00:03:02,000 --> 00:03:07,000
+you can also upload code from any browser via Bluetooth.
+
+34
+00:03:07,000 --> 00:03:14,000
+So, unlike some AVRs, you don't need an SPI connector or an adapter or anything like that.
+
+35
+00:03:15,000 --> 00:03:19,000
+Let's go back to the question.
+
+36
+00:03:19,000 --> 00:03:21,000
+Let's go back.
+
+37
+00:03:21,000 --> 00:03:24,000
+How did you come to Javascript?
+
+38
+00:03:24,000 --> 00:03:26,000
+Why Javascript?
+
+39
+00:03:28,000 --> 00:03:30,000
+How? Why?
+
+40
+00:03:30,000 --> 00:03:33,000
+I think I started with something else.
+
+41
+00:03:33,000 --> 00:03:38,000
+I started with .NET, PHP and C.
+
+42
+00:03:39,000 --> 00:03:44,000
+And then Javascript was the thing that gave me the first cry.
+
+43
+00:03:45,000 --> 00:03:46,000
+Honestly.
+
+44
+00:03:46,000 --> 00:03:51,000
+But later I saw that it could be a very good tool,
+
+45
+00:03:51,000 --> 00:03:56,000
+with some advantages, including in a browser space,
+
+46
+00:03:56,000 --> 00:04:02,000
+and it was one of the rare ways to quickly transfer applications to users.
+
+47
+00:04:02,000 --> 00:04:07,000
+You didn't have to wait for thousands of computers to run it.
+
+48
+00:04:07,000 --> 00:04:12,000
+All you had to do was click on an update and upload the file to PHP,
+
+49
+00:04:12,000 --> 00:04:15,000
+and you had them in seconds.
+
+50
+00:04:18,000 --> 00:04:22,000
+Let's talk a little bit about the language itself.
+
+51
+00:04:22,000 --> 00:04:26,000
+If you identify yourself as a Javascript developer,
+
+52
+00:04:26,000 --> 00:04:29,000
+that would mean that you have some breadth.
+
+53
+00:04:29,000 --> 00:04:33,000
+Javascript doesn't look like a front-end developer.
+
+54
+00:04:33,000 --> 00:04:36,000
+You could say that it's like that in Europe.
+
+55
+00:04:37,000 --> 00:04:42,000
+Javascript can be classified as a general-purpose script language
+
+56
+00:04:42,000 --> 00:04:46,000
+with which you will implement some logic,
+
+57
+00:04:46,000 --> 00:04:50,000
+and the browser is just a VM,
+
+58
+00:04:50,000 --> 00:04:54,000
+or an environment where Javascript also flows.
+
+59
+00:04:54,000 --> 00:04:57,000
+I think that's why it was amazing in Ursnyc,
+
+60
+00:04:57,000 --> 00:05:00,000
+that's why it was the basis of Nared.
+
+61
+00:05:00,000 --> 00:05:05,000
+It seems to me that this thing has somehow grown.
+
+62
+00:05:05,000 --> 00:05:10,000
+Today we see that Javascript becomes a glue for everything.
+
+63
+00:05:10,000 --> 00:05:14,000
+I think that, in addition to Python,
+
+64
+00:05:14,000 --> 00:05:19,000
+it is probably the most advanced and the most advanced technology.
+
+65
+00:05:19,000 --> 00:05:22,000
+Yes, that's exactly what you said.
+
+66
+00:05:22,000 --> 00:05:25,000
+I really like this comparison with Python,
+
+67
+00:05:25,000 --> 00:05:29,000
+because I've been thinking about it for a long time,
+
+68
+00:05:29,000 --> 00:05:32,000
+and from this point of view,
+
+69
+00:05:32,000 --> 00:05:35,000
+I learned that Javascript is something
+
+70
+00:05:35,000 --> 00:05:39,000
+where you can integrate all languages very quickly,
+
+71
+00:05:39,000 --> 00:05:42,000
+and it has native APIs so that you can connect
+
+72
+00:05:42,000 --> 00:05:45,000
+with all the things you know quickly.
+
+73
+00:05:45,000 --> 00:05:49,000
+At the same time, it's not so hard to write all the appropriate logic
+
+74
+00:05:49,000 --> 00:05:53,000
+and then connect five other languages or products together.
+
+75
+00:05:54,000 --> 00:05:58,000
+You're struck by it.
+
+76
+00:05:58,000 --> 00:06:01,000
+Yes, it seems to me...
+
+77
+00:06:01,000 --> 00:06:08,000
+I would say that having a browser and Javascript as an interpreter
+
+78
+00:06:08,000 --> 00:06:14,000
+is very important,
+
+79
+00:06:14,000 --> 00:06:17,000
+but it's definitely not a big deal,
+
+80
+00:06:17,000 --> 00:06:20,000
+and I don't normally like it to be on the server side.
+
+81
+00:06:21,000 --> 00:06:26,000
+It's very strange to me that my first programming language was Javascript,
+
+82
+00:06:26,000 --> 00:06:29,000
+because when you go to Electrotechnica,
+
+83
+00:06:29,000 --> 00:06:32,000
+Javascript was syntactically very similar to C,
+
+84
+00:06:32,000 --> 00:06:34,000
+but in a for loop.
+
+85
+00:06:34,000 --> 00:06:36,000
+That's a C for loop.
+
+86
+00:06:36,000 --> 00:06:38,000
+It has nothing to do with Java.
+
+87
+00:06:38,000 --> 00:06:40,000
+That's a C for loop.
+
+88
+00:06:40,000 --> 00:06:44,000
+In Javascript, 15 years ago, it looked like C.
+
+89
+00:06:44,000 --> 00:06:48,000
+Then they prepared you for what you would do in the second semester,
+
+90
+00:06:48,000 --> 00:06:50,000
+which is C for loop.
+
+91
+00:06:50,000 --> 00:06:52,000
+Why?
+
+92
+00:06:52,000 --> 00:06:54,000
+If you picked it up as a teacher,
+
+93
+00:06:54,000 --> 00:06:56,000
+you don't need a complex idea.
+
+94
+00:06:56,000 --> 00:06:58,000
+We opened Firefox,
+
+95
+00:06:58,000 --> 00:07:01,000
+and you ran through all the Javascript,
+
+96
+00:07:01,000 --> 00:07:03,000
+you sprinted,
+
+97
+00:07:03,000 --> 00:07:05,000
+you had all the repl,
+
+98
+00:07:05,000 --> 00:07:07,000
+and you could use it.
+
+99
+00:07:07,000 --> 00:07:09,000
+And then...
+
+100
+00:07:10,000 --> 00:07:15,000
+It's normal that they did it in the back-end,
+
+101
+00:07:15,000 --> 00:07:18,000
+and when you do it in the back-end,
+
+102
+00:07:18,000 --> 00:07:23,000
+Javascript has a good concurrency model,
+
+103
+00:07:23,000 --> 00:07:27,000
+which was a bigger problem with Python.
+
+104
+00:07:30,000 --> 00:07:33,000
+I'm interested in how this language grew,
+
+105
+00:07:33,000 --> 00:07:35,000
+what it did.
+
+106
+00:07:36,000 --> 00:07:40,000
+We also heard that there are very few things
+
+107
+00:07:40,000 --> 00:07:43,000
+that you can do in it.
+
+108
+00:07:43,000 --> 00:07:47,000
+We have dynamic types,
+
+109
+00:07:47,000 --> 00:07:49,000
+no compilers,
+
+110
+00:07:49,000 --> 00:07:52,000
+no tooling that you can find in other languages.
+
+111
+00:07:52,000 --> 00:07:55,000
+Which means that it was a very simple start.
+
+112
+00:07:55,000 --> 00:07:58,000
+It's very simple to see what's going on,
+
+113
+00:07:58,000 --> 00:08:02,000
+it's very easy to be productive with the system.
+
+114
+00:08:03,000 --> 00:08:07,000
+There's also shipping in all browsers.
+
+115
+00:08:07,000 --> 00:08:09,000
+It's very powerful,
+
+116
+00:08:09,000 --> 00:08:12,000
+and it certainly converged in the world
+
+117
+00:08:12,000 --> 00:08:15,000
+where we have Javascript on the browser,
+
+118
+00:08:15,000 --> 00:08:17,000
+and everyone learned through it.
+
+119
+00:08:17,000 --> 00:08:20,000
+Would you like to talk a bit about
+
+120
+00:08:20,000 --> 00:08:26,000
+the assumptions that Javascript is single-threaded,
+
+121
+00:08:26,000 --> 00:08:30,000
+and what are the limitations because of that.
+
+122
+00:08:30,000 --> 00:08:33,000
+It's a criticism that comes up
+
+123
+00:08:33,000 --> 00:08:37,000
+when you talk to people who hear about Javascript,
+
+124
+00:08:37,000 --> 00:08:41,000
+why would they use a single-threaded model
+
+125
+00:08:41,000 --> 00:08:43,000
+on the back-end,
+
+126
+00:08:43,000 --> 00:08:46,000
+or why does Javascript have only one thread
+
+127
+00:08:46,000 --> 00:08:49,000
+in the browser that renders things.
+
+128
+00:08:49,000 --> 00:08:52,000
+Can you explain that a bit?
+
+129
+00:08:52,000 --> 00:08:56,000
+Is it really such a problem that people could rely on it?
+
+130
+00:08:56,000 --> 00:08:59,000
+Yes, it's something that happens very quickly.
+
+131
+00:08:59,000 --> 00:09:01,000
+When you start with Node,
+
+132
+00:09:01,000 --> 00:09:03,000
+just like Andras said,
+
+133
+00:09:03,000 --> 00:09:05,000
+with concurrency and Python,
+
+134
+00:09:05,000 --> 00:09:07,000
+it's one of the biggest differences
+
+135
+00:09:07,000 --> 00:09:09,000
+if you want to write only Javascript.
+
+136
+00:09:09,000 --> 00:09:12,000
+Because all the operations that are shipped,
+
+137
+00:09:12,000 --> 00:09:14,000
+engines such as browser,
+
+138
+00:09:14,000 --> 00:09:16,000
+or notepad,
+
+139
+00:09:16,000 --> 00:09:19,000
+are all asynchronous by default.
+
+140
+00:09:19,000 --> 00:09:21,000
+You have to give a task
+
+141
+00:09:21,000 --> 00:09:23,000
+that will be called by someone else,
+
+142
+00:09:23,000 --> 00:09:25,000
+and then you get it back.
+
+143
+00:09:25,000 --> 00:09:27,000
+I'm right, let's move on.
+
+144
+00:09:27,000 --> 00:09:30,000
+Yes, and that's what all the other things do.
+
+145
+00:09:30,000 --> 00:09:35,000
+I've always looked at it from a positive point of view.
+
+146
+00:09:35,000 --> 00:09:38,000
+Because sometimes in one thread,
+
+147
+00:09:38,000 --> 00:09:41,000
+which is managed with all the logic,
+
+148
+00:09:41,000 --> 00:09:44,000
+with all the things that happen,
+
+149
+00:09:44,000 --> 00:09:47,000
+sometimes you never have any risk conditions
+
+150
+00:09:47,000 --> 00:09:49,000
+in that thread,
+
+151
+00:09:49,000 --> 00:09:51,000
+if you don't set them yourself.
+
+152
+00:09:51,000 --> 00:09:53,000
+But you always know that
+
+153
+00:09:53,000 --> 00:09:56,000
+if there's a class here that changes an object,
+
+154
+00:09:56,000 --> 00:09:58,000
+it will be in the same time,
+
+155
+00:09:58,000 --> 00:10:00,000
+and you can sometimes forget
+
+156
+00:10:00,000 --> 00:10:02,000
+about a lot of small things.
+
+157
+00:10:02,000 --> 00:10:04,000
+Because if it was in a language
+
+158
+00:10:04,000 --> 00:10:06,000
+where the main part of the thread is,
+
+159
+00:10:06,000 --> 00:10:08,000
+maybe it wouldn't be that bad.
+
+160
+00:10:08,000 --> 00:10:10,000
+So that people would better access
+
+161
+00:10:10,000 --> 00:10:12,000
+the browser experience,
+
+162
+00:10:12,000 --> 00:10:14,000
+if multi-threading was in Javascript,
+
+163
+00:10:14,000 --> 00:10:16,000
+in some first-level system,
+
+164
+00:10:16,000 --> 00:10:19,000
+would they have more difficulty because of that?
+
+165
+00:10:19,000 --> 00:10:21,000
+Yes, in my opinion.
+
+166
+00:10:21,000 --> 00:10:23,000
+Because it's all one thing.
+
+167
+00:10:23,000 --> 00:10:26,000
+And it's not something that all beginners do.
+
+168
+00:10:26,000 --> 00:10:28,000
+At the beginning, they talk about it.
+
+169
+00:10:28,000 --> 00:10:31,000
+And that you can forget about such a thing,
+
+170
+00:10:31,000 --> 00:10:33,000
+was very positive.
+
+171
+00:10:33,000 --> 00:10:35,000
+On the other hand,
+
+172
+00:10:35,000 --> 00:10:37,000
+I've seen examples where
+
+173
+00:10:37,000 --> 00:10:39,000
+it caused difficulties.
+
+174
+00:10:39,000 --> 00:10:41,000
+I've had some states,
+
+175
+00:10:41,000 --> 00:10:43,000
+some frameworks,
+
+176
+00:10:43,000 --> 00:10:45,000
+that found themselves in changes,
+
+177
+00:10:45,000 --> 00:10:47,000
+and people were working
+
+178
+00:10:47,000 --> 00:10:49,000
+as synchronously as possible.
+
+179
+00:10:49,000 --> 00:10:51,000
+And they didn't even know
+
+180
+00:10:51,000 --> 00:10:53,000
+what they were doing.
+
+181
+00:10:53,000 --> 00:10:55,000
+To make it sound better.
+
+182
+00:10:55,000 --> 00:10:57,000
+For example,
+
+183
+00:10:57,000 --> 00:10:59,000
+if you have Angular,
+
+184
+00:10:59,000 --> 00:11:01,000
+with JS,
+
+185
+00:11:01,000 --> 00:11:03,000
+which was the first
+
+186
+00:11:03,000 --> 00:11:05,000
+bigger framework that was used,
+
+187
+00:11:05,000 --> 00:11:07,000
+it had its own way
+
+188
+00:11:07,000 --> 00:11:09,000
+of following the changes.
+
+189
+00:11:09,000 --> 00:11:11,000
+Because you could
+
+190
+00:11:11,000 --> 00:11:13,000
+send all the changes
+
+191
+00:11:13,000 --> 00:11:15,000
+to Angular,
+
+192
+00:11:15,000 --> 00:11:17,000
+or give it a context
+
+193
+00:11:17,000 --> 00:11:19,000
+that Angular checked.
+
+194
+00:11:19,000 --> 00:11:21,000
+What I mean is that
+
+195
+00:11:21,000 --> 00:11:23,000
+when you changed an object
+
+196
+00:11:23,000 --> 00:11:25,000
+in the Angular function,
+
+197
+00:11:25,000 --> 00:11:27,000
+and when the function was completed,
+
+198
+00:11:27,000 --> 00:11:29,000
+Angular went through
+
+199
+00:11:29,000 --> 00:11:31,000
+the whole tree,
+
+200
+00:11:31,000 --> 00:11:33,000
+through all the states,
+
+201
+00:11:33,000 --> 00:11:35,000
+and made an update.
+
+202
+00:11:35,000 --> 00:11:37,000
+And in the meantime,
+
+203
+00:11:37,000 --> 00:11:39,000
+some components or modules
+
+204
+00:11:39,000 --> 00:11:41,000
+got the same values.
+
+205
+00:11:41,000 --> 00:11:43,000
+Later, in the same
+
+206
+00:11:43,000 --> 00:11:45,000
+flow, they fixed one more thing.
+
+207
+00:11:45,000 --> 00:11:47,000
+And again,
+
+208
+00:11:47,000 --> 00:11:49,000
+in the meantime,
+
+209
+00:11:49,000 --> 00:11:51,000
+instead of looking at a console,
+
+210
+00:11:51,000 --> 00:11:53,000
+if you wanted to debug,
+
+211
+00:11:53,000 --> 00:11:55,000
+you got different values.
+
+212
+00:11:55,000 --> 00:11:57,000
+Or you got something in the console,
+
+213
+00:11:57,000 --> 00:11:59,000
+which was just fine.
+
+214
+00:11:59,000 --> 00:12:01,000
+While you were looking at
+
+215
+00:12:01,000 --> 00:12:03,000
+what you were debugging,
+
+216
+00:12:03,000 --> 00:12:05,000
+you somehow lost it.
+
+217
+00:12:07,000 --> 00:12:09,000
+Shocking.
+
+218
+00:12:09,000 --> 00:12:11,000
+I don't know what you see,
+
+219
+00:12:11,000 --> 00:12:13,000
+but whenever I look at
+
+220
+00:12:13,000 --> 00:12:15,000
+a JavaScript framework,
+
+221
+00:12:15,000 --> 00:12:17,000
+I see all these candy bars
+
+222
+00:12:17,000 --> 00:12:19,000
+that they sell,
+
+223
+00:12:19,000 --> 00:12:21,000
+and the only thing I look at
+
+224
+00:12:21,000 --> 00:12:23,000
+is the lifecycle.
+
+225
+00:12:23,000 --> 00:12:25,000
+If you don't understand
+
+226
+00:12:25,000 --> 00:12:27,000
+what's going on,
+
+227
+00:12:27,000 --> 00:12:29,000
+or the lifecycle components,
+
+228
+00:12:29,000 --> 00:12:31,000
+or whatever,
+
+229
+00:12:31,000 --> 00:12:33,000
+you have a big problem.
+
+230
+00:12:35,000 --> 00:12:37,000
+I would...
+
+231
+00:12:37,000 --> 00:12:39,000
+Before we go to Java...
+
+232
+00:12:41,000 --> 00:12:43,000
+Framework Wars.
+
+233
+00:12:43,000 --> 00:12:45,000
+We'll go a bit more
+
+234
+00:12:45,000 --> 00:12:47,000
+into the back-end.
+
+235
+00:12:49,000 --> 00:12:51,000
+We'll talk a bit more in English,
+
+236
+00:12:51,000 --> 00:12:53,000
+and then we'll go to the Framework Wars.
+
+237
+00:12:53,000 --> 00:12:55,000
+We'll be able to talk
+
+238
+00:12:55,000 --> 00:12:57,000
+a bit more.
+
+239
+00:12:59,000 --> 00:13:01,000
+I'll ask you this.
+
+240
+00:13:01,000 --> 00:13:03,000
+You've been working
+
+241
+00:13:03,000 --> 00:13:05,000
+in JavaScript for a while now.
+
+242
+00:13:05,000 --> 00:13:07,000
+I think it's been 10 years or more.
+
+243
+00:13:07,000 --> 00:13:09,000
+Yes.
+
+244
+00:13:09,000 --> 00:13:11,000
+And you've been going through
+
+245
+00:13:11,000 --> 00:13:13,000
+a lot of changes.
+
+246
+00:13:13,000 --> 00:13:15,000
+As a language,
+
+247
+00:13:15,000 --> 00:13:17,000
+do you feel like
+
+248
+00:13:17,000 --> 00:13:19,000
+the language is changing faster?
+
+249
+00:13:19,000 --> 00:13:21,000
+Is it changing for the better?
+
+250
+00:13:21,000 --> 00:13:23,000
+I think that
+
+251
+00:13:23,000 --> 00:13:25,000
+today the language
+
+252
+00:13:25,000 --> 00:13:27,000
+is becoming more
+
+253
+00:13:27,000 --> 00:13:29,000
+feature-complete.
+
+254
+00:13:29,000 --> 00:13:31,000
+It's becoming more modern.
+
+255
+00:13:31,000 --> 00:13:33,000
+I think it's changing faster.
+
+256
+00:13:33,000 --> 00:13:35,000
+If it took years
+
+257
+00:13:35,000 --> 00:13:37,000
+for certain features to develop,
+
+258
+00:13:37,000 --> 00:13:39,000
+I think things are changing
+
+259
+00:13:39,000 --> 00:13:41,000
+due to the fact that
+
+260
+00:13:41,000 --> 00:13:43,000
+we have a small browser,
+
+261
+00:13:43,000 --> 00:13:45,000
+a Runtime Engine
+
+262
+00:13:45,000 --> 00:13:47,000
+for JavaScript.
+
+263
+00:13:47,000 --> 00:13:49,000
+What do you think about that?
+
+264
+00:13:49,000 --> 00:13:51,000
+Maybe we'll talk about that later.
+
+265
+00:13:51,000 --> 00:13:53,000
+In the 90s,
+
+266
+00:13:53,000 --> 00:13:55,000
+the biggest steps were
+
+267
+00:13:55,000 --> 00:13:57,000
+taken with ES6.
+
+268
+00:13:57,000 --> 00:13:59,000
+Back then,
+
+269
+00:13:59,000 --> 00:14:01,000
+I don't know how many...
+
+270
+00:14:01,000 --> 00:14:03,000
+6-8 years ago,
+
+271
+00:14:03,000 --> 00:14:05,000
+I think a huge leap
+
+272
+00:14:05,000 --> 00:14:07,000
+was made in the community
+
+273
+00:14:07,000 --> 00:14:09,000
+when the community
+
+274
+00:14:09,000 --> 00:14:11,000
+got together
+
+275
+00:14:11,000 --> 00:14:13,000
+and formed
+
+276
+00:14:13,000 --> 00:14:15,000
+a committee
+
+277
+00:14:15,000 --> 00:14:17,000
+with the ECMAScript standard.
+
+278
+00:14:17,000 --> 00:14:19,000
+Since then,
+
+279
+00:14:19,000 --> 00:14:21,000
+every year
+
+280
+00:14:21,000 --> 00:14:23,000
+there's a new release
+
+281
+00:14:23,000 --> 00:14:25,000
+where you get new features
+
+282
+00:14:25,000 --> 00:14:27,000
+and they draw inspiration
+
+283
+00:14:27,000 --> 00:14:29,000
+or ideas
+
+284
+00:14:29,000 --> 00:14:31,000
+from a huge variety of languages.
+
+285
+00:14:31,000 --> 00:14:33,000
+The feeling I have
+
+286
+00:14:33,000 --> 00:14:35,000
+is that they pick
+
+287
+00:14:35,000 --> 00:14:37,000
+the best out of everything.
+
+288
+00:14:37,000 --> 00:14:39,000
+There's also a lot of criticism
+
+289
+00:14:39,000 --> 00:14:41,000
+about what the language is
+
+290
+00:14:41,000 --> 00:14:43,000
+if it's everything.
+
+291
+00:14:43,000 --> 00:14:45,000
+Is it still...
+
+292
+00:14:45,000 --> 00:14:47,000
+Won't it be too much
+
+293
+00:14:47,000 --> 00:14:49,000
+and will it just float
+
+294
+00:14:49,000 --> 00:14:51,000
+and not be used?
+
+295
+00:14:51,000 --> 00:14:53,000
+But I think
+
+296
+00:14:53,000 --> 00:14:55,000
+it's developing in the right direction.
+
+297
+00:14:55,000 --> 00:14:57,000
+One of the good things is that
+
+298
+00:14:57,000 --> 00:14:59,000
+everything is backward-compatible.
+
+299
+00:14:59,000 --> 00:15:01,000
+The browser is working,
+
+300
+00:15:01,000 --> 00:15:03,000
+the language is stable.
+
+301
+00:15:03,000 --> 00:15:05,000
+It's like running
+
+302
+00:15:05,000 --> 00:15:07,000
+a very old code
+
+303
+00:15:07,000 --> 00:15:09,000
+on the current manager
+
+304
+00:15:09,000 --> 00:15:11,000
+and it will work.
+
+305
+00:15:11,000 --> 00:15:13,000
+That was one of the things
+
+306
+00:15:13,000 --> 00:15:15,000
+that contributed to the popularity
+
+307
+00:15:15,000 --> 00:15:17,000
+because you didn't need it
+
+308
+00:15:17,000 --> 00:15:19,000
+all of a sudden.
+
+309
+00:15:19,000 --> 00:15:21,000
+Now we have a new spec language
+
+310
+00:15:21,000 --> 00:15:23,000
+and we will migrate
+
+311
+00:15:23,000 --> 00:15:25,000
+or use it on the last manager.
+
+312
+00:15:25,000 --> 00:15:27,000
+It's also easier
+
+313
+00:15:27,000 --> 00:15:29,000
+for the beginners
+
+314
+00:15:29,000 --> 00:15:31,000
+because the tutorials
+
+315
+00:15:31,000 --> 00:15:33,000
+are still old
+
+316
+00:15:33,000 --> 00:15:35,000
+and they work.
+
+317
+00:15:35,000 --> 00:15:37,000
+You don't have to
+
+318
+00:15:37,000 --> 00:15:39,000
+change the basics
+
+319
+00:15:39,000 --> 00:15:41,000
+of the language
+
+320
+00:15:41,000 --> 00:15:43,000
+to make it work.
+
+321
+00:15:43,000 --> 00:15:45,000
+That's why it's easier
+
+322
+00:15:45,000 --> 00:15:47,000
+for the beginners.
+
+323
+00:15:47,000 --> 00:15:49,000
+A follow-up question
+
+324
+00:15:49,000 --> 00:15:51,000
+is
+
+325
+00:15:51,000 --> 00:15:53,000
+since so many things
+
+326
+00:15:53,000 --> 00:15:55,000
+have changed
+
+327
+00:15:55,000 --> 00:15:57,000
+I'm back in JavaScript
+
+328
+00:15:57,000 --> 00:15:59,000
+and then I put it on a CV
+
+329
+00:15:59,000 --> 00:16:01,000
+and then I delete it.
+
+330
+00:16:01,000 --> 00:16:03,000
+If you don't
+
+331
+00:16:03,000 --> 00:16:05,000
+change the basics
+
+332
+00:16:05,000 --> 00:16:07,000
+of the language
+
+333
+00:16:07,000 --> 00:16:09,000
+you change how you program
+
+334
+00:16:09,000 --> 00:16:11,000
+in it.
+
+335
+00:16:11,000 --> 00:16:13,000
+My question would be
+
+336
+00:16:13,000 --> 00:16:15,000
+a bit strange
+
+337
+00:16:15,000 --> 00:16:17,000
+but is JavaScript
+
+338
+00:16:17,000 --> 00:16:19,000
+like strict mode 2
+
+339
+00:16:19,000 --> 00:16:21,000
+where you say
+
+340
+00:16:23,000 --> 00:16:25,000
+we don't iterate
+
+341
+00:16:25,000 --> 00:16:27,000
+through arrays anymore
+
+342
+00:16:27,000 --> 00:16:29,000
+and now we have
+
+343
+00:16:29,000 --> 00:16:31,000
+strict mode 2
+
+344
+00:16:31,000 --> 00:16:33,000
+and if you add
+
+345
+00:16:33,000 --> 00:16:35,000
+youstrictmode2
+
+346
+00:16:35,000 --> 00:16:37,000
+you will get warnings
+
+347
+00:16:37,000 --> 00:16:39,000
+or a direct error
+
+348
+00:16:39,000 --> 00:16:41,000
+if you use it.
+
+349
+00:16:41,000 --> 00:16:43,000
+My question is
+
+350
+00:16:43,000 --> 00:16:45,000
+does strict mode 2
+
+351
+00:16:45,000 --> 00:16:47,000
+work in a limited
+
+352
+00:16:47,000 --> 00:16:49,000
+type script
+
+353
+00:16:49,000 --> 00:16:51,000
+that is already in the browser
+
+354
+00:16:51,000 --> 00:16:53,000
+or what will happen?
+
+355
+00:16:53,000 --> 00:16:55,000
+Yes.
+
+356
+00:16:55,000 --> 00:16:57,000
+Now
+
+357
+00:16:57,000 --> 00:16:59,000
+this thing with backward compatibility
+
+358
+00:16:59,000 --> 00:17:01,000
+somehow
+
+359
+00:17:01,000 --> 00:17:03,000
+is not a breaker
+
+360
+00:17:03,000 --> 00:17:05,000
+but maybe a progression
+
+361
+00:17:05,000 --> 00:17:07,000
+where maybe
+
+362
+00:17:07,000 --> 00:17:09,000
+weaker parts of the language
+
+363
+00:17:09,000 --> 00:17:11,000
+and parts that
+
+364
+00:17:11,000 --> 00:17:13,000
+enable the engine to be faster.
+
+365
+00:17:13,000 --> 00:17:15,000
+So if that means
+
+366
+00:17:15,000 --> 00:17:17,000
+that you won't be able to make global changes
+
+367
+00:17:17,000 --> 00:17:19,000
+without initializing them
+
+368
+00:17:19,000 --> 00:17:21,000
+or declaring them
+
+369
+00:17:21,000 --> 00:17:23,000
+that's the thing that will happen.
+
+370
+00:17:23,000 --> 00:17:25,000
+I think the style
+
+371
+00:17:25,000 --> 00:17:27,000
+is something that
+
+372
+00:17:27,000 --> 00:17:29,000
+the team or the company decides
+
+373
+00:17:29,000 --> 00:17:31,000
+based on the control they have.
+
+374
+00:17:31,000 --> 00:17:33,000
+I think it's still easy
+
+375
+00:17:33,000 --> 00:17:35,000
+to publish JavaScript in CV.
+
+376
+00:17:35,000 --> 00:17:37,000
+Do you think so?
+
+377
+00:17:37,000 --> 00:17:39,000
+I don't think so.
+
+378
+00:17:39,000 --> 00:17:41,000
+I don't know
+
+379
+00:17:41,000 --> 00:17:43,000
+I have to look at the language
+
+380
+00:17:43,000 --> 00:17:45,000
+every couple of years
+
+381
+00:17:45,000 --> 00:17:47,000
+to see
+
+382
+00:17:47,000 --> 00:17:49,000
+if it doesn't create
+
+383
+00:17:49,000 --> 00:17:51,000
+some kind of loop.
+
+384
+00:17:51,000 --> 00:17:53,000
+But I think
+
+385
+00:17:53,000 --> 00:17:55,000
+the concept of looping
+
+386
+00:17:55,000 --> 00:17:57,000
+and iterating
+
+387
+00:17:57,000 --> 00:17:59,000
+is still
+
+388
+00:17:59,000 --> 00:18:01,000
+working
+
+389
+00:18:01,000 --> 00:18:03,000
+and creating new ways.
+
+390
+00:18:03,000 --> 00:18:05,000
+I think it's a language
+
+391
+00:18:05,000 --> 00:18:07,000
+that is completely forgotten.
+
+392
+00:18:07,000 --> 00:18:09,000
+Maybe because
+
+393
+00:18:09,000 --> 00:18:11,000
+the language itself
+
+394
+00:18:11,000 --> 00:18:13,000
+is better than everything else
+
+395
+00:18:13,000 --> 00:18:15,000
+that has been said here.
+
+396
+00:18:15,000 --> 00:18:17,000
+When the browser part comes
+
+397
+00:18:17,000 --> 00:18:19,000
+I don't know
+
+398
+00:18:19,000 --> 00:18:21,000
+things have changed a lot.
+
+399
+00:18:23,000 --> 00:18:25,000
+We won't open up
+
+400
+00:18:25,000 --> 00:18:27,000
+a conversation on the framework
+
+401
+00:18:27,000 --> 00:18:29,000
+but the first app
+
+402
+00:18:29,000 --> 00:18:31,000
+that I wrote in React
+
+403
+00:18:31,000 --> 00:18:33,000
+was in 2014
+
+404
+00:18:33,000 --> 00:18:35,000
+when React 1 came out.
+
+405
+00:18:35,000 --> 00:18:37,000
+When I look at React Hook
+
+406
+00:18:37,000 --> 00:18:39,000
+I'm like
+
+407
+00:18:39,000 --> 00:18:41,000
+why is this a good idea?
+
+408
+00:18:41,000 --> 00:18:43,000
+I don't understand
+
+409
+00:18:43,000 --> 00:18:45,000
+that it's a powerful concept
+
+410
+00:18:45,000 --> 00:18:47,000
+because my knowledge
+
+411
+00:18:47,000 --> 00:18:49,000
+has nothing to do with it.
+
+412
+00:18:49,000 --> 00:18:51,000
+I know JSX
+
+413
+00:18:51,000 --> 00:18:53,000
+and I know Lifecycle
+
+414
+00:18:53,000 --> 00:18:55,000
+but I don't know
+
+415
+00:18:55,000 --> 00:18:57,000
+if I would have written
+
+416
+00:18:57,000 --> 00:18:59,000
+what you saw.
+
+417
+00:18:59,000 --> 00:19:01,000
+I think the basic concepts
+
+418
+00:19:01,000 --> 00:19:03,000
+are still the same.
+
+419
+00:19:03,000 --> 00:19:05,000
+Maybe you write something
+
+420
+00:19:05,000 --> 00:19:07,000
+differently and then cut it
+
+421
+00:19:07,000 --> 00:19:09,000
+but the mental models
+
+422
+00:19:09,000 --> 00:19:11,000
+that you put together
+
+423
+00:19:11,000 --> 00:19:13,000
+about the language
+
+424
+00:19:13,000 --> 00:19:15,000
+are still the same.
+
+425
+00:19:15,000 --> 00:19:17,000
+The functions
+
+426
+00:19:17,000 --> 00:19:19,000
+can still be changed.
+
+427
+00:19:19,000 --> 00:19:21,000
+Wait, async call is still
+
+428
+00:19:21,000 --> 00:19:23,000
+just promise?
+
+429
+00:19:23,000 --> 00:19:25,000
+Yes, async and promise
+
+430
+00:19:25,000 --> 00:19:27,000
+are the same thing.
+
+431
+00:19:27,000 --> 00:19:29,000
+From callbacks
+
+432
+00:19:29,000 --> 00:19:31,000
+to async
+
+433
+00:19:31,000 --> 00:19:33,000
+it was a huge thing.
+
+434
+00:19:33,000 --> 00:19:35,000
+From promise to async
+
+435
+00:19:35,000 --> 00:19:37,000
+because they managed
+
+436
+00:19:37,000 --> 00:19:39,000
+to solve the problem
+
+437
+00:19:39,000 --> 00:19:41,000
+with promise
+
+438
+00:19:41,000 --> 00:19:43,000
+and from callbacks
+
+439
+00:19:43,000 --> 00:19:45,000
+it stayed the same
+
+440
+00:19:45,000 --> 00:19:47,000
+just different writing
+
+441
+00:19:47,000 --> 00:19:49,000
+and async changed
+
+442
+00:19:49,000 --> 00:19:51,000
+how you can
+
+443
+00:19:51,000 --> 00:19:53,000
+form it differently.
+
+444
+00:19:53,000 --> 00:19:55,000
+It's more visible.
+
+445
+00:19:55,000 --> 00:19:57,000
+Can you ask me
+
+446
+00:19:57,000 --> 00:19:59,000
+if there is
+
+447
+00:19:59,000 --> 00:20:01,000
+such a spread
+
+448
+00:20:01,000 --> 00:20:03,000
+of knowledge and
+
+449
+00:20:03,000 --> 00:20:05,000
+old technology
+
+450
+00:20:05,000 --> 00:20:07,000
+how do you recognize
+
+451
+00:20:07,000 --> 00:20:09,000
+junior JS developers
+
+452
+00:20:09,000 --> 00:20:11,000
+and where
+
+453
+00:20:11,000 --> 00:20:13,000
+do you put
+
+454
+00:20:13,000 --> 00:20:15,000
+this is really good?
+
+455
+00:20:15,000 --> 00:20:17,000
+Does it mean that you look
+
+456
+00:20:17,000 --> 00:20:19,000
+at the style of code
+
+457
+00:20:19,000 --> 00:20:21,000
+or API knowledge
+
+458
+00:20:21,000 --> 00:20:23,000
+or language?
+
+459
+00:20:23,000 --> 00:20:25,000
+There are a lot of questions
+
+460
+00:20:25,000 --> 00:20:27,000
+that I ask.
+
+461
+00:20:27,000 --> 00:20:29,000
+It shows
+
+462
+00:20:29,000 --> 00:20:31,000
+what they are used to
+
+463
+00:20:31,000 --> 00:20:33,000
+and what they are afraid of.
+
+464
+00:20:33,000 --> 00:20:35,000
+In the future
+
+465
+00:20:35,000 --> 00:20:37,000
+they will be more careful.
+
+466
+00:20:37,000 --> 00:20:39,000
+I would say
+
+467
+00:20:39,000 --> 00:20:41,000
+that getting to know
+
+468
+00:20:41,000 --> 00:20:43,000
+the current status of the language
+
+469
+00:20:43,000 --> 00:20:45,000
+is more important
+
+470
+00:20:45,000 --> 00:20:47,000
+than the language itself.
+
+471
+00:20:47,000 --> 00:20:49,000
+It is interesting what you do.
+
+472
+00:20:49,000 --> 00:20:51,000
+Most of the people
+
+473
+00:20:51,000 --> 00:20:53,000
+who wrote
+
+474
+00:20:53,000 --> 00:20:55,000
+what you said
+
+475
+00:20:55,000 --> 00:20:57,000
+stayed in that space
+
+476
+00:20:57,000 --> 00:20:59,000
+because it is still interesting.
+
+477
+00:20:59,000 --> 00:21:01,000
+If they wouldn't be interested
+
+478
+00:21:01,000 --> 00:21:03,000
+they would probably start something else.
+
+479
+00:21:03,000 --> 00:21:05,000
+So that's it.
+
+480
+00:21:05,000 --> 00:21:07,000
+But it is also interesting
+
+481
+00:21:07,000 --> 00:21:09,000
+in interviews with beginners
+
+482
+00:21:09,000 --> 00:21:11,000
+or juniors
+
+483
+00:21:11,000 --> 00:21:13,000
+you can see the influence
+
+484
+00:21:13,000 --> 00:21:15,000
+of their industry
+
+485
+00:21:15,000 --> 00:21:17,000
+and the teams where they worked.
+
+486
+00:21:17,000 --> 00:21:19,000
+Most of the styles of writing
+
+487
+00:21:19,000 --> 00:21:21,000
+come from the teams
+
+488
+00:21:21,000 --> 00:21:23,000
+where they were.
+
+489
+00:21:23,000 --> 00:21:25,000
+And then one thing
+
+490
+00:21:25,000 --> 00:21:27,000
+that I often do in an interview
+
+491
+00:21:27,000 --> 00:21:29,000
+if we have a code exercise
+
+492
+00:21:29,000 --> 00:21:31,000
+then someone writes
+
+493
+00:21:31,000 --> 00:21:33,000
+something that could be treated
+
+494
+00:21:33,000 --> 00:21:35,000
+as a request
+
+495
+00:21:35,000 --> 00:21:37,000
+or a request
+
+496
+00:21:37,000 --> 00:21:39,000
+from someone on the other side.
+
+497
+00:21:39,000 --> 00:21:41,000
+Maybe looking at the documentation
+
+498
+00:21:41,000 --> 00:21:43,000
+I would say that I would solve it
+
+499
+00:21:43,000 --> 00:21:45,000
+with that function
+
+500
+00:21:45,000 --> 00:21:47,000
+or I can try to solve it
+
+501
+00:21:47,000 --> 00:21:49,000
+using Google.
+
+502
+00:21:49,000 --> 00:21:51,000
+Because one thing that I think
+
+503
+00:21:51,000 --> 00:21:53,000
+is very important in interviews
+
+504
+00:21:53,000 --> 00:21:55,000
+is that you don't prevent people
+
+505
+00:21:55,000 --> 00:21:57,000
+from using Google.
+
+506
+00:21:57,000 --> 00:21:59,000
+Because if you use it
+
+507
+00:21:59,000 --> 00:22:01,000
+every day
+
+508
+00:22:01,000 --> 00:22:03,000
+it can be more valuable
+
+509
+00:22:03,000 --> 00:22:05,000
+than some current knowledge.
+
+510
+00:22:05,000 --> 00:22:07,000
+So then you can see
+
+511
+00:22:07,000 --> 00:22:09,000
+if someone knows how to convert
+
+512
+00:22:09,000 --> 00:22:11,000
+the documentation
+
+513
+00:22:11,000 --> 00:22:13,000
+and make something out of it
+
+514
+00:22:13,000 --> 00:22:15,000
+how quickly you can form
+
+515
+00:22:15,000 --> 00:22:17,000
+a model that they will use.
+
+516
+00:22:19,000 --> 00:22:21,000
+One such thing
+
+517
+00:22:21,000 --> 00:22:23,000
+that I find interesting with JavaScript
+
+518
+00:22:23,000 --> 00:22:25,000
+is that if we compare it
+
+519
+00:22:25,000 --> 00:22:27,000
+with some other languages
+
+520
+00:22:27,000 --> 00:22:29,000
+it has a very
+
+521
+00:22:29,000 --> 00:22:31,000
+small or very simple
+
+522
+00:22:31,000 --> 00:22:33,000
+or very shallow
+
+523
+00:22:33,000 --> 00:22:35,000
+standard
+
+524
+00:22:35,000 --> 00:22:37,000
+library, standard set
+
+525
+00:22:37,000 --> 00:22:39,000
+of functions that come
+
+526
+00:22:39,000 --> 00:22:41,000
+from the language itself.
+
+527
+00:22:41,000 --> 00:22:43,000
+Let's talk about languages.
+
+528
+00:22:43,000 --> 00:22:45,000
+If we look at Python, it has a very large
+
+529
+00:22:45,000 --> 00:22:47,000
+standard library. Ruby has a very large standard library.
+
+530
+00:22:47,000 --> 00:22:49,000
+JavaScript doesn't have that.
+
+531
+00:22:49,000 --> 00:22:51,000
+And I think that because of that
+
+532
+00:22:51,000 --> 00:22:53,000
+we have seen in the past
+
+533
+00:22:53,000 --> 00:22:55,000
+a very large library
+
+534
+00:22:55,000 --> 00:22:57,000
+that has been supplemented
+
+535
+00:22:57,000 --> 00:22:59,000
+by a standard set.
+
+536
+00:22:59,000 --> 00:23:01,000
+How do you see that?
+
+537
+00:23:01,000 --> 00:23:03,000
+Is it good for the language itself?
+
+538
+00:23:03,000 --> 00:23:05,000
+Is it bad?
+
+539
+00:23:05,000 --> 00:23:07,000
+I would say that it was good.
+
+540
+00:23:07,000 --> 00:23:09,000
+Basically,
+
+541
+00:23:09,000 --> 00:23:11,000
+why it's good that the standard is small
+
+542
+00:23:11,000 --> 00:23:13,000
+is that
+
+543
+00:23:13,000 --> 00:23:15,000
+because of that
+
+544
+00:23:15,000 --> 00:23:17,000
+it can flow in many different environments
+
+545
+00:23:17,000 --> 00:23:19,000
+and then the new environment
+
+546
+00:23:19,000 --> 00:23:21,000
+doesn't need to be
+
+547
+00:23:21,000 --> 00:23:23,000
+covered by a large part
+
+548
+00:23:23,000 --> 00:23:25,000
+of the standard library
+
+549
+00:23:25,000 --> 00:23:27,000
+If you look at the small part
+
+550
+00:23:27,000 --> 00:23:29,000
+and then look at me,
+
+551
+00:23:29,000 --> 00:23:31,000
+what kind of environment can you add?
+
+552
+00:23:31,000 --> 00:23:33,000
+For example, if I had in the standard
+
+553
+00:23:33,000 --> 00:23:35,000
+all the things that the browser adds
+
+554
+00:23:35,000 --> 00:23:37,000
+it would mean that
+
+555
+00:23:37,000 --> 00:23:39,000
+the language on the backend
+
+556
+00:23:39,000 --> 00:23:41,000
+would look a little different
+
+557
+00:23:41,000 --> 00:23:43,000
+or work differently
+
+558
+00:23:43,000 --> 00:23:45,000
+for people.
+
+559
+00:23:45,000 --> 00:23:47,000
+It would be very difficult to ship, for example.
+
+560
+00:23:47,000 --> 00:23:49,000
+Then that's the right explanation.
+
+561
+00:23:49,000 --> 00:23:51,000
+Because they wanted to make the core
+
+562
+00:23:51,000 --> 00:23:53,000
+very portable,
+
+563
+00:23:53,000 --> 00:23:55,000
+so they didn't need a large standard library.
+
+564
+00:23:55,000 --> 00:23:57,000
+Did I get that right?
+
+565
+00:23:57,000 --> 00:23:59,000
+Maybe, yes.
+
+566
+00:23:59,000 --> 00:24:01,000
+I would say that
+
+567
+00:24:03,000 --> 00:24:05,000
+the beginning
+
+568
+00:24:05,000 --> 00:24:07,000
+I mean, JavaScript is a language
+
+569
+00:24:07,000 --> 00:24:09,000
+that has a standard
+
+570
+00:24:09,000 --> 00:24:11,000
+and then you implement it
+
+571
+00:24:11,000 --> 00:24:13,000
+and then it seems to me that
+
+572
+00:24:13,000 --> 00:24:15,000
+the idea is different
+
+573
+00:24:15,000 --> 00:24:17,000
+because Python is a language
+
+574
+00:24:17,000 --> 00:24:19,000
+that defines its implementation
+
+575
+00:24:19,000 --> 00:24:21,000
+so it's a problem
+
+576
+00:24:21,000 --> 00:24:23,000
+to write any other interpreter
+
+577
+00:24:23,000 --> 00:24:25,000
+other than Python
+
+578
+00:24:25,000 --> 00:24:27,000
+and then go back
+
+579
+00:24:27,000 --> 00:24:29,000
+to choose the implementation
+
+580
+00:24:29,000 --> 00:24:31,000
+and try to make sense of it.
+
+581
+00:24:31,000 --> 00:24:33,000
+And then you have
+
+582
+00:24:33,000 --> 00:24:35,000
+all the other trade-offs.
+
+583
+00:24:37,000 --> 00:24:39,000
+In my opinion, this is a very good
+
+584
+00:24:39,000 --> 00:24:41,000
+reason if you want to have
+
+585
+00:24:41,000 --> 00:24:43,000
+more independent interpreters
+
+586
+00:24:43,000 --> 00:24:45,000
+and then you want to have
+
+587
+00:24:45,000 --> 00:24:47,000
+a language that is
+
+588
+00:24:47,000 --> 00:24:49,000
+well defined, which JavaScript is.
+
+589
+00:24:49,000 --> 00:24:51,000
+Some things are very strange
+
+590
+00:24:51,000 --> 00:24:53,000
+in the definition,
+
+591
+00:24:53,000 --> 00:24:55,000
+various comparisons,
+
+592
+00:24:55,000 --> 00:24:57,000
+some are bigger, some are smaller.
+
+593
+00:25:00,000 --> 00:25:11,000
+It's deterministic, so if you implemented the whole language or the standard subset, you could do it quite simply.
+
+594
+00:25:11,000 --> 00:25:15,000
+It's the same when we see people sharing or reading.
+
+595
+00:25:15,000 --> 00:25:20,000
+You read together, string plus nothing, false plus true.
+
+596
+00:25:20,000 --> 00:25:28,000
+You see a lot of puzzles, snippets that people want to...
+
+597
+00:25:28,000 --> 00:25:30,000
+Mind blowers.
+
+598
+00:25:30,000 --> 00:25:32,000
+Mind blowers, yeah.
+
+599
+00:25:32,000 --> 00:25:34,000
+How would I argue that?
+
+600
+00:25:34,000 --> 00:25:36,000
+Why do we see that?
+
+601
+00:25:36,000 --> 00:25:42,000
+I mean, people share it and make examples because they want to show that the language is shit.
+
+602
+00:25:42,000 --> 00:25:45,000
+It's a comical aspect.
+
+603
+00:25:45,000 --> 00:25:47,000
+I'm sorry, what do you think?
+
+604
+00:25:47,000 --> 00:25:49,000
+I have this...
+
+605
+00:25:49,000 --> 00:25:51,000
+It seems to me that...
+
+606
+00:25:51,000 --> 00:25:53,000
+It's a kind of trial and error.
+
+607
+00:25:53,000 --> 00:25:56,000
+It seems to me that you see this in production codes.
+
+608
+00:25:56,000 --> 00:25:58,000
+Because I don't have a feeling that...
+
+609
+00:25:58,000 --> 00:26:00,000
+That's how it is, unfortunately.
+
+610
+00:26:00,000 --> 00:26:02,000
+In my opinion, you see it in production codes.
+
+611
+00:26:02,000 --> 00:26:05,000
+If a person is very new to the language.
+
+612
+00:26:05,000 --> 00:26:10,000
+And on the other hand, it exists and gives you a lot of other advantages.
+
+613
+00:26:10,000 --> 00:26:16,000
+For example, you can give an object and it will know if it's null or undefined.
+
+614
+00:26:16,000 --> 00:26:19,000
+Or if it's a true value.
+
+615
+00:26:19,000 --> 00:26:23,000
+And now, if you look at any other language.
+
+616
+00:26:23,000 --> 00:26:25,000
+Or most of them.
+
+617
+00:26:25,000 --> 00:26:28,000
+Again, you don't compare strings and numbers.
+
+618
+00:26:28,000 --> 00:26:30,000
+Or you get a compiler error.
+
+619
+00:26:30,000 --> 00:26:33,000
+Here instead of a compiler error, you get...
+
+620
+00:26:33,000 --> 00:26:36,000
+A very black-and-white deterministic state.
+
+621
+00:26:36,000 --> 00:26:38,000
+Maybe you don't know everything.
+
+622
+00:26:38,000 --> 00:26:40,000
+Or it's not that obvious.
+
+623
+00:26:40,000 --> 00:26:43,000
+Do you think that the cases we see...
+
+624
+00:26:43,000 --> 00:26:47,000
+Are they meant to be corrected?
+
+625
+00:26:47,000 --> 00:26:49,000
+I mean, that's the language.
+
+626
+00:26:49,000 --> 00:26:51,000
+That's how it's always been.
+
+627
+00:26:51,000 --> 00:26:53,000
+That's the aspect.
+
+628
+00:26:53,000 --> 00:26:55,000
+The aspect is very precisely determined.
+
+629
+00:26:55,000 --> 00:26:58,000
+What happens if you compare different...
+
+630
+00:26:58,000 --> 00:27:00,000
+Quotes.
+
+631
+00:27:00,000 --> 00:27:02,000
+Types.
+
+632
+00:27:02,000 --> 00:27:04,000
+You compare them.
+
+633
+00:27:04,000 --> 00:27:06,000
+In fact, it doesn't say...
+
+634
+00:27:06,000 --> 00:27:09,000
+If you have an empty object.
+
+635
+00:27:09,000 --> 00:27:11,000
+Is it bigger than us?
+
+636
+00:27:11,000 --> 00:27:13,000
+It doesn't say that in the standard.
+
+637
+00:27:13,000 --> 00:27:15,000
+It's always determined.
+
+638
+00:27:15,000 --> 00:27:18,000
+Now, for me...
+
+639
+00:27:18,000 --> 00:27:21,000
+I have a lot of problems with that.
+
+640
+00:27:21,000 --> 00:27:23,000
+When I write code.
+
+641
+00:27:23,000 --> 00:27:26,000
+If you accidentally get a different type than you think.
+
+642
+00:27:26,000 --> 00:27:28,000
+The thing doesn't explode.
+
+643
+00:27:28,000 --> 00:27:30,000
+And you can have some weird things.
+
+644
+00:27:30,000 --> 00:27:32,000
+Or you go to another case.
+
+645
+00:27:32,000 --> 00:27:34,000
+And you see people checking.
+
+646
+00:27:34,000 --> 00:27:36,000
+Additional guards.
+
+647
+00:27:36,000 --> 00:27:38,000
+Additional checks.
+
+648
+00:27:38,000 --> 00:27:40,000
+That's a different thing.
+
+649
+00:27:40,000 --> 00:27:42,000
+You have a lot of that.
+
+650
+00:27:42,000 --> 00:27:44,000
+You have a lot of helpers.
+
+651
+00:27:44,000 --> 00:27:46,000
+They help you.
+
+652
+00:27:46,000 --> 00:27:48,000
+When they tell you.
+
+653
+00:27:48,000 --> 00:27:50,000
+That's not it.
+
+654
+00:27:50,000 --> 00:27:52,000
+And then you have...
+
+655
+00:27:52,000 --> 00:27:54,000
+In one of their cases.
+
+656
+00:27:54,000 --> 00:27:56,000
+If you want to see if something...
+
+657
+00:27:56,000 --> 00:27:58,000
+Maybe in another language.
+
+658
+00:27:58,000 --> 00:28:00,000
+It's a conditional.
+
+659
+00:28:00,000 --> 00:28:02,000
+In Javascript you can have more.
+
+660
+00:28:02,000 --> 00:28:04,000
+To hide what you really want.
+
+661
+00:28:04,000 --> 00:28:06,000
+And if you're using a language.
+
+662
+00:28:06,000 --> 00:28:08,000
+As a person.
+
+663
+00:28:08,000 --> 00:28:10,000
+I'm not 100% in Javascript.
+
+664
+00:28:10,000 --> 00:28:12,000
+It's harder for me.
+
+665
+00:28:12,000 --> 00:28:14,000
+On projects.
+
+666
+00:28:14,000 --> 00:28:16,000
+I'll need.
+
+667
+00:28:16,000 --> 00:28:18,000
+A month or two.
+
+668
+00:28:18,000 --> 00:28:20,000
+I know that the risk exists.
+
+669
+00:28:20,000 --> 00:28:22,000
+And I'll handle it easier.
+
+670
+00:28:22,000 --> 00:28:24,000
+But still.
+
+671
+00:28:24,000 --> 00:28:26,000
+I'll always say.
+
+672
+00:28:26,000 --> 00:28:28,000
+The frustration people have.
+
+673
+00:28:28,000 --> 00:28:30,000
+If you ask.
+
+674
+00:28:30,000 --> 00:28:32,000
+Is it a language problem.
+
+675
+00:28:32,000 --> 00:28:34,000
+Or is it.
+
+676
+00:28:34,000 --> 00:28:36,000
+We have.
+
+677
+00:28:36,000 --> 00:28:38,000
+One language.
+
+678
+00:28:38,000 --> 00:28:40,000
+That is.
+
+679
+00:28:40,000 --> 00:28:42,000
+Half.
+
+680
+00:28:42,000 --> 00:28:44,000
+We are on the same page.
+
+681
+00:28:44,000 --> 00:28:46,000
+Can I ask you something about TypeScript.
+
+682
+00:28:46,000 --> 00:28:48,000
+Or not yet.
+
+683
+00:28:48,000 --> 00:28:50,000
+Is there.
+
+684
+00:28:50,000 --> 00:28:52,000
+TypeScript that will help.
+
+685
+00:28:52,000 --> 00:28:54,000
+To improve.
+
+686
+00:28:54,000 --> 00:28:56,000
+I.
+
+687
+00:28:56,000 --> 00:28:58,000
+Not yet.
+
+688
+00:28:58,000 --> 00:29:00,000
+For now.
+
+689
+00:29:00,000 --> 00:29:02,000
+Yes.
+
+690
+00:29:02,000 --> 00:29:04,000
+Because in my code.
+
+691
+00:29:04,000 --> 00:29:06,000
+You have hardcoded data.
+
+692
+00:29:06,000 --> 00:29:08,000
+You can follow the type.
+
+693
+00:29:08,000 --> 00:29:10,000
+And it will tell you.
+
+694
+00:29:10,000 --> 00:29:12,000
+You did something strange.
+
+695
+00:29:12,000 --> 00:29:14,000
+And you can.
+
+696
+00:29:14,000 --> 00:29:16,000
+Watch it.
+
+697
+00:29:16,000 --> 00:29:18,000
+On the other hand.
+
+698
+00:29:18,000 --> 00:29:20,000
+As it is.
+
+699
+00:29:20,000 --> 00:29:22,000
+Javascript is used.
+
+700
+00:29:22,000 --> 00:29:24,000
+Data comes from somewhere.
+
+701
+00:29:24,000 --> 00:29:26,000
+There are a number of types.
+
+702
+00:29:26,000 --> 00:29:28,000
+And.
+
+703
+00:29:28,000 --> 00:29:30,000
+If you protect this part.
+
+704
+00:29:30,000 --> 00:29:32,000
+Very well.
+
+705
+00:29:32,000 --> 00:29:34,000
+Then you make various conversions.
+
+706
+00:29:34,000 --> 00:29:36,000
+Then you parse it properly.
+
+707
+00:29:36,000 --> 00:29:38,000
+Then you can.
+
+708
+00:29:38,000 --> 00:29:40,000
+Solve most of these problems.
+
+709
+00:29:40,000 --> 00:29:42,000
+But.
+
+710
+00:29:42,000 --> 00:29:44,000
+When we first talked.
+
+711
+00:29:44,000 --> 00:29:46,000
+You said you were not.
+
+712
+00:29:46,000 --> 00:29:48,000
+Directing in Javascript.
+
+713
+00:29:48,000 --> 00:29:50,000
+Do you use TypeScript.
+
+714
+00:29:50,000 --> 00:29:52,000
+Does that mean.
+
+715
+00:29:52,000 --> 00:29:54,000
+Not so much.
+
+716
+00:29:54,000 --> 00:29:56,000
+But my result is always.
+
+717
+00:29:56,000 --> 00:29:58,000
+Javascript.
+
+718
+00:29:58,000 --> 00:30:00,000
+Then you know it.
+
+719
+00:30:00,000 --> 00:30:02,000
+This is very important.
+
+720
+00:30:02,000 --> 00:30:04,000
+TypeScript is more full typing.
+
+721
+00:30:04,000 --> 00:30:06,000
+A lot of people will use it.
+
+722
+00:30:06,000 --> 00:30:08,000
+You are already warned.
+
+723
+00:30:08,000 --> 00:30:10,000
+On annotations in TypeScript.
+
+724
+00:30:10,000 --> 00:30:12,000
+But.
+
+725
+00:30:12,000 --> 00:30:14,000
+You don't have decoders.
+
+726
+00:30:14,000 --> 00:30:16,000
+In some other languages.
+
+727
+00:30:16,000 --> 00:30:18,000
+When you.
+
+728
+00:30:18,000 --> 00:30:20,000
+In runtime would say.
+
+729
+00:30:20,000 --> 00:30:22,000
+In TypeScript.
+
+730
+00:30:22,000 --> 00:30:24,000
+You don't have.
+
+731
+00:30:24,000 --> 00:30:26,000
+Automatic validators.
+
+732
+00:30:26,000 --> 00:30:28,000
+For types that are defined.
+
+733
+00:30:28,000 --> 00:30:30,000
+There are some projects.
+
+734
+00:30:30,000 --> 00:30:32,000
+I've seen them a little.
+
+735
+00:30:32,000 --> 00:30:34,000
+It's not a standard.
+
+736
+00:30:34,000 --> 00:30:36,000
+A lot of people still use it.
+
+737
+00:30:36,000 --> 00:30:38,000
+You have some.
+
+738
+00:30:38,000 --> 00:30:40,000
+Cultures.
+
+739
+00:30:40,000 --> 00:30:42,000
+Where you can.
+
+740
+00:30:42,000 --> 00:30:44,000
+Generate types.
+
+741
+00:30:44,000 --> 00:30:46,000
+Plus all.
+
+742
+00:30:46,000 --> 00:30:48,000
+These guard mechanisms.
+
+743
+00:30:48,000 --> 00:30:50,000
+If I have this object.
+
+744
+00:30:50,000 --> 00:30:52,000
+It came to me.
+
+745
+00:30:52,000 --> 00:30:54,000
+I will send it through this thing.
+
+746
+00:30:54,000 --> 00:30:56,000
+It will come back.
+
+747
+00:30:56,000 --> 00:30:58,000
+There will be an error.
+
+748
+00:30:58,000 --> 00:31:00,000
+We'll just say.
+
+749
+00:31:00,000 --> 00:31:02,000
+At the end of the link.
+
+750
+00:31:02,000 --> 00:31:04,000
+In the description.
+
+751
+00:31:08,000 --> 00:31:10,000
+Let's be friends.
+
+752
+00:31:10,000 --> 00:31:12,000
+To the beginners.
+
+753
+00:31:12,000 --> 00:31:14,000
+What is TypeScript.
+
+754
+00:31:14,000 --> 00:31:16,000
+We will all be on the same page.
+
+755
+00:31:16,000 --> 00:31:18,000
+TypeScript.
+
+756
+00:31:18,000 --> 00:31:20,000
+Is now a project.
+
+757
+00:31:20,000 --> 00:31:22,000
+It's been a few years.
+
+758
+00:31:22,000 --> 00:31:24,000
+To be presented.
+
+759
+00:31:24,000 --> 00:31:26,000
+In a broader community.
+
+760
+00:31:26,000 --> 00:31:28,000
+With Angular 2.
+
+761
+00:31:28,000 --> 00:31:30,000
+The idea of ​​TypeScript.
+
+762
+00:31:30,000 --> 00:31:32,000
+It helps you write.
+
+763
+00:31:32,000 --> 00:31:34,000
+More carefully JavaScript code.
+
+764
+00:31:34,000 --> 00:31:36,000
+With the addition of types.
+
+765
+00:31:36,000 --> 00:31:38,000
+Add static.
+
+766
+00:31:38,000 --> 00:31:40,000
+Checking.
+
+767
+00:31:40,000 --> 00:31:42,000
+Where you can.
+
+768
+00:31:42,000 --> 00:31:44,000
+Today predict.
+
+769
+00:31:44,000 --> 00:31:46,000
+For these types.
+
+770
+00:31:46,000 --> 00:31:48,000
+Work.
+
+771
+00:31:48,000 --> 00:31:50,000
+I think the result.
+
+772
+00:31:50,000 --> 00:31:52,000
+TypeScript is still a constant script.
+
+773
+00:31:52,000 --> 00:31:54,000
+What is missing.
+
+774
+00:31:54,000 --> 00:31:56,000
+Are all the signs for types.
+
+775
+00:31:56,000 --> 00:31:58,000
+Will.
+
+776
+00:31:58,000 --> 00:32:00,000
+Is there an additional performance penalty.
+
+777
+00:32:00,000 --> 00:32:02,000
+If I use TypeScript.
+
+778
+00:32:02,000 --> 00:32:04,000
+Performance.
+
+779
+00:32:04,000 --> 00:32:06,000
+In the runtime.
+
+780
+00:32:06,000 --> 00:32:08,000
+No.
+
+781
+00:32:08,000 --> 00:32:10,000
+It is additional.
+
+782
+00:32:10,000 --> 00:32:12,000
+It may take some time.
+
+783
+00:32:12,000 --> 00:32:14,000
+You can save time.
+
+784
+00:32:14,000 --> 00:32:16,000
+If you do not want to look.
+
+785
+00:32:16,000 --> 00:32:18,000
+For some strange bugs.
+
+786
+00:32:18,000 --> 00:32:20,000
+It's just a TypeScript project.
+
+787
+00:32:20,000 --> 00:32:22,000
+Almost everything.
+
+788
+00:32:22,000 --> 00:32:24,000
+I do not have a developer.
+
+789
+00:32:24,000 --> 00:32:26,000
+To check it.
+
+790
+00:32:26,000 --> 00:32:28,000
+As we have auto refresh.
+
+791
+00:32:28,000 --> 00:32:30,000
+Automatic check.
+
+792
+00:32:30,000 --> 00:32:32,000
+This problem.
+
+793
+00:32:32,000 --> 00:32:34,000
+On large projects.
+
+794
+00:32:34,000 --> 00:32:36,000
+Has come so much.
+
+795
+00:32:36,000 --> 00:32:38,000
+To appear.
+
+796
+00:32:38,000 --> 00:32:40,000
+Competitors.
+
+797
+00:32:40,000 --> 00:32:42,000
+If you take TypeScript.
+
+798
+00:32:42,000 --> 00:32:44,000
+Specification.
+
+799
+00:32:44,000 --> 00:32:46,000
+Then in another language.
+
+800
+00:32:46,000 --> 00:32:48,000
+Write in static checking.
+
+801
+00:32:48,000 --> 00:32:50,000
+Then you replace the tool.
+
+802
+00:32:50,000 --> 00:32:52,000
+If you still write TypeScript.
+
+803
+00:32:52,000 --> 00:32:54,000
+Use another tool.
+
+804
+00:32:54,000 --> 00:32:56,000
+To check everything.
+
+805
+00:32:56,000 --> 00:32:58,000
+Type checker.
+
+806
+00:32:58,000 --> 00:33:00,000
+But it is still.
+
+807
+00:33:00,000 --> 00:33:02,000
+TypeScript compliant.
+
+808
+00:33:02,000 --> 00:33:04,000
+Do not add.
+
+809
+00:33:04,000 --> 00:33:06,000
+Do not try to add your own types.
+
+810
+00:33:06,000 --> 00:33:08,000
+Just try to optimize.
+
+811
+00:33:08,000 --> 00:33:10,000
+Do you think.
+
+812
+00:33:10,000 --> 00:33:12,000
+That this.
+
+813
+00:33:12,000 --> 00:33:14,000
+Definition.
+
+814
+00:33:14,000 --> 00:33:16,000
+Type checking.
+
+815
+00:33:16,000 --> 00:33:18,000
+Which TypeScript does.
+
+816
+00:33:18,000 --> 00:33:20,000
+As its own project.
+
+817
+00:33:20,000 --> 00:33:22,000
+We will ever get.
+
+818
+00:33:22,000 --> 00:33:24,000
+Strict mode.
+
+819
+00:33:24,000 --> 00:33:26,000
+That part of JavaScript.
+
+820
+00:33:26,000 --> 00:33:28,000
+Some annotation.
+
+821
+00:33:28,000 --> 00:33:30,000
+Function.
+
+822
+00:33:30,000 --> 00:33:32,000
+Can be zero.
+
+823
+00:33:32,000 --> 00:33:34,000
+Do you think we'll ever get there?
+
+824
+00:33:34,000 --> 00:33:36,000
+There is currently a proposal.
+
+825
+00:33:36,000 --> 00:33:38,000
+Which is now stage 1.
+
+826
+00:33:38,000 --> 00:33:40,000
+In addition to the fact that someone wrote it.
+
+827
+00:33:40,000 --> 00:33:42,000
+They really talk to each other.
+
+828
+00:33:42,000 --> 00:33:44,000
+They have.
+
+829
+00:33:44,000 --> 00:33:46,000
+Authors from different companies.
+
+830
+00:33:46,000 --> 00:33:48,000
+Microsoft.
+
+831
+00:33:48,000 --> 00:33:50,000
+Bloomberg.
+
+832
+00:33:50,000 --> 00:33:52,000
+Another company that I do not remember.
+
+833
+00:33:52,000 --> 00:33:54,000
+But their idea.
+
+834
+00:33:54,000 --> 00:33:56,000
+Here was.
+
+835
+00:33:56,000 --> 00:33:58,000
+Let's not take TypeScript.
+
+836
+00:33:58,000 --> 00:34:00,000
+And say it will now be in the browser.
+
+837
+00:34:00,000 --> 00:34:02,000
+Then we will optimize everything for that.
+
+838
+00:34:02,000 --> 00:34:04,000
+But let's let developers.
+
+839
+00:34:04,000 --> 00:34:06,000
+Let them choose for themselves.
+
+840
+00:34:06,000 --> 00:34:08,000
+We will then add a standard.
+
+841
+00:34:08,000 --> 00:34:10,000
+Some annotation.
+
+842
+00:34:10,000 --> 00:34:12,000
+Some grammar.
+
+843
+00:34:12,000 --> 00:34:14,000
+Which will enable typing.
+
+844
+00:34:14,000 --> 00:34:16,000
+Which will always.
+
+845
+00:34:16,000 --> 00:34:18,000
+In the end, maybe you can remember.
+
+846
+00:34:18,000 --> 00:34:20,000
+Your own type language.
+
+847
+00:34:20,000 --> 00:34:22,000
+If it's JavaScript.
+
+848
+00:34:22,000 --> 00:34:24,000
+In practice.
+
+849
+00:34:24,000 --> 00:34:26,000
+That means.
+
+850
+00:34:26,000 --> 00:34:28,000
+You can follow it.
+
+851
+00:34:28,000 --> 00:34:30,000
+An example of this.
+
+852
+00:34:30,000 --> 00:34:32,000
+When they set it up.
+
+853
+00:34:32,000 --> 00:34:34,000
+Maybe for beginners.
+
+854
+00:34:34,000 --> 00:34:36,000
+Is.
+
+855
+00:34:36,000 --> 00:34:38,000
+That you can use TypeScript.
+
+856
+00:34:38,000 --> 00:34:40,000
+And now.
+
+857
+00:34:40,000 --> 00:34:42,000
+When I learn JavaScript.
+
+858
+00:34:42,000 --> 00:34:44,000
+TypeScript will take it.
+
+859
+00:34:44,000 --> 00:34:46,000
+Try to run it in the browser.
+
+860
+00:34:46,000 --> 00:34:48,000
+And then in the node.
+
+861
+00:34:48,000 --> 00:34:50,000
+Then you would get an error.
+
+862
+00:34:50,000 --> 00:34:52,000
+That you have a syntactic error here.
+
+863
+00:34:52,000 --> 00:34:54,000
+This is because.
+
+864
+00:34:54,000 --> 00:34:56,000
+JavaScript engine.
+
+865
+00:34:56,000 --> 00:34:58,000
+Still does not understand.
+
+866
+00:34:58,000 --> 00:35:00,000
+Types.
+
+867
+00:35:00,000 --> 00:35:02,000
+How to break.
+
+868
+00:35:02,000 --> 00:35:04,000
+Rules.
+
+869
+00:35:04,000 --> 00:35:06,000
+How the language is written.
+
+870
+00:35:06,000 --> 00:35:08,000
+And now that they have decided.
+
+871
+00:35:08,000 --> 00:35:10,000
+We will give you some syntax here.
+
+872
+00:35:10,000 --> 00:35:12,000
+Which corresponds to the comments.
+
+873
+00:35:12,000 --> 00:35:14,000
+Which we will ignore.
+
+874
+00:35:14,000 --> 00:35:16,000
+And we will choose.
+
+875
+00:35:16,000 --> 00:35:18,000
+And we will not go to the side.
+
+876
+00:35:18,000 --> 00:35:20,000
+You will.
+
+877
+00:35:20,000 --> 00:35:22,000
+If you want to make your own type system.
+
+878
+00:35:22,000 --> 00:35:24,000
+You will follow the standard.
+
+879
+00:35:24,000 --> 00:35:26,000
+If you want it to run.
+
+880
+00:35:26,000 --> 00:35:28,000
+Without any compiling.
+
+881
+00:35:28,000 --> 00:35:30,000
+You have to create your own.
+
+882
+00:35:30,000 --> 00:35:32,000
+Because all the rules.
+
+883
+00:35:32,000 --> 00:35:34,000
+They have a compiler.
+
+884
+00:35:34,000 --> 00:35:36,000
+Which will solve it for you.
+
+885
+00:35:36,000 --> 00:35:38,000
+With what they have proposed.
+
+886
+00:35:38,000 --> 00:35:40,000
+It will allow you to write.
+
+887
+00:35:40,000 --> 00:35:42,000
+In any language.
+
+888
+00:35:42,000 --> 00:35:44,000
+Which is compliant with it.
+
+889
+00:35:44,000 --> 00:35:46,000
+And you will always have.
+
+890
+00:35:46,000 --> 00:35:48,000
+In all the engines.
+
+891
+00:35:48,000 --> 00:35:50,000
+That will implement this standard.
+
+892
+00:35:50,000 --> 00:35:52,000
+All.
+
+893
+00:35:52,000 --> 00:35:54,000
+Beginners who do not know.
+
+894
+00:35:54,000 --> 00:35:56,000
+TypeScript.
+
+895
+00:35:56,000 --> 00:35:58,000
+It is very complicated.
+
+896
+00:35:58,000 --> 00:36:00,000
+And you have to learn it.
+
+897
+00:36:00,000 --> 00:36:02,000
+What do you think about it?
+
+898
+00:36:02,000 --> 00:36:04,000
+Learning JavaScript first.
+
+899
+00:36:04,000 --> 00:36:06,000
+And then TypeScript.
+
+900
+00:36:06,000 --> 00:36:08,000
+Learning TypeScript.
+
+901
+00:36:08,000 --> 00:36:10,000
+Or trying.
+
+902
+00:36:10,000 --> 00:36:12,000
+Angular tutorial.
+
+903
+00:36:12,000 --> 00:36:14,000
+Where do you see.
+
+904
+00:36:14,000 --> 00:36:16,000
+Do you know what this question is?
+
+905
+00:36:16,000 --> 00:36:18,000
+In my opinion.
+
+906
+00:36:18,000 --> 00:36:20,000
+This is a very complex question.
+
+907
+00:36:20,000 --> 00:36:22,000
+Also very dependent.
+
+908
+00:36:22,000 --> 00:36:24,000
+From how.
+
+909
+00:36:24,000 --> 00:36:26,000
+But how do you see it together.
+
+910
+00:36:26,000 --> 00:36:28,000
+Now my opinion.
+
+911
+00:36:28,000 --> 00:36:30,000
+This is.
+
+912
+00:36:30,000 --> 00:36:32,000
+As for the job market.
+
+913
+00:36:32,000 --> 00:36:34,000
+A lot of companies use TypeScript.
+
+914
+00:36:34,000 --> 00:36:36,000
+From the heart.
+
+915
+00:36:36,000 --> 00:36:38,000
+It is practical to learn.
+
+916
+00:36:38,000 --> 00:36:40,000
+Kreative.
+
+917
+00:36:40,000 --> 00:36:42,000
+TypeScript.
+
+918
+00:36:42,000 --> 00:36:44,000
+It is implemented.
+
+919
+00:36:44,000 --> 00:36:46,000
+In all those major.
+
+920
+00:36:46,000 --> 00:36:48,000
+Editors.
+
+921
+00:36:48,000 --> 00:36:50,000
+And you will.
+
+922
+00:36:50,000 --> 00:36:52,000
+You will get a lot of benefits from it.
+
+923
+00:36:52,000 --> 00:36:54,000
+Already the day before.
+
+924
+00:36:54,000 --> 00:36:56,000
+You need to write a type.
+
+925
+00:36:56,000 --> 00:36:58,000
+Every book.
+
+926
+00:36:58,000 --> 00:37:00,000
+When I write my type.
+
+927
+00:37:00,000 --> 00:37:02,000
+You will have an auto-complete.
+
+928
+00:37:02,000 --> 00:37:04,000
+Notebook.
+
+929
+00:37:04,000 --> 00:37:06,000
+Browser.
+
+930
+00:37:06,000 --> 00:37:08,000
+You have all these things already written.
+
+931
+00:37:08,000 --> 00:37:10,000
+For self-study.
+
+932
+00:37:10,000 --> 00:37:12,000
+It seems to me.
+
+933
+00:37:12,000 --> 00:37:14,000
+Presented.
+
+934
+00:37:14,000 --> 00:37:16,000
+More effort.
+
+935
+00:37:16,000 --> 00:37:18,000
+You think about the type.
+
+936
+00:37:18,000 --> 00:37:20,000
+And you write them.
+
+937
+00:37:20,000 --> 00:37:22,000
+I think it would be great.
+
+938
+00:37:22,000 --> 00:37:24,000
+To be able to use it.
+
+939
+00:37:26,000 --> 00:37:28,000
+TypeScript is still.
+
+940
+00:37:28,000 --> 00:37:30,000
+A great network.
+
+941
+00:37:30,000 --> 00:37:32,000
+I know that.
+
+942
+00:37:32,000 --> 00:37:34,000
+If I write TypeScript.
+
+943
+00:37:34,000 --> 00:37:36,000
+Only JavaScript will do it.
+
+944
+00:37:36,000 --> 00:37:38,000
+You will probably get.
+
+945
+00:37:38,000 --> 00:37:40,000
+With the default configuration.
+
+946
+00:37:40,000 --> 00:37:42,000
+Some errors.
+
+947
+00:37:42,000 --> 00:37:44,000
+You do not have this.
+
+948
+00:37:44,000 --> 00:37:46,000
+You can change it.
+
+949
+00:37:46,000 --> 00:37:48,000
+But still.
+
+950
+00:37:48,000 --> 00:37:50,000
+If you have a TypeScript file.
+
+951
+00:37:50,000 --> 00:37:52,000
+If you have a good configuration.
+
+952
+00:37:52,000 --> 00:37:54,000
+You can write JavaScript.
+
+953
+00:37:54,000 --> 00:37:56,000
+Maybe.
+
+954
+00:37:56,000 --> 00:37:58,000
+For a beginner.
+
+955
+00:37:58,000 --> 00:38:00,000
+It's one thing.
+
+956
+00:38:00,000 --> 00:38:02,000
+Yes.
+
+957
+00:38:02,000 --> 00:38:04,000
+Definitely.
+
+958
+00:38:04,000 --> 00:38:06,000
+TypeScript also has.
+
+959
+00:38:06,000 --> 00:38:08,000
+Strictness.
+
+960
+00:38:08,000 --> 00:38:10,000
+Something you can define.
+
+961
+00:38:10,000 --> 00:38:12,000
+You can continue.
+
+962
+00:38:12,000 --> 00:38:14,000
+You can start with.
+
+963
+00:38:14,000 --> 00:38:16,000
+Very loosely defined.
+
+964
+00:38:16,000 --> 00:38:18,000
+Types.
+
+965
+00:38:18,000 --> 00:38:20,000
+And then.
+
+966
+00:38:20,000 --> 00:38:22,000
+If I'm more experienced.
+
+967
+00:38:22,000 --> 00:38:24,000
+I can.
+
+968
+00:38:24,000 --> 00:38:26,000
+Strengthen.
+
+969
+00:38:26,000 --> 00:38:28,000
+But you can.
+
+970
+00:38:28,000 --> 00:38:30,000
+More strictly.
+
+971
+00:38:30,000 --> 00:38:32,000
+You can also.
+
+972
+00:38:32,000 --> 00:38:34,000
+Hint people.
+
+973
+00:38:34,000 --> 00:38:36,000
+You can start.
+
+974
+00:38:36,000 --> 00:38:38,000
+With the existing knowledge.
+
+975
+00:38:38,000 --> 00:38:40,000
+At this point.
+
+976
+00:38:40,000 --> 00:38:42,000
+One question.
+
+977
+00:38:42,000 --> 00:38:44,000
+If we are juniors.
+
+978
+00:38:44,000 --> 00:38:46,000
+At the executive level.
+
+979
+00:38:46,000 --> 00:38:48,000
+TypeScript.
+
+980
+00:38:48,000 --> 00:38:50,000
+Is it worth it?
+
+981
+00:38:50,000 --> 00:38:52,000
+To invest.
+
+982
+00:38:52,000 --> 00:38:54,000
+In modernization.
+
+983
+00:38:54,000 --> 00:38:56,000
+Of their existing.
+
+984
+00:38:56,000 --> 00:38:58,000
+JavaScript stack.
+
+985
+00:38:58,000 --> 00:39:00,000
+With TypeScript.
+
+986
+00:39:00,000 --> 00:39:02,000
+Yes.
+
+987
+00:39:02,000 --> 00:39:04,000
+Executive decision.
+
+988
+00:39:04,000 --> 00:39:06,000
+Very.
+
+989
+00:39:06,000 --> 00:39:08,000
+Very.
+
+990
+00:39:08,000 --> 00:39:10,000
+On the one hand.
+
+991
+00:39:10,000 --> 00:39:12,000
+You can stop development.
+
+992
+00:39:12,000 --> 00:39:14,000
+So that everyone.
+
+993
+00:39:14,000 --> 00:39:16,000
+Adapts.
+
+994
+00:39:16,000 --> 00:39:18,000
+On the other hand.
+
+995
+00:39:18,000 --> 00:39:20,000
+As in many projects.
+
+996
+00:39:20,000 --> 00:39:22,000
+You can start.
+
+997
+00:39:22,000 --> 00:39:24,000
+One team.
+
+998
+00:39:24,000 --> 00:39:26,000
+Or just in new files.
+
+999
+00:39:26,000 --> 00:39:28,000
+Something to add.
+
+1000
+00:39:28,000 --> 00:39:30,000
+Now we will assign everything.
+
+1001
+00:39:30,000 --> 00:39:32,000
+To something new.
+
+1002
+00:39:32,000 --> 00:39:34,000
+You can incrementally.
+
+1003
+00:39:34,000 --> 00:39:36,000
+Introduce.
+
+1004
+00:39:36,000 --> 00:39:38,000
+If you look.
+
+1005
+00:39:38,000 --> 00:39:40,000
+From an executive point of view.
+
+1006
+00:39:40,000 --> 00:39:42,000
+You can move it.
+
+1007
+00:39:42,000 --> 00:39:44,000
+Are people more satisfied now?
+
+1008
+00:39:44,000 --> 00:39:46,000
+Do they complain more?
+
+1009
+00:39:46,000 --> 00:39:48,000
+Have they noticed.
+
+1010
+00:39:48,000 --> 00:39:50,000
+That maybe they are faster.
+
+1011
+00:39:50,000 --> 00:39:52,000
+Or that you have less bugs.
+
+1012
+00:39:52,000 --> 00:39:54,000
+When it comes back to development.
+
+1013
+00:39:54,000 --> 00:39:56,000
+How to prepare.
+
+1014
+00:39:56,000 --> 00:39:58,000
+What will this change mean?
+
+1015
+00:39:58,000 --> 00:40:00,000
+You can say.
+
+1016
+00:40:00,000 --> 00:40:02,000
+That if the company.
+
+1017
+00:40:02,000 --> 00:40:04,000
+Will continue to work on TypeScript.
+
+1018
+00:40:04,000 --> 00:40:06,000
+That it would be because of that.
+
+1019
+00:40:06,000 --> 00:40:08,000
+Less bugs.
+
+1020
+00:40:08,000 --> 00:40:10,000
+You can say that.
+
+1021
+00:40:10,000 --> 00:40:12,000
+Or just developer experience.
+
+1022
+00:40:12,000 --> 00:40:14,000
+Better.
+
+1023
+00:40:14,000 --> 00:40:16,000
+I wouldn't say that.
+
+1024
+00:40:16,000 --> 00:40:18,000
+Because.
+
+1025
+00:40:18,000 --> 00:40:20,000
+It all depends.
+
+1026
+00:40:20,000 --> 00:40:22,000
+On the team that adapts it.
+
+1027
+00:40:22,000 --> 00:40:24,000
+But I think that.
+
+1028
+00:40:24,000 --> 00:40:26,000
+Developer experience can be very correct.
+
+1029
+00:40:26,000 --> 00:40:28,000
+I always try.
+
+1030
+00:40:28,000 --> 00:40:30,000
+On such projects.
+
+1031
+00:40:30,000 --> 00:40:32,000
+To look first.
+
+1032
+00:40:32,000 --> 00:40:34,000
+On a core part.
+
+1033
+00:40:34,000 --> 00:40:36,000
+And a user-led part.
+
+1034
+00:40:36,000 --> 00:40:38,000
+Where you have some.
+
+1035
+00:40:38,000 --> 00:40:40,000
+Implementation business rules.
+
+1036
+00:40:40,000 --> 00:40:42,000
+And now.
+
+1037
+00:40:42,000 --> 00:40:44,000
+Even if you do this core part.
+
+1038
+00:40:44,000 --> 00:40:46,000
+Very well.
+
+1039
+00:40:46,000 --> 00:40:48,000
+And you do it with TypeScript.
+
+1040
+00:40:48,000 --> 00:40:50,000
+I think it will be a very good developer experience.
+
+1041
+00:40:50,000 --> 00:40:52,000
+You still don't need.
+
+1042
+00:40:52,000 --> 00:40:54,000
+On every type of code.
+
+1043
+00:40:54,000 --> 00:40:56,000
+That will be repeated only once.
+
+1044
+00:40:56,000 --> 00:40:58,000
+And used only once in one example.
+
+1045
+00:40:58,000 --> 00:41:00,000
+Go to the end with TypeScript.
+
+1046
+00:41:00,000 --> 00:41:02,000
+I wanted to say.
+
+1047
+00:41:02,000 --> 00:41:04,000
+At this point.
+
+1048
+00:41:04,000 --> 00:41:06,000
+That TypeScript.
+
+1049
+00:41:06,000 --> 00:41:08,000
+Type system.
+
+1050
+00:41:08,000 --> 00:41:10,000
+Turing complete.
+
+1051
+00:41:10,000 --> 00:41:12,000
+And then I wanted.
+
+1052
+00:41:12,000 --> 00:41:14,000
+With this new knowledge.
+
+1053
+00:41:14,000 --> 00:41:16,000
+Plasma.
+
+1054
+00:41:16,000 --> 00:41:18,000
+But constantly.
+
+1055
+00:41:18,000 --> 00:41:20,000
+Flying on this wall.
+
+1056
+00:41:20,000 --> 00:41:22,000
+With Andraž.
+
+1057
+00:41:22,000 --> 00:41:24,000
+You can imagine.
+
+1058
+00:41:24,000 --> 00:41:26,000
+That would be Jason Turing complete.
+
+1059
+00:41:26,000 --> 00:41:28,000
+And Folkiger would write Jason.
+
+1060
+00:41:28,000 --> 00:41:30,000
+Like a cave.
+
+1061
+00:41:30,000 --> 00:41:32,000
+I think that.
+
+1062
+00:41:32,000 --> 00:41:34,000
+I really.
+
+1063
+00:41:34,000 --> 00:41:36,000
+I really like that.
+
+1064
+00:41:36,000 --> 00:41:38,000
+Often as developers.
+
+1065
+00:41:38,000 --> 00:41:40,000
+We think that we are gods.
+
+1066
+00:41:40,000 --> 00:41:42,000
+And that we need a tool.
+
+1067
+00:41:42,000 --> 00:41:44,000
+That knows how to do it.
+
+1068
+00:41:44,000 --> 00:41:46,000
+If not Turing complete.
+
+1069
+00:41:46,000 --> 00:41:48,000
+Then it doesn't matter.
+
+1070
+00:41:48,000 --> 00:41:50,000
+I don't know.
+
+1071
+00:41:50,000 --> 00:41:52,000
+I'm the kind of person.
+
+1072
+00:41:52,000 --> 00:41:54,000
+I really like to invent.
+
+1073
+00:41:54,000 --> 00:41:56,000
+Because I build them.
+
+1074
+00:41:56,000 --> 00:41:58,000
+Because your project grows.
+
+1075
+00:41:58,000 --> 00:42:00,000
+And you have more and more developers.
+
+1076
+00:42:00,000 --> 00:42:02,000
+And you tell them.
+
+1077
+00:42:02,000 --> 00:42:04,000
+Can I please.
+
+1078
+00:42:04,000 --> 00:42:06,000
+Not have a compile time.
+
+1079
+00:42:06,000 --> 00:42:08,000
+We don't write that template.
+
+1080
+00:42:08,000 --> 00:42:10,000
+I don't know.
+
+1081
+00:42:10,000 --> 00:42:12,000
+But.
+
+1082
+00:42:12,000 --> 00:42:14,000
+I mean.
+
+1083
+00:42:14,000 --> 00:42:16,000
+Maybe I wanted to mention.
+
+1084
+00:42:16,000 --> 00:42:18,000
+That it's extremely powerful.
+
+1085
+00:42:18,000 --> 00:42:20,000
+If it was at the beginning.
+
+1086
+00:42:20,000 --> 00:42:22,000
+TypeScript or type system.
+
+1087
+00:42:22,000 --> 00:42:24,000
+Basically basic.
+
+1088
+00:42:24,000 --> 00:42:26,000
+Now it's very.
+
+1089
+00:42:26,000 --> 00:42:28,000
+Very powerful.
+
+1090
+00:42:28,000 --> 00:42:30,000
+I think that's what Turner did.
+
+1091
+00:42:30,000 --> 00:42:32,000
+Do you think.
+
+1092
+00:42:32,000 --> 00:42:34,000
+That it's more.
+
+1093
+00:42:34,000 --> 00:42:36,000
+Some features that would.
+
+1094
+00:42:36,000 --> 00:42:38,000
+Worldwide.
+
+1095
+00:42:38,000 --> 00:42:40,000
+Library developers.
+
+1096
+00:42:40,000 --> 00:42:42,000
+Can you explain that a little bit.
+
+1097
+00:42:42,000 --> 00:42:44,000
+First I met.
+
+1098
+00:42:44,000 --> 00:42:46,000
+With Turing complete.
+
+1099
+00:42:46,000 --> 00:42:48,000
+Only in TypeScript.
+
+1100
+00:42:48,000 --> 00:42:50,000
+When I saw that someone wrote.
+
+1101
+00:42:50,000 --> 00:42:52,000
+Bubble sort.
+
+1102
+00:42:52,000 --> 00:42:54,000
+Then someone wrote.
+
+1103
+00:42:54,000 --> 00:42:56,000
+Base in TypeScript.
+
+1104
+00:42:56,000 --> 00:42:58,000
+Base in TypeScript.
+
+1105
+00:42:58,000 --> 00:43:00,000
+In fact.
+
+1106
+00:43:00,000 --> 00:43:02,000
+In just type checking.
+
+1107
+00:43:02,000 --> 00:43:04,000
+You can add elements.
+
+1108
+00:43:04,000 --> 00:43:06,000
+Choose from them.
+
+1109
+00:43:06,000 --> 00:43:08,000
+At the end I saw the implementation.
+
+1110
+00:43:08,000 --> 00:43:10,000
+When someone implemented TypeScript.
+
+1111
+00:43:10,000 --> 00:43:12,000
+In TypeScript.
+
+1112
+00:43:12,000 --> 00:43:14,000
+Because it's such a good fun fact.
+
+1113
+00:43:14,000 --> 00:43:16,000
+Something you might ask.
+
+1114
+00:43:16,000 --> 00:43:18,000
+Millionaire.
+
+1115
+00:43:18,000 --> 00:43:20,000
+In practice.
+
+1116
+00:43:20,000 --> 00:43:22,000
+There are examples.
+
+1117
+00:43:22,000 --> 00:43:24,000
+From the library.
+
+1118
+00:43:24,000 --> 00:43:26,000
+Which is very popular.
+
+1119
+00:43:26,000 --> 00:43:28,000
+Million developers.
+
+1120
+00:43:28,000 --> 00:43:30,000
+Around the world.
+
+1121
+00:43:30,000 --> 00:43:32,000
+It may be good to invest some time.
+
+1122
+00:43:32,000 --> 00:43:34,000
+To do it.
+
+1123
+00:43:34,000 --> 00:43:36,000
+I'm a developer.
+
+1124
+00:43:36,000 --> 00:43:38,000
+This is also something.
+
+1125
+00:43:38,000 --> 00:43:40,000
+At the moment.
+
+1126
+00:43:40,000 --> 00:43:42,000
+Make or break a library.
+
+1127
+00:43:42,000 --> 00:43:44,000
+I'm the same developer experience.
+
+1128
+00:43:44,000 --> 00:43:46,000
+Because of TypeScript.
+
+1129
+00:43:46,000 --> 00:43:48,000
+Because of the lack of TypeScript.
+
+1130
+00:43:48,000 --> 00:43:50,000
+TypeScript also has some macro.
+
+1131
+00:43:50,000 --> 00:43:52,000
+Notations.
+
+1132
+00:43:52,000 --> 00:43:54,000
+I'm not.
+
+1133
+00:43:54,000 --> 00:43:56,000
+One hundred percent sure.
+
+1134
+00:43:56,000 --> 00:43:58,000
+Because I did not go.
+
+1135
+00:43:58,000 --> 00:44:00,000
+A lot of work with TypeScript.
+
+1136
+00:44:00,000 --> 00:44:02,000
+I saw a lot of things.
+
+1137
+00:44:02,000 --> 00:44:04,000
+But at some point it will become.
+
+1138
+00:44:04,000 --> 00:44:06,000
+Also very complex.
+
+1139
+00:44:06,000 --> 00:44:08,000
+If you use it.
+
+1140
+00:44:08,000 --> 00:44:10,000
+In some normal projects.
+
+1141
+00:44:10,000 --> 00:44:12,000
+And do a lot of things.
+
+1142
+00:44:12,000 --> 00:44:14,000
+For generics.
+
+1143
+00:44:14,000 --> 00:44:16,000
+This code will work great.
+
+1144
+00:44:16,000 --> 00:44:18,000
+Code.
+
+1145
+00:44:18,000 --> 00:44:20,000
+For some consumer.
+
+1146
+00:44:20,000 --> 00:44:22,000
+If you want to fix something inside.
+
+1147
+00:44:22,000 --> 00:44:24,000
+And you will change the types.
+
+1148
+00:44:24,000 --> 00:44:26,000
+You can do it.
+
+1149
+00:44:26,000 --> 00:44:28,000
+If you have a brain.
+
+1150
+00:44:28,000 --> 00:44:30,000
+And add.
+
+1151
+00:44:30,000 --> 00:44:32,000
+Now types.
+
+1152
+00:44:32,000 --> 00:44:34,000
+Then you can change something.
+
+1153
+00:44:34,000 --> 00:44:36,000
+But especially.
+
+1154
+00:44:36,000 --> 00:44:38,000
+I do not know.
+
+1155
+00:44:38,000 --> 00:44:40,000
+Do you think frameworks like React.
+
+1156
+00:44:40,000 --> 00:44:42,000
+Become more accessible.
+
+1157
+00:44:44,000 --> 00:44:46,000
+Because of TypeScript.
+
+1158
+00:44:46,000 --> 00:44:48,000
+It's easier to navigate.
+
+1159
+00:44:48,000 --> 00:44:50,000
+In general.
+
+1160
+00:44:50,000 --> 00:44:52,000
+Framework and codebase.
+
+1161
+00:44:52,000 --> 00:44:54,000
+If you use TypeScript.
+
+1162
+00:44:54,000 --> 00:44:56,000
+If you know something.
+
+1163
+00:44:56,000 --> 00:44:58,000
+What property.
+
+1164
+00:44:58,000 --> 00:45:00,000
+You have to write.
+
+1165
+00:45:00,000 --> 00:45:02,000
+If they are magic strings.
+
+1166
+00:45:02,000 --> 00:45:04,000
+If you have a name.
+
+1167
+00:45:04,000 --> 00:45:06,000
+It's much easier.
+
+1168
+00:45:06,000 --> 00:45:08,000
+Because the editors know.
+
+1169
+00:45:08,000 --> 00:45:10,000
+Choose and use.
+
+1170
+00:45:10,000 --> 00:45:12,000
+OK.
+
+1171
+00:45:12,000 --> 00:45:14,000
+Now I think it's time.
+
+1172
+00:45:14,000 --> 00:45:16,000
+To make a snack.
+
+1173
+00:45:16,000 --> 00:45:18,000
+Let's talk about frameworks.
+
+1174
+00:45:18,000 --> 00:45:20,000
+What are you waiting for?
+
+1175
+00:45:20,000 --> 00:45:22,000
+I'm waiting for the BackboneJS debate.
+
+1176
+00:45:22,000 --> 00:45:24,000
+BackboneJS?
+
+1177
+00:45:24,000 --> 00:45:26,000
+I heard.
+
+1178
+00:45:26,000 --> 00:45:28,000
+One of the most popular.
+
+1179
+00:45:28,000 --> 00:45:30,000
+Framework.
+
+1180
+00:45:30,000 --> 00:45:32,000
+Or library in the world.
+
+1181
+00:45:32,000 --> 00:45:34,000
+Is jQuery.
+
+1182
+00:45:34,000 --> 00:45:36,000
+You need it more and more.
+
+1183
+00:45:36,000 --> 00:45:38,000
+But still.
+
+1184
+00:45:38,000 --> 00:45:40,000
+97% of the web pages.
+
+1185
+00:45:40,000 --> 00:45:42,000
+Still have it.
+
+1186
+00:45:42,000 --> 00:45:44,000
+Also in combination with modern frameworks.
+
+1187
+00:45:44,000 --> 00:45:46,000
+But why do we need it?
+
+1188
+00:45:46,000 --> 00:45:48,000
+If we have everything else.
+
+1189
+00:45:48,000 --> 00:45:50,000
+I would say.
+
+1190
+00:45:50,000 --> 00:45:52,000
+That we don't need it.
+
+1191
+00:45:52,000 --> 00:45:54,000
+But there are answers.
+
+1192
+00:45:54,000 --> 00:45:56,000
+There are a lot of answers.
+
+1193
+00:45:56,000 --> 00:45:58,000
+On StackOverflow.
+
+1194
+00:45:58,000 --> 00:46:00,000
+How to use jQuery.
+
+1195
+00:46:00,000 --> 00:46:02,000
+Because developers.
+
+1196
+00:46:02,000 --> 00:46:04,000
+Copy code.
+
+1197
+00:46:04,000 --> 00:46:06,000
+I don't ask.
+
+1198
+00:46:06,000 --> 00:46:08,000
+What is jQuery.
+
+1199
+00:46:08,000 --> 00:46:10,000
+I've seen it many times.
+
+1200
+00:46:10,000 --> 00:46:12,000
+From the dollar.
+
+1201
+00:46:12,000 --> 00:46:14,000
+People are crazy.
+
+1202
+00:46:14,000 --> 00:46:16,000
+Dollar.
+
+1203
+00:46:16,000 --> 00:46:18,000
+I'm a pure beginner.
+
+1204
+00:46:18,000 --> 00:46:20,000
+What is jQuery?
+
+1205
+00:46:20,000 --> 00:46:22,000
+jQuery.
+
+1206
+00:46:22,000 --> 00:46:24,000
+Is a library in JavaScript.
+
+1207
+00:46:24,000 --> 00:46:26,000
+For a long time.
+
+1208
+00:46:26,000 --> 00:46:28,000
+Helped.
+
+1209
+00:46:28,000 --> 00:46:30,000
+To change.
+
+1210
+00:46:30,000 --> 00:46:32,000
+A lot of things.
+
+1211
+00:46:32,000 --> 00:46:34,000
+From JavaScript.
+
+1212
+00:46:34,000 --> 00:46:36,000
+Browser.
+
+1213
+00:46:36,000 --> 00:46:38,000
+API.
+
+1214
+00:46:38,000 --> 00:46:40,000
+Supported everything.
+
+1215
+00:46:40,000 --> 00:46:42,000
+From Strang.
+
+1216
+00:46:42,000 --> 00:46:44,000
+Toggle.
+
+1217
+00:46:44,000 --> 00:46:46,000
+And a lot of other things.
+
+1218
+00:46:46,000 --> 00:46:48,000
+Together with Ajax.
+
+1219
+00:46:48,000 --> 00:46:50,000
+There is jQuery.
+
+1220
+00:46:50,000 --> 00:46:52,000
+That solved all the problems.
+
+1221
+00:46:52,000 --> 00:46:54,000
+That people had.
+
+1222
+00:46:54,000 --> 00:46:56,000
+And then.
+
+1223
+00:46:56,000 --> 00:46:58,000
+Browsers realized.
+
+1224
+00:46:58,000 --> 00:47:00,000
+That maybe their API.
+
+1225
+00:47:00,000 --> 00:47:02,000
+Has a lot of work.
+
+1226
+00:47:02,000 --> 00:47:04,000
+And they can add it.
+
+1227
+00:47:04,000 --> 00:47:06,000
+And because they added.
+
+1228
+00:47:06,000 --> 00:47:08,000
+Everything in the browser.
+
+1229
+00:47:08,000 --> 00:47:10,000
+I think.
+
+1230
+00:47:10,000 --> 00:47:12,000
+jQuery is still developing.
+
+1231
+00:47:12,000 --> 00:47:14,000
+New versions are coming.
+
+1232
+00:47:14,000 --> 00:47:16,000
+A few months ago.
+
+1233
+00:47:16,000 --> 00:47:18,000
+I played with it.
+
+1234
+00:47:18,000 --> 00:47:20,000
+And.
+
+1235
+00:47:20,000 --> 00:47:22,000
+It is still changing.
+
+1236
+00:47:22,000 --> 00:47:24,000
+The truth is.
+
+1237
+00:47:24,000 --> 00:47:26,000
+Not so much code for.
+
+1238
+00:47:26,000 --> 00:47:28,000
+Backwards compatibility.
+
+1239
+00:47:28,000 --> 00:47:30,000
+If you count.
+
+1240
+00:47:30,000 --> 00:47:32,000
+Older browsers.
+
+1241
+00:47:32,000 --> 00:47:34,000
+Then you count on it.
+
+1242
+00:47:34,000 --> 00:47:36,000
+But it is still developing.
+
+1243
+00:47:36,000 --> 00:47:38,000
+I think it is a valid tech.
+
+1244
+00:47:38,000 --> 00:47:40,000
+But.
+
+1245
+00:47:40,000 --> 00:47:42,000
+Those APIs.
+
+1246
+00:47:42,000 --> 00:47:44,000
+That were on a new basis.
+
+1247
+00:47:44,000 --> 00:47:46,000
+They are still working.
+
+1248
+00:47:46,000 --> 00:47:48,000
+jQuery is still working.
+
+1249
+00:47:48,000 --> 00:47:50,000
+In the same way.
+
+1250
+00:47:50,000 --> 00:47:52,000
+Backwards compatibility.
+
+1251
+00:47:56,000 --> 00:47:58,000
+When I started the project.
+
+1252
+00:47:58,000 --> 00:48:00,000
+I always.
+
+1253
+00:48:00,000 --> 00:48:02,000
+The first library.
+
+1254
+00:48:02,000 --> 00:48:04,000
+When I added the project.
+
+1255
+00:48:04,000 --> 00:48:06,000
+LowDash.
+
+1256
+00:48:06,000 --> 00:48:08,000
+LowDash.
+
+1257
+00:48:08,000 --> 00:48:10,000
+Some functions.
+
+1258
+00:48:10,000 --> 00:48:12,000
+Functional helpers.
+
+1259
+00:48:12,000 --> 00:48:14,000
+It is now.
+
+1260
+00:48:14,000 --> 00:48:16,000
+Is it still added to the project?
+
+1261
+00:48:16,000 --> 00:48:18,000
+Yes.
+
+1262
+00:48:18,000 --> 00:48:20,000
+I haven't seen it yet.
+
+1263
+00:48:20,000 --> 00:48:22,000
+In almost every project.
+
+1264
+00:48:22,000 --> 00:48:24,000
+LowDash.
+
+1265
+00:48:24,000 --> 00:48:26,000
+LowDash.
+
+1266
+00:48:26,000 --> 00:48:28,000
+Is a special library.
+
+1267
+00:48:28,000 --> 00:48:30,000
+Made to make it easier.
+
+1268
+00:48:30,000 --> 00:48:32,000
+To work with.
+
+1269
+00:48:32,000 --> 00:48:34,000
+You can add.
+
+1270
+00:48:34,000 --> 00:48:36,000
+A lot of functions.
+
+1271
+00:48:36,000 --> 00:48:38,000
+That you can use.
+
+1272
+00:48:38,000 --> 00:48:40,000
+For example.
+
+1273
+00:48:40,000 --> 00:48:42,000
+How do you glue together.
+
+1274
+00:48:42,000 --> 00:48:44,000
+Two objects.
+
+1275
+00:48:44,000 --> 00:48:46,000
+Merge.
+
+1276
+00:48:46,000 --> 00:48:48,000
+Concatenate.
+
+1277
+00:48:48,000 --> 00:48:50,000
+All the things.
+
+1278
+00:48:50,000 --> 00:48:52,000
+I could do it myself.
+
+1279
+00:48:52,000 --> 00:48:54,000
+LowDash.
+
+1280
+00:48:54,000 --> 00:48:56,000
+Underscore.
+
+1281
+00:48:56,000 --> 00:48:58,000
+LowDash.
+
+1282
+00:48:58,000 --> 00:49:00,000
+That is.
+
+1283
+00:49:00,000 --> 00:49:02,000
+Browsers.
+
+1284
+00:49:02,000 --> 00:49:04,000
+And.
+
+1285
+00:49:04,000 --> 00:49:06,000
+Optimal code.
+
+1286
+00:49:06,000 --> 00:49:08,000
+To make it faster.
+
+1287
+00:49:08,000 --> 00:49:10,000
+You have more.
+
+1288
+00:49:10,000 --> 00:49:12,000
+It becomes very important.
+
+1289
+00:49:12,000 --> 00:49:14,000
+How do you iterate.
+
+1290
+00:49:14,000 --> 00:49:16,000
+Circumstances.
+
+1291
+00:49:16,000 --> 00:49:18,000
+It doesn't matter anymore.
+
+1292
+00:49:18,000 --> 00:49:20,000
+At some point.
+
+1293
+00:49:20,000 --> 00:49:22,000
+I had.
+
+1294
+00:49:24,000 --> 00:49:26,000
+A huge set.
+
+1295
+00:49:26,000 --> 00:49:28,000
+Some strange privileges.
+
+1296
+00:49:28,000 --> 00:49:30,000
+While.
+
+1297
+00:49:30,000 --> 00:49:32,000
+Is much better.
+
+1298
+00:49:32,000 --> 00:49:34,000
+For.
+
+1299
+00:49:34,000 --> 00:49:36,000
+How to optimize.
+
+1300
+00:49:36,000 --> 00:49:38,000
+Javascript.
+
+1301
+00:49:38,000 --> 00:49:40,000
+And now.
+
+1302
+00:49:40,000 --> 00:49:42,000
+A lot of things.
+
+1303
+00:49:42,000 --> 00:49:44,000
+That were used.
+
+1304
+00:49:44,000 --> 00:49:46,000
+They were presented.
+
+1305
+00:49:46,000 --> 00:49:48,000
+In Javascript.
+
+1306
+00:49:48,000 --> 00:49:50,000
+Language.
+
+1307
+00:49:50,000 --> 00:49:52,000
+Filter.
+
+1308
+00:49:52,000 --> 00:49:54,000
+Array method.
+
+1309
+00:49:54,000 --> 00:49:56,000
+Still.
+
+1310
+00:49:56,000 --> 00:49:58,000
+But.
+
+1311
+00:49:58,000 --> 00:50:00,000
+It's a lot of people.
+
+1312
+00:50:00,000 --> 00:50:06,000
+They have been using it for a long time, they know the functions and they are...
+
+1313
+00:50:06,000 --> 00:50:13,000
+When we talk about jQuery and Loadech, I feel like I'm getting old.
+
+1314
+00:50:13,000 --> 00:50:19,000
+Because I remember, we started using jQuery some time before,
+
+1315
+00:50:19,000 --> 00:50:26,000
+some time before Loadech, and then you try it yourself in different browsers,
+
+1316
+00:50:26,000 --> 00:50:30,000
+and you see that different browsers react differently.
+
+1317
+00:50:30,000 --> 00:50:33,000
+But yes, they were prepared.
+
+1318
+00:50:33,000 --> 00:50:36,000
+Those projects that we took from them were prepared,
+
+1319
+00:50:36,000 --> 00:50:40,000
+and then they continued the web development,
+
+1320
+00:50:40,000 --> 00:50:43,000
+and because of that, they expanded a lot.
+
+1321
+00:50:43,000 --> 00:50:46,000
+I'm proud of that project, absolutely.
+
+1322
+00:50:46,000 --> 00:50:50,000
+Okay, what was the next framework?
+
+1323
+00:50:50,000 --> 00:50:54,000
+My question is, when they were removing the screens,
+
+1324
+00:50:54,000 --> 00:50:57,000
+and I think they used Backbone.js and Mariuni.js,
+
+1325
+00:50:57,000 --> 00:51:02,000
+what are the most established frameworks now,
+
+1326
+00:51:02,000 --> 00:51:07,000
+and what are the super new expectations for ESN?
+
+1327
+00:51:07,000 --> 00:51:12,000
+The most established right now, if we look at the industry,
+
+1328
+00:51:12,000 --> 00:51:15,000
+are React, Vue, and Angular,
+
+1329
+00:51:15,000 --> 00:51:19,000
+where they support their three big corporations.
+
+1330
+00:51:20,000 --> 00:51:23,000
+I think the new...
+
+1331
+00:51:24,000 --> 00:51:27,000
+Let's start.
+
+1332
+00:51:27,000 --> 00:51:29,000
+Okay.
+
+1333
+00:51:29,000 --> 00:51:34,000
+If we now go to the executive level,
+
+1334
+00:51:34,000 --> 00:51:39,000
+if we have an engineering company,
+
+1335
+00:51:39,000 --> 00:51:42,000
+and what are we going to do?
+
+1336
+00:51:44,000 --> 00:51:47,000
+Spotify for folk music.
+
+1337
+00:51:47,000 --> 00:51:50,000
+Spotify for folk music in the Balkan region.
+
+1338
+00:51:50,000 --> 00:51:54,000
+So we have money, and everyone listens to music.
+
+1339
+00:51:54,000 --> 00:51:56,000
+Okay.
+
+1340
+00:51:56,000 --> 00:51:59,000
+And we have to decide which framework we want.
+
+1341
+00:51:59,000 --> 00:52:03,000
+They chose Vue.js, React, and Angular.
+
+1342
+00:52:03,000 --> 00:52:06,000
+How would you approach it?
+
+1343
+00:52:06,000 --> 00:52:09,000
+What would you do?
+
+1344
+00:52:09,000 --> 00:52:11,000
+That's a very good question.
+
+1345
+00:52:11,000 --> 00:52:14,000
+A very demanding question.
+
+1346
+00:52:14,000 --> 00:52:17,000
+I would say ESN.
+
+1347
+00:52:17,000 --> 00:52:19,000
+What do you think?
+
+1348
+00:52:19,000 --> 00:52:22,000
+ESN has some consequences,
+
+1349
+00:52:22,000 --> 00:52:27,000
+but it also has some things that you can type in one or the other.
+
+1350
+00:52:27,000 --> 00:52:31,000
+One of the key things I think is good to have,
+
+1351
+00:52:31,000 --> 00:52:34,000
+when you already have a team,
+
+1352
+00:52:34,000 --> 00:52:37,000
+someone who knows a framework.
+
+1353
+00:52:37,000 --> 00:52:40,000
+If you have someone who is an expert in Angular,
+
+1354
+00:52:40,000 --> 00:52:42,000
+then you will go to React.
+
+1355
+00:52:42,000 --> 00:52:45,000
+Seniors, every expert has their own framework.
+
+1356
+00:52:45,000 --> 00:52:48,000
+You don't have three engineers.
+
+1357
+00:52:48,000 --> 00:52:51,000
+That's a bad advice for executives.
+
+1358
+00:52:51,000 --> 00:52:55,000
+You don't have three engineers who know three different frameworks.
+
+1359
+00:52:55,000 --> 00:52:58,000
+I can say that I prefer React,
+
+1360
+00:52:58,000 --> 00:53:04,000
+but all the other examples are the same.
+
+1361
+00:53:04,000 --> 00:53:08,000
+It's my cosmetic preference.
+
+1362
+00:53:08,000 --> 00:53:11,000
+Do you think there could be a distinction
+
+1363
+00:53:11,000 --> 00:53:16,000
+between working on a web page or a single page web app?
+
+1364
+00:53:16,000 --> 00:53:20,000
+Do you think that could be an important factor?
+
+1365
+00:53:20,000 --> 00:53:23,000
+If I'm working on a page,
+
+1366
+00:53:23,000 --> 00:53:26,000
+then I probably have a different perspective.
+
+1367
+00:53:26,000 --> 00:53:29,000
+If you were working on a web page,
+
+1368
+00:53:29,000 --> 00:53:32,000
+you would be more focused on Vue.js or React.
+
+1369
+00:53:32,000 --> 00:53:35,000
+But not because of the framework itself,
+
+1370
+00:53:35,000 --> 00:53:38,000
+but because of the support you have from the community
+
+1371
+00:53:38,000 --> 00:53:41,000
+and the platform that exists to support you.
+
+1372
+00:53:41,000 --> 00:53:44,000
+Especially the use case of landing pages
+
+1373
+00:53:44,000 --> 00:53:47,000
+and commercial pages.
+
+1374
+00:53:47,000 --> 00:53:50,000
+There is also server-side rendering,
+
+1375
+00:53:50,000 --> 00:53:53,000
+pre-rendering,
+
+1376
+00:53:53,000 --> 00:53:56,000
+how the customers affect it,
+
+1377
+00:53:56,000 --> 00:53:59,000
+what you can bring to the table,
+
+1378
+00:53:59,000 --> 00:54:05,000
+and how fast you can build a website with a framework.
+
+1379
+00:54:05,000 --> 00:54:08,000
+I was careful with Vue.js.
+
+1380
+00:54:08,000 --> 00:54:11,000
+You can say that about React,
+
+1381
+00:54:11,000 --> 00:54:14,000
+because I've never used it that much.
+
+1382
+00:54:14,000 --> 00:54:17,000
+I have a feeling that Vue.js is trying to be
+
+1383
+00:54:17,000 --> 00:54:20,000
+a spiritual successor of jQuery.
+
+1384
+00:54:20,000 --> 00:54:23,000
+When you put it in,
+
+1385
+00:54:23,000 --> 00:54:26,000
+you start to include a few types,
+
+1386
+00:54:26,000 --> 00:54:29,000
+and then you start to use it more and more
+
+1387
+00:54:29,000 --> 00:54:32,000
+in more complex parts,
+
+1388
+00:54:32,000 --> 00:54:35,000
+like building a whole page.
+
+1389
+00:54:35,000 --> 00:54:38,000
+I've heard that from a lot of people,
+
+1390
+00:54:38,000 --> 00:54:41,000
+but I'm not sure where it came from.
+
+1391
+00:54:41,000 --> 00:54:44,000
+Because if you look at it,
+
+1392
+00:54:44,000 --> 00:54:47,000
+I can compare it with React,
+
+1393
+00:54:47,000 --> 00:54:50,000
+but also in React,
+
+1394
+00:54:50,000 --> 00:54:53,000
+you have a lot of previews.
+
+1395
+00:54:53,000 --> 00:54:56,000
+You can say,
+
+1396
+00:54:56,000 --> 00:54:59,000
+mount my application on this element,
+
+1397
+00:54:59,000 --> 00:55:02,000
+Maybe the advantage of Vue.js
+
+1398
+00:55:02,000 --> 00:55:05,000
+was that you didn't need
+
+1399
+00:55:05,000 --> 00:55:08,000
+any transpiling or compiling in the beginning,
+
+1400
+00:55:08,000 --> 00:55:11,000
+because if you used JavaScript,
+
+1401
+00:55:11,000 --> 00:55:14,000
+you had a template in the strings,
+
+1402
+00:55:14,000 --> 00:55:17,000
+and then everything was done in runtime.
+
+1403
+00:55:17,000 --> 00:55:20,000
+That's why you didn't need anything else.
+
+1404
+00:55:20,000 --> 00:55:23,000
+You could just drag it in,
+
+1405
+00:55:23,000 --> 00:55:26,000
+open a JS file, and start writing.
+
+1406
+00:55:26,000 --> 00:55:29,000
+Now I've changed that,
+
+1407
+00:55:29,000 --> 00:55:32,000
+because Vue.js already had Vue.js files,
+
+1408
+00:55:32,000 --> 00:55:35,000
+which were combined with CSS,
+
+1409
+00:55:35,000 --> 00:55:38,000
+a template, and JavaScript.
+
+1410
+00:55:38,000 --> 00:55:41,000
+It wasn't that useful anymore.
+
+1411
+00:55:41,000 --> 00:55:44,000
+You couldn't make a Vue.js file in a project
+
+1412
+00:55:44,000 --> 00:55:47,000
+and then mount it.
+
+1413
+00:55:47,000 --> 00:55:50,000
+If you added a transpiler,
+
+1414
+00:55:50,000 --> 00:55:53,000
+or a webpack, or whatever,
+
+1415
+00:55:53,000 --> 00:55:56,000
+it would be the same as Vue.js,
+
+1416
+00:55:56,000 --> 00:55:59,000
+but in a different way.
+
+1417
+00:55:59,000 --> 00:56:02,000
+Angular added a couple of years ago
+
+1418
+00:56:02,000 --> 00:56:05,000
+an application on the element,
+
+1419
+00:56:05,000 --> 00:56:08,000
+but it wasn't there in the beginning.
+
+1420
+00:56:08,000 --> 00:56:11,000
+Let's stay on that level of comparison.
+
+1421
+00:56:11,000 --> 00:56:14,000
+Can you explain to me
+
+1422
+00:56:14,000 --> 00:56:17,000
+the Angular framework,
+
+1423
+00:56:17,000 --> 00:56:20,000
+React, and the library?
+
+1424
+00:56:20,000 --> 00:56:23,000
+Does it still work,
+
+1425
+00:56:23,000 --> 00:56:26,000
+or can you explain the difference?
+
+1426
+00:56:26,000 --> 00:56:29,000
+I'd say it's still working,
+
+1427
+00:56:29,000 --> 00:56:32,000
+because Angular was there
+
+1428
+00:56:32,000 --> 00:56:35,000
+from the very beginning.
+
+1429
+00:56:35,000 --> 00:56:38,000
+It gave you a way to render,
+
+1430
+00:56:38,000 --> 00:56:41,000
+it gave you a way to fetch data,
+
+1431
+00:56:41,000 --> 00:56:44,000
+it gave you a way to run routes,
+
+1432
+00:56:44,000 --> 00:56:47,000
+it gave you a way to use state management.
+
+1433
+00:56:47,000 --> 00:56:50,000
+React didn't define any of that.
+
+1434
+00:56:50,000 --> 00:56:53,000
+It gave you a rendering engine
+
+1435
+00:56:53,000 --> 00:56:56,000
+at the very beginning,
+
+1436
+00:56:56,000 --> 00:56:59,000
+with a minimal local state,
+
+1437
+00:56:59,000 --> 00:57:02,000
+and a way to transfer data
+
+1438
+00:57:02,000 --> 00:57:05,000
+on the tree.
+
+1439
+00:57:05,000 --> 00:57:08,000
+React added state management
+
+1440
+00:57:08,000 --> 00:57:11,000
+a couple of years ago,
+
+1441
+00:57:11,000 --> 00:57:14,000
+and it's much more serious.
+
+1442
+00:57:14,000 --> 00:57:17,000
+It gives you a way to do everything,
+
+1443
+00:57:17,000 --> 00:57:20,000
+but the state management
+
+1444
+00:57:20,000 --> 00:57:23,000
+has to be done from the ground up.
+
+1445
+00:57:23,000 --> 00:57:26,000
+The whole state management
+
+1446
+00:57:26,000 --> 00:57:29,000
+and the way you use it
+
+1447
+00:57:29,000 --> 00:57:32,000
+is up to you,
+
+1448
+00:57:32,000 --> 00:57:35,000
+but the main difference
+
+1449
+00:57:35,000 --> 00:57:38,000
+between the framework and the library
+
+1450
+00:57:38,000 --> 00:57:41,000
+is that you get everything from the ground up.
+
+1451
+00:57:41,000 --> 00:57:44,000
+No, it's a library,
+
+1452
+00:57:44,000 --> 00:57:47,000
+and currently there are only two
+
+1453
+00:57:47,000 --> 00:57:50,000
+that are being used.
+
+1454
+00:57:50,000 --> 00:57:53,000
+You can write your own,
+
+1455
+00:57:53,000 --> 00:57:56,000
+but you don't have a router.
+
+1456
+00:57:56,000 --> 00:57:59,000
+If you need access to a specific URL,
+
+1457
+00:57:59,000 --> 00:58:02,000
+you don't really need a router.
+
+1458
+00:58:02,000 --> 00:58:05,000
+I'd like to answer this question.
+
+1459
+00:58:05,000 --> 00:58:08,000
+The difference between
+
+1460
+00:58:08,000 --> 00:58:11,000
+the framework and the library
+
+1461
+00:58:11,000 --> 00:58:14,000
+is the way they communicate
+
+1462
+00:58:14,000 --> 00:58:17,000
+between the components.
+
+1463
+00:58:17,000 --> 00:58:20,000
+How do they communicate?
+
+1464
+00:58:20,000 --> 00:58:23,000
+It seems to me that
+
+1465
+00:58:23,000 --> 00:58:26,000
+when you open a tutorial in React,
+
+1466
+00:58:26,000 --> 00:58:29,000
+it's all about the components.
+
+1467
+00:58:29,000 --> 00:58:32,000
+It's a bit isolated,
+
+1468
+00:58:32,000 --> 00:58:35,000
+but it's functional.
+
+1469
+00:58:35,000 --> 00:58:38,000
+It's not about visual images
+
+1470
+00:58:38,000 --> 00:58:41,000
+or interactions,
+
+1471
+00:58:41,000 --> 00:58:44,000
+but the components have to communicate.
+
+1472
+00:58:44,000 --> 00:58:47,000
+Can you explain that to us?
+
+1473
+00:58:47,000 --> 00:58:50,000
+I don't know how to deal
+
+1474
+00:58:50,000 --> 00:58:53,000
+with the difference,
+
+1475
+00:58:53,000 --> 00:58:56,000
+but in React you have...
+
+1476
+00:58:56,000 --> 00:58:59,000
+I don't think it's the same,
+
+1477
+00:58:59,000 --> 00:59:02,000
+but you can send data
+
+1478
+00:59:02,000 --> 00:59:05,000
+or you can send a function
+
+1479
+00:59:05,000 --> 00:59:08,000
+and then you can call that function
+
+1480
+00:59:08,000 --> 00:59:11,000
+and it will change it
+
+1481
+00:59:11,000 --> 00:59:14,000
+and you can update it.
+
+1482
+00:59:14,000 --> 00:59:17,000
+It's a bit difficult to explain
+
+1483
+00:59:17,000 --> 00:59:20,000
+what Angular 2 is.
+
+1484
+00:59:20,000 --> 00:59:23,000
+I've never written anything about it,
+
+1485
+00:59:23,000 --> 00:59:26,000
+but when I had...
+
+1486
+00:59:26,000 --> 00:59:29,000
+They called it a service,
+
+1487
+00:59:29,000 --> 00:59:32,000
+and then there was Factory
+
+1488
+00:59:32,000 --> 00:59:35,000
+where there was a singleton
+
+1489
+00:59:35,000 --> 00:59:38,000
+where you could write data.
+
+1490
+00:59:38,000 --> 00:59:41,000
+In the local state,
+
+1491
+00:59:41,000 --> 00:59:44,000
+Angular made sure
+
+1492
+00:59:44,000 --> 00:59:47,000
+that when you made a change
+
+1493
+00:59:47,000 --> 00:59:50,000
+in their environment or context,
+
+1494
+00:59:50,000 --> 00:59:53,000
+it was ready and checked
+
+1495
+00:59:53,000 --> 00:59:56,000
+if anything had changed.
+
+1496
+00:59:56,000 --> 00:59:59,000
+React was probably smarter
+
+1497
+00:59:59,000 --> 01:00:02,000
+from the beginning,
+
+1498
+01:00:02,000 --> 01:00:05,000
+because it was always a tree
+
+1499
+01:00:05,000 --> 01:00:08,000
+in a tree,
+
+1500
+01:00:08,000 --> 01:00:11,000
+and whenever you made a change,
+
+1501
+01:00:11,000 --> 01:00:14,000
+you could put it in that tree.
+
+1502
+01:00:14,000 --> 01:00:17,000
+You could put it on top of the tree
+
+1503
+01:00:17,000 --> 01:00:20,000
+and everything would be written.
+
+1504
+01:00:20,000 --> 01:00:23,000
+There could be a change
+
+1505
+01:00:23,000 --> 01:00:26,000
+or something similar,
+
+1506
+01:00:26,000 --> 01:00:29,000
+but they added a bit more magic.
+
+1507
+01:00:29,000 --> 01:00:32,000
+You write a normal JavaScript,
+
+1508
+01:00:32,000 --> 01:00:35,000
+but in the back,
+
+1509
+01:00:35,000 --> 01:00:38,000
+all your data changes,
+
+1510
+01:00:38,000 --> 01:00:41,000
+it goes through the tree,
+
+1511
+01:00:41,000 --> 01:00:44,000
+proxies are created,
+
+1512
+01:00:44,000 --> 01:00:47,000
+changes are made,
+
+1513
+01:00:47,000 --> 01:00:50,000
+and they often tell you
+
+1514
+01:00:50,000 --> 01:00:53,000
+to focus on Angular 1.
+
+1515
+01:00:53,000 --> 01:00:56,000
+Angular 2 is different.
+
+1516
+01:00:56,000 --> 01:00:59,000
+It's a different framework,
+
+1517
+01:00:59,000 --> 01:01:02,000
+it doesn't stay the same.
+
+1518
+01:01:02,000 --> 01:01:05,000
+I think React is more similar,
+
+1519
+01:01:05,000 --> 01:01:08,000
+and in Angular you have
+
+1520
+01:01:08,000 --> 01:01:11,000
+ngNRX, which is a state,
+
+1521
+01:01:11,000 --> 01:01:14,000
+and through that,
+
+1522
+01:01:14,000 --> 01:01:17,000
+changes are made.
+
+1523
+01:01:18,000 --> 01:01:21,000
+What else can you tell us
+
+1524
+01:01:21,000 --> 01:01:24,000
+about those classic guys?
+
+1525
+01:01:24,000 --> 01:01:27,000
+One thing about state management,
+
+1526
+01:01:27,000 --> 01:01:30,000
+which is interesting,
+
+1527
+01:01:30,000 --> 01:01:33,000
+is that most of it happens
+
+1528
+01:01:33,000 --> 01:01:36,000
+outside of the framework.
+
+1529
+01:01:36,000 --> 01:01:39,000
+In React, the difference is
+
+1530
+01:01:39,000 --> 01:01:42,000
+that all those things
+
+1531
+01:01:42,000 --> 01:01:45,000
+that are in a script,
+
+1532
+01:01:45,000 --> 01:01:48,000
+or in a state,
+
+1533
+01:01:48,000 --> 01:01:51,000
+like Redux or something else,
+
+1534
+01:01:51,000 --> 01:01:54,000
+are things where you have
+
+1535
+01:01:54,000 --> 01:01:57,000
+a main logic change
+
+1536
+01:01:57,000 --> 01:02:00,000
+written outside of React
+
+1537
+01:02:00,000 --> 01:02:03,000
+and an adapter to React.
+
+1538
+01:02:03,000 --> 01:02:06,000
+A lot of frameworks can be
+
+1539
+01:02:06,000 --> 01:02:09,000
+written in Vue or Angular,
+
+1540
+01:02:09,000 --> 01:02:12,000
+because the core idea
+
+1541
+01:02:12,000 --> 01:02:15,000
+is the same.
+
+1542
+01:02:18,000 --> 01:02:21,000
+I have a question.
+
+1543
+01:02:21,000 --> 01:02:24,000
+In all those frameworks,
+
+1544
+01:02:24,000 --> 01:02:27,000
+server-side rendering,
+
+1545
+01:02:27,000 --> 01:02:30,000
+is it something
+
+1546
+01:02:30,000 --> 01:02:33,000
+that you can use now,
+
+1547
+01:02:33,000 --> 01:02:36,000
+or is it a new standard?
+
+1548
+01:02:36,000 --> 01:02:39,000
+Is it something that you
+
+1549
+01:02:39,000 --> 01:02:42,000
+can use in a lot of apps?
+
+1550
+01:02:42,000 --> 01:02:45,000
+Who and why is it a problem?
+
+1551
+01:02:45,000 --> 01:02:48,000
+Server-side rendering is
+
+1552
+01:02:48,000 --> 01:02:51,000
+something that's been around
+
+1553
+01:02:51,000 --> 01:02:54,000
+for a long time.
+
+1554
+01:02:54,000 --> 01:02:57,000
+PHP was a good example of that.
+
+1555
+01:02:57,000 --> 01:03:00,000
+Everyone went to the client
+
+1556
+01:03:00,000 --> 01:03:03,000
+because they couldn't do it
+
+1557
+01:03:03,000 --> 01:03:06,000
+in the browser.
+
+1558
+01:03:06,000 --> 01:03:09,000
+You need some time to load it,
+
+1559
+01:03:09,000 --> 01:03:12,000
+then you load the data,
+
+1560
+01:03:12,000 --> 01:03:15,000
+then you can show it.
+
+1561
+01:03:15,000 --> 01:03:18,000
+In e-commerce,
+
+1562
+01:03:18,000 --> 01:03:21,000
+I think they started
+
+1563
+01:03:21,000 --> 01:03:24,000
+returning to server-side rendering.
+
+1564
+01:03:24,000 --> 01:03:27,000
+You lose a certain percentage
+
+1565
+01:03:27,000 --> 01:03:30,000
+of users every millisecond.
+
+1566
+01:03:30,000 --> 01:03:33,000
+You reduce your profits,
+
+1567
+01:03:33,000 --> 01:03:36,000
+so you have to wait 1-2 seconds.
+
+1568
+01:03:36,000 --> 01:03:39,000
+I think that's now
+
+1569
+01:03:39,000 --> 01:03:42,000
+under 200 milliseconds.
+
+1570
+01:03:42,000 --> 01:03:45,000
+Server-side rendering
+
+1571
+01:03:45,000 --> 01:03:48,000
+is not something
+
+1572
+01:03:48,000 --> 01:03:51,000
+that means
+
+1573
+01:03:51,000 --> 01:03:54,000
+that everything is server-side rendered,
+
+1574
+01:03:54,000 --> 01:03:57,000
+but it's just your first frame.
+
+1575
+01:03:57,000 --> 01:04:00,000
+When you log in,
+
+1576
+01:04:00,000 --> 01:04:03,000
+you already have a picture,
+
+1577
+01:04:03,000 --> 01:04:06,000
+a text, a scene.
+
+1578
+01:04:06,000 --> 01:04:09,000
+At the same time,
+
+1579
+01:04:09,000 --> 01:04:12,000
+you have to wait 1-2 seconds
+
+1580
+01:04:12,000 --> 01:04:15,000
+for your brain to process it,
+
+1581
+01:04:15,000 --> 01:04:18,000
+to show it,
+
+1582
+01:04:18,000 --> 01:04:21,000
+to load the framework,
+
+1583
+01:04:21,000 --> 01:04:24,000
+and to add all the interactivity.
+
+1584
+01:04:24,000 --> 01:04:27,000
+If you have time to first frame,
+
+1585
+01:04:27,000 --> 01:04:30,000
+then you pay an extra step
+
+1586
+01:04:30,000 --> 01:04:33,000
+and invest in server-side rendering.
+
+1587
+01:04:33,000 --> 01:04:36,000
+Or you can take a step forward
+
+1588
+01:04:36,000 --> 01:04:39,000
+and do pre-rendering.
+
+1589
+01:04:39,000 --> 01:04:42,000
+Instead of rendering
+
+1590
+01:04:42,000 --> 01:04:45,000
+an application or a screen
+
+1591
+01:04:45,000 --> 01:04:48,000
+when the user requires it,
+
+1592
+01:04:48,000 --> 01:04:51,000
+you prepare all possible screens
+
+1593
+01:04:51,000 --> 01:04:54,000
+that you can save
+
+1594
+01:04:54,000 --> 01:04:57,000
+so you can serve it statically.
+
+1595
+01:04:57,000 --> 01:05:00,000
+You don't have to process anything
+
+1596
+01:05:00,000 --> 01:05:03,000
+and then go back to the framework.
+
+1597
+01:05:03,000 --> 01:05:06,000
+You can do that for SEO as well.
+
+1598
+01:05:06,000 --> 01:05:09,000
+For SEO, it might make a difference
+
+1599
+01:05:09,000 --> 01:05:12,000
+in terms of timing.
+
+1600
+01:05:12,000 --> 01:05:15,000
+The result is the same
+
+1601
+01:05:15,000 --> 01:05:18,000
+when you render it.
+
+1602
+01:05:18,000 --> 01:05:21,000
+So server-side rendering
+
+1603
+01:05:21,000 --> 01:05:24,000
+is a bit more complicated.
+
+1604
+01:05:24,000 --> 01:05:27,000
+It complicates the setup
+
+1605
+01:05:27,000 --> 01:05:30,000
+and the pipeline.
+
+1606
+01:05:30,000 --> 01:05:33,000
+It's a big investment
+
+1607
+01:05:33,000 --> 01:05:36,000
+to set it up,
+
+1608
+01:05:36,000 --> 01:05:39,000
+prepare it,
+
+1609
+01:05:39,000 --> 01:05:42,000
+and do it in such a way
+
+1610
+01:05:42,000 --> 01:05:45,000
+that you can do it all.
+
+1611
+01:05:45,000 --> 01:05:48,000
+All the major frameworks
+
+1612
+01:05:48,000 --> 01:05:51,000
+are doing a great job
+
+1613
+01:05:51,000 --> 01:05:54,000
+of optimizing it.
+
+1614
+01:05:54,000 --> 01:05:57,000
+For example,
+
+1615
+01:05:57,000 --> 01:06:00,000
+Vercel did a great example
+
+1616
+01:06:00,000 --> 01:06:03,000
+when they did Next for React.
+
+1617
+01:06:03,000 --> 01:06:06,000
+They started with a container
+
+1618
+01:06:06,000 --> 01:06:09,000
+and then did Next,
+
+1619
+01:06:09,000 --> 01:06:12,000
+which was great for static pages.
+
+1620
+01:06:12,000 --> 01:06:15,000
+Then they set up the infrastructure
+
+1621
+01:06:15,000 --> 01:06:18,000
+so you can write a website
+
+1622
+01:06:18,000 --> 01:06:21,000
+with React in a great way.
+
+1623
+01:06:21,000 --> 01:06:24,000
+They made sure
+
+1624
+01:06:24,000 --> 01:06:27,000
+that it goes to CDN
+
+1625
+01:06:27,000 --> 01:06:30,000
+and that they have edge nodes
+
+1626
+01:06:30,000 --> 01:06:33,000
+that know how to server-side render
+
+1627
+01:06:33,000 --> 01:06:36,000
+and you don't have to deal
+
+1628
+01:06:36,000 --> 01:06:39,000
+with the fact
+
+1629
+01:06:39,000 --> 01:06:42,000
+that these are the data you fetch.
+
+1630
+01:06:43,000 --> 01:06:46,000
+I see that there's a trend
+
+1631
+01:06:46,000 --> 01:06:49,000
+for cloudflare JavaScript
+
+1632
+01:06:49,000 --> 01:06:52,000
+on edge nodes.
+
+1633
+01:06:52,000 --> 01:06:55,000
+Where does it live?
+
+1634
+01:06:55,000 --> 01:06:58,000
+I don't want to go too far,
+
+1635
+01:06:58,000 --> 01:07:01,000
+but it starts with you
+
+1636
+01:07:01,000 --> 01:07:04,000
+having a server
+
+1637
+01:07:04,000 --> 01:07:07,000
+and your computer
+
+1638
+01:07:07,000 --> 01:07:10,000
+serving it to the world.
+
+1639
+01:07:10,000 --> 01:07:13,000
+The server gives you the data
+
+1640
+01:07:13,000 --> 01:07:16,000
+and sends it back to you.
+
+1641
+01:07:16,000 --> 01:07:19,000
+They made sure
+
+1642
+01:07:19,000 --> 01:07:22,000
+that if you have users
+
+1643
+01:07:22,000 --> 01:07:25,000
+from all over the world
+
+1644
+01:07:25,000 --> 01:07:28,000
+and there's a lot of traffic
+
+1645
+01:07:28,000 --> 01:07:31,000
+and the data is fast,
+
+1646
+01:07:31,000 --> 01:07:34,000
+you can put a server
+
+1647
+01:07:34,000 --> 01:07:37,000
+that has the same files
+
+1648
+01:07:37,000 --> 01:07:40,000
+and you have more local access.
+
+1649
+01:07:40,000 --> 01:07:43,000
+Then CDN started preparing
+
+1650
+01:07:43,000 --> 01:07:46,000
+to put more smaller servers,
+
+1651
+01:07:46,000 --> 01:07:49,000
+one in Ljubljana, one in Maribor
+
+1652
+01:07:49,000 --> 01:07:52,000
+and one in Koper
+
+1653
+01:07:52,000 --> 01:07:55,000
+so no one has to wait
+
+1654
+01:07:55,000 --> 01:07:58,000
+for packages from Koper to Ljubljana.
+
+1655
+01:07:58,000 --> 01:08:01,000
+They saw that it's great
+
+1656
+01:08:01,000 --> 01:08:04,000
+and it's faster
+
+1657
+01:08:04,000 --> 01:08:07,000
+and you can solve caching normally.
+
+1658
+01:08:07,000 --> 01:08:10,000
+That's why they used
+
+1659
+01:08:10,000 --> 01:08:13,000
+the servers we already have
+
+1660
+01:08:13,000 --> 01:08:16,000
+to process it faster.
+
+1661
+01:08:20,000 --> 01:08:23,000
+So CDNs are no longer
+
+1662
+01:08:23,000 --> 01:08:26,000
+servers that serve statically,
+
+1663
+01:08:26,000 --> 01:08:29,000
+but they can also perform
+
+1664
+01:08:29,000 --> 01:08:32,000
+some kind of logic.
+
+1665
+01:08:33,000 --> 01:08:36,000
+If you have a lot of processing
+
+1666
+01:08:36,000 --> 01:08:39,000
+it doesn't matter.
+
+1667
+01:08:39,000 --> 01:08:42,000
+They also have some subsets.
+
+1668
+01:08:42,000 --> 01:08:45,000
+It doesn't mean
+
+1669
+01:08:45,000 --> 01:08:48,000
+that you have to put
+
+1670
+01:08:48,000 --> 01:08:51,000
+the whole server on the edge node.
+
+1671
+01:08:51,000 --> 01:08:54,000
+In 200 milliseconds
+
+1672
+01:08:54,000 --> 01:08:57,000
+when you go to the base
+
+1673
+01:08:57,000 --> 01:09:00,000
+and back and process something,
+
+1674
+01:09:00,000 --> 01:09:03,000
+it won't be as fast.
+
+1675
+01:09:03,000 --> 01:09:06,000
+If you have a smaller operation
+
+1676
+01:09:06,000 --> 01:09:09,000
+it can be much faster.
+
+1677
+01:09:12,000 --> 01:09:15,000
+We can go to the server now
+
+1678
+01:09:15,000 --> 01:09:18,000
+but we'll leave the debate for later.
+
+1679
+01:09:18,000 --> 01:09:21,000
+Let's go back to the framework.
+
+1680
+01:09:21,000 --> 01:09:24,000
+We built our single page app
+
+1681
+01:09:24,000 --> 01:09:27,000
+in React, Angular and Vue.
+
+1682
+01:09:28,000 --> 01:09:31,000
+We decided to do that.
+
+1683
+01:09:34,000 --> 01:09:37,000
+Maybe you can tell us
+
+1684
+01:09:37,000 --> 01:09:40,000
+what is Shadow DOM?
+
+1685
+01:09:40,000 --> 01:09:43,000
+I think it's a question
+
+1686
+01:09:43,000 --> 01:09:46,000
+that people don't know about.
+
+1687
+01:09:46,000 --> 01:09:49,000
+Why did you choose it?
+
+1688
+01:09:49,000 --> 01:09:52,000
+There are two expressions
+
+1689
+01:09:52,000 --> 01:09:55,000
+for Shadow DOM and Virtual DOM.
+
+1690
+01:09:55,000 --> 01:09:58,000
+Shadow DOM comes from web components.
+
+1691
+01:09:58,000 --> 01:10:01,000
+One of the attempts was
+
+1692
+01:10:01,000 --> 01:10:04,000
+not to need a framework like React.
+
+1693
+01:10:04,000 --> 01:10:07,000
+Browsers would support it on their own.
+
+1694
+01:10:07,000 --> 01:10:10,000
+You need a component
+
+1695
+01:10:10,000 --> 01:10:13,000
+that would have new elements
+
+1696
+01:10:13,000 --> 01:10:16,000
+inside it.
+
+1697
+01:10:16,000 --> 01:10:19,000
+In HTML there will always be
+
+1698
+01:10:19,000 --> 01:10:22,000
+one component and Shadow DOM
+
+1699
+01:10:22,000 --> 01:10:25,000
+produces everything that
+
+1700
+01:10:25,000 --> 01:10:28,000
+that component produces.
+
+1701
+01:10:33,000 --> 01:10:36,000
+Virtual DOM was a solution
+
+1702
+01:10:36,000 --> 01:10:39,000
+that everyone remembered
+
+1703
+01:10:39,000 --> 01:10:42,000
+in React.
+
+1704
+01:10:42,000 --> 01:10:45,000
+You build a HTML representation
+
+1705
+01:10:45,000 --> 01:10:48,000
+that is applied to the HTML
+
+1706
+01:10:48,000 --> 01:10:51,000
+that is in your browser.
+
+1707
+01:10:51,000 --> 01:10:54,000
+It's like a diff algorithm.
+
+1708
+01:10:54,000 --> 01:10:57,000
+Yes.
+
+1709
+01:10:57,000 --> 01:11:00,000
+Browsers were very slow
+
+1710
+01:11:00,000 --> 01:11:03,000
+to replace it.
+
+1711
+01:11:03,000 --> 01:11:06,000
+Now you have all new elements
+
+1712
+01:11:06,000 --> 01:11:09,000
+and you can apply the new state.
+
+1713
+01:11:09,000 --> 01:11:12,000
+With Virtual DOM you can do that
+
+1714
+01:11:12,000 --> 01:11:15,000
+in React.
+
+1715
+01:11:15,000 --> 01:11:18,000
+It's not smart to know
+
+1716
+01:11:18,000 --> 01:11:21,000
+that you can't lose the state
+
+1717
+01:11:21,000 --> 01:11:24,000
+on the input.
+
+1718
+01:11:24,000 --> 01:11:27,000
+Can I ask about serverless?
+
+1719
+01:11:27,000 --> 01:11:30,000
+I'd like to talk about
+
+1720
+01:11:30,000 --> 01:11:33,000
+more exotic frameworks.
+
+1721
+01:11:33,000 --> 01:11:36,000
+I'd like to talk about backends.
+
+1722
+01:11:36,000 --> 01:11:39,000
+Just a little bit.
+
+1723
+01:11:39,000 --> 01:11:42,000
+If I wrote React.frontend
+
+1724
+01:11:42,000 --> 01:11:45,000
+and replaced my backend
+
+1725
+01:11:45,000 --> 01:11:48,000
+with Javascript.
+
+1726
+01:11:48,000 --> 01:11:51,000
+I'd like to talk about
+
+1727
+01:11:51,000 --> 01:11:54,000
+Microframework.express
+
+1728
+01:11:54,000 --> 01:11:57,000
+and Blockatons.
+
+1729
+01:11:57,000 --> 01:12:00,000
+Is there a framework
+
+1730
+01:12:00,000 --> 01:12:03,000
+with admin page and models?
+
+1731
+01:12:03,000 --> 01:12:06,000
+What is used on the backend?
+
+1732
+01:12:06,000 --> 01:12:09,000
+Express is still very popular.
+
+1733
+01:12:09,000 --> 01:12:12,000
+It was the first one
+
+1734
+01:12:12,000 --> 01:12:15,000
+with a tutorial about it.
+
+1735
+01:12:15,000 --> 01:12:18,000
+It's still not supported
+
+1736
+01:12:18,000 --> 01:12:21,000
+by Async.Write.
+
+1737
+01:12:21,000 --> 01:12:24,000
+If you write Async.Write
+
+1738
+01:12:24,000 --> 01:12:27,000
+you need to know how Express works
+
+1739
+01:12:27,000 --> 01:12:30,000
+and how it handles
+
+1740
+01:12:30,000 --> 01:12:33,000
+its request and response.
+
+1741
+01:12:33,000 --> 01:12:36,000
+There are similar frameworks
+
+1742
+01:12:36,000 --> 01:12:39,000
+or similar apps.
+
+1743
+01:12:39,000 --> 01:12:42,000
+At the moment
+
+1744
+01:12:42,000 --> 01:12:45,000
+the most popular choice
+
+1745
+01:12:45,000 --> 01:12:48,000
+is Festify.
+
+1746
+01:12:48,000 --> 01:12:51,000
+It's similar to Express
+
+1747
+01:12:51,000 --> 01:12:54,000
+but it adds a global context
+
+1748
+01:12:54,000 --> 01:12:57,000
+where you can handle
+
+1749
+01:12:57,000 --> 01:13:00,000
+DB connections.
+
+1750
+01:13:00,000 --> 01:13:03,000
+It's not a tab-based thing
+
+1751
+01:13:03,000 --> 01:13:06,000
+but you have adapters
+
+1752
+01:13:06,000 --> 01:13:09,000
+and they add validation
+
+1753
+01:13:09,000 --> 01:13:12,000
+so you can validate data
+
+1754
+01:13:12,000 --> 01:13:15,000
+with JSON schema
+
+1755
+01:13:15,000 --> 01:13:18,000
+when it goes in
+
+1756
+01:13:18,000 --> 01:13:21,000
+or out.
+
+1757
+01:13:21,000 --> 01:13:24,000
+You can pass JSON schema forward
+
+1758
+01:13:24,000 --> 01:13:27,000
+and they can take it.
+
+1759
+01:13:27,000 --> 01:13:30,000
+It's very smart.
+
+1760
+01:13:30,000 --> 01:13:33,000
+They start parsing data
+
+1761
+01:13:33,000 --> 01:13:36,000
+and they can half-hardcode
+
+1762
+01:13:36,000 --> 01:13:39,000
+how JSON is generated
+
+1763
+01:13:39,000 --> 01:13:42,000
+or parsed.
+
+1764
+01:13:42,000 --> 01:13:45,000
+If I'm parsed or stringify
+
+1765
+01:13:45,000 --> 01:13:48,000
+they do it in a smarter way
+
+1766
+01:13:48,000 --> 01:13:51,000
+in the stream
+
+1767
+01:13:51,000 --> 01:13:54,000
+because they speed it up
+
+1768
+01:13:54,000 --> 01:13:57,000
+from 10x to 100x.
+
+1769
+01:13:57,000 --> 01:14:00,000
+It's still an Express-like framework
+
+1770
+01:14:01,000 --> 01:14:04,000
+or a Django-like framework
+
+1771
+01:14:04,000 --> 01:14:07,000
+where you have Django admin
+
+1772
+01:14:07,000 --> 01:14:10,000
+and a CRUD interface.
+
+1773
+01:14:10,000 --> 01:14:13,000
+It's still an Express-like framework.
+
+1774
+01:14:13,000 --> 01:14:16,000
+I know that you have
+
+1775
+01:14:16,000 --> 01:14:19,000
+a lot of expectations
+
+1776
+01:14:19,000 --> 01:14:22,000
+about this technology
+
+1777
+01:14:22,000 --> 01:14:25,000
+and that it's only available
+
+1778
+01:14:25,000 --> 01:14:28,000
+in certain countries.
+
+1779
+01:14:28,000 --> 01:14:31,000
+I think you should try it.
+
+1780
+01:14:31,000 --> 01:14:34,000
+I think Nest exists
+
+1781
+01:14:34,000 --> 01:14:37,000
+where you can get more
+
+1782
+01:14:37,000 --> 01:14:40,000
+than a candy bar.
+
+1783
+01:14:40,000 --> 01:14:43,000
+Sometimes they give you
+
+1784
+01:14:43,000 --> 01:14:46,000
+some constraints.
+
+1785
+01:14:46,000 --> 01:14:49,000
+I don't know if there's
+
+1786
+01:14:49,000 --> 01:14:52,000
+a Django-like framework
+
+1787
+01:14:52,000 --> 01:14:55,000
+where you can use it.
+
+1788
+01:14:58,000 --> 01:15:01,000
+That's it.
+
+1789
+01:15:00,000 --> 01:15:06,000
+Do you expect to have some other tools with which you can manage these servers?
+
+1790
+01:15:06,000 --> 01:15:12,000
+And how will you manage servers if they are expensive?
+
+1791
+01:15:12,000 --> 01:15:18,000
+This is also one of the things that is becoming more and more popular lately.
+
+1792
+01:15:18,000 --> 01:15:24,000
+Ok, we went through building our own CMSs, like Evolution,
+
+1793
+01:15:24,000 --> 01:15:30,000
+we built a framework that helps you steal operations.
+
+1794
+01:15:30,000 --> 01:15:38,000
+We also learned that moderation of systems is not so trivial.
+
+1795
+01:15:38,000 --> 01:15:43,000
+We realized that this premise is expensive, and these servers are getting old,
+
+1796
+01:15:43,000 --> 01:15:48,000
+and we are now moving to the next generation of Evolution.
+
+1797
+01:15:48,000 --> 01:15:53,000
+We see Cloud and Serverless.
+
+1798
+01:15:53,000 --> 01:15:59,000
+These are two areas where I see Javascript as a go-to glue to glue these things together.
+
+1799
+01:15:59,000 --> 01:16:02,000
+How do you see these things?
+
+1800
+01:16:02,000 --> 01:16:05,000
+What is the role of Javascript?
+
+1801
+01:16:05,000 --> 01:16:11,000
+The role of Javascript is that it is often available to people in the backend.
+
+1802
+01:16:11,000 --> 01:16:16,000
+Everyone can write a backend and deploy it.
+
+1803
+01:16:16,000 --> 01:16:21,000
+And when things start scaling, everyone knows it by heart.
+
+1804
+01:16:21,000 --> 01:16:26,000
+Because you can quickly write something that was not fast enough,
+
+1805
+01:16:26,000 --> 01:16:31,000
+or had different difficulties, and then deploy it somewhere.
+
+1806
+01:16:31,000 --> 01:16:36,000
+Then you can auto-scale it a bit, and if it is missing resources on the server,
+
+1807
+01:16:36,000 --> 01:16:39,000
+you can add more.
+
+1808
+01:16:39,000 --> 01:16:45,000
+A lot of teams would focus on delivering features,
+
+1809
+01:16:45,000 --> 01:16:50,000
+but there is a lot of technical depth in the infrastructure itself.
+
+1810
+01:16:50,000 --> 01:16:54,000
+And maybe there is no access to people who know all this,
+
+1811
+01:16:54,000 --> 01:16:58,000
+but there are people who know how to connect to the base and get something out of it.
+
+1812
+01:16:58,000 --> 01:17:06,000
+I think Netflix was one of the first to come up with the concept of functions for service,
+
+1813
+01:17:06,000 --> 01:17:09,000
+and now we have serverless.
+
+1814
+01:17:09,000 --> 01:17:13,000
+And they wrote their own platform on AWS.
+
+1815
+01:17:13,000 --> 01:17:18,000
+The idea is that maybe functions for service has grown a bit.
+
+1816
+01:17:18,000 --> 01:17:21,000
+You could be a service handler.
+
+1817
+01:17:21,000 --> 01:17:25,000
+The idea is that you write your own business logic,
+
+1818
+01:17:25,000 --> 01:17:30,000
+and it is not about how it fits into a huge codebase,
+
+1819
+01:17:30,000 --> 01:17:34,000
+or how many layers you need,
+
+1820
+01:17:34,000 --> 01:17:38,000
+but that it fits into a database,
+
+1821
+01:17:38,000 --> 01:17:41,000
+and you write your own function,
+
+1822
+01:17:41,000 --> 01:17:44,000
+and now one thing is behind it, and it will fit.
+
+1823
+01:17:44,000 --> 01:17:49,000
+We got closer to the idea that serverless developers,
+
+1824
+01:17:49,000 --> 01:17:52,000
+or developers who work with this technology,
+
+1825
+01:17:52,000 --> 01:17:56,000
+deal more with logic and data,
+
+1826
+01:17:56,000 --> 01:17:59,000
+than with business logic.
+
+1827
+01:17:59,000 --> 01:18:06,000
+Everything else is done by the serverless technology and the cloud.
+
+1828
+01:18:06,000 --> 01:18:09,000
+A lot of impacts are taken to the side.
+
+1829
+01:18:09,000 --> 01:18:12,000
+There are a lot of things that could be done by the cloud,
+
+1830
+01:18:12,000 --> 01:18:14,000
+but it is still not explored.
+
+1831
+01:18:14,000 --> 01:18:17,000
+But if I give you an executive question,
+
+1832
+01:18:17,000 --> 01:18:22,000
+with this Lambda function, the serverless platform,
+
+1833
+01:18:22,000 --> 01:18:25,000
+they are not underrated.
+
+1834
+01:18:25,000 --> 01:18:32,000
+Do you think they are expensive, are they underrated,
+
+1835
+01:18:32,000 --> 01:18:36,000
+is there less moderation, less ops?
+
+1836
+01:18:36,000 --> 01:18:40,000
+If a server is killed by one person a day,
+
+1837
+01:18:40,000 --> 01:18:45,000
+Lambda, or serverless functions, are practically behind.
+
+1838
+01:18:45,000 --> 01:18:49,000
+It starts to show up when you have a constant,
+
+1839
+01:18:49,000 --> 01:18:51,000
+huge pressure on the server.
+
+1840
+01:18:51,000 --> 01:18:54,000
+Maybe that makes it a little more expensive,
+
+1841
+01:18:54,000 --> 01:18:58,000
+to use a daily server, or a container.
+
+1842
+01:18:58,000 --> 01:19:03,000
+For a very unpredictable load,
+
+1843
+01:19:03,000 --> 01:19:06,000
+where you have a lot of time to do nothing,
+
+1844
+01:19:06,000 --> 01:19:10,000
+you can save a lot of Lambda,
+
+1845
+01:19:10,000 --> 01:19:15,000
+plus you don't have to worry about how you will scale it.
+
+1846
+01:19:15,000 --> 01:19:17,000
+For example, on On-premise, there is a limit
+
+1847
+01:19:17,000 --> 01:19:19,000
+so that the server does not burn.
+
+1848
+01:19:19,000 --> 01:19:23,000
+If you don't set a price limit,
+
+1849
+01:19:23,000 --> 01:19:26,000
+when will you be able to solve the problem,
+
+1850
+01:19:26,000 --> 01:19:28,000
+because you won't be able to pay the bill.
+
+1851
+01:19:28,000 --> 01:19:32,000
+If you go to different conferences,
+
+1852
+01:19:32,000 --> 01:19:35,000
+where they are big guys from Raven,
+
+1853
+01:19:35,000 --> 01:19:39,000
+or conferences are being sold,
+
+1854
+01:19:39,000 --> 01:19:41,000
+Lambda is being sold,
+
+1855
+01:19:41,000 --> 01:19:43,000
+and I won't go into details.
+
+1856
+01:19:43,000 --> 01:19:48,000
+But I think that there is an Asterix from Raven,
+
+1857
+01:19:48,000 --> 01:19:50,000
+which should be mentioned here.
+
+1858
+01:19:50,000 --> 01:19:52,000
+Lambda functions and architecture
+
+1859
+01:19:52,000 --> 01:19:54,000
+are not all very good.
+
+1860
+01:19:54,000 --> 01:19:58,000
+They have some limitations.
+
+1861
+01:19:58,000 --> 01:20:00,000
+How are they limited?
+
+1862
+01:20:00,000 --> 01:20:04,000
+You are limited to the fact that it doesn't really matter
+
+1863
+01:20:04,000 --> 01:20:06,000
+how the data comes in.
+
+1864
+01:20:06,000 --> 01:20:08,000
+You are limited to the infrastructure
+
+1865
+01:20:08,000 --> 01:20:10,000
+that the cloud offers.
+
+1866
+01:20:10,000 --> 01:20:12,000
+They are like adapters.
+
+1867
+01:20:12,000 --> 01:20:14,000
+You say, I have a function here,
+
+1868
+01:20:14,000 --> 01:20:16,000
+and this function can be called,
+
+1869
+01:20:16,000 --> 01:20:18,000
+and it can come from a web socket,
+
+1870
+01:20:18,000 --> 01:20:21,000
+or the trigger function from the database.
+
+1871
+01:20:21,000 --> 01:20:27,000
+You don't have access to it,
+
+1872
+01:20:27,000 --> 01:20:30,000
+if you have a server on your Linux,
+
+1873
+01:20:30,000 --> 01:20:32,000
+where you can connect in,
+
+1874
+01:20:32,000 --> 01:20:34,000
+and you take the runtime,
+
+1875
+01:20:34,000 --> 01:20:36,000
+when they offer it to you,
+
+1876
+01:20:36,000 --> 01:20:38,000
+and maybe you have a delay
+
+1877
+01:20:38,000 --> 01:20:41,000
+for some latest releases.
+
+1878
+01:20:41,000 --> 01:20:45,000
+But is it meant for stateful?
+
+1879
+01:20:45,000 --> 01:20:47,000
+No.
+
+1880
+01:20:47,000 --> 01:20:49,000
+The idea is that it is stateless,
+
+1881
+01:20:49,000 --> 01:20:51,000
+although it is a lie,
+
+1882
+01:20:51,000 --> 01:20:53,000
+because the thing is still stateful.
+
+1883
+01:20:53,000 --> 01:20:55,000
+And if you take it as stateless,
+
+1884
+01:20:55,000 --> 01:20:58,000
+we had an example where we connected to a database,
+
+1885
+01:20:58,000 --> 01:21:01,000
+and every time it created its own connection,
+
+1886
+01:21:01,000 --> 01:21:03,000
+closed it,
+
+1887
+01:21:03,000 --> 01:21:05,000
+and at some point we stopped
+
+1888
+01:21:05,000 --> 01:21:07,000
+as much as we could,
+
+1889
+01:21:07,000 --> 01:21:09,000
+the connection was open.
+
+1890
+01:21:09,000 --> 01:21:11,000
+But I think that it is just working
+
+1891
+01:21:11,000 --> 01:21:13,000
+to be stateless.
+
+1892
+01:21:13,000 --> 01:21:15,000
+How do you fix this problem?
+
+1893
+01:21:15,000 --> 01:21:17,000
+In a global context,
+
+1894
+01:21:17,000 --> 01:21:19,000
+you connect to a database,
+
+1895
+01:21:19,000 --> 01:21:21,000
+and you use the same database,
+
+1896
+01:21:21,000 --> 01:21:23,000
+and Lambda doesn't live that long,
+
+1897
+01:21:23,000 --> 01:21:25,000
+so when the connection is closed...
+
+1898
+01:21:25,000 --> 01:21:27,000
+Does Lambda have a limit
+
+1899
+01:21:27,000 --> 01:21:29,000
+on how much time
+
+1900
+01:21:29,000 --> 01:21:33,000
+it has to process a reply?
+
+1901
+01:21:33,000 --> 01:21:35,000
+Yes, you set it up yourself,
+
+1902
+01:21:35,000 --> 01:21:37,000
+and you call it.
+
+1903
+01:21:37,000 --> 01:21:39,000
+Another thing that can be problematic
+
+1904
+01:21:39,000 --> 01:21:41,000
+is cold start.
+
+1905
+01:21:41,000 --> 01:21:43,000
+It means that whenever
+
+1906
+01:21:43,000 --> 01:21:45,000
+this thing is set up,
+
+1907
+01:21:45,000 --> 01:21:47,000
+when the server comes in,
+
+1908
+01:21:47,000 --> 01:21:49,000
+it means that every time
+
+1909
+01:21:49,000 --> 01:21:51,000
+a new Lambda will be created,
+
+1910
+01:21:51,000 --> 01:21:53,000
+because it doesn't have
+
+1911
+01:21:53,000 --> 01:21:55,000
+every request,
+
+1912
+01:21:55,000 --> 01:21:57,000
+you will need half a second
+
+1913
+01:21:57,000 --> 01:21:59,000
+for the engine to start.
+
+1914
+01:21:59,000 --> 01:22:01,000
+This is now solved in different ways.
+
+1915
+01:22:01,000 --> 01:22:03,000
+You don't need a compiled language,
+
+1916
+01:22:03,000 --> 01:22:05,000
+where you can just run it.
+
+1917
+01:22:05,000 --> 01:22:07,000
+You don't need to process
+
+1918
+01:22:07,000 --> 01:22:09,000
+JavaScript.
+
+1919
+01:22:09,000 --> 01:22:11,000
+If we're talking about
+
+1920
+01:22:11,000 --> 01:22:13,000
+JavaScript,
+
+1921
+01:22:13,000 --> 01:22:15,000
+it's not necessary
+
+1922
+01:22:15,000 --> 01:22:17,000
+for Lambda functions to be implemented
+
+1923
+01:22:17,000 --> 01:22:19,000
+in JavaScript.
+
+1924
+01:22:19,000 --> 01:22:21,000
+Python,
+
+1925
+01:22:21,000 --> 01:22:23,000
+Scala, Java,
+
+1926
+01:22:23,000 --> 01:22:25,000
+.NET,
+
+1927
+01:22:25,000 --> 01:22:27,000
+it depends on the provider.
+
+1928
+01:22:27,000 --> 01:22:29,000
+Every provider decides
+
+1929
+01:22:29,000 --> 01:22:31,000
+what they will support.
+
+1930
+01:22:31,000 --> 01:22:33,000
+Anytick allows you to set
+
+1931
+01:22:33,000 --> 01:22:35,000
+your own Docker image,
+
+1932
+01:22:35,000 --> 01:22:37,000
+and you can say,
+
+1933
+01:22:37,000 --> 01:22:39,000
+this is my Docker image.
+
+1934
+01:22:39,000 --> 01:22:41,000
+Do you have a question?
+
+1935
+01:22:41,000 --> 01:22:43,000
+My question is,
+
+1936
+01:22:49,000 --> 01:22:51,000
+if we build
+
+1937
+01:22:51,000 --> 01:22:53,000
+with Lambda architectures
+
+1938
+01:22:53,000 --> 01:22:55,000
+and serverless functions
+
+1939
+01:22:55,000 --> 01:22:57,000
+our new
+
+1940
+01:22:57,000 --> 01:22:59,000
+product system,
+
+1941
+01:22:59,000 --> 01:23:01,000
+how are these functions
+
+1942
+01:23:01,000 --> 01:23:03,000
+transferable if we
+
+1943
+01:23:03,000 --> 01:23:05,000
+integrate them to GCP
+
+1944
+01:23:05,000 --> 01:23:07,000
+as a full
+
+1945
+01:23:07,000 --> 01:23:09,000
+vendor specific?
+
+1946
+01:23:09,000 --> 01:23:11,000
+How are they made?
+
+1947
+01:23:11,000 --> 01:23:13,000
+As you know,
+
+1948
+01:23:13,000 --> 01:23:15,000
+you will need them
+
+1949
+01:23:15,000 --> 01:23:17,000
+on your cloud,
+
+1950
+01:23:17,000 --> 01:23:19,000
+you can create
+
+1951
+01:23:19,000 --> 01:23:21,000
+some layers.
+
+1952
+01:23:21,000 --> 01:23:23,000
+It can be a layer for data
+
+1953
+01:23:23,000 --> 01:23:25,000
+file storage or block storage.
+
+1954
+01:23:25,000 --> 01:23:27,000
+It can be a layer for some
+
+1955
+01:23:27,000 --> 01:23:29,000
+buses.
+
+1956
+01:23:29,000 --> 01:23:31,000
+It can also be a layer for handlers.
+
+1957
+01:23:31,000 --> 01:23:33,000
+Maybe everyone has
+
+1958
+01:23:33,000 --> 01:23:35,000
+their own function,
+
+1959
+01:23:35,000 --> 01:23:37,000
+but maybe
+
+1960
+01:23:37,000 --> 01:23:39,000
+everyone writes
+
+1961
+01:23:39,000 --> 01:23:41,000
+different parameters
+
+1962
+01:23:41,000 --> 01:23:43,000
+and expects different output.
+
+1963
+01:23:43,000 --> 01:23:45,000
+Do you have a framework?
+
+1964
+01:23:45,000 --> 01:23:47,000
+For example,
+
+1965
+01:23:47,000 --> 01:23:49,000
+a popular one for a long time
+
+1966
+01:23:49,000 --> 01:23:51,000
+was serverless framework,
+
+1967
+01:23:51,000 --> 01:23:53,000
+which allowed
+
+1968
+01:23:53,000 --> 01:23:55,000
+to make it easier,
+
+1969
+01:23:55,000 --> 01:23:57,000
+but not as easy
+
+1970
+01:23:57,000 --> 01:23:59,000
+as you would imagine.
+
+1971
+01:23:59,000 --> 01:24:01,000
+Do you
+
+1972
+01:24:01,000 --> 01:24:03,000
+want to
+
+1973
+01:24:03,000 --> 01:24:05,000
+work with serverless?
+
+1974
+01:24:05,000 --> 01:24:07,000
+Yes, I do.
+
+1975
+01:24:07,000 --> 01:24:09,000
+If serverless is fully adopted,
+
+1976
+01:24:09,000 --> 01:24:11,000
+will you be able to do it?
+
+1977
+01:24:11,000 --> 01:24:13,000
+Yes, I hope so.
+
+1978
+01:24:13,000 --> 01:24:15,000
+Then I will be able to write
+
+1979
+01:24:15,000 --> 01:24:17,000
+only frontend,
+
+1980
+01:24:17,000 --> 01:24:19,000
+and my heart will beat.
+
+1981
+01:24:19,000 --> 01:24:21,000
+Although I don't know
+
+1982
+01:24:21,000 --> 01:24:23,000
+if I will be able to do it.
+
+1983
+01:24:25,000 --> 01:24:27,000
+What do you think
+
+1984
+01:24:27,000 --> 01:24:29,000
+about Firebase?
+
+1985
+01:24:31,000 --> 01:24:33,000
+It's SaaS.
+
+1986
+01:24:33,000 --> 01:24:35,000
+SaaS also has
+
+1987
+01:24:35,000 --> 01:24:37,000
+serverless.
+
+1988
+01:24:37,000 --> 01:24:39,000
+Yes, it's one of the features.
+
+1989
+01:24:39,000 --> 01:24:41,000
+Firebase is just a nice
+
+1990
+01:24:41,000 --> 01:24:43,000
+mask over GCP
+
+1991
+01:24:43,000 --> 01:24:45,000
+for their console.
+
+1992
+01:24:45,000 --> 01:24:47,000
+With SaaS,
+
+1993
+01:24:47,000 --> 01:24:49,000
+when you open the cloud console,
+
+1994
+01:24:49,000 --> 01:24:51,000
+it's hard to see.
+
+1995
+01:24:51,000 --> 01:24:53,000
+It's a little visible.
+
+1996
+01:24:53,000 --> 01:24:55,000
+AVS is even worse.
+
+1997
+01:24:55,000 --> 01:24:57,000
+I don't know
+
+1998
+01:24:57,000 --> 01:24:59,000
+what you think about it.
+
+1999
+01:25:03,000 --> 01:25:05,000
+Firebase as a base
+
+2000
+01:25:05,000 --> 01:25:07,000
+is just a product
+
+2001
+01:25:07,000 --> 01:25:09,000
+that Google provides.
+
+2002
+01:25:09,000 --> 01:25:11,000
+It's a base for
+
+2003
+01:25:11,000 --> 01:25:13,000
+authentication.
+
+2004
+01:25:13,000 --> 01:25:15,000
+It's easy to write
+
+2005
+01:25:15,000 --> 01:25:17,000
+and you don't need a schema
+
+2006
+01:25:17,000 --> 01:25:19,000
+to keep everything.
+
+2007
+01:25:19,000 --> 01:25:21,000
+They provide real-time,
+
+2008
+01:25:21,000 --> 01:25:23,000
+client libraries,
+
+2009
+01:25:23,000 --> 01:25:25,000
+or some
+
+2010
+01:25:25,000 --> 01:25:27,000
+syncs.
+
+2011
+01:25:27,000 --> 01:25:29,000
+I don't know.
+
+2012
+01:25:29,000 --> 01:25:31,000
+We experimented with Firebase.
+
+2013
+01:25:35,000 --> 01:25:37,000
+I see it as
+
+2014
+01:25:37,000 --> 01:25:39,000
+a next step
+
+2015
+01:25:39,000 --> 01:25:41,000
+in the evolution
+
+2016
+01:25:41,000 --> 01:25:43,000
+of technology.
+
+2017
+01:25:45,000 --> 01:25:47,000
+Developers and engineers
+
+2018
+01:25:47,000 --> 01:25:49,000
+are dealing with
+
+2019
+01:25:49,000 --> 01:25:51,000
+business logic.
+
+2020
+01:25:51,000 --> 01:25:53,000
+They don't just
+
+2021
+01:25:53,000 --> 01:25:55,000
+offload
+
+2022
+01:25:55,000 --> 01:25:57,000
+their chosen cloud provider.
+
+2023
+01:25:57,000 --> 01:25:59,000
+You can see that with this technology.
+
+2024
+01:25:59,000 --> 01:26:01,000
+They give you a bunch of
+
+2025
+01:26:01,000 --> 01:26:03,000
+things that are possible
+
+2026
+01:26:03,000 --> 01:26:05,000
+from the beginning.
+
+2027
+01:26:05,000 --> 01:26:07,000
+Whether it's an offline
+
+2028
+01:26:07,000 --> 01:26:09,000
+or online app,
+
+2029
+01:26:09,000 --> 01:26:11,000
+how to change
+
+2030
+01:26:11,000 --> 01:26:13,000
+authentication.
+
+2031
+01:26:15,000 --> 01:26:17,000
+It becomes very interesting
+
+2032
+01:26:17,000 --> 01:26:19,000
+for developers
+
+2033
+01:26:19,000 --> 01:26:21,000
+because time-to-market
+
+2034
+01:26:21,000 --> 01:26:23,000
+is very fast.
+
+2035
+01:26:25,000 --> 01:26:27,000
+When I talk to people
+
+2036
+01:26:27,000 --> 01:26:29,000
+about this,
+
+2037
+01:26:29,000 --> 01:26:31,000
+they often ask
+
+2038
+01:26:31,000 --> 01:26:33,000
+whether vendor locking
+
+2039
+01:26:33,000 --> 01:26:35,000
+is really that important.
+
+2040
+01:26:35,000 --> 01:26:37,000
+From all the technical
+
+2041
+01:26:37,000 --> 01:26:39,000
+questions that you
+
+2042
+01:26:39,000 --> 01:26:41,000
+deal with as a decision-maker,
+
+2043
+01:26:41,000 --> 01:26:43,000
+it's just one
+
+2044
+01:26:43,000 --> 01:26:45,000
+of the challenges.
+
+2045
+01:26:45,000 --> 01:26:47,000
+In reality, we see
+
+2046
+01:26:47,000 --> 01:26:49,000
+a lot of cloud providers
+
+2047
+01:26:49,000 --> 01:26:51,000
+maneuvering.
+
+2048
+01:26:51,000 --> 01:26:53,000
+That's a question for C-Level.
+
+2049
+01:26:59,000 --> 01:27:01,000
+Firebase was very interesting
+
+2050
+01:27:01,000 --> 01:27:03,000
+because you have
+
+2051
+01:27:03,000 --> 01:27:05,000
+a client library
+
+2052
+01:27:05,000 --> 01:27:07,000
+for mobile
+
+2053
+01:27:07,000 --> 01:27:09,000
+and desktop apps.
+
+2054
+01:27:11,000 --> 01:27:13,000
+At the beginning,
+
+2055
+01:27:13,000 --> 01:27:15,000
+Firebase in the browser
+
+2056
+01:27:15,000 --> 01:27:17,000
+was a collection.
+
+2057
+01:27:17,000 --> 01:27:19,000
+Imagine that you have an array
+
+2058
+01:27:19,000 --> 01:27:21,000
+and you give it elements
+
+2059
+01:27:21,000 --> 01:27:23,000
+and Firebase syncs them
+
+2060
+01:27:23,000 --> 01:27:25,000
+with your request.
+
+2061
+01:27:25,000 --> 01:27:27,000
+If you need more advanced
+
+2062
+01:27:27,000 --> 01:27:29,000
+backend processing,
+
+2063
+01:27:29,000 --> 01:27:31,000
+you can switch to
+
+2064
+01:27:31,000 --> 01:27:33,000
+a Lambda function
+
+2065
+01:27:33,000 --> 01:27:35,000
+or a pipeline.
+
+2066
+01:27:37,000 --> 01:27:39,000
+In the first part,
+
+2067
+01:27:39,000 --> 01:27:41,000
+you can do it very quickly.
+
+2068
+01:27:41,000 --> 01:27:43,000
+That's the advantage
+
+2069
+01:27:43,000 --> 01:27:45,000
+of today's
+
+2070
+01:27:45,000 --> 01:27:47,000
+proof-of-concept
+
+2071
+01:27:49,000 --> 01:27:51,000
+and MVP.
+
+2072
+01:27:55,000 --> 01:27:57,000
+People can start using it
+
+2073
+01:27:57,000 --> 01:27:59,000
+on the same day.
+
+2074
+01:27:59,000 --> 01:28:01,000
+If you saved half a year
+
+2075
+01:28:01,000 --> 01:28:03,000
+of development,
+
+2076
+01:28:03,000 --> 01:28:05,000
+you can say
+
+2077
+01:28:05,000 --> 01:28:07,000
+that you saved a lot.
+
+2078
+01:28:07,000 --> 01:28:09,000
+You can start with users
+
+2079
+01:28:09,000 --> 01:28:11,000
+and what not.
+
+2080
+01:28:11,000 --> 01:28:13,000
+You can also use it
+
+2081
+01:28:13,000 --> 01:28:15,000
+with a model.
+
+2082
+01:28:15,000 --> 01:28:17,000
+You get this part
+
+2083
+01:28:17,000 --> 01:28:19,000
+and you get full constraints.
+
+2084
+01:28:19,000 --> 01:28:21,000
+Besides being easy,
+
+2085
+01:28:21,000 --> 01:28:23,000
+it's very hard
+
+2086
+01:28:23,000 --> 01:28:25,000
+to do analytics
+
+2087
+01:28:25,000 --> 01:28:27,000
+inside Firebase.
+
+2088
+01:28:27,000 --> 01:28:29,000
+What people do
+
+2089
+01:28:29,000 --> 01:28:31,000
+is dumping.
+
+2090
+01:28:33,000 --> 01:28:35,000
+You don't have
+
+2091
+01:28:35,000 --> 01:28:37,000
+advanced queries there.
+
+2092
+01:28:37,000 --> 01:28:39,000
+You mean,
+
+2093
+01:28:39,000 --> 01:28:41,000
+you have to do it
+
+2094
+01:28:41,000 --> 01:28:43,000
+on your own
+
+2095
+01:28:43,000 --> 01:28:45,000
+or on triggers.
+
+2096
+01:28:45,000 --> 01:28:47,000
+Or you dump
+
+2097
+01:28:47,000 --> 01:28:49,000
+Firebase
+
+2098
+01:28:49,000 --> 01:28:51,000
+in a real database
+
+2099
+01:28:51,000 --> 01:28:53,000
+and process it.
+
+2100
+01:28:55,000 --> 01:28:57,000
+As engineers,
+
+2101
+01:28:57,000 --> 01:28:59,000
+we work with trade-offs.
+
+2102
+01:28:59,000 --> 01:29:01,000
+We go from one direction
+
+2103
+01:29:01,000 --> 01:29:03,000
+to another.
+
+2104
+01:29:03,000 --> 01:29:05,000
+It's not a silver bullet.
+
+2105
+01:29:05,000 --> 01:29:07,000
+You have to know that.
+
+2106
+01:29:07,000 --> 01:29:09,000
+Pricing.
+
+2107
+01:29:09,000 --> 01:29:11,000
+Pricing.
+
+2108
+01:29:11,000 --> 01:29:13,000
+What's the fastest
+
+2109
+01:29:13,000 --> 01:29:15,000
+you can write in Rust?
+
+2110
+01:29:15,000 --> 01:29:17,000
+What else?
+
+2111
+01:29:17,000 --> 01:29:19,000
+I'm glad
+
+2112
+01:29:19,000 --> 01:29:21,000
+I don't have to answer that.
+
+2113
+01:29:23,000 --> 01:29:25,000
+We have a weird question.
+
+2114
+01:29:27,000 --> 01:29:29,000
+Maybe
+
+2115
+01:29:29,000 --> 01:29:31,000
+shameless plug.
+
+2116
+01:29:31,000 --> 01:29:33,000
+On Amazon,
+
+2117
+01:29:33,000 --> 01:29:35,000
+on AWS,
+
+2118
+01:29:35,000 --> 01:29:37,000
+on Firebase,
+
+2119
+01:29:37,000 --> 01:29:39,000
+they call it
+
+2120
+01:29:39,000 --> 01:29:41,000
+AppSync.
+
+2121
+01:29:41,000 --> 01:29:43,000
+Unlike their standard,
+
+2122
+01:29:43,000 --> 01:29:45,000
+which Firebase has,
+
+2123
+01:29:45,000 --> 01:29:47,000
+and ClientLibrary,
+
+2124
+01:29:47,000 --> 01:29:49,000
+they have GraphQL.
+
+2125
+01:29:51,000 --> 01:29:53,000
+That means
+
+2126
+01:29:53,000 --> 01:29:55,000
+you come to this UI.
+
+2127
+01:29:55,000 --> 01:29:57,000
+We have this table
+
+2128
+01:29:57,000 --> 01:29:59,000
+with these types.
+
+2129
+01:29:59,000 --> 01:30:01,000
+They generate DynamoDB
+
+2130
+01:30:01,000 --> 01:30:03,000
+tables,
+
+2131
+01:30:03,000 --> 01:30:05,000
+and at the end
+
+2132
+01:30:05,000 --> 01:30:07,000
+you write
+
+2133
+01:30:07,000 --> 01:30:09,000
+GraphQL schema,
+
+2134
+01:30:09,000 --> 01:30:11,000
+which is translatable
+
+2135
+01:30:11,000 --> 01:30:13,000
+in all languages.
+
+2136
+01:30:13,000 --> 01:30:15,000
+You get subscripts,
+
+2137
+01:30:15,000 --> 01:30:17,000
+analytic queries,
+
+2138
+01:30:17,000 --> 01:30:19,000
+and you have a defined
+
+2139
+01:30:19,000 --> 01:30:21,000
+database.
+
+2140
+01:30:21,000 --> 01:30:23,000
+If you know
+
+2141
+01:30:23,000 --> 01:30:25,000
+your data structure,
+
+2142
+01:30:25,000 --> 01:30:27,000
+you have a back-end
+
+2143
+01:30:27,000 --> 01:30:29,000
+made in URI,
+
+2144
+01:30:29,000 --> 01:30:31,000
+which will scale more
+
+2145
+01:30:31,000 --> 01:30:33,000
+when you write.
+
+2146
+01:30:35,000 --> 01:30:37,000
+Maybe that's an interesting option.
+
+2147
+01:30:41,000 --> 01:30:43,000
+We wanted
+
+2148
+01:30:43,000 --> 01:30:45,000
+to talk about
+
+2149
+01:30:45,000 --> 01:30:47,000
+going back
+
+2150
+01:30:47,000 --> 01:30:49,000
+to the front-end,
+
+2151
+01:30:49,000 --> 01:30:51,000
+and maybe
+
+2152
+01:30:51,000 --> 01:30:53,000
+we could talk
+
+2153
+01:30:53,000 --> 01:30:55,000
+about
+
+2154
+01:30:55,000 --> 01:30:57,000
+the future
+
+2155
+01:30:57,000 --> 01:30:59,000
+of the front-end.
+
+2156
+01:31:01,000 --> 01:31:03,000
+If you could tell us
+
+2157
+01:31:03,000 --> 01:31:05,000
+about jQuery,
+
+2158
+01:31:05,000 --> 01:31:07,000
+React, Angular, and Vue,
+
+2159
+01:31:07,000 --> 01:31:09,000
+what are the new players
+
+2160
+01:31:09,000 --> 01:31:11,000
+that are coming,
+
+2161
+01:31:11,000 --> 01:31:13,000
+what is the cutting edge
+
+2162
+01:31:13,000 --> 01:31:15,000
+where we see new patterns,
+
+2163
+01:31:15,000 --> 01:31:17,000
+new libraries,
+
+2164
+01:31:17,000 --> 01:31:19,000
+or frameworks that you see
+
+2165
+01:31:19,000 --> 01:31:21,000
+that are coming,
+
+2166
+01:31:21,000 --> 01:31:23,000
+what is the future like?
+
+2167
+01:31:23,000 --> 01:31:25,000
+One thing
+
+2168
+01:31:25,000 --> 01:31:27,000
+we've been hoping for
+
+2169
+01:31:27,000 --> 01:31:29,000
+is that web components
+
+2170
+01:31:29,000 --> 01:31:31,000
+are usable
+
+2171
+01:31:31,000 --> 01:31:33,000
+so that you can
+
+2172
+01:31:33,000 --> 01:31:35,000
+use them quickly.
+
+2173
+01:31:35,000 --> 01:31:37,000
+You can start writing a project
+
+2174
+01:31:37,000 --> 01:31:39,000
+with React,
+
+2175
+01:31:39,000 --> 01:31:41,000
+so you don't have to
+
+2176
+01:31:41,000 --> 01:31:43,000
+break standards,
+
+2177
+01:31:43,000 --> 01:31:45,000
+but you can start writing stories.
+
+2178
+01:31:45,000 --> 01:31:47,000
+I haven't had
+
+2179
+01:31:47,000 --> 01:31:49,000
+a chance to google
+
+2180
+01:31:49,000 --> 01:31:51,000
+a framework
+
+2181
+01:31:51,000 --> 01:31:53,000
+that already solves this.
+
+2182
+01:31:53,000 --> 01:31:55,000
+Not Polymer,
+
+2183
+01:31:55,000 --> 01:31:57,000
+but Lit.
+
+2184
+01:31:57,000 --> 01:31:59,000
+Is that the successor
+
+2185
+01:31:59,000 --> 01:32:01,000
+of Polymer that Google
+
+2186
+01:32:01,000 --> 01:32:03,000
+started to write?
+
+2187
+01:32:03,000 --> 01:32:05,000
+No.
+
+2188
+01:32:05,000 --> 01:32:07,000
+Another way to optimize
+
+2189
+01:32:07,000 --> 01:32:09,000
+is,
+
+2190
+01:32:09,000 --> 01:32:11,000
+I won't mention names,
+
+2191
+01:32:11,000 --> 01:32:13,000
+but the idea is
+
+2192
+01:32:13,000 --> 01:32:15,000
+to take the framework
+
+2193
+01:32:15,000 --> 01:32:17,000
+out of the final build.
+
+2194
+01:32:17,000 --> 01:32:19,000
+When you write React,
+
+2195
+01:32:19,000 --> 01:32:21,000
+you can take it out of the compiler,
+
+2196
+01:32:21,000 --> 01:32:23,000
+remove runtime from React,
+
+2197
+01:32:23,000 --> 01:32:25,000
+and only use
+
+2198
+01:32:25,000 --> 01:32:27,000
+the code
+
+2199
+01:32:27,000 --> 01:32:29,000
+that you've written.
+
+2200
+01:32:33,000 --> 01:32:35,000
+This is a great way
+
+2201
+01:32:35,000 --> 01:32:37,000
+to implement it.
+
+2202
+01:32:37,000 --> 01:32:39,000
+A lot of people are
+
+2203
+01:32:39,000 --> 01:32:41,000
+stuck with syntax.
+
+2204
+01:32:41,000 --> 01:32:43,000
+What are we talking about
+
+2205
+01:32:43,000 --> 01:32:45,000
+in the technologies that
+
+2206
+01:32:45,000 --> 01:32:47,000
+won't be based on Javascript anymore?
+
+2207
+01:32:47,000 --> 01:32:49,000
+They won't be based on
+
+2208
+01:32:49,000 --> 01:32:51,000
+the fact that you remove your runtime,
+
+2209
+01:32:51,000 --> 01:32:53,000
+because React, Angular,
+
+2210
+01:32:53,000 --> 01:32:55,000
+their core, when it comes to the browser,
+
+2211
+01:32:55,000 --> 01:32:57,000
+the core will be removed
+
+2212
+01:32:57,000 --> 01:32:59,000
+while building.
+
+2213
+01:32:59,000 --> 01:33:01,000
+It will be like writing
+
+2214
+01:33:01,000 --> 01:33:03,000
+fully optimal Javascript code.
+
+2215
+01:33:03,000 --> 01:33:05,000
+It will know what to write
+
+2216
+01:33:05,000 --> 01:33:07,000
+and talk to each other about components.
+
+2217
+01:33:07,000 --> 01:33:09,000
+It will do it
+
+2218
+01:33:09,000 --> 01:33:11,000
+by itself.
+
+2219
+01:33:11,000 --> 01:33:13,000
+Do you think this is a more real future
+
+2220
+01:33:13,000 --> 01:33:15,000
+than full adaptation
+
+2221
+01:33:15,000 --> 01:33:17,000
+of WebAssembly?
+
+2222
+01:33:17,000 --> 01:33:19,000
+WebAssembly?
+
+2223
+01:33:19,000 --> 01:33:21,000
+Yes, technology of WebAssembly.
+
+2224
+01:33:21,000 --> 01:33:23,000
+No, I think
+
+2225
+01:33:23,000 --> 01:33:25,000
+that there are two
+
+2226
+01:33:25,000 --> 01:33:27,000
+different things
+
+2227
+01:33:27,000 --> 01:33:29,000
+that will change.
+
+2228
+01:33:29,000 --> 01:33:31,000
+Do you think that
+
+2229
+01:33:31,000 --> 01:33:33,000
+WebAssembly will be written
+
+2230
+01:33:33,000 --> 01:33:35,000
+in any language?
+
+2231
+01:33:35,000 --> 01:33:37,000
+Do you think that
+
+2232
+01:33:37,000 --> 01:33:39,000
+we will still be stuck in Web technologies?
+
+2233
+01:33:39,000 --> 01:33:41,000
+I think
+
+2234
+01:33:41,000 --> 01:33:43,000
+that we will still have this.
+
+2235
+01:33:43,000 --> 01:33:45,000
+WebAssembly is being used
+
+2236
+01:33:45,000 --> 01:33:47,000
+a lot for
+
+2237
+01:33:47,000 --> 01:33:49,000
+processing.
+
+2238
+01:33:49,000 --> 01:33:51,000
+For example, if you want to
+
+2239
+01:33:51,000 --> 01:33:53,000
+do image manipulation
+
+2240
+01:33:53,000 --> 01:33:55,000
+or to change
+
+2241
+01:33:55,000 --> 01:33:57,000
+more complex algorithms.
+
+2242
+01:33:57,000 --> 01:33:59,000
+A faster canvas.
+
+2243
+01:33:59,000 --> 01:34:01,000
+Because you are working
+
+2244
+01:34:01,000 --> 01:34:03,000
+and calculating everything
+
+2245
+01:34:03,000 --> 01:34:05,000
+in a binary language.
+
+2246
+01:34:05,000 --> 01:34:07,000
+WebAssembly is still
+
+2247
+01:34:07,000 --> 01:34:09,000
+a very small subset of Javascript.
+
+2248
+01:34:09,000 --> 01:34:11,000
+You have a few methods,
+
+2249
+01:34:11,000 --> 01:34:13,000
+but almost every language
+
+2250
+01:34:13,000 --> 01:34:15,000
+can be compiled into it.
+
+2251
+01:34:15,000 --> 01:34:17,000
+This part
+
+2252
+01:34:17,000 --> 01:34:19,000
+is being optimized in engine
+
+2253
+01:34:19,000 --> 01:34:21,000
+so that it works
+
+2254
+01:34:21,000 --> 01:34:23,000
+almost as fast as native.
+
+2255
+01:34:23,000 --> 01:34:25,000
+Can we play Doom in browser?
+
+2256
+01:34:25,000 --> 01:34:27,000
+Yes, you can.
+
+2257
+01:34:27,000 --> 01:34:29,000
+I am already working on it.
+
+2258
+01:34:29,000 --> 01:34:31,000
+I always recommend it.
+
+2259
+01:34:31,000 --> 01:34:33,000
+With WebAssembly
+
+2260
+01:34:33,000 --> 01:34:35,000
+one of the examples
+
+2261
+01:34:35,000 --> 01:34:37,000
+that a lot of developers
+
+2262
+01:34:37,000 --> 01:34:39,000
+and front-end developers know is Figma.
+
+2263
+01:34:39,000 --> 01:34:41,000
+They were preparing
+
+2264
+01:34:41,000 --> 01:34:43,000
+to have full performance
+
+2265
+01:34:43,000 --> 01:34:45,000
+with
+
+2266
+01:34:45,000 --> 01:34:47,000
+their own
+
+2267
+01:34:47,000 --> 01:34:49,000
+home and front-end
+
+2268
+01:34:49,000 --> 01:34:51,000
+HTML element.
+
+2269
+01:34:51,000 --> 01:34:53,000
+Then they
+
+2270
+01:34:53,000 --> 01:34:55,000
+changed it.
+
+2271
+01:34:55,000 --> 01:34:57,000
+Some players
+
+2272
+01:34:57,000 --> 01:34:59,000
+ported their desktop apps
+
+2273
+01:34:59,000 --> 01:35:01,000
+and used all the logic
+
+2274
+01:35:01,000 --> 01:35:03,000
+they had.
+
+2275
+01:35:03,000 --> 01:35:05,000
+Then they compiled it in WebAssembly
+
+2276
+01:35:05,000 --> 01:35:07,000
+and wrote it in JS.
+
+2277
+01:35:07,000 --> 01:35:09,000
+Then they
+
+2278
+01:35:09,000 --> 01:35:11,000
+changed most of it.
+
+2279
+01:35:11,000 --> 01:35:13,000
+In a sub-interface
+
+2280
+01:35:13,000 --> 01:35:15,000
+we will have it in WebAssembly.
+
+2281
+01:35:15,000 --> 01:35:17,000
+You can use it with your
+
+2282
+01:35:17,000 --> 01:35:19,000
+computer.
+
+2283
+01:35:19,000 --> 01:35:21,000
+You can compile it in Bascos.
+
+2284
+01:35:21,000 --> 01:35:23,000
+You just need to write a remote procedure
+
+2285
+01:35:23,000 --> 01:35:25,000
+in Javascript.
+
+2286
+01:35:25,000 --> 01:35:27,000
+You have Photoshop and Solidworks
+
+2287
+01:35:27,000 --> 01:35:29,000
+which have their own web version.
+
+2288
+01:35:29,000 --> 01:35:31,000
+I think they made a mistake
+
+2289
+01:35:31,000 --> 01:35:33,000
+in Photoshop.
+
+2290
+01:35:33,000 --> 01:35:35,000
+Solidworks is just a viewer
+
+2291
+01:35:35,000 --> 01:35:37,000
+but you can still watch 3D models.
+
+2292
+01:35:37,000 --> 01:35:39,000
+But we will see
+
+2293
+01:35:39,000 --> 01:35:41,000
+if Figma
+
+2294
+01:35:41,000 --> 01:35:43,000
+will use WebAssembly
+
+2295
+01:35:43,000 --> 01:35:45,000
+to make a better canvas.
+
+2296
+01:35:45,000 --> 01:35:47,000
+All the other
+
+2297
+01:35:47,000 --> 01:35:49,000
+UI elements
+
+2298
+01:35:49,000 --> 01:35:51,000
+are still classic HTML.
+
+2299
+01:35:51,000 --> 01:35:53,000
+It's good
+
+2300
+01:35:53,000 --> 01:35:55,000
+because they are
+
+2301
+01:35:55,000 --> 01:35:57,000
+accessible.
+
+2302
+01:35:57,000 --> 01:35:59,000
+You don't need a new zoom
+
+2303
+01:35:59,000 --> 01:36:01,000
+to make it accessible
+
+2304
+01:36:01,000 --> 01:36:03,000
+for a person with a camera.
+
+2305
+01:36:03,000 --> 01:36:05,000
+With sight and hearing.
+
+2306
+01:36:05,000 --> 01:36:07,000
+I think it's advanced stuff.
+
+2307
+01:36:07,000 --> 01:36:09,000
+It's like
+
+2308
+01:36:09,000 --> 01:36:11,000
+if we were biologists
+
+2309
+01:36:11,000 --> 01:36:13,000
+we would talk about
+
+2310
+01:36:13,000 --> 01:36:15,000
+micrology and so on.
+
+2311
+01:36:15,000 --> 01:36:17,000
+I think it's crazy.
+
+2312
+01:36:17,000 --> 01:36:19,000
+You can still
+
+2313
+01:36:19,000 --> 01:36:21,000
+watch Javascript in WebAssembly.
+
+2314
+01:36:23,000 --> 01:36:25,000
+Damn it.
+
+2315
+01:36:25,000 --> 01:36:27,000
+You can drink a beer
+
+2316
+01:36:27,000 --> 01:36:29,000
+and then lie.
+
+2317
+01:36:29,000 --> 01:36:31,000
+Now
+
+2318
+01:36:31,000 --> 01:36:33,000
+let's
+
+2319
+01:36:33,000 --> 01:36:35,000
+pack it.
+
+2320
+01:36:35,000 --> 01:36:37,000
+What do you mean?
+
+2321
+01:36:37,000 --> 01:36:39,000
+Now
+
+2322
+01:36:39,000 --> 01:36:41,000
+maybe you can tell us
+
+2323
+01:36:41,000 --> 01:36:43,000
+where you are
+
+2324
+01:36:43,000 --> 01:36:45,000
+or where do you play
+
+2325
+01:36:45,000 --> 01:36:47,000
+with such technologies.
+
+2326
+01:36:47,000 --> 01:36:49,000
+Which company are you
+
+2327
+01:36:49,000 --> 01:36:51,000
+and where do you do it?
+
+2328
+01:36:51,000 --> 01:36:53,000
+So people will take it
+
+2329
+01:36:53,000 --> 01:36:55,000
+credibly and understand.
+
+2330
+01:36:55,000 --> 01:36:57,000
+Where do you play?
+
+2331
+01:36:57,000 --> 01:36:59,000
+I work
+
+2332
+01:36:59,000 --> 01:37:01,000
+in a company called 37interesat.
+
+2333
+01:37:01,000 --> 01:37:03,000
+We are
+
+2334
+01:37:03,000 --> 01:37:05,000
+consultants
+
+2335
+01:37:05,000 --> 01:37:07,000
+for a company.
+
+2336
+01:37:07,000 --> 01:37:09,000
+We work on different projects.
+
+2337
+01:37:09,000 --> 01:37:11,000
+For example
+
+2338
+01:37:11,000 --> 01:37:13,000
+we don't have a solo market.
+
+2339
+01:37:13,000 --> 01:37:15,000
+We have teams
+
+2340
+01:37:15,000 --> 01:37:17,000
+who are
+
+2341
+01:37:17,000 --> 01:37:19,000
+managed by a company
+
+2342
+01:37:19,000 --> 01:37:21,000
+or by individuals.
+
+2343
+01:37:21,000 --> 01:37:23,000
+Our market
+
+2344
+01:37:23,000 --> 01:37:25,000
+is Scandinavian.
+
+2345
+01:37:25,000 --> 01:37:27,000
+We also base
+
+2346
+01:37:27,000 --> 01:37:29,000
+our company in Sweden.
+
+2347
+01:37:29,000 --> 01:37:31,000
+Our companies
+
+2348
+01:37:31,000 --> 01:37:33,000
+are based in Sweden.
+
+2349
+01:37:33,000 --> 01:37:35,000
+We have
+
+2350
+01:37:35,000 --> 01:37:37,000
+the biggest
+
+2351
+01:37:37,000 --> 01:37:39,000
+company in Sweden.
+
+2352
+01:37:39,000 --> 01:37:41,000
+They work in a bakery.
+
+2353
+01:37:41,000 --> 01:37:43,000
+Yes, they can work in a bakery.
+
+2354
+01:37:43,000 --> 01:37:45,000
+They can work on a Volvo
+
+2355
+01:37:45,000 --> 01:37:47,000
+or a Polestar.
+
+2356
+01:37:47,000 --> 01:37:49,000
+We work
+
+2357
+01:37:49,000 --> 01:37:51,000
+with a music player
+
+2358
+01:37:51,000 --> 01:37:53,000
+Klarno.
+
+2359
+01:37:53,000 --> 01:37:55,000
+We have a lot
+
+2360
+01:37:55,000 --> 01:37:57,000
+of bigger companies.
+
+2361
+01:37:57,000 --> 01:37:59,000
+We also have Tetra Pak.
+
+2362
+01:37:59,000 --> 01:38:01,000
+So if you drink
+
+2363
+01:38:01,000 --> 01:38:03,000
+milk or something
+
+2364
+01:38:03,000 --> 01:38:05,000
+from Tetra Pak
+
+2365
+01:38:05,000 --> 01:38:07,000
+and you get sick, maybe it's our fault.
+
+2366
+01:38:07,000 --> 01:38:09,000
+Maybe not.
+
+2367
+01:38:09,000 --> 01:38:11,000
+Tetra Pak.
+
+2368
+01:38:11,000 --> 01:38:13,000
+I hope so.
+
+2369
+01:38:13,000 --> 01:38:15,000
+I would
+
+2370
+01:38:15,000 --> 01:38:17,000
+suggest to all listeners
+
+2371
+01:38:17,000 --> 01:38:19,000
+to check the links
+
+2372
+01:38:19,000 --> 01:38:21,000
+in the description.
+
+2373
+01:38:21,000 --> 01:38:23,000
+If you have a Twitter
+
+2374
+01:38:23,000 --> 01:38:25,000
+follow
+
+2375
+01:38:25,000 --> 01:38:27,000
+Klem
+
+2376
+01:38:27,000 --> 01:38:29,000
+because he has a constant stream
+
+2377
+01:38:29,000 --> 01:38:31,000
+on GitHub.
+
+2378
+01:38:31,000 --> 01:38:33,000
+He is very active.
+
+2379
+01:38:33,000 --> 01:38:35,000
+I would suggest that.
+
+2380
+01:38:35,000 --> 01:38:37,000
+Do you have anything else to say?
+
+2381
+01:38:37,000 --> 01:38:39,000
+It was very cool.
+
+2382
+01:38:39,000 --> 01:38:41,000
+Thank you.
+
+2383
+01:38:43,000 --> 01:38:45,000
+Stay cool.
+
+2384
+01:38:45,000 --> 01:38:47,000
+I hope that the
+
+2385
+01:38:47,000 --> 01:38:49,000
+Swedish JavaScript Meetup
+
+2386
+01:38:49,000 --> 01:38:51,000
+will be in your territory.
+
+2387
+01:38:51,000 --> 01:38:53,000
+I hope that
+
+2388
+01:38:53,000 --> 01:38:55,000
+everyone who is interested in JavaScript
+
+2389
+01:38:55,000 --> 01:38:57,000
+will come to the Swedish JavaScript Meetup.
+
+2390
+01:38:57,000 --> 01:38:59,000
+Go to those meetups
+
+2391
+01:38:59,000 --> 01:39:01,000
+if people are already organizing them.
+
+2392
+01:39:01,000 --> 01:39:03,000
+Go there.
+
+2393
+01:39:03,000 --> 01:39:05,000
+Drink beer.
+
+2394
+01:39:05,000 --> 01:39:07,000
+People are also shy
+
+2395
+01:39:07,000 --> 01:39:09,000
+so they won't
+
+2396
+01:39:09,000 --> 01:39:11,000
+invite you.
+
+2397
+01:39:11,000 --> 01:39:13,000
+They are
+
+2398
+01:39:13,000 --> 01:39:15,000
+on guard.
+
+2399
+01:39:15,000 --> 01:39:17,000
+I would like to thank
+
+2400
+01:39:17,000 --> 01:39:19,000
+the listeners for
+
+2401
+01:39:19,000 --> 01:39:21,000
+their attention, time
+
+2402
+01:39:21,000 --> 01:39:23,000
+and feedback.
+
+2403
+01:39:23,000 --> 01:39:25,000
+We will be very happy
+
+2404
+01:39:25,000 --> 01:39:27,000
+if Klem and André
+
+2405
+01:39:27,000 --> 01:39:29,000
+follow GitHub.

@@ -1,0 +1,4867 @@
+1
+00:00:00,000 --> 00:00:18,000
+Potem se izteče ta naš slavni džingl, ki ga imamo kupljenega iz nekega 100 krhiva.
+
+2
+00:00:18,000 --> 00:00:20,000
+Džinglo.
+
+3
+00:00:20,000 --> 00:00:29,000
+Janič, pozdravljeni in dobrodošli v novo epizodje v Grodje. Mislim, da po številkah je to 26. epizoda.
+
+4
+00:00:29,000 --> 00:00:37,000
+In moram povejati, da se je zdaj že eno leto obrnalo in smo že eno leto na sceni.
+
+5
+00:00:37,000 --> 00:00:44,000
+Prišli smo predvsej daleč od takrat, ko smo začeli to snimati na en testni snemalnik,
+
+6
+00:00:44,000 --> 00:00:50,000
+zato da imamo tukaj vzadi celo ekipo ljudi, ki nam pomagajo to zadevo držati na ostreznem nivoju.
+
+7
+00:00:50,000 --> 00:01:00,000
+Danes imamo posebno gostjo, s katero bomo poskušali urisati, kam potujemo kot država.
+
+8
+00:01:00,000 --> 00:01:08,000
+Poskušali smo pogovarjati, kakšni so izzivi na tej poti, potem, kako bomo te izzive nekako premustili.
+
+9
+00:01:08,000 --> 00:01:23,000
+Stvari imamo vmes, ki najo zanimajo. Zdaj ton bomo probali držati zelo pozitivno, pa nekako bomo probali tako
+
+10
+00:01:23,000 --> 00:01:42,000
+inženirovanje. Peljat, da gostimo v Mariboru pri podjetju 3FSE, bomo dali spodaj link, tako da pogledajte to podjetje.
+
+11
+00:01:42,000 --> 00:01:46,000
+In se že zdaj zahvaljujem za gostovanje.
+
+12
+00:01:46,000 --> 00:01:50,000
+Ali smo še kaj takega pozabljali na začetku?
+
+13
+00:01:50,000 --> 00:01:57,000
+Te moraš predstaviti. Gostinja danes je res posebna, oziroma specialna.
+
+14
+00:01:57,000 --> 00:02:02,000
+Boš ti prebral? Tebi je ta fakt zbližil.
+
+15
+00:02:03,000 --> 00:02:12,000
+Čez bi srce zahvalil naši posebni gosti, raziskovalki dr. Emili Stojmenov-Duh, ministrici za digitalno preobrazbo.
+
+16
+00:02:12,000 --> 00:02:20,000
+Ministrica je doktorirala na Fakulteti za elektrotehniko in računalništvo informatiko v Mariboru.
+
+17
+00:02:20,000 --> 00:02:27,000
+Pred doktoratom je delala v družbi Iskrtel, na to pa se zaposlila na Fakulteti za elektrotehniko Univerze v Ljubljani.
+
+18
+00:02:27,000 --> 00:02:33,000
+Na zadnje kot izredna profesorica na Katedre za informacijsko-komunicijske tehnologije.
+
+19
+00:02:33,000 --> 00:02:40,000
+Dr. Stojmenov-Duh je prva izredna profesorica na Fakulteti za elektrotehniko.
+
+20
+00:02:40,000 --> 00:02:46,000
+Bila pa je tudi prva predsednica IEEE Women in Engineering Slovenija.
+
+21
+00:02:46,000 --> 00:02:53,000
+Januarja 2024 pa je bila potrjena kot ministrica za digitalno preobrazbo.
+
+22
+00:02:53,000 --> 00:03:00,000
+Kot avtorica in soavtorica se podpisuje počtevilne znanstvene in strokovne publikacije iz področja digitalne preobrazbe.
+
+23
+00:03:00,000 --> 00:03:02,000
+Dobrodošli, hvala.
+
+24
+00:03:02,000 --> 00:03:04,000
+Hvala, a smem nekaj popraviti?
+
+25
+00:03:04,000 --> 00:03:06,000
+Ja, definitivno.
+
+26
+00:03:06,000 --> 00:03:12,000
+Nisem prva izredna profesorica na Fakulteti za elektrotehniko, ampak na Katedri za informacijsko-komunicijske tehnologije.
+
+27
+00:03:12,000 --> 00:03:14,000
+Hvala.
+
+28
+00:03:14,000 --> 00:03:17,000
+Mislim, da smo to nekaj skupirala.
+
+29
+00:03:18,000 --> 00:03:22,000
+Seveda, smo lena. Ne iz te koroflovato, nismo to skupirala.
+
+30
+00:03:22,000 --> 00:03:29,000
+Malo smo poreserčala, malo smo skupirala. Nismo pa napisali včetki piti, tako da pohvaljajte v nama.
+
+31
+00:03:29,000 --> 00:03:34,000
+Veliko ljudi se pretežuje, da preslavo predstavljamo goste.
+
+32
+00:03:34,000 --> 00:03:38,000
+Smo mogla posebej izredno dodati še taj aspekt.
+
+33
+00:03:38,000 --> 00:03:40,000
+Upala smo, da bo brz napake.
+
+34
+00:03:40,000 --> 00:03:45,000
+Ampak profesorica v meni more vedno poiskati, kaj bo popravil.
+
+35
+00:03:45,000 --> 00:03:48,000
+Je res to napake, ki je pogosta?
+
+36
+00:03:48,000 --> 00:03:53,000
+Ne, mislim, ta napaka ni, ampak zdaj sem slučajno, pa nisem želela delati krivico.
+
+37
+00:03:53,000 --> 00:03:56,000
+Ostavim se delavkam, ki pa so že.
+
+38
+00:03:58,000 --> 00:04:01,000
+Ja, en kup temi imamo.
+
+39
+00:04:01,000 --> 00:04:03,000
+A začnemo kaj rečeva?
+
+40
+00:04:03,000 --> 00:04:06,000
+Počas čist preprosto.
+
+41
+00:04:06,000 --> 00:04:12,000
+Vodite ministrstvo za digitalno preobrazbo. Kaj v bistvu sloh je digitalna preobrazba?
+
+42
+00:04:13,000 --> 00:04:17,000
+Digitalna preobrazba je en kup enih stvari.
+
+43
+00:04:17,000 --> 00:04:23,000
+Čist na kratko, kako jaz razumem, uporaba novih digitalnih tehnologij
+
+44
+00:04:23,000 --> 00:04:28,000
+bodi si za to, da ustvarimo neke nove procese ali pri uporabniški izkušnji
+
+45
+00:04:28,000 --> 00:04:34,000
+oziroma potrošniški izkušnji ali pri načinu, ne vem, kako delujejo podjetja,
+
+46
+00:04:34,000 --> 00:04:40,000
+različne organizacije, torej na eni strani lahko gre za nekaj povsem novega,
+
+47
+00:04:40,000 --> 00:04:46,000
+ali pa, da obstoječe procese posodobimo na način, da uporabimo tehnologije, ki obstajajo.
+
+48
+00:04:46,000 --> 00:04:51,000
+Zelo preprosto, uporabimo tehnologije za... Bistveni tukaj so procesi,
+
+49
+00:04:51,000 --> 00:04:54,000
+torej niso same tehnologije.
+
+50
+00:04:54,000 --> 00:04:59,000
+To govorimo ne samo o tehnologiji, govorimo tudi o procesi,
+
+51
+00:04:59,000 --> 00:05:03,000
+govorimo tudi o izobraževanju ljudi, govorimo o...
+
+52
+00:05:03,000 --> 00:05:05,000
+Mindsetu.
+
+53
+00:05:05,000 --> 00:05:06,000
+Mindsetu.
+
+54
+00:05:06,000 --> 00:05:07,000
+Kulturi.
+
+55
+00:05:07,000 --> 00:05:13,000
+Kulturi, resorsih in pač tudi nekih strategijah.
+
+56
+00:05:13,000 --> 00:05:18,000
+Zdaj, ko smo poskušali, ko smo se pripravljali na to epizodo,
+
+57
+00:05:18,000 --> 00:05:22,000
+je zelo zanimiva izkušnja kot tako.
+
+58
+00:05:22,000 --> 00:05:27,000
+Najprej smo seveda vprašali naše zveste poslušalce in pogledalce,
+
+59
+00:05:27,000 --> 00:05:30,000
+kakšne težave imajo in kaj naj vprašamo.
+
+60
+00:05:30,000 --> 00:05:36,000
+Potem smo šli tudi bolj na široko, pa smo pač vprašali ljudi, kaj si mislijo.
+
+61
+00:05:37,000 --> 00:05:42,000
+Zelo zanimivi feedbacki so, ki govorijo malo mogoče v odduhu
+
+62
+00:05:42,000 --> 00:05:47,000
+v našem času trenutno, govorijo tudi o tem nerazumevanju
+
+63
+00:05:47,000 --> 00:05:50,000
+tega ministrstva.
+
+64
+00:05:50,000 --> 00:05:54,000
+Zdaj, jaz sem šel brati to digitalno strategijo, maš, ne vem,
+
+65
+00:05:54,000 --> 00:05:56,000
+še jaz sem šel s stranji, pa je...
+
+66
+00:05:56,000 --> 00:05:57,000
+S prilogami.
+
+67
+00:05:57,000 --> 00:06:00,000
+S prilogami in kroni dokument.
+
+68
+00:06:00,000 --> 00:06:07,000
+Ok, dajte nam vi povejati, kaj to ministrstvo je,
+
+69
+00:06:07,000 --> 00:06:13,000
+oziroma kje so te neke osnovne... Kaj danes je vaš čob?
+
+70
+00:06:13,000 --> 00:06:17,000
+Gleda to bolj mehko vprašano, ker se mi zdi, da ljudje...
+
+71
+00:06:17,000 --> 00:06:19,000
+Ja, pač ljudje imajo velika pričakovanja.
+
+72
+00:06:19,000 --> 00:06:20,000
+Blazno.
+
+73
+00:06:20,000 --> 00:06:25,000
+Mar se kdo pač nerazume, ker pač ministrstvo le je nastalo na novo,
+
+74
+00:06:25,000 --> 00:06:30,000
+pač, ok, ministr brez listnice je pač že postavil, oziroma vi ste že
+
+75
+00:06:30,000 --> 00:06:33,000
+pač tudi imeli mesto, pred njim je bilo formalno osnovljeno
+
+76
+00:06:33,000 --> 00:06:37,000
+to ministrstvo, ampak ja, pač ljudje samo ne vejo, kaj pričakovati
+
+77
+00:06:37,000 --> 00:06:39,000
+od tega ministrstva.
+
+78
+00:06:39,000 --> 00:06:43,000
+Ampak že tako, kot ste začeli, da ste dobili ogromno odzivo,
+
+79
+00:06:43,000 --> 00:06:48,000
+to potem pove, da to področje je izjemno upeto v našem vsakdanjem
+
+80
+00:06:48,000 --> 00:06:52,000
+življenju in tudi v vsakdanjem delu. Zdaj, digitalna preobrazba,
+
+81
+00:06:52,000 --> 00:06:57,000
+digitalne tehnologije niso prišle za novo ministrstvo ali za službo prej,
+
+82
+00:06:57,000 --> 00:07:01,000
+ampak so del našega življenja in v preteklosti je bilo tako,
+
+83
+00:07:01,000 --> 00:07:05,000
+da vsako ministrstvo se je posamezno ukvarjalo s tem področjem.
+
+84
+00:07:05,000 --> 00:07:09,000
+Na gospodarstvu so se ukvarjali, potem, ne vem, na ministrstvu za delo,
+
+85
+00:07:09,000 --> 00:07:13,000
+družino so se ukvarjali, so obravnavali določene aspekte,
+
+86
+00:07:13,000 --> 00:07:17,000
+zgojeni z obraževanje, ne vem, če veste, ampak široko pasovni
+
+87
+00:07:17,000 --> 00:07:20,000
+internet za podvrželje je bil na ministrstvu za tmetistvo.
+
+88
+00:07:20,000 --> 00:07:24,000
+In vse, kar smo mi naredili, je to, da smo dali en organ,
+
+89
+00:07:24,000 --> 00:07:27,000
+eno ministrstvo, ki bo kravno pogledalo vse te stvari.
+
+90
+00:07:27,000 --> 00:07:31,000
+Zdaj, še zmeraj se ministrstvo za svoji aspekti pokrivajo.
+
+91
+00:07:31,000 --> 00:07:34,000
+Samo tukaj našo ministrstvo je to, ki ima kravno strategijo,
+
+92
+00:07:34,000 --> 00:07:38,000
+zato tudi smo mi pripravili to strategijo, da pokažemo,
+
+93
+00:07:38,000 --> 00:07:41,000
+kje je cilj, kje je vizija Slovenije na tem področju
+
+94
+00:07:41,000 --> 00:07:45,000
+in tudi, ko bomo financirali kakšne projekte, da ne bomo ugotavljali,
+
+95
+00:07:45,000 --> 00:07:50,000
+da iste zadeve financiramo na tmetistvu, pa na infrastrukturi,
+
+96
+00:07:50,000 --> 00:07:55,000
+pa na prometu, ampak da nekako so te stvari med seboj povezane.
+
+97
+00:07:55,000 --> 00:08:00,000
+Pa tudi zdaj interoperabilnost je zelo moderna, ampak o čem gre?
+
+98
+00:08:00,000 --> 00:08:03,000
+Gre za to, da če enkrat imamo podatek vnešen, da ga ni treba
+
+99
+00:08:03,000 --> 00:08:09,000
+vnašati dvajsetkrat, vsak različni resor, vsak različna organizacija,
+
+100
+00:08:09,000 --> 00:08:13,000
+ampak da ga imamo že noter in da uporabimo to, kar že obstaja.
+
+101
+00:08:13,000 --> 00:08:16,000
+Čist preprosto zato je nastalo to ministrstvo.
+
+102
+00:08:16,000 --> 00:08:21,000
+Ok. Zdaj, še enkrat bom probil biti,
+
+103
+00:08:21,000 --> 00:08:24,000
+spet, hočemo biti nekaj pozitivni, ampak ...
+
+104
+00:08:24,000 --> 00:08:26,000
+Lahko ste tudi kritični.
+
+105
+00:08:26,000 --> 00:08:29,000
+Jaz sem spremljal, ko smo se prepravljali,
+
+106
+00:08:29,000 --> 00:08:34,000
+sem dve časa spremljal vaše social kanale, Instagram, Facebook in tako pod.
+
+107
+00:08:34,000 --> 00:08:40,000
+In zjutraj vidim sliko, ko ste se ukvarjali z izobraževanjem starejših,
+
+108
+00:08:40,000 --> 00:08:44,000
+mislim, da v velenju, pa v smislu, ok, super, ful dober.
+
+109
+00:08:44,000 --> 00:08:49,000
+Potem čez par ur pogotovimo, da pa so pade SSL certifikat in potem je to
+
+110
+00:08:49,000 --> 00:08:52,000
+shitstorm, kar naračem.
+
+111
+00:08:52,000 --> 00:08:56,000
+Potem vidiš v bistvu cel ta grom, kako to ...
+
+112
+00:08:56,000 --> 00:08:59,000
+Zdaj sploh ne vem, je to vaša pristojnost?
+
+113
+00:08:59,000 --> 00:09:03,000
+Ali to zdaj ponovem je, ali je to še vedno pristojnost teh ministrov?
+
+114
+00:09:03,000 --> 00:09:07,000
+Aj, boste vi usmerjali skozi te stvari?
+
+115
+00:09:07,000 --> 00:09:09,000
+Ali to je sploh digitalna transformacija?
+
+116
+00:09:09,000 --> 00:09:11,000
+Mislim, tukaj gre za higijeno.
+
+117
+00:09:11,000 --> 00:09:15,000
+Prosto higijeno, da imaš redno vzdraževanje certifikatov.
+
+118
+00:09:15,000 --> 00:09:19,000
+Zdaj, prej sem, ko ste govorili, kaj digitalna preobrazba, sem jaz dodala
+
+119
+00:09:19,000 --> 00:09:24,000
+mindset. Da je potrebno spremeniti mindset in tako kot moramo poskrbeti,
+
+120
+00:09:24,000 --> 00:09:29,000
+da naša osebna izkaznica, da ne gre čez rok oziroma da pravočasno
+
+121
+00:09:29,000 --> 00:09:32,000
+podaljšamo vozniško dovoljenje, moramo tudi pravočasno podaljšati
+
+122
+00:09:32,000 --> 00:09:35,000
+certifikat. Kaj je naša vloga tukaj?
+
+123
+00:09:35,000 --> 00:09:41,000
+Naša vloga je, da vse te organizacije tudi ozavestimo tem, da jih naučimo,
+
+124
+00:09:41,000 --> 00:09:46,000
+da je to del osnovne higijene. Ni naša krivda, da je IPES upotekl
+
+125
+00:09:46,000 --> 00:09:51,000
+certifikat, ker celo, ko smo mi ugotovili, da je nastala ta težava,
+
+126
+00:09:51,000 --> 00:09:55,000
+smo mi ne mogli začeli klicati IPES-a, naši sodelavci, da smo uredili
+
+127
+00:09:55,000 --> 00:09:59,000
+to za del in potem smo videli, da ni bil IPES-edini, ampak še majsti
+
+128
+00:09:59,000 --> 00:10:03,000
+katera druga organizacija. Kaj smo na podlagi tega naredili?
+
+129
+00:10:03,000 --> 00:10:07,000
+Smo mi pripravili en dopis in smo ga razposlali vsem in tukaj ne bomo
+
+130
+00:10:07,000 --> 00:10:12,000
+zaključili. Na našem ministerstvu imamo ogromno pobud, ker opozarjamo
+
+131
+00:10:12,000 --> 00:10:16,000
+ostale organizacije. Tudi, recimo, ena druga taka zadeva je elektronski
+
+132
+00:10:16,000 --> 00:10:21,000
+podpis. Ponovno smo poslali dopis, organiziramo vzposabljanja,
+
+133
+00:10:21,000 --> 00:10:26,000
+ker ostale naše resorje, pa ne samo ministerstvo, ampak tudi agencije,
+
+134
+00:10:26,000 --> 00:10:31,000
+pač vse, kar spada znotrajalnega sektorja, im želimo dopovedati,
+
+135
+00:10:31,000 --> 00:10:36,000
+da elektronski podpis po slovenski in evropski zakonodaji je enakovreden
+
+136
+00:10:36,000 --> 00:10:42,000
+vlasnoročnemu podpisu. Naša vloga kot ministerstva je, da mi ozaveščamo,
+
+137
+00:10:42,000 --> 00:10:47,000
+da naučimo ostale, nam vsem pa mora priti v mindsetu ta digitalna
+
+138
+00:10:47,000 --> 00:10:51,000
+preobrazba in tukaj je ta naša vloga, ki jo imamo in vidimo.
+
+139
+00:10:53,000 --> 00:10:58,000
+Zdaj mi dva prihajamo pač iz industrije, pa smo davali na, ali pač
+
+140
+00:10:58,000 --> 00:11:05,000
+poročati VPN-ov in inženeringa, CTO-jem, CIO-tom, pa najočist lajično
+
+141
+00:11:05,000 --> 00:11:09,000
+zanima, kako je neko ministerstvo sestavljeno, gre to za različne
+
+142
+00:11:09,000 --> 00:11:12,000
+urade, direkcije, kako to vzloh pač funkcionira.
+
+143
+00:11:12,000 --> 00:11:15,000
+Lahko povem, kako smo mi organizirali, če vas to zanima.
+
+144
+00:11:15,000 --> 00:11:20,000
+Torej, mi imamo znotraj ministerstva štirj direktorate, to je
+
+145
+00:11:20,000 --> 00:11:24,000
+direktorate za digitalno družbo, tukaj je ta informacijska družba,
+
+146
+00:11:24,000 --> 00:11:27,000
+širša vključenost, ker spadajo kompetence, potem nove,
+
+147
+00:11:27,000 --> 00:11:31,000
+moderne tehnologije, umetna inteligenca, verižanje blokov in tako naprej.
+
+148
+00:11:31,000 --> 00:11:36,000
+Potem imamo direktorat za digitalne rešitve in podatkovno ekonomijo,
+
+149
+00:11:36,000 --> 00:11:41,000
+tukaj zagotovo si poznate je uprava, spot, potem tudi elektronska
+
+150
+00:11:41,000 --> 00:11:47,000
+vsebna izkaznica, certifikati in OPSI portal spada na tem
+
+151
+00:11:47,000 --> 00:11:51,000
+direktoratu. Potem imamo direktorat za infrastrukturo, tukaj so
+
+152
+00:11:51,000 --> 00:11:55,000
+strežniki, ker pri nas je celotno javno upravo, javni sektor,
+
+153
+00:11:55,000 --> 00:12:00,000
+HKOM omrežje je na našem ministerstvu in direktorat za podporo
+
+154
+00:12:00,000 --> 00:12:04,000
+uporabnikov, to je ta EKC centar, ker dobivamo redno pohvale strani
+
+155
+00:12:04,000 --> 00:12:10,000
+uporabnikov, da so zelo zadovoljni. Poleg tega imamo tudi službo
+
+156
+00:12:10,000 --> 00:12:14,000
+za mednarodne in evropske zadeve, imamo svoj sekretariat,
+
+157
+00:12:14,000 --> 00:12:19,000
+pravna služba, pač vse te kadrovske, kot jih poznate, tudi v podjetjih.
+
+158
+00:12:19,000 --> 00:12:23,000
+Tako smo nekako zorganizirani, direktorati imajo direktorje,
+
+159
+00:12:23,000 --> 00:12:28,000
+potem so sektori znotraj posameznega direktorata in to je to.
+
+160
+00:12:28,000 --> 00:12:30,000
+Preprosto.
+
+161
+00:12:30,000 --> 00:12:35,000
+Preprosto, to ste vi pač logično poznate v nullo.
+
+162
+00:12:35,000 --> 00:12:40,000
+Tam sem še samo videl, da imate še en organ v nastajanju
+
+163
+00:12:40,000 --> 00:12:42,000
+s CER Inšpektorat.
+
+164
+00:12:42,000 --> 00:12:50,000
+Ne samo napisal sem C, veliko nas v komunitijo nekaj časa nazaj
+
+165
+00:12:50,000 --> 00:12:57,000
+je postalo, so veliko ljudi dobilo ta mail, da je treba iti v ...
+
+166
+00:12:57,000 --> 00:12:59,000
+Poskrbeti za dostopnost.
+
+167
+00:12:59,000 --> 00:13:01,000
+Sletno dostopnost.
+
+168
+00:13:01,000 --> 00:13:05,000
+In potem smo iz tega gotovili, da postaja še nek organ, ki je v nastajanju.
+
+169
+00:13:05,000 --> 00:13:07,000
+Tudi to sem še videl.
+
+170
+00:13:07,000 --> 00:13:09,000
+Samo to sem še hotel dodati.
+
+171
+00:13:09,000 --> 00:13:12,000
+In je zelo pomemben, da organ je, smo ponosni na njega,
+
+172
+00:13:12,000 --> 00:13:16,000
+zakaj nisem ga želela pozabiti, ampak zato, ker Inšpektorat mora
+
+173
+00:13:16,000 --> 00:13:18,000
+biti neodvisen.
+
+174
+00:13:18,000 --> 00:13:20,000
+Tudi nas opozarja, ko delamo napake.
+
+175
+00:13:20,000 --> 00:13:23,000
+Če kdo na direktoratu naredi, tudi mi dobimo po prstih,
+
+176
+00:13:23,000 --> 00:13:29,000
+ali če recimo pri kakšni določeni sliki ne damo še dodatno razlago,
+
+177
+00:13:29,000 --> 00:13:32,000
+Inšpektor nas takoj pokliče.
+
+178
+00:13:32,000 --> 00:13:34,000
+Zakaj se je pa zgodilo to?
+
+179
+00:13:34,000 --> 00:13:37,000
+Na eni strani so bila zelo deljena mnenja v javnosti.
+
+180
+00:13:37,000 --> 00:13:40,000
+V javnosti so rekli, kaj vam je tega treba, da nas nadlegujete s tem,
+
+181
+00:13:40,000 --> 00:13:42,000
+imamo samo dodatno delo.
+
+182
+00:13:42,000 --> 00:13:44,000
+Po drugi strani pa smo dobili ful pohval.
+
+183
+00:13:44,000 --> 00:13:46,000
+Končno se je nekdo lotil.
+
+184
+00:13:46,000 --> 00:13:50,000
+Zato, ker zakon obstaja, ampak če zakon obstaja, pa ga ne izvajamo,
+
+185
+00:13:50,000 --> 00:13:52,000
+nismo nič naredili s tem.
+
+186
+00:13:52,000 --> 00:13:57,000
+Jaz zagotavljam, da mi imamo najbolj prijaznega glavnega inšpektorja,
+
+187
+00:13:57,000 --> 00:14:00,000
+ker naš namen ni bil, da gremo v kazni.
+
+188
+00:14:00,000 --> 00:14:03,000
+Naš namen je bil, da opozorimo, da vidimo, kaj se dogaja.
+
+189
+00:14:03,000 --> 00:14:05,000
+Da to je pomembno.
+
+190
+00:14:05,000 --> 00:14:09,000
+Da se z vsemi pogovori, razloži in ljudje tudi tega razumejo.
+
+191
+00:14:09,000 --> 00:14:11,000
+Spet gre za to zaveščanje.
+
+192
+00:14:11,000 --> 00:14:16,000
+Da se zavedamo, da moramo pač paziti na spletno dostopnost,
+
+193
+00:14:16,000 --> 00:14:19,000
+ker skozi govorimo, da želimo biti tukaj učuji oči.
+
+194
+00:14:19,000 --> 00:14:25,000
+Zdaj, zadnjič, prejšnja epizoda je bila sicer z varnostnim strkonjakom iz Australije,
+
+195
+00:14:25,000 --> 00:14:29,000
+pač hekerem, ki pomaga ljudem, zdej organizacijam,
+
+196
+00:14:29,000 --> 00:14:32,000
+bistvo postati bolj varne, pa jih zaščititi na nek način.
+
+197
+00:14:33,000 --> 00:14:41,000
+In smo ga vprašali v stilu, kako bistvo dobiš v organizaciji to zavedanje,
+
+198
+00:14:41,000 --> 00:14:45,000
+da je nekaj pomembno, pa da se firme strateško odločijo,
+
+199
+00:14:45,000 --> 00:14:48,000
+da bodo določene stvari šle spreminjati.
+
+200
+00:14:48,000 --> 00:14:52,000
+In jaz rekel zelo enostavno, pri velikih teh primerjih je investicija taka,
+
+201
+00:14:52,000 --> 00:14:59,000
+da če ni neke zakonske zahteve, ki mora vrstnici prijeti iz takih krogov,
+
+202
+00:14:59,000 --> 00:15:04,000
+potem se določene strategije, enostavno ne splača se investirati v to,
+
+203
+00:15:04,000 --> 00:15:06,000
+dokaj ni treba.
+
+204
+00:15:06,000 --> 00:15:10,000
+Sej mi dva oba dva vemo, da accessibility, varnost je na zadnjem mestu,
+
+205
+00:15:10,000 --> 00:15:14,000
+a accessibility pa v bistvu sloh ne pride na seznam doskrat,
+
+206
+00:15:14,000 --> 00:15:18,000
+kaj neke komercialne rešitve razvijamo. Razen, če ni so te rešitve namenjene
+
+207
+00:15:18,000 --> 00:15:22,000
+nekim skupinam, kjer je to strašansko pomembno.
+
+208
+00:15:22,000 --> 00:15:27,000
+Je pa pač razumljivo, da tudi mi se staramo in tudi nam je pomemben kontrast
+
+209
+00:15:27,000 --> 00:15:31,000
+teksta na vzadju oziroma pač vse ostale stvari.
+
+210
+00:15:31,000 --> 00:15:35,000
+Pak vsi ti standardi obstajajo že veliko časa in če pogledamo,
+
+211
+00:15:35,000 --> 00:15:40,000
+jaz nisem med najbolj mladimi, ampak jaz sem diplomirala iz tega področja,
+
+212
+00:15:40,000 --> 00:15:45,000
+torej o tem se pogovarjamo že veliko let, samo še zmeraj ne gremo,
+
+213
+00:15:45,000 --> 00:15:49,000
+ne razmislimo, ko delamo nove spletne strani ali nove mobilne aplikacije,
+
+214
+00:15:49,000 --> 00:15:54,000
+da so ljudje, ki pač, ja, smo ljudje, ki pač slabše vidimo in da je treba paziti
+
+215
+00:15:54,000 --> 00:15:59,000
+na te zadeve ali ko objavljamo na družbenih omrežjih, da za nekoga pač ne vidijo
+
+216
+00:15:59,000 --> 00:16:06,000
+te vsebine, ki želimo, da se delijo oziroma, da pridejo tudi do njih.
+
+217
+00:16:06,000 --> 00:16:13,000
+In iz tega namena ravno preko inšpektorata, preko zakonov lahko pridemo do tega,
+
+218
+00:16:13,000 --> 00:16:16,000
+da se uporabljajo v praksi.
+
+219
+00:16:16,000 --> 00:16:19,000
+Zdaj nas posluša cel kup inženerjev.
+
+220
+00:16:19,000 --> 00:16:21,000
+In inženerk.
+
+221
+00:16:21,000 --> 00:16:23,000
+In inženerk seveda.
+
+222
+00:16:23,000 --> 00:16:29,000
+Bodočih inženerjev in inženerk, pa pač vse, vsi ljudi, ki jih zanimajo, te stvari.
+
+223
+00:16:29,000 --> 00:16:34,000
+Jaz pač verjamam, da doskrati je v bistvu fajn med overflow nekega znanja
+
+224
+00:16:34,000 --> 00:16:38,000
+in informacije na nekem višjem nivoju, da pa jih iščeš ta priključek.
+
+225
+00:16:38,000 --> 00:16:42,000
+Pa me zanima, kaj vi pričakujete od inženerjev in inženerk,
+
+226
+00:16:42,000 --> 00:16:46,000
+pa kakšna so vaše pričakovane, ne vem, do naše publike?
+
+227
+00:16:46,000 --> 00:16:52,000
+Kaj bi si predvsem želeli je neko, tudi če je kritika, da ta kritika je konstruktivna kritika.
+
+228
+00:16:53,000 --> 00:16:58,000
+Tudi če opazijo, da smo kaj spregledali ali da delamo narobe, da nas na to opozorijo.
+
+229
+00:16:58,000 --> 00:17:03,000
+Ker kaj se dan danes dogaja, ne govorim tukaj, ne želim generalizirati,
+
+230
+00:17:03,000 --> 00:17:08,000
+dobimo Marsika, strani inženerjev in inženerk, ne vladnih organizacij ogromno,
+
+231
+00:17:08,000 --> 00:17:12,000
+ko imajo predloge in predlagajo, dajte to narediti.
+
+232
+00:17:12,000 --> 00:17:17,000
+Zdaj, ene stvari se pač ne da zaradi takšnih in drugačnih razlogov,
+
+233
+00:17:17,000 --> 00:17:22,000
+ene stvari se mogoče ne da tako izdaj, ampak začnemo razmišljati o tem.
+
+234
+00:17:22,000 --> 00:17:27,000
+Najhuljša je, aj, bez pojma nima, za kaj sploh potrebujemo zdaj
+
+235
+00:17:27,000 --> 00:17:31,000
+Ministrstvo za digitalno preobrazbo. Za nas je bilo koristno.
+
+236
+00:17:31,000 --> 00:17:36,000
+Po drugi strani, tukaj pa moram izjemno pohvaliti, recimo Sledilnik je bil v tem primeru,
+
+237
+00:17:36,000 --> 00:17:40,000
+ko se nekaj zgodilo, so meni zasebno poslali sporočilo,
+
+238
+00:17:40,000 --> 00:17:44,000
+ej, poglejte, to ne štima, dajte preveriti, kaj se da narediti na tem področju.
+
+239
+00:17:44,000 --> 00:17:49,000
+In nam je pomagalo. Mi smo tako šli v preverjanje, kaj lahko naredimo.
+
+240
+00:17:49,000 --> 00:17:54,000
+In ni samo Sledilnik, tudi mrežanje vladnih organizacij, tudi različne druge organizacije.
+
+241
+00:17:54,000 --> 00:18:00,000
+Tako da, zelo dobrodošli s predlogi, kritika, apsolutno sprememo kritiko,
+
+242
+00:18:00,000 --> 00:18:04,000
+ampak dajmo biti konstruktivni pri tem.
+
+243
+00:18:04,000 --> 00:18:11,000
+Zdaj, predvsem smo se začeli prepravljati na to epizodo,
+
+244
+00:18:11,000 --> 00:18:16,000
+ministerstvo za digitalno preobrazbo, ok, vsem nam je jasno,
+
+245
+00:18:16,000 --> 00:18:20,000
+imamo pač neke javne storitve, to se bo digitaliziral.
+
+246
+00:18:20,000 --> 00:18:24,000
+Ampak po drugi strani smo se popolnili na konc midva,
+
+247
+00:18:24,000 --> 00:18:28,000
+pa poslušalci tudi sprašvali, ok, kaj pa lahko inženerji v bistvu pričakujemo
+
+248
+00:18:28,000 --> 00:18:34,000
+od tega ministrstva, zato ker, ne vem, ena izmed stvari je tudi digitalizacija gospodarstva.
+
+249
+00:18:34,000 --> 00:18:39,000
+Kaj so neke stvari, ki jih lahko mogoče naši poslušalci,
+
+250
+00:18:39,000 --> 00:18:43,000
+ali pa nekaj bolj teksevi ljudje pričakujo od ministrstva?
+
+251
+00:18:43,000 --> 00:18:48,000
+Zdaj, tudi inženerji ste verjetno tudi podjetniki, ne, in kar mi delamo,
+
+252
+00:18:48,000 --> 00:18:53,000
+preko je uprave, želimo, da vse te podjetniške javne storitve,
+
+253
+00:18:53,000 --> 00:18:57,000
+da so na voljo digitalno, torej, da vam ni treba hoditi po razne urade,
+
+254
+00:18:57,000 --> 00:19:02,000
+zgubljati čas, urejati osebno, ne, ampak da se da marsikaj na daljavo.
+
+255
+00:19:02,000 --> 00:19:06,000
+In veliko tega je že na voljo, ne, mi si želimo tudi po strategiji
+
+256
+00:19:06,000 --> 00:19:10,000
+digitalnih javnih storitev, da so vse te ključne storitve povezane
+
+257
+00:19:10,000 --> 00:19:15,000
+za podjetji, da so na voljo digitalno in naše ekipe delajo na tem področju.
+
+258
+00:19:15,000 --> 00:19:20,000
+Potem, vsi, ki razvijate, vsi podjetniki, vsi inženiri, ki razvijate
+
+259
+00:19:20,000 --> 00:19:24,000
+digitalne rešitve, verjetno si želite, da jih prebivalke, prebivalci
+
+260
+00:19:24,000 --> 00:19:28,000
+znajo uporabljati. Mi pa delamo na opismenjevanju teh prebivalki
+
+261
+00:19:28,000 --> 00:19:33,000
+in prebivalcev, ne. Potem elektronska osebna izkaznica, naša želja,
+
+262
+00:19:33,000 --> 00:19:37,000
+ni samo, da jo uporabljamo v javnem sektorju, ampak da jo uporabljamo
+
+263
+00:19:37,000 --> 00:19:41,000
+tudi v zasebnem sektorju. In to ni samo želja, ampak to je realnost.
+
+264
+00:19:41,000 --> 00:19:45,000
+Veliko teh storitev v zasebnem sektorju, ne vem, v bančništvu,
+
+265
+00:19:45,000 --> 00:19:49,000
+v zavarovalništvu, se že uporablja za avtentikacijo, za neko
+
+266
+00:19:49,000 --> 00:19:54,000
+pač varno avtentikacijo, ne, in vam ni treba razvijati svoje rešitve
+
+267
+00:19:54,000 --> 00:20:00,000
+zato, ker država že ponuja tega. Tako da mogoče ne vse direktno,
+
+268
+00:20:00,000 --> 00:20:04,000
+ampak lahko tudi posredno. To se pravi, da na primer, mogoče
+
+269
+00:20:04,000 --> 00:20:07,000
+čez pet let, če bom hotel jeti v fitness, ne bom rabil meč fitness
+
+270
+00:20:07,000 --> 00:20:10,000
+in izkaznice, ampak bom prišel svojo osebno digitalno izkaznice.
+
+271
+00:20:10,000 --> 00:20:13,000
+Jaz upam, da prej kot v petih letih.
+
+272
+00:20:15,000 --> 00:20:19,000
+Jaz sem hotel še tam vprašati, ko ste govorili, da si želite
+
+273
+00:20:19,000 --> 00:20:25,000
+bolj povezljivo s teh storitev, pa to, tudi ko sem bral malo te strategije
+
+274
+00:20:25,000 --> 00:20:30,000
+prejšnjo pa malo zdejšnjo, veliko teh sistemov pač so neki silosi
+
+275
+00:20:30,000 --> 00:20:35,000
+informacij, ko hočeš eno zadevo, imaš eno evidenco, pa imaš
+
+276
+00:20:35,000 --> 00:20:39,000
+zemljiško knjigo, pa imaš eno sistem, pa te stvari so vse razpršene,
+
+277
+00:20:39,000 --> 00:20:44,000
+pa me zanima, kaj delate v resnici na tem področju, kako boste
+
+278
+00:20:44,000 --> 00:20:49,000
+ta interpobility, ki ste ga preumeli, v tem kontekstu zagotovili?
+
+279
+00:20:49,000 --> 00:20:52,000
+Zdaj danes ste povedali, pa tudi zadnjič ste objavili eno slikco
+
+280
+00:20:52,000 --> 00:20:56,000
+na Twitterju, da berete našo digitalno strategijo, kar je super,
+
+281
+00:20:56,000 --> 00:21:01,000
+drugače digitalna strategija ima 40 strani, teh 66 je zaradi prilog,
+
+282
+00:21:01,000 --> 00:21:05,000
+jaz sem si želela zelo kratek in zelo konkreten dokument in tam
+
+283
+00:21:05,000 --> 00:21:10,000
+ste verjetno ugotovili tudi, da bomo imeli kot strateški svet,
+
+284
+00:21:10,000 --> 00:21:15,000
+ki ga bodo sastavljali ministri, poleg tega predstavniki gospodarstva,
+
+285
+00:21:15,000 --> 00:21:19,000
+nevladnih organizacij, razgovalnih organizacij in tako naprej
+
+286
+00:21:19,000 --> 00:21:25,000
+in to pomeni, da bodo oni potvrjevali projekte za digitalno preobrazbo
+
+287
+00:21:25,000 --> 00:21:28,000
+in če oni sedijo za isto mizo, potem vejo, kaj se dogaja.
+
+288
+00:21:28,000 --> 00:21:33,000
+Tukaj govorimo strateško. Po druge strani imamo še operativna skupina,
+
+289
+00:21:33,000 --> 00:21:37,000
+to so pa direktori direktoratov iz različnih ministerstev in ko oni
+
+290
+00:21:37,000 --> 00:21:41,000
+razvijajo rešitve, se pogovarjajo med sabo. Mi smo se recimo
+
+291
+00:21:41,000 --> 00:21:45,000
+prejšnjem tednu dobili z kolegij iz Ministrstva za notranje
+
+292
+00:21:45,000 --> 00:21:51,000
+zadeve in Ministrstvo za infrastrukturo na temo mobilne vozniške izkaznice.
+
+293
+00:21:51,000 --> 00:21:56,000
+In na takšen način potem pride do tega pretoka, ker največkrat,
+
+294
+00:21:56,000 --> 00:22:00,000
+kar je bilo do sedaj, niso vedeli, kdo kaj počne, kaj se razvija.
+
+295
+00:22:00,000 --> 00:22:05,000
+In tukaj recimo imamo super izkušnjo z Ministrstvo za zdravje,
+
+296
+00:22:05,000 --> 00:22:10,000
+zdaj verjetno ste opazli, da je zvem prenolen, in tukaj z našimi kolegij,
+
+297
+00:22:10,000 --> 00:22:15,000
+ko sodelujejo, na takšen način potem se gradijo te sinergije,
+
+298
+00:22:15,000 --> 00:22:19,000
+kar ponovno imamo izpostavljeno, kot so pomembne tudi v naši strategiji
+
+299
+00:22:19,000 --> 00:22:21,000
+Digitalna Slovenija.
+
+300
+00:22:21,000 --> 00:22:24,000
+To vam zdi. To mi je špega, te zapiske.
+
+301
+00:22:24,000 --> 00:22:26,000
+Seveda.
+
+302
+00:22:26,000 --> 00:22:29,000
+Ne, ker ste edini, brez zapiska, mogo bi tudi vam.
+
+303
+00:22:29,000 --> 00:22:33,000
+Ampak ja, gremo v neslednjo vprašanje, vsekako povezano s strategijo
+
+304
+00:22:33,000 --> 00:22:39,000
+Digitalna Slovenija 2030. Zdaj lahko jaz postavim nekaj v vprašanje,
+
+305
+00:22:39,000 --> 00:22:43,000
+lahko nam jo vi predstavite. Verjetno ste že tukaj mimo grede.
+
+306
+00:22:43,000 --> 00:22:48,000
+Kot rečeno, za nas je bilo izjemno pomembno, da je ta strategija kratek
+
+307
+00:22:48,000 --> 00:22:53,000
+in jasen dokument in da se ne gremo neko bla, bla besedičenja,
+
+308
+00:22:53,000 --> 00:22:58,000
+ampak da točno povemo, kje so prioritete, kakšne cilje imamo.
+
+309
+00:22:58,000 --> 00:23:02,000
+Iz te strategije potem sledi akcijski načrt, ki se že pripravlja
+
+310
+00:23:02,000 --> 00:23:06,000
+in v akcijskem načrtu bomo točno povedali finančni resursi
+
+311
+00:23:06,000 --> 00:23:10,000
+in kdo je odgovoren za kaj. Dokler imamo samo neko strategijo,
+
+312
+00:23:10,000 --> 00:23:14,000
+brez tega, da določimo odgovornosti, potem niti nismo predpričani,
+
+313
+00:23:14,000 --> 00:23:16,000
+kako daleč bomo šli.
+
+314
+00:23:16,000 --> 00:23:21,000
+Neka pohvala. Meni pač, jaz kot član nevladnih organizacij,
+
+315
+00:23:21,000 --> 00:23:27,000
+seveda prebral veliko strategij. Ena pohvala, ki je, v tej strategiji
+
+316
+00:23:27,000 --> 00:23:32,000
+všeč mejo v bistvu so neke pač te glavni sklopi in pač tam je
+
+317
+00:23:32,000 --> 00:23:36,000
+v bistvu vrednoteno trenutno stanje, potem nek milestone
+
+318
+00:23:36,000 --> 00:23:43,000
+2025 in potem v bistvu 2030 in po domač povedan, mi, ki smo iz gospodarstva,
+
+319
+00:23:43,000 --> 00:23:48,000
+tam so neki KPI, ki se jih da enostavno validerati in pač videti,
+
+320
+00:23:48,000 --> 00:23:53,000
+kako napredujemo po tej strategiji. Bi pa najal pač še zmer,
+
+321
+00:23:53,000 --> 00:23:56,000
+midva smo zdaj to prebrali, ampak najal bi še zmer zanimal
+
+322
+00:23:56,000 --> 00:24:00,000
+za našo publiko oziroma za poslušalce, kaj so v bistvu ta prednostna
+
+323
+00:24:00,000 --> 00:24:04,000
+področja, ki so zdaj najbolj pomembna do 2030?
+
+324
+00:24:04,000 --> 00:24:09,000
+KPI, zato ker sem tudi jaz inženirka in zato ker je tudi meni
+
+325
+00:24:09,000 --> 00:24:13,000
+zelo pomembno, da merimo, ali smo nekaj uspešno dosegli ali ne.
+
+326
+00:24:13,000 --> 00:24:17,000
+Torej, ključno digitalno preobrazbo se začne z infrastrukturo.
+
+327
+00:24:17,000 --> 00:24:21,000
+Gigabitna infrastruktura, tako fiksne omrežje kot mobilne omrežje.
+
+328
+00:24:21,000 --> 00:24:25,000
+Želimo si do 20-30 gigabitno infrastrukturo za vsa gospodinstvo
+
+329
+00:24:25,000 --> 00:24:29,000
+v državi, ne glede na geografsko lego. Mobilni internet enako,
+
+330
+00:24:29,000 --> 00:24:36,000
+5G, da imamo pokrito vsa mesta, vso podiželje, vse poti.
+
+331
+00:24:36,000 --> 00:24:41,000
+Zakaj poti? Zaradi avtonomne vožnje. Potem naslednja kategorija
+
+332
+00:24:41,000 --> 00:24:45,000
+je digitalna vključenost in tukaj pri digitalni vključenosti
+
+333
+00:24:45,000 --> 00:24:48,000
+ne govorimo samo o digitalnih kompetencah, ampak govorimo tudi
+
+334
+00:24:48,000 --> 00:24:53,000
+o tem, da vsak si tudi lahko privošči to gigabitno infrastrukturo,
+
+335
+00:24:54,000 --> 00:24:59,000
+tudi ekonomsko. Potem tudi potrebujejo opremo, da lahko uporabljajo
+
+336
+00:24:59,000 --> 00:25:00,000
+te storige.
+
+337
+00:25:00,000 --> 00:25:06,240
+in ne nazadnje so digitalna znanje in kompetence, da usposobimo,
+
+338
+00:25:06,480 --> 00:25:10,720
+da osemset odstotkov prebivalstva ima vsaj osnovne kompetence,
+
+339
+00:25:10,960 --> 00:25:14,680
+da bodo znali uporabljati razne storitve, ki jih imamo na volju,
+
+340
+00:25:14,920 --> 00:25:17,680
+tako iz javnega kot iz zasebnega sektorja.
+
+341
+00:25:17,920 --> 00:25:21,719
+Naslednja kategorija je digitalna preobrazba gospodarstva.
+
+342
+00:25:21,959 --> 00:25:25,240
+Strategija digitalne preobrazbe gospodarstva je bila narejena
+
+343
+00:25:25,480 --> 00:25:28,719
+na Ministrstvu za gospodarstvo že prej in glede na to,
+
+344
+00:25:28,719 --> 00:25:32,480
+da je krovna strategija, tukaj samo vključujemo te glavne KPI,
+
+345
+00:25:32,720 --> 00:25:36,439
+za nas je pomembno, da recimo večina podjetij uporablja
+
+346
+00:25:36,680 --> 00:25:40,639
+storitve v oblaku, da uporablja en od teh novih tehnologij,
+
+347
+00:25:40,880 --> 00:25:45,480
+pač zavedamo se, da ne moremo vse, ampak da vsaj nekaj
+
+348
+00:25:45,720 --> 00:25:49,439
+od teh novih tehnologij. Naslednjo, kar imamo,
+
+349
+00:25:49,680 --> 00:25:53,200
+je pametna družba 5.0, podatkovna ekonomija nam tukaj
+
+350
+00:25:53,439 --> 00:25:57,959
+izjemno veliko pomeni, otprti podatki, ponovno uporabo podatkov
+
+351
+00:25:57,959 --> 00:26:02,480
+tudi strani, podjetine za razne inovacije in seveda ne moremo
+
+352
+00:26:02,720 --> 00:26:07,199
+brez informacijske varnosti. Informacijska varnost gre
+
+353
+00:26:07,440 --> 00:26:11,199
+za strategijo, ki se je pripravlja na URSJU, to je URSJ,
+
+354
+00:26:11,440 --> 00:26:14,720
+Republike Slovenije za informacijsko varnost, ampak tukaj
+
+355
+00:26:14,959 --> 00:26:18,959
+v krovni strategiji pač povzememo te ključne podarke.
+
+356
+00:26:20,959 --> 00:26:24,959
+Ne vem, kam to spada, ampak govorili ste o podatkovni
+
+357
+00:26:25,959 --> 00:26:29,959
+izrastopravljaj, podatkovna ekonomija.
+
+358
+00:26:30,959 --> 00:26:34,959
+Portal OPSI, mislim, da je to tudi pod vašo ukrilje spada.
+
+359
+00:26:36,959 --> 00:26:40,959
+Iz tega smo potem videli en kup nekih zanimivih projektov,
+
+360
+00:26:43,959 --> 00:26:47,959
+priložnostih, zelo tako lep projekt je.
+
+361
+00:26:49,959 --> 00:26:53,959
+Zanima me, kako boste to še naprej, te open data, pa je to
+
+362
+00:26:55,959 --> 00:26:59,959
+nekaj evropska smernica, je Evropa želi tudi, da imamo te data
+
+363
+00:27:00,959 --> 00:27:03,959
+na voljo, ali je to zgolj slovenski?
+
+364
+00:27:04,959 --> 00:27:07,959
+Ne, ne moremo si jemati zasluge, zagotovo je.
+
+365
+00:27:08,960 --> 00:27:11,960
+Bom še malo nazaj, pa vas bom tako vprašal.
+
+366
+00:27:12,960 --> 00:27:15,960
+Verjetno neka evropska strategija vpliva na to, kako ste
+
+367
+00:27:16,199 --> 00:27:19,199
+oblikovali to strategijo Digitalna Slovenija 2030,
+
+368
+00:27:20,960 --> 00:27:23,960
+in tudi verjetno Evropa bo en del sredstev preko te strategije
+
+369
+00:27:23,960 --> 00:27:25,960
+dala v te projekte, ali kako?
+
+370
+00:27:26,960 --> 00:27:29,960
+Gre za program Evropsko digitalno desetletje.
+
+371
+00:27:30,960 --> 00:27:33,960
+In tam so izhodišča, ki so pač glede znanje in kompetence,
+
+372
+00:27:34,960 --> 00:27:37,960
+gospodarstva, infrastrukturo, digitalne javne storitve,
+
+373
+00:27:38,960 --> 00:27:40,960
+prej sem pozabila omeniti eno od kategorij tudi.
+
+374
+00:27:41,960 --> 00:27:44,960
+Ampak v naši strategiji smo potem pogledali tudi, kakšne so
+
+375
+00:27:45,960 --> 00:27:47,960
+karakteristike, ki jih imamo pri nas doma v državi.
+
+376
+00:27:48,960 --> 00:27:51,960
+Dodali smo horizontalna načela, ki so za nas izjemno pomembna,
+
+377
+00:27:51,960 --> 00:27:56,960
+odprt, vključujoč, svoboden internet, demokratična družba,
+
+378
+00:27:57,960 --> 00:27:59,960
+potem odprtokodne rešitve in tako naprej.
+
+379
+00:28:00,960 --> 00:28:03,960
+Pa tudi, kar je izjemno pomembno, je zelena preobrazba,
+
+380
+00:28:04,960 --> 00:28:07,960
+digitalna in zelena preobrazba. Tako da izhajamo iz evropskih
+
+381
+00:28:08,960 --> 00:28:11,960
+dokumentov in strategij in prilagajamo na okolje, ki ga imamo doma.
+
+382
+00:28:12,960 --> 00:28:16,960
+Zakaj izhajamo iz evropskih? Zaredi tega, ker mi si želimo
+
+383
+00:28:16,960 --> 00:28:21,960
+iti na te meddržavne storitve. Naša elektronsko osemna izkaznica
+
+384
+00:28:22,960 --> 00:28:26,960
+je bila že potrajena v strani Evrope, da je ustrezna in še v letošnem
+
+385
+00:28:27,960 --> 00:28:30,960
+letu jo boste lahko uporabljali v eno od tvojih držav, sosednik,
+
+386
+00:28:31,960 --> 00:28:34,960
+ne vem, boste šli na morje na Hrvaškem in si boste, recimo,
+
+387
+00:28:35,960 --> 00:28:38,960
+na recept lahko za svojo elektronsko osemno izkaznico v lekarni
+
+388
+00:28:39,960 --> 00:28:43,960
+na Hrvaškem vzeli zdravila. Iz tega namena tukaj ne moremo
+
+389
+00:28:43,960 --> 00:28:49,960
+biti samo svoji, ampak moramo pogledati tudi, kaj se dogaja v Evropi.
+
+390
+00:28:50,960 --> 00:28:55,960
+Sredstav ste uprašali? Seveda. Ravno v tem tednu je Evropska komisija
+
+391
+00:28:56,960 --> 00:29:00,960
+tudi objavila nov program, Digital Europe program, ker je ogromno
+
+392
+00:29:01,960 --> 00:29:05,960
+sredstev namenjenih držav, ki jo opažamo v Sloveniji. Slovenska
+
+393
+00:29:06,960 --> 00:29:09,960
+podjetja je zelo premalo izkoriščala priložnosti, se ne prijavljajo
+
+394
+00:29:09,960 --> 00:29:13,960
+na razpise. Če prav imamo, danes smo v Mariboru, imamo, recimo,
+
+395
+00:29:14,960 --> 00:29:18,959
+tukaj, ne vem, da smem to govoriti, Tico Pro, ki podpira podjetja
+
+396
+00:29:19,959 --> 00:29:22,959
+pri prijavi na teh razpisov, pa niso oni edini, obstajajo tudi drugi,
+
+397
+00:29:23,959 --> 00:29:27,959
+in podjetjev preprosto ne naredijo tega napora, da se prijavijo
+
+398
+00:29:28,959 --> 00:29:32,959
+na razpis in dobijo sredstev tudi iz tujine, se mogoče kdaj prevečkrat
+
+399
+00:29:33,959 --> 00:29:35,959
+zanašajo na sredstva, ki jih imamo na voljo doma. Nikaj jih imamo
+
+400
+00:29:35,959 --> 00:29:39,959
+zagotovo, nikaj jih imamo v okviru kohezije, nikaj jih imamo v okviru
+
+401
+00:29:40,959 --> 00:29:43,959
+tudi proračuna, nekaj v okviru načrta zakrevanja in odpornost,
+
+402
+00:29:44,959 --> 00:29:46,959
+ampak ogromno sredstveno voljo je tudi z onem.
+
+403
+00:29:47,959 --> 00:29:51,959
+Mislim, verjetno se podjetja ne prijavljajo, ker je neko dodatno
+
+404
+00:29:52,959 --> 00:29:55,959
+delo, da pripraviš vse dokumentacije, bo trebno ene pač rizika,
+
+405
+00:29:56,959 --> 00:29:59,959
+ali boš dobil razpis ali ne? Jaz samo obstajajo pa drugi, ki
+
+406
+00:30:00,959 --> 00:30:04,959
+poponujejo storitev, da to za tebe pripravijo. Ali pa investiraš
+
+407
+00:30:05,959 --> 00:30:08,959
+v ljudi, ki se bodo to naučili. In iz vlasnih izkušenj, ker sem to
+
+408
+00:30:09,959 --> 00:30:13,959
+počela prej na fakulteti, res gre za eno investicijo v ljudi,
+
+409
+00:30:14,959 --> 00:30:16,959
+ampak ta investicija se ti zelo hitro povrne.
+
+410
+00:30:17,959 --> 00:30:21,959
+To se pravi, ja. Večja slovenska podjetja, ko so oika te stroki,
+
+411
+00:30:22,959 --> 00:30:24,959
+morajo pač razmišljati o tem, da bodo imeli projektne vode za
+
+412
+00:30:25,959 --> 00:30:27,959
+evropske razpisnje. Samo vprašanje, morajo biti velika podjetja?
+
+413
+00:30:28,959 --> 00:30:31,959
+Jaz ti povem iz izkušenj. Botavidva z Marjano se prijava.
+
+414
+00:30:32,959 --> 00:30:34,959
+Se vrbro do Lespe prijava na razpis.
+
+415
+00:30:35,959 --> 00:30:37,959
+To je kratko zahtevno, da jim o tako reči.
+
+416
+00:30:38,959 --> 00:30:42,959
+Tako kot je ministrica povedala, po mojih izkušnjah je,
+
+417
+00:30:43,959 --> 00:30:46,959
+če bi se jaz takrat, kot društvo, prijavljal na ta isti
+
+418
+00:30:47,959 --> 00:30:50,959
+razpis, po vse vrednosti bi vzel nekega specialista, zato ker je
+
+419
+00:30:51,959 --> 00:30:53,959
+v bistvu nek ta gap nad komunikacijo.
+
+420
+00:30:54,959 --> 00:30:55,959
+Nisi specialist.
+
+421
+00:30:56,959 --> 00:30:58,959
+Nisi specialist, drugačna komunikacija je. Verjamem pa,
+
+422
+00:30:58,959 --> 00:31:03,959
+če bi imel več človeških resorsov ali pa nekoga v društvu,
+
+423
+00:31:04,959 --> 00:31:07,959
+ki bi ga to ekstremno zanimal, kar je v teh naših IT društvih,
+
+424
+00:31:08,959 --> 00:31:11,959
+da je težko, se pa definitivno bi splačali.
+
+425
+00:31:12,959 --> 00:31:15,959
+Pa ni nek balbal, ampak je za svojo vrst na izkušnje.
+
+426
+00:31:16,959 --> 00:31:19,959
+Jaz bi še to vprašal. Veliko ljudi nas je spraševalo.
+
+427
+00:31:20,959 --> 00:31:26,959
+Ta digitalna strategija, to so strategije, ki morajo trajati
+
+428
+00:31:26,959 --> 00:31:29,959
+več ljudi, da bojo dansko se vresničile.
+
+429
+00:31:30,959 --> 00:31:33,959
+Zdaj, prejšnja strategija je bila Slovenija 2.20.
+
+430
+00:31:34,959 --> 00:31:37,959
+Mislim, da sem v tej strategiji prebral, da 33 do 50 procentov
+
+431
+00:31:38,959 --> 00:31:40,959
+tiste je bilo izvršene, potem pa zdaj ta nastop in bo nadaljevala.
+
+432
+00:31:41,959 --> 00:31:43,959
+In veliko naših poslušalcev je to bistvu zanimalo.
+
+433
+00:31:44,959 --> 00:31:48,959
+A smo zdaj to, ali bo to preživelo, to politiko, ki je tudi
+
+434
+00:31:49,959 --> 00:31:51,959
+vzravljeno peljana, ali smo res zavezani temu,
+
+435
+00:31:51,959 --> 00:31:56,959
+ali kaj velik bistveno drugačnega kot te izhodišče,
+
+436
+00:31:57,959 --> 00:32:00,959
+ki smo tukaj videli, možest ni si težko naredil, ampak
+
+437
+00:32:01,959 --> 00:32:05,959
+vsem se mi zdi, da upam, da bo preživelo čas in upam,
+
+438
+00:32:06,959 --> 00:32:08,959
+da bomo v to poti šli z nekimi korekcijami.
+
+439
+00:32:09,959 --> 00:32:12,959
+Podobne izive imamo tudi mi dva. Kamorkoli pač gremo delati,
+
+440
+00:32:13,959 --> 00:32:16,959
+se je zastavila neka strategija in upamo, da se najni nadrejeni
+
+441
+00:32:16,959 --> 00:32:20,959
+tudi ne zamenjajo od oskrata, ko se stvari povzkladijo.
+
+442
+00:32:21,959 --> 00:32:25,959
+Ampak te strategije niso samo zato, ker pač mi smo si zelo
+
+443
+00:32:26,959 --> 00:32:29,959
+želeli napisati strategijo, samo tmarsi katera evropska sredstva
+
+444
+00:32:30,959 --> 00:32:33,959
+so odvisna od tega, kako države pripravijo te dokumente.
+
+445
+00:32:34,959 --> 00:32:39,959
+In to nima veze za trenutno lokalno politiko, ampak gre za nekaj
+
+446
+00:32:40,959 --> 00:32:43,959
+nad tem. In da se bo dejansko, da se ne bo zgodilo to, kar se je
+
+447
+00:32:43,959 --> 00:32:49,959
+Digitalni Sloveniji 2020 zgodilo. Mi smo uvedli te mehanizme,
+
+448
+00:32:50,959 --> 00:32:54,959
+strateški svet oziroma ta operativna skupina, ki bo bdela nad tem
+
+449
+00:32:55,959 --> 00:32:58,959
+in bo sproti spremljala, ali se kazalniki izpolnijo ali ne,
+
+450
+00:32:59,959 --> 00:33:01,959
+oziroma kaj treba narediti, da se ti kazalniki izpolnijo.
+
+451
+00:33:02,959 --> 00:33:04,959
+Tako da tukaj mene z tega naslova ni skrbi.
+
+452
+00:33:07,959 --> 00:33:12,959
+Ful je drugače. Ne biti prestrašeni, če lahko ga linkam
+
+453
+00:33:13,959 --> 00:33:16,959
+in si preberte to dokumento. Mislim, da je. Ne?
+
+454
+00:33:17,959 --> 00:33:19,959
+Ja, preberte. Super je.
+
+455
+00:33:20,959 --> 00:33:24,959
+Ja, preberte si ga. Ma tudi lepe grafike notri, vse je
+
+456
+00:33:25,959 --> 00:33:27,959
+highlighteno, pa res so tega dobra tega. Tako da predlagam.
+
+457
+00:33:28,959 --> 00:33:31,959
+Mi jo bomo zdaj malo vrtali mogoče v te glavne področje
+
+458
+00:33:32,960 --> 00:33:35,960
+ali kaj, skozi pogovor. Ali bomo šli...
+
+459
+00:33:36,960 --> 00:33:38,960
+Pa jaz bi šel naprej, če si denar.
+
+460
+00:33:38,960 --> 00:33:43,960
+Če si drugocen. Ne, bomo se še vrnili na digitalno strategijo
+
+461
+00:33:44,960 --> 00:33:48,960
+skozi pogovor, ampak tako pošti naslednje.
+
+462
+00:33:49,960 --> 00:33:54,960
+Ja, zdaj, ko sprašuješ ljudi, so ljudi,
+
+463
+00:33:56,960 --> 00:34:00,960
+manjarska ter uporabniška izkušnja javnih servisev
+
+464
+00:34:01,960 --> 00:34:04,960
+ni dovolj dobra. Zdaj pa pa ljudi vprašaš, ok, kaj specifično
+
+465
+00:34:05,960 --> 00:34:08,960
+vam ali pa ti, če so to neki prijatelji, ti ne všeč.
+
+466
+00:34:09,960 --> 00:34:12,960
+Pa smo se, pa smo v bistvu, kako to vprašanje malo bolj
+
+467
+00:34:13,960 --> 00:34:15,960
+praktično, konstruktivno zapakirati.
+
+468
+00:34:16,960 --> 00:34:19,960
+Pa smo v bistvu tako razmišljala, ok, vsej doskrat se zdi,
+
+469
+00:34:20,960 --> 00:34:24,960
+da gledamo, ne vem, neke država spremenik zakon
+
+470
+00:34:25,960 --> 00:34:29,960
+in nek proces, naprimer. Treba je prepraviti, ne vem,
+
+471
+00:34:30,960 --> 00:34:32,960
+če imamo radi pivo, treba plačati držirino na pivo.
+
+472
+00:34:32,960 --> 00:34:35,960
+In pa doskrat, kaj se zgodi, imamo nek papirnat formular,
+
+473
+00:34:36,960 --> 00:34:39,960
+ki ga digitaliziramo tako, da naredimo ta isti obsežen papirnat
+
+474
+00:34:40,960 --> 00:34:45,960
+formular v neko lepo HTML formo in pa pač vsaj, kar je,
+
+475
+00:34:46,960 --> 00:34:48,960
+ti si sponjujemo in kliknemo pač submit.
+
+476
+00:34:49,960 --> 00:34:53,960
+Zdaj v bistvu neko vprašanje je, ok, razumemo, da vsi državljani
+
+477
+00:34:54,960 --> 00:35:01,960
+ne morejo, vsi želimo, da bi, pač tudi rešivali, to se pravi,
+
+478
+00:35:02,960 --> 00:35:06,960
+digitalno prek spleta s certifikati. Zato moramo pač pomisliti,
+
+479
+00:35:07,960 --> 00:35:09,960
+da obstaja še old school načini, kako rešimo probleme.
+
+480
+00:35:10,960 --> 00:35:13,960
+Ampak zanima me, ne vem, a se vam zdi, da bi mogel kakšen zakon
+
+481
+00:35:14,960 --> 00:35:17,960
+sprejeti ničkrat bolj digital first, kot kakro v web developmentu
+
+482
+00:35:18,960 --> 00:35:21,960
+rečemo mobile first. Včasih smo razvijali spletne stranize.
+
+483
+00:35:21,960 --> 00:35:24,960
+Spletne stranize namizne računalnike, zdaj pač v bistvu primarno
+
+484
+00:35:25,960 --> 00:35:28,960
+delamo dizajn za mobile, pa pa gledamo nazaj, kako je to na desktopu.
+
+485
+00:35:29,960 --> 00:35:32,960
+Se mi zdi, da bi mogel v bistvu, ne vem, kakšne te postopke ali
+
+486
+00:35:33,960 --> 00:35:36,960
+dajete tudi predloge, da bi jih pač naredili v bistvu bolj digitalne,
+
+487
+00:35:37,960 --> 00:35:41,960
+že iz stelišča samoga zakona oziroma, da bi bilo bolj digital first,
+
+488
+00:35:42,960 --> 00:35:45,960
+pa bi razmišljali, ok, če pa ljudje nimajo teh sredstov, je pa ta fallback.
+
+489
+00:35:46,960 --> 00:35:50,960
+Točno to delamo. Mogoče zdaj pri nas smo začeli z razpisji.
+
+490
+00:35:51,960 --> 00:35:56,960
+Da odaja razpisov, da je digital first, da gre elektronska odaja razpisov,
+
+491
+00:35:57,960 --> 00:36:01,960
+kar pa ne pomeni, da skenirajo dokumente, pa nam jih potem na ključku pošljajo.
+
+492
+00:36:02,960 --> 00:36:07,960
+Ampak že vse, tukaj govorimo o to digitalno preobrazbo, ali v angliščini
+
+493
+00:36:08,960 --> 00:36:13,960
+ful je porazloženo, je digitization, digitalization in digital transformation,
+
+494
+00:36:14,960 --> 00:36:17,960
+ko pride do spremembe celotne kulture oziroma organizacije.
+
+495
+00:36:18,960 --> 00:36:23,960
+In pri nas na ministrstvu vsekakor gremo v to, da so razpisi digital first,
+
+496
+00:36:24,960 --> 00:36:28,960
+glede na to, da še zmeraj imamo 50 odstotkov prebivalstva, ki nima niti
+
+497
+00:36:29,960 --> 00:36:32,960
+osnovne digitalne kompetence, ne moremo avtomatsko izključiti.
+
+498
+00:36:33,960 --> 00:36:38,960
+Ampak poskušamo z spodbujanjem mogoče prednosti ali karkoli pač,
+
+499
+00:36:39,960 --> 00:36:44,960
+da gremo v to. Sicer pa vse zakone, ki jih sprejema vlada Republike Slovenije,
+
+500
+00:36:44,960 --> 00:36:50,960
+običajno gre v medresorsko sklajevanje. Naše ministrstvo vsakič podaja predloge,
+
+501
+00:36:51,960 --> 00:36:56,960
+kaj je treba narediti, da bomo na področju digitalne preobrazbe napredovali.
+
+502
+00:36:57,960 --> 00:37:03,960
+Zdaj, kdaj so ti predlogi sprejeti, niso pa zmeraj. Mi jih pa zagotovo
+
+503
+00:37:04,960 --> 00:37:08,960
+vedno damo, ker tako kot ste vi nadušeni nad temi novimi tehnologijami,
+
+504
+00:37:09,960 --> 00:37:13,960
+take imamo tudi na ministrstvu zaposleni in tudi oni spremljajo trende
+
+505
+00:37:14,960 --> 00:37:17,960
+in mi tudi želimo, recimo to, kar vi želite v gospodarstvu,
+
+506
+00:37:18,960 --> 00:37:20,960
+mi si tudi želimo tega v javne uprave.
+
+507
+00:37:21,960 --> 00:37:23,960
+Zdaj, ko smo že prej zaposlitva…
+
+508
+00:37:24,960 --> 00:37:26,960
+Lahko zaradi vode prej gremo na zaposlitve.
+
+509
+00:37:27,960 --> 00:37:28,960
+Definitivno.
+
+510
+00:37:29,960 --> 00:37:33,960
+Sicer smo v Mariboru pa vode. Tako bomo uspeli potem, kako začne.
+
+511
+00:37:34,960 --> 00:37:35,960
+A nisi ti študent?
+
+512
+00:37:36,960 --> 00:37:37,960
+Ne, jaz sem bil študent.
+
+513
+00:37:38,960 --> 00:37:39,960
+Bil študent.
+
+514
+00:37:39,960 --> 00:37:40,960
+Če što.
+
+515
+00:37:42,960 --> 00:37:45,960
+Zdaj, malo smo prileteli te zaposlitvene oglase
+
+516
+00:37:46,960 --> 00:37:48,960
+ministrstva za digitalno preobrazbo.
+
+517
+00:37:49,960 --> 00:37:52,960
+Tako da, PR, tam so zaključal, so vse meseci bili zaključali,
+
+518
+00:37:53,960 --> 00:37:55,960
+ampak definitivno jih je vredno spremljati.
+
+519
+00:37:56,960 --> 00:38:00,960
+Meni, jaz dobožujem spremljati oglase, ker berem v bistvu kaj dnev na trgu,
+
+520
+00:38:01,960 --> 00:38:02,960
+že iz tega stelišča se splača brd, plus…
+
+521
+00:38:03,960 --> 00:38:04,960
+Plus kake tehnologije so uporabljajo.
+
+522
+00:38:05,960 --> 00:38:08,960
+Ja, plus kake tehnologije so uporabljajo, pač vsem poslušalcem kljupovočemo spremljanje.
+
+523
+00:38:09,960 --> 00:38:13,960
+In pač v prihodnjih letih so pred vami zahtevni, ambiciozni projekti,
+
+524
+00:38:14,960 --> 00:38:15,960
+jih je kar nekaj.
+
+525
+00:38:16,960 --> 00:38:19,960
+Zdaj, kakšne kadre točno iščete, pa kako jih boste privabili?
+
+526
+00:38:22,960 --> 00:38:25,960
+Že samo v okviru na črto za okrevanje in odpornost imamo
+
+527
+00:38:26,960 --> 00:38:28,960
+29 kvot z novih kadrov.
+
+528
+00:38:29,960 --> 00:38:34,960
+Poleg tega, ravno na direktoratu za informatiko, pa tudi na
+
+529
+00:38:35,960 --> 00:38:39,960
+direktoratu za digitalne rešitve in podatkovno ekonomijo, ker je najbolj
+
+530
+00:38:40,960 --> 00:38:45,960
+tega hardcore-a, IT-a, se veliko sodelovcev upokoji v naslednjih letih.
+
+531
+00:38:46,960 --> 00:38:51,960
+In tukaj vidimo velik problem, kako bomo dobili kadre, še posebej zato,
+
+532
+00:38:52,960 --> 00:38:55,960
+ker v javnem sektorju imamo plačni sistem takšen, ko ga imamo,
+
+533
+00:38:56,960 --> 00:38:59,960
+in trenutno v zasebnem sektorju je stanje takšne, kot je.
+
+534
+00:39:00,960 --> 00:39:04,960
+Ampak to ni pač težava, izjiv samo za našega ministrstva,
+
+535
+00:39:05,960 --> 00:39:09,960
+to je izjiv za celotno vlado, državo, če lahko tako rečemo,
+
+536
+00:39:10,960 --> 00:39:14,960
+in o tem se pogovarjamo tudi na vladi in iščemo razne rešitve.
+
+537
+00:39:15,960 --> 00:39:19,960
+Zdaj, kako bomo dobili te kadre, zagotovo bomo poskušali
+
+538
+00:39:20,960 --> 00:39:25,960
+navduševati mlade, tudi z zanimivimi projekti, ker ni vedno
+
+539
+00:39:25,960 --> 00:39:33,960
+denartisti, ki te navduši, da delaš, če bi bilo tako, jaz nikoli ne bi delala v javnem sektorju.
+
+540
+00:39:34,960 --> 00:39:41,960
+Potem tudi bomo se mogli zavedati kot družba, da bomo mogli še uvoziti
+
+541
+00:39:42,960 --> 00:39:47,960
+kakšne kadre iz tujine, ker kot država jih imamo, pa čome jemo,
+
+542
+00:39:48,960 --> 00:39:50,960
+koliko jih imamo.
+
+543
+00:39:51,960 --> 00:39:59,960
+Zdaj, kot človek, ki sem bil ne vladnik nekaj let,
+
+544
+00:40:02,960 --> 00:40:07,960
+zmer se mi je zdaj te projekti, to se pravi, mi smo država v bistvu,
+
+545
+00:40:08,960 --> 00:40:14,960
+pa če vsi začujemo s temi davki v eno malho, in zato, da lahko pač nekak
+
+546
+00:40:14,960 --> 00:40:20,960
+s tem denarjem razpolagamo, pa ga trošimo in nekak na nek način
+
+547
+00:40:21,960 --> 00:40:25,960
+logično, da delamo projekte. To se pravi, da ko zgradimo nekaj novega,
+
+548
+00:40:26,960 --> 00:40:28,960
+je to v bistvu nek projekt.
+
+549
+00:40:29,960 --> 00:40:33,960
+Ampak dostkrat se pa vse v nekih informacijskih sistemih,
+
+550
+00:40:35,960 --> 00:40:39,960
+ja, lahko ga pač povstavljamo, ampak informacijske sisteme so v bistvu nek živ sistem,
+
+551
+00:40:40,960 --> 00:40:43,960
+to se pravi, zahteva je neko vzdrževanje, za katero imamo lahko vredno zaposlene,
+
+552
+00:40:44,960 --> 00:40:48,960
+lahko tudi neki varnostni izzivi, zato, ker tehnologija se strašansko hitro primika,
+
+553
+00:40:49,960 --> 00:40:53,960
+se mi zdi, da vsakol leto je ta varnostni aspekt če dalje bolj challenging.
+
+554
+00:40:54,960 --> 00:41:02,960
+In zdaj vprašanje je, kako zagotovidi, da bodo te sisteme še naprej varni,
+
+555
+00:41:03,960 --> 00:41:08,960
+kako nek kadar, kako dobimo not za nek projekt, ki je mogoče 5 letni,
+
+556
+00:41:09,960 --> 00:41:12,960
+na nek način tudi zadržati. Zdaj v podjetjih se skozi sprašujemo,
+
+557
+00:41:12,960 --> 00:41:17,960
+kako bomo kadr zadržali, zdaj pri vas je to precej bolj komplicirano,
+
+558
+00:41:18,960 --> 00:41:20,960
+ker pac stvari so le pač projekti, zato, da personalna delava.
+
+559
+00:41:21,960 --> 00:41:25,960
+Niso samo projekti, ker če bi bili projekti, potem mi ne bi mogli vzdrževati
+
+560
+00:41:26,960 --> 00:41:31,960
+hakom omrežje in poskrbeti za vse varnostne aspekte znotraj javnega sektorja.
+
+561
+00:41:32,960 --> 00:41:36,960
+Tako da pri nas, posebej na Direktoratu za informatiko, je ogromno vzdrževanje,
+
+562
+00:41:37,960 --> 00:41:41,960
+tudi varnosti, vsaka aplikacija, ko pride v to omrežje, mora biti varnostno stestirana.
+
+563
+00:41:42,960 --> 00:41:46,960
+Da ne prihaja do raznih problemov, kot smo imeli priča v preteklosti.
+
+564
+00:41:47,960 --> 00:41:51,960
+In tukaj imamo po eni strani redno zaposlene sodelavce, po drugi strani,
+
+565
+00:41:52,960 --> 00:41:56,960
+pa tudi zato, ker ne moramo privabiti, imamo zunanje izvajalce,
+
+566
+00:41:57,960 --> 00:42:01,960
+s katerimi sodelujemo. Tako da v našem primeru ne gre toliko
+
+567
+00:42:02,960 --> 00:42:05,959
+za projektnega dela, ampak na področju infrastrukture,
+
+568
+00:42:06,959 --> 00:42:09,959
+če se mi pogovarjamo o strežnikih, podatkovnih centrih, to niso projekti.
+
+569
+00:42:09,959 --> 00:42:11,959
+To gre za redno delo.
+
+570
+00:42:12,959 --> 00:42:14,959
+Bolj smo to sklepali za poslitvenih glasov.
+
+571
+00:42:15,959 --> 00:42:19,959
+Ja, smo videli, ko smo raziskvali, ste imeli vglase za, ne 20, 30 vglasov,
+
+572
+00:42:20,959 --> 00:42:29,959
+za sekretarje, podsekretarje. Tam je bil določen čas do 2, 6 in 20.
+
+573
+00:42:30,959 --> 00:42:34,959
+Zato, ker ste ravno zdaj v tem obdobju gledali, ko so odprti ti razpisi
+
+574
+00:42:34,959 --> 00:42:39,959
+za načrta za okrevanje in odpornost in v načrta za okrevanje in odpornost
+
+575
+00:42:40,959 --> 00:42:44,959
+je pač rok financiranja teh projektov. Ampak prej sem omenila,
+
+576
+00:42:45,959 --> 00:42:47,959
+da se ogromno sodelavcev tudi upokoji zdaj.
+
+577
+00:42:48,959 --> 00:42:51,959
+Logično, ne moraš biti zadoločen če še se boš upokojil.
+
+578
+00:42:52,959 --> 00:42:57,959
+Ne, pač jih je treba zamenjati. Ampak vi ste verjetno gledali
+
+579
+00:42:58,959 --> 00:43:00,959
+ravno v času, ko smo mi dali za novo projekt.
+
+580
+00:43:01,959 --> 00:43:07,959
+No, ker mi da smo videla to, ta datum, 26, pa smo se spraševali,
+
+581
+00:43:08,959 --> 00:43:13,959
+pač se pravi, zakaj bi se nekdo želel komitat, če ve, da je pač
+
+582
+00:43:14,959 --> 00:43:19,959
+plača v resnici precej nižjega, ko v industriji, pa projekti bo,
+
+583
+00:43:20,959 --> 00:43:24,959
+pač zgobili bo te ljudi v resnici zaradi te umitve. Ampak sveda
+
+584
+00:43:25,959 --> 00:43:29,959
+nismo vedeli tega, kar zdaj pravite. Ja, pač bi se to zanimalo.
+
+585
+00:43:30,959 --> 00:43:34,959
+Logično, kako bi, premero, lahko tu gremo v nekih tidost napadih,
+
+586
+00:43:35,959 --> 00:43:40,959
+pa hackenju, pa to se dogaja. Verjetno je to posledica, pač ker so
+
+587
+00:43:41,959 --> 00:43:46,959
+te sistemi, napad na opravo za zaščito in reševanje, verjetno so
+
+588
+00:43:47,959 --> 00:43:51,959
+te sistemi že stari, ali kaj. In bom naredil ta assumption,
+
+589
+00:43:52,959 --> 00:43:55,959
+in verjetno imamo tudi ta problem, da tako kot smo rekli prej,
+
+590
+00:43:56,959 --> 00:43:58,959
+da se upokojejo ljudje, verjetno bomo mogli tudi upokojiti
+
+591
+00:43:58,959 --> 00:44:02,959
+neke sisteme in narediti nove. Gre za zelo različne sisteme,
+
+592
+00:44:03,959 --> 00:44:07,959
+niso ti vsi sistemi enaki in tudi različni organi smo pristoljni
+
+593
+00:44:08,959 --> 00:44:11,959
+za različne stvari. Zdaj, recimo URSIL ima posebej za
+
+594
+00:44:12,959 --> 00:44:15,959
+informacijsko varnost nasploh. Pri nas, Ministrstvu za digitalno
+
+595
+00:44:16,959 --> 00:44:19,959
+preobrazbo, imamo varnostno testiranje aplikacij, ki jih nalagamo
+
+596
+00:44:20,959 --> 00:44:24,959
+znotraj H-komu mrežja. In tukaj, veliko napado imamo, super
+
+597
+00:44:24,959 --> 00:44:28,959
+opremo in odlično tehnologijo smo zaznali in ni prišlo do nobene
+
+598
+00:44:29,959 --> 00:44:33,959
+kritične napake v tem primeru. Veliko krat je pa tudi človeški
+
+599
+00:44:34,959 --> 00:44:38,959
+faktor, ker pri uprave za zaščite in rešovanje ni bila tehnologija
+
+600
+00:44:39,959 --> 00:44:42,959
+problematična, ampak je bil človeški faktor problematičen.
+
+601
+00:44:43,959 --> 00:44:45,959
+Ni tako enoznačno.
+
+602
+00:44:46,959 --> 00:44:49,959
+Verjetno gre za iste izive, ko smo jih vse prej pogovarjali.
+
+603
+00:44:50,959 --> 00:44:55,959
+Isto imaš tudi ljudje, ki jih boš zadržal. Logično, moraš nadgrajevat
+
+604
+00:44:56,959 --> 00:45:00,959
+njihovo znanje. Isto morajo ostati digitalno pismeni in relevantni
+
+605
+00:45:01,959 --> 00:45:06,959
+in v koraku s časom. Vsekako razumem to. V sklopu te
+
+606
+00:45:07,959 --> 00:45:13,959
+programske upreme smo dobili še eno vprašanje. To vprašanje je
+
+607
+00:45:13,959 --> 00:45:20,959
+postal Today. Sicer ali menite, da bi morala biti programska uprema
+
+608
+00:45:21,959 --> 00:45:25,959
+financirana z javnim denarjem tudi odprtokodna? Pričemer,
+
+609
+00:45:26,959 --> 00:45:29,959
+odprtokodno spomeni, da naročnik dobi oziroma slisti izvorno kodo,
+
+610
+00:45:30,959 --> 00:45:35,959
+lahko pa jo pogled tudi zainteresirani javnosti. Še všeč en primer
+
+611
+00:45:36,959 --> 00:45:40,959
+povedal. Na primer, najbolj tipičen človeški primer je, da imamo
+
+612
+00:45:40,959 --> 00:45:45,959
+neko programsko upremo, ki ima noter ogrejeno, to se pravi,
+
+613
+00:45:46,959 --> 00:45:50,959
+davek na dodano vrednost, ki je na primer 21%, pa se odločimo,
+
+614
+00:45:51,959 --> 00:45:55,959
+da ga bomo povišali ali pa znižali, upamo, da znižali na 20%.
+
+615
+00:45:56,959 --> 00:46:04,959
+In zdaj, če mi nismo lasniki te programske kode, ima v bistvu
+
+616
+00:46:05,959 --> 00:46:09,959
+bivši naročnik malo boljšo pogajalsko pozicijo, zato ker
+
+617
+00:46:10,959 --> 00:46:13,959
+niti ne more presodati, koliko je komplicirana ta posodobitev.
+
+618
+00:46:14,959 --> 00:46:17,959
+Vse ne, da je zdaj, če imamo izvorno kodo, super trivialna stvar,
+
+619
+00:46:18,959 --> 00:46:22,959
+ampak še zmer najboljše mičke lažje se spogajati oziroma prepraviti
+
+620
+00:46:23,959 --> 00:46:27,959
+razpis, če si pa člestnik, ni treba izgopodno nekaj zbrati.
+
+621
+00:46:28,959 --> 00:46:32,959
+To se pravi, da v bistvu ne postaneš nek talec starega javnega
+
+622
+00:46:33,959 --> 00:46:36,959
+naročila, bolj iz tega stavišča. So pa tudi primeri dobri praks,
+
+623
+00:46:37,959 --> 00:46:41,959
+naprimer v stani zdrav, aplikacija je odprto kodna, to se pravi,
+
+624
+00:46:42,959 --> 00:46:45,959
+to, kar smo imeli za korono, za ta tracking. Naprimer, to je nek tak
+
+625
+00:46:46,959 --> 00:46:49,959
+dober primer prakse, pričemer smo se tukaj celo odločili, da damo
+
+626
+00:46:50,959 --> 00:46:54,959
+to kodo na githa, poziroma, da je splošna, javna. Zanimava nas
+
+627
+00:46:55,959 --> 00:46:59,959
+v bistvu vaše mnenje, se mi zdi, da še naročimo z javnim
+
+628
+00:47:00,959 --> 00:47:03,959
+denarjem neko programsko upremo, da je potem država tudi
+
+629
+00:47:03,959 --> 00:47:07,959
+v bistvu lasnik. Ne samo, da mislim, ampak tudi zelo podpiram
+
+630
+00:47:08,959 --> 00:47:12,959
+tega, pa ne samo jaz, ampak tudi oba državna sekretarja. Zdaj,
+
+631
+00:47:13,959 --> 00:47:16,959
+če ste bili pozorni, smo z novelo zakona s podbojami digitalne
+
+632
+00:47:17,959 --> 00:47:21,959
+vključenosti predstavili računalniški sklad, ki mu bo imel
+
+633
+00:47:22,959 --> 00:47:26,959
+miro, mehanizem, za izposojo računalniške upreme in programska
+
+634
+00:47:27,959 --> 00:47:32,959
+uprema, ki bo naložena gor, bo odprta kodna. To je recimo en tak
+
+635
+00:47:33,959 --> 00:47:37,959
+primer. Zdaj bo tudi vredba šla v javno obravnavo, ampak tukaj
+
+636
+00:47:38,959 --> 00:47:40,959
+smo se ogromno pogovarjali še o zamreženju vladnih organizacij
+
+637
+00:47:41,959 --> 00:47:43,959
+in skupaj iščemo načine tudi preko, ne vem, da bi v javnih
+
+638
+00:47:44,959 --> 00:47:47,959
+razpisih, da bi bilo vse to potprto, tako da absolutno potpiram.
+
+639
+00:47:48,959 --> 00:47:49,959
+Odlično. In bomo pač…
+
+640
+00:47:50,959 --> 00:47:52,959
+Zaključim, open source pa tudi.
+
+641
+00:47:55,959 --> 00:47:58,959
+Lakše sicer malo več povemo o tem ostani zdrav, pa bom sam
+
+642
+00:47:58,959 --> 00:48:03,959
+povedal, kak primer je bil to. Zdaj sam app pa kaj dela bom opustil,
+
+643
+00:48:04,959 --> 00:48:06,959
+ampak sem povedal vam, kak primer je bil to, da mogoče malo bolj
+
+644
+00:48:07,959 --> 00:48:11,959
+urišem. Nemška vlada je prosla SAP in Deutsche Telekom na razvijajo
+
+645
+00:48:12,959 --> 00:48:15,959
+CoronaWarn app za Nemčijo kot odprto kodno programsko upremo.
+
+646
+00:48:16,959 --> 00:48:18,959
+Deutsche Telekom je zadagotovil v mrežno in mobilno tehnologijo,
+
+647
+00:48:19,959 --> 00:48:22,959
+trvar in rašilju in stabilen način upravljanja in pogajanjanja
+
+648
+00:48:23,959 --> 00:48:25,959
+zaledja za aplikacijo. Podjetje SAP-a je bilo odgovorno za razvoj
+
+649
+00:48:25,959 --> 00:48:29,959
+aplikacij na enokireno osnovno platformo. Se pravi, gre za v bistvu to,
+
+650
+00:48:30,959 --> 00:48:35,959
+da to, kar so vsi ti deležniki, ki so jih naredili, je vse odprto kodno
+
+651
+00:48:36,959 --> 00:48:39,959
+in objavljeno. Slovenija je potem vzela to kodo in naredila neke
+
+652
+00:48:40,959 --> 00:48:43,959
+modifikacije, ki so relevantne za naš prostor, pa so to dali naprej.
+
+653
+00:48:44,959 --> 00:48:48,959
+To je nek tak zgleden primer, na to smo sicer bolj ciljali.
+
+654
+00:48:49,959 --> 00:48:54,959
+Obstajajo pa potem razne variacije tega termina odprta koda,
+
+655
+00:48:55,959 --> 00:48:57,959
+pa to pa bom šla v to.
+
+656
+00:49:04,959 --> 00:49:06,959
+Dej ti to, ti zašto takle pozovališ?
+
+657
+00:49:09,959 --> 00:49:13,959
+V osnovi odprto koda pač pomeni, da kot naročnik dobiš to kodo.
+
+658
+00:49:14,959 --> 00:49:17,959
+Obstaja pa termin tudi libre, ker pomeni, da je to dejansko javno,
+
+659
+00:49:18,959 --> 00:49:23,959
+to se pravi, objavljeno širši publiki. Zdaj ta termina se zliva,
+
+660
+00:49:23,959 --> 00:49:26,959
+to se pravi, kot prtokodno, mislimo, da je stvar tudi javna.
+
+661
+00:49:27,959 --> 00:49:29,959
+Zdaj, to so pač neki detajle.
+
+662
+00:49:32,959 --> 00:49:35,959
+Meni osebno je najbolj pomembno, da pa samo ministerstvo, ki je
+
+663
+00:49:36,959 --> 00:49:38,959
+dalo neko naročilo, ima to kodo. Zdaj, tudi če jaz kot državlja
+
+664
+00:49:39,959 --> 00:49:42,959
+ne vidim, pač jo je to bolje, ampak tudi če jo ne, sem srečen,
+
+665
+00:49:43,959 --> 00:49:45,959
+da je pa cej tam, kolikor pač želamo zgraditi nek most,
+
+666
+00:49:46,959 --> 00:49:48,959
+je fino, da ima država na črte tega mostu.
+
+667
+00:49:49,959 --> 00:49:53,959
+Apsolutno. Mislim, brez tega, jaz si ne predstavljam delovanja.
+
+668
+00:49:55,959 --> 00:49:59,959
+Ok, boš ti zagrizel naslednjo veliko.
+
+669
+00:50:00,000 --> 00:50:02,800
+To je pač v bistvu čist.
+
+670
+00:50:02,800 --> 00:50:16,000
+Vsi smo tukaj inženeri, vsem nam je jasno, da v bistvu v Evropi smo, pa tudi v Sloveniji smo dobri inženeri, pač jaz o to verjamam.
+
+671
+00:50:16,000 --> 00:50:26,799
+Zdi se mi, da imamo ful talenta, imamo dobro podjetja, ampak v bistvu nimamo pa toliko velikih unikon podjetij.
+
+672
+00:50:26,799 --> 00:50:31,200
+Zdi se mi, da je to nujno potrebno, ampak fino je pa tudi, da kakšno je.
+
+673
+00:50:31,200 --> 00:50:36,400
+To se pravi, da so neki te playeri, ki imajo večje kapitalizacije tudi pač v naši regiji.
+
+674
+00:50:36,400 --> 00:50:40,000
+To se pravi v Evropi, pa mogoče tudi v Sloveniji.
+
+675
+00:50:40,000 --> 00:50:48,000
+To se pravi, unikorni so večmilionska oziroma milijardne evaluacije podjetij.
+
+676
+00:50:48,000 --> 00:50:52,799
+Kaj je po vašem glavni razlog, da v Evropi nimamo več tih unikornov?
+
+677
+00:50:53,599 --> 00:51:01,599
+Ja, spet ni en sam razlog, je veliko razlogov.
+
+678
+00:51:01,599 --> 00:51:10,400
+Ena je zagotovo fragmentacija trga, ker če pogledamo v združenih državah, to je bistveno večji trg ali če pogledamo v Kitajsko.
+
+679
+00:51:10,400 --> 00:51:13,599
+Po drugi strani v Evropi imamo zelo majhne trge.
+
+680
+00:51:13,599 --> 00:51:20,400
+Druga zadela je, kot sem tudi sama imela priložnost poznati kako funkcionirajo investitorji,
+
+681
+00:51:20,400 --> 00:51:29,199
+ameriški investitorji, če vidijo potencijalno priložnost, da bo nekomu uspelo, vlagajo v tem podjetju.
+
+682
+00:51:29,199 --> 00:51:33,599
+Pri nas se vlaga še leta kratko, nekdo ima kaj zapokazati.
+
+683
+00:51:33,599 --> 00:51:36,000
+Tukaj je ta problem.
+
+684
+00:51:36,000 --> 00:51:40,000
+Pol pa še ena zadela je način, kako mi razmišljamo.
+
+685
+00:51:40,000 --> 00:51:41,599
+V Ameriki nič kudega.
+
+686
+00:51:41,599 --> 00:51:46,400
+Če stokrat narediš napako, pa čisto iz tega si se nekaj novega naučil.
+
+687
+00:51:46,800 --> 00:51:52,800
+Pri nas pa, če narediš kakšno napako, pa ne govorim samo o Sloveniji, vse podobno je tudi v Avstriji, v Nemčiji.
+
+688
+00:51:52,800 --> 00:51:59,199
+Če narediš kakšno napako, potem je to konec zgodbe in si ne upaš še enkrat.
+
+689
+00:51:59,199 --> 00:52:02,000
+In to se opaža že v predavalnicah.
+
+690
+00:52:02,000 --> 00:52:04,400
+Že vidim pri študentih, ne.
+
+691
+00:52:04,400 --> 00:52:10,000
+Ne gremo se te iteracije, vse nič kudega, če prvič ne bo uspelo, dajmo še enkrat poskusiti.
+
+692
+00:52:10,800 --> 00:52:13,600
+Nisem pa tako strokovnjakljena za unikorne.
+
+693
+00:52:13,600 --> 00:52:16,000
+Tako si jaz razdlagam.
+
+694
+00:52:16,000 --> 00:52:20,000
+Treba si upati, tudi mi, ki snemamo ta podkest,
+
+695
+00:52:20,000 --> 00:52:24,399
+mara s kaj narobe naredimo uček dovinarjev,
+
+696
+00:52:24,399 --> 00:52:27,600
+daj pa upam, da tudi kaj pravi, da smo se zabavni, če ne.
+
+697
+00:52:27,600 --> 00:52:31,600
+Tudi smo že posneli eno uro podkesta, brez, da bi vklopili mikrofona.
+
+698
+00:52:31,600 --> 00:52:33,199
+Takar vse zgodi.
+
+699
+00:52:33,199 --> 00:52:37,600
+Ampak zdaj ga vsakeč vklopite, to je nekaj, ki smo se naučili.
+
+700
+00:52:38,399 --> 00:52:42,399
+V bistvu to vprašanje s temi unikorni je bilo bolj
+
+701
+00:52:43,600 --> 00:52:47,600
+tonedano vprašanje z neko
+
+702
+00:52:48,800 --> 00:52:53,600
+davčno obremenjenostjo plač, pa to tudi v vaši strategiji smo tam videli,
+
+703
+00:52:53,600 --> 00:52:57,600
+pač vsi naši kolegi
+
+704
+00:52:57,600 --> 00:53:01,199
+mislimo, da dajemo neko visoko dodano vrednost,
+
+705
+00:53:01,199 --> 00:53:05,199
+ampak ta visoka dana vrednost je precej obdavčena.
+
+706
+00:53:05,600 --> 00:53:10,399
+Pa nas zanima, če mislite tu notre v tem prostoru, kaj narediti,
+
+707
+00:53:10,399 --> 00:53:16,399
+ker veliko vprašanj, ki smo jih dobili od podjetnikov, ki imajo recimo več zaposlenih,
+
+708
+00:53:16,399 --> 00:53:21,199
+je pač problem ta, da ko ljudje naredijo, si ne vem, SP,
+
+709
+00:53:21,199 --> 00:53:25,199
+pogrejo delati direkt za to ino, je pač
+
+710
+00:53:25,199 --> 00:53:29,199
+drugačna scena, ko če imaš en kup zaposlenih ljudi.
+
+711
+00:53:29,199 --> 00:53:33,199
+Pa me tudi tu notre zanima, če prepravljate kakšne spremembe,
+
+712
+00:53:33,199 --> 00:53:37,199
+če imate kakšne nasvete in
+
+713
+00:53:37,199 --> 00:53:42,000
+a nam bo to pol pomagalo mogoče narediti še kakšna unikorna več.
+
+714
+00:53:42,000 --> 00:53:46,000
+Zdaj zelo v redu vprašanje.
+
+715
+00:53:46,000 --> 00:53:50,800
+To vprašanje vem, da se vsi zavedamo, da je za
+
+716
+00:53:50,800 --> 00:53:54,800
+Ministrstvo za finance in ne za Ministrstvo za digitalno preobrazbo.
+
+717
+00:53:54,800 --> 00:53:58,800
+Mi imamo svoje mnenje in to svoje mnenje ga bomo
+
+718
+00:53:58,800 --> 00:54:02,800
+zagotovo delili, ko bomo prišli do medresorskega vsklajevanja.
+
+719
+00:54:02,800 --> 00:54:06,800
+Oziroma bomo predlagali.
+
+720
+00:54:06,800 --> 00:54:10,800
+Tukaj pri teh zadevah pa niti ni samo stvar Ministrstva za finance,
+
+721
+00:54:10,800 --> 00:54:15,600
+ampak gre za eno odločitev vseh pač upletenih.
+
+722
+00:54:15,600 --> 00:54:19,200
+Mislim, zakaj smo to vprašanje tudi v resnici postali.
+
+723
+00:54:19,200 --> 00:54:21,200
+Vem, da je taško vprašanje, pa vem, da pač je.
+
+724
+00:54:21,200 --> 00:54:23,200
+In da jaz moram politično pa nekaj odgovoriti.
+
+725
+00:54:23,200 --> 00:54:26,799
+Ja, ja, ja, ampak zakaj je to pomembno,
+
+726
+00:54:26,799 --> 00:54:30,000
+ker ko smo se prej pogovarjali v kadrih,
+
+727
+00:54:30,399 --> 00:54:35,600
+v istem bazenu pač lovite kadr za samministrstvo,
+
+728
+00:54:35,600 --> 00:54:40,799
+kot ga lovijo v podjetja, pa na koncu se ljudje odločajo.
+
+729
+00:54:40,799 --> 00:54:44,000
+Na koncu pač se že višjo tistega kartu stane na računu.
+
+730
+00:54:44,000 --> 00:54:46,399
+Zato je to vprašanje bilo pomembno.
+
+731
+00:54:46,399 --> 00:54:51,200
+Mogoče ste boste od tega tudi zaznali moj način razmišljanja,
+
+732
+00:54:51,200 --> 00:54:55,600
+kot sem prej rekla, da ni zmeraj motivacija samo plača,
+
+733
+00:54:55,600 --> 00:54:59,600
+ampak da obstajajo tudi drugi mehanizmi, kako lahko motiviraš človeka,
+
+734
+00:54:59,600 --> 00:55:01,600
+da nikam dela ali ne dela.
+
+735
+00:55:01,600 --> 00:55:03,600
+Ok.
+
+736
+00:55:03,600 --> 00:55:05,600
+Ja?
+
+737
+00:55:05,600 --> 00:55:07,600
+Zdaj si tako zapičil naslednjo vprašanje.
+
+738
+00:55:07,600 --> 00:55:08,799
+Hm?
+
+739
+00:55:08,799 --> 00:55:11,600
+Zdaj si tako zapičil naslednjo vprašanje, si ga že preživečil.
+
+740
+00:55:11,600 --> 00:55:13,600
+Naslednjo? Ne, ne, nič tako.
+
+741
+00:55:13,600 --> 00:55:15,600
+Jaz nimam več tako dobrega spomina.
+
+742
+00:55:15,600 --> 00:55:17,600
+Mislim,
+
+743
+00:55:17,600 --> 00:55:21,600
+predvsem tvoje naslednje vprašanje je bolj
+
+744
+00:55:21,600 --> 00:55:24,399
+to v neutralnem internetu, pač
+
+745
+00:55:24,399 --> 00:55:26,799
+spet to vprašanje smo nekako dobili od ljudi,
+
+746
+00:55:26,799 --> 00:55:28,799
+ker so pač nekako realne vprašanje,
+
+747
+00:55:28,799 --> 00:55:32,799
+pa bi še mogoče malo šli na internet kot tako, ali kaj,
+
+748
+00:55:32,799 --> 00:55:36,000
+pa se malo pogovorimo o tem,
+
+749
+00:55:36,000 --> 00:55:42,000
+kakem toksičnem environmentu v vrstnici delujemo, delujete.
+
+750
+00:55:42,000 --> 00:55:44,000
+Jaz mogoče lahko kje
+
+751
+00:55:44,000 --> 00:55:46,000
+lahko lahko kje od te povete.
+
+752
+00:55:46,000 --> 00:55:48,000
+Znači, nekako tako imamo vprašanje sestavljeno.
+
+753
+00:55:48,000 --> 00:55:51,600
+Interneto uporabljamo že 30 let nekje,
+
+754
+00:55:51,600 --> 00:55:54,399
+no vsi si želimo nekega neutralnega interneta,
+
+755
+00:55:54,399 --> 00:55:57,600
+kar pomeni nekaj najistranji majsleljivosti,
+
+756
+00:55:57,600 --> 00:55:59,600
+smo bolj anonimni,
+
+757
+00:55:59,600 --> 00:56:03,600
+hkrati potem smo govorili o elektronski vsebnih skaznici,
+
+758
+00:56:03,600 --> 00:56:07,200
+pa tudi si nekako bi želeli
+
+759
+00:56:07,200 --> 00:56:11,200
+manj nekega online bulinga,
+
+760
+00:56:11,200 --> 00:56:15,600
+hate speecha in podobnega, pa tudi dezinformacij.
+
+761
+00:56:15,600 --> 00:56:21,200
+Zdaj, velike korporacije, ki so tudi prisotne pri nas,
+
+762
+00:56:21,200 --> 00:56:25,200
+pa uporabljajo razne, jih ljudje uporabljajo preko recimo družbenih omrežij,
+
+763
+00:56:26,000 --> 00:56:30,000
+dajo ogromne količine resursov,
+
+764
+00:56:30,000 --> 00:56:34,799
+denarja, tudi človeškega manpowerja v to,
+
+765
+00:56:34,799 --> 00:56:40,000
+da bi izmanjšali nekako količino nepremirnih vsebih na tem internetu.
+
+766
+00:56:42,000 --> 00:56:44,799
+In v sklopu tega neutralnega interneta,
+
+767
+00:56:44,799 --> 00:56:48,000
+majen informacij, dezinformacij, naj obistu zanima,
+
+768
+00:56:48,000 --> 00:56:53,200
+ki je vidite, vlogo države, pa tudi moče vašega ministra,
+
+769
+00:56:53,200 --> 00:56:59,200
+pri zagotavljanju nekega varnega, spremljivega, zdravega interneta.
+
+770
+00:56:59,200 --> 00:57:03,200
+Jaz moram samo tako reagirati. Elektronska osebna izkaznica
+
+771
+00:57:03,200 --> 00:57:08,799
+ne ogroža našo anonimnosti. Zaradi tega, ker tu obstaja neka fama,
+
+772
+00:57:08,799 --> 00:57:11,600
+da zdaj z elektronsko osebno izkaznico nam bodo sledili,
+
+773
+00:57:11,600 --> 00:57:16,799
+daleč od tega, nič se ne spreminja, to je samo sredstvo za autentikacijo
+
+774
+00:57:16,799 --> 00:57:20,000
+za tisti, ki imajo pristojnost upogleda v tvojih podatkov.
+
+775
+00:57:20,000 --> 00:57:22,000
+Samo da raščistimo.
+
+776
+00:57:22,000 --> 00:57:24,000
+Ne, ne, ne, to je vse jasno.
+
+777
+00:57:24,000 --> 00:57:28,000
+Ker se tudi mi dva, oziroma mi se rečemo, da oskrati je v bistvu
+
+778
+00:57:28,000 --> 00:57:31,600
+nek ta balans med tehnofobijo, ko se ljudje ful bojijo o pač novih stvari,
+
+779
+00:57:31,600 --> 00:57:35,600
+oziroma pač to bodo vse zgubili, pa hkrati nekimi benefiti,
+
+780
+00:57:35,600 --> 00:57:38,799
+ki jih tehnologija prinaša. Tako da je ta komentar čisto na mesto.
+
+781
+00:57:38,799 --> 00:57:40,799
+Ok, super. Potem?
+
+782
+00:57:40,799 --> 00:57:46,799
+Absolutno naše načelo vse kakor je, da internet mora biti
+
+783
+00:57:46,799 --> 00:57:52,000
+svoboden, odprt, neodvisen. Pri tem pa istočasno imamo načelo,
+
+784
+00:57:52,000 --> 00:57:56,000
+da vse, kar je nezakonjito v realnem svetu, mora biti nezakonjito
+
+785
+00:57:56,000 --> 00:58:02,000
+tudi na spletu. In tukaj, če pride do posega v internetu,
+
+786
+00:58:02,000 --> 00:58:06,000
+to je samo na tem, mislim, na podlagi odločbe sodišča,
+
+787
+00:58:06,000 --> 00:58:11,000
+v primeru, ko so ogrožene človekove pravice, potrošniške pravice,
+
+788
+00:58:11,000 --> 00:58:15,000
+ko je ogrožena demokratičnost in pač te zadeve.
+
+789
+00:58:15,200 --> 00:58:18,200
+Tukaj mora biti urejeno nujnost za zakonodajo.
+
+790
+00:58:18,200 --> 00:58:22,200
+In to je ravno vloga ministerstva, da ima ustrezno pripravljeno
+
+791
+00:58:22,200 --> 00:58:26,200
+zakonodajo, da vse, kar je nezakonjito v realnem svetu,
+
+792
+00:58:26,200 --> 00:58:31,200
+mora biti tudi na spletu. Tukaj trenutno pri nas delamo
+
+793
+00:58:31,200 --> 00:58:36,200
+na prenosu oziroma na implementaciji akta v digitalnih storitvah,
+
+794
+00:58:36,200 --> 00:58:42,200
+ki mora biti do 2024, do konca februarja, že implementiran
+
+795
+00:58:42,400 --> 00:58:46,400
+v našem pravnem redu. Tukaj seveda bodo vključene
+
+796
+00:58:46,400 --> 00:58:50,400
+tudi te velike platforme, tudi bo naslovljen hate speech,
+
+797
+00:58:50,400 --> 00:58:54,400
+oziroma nezakonite, pa ne samo nezakonite osebine,
+
+798
+00:58:54,400 --> 00:58:57,400
+ampak tudi zakonite, pa še zmeraj škodljive osebine,
+
+799
+00:58:57,400 --> 00:58:59,400
+ker obstaja razlika med njimi.
+
+800
+00:58:59,400 --> 00:59:01,400
+Kaj je ta akt, lahko je to malo predstavite?
+
+801
+00:59:01,400 --> 00:59:05,400
+Akt o digitalnih storitvah, pravzaprav, se ukvarja z tem,
+
+802
+00:59:05,400 --> 00:59:09,400
+vse, kar je nezakonjito na spletu, mora biti v realnem svetu.
+
+803
+00:59:09,599 --> 00:59:13,599
+Gre za evropsko direktivo, ki jo moramo vse države, članice
+
+804
+00:59:13,599 --> 00:59:17,599
+implementirati v svojem pravnem redu. Ključno, kar je pri tem,
+
+805
+00:59:17,599 --> 00:59:23,599
+je, da vsaka država, članica bo imela tako imenovan koordinator,
+
+806
+00:59:23,599 --> 00:59:26,599
+nacionalni koordinator, ki mora biti neodvisen,
+
+807
+00:59:26,599 --> 00:59:30,599
+torej ne glede na to, kdo je na oblasti, ta mora biti neodvisen
+
+808
+00:59:30,599 --> 00:59:35,599
+in ta bo imenoval tako imenovane data trusted flaggere,
+
+809
+00:59:35,599 --> 00:59:38,599
+pa se ne bom zdaj trudila prevajati v slovenščini.
+
+810
+00:59:38,799 --> 00:59:43,799
+In recimo v primeru, če pride do kakšnega hate speecha
+
+811
+00:59:43,799 --> 00:59:47,799
+ali dezinformacije, potem ti data trusted flaggeri
+
+812
+00:59:47,799 --> 00:59:51,799
+bodo komunicirali direktno z very large online platform
+
+813
+00:59:51,799 --> 00:59:56,799
+z 19 jenoštetov, Facebook, Twitter, TikTok, YouTube in tako naprej
+
+814
+00:59:56,799 --> 00:59:59,799
+in oni bodo morali odstraniti te vsebine.
+
+815
+00:59:59,799 --> 01:00:03,799
+Torej ne bo potrebno zdaj, samo sem recimo pogosto krat starča,
+
+816
+01:00:03,799 --> 01:00:07,799
+sovražnega govora kot kaznivo dejanje in kaj jaz lahko
+
+817
+01:00:08,000 --> 01:00:12,000
+naredim, prijavim na policijo, policijo sporoži postopek,
+
+818
+01:00:12,000 --> 01:00:16,000
+gre na sodišče, zdaj recimo čakam približno eno leto,
+
+819
+01:00:16,000 --> 01:00:19,000
+se nič ne izgodilo in ko dobim od sodišča še leta krat,
+
+820
+01:00:19,000 --> 01:00:22,000
+lahko platforma odstrani to vsebino. V trenutku,
+
+821
+01:00:22,000 --> 01:00:25,000
+ko bomo imeli implementiran, potem jaz prijavim
+
+822
+01:00:25,000 --> 01:00:29,000
+pri data trusted flaggerju, data trusted flagger gre na platformo
+
+823
+01:00:29,000 --> 01:00:32,000
+in platformo mora to vsebino odstraniti.
+
+824
+01:00:32,200 --> 01:00:37,200
+Se pravi, v bistvu se bo poenostavila tehnična izvedba
+
+825
+01:00:37,200 --> 01:00:42,200
+celega tega sledljivosti. Mislim, ker ena zadeva,
+
+826
+01:00:42,200 --> 01:00:45,200
+ki jo tudi vidimo,
+
+827
+01:00:47,200 --> 01:00:49,200
+ko ste imeli hate speech,
+
+828
+01:00:49,200 --> 01:00:53,200
+ko smo se pogovarjali na teh medijih, pa tudi, ne vem,
+
+829
+01:00:53,200 --> 01:00:56,200
+tukaj v ekipi imamo ljudi, ki so grozili vse skupaj,
+
+830
+01:00:56,400 --> 01:00:59,400
+nekdo bo mogel zagotoviti,
+
+831
+01:00:59,400 --> 01:01:02,400
+da so to boti,
+
+832
+01:01:02,400 --> 01:01:05,400
+a so to realno vsebe vzadi.
+
+833
+01:01:05,400 --> 01:01:09,400
+Se pravi, zdi se, da ljudje mislijo,
+
+834
+01:01:09,400 --> 01:01:12,400
+da so res anonimni in da lahko počnejo karkoli
+
+835
+01:01:12,400 --> 01:01:17,400
+in pač tehnologija im omogoča neko stopnjo anonimnosti,
+
+836
+01:01:17,400 --> 01:01:22,400
+ampak ali bi ta akt na nek način pomagal
+
+837
+01:01:22,599 --> 01:01:25,599
+malo deanonimizirati, če ima ta smisel.
+
+838
+01:01:25,599 --> 01:01:28,599
+Ker se mi zdi, da ljudje pišejo vse zato, ker mislijo,
+
+839
+01:01:28,599 --> 01:01:31,599
+da so anonimni ali kaj.
+
+840
+01:01:31,599 --> 01:01:35,599
+Ta debata je tudi že, jo imamo vznotre vlade,
+
+841
+01:01:35,599 --> 01:01:38,599
+različna ministrstva, ki se ukvarjamo s tem,
+
+842
+01:01:38,599 --> 01:01:41,599
+že iščemo, tudi kako naslavljata vprašanja
+
+843
+01:01:41,599 --> 01:01:44,599
+po celem svetu, ne samo v Evropi.
+
+844
+01:01:44,599 --> 01:01:47,599
+Novozelandci pa, Avstralci mar si kaže,
+
+845
+01:01:47,599 --> 01:01:51,599
+delajo na tem področju in bomo pač poskusili
+
+846
+01:01:51,799 --> 01:01:54,799
+najditi optimalno rešitevo, ker po eni strani
+
+847
+01:01:54,799 --> 01:01:58,799
+se zdi zelo preprosto, če se prijaviš za elektronsko
+
+848
+01:01:58,799 --> 01:02:01,799
+osebno izkaznico, se identificiraš in potem nimaš
+
+849
+01:02:01,799 --> 01:02:04,799
+te anonimnosti, ampak po drugi strani mi še zmeraš
+
+850
+01:02:04,799 --> 01:02:07,799
+ali imaš več gače in je treba poiskati zdaj
+
+851
+01:02:07,799 --> 01:02:10,799
+nek način, da zaščitimo svobodo govora,
+
+852
+01:02:10,799 --> 01:02:14,799
+istočasno pa, da poskrbimo za neko kulturo,
+
+853
+01:02:14,799 --> 01:02:18,799
+obnašanje in komuniciranje tudi na družbenih mrežih.
+
+854
+01:02:19,799 --> 01:02:23,799
+Mislim, kar koli je v tem prostoru,
+
+855
+01:02:23,799 --> 01:02:28,799
+je vsekakor dobro došlo. Se mi zdi, da se
+
+856
+01:02:28,799 --> 01:02:32,799
+ljudje premali zavedajo, kaj se dogaja v teh mrežih,
+
+857
+01:02:32,799 --> 01:02:35,799
+dokr niso dejansko sami žrte od raznega
+
+858
+01:02:35,799 --> 01:02:39,799
+tvorstnega početja. Predvsem med mladimi vidim,
+
+859
+01:02:39,799 --> 01:02:43,799
+da so še mogoče manji spostavljeni, dokr se ne zgodijo
+
+860
+01:02:43,799 --> 01:02:47,799
+kakšni incidenti, potem pa so velike težave.
+
+861
+01:02:47,799 --> 01:02:51,799
+Pa bi mogoče še v tem duhu nadaljevalo to debato
+
+862
+01:02:51,799 --> 01:02:55,799
+o sami digitalni pismenosti, ker se mi zdi, da je to
+
+863
+01:02:55,799 --> 01:02:59,799
+nekako povezano, spravi kako bomo, kako biti
+
+864
+01:02:59,799 --> 01:03:03,799
+digitalno pismen človek v 2023
+
+865
+01:03:03,799 --> 01:03:07,799
+ali pa v prihodnje, nekako bi tudi to moglo biti
+
+866
+01:03:07,799 --> 01:03:11,799
+del tega kurikuluma, biti zavedan,
+
+867
+01:03:11,799 --> 01:03:14,799
+imeti neko zavedanje, kaj boš počeval v digital speso,
+
+868
+01:03:14,799 --> 01:03:18,799
+da te zadeve bojo tam mogoče forever,
+
+869
+01:03:18,799 --> 01:03:22,799
+mogoče bojo zginjene, mogoče bojo forever, ampak da imajo tudi v resnici
+
+870
+01:03:22,799 --> 01:03:26,799
+te stvari, ki jih počeš v digital prostoro, lahko real world
+
+871
+01:03:26,799 --> 01:03:30,799
+posledice v realnem svetu.
+
+872
+01:03:30,799 --> 01:03:34,799
+In se mi zdi, da bom iz tega perspektiva
+
+873
+01:03:34,799 --> 01:03:38,799
+nekako nadaljeval, se mi zdi, da predpostavljamo, da so
+
+874
+01:03:38,799 --> 01:03:42,799
+mladi zato, ker so mladi avtomatično že
+
+875
+01:03:42,799 --> 01:03:46,799
+digital first, so že pismeni, so že vešči tehnologiji.
+
+876
+01:03:46,799 --> 01:03:48,799
+Niso pismeni.
+
+877
+01:03:48,799 --> 01:03:52,799
+Zato bom nadaljeval.
+
+878
+01:03:52,799 --> 01:03:56,799
+Pa je tako, če znamo uporabljati telefone in najbolj popularne
+
+879
+01:03:56,799 --> 01:04:00,799
+aplikacije, mogoče to danes ni dovolj. Če smo se včasih
+
+880
+01:04:00,799 --> 01:04:04,799
+v naše generacije, bom rekel, učili uporabljati
+
+881
+01:04:04,799 --> 01:04:08,799
+word pa kalkulator, pač danes to ni dovolj.
+
+882
+01:04:08,799 --> 01:04:12,799
+Neko digitalno, pismeno osebo.
+
+883
+01:04:12,799 --> 01:04:16,799
+Mogoče lahko še malo drugače obrnemo. Kakve so neke te
+
+884
+01:04:16,799 --> 01:04:20,799
+veščine, ki se jih mladi bi pa mogli naučiti,
+
+885
+01:04:20,799 --> 01:04:24,799
+po vašem mnenju? Pa tudi mogoče se bomo spet mogli učiti,
+
+886
+01:04:24,799 --> 01:04:28,799
+se pa spet mladi mogli učiti, kaj spohračunalnik je,
+
+887
+01:04:28,799 --> 01:04:32,799
+tudi koncept, recimo, datoteke, filesistema,
+
+888
+01:04:32,799 --> 01:04:36,799
+oken kot takih. To so neke stvari, ki so nam
+
+889
+01:04:36,799 --> 01:04:40,799
+samo umel, ne mogoče mladih generacij, pa ne več, posebej tisti, ki so
+
+890
+01:04:40,799 --> 01:04:44,799
+s telefonom v roki zrasli. Ja, me zanima.
+
+891
+01:04:44,799 --> 01:04:48,799
+Zelo mi všeč, kako ste začeli.
+
+892
+01:04:48,799 --> 01:04:52,799
+Zdaj, vprašanje, ker smo se pogovarjali o hejtspiču, pa zaščiti na spletu
+
+893
+01:04:52,799 --> 01:04:56,799
+in ste upeljali digitalno pismeno. Lahko pa jo nastavim. Ne, všeč mi je to.
+
+894
+01:04:56,799 --> 01:05:00,799
+Bom dal tako, imam dve hečere, pa sina.
+
+895
+01:05:00,799 --> 01:05:04,799
+Kakve veščine mislite, da bi bilo pametno, da jih naučim v naslednjih
+
+896
+01:05:04,799 --> 01:05:08,799
+letih? Kako so stari?
+
+897
+01:05:08,799 --> 01:05:12,799
+Dve pa osem. No, jaz imam tudi osem sina.
+
+898
+01:05:12,799 --> 01:05:16,799
+Najbolj, s čem se mi zdaj ukvarjamo, ali je to res, ali ni res,
+
+899
+01:05:16,799 --> 01:05:20,799
+kar on vidi na YouTube. Tako da imamo trenutno
+
+900
+01:05:20,799 --> 01:05:24,799
+fake news pa dezinformacije. Zato ker je bil en čas,
+
+901
+01:05:24,799 --> 01:05:28,799
+ko je bil čist preplašen, da bo svetovna vojna, zato ker na YouTube
+
+902
+01:05:28,799 --> 01:05:32,799
+upiša, da 26. oktovra leta ne vem katerga,
+
+903
+01:05:32,799 --> 01:05:36,799
+in mi smo imeli celi načrt izdelan, kje bomo takrat, kje se bomo
+
+904
+01:05:36,799 --> 01:05:40,799
+skrili in smo se začeli učiti o tem, da ne vse, kar na YouTube
+
+905
+01:05:40,799 --> 01:05:44,799
+nekdo pove, da tudi dejansko drži, kateri viri so zanesljivi,
+
+906
+01:05:44,799 --> 01:05:48,799
+kateri niso zanesljivi. Tako da to smo s tem začeli.
+
+907
+01:05:48,799 --> 01:05:52,799
+Pri digitalni pismenosti
+
+908
+01:05:52,799 --> 01:05:56,799
+do zdaj je bilo, ko sem jaz hodila v šolo, mi smo
+
+909
+01:05:56,799 --> 01:06:00,799
+programirali, ampak pač takrat ni bilo družbenih omrežij,
+
+910
+01:06:00,799 --> 01:06:04,799
+ni bilo vsega tega. Zdaj je točno določeno so digitalna znanja
+
+911
+01:06:04,799 --> 01:06:08,799
+in kompetence. Informacijska in podatkovna pismenost,
+
+912
+01:06:08,799 --> 01:06:12,799
+ker spada tudi to, ali gre za fake news, ali za dezinformacijo.
+
+913
+01:06:12,799 --> 01:06:16,799
+Potem imamo uporaba novih tehnologij za
+
+914
+01:06:16,799 --> 01:06:20,799
+komunikacija in sodelovanje. Če prav pravimo, da so mladi
+
+915
+01:06:20,799 --> 01:06:24,799
+digitalno pismeni, koliko od njih, jaz sem recimo od svojih študentov
+
+916
+01:06:24,799 --> 01:06:28,799
+vedno zahtevala, da celi razred skupaj pripravlja zapiske v digitalnih orodih.
+
+917
+01:06:28,799 --> 01:06:32,799
+Ker jaz opažam, pri nas na ministrstvu marsi, kdo ne zna uporabljati
+
+918
+01:06:32,799 --> 01:06:36,799
+dokumenta za skupno ustvarjanje dokumentov, kaj še, kaj drugega.
+
+919
+01:06:36,799 --> 01:06:40,799
+Nasledna kategorija tukaj je ustvarjanje novih osebin.
+
+920
+01:06:40,799 --> 01:06:44,799
+Tudi to, kar danes delamo, je del digitalne pismenosti.
+
+921
+01:06:44,799 --> 01:06:48,799
+Ne govorimo samo o PowerPoint, ampak da lahko tudi kaj posnameš, da predstaviš
+
+922
+01:06:48,799 --> 01:06:52,799
+kakšen svoj izdelek. Potem je varnost
+
+923
+01:06:52,799 --> 01:06:56,799
+na spletu in reševanje problemov za novimi tehnologijami,
+
+924
+01:06:56,799 --> 01:07:00,799
+kar pa pridejo, oprogramiranje, umetna inteligenca in tako naprej.
+
+925
+01:07:00,799 --> 01:07:04,800
+Zdaj, odvisno od starosti,
+
+926
+01:07:04,800 --> 01:07:08,800
+ni treba, da obstaja en poseben predmet, ki mu bomo rekli
+
+927
+01:07:08,800 --> 01:07:12,800
+digitalna pismenost ali digitalizacija v karkoli,
+
+928
+01:07:12,800 --> 01:07:16,800
+ampak marsi, katera od teh osebin se da vključiti v že obstoječih
+
+929
+01:07:16,800 --> 01:07:20,800
+predmetih. Vzimaj, celo moramo vključiti v že obstoječih predmetih.
+
+930
+01:07:20,800 --> 01:07:24,800
+Tu veliko povdarek je potem
+
+931
+01:07:24,800 --> 01:07:28,800
+verjetno na samem učnem sistemu, pa kako bomo
+
+932
+01:07:28,800 --> 01:07:32,800
+sploh zagotovili, kako bomo sploh naučili
+
+933
+01:07:32,800 --> 01:07:36,800
+in motivirali učitelje, da bodo prevzeli to
+
+934
+01:07:36,800 --> 01:07:40,800
+breme, poleg staršev. Tudi učitelje moramo
+
+935
+01:07:40,800 --> 01:07:44,800
+najprej lepo povabiti,
+
+936
+01:07:44,800 --> 01:07:48,800
+mislimo, preskako ali pa jih omnomočiti, da bodo videli,
+
+937
+01:07:48,800 --> 01:07:52,800
+kakšne veščine so, tudi na tem področju, ki je počnete.
+
+938
+01:07:52,800 --> 01:07:56,800
+Moramo za učitelje začeti dela, da jim predstavimo te tehnologije,
+
+939
+01:07:56,800 --> 01:08:00,800
+da se znebimo te tehnofobije, ker marsi,
+
+940
+01:08:00,800 --> 01:08:04,800
+kateri učitelj si mislja, aha, zdaj z novimi tehnologijami potem ne bo več treba,
+
+941
+01:08:04,800 --> 01:08:08,800
+da sem jaz prisoten. Podalječ od tega, ravno ta najboljši
+
+942
+01:08:08,800 --> 01:08:12,800
+učitelj je, bomo potrebovali za novimi tehnologijami.
+
+943
+01:08:12,800 --> 01:08:16,800
+In tudi je treba na pedagoški fakulteti,
+
+944
+01:08:16,800 --> 01:08:20,800
+ker se izobražuje učitelj, vključiti v kurikulume,
+
+945
+01:08:20,800 --> 01:08:24,800
+da znajo delati za temi novimi tehnologijami. In to ne bo šlo
+
+946
+01:08:24,800 --> 01:08:28,800
+danes na jutri. In zdaj je po eni strani, kar delamo tudi
+
+947
+01:08:28,800 --> 01:08:32,800
+mi na ministerstvu, izvajamo neformalno izobraževanje in usposabljanje,
+
+948
+01:08:32,800 --> 01:08:36,800
+ampak spet to ne bo dovolj, bo treba iti še formalno
+
+949
+01:08:36,800 --> 01:08:38,800
+vse skupaj narediti.
+
+950
+01:08:38,800 --> 01:08:41,800
+Lahko tu eno čist praktično vprašanje dam.
+
+951
+01:08:41,800 --> 01:08:44,800
+Predvsemo, verjetno se je to tudi vam zgodilo.
+
+952
+01:08:44,800 --> 01:08:48,800
+Si v večji organizaciji, nekje zgorej pride odločitev,
+
+953
+01:08:48,800 --> 01:08:52,800
+zdaj bote uporabljali nek XY software od jutri naprej,
+
+954
+01:08:52,800 --> 01:08:55,800
+mogoče izobraževanje, mogoče ne, mogoče celo obvezno
+
+955
+01:08:55,800 --> 01:08:59,800
+izobraževanje. In od takrat naprej ta software si zdaj uporabljamo,
+
+956
+01:08:59,800 --> 01:09:02,800
+ker pač smo se tako odločili.
+
+957
+01:09:02,800 --> 01:09:07,800
+Ampak je kak nasvet, ker pač experience,
+
+958
+01:09:07,800 --> 01:09:13,800
+pa tudi research kaže, da de facto ljudje nočejo sprememb.
+
+959
+01:09:13,800 --> 01:09:17,800
+In spremembe ljudem treba na prav način predati,
+
+960
+01:09:17,800 --> 01:09:23,800
+podati, zapakirati in povedati, zakaj to delamo.
+
+961
+01:09:23,800 --> 01:09:29,800
+In me tudi zanima, kak te spremembe v resnici poskušate prodati
+
+962
+01:09:29,800 --> 01:09:34,800
+na konc dneva ljudem. Ker če Andraž ne vedi, kaka je prednost
+
+963
+01:09:34,800 --> 01:09:38,800
+tega software, verjetno ga ne bo najbolj želel uporabljati.
+
+964
+01:09:38,800 --> 01:09:41,800
+In ste zdaj govorili o svojo vprašanje.
+
+965
+01:09:41,800 --> 01:09:46,800
+Nikoli ne smemo izhajati, to bomo delali, ker sem jaz tako rekla,
+
+966
+01:09:46,800 --> 01:09:49,800
+ampak moramo povedati, kakšna je prednost.
+
+967
+01:09:49,800 --> 01:09:53,800
+In tudi recimo pri učitelji, ne bomo uporabljali ponovem,
+
+968
+01:09:53,800 --> 01:09:59,800
+ne vem, programirali v Pythonu, ker se je minister ali predsednik vlade
+
+969
+01:09:59,800 --> 01:10:02,800
+ali direktor zavoda za šolstvo tako odločil.
+
+970
+01:10:02,800 --> 01:10:06,800
+Ampak zaradi tega, ker učenci bodo dobili take veščine
+
+971
+01:10:06,800 --> 01:10:09,800
+in bodo bolj uspešni, vaše delo bo lažje.
+
+972
+01:10:09,800 --> 01:10:12,800
+Človeku moraš povedati, what's in it for me.
+
+973
+01:10:12,800 --> 01:10:18,800
+Ker v koncu vsi izhajamo iz tega, da mi dobimo neko korist.
+
+974
+01:10:18,800 --> 01:10:21,800
+Samo sem delala na projektih za pametno podeželje.
+
+975
+01:10:21,800 --> 01:10:28,800
+In ko smo mi nove tehnologije, internet stvari predlagali kmetom,
+
+976
+01:10:28,800 --> 01:10:31,800
+mi nismo rekli za to, ker si želimo zeleno preobrazbo
+
+977
+01:10:31,800 --> 01:10:33,800
+in digitalno preobrazbo podeželja.
+
+978
+01:10:33,800 --> 01:10:36,800
+Ampak zaradi tega, ker si boste zmanjšali stroške,
+
+979
+01:10:36,800 --> 01:10:41,800
+zaradi tega, ker boste lažje vedli, ali je prišlo do kakšne bolezni,
+
+980
+01:10:41,800 --> 01:10:45,800
+pač smo jim povedali, kakšne koristje bodo oni imeli
+
+981
+01:10:45,800 --> 01:10:48,800
+zaradi uporabe novih tehnologij.
+
+982
+01:10:48,800 --> 01:10:52,800
+Če bi bil Deops, ali pa če bi bil bolj ta tooling mojster,
+
+983
+01:10:52,800 --> 01:10:56,800
+pa bi vedel, kakor moram developerje počas,
+
+984
+01:10:56,800 --> 01:11:01,800
+pač enostavno razlagati, kjer lahko nekaj profiteramo,
+
+985
+01:11:01,800 --> 01:11:07,800
+da ni treba več gledati v kodi, a imamo zdaj tam dva presledka.
+
+986
+01:11:07,800 --> 01:11:11,800
+Enega, če lahko avtomatiziramo, to Linter sam poprava.
+
+987
+01:11:11,800 --> 01:11:15,800
+Eno hip vprašanje lahko damo na tem trenutku.
+
+988
+01:11:15,800 --> 01:11:18,800
+Zdaj govorili smo o teh nekih orodih.
+
+989
+01:11:18,800 --> 01:11:22,800
+Kaj pa zdaj, ko smo videli ta komercialni preboj
+
+990
+01:11:22,800 --> 01:11:24,800
+naslednje generacije umetnih inteligencij,
+
+991
+01:11:24,800 --> 01:11:28,800
+s temi large language modelji, chat prompti,
+
+992
+01:11:28,800 --> 01:11:34,800
+zdi se, da en kup ljudi, ok, pustimo te, ki jahajo,
+
+993
+01:11:34,800 --> 01:11:40,800
+pa en kup ljudi pa ima malo zadržek,
+
+994
+01:11:40,800 --> 01:11:42,800
+ali pa to, kaj draži reči, tehnofobijo,
+
+995
+01:11:42,800 --> 01:11:46,800
+da pač ta tehnologija pa mogoče lahko ogromno
+
+996
+01:11:46,800 --> 01:11:49,800
+mojega dela zdaj avtomatizira, če bom jaz dovolil,
+
+997
+01:11:49,800 --> 01:11:52,800
+da to zdaj mi uporabljamo, potem bom jaz absolutna.
+
+998
+01:11:52,800 --> 01:11:57,800
+To pomeni, da se bomo mogli tudi hitro naučiti,
+
+999
+01:11:57,800 --> 01:12:01,800
+kaj delati s to tehnologijo, primerno uporabiti.
+
+1000
+01:12:02,800 --> 01:12:06,800
+To sem hotel slišati, kaj vidite v tem prostoru,
+
+1001
+01:12:06,800 --> 01:12:08,800
+kako bomo to uporabljali?
+
+1002
+01:12:08,800 --> 01:12:11,800
+Mi moramo biti tako pametni in da to tehnologijo
+
+1003
+01:12:11,800 --> 01:12:14,800
+izkoristimo, za to, da nam pomaga in da smo lahko
+
+1004
+01:12:14,800 --> 01:12:19,800
+samo še boljši. Če jaz kot raziskovalka zdaj meni
+
+1005
+01:12:19,800 --> 01:12:23,800
+ta tehnologija pomaga, da pridem recimo do tu,
+
+1006
+01:12:23,800 --> 01:12:25,800
+to pomeni, da jaz lahko od tu grem naprej,
+
+1007
+01:12:25,800 --> 01:12:29,800
+da sem ogromen del svojega časa prišparala,
+
+1008
+01:12:29,800 --> 01:12:33,800
+za to, da lahko delam še boljše. Ker vse veste, vsi,
+
+1009
+01:12:33,800 --> 01:12:37,800
+ki ste uporabljali, čez GPT je trenutno najbolj in,
+
+1010
+01:12:37,800 --> 01:12:41,800
+ni vse, kar pravi res. Znači, ti poznaš tega področja,
+
+1011
+01:12:41,800 --> 01:12:45,800
+lahko ti prišpara ful enega začetnega dela,
+
+1012
+01:12:45,800 --> 01:12:47,800
+ampak od tu, kaj je naprej, tu se vidi,
+
+1013
+01:12:47,800 --> 01:12:50,800
+koliko si ti dober ali slab. Tako da jaz to vidim,
+
+1014
+01:12:50,800 --> 01:12:53,800
+se mora kot eno dodatno urodje, ki nam je na bolje.
+
+1015
+01:12:53,800 --> 01:12:56,800
+Moramo komunicirati, da je to dodatno urodje,
+
+1016
+01:12:56,800 --> 01:13:00,800
+pa na nek način se bomo mogli pa tudi neko regulativo,
+
+1017
+01:13:00,800 --> 01:13:04,800
+konec konca bomo pa tudi trebali, da bolj ciljam na te fejkvide,
+
+1018
+01:13:04,800 --> 01:13:09,800
+pa to, vse kaj v Evropske unije se vse razmišlja o tem.
+
+1019
+01:13:09,800 --> 01:13:11,800
+Akt, umetni, inteligencije, vse kakor.
+
+1020
+01:13:11,800 --> 01:13:16,800
+Ampak meni osebno ne skrbi tehnologija,
+
+1021
+01:13:16,800 --> 01:13:18,800
+meni ne skrbi človek.
+
+1022
+01:13:18,800 --> 01:13:19,800
+Ja, ja, saj veda.
+
+1023
+01:13:19,800 --> 01:13:22,800
+Zaradi tega, ker ne zaupam človeku,
+
+1024
+01:13:22,800 --> 01:13:25,800
+kaj vse mu pade na pamet, za kakšne namene
+
+1025
+01:13:25,800 --> 01:13:27,800
+ne bo izkoristil to tehnologijo.
+
+1026
+01:13:27,800 --> 01:13:29,800
+In zato potrebujemo regulacijo.
+
+1027
+01:13:29,800 --> 01:13:32,800
+Skozi izgodovino smo našli ljudje zelo velike juzke,
+
+1028
+01:13:32,800 --> 01:13:36,800
+ko smo uporabljali tehnologijo za še kaj druge, jako dobre stvari.
+
+1029
+01:13:36,800 --> 01:13:40,800
+In to je verjetno povprašanje akt, umetni, inteligencija.
+
+1030
+01:13:40,800 --> 01:13:46,800
+A nas bomo pomagali tudi stvari malo regulirati,
+
+1031
+01:13:46,800 --> 01:13:48,800
+da ne bomo naredili...
+
+1032
+01:13:48,800 --> 01:13:50,800
+Ja, po enej strani...
+
+1033
+01:13:50,800 --> 01:13:52,800
+Pa lahko to zakonodajo.
+
+1034
+01:13:52,800 --> 01:13:58,800
+Zato, ker zakonodajo so zelo počasni procesi,
+
+1035
+01:13:58,800 --> 01:14:00,800
+ki potekajo in prav je,
+
+1036
+01:14:00,800 --> 01:14:02,800
+zaradi tega, ker ko delaš z zakonodajo,
+
+1037
+01:14:02,800 --> 01:14:04,800
+moraš premisliti vse vidike.
+
+1038
+01:14:04,800 --> 01:14:06,800
+Po drugi strani govorimo o eni tehnologiji,
+
+1039
+01:14:06,800 --> 01:14:08,800
+ki se izjemno hitro razvija.
+
+1040
+01:14:08,800 --> 01:14:10,800
+Kaj zaj mi želimo za regulacijo?
+
+1041
+01:14:10,800 --> 01:14:14,800
+Mi za regulacijo želimo maksimalno dvigniti koristi,
+
+1042
+01:14:14,800 --> 01:14:17,800
+po drugi strani pa čim bolj zmanjšati te nevarnosti.
+
+1043
+01:14:17,800 --> 01:14:21,800
+Ampak tudi umetna inteligenca je tehnologija, ki se razvija.
+
+1044
+01:14:21,800 --> 01:14:24,800
+Ne vemo, katere so vse koristi, ki nam jih bo prinesla.
+
+1045
+01:14:24,800 --> 01:14:26,800
+Tudi ne poznamo vseh nevarnosti.
+
+1046
+01:14:26,800 --> 01:14:28,800
+In zdaj, če delamo v zakonodajo,
+
+1047
+01:14:28,800 --> 01:14:30,800
+potem je pa še toliko hoje,
+
+1048
+01:14:30,800 --> 01:14:32,800
+ker ta proces je počasen.
+
+1049
+01:14:32,800 --> 01:14:35,800
+Kaj se mi zdaj moramo začeti pogovarjati?
+
+1050
+01:14:35,800 --> 01:14:37,800
+In tukaj imamo ogromno debat
+
+1051
+01:14:37,800 --> 01:14:39,800
+tako za Združenih narodov,
+
+1052
+01:14:39,800 --> 01:14:41,800
+kot za svetom Evrope,
+
+1053
+01:14:41,800 --> 01:14:43,800
+ki so nekako ta naša vest,
+
+1054
+01:14:43,800 --> 01:14:47,800
+da moramo začeti o ethics by design
+
+1055
+01:14:47,800 --> 01:14:49,800
+v umetni inteligenci.
+
+1056
+01:14:49,800 --> 01:14:52,800
+Da se mi dogovorimo, da imamo nekakor sens,
+
+1057
+01:14:52,800 --> 01:14:54,800
+katera so tiste pravila, ki jih bomo uporabljali
+
+1058
+01:14:54,800 --> 01:14:57,800
+že pri kreiranju nove tehnologije.
+
+1059
+01:14:57,800 --> 01:14:59,800
+Da ne pridemo potem do točke.
+
+1060
+01:15:00,000 --> 01:15:02,320
+regulacije koznabi depozov.
+
+1061
+01:15:02,560 --> 01:15:10,440
+Sam kar upažam, pač globalno, kaj se dogaja, da mogoče bojo pa ene države
+
+1062
+01:15:10,680 --> 01:15:15,800
+manj regulirale samo zato, da bojo hitreje prišle do nekih prebojev.
+
+1063
+01:15:16,040 --> 01:15:18,520
+Ampak tukaj se moramo vprašati, kaj si mi želimo.
+
+1064
+01:15:18,760 --> 01:15:25,440
+Ker ene države bodo to naredile, ene države na tem koncu uporabljajo
+
+1065
+01:15:25,440 --> 01:15:28,799
+te tehnologije recimo najbolj za nadzor svojega prebivalstva.
+
+1066
+01:15:29,040 --> 01:15:31,879
+A si tega želimo? Jaz vsemno si ne želim tega.
+
+1067
+01:15:32,119 --> 01:15:37,200
+Ene države grejo isključno za to komercializacijo in so verjetno bolj uspešni.
+
+1068
+01:15:37,439 --> 01:15:43,320
+Stališče Evropa pa še zmeraj je to, da postavi človekove pravice,
+
+1069
+01:15:43,560 --> 01:15:47,840
+potrošniške pravice, zaščita vsenih podatkov v ospredju.
+
+1070
+01:15:48,080 --> 01:15:50,520
+In meni vsemno se to zdi prav.
+
+1071
+01:15:50,840 --> 01:15:54,160
+Se pravi, si želimo,
+
+1072
+01:15:54,400 --> 01:16:00,680
+da bo majno uporabljeno, to pa smo rekli, nekaj face recognition, povezovanje nekih,
+
+1073
+01:16:00,919 --> 01:16:05,959
+kaj rečem. Zmanjšamo možnosti zlorab tehnologije.
+
+1074
+01:16:07,279 --> 01:16:10,959
+Zdaj pa ko zar cvode, ta teži del smo uprali.
+
+1075
+01:16:11,199 --> 01:16:13,480
+To je bilo najbolj zanimivo.
+
+1076
+01:16:13,720 --> 01:16:18,519
+V zadnjem segmentu smo pač pripravili čist par vprašanj,
+
+1077
+01:16:19,519 --> 01:16:21,919
+pač bolj o vas.
+
+1078
+01:16:22,160 --> 01:16:26,639
+Studirali smo naj začnemo vprašanja o vas osebno, naj začnemo z ministrostvom,
+
+1079
+01:16:26,879 --> 01:16:31,360
+pa smo bili, ok, v bistvu, to, da ste ministrica, je velika vloga.
+
+1080
+01:16:31,599 --> 01:16:34,400
+Tako da smo rekli, ok,
+
+1081
+01:16:34,639 --> 01:16:39,400
+bomo pač na konc imeli malo bolj teh lažjih tem.
+
+1082
+01:16:39,639 --> 01:16:45,040
+Zdaj, v svoji karjeri ste upravljali ogromno raziskovanega akademskega dela,
+
+1083
+01:16:45,160 --> 01:16:50,360
+to se pravi e-zdravje, pametna mesta, digitalizacija, podeželja.
+
+1084
+01:16:50,599 --> 01:16:55,919
+Kako in zakaj ste naredili preskok iz nekega tega akademskega raziskovalnega sveta
+
+1085
+01:16:56,160 --> 01:16:59,160
+pač konc koncov v politiko?
+
+1086
+01:17:01,639 --> 01:17:06,040
+Ko sem začela delati na fakulteti za elektrotehniko, tam upravljala eno orodje,
+
+1087
+01:17:06,279 --> 01:17:11,119
+psihološko orodje, ki pač pove kakšen se ti profil nekaj ti pomeni.
+
+1088
+01:17:11,240 --> 01:17:16,199
+In vsa psihološka, vsi psihološki testi, ki sem jaz kadrkoli izvedla, so pokazali,
+
+1089
+01:17:16,440 --> 01:17:19,440
+da meni najbolj pomeni impakt.
+
+1090
+01:17:19,679 --> 01:17:24,600
+In kje lahko narediš največji impakt, če lahko tako pogledaš, je v politiki,
+
+1091
+01:17:24,839 --> 01:17:29,520
+za kreiranjem pravih politik. In mogoče čist pač iz tega naslova,
+
+1092
+01:17:29,759 --> 01:17:33,720
+zato ker sem delala v gospodarstvu, jaz sem svojo karjero začela v gospodarstvu
+
+1093
+01:17:33,960 --> 01:17:38,639
+in je krasna izkušnja in bi se želela tudi, da vsi kolegi na univerzah
+
+1094
+01:17:38,679 --> 01:17:43,240
+in fakultetah dajo to skozi. Zato ker jaz sem delala v velikem mednarodnem
+
+1095
+01:17:43,479 --> 01:17:48,720
+podjetju, ker so bili različni sektori posebej razvoja, posebej marketing,
+
+1096
+01:17:48,960 --> 01:17:53,399
+ko sem se naučila, da čeprav delaš v istem podjetju, govoriš drug jezik
+
+1097
+01:17:53,639 --> 01:17:57,440
+in se može za začetek naučiti se pogovarjati s kolegi.
+
+1098
+01:17:57,679 --> 01:18:03,080
+Potem sem delala na univerzi, ki je spet en drug svet, raziskovalno delo,
+
+1099
+01:18:03,320 --> 01:18:08,320
+pedagoško delo, ti jo ogromno tudi narediš, velik impakt, če lahko tako vidiš.
+
+1100
+01:18:09,039 --> 01:18:14,960
+Pozaj sem začela za delo na evropskimi projekti, ta izmenjava, izkušenj, znanja
+
+1101
+01:18:15,199 --> 01:18:19,800
+in takrat sem se prvič dotaknila tega policymakinga, ker mi smo se preko
+
+1102
+01:18:20,039 --> 01:18:24,759
+Interreg Europe okvarjali ogromno za policymakingom in sem videla,
+
+1103
+01:18:25,000 --> 01:18:28,399
+kako činek lahko dejansko dosežeš s tem delom.
+
+1104
+01:18:30,080 --> 01:18:34,639
+Ta policymaking, to skratko pomenite, pač v prejšnjih intervjujih,
+
+1105
+01:18:34,720 --> 01:18:40,559
+kaj je po vašem najnoglavna razlika med policymakerjem pa političnom,
+
+1106
+01:18:40,800 --> 01:18:42,360
+to se pravi politikom?
+
+1107
+01:18:42,600 --> 01:18:47,520
+Policymaker ne rabe biti član politične stranke, zato da osnuje politike.
+
+1108
+01:18:47,759 --> 01:18:52,880
+Politik pa veliko krat se ne okvarja toliko z osnovanjem politika,
+
+1109
+01:18:53,119 --> 01:18:55,639
+ampak z izvajanjem neke agende.
+
+1110
+01:18:56,639 --> 01:19:00,639
+To se pravi v sebi vidite bolj kot inženerko, ki je policymaker.
+
+1111
+01:19:00,880 --> 01:19:01,880
+Ja.
+
+1112
+01:19:05,639 --> 01:19:10,960
+Zdaj, ko smo pripravljala ta podkest, smo probala sestav celkih enih vprašanj,
+
+1113
+01:19:11,199 --> 01:19:15,639
+ki pač mogoče ne bi moglo naprej predvidati,
+
+1114
+01:19:16,239 --> 01:19:21,440
+da jemo reči Inter pripravnik ali če GPT, to se pravi, da niso copy,
+
+1115
+01:19:21,679 --> 01:19:24,279
+copy-paste-i konc koncov iz
+
+1116
+01:19:27,040 --> 01:19:29,079
+digitalne zadovenje 2030.
+
+1117
+01:19:29,320 --> 01:19:33,959
+Če zato, da je pač malo drugač, ker konc koncov mi dva nismo profesionalna novinarja,
+
+1118
+01:19:34,720 --> 01:19:36,920
+Če kar ste, v redu, na životovilju.
+
+1119
+01:19:37,640 --> 01:19:42,679
+Vse je dobra stvar, ki jo imamo. Mogoče smo imeli več časa kot profesionalen novinar
+
+1120
+01:19:42,920 --> 01:19:44,880
+v bistvu razmišljati o teh vprašanjih.
+
+1121
+01:19:45,119 --> 01:19:47,880
+Jutri nama ni treba napisati nove kolumne.
+
+1122
+01:19:49,399 --> 01:19:51,880
+Zdaj, hkrati smo se pa spraševali tudi,
+
+1123
+01:19:52,119 --> 01:19:56,279
+ok, ne moremo vas pa vprašati tudi vprašanje,
+
+1124
+01:19:56,519 --> 01:20:01,480
+ki bi aktivirala eno kupico jeznih Twitter botov, da jim bom tako reči,
+
+1125
+01:20:02,079 --> 01:20:05,119
+kako pač vi gledate na to komunikacijo prek
+
+1126
+01:20:06,679 --> 01:20:08,200
+državnih omrežji,
+
+1127
+01:20:09,160 --> 01:20:10,160
+naprimer?
+
+1128
+01:20:11,160 --> 01:20:14,000
+Ne glede na vprašanje, ki bi mi jih postavili,
+
+1129
+01:20:14,239 --> 01:20:18,119
+to bo tako ali tako. Zato, ker nekomu že ni všeč, kako se pišem.
+
+1130
+01:20:18,600 --> 01:20:25,000
+Nekdo se bo utaknil v tem, kaj imam danes oblečeno. Nekdo celo v šminku mojo so se utaknili, tako da pač
+
+1131
+01:20:25,559 --> 01:20:31,440
+to so ljudi, ki očitno, ne vem, nimajo kaj bolj pametnega. Dobivam tudi redno mejle,
+
+1132
+01:20:31,679 --> 01:20:34,679
+da naj grem tam, odkotr sem prišla,
+
+1133
+01:20:35,679 --> 01:20:41,279
+kaj, ali nekomu pa ne bo všeč in mi bo naš del, kateri vse slavnične napake sem danes narvela.
+
+1134
+01:20:42,040 --> 01:20:47,640
+In sem se preprosto nehala ukvarjati se s tem, niti ne berem več teh komentarjev.
+
+1135
+01:20:48,559 --> 01:20:53,880
+Načrtno sem se odločila ignorirati tudi marsi, katere objave
+
+1136
+01:20:54,559 --> 01:20:55,959
+določenih novinarjev.
+
+1137
+01:20:57,079 --> 01:21:00,200
+Najbolj hudo mi je, prej ste omenili, da imate otroke,
+
+1138
+01:21:00,679 --> 01:21:07,880
+da ti komentarji, ne vem kako, ampak nekako, pridejo tudi do mojega otroka. In da mora moj otrok
+
+1139
+01:21:08,720 --> 01:21:14,359
+razmišljati o tem, kaj se piše o njegovi mami. To je najslabše in najtežje.
+
+1140
+01:21:16,519 --> 01:21:23,279
+Ja, se zdi, da ko, ja, pač warzone, to besedno warzone je.
+
+1141
+01:21:24,679 --> 01:21:26,239
+Tudi,
+
+1142
+01:21:26,600 --> 01:21:33,480
+tudi, ko smo se pripravili na to, mi smo se res poskušali na vsebino tako sredotočiti, pa že zdaj vemo, da pač
+
+1143
+01:21:33,839 --> 01:21:39,320
+bomo vsekako dobili tudi kako sporočilo nazaj, tako da, ja, ampak
+
+1144
+01:21:39,920 --> 01:21:47,480
+mi smo probali to vsebino dobiti, ker je pač nekako se nama zdi pomembno za vse, tudi tiste, ko mogoče
+
+1145
+01:21:48,720 --> 01:21:55,679
+in te deli pač niso všeč, se mi zdi, da vse eno bomo mogli strateško bolj razmišljati, kot država, če bomo hodili
+
+1146
+01:21:55,679 --> 01:21:57,679
+in proboje narediti, no.
+
+1147
+01:21:58,519 --> 01:22:03,480
+Ja, pač dejte si tudi posvešalci nekako zgraditi
+
+1148
+01:22:04,040 --> 01:22:09,279
+filtr, da to, kar piše tan gor, ni nojno dansko stanje v realnem svetu in obratno.
+
+1149
+01:22:11,399 --> 01:22:16,959
+Jaz bi še mogoče vse eno nekako nadeljoglavo v tem nekem vašem online presotnosti.
+
+1150
+01:22:17,399 --> 01:22:26,799
+V Grodje delamo zdaj pač nekako se je izoblikovalo, tako smo prerekli skozi trial and error, da so nekako trije pomembni segmenti v Grodje.
+
+1151
+01:22:27,320 --> 01:22:32,600
+Eno je, da se najprej začnemo s to pred pripravo, pa kaj bo vsebino, pa kdo bo v gospo, za kaj bo v gospo to.
+
+1152
+01:22:33,040 --> 01:22:39,320
+Potem imamo to snemanje kot nek drugi korak, snemanje postprodukcija in vse, kar tukaj okoli vidimo.
+
+1153
+01:22:39,760 --> 01:22:52,200
+In potem nekako je ta tretji del, ko je treba to vsebino lepo zapakirati in dati lepo sliko in jo pač prodati na nek način našem odjensu, da je lahko konzumirajo kot se spodobi.
+
+1154
+01:22:52,880 --> 01:23:04,320
+In vsi ti deli so ekstremno pomembni, pač in če mi naredimo vso to, produkcijo, vse, kar sem prenaštel, pa na koncu naredimo marketinga, pač ne zapakiramo vsebine,
+
+1155
+01:23:04,640 --> 01:23:08,640
+tako da bojo ljudje vedeli, da jo delamo, da jo bomo naredili in da smo jo norno naredili,
+
+1156
+01:23:10,559 --> 01:23:20,000
+pač je brze se skupaj močeti. In mi smo vse v tem letu naučili, da je dansko ful pomembno, da ljudem poveš kaj delaš, da komuniciraš vse te stvari.
+
+1157
+01:23:20,480 --> 01:23:27,920
+In moje vprašanje, tudi gledam to, kaj sem zdaj povedal, je kako vi nekako ravnotežite ta
+
+1158
+01:23:28,880 --> 01:23:34,400
+fokus, ker tudi v resnici, če ne povedete ljudem, kaj delate, pač ne bojo vedeli.
+
+1159
+01:23:34,960 --> 01:23:40,559
+Ja, se strimjam. In veliko krat je ravno v tem problem, ker
+
+1160
+01:23:41,039 --> 01:23:50,080
+mar si kaj mi že imamo v Sloveniji, mar si kaj že obstaja v Sloveniji, ampak preprosto ljudje ne vejo, da to obstaja. Tudi recimo na našem ministerstvu,
+
+1161
+01:23:50,080 --> 01:23:55,840
+v kateri vse digitalne storitve so na voljo in zakaj vse se bo lahko je osebno uporabljala.
+
+1162
+01:23:56,719 --> 01:24:06,559
+Tukaj se zavedamo, da imamo še veliko room for improvement in iščemo tudi nove načine, kako lahko to ljudjem predstaviti.
+
+1163
+01:24:08,640 --> 01:24:15,520
+V bistvu imate zelo podoben ta problem iskanja attention-a, ker ga rabite, da svoj meseč povedete ljudem, ko ga ima umije.
+
+1164
+01:24:15,520 --> 01:24:21,039
+Spravi, moraš nekako pozornost ljudi dobiti, da jim boš lahko to spoh povedal, da obstaja te stvarine.
+
+1165
+01:24:21,840 --> 01:24:26,479
+Pa da ne zgleda kot propaganda, v našem primeru.
+
+1166
+01:24:26,479 --> 01:24:34,960
+Apsolutno, to je bilo tudi eno izmed vprašanj oziroma guidance-ov za to epizodo in naj ne bo samo še en PR.
+
+1167
+01:24:34,960 --> 01:24:36,640
+Peace.
+
+1168
+01:24:36,640 --> 01:24:43,440
+Tako da upam, da smo uspeli to nekako prebiti in priti nekako do zadnjih pomembnih vprašanj.
+
+1169
+01:24:44,320 --> 01:24:46,000
+Te so kratka.
+
+1170
+01:24:46,000 --> 01:24:49,039
+Sklop kratkih vprašanj, da to ni čist PR.
+
+1171
+01:24:49,039 --> 01:24:56,239
+Smo rekli, ok, kaj bi vprašala dva inženirja vas, pa je navadno novinar nebi.
+
+1172
+01:24:57,679 --> 01:25:02,559
+Zdaj, katero operacijski sistem vam je najljubši za vsako dnevno delo in uporabo?
+
+1173
+01:25:02,559 --> 01:25:07,919
+Je taka zelo tipična vprašanja, da bom vam da vas bo toliko vprašal od novinarjev.
+
+1174
+01:25:08,000 --> 01:25:15,359
+Zdaj, kateri mi je najljubši, ceško odgovorim, lahko pa upovem, da redno uporabljam Mac OS pa Windows vsak dan.
+
+1175
+01:25:18,159 --> 01:25:23,520
+Kater je vaš najljubši programski jezik in urodje? Zdaj, to je zelo tako vprašanje.
+
+1176
+01:25:23,520 --> 01:25:27,840
+Najbrž morate daje kakšno številko tudi sami obrnati vokol, s čim se kaj pomagate.
+
+1177
+01:25:27,840 --> 01:25:29,359
+Trenutno ne.
+
+1178
+01:25:29,919 --> 01:25:41,919
+Zdaj, kaj mi je najljubši? Zato, ker java, zato, ker to je bila prva rešitev, ki sem jo sprogramirala in ki je šla dejansko v produkcijo in potem je zaživela.
+
+1179
+01:25:41,919 --> 01:25:53,200
+Na iskra delu sem delala GSMR, pač ko vlaki pošiljajo SMS in to je bilo v ajavi sprogramirano, tako da, mogoče, en začetek karijere pa prvi produkt, ki je zaživel.
+
+1180
+01:25:53,200 --> 01:25:56,799
+Moram, moram, da celo vprašam, kako framework bi uporabljali, kako urodje?
+
+1181
+01:25:57,039 --> 01:25:59,039
+Ne, ok.
+
+1182
+01:25:59,039 --> 01:26:01,039
+To so bile elektrotehnike.
+
+1183
+01:26:01,039 --> 01:26:05,760
+To je samo, da je protokol, samo da je elektrika.
+
+1184
+01:26:05,760 --> 01:26:07,760
+Da je na gumb.
+
+1185
+01:26:07,760 --> 01:26:09,760
+Gumb mora biti.
+
+1186
+01:26:09,760 --> 01:26:11,760
+Ok.
+
+1187
+01:26:11,760 --> 01:26:13,760
+To vprašanje, da vam draži naslednje.
+
+1188
+01:26:13,760 --> 01:26:18,239
+Ne, ne, to je dejansko, mislim, glede urodje.
+
+1189
+01:26:18,239 --> 01:26:20,239
+Ne, to glede naslednjega.
+
+1190
+01:26:20,239 --> 01:26:24,239
+Ne, ne, to sem dejansko sobosijo.
+
+1191
+01:26:24,400 --> 01:26:32,400
+Zdaj, naše poslušalce zanima, ali igrate video igre, ali pa ste iz tega kadra kolikor igrali, če so vam ljube, pa kakšen je vaš pogled na to?
+
+1192
+01:26:32,400 --> 01:26:34,400
+Odkar vem zase.
+
+1193
+01:26:34,400 --> 01:26:36,400
+Od Nintendo eno, pa naprej.
+
+1194
+01:26:36,400 --> 01:26:45,679
+Ja, trenutno, kaj igram, je FIFA in jih imamo doma od 2.15 pa vsako leto naprej, ne.
+
+1195
+01:26:45,679 --> 01:26:51,840
+Moja dva doma igra, to še kakšno drugo, ne, ampak pač meni ta najljepša.
+
+1196
+01:26:51,919 --> 01:26:56,000
+To se pravi, dva, tri kontroleri, pa gremo v brce džogo.
+
+1197
+01:26:56,000 --> 01:26:58,000
+Odlično.
+
+1198
+01:26:58,000 --> 01:27:03,520
+Sicer imeli smo vprašanje, nekaj povezano z Enka Maribor, pa smo potem odstranili, da ne bi tri igrali.
+
+1199
+01:27:03,520 --> 01:27:05,520
+Da ne bi bilo preveč.
+
+1200
+01:27:05,520 --> 01:27:07,520
+Kaj je najljepši klub nogometni?
+
+1201
+01:27:07,520 --> 01:27:09,520
+Itak.
+
+1202
+01:27:09,520 --> 01:27:11,520
+Šampion.
+
+1203
+01:27:11,520 --> 01:27:13,520
+Itak, prostivo.
+
+1204
+01:27:13,520 --> 01:27:15,520
+Barvo so.
+
+1205
+01:27:16,159 --> 01:27:20,559
+Ja, nič, potem to nekako smo prepeljali do konca.
+
+1206
+01:27:20,559 --> 01:27:24,159
+Jaz bi se vam še enkrat lepo zahvalil za vaš pogovor.
+
+1207
+01:27:24,159 --> 01:27:30,880
+Tu vam še dam, če želite nasloviti odjens za zadnjo misel, prej preberem še naprej.
+
+1208
+01:27:30,880 --> 01:27:41,440
+Mogoče bi sem o to povedala, da preden sem postala ministrica, sem tudi sama mislila, kaj pa delajo sploh na tem ministerstvi, ne.
+
+1209
+01:27:41,599 --> 01:27:47,359
+Zdaj, ko prideš enkrat znotraj sistema, vidiš, da marsi kaj naredil.
+
+1210
+01:27:47,359 --> 01:27:55,039
+Gdaj imajo težave za marketingo, gdaj imajo težave za raznimi ovirami, ki jih poskušajo rešiti,
+
+1211
+01:27:55,039 --> 01:28:02,080
+tako da mogoče malo več potrpežljivosti, malo več konstruktivnosti ne bi škodlo.
+
+1212
+01:28:02,080 --> 01:28:04,080
+To je lekcija, ki sem se o jasno učila.
+
+1213
+01:28:04,080 --> 01:28:06,080
+Hvala.
+
+1214
+01:28:06,719 --> 01:28:11,200
+Nič, najlepše se zahvaljujem vsem poslušalcem, gledalcem.
+
+1215
+01:28:11,200 --> 01:28:16,320
+Najlepše se zahvaljujem tudi vsem supporterjem na Patreonu v večinoma.
+
+1216
+01:28:16,320 --> 01:28:24,880
+In pa hvala, ker ste z nami in nas poslušate, pa hvala vsej ekipi za vaš trud in hvala vbema še enkrat za vajen čas.
+
+1217
+01:28:24,880 --> 01:28:26,880
+Srečno. Hvala.

@@ -1,0 +1,8786 @@
+1
+00:00:00,000 --> 00:00:02,000
+We've got a message for you.
+
+2
+00:00:02,000 --> 00:00:04,000
+We've got a message for you.
+
+3
+00:00:12,000 --> 00:00:15,000
+Then our glorious jingle comes out,
+
+4
+00:00:15,000 --> 00:00:18,000
+which we've collected from a hundred archives.
+
+5
+00:00:18,000 --> 00:00:20,000
+Jingle!
+
+6
+00:00:21,000 --> 00:00:25,000
+Janic, greetings and welcome to a new episode of Grodje.
+
+7
+00:00:25,000 --> 00:00:28,000
+I think it's 26 episodes, in numbers.
+
+8
+00:00:30,000 --> 00:00:33,000
+I have to say that it's already been a year,
+
+9
+00:00:33,000 --> 00:00:37,000
+and we've been on stage for a year.
+
+10
+00:00:37,000 --> 00:00:40,000
+We've come a long way since we started
+
+11
+00:00:40,000 --> 00:00:43,000
+filming this on a test set,
+
+12
+00:00:43,000 --> 00:00:46,000
+because we have a whole team of people behind us
+
+13
+00:00:46,000 --> 00:00:50,000
+who help us keep this thing on a high level.
+
+14
+00:00:50,000 --> 00:00:53,000
+Today we have a special guest
+
+15
+00:00:53,000 --> 00:01:00,000
+with whom we will try to describe where we travel as a country.
+
+16
+00:01:00,000 --> 00:01:05,000
+We will try to talk about the challenges on this journey,
+
+17
+00:01:05,000 --> 00:01:08,000
+how we will overcome these challenges,
+
+18
+00:01:08,000 --> 00:01:14,000
+and a lot of things we have in common that interest us.
+
+19
+00:01:14,000 --> 00:01:21,000
+Now we will try to keep the tone very positive,
+
+20
+00:01:21,000 --> 00:01:24,000
+and try to have an engineering aspect.
+
+21
+00:01:24,000 --> 00:01:26,000
+Parallaxed.
+
+22
+00:01:26,000 --> 00:01:28,000
+Parallaxed, yes.
+
+23
+00:01:28,000 --> 00:01:32,000
+What else can I say?
+
+24
+00:01:32,000 --> 00:01:35,000
+We will be hosting this time in Maribor,
+
+25
+00:01:35,000 --> 00:01:38,000
+at the 3FS company.
+
+26
+00:01:38,000 --> 00:01:42,000
+We will put a link below, so check out this company.
+
+27
+00:01:42,000 --> 00:01:46,000
+And I would like to thank you for hosting us.
+
+28
+00:01:46,000 --> 00:01:50,000
+I forgot something at the beginning.
+
+29
+00:01:51,000 --> 00:01:53,000
+Let me introduce you to the guest.
+
+30
+00:01:53,000 --> 00:01:56,000
+Today is a very special day.
+
+31
+00:01:56,000 --> 00:01:58,000
+Special.
+
+32
+00:01:58,000 --> 00:01:59,000
+Will you talk?
+
+33
+00:01:59,000 --> 00:02:00,000
+Yes, I will.
+
+34
+00:02:00,000 --> 00:02:03,000
+This fact will bring you closer.
+
+35
+00:02:03,000 --> 00:02:07,000
+I would also like to thank our special guest,
+
+36
+00:02:07,000 --> 00:02:10,000
+researcher Dr. Emili Stojmenov-Duh,
+
+37
+00:02:10,000 --> 00:02:14,000
+Minister of Digital Transformation.
+
+38
+00:02:14,000 --> 00:02:18,000
+She has a doctorate from the Faculty of Electrical Engineering
+
+39
+00:02:18,000 --> 00:02:20,000
+at the University of Maribor.
+
+40
+00:02:20,000 --> 00:02:23,000
+Before her doctorate, she worked at the company Iskrtel,
+
+41
+00:02:23,000 --> 00:02:26,000
+and then she started working at the Faculty of Electrical Engineering
+
+42
+00:02:26,000 --> 00:02:28,000
+at the University of Ljubljana.
+
+43
+00:02:28,000 --> 00:02:31,000
+Last year, she was a professor at the Faculty of Information
+
+44
+00:02:31,000 --> 00:02:34,000
+and Communication Technology.
+
+45
+00:02:34,000 --> 00:02:38,000
+Dr. Stojmenov-Duh is the first graduate professor
+
+46
+00:02:38,000 --> 00:02:41,000
+at the Faculty of Electrical Engineering.
+
+47
+00:02:41,000 --> 00:02:44,000
+She was also the first president of IEEE
+
+48
+00:02:44,000 --> 00:02:47,000
+Women in Engineering Slovenia.
+
+49
+00:02:47,000 --> 00:02:50,000
+In January 2024, she was appointed
+
+50
+00:02:50,000 --> 00:02:53,000
+Minister of Digital Transformation.
+
+51
+00:02:53,000 --> 00:02:55,000
+As an author and co-author,
+
+52
+00:02:55,000 --> 00:02:58,000
+she has signed numerous scientific and academic publications
+
+53
+00:02:58,000 --> 00:03:00,000
+in the field of digital transformation.
+
+54
+00:03:00,000 --> 00:03:02,000
+Welcome. Thank you for having us.
+
+55
+00:03:02,000 --> 00:03:03,000
+Thank you very much.
+
+56
+00:03:03,000 --> 00:03:04,000
+Can I correct something?
+
+57
+00:03:04,000 --> 00:03:05,000
+Yes, definitely.
+
+58
+00:03:05,000 --> 00:03:07,000
+I am not the first graduate professor
+
+59
+00:03:07,000 --> 00:03:09,000
+at the Faculty of Electrical Engineering,
+
+60
+00:03:09,000 --> 00:03:12,000
+but at the Faculty of Information and Communication Technology.
+
+61
+00:03:12,000 --> 00:03:14,000
+Thank you.
+
+62
+00:03:15,000 --> 00:03:17,000
+I think we already copied it.
+
+63
+00:03:17,000 --> 00:03:19,000
+Yes, of course, we are a bit lazy.
+
+64
+00:03:19,000 --> 00:03:22,000
+No, we didn't copy it from Tech Overflow,
+
+65
+00:03:22,000 --> 00:03:25,000
+but we did a little research,
+
+66
+00:03:25,000 --> 00:03:28,000
+and we didn't write it in CHPT,
+
+67
+00:03:28,000 --> 00:03:29,000
+so thank you for that.
+
+68
+00:03:29,000 --> 00:03:32,000
+Without CHPT, but we have a lot of people
+
+69
+00:03:32,000 --> 00:03:35,000
+who are concerned that we don't present guests well,
+
+70
+00:03:35,000 --> 00:03:38,000
+so we could add that aspect on our own.
+
+71
+00:03:38,000 --> 00:03:41,000
+We were hoping for quick fixes, but we don't like that.
+
+72
+00:03:41,000 --> 00:03:45,000
+The professor in me always has to look for a way to fix it.
+
+73
+00:03:45,000 --> 00:03:48,000
+Is that a mistake by the guests?
+
+74
+00:03:48,000 --> 00:03:50,000
+No, I don't think it's a mistake,
+
+75
+00:03:50,000 --> 00:03:53,000
+but I didn't want to make a mistake by accident.
+
+76
+00:03:53,000 --> 00:03:56,000
+I'll leave it to the workers.
+
+77
+00:03:58,000 --> 00:04:00,000
+We have a lot of topics,
+
+78
+00:04:00,000 --> 00:04:03,000
+so let's start with...
+
+79
+00:04:03,000 --> 00:04:05,000
+Quite simply.
+
+80
+00:04:06,000 --> 00:04:10,000
+You lead the Ministry for Digital Transformation.
+
+81
+00:04:10,000 --> 00:04:13,000
+What is Digital Transformation?
+
+82
+00:04:13,000 --> 00:04:16,000
+What is Digital Transformation?
+
+83
+00:04:16,000 --> 00:04:18,000
+It's a bunch of things.
+
+84
+00:04:18,000 --> 00:04:20,000
+As I understand it,
+
+85
+00:04:20,000 --> 00:04:23,000
+it's the use of new digital technologies
+
+86
+00:04:23,000 --> 00:04:26,000
+to create new processes,
+
+87
+00:04:26,000 --> 00:04:30,000
+either through user or consumer experiences,
+
+88
+00:04:30,000 --> 00:04:35,000
+or through the way companies and organizations work.
+
+89
+00:04:36,000 --> 00:04:39,000
+On the one hand, it can be used for something new,
+
+90
+00:04:39,000 --> 00:04:42,000
+or to adapt existing processes
+
+91
+00:04:42,000 --> 00:04:45,000
+to the way we use existing technologies.
+
+92
+00:04:45,000 --> 00:04:47,000
+Quite simply.
+
+93
+00:04:47,000 --> 00:04:50,000
+We use technologies for real processes,
+
+94
+00:04:50,000 --> 00:04:53,000
+not just technologies.
+
+95
+00:04:55,000 --> 00:04:58,000
+We're not just talking about technologies,
+
+96
+00:04:58,000 --> 00:05:00,000
+we're also talking about processes,
+
+97
+00:05:00,000 --> 00:05:03,000
+we're also talking about educating people,
+
+98
+00:05:03,000 --> 00:05:05,000
+mindset,
+
+99
+00:05:05,000 --> 00:05:07,000
+culture,
+
+100
+00:05:08,000 --> 00:05:10,000
+resources,
+
+101
+00:05:10,000 --> 00:05:13,000
+and strategies.
+
+102
+00:05:14,000 --> 00:05:18,000
+When we were preparing for this episode,
+
+103
+00:05:19,000 --> 00:05:22,000
+we had a very interesting experience.
+
+104
+00:05:22,000 --> 00:05:26,000
+First, we asked our audience
+
+105
+00:05:26,000 --> 00:05:29,000
+what their difficulties are,
+
+106
+00:05:29,000 --> 00:05:31,000
+and what they ask us.
+
+107
+00:05:31,000 --> 00:05:34,000
+Now, it's a bit broader.
+
+108
+00:05:34,000 --> 00:05:37,000
+We asked people what they think.
+
+109
+00:05:38,000 --> 00:05:41,000
+They gave very interesting feedback,
+
+110
+00:05:41,000 --> 00:05:44,000
+perhaps in the spirit of our time.
+
+111
+00:05:45,000 --> 00:05:48,000
+They also talked about the lack of understanding
+
+112
+00:05:48,000 --> 00:05:50,000
+of the Ministry.
+
+113
+00:05:52,000 --> 00:05:55,000
+I went to pick up the digital strategy,
+
+114
+00:05:55,000 --> 00:05:57,000
+I don't know, 66 pages,
+
+115
+00:05:57,000 --> 00:05:59,000
+with the attachments,
+
+116
+00:05:59,000 --> 00:06:01,000
+with the documents.
+
+117
+00:06:02,000 --> 00:06:04,000
+Let's hear from you.
+
+118
+00:06:04,000 --> 00:06:07,000
+What is the Ministry?
+
+119
+00:06:07,000 --> 00:06:09,000
+What are the basic...
+
+120
+00:06:09,000 --> 00:06:12,000
+What is your job?
+
+121
+00:06:14,000 --> 00:06:16,000
+It was a soft question,
+
+122
+00:06:16,000 --> 00:06:18,000
+because I saw people...
+
+123
+00:06:18,000 --> 00:06:21,000
+People have a lot of expectations.
+
+124
+00:06:21,000 --> 00:06:23,000
+Some people don't understand,
+
+125
+00:06:23,000 --> 00:06:26,000
+because the Ministry was created anew,
+
+126
+00:06:26,000 --> 00:06:29,000
+the Minister of Forestry was already established,
+
+127
+00:06:29,000 --> 00:06:33,000
+or you already had a place in the Ministry.
+
+128
+00:06:34,000 --> 00:06:36,000
+But people just don't know
+
+129
+00:06:36,000 --> 00:06:39,000
+what to expect from the Ministry.
+
+130
+00:06:39,000 --> 00:06:41,000
+But as soon as you started,
+
+131
+00:06:41,000 --> 00:06:43,000
+you got a lot of feedback.
+
+132
+00:06:43,000 --> 00:06:46,000
+This shows that this area is very important
+
+133
+00:06:46,000 --> 00:06:48,000
+in our everyday life,
+
+134
+00:06:48,000 --> 00:06:50,000
+and also in our everyday work.
+
+135
+00:06:50,000 --> 00:06:52,000
+Digital transformation,
+
+136
+00:06:52,000 --> 00:06:54,000
+digital technologies
+
+137
+00:06:54,000 --> 00:06:56,000
+came with the new Ministry,
+
+138
+00:06:56,000 --> 00:06:58,000
+with the new service.
+
+139
+00:06:58,000 --> 00:07:00,000
+But they are part of our life.
+
+140
+00:07:00,000 --> 00:07:02,000
+In the past, every Ministry
+
+141
+00:07:02,000 --> 00:07:05,000
+dealt with this area on its own.
+
+142
+00:07:05,000 --> 00:07:07,000
+They dealt with the economy,
+
+143
+00:07:07,000 --> 00:07:09,000
+they dealt with the Ministry of Labor,
+
+144
+00:07:09,000 --> 00:07:11,000
+they dealt with the Ministry of Family Affairs,
+
+145
+00:07:11,000 --> 00:07:13,000
+they balanced certain aspects,
+
+146
+00:07:13,000 --> 00:07:15,000
+education,
+
+147
+00:07:15,000 --> 00:07:17,000
+I don't know if you know,
+
+148
+00:07:17,000 --> 00:07:19,000
+but the Broadband Internet for Support
+
+149
+00:07:19,000 --> 00:07:21,000
+was at the Ministry of Agriculture.
+
+150
+00:07:21,000 --> 00:07:23,000
+And everything we did
+
+151
+00:07:23,000 --> 00:07:25,000
+was given to an organ,
+
+152
+00:07:25,000 --> 00:07:27,000
+a Ministry that will look at all these things
+
+153
+00:07:27,000 --> 00:07:29,000
+closely, and the Ministry
+
+154
+00:07:29,000 --> 00:07:31,000
+is still covering them for its aspects.
+
+155
+00:07:31,000 --> 00:07:33,000
+Only here, our Ministry
+
+156
+00:07:33,000 --> 00:07:35,000
+has a close strategy,
+
+157
+00:07:35,000 --> 00:07:37,000
+that's why we prepared this strategy,
+
+158
+00:07:37,000 --> 00:07:39,000
+to show what the goal is,
+
+159
+00:07:39,000 --> 00:07:41,000
+what the vision of Slovenia is in this area.
+
+160
+00:07:41,000 --> 00:07:43,000
+And even when we finance
+
+161
+00:07:43,000 --> 00:07:45,000
+certain projects,
+
+162
+00:07:45,000 --> 00:07:47,000
+we will not prepare to finance
+
+163
+00:07:47,000 --> 00:07:49,000
+the same areas on agriculture,
+
+164
+00:07:49,000 --> 00:07:51,000
+on infrastructure,
+
+165
+00:07:51,000 --> 00:07:53,000
+on trade,
+
+166
+00:07:53,000 --> 00:07:55,000
+but somehow these things are connected.
+
+167
+00:07:55,000 --> 00:07:57,000
+Interoperability is also
+
+168
+00:07:57,000 --> 00:07:59,000
+very modern,
+
+169
+00:07:59,000 --> 00:08:01,000
+but what is it about?
+
+170
+00:08:01,000 --> 00:08:03,000
+It's about having the data
+
+171
+00:08:03,000 --> 00:08:05,000
+in one place, not having to bring it 20 times,
+
+172
+00:08:05,000 --> 00:08:07,000
+every different resource,
+
+173
+00:08:07,000 --> 00:08:09,000
+every different organization,
+
+174
+00:08:09,000 --> 00:08:11,000
+but to have it inside,
+
+175
+00:08:11,000 --> 00:08:13,000
+and to manage it, because it already exists.
+
+176
+00:08:13,000 --> 00:08:15,000
+That's why the Ministry
+
+177
+00:08:15,000 --> 00:08:17,000
+was created.
+
+178
+00:08:17,000 --> 00:08:19,000
+Ok.
+
+179
+00:08:19,000 --> 00:08:21,000
+I will try again,
+
+180
+00:08:21,000 --> 00:08:23,000
+again, I want to be
+
+181
+00:08:23,000 --> 00:08:25,000
+positive, but...
+
+182
+00:08:25,000 --> 00:08:27,000
+I prepared,
+
+183
+00:08:27,000 --> 00:08:29,000
+when we were preparing,
+
+184
+00:08:29,000 --> 00:08:31,000
+I prepared your social channels,
+
+185
+00:08:31,000 --> 00:08:33,000
+Instagram, Facebook,
+
+186
+00:08:33,000 --> 00:08:35,000
+and so on,
+
+187
+00:08:35,000 --> 00:08:37,000
+and tomorrow I see
+
+188
+00:08:37,000 --> 00:08:39,000
+a picture of you,
+
+189
+00:08:39,000 --> 00:08:41,000
+with the image of older people,
+
+190
+00:08:41,000 --> 00:08:43,000
+I think in Velenje,
+
+191
+00:08:43,000 --> 00:08:45,000
+and I thought, ok, great,
+
+192
+00:08:45,000 --> 00:08:47,000
+then in a couple of hours we will prepare
+
+193
+00:08:47,000 --> 00:08:49,000
+a certificate, and then it's
+
+194
+00:08:49,000 --> 00:08:51,000
+a shitstorm,
+
+195
+00:08:51,000 --> 00:08:53,000
+and then you see
+
+196
+00:08:53,000 --> 00:08:55,000
+all this
+
+197
+00:08:55,000 --> 00:08:57,000
+thunder,
+
+198
+00:08:57,000 --> 00:08:59,000
+is this your dignity?
+
+199
+00:08:59,000 --> 00:09:01,000
+Is it, I repeat,
+
+200
+00:09:01,000 --> 00:09:03,000
+is it still the dignity of the Ministry?
+
+201
+00:09:03,000 --> 00:09:05,000
+Will you
+
+202
+00:09:05,000 --> 00:09:07,000
+direct them through these things?
+
+203
+00:09:07,000 --> 00:09:09,000
+Is this a digital transformation?
+
+204
+00:09:09,000 --> 00:09:11,000
+I mean, this is about hygiene,
+
+205
+00:09:11,000 --> 00:09:13,000
+just hygiene, that you have
+
+206
+00:09:13,000 --> 00:09:15,000
+proper maintenance of certificates.
+
+207
+00:09:15,000 --> 00:09:17,000
+Before you were talking
+
+208
+00:09:17,000 --> 00:09:19,000
+about digital transformation, I added
+
+209
+00:09:19,000 --> 00:09:21,000
+a mindset, that it is necessary
+
+210
+00:09:21,000 --> 00:09:23,000
+to change the mindset, and just as
+
+211
+00:09:23,000 --> 00:09:25,000
+we have to make sure that our personal
+
+212
+00:09:25,000 --> 00:09:27,000
+certificate does not go wrong,
+
+213
+00:09:27,000 --> 00:09:29,000
+or that we properly provide
+
+214
+00:09:29,000 --> 00:09:31,000
+a driver's license, we also have to
+
+215
+00:09:31,000 --> 00:09:33,000
+properly provide a certificate.
+
+216
+00:09:33,000 --> 00:09:35,000
+What is our role here?
+
+217
+00:09:35,000 --> 00:09:37,000
+Our role is to inform
+
+218
+00:09:37,000 --> 00:09:39,000
+all these organizations,
+
+219
+00:09:39,000 --> 00:09:41,000
+to teach them,
+
+220
+00:09:41,000 --> 00:09:43,000
+that this is a part of basic hygiene.
+
+221
+00:09:43,000 --> 00:09:45,000
+It is not our fault that
+
+222
+00:09:45,000 --> 00:09:47,000
+the IPES certificate went wrong,
+
+223
+00:09:47,000 --> 00:09:49,000
+because
+
+224
+00:09:49,000 --> 00:09:51,000
+when we realized that this
+
+225
+00:09:51,000 --> 00:09:53,000
+problem had arisen, we could not
+
+226
+00:09:53,000 --> 00:09:55,000
+start calling IPES, our partners,
+
+227
+00:09:55,000 --> 00:09:57,000
+to do this job.
+
+228
+00:09:57,000 --> 00:09:59,000
+We saw that IPES was not the only one,
+
+229
+00:09:59,000 --> 00:10:01,000
+but at least some other organization.
+
+230
+00:10:01,000 --> 00:10:03,000
+What did we do on the basis of this?
+
+231
+00:10:03,000 --> 00:10:05,000
+We prepared a letter,
+
+232
+00:10:05,000 --> 00:10:07,000
+and we sent it to everyone,
+
+233
+00:10:07,000 --> 00:10:09,000
+and we will not conclude here.
+
+234
+00:10:09,000 --> 00:10:11,000
+We have a lot to do at our Ministry,
+
+235
+00:10:11,000 --> 00:10:13,000
+because we warn other organizations.
+
+236
+00:10:13,000 --> 00:10:15,000
+For example, another such
+
+237
+00:10:15,000 --> 00:10:17,000
+problem is the electronic signature.
+
+238
+00:10:17,000 --> 00:10:19,000
+Again, we sent a letter,
+
+239
+00:10:19,000 --> 00:10:21,000
+we organize meetings,
+
+240
+00:10:21,000 --> 00:10:23,000
+because the rest of our resource
+
+241
+00:10:23,000 --> 00:10:25,000
+is not only the Ministry, but also
+
+242
+00:10:25,000 --> 00:10:27,000
+agencies and everything that falls
+
+243
+00:10:27,000 --> 00:10:29,000
+from the internal sector.
+
+244
+00:10:29,000 --> 00:10:31,000
+We want to tell them that
+
+245
+00:10:31,000 --> 00:10:33,000
+the electronic signature
+
+246
+00:10:33,000 --> 00:10:35,000
+according to Slovenian and European
+
+247
+00:10:35,000 --> 00:10:37,000
+legislation is equally valuable
+
+248
+00:10:37,000 --> 00:10:39,000
+to the personal signature.
+
+249
+00:10:39,000 --> 00:10:41,000
+Our role as a Ministry is
+
+250
+00:10:41,000 --> 00:10:43,000
+to inform, to teach others,
+
+251
+00:10:43,000 --> 00:10:45,000
+and we all have to
+
+252
+00:10:45,000 --> 00:10:47,000
+enter the mindset of digital transformation.
+
+253
+00:10:47,000 --> 00:10:49,000
+And this is our role,
+
+254
+00:10:49,000 --> 00:10:51,000
+which we have and see.
+
+255
+00:10:53,000 --> 00:10:55,000
+Now we both come from
+
+256
+00:10:55,000 --> 00:10:57,000
+the industry,
+
+257
+00:10:57,000 --> 00:10:59,000
+and we are assigned to
+
+258
+00:10:59,000 --> 00:11:01,000
+VPM of Engineering,
+
+259
+00:11:01,000 --> 00:11:03,000
+CTO,
+
+260
+00:11:03,000 --> 00:11:05,000
+CEO,
+
+261
+00:11:05,000 --> 00:11:07,000
+and I am most curious about
+
+262
+00:11:07,000 --> 00:11:09,000
+how the Ministry is composed.
+
+263
+00:11:09,000 --> 00:11:11,000
+Is it for various departments,
+
+264
+00:11:11,000 --> 00:11:13,000
+directors, how does it all work?
+
+265
+00:11:13,000 --> 00:11:15,000
+I can tell you how we are organized,
+
+266
+00:11:15,000 --> 00:11:17,000
+if you are interested.
+
+267
+00:11:17,000 --> 00:11:19,000
+We have four directorates
+
+268
+00:11:19,000 --> 00:11:21,000
+within the Ministry.
+
+269
+00:11:21,000 --> 00:11:23,000
+This is the Directorate for Digital Society.
+
+270
+00:11:23,000 --> 00:11:25,000
+This is where the information society
+
+271
+00:11:25,000 --> 00:11:27,000
+is more involved, where competencies fall,
+
+272
+00:11:27,000 --> 00:11:29,000
+then new modern technologies,
+
+273
+00:11:29,000 --> 00:11:31,000
+Artificial Intelligence, block editing,
+
+274
+00:11:31,000 --> 00:11:33,000
+and so on.
+
+275
+00:11:33,000 --> 00:11:35,000
+Then we have the Directorate for Digital
+
+276
+00:11:35,000 --> 00:11:37,000
+and Financial Economy.
+
+277
+00:11:37,000 --> 00:11:39,000
+This is where you get to know
+
+278
+00:11:39,000 --> 00:11:41,000
+the E-governance,
+
+279
+00:11:41,000 --> 00:11:43,000
+then there is the electronic
+
+280
+00:11:43,000 --> 00:11:45,000
+personal certificate, certificates,
+
+281
+00:11:45,000 --> 00:11:47,000
+and the general portal
+
+282
+00:11:47,000 --> 00:11:49,000
+is on this directorate.
+
+283
+00:11:49,000 --> 00:11:51,000
+Then we have the Directorate for Infrastructure.
+
+284
+00:11:51,000 --> 00:11:53,000
+Here are the supervisors,
+
+285
+00:11:53,000 --> 00:11:55,000
+because we have the entire public administration,
+
+286
+00:11:55,000 --> 00:11:57,000
+the public sector, H-Com network
+
+287
+00:11:57,000 --> 00:11:59,000
+is in our Ministry,
+
+288
+00:11:59,000 --> 00:12:01,000
+and the Directorate for Supporting Users,
+
+289
+00:12:01,000 --> 00:12:03,000
+which is the ECC center,
+
+290
+00:12:03,000 --> 00:12:05,000
+we get a lot of compliments from users
+
+291
+00:12:05,000 --> 00:12:07,000
+that they are very satisfied.
+
+292
+00:12:07,000 --> 00:12:09,000
+In addition, we also have
+
+293
+00:12:09,000 --> 00:12:11,000
+the Service for International
+
+294
+00:12:11,000 --> 00:12:13,000
+and European Affairs,
+
+295
+00:12:13,000 --> 00:12:15,000
+we have our own Secretariat,
+
+296
+00:12:15,000 --> 00:12:17,000
+the Legal Service, and all the staff
+
+297
+00:12:17,000 --> 00:12:19,000
+that you know in the companies.
+
+298
+00:12:19,000 --> 00:12:21,000
+So that's how we are somehow organized.
+
+299
+00:12:21,000 --> 00:12:23,000
+The directorates have directors,
+
+300
+00:12:23,000 --> 00:12:25,000
+then there are sectors within
+
+301
+00:12:25,000 --> 00:12:27,000
+the individual directorate,
+
+302
+00:12:27,000 --> 00:12:29,000
+and that's it.
+
+303
+00:12:29,000 --> 00:12:31,000
+Too simple.
+
+304
+00:12:31,000 --> 00:12:33,000
+That's how you
+
+305
+00:12:33,000 --> 00:12:35,000
+logically know everything.
+
+306
+00:12:35,000 --> 00:12:37,000
+I just saw
+
+307
+00:12:37,000 --> 00:12:39,000
+that you also have
+
+308
+00:12:39,000 --> 00:12:41,000
+an organ in the Directorate of Inspection.
+
+309
+00:12:41,000 --> 00:12:43,000
+Exactly.
+
+310
+00:12:43,000 --> 00:12:45,000
+I wrote to you,
+
+311
+00:12:45,000 --> 00:12:47,000
+many of us
+
+312
+00:12:47,000 --> 00:12:49,000
+in the community
+
+313
+00:12:49,000 --> 00:12:51,000
+some time ago
+
+314
+00:12:51,000 --> 00:12:53,000
+received
+
+315
+00:12:53,000 --> 00:12:55,000
+an e-mail that
+
+316
+00:12:55,000 --> 00:12:57,000
+we need to go to...
+
+317
+00:12:57,000 --> 00:12:59,000
+To look for accessibility.
+
+318
+00:12:59,000 --> 00:13:01,000
+Accessibility.
+
+319
+00:13:01,000 --> 00:13:03,000
+And then we realized
+
+320
+00:13:03,000 --> 00:13:05,000
+that there is also an organ in the station.
+
+321
+00:13:05,000 --> 00:13:07,000
+I also saw that.
+
+322
+00:13:07,000 --> 00:13:09,000
+I just wanted to add that.
+
+323
+00:13:09,000 --> 00:13:11,000
+And it is very important
+
+324
+00:13:11,000 --> 00:13:13,000
+that we are proud of the organ.
+
+325
+00:13:13,000 --> 00:13:15,000
+I didn't want to forget it,
+
+326
+00:13:15,000 --> 00:13:17,000
+but because the inspectorate must be independent.
+
+327
+00:13:17,000 --> 00:13:19,000
+And they also warn us
+
+328
+00:13:19,000 --> 00:13:21,000
+when we make mistakes.
+
+329
+00:13:21,000 --> 00:13:23,000
+If someone does it in the directorate,
+
+330
+00:13:23,000 --> 00:13:25,000
+we also get a finger.
+
+331
+00:13:25,000 --> 00:13:27,000
+But if, for example,
+
+332
+00:13:27,000 --> 00:13:29,000
+we don't give an additional explanation,
+
+333
+00:13:29,000 --> 00:13:31,000
+the inspector calls us like that.
+
+334
+00:13:31,000 --> 00:13:33,000
+Why did this happen?
+
+335
+00:13:33,000 --> 00:13:35,000
+On the one hand,
+
+336
+00:13:35,000 --> 00:13:37,000
+there was a shared opinion in the public.
+
+337
+00:13:37,000 --> 00:13:39,000
+Some said, what do you need from us?
+
+338
+00:13:39,000 --> 00:13:41,000
+Do you owe us with this?
+
+339
+00:13:41,000 --> 00:13:43,000
+We only have an additional part.
+
+340
+00:13:43,000 --> 00:13:45,000
+On the other hand, we got a full compliment.
+
+341
+00:13:45,000 --> 00:13:47,000
+Someone finally went crazy.
+
+342
+00:13:47,000 --> 00:13:49,000
+Because the law exists.
+
+343
+00:13:49,000 --> 00:13:51,000
+But if the law exists and we don't enforce it,
+
+344
+00:13:51,000 --> 00:13:53,000
+we haven't done anything with it.
+
+345
+00:13:53,000 --> 00:13:55,000
+And I am sure that we have
+
+346
+00:13:55,000 --> 00:13:57,000
+to thank the main inspector.
+
+347
+00:13:57,000 --> 00:13:59,000
+Because our intention was not
+
+348
+00:13:59,000 --> 00:14:01,000
+to go to prison.
+
+349
+00:14:01,000 --> 00:14:03,000
+Our intention was to warn,
+
+350
+00:14:03,000 --> 00:14:05,000
+to see what is going on.
+
+351
+00:14:05,000 --> 00:14:07,000
+To talk to everyone,
+
+352
+00:14:07,000 --> 00:14:09,000
+to explain.
+
+353
+00:14:09,000 --> 00:14:11,000
+And people also understand it.
+
+354
+00:14:11,000 --> 00:14:13,000
+Again, it's about informing.
+
+355
+00:14:13,000 --> 00:14:15,000
+To know that we have to
+
+356
+00:14:15,000 --> 00:14:17,000
+pay attention to public access.
+
+357
+00:14:17,000 --> 00:14:19,000
+Because we always say that we want to be in the spotlight.
+
+358
+00:14:19,000 --> 00:14:21,000
+In the last episode,
+
+359
+00:14:21,000 --> 00:14:23,000
+it was with the
+
+360
+00:14:23,000 --> 00:14:25,000
+private expert from Australia.
+
+361
+00:14:25,000 --> 00:14:27,000
+A hacker who helps people
+
+362
+00:14:27,000 --> 00:14:29,000
+become more
+
+363
+00:14:29,000 --> 00:14:31,000
+safe in the organization.
+
+364
+00:14:31,000 --> 00:14:33,000
+To protect them in some way.
+
+365
+00:14:33,000 --> 00:14:35,000
+We asked him
+
+366
+00:14:35,000 --> 00:14:37,000
+a question like
+
+367
+00:14:37,000 --> 00:14:39,000
+how do you get
+
+368
+00:14:39,000 --> 00:14:41,000
+in the organization this knowledge
+
+369
+00:14:41,000 --> 00:14:43,000
+that something is important
+
+370
+00:14:43,000 --> 00:14:45,000
+and that companies strategically decide
+
+371
+00:14:45,000 --> 00:14:47,000
+to change certain things.
+
+372
+00:14:47,000 --> 00:14:49,000
+And I said
+
+373
+00:14:49,000 --> 00:14:51,000
+very simply.
+
+374
+00:14:51,000 --> 00:14:53,000
+If there are no
+
+375
+00:14:53,000 --> 00:14:55,000
+legal requirements
+
+376
+00:14:55,000 --> 00:14:57,000
+that companies
+
+377
+00:14:57,000 --> 00:14:59,000
+have to meet,
+
+378
+00:14:59,000 --> 00:15:01,000
+certain strategies
+
+379
+00:15:01,000 --> 00:15:03,000
+are not paid
+
+380
+00:15:03,000 --> 00:15:05,000
+to invest in it.
+
+381
+00:15:05,000 --> 00:15:07,000
+We both know
+
+382
+00:15:07,000 --> 00:15:09,000
+that security
+
+383
+00:15:09,000 --> 00:15:11,000
+is in the last place.
+
+384
+00:15:11,000 --> 00:15:13,000
+Accessibility does not come
+
+385
+00:15:13,000 --> 00:15:15,000
+when we develop
+
+386
+00:15:15,000 --> 00:15:17,000
+some commercial solutions.
+
+387
+00:15:17,000 --> 00:15:19,000
+Unless those solutions are intended
+
+388
+00:15:19,000 --> 00:15:21,000
+for some groups
+
+389
+00:15:21,000 --> 00:15:23,000
+where it is very important.
+
+390
+00:15:23,000 --> 00:15:25,000
+It is understandable that
+
+391
+00:15:25,000 --> 00:15:27,000
+we take care and the contrast
+
+392
+00:15:27,000 --> 00:15:29,000
+of the text on the back
+
+393
+00:15:29,000 --> 00:15:31,000
+or all other things is not important.
+
+394
+00:15:31,000 --> 00:15:33,000
+But all these standards have existed
+
+395
+00:15:33,000 --> 00:15:35,000
+for a long time.
+
+396
+00:15:35,000 --> 00:15:37,000
+I am not among the youngest,
+
+397
+00:15:37,000 --> 00:15:39,000
+but I graduated
+
+398
+00:15:39,000 --> 00:15:41,000
+from this field.
+
+399
+00:15:41,000 --> 00:15:43,000
+We have been talking about it for many years.
+
+400
+00:15:43,000 --> 00:15:45,000
+We just don't always
+
+401
+00:15:45,000 --> 00:15:47,000
+think about creating new
+
+402
+00:15:47,000 --> 00:15:49,000
+websites or new mobile applications.
+
+403
+00:15:49,000 --> 00:15:51,000
+We are people
+
+404
+00:15:51,000 --> 00:15:53,000
+who see worse
+
+405
+00:15:53,000 --> 00:15:55,000
+and we need to be careful.
+
+406
+00:15:55,000 --> 00:15:57,000
+When we publish on social networks
+
+407
+00:15:57,000 --> 00:15:59,000
+for someone
+
+408
+00:15:59,000 --> 00:16:01,000
+they don't see the personality
+
+409
+00:16:01,000 --> 00:16:03,000
+that we want
+
+410
+00:16:03,000 --> 00:16:05,000
+to share
+
+411
+00:16:05,000 --> 00:16:07,000
+or to come to them.
+
+412
+00:16:07,000 --> 00:16:09,000
+From this point of view,
+
+413
+00:16:09,000 --> 00:16:11,000
+exactly through the inspectorate,
+
+414
+00:16:11,000 --> 00:16:13,000
+through the laws,
+
+415
+00:16:13,000 --> 00:16:15,000
+we can get them to use
+
+416
+00:16:15,000 --> 00:16:17,000
+in practice.
+
+417
+00:16:17,000 --> 00:16:19,000
+Now we are being listened to
+
+418
+00:16:19,000 --> 00:16:21,000
+by engineers and engineers of the future.
+
+419
+00:16:23,000 --> 00:16:25,000
+Future engineers and engineers
+
+420
+00:16:25,000 --> 00:16:27,000
+and all the people
+
+421
+00:16:27,000 --> 00:16:29,000
+who are interested in these things.
+
+422
+00:16:29,000 --> 00:16:31,000
+I believe that
+
+423
+00:16:31,000 --> 00:16:33,000
+it is good to have an overflow
+
+424
+00:16:33,000 --> 00:16:35,000
+of knowledge and information
+
+425
+00:16:35,000 --> 00:16:37,000
+on a higher level,
+
+426
+00:16:37,000 --> 00:16:39,000
+so that you can look for this connection.
+
+427
+00:16:39,000 --> 00:16:41,000
+I am interested in what you expect
+
+428
+00:16:41,000 --> 00:16:43,000
+from engineers and engineers
+
+429
+00:16:43,000 --> 00:16:45,000
+to our audience.
+
+430
+00:16:45,000 --> 00:16:47,000
+What I would like
+
+431
+00:16:47,000 --> 00:16:49,000
+is
+
+432
+00:16:49,000 --> 00:16:51,000
+even if it is a constructive
+
+433
+00:16:51,000 --> 00:16:53,000
+criticism,
+
+434
+00:16:53,000 --> 00:16:55,000
+even if it is a warning
+
+435
+00:16:55,000 --> 00:16:57,000
+that we have overlooked something
+
+436
+00:16:57,000 --> 00:16:59,000
+or that we are working on something.
+
+437
+00:16:59,000 --> 00:17:01,000
+What is happening today,
+
+438
+00:17:01,000 --> 00:17:03,000
+I don't want to generalize,
+
+439
+00:17:03,000 --> 00:17:05,000
+we get a lot of
+
+440
+00:17:05,000 --> 00:17:07,000
+foreign engineers and engineers
+
+441
+00:17:07,000 --> 00:17:09,000
+of non-governmental organizations
+
+442
+00:17:09,000 --> 00:17:11,000
+who have proposals
+
+443
+00:17:11,000 --> 00:17:13,000
+to do something.
+
+444
+00:17:13,000 --> 00:17:15,000
+One thing is impossible
+
+445
+00:17:15,000 --> 00:17:17,000
+due to various reasons.
+
+446
+00:17:17,000 --> 00:17:19,000
+One thing is impossible
+
+447
+00:17:19,000 --> 00:17:21,000
+right now,
+
+448
+00:17:21,000 --> 00:17:23,000
+but we will start thinking about it.
+
+449
+00:17:23,000 --> 00:17:25,000
+The worst thing is
+
+450
+00:17:25,000 --> 00:17:27,000
+that we don't know
+
+451
+00:17:27,000 --> 00:17:29,000
+why we need the Ministry of Digital Transformation.
+
+452
+00:17:29,000 --> 00:17:31,000
+It was useful for us.
+
+453
+00:17:31,000 --> 00:17:33,000
+On the other hand,
+
+454
+00:17:33,000 --> 00:17:35,000
+I have to praise
+
+455
+00:17:35,000 --> 00:17:37,000
+the investigators in this example.
+
+456
+00:17:37,000 --> 00:17:39,000
+When something happened,
+
+457
+00:17:39,000 --> 00:17:41,000
+they sent us a message
+
+458
+00:17:41,000 --> 00:17:43,000
+to check what can be done
+
+459
+00:17:43,000 --> 00:17:45,000
+in this area.
+
+460
+00:17:45,000 --> 00:17:47,000
+It helped us.
+
+461
+00:17:47,000 --> 00:17:49,000
+We checked what we could do.
+
+462
+00:17:49,000 --> 00:17:51,000
+Not only investigators,
+
+463
+00:17:51,000 --> 00:17:53,000
+but also government organizations
+
+464
+00:17:53,000 --> 00:17:55,000
+and other organizations.
+
+465
+00:17:55,000 --> 00:17:57,000
+They were very welcome
+
+466
+00:17:57,000 --> 00:17:59,000
+with their proposals.
+
+467
+00:17:59,000 --> 00:18:01,000
+We absolutely accept criticism,
+
+468
+00:18:01,000 --> 00:18:03,000
+but we have to be constructive.
+
+469
+00:18:03,000 --> 00:18:05,000
+Now,
+
+470
+00:18:05,000 --> 00:18:07,000
+before we started
+
+471
+00:18:07,000 --> 00:18:09,000
+preparing for this episode,
+
+472
+00:18:09,000 --> 00:18:11,000
+the Minister of Digital Transformation
+
+473
+00:18:11,000 --> 00:18:13,000
+explained to us
+
+474
+00:18:13,000 --> 00:18:15,000
+that we have
+
+475
+00:18:15,000 --> 00:18:17,000
+some public services,
+
+476
+00:18:17,000 --> 00:18:19,000
+which will be digitized.
+
+477
+00:18:19,000 --> 00:18:21,000
+On the other hand,
+
+478
+00:18:21,000 --> 00:18:23,000
+we started thinking
+
+479
+00:18:23,000 --> 00:18:25,000
+and the investigators also asked
+
+480
+00:18:25,000 --> 00:18:27,000
+what engineers can expect
+
+481
+00:18:27,000 --> 00:18:29,000
+from this ministry.
+
+482
+00:18:29,000 --> 00:18:31,000
+One of the things
+
+483
+00:18:31,000 --> 00:18:33,000
+is the digitization
+
+484
+00:18:33,000 --> 00:18:35,000
+of the economy.
+
+485
+00:18:35,000 --> 00:18:37,000
+What are the things
+
+486
+00:18:37,000 --> 00:18:39,000
+that can be expected
+
+487
+00:18:39,000 --> 00:18:41,000
+from our employees
+
+488
+00:18:41,000 --> 00:18:43,000
+or from the Ministry?
+
+489
+00:18:43,000 --> 00:18:45,000
+Engineers are probably
+
+490
+00:18:45,000 --> 00:18:47,000
+also entrepreneurs.
+
+491
+00:18:47,000 --> 00:18:49,000
+What we are doing
+
+492
+00:18:49,000 --> 00:18:51,000
+is that we want
+
+493
+00:18:51,000 --> 00:18:53,000
+all the public services
+
+494
+00:18:53,000 --> 00:18:55,000
+to be digitally free.
+
+495
+00:18:55,000 --> 00:18:57,000
+You don't have to
+
+496
+00:18:57,000 --> 00:18:59,000
+go to different offices,
+
+497
+00:18:59,000 --> 00:19:01,000
+but you can do
+
+498
+00:19:01,000 --> 00:19:03,000
+whatever you want.
+
+499
+00:19:03,000 --> 00:19:05,000
+A lot of this is already free.
+
+500
+00:19:05,000 --> 00:19:07,000
+According to the strategy
+
+501
+00:19:07,000 --> 00:19:09,000
+of digital public services,
+
+502
+00:19:09,000 --> 00:19:11,000
+we want all the key services
+
+503
+00:19:11,000 --> 00:19:13,000
+connected to the enterprise
+
+504
+00:19:13,000 --> 00:19:15,000
+to be digitally free,
+
+505
+00:19:15,000 --> 00:19:17,000
+and our teams are working
+
+506
+00:19:17,000 --> 00:19:19,000
+in this area.
+
+507
+00:19:19,000 --> 00:19:21,000
+All the engineers
+
+508
+00:19:21,000 --> 00:19:23,000
+who develop digital solutions
+
+509
+00:19:23,000 --> 00:19:25,000
+probably want their employees
+
+510
+00:19:25,000 --> 00:19:27,000
+to know how to use them.
+
+511
+00:19:27,000 --> 00:19:29,000
+Our wish
+
+512
+00:19:29,000 --> 00:19:31,000
+is not only to use
+
+513
+00:19:31,000 --> 00:19:33,000
+digital services
+
+514
+00:19:33,000 --> 00:19:35,000
+in the public sector,
+
+515
+00:19:35,000 --> 00:19:37,000
+but also in the private sector.
+
+516
+00:19:37,000 --> 00:19:39,000
+This is not just a wish,
+
+517
+00:19:39,000 --> 00:19:41,000
+but a reality.
+
+518
+00:19:41,000 --> 00:19:43,000
+A lot of these services
+
+519
+00:19:43,000 --> 00:19:45,000
+are already being used
+
+520
+00:19:45,000 --> 00:19:47,000
+in the private sector,
+
+521
+00:19:47,000 --> 00:19:49,000
+for authentication,
+
+522
+00:19:49,000 --> 00:19:51,000
+for security authentication.
+
+523
+00:19:51,000 --> 00:19:53,000
+You don't have to develop
+
+524
+00:19:53,000 --> 00:19:55,000
+your own solutions,
+
+525
+00:19:55,000 --> 00:19:57,000
+but the state already offers them.
+
+526
+00:19:57,000 --> 00:19:59,000
+So maybe not everything
+
+527
+00:19:59,000 --> 00:20:01,000
+is direct,
+
+528
+00:20:01,000 --> 00:20:03,000
+but it can also be indirect.
+
+529
+00:20:03,000 --> 00:20:05,000
+For example, in five years,
+
+530
+00:20:05,000 --> 00:20:07,000
+if I want to go to the gym,
+
+531
+00:20:07,000 --> 00:20:09,000
+I won't need a gym and gymnasium,
+
+532
+00:20:09,000 --> 00:20:11,000
+I will have my own digital gymnasium.
+
+533
+00:20:11,000 --> 00:20:13,000
+I hope it will be like in five years.
+
+534
+00:20:15,000 --> 00:20:17,000
+I wanted to ask you
+
+535
+00:20:17,000 --> 00:20:19,000
+when you said
+
+536
+00:20:19,000 --> 00:20:21,000
+that you want more connectivity
+
+537
+00:20:21,000 --> 00:20:23,000
+with the employees,
+
+538
+00:20:23,000 --> 00:20:25,000
+even though I took the strategy
+
+539
+00:20:25,000 --> 00:20:27,000
+a bit to the right and a bit to the left,
+
+540
+00:20:27,000 --> 00:20:29,000
+a lot of these systems
+
+541
+00:20:29,000 --> 00:20:31,000
+are siloed information.
+
+542
+00:20:31,000 --> 00:20:33,000
+If you want one thing,
+
+543
+00:20:33,000 --> 00:20:35,000
+you have one evidence,
+
+544
+00:20:35,000 --> 00:20:37,000
+then you have a book,
+
+545
+00:20:37,000 --> 00:20:39,000
+then you have a system.
+
+546
+00:20:39,000 --> 00:20:41,000
+These things are distributed.
+
+547
+00:20:41,000 --> 00:20:43,000
+I am interested in what you do
+
+548
+00:20:43,000 --> 00:20:45,000
+in the real estate in this area.
+
+549
+00:20:45,000 --> 00:20:47,000
+How will you prepare
+
+550
+00:20:47,000 --> 00:20:49,000
+Interpobility in this context?
+
+551
+00:20:49,000 --> 00:20:51,000
+You said it today,
+
+552
+00:20:51,000 --> 00:20:53,000
+you posted a picture on Twitter
+
+553
+00:20:53,000 --> 00:20:55,000
+to choose our digital strategy,
+
+554
+00:20:55,000 --> 00:20:57,000
+which is great.
+
+555
+00:20:57,000 --> 00:20:59,000
+Otherwise, the digital strategy has 40 pages.
+
+556
+00:20:59,000 --> 00:21:01,000
+There are 66 pages because of the attachment.
+
+557
+00:21:01,000 --> 00:21:03,000
+I wanted a very short
+
+558
+00:21:03,000 --> 00:21:05,000
+and very specific document.
+
+559
+00:21:05,000 --> 00:21:07,000
+And there you probably also prepared
+
+560
+00:21:07,000 --> 00:21:09,000
+that we will have
+
+561
+00:21:09,000 --> 00:21:11,000
+ministers as a strategic witness,
+
+562
+00:21:11,000 --> 00:21:13,000
+in addition to representatives
+
+563
+00:21:13,000 --> 00:21:15,000
+of businesses,
+
+564
+00:21:15,000 --> 00:21:17,000
+non-governmental organizations,
+
+565
+00:21:17,000 --> 00:21:19,000
+talk organizations and so on.
+
+566
+00:21:19,000 --> 00:21:21,000
+And that means
+
+567
+00:21:21,000 --> 00:21:23,000
+that they will support
+
+568
+00:21:23,000 --> 00:21:25,000
+projects for digital transformation.
+
+569
+00:21:25,000 --> 00:21:27,000
+And if they sit at the same table,
+
+570
+00:21:27,000 --> 00:21:29,000
+then they know what is happening.
+
+571
+00:21:29,000 --> 00:21:31,000
+Here we are talking strategically.
+
+572
+00:21:31,000 --> 00:21:33,000
+On the other hand, we also have
+
+573
+00:21:33,000 --> 00:21:35,000
+an operational group, these are directors
+
+574
+00:21:35,000 --> 00:21:37,000
+of various ministries,
+
+575
+00:21:37,000 --> 00:21:39,000
+and when they develop solutions,
+
+576
+00:21:39,000 --> 00:21:41,000
+they talk to each other.
+
+577
+00:21:41,000 --> 00:21:43,000
+For example, last week,
+
+578
+00:21:43,000 --> 00:21:45,000
+we met with colleagues from the Ministry
+
+579
+00:21:45,000 --> 00:21:47,000
+for Internal Affairs and the Ministry
+
+580
+00:21:47,000 --> 00:21:49,000
+for Infrastructure on the topic
+
+581
+00:21:49,000 --> 00:21:51,000
+of mobile train stations.
+
+582
+00:21:51,000 --> 00:21:53,000
+And in this way,
+
+583
+00:21:53,000 --> 00:21:55,000
+they come to this transition,
+
+584
+00:21:55,000 --> 00:21:57,000
+because for the longest time,
+
+585
+00:21:57,000 --> 00:21:59,000
+they did not know who
+
+586
+00:21:59,000 --> 00:22:01,000
+what will start, what is developing.
+
+587
+00:22:01,000 --> 00:22:03,000
+And here, for example, we have a great experience
+
+588
+00:22:03,000 --> 00:22:05,000
+with the Ministry of Health,
+
+589
+00:22:05,000 --> 00:22:07,000
+now you probably noticed
+
+590
+00:22:07,000 --> 00:22:09,000
+that it is renewed,
+
+591
+00:22:09,000 --> 00:22:11,000
+and here with our colleagues
+
+592
+00:22:11,000 --> 00:22:13,000
+who are participating,
+
+593
+00:22:13,000 --> 00:22:15,000
+in this way, then
+
+594
+00:22:15,000 --> 00:22:17,000
+we have a lot of energy,
+
+595
+00:22:17,000 --> 00:22:19,000
+which we have again demonstrated
+
+596
+00:22:19,000 --> 00:22:21,000
+how important it is in our strategy
+
+597
+00:22:21,000 --> 00:22:23,000
+Digital Slovenia.
+
+598
+00:22:23,000 --> 00:22:25,000
+This is my favorite topic, notes.
+
+599
+00:22:25,000 --> 00:22:27,000
+Because you are the only one
+
+600
+00:22:27,000 --> 00:22:29,000
+without a note, maybe you too.
+
+601
+00:22:29,000 --> 00:22:31,000
+But let's go to the next question,
+
+602
+00:22:31,000 --> 00:22:33,000
+somehow related to the strategy
+
+603
+00:22:33,000 --> 00:22:35,000
+Digital Slovenia 2030.
+
+604
+00:22:35,000 --> 00:22:37,000
+Now I can ask
+
+605
+00:22:37,000 --> 00:22:39,000
+some questions,
+
+606
+00:22:39,000 --> 00:22:41,000
+you can introduce them to us,
+
+607
+00:22:41,000 --> 00:22:43,000
+you probably already know,
+
+608
+00:22:43,000 --> 00:22:45,000
+As I said,
+
+609
+00:22:45,000 --> 00:22:47,000
+it was extremely important for us
+
+610
+00:22:47,000 --> 00:22:49,000
+that this strategy is short
+
+611
+00:22:49,000 --> 00:22:51,000
+and clear document,
+
+612
+00:22:51,000 --> 00:22:53,000
+and that we do not go to some blablabla
+
+613
+00:22:53,000 --> 00:22:55,000
+talk, but to know exactly
+
+614
+00:22:55,000 --> 00:22:57,000
+what are the priorities,
+
+615
+00:22:57,000 --> 00:22:59,000
+what goals do we have,
+
+616
+00:22:59,000 --> 00:23:01,000
+and from this strategy then follows
+
+617
+00:23:01,000 --> 00:23:03,000
+the action plan, which is already being prepared,
+
+618
+00:23:03,000 --> 00:23:05,000
+and in the action plan we will precisely say
+
+619
+00:23:05,000 --> 00:23:07,000
+financial resources,
+
+620
+00:23:07,000 --> 00:23:09,000
+and who is responsible for what.
+
+621
+00:23:09,000 --> 00:23:11,000
+So here we only have a strategy,
+
+622
+00:23:11,000 --> 00:23:13,000
+and from this to determine responsibilities,
+
+623
+00:23:13,000 --> 00:23:15,000
+then we did not anticipate
+
+624
+00:23:15,000 --> 00:23:17,000
+how far we would go.
+
+625
+00:23:17,000 --> 00:23:19,000
+Some compliments,
+
+626
+00:23:19,000 --> 00:23:21,000
+I as a member of non-governmental
+
+627
+00:23:21,000 --> 00:23:23,000
+organizations, of course, choose a lot of strategies,
+
+628
+00:23:23,000 --> 00:23:25,000
+and one compliment
+
+629
+00:23:25,000 --> 00:23:27,000
+that is,
+
+630
+00:23:27,000 --> 00:23:29,000
+in this strategy,
+
+631
+00:23:29,000 --> 00:23:31,000
+I like the main
+
+632
+00:23:31,000 --> 00:23:33,000
+summaries,
+
+633
+00:23:33,000 --> 00:23:35,000
+the current situation,
+
+634
+00:23:35,000 --> 00:23:37,000
+then some milestone
+
+635
+00:23:37,000 --> 00:23:39,000
+2025,
+
+636
+00:23:39,000 --> 00:23:41,000
+then 2030,
+
+637
+00:23:41,000 --> 00:23:43,000
+and as we say at home,
+
+638
+00:23:43,000 --> 00:23:45,000
+we are from the company Tenso,
+
+639
+00:23:45,000 --> 00:23:47,000
+some KPI, which can be easily
+
+640
+00:23:47,000 --> 00:23:49,000
+validated and see
+
+641
+00:23:49,000 --> 00:23:51,000
+how we progress in this strategy.
+
+642
+00:23:51,000 --> 00:23:53,000
+I would always like,
+
+643
+00:23:53,000 --> 00:23:55,000
+we have already discussed this,
+
+644
+00:23:55,000 --> 00:23:57,000
+but I would always like to know
+
+645
+00:23:57,000 --> 00:23:59,000
+for our audience,
+
+646
+00:23:59,000 --> 00:24:01,000
+what are the main areas
+
+647
+00:24:01,000 --> 00:24:03,000
+that are now the most important
+
+648
+00:24:03,000 --> 00:24:05,000
+until 2030?
+
+649
+00:24:05,000 --> 00:24:07,000
+KPI, because I am also an engineer,
+
+650
+00:24:07,000 --> 00:24:09,000
+and therefore it is also
+
+651
+00:24:09,000 --> 00:24:11,000
+very important for me to measure
+
+652
+00:24:11,000 --> 00:24:13,000
+whether we have achieved something successful or not.
+
+653
+00:24:13,000 --> 00:24:15,000
+So the key to digital transformation
+
+654
+00:24:15,000 --> 00:24:17,000
+starts with infrastructure.
+
+655
+00:24:17,000 --> 00:24:19,000
+Gigabit infrastructure,
+
+656
+00:24:19,000 --> 00:24:21,000
+both fixed and mobile networks.
+
+657
+00:24:21,000 --> 00:24:23,000
+We want up to 20-30
+
+658
+00:24:23,000 --> 00:24:25,000
+gigabit infrastructure for all
+
+659
+00:24:25,000 --> 00:24:27,000
+businesses in the country, regardless of geographical location.
+
+660
+00:24:27,000 --> 00:24:29,000
+Mobile internet
+
+661
+00:24:29,000 --> 00:24:31,000
+equally, 5G,
+
+662
+00:24:31,000 --> 00:24:33,000
+so that we have everything covered,
+
+663
+00:24:33,000 --> 00:24:35,000
+all the places, all the support,
+
+664
+00:24:35,000 --> 00:24:37,000
+all the roads.
+
+665
+00:24:37,000 --> 00:24:39,000
+Why roads? Because of autonomous driving.
+
+666
+00:24:39,000 --> 00:24:41,000
+Then the next category
+
+667
+00:24:41,000 --> 00:24:43,000
+is digital inclusion,
+
+668
+00:24:43,000 --> 00:24:45,000
+and here with digital inclusion
+
+669
+00:24:45,000 --> 00:24:47,000
+we are not only talking about digital competencies,
+
+670
+00:24:47,000 --> 00:24:49,000
+but we are also talking about
+
+671
+00:24:49,000 --> 00:24:51,000
+that everyone can
+
+672
+00:24:51,000 --> 00:24:53,000
+transport that gigabit
+
+673
+00:24:53,000 --> 00:24:55,000
+infrastructure, even
+
+674
+00:24:55,000 --> 00:24:57,000
+economically.
+
+675
+00:24:57,000 --> 00:24:59,000
+Then they also need equipment
+
+676
+00:24:59,000 --> 00:25:01,000
+to be able to use those tables.
+
+677
+00:25:00,000 --> 00:25:05,000
+and not last but not least, digital knowledge and competences,
+
+678
+00:25:05,000 --> 00:25:10,000
+to enable all 80% of residents to have all basic competences,
+
+679
+00:25:10,000 --> 00:25:14,000
+to be able to use various devices that we have at our disposal,
+
+680
+00:25:14,000 --> 00:25:17,000
+both from the public sector and from the private sector.
+
+681
+00:25:17,000 --> 00:25:21,000
+The next category is digital transformation of the economy.
+
+682
+00:25:21,000 --> 00:25:24,000
+The strategy of digital transformation of the economy
+
+683
+00:25:24,000 --> 00:25:27,000
+was made at the Ministry of Economy before,
+
+684
+00:25:27,000 --> 00:25:30,000
+and given that it is a crown strategy,
+
+685
+00:25:30,000 --> 00:25:32,000
+here we include the main KPIs,
+
+686
+00:25:32,000 --> 00:25:34,000
+it is important for us that, for example,
+
+687
+00:25:34,000 --> 00:25:37,000
+most companies use cloud storage,
+
+688
+00:25:37,000 --> 00:25:40,000
+that they use one of these new technologies,
+
+689
+00:25:40,000 --> 00:25:44,000
+and we are aware that we cannot do everything,
+
+690
+00:25:44,000 --> 00:25:47,000
+but that at least some of these new technologies.
+
+691
+00:25:47,000 --> 00:25:50,000
+The next thing we have is a smart society,
+
+692
+00:25:50,000 --> 00:25:52,000
+5.0, tax economy,
+
+693
+00:25:52,000 --> 00:25:54,000
+which means a lot to us here,
+
+694
+00:25:54,000 --> 00:25:56,000
+which means open data,
+
+695
+00:25:56,000 --> 00:25:58,000
+re-use of data,
+
+696
+00:25:58,000 --> 00:26:01,000
+also foreign companies for various innovations,
+
+697
+00:26:01,000 --> 00:26:05,000
+and of course we cannot do without information security.
+
+698
+00:26:05,000 --> 00:26:08,000
+Information security is part of the strategy
+
+699
+00:26:08,000 --> 00:26:10,000
+that was prepared at the URSS,
+
+700
+00:26:10,000 --> 00:26:13,000
+that is the Council of the Republic of Slovenia for Information Security,
+
+701
+00:26:13,000 --> 00:26:15,000
+but here, in the crown strategy,
+
+702
+00:26:15,000 --> 00:26:19,000
+we take these key gifts.
+
+703
+00:26:19,000 --> 00:26:22,000
+I don't know where this fits in,
+
+704
+00:26:22,000 --> 00:26:25,000
+but you talked about the tax...
+
+705
+00:26:25,000 --> 00:26:28,000
+I don't know, growth of the tax...
+
+706
+00:26:28,000 --> 00:26:30,000
+And the economy.
+
+707
+00:26:30,000 --> 00:26:32,000
+And the economy.
+
+708
+00:26:32,000 --> 00:26:34,000
+The OPSI portal,
+
+709
+00:26:34,000 --> 00:26:37,000
+I think it also fits under your wings.
+
+710
+00:26:37,000 --> 00:26:41,000
+From this we saw a bunch of interesting projects,
+
+711
+00:26:41,000 --> 00:26:45,000
+and opportunities,
+
+712
+00:26:45,000 --> 00:26:48,000
+and it is a very nice project.
+
+713
+00:26:49,000 --> 00:26:53,000
+I wonder how you will continue with open data,
+
+714
+00:26:53,000 --> 00:26:57,000
+is it a European direction,
+
+715
+00:26:57,000 --> 00:27:01,000
+does Europe want us to have data at will,
+
+716
+00:27:01,000 --> 00:27:04,000
+or is it a Slovenian unit?
+
+717
+00:27:04,000 --> 00:27:07,000
+No, we don't have to take credit for it.
+
+718
+00:27:07,000 --> 00:27:09,000
+I will go back a bit,
+
+719
+00:27:09,000 --> 00:27:12,000
+and I will ask you this way.
+
+720
+00:27:12,000 --> 00:27:15,000
+Probably some European strategy
+
+721
+00:27:15,000 --> 00:27:18,000
+will have an impact on how you designed the strategy
+
+722
+00:27:18,000 --> 00:27:20,000
+Digital Slovenia 2030,
+
+723
+00:27:20,000 --> 00:27:23,000
+and probably Europe will also give some funds
+
+724
+00:27:23,000 --> 00:27:26,000
+through this strategy in this project, right?
+
+725
+00:27:26,000 --> 00:27:30,000
+It is about the European Digital Decade program.
+
+726
+00:27:30,000 --> 00:27:32,000
+And there are sources,
+
+727
+00:27:32,000 --> 00:27:35,000
+which are knowledge and competence,
+
+728
+00:27:35,000 --> 00:27:37,000
+economy, infrastructure,
+
+729
+00:27:37,000 --> 00:27:39,000
+digital public services,
+
+730
+00:27:39,000 --> 00:27:42,000
+I forgot to mention one of the categories,
+
+731
+00:27:42,000 --> 00:27:45,000
+and in our strategy we also looked at
+
+732
+00:27:45,000 --> 00:27:48,000
+the characteristics we have in our country,
+
+733
+00:27:48,000 --> 00:27:51,000
+we added horizontal principles,
+
+734
+00:27:51,000 --> 00:27:54,000
+which are extremely important for us,
+
+735
+00:27:54,000 --> 00:27:56,000
+open, inclusive, free internet,
+
+736
+00:27:56,000 --> 00:27:58,000
+democratic society,
+
+737
+00:27:58,000 --> 00:28:00,000
+open code solutions,
+
+738
+00:28:00,000 --> 00:28:02,000
+and so on,
+
+739
+00:28:02,000 --> 00:28:05,000
+and also, which is extremely important,
+
+740
+00:28:05,000 --> 00:28:07,000
+digital and green transformation.
+
+741
+00:28:07,000 --> 00:28:10,000
+So we draw from European documents and strategies,
+
+742
+00:28:10,000 --> 00:28:13,000
+and we apply them to the environment we have at home.
+
+743
+00:28:13,000 --> 00:28:16,000
+Why do we draw from European documents?
+
+744
+00:28:16,000 --> 00:28:19,000
+Because we want to go to the interstate.
+
+745
+00:28:19,000 --> 00:28:22,000
+Our digital declaration was already used
+
+746
+00:28:22,000 --> 00:28:24,000
+abroad in Europe,
+
+747
+00:28:24,000 --> 00:28:26,000
+it is accessible,
+
+748
+00:28:26,000 --> 00:28:28,000
+and even this year,
+
+749
+00:28:28,000 --> 00:28:31,000
+you will be able to use it in one of your neighboring countries,
+
+750
+00:28:31,000 --> 00:28:34,000
+I don't know, you will go to the sea in Croatia,
+
+751
+00:28:34,000 --> 00:28:36,000
+and you will, for example,
+
+752
+00:28:36,000 --> 00:28:39,000
+get an e-mail at the hospital
+
+753
+00:28:39,000 --> 00:28:42,000
+in the Croatian Museum of Health.
+
+754
+00:28:42,000 --> 00:28:45,000
+So we don't have to be alone here,
+
+755
+00:28:45,000 --> 00:28:48,000
+but we also have to look at
+
+756
+00:28:48,000 --> 00:28:51,000
+what is happening in Europe.
+
+757
+00:28:51,000 --> 00:28:54,000
+Now, as far as funds are concerned,
+
+758
+00:28:54,000 --> 00:28:57,000
+of course, just this week,
+
+759
+00:28:57,000 --> 00:29:00,000
+the European Commission also announced a new program,
+
+760
+00:29:00,000 --> 00:29:02,000
+the Digital Europe program,
+
+761
+00:29:02,000 --> 00:29:04,000
+which is a huge amount of money,
+
+762
+00:29:04,000 --> 00:29:07,000
+and one of the problems we are facing in Slovenia
+
+763
+00:29:07,000 --> 00:29:09,000
+is that Slovenian companies
+
+764
+00:29:09,000 --> 00:29:11,000
+use their opportunities too little,
+
+765
+00:29:11,000 --> 00:29:13,000
+they don't apply for contracts.
+
+766
+00:29:13,000 --> 00:29:16,000
+Today, in Maribor, we have, for example,
+
+767
+00:29:16,000 --> 00:29:18,000
+I don't know if I can say this,
+
+768
+00:29:18,000 --> 00:29:21,000
+Tico Pro, which supports companies
+
+769
+00:29:21,000 --> 00:29:23,000
+when applying for contracts,
+
+770
+00:29:23,000 --> 00:29:25,000
+but they are not the only ones,
+
+771
+00:29:25,000 --> 00:29:27,000
+there are others too,
+
+772
+00:29:27,000 --> 00:29:30,000
+and the company simply does not make the effort
+
+773
+00:29:30,000 --> 00:29:33,000
+to apply for a contract and receive funds,
+
+774
+00:29:33,000 --> 00:29:36,000
+sometimes they bring the funds we have at home,
+
+775
+00:29:36,000 --> 00:29:38,000
+sometimes we have them ready,
+
+776
+00:29:38,000 --> 00:29:40,000
+sometimes we have them in the form of a cohesion,
+
+777
+00:29:40,000 --> 00:29:42,000
+sometimes we also have them in the form of an account,
+
+778
+00:29:42,000 --> 00:29:44,000
+sometimes in the form of a draft
+
+779
+00:29:44,000 --> 00:29:46,000
+for protection and resistance,
+
+780
+00:29:46,000 --> 00:29:48,000
+but there is also a huge amount of money at will.
+
+781
+00:29:48,000 --> 00:29:51,000
+I mean, the companies probably don't apply
+
+782
+00:29:51,000 --> 00:29:53,000
+because it's an additional job
+
+783
+00:29:53,000 --> 00:29:55,000
+to prepare all the documentation needed,
+
+784
+00:29:55,000 --> 00:29:57,000
+and it's also a risk.
+
+785
+00:29:57,000 --> 00:29:59,000
+Are you going to sign them?
+
+786
+00:29:59,000 --> 00:30:02,000
+There are others who will pay hundreds
+
+787
+00:30:02,000 --> 00:30:04,000
+to prepare it for you, right?
+
+788
+00:30:04,000 --> 00:30:06,000
+Or are you investing in people
+
+789
+00:30:06,000 --> 00:30:08,000
+who will learn it?
+
+790
+00:30:08,000 --> 00:30:10,000
+From my own experience,
+
+791
+00:30:10,000 --> 00:30:12,000
+because I started it before at the faculty,
+
+792
+00:30:12,000 --> 00:30:14,000
+it really is an investment in people,
+
+793
+00:30:14,000 --> 00:30:17,000
+but this investment will return to you very quickly.
+
+794
+00:30:17,000 --> 00:30:19,000
+That means, yes,
+
+795
+00:30:19,000 --> 00:30:21,000
+a larger Slovenian company,
+
+796
+00:30:21,000 --> 00:30:23,000
+which has these lines,
+
+797
+00:30:23,000 --> 00:30:25,000
+but they also have to think about
+
+798
+00:30:25,000 --> 00:30:27,000
+having project leaders for European companies.
+
+799
+00:30:27,000 --> 00:30:29,000
+The question is, does it have to be a large company?
+
+800
+00:30:29,000 --> 00:30:31,000
+I'll tell you from experience.
+
+801
+00:30:31,000 --> 00:30:33,000
+It's a very demanding job.
+
+802
+00:30:33,000 --> 00:30:35,000
+It's a very demanding job.
+
+803
+00:30:35,000 --> 00:30:37,000
+It's a very demanding job.
+
+804
+00:30:37,000 --> 00:30:39,000
+It's a very demanding job,
+
+805
+00:30:39,000 --> 00:30:41,000
+let's put it that way.
+
+806
+00:30:41,000 --> 00:30:43,000
+But as the minister said,
+
+807
+00:30:43,000 --> 00:30:45,000
+from my experience,
+
+808
+00:30:45,000 --> 00:30:47,000
+if I, as a company,
+
+809
+00:30:47,000 --> 00:30:49,000
+applied for the same job,
+
+810
+00:30:49,000 --> 00:30:51,000
+I would probably hire a specialist
+
+811
+00:30:51,000 --> 00:30:53,000
+because there is a gap
+
+812
+00:30:53,000 --> 00:30:55,000
+between communication.
+
+813
+00:30:55,000 --> 00:30:57,000
+You're not a specialist.
+
+814
+00:30:57,000 --> 00:30:59,000
+You're not a specialist.
+
+815
+00:30:59,000 --> 00:31:01,000
+But I believe that
+
+816
+00:31:01,000 --> 00:31:03,000
+if you had more human resources
+
+817
+00:31:03,000 --> 00:31:05,000
+or someone in the company
+
+818
+00:31:05,000 --> 00:31:07,000
+who would be extremely interested in it,
+
+819
+00:31:07,000 --> 00:31:09,000
+which is difficult in our IT companies,
+
+820
+00:31:09,000 --> 00:31:11,000
+it would definitely pay off.
+
+821
+00:31:11,000 --> 00:31:13,000
+it would definitely pay off.
+
+822
+00:31:13,000 --> 00:31:15,000
+It's not a bauble,
+
+823
+00:31:15,000 --> 00:31:17,000
+but it's a kind of experience.
+
+824
+00:31:17,000 --> 00:31:19,000
+I would also ask that.
+
+825
+00:31:19,000 --> 00:31:21,000
+A lot of people were asking
+
+826
+00:31:21,000 --> 00:31:23,000
+about the digital strategy.
+
+827
+00:31:23,000 --> 00:31:25,000
+about the digital strategy.
+
+828
+00:31:25,000 --> 00:31:27,000
+These are strategies
+
+829
+00:31:27,000 --> 00:31:29,000
+that will take more years
+
+830
+00:31:29,000 --> 00:31:31,000
+to become a reality.
+
+831
+00:31:31,000 --> 00:31:33,000
+The previous strategy was Slovenia 2.20.
+
+832
+00:31:33,000 --> 00:31:35,000
+The previous strategy was Slovenia 2.20.
+
+833
+00:31:35,000 --> 00:31:37,000
+I believe that in that strategy
+
+834
+00:31:37,000 --> 00:31:39,000
+33-50% of the work was done.
+
+835
+00:31:39,000 --> 00:31:41,000
+33-50% of the work was done.
+
+836
+00:31:41,000 --> 00:31:43,000
+A lot of our listeners
+
+837
+00:31:43,000 --> 00:31:45,000
+are interested
+
+838
+00:31:45,000 --> 00:31:47,000
+in whether we will survive
+
+839
+00:31:47,000 --> 00:31:49,000
+the politics
+
+840
+00:31:49,000 --> 00:31:51,000
+that is inside.
+
+841
+00:31:51,000 --> 00:31:53,000
+Are we really tied to it?
+
+842
+00:31:53,000 --> 00:31:55,000
+Are we really tied to it?
+
+843
+00:31:55,000 --> 00:31:57,000
+I don't see much difference
+
+844
+00:31:57,000 --> 00:31:59,000
+I don't see much difference
+
+845
+00:31:59,000 --> 00:32:01,000
+from what we have seen here.
+
+846
+00:32:01,000 --> 00:32:03,000
+I don't see much difference
+
+847
+00:32:03,000 --> 00:32:05,000
+from what we have seen here.
+
+848
+00:32:05,000 --> 00:32:07,000
+I hope that we will survive
+
+849
+00:32:07,000 --> 00:32:09,000
+and that we will go
+
+850
+00:32:09,000 --> 00:32:11,000
+with some corrections.
+
+851
+00:32:11,000 --> 00:32:13,000
+We also have similar challenges.
+
+852
+00:32:13,000 --> 00:32:15,000
+Wherever we go to work,
+
+853
+00:32:15,000 --> 00:32:17,000
+there is a strategy
+
+854
+00:32:17,000 --> 00:32:19,000
+and we hope that it doesn't change
+
+855
+00:32:19,000 --> 00:32:21,000
+and we hope that it doesn't change
+
+856
+00:32:21,000 --> 00:32:23,000
+when things get better.
+
+857
+00:32:23,000 --> 00:32:25,000
+These strategies are not just
+
+858
+00:32:25,000 --> 00:32:27,000
+because we wanted to write
+
+859
+00:32:27,000 --> 00:32:29,000
+a strategy.
+
+860
+00:32:29,000 --> 00:32:31,000
+Almost all European funds
+
+861
+00:32:31,000 --> 00:32:33,000
+are dependent on how
+
+862
+00:32:33,000 --> 00:32:35,000
+the state prepares the documents.
+
+863
+00:32:35,000 --> 00:32:37,000
+This has nothing to do
+
+864
+00:32:37,000 --> 00:32:39,000
+with the current local politics.
+
+865
+00:32:39,000 --> 00:32:41,000
+This has nothing to do
+
+866
+00:32:41,000 --> 00:32:43,000
+with the current local politics.
+
+867
+00:32:43,000 --> 00:32:45,000
+To prevent what happened
+
+868
+00:32:45,000 --> 00:32:47,000
+to Digital Slovenia 2.20
+
+869
+00:32:47,000 --> 00:32:49,000
+to prevent what happened
+
+870
+00:32:49,000 --> 00:32:51,000
+to Digital Slovenia 2.20
+
+871
+00:32:51,000 --> 00:32:53,000
+and to prevent the strategic
+
+872
+00:32:53,000 --> 00:32:55,000
+and operational group
+
+873
+00:32:55,000 --> 00:32:57,000
+that will work on it
+
+874
+00:32:57,000 --> 00:32:59,000
+and will prepare
+
+875
+00:32:59,000 --> 00:33:01,000
+whether the guidelines are fulfilled
+
+876
+00:33:01,000 --> 00:33:03,000
+or not.
+
+877
+00:33:03,000 --> 00:33:05,000
+I don't worry about that.
+
+878
+00:33:05,000 --> 00:33:07,000
+I don't worry about that.
+
+879
+00:33:07,000 --> 00:33:09,000
+It's very different.
+
+880
+00:33:09,000 --> 00:33:11,000
+It's very different.
+
+881
+00:33:11,000 --> 00:33:13,000
+Don't be afraid.
+
+882
+00:33:13,000 --> 00:33:15,000
+Don't be afraid.
+
+883
+00:33:15,000 --> 00:33:17,000
+If you can,
+
+884
+00:33:17,000 --> 00:33:19,000
+take the document.
+
+885
+00:33:19,000 --> 00:33:21,000
+It's great.
+
+886
+00:33:21,000 --> 00:33:23,000
+It has nice graphics
+
+887
+00:33:23,000 --> 00:33:25,000
+It has nice graphics
+
+888
+00:33:25,000 --> 00:33:27,000
+and everything is highlighted.
+
+889
+00:33:27,000 --> 00:33:29,000
+and everything is highlighted.
+
+890
+00:33:29,000 --> 00:33:31,000
+We will now talk
+
+891
+00:33:31,000 --> 00:33:33,000
+about the main areas
+
+892
+00:33:33,000 --> 00:33:35,000
+through a conversation.
+
+893
+00:33:35,000 --> 00:33:35,000
+
+894
+00:33:35,000 --> 00:33:37,000
+through a conversation.
+
+895
+00:33:37,000 --> 00:33:39,000
+I would like to go first.
+
+896
+00:33:39,000 --> 00:33:41,000
+I would like to go first.
+
+897
+00:33:41,000 --> 00:33:43,000
+We will return to
+
+898
+00:33:43,000 --> 00:33:45,000
+digital strategy
+
+899
+00:33:45,000 --> 00:33:47,000
+through a conversation.
+
+900
+00:33:47,000 --> 00:33:49,000
+I would like to go first.
+
+901
+00:33:53,000 --> 00:33:55,000
+People are asking
+
+902
+00:33:55,000 --> 00:33:57,000
+people are asking
+
+903
+00:33:57,000 --> 00:33:59,000
+whether the user experience
+
+904
+00:33:59,000 --> 00:34:01,000
+in public services
+
+905
+00:34:01,000 --> 00:34:03,000
+in public services
+
+906
+00:34:03,000 --> 00:34:05,000
+is not good enough.
+
+907
+00:34:05,000 --> 00:34:07,000
+People are asking
+
+908
+00:34:07,000 --> 00:34:09,000
+whether there are
+
+909
+00:34:09,000 --> 00:34:11,000
+some specific problems
+
+910
+00:34:11,000 --> 00:34:13,000
+that some friends
+
+911
+00:34:13,000 --> 00:34:15,000
+that you don't like.
+
+912
+00:34:15,000 --> 00:34:17,000
+How can we constructively
+
+913
+00:34:17,000 --> 00:34:19,000
+fix this?
+
+914
+00:34:19,000 --> 00:34:21,000
+We thought
+
+915
+00:34:21,000 --> 00:34:23,000
+that we should look at
+
+916
+00:34:23,000 --> 00:34:25,000
+a state-approved
+
+917
+00:34:25,000 --> 00:34:27,000
+law and a process.
+
+918
+00:34:27,000 --> 00:34:29,000
+For example,
+
+919
+00:34:29,000 --> 00:34:31,000
+we should prepare
+
+920
+00:34:31,000 --> 00:34:33,000
+a beer, pay a beer market
+
+921
+00:34:33,000 --> 00:34:35,000
+and then what happens
+
+922
+00:34:35,000 --> 00:34:37,000
+we have a paper form
+
+923
+00:34:37,000 --> 00:34:39,000
+that we digitalize
+
+924
+00:34:39,000 --> 00:34:41,000
+so we make the same
+
+925
+00:34:41,000 --> 00:34:43,000
+document in a nice
+
+926
+00:34:43,000 --> 00:34:45,000
+HTML form
+
+927
+00:34:45,000 --> 00:34:47,000
+and then we fill in
+
+928
+00:34:47,000 --> 00:34:49,000
+everything and click submit.
+
+929
+00:34:49,000 --> 00:34:51,000
+And now
+
+930
+00:34:51,000 --> 00:34:53,000
+the question is
+
+931
+00:34:53,000 --> 00:34:55,000
+do we understand that all citizens
+
+932
+00:34:57,000 --> 00:34:59,000
+can't
+
+933
+00:34:59,000 --> 00:35:01,000
+and want to be
+
+934
+00:35:01,000 --> 00:35:03,000
+able to solve
+
+935
+00:35:03,000 --> 00:35:05,000
+the problem
+
+936
+00:35:05,000 --> 00:35:07,000
+digitally with certificates.
+
+937
+00:35:07,000 --> 00:35:09,000
+That's why we have to think
+
+938
+00:35:09,000 --> 00:35:11,000
+that there are also old school ways
+
+939
+00:35:11,000 --> 00:35:13,000
+but I'm interested
+
+940
+00:35:13,000 --> 00:35:15,000
+if you think that a law
+
+941
+00:35:15,000 --> 00:35:17,000
+should be more digital first
+
+942
+00:35:17,000 --> 00:35:19,000
+like in web development
+
+943
+00:35:19,000 --> 00:35:21,000
+we call it mobile first.
+
+944
+00:35:21,000 --> 00:35:23,000
+We developed a website
+
+945
+00:35:23,000 --> 00:35:25,000
+for mobile computers
+
+946
+00:35:25,000 --> 00:35:27,000
+and now we mainly design for mobile
+
+947
+00:35:27,000 --> 00:35:29,000
+and then we look back at
+
+948
+00:35:29,000 --> 00:35:31,000
+how it is on desktop.
+
+949
+00:35:31,000 --> 00:35:33,000
+Do you think that some steps
+
+950
+00:35:33,000 --> 00:35:35,000
+or suggestions
+
+951
+00:35:35,000 --> 00:35:37,000
+should be made
+
+952
+00:35:37,000 --> 00:35:39,000
+more digital
+
+953
+00:35:39,000 --> 00:35:41,000
+to make the law more
+
+954
+00:35:41,000 --> 00:35:43,000
+digital first
+
+955
+00:35:43,000 --> 00:35:45,000
+so that people
+
+956
+00:35:45,000 --> 00:35:47,000
+don't have to worry about
+
+957
+00:35:47,000 --> 00:35:49,000
+the fallback?
+
+958
+00:35:49,000 --> 00:35:51,000
+We are working on that.
+
+959
+00:35:51,000 --> 00:35:53,000
+Maybe we started with
+
+960
+00:35:53,000 --> 00:35:55,000
+digital first
+
+961
+00:35:55,000 --> 00:35:57,000
+which means
+
+962
+00:35:57,000 --> 00:35:59,000
+electronic signature
+
+963
+00:35:59,000 --> 00:36:01,000
+which doesn't mean
+
+964
+00:36:01,000 --> 00:36:03,000
+that they scan documents
+
+965
+00:36:03,000 --> 00:36:05,000
+and then send them to us.
+
+966
+00:36:05,000 --> 00:36:07,000
+Here we are talking about
+
+967
+00:36:07,000 --> 00:36:09,000
+digitization,
+
+968
+00:36:09,000 --> 00:36:11,000
+digitalization
+
+969
+00:36:11,000 --> 00:36:13,000
+and digital transformation.
+
+970
+00:36:13,000 --> 00:36:15,000
+When it comes to
+
+971
+00:36:15,000 --> 00:36:17,000
+changing the whole culture
+
+972
+00:36:17,000 --> 00:36:19,000
+or organization.
+
+973
+00:36:19,000 --> 00:36:21,000
+Here at the Ministry
+
+974
+00:36:21,000 --> 00:36:23,000
+we are working on
+
+975
+00:36:23,000 --> 00:36:25,000
+digital first
+
+976
+00:36:25,000 --> 00:36:27,000
+because we still have
+
+977
+00:36:27,000 --> 00:36:29,000
+50% of the population
+
+978
+00:36:29,000 --> 00:36:31,000
+that doesn't have basic digital skills
+
+979
+00:36:31,000 --> 00:36:33,000
+and we can't automatically exclude them.
+
+980
+00:36:33,000 --> 00:36:35,000
+But we are trying
+
+981
+00:36:35,000 --> 00:36:37,000
+to increase
+
+982
+00:36:37,000 --> 00:36:39,000
+their advantages
+
+983
+00:36:39,000 --> 00:36:41,000
+or whatever.
+
+984
+00:36:41,000 --> 00:36:43,000
+All the laws
+
+985
+00:36:43,000 --> 00:36:45,000
+that are adopted by the government
+
+986
+00:36:45,000 --> 00:36:47,000
+of the Republic of Slovenia
+
+987
+00:36:47,000 --> 00:36:49,000
+are usually based on
+
+988
+00:36:49,000 --> 00:36:51,000
+inter-resource collaboration
+
+989
+00:36:51,000 --> 00:36:53,000
+and our Ministry
+
+990
+00:36:53,000 --> 00:36:55,000
+always offers suggestions
+
+991
+00:36:55,000 --> 00:36:57,000
+on what should be done
+
+992
+00:36:57,000 --> 00:36:59,000
+in the field of digital transformation.
+
+993
+00:36:59,000 --> 00:37:01,000
+When are these suggestions
+
+994
+00:37:01,000 --> 00:37:03,000
+accepted?
+
+995
+00:37:03,000 --> 00:37:05,000
+Trust me, we always give them.
+
+996
+00:37:05,000 --> 00:37:07,000
+Just as you are excited
+
+997
+00:37:07,000 --> 00:37:09,000
+about the new technologies
+
+998
+00:37:09,000 --> 00:37:11,000
+we have the same
+
+999
+00:37:11,000 --> 00:37:13,000
+at the Ministry of Employment.
+
+1000
+00:37:13,000 --> 00:37:15,000
+They are preparing trends
+
+1001
+00:37:15,000 --> 00:37:17,000
+and we also want
+
+1002
+00:37:17,000 --> 00:37:19,000
+what you want in the economy
+
+1003
+00:37:19,000 --> 00:37:21,000
+we also want that in the Public Administration.
+
+1004
+00:37:21,000 --> 00:37:23,000
+Now that we are
+
+1005
+00:37:23,000 --> 00:37:25,000
+at the Ministry of Employment
+
+1006
+00:37:25,000 --> 00:37:27,000
+we can have a glass of water
+
+1007
+00:37:27,000 --> 00:37:29,000
+before we go to the Ministry of Employment.
+
+1008
+00:37:29,000 --> 00:37:31,000
+We are in Maribor
+
+1009
+00:37:31,000 --> 00:37:33,000
+and we will have a glass of water.
+
+1010
+00:37:33,000 --> 00:37:35,000
+We will drink it later.
+
+1011
+00:37:35,000 --> 00:37:37,000
+Aren't you a student here?
+
+1012
+00:37:37,000 --> 00:37:39,000
+No, I was a student.
+
+1013
+00:37:39,000 --> 00:37:41,000
+Phew, if you say so.
+
+1014
+00:37:43,000 --> 00:37:45,000
+Now, we are a bit past
+
+1015
+00:37:45,000 --> 00:37:47,000
+the Ministry of Employment
+
+1016
+00:37:47,000 --> 00:37:49,000
+announcement
+
+1017
+00:37:49,000 --> 00:37:51,000
+about digital transformation.
+
+1018
+00:37:51,000 --> 00:37:53,000
+PR was concluded
+
+1019
+00:37:53,000 --> 00:37:55,000
+but it is definitely
+
+1020
+00:37:55,000 --> 00:37:57,000
+worth accepting.
+
+1021
+00:37:57,000 --> 00:37:59,000
+I love accepting
+
+1022
+00:37:59,000 --> 00:38:01,000
+when I pick up something
+
+1023
+00:38:01,000 --> 00:38:03,000
+on the market.
+
+1024
+00:38:03,000 --> 00:38:05,000
+Plus what technologies
+
+1025
+00:38:05,000 --> 00:38:07,000
+are being used.
+
+1026
+00:38:07,000 --> 00:38:09,000
+I recommend it to all listeners.
+
+1027
+00:38:09,000 --> 00:38:11,000
+In the coming years
+
+1028
+00:38:11,000 --> 00:38:13,000
+there are
+
+1029
+00:38:13,000 --> 00:38:15,000
+ambitious projects ahead of you.
+
+1030
+00:38:17,000 --> 00:38:19,000
+What kind of people are you looking for
+
+1031
+00:38:19,000 --> 00:38:21,000
+and how will you attract them?
+
+1032
+00:38:23,000 --> 00:38:25,000
+We already have 29 quotas
+
+1033
+00:38:25,000 --> 00:38:27,000
+in the field of
+
+1034
+00:38:27,000 --> 00:38:29,000
+digital transformation.
+
+1035
+00:38:29,000 --> 00:38:31,000
+In addition,
+
+1036
+00:38:31,000 --> 00:38:33,000
+at the Directorate for
+
+1037
+00:38:33,000 --> 00:38:35,000
+IT
+
+1038
+00:38:35,000 --> 00:38:37,000
+and also at the Directorate for
+
+1039
+00:38:37,000 --> 00:38:39,000
+Digital Solutions and Tax
+
+1040
+00:38:39,000 --> 00:38:41,000
+Economy, which is the most
+
+1041
+00:38:41,000 --> 00:38:43,000
+hardcore of IT,
+
+1042
+00:38:43,000 --> 00:38:45,000
+a lot of employees
+
+1043
+00:38:45,000 --> 00:38:47,000
+will retire in the coming years.
+
+1044
+00:38:47,000 --> 00:38:49,000
+Here we see
+
+1045
+00:38:49,000 --> 00:38:51,000
+a big problem of how we will
+
+1046
+00:38:51,000 --> 00:38:53,000
+get staff, especially because
+
+1047
+00:38:53,000 --> 00:38:55,000
+in the public sector we have a paid system
+
+1048
+00:38:55,000 --> 00:38:57,000
+and at the moment
+
+1049
+00:38:57,000 --> 00:38:59,000
+in the private sector
+
+1050
+00:38:59,000 --> 00:39:01,000
+the situation is as it is.
+
+1051
+00:39:01,000 --> 00:39:03,000
+But this is not
+
+1052
+00:39:03,000 --> 00:39:05,000
+a challenge only for
+
+1053
+00:39:05,000 --> 00:39:07,000
+our ministry, this is a challenge
+
+1054
+00:39:07,000 --> 00:39:09,000
+for the entire government,
+
+1055
+00:39:09,000 --> 00:39:11,000
+the state if we can say so,
+
+1056
+00:39:11,000 --> 00:39:13,000
+and we also talk about it at the government.
+
+1057
+00:39:13,000 --> 00:39:15,000
+We are looking for
+
+1058
+00:39:15,000 --> 00:39:17,000
+various solutions.
+
+1059
+00:39:17,000 --> 00:39:19,000
+Now, how we will get
+
+1060
+00:39:19,000 --> 00:39:21,000
+these staff, we will
+
+1061
+00:39:21,000 --> 00:39:23,000
+try to impress young people.
+
+1062
+00:39:23,000 --> 00:39:25,000
+Also for interesting
+
+1063
+00:39:25,000 --> 00:39:27,000
+projects, because
+
+1064
+00:39:27,000 --> 00:39:29,000
+it is not always the artists
+
+1065
+00:39:29,000 --> 00:39:31,000
+who encourage you to work.
+
+1066
+00:39:31,000 --> 00:39:33,000
+If it were so, I would never
+
+1067
+00:39:33,000 --> 00:39:35,000
+work in the public sector.
+
+1068
+00:39:35,000 --> 00:39:37,000
+Then
+
+1069
+00:39:37,000 --> 00:39:39,000
+we will also
+
+1070
+00:39:39,000 --> 00:39:41,000
+be able to get as a society
+
+1071
+00:39:41,000 --> 00:39:43,000
+to be able to import
+
+1072
+00:39:43,000 --> 00:39:45,000
+some staff,
+
+1073
+00:39:45,000 --> 00:39:47,000
+because
+
+1074
+00:39:47,000 --> 00:39:49,000
+as a state we have them, but
+
+1075
+00:39:49,000 --> 00:39:51,000
+what do we eat if we have them?
+
+1076
+00:39:53,000 --> 00:39:55,000
+Yes, now
+
+1077
+00:39:55,000 --> 00:39:57,000
+as a person who was
+
+1078
+00:39:57,000 --> 00:39:59,000
+not a governor
+
+1079
+00:39:59,000 --> 00:40:01,000
+for a few years,
+
+1080
+00:40:03,000 --> 00:40:05,000
+these projects
+
+1081
+00:40:05,000 --> 00:40:07,000
+have always been
+
+1082
+00:40:07,000 --> 00:40:09,000
+we are a state,
+
+1083
+00:40:09,000 --> 00:40:11,000
+we all pay
+
+1084
+00:40:11,000 --> 00:40:13,000
+with these taxes a little
+
+1085
+00:40:13,000 --> 00:40:15,000
+and so that we can
+
+1086
+00:40:15,000 --> 00:40:17,000
+use this money
+
+1087
+00:40:17,000 --> 00:40:19,000
+and spend it
+
+1088
+00:40:19,000 --> 00:40:21,000
+in a
+
+1089
+00:40:21,000 --> 00:40:23,000
+logical way to
+
+1090
+00:40:23,000 --> 00:40:25,000
+work on projects.
+
+1091
+00:40:25,000 --> 00:40:27,000
+When we build something new,
+
+1092
+00:40:27,000 --> 00:40:29,000
+it is a project.
+
+1093
+00:40:29,000 --> 00:40:31,000
+But
+
+1094
+00:40:31,000 --> 00:40:33,000
+often in some
+
+1095
+00:40:33,000 --> 00:40:35,000
+information systems,
+
+1096
+00:40:35,000 --> 00:40:37,000
+yes, we can
+
+1097
+00:40:37,000 --> 00:40:39,000
+build it, but information systems
+
+1098
+00:40:39,000 --> 00:40:41,000
+are a living system.
+
+1099
+00:40:41,000 --> 00:40:43,000
+It requires maintenance,
+
+1100
+00:40:43,000 --> 00:40:45,000
+for which we can get a job.
+
+1101
+00:40:45,000 --> 00:40:47,000
+There are also security challenges,
+
+1102
+00:40:47,000 --> 00:40:49,000
+because technology is changing
+
+1103
+00:40:49,000 --> 00:40:51,000
+and every year
+
+1104
+00:40:51,000 --> 00:40:53,000
+the security aspect is
+
+1105
+00:40:53,000 --> 00:40:55,000
+more challenging.
+
+1106
+00:40:55,000 --> 00:40:57,000
+And now
+
+1107
+00:40:57,000 --> 00:40:59,000
+the question is
+
+1108
+00:40:59,000 --> 00:41:01,000
+how to ensure
+
+1109
+00:41:01,000 --> 00:41:03,000
+that these systems will be safe
+
+1110
+00:41:03,000 --> 00:41:05,000
+in the future?
+
+1111
+00:41:05,000 --> 00:41:07,000
+How do we get
+
+1112
+00:41:07,000 --> 00:41:09,000
+a staff for a project,
+
+1113
+00:41:09,000 --> 00:41:11,000
+which is maybe 5 years old,
+
+1114
+00:41:11,000 --> 00:41:13,000
+to be able to maintain it?
+
+1115
+00:41:13,000 --> 00:41:15,000
+In companies we often ask
+
+1116
+00:41:15,000 --> 00:41:17,000
+how we will maintain the staff.
+
+1117
+00:41:17,000 --> 00:41:19,000
+Is it more complicated
+
+1118
+00:41:19,000 --> 00:41:21,000
+because there are projects?
+
+1119
+00:41:21,000 --> 00:41:23,000
+There are not only projects,
+
+1120
+00:41:23,000 --> 00:41:25,000
+because if there were projects,
+
+1121
+00:41:25,000 --> 00:41:27,000
+we would not be able to maintain
+
+1122
+00:41:27,000 --> 00:41:29,000
+the network and take care
+
+1123
+00:41:29,000 --> 00:41:31,000
+of all the security aspects
+
+1124
+00:41:31,000 --> 00:41:33,000
+within the public sector.
+
+1125
+00:41:33,000 --> 00:41:35,000
+So with us, especially
+
+1126
+00:41:35,000 --> 00:41:37,000
+at the Directorate for Informatics,
+
+1127
+00:41:37,000 --> 00:41:39,000
+there is a lot of maintenance,
+
+1128
+00:41:39,000 --> 00:41:41,000
+security, every application.
+
+1129
+00:41:41,000 --> 00:41:43,000
+When it comes to the network,
+
+1130
+00:41:43,000 --> 00:41:45,000
+it must be tested
+
+1131
+00:41:45,000 --> 00:41:47,000
+to avoid problems,
+
+1132
+00:41:47,000 --> 00:41:49,000
+as we mentioned in the past.
+
+1133
+00:41:49,000 --> 00:41:51,000
+On the one hand,
+
+1134
+00:41:51,000 --> 00:41:53,000
+we have regular employees,
+
+1135
+00:41:53,000 --> 00:41:55,000
+on the other hand,
+
+1136
+00:41:55,000 --> 00:41:57,000
+because we do not have to attract them,
+
+1137
+00:41:57,000 --> 00:41:59,000
+we have a number of employers
+
+1138
+00:41:59,000 --> 00:42:01,000
+with whom we cooperate.
+
+1139
+00:42:01,000 --> 00:42:03,000
+In our case,
+
+1140
+00:42:03,000 --> 00:42:05,000
+it is not so much about project work,
+
+1141
+00:42:05,000 --> 00:42:07,000
+but in the area of infrastructure,
+
+1142
+00:42:07,000 --> 00:42:09,000
+if we are talking about monitoring
+
+1143
+00:42:09,000 --> 00:42:11,000
+and data centers,
+
+1144
+00:42:11,000 --> 00:42:13,000
+these are not projects,
+
+1145
+00:42:13,000 --> 00:42:15,000
+we are more concerned
+
+1146
+00:42:15,000 --> 00:42:17,000
+with the employees.
+
+1147
+00:42:17,000 --> 00:42:19,000
+When we were investigating,
+
+1148
+00:42:19,000 --> 00:42:21,000
+you had 20-30 votes
+
+1149
+00:42:21,000 --> 00:42:23,000
+for the secretary.
+
+1150
+00:42:23,000 --> 00:42:25,000
+Undersecretary.
+
+1151
+00:42:25,000 --> 00:42:27,000
+Undersecretary, yes.
+
+1152
+00:42:27,000 --> 00:42:29,000
+I think there was
+
+1153
+00:42:29,000 --> 00:42:31,000
+a certain number of votes,
+
+1154
+00:42:31,000 --> 00:42:33,000
+up to 26-27.
+
+1155
+00:42:33,000 --> 00:42:35,000
+That is because you were
+
+1156
+00:42:35,000 --> 00:42:37,000
+looking at the period
+
+1157
+00:42:37,000 --> 00:42:39,000
+when the drawings for
+
+1158
+00:42:39,000 --> 00:42:41,000
+protection and resistance were opened,
+
+1159
+00:42:41,000 --> 00:42:43,000
+and it is the financing period
+
+1160
+00:42:43,000 --> 00:42:45,000
+of these projects.
+
+1161
+00:42:45,000 --> 00:42:47,000
+But I mentioned earlier
+
+1162
+00:42:47,000 --> 00:42:49,000
+that a lot of employees
+
+1163
+00:42:49,000 --> 00:42:51,000
+are also retired now.
+
+1164
+00:42:51,000 --> 00:42:53,000
+Logically, you can not be employed
+
+1165
+00:42:53,000 --> 00:42:55,000
+more often if you are retired.
+
+1166
+00:42:55,000 --> 00:42:57,000
+No, they should be replaced.
+
+1167
+00:42:57,000 --> 00:42:59,000
+But you probably looked
+
+1168
+00:42:59,000 --> 00:43:01,000
+at the time we gave
+
+1169
+00:43:01,000 --> 00:43:03,000
+for the new project.
+
+1170
+00:43:03,000 --> 00:43:05,000
+Because we saw
+
+1171
+00:43:05,000 --> 00:43:07,000
+the date
+
+1172
+00:43:07,000 --> 00:43:09,000
+26, and we wondered
+
+1173
+00:43:09,000 --> 00:43:11,000
+why would anyone
+
+1174
+00:43:11,000 --> 00:43:13,000
+want to commit,
+
+1175
+00:43:13,000 --> 00:43:15,000
+if they know that
+
+1176
+00:43:15,000 --> 00:43:17,000
+they are paying lower prices
+
+1177
+00:43:17,000 --> 00:43:19,000
+in the industry,
+
+1178
+00:43:19,000 --> 00:43:21,000
+and the projects will lose
+
+1179
+00:43:21,000 --> 00:43:23,000
+these people in the industry
+
+1180
+00:43:23,000 --> 00:43:25,000
+because of these skills.
+
+1181
+00:43:25,000 --> 00:43:27,000
+But of course we did not know
+
+1182
+00:43:27,000 --> 00:43:29,000
+what to do now.
+
+1183
+00:43:29,000 --> 00:43:31,000
+It would be interesting
+
+1184
+00:43:31,000 --> 00:43:33,000
+if we could go
+
+1185
+00:43:33,000 --> 00:43:35,000
+to those attacks
+
+1186
+00:43:35,000 --> 00:43:37,000
+and hacking,
+
+1187
+00:43:37,000 --> 00:43:39,000
+what is happening now.
+
+1188
+00:43:39,000 --> 00:43:41,000
+It is probably a consequence
+
+1189
+00:43:41,000 --> 00:43:43,000
+of these systems
+
+1190
+00:43:43,000 --> 00:43:45,000
+that are attacked
+
+1191
+00:43:45,000 --> 00:43:47,000
+for protection and solution.
+
+1192
+00:43:47,000 --> 00:43:49,000
+These systems are probably
+
+1193
+00:43:49,000 --> 00:43:51,000
+already old.
+
+1194
+00:43:51,000 --> 00:43:53,000
+I will make an assumption.
+
+1195
+00:43:53,000 --> 00:43:55,000
+We probably also have
+
+1196
+00:43:55,000 --> 00:43:57,000
+the problem that, as we said before,
+
+1197
+00:43:57,000 --> 00:43:59,000
+people are retired.
+
+1198
+00:43:59,000 --> 00:44:01,000
+We will probably also be able to
+
+1199
+00:44:01,000 --> 00:44:03,000
+retire some systems and make new ones.
+
+1200
+00:44:03,000 --> 00:44:05,000
+It is true for very different systems.
+
+1201
+00:44:05,000 --> 00:44:07,000
+Different bodies
+
+1202
+00:44:07,000 --> 00:44:09,000
+are responsible for different things.
+
+1203
+00:44:09,000 --> 00:44:11,000
+For example,
+
+1204
+00:44:11,000 --> 00:44:13,000
+URSIL has a special department
+
+1205
+00:44:13,000 --> 00:44:15,000
+for information security.
+
+1206
+00:44:15,000 --> 00:44:17,000
+At the Ministry of Digital Transformation
+
+1207
+00:44:17,000 --> 00:44:19,000
+we have a department for security testing
+
+1208
+00:44:19,000 --> 00:44:21,000
+of applications that we install
+
+1209
+00:44:21,000 --> 00:44:23,000
+inside the Hacom network.
+
+1210
+00:44:23,000 --> 00:44:25,000
+We have great equipment
+
+1211
+00:44:25,000 --> 00:44:27,000
+and great technology
+
+1212
+00:44:27,000 --> 00:44:29,000
+and we did not have
+
+1213
+00:44:29,000 --> 00:44:31,000
+any critical attacks
+
+1214
+00:44:31,000 --> 00:44:33,000
+in this case.
+
+1215
+00:44:33,000 --> 00:44:35,000
+Many times it is also
+
+1216
+00:44:35,000 --> 00:44:37,000
+a human factor.
+
+1217
+00:44:37,000 --> 00:44:39,000
+At the Ministry of Security and Solution
+
+1218
+00:44:39,000 --> 00:44:41,000
+the technology was not problematic
+
+1219
+00:44:41,000 --> 00:44:43,000
+but the human factor was problematic.
+
+1220
+00:44:43,000 --> 00:44:45,000
+It is not that obvious.
+
+1221
+00:44:45,000 --> 00:44:47,000
+Yes, yes.
+
+1222
+00:44:47,000 --> 00:44:49,000
+It is probably the same
+
+1223
+00:44:49,000 --> 00:44:51,000
+challenges as we discussed before.
+
+1224
+00:44:51,000 --> 00:44:53,000
+You also have
+
+1225
+00:44:53,000 --> 00:44:55,000
+people who will be detained.
+
+1226
+00:44:55,000 --> 00:44:57,000
+Logically, you have to upgrade
+
+1227
+00:44:57,000 --> 00:44:59,000
+their knowledge.
+
+1228
+00:44:59,000 --> 00:45:01,000
+They also have to remain digitally written
+
+1229
+00:45:01,000 --> 00:45:03,000
+and they need time.
+
+1230
+00:45:03,000 --> 00:45:05,000
+I certainly understand that.
+
+1231
+00:45:05,000 --> 00:45:07,000
+As part of
+
+1232
+00:45:07,000 --> 00:45:09,000
+this software
+
+1233
+00:45:09,000 --> 00:45:11,000
+we received another question.
+
+1234
+00:45:13,000 --> 00:45:15,000
+This question was
+
+1235
+00:45:15,000 --> 00:45:17,000
+asked by Today.
+
+1236
+00:45:17,000 --> 00:45:19,000
+Do you think
+
+1237
+00:45:19,000 --> 00:45:21,000
+that the software
+
+1238
+00:45:21,000 --> 00:45:23,000
+should be financed
+
+1239
+00:45:23,000 --> 00:45:25,000
+with public money also open-source?
+
+1240
+00:45:25,000 --> 00:45:27,000
+Open-source means
+
+1241
+00:45:27,000 --> 00:45:29,000
+that the user gets
+
+1242
+00:45:29,000 --> 00:45:31,000
+the source code
+
+1243
+00:45:31,000 --> 00:45:33,000
+and the public
+
+1244
+00:45:33,000 --> 00:45:35,000
+is also interested.
+
+1245
+00:45:35,000 --> 00:45:37,000
+Can you give another example?
+
+1246
+00:45:37,000 --> 00:45:39,000
+Yes, for example
+
+1247
+00:45:39,000 --> 00:45:41,000
+a typical school example
+
+1248
+00:45:41,000 --> 00:45:43,000
+is a software
+
+1249
+00:45:43,000 --> 00:45:45,000
+that has
+
+1250
+00:45:47,000 --> 00:45:49,000
+a value of
+
+1251
+00:45:49,000 --> 00:45:51,000
+21%
+
+1252
+00:45:51,000 --> 00:45:53,000
+and we decide to
+
+1253
+00:45:53,000 --> 00:45:55,000
+increase or decrease
+
+1254
+00:45:55,000 --> 00:45:57,000
+it to 20%.
+
+1255
+00:45:59,000 --> 00:46:01,000
+If we are not the owners
+
+1256
+00:46:01,000 --> 00:46:03,000
+of the software
+
+1257
+00:46:03,000 --> 00:46:05,000
+code,
+
+1258
+00:46:05,000 --> 00:46:07,000
+the former user
+
+1259
+00:46:07,000 --> 00:46:09,000
+has a better
+
+1260
+00:46:09,000 --> 00:46:11,000
+access position because
+
+1261
+00:46:11,000 --> 00:46:13,000
+no one can judge
+
+1262
+00:46:13,000 --> 00:46:15,000
+how complicated it is.
+
+1263
+00:46:15,000 --> 00:46:17,000
+Of course, if we have
+
+1264
+00:46:17,000 --> 00:46:19,000
+a super-trivial source code,
+
+1265
+00:46:19,000 --> 00:46:21,000
+it is always easier
+
+1266
+00:46:21,000 --> 00:46:23,000
+to upgrade
+
+1267
+00:46:23,000 --> 00:46:25,000
+or change the source code.
+
+1268
+00:46:25,000 --> 00:46:27,000
+If you are the owner,
+
+1269
+00:46:27,000 --> 00:46:29,000
+you can choose
+
+1270
+00:46:29,000 --> 00:46:31,000
+the source code
+
+1271
+00:46:31,000 --> 00:46:33,000
+and you don't become
+
+1272
+00:46:33,000 --> 00:46:35,000
+an old public orderer.
+
+1273
+00:46:35,000 --> 00:46:37,000
+There are also
+
+1274
+00:46:37,000 --> 00:46:39,000
+good examples of practice.
+
+1275
+00:46:39,000 --> 00:46:41,000
+For example, in a healthy state
+
+1276
+00:46:41,000 --> 00:46:43,000
+the application is open-source.
+
+1277
+00:46:43,000 --> 00:46:45,000
+This is what we had
+
+1278
+00:46:45,000 --> 00:46:47,000
+for the tracking.
+
+1279
+00:46:47,000 --> 00:46:49,000
+This is a good example of practice.
+
+1280
+00:46:49,000 --> 00:46:51,000
+We decided to
+
+1281
+00:46:51,000 --> 00:46:53,000
+put the code on GitHub
+
+1282
+00:46:53,000 --> 00:46:55,000
+because it is open-source.
+
+1283
+00:46:55,000 --> 00:46:57,000
+I am interested in your opinion.
+
+1284
+00:46:57,000 --> 00:46:59,000
+I think that
+
+1285
+00:46:59,000 --> 00:47:01,000
+we should order
+
+1286
+00:47:01,000 --> 00:47:03,000
+a software in public money
+
+1287
+00:47:03,000 --> 00:47:05,000
+so that the state can own it.
+
+1288
+00:47:05,000 --> 00:47:07,000
+Not only do I think about it,
+
+1289
+00:47:07,000 --> 00:47:09,000
+but I also support it.
+
+1290
+00:47:09,000 --> 00:47:11,000
+I am also a state secretary.
+
+1291
+00:47:13,000 --> 00:47:15,000
+If you were aware,
+
+1292
+00:47:15,000 --> 00:47:17,000
+we presented a computer
+
+1293
+00:47:17,000 --> 00:47:19,000
+composition
+
+1294
+00:47:19,000 --> 00:47:21,000
+with a novel law
+
+1295
+00:47:21,000 --> 00:47:23,000
+called MIRO
+
+1296
+00:47:23,000 --> 00:47:25,000
+which is a mechanism
+
+1297
+00:47:25,000 --> 00:47:27,000
+for processing computer equipment.
+
+1298
+00:47:27,000 --> 00:47:29,000
+The software
+
+1299
+00:47:29,000 --> 00:47:31,000
+will be open-source.
+
+1300
+00:47:31,000 --> 00:47:33,000
+This is
+
+1301
+00:47:33,000 --> 00:47:35,000
+an example.
+
+1302
+00:47:35,000 --> 00:47:37,000
+Now the order will also go
+
+1303
+00:47:37,000 --> 00:47:39,000
+to public money.
+
+1304
+00:47:39,000 --> 00:47:41,000
+We also talked a lot about
+
+1305
+00:47:41,000 --> 00:47:43,000
+networking of government organizations
+
+1306
+00:47:43,000 --> 00:47:45,000
+and we are looking for ways
+
+1307
+00:47:45,000 --> 00:47:47,000
+to make it all open-source.
+
+1308
+00:47:47,000 --> 00:47:49,000
+I absolutely support it.
+
+1309
+00:47:49,000 --> 00:47:51,000
+Great.
+
+1310
+00:47:51,000 --> 00:47:53,000
+Let's conclude.
+
+1311
+00:47:53,000 --> 00:47:55,000
+Open-source is this.
+
+1312
+00:47:55,000 --> 00:47:57,000
+It is easier to say more
+
+1313
+00:47:57,000 --> 00:47:59,000
+about the state of health.
+
+1314
+00:47:59,000 --> 00:48:01,000
+I will tell you what the example was.
+
+1315
+00:48:01,000 --> 00:48:03,000
+Now
+
+1316
+00:48:03,000 --> 00:48:05,000
+I will tell you
+
+1317
+00:48:05,000 --> 00:48:07,000
+what the example was.
+
+1318
+00:48:09,000 --> 00:48:11,000
+The German government sent
+
+1319
+00:48:11,000 --> 00:48:13,000
+SAP and Deutsche Telekom
+
+1320
+00:48:13,000 --> 00:48:15,000
+to develop the CoronaWarn app for Germany
+
+1321
+00:48:15,000 --> 00:48:17,000
+as an open-source software.
+
+1322
+00:48:17,000 --> 00:48:19,000
+Deutsche Telekom has prepared
+
+1323
+00:48:19,000 --> 00:48:21,000
+a mobile technology,
+
+1324
+00:48:21,000 --> 00:48:23,000
+stable management
+
+1325
+00:48:23,000 --> 00:48:25,000
+and application management.
+
+1326
+00:48:25,000 --> 00:48:27,000
+SAP was responsible
+
+1327
+00:48:27,000 --> 00:48:29,000
+for the development of the app
+
+1328
+00:48:29,000 --> 00:48:31,000
+and its core platform.
+
+1329
+00:48:31,000 --> 00:48:33,000
+What all the
+
+1330
+00:48:33,000 --> 00:48:35,000
+employees did
+
+1331
+00:48:35,000 --> 00:48:37,000
+was open-source
+
+1332
+00:48:37,000 --> 00:48:39,000
+and published.
+
+1333
+00:48:39,000 --> 00:48:41,000
+Slovenia took the code
+
+1334
+00:48:41,000 --> 00:48:43,000
+and made some modifications
+
+1335
+00:48:43,000 --> 00:48:45,000
+relevant to our space.
+
+1336
+00:48:45,000 --> 00:48:47,000
+This is an example.
+
+1337
+00:48:47,000 --> 00:48:49,000
+This is what we were aiming for.
+
+1338
+00:48:49,000 --> 00:48:51,000
+There are
+
+1339
+00:48:51,000 --> 00:48:53,000
+different variations
+
+1340
+00:48:53,000 --> 00:48:55,000
+of the term
+
+1341
+00:48:55,000 --> 00:48:57,000
+open-source.
+
+1342
+00:48:57,000 --> 00:48:59,000
+I will go into this.
+
+1343
+00:48:59,000 --> 00:49:01,000
+What do we have here?
+
+1344
+00:49:01,000 --> 00:49:03,000
+Yes.
+
+1345
+00:49:05,000 --> 00:49:07,000
+Why are you posing like this?
+
+1346
+00:49:07,000 --> 00:49:09,000
+This is my
+
+1347
+00:49:09,000 --> 00:49:11,000
+home area.
+
+1348
+00:49:11,000 --> 00:49:13,000
+Open-source means
+
+1349
+00:49:13,000 --> 00:49:15,000
+that you get the code as a manual.
+
+1350
+00:49:15,000 --> 00:49:17,000
+There is also a term
+
+1351
+00:49:17,000 --> 00:49:19,000
+open-source, which means
+
+1352
+00:49:19,000 --> 00:49:21,000
+that it is publicly available
+
+1353
+00:49:21,000 --> 00:49:23,000
+to a wider audience.
+
+1354
+00:49:23,000 --> 00:49:25,000
+Lately, this term is fading away.
+
+1355
+00:49:25,000 --> 00:49:27,000
+We think that it is
+
+1356
+00:49:27,000 --> 00:49:29,000
+publicly available.
+
+1357
+00:49:29,000 --> 00:49:31,000
+These are the details.
+
+1358
+00:49:33,000 --> 00:49:35,000
+For me personally,
+
+1359
+00:49:35,000 --> 00:49:37,000
+the most important thing is
+
+1360
+00:49:37,000 --> 00:49:39,000
+that only the ministry
+
+1361
+00:49:39,000 --> 00:49:41,000
+which gave the order
+
+1362
+00:49:41,000 --> 00:49:43,000
+has the code.
+
+1363
+00:49:43,000 --> 00:49:45,000
+I am happy that
+
+1364
+00:49:45,000 --> 00:49:47,000
+we will be able to build a bridge
+
+1365
+00:49:47,000 --> 00:49:49,000
+where the state can
+
+1366
+00:49:49,000 --> 00:49:51,000
+draw a bridge.
+
+1367
+00:49:51,000 --> 00:49:53,000
+Absolutely.
+
+1368
+00:49:53,000 --> 00:49:55,000
+I can not imagine
+
+1369
+00:49:55,000 --> 00:49:57,000
+how it will work.
+
+1370
+00:49:57,000 --> 00:49:59,000
+You will be
+
+1371
+00:49:59,000 --> 00:50:01,000
+bitten by a large snake.
+
+1372
+00:50:00,000 --> 00:50:27,000
+We are all engineers here, but it is clear to us that in Europe and in Slovenia we are good engineers, I believe in it, I think we have a lot of talent, we have a good company, but we don't have that many unicorn companies.
+
+1373
+00:50:27,000 --> 00:50:40,000
+I don't think it is necessary now, but it is nice that there are some players with more capitalization in our region, in Europe and maybe also in Slovenia.
+
+1374
+00:50:40,000 --> 00:50:53,000
+Unicorns are a billion-dollar company. What do you think is the main reason why we don't have more unicorns in Europe?
+
+1375
+00:50:53,000 --> 00:51:10,000
+Again, there are many reasons. One is the fragmentation of the market. If we look at the United States, it is a much bigger market than if we look at China.
+
+1376
+00:51:10,000 --> 00:51:13,000
+On the other hand, in Europe we have very small markets.
+
+1377
+00:51:13,000 --> 00:51:29,000
+The second reason is, as I also had the opportunity to find out how investors function, American investors, if they see a potential opportunity for someone to succeed, invest in this company.
+
+1378
+00:51:29,000 --> 00:51:36,000
+In our country, investment is short-lived, when someone has something to show. And here is the problem.
+
+1379
+00:51:36,000 --> 00:51:46,000
+Another problem is the way we think. In the United States, it doesn't matter if you make a mistake a hundred times, you learned something new from it.
+
+1380
+00:51:46,000 --> 00:51:59,000
+In our country, if you make a mistake, and I'm not just talking about Slovenia, everything is similar in Austria and Germany, if you make a mistake, then it's the end of the story and you don't dare to try again.
+
+1381
+00:51:59,000 --> 00:52:10,000
+And this is already observed in classrooms. I see it in students. We don't go to those iterations. It doesn't matter if you don't succeed for the first time, let's try again.
+
+1382
+00:52:10,000 --> 00:52:16,000
+I'm not that expert on unicorns. I also explain.
+
+1383
+00:52:16,000 --> 00:52:26,000
+You have to hope. We are also recording this podcast. We are doing a lot of things in Czech. I hope we will try.
+
+1384
+00:52:26,000 --> 00:52:33,000
+We also recorded an hour of the podcast without hitting the microphone. That's how it happens.
+
+1385
+00:52:33,000 --> 00:52:38,000
+But now everyone will hit it. We learned something.
+
+1386
+00:52:38,000 --> 00:52:51,000
+Actually, this question about unicorns was a more toned-down question with some additional value added.
+
+1387
+00:52:51,000 --> 00:53:05,000
+We also saw that in your strategy. All our colleagues think that we give a high added value, but this high added value is, in fact, deductible.
+
+1388
+00:53:06,000 --> 00:53:16,000
+We are interested if you think what to do in this space, because we got a lot of questions from entrepreneurs who have more employees.
+
+1389
+00:53:16,000 --> 00:53:29,000
+The problem is that when people do SIN, I don't know, SP, and go to work directly for Tuino, it's a different scene if you have a bunch of employees.
+
+1390
+00:53:29,000 --> 00:53:36,000
+I'm also interested if you are preparing any changes, if you have any plans.
+
+1391
+00:53:36,000 --> 00:53:42,000
+Will this help us make more unicorns?
+
+1392
+00:53:43,000 --> 00:53:47,000
+Back to the question.
+
+1393
+00:53:47,000 --> 00:53:55,000
+I know this question. Everyone knows that it is for the Ministry of Finance and not for the Ministry of Digital Transformation.
+
+1394
+00:53:55,000 --> 00:54:03,000
+We have our opinion and we will share it when we come to the mid-resource assembly.
+
+1395
+00:54:04,000 --> 00:54:16,000
+It's not just about the Ministry of Finance, but it's about the decision-makers.
+
+1396
+00:54:16,000 --> 00:54:21,000
+Why is this question important? I know it's a difficult question.
+
+1397
+00:54:21,000 --> 00:54:24,000
+And I have to answer it politically.
+
+1398
+00:54:24,000 --> 00:54:35,000
+Yes, but why is it important? When we talked about the staff, in the same pool, you catch the staff from the Ministry,
+
+1399
+00:54:35,000 --> 00:54:41,000
+who catches them in the company, and then people make decisions.
+
+1400
+00:54:41,000 --> 00:54:47,000
+In the end, you live on the same card, you put it on the account. That's why this question was important.
+
+1401
+00:54:47,000 --> 00:54:52,000
+Maybe you will also learn from this my way of thinking, as I said before,
+
+1402
+00:54:52,000 --> 00:54:56,000
+that motivation is not always self-paying.
+
+1403
+00:54:56,000 --> 00:55:02,000
+But there are also other mechanisms how you can motivate a person to work somewhere or not.
+
+1404
+00:55:02,000 --> 00:55:05,000
+OK.
+
+1405
+00:55:05,000 --> 00:55:08,000
+You are so fucked up with the next question.
+
+1406
+00:55:08,000 --> 00:55:12,000
+Why are you so fucked up with the next question? Have you already survived it?
+
+1407
+00:55:12,000 --> 00:55:17,000
+No, no, not at all. I don't have such a good memory.
+
+1408
+00:55:17,000 --> 00:55:24,000
+I mean, this next question is more about the neutral Internet.
+
+1409
+00:55:24,000 --> 00:55:29,000
+Again, we got this question from people, because it's a real question.
+
+1410
+00:55:29,000 --> 00:55:33,000
+Maybe you would like to go on the Internet a bit more,
+
+1411
+00:55:33,000 --> 00:55:42,000
+and talk a bit about the toxic environment in which we work.
+
+1412
+00:55:42,000 --> 00:55:46,000
+Maybe you can tell us something about it.
+
+1413
+00:55:46,000 --> 00:55:49,000
+Anyway, we got this question.
+
+1414
+00:55:49,000 --> 00:55:52,000
+We have been using the Internet for about 30 years.
+
+1415
+00:55:52,000 --> 00:55:57,000
+We all want a neutral Internet, which means less surveillance,
+
+1416
+00:55:57,000 --> 00:56:00,000
+we are more anonymous.
+
+1417
+00:56:00,000 --> 00:56:05,000
+Shortly after that, we talked about e-privacy.
+
+1418
+00:56:05,000 --> 00:56:16,000
+We would also like less online bullying, hate speech, and disinformation.
+
+1419
+00:56:16,000 --> 00:56:21,000
+Now, big corporations, which are present in our country,
+
+1420
+00:56:21,000 --> 00:56:25,000
+and people use them through social networks,
+
+1421
+00:56:25,000 --> 00:56:34,000
+give a huge amount of resources, money, and human manpower
+
+1422
+00:56:34,000 --> 00:56:40,000
+to reduce the amount of non-privileged people on the Internet.
+
+1423
+00:56:41,000 --> 00:56:46,000
+As part of this neutral Internet, less information, disinformation,
+
+1424
+00:56:46,000 --> 00:56:51,000
+we are most interested in seeing the role of the state,
+
+1425
+00:56:51,000 --> 00:56:56,000
+and maybe even your ministry, in creating a safe,
+
+1426
+00:56:56,000 --> 00:56:59,000
+acceptable, healthy Internet.
+
+1427
+00:56:59,000 --> 00:57:01,000
+I can only react this way.
+
+1428
+00:57:01,000 --> 00:57:05,000
+E-privacy does not threaten our anonymity.
+
+1429
+00:57:05,000 --> 00:57:09,000
+Due to the fact that there is a certain reputation
+
+1430
+00:57:09,000 --> 00:57:12,000
+that e-privacy will follow us far from it,
+
+1431
+00:57:12,000 --> 00:57:14,000
+nothing changes.
+
+1432
+00:57:14,000 --> 00:57:17,000
+It is just a means of authentication for those
+
+1433
+00:57:17,000 --> 00:57:20,000
+who have a decent view of your data.
+
+1434
+00:57:20,000 --> 00:57:22,000
+Let's just clear that up.
+
+1435
+00:57:22,000 --> 00:57:24,000
+No, no, no, it's clear.
+
+1436
+00:57:24,000 --> 00:57:29,000
+We often meet with this balance between technophobia,
+
+1437
+00:57:29,000 --> 00:57:32,000
+when people are afraid of new things,
+
+1438
+00:57:32,000 --> 00:57:34,000
+and when they lose everything,
+
+1439
+00:57:34,000 --> 00:57:36,000
+and they need to be provided with benefits
+
+1440
+00:57:36,000 --> 00:57:38,000
+provided by technology.
+
+1441
+00:57:38,000 --> 00:57:40,000
+So, that comment is spot on.
+
+1442
+00:57:40,000 --> 00:57:42,000
+Great.
+
+1443
+00:57:42,000 --> 00:57:44,000
+Absolutely.
+
+1444
+00:57:44,000 --> 00:57:48,000
+Our principle is that the Internet can be free,
+
+1445
+00:57:48,000 --> 00:57:50,000
+open, independent.
+
+1446
+00:57:50,000 --> 00:57:53,000
+At the same time, we have a principle that everything
+
+1447
+00:57:53,000 --> 00:57:55,000
+that is illegal in the real world,
+
+1448
+00:57:55,000 --> 00:57:58,000
+can also be illegal on the Internet.
+
+1449
+00:57:58,000 --> 00:58:02,000
+If there is a breach in the Internet,
+
+1450
+00:58:02,000 --> 00:58:06,000
+it is only on the basis of the decision of the court,
+
+1451
+00:58:06,000 --> 00:58:10,000
+for example, when human rights are threatened,
+
+1452
+00:58:10,000 --> 00:58:13,000
+consumer rights, when democracy is threatened,
+
+1453
+00:58:13,000 --> 00:58:15,000
+and so on.
+
+1454
+00:58:15,000 --> 00:58:18,000
+So, there must be an order for legislation.
+
+1455
+00:58:18,000 --> 00:58:21,000
+And that is exactly the role of the Ministry.
+
+1456
+00:58:21,000 --> 00:58:24,000
+To have carefully prepared legislation,
+
+1457
+00:58:24,000 --> 00:58:27,000
+that everything that is illegal in the real world
+
+1458
+00:58:27,000 --> 00:58:30,000
+can also be on the basis of the decision of the court.
+
+1459
+00:58:30,000 --> 00:58:33,000
+At the moment, we are working on the transfer,
+
+1460
+00:58:33,000 --> 00:58:36,000
+or implementation of the Act on Digital Services,
+
+1461
+00:58:36,000 --> 00:58:41,000
+which can be implemented by the end of February 2024,
+
+1462
+00:58:41,000 --> 00:58:44,000
+in our legal order.
+
+1463
+00:58:44,000 --> 00:58:48,000
+Here, of course, these large platforms will also be included.
+
+1464
+00:58:48,000 --> 00:58:51,000
+There will also be a hate speech,
+
+1465
+00:58:51,000 --> 00:58:54,000
+or illegal, and not only illegal,
+
+1466
+00:58:54,000 --> 00:58:57,000
+but also legal, and still harmful,
+
+1467
+00:58:57,000 --> 00:59:00,000
+because there is a difference between them.
+
+1468
+00:59:00,000 --> 00:59:03,000
+What is this Act, can you introduce it a little?
+
+1469
+00:59:03,000 --> 00:59:06,000
+The Act on Digital Services deals with the fact
+
+1470
+00:59:06,000 --> 00:59:09,000
+that everything that is illegal on the Internet
+
+1471
+00:59:09,000 --> 00:59:11,000
+can be in the real world.
+
+1472
+00:59:11,000 --> 00:59:13,000
+It is a European directive,
+
+1473
+00:59:13,000 --> 00:59:16,000
+which all member states must implement
+
+1474
+00:59:16,000 --> 00:59:18,000
+in their legal order.
+
+1475
+00:59:18,000 --> 00:59:21,000
+The key thing is that each member state
+
+1476
+00:59:21,000 --> 00:59:24,000
+will have a so-called national coordinator,
+
+1477
+00:59:24,000 --> 00:59:26,000
+which must be independent.
+
+1478
+00:59:26,000 --> 00:59:28,000
+Regardless of who is in power,
+
+1479
+00:59:28,000 --> 00:59:30,000
+it must be independent.
+
+1480
+00:59:30,000 --> 00:59:35,000
+And it will name so-called data-trusted flaggers.
+
+1481
+00:59:35,000 --> 00:59:38,000
+I will not try to translate it into Slovenian now.
+
+1482
+00:59:38,000 --> 00:59:41,000
+For example, if there is a hate speech,
+
+1483
+00:59:41,000 --> 00:59:43,000
+or disinformation,
+
+1484
+00:59:43,000 --> 00:59:46,000
+then these data-trusted flaggers
+
+1485
+00:59:46,000 --> 00:59:49,000
+will communicate directly
+
+1486
+00:59:49,000 --> 00:59:52,000
+with the Very Large Online Platform,
+
+1487
+00:59:52,000 --> 00:59:54,000
+with 19 member states,
+
+1488
+00:59:54,000 --> 00:59:57,000
+Facebook, Twitter, TikTok, YouTube, and so on.
+
+1489
+00:59:57,000 --> 01:00:00,000
+And they will have to remove these personalities.
+
+1490
+01:00:00,000 --> 01:00:02,000
+So, there will be no need,
+
+1491
+01:00:02,000 --> 01:00:04,000
+for example, I am an old man,
+
+1492
+01:00:04,000 --> 01:00:07,000
+to use hate speech as a punitive action.
+
+1493
+01:00:07,000 --> 01:00:09,000
+And what can I do?
+
+1494
+01:00:09,000 --> 01:00:11,000
+I report it to the police,
+
+1495
+01:00:11,000 --> 01:00:13,000
+the police proceeds with the procedure,
+
+1496
+01:00:13,000 --> 01:00:15,000
+goes to the court,
+
+1497
+01:00:15,000 --> 01:00:17,000
+for example, I have been waiting for about a year,
+
+1498
+01:00:17,000 --> 01:00:19,000
+and when I get it from the court,
+
+1499
+01:00:19,000 --> 01:00:21,000
+the platform can remove this personality.
+
+1500
+01:00:21,000 --> 01:00:23,000
+As soon as we have implemented it,
+
+1501
+01:00:23,000 --> 01:00:26,000
+then I report it to the data-trusted flagger,
+
+1502
+01:00:26,000 --> 01:00:29,000
+the data-trusted flagger goes to the platform,
+
+1503
+01:00:29,000 --> 01:00:32,000
+and the platform must remove this personality.
+
+1504
+01:00:32,000 --> 01:00:34,000
+In other words,
+
+1505
+01:00:34,000 --> 01:00:37,000
+the technical execution of this whole investigation
+
+1506
+01:00:37,000 --> 01:00:40,000
+will then be simplified.
+
+1507
+01:00:40,000 --> 01:00:42,000
+I mean, one of the tasks
+
+1508
+01:00:42,000 --> 01:00:45,000
+that we also see,
+
+1509
+01:00:46,000 --> 01:00:49,000
+as you mentioned, with hate speech,
+
+1510
+01:00:49,000 --> 01:00:52,000
+when we talked on those media,
+
+1511
+01:00:52,000 --> 01:00:54,000
+and I don't know, here in the team,
+
+1512
+01:00:54,000 --> 01:00:56,000
+we have people who are inclusive,
+
+1513
+01:00:56,000 --> 01:00:58,000
+all together,
+
+1514
+01:00:58,000 --> 01:01:01,000
+someone will be able to determine
+
+1515
+01:01:01,000 --> 01:01:03,000
+whether they are bots,
+
+1516
+01:01:03,000 --> 01:01:06,000
+whether they are real in themselves,
+
+1517
+01:01:06,000 --> 01:01:08,000
+or, I don't know,
+
+1518
+01:01:08,000 --> 01:01:10,000
+it seems that people think
+
+1519
+01:01:10,000 --> 01:01:12,000
+that they are really anonymous,
+
+1520
+01:01:12,000 --> 01:01:14,000
+and that they can say anything,
+
+1521
+01:01:14,000 --> 01:01:16,000
+that technology enables them
+
+1522
+01:01:16,000 --> 01:01:18,000
+some degree of anonymity,
+
+1523
+01:01:18,000 --> 01:01:20,000
+but,
+
+1524
+01:01:20,000 --> 01:01:23,000
+would this act somehow help
+
+1525
+01:01:23,000 --> 01:01:26,000
+to de-anonymize, if that makes sense?
+
+1526
+01:01:26,000 --> 01:01:28,000
+Because I see that people write everything
+
+1527
+01:01:28,000 --> 01:01:31,000
+because they think they are anonymous, or what?
+
+1528
+01:01:31,000 --> 01:01:34,000
+Yes, we already have this debate
+
+1529
+01:01:34,000 --> 01:01:36,000
+within the government,
+
+1530
+01:01:36,000 --> 01:01:38,000
+various ministries that deal with this,
+
+1531
+01:01:38,000 --> 01:01:40,000
+we are already looking for
+
+1532
+01:01:40,000 --> 01:01:42,000
+how to implement this question
+
+1533
+01:01:42,000 --> 01:01:44,000
+all over the world, not just in Europe,
+
+1534
+01:01:44,000 --> 01:01:46,000
+New Zealand and Australia
+
+1535
+01:01:46,000 --> 01:01:49,000
+are already working on this area,
+
+1536
+01:01:49,000 --> 01:01:52,000
+and we will try to find
+
+1537
+01:01:52,000 --> 01:01:54,000
+an optimal solution,
+
+1538
+01:01:54,000 --> 01:01:56,000
+because on the one hand,
+
+1539
+01:01:56,000 --> 01:01:58,000
+it seems very simple,
+
+1540
+01:01:58,000 --> 01:02:00,000
+if you register for an electronic personal statement,
+
+1541
+01:02:00,000 --> 01:02:02,000
+you identify yourself, and then you don't have
+
+1542
+01:02:02,000 --> 01:02:04,000
+this anonymity, but on the other hand,
+
+1543
+01:02:04,000 --> 01:02:06,000
+we still don't solve it, and you will have more problems.
+
+1544
+01:02:06,000 --> 01:02:08,000
+And we need to find a way
+
+1545
+01:02:08,000 --> 01:02:11,000
+to protect the freedom of speech,
+
+1546
+01:02:11,000 --> 01:02:13,000
+and at the same time,
+
+1547
+01:02:13,000 --> 01:02:15,000
+to take care of a culture
+
+1548
+01:02:15,000 --> 01:02:17,000
+of behavior and communication
+
+1549
+01:02:17,000 --> 01:02:19,000
+even on social networks.
+
+1550
+01:02:20,000 --> 01:02:22,000
+I mean, whatever,
+
+1551
+01:02:22,000 --> 01:02:24,000
+in this area,
+
+1552
+01:02:24,000 --> 01:02:26,000
+it has certainly come in handy.
+
+1553
+01:02:27,000 --> 01:02:29,000
+I think that
+
+1554
+01:02:29,000 --> 01:02:31,000
+people know too little
+
+1555
+01:02:31,000 --> 01:02:33,000
+about what is happening on these networks,
+
+1556
+01:02:33,000 --> 01:02:35,000
+until they are victims themselves
+
+1557
+01:02:35,000 --> 01:02:38,000
+from various creative beginnings.
+
+1558
+01:02:38,000 --> 01:02:40,000
+Especially among young people, I see that
+
+1559
+01:02:40,000 --> 01:02:42,000
+they are still less aware
+
+1560
+01:02:42,000 --> 01:02:44,000
+of what is happening,
+
+1561
+01:02:44,000 --> 01:02:46,000
+what are the incidents,
+
+1562
+01:02:46,000 --> 01:02:48,000
+and then there are big problems.
+
+1563
+01:02:48,000 --> 01:02:50,000
+And maybe in this spirit,
+
+1564
+01:02:50,000 --> 01:02:52,000
+I would continue this debate
+
+1565
+01:02:52,000 --> 01:02:54,000
+about digital literacy,
+
+1566
+01:02:54,000 --> 01:02:56,000
+because I think
+
+1567
+01:02:56,000 --> 01:02:58,000
+it is somehow connected.
+
+1568
+01:02:58,000 --> 01:03:00,000
+I mean, how to be
+
+1569
+01:03:00,000 --> 01:03:02,000
+digitally literate
+
+1570
+01:03:02,000 --> 01:03:04,000
+in 2023,
+
+1571
+01:03:04,000 --> 01:03:06,000
+or in the future,
+
+1572
+01:03:06,000 --> 01:03:08,000
+somehow that could also be
+
+1573
+01:03:08,000 --> 01:03:10,000
+part of this curriculum,
+
+1574
+01:03:10,000 --> 01:03:12,000
+to be aware,
+
+1575
+01:03:12,000 --> 01:03:14,000
+to have some awareness of what you will hear
+
+1576
+01:03:14,000 --> 01:03:16,000
+in the digital space,
+
+1577
+01:03:16,000 --> 01:03:18,000
+so that these incidents will be there,
+
+1578
+01:03:18,000 --> 01:03:20,000
+maybe forever,
+
+1579
+01:03:20,000 --> 01:03:22,000
+maybe they will disappear,
+
+1580
+01:03:22,000 --> 01:03:24,000
+maybe they will be forever,
+
+1581
+01:03:24,000 --> 01:03:26,000
+but that they also have the characteristics
+
+1582
+01:03:26,000 --> 01:03:28,000
+of the things you hear in the digital space,
+
+1583
+01:03:28,000 --> 01:03:30,000
+can have real-world consequences,
+
+1584
+01:03:30,000 --> 01:03:32,000
+in the real world.
+
+1585
+01:03:32,000 --> 01:03:34,000
+And it seems to me that
+
+1586
+01:03:34,000 --> 01:03:36,000
+from this perspective,
+
+1587
+01:03:36,000 --> 01:03:38,000
+I think we assume
+
+1588
+01:03:38,000 --> 01:03:40,000
+that young people,
+
+1589
+01:03:40,000 --> 01:03:42,000
+because they are young,
+
+1590
+01:03:42,000 --> 01:03:44,000
+automatically digital first,
+
+1591
+01:03:44,000 --> 01:03:46,000
+they are already literate,
+
+1592
+01:03:46,000 --> 01:03:48,000
+they already know the technology.
+
+1593
+01:03:48,000 --> 01:03:50,000
+They are not literate.
+
+1594
+01:03:50,000 --> 01:03:52,000
+That's why I will continue.
+
+1595
+01:03:52,000 --> 01:03:54,000
+And so it is.
+
+1596
+01:03:54,000 --> 01:03:56,000
+If we know how to use phones
+
+1597
+01:03:56,000 --> 01:03:58,000
+and the most popular applications,
+
+1598
+01:03:58,000 --> 01:04:00,000
+maybe that is not enough today.
+
+1599
+01:04:00,000 --> 01:04:02,000
+If we have learned over time,
+
+1600
+01:04:02,000 --> 01:04:04,000
+in our generation,
+
+1601
+01:04:04,000 --> 01:04:06,000
+the word and the calculator
+
+1602
+01:04:06,000 --> 01:04:08,000
+are not enough
+
+1603
+01:04:08,000 --> 01:04:10,000
+for a digitally literate person.
+
+1604
+01:04:12,000 --> 01:04:14,000
+Maybe we can turn
+
+1605
+01:04:14,000 --> 01:04:16,000
+a little differently.
+
+1606
+01:04:16,000 --> 01:04:18,000
+What are some of the skills
+
+1607
+01:04:18,000 --> 01:04:20,000
+that young people could learn,
+
+1608
+01:04:20,000 --> 01:04:22,000
+in your opinion?
+
+1609
+01:04:22,000 --> 01:04:24,000
+Maybe we will be able to learn again,
+
+1610
+01:04:24,000 --> 01:04:26,000
+I hope we will be able to learn
+
+1611
+01:04:26,000 --> 01:04:28,000
+what a computer is,
+
+1612
+01:04:28,000 --> 01:04:30,000
+also the concept of a
+
+1613
+01:04:30,000 --> 01:04:32,000
+file system,
+
+1614
+01:04:32,000 --> 01:04:34,000
+windows like that.
+
+1615
+01:04:34,000 --> 01:04:36,000
+These are some things
+
+1616
+01:04:36,000 --> 01:04:38,000
+that only we could learn,
+
+1617
+01:04:38,000 --> 01:04:40,000
+maybe the younger generation, but not more.
+
+1618
+01:04:40,000 --> 01:04:42,000
+Especially those who grew up with a phone.
+
+1619
+01:04:42,000 --> 01:04:44,000
+Yes, I'm interested.
+
+1620
+01:04:46,000 --> 01:04:48,000
+How are you?
+
+1621
+01:04:48,000 --> 01:04:50,000
+How did you start?
+
+1622
+01:04:50,000 --> 01:04:52,000
+Because we talked about Heatspeak,
+
+1623
+01:04:52,000 --> 01:04:54,000
+and you started digital literacy.
+
+1624
+01:04:54,000 --> 01:04:56,000
+I can continue.
+
+1625
+01:04:56,000 --> 01:04:58,000
+I like it.
+
+1626
+01:04:58,000 --> 01:05:00,000
+I have two daughters and a son.
+
+1627
+01:05:00,000 --> 01:05:02,000
+What skills do you think
+
+1628
+01:05:02,000 --> 01:05:04,000
+would be smart to learn
+
+1629
+01:05:04,000 --> 01:05:06,000
+in the coming years?
+
+1630
+01:05:06,000 --> 01:05:08,000
+How old are they?
+
+1631
+01:05:08,000 --> 01:05:10,000
+Two and eight.
+
+1632
+01:05:10,000 --> 01:05:12,000
+I also have eight sons.
+
+1633
+01:05:12,000 --> 01:05:14,000
+And the best thing
+
+1634
+01:05:14,000 --> 01:05:16,000
+we are dealing with now
+
+1635
+01:05:16,000 --> 01:05:18,000
+is whether it is true or not,
+
+1636
+01:05:18,000 --> 01:05:20,000
+what he sees on YouTube.
+
+1637
+01:05:20,000 --> 01:05:22,000
+So we currently have fake news
+
+1638
+01:05:22,000 --> 01:05:24,000
+and disinformation.
+
+1639
+01:05:24,000 --> 01:05:26,000
+Because there was a time when he was
+
+1640
+01:05:26,000 --> 01:05:28,000
+completely scared that there would be a world war.
+
+1641
+01:05:28,000 --> 01:05:30,000
+Because on YouTube it says
+
+1642
+01:05:30,000 --> 01:05:32,000
+that on October 26,
+
+1643
+01:05:32,000 --> 01:05:34,000
+and we had
+
+1644
+01:05:34,000 --> 01:05:36,000
+a whole mess made up
+
+1645
+01:05:36,000 --> 01:05:38,000
+where we would hide,
+
+1646
+01:05:38,000 --> 01:05:40,000
+and we started to learn
+
+1647
+01:05:40,000 --> 01:05:42,000
+that not everything someone says on YouTube
+
+1648
+01:05:42,000 --> 01:05:44,000
+also holds ideals.
+
+1649
+01:05:44,000 --> 01:05:46,000
+Which beliefs are negligible, which are not negligible.
+
+1650
+01:05:46,000 --> 01:05:48,000
+So that's
+
+1651
+01:05:48,000 --> 01:05:50,000
+where we started.
+
+1652
+01:05:50,000 --> 01:05:52,000
+And with digital literacy,
+
+1653
+01:05:52,000 --> 01:05:54,000
+until now,
+
+1654
+01:05:54,000 --> 01:05:56,000
+when I went to school,
+
+1655
+01:05:56,000 --> 01:05:58,000
+we programmed.
+
+1656
+01:05:58,000 --> 01:06:00,000
+But at that time there were no social networks,
+
+1657
+01:06:00,000 --> 01:06:02,000
+there was no all of that.
+
+1658
+01:06:02,000 --> 01:06:04,000
+Now, digital knowledge
+
+1659
+01:06:04,000 --> 01:06:06,000
+and competence are exactly determined.
+
+1660
+01:06:06,000 --> 01:06:08,000
+Information and additional literacy,
+
+1661
+01:06:08,000 --> 01:06:10,000
+because that also falls,
+
+1662
+01:06:10,000 --> 01:06:12,000
+either it is for fake news
+
+1663
+01:06:12,000 --> 01:06:14,000
+or for disinformation.
+
+1664
+01:06:14,000 --> 01:06:16,000
+Then we have the use of new technologies
+
+1665
+01:06:16,000 --> 01:06:18,000
+for communication
+
+1666
+01:06:18,000 --> 01:06:20,000
+and cooperation.
+
+1667
+01:06:20,000 --> 01:06:22,000
+If we say that young digital writers
+
+1668
+01:06:22,000 --> 01:06:24,000
+are right, how many of them,
+
+1669
+01:06:24,000 --> 01:06:26,000
+how many students always wanted
+
+1670
+01:06:26,000 --> 01:06:28,000
+the whole class to prepare notes
+
+1671
+01:06:28,000 --> 01:06:30,000
+in digital tools.
+
+1672
+01:06:30,000 --> 01:06:32,000
+Because I notice that in our ministry,
+
+1673
+01:06:32,000 --> 01:06:34,000
+almost everyone did not know how to use
+
+1674
+01:06:34,000 --> 01:06:36,000
+documents for joint creation of a document,
+
+1675
+01:06:36,000 --> 01:06:38,000
+which is something else.
+
+1676
+01:06:38,000 --> 01:06:40,000
+The next category here is
+
+1677
+01:06:40,000 --> 01:06:42,000
+the creation of new personalities.
+
+1678
+01:06:42,000 --> 01:06:44,000
+Also what we do today is part of digital literacy.
+
+1679
+01:06:44,000 --> 01:06:46,000
+We don't just talk about PowerPoint,
+
+1680
+01:06:46,000 --> 01:06:48,000
+but you can also shoot something
+
+1681
+01:06:48,000 --> 01:06:50,000
+to present your work.
+
+1682
+01:06:50,000 --> 01:06:52,000
+Then there is
+
+1683
+01:06:52,000 --> 01:06:54,000
+security at the meeting
+
+1684
+01:06:54,000 --> 01:06:56,000
+and solving problems
+
+1685
+01:06:56,000 --> 01:06:58,000
+with new technologies,
+
+1686
+01:06:58,000 --> 01:07:00,000
+which then comes to programming,
+
+1687
+01:07:00,000 --> 01:07:02,000
+artificial intelligence and so on.
+
+1688
+01:07:02,000 --> 01:07:04,000
+Now, depending on the age,
+
+1689
+01:07:04,000 --> 01:07:06,000
+there should not be
+
+1690
+01:07:06,000 --> 01:07:08,000
+a special subject
+
+1691
+01:07:08,000 --> 01:07:10,000
+that we will call
+
+1692
+01:07:10,000 --> 01:07:12,000
+digital literacy or digitization
+
+1693
+01:07:12,000 --> 01:07:14,000
+or whatever, but you are
+
+1694
+01:07:14,000 --> 01:07:16,000
+one of those people who can
+
+1695
+01:07:16,000 --> 01:07:18,000
+get involved in already existing subjects.
+
+1696
+01:07:18,000 --> 01:07:20,000
+Or rather, you have to get involved
+
+1697
+01:07:20,000 --> 01:07:22,000
+in already existing subjects.
+
+1698
+01:07:22,000 --> 01:07:24,000
+There are a lot of questions
+
+1699
+01:07:24,000 --> 01:07:26,000
+that will probably be
+
+1700
+01:07:26,000 --> 01:07:28,000
+on the learning system itself,
+
+1701
+01:07:28,000 --> 01:07:30,000
+how we will prepare the class,
+
+1702
+01:07:30,000 --> 01:07:32,000
+how we will teach the class
+
+1703
+01:07:32,000 --> 01:07:34,000
+and motivate the teachers
+
+1704
+01:07:34,000 --> 01:07:36,000
+to take this time,
+
+1705
+01:07:36,000 --> 01:07:38,000
+a little older.
+
+1706
+01:07:38,000 --> 01:07:40,000
+We also have to
+
+1707
+01:07:40,000 --> 01:07:42,000
+attract teachers
+
+1708
+01:07:42,000 --> 01:07:44,000
+first,
+
+1709
+01:07:44,000 --> 01:07:46,000
+because we think
+
+1710
+01:07:46,000 --> 01:07:48,000
+they will see
+
+1711
+01:07:48,000 --> 01:07:50,000
+what kind of skills
+
+1712
+01:07:50,000 --> 01:07:52,000
+there are in this area.
+
+1713
+01:07:52,000 --> 01:07:54,000
+First, we have to
+
+1714
+01:07:54,000 --> 01:07:56,000
+introduce these technologies to the teachers,
+
+1715
+01:07:56,000 --> 01:07:58,000
+to avoid
+
+1716
+01:07:58,000 --> 01:08:00,000
+technophobia,
+
+1717
+01:08:00,000 --> 01:08:02,000
+because some teachers think
+
+1718
+01:08:02,000 --> 01:08:04,000
+that with new technologies
+
+1719
+01:08:04,000 --> 01:08:06,000
+it will no longer be necessary for them to be present.
+
+1720
+01:08:06,000 --> 01:08:08,000
+Apart from that,
+
+1721
+01:08:08,000 --> 01:08:10,000
+we will need
+
+1722
+01:08:10,000 --> 01:08:12,000
+the best teachers
+
+1723
+01:08:12,000 --> 01:08:14,000
+for new technologies.
+
+1724
+01:08:14,000 --> 01:08:16,000
+And it is also necessary
+
+1725
+01:08:16,000 --> 01:08:18,000
+for faculties where teachers are being educated
+
+1726
+01:08:18,000 --> 01:08:20,000
+to be included in the curriculum,
+
+1727
+01:08:20,000 --> 01:08:22,000
+to know how to work
+
+1728
+01:08:22,000 --> 01:08:24,000
+with these new technologies.
+
+1729
+01:08:24,000 --> 01:08:26,000
+And this will not happen today,
+
+1730
+01:08:26,000 --> 01:08:28,000
+in the morning. And now, on the one hand,
+
+1731
+01:08:28,000 --> 01:08:30,000
+we are also working on the Ministry,
+
+1732
+01:08:30,000 --> 01:08:32,000
+we are performing informal
+
+1733
+01:08:32,000 --> 01:08:34,000
+education and training,
+
+1734
+01:08:34,000 --> 01:08:36,000
+but again, this will not be enough.
+
+1735
+01:08:36,000 --> 01:08:38,000
+It will be necessary to do everything together
+
+1736
+01:08:38,000 --> 01:08:40,000
+even more formally.
+
+1737
+01:08:40,000 --> 01:08:42,000
+Can I ask a purely practical question?
+
+1738
+01:08:42,000 --> 01:08:44,000
+For example,
+
+1739
+01:08:44,000 --> 01:08:46,000
+what happened to you?
+
+1740
+01:08:46,000 --> 01:08:48,000
+You are in a larger organization,
+
+1741
+01:08:48,000 --> 01:08:50,000
+a decision comes from above,
+
+1742
+01:08:50,000 --> 01:08:52,000
+now you will use some XY software.
+
+1743
+01:08:52,000 --> 01:08:54,000
+From tomorrow on,
+
+1744
+01:08:54,000 --> 01:08:56,000
+maybe education, maybe not,
+
+1745
+01:08:56,000 --> 01:08:58,000
+maybe all-relevant education,
+
+1746
+01:08:58,000 --> 01:09:00,000
+and from that time on,
+
+1747
+01:09:00,000 --> 01:09:02,000
+you will use this software,
+
+1748
+01:09:02,000 --> 01:09:04,000
+because we have decided so.
+
+1749
+01:09:04,000 --> 01:09:06,000
+Do you have any advice?
+
+1750
+01:09:06,000 --> 01:09:08,000
+Because experience
+
+1751
+01:09:08,000 --> 01:09:10,000
+and research
+
+1752
+01:09:10,000 --> 01:09:12,000
+says that people
+
+1753
+01:09:12,000 --> 01:09:14,000
+learn from changes.
+
+1754
+01:09:14,000 --> 01:09:16,000
+And people need to
+
+1755
+01:09:16,000 --> 01:09:18,000
+change,
+
+1756
+01:09:18,000 --> 01:09:20,000
+give, pack,
+
+1757
+01:09:20,000 --> 01:09:22,000
+and tell them
+
+1758
+01:09:22,000 --> 01:09:24,000
+why we do it.
+
+1759
+01:09:24,000 --> 01:09:26,000
+And I'm also interested
+
+1760
+01:09:26,000 --> 01:09:28,000
+how you actually
+
+1761
+01:09:28,000 --> 01:09:30,000
+try to sell these changes
+
+1762
+01:09:30,000 --> 01:09:32,000
+to people at the end of the day.
+
+1763
+01:09:32,000 --> 01:09:34,000
+Because if Andraž doesn't know
+
+1764
+01:09:34,000 --> 01:09:36,000
+what the advantage of this software is,
+
+1765
+01:09:36,000 --> 01:09:38,000
+he probably won't want to use it.
+
+1766
+01:09:38,000 --> 01:09:40,000
+And you just said
+
+1767
+01:09:40,000 --> 01:09:42,000
+your question.
+
+1768
+01:09:42,000 --> 01:09:44,000
+We can never say
+
+1769
+01:09:44,000 --> 01:09:46,000
+we will do it because I said so,
+
+1770
+01:09:46,000 --> 01:09:48,000
+but we have to say
+
+1771
+01:09:48,000 --> 01:09:50,000
+what the advantage is.
+
+1772
+01:09:50,000 --> 01:09:52,000
+And also with teachers,
+
+1773
+01:09:52,000 --> 01:09:54,000
+we will not use
+
+1774
+01:09:54,000 --> 01:09:56,000
+new software in Python
+
+1775
+01:09:56,000 --> 01:09:58,000
+because he is a minister
+
+1776
+01:09:58,000 --> 01:10:00,000
+or president of the government
+
+1777
+01:10:00,000 --> 01:10:02,000
+or director of the Institute for Education,
+
+1778
+01:10:02,000 --> 01:10:04,000
+but because
+
+1779
+01:10:04,000 --> 01:10:06,000
+students will get such skills
+
+1780
+01:10:06,000 --> 01:10:08,000
+and your work will be more successful,
+
+1781
+01:10:08,000 --> 01:10:10,000
+your work will be easier.
+
+1782
+01:10:10,000 --> 01:10:12,000
+You have to tell people
+
+1783
+01:10:12,000 --> 01:10:14,000
+what's in it for me.
+
+1784
+01:10:14,000 --> 01:10:16,000
+After all, we all come out of it
+
+1785
+01:10:16,000 --> 01:10:18,000
+that we want to get something,
+
+1786
+01:10:18,000 --> 01:10:20,000
+some benefit.
+
+1787
+01:10:20,000 --> 01:10:22,000
+I myself worked on projects for smart education.
+
+1788
+01:10:22,000 --> 01:10:24,000
+And when we
+
+1789
+01:10:24,000 --> 01:10:26,000
+offered new technologies,
+
+1790
+01:10:26,000 --> 01:10:28,000
+the Internet of Things
+
+1791
+01:10:28,000 --> 01:10:30,000
+to farmers,
+
+1792
+01:10:30,000 --> 01:10:32,000
+we didn't say because we want green education
+
+1793
+01:10:32,000 --> 01:10:34,000
+and digital education
+
+1794
+01:10:34,000 --> 01:10:36,000
+for children.
+
+1795
+01:10:36,000 --> 01:10:38,000
+I don't know if there will be costs
+
+1796
+01:10:38,000 --> 01:10:40,000
+because you will know
+
+1797
+01:10:40,000 --> 01:10:42,000
+easier whether it has come to some disease.
+
+1798
+01:10:42,000 --> 01:10:44,000
+We told them
+
+1799
+01:10:44,000 --> 01:10:46,000
+what benefits they will have
+
+1800
+01:10:46,000 --> 01:10:48,000
+from using
+
+1801
+01:10:48,000 --> 01:10:50,000
+new technologies.
+
+1802
+01:10:50,000 --> 01:10:52,000
+No, if it were Deops,
+
+1803
+01:10:52,000 --> 01:10:54,000
+or if it were that tooling monster,
+
+1804
+01:10:54,000 --> 01:10:56,000
+then I would know how much
+
+1805
+01:10:56,000 --> 01:10:58,000
+I have to give money in time.
+
+1806
+01:10:58,000 --> 01:11:00,000
+We will simply
+
+1807
+01:11:00,000 --> 01:11:02,000
+distribute where we can
+
+1808
+01:11:02,000 --> 01:11:04,000
+profit,
+
+1809
+01:11:04,000 --> 01:11:06,000
+so we don't have to look
+
+1810
+01:11:06,000 --> 01:11:08,000
+at the code anymore.
+
+1811
+01:11:08,000 --> 01:11:10,000
+We have two consequences.
+
+1812
+01:11:10,000 --> 01:11:12,000
+One, if we can automate it,
+
+1813
+01:11:12,000 --> 01:11:14,000
+Linter will fix it.
+
+1814
+01:11:14,000 --> 01:11:16,000
+We can ask one more question.
+
+1815
+01:11:16,000 --> 01:11:18,000
+We were talking about
+
+1816
+01:11:18,000 --> 01:11:20,000
+some tools.
+
+1817
+01:11:20,000 --> 01:11:22,000
+What is it now
+
+1818
+01:11:22,000 --> 01:11:24,000
+when we see this commercial breakthrough
+
+1819
+01:11:24,000 --> 01:11:26,000
+of the next generation of artificial intelligence
+
+1820
+01:11:26,000 --> 01:11:28,000
+with large language models,
+
+1821
+01:11:28,000 --> 01:11:30,000
+chat prompts?
+
+1822
+01:11:30,000 --> 01:11:32,000
+It seems that a lot of people
+
+1823
+01:11:32,000 --> 01:11:34,000
+and let's leave those
+
+1824
+01:11:34,000 --> 01:11:36,000
+who are driving,
+
+1825
+01:11:36,000 --> 01:11:38,000
+but a lot of people
+
+1826
+01:11:38,000 --> 01:11:40,000
+have a little
+
+1827
+01:11:40,000 --> 01:11:42,000
+delay, or rather
+
+1828
+01:11:42,000 --> 01:11:44,000
+a technophobia that
+
+1829
+01:11:44,000 --> 01:11:46,000
+this technology can
+
+1830
+01:11:46,000 --> 01:11:48,000
+automate a lot of my work.
+
+1831
+01:11:48,000 --> 01:11:50,000
+If I am satisfied
+
+1832
+01:11:50,000 --> 01:11:52,000
+that we are using it now, then I will be absolutely satisfied.
+
+1833
+01:11:54,000 --> 01:11:56,000
+This means that we will be able
+
+1834
+01:11:56,000 --> 01:11:58,000
+to quickly learn
+
+1835
+01:11:58,000 --> 01:12:00,000
+what to do with this technology,
+
+1836
+01:12:00,000 --> 01:12:02,000
+how to use it.
+
+1837
+01:12:02,000 --> 01:12:04,000
+Or use it.
+
+1838
+01:12:04,000 --> 01:12:06,000
+I would like to hear that.
+
+1839
+01:12:06,000 --> 01:12:08,000
+What do you see in this space?
+
+1840
+01:12:08,000 --> 01:12:10,000
+How will we use it?
+
+1841
+01:12:10,000 --> 01:12:12,000
+We have to be so smart
+
+1842
+01:12:12,000 --> 01:12:14,000
+and use this technology
+
+1843
+01:12:14,000 --> 01:12:16,000
+to help us,
+
+1844
+01:12:16,000 --> 01:12:18,000
+so that we can be even better.
+
+1845
+01:12:18,000 --> 01:12:20,000
+If I, as a researcher,
+
+1846
+01:12:20,000 --> 01:12:22,000
+now this technology helps me
+
+1847
+01:12:22,000 --> 01:12:24,000
+to get here,
+
+1848
+01:12:24,000 --> 01:12:26,000
+it means that I can go from here
+
+1849
+01:12:26,000 --> 01:12:28,000
+forward,
+
+1850
+01:12:28,000 --> 01:12:30,000
+save my time
+
+1851
+01:12:30,000 --> 01:12:32,000
+so that I can work
+
+1852
+01:12:32,000 --> 01:12:34,000
+even better.
+
+1853
+01:12:34,000 --> 01:12:36,000
+Everyone who has used
+
+1854
+01:12:36,000 --> 01:12:38,000
+chat with GPT is currently the best.
+
+1855
+01:12:38,000 --> 01:12:40,000
+Not everything he does is true.
+
+1856
+01:12:40,000 --> 01:12:42,000
+If you know this area,
+
+1857
+01:12:42,000 --> 01:12:44,000
+it can save you
+
+1858
+01:12:44,000 --> 01:12:46,000
+a lot of initial work.
+
+1859
+01:12:46,000 --> 01:12:48,000
+But from here on,
+
+1860
+01:12:48,000 --> 01:12:50,000
+you can see how good or bad you are.
+
+1861
+01:12:50,000 --> 01:12:52,000
+I see this as an additional
+
+1862
+01:12:52,000 --> 01:12:54,000
+tool.
+
+1863
+01:12:54,000 --> 01:12:56,000
+We have to communicate
+
+1864
+01:12:56,000 --> 01:12:58,000
+with each other.
+
+1865
+01:12:58,000 --> 01:13:00,000
+In some way,
+
+1866
+01:13:00,000 --> 01:13:02,000
+we will need some kind of
+
+1867
+01:13:02,000 --> 01:13:04,000
+regulation.
+
+1868
+01:13:04,000 --> 01:13:06,000
+I am aiming for fake videos.
+
+1869
+01:13:06,000 --> 01:13:08,000
+In the EU,
+
+1870
+01:13:08,000 --> 01:13:10,000
+everyone is thinking about it.
+
+1871
+01:13:10,000 --> 01:13:12,000
+Artificial intelligence,
+
+1872
+01:13:12,000 --> 01:13:14,000
+but
+
+1873
+01:13:14,000 --> 01:13:16,000
+personally,
+
+1874
+01:13:16,000 --> 01:13:18,000
+I don't care about technology.
+
+1875
+01:13:18,000 --> 01:13:20,000
+I care about people.
+
+1876
+01:13:20,000 --> 01:13:22,000
+Because I don't trust
+
+1877
+01:13:22,000 --> 01:13:24,000
+people to remember
+
+1878
+01:13:24,000 --> 01:13:26,000
+for what purpose
+
+1879
+01:13:26,000 --> 01:13:28,000
+they will use this technology.
+
+1880
+01:13:28,000 --> 01:13:30,000
+That's why we need regulation.
+
+1881
+01:13:30,000 --> 01:13:32,000
+Through history, we have found
+
+1882
+01:13:32,000 --> 01:13:34,000
+a lot of people who use technology
+
+1883
+01:13:34,000 --> 01:13:36,000
+for other good things.
+
+1884
+01:13:36,000 --> 01:13:38,000
+This is probably
+
+1885
+01:13:38,000 --> 01:13:40,000
+the question of artificial intelligence.
+
+1886
+01:13:40,000 --> 01:13:42,000
+Will it help us
+
+1887
+01:13:42,000 --> 01:13:44,000
+to regulate
+
+1888
+01:13:44,000 --> 01:13:46,000
+these things
+
+1889
+01:13:46,000 --> 01:13:48,000
+so that we won't do...
+
+1890
+01:13:48,000 --> 01:13:50,000
+Yes, on the one hand...
+
+1891
+01:13:50,000 --> 01:13:52,000
+Can it be legalized?
+
+1892
+01:13:52,000 --> 01:13:54,000
+It's very difficult.
+
+1893
+01:13:54,000 --> 01:13:56,000
+Because laws are
+
+1894
+01:13:56,000 --> 01:13:58,000
+very slow
+
+1895
+01:13:58,000 --> 01:14:00,000
+processes.
+
+1896
+01:14:00,000 --> 01:14:02,000
+And it's true.
+
+1897
+01:14:02,000 --> 01:14:04,000
+When you work with laws, you have to think about everything.
+
+1898
+01:14:04,000 --> 01:14:06,000
+On the other hand, we are talking about
+
+1899
+01:14:06,000 --> 01:14:08,000
+technologies that develop extremely fast.
+
+1900
+01:14:08,000 --> 01:14:10,000
+What do we want for regulation?
+
+1901
+01:14:10,000 --> 01:14:12,000
+For regulation, we want
+
+1902
+01:14:12,000 --> 01:14:14,000
+to maximize the benefits.
+
+1903
+01:14:14,000 --> 01:14:16,000
+On the other hand,
+
+1904
+01:14:16,000 --> 01:14:18,000
+to reduce the risks.
+
+1905
+01:14:18,000 --> 01:14:20,000
+Artificial intelligence is a technology
+
+1906
+01:14:20,000 --> 01:14:22,000
+that is developing.
+
+1907
+01:14:22,000 --> 01:14:24,000
+We don't know yet what benefits
+
+1908
+01:14:24,000 --> 01:14:26,000
+it will bring us.
+
+1909
+01:14:26,000 --> 01:14:28,000
+We don't know all the risks.
+
+1910
+01:14:28,000 --> 01:14:30,000
+If we work with laws,
+
+1911
+01:14:30,000 --> 01:14:32,000
+then it's even worse.
+
+1912
+01:14:32,000 --> 01:14:34,000
+Because the process is slow.
+
+1913
+01:14:34,000 --> 01:14:36,000
+What do we need to start talking about?
+
+1914
+01:14:36,000 --> 01:14:38,000
+We have a huge debate
+
+1915
+01:14:38,000 --> 01:14:40,000
+about the United Nations
+
+1916
+01:14:40,000 --> 01:14:42,000
+and about the world of Europe.
+
+1917
+01:14:42,000 --> 01:14:44,000
+They are our news.
+
+1918
+01:14:44,000 --> 01:14:46,000
+We need to start
+
+1919
+01:14:46,000 --> 01:14:48,000
+about ethics by design
+
+1920
+01:14:48,000 --> 01:14:50,000
+in artificial intelligence.
+
+1921
+01:14:50,000 --> 01:14:52,000
+We need to agree
+
+1922
+01:14:52,000 --> 01:14:54,000
+to have a consensus
+
+1923
+01:14:54,000 --> 01:14:56,000
+about the rules we will use
+
+1924
+01:14:56,000 --> 01:14:58,000
+when creating new technologies.
+
+1925
+01:14:58,000 --> 01:15:00,000
+So that we don't come to the point
+
+1926
+01:15:00,000 --> 01:15:02,000
+of regulation.
+
+1927
+01:15:00,000 --> 01:15:03,000
+regulation as we would like it to be.
+
+1928
+01:15:03,000 --> 01:15:06,000
+What I notice globally,
+
+1929
+01:15:06,000 --> 01:15:09,000
+what is happening is that maybe
+
+1930
+01:15:09,000 --> 01:15:12,000
+some countries will regulate less
+
+1931
+01:15:12,000 --> 01:15:15,000
+just because they will come faster to some breakthroughs.
+
+1932
+01:15:15,000 --> 01:15:18,000
+But here we have to ask ourselves what we want.
+
+1933
+01:15:18,000 --> 01:15:21,000
+Because some countries will do that.
+
+1934
+01:15:21,000 --> 01:15:24,000
+Some countries, at the end,
+
+1935
+01:15:24,000 --> 01:15:27,000
+use these technologies, for example,
+
+1936
+01:15:27,000 --> 01:15:30,000
+mostly for monitoring their existence.
+
+1937
+01:15:30,000 --> 01:15:33,000
+Do we want that? I personally do not want that.
+
+1938
+01:15:33,000 --> 01:15:36,000
+Some countries are going exclusively for commercialization
+
+1939
+01:15:36,000 --> 01:15:39,000
+and are probably more successful.
+
+1940
+01:15:39,000 --> 01:15:42,000
+The goal of Europe is still to establish
+
+1941
+01:15:42,000 --> 01:15:45,000
+human rights, consumer rights,
+
+1942
+01:15:45,000 --> 01:15:48,000
+the protection of personal data in advance.
+
+1943
+01:15:48,000 --> 01:15:51,000
+And I personally think that is right.
+
+1944
+01:15:51,000 --> 01:15:54,000
+That is, we all want
+
+1945
+01:15:54,000 --> 01:15:57,000
+that it will be used less,
+
+1946
+01:15:57,000 --> 01:16:00,000
+as we said, face recognition,
+
+1947
+01:16:00,000 --> 01:16:03,000
+connection of some...
+
+1948
+01:16:03,000 --> 01:16:06,000
+We are reducing the possibility of hacking of technology.
+
+1949
+01:16:06,000 --> 01:16:09,000
+Okay.
+
+1950
+01:16:09,000 --> 01:16:12,000
+Now it's going to be hard.
+
+1951
+01:16:12,000 --> 01:16:15,000
+It was the most interesting.
+
+1952
+01:16:15,000 --> 01:16:18,000
+In the last segment, we prepared a few questions
+
+1953
+01:16:18,000 --> 01:16:21,000
+more about you.
+
+1954
+01:16:21,000 --> 01:16:24,000
+We studied your questions first.
+
+1955
+01:16:24,000 --> 01:16:27,000
+We started with the ministry.
+
+1956
+01:16:27,000 --> 01:16:30,000
+And we were like, okay,
+
+1957
+01:16:30,000 --> 01:16:33,000
+you are a minister, you have a great role.
+
+1958
+01:16:33,000 --> 01:16:36,000
+So we said, okay,
+
+1959
+01:16:36,000 --> 01:16:39,000
+we will have more of these fake topics at the end.
+
+1960
+01:16:39,000 --> 01:16:42,000
+Now, in your career, you have done
+
+1961
+01:16:42,000 --> 01:16:45,000
+a lot of research, academic work.
+
+1962
+01:16:45,000 --> 01:16:48,000
+That is, health, smart cities,
+
+1963
+01:16:48,000 --> 01:16:51,000
+socialization, support.
+
+1964
+01:16:51,000 --> 01:16:54,000
+How and why did you jump from
+
+1965
+01:16:54,000 --> 01:16:57,000
+some academic research world
+
+1966
+01:16:57,000 --> 01:17:00,000
+to politics?
+
+1967
+01:17:00,000 --> 01:17:03,000
+When I started working at the Faculty of Electrical Engineering,
+
+1968
+01:17:03,000 --> 01:17:06,000
+I was using a tool,
+
+1969
+01:17:06,000 --> 01:17:09,000
+a psychological tool,
+
+1970
+01:17:09,000 --> 01:17:12,000
+which tells you what your profile is, what it means to you.
+
+1971
+01:17:12,000 --> 01:17:15,000
+And all the psychological tests I took
+
+1972
+01:17:15,000 --> 01:17:18,000
+showed that impact means the most to me.
+
+1973
+01:17:18,000 --> 01:17:21,000
+And where you can make the biggest impact,
+
+1974
+01:17:21,000 --> 01:17:24,000
+if you can look at it that way,
+
+1975
+01:17:24,000 --> 01:17:27,000
+is in politics, in creating real politicians.
+
+1976
+01:17:27,000 --> 01:17:30,000
+And maybe just from that word,
+
+1977
+01:17:30,000 --> 01:17:33,000
+because I was doing everything in the economy,
+
+1978
+01:17:33,000 --> 01:17:36,000
+I started my career in the economy,
+
+1979
+01:17:36,000 --> 01:17:39,000
+a beautiful experience.
+
+1980
+01:17:39,000 --> 01:17:42,000
+And I would also like all colleagues in universities and faculties
+
+1981
+01:17:42,000 --> 01:17:45,000
+to work in a large international field,
+
+1982
+01:17:45,000 --> 01:17:48,000
+because there were different sectors, special development,
+
+1983
+01:17:48,000 --> 01:17:51,000
+special marketing, where I learned that
+
+1984
+01:17:51,000 --> 01:17:54,000
+if you work in the same field, you speak a different language
+
+1985
+01:17:54,000 --> 01:17:57,000
+and you can learn to talk to your colleagues.
+
+1986
+01:17:57,000 --> 01:18:00,000
+Then I worked at a university,
+
+1987
+01:18:00,000 --> 01:18:03,000
+which is again a different world, a research work,
+
+1988
+01:18:03,000 --> 01:18:06,000
+a teaching work, you also make a huge impact,
+
+1989
+01:18:06,000 --> 01:18:09,000
+if you can see it that way.
+
+1990
+01:18:09,000 --> 01:18:12,000
+Then I started working on European projects,
+
+1991
+01:18:12,000 --> 01:18:15,000
+this change, experience, knowledge.
+
+1992
+01:18:15,000 --> 01:18:18,000
+And that's when I first touched on policymaking,
+
+1993
+01:18:18,000 --> 01:18:21,000
+because we talked a lot about policymaking
+
+1994
+01:18:21,000 --> 01:18:24,000
+through Interac Europe,
+
+1995
+01:18:24,000 --> 01:18:27,000
+and I saw what effect you can actually achieve
+
+1996
+01:18:27,000 --> 01:18:30,000
+with that work.
+
+1997
+01:18:30,000 --> 01:18:33,000
+This policymaking,
+
+1998
+01:18:33,000 --> 01:18:36,000
+you mentioned it many times in previous interviews,
+
+1999
+01:18:36,000 --> 01:18:39,000
+what is the main difference between a policymaker
+
+2000
+01:18:39,000 --> 01:18:42,000
+and a politician?
+
+2001
+01:18:42,000 --> 01:18:45,000
+A policymaker doesn't have to be a member of a political party
+
+2002
+01:18:45,000 --> 01:18:48,000
+to establish a policy.
+
+2003
+01:18:48,000 --> 01:18:51,000
+A politician often doesn't deal
+
+2004
+01:18:51,000 --> 01:18:54,000
+so much with establishing a policy,
+
+2005
+01:18:54,000 --> 01:18:57,000
+but with making an agenda.
+
+2006
+01:18:57,000 --> 01:19:00,000
+So you see yourself more as an engineer than a policymaker?
+
+2007
+01:19:00,000 --> 01:19:03,000
+Yes.
+
+2008
+01:19:03,000 --> 01:19:06,000
+Now,
+
+2009
+01:19:06,000 --> 01:19:09,000
+when we were preparing this podcast,
+
+2010
+01:19:09,000 --> 01:19:12,000
+we tried to put together a bunch of questions
+
+2011
+01:19:12,000 --> 01:19:15,000
+that maybe some of you couldn't predict.
+
+2012
+01:19:15,000 --> 01:19:18,000
+Let's say,
+
+2013
+01:19:18,000 --> 01:19:21,000
+Interac or CGPT,
+
+2014
+01:19:21,000 --> 01:19:24,000
+that means they're not copy-pastes
+
+2015
+01:19:24,000 --> 01:19:27,000
+from Digital Slovenia 2030,
+
+2016
+01:19:27,000 --> 01:19:30,000
+because it's a bit different,
+
+2017
+01:19:30,000 --> 01:19:33,000
+because we're not professional journalists.
+
+2018
+01:19:33,000 --> 01:19:36,000
+What are you talking about?
+
+2019
+01:19:36,000 --> 01:19:39,000
+It's a good thing we have,
+
+2020
+01:19:39,000 --> 01:19:42,000
+maybe we had more time as professional journalists
+
+2021
+01:19:42,000 --> 01:19:45,000
+to think about these questions.
+
+2022
+01:19:45,000 --> 01:19:48,000
+Tomorrow we don't have to write new columns.
+
+2023
+01:19:48,000 --> 01:19:51,000
+Now, we were wondering,
+
+2024
+01:19:51,000 --> 01:19:54,000
+OK, we don't have to ask you
+
+2025
+01:19:54,000 --> 01:19:57,000
+questions that would activate
+
+2026
+01:19:57,000 --> 01:20:00,000
+a bunch of Twitter bots,
+
+2027
+01:20:00,000 --> 01:20:03,000
+let's put it that way.
+
+2028
+01:20:03,000 --> 01:20:06,000
+How do you look at this communication
+
+2029
+01:20:06,000 --> 01:20:09,000
+through social media?
+
+2030
+01:20:09,000 --> 01:20:12,000
+For example...
+
+2031
+01:20:12,000 --> 01:20:15,000
+I don't look at the questions I would ask.
+
+2032
+01:20:15,000 --> 01:20:18,000
+It would be like this.
+
+2033
+01:20:18,000 --> 01:20:21,000
+Because someone doesn't like how I write.
+
+2034
+01:20:21,000 --> 01:20:24,000
+Someone would get stuck in what I'm wearing today.
+
+2035
+01:20:24,000 --> 01:20:27,000
+These are people
+
+2036
+01:20:27,000 --> 01:20:30,000
+who don't have anything smart.
+
+2037
+01:20:30,000 --> 01:20:33,000
+I also get e-mails
+
+2038
+01:20:33,000 --> 01:20:36,000
+asking where I came from.
+
+2039
+01:20:36,000 --> 01:20:39,000
+But someone won't like it
+
+2040
+01:20:39,000 --> 01:20:42,000
+and will ask me where I got my Slavic clothes from.
+
+2041
+01:20:42,000 --> 01:20:45,000
+I just let it go.
+
+2042
+01:20:45,000 --> 01:20:48,000
+I don't even choose those comments anymore.
+
+2043
+01:20:48,000 --> 01:20:51,000
+I decided to ignore
+
+2044
+01:20:51,000 --> 01:20:54,000
+the comments of certain journalists.
+
+2045
+01:20:54,000 --> 01:20:57,000
+The worst thing for me
+
+2046
+01:20:57,000 --> 01:21:00,000
+is that you have children.
+
+2047
+01:21:00,000 --> 01:21:03,000
+I don't know how,
+
+2048
+01:21:03,000 --> 01:21:06,000
+but somehow these comments come to my child.
+
+2049
+01:21:06,000 --> 01:21:09,000
+And my child has to think
+
+2050
+01:21:09,000 --> 01:21:12,000
+about what to write about his mother.
+
+2051
+01:21:12,000 --> 01:21:15,000
+That's the worst and the hardest.
+
+2052
+01:21:15,000 --> 01:21:18,000
+Yes.
+
+2053
+01:21:18,000 --> 01:21:21,000
+It feels like a war zone.
+
+2054
+01:21:21,000 --> 01:21:24,000
+That's the word.
+
+2055
+01:21:24,000 --> 01:21:27,000
+Even when we were preparing for this,
+
+2056
+01:21:27,000 --> 01:21:30,000
+we really tried to focus on ourselves.
+
+2057
+01:21:30,000 --> 01:21:33,000
+And now we know
+
+2058
+01:21:33,000 --> 01:21:36,000
+that we will definitely get some messages back.
+
+2059
+01:21:36,000 --> 01:21:39,000
+But we tried to get that personality.
+
+2060
+01:21:39,000 --> 01:21:42,000
+Because it seems important to us.
+
+2061
+01:21:42,000 --> 01:21:45,000
+For everyone.
+
+2062
+01:21:45,000 --> 01:21:48,000
+For everyone.
+
+2063
+01:21:48,000 --> 01:21:51,000
+And we didn't like those parts.
+
+2064
+01:21:51,000 --> 01:21:54,000
+I think we will be able to think strategically.
+
+2065
+01:21:54,000 --> 01:21:57,000
+We will hold on if we want to make breakthroughs.
+
+2066
+01:21:57,000 --> 01:22:00,000
+Yes.
+
+2067
+01:22:00,000 --> 01:22:03,000
+You can also build a filter
+
+2068
+01:22:03,000 --> 01:22:06,000
+so that what is written there
+
+2069
+01:22:06,000 --> 01:22:09,000
+doesn't have a daily state in the real world.
+
+2070
+01:22:09,000 --> 01:22:12,000
+And vice versa.
+
+2071
+01:22:12,000 --> 01:22:15,000
+I would like to talk about
+
+2072
+01:22:15,000 --> 01:22:18,000
+your online presence.
+
+2073
+01:22:18,000 --> 01:22:21,000
+In Grodje we are working
+
+2074
+01:22:21,000 --> 01:22:24,000
+through trial and error.
+
+2075
+01:22:24,000 --> 01:22:27,000
+There are three important segments in Grodje.
+
+2076
+01:22:27,000 --> 01:22:30,000
+First we start with pre-preparation.
+
+2077
+01:22:30,000 --> 01:22:33,000
+Who will host?
+
+2078
+01:22:33,000 --> 01:22:36,000
+Then we have recording.
+
+2079
+01:22:36,000 --> 01:22:39,000
+Post-production and everything else.
+
+2080
+01:22:39,000 --> 01:22:42,000
+And the third part
+
+2081
+01:22:42,000 --> 01:22:45,000
+where we need to pack the personality
+
+2082
+01:22:45,000 --> 01:22:48,000
+and give it a nice picture
+
+2083
+01:22:48,000 --> 01:22:51,000
+and sell it to our audience.
+
+2084
+01:22:51,000 --> 01:22:54,000
+So that they can consume it.
+
+2085
+01:22:54,000 --> 01:22:57,000
+All those parts are extremely important.
+
+2086
+01:22:57,000 --> 01:23:00,000
+And if we do all the production
+
+2087
+01:23:00,000 --> 01:23:03,000
+and marketing
+
+2088
+01:23:03,000 --> 01:23:06,000
+and if we don't pack the personality
+
+2089
+01:23:06,000 --> 01:23:09,000
+and if we don't work on it
+
+2090
+01:23:09,000 --> 01:23:12,000
+and if we will do it and if we did it
+
+2091
+01:23:12,000 --> 01:23:15,000
+then it's too soon to say goodbye.
+
+2092
+01:23:15,000 --> 01:23:18,000
+We have learned that it's very important
+
+2093
+01:23:18,000 --> 01:23:21,000
+to tell people what you do
+
+2094
+01:23:21,000 --> 01:23:24,000
+and communicate with them.
+
+2095
+01:23:24,000 --> 01:23:27,000
+And my question is
+
+2096
+01:23:27,000 --> 01:23:30,000
+how do you balance that focus?
+
+2097
+01:23:30,000 --> 01:23:33,000
+Because if you don't tell people what you do
+
+2098
+01:23:33,000 --> 01:23:36,000
+then they won't know.
+
+2099
+01:23:36,000 --> 01:23:39,000
+I agree.
+
+2100
+01:23:39,000 --> 01:23:42,000
+And it's often in this problem
+
+2101
+01:23:42,000 --> 01:23:45,000
+because we already have a lot in Slovenia.
+
+2102
+01:23:45,000 --> 01:23:48,000
+We already exist in Slovenia.
+
+2103
+01:23:48,000 --> 01:23:51,000
+But people don't know that it exists.
+
+2104
+01:23:51,000 --> 01:23:54,000
+Even in our ministry
+
+2105
+01:23:54,000 --> 01:23:57,000
+where all digital content is free
+
+2106
+01:23:57,000 --> 01:24:00,000
+and everyone can use it.
+
+2107
+01:24:01,000 --> 01:24:04,000
+And we are looking for new ways
+
+2108
+01:24:04,000 --> 01:24:07,000
+how to present it to people.
+
+2109
+01:24:07,000 --> 01:24:10,000
+You have a similar problem
+
+2110
+01:24:10,000 --> 01:24:13,000
+of seeking attention
+
+2111
+01:24:13,000 --> 01:24:16,000
+because you need to tell people
+
+2112
+01:24:16,000 --> 01:24:19,000
+what you do.
+
+2113
+01:24:19,000 --> 01:24:22,000
+You need to get people's attention
+
+2114
+01:24:22,000 --> 01:24:25,000
+so that they will know about it.
+
+2115
+01:24:25,000 --> 01:24:28,000
+So that it doesn't look like propaganda.
+
+2116
+01:24:28,000 --> 01:24:31,000
+That was one of the questions
+
+2117
+01:24:31,000 --> 01:24:34,000
+or the guidelines for this episode.
+
+2118
+01:24:34,000 --> 01:24:37,000
+I hope there won't be another PR.
+
+2119
+01:24:37,000 --> 01:24:40,000
+I hope we managed to break it
+
+2120
+01:24:40,000 --> 01:24:43,000
+and get to the last important questions.
+
+2121
+01:24:43,000 --> 01:24:46,000
+These are short ones.
+
+2122
+01:24:46,000 --> 01:24:49,000
+These are a bunch of short questions.
+
+2123
+01:24:49,000 --> 01:24:52,000
+We said that this is not purely PR.
+
+2124
+01:24:52,000 --> 01:24:55,000
+What would two engineers ask you
+
+2125
+01:24:55,000 --> 01:24:58,000
+if you weren't a journalist?
+
+2126
+01:24:58,000 --> 01:25:01,000
+Which operating system do you like
+
+2127
+01:25:01,000 --> 01:25:04,000
+the most for daily use?
+
+2128
+01:25:04,000 --> 01:25:07,000
+That's a typical question.
+
+2129
+01:25:07,000 --> 01:25:10,000
+I can say that I use MacOS and Windows
+
+2130
+01:25:10,000 --> 01:25:13,000
+every day.
+
+2131
+01:25:13,000 --> 01:25:16,000
+Which is your favorite
+
+2132
+01:25:16,000 --> 01:25:19,000
+programming language and tool?
+
+2133
+01:25:19,000 --> 01:25:22,000
+That's a common question.
+
+2134
+01:25:22,000 --> 01:25:25,000
+You can probably answer it yourself.
+
+2135
+01:25:25,000 --> 01:25:28,000
+It's not necessary.
+
+2136
+01:25:28,000 --> 01:25:31,000
+Why do I like Java the most?
+
+2137
+01:25:31,000 --> 01:25:34,000
+It was the first solution
+
+2138
+01:25:34,000 --> 01:25:37,000
+that I programmed
+
+2139
+01:25:37,000 --> 01:25:40,000
+and that went into production
+
+2140
+01:25:40,000 --> 01:25:43,000
+and then came to life.
+
+2141
+01:25:43,000 --> 01:25:46,000
+I was working on GSMR
+
+2142
+01:25:46,000 --> 01:25:49,000
+and it was programmed in Java.
+
+2143
+01:25:49,000 --> 01:25:52,000
+Maybe it was the beginning of my career
+
+2144
+01:25:52,000 --> 01:25:55,000
+and the first product that came to life.
+
+2145
+01:25:55,000 --> 01:25:58,000
+Which framework would you use in Grodno?
+
+2146
+01:25:58,000 --> 01:26:01,000
+No!
+
+2147
+01:26:01,000 --> 01:26:04,000
+Those were the electrical ones.
+
+2148
+01:26:04,000 --> 01:26:07,000
+That's just the protocol.
+
+2149
+01:26:07,000 --> 01:26:10,000
+It has to be on GUMP.
+
+2150
+01:26:10,000 --> 01:26:13,000
+That's a question that you love.
+
+2151
+01:26:13,000 --> 01:26:16,000
+That's a daily tool.
+
+2152
+01:26:16,000 --> 01:26:19,000
+I mean a tool.
+
+2153
+01:26:19,000 --> 01:26:22,000
+No, that's a daily tool.
+
+2154
+01:26:22,000 --> 01:26:25,000
+I wrote that down.
+
+2155
+01:26:25,000 --> 01:26:28,000
+Are you interested in playing video games?
+
+2156
+01:26:28,000 --> 01:26:31,000
+Have you ever played?
+
+2157
+01:26:31,000 --> 01:26:34,000
+What's your opinion on that?
+
+2158
+01:26:34,000 --> 01:26:37,000
+I'll start again.
+
+2159
+01:26:37,000 --> 01:26:40,000
+Right now I play FIFA
+
+2160
+01:26:40,000 --> 01:26:43,000
+and we have it at home
+
+2161
+01:26:43,000 --> 01:26:46,000
+until 2015 and every year later.
+
+2162
+01:26:46,000 --> 01:26:49,000
+I can't play it at home yet
+
+2163
+01:26:49,000 --> 01:26:52,000
+but I think it's the best.
+
+2164
+01:26:52,000 --> 01:26:55,000
+Two or three controllers
+
+2165
+01:26:55,000 --> 01:26:58,000
+and let's go.
+
+2166
+01:26:58,000 --> 01:27:01,000
+We had a question about NK Maribor
+
+2167
+01:27:01,000 --> 01:27:04,000
+and then we moved on.
+
+2168
+01:27:04,000 --> 01:27:07,000
+Which is the best football club?
+
+2169
+01:27:07,000 --> 01:27:10,000
+Itak.
+
+2170
+01:27:10,000 --> 01:27:13,000
+Itak is a champion.
+
+2171
+01:27:13,000 --> 01:27:16,000
+It's a celebration from the last season.
+
+2172
+01:27:16,000 --> 01:27:19,000
+We moved on to the end.
+
+2173
+01:27:19,000 --> 01:27:22,000
+I would like to thank you
+
+2174
+01:27:22,000 --> 01:27:25,000
+for your speech.
+
+2175
+01:27:25,000 --> 01:27:28,000
+If you want to name the audience
+
+2176
+01:27:28,000 --> 01:27:31,000
+for the last thought before we move on.
+
+2177
+01:27:31,000 --> 01:27:34,000
+Maybe I would say
+
+2178
+01:27:34,000 --> 01:27:37,000
+that the day before I became a minister
+
+2179
+01:27:37,000 --> 01:27:40,000
+I didn't think about what they do
+
+2180
+01:27:40,000 --> 01:27:43,000
+at the ministry.
+
+2181
+01:27:43,000 --> 01:27:46,000
+Now, when you look at it from the inside
+
+2182
+01:27:46,000 --> 01:27:49,000
+you see that you have done something.
+
+2183
+01:27:49,000 --> 01:27:52,000
+When do they have a problem with marketing?
+
+2184
+01:27:52,000 --> 01:27:55,000
+When do they have a problem with various trusts
+
+2185
+01:27:55,000 --> 01:27:58,000
+that they are trying to solve?
+
+2186
+01:27:58,000 --> 01:28:01,000
+Maybe a little more patience
+
+2187
+01:28:01,000 --> 01:28:04,000
+and a little more constructiveness would not hurt.
+
+2188
+01:28:04,000 --> 01:28:07,000
+Thank you.
+
+2189
+01:28:07,000 --> 01:28:10,000
+I would like to thank all the listeners
+
+2190
+01:28:10,000 --> 01:28:13,000
+and viewers.
+
+2191
+01:28:13,000 --> 01:28:16,000
+I would also like to thank all the supporters
+
+2192
+01:28:16,000 --> 01:28:19,000
+on Patreon.
+
+2193
+01:28:19,000 --> 01:28:22,000
+Thank you for being with us and listening to us.
+
+2194
+01:28:22,000 --> 01:28:25,000
+Thank you to all the team for your effort.
+
+2195
+01:28:25,000 --> 01:28:28,000
+Thank you both for your time.
+
+2196
+01:28:28,000 --> 01:28:31,000
+Good luck.
+
+2197
+01:28:34,000 --> 01:28:37,000
+Thank you.

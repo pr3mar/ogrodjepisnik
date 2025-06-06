@@ -1,0 +1,8051 @@
+1
+00:00:00,000 --> 00:00:20,000
+Welcome to the 5th episode of the 3rd season of the podcast in Grodje, in Zagon.
+
+2
+00:00:20,000 --> 00:00:26,000
+Today we will talk about payments and other types of compensation in this sector in Slovenia.
+
+3
+00:00:26,000 --> 00:00:29,000
+Nika Anžel and Miha Medven are with me today. Welcome.
+
+4
+00:00:29,000 --> 00:00:31,000
+Thank you.
+
+5
+00:00:31,000 --> 00:00:39,000
+As we thought about the topics that are constantly appearing, we realized that we do not have to go beyond payments.
+
+6
+00:00:39,000 --> 00:00:48,000
+I must admit that the response to the previous episodes surprised me a lot.
+
+7
+00:00:48,000 --> 00:00:51,000
+It is incredible how many questions we got.
+
+8
+00:00:51,000 --> 00:00:57,000
+As I said at the beginning, we will not be able to cover all of them, because there are a lot of them.
+
+9
+00:00:57,000 --> 00:01:01,000
+We will touch on this in the next episodes.
+
+10
+00:01:01,000 --> 00:01:07,000
+Today we will talk more specifically about payments.
+
+11
+00:01:07,000 --> 00:01:17,000
+We will focus on the technical area in Slovenia, but we will also talk about the international space.
+
+12
+00:01:18,000 --> 00:01:22,000
+Why am I inviting Nika and Miha today?
+
+13
+00:01:22,000 --> 00:01:29,000
+Nika Anžel has been helping in the Slovenian community for the last 5 years.
+
+14
+00:01:29,000 --> 00:01:36,000
+She also helps with the search for personnel, especially technical personnel.
+
+15
+00:01:36,000 --> 00:01:42,000
+She comes from the Agency for the Search and Selection of Personnel.
+
+16
+00:01:43,000 --> 00:01:48,000
+Welcome, Nika. Would you like to add something?
+
+17
+00:01:48,000 --> 00:01:51,000
+I would not.
+
+18
+00:01:51,000 --> 00:01:57,000
+As I said, for the last 5 years, we have been working together.
+
+19
+00:01:57,000 --> 00:02:03,000
+Especially in the positions where the IT market has opened up due to the coronavirus.
+
+20
+00:02:03,000 --> 00:02:11,000
+We have been working on tattoos, especially for the Slovenian sector.
+
+21
+00:02:12,000 --> 00:02:18,000
+Great. Miha, you are a very visible member of the Slovenian technical community.
+
+22
+00:02:18,000 --> 00:02:26,000
+You come across your name either on the Slovenian developers or through your content on YouTube for freelancers.
+
+23
+00:02:26,000 --> 00:02:32,000
+This has also contributed a lot to this part of the Slovenian technical community.
+
+24
+00:02:32,000 --> 00:02:35,000
+You have worked a lot in start-ups.
+
+25
+00:02:35,000 --> 00:02:40,000
+Now you are also in the first international company with a much larger business.
+
+26
+00:02:40,000 --> 00:02:43,000
+I am currently involved there.
+
+27
+00:02:43,000 --> 00:02:46,000
+Would you like to add something?
+
+28
+00:02:46,000 --> 00:02:48,000
+Or I have to add something.
+
+29
+00:02:48,000 --> 00:02:51,000
+And of course, first of all, why are you here today?
+
+30
+00:02:51,000 --> 00:02:53,000
+I paid for your survey.
+
+31
+00:02:53,000 --> 00:02:57,000
+On behalf of the whole of Slovenia, thank you for your time.
+
+32
+00:02:57,000 --> 00:03:00,000
+And that every year you really take time for this.
+
+33
+00:03:00,000 --> 00:03:04,000
+I think we all see a lot of added value from this.
+
+34
+00:03:04,000 --> 00:03:09,000
+But of course, we will talk about this a little later.
+
+35
+00:03:09,000 --> 00:03:14,000
+I would like to start on your behalf.
+
+36
+00:03:14,000 --> 00:03:20,000
+The post-COVID period was very interesting.
+
+37
+00:03:20,000 --> 00:03:23,000
+I mean, the COVID period was very interesting.
+
+38
+00:03:23,000 --> 00:03:28,000
+I think it changed the whole industry a lot.
+
+39
+00:03:28,000 --> 00:03:35,000
+But in this sector in general, I think there was a big shift.
+
+40
+00:03:35,000 --> 00:03:37,000
+Now we are four years later.
+
+41
+00:03:37,000 --> 00:03:43,000
+How did you experience this time, but also in general?
+
+42
+00:03:43,000 --> 00:03:46,000
+What trends did you notice at that time?
+
+43
+00:03:46,000 --> 00:03:53,000
+I think one thing is when we think about trends and the current situation.
+
+44
+00:03:54,000 --> 00:03:59,000
+As a person, you always go back to when you started your career.
+
+45
+00:03:59,000 --> 00:04:02,000
+And then you base all your experiences on it.
+
+46
+00:04:02,000 --> 00:04:06,000
+So I started at 22 years old after a big financial crisis.
+
+47
+00:04:06,000 --> 00:04:10,000
+And at that time it was very, very, very bad.
+
+48
+00:04:10,000 --> 00:04:15,000
+And anything after that is very good.
+
+49
+00:04:15,000 --> 00:04:20,000
+So people who started in the time of Corona and after Corona in the IT sector
+
+50
+00:04:20,000 --> 00:04:23,000
+experienced the biggest boom in their lives.
+
+51
+00:04:23,000 --> 00:04:29,000
+Because the market share of the IT sector was so high
+
+52
+00:04:29,000 --> 00:04:37,000
+that almost every month we had a budget of 500 to 1,000 euros more for the same job.
+
+53
+00:04:37,000 --> 00:04:42,000
+And that was, on the one hand, very nice to see.
+
+54
+00:04:42,000 --> 00:04:46,000
+On the other hand, I expected that it would slowly go down.
+
+55
+00:04:46,000 --> 00:04:49,000
+The market returns to normal levels.
+
+56
+00:04:49,000 --> 00:04:54,000
+And we have a feeling that there is the greatest stagnation and recession.
+
+57
+00:04:54,000 --> 00:04:59,000
+Despite the fact that our sector still lives very well today.
+
+58
+00:04:59,000 --> 00:05:02,000
+The salaries are still very high.
+
+59
+00:05:02,000 --> 00:05:06,000
+A lot of companies are working very hard for us.
+
+60
+00:05:06,000 --> 00:05:11,000
+Not every day there are 10 new employees, but only one.
+
+61
+00:05:12,000 --> 00:05:15,000
+It has calmed down a bit after Corona.
+
+62
+00:05:15,000 --> 00:05:19,000
+It was logical that it could not be sustained.
+
+63
+00:05:19,000 --> 00:05:24,000
+So now I see a healthy, calm environment.
+
+64
+00:05:24,000 --> 00:05:32,000
+Trends have slowed down a bit, or are slowly returning to normal.
+
+65
+00:05:32,000 --> 00:05:36,000
+I hope that most of the layoffs are over.
+
+66
+00:05:36,000 --> 00:05:41,000
+You never know, but now I feel that it has calmed down a bit.
+
+67
+00:05:41,000 --> 00:05:44,000
+We'll see how it will be in six months.
+
+68
+00:05:44,000 --> 00:05:50,000
+What I have learned in the last three years is that the next 14 days are not crucial.
+
+69
+00:05:50,000 --> 00:05:53,000
+They change very quickly for you.
+
+70
+00:05:53,000 --> 00:05:56,000
+So that's my take on the last four years.
+
+71
+00:05:56,000 --> 00:05:58,000
+I lost a lot of voice.
+
+72
+00:05:58,000 --> 00:06:01,000
+I made some mistakes, but it was fine.
+
+73
+00:06:01,000 --> 00:06:04,000
+You can see all the trends in the polls.
+
+74
+00:06:04,000 --> 00:06:08,000
+We went from a non-remote company to a very remote company.
+
+75
+00:06:08,000 --> 00:06:10,000
+Salaries went up.
+
+76
+00:06:10,000 --> 00:06:13,000
+A lot of employees were replaced.
+
+77
+00:06:13,000 --> 00:06:18,000
+Some of you met in the dark four years ago.
+
+78
+00:06:18,000 --> 00:06:21,000
+As you said in the introduction,
+
+79
+00:06:21,000 --> 00:06:26,000
+there was an explosion of inquiries about engineers.
+
+80
+00:06:26,000 --> 00:06:28,000
+You were there as well.
+
+81
+00:06:29,000 --> 00:06:32,000
+How do you see the last four years?
+
+82
+00:06:32,000 --> 00:06:36,000
+I saw that you were moving, but I also saw that you were moving away a bit.
+
+83
+00:06:36,000 --> 00:06:38,000
+Yes, that's true.
+
+84
+00:06:38,000 --> 00:06:42,000
+I think the whole corona has grown.
+
+85
+00:06:42,000 --> 00:06:45,000
+A lot of inquiries, too few employees.
+
+86
+00:06:45,000 --> 00:06:47,000
+Everyone turned to IT.
+
+87
+00:06:47,000 --> 00:06:55,000
+At the end of 2022, I still experience layoffs.
+
+88
+00:06:55,000 --> 00:07:00,000
+They started because of Google and Facebook layoffs in the US.
+
+89
+00:07:00,000 --> 00:07:03,000
+American companies in Slovenia started because of that.
+
+90
+00:07:03,000 --> 00:07:07,000
+A lot of companies went into layoffs because they lost their projects.
+
+91
+00:07:07,000 --> 00:07:11,000
+A lot of them went into layoffs because they were afraid of the economic situation.
+
+92
+00:07:11,000 --> 00:07:14,000
+They said, we've grown too much.
+
+93
+00:07:14,000 --> 00:07:16,000
+We've gone crazy.
+
+94
+00:07:16,000 --> 00:07:18,000
+Now we're going to cool down a bit.
+
+95
+00:07:18,000 --> 00:07:22,000
+Maybe we weren't together or didn't perform well.
+
+96
+00:07:23,000 --> 00:07:25,000
+We were preparing for a crisis.
+
+97
+00:07:25,000 --> 00:07:27,000
+It didn't come to this.
+
+98
+00:07:27,000 --> 00:07:29,000
+I hope it won't come.
+
+99
+00:07:33,000 --> 00:07:36,000
+Last month, there was a story.
+
+100
+00:07:36,000 --> 00:07:41,000
+Less than 40% of people went into layoffs because of the lack of projects.
+
+101
+00:07:43,000 --> 00:07:45,000
+I don't know how long it lasted.
+
+102
+00:07:45,000 --> 00:07:48,000
+I still accept these stories from time to time.
+
+103
+00:07:49,000 --> 00:07:55,000
+As Miha said, the market is still shrinking.
+
+104
+00:07:55,000 --> 00:07:57,000
+There's still a shortage.
+
+105
+00:07:57,000 --> 00:08:00,000
+There are positions, but maybe not that many.
+
+106
+00:08:00,000 --> 00:08:05,000
+As far as pay is concerned, I'd say they're growing.
+
+107
+00:08:05,000 --> 00:08:07,000
+Not as abnormally as before.
+
+108
+00:08:07,000 --> 00:08:12,000
+But the conditions are much more demanding for candidates.
+
+109
+00:08:12,000 --> 00:08:16,000
+They don't give everyone a good salary.
+
+110
+00:08:16,000 --> 00:08:19,000
+They choose who they're going to hire.
+
+111
+00:08:21,000 --> 00:08:26,000
+In an ordinary profile, it looks like a big difference.
+
+112
+00:08:26,000 --> 00:08:36,000
+I remember four years ago, you were voting for some juniors for some contests.
+
+113
+00:08:36,000 --> 00:08:41,000
+You asked yourself, are you really ready to pay so much for such a cadre?
+
+114
+00:08:41,000 --> 00:08:43,000
+Did it change a bit?
+
+115
+00:08:43,000 --> 00:08:45,000
+Did the company become more demanding?
+
+116
+00:08:45,000 --> 00:08:49,000
+They don't hire us for juniors anymore.
+
+117
+00:08:49,000 --> 00:08:54,000
+We're looking for specialists, mid-to-seniors.
+
+118
+00:08:54,000 --> 00:09:01,000
+I think they've learned that it's not good to hire someone just because you need him.
+
+119
+00:09:01,000 --> 00:09:03,000
+You have to look at the individual fit,
+
+120
+00:09:03,000 --> 00:09:09,000
+and that the person contributes to the company for the money you give him.
+
+121
+00:09:09,000 --> 00:09:11,000
+I'm aware of that.
+
+122
+00:09:11,000 --> 00:09:15,000
+It was different a year ago.
+
+123
+00:09:15,000 --> 00:09:19,000
+Today, I think it's a bit more understandable.
+
+124
+00:09:19,000 --> 00:09:22,000
+There are more offers for juniors now.
+
+125
+00:09:22,000 --> 00:09:26,000
+It takes a year, a year and a half for people to know
+
+126
+00:09:26,000 --> 00:09:29,000
+that they can start with a junior position.
+
+127
+00:09:29,000 --> 00:09:35,000
+At the beginning of the pandemic, a lot of people started looking for IT jobs.
+
+128
+00:09:35,000 --> 00:09:39,000
+Now we have a lot of juniors, but there are no jobs for them.
+
+129
+00:09:39,000 --> 00:09:44,000
+I have a feeling that it's much harder to find the first jobs,
+
+130
+00:09:44,000 --> 00:09:47,000
+because the criteria are much higher.
+
+131
+00:09:47,000 --> 00:09:51,000
+You can show a lot more, more references, a portfolio,
+
+132
+00:09:51,000 --> 00:09:55,000
+than maybe before or after the pandemic.
+
+133
+00:09:55,000 --> 00:10:00,000
+There are a lot more offers for juniors now.
+
+134
+00:10:01,000 --> 00:10:08,000
+As a junior, is it easy to pay off your debt today?
+
+135
+00:10:08,000 --> 00:10:15,000
+Is the market today like, thank you, you've come to the service,
+
+136
+00:10:15,000 --> 00:10:21,000
+or is it a market where you also pay off your debt as a junior
+
+137
+00:10:21,000 --> 00:10:26,000
+and you also get involved in that part of the service life?
+
+138
+00:10:27,000 --> 00:10:30,000
+I think you always have to pay off your debt.
+
+139
+00:10:30,000 --> 00:10:35,000
+As a junior, you have a very, very small position.
+
+140
+00:10:35,000 --> 00:10:38,000
+It's still a matter of compensation.
+
+141
+00:10:38,000 --> 00:10:41,000
+It's still a matter of debate.
+
+142
+00:10:41,000 --> 00:10:44,000
+I know that the word is paying off, but it's a dialogue
+
+143
+00:10:44,000 --> 00:10:47,000
+between the employer and the employee.
+
+144
+00:10:47,000 --> 00:10:50,000
+If you tell someone else that you want to have a job tonight,
+
+145
+00:10:50,000 --> 00:10:52,000
+or something like that,
+
+146
+00:10:52,000 --> 00:10:55,000
+as a junior, I also want to fulfill my wish.
+
+147
+00:10:55,000 --> 00:10:59,000
+I don't know, a research conference, an education budget,
+
+148
+00:10:59,000 --> 00:11:01,000
+similar tasks.
+
+149
+00:11:01,000 --> 00:11:04,000
+As a junior, I don't think there will be any intention
+
+150
+00:11:04,000 --> 00:11:07,000
+if we start doing these tasks.
+
+151
+00:11:07,000 --> 00:11:12,000
+It's not a lot of space, but they are different tasks.
+
+152
+00:11:12,000 --> 00:11:14,000
+That's my opinion.
+
+153
+00:11:14,000 --> 00:11:17,000
+You also know how much you can show as a junior.
+
+154
+00:11:17,000 --> 00:11:19,000
+As a junior, you can get out of the fax,
+
+155
+00:11:19,000 --> 00:11:22,000
+you don't have to work as hard as you did on the fax.
+
+156
+00:11:22,000 --> 00:11:24,000
+As a junior, you have a lot of private projects,
+
+157
+00:11:24,000 --> 00:11:26,000
+you are interested in a lot of things.
+
+158
+00:11:26,000 --> 00:11:28,000
+For example, you work as a student.
+
+159
+00:11:28,000 --> 00:11:30,000
+If you can show something,
+
+160
+00:11:30,000 --> 00:11:33,000
+I think you can always pay off your debt.
+
+161
+00:11:33,000 --> 00:11:38,000
+Does this entry-level salary and this entry-level profile
+
+162
+00:11:38,000 --> 00:11:41,000
+make such a difference?
+
+163
+00:11:41,000 --> 00:11:44,000
+Does it also increase the amount of compensation?
+
+164
+00:11:44,000 --> 00:11:47,000
+I think it increases everything.
+
+165
+00:11:47,000 --> 00:11:51,000
+I don't know if there was a bigger advantage for this entry-level.
+
+166
+00:11:51,000 --> 00:11:53,000
+Every year it goes up.
+
+167
+00:11:53,000 --> 00:11:57,000
+How much it goes up depends on the year and the profile,
+
+168
+00:11:57,000 --> 00:11:59,000
+but it increases.
+
+169
+00:11:59,000 --> 00:12:03,000
+As we have a higher minimum and average salary every year,
+
+170
+00:12:03,000 --> 00:12:05,000
+these salaries also increase.
+
+171
+00:12:05,000 --> 00:12:08,000
+I don't think there is such a drastic difference.
+
+172
+00:12:08,000 --> 00:12:11,000
+I don't think there is such a drastic difference.
+
+173
+00:12:11,000 --> 00:12:13,000
+Criteria change.
+
+174
+00:12:13,000 --> 00:12:16,000
+Now a junior has to show more than two years ago.
+
+175
+00:12:16,000 --> 00:12:19,000
+If you only had a desire for programming,
+
+176
+00:12:19,000 --> 00:12:22,000
+and then you started programming again,
+
+177
+00:12:22,000 --> 00:12:25,000
+and then you could start a good job,
+
+178
+00:12:25,000 --> 00:12:27,000
+today it is no longer the case.
+
+179
+00:12:27,000 --> 00:12:30,000
+Paying is the best thing, but it takes a lot.
+
+180
+00:12:30,000 --> 00:12:32,000
+As a reply to the question,
+
+181
+00:12:32,000 --> 00:12:36,000
+I would say that the salary is the most important thing.
+
+182
+00:12:36,000 --> 00:12:39,000
+Paying is the best thing, but it takes a lot.
+
+183
+00:12:39,000 --> 00:12:41,000
+As a reply to the question,
+
+184
+00:12:41,000 --> 00:12:44,000
+we work a lot with young people,
+
+185
+00:12:44,000 --> 00:12:48,000
+because we have a special program for educating young people.
+
+186
+00:12:48,000 --> 00:12:51,000
+Paying in vocational profiles,
+
+187
+00:12:51,000 --> 00:12:54,000
+in children's profiles,
+
+188
+00:12:54,000 --> 00:12:57,000
+has definitely increased for the entry-level.
+
+189
+00:12:57,000 --> 00:13:01,000
+Not only for engineering or programming.
+
+190
+00:13:01,000 --> 00:13:04,000
+It is simply inflation.
+
+191
+00:13:04,000 --> 00:13:07,000
+In the past, young people were completely unemployed,
+
+192
+00:13:07,000 --> 00:13:10,000
+and today they all got a job.
+
+193
+00:13:10,000 --> 00:13:13,000
+I think it was also related to that.
+
+194
+00:13:13,000 --> 00:13:16,000
+I mean, if you ask a boomer,
+
+195
+00:13:16,000 --> 00:13:19,000
+they don't know what to do.
+
+196
+00:13:19,000 --> 00:13:21,000
+They don't know what to do.
+
+197
+00:13:21,000 --> 00:13:23,000
+I can tell you,
+
+198
+00:13:23,000 --> 00:13:26,000
+when I started working with young people,
+
+199
+00:13:26,000 --> 00:13:28,000
+we had an entry-level.
+
+200
+00:13:28,000 --> 00:13:30,000
+I'm not talking about IT.
+
+201
+00:13:30,000 --> 00:13:32,000
+We were 3,000-4,000 people.
+
+202
+00:13:33,000 --> 00:13:36,000
+Today, we are 1,800-2,000 people.
+
+203
+00:13:36,000 --> 00:13:37,000
+Go.
+
+204
+00:13:37,000 --> 00:13:39,000
+Even if you go to a public place,
+
+205
+00:13:39,000 --> 00:13:41,000
+and you have a shop,
+
+206
+00:13:41,000 --> 00:13:44,000
+I don't remember how many people there are,
+
+207
+00:13:44,000 --> 00:13:47,000
+because there are too few people who would work full-time.
+
+208
+00:13:47,000 --> 00:13:50,000
+We have a record low unemployment.
+
+209
+00:13:50,000 --> 00:13:53,000
+There is a pressure from that side.
+
+210
+00:13:53,000 --> 00:13:56,000
+Because someone still has to manage that job.
+
+211
+00:13:56,000 --> 00:13:59,000
+Even if you don't need it as much as during the coronavirus,
+
+212
+00:13:59,000 --> 00:14:02,000
+people still go to work.
+
+213
+00:14:02,000 --> 00:14:04,000
+They change jobs.
+
+214
+00:14:04,000 --> 00:14:06,000
+Absolutely.
+
+215
+00:14:06,000 --> 00:14:09,000
+COVID has completely shaken us.
+
+216
+00:14:09,000 --> 00:14:12,000
+What is important to us is the value.
+
+217
+00:14:12,000 --> 00:14:15,000
+It seems to me that, in the end,
+
+218
+00:14:15,000 --> 00:14:18,000
+it has helped us a little bit
+
+219
+00:14:18,000 --> 00:14:21,000
+with a little more decentralization in Ljubljana.
+
+220
+00:14:21,000 --> 00:14:23,000
+If I'm right,
+
+221
+00:14:23,000 --> 00:14:26,000
+it is the call back to office.
+
+222
+00:14:26,000 --> 00:14:29,000
+I don't want to say that you have to work
+
+223
+00:14:29,000 --> 00:14:32,000
+for a week or two in the office,
+
+224
+00:14:32,000 --> 00:14:35,000
+but it seems to me that
+
+225
+00:14:35,000 --> 00:14:38,000
+it has shaken us as a society.
+
+226
+00:14:38,000 --> 00:14:41,000
+First, I would like to clarify
+
+227
+00:14:41,000 --> 00:14:44,000
+some basic concepts,
+
+228
+00:14:44,000 --> 00:14:47,000
+and then I would like to focus
+
+229
+00:14:47,000 --> 00:14:50,000
+a little more on the survey,
+
+230
+00:14:50,000 --> 00:14:53,000
+because you have been collecting data for some time.
+
+231
+00:14:53,000 --> 00:14:56,000
+But first, let's talk about wages
+
+232
+00:14:56,000 --> 00:14:59,000
+and salaries.
+
+233
+00:14:59,000 --> 00:15:02,000
+Let's clear up this brutal debate.
+
+234
+00:15:02,000 --> 00:15:05,000
+What are we talking about?
+
+235
+00:15:05,000 --> 00:15:08,000
+Salaries? Salaries? Salaries?
+
+236
+00:15:08,000 --> 00:15:11,000
+Salaries?
+
+237
+00:15:11,000 --> 00:15:14,000
+What is in the best interest of a candidate
+
+238
+00:15:14,000 --> 00:15:17,000
+who is talking about wages?
+
+239
+00:15:17,000 --> 00:15:20,000
+If I'm right, you can start.
+
+240
+00:15:20,000 --> 00:15:23,000
+I have a very strict opinion,
+
+241
+00:15:23,000 --> 00:15:26,000
+but I will start.
+
+242
+00:15:26,000 --> 00:15:29,000
+We have a lot of money.
+
+243
+00:15:29,000 --> 00:15:32,000
+I think that if you want to be a candidate for protection,
+
+244
+00:15:32,000 --> 00:15:35,000
+to be treated as much as you expect,
+
+245
+00:15:35,000 --> 00:15:38,000
+it is good to know what the difference is.
+
+246
+00:15:38,000 --> 00:15:41,000
+There are a lot of calculators on the Internet,
+
+247
+00:15:41,000 --> 00:15:44,000
+so it is not easy to look at these things.
+
+248
+00:15:44,000 --> 00:15:47,000
+But there is always a lot of talk about wages.
+
+249
+00:15:47,000 --> 00:15:50,000
+I would like to clarify
+
+250
+00:15:50,000 --> 00:15:53,000
+the specifics of the Slovenian market,
+
+251
+00:15:53,000 --> 00:15:56,000
+when we talk about wages.
+
+252
+00:15:56,000 --> 00:15:59,000
+We are not talking about compensation,
+
+253
+00:15:59,000 --> 00:16:02,000
+because there are also regressions
+
+254
+00:16:02,000 --> 00:16:05,000
+and the return of various expenses,
+
+255
+00:16:05,000 --> 00:16:08,000
+which can cause a lot of problems
+
+256
+00:16:08,000 --> 00:16:11,000
+at the end of the month.
+
+257
+00:16:11,000 --> 00:16:14,000
+I think that we are still in the middle of
+
+258
+00:16:14,000 --> 00:16:17,000
+understanding gross wages.
+
+259
+00:16:17,000 --> 00:16:20,000
+What else would you understand
+
+260
+00:16:20,000 --> 00:16:23,000
+as gross compensation,
+
+261
+00:16:23,000 --> 00:16:26,000
+which is much more expanded in the EU,
+
+262
+00:16:26,000 --> 00:16:29,000
+because it pays two-thirds of all other bonuses
+
+263
+00:16:29,000 --> 00:16:32,000
+and additional workers.
+
+264
+00:16:32,000 --> 00:16:35,000
+It is a very large employer.
+
+265
+00:16:35,000 --> 00:16:38,000
+Gross wages are the same
+
+266
+00:16:38,000 --> 00:16:41,000
+from the point of view of a specific person.
+
+267
+00:16:41,000 --> 00:16:44,000
+The distance from the company
+
+268
+00:16:44,000 --> 00:16:47,000
+is different at the end of the month,
+
+269
+00:16:47,000 --> 00:16:50,000
+but in the end,
+
+270
+00:16:50,000 --> 00:16:53,000
+we are talking about gross wages.
+
+271
+00:16:53,000 --> 00:16:56,000
+That would be one of the reasons
+
+272
+00:16:56,000 --> 00:16:59,000
+why I went to do this survey.
+
+273
+00:16:59,000 --> 00:17:02,000
+So that I could start talking about
+
+274
+00:17:02,000 --> 00:17:05,000
+the importance of gross wages
+
+275
+00:17:05,000 --> 00:17:08,000
+in the EU.
+
+276
+00:17:08,000 --> 00:17:11,000
+I started talking about the importance
+
+277
+00:17:11,000 --> 00:17:14,000
+of talking about gross wages,
+
+278
+00:17:14,000 --> 00:17:17,000
+and when we get used to it,
+
+279
+00:17:17,000 --> 00:17:20,000
+we will move on to compensation.
+
+280
+00:17:20,000 --> 00:17:23,000
+But Miha, I don't care
+
+281
+00:17:23,000 --> 00:17:26,000
+what the company pays.
+
+282
+00:17:26,000 --> 00:17:29,000
+I only care about my employees.
+
+283
+00:17:29,000 --> 00:17:32,000
+Why don't we talk about gross wages?
+
+284
+00:17:32,000 --> 00:17:35,000
+And then there are the SPs,
+
+285
+00:17:35,000 --> 00:17:38,000
+and I don't know what else.
+
+286
+00:17:38,000 --> 00:17:41,000
+I have a lot of these debates,
+
+287
+00:17:41,000 --> 00:17:44,000
+so I am a bit triggered.
+
+288
+00:17:44,000 --> 00:17:47,000
+I think this is the basis
+
+289
+00:17:47,000 --> 00:17:50,000
+for googling,
+
+290
+00:17:50,000 --> 00:17:53,000
+so you know what the system is.
+
+291
+00:17:53,000 --> 00:17:56,000
+When you get an offer from a company,
+
+292
+00:17:56,000 --> 00:17:59,000
+you can always ask them to prepare
+
+293
+00:17:59,000 --> 00:18:02,000
+the first calculation of the payment.
+
+294
+00:18:02,000 --> 00:18:05,000
+You can see for yourself
+
+295
+00:18:05,000 --> 00:18:08,000
+how much it will cost.
+
+296
+00:18:08,000 --> 00:18:11,000
+One of the stories I heard a lot
+
+297
+00:18:11,000 --> 00:18:14,000
+was that I changed my salary,
+
+298
+00:18:14,000 --> 00:18:17,000
+then I went to the hospital for a month,
+
+299
+00:18:17,000 --> 00:18:20,000
+and then back to work.
+
+300
+00:18:20,000 --> 00:18:23,000
+It's like you said,
+
+301
+00:18:23,000 --> 00:18:26,000
+you are a member of a company,
+
+302
+00:18:26,000 --> 00:18:29,000
+then you have a child,
+
+303
+00:18:29,000 --> 00:18:32,000
+and then you don't even expect it.
+
+304
+00:18:32,000 --> 00:18:35,000
+You work for a long time.
+
+305
+00:18:35,000 --> 00:18:38,000
+That's why it seems to me
+
+306
+00:18:38,000 --> 00:18:41,000
+that gross wages are the same,
+
+307
+00:18:41,000 --> 00:18:44,000
+because we are more on the same level.
+
+308
+00:18:44,000 --> 00:18:47,000
+We talk about the same things,
+
+309
+00:18:47,000 --> 00:18:50,000
+because as you said,
+
+310
+00:18:50,000 --> 00:18:53,000
+it depends on each individual.
+
+311
+00:18:53,000 --> 00:18:56,000
+It's nice for us as individuals
+
+312
+00:18:56,000 --> 00:18:59,000
+to be able to get gross wages.
+
+313
+00:18:59,000 --> 00:19:02,000
+It would be a lot easier
+
+314
+00:19:02,000 --> 00:19:05,000
+if we paid ourselves.
+
+315
+00:19:05,000 --> 00:19:08,000
+Gross wages are the basis.
+
+316
+00:19:08,000 --> 00:19:11,000
+It seems to me that everything
+
+317
+00:19:11,000 --> 00:19:14,000
+puts us on the same level
+
+318
+00:19:14,000 --> 00:19:17,000
+as other people.
+
+319
+00:19:17,000 --> 00:19:20,000
+What are the gross wages
+
+320
+00:19:20,000 --> 00:19:23,000
+in recent years?
+
+321
+00:19:23,000 --> 00:19:26,000
+I have a big problem
+
+322
+00:19:26,000 --> 00:19:29,000
+when it comes to gross wages.
+
+323
+00:19:29,000 --> 00:19:32,000
+Most of the debate is about gross wages.
+
+324
+00:19:32,000 --> 00:19:35,000
+Gross wages are a bit complicated.
+
+325
+00:19:35,000 --> 00:19:38,000
+If we have 2 euros,
+
+326
+00:19:38,000 --> 00:19:41,000
+then 10 euros is 4 gross wages.
+
+327
+00:19:41,000 --> 00:19:44,000
+We will be disappointed.
+
+328
+00:19:44,000 --> 00:19:47,000
+I always try to talk about the media,
+
+329
+00:19:47,000 --> 00:19:50,000
+which means that 50% of people
+
+330
+00:19:50,000 --> 00:19:53,000
+in Slovenia deserve less than that.
+
+331
+00:19:53,000 --> 00:19:56,000
+In the last survey,
+
+332
+00:19:56,000 --> 00:19:59,000
+it was between 3,000 and 3,500 gross wages.
+
+333
+00:19:59,000 --> 00:20:02,000
+That means that more than 50% of people
+
+334
+00:20:02,000 --> 00:20:05,000
+deserve less than that.
+
+335
+00:20:05,000 --> 00:20:08,000
+If you deserve more than 6,000 gross wages,
+
+336
+00:20:08,000 --> 00:20:11,000
+you are already in the top 10%.
+
+337
+00:20:11,000 --> 00:20:14,000
+If you don't have that salary,
+
+338
+00:20:14,000 --> 00:20:17,000
+if you don't get that salary,
+
+339
+00:20:17,000 --> 00:20:20,000
+if you get a salary of 4,000 euros,
+
+340
+00:20:20,000 --> 00:20:23,000
+you are in the top 1% of employees in Slovenia.
+
+341
+00:20:23,000 --> 00:20:26,000
+On the one hand, that is a big number,
+
+342
+00:20:26,000 --> 00:20:29,000
+but on the other hand,
+
+343
+00:20:29,000 --> 00:20:32,000
+I thought it was millions.
+
+344
+00:20:32,000 --> 00:20:35,000
+These are the figures that give you
+
+345
+00:20:35,000 --> 00:20:38,000
+a different perspective.
+
+346
+00:20:38,000 --> 00:20:41,000
+Gross wages are more about distribution.
+
+347
+00:20:41,000 --> 00:20:44,000
+Few people have a figure
+
+348
+00:20:44,000 --> 00:20:47,000
+of 3,000-3,500 euros.
+
+349
+00:20:47,000 --> 00:20:50,000
+If you deserve less than that,
+
+350
+00:20:50,000 --> 00:20:53,000
+you know where you are.
+
+351
+00:20:53,000 --> 00:20:56,000
+If you deserve more than that,
+
+352
+00:20:56,000 --> 00:20:59,000
+you know where you are.
+
+353
+00:20:59,000 --> 00:21:02,000
+That is every two years for 500 euros.
+
+354
+00:21:02,000 --> 00:21:05,000
+Do you remember the first survey?
+
+355
+00:21:05,000 --> 00:21:08,000
+Yes, 2,500 euros.
+
+356
+00:21:08,000 --> 00:21:11,000
+The first survey was 6 years ago.
+
+357
+00:21:11,000 --> 00:21:14,000
+It was accurate, but not accurate.
+
+358
+00:21:14,000 --> 00:21:17,000
+People don't know exactly what it is.
+
+359
+00:21:17,000 --> 00:21:20,000
+I try to be accurate with 500 euros.
+
+360
+00:21:20,000 --> 00:21:23,000
+I looked at it,
+
+361
+00:21:23,000 --> 00:21:26,000
+2,000-2,500 euros was an average of 2,800 euros.
+
+362
+00:21:29,000 --> 00:21:32,000
+It is probably a big leap for the Slovenian industry.
+
+363
+00:21:32,000 --> 00:21:35,000
+Is it a leap for this industry?
+
+364
+00:21:35,000 --> 00:21:38,000
+It is huge.
+
+365
+00:21:38,000 --> 00:21:41,000
+In Slovenia, we have the SPF phenomenon.
+
+366
+00:21:41,000 --> 00:21:44,000
+SPFs have more income
+
+367
+00:21:44,000 --> 00:21:47,000
+if we equate them with employees.
+
+368
+00:21:47,000 --> 00:21:50,000
+The biggest characteristic
+
+369
+00:21:50,000 --> 00:21:53,000
+is that most of them work
+
+370
+00:21:53,000 --> 00:21:56,000
+for companies that are on this market.
+
+371
+00:21:56,000 --> 00:21:59,000
+A Slovenian employee is primarily employed
+
+372
+00:21:59,000 --> 00:22:02,000
+for a Slovenian company that works
+
+373
+00:22:02,000 --> 00:22:05,000
+on the Slovenian market.
+
+374
+00:22:05,000 --> 00:22:08,000
+If you work for a company that works
+
+375
+00:22:08,000 --> 00:22:11,000
+on this market, if it is also Slovenian,
+
+376
+00:22:11,000 --> 00:22:14,000
+you will get a higher salary.
+
+377
+00:22:14,000 --> 00:22:17,000
+If we have big Slovenian names
+
+378
+00:22:17,000 --> 00:22:20,000
+in our business,
+
+379
+00:22:20,000 --> 00:22:23,000
+they have locations in Slovenia,
+
+380
+00:22:23,000 --> 00:22:26,000
+they work for Europe and America,
+
+381
+00:22:26,000 --> 00:22:29,000
+they get a higher salary.
+
+382
+00:22:29,000 --> 00:22:32,000
+The work is exactly the same.
+
+383
+00:22:32,000 --> 00:22:35,000
+One of the biggest stereotypes
+
+384
+00:22:35,000 --> 00:22:38,000
+and reservations
+
+385
+00:22:38,000 --> 00:22:41,000
+I hear from Slovenian developers
+
+386
+00:22:41,000 --> 00:22:44,000
+is that if a person pays me
+
+387
+00:22:44,000 --> 00:22:47,000
+three times more,
+
+388
+00:22:47,000 --> 00:22:50,000
+what can I do for that money?
+
+389
+00:22:50,000 --> 00:22:53,000
+Is it really the same?
+
+390
+00:22:53,000 --> 00:22:56,000
+It is the same.
+
+391
+00:22:56,000 --> 00:22:59,000
+We have a Slovenian company
+
+392
+00:22:59,000 --> 00:23:02,000
+that employs Slovenes
+
+393
+00:23:02,000 --> 00:23:05,000
+from the wider Balkan region.
+
+394
+00:23:05,000 --> 00:23:08,000
+They pay them 3-5 thousand euros
+
+395
+00:23:08,000 --> 00:23:11,000
+which is a good salary.
+
+396
+00:23:11,000 --> 00:23:14,000
+They sell them as an agency
+
+397
+00:23:14,000 --> 00:23:17,000
+to American companies
+
+398
+00:23:17,000 --> 00:23:20,000
+for three times more money.
+
+399
+00:23:20,000 --> 00:23:23,000
+And they work side by side
+
+400
+00:23:23,000 --> 00:23:26,000
+with their American colleagues.
+
+401
+00:23:26,000 --> 00:23:29,000
+Documentation has opened up new areas
+
+402
+00:23:29,000 --> 00:23:32,000
+where you can learn this.
+
+403
+00:23:32,000 --> 00:23:35,000
+The only problem is that
+
+404
+00:23:35,000 --> 00:23:38,000
+the work you do can be taken over.
+
+405
+00:23:38,000 --> 00:23:41,000
+If you make a 10% difference
+
+406
+00:23:41,000 --> 00:23:44,000
+for a Slovenian company,
+
+407
+00:23:44,000 --> 00:23:47,000
+you earn 100 euros.
+
+408
+00:23:47,000 --> 00:23:50,000
+If you make a 10% difference
+
+409
+00:23:50,000 --> 00:23:53,000
+for an American company,
+
+410
+00:23:53,000 --> 00:23:56,000
+your average programmer is the same.
+
+411
+00:23:56,000 --> 00:23:59,000
+The elite may be different
+
+412
+00:23:59,000 --> 00:24:02,000
+because they have different access
+
+413
+00:24:02,000 --> 00:24:05,000
+to problems that can be solved.
+
+414
+00:24:05,000 --> 00:24:08,000
+In Slovenia, there are very few companies
+
+415
+00:24:08,000 --> 00:24:11,000
+that have the same scale as Google.
+
+416
+00:24:11,000 --> 00:24:14,000
+Some specific knowledge exists,
+
+417
+00:24:14,000 --> 00:24:17,000
+but there are very few people
+
+418
+00:24:17,000 --> 00:24:20,000
+who know what it means.
+
+419
+00:24:20,000 --> 00:24:23,000
+I haven't seen any difference in me.
+
+420
+00:24:23,000 --> 00:24:26,000
+We make the same mistakes,
+
+421
+00:24:26,000 --> 00:24:29,000
+we get confused because of the same problems.
+
+422
+00:24:29,000 --> 00:24:32,000
+We have the same problems.
+
+423
+00:24:32,000 --> 00:24:35,000
+You work a lot in Slovenia,
+
+424
+00:24:35,000 --> 00:24:38,000
+but also in the Balkans.
+
+425
+00:24:38,000 --> 00:24:41,000
+What is the difference?
+
+426
+00:24:41,000 --> 00:24:44,000
+What is the difference?
+
+427
+00:24:44,000 --> 00:24:47,000
+You don't pay more,
+
+428
+00:24:47,000 --> 00:24:50,000
+but you work a lot.
+
+429
+00:24:50,000 --> 00:24:53,000
+You work a lot,
+
+430
+00:24:53,000 --> 00:24:56,000
+but you don't pay more.
+
+431
+00:24:56,000 --> 00:24:59,000
+You work a lot,
+
+432
+00:24:59,000 --> 00:25:02,000
+but you don't pay more.
+
+433
+00:25:00,000 --> 00:25:05,000
+I call him a rockstar candidate, that's why it's important.
+
+434
+00:25:05,000 --> 00:25:11,000
+Because they can work with big systems, with scalability and so on,
+
+435
+00:25:11,000 --> 00:25:15,000
+but I think that the difference is not very rare.
+
+436
+00:25:15,000 --> 00:25:18,000
+When you find the difference, or if you already find the difference,
+
+437
+00:25:18,000 --> 00:25:22,000
+it's more for smaller products.
+
+438
+00:25:23,000 --> 00:25:29,000
+I will connect this a little more with ESPM, because you also changed ESPM.
+
+439
+00:25:29,000 --> 00:25:32,000
+You started in 2010.
+
+440
+00:25:32,000 --> 00:25:38,000
+I remember that time, 2008, and that post-2008,
+
+441
+00:25:38,000 --> 00:25:40,000
+when there were no more regular services.
+
+442
+00:25:40,000 --> 00:25:43,000
+All the engineers could be ESPM,
+
+443
+00:25:43,000 --> 00:25:47,000
+you got a year for a certain time,
+
+444
+00:25:47,000 --> 00:25:50,000
+but more or less everything went to ESPM,
+
+445
+00:25:50,000 --> 00:25:53,000
+and then at one point, of course, the legislation changed,
+
+446
+00:25:53,000 --> 00:25:56,000
+and then it all turned upside down.
+
+447
+00:25:56,000 --> 00:25:58,000
+All the ESPM people started,
+
+448
+00:25:58,000 --> 00:26:01,000
+but if Freedom were in your position,
+
+449
+00:26:01,000 --> 00:26:03,000
+you would miss that.
+
+450
+00:26:03,000 --> 00:26:09,000
+And now you have both,
+
+451
+00:26:09,000 --> 00:26:11,000
+that's for both questions,
+
+452
+00:26:11,000 --> 00:26:14,000
+but you also have to pay attention to ESPM,
+
+453
+00:26:14,000 --> 00:26:19,000
+and today it is, as you said, a means for work, for income,
+
+454
+00:26:19,000 --> 00:26:23,000
+and in the end, how can Slovenian companies compete
+
+455
+00:26:23,000 --> 00:26:26,000
+with this broken ESPM,
+
+456
+00:26:26,000 --> 00:26:32,000
+which has a lot more data and data.
+
+457
+00:26:32,000 --> 00:26:35,000
+Do you want to start or should I start?
+
+458
+00:26:35,000 --> 00:26:40,000
+Yes, I think that certain Slovenian companies
+
+459
+00:26:40,000 --> 00:26:42,000
+use this practice.
+
+460
+00:26:42,000 --> 00:26:45,000
+Let's not talk about them.
+
+461
+00:26:46,000 --> 00:26:52,000
+There are a lot of them in this practice,
+
+462
+00:26:52,000 --> 00:26:55,000
+also because of the stability that they want,
+
+463
+00:26:55,000 --> 00:26:57,000
+if someone gets a job.
+
+464
+00:26:57,000 --> 00:27:00,000
+I also pay attention to the fact that lately,
+
+465
+00:27:00,000 --> 00:27:03,000
+a lot of people have been talking about
+
+466
+00:27:03,000 --> 00:27:05,000
+regular employment and the possibility of a loan,
+
+467
+00:27:05,000 --> 00:27:07,000
+and so on, some kind of special security
+
+468
+00:27:07,000 --> 00:27:09,000
+especially in these unstable times,
+
+469
+00:27:09,000 --> 00:27:12,000
+and maybe they also got caught up in some international affairs,
+
+470
+00:27:12,000 --> 00:27:16,000
+that they were on ESPM and then the project was cancelled.
+
+471
+00:27:16,000 --> 00:27:20,000
+So I won't say that now the trend is to move from ESPM
+
+472
+00:27:20,000 --> 00:27:22,000
+to regular employees,
+
+473
+00:27:22,000 --> 00:27:27,000
+but I do see some signals in the market.
+
+474
+00:27:27,000 --> 00:27:29,000
+I would like to add here,
+
+475
+00:27:29,000 --> 00:27:31,000
+because I talk a lot about ESPM,
+
+476
+00:27:31,000 --> 00:27:33,000
+and in my survey I have a lot of questions,
+
+477
+00:27:33,000 --> 00:27:35,000
+whether you work on ESPM or not,
+
+478
+00:27:35,000 --> 00:27:38,000
+and in fact there are 15 or 17% who are only ESPM employees.
+
+479
+00:27:38,000 --> 00:27:41,000
+All the other 75% are regular employees,
+
+480
+00:27:41,000 --> 00:27:44,000
+and 10% of these regular employees also have half-day ESPM.
+
+481
+00:27:44,000 --> 00:27:47,000
+Which means that this is a small number.
+
+482
+00:27:47,000 --> 00:27:49,000
+What I think is that this number,
+
+483
+00:27:49,000 --> 00:27:51,000
+which works for TOINO,
+
+484
+00:27:51,000 --> 00:27:53,000
+is on a higher level,
+
+485
+00:27:53,000 --> 00:27:55,000
+and they are talked about more,
+
+486
+00:27:55,000 --> 00:27:57,000
+because they are also part of some groups,
+
+487
+00:27:57,000 --> 00:28:00,000
+and all those guest debates that we have on Facebook,
+
+488
+00:28:00,000 --> 00:28:02,000
+this is perhaps also a little hidden,
+
+489
+00:28:02,000 --> 00:28:05,000
+as if the whole of Slovenia is on ESPM.
+
+490
+00:28:05,000 --> 00:28:07,000
+Well, no.
+
+491
+00:28:07,000 --> 00:28:10,000
+I have been studying this for 4-5 years,
+
+492
+00:28:10,000 --> 00:28:12,000
+and only 20% are ESPM employees.
+
+493
+00:28:12,000 --> 00:28:15,000
+Of course, ESPM employees deserve more money,
+
+494
+00:28:15,000 --> 00:28:17,000
+if we look at their income,
+
+495
+00:28:17,000 --> 00:28:22,000
+but I think that this is also a very good topic,
+
+496
+00:28:22,000 --> 00:28:24,000
+which we can discuss a little,
+
+497
+00:28:24,000 --> 00:28:26,000
+because there is a little bit of data optimization,
+
+498
+00:28:26,000 --> 00:28:28,000
+and all that stuff.
+
+499
+00:28:28,000 --> 00:28:30,000
+The good thing is that,
+
+500
+00:28:30,000 --> 00:28:32,000
+when the global market opens up,
+
+501
+00:28:32,000 --> 00:28:35,000
+I think that ESPM is a good alternative
+
+502
+00:28:35,000 --> 00:28:37,000
+for smaller companies,
+
+503
+00:28:37,000 --> 00:28:40,000
+that they are competitive in terms of pay,
+
+504
+00:28:40,000 --> 00:28:43,000
+because larger companies can offer you
+
+505
+00:28:43,000 --> 00:28:46,000
+as little through employment,
+
+506
+00:28:46,000 --> 00:28:50,000
+as a smaller legal company can through ESPM.
+
+507
+00:28:50,000 --> 00:28:53,000
+And now I see some added value,
+
+508
+00:28:53,000 --> 00:28:55,000
+that these Slovenian startups
+
+509
+00:28:55,000 --> 00:28:57,000
+may pay a little more for this,
+
+510
+00:28:57,000 --> 00:29:00,000
+because there is optimization on both sides.
+
+511
+00:29:00,000 --> 00:29:02,000
+Because in the end,
+
+512
+00:29:02,000 --> 00:29:04,000
+most people look at how much we get
+
+513
+00:29:04,000 --> 00:29:06,000
+at the end on the bank account,
+
+514
+00:29:06,000 --> 00:29:09,000
+which went to a very small amount.
+
+515
+00:29:09,000 --> 00:29:12,000
+So I think that's how it is.
+
+516
+00:29:12,000 --> 00:29:14,000
+A lot is said about ESPM,
+
+517
+00:29:14,000 --> 00:29:17,000
+but I don't know how serious the problems are.
+
+518
+00:29:17,000 --> 00:29:20,000
+Maybe it's not as serious as a problem,
+
+519
+00:29:20,000 --> 00:29:22,000
+it's more of a question,
+
+520
+00:29:22,000 --> 00:29:25,000
+and if it's a completely different league,
+
+521
+00:29:25,000 --> 00:29:27,000
+and we don't mess with them,
+
+522
+00:29:27,000 --> 00:29:30,000
+then maybe Slovenian companies
+
+523
+00:29:30,000 --> 00:29:33,000
+are losing out in terms of competition
+
+524
+00:29:33,000 --> 00:29:35,000
+because of ESPM.
+
+525
+00:29:35,000 --> 00:29:37,000
+On the other hand,
+
+526
+00:29:37,000 --> 00:29:41,000
+if you work as a contractor for an American company,
+
+527
+00:29:41,000 --> 00:29:45,000
+is your alternative really a local Slovenian company?
+
+528
+00:29:45,000 --> 00:29:47,000
+No.
+
+529
+00:29:47,000 --> 00:29:49,000
+You are in a different market,
+
+530
+00:29:49,000 --> 00:29:51,000
+you are on a different level.
+
+531
+00:29:51,000 --> 00:29:54,000
+I think that ESPM makes the Slovenian market
+
+532
+00:29:54,000 --> 00:29:56,000
+more competitive,
+
+533
+00:29:56,000 --> 00:29:59,000
+especially because it reduces costs.
+
+534
+00:29:59,000 --> 00:30:03,000
+Without that, it would be much harder for Slovenian companies.
+
+535
+00:30:03,000 --> 00:30:06,000
+The big ones are mostly in employment,
+
+536
+00:30:06,000 --> 00:30:10,000
+the small ones have good legal and accounting services.
+
+537
+00:30:10,000 --> 00:30:12,000
+So, I don't know.
+
+538
+00:30:12,000 --> 00:30:15,000
+I don't know if it depends on the community,
+
+539
+00:30:15,000 --> 00:30:18,000
+or the programmers, or the company,
+
+540
+00:30:18,000 --> 00:30:20,000
+what we want to do.
+
+541
+00:30:20,000 --> 00:30:23,000
+Because I remember those days
+
+542
+00:30:23,000 --> 00:30:25,000
+when ESPM came,
+
+543
+00:30:25,000 --> 00:30:29,000
+because they didn't want to have unemployed people.
+
+544
+00:30:29,000 --> 00:30:31,000
+They said, here's ESPM,
+
+545
+00:30:31,000 --> 00:30:34,000
+we'll give you 5,000 euros for two years,
+
+546
+00:30:34,000 --> 00:30:36,000
+make a company out of them,
+
+547
+00:30:36,000 --> 00:30:39,000
+and then we made a one-man band,
+
+548
+00:30:39,000 --> 00:30:42,000
+and 10 years later we still have them,
+
+549
+00:30:42,000 --> 00:30:45,000
+and we're small-scale contractors.
+
+550
+00:30:45,000 --> 00:30:47,000
+I remember that.
+
+551
+00:30:47,000 --> 00:30:49,000
+I forgot about that.
+
+552
+00:30:49,000 --> 00:30:51,000
+It was still 5,000 euros,
+
+553
+00:30:51,000 --> 00:30:53,000
+and we all went to ESPM.
+
+554
+00:30:53,000 --> 00:30:56,000
+If you wait another year without a job,
+
+555
+00:30:56,000 --> 00:30:58,000
+you get additional benefits.
+
+556
+00:30:58,000 --> 00:31:00,000
+We all go to ESPM,
+
+557
+00:31:00,000 --> 00:31:03,000
+just because we don't have unemployed people,
+
+558
+00:31:03,000 --> 00:31:06,000
+and 10 years later we have a small situation.
+
+559
+00:31:06,000 --> 00:31:07,000
+I don't know.
+
+560
+00:31:07,000 --> 00:31:09,000
+It's a good question.
+
+561
+00:31:09,000 --> 00:31:11,000
+It's more historical.
+
+562
+00:31:11,000 --> 00:31:13,000
+Maybe in Slovenia,
+
+563
+00:31:13,000 --> 00:31:16,000
+companies employ people at ESPM,
+
+564
+00:31:16,000 --> 00:31:19,000
+or you can work through ESPM,
+
+565
+00:31:19,000 --> 00:31:21,000
+and they can employ you.
+
+566
+00:31:21,000 --> 00:31:24,000
+There are also other solutions
+
+567
+00:31:24,000 --> 00:31:27,000
+for how companies can employ you.
+
+568
+00:31:27,000 --> 00:31:30,000
+For example, companies in Tojina
+
+569
+00:31:30,000 --> 00:31:33,000
+have an Employer of Records,
+
+570
+00:31:33,000 --> 00:31:36,000
+or an agency for employment.
+
+571
+00:31:36,000 --> 00:31:38,000
+Besides that,
+
+572
+00:31:39,000 --> 00:31:41,000
+do our companies also serve
+
+573
+00:31:41,000 --> 00:31:43,000
+in the market,
+
+574
+00:31:43,000 --> 00:31:45,000
+or what do you think?
+
+575
+00:31:45,000 --> 00:31:47,000
+What are the forms of employment?
+
+576
+00:31:47,000 --> 00:31:50,000
+If we're talking about Slovenian companies,
+
+577
+00:31:50,000 --> 00:31:52,000
+that would employ Tujans,
+
+578
+00:31:52,000 --> 00:31:55,000
+we have offered this form many times,
+
+579
+00:31:55,000 --> 00:31:57,000
+Employer of Records,
+
+580
+00:31:57,000 --> 00:31:59,000
+but it didn't work out.
+
+581
+00:31:59,000 --> 00:32:01,000
+Maybe they didn't know about it,
+
+582
+00:32:01,000 --> 00:32:04,000
+maybe it wasn't well-developed yet.
+
+583
+00:32:04,000 --> 00:32:07,000
+Usually, they want a B2B contract,
+
+584
+00:32:07,000 --> 00:32:09,000
+which means that,
+
+585
+00:32:09,000 --> 00:32:12,000
+if a Tujan employs a Slovenian company,
+
+586
+00:32:12,000 --> 00:32:14,000
+then the Slovenian company
+
+587
+00:32:14,000 --> 00:32:17,000
+has a lot of companies in the Balkans,
+
+588
+00:32:17,000 --> 00:32:19,000
+so they can employ them.
+
+589
+00:32:19,000 --> 00:32:21,000
+But usually, they want you
+
+590
+00:32:21,000 --> 00:32:23,000
+to work as an SP,
+
+591
+00:32:23,000 --> 00:32:25,000
+or a part of a company
+
+592
+00:32:25,000 --> 00:32:27,000
+that exists in the same country,
+
+593
+00:32:27,000 --> 00:32:29,000
+and then you sign a contract
+
+594
+00:32:29,000 --> 00:32:31,000
+as a B2B contractor,
+
+595
+00:32:31,000 --> 00:32:33,000
+according to the agreement.
+
+596
+00:32:33,000 --> 00:32:36,000
+We have applied to various services,
+
+597
+00:32:36,000 --> 00:32:38,000
+but I don't know,
+
+598
+00:32:38,000 --> 00:32:40,000
+I think that the Slovenian law
+
+599
+00:32:40,000 --> 00:32:42,000
+isn't that great yet,
+
+600
+00:32:42,000 --> 00:32:44,000
+it's a grey area,
+
+601
+00:32:44,000 --> 00:32:46,000
+and companies are a bit afraid,
+
+602
+00:32:46,000 --> 00:32:48,000
+as you said,
+
+603
+00:32:48,000 --> 00:32:50,000
+they haven't been properly
+
+604
+00:32:50,000 --> 00:32:52,000
+investigated yet,
+
+605
+00:32:52,000 --> 00:32:54,000
+and then it's easier for them
+
+606
+00:32:54,000 --> 00:32:56,000
+to say to the candidate
+
+607
+00:32:56,000 --> 00:32:58,000
+that from the company,
+
+608
+00:32:58,000 --> 00:33:00,000
+we will sign a B2B contract.
+
+609
+00:33:00,000 --> 00:33:02,000
+Can you explain a bit
+
+610
+00:33:02,000 --> 00:33:04,000
+what an EOR is,
+
+611
+00:33:04,000 --> 00:33:06,000
+for those who don't know.
+
+612
+00:33:06,000 --> 00:33:08,000
+It means that
+
+613
+00:33:08,000 --> 00:33:10,000
+you are employed
+
+614
+00:33:10,000 --> 00:33:12,000
+with a company
+
+615
+00:33:12,000 --> 00:33:14,000
+that has registered...
+
+616
+00:33:14,000 --> 00:33:16,000
+OK, I can't talk about
+
+617
+00:33:16,000 --> 00:33:18,000
+name companies now,
+
+618
+00:33:18,000 --> 00:33:20,000
+but there is a company
+
+619
+00:33:20,000 --> 00:33:22,000
+that specializes in
+
+620
+00:33:22,000 --> 00:33:24,000
+employing people
+
+621
+00:33:24,000 --> 00:33:26,000
+and then giving them
+
+622
+00:33:26,000 --> 00:33:28,000
+to you voluntarily
+
+623
+00:33:28,000 --> 00:33:30,000
+through an agreement.
+
+624
+00:33:30,000 --> 00:33:32,000
+They are employed
+
+625
+00:33:32,000 --> 00:33:34,000
+in a company
+
+626
+00:33:34,000 --> 00:33:36,000
+that is based in Slovenia,
+
+627
+00:33:36,000 --> 00:33:38,000
+so that other companies
+
+628
+00:33:38,000 --> 00:33:40,000
+can hire their employees,
+
+629
+00:33:40,000 --> 00:33:42,000
+even if they are not hired,
+
+630
+00:33:42,000 --> 00:33:44,000
+and then that company
+
+631
+00:33:44,000 --> 00:33:46,000
+does all the financial things
+
+632
+00:33:46,000 --> 00:33:48,000
+for those employees,
+
+633
+00:33:48,000 --> 00:33:50,000
+and it's like they are
+
+634
+00:33:50,000 --> 00:33:52,000
+employed in their own country,
+
+635
+00:33:52,000 --> 00:33:54,000
+and then they are employed
+
+636
+00:33:54,000 --> 00:33:56,000
+to you.
+
+637
+00:33:56,000 --> 00:33:58,000
+Then you pay an account
+
+638
+00:33:58,000 --> 00:34:00,000
+every month,
+
+639
+00:34:00,000 --> 00:34:02,000
+and they cover all the social benefits,
+
+640
+00:34:02,000 --> 00:34:04,000
+and all the administrative
+
+641
+00:34:04,000 --> 00:34:06,000
+and financial things.
+
+642
+00:34:12,000 --> 00:34:14,000
+So, you are employed
+
+643
+00:34:14,000 --> 00:34:16,000
+in a company in your country,
+
+644
+00:34:16,000 --> 00:34:18,000
+and you work for another company.
+
+645
+00:34:18,000 --> 00:34:20,000
+Which means that
+
+646
+00:34:20,000 --> 00:34:22,000
+you also have all the benefits,
+
+647
+00:34:22,000 --> 00:34:24,000
+and the laws guarantee you
+
+648
+00:34:24,000 --> 00:34:26,000
+your own country,
+
+649
+00:34:26,000 --> 00:34:28,000
+not the one you work in.
+
+650
+00:34:28,000 --> 00:34:30,000
+So, today,
+
+651
+00:34:30,000 --> 00:34:32,000
+there is only one form of employment,
+
+652
+00:34:32,000 --> 00:34:34,000
+an agreement in employment,
+
+653
+00:34:34,000 --> 00:34:36,000
+in Slovenia or in EU,
+
+654
+00:34:36,000 --> 00:34:38,000
+and in Slovenian legislation
+
+655
+00:34:38,000 --> 00:34:40,000
+you have regress,
+
+656
+00:34:40,000 --> 00:34:42,000
+and if your company
+
+657
+00:34:42,000 --> 00:34:44,000
+that employs you does not follow it,
+
+658
+00:34:44,000 --> 00:34:46,000
+it is in a legal violation.
+
+659
+00:34:46,000 --> 00:34:48,000
+Large companies cannot be opened
+
+660
+00:34:48,000 --> 00:34:50,000
+by employees in Slovenia,
+
+661
+00:34:50,000 --> 00:34:52,000
+because if you do not pay,
+
+662
+00:34:52,000 --> 00:34:54,000
+you do not know all the hackers.
+
+663
+00:34:54,000 --> 00:34:56,000
+I have also heard that
+
+664
+00:34:56,000 --> 00:34:58,000
+it is not possible to work
+
+665
+00:34:58,000 --> 00:35:00,000
+as an employee.
+
+666
+00:35:00,000 --> 00:35:02,000
+Employees want to have
+
+667
+00:35:02,000 --> 00:35:04,000
+a safe job,
+
+668
+00:35:04,000 --> 00:35:06,000
+so that the American state,
+
+669
+00:35:06,000 --> 00:35:08,000
+but also the wider society,
+
+670
+00:35:08,000 --> 00:35:10,000
+can trust you.
+
+671
+00:35:10,000 --> 00:35:12,000
+You have unemployment,
+
+672
+00:35:12,000 --> 00:35:14,000
+and of course,
+
+673
+00:35:14,000 --> 00:35:16,000
+the best is a hospital.
+
+674
+00:35:16,000 --> 00:35:18,000
+We optimize for different things
+
+675
+00:35:18,000 --> 00:35:20,000
+in life.
+
+676
+00:35:20,000 --> 00:35:22,000
+As you said,
+
+677
+00:35:22,000 --> 00:35:24,000
+you need a loan,
+
+678
+00:35:24,000 --> 00:35:26,000
+which looks different
+
+679
+00:35:26,000 --> 00:35:28,000
+in this period of life,
+
+680
+00:35:28,000 --> 00:35:30,000
+than some agreement
+
+681
+00:35:30,000 --> 00:35:32,000
+that has a two-week
+
+682
+00:35:32,000 --> 00:35:34,000
+repayment period.
+
+683
+00:35:34,000 --> 00:35:36,000
+I can tell you something very interesting.
+
+684
+00:35:36,000 --> 00:35:38,000
+A few of our clients
+
+685
+00:35:38,000 --> 00:35:40,000
+contacted us,
+
+686
+00:35:40,000 --> 00:35:42,000
+who have the Employee of Record service,
+
+687
+00:35:42,000 --> 00:35:44,000
+to help them as partners
+
+688
+00:35:44,000 --> 00:35:46,000
+in Slovenia,
+
+689
+00:35:46,000 --> 00:35:48,000
+so it looks like they are interested
+
+690
+00:35:48,000 --> 00:35:50,000
+in the market,
+
+691
+00:35:50,000 --> 00:35:52,000
+that they have a potential market,
+
+692
+00:35:52,000 --> 00:35:54,000
+and they support this service for us.
+
+693
+00:35:54,000 --> 00:35:56,000
+My experience,
+
+694
+00:35:56,000 --> 00:35:58,000
+from the point of view of the company,
+
+695
+00:35:58,000 --> 00:36:00,000
+is that if you choose
+
+696
+00:36:00,000 --> 00:36:02,000
+a good provider,
+
+697
+00:36:02,000 --> 00:36:04,000
+which has partners all over the world,
+
+698
+00:36:04,000 --> 00:36:06,000
+it means that you have entities
+
+699
+00:36:06,000 --> 00:36:08,000
+all over the world,
+
+700
+00:36:08,000 --> 00:36:10,000
+and you can work anywhere.
+
+701
+00:36:10,000 --> 00:36:12,000
+The fees are different,
+
+702
+00:36:12,000 --> 00:36:14,000
+depending on the location,
+
+703
+00:36:14,000 --> 00:36:16,000
+how complicated the legislation
+
+704
+00:36:16,000 --> 00:36:18,000
+is there,
+
+705
+00:36:18,000 --> 00:36:20,000
+but if you are
+
+706
+00:36:20,000 --> 00:36:22,000
+a remote provider,
+
+707
+00:36:22,000 --> 00:36:24,000
+it is possible
+
+708
+00:36:24,000 --> 00:36:26,000
+to hire
+
+709
+00:36:26,000 --> 00:36:28,000
+a lot of people.
+
+710
+00:36:28,000 --> 00:36:30,000
+There are also
+
+711
+00:36:30,000 --> 00:36:32,000
+gentlemen in suits,
+
+712
+00:36:32,000 --> 00:36:34,000
+who are happy that they are
+
+713
+00:36:34,000 --> 00:36:36,000
+in compliance with all the rules,
+
+714
+00:36:36,000 --> 00:36:38,000
+and that you have a contractor.
+
+715
+00:36:38,000 --> 00:36:40,000
+How do the candidates perceive this?
+
+716
+00:36:40,000 --> 00:36:42,000
+Do they prefer to have a contractor,
+
+717
+00:36:42,000 --> 00:36:44,000
+or does it suit them?
+
+718
+00:36:44,000 --> 00:36:46,000
+My experience is that
+
+719
+00:36:46,000 --> 00:36:48,000
+the market is remote,
+
+720
+00:36:48,000 --> 00:36:50,000
+because we do not
+
+721
+00:36:50,000 --> 00:36:52,000
+work with contractors,
+
+722
+00:36:52,000 --> 00:36:54,000
+which means
+
+723
+00:36:54,000 --> 00:36:56,000
+that we are completely
+
+724
+00:36:56,000 --> 00:36:58,000
+non-competitive in Eastern Europe.
+
+725
+00:36:58,000 --> 00:37:00,000
+In the whole of Eastern Europe
+
+726
+00:37:00,000 --> 00:37:02,000
+and the Balkans,
+
+727
+00:37:02,000 --> 00:37:04,000
+we have our SPs,
+
+728
+00:37:04,000 --> 00:37:06,000
+we are much more conservative
+
+729
+00:37:06,000 --> 00:37:08,000
+for such a remote company,
+
+730
+00:37:08,000 --> 00:37:10,000
+which can pay you internationally,
+
+731
+00:37:10,000 --> 00:37:12,000
+because it means that
+
+732
+00:37:12,000 --> 00:37:14,000
+half of the country will take you.
+
+733
+00:37:14,000 --> 00:37:16,000
+If you are already at this level,
+
+734
+00:37:16,000 --> 00:37:18,000
+you are a 100 or 200 euro engineer,
+
+735
+00:37:18,000 --> 00:37:20,000
+you do not have any interest
+
+736
+00:37:20,000 --> 00:37:22,000
+in being 70 euros per year
+
+737
+00:37:22,000 --> 00:37:24,000
+on the account,
+
+738
+00:37:24,000 --> 00:37:26,000
+because of compliance.
+
+739
+00:37:26,000 --> 00:37:28,000
+That was the biggest learning.
+
+740
+00:37:28,000 --> 00:37:30,000
+The biggest learning was
+
+741
+00:37:30,000 --> 00:37:32,000
+that simply
+
+742
+00:37:32,000 --> 00:37:34,000
+a club with a global level
+
+743
+00:37:34,000 --> 00:37:36,000
+of compensation
+
+744
+00:37:36,000 --> 00:37:38,000
+is no longer competitive,
+
+745
+00:37:38,000 --> 00:37:40,000
+because people could
+
+746
+00:37:40,000 --> 00:37:42,000
+go to meetings.
+
+747
+00:37:42,000 --> 00:37:44,000
+I think that
+
+748
+00:37:44,000 --> 00:37:46,000
+the SP is not a Slovenian thing,
+
+749
+00:37:46,000 --> 00:37:48,000
+but it is also Poland,
+
+750
+00:37:48,000 --> 00:37:50,000
+the Czech Republic, Croatia,
+
+751
+00:37:50,000 --> 00:37:52,000
+Serbia,
+
+752
+00:37:52,000 --> 00:37:54,000
+the whole of Eastern Europe,
+
+753
+00:37:54,000 --> 00:37:56,000
+Bulgaria, Romania.
+
+754
+00:37:56,000 --> 00:37:58,000
+It is easier for them
+
+755
+00:37:58,000 --> 00:38:00,000
+to be at the SP
+
+756
+00:38:00,000 --> 00:38:02,000
+than to be an employee.
+
+757
+00:38:02,000 --> 00:38:04,000
+I mentioned 100 or 200
+
+758
+00:38:04,000 --> 00:38:06,000
+engineers
+
+759
+00:38:06,000 --> 00:38:08,000
+per year.
+
+760
+00:38:08,000 --> 00:38:10,000
+One question came up
+
+761
+00:38:10,000 --> 00:38:12,000
+very interesting,
+
+762
+00:38:12,000 --> 00:38:14,000
+what is the difference
+
+763
+00:38:14,000 --> 00:38:16,000
+between 100 or 200 engineers?
+
+764
+00:38:16,000 --> 00:38:18,000
+These are really important
+
+765
+00:38:18,000 --> 00:38:20,000
+global compensations,
+
+766
+00:38:20,000 --> 00:38:22,000
+not Slovenian.
+
+767
+00:38:22,000 --> 00:38:24,000
+In Slovenian,
+
+768
+00:38:24,000 --> 00:38:26,000
+I would speak a little less.
+
+769
+00:38:26,000 --> 00:38:28,000
+Is it really an elite engineer?
+
+770
+00:38:28,000 --> 00:38:30,000
+How many do we have in Slovenia?
+
+771
+00:38:30,000 --> 00:38:32,000
+What is the difference?
+
+772
+00:38:32,000 --> 00:38:34,000
+How do you work as an engineer?
+
+773
+00:38:34,000 --> 00:38:36,000
+As I said,
+
+774
+00:38:36,000 --> 00:38:38,000
+if we look at 1%
+
+775
+00:38:38,000 --> 00:38:40,000
+of employees in the economy
+
+776
+00:38:40,000 --> 00:38:42,000
+and 4,000 net,
+
+777
+00:38:42,000 --> 00:38:44,000
+8,000 brut,
+
+778
+00:38:44,000 --> 00:38:46,000
+how much is it?
+
+779
+00:38:46,000 --> 00:38:48,000
+100 euros per month.
+
+780
+00:38:48,000 --> 00:38:50,000
+What I mean is
+
+781
+00:38:50,000 --> 00:38:52,000
+that these are people
+
+782
+00:38:52,000 --> 00:38:54,000
+who are very, very rare.
+
+783
+00:38:54,000 --> 00:38:56,000
+We know
+
+784
+00:38:56,000 --> 00:38:58,000
+at least 10 of them.
+
+785
+00:38:58,000 --> 00:39:00,000
+Slovenia is a small market,
+
+786
+00:39:00,000 --> 00:39:02,000
+so we know
+
+787
+00:39:02,000 --> 00:39:04,000
+who these people are.
+
+788
+00:39:04,000 --> 00:39:06,000
+The biggest criticism
+
+789
+00:39:06,000 --> 00:39:08,000
+is that their IT impact
+
+790
+00:39:08,000 --> 00:39:10,000
+is not programming,
+
+791
+00:39:10,000 --> 00:39:12,000
+but business impact.
+
+792
+00:39:12,000 --> 00:39:14,000
+At that time,
+
+793
+00:39:14,000 --> 00:39:16,000
+there could be a lot of differences.
+
+794
+00:39:16,000 --> 00:39:18,000
+I will say that if you are employed,
+
+795
+00:39:18,000 --> 00:39:20,000
+it is quite difficult to get to those numbers.
+
+796
+00:39:20,000 --> 00:39:22,000
+If you are an SP, a freelancer,
+
+797
+00:39:22,000 --> 00:39:24,000
+or something like that,
+
+798
+00:39:24,000 --> 00:39:26,000
+you play by the rules,
+
+799
+00:39:26,000 --> 00:39:28,000
+but you have more employees,
+
+800
+00:39:28,000 --> 00:39:30,000
+then this contribution is not so unattainable.
+
+801
+00:39:30,000 --> 00:39:32,000
+But then you are a subcontractor
+
+802
+00:39:32,000 --> 00:39:34,000
+and you have employees
+
+803
+00:39:34,000 --> 00:39:36,000
+and you are often the best agency
+
+804
+00:39:36,000 --> 00:39:38,000
+and so on and so on.
+
+805
+00:39:38,000 --> 00:39:40,000
+So I have a lot of debates.
+
+806
+00:39:40,000 --> 00:39:42,000
+I was always an SP,
+
+807
+00:39:42,000 --> 00:39:44,000
+a freelancer,
+
+808
+00:39:44,000 --> 00:39:46,000
+but I had 5-10 contractors
+
+809
+00:39:46,000 --> 00:39:48,000
+and because I couldn't do anything,
+
+810
+00:39:48,000 --> 00:39:50,000
+I hired someone else
+
+811
+00:39:50,000 --> 00:39:52,000
+to fix it.
+
+812
+00:39:52,000 --> 00:39:54,000
+And because at one point
+
+813
+00:39:54,000 --> 00:39:56,000
+it is no longer paying,
+
+814
+00:39:56,000 --> 00:39:58,000
+but it is the income of the company.
+
+815
+00:39:58,000 --> 00:40:00,000
+100 euros per year for the income of the company
+
+816
+00:40:00,000 --> 00:40:02,000
+is not such a big amount
+
+817
+00:40:02,000 --> 00:40:04,000
+if there are 4, 5, 6 people employed.
+
+818
+00:40:04,000 --> 00:40:06,000
+So I would say
+
+819
+00:40:06,000 --> 00:40:08,000
+to think more about the income
+
+820
+00:40:08,000 --> 00:40:10,000
+if you want to have those contributions.
+
+821
+00:40:10,000 --> 00:40:12,000
+Because if you pay too much,
+
+822
+00:40:12,000 --> 00:40:14,000
+it will be difficult for you to get there.
+
+823
+00:40:14,000 --> 00:40:16,000
+Let's be open.
+
+824
+00:40:16,000 --> 00:40:18,000
+I'm talking about Slovenia.
+
+825
+00:40:18,000 --> 00:40:20,000
+Have you sponsored any engineers
+
+826
+00:40:20,000 --> 00:40:22,000
+for 100 euros in Slovenia?
+
+827
+00:40:22,000 --> 00:40:24,000
+Not in Slovenia.
+
+828
+00:40:24,000 --> 00:40:26,000
+If we are talking about developers,
+
+829
+00:40:26,000 --> 00:40:28,000
+we are not talking about some government CTO.
+
+830
+00:40:28,000 --> 00:40:30,000
+No, we are not talking about VP,
+
+831
+00:40:30,000 --> 00:40:32,000
+VP of engineering,
+
+832
+00:40:32,000 --> 00:40:34,000
+individual contributor,
+
+833
+00:40:34,000 --> 00:40:36,000
+programmer.
+
+834
+00:40:36,000 --> 00:40:38,000
+No, not in Slovenia.
+
+835
+00:40:38,000 --> 00:40:40,000
+Do you have a goal in mind?
+
+836
+00:40:40,000 --> 00:40:42,000
+Can you say something like
+
+837
+00:40:42,000 --> 00:40:44,000
+wow, that would be cool?
+
+838
+00:40:44,000 --> 00:40:46,000
+I have 10 euros
+
+839
+00:40:46,000 --> 00:40:48,000
+per month of compensation
+
+840
+00:40:48,000 --> 00:40:50,000
+of Bruto SP.
+
+841
+00:40:50,000 --> 00:40:52,000
+10,000 euros
+
+842
+00:40:52,000 --> 00:40:54,000
+was for a company
+
+843
+00:40:54,000 --> 00:40:56,000
+that is going for
+
+844
+00:40:56,000 --> 00:40:58,000
+an operational role
+
+845
+00:40:58,000 --> 00:41:00,000
+of which there are only 50 in Slovenia
+
+846
+00:41:00,000 --> 00:41:02,000
+and this company
+
+847
+00:41:02,000 --> 00:41:04,000
+was one of the companies that did that
+
+848
+00:41:04,000 --> 00:41:06,000
+and it was worth it,
+
+849
+00:41:06,000 --> 00:41:08,000
+not the programming,
+
+850
+00:41:08,000 --> 00:41:10,000
+but the fact that it was able to
+
+851
+00:41:10,000 --> 00:41:12,000
+provide that service to its customers.
+
+852
+00:41:12,000 --> 00:41:14,000
+That's why it was so expensive.
+
+853
+00:41:14,000 --> 00:41:16,000
+I remember a similar contribution,
+
+854
+00:41:16,000 --> 00:41:18,000
+but it was so expensive
+
+855
+00:41:18,000 --> 00:41:20,000
+for a Slovenian company,
+
+856
+00:41:20,000 --> 00:41:22,000
+but not entirely owned by Slovenia.
+
+857
+00:41:22,000 --> 00:41:24,000
+So I don't have to say
+
+858
+00:41:24,000 --> 00:41:26,000
+that we paid in Slovenia.
+
+859
+00:41:26,000 --> 00:41:28,000
+But I would like to
+
+860
+00:41:28,000 --> 00:41:30,000
+ask you about that,
+
+861
+00:41:30,000 --> 00:41:32,000
+because I have a personal
+
+862
+00:41:32,000 --> 00:41:34,000
+foolproof way
+
+863
+00:41:34,000 --> 00:41:36,000
+that I think
+
+864
+00:41:36,000 --> 00:41:38,000
+100K engineers do.
+
+865
+00:41:38,000 --> 00:41:40,000
+But since we are talking
+
+866
+00:41:40,000 --> 00:41:42,000
+about pay and careers,
+
+867
+00:41:42,000 --> 00:41:44,000
+what is the world
+
+868
+00:41:44,000 --> 00:41:46,000
+like for someone?
+
+869
+00:41:46,000 --> 00:41:48,000
+How do you get to that level?
+
+870
+00:41:48,000 --> 00:41:50,000
+How do you start?
+
+871
+00:41:50,000 --> 00:41:52,000
+Here we are quite connected
+
+872
+00:41:52,000 --> 00:41:54,000
+also with the
+
+873
+00:41:54,000 --> 00:41:56,000
+stay and learn
+
+874
+00:41:56,000 --> 00:41:58,000
+or move and earn
+
+875
+00:41:58,000 --> 00:42:00,000
+debate.
+
+876
+00:42:00,000 --> 00:42:02,000
+How do you optimize your career
+
+877
+00:42:02,000 --> 00:42:04,000
+so that you can get
+
+878
+00:42:04,000 --> 00:42:06,000
+to that level of compensation?
+
+879
+00:42:06,000 --> 00:42:08,000
+If we are talking about Slovenia,
+
+880
+00:42:08,000 --> 00:42:10,000
+and that you are just a programmer,
+
+881
+00:42:10,000 --> 00:42:12,000
+we have to wait
+
+882
+00:42:12,000 --> 00:42:14,000
+for the inflation to come
+
+883
+00:42:14,000 --> 00:42:16,000
+so that we can get to 100 euros,
+
+884
+00:42:16,000 --> 00:42:18,000
+which I honestly think is impossible.
+
+885
+00:42:18,000 --> 00:42:20,000
+If we connect,
+
+886
+00:42:20,000 --> 00:42:22,000
+your skills are not only connected
+
+887
+00:42:22,000 --> 00:42:24,000
+with programming,
+
+888
+00:42:24,000 --> 00:42:26,000
+but also with launching
+
+889
+00:42:26,000 --> 00:42:28,000
+new products or opening
+
+890
+00:42:28,000 --> 00:42:30,000
+some verticals or horizontals
+
+891
+00:42:30,000 --> 00:42:32,000
+for more income.
+
+892
+00:42:32,000 --> 00:42:34,000
+These are a bit easier to achieve.
+
+893
+00:42:34,000 --> 00:42:36,000
+But then you are not just a programmer,
+
+894
+00:42:36,000 --> 00:42:38,000
+but you are something else.
+
+895
+00:42:38,000 --> 00:42:40,000
+Maybe a leadership role,
+
+896
+00:42:40,000 --> 00:42:42,000
+more product oriented.
+
+897
+00:42:42,000 --> 00:42:44,000
+What is the purpose of a career?
+
+898
+00:42:44,000 --> 00:42:46,000
+First you have to develop a skillset,
+
+899
+00:42:46,000 --> 00:42:48,000
+then you have to learn
+
+900
+00:42:48,000 --> 00:42:50,000
+how to sell well.
+
+901
+00:42:50,000 --> 00:42:52,000
+At the beginning of a career,
+
+902
+00:42:52,000 --> 00:42:54,000
+you have to optimize your skillset.
+
+903
+00:42:54,000 --> 00:42:56,000
+In the second half of your career,
+
+904
+00:42:56,000 --> 00:42:58,000
+you try to sell better.
+
+905
+00:42:58,000 --> 00:43:00,000
+What does it look like?
+
+906
+00:43:00,000 --> 00:43:02,000
+For me, it looks like a freelancer,
+
+907
+00:43:02,000 --> 00:43:04,000
+for some it looks like
+
+908
+00:43:04,000 --> 00:43:06,000
+they change jobs,
+
+909
+00:43:06,000 --> 00:43:08,000
+have their own startup projects,
+
+910
+00:43:08,000 --> 00:43:10,000
+go to conferences.
+
+911
+00:43:10,000 --> 00:43:12,000
+Then there is a grind.
+
+912
+00:43:12,000 --> 00:43:14,000
+Every new job
+
+913
+00:43:14,000 --> 00:43:16,000
+has to be 20% higher.
+
+914
+00:43:16,000 --> 00:43:18,000
+Or 30% higher.
+
+915
+00:43:18,000 --> 00:43:20,000
+If you replace 10,
+
+916
+00:43:20,000 --> 00:43:22,000
+it's 30 days.
+
+917
+00:43:22,000 --> 00:43:24,000
+30 days.
+
+918
+00:43:24,000 --> 00:43:26,000
+Maybe it's different
+
+919
+00:43:26,000 --> 00:43:28,000
+or for some other
+
+920
+00:43:28,000 --> 00:43:30,000
+leadership role.
+
+921
+00:43:30,000 --> 00:43:32,000
+I would say that
+
+922
+00:43:32,000 --> 00:43:34,000
+engineers and programmers
+
+923
+00:43:34,000 --> 00:43:36,000
+pay 12-20%
+
+924
+00:43:36,000 --> 00:43:38,000
+difference
+
+925
+00:43:38,000 --> 00:43:40,000
+than me.
+
+926
+00:43:40,000 --> 00:43:42,000
+But higher percentages
+
+927
+00:43:42,000 --> 00:43:44,000
+are more responsible
+
+928
+00:43:44,000 --> 00:43:46,000
+for leadership positions.
+
+929
+00:43:46,000 --> 00:43:48,000
+I haven't been
+
+930
+00:43:48,000 --> 00:43:50,000
+in the market for 10 years.
+
+931
+00:43:50,000 --> 00:43:52,000
+Then I moved
+
+932
+00:43:52,000 --> 00:43:54,000
+to a business position
+
+933
+00:43:54,000 --> 00:43:56,000
+and then I managed
+
+934
+00:43:56,000 --> 00:43:58,000
+to get a market
+
+935
+00:43:58,000 --> 00:44:00,000
+compensation.
+
+936
+00:44:00,000 --> 00:44:02,000
+It's almost
+
+937
+00:44:02,000 --> 00:44:04,000
+very difficult to be in the military
+
+938
+00:44:04,000 --> 00:44:06,000
+for 10 years and still
+
+939
+00:44:06,000 --> 00:44:08,000
+get a market compensation.
+
+940
+00:44:08,000 --> 00:44:10,000
+We had a case
+
+941
+00:44:10,000 --> 00:44:12,000
+and it turned out that
+
+942
+00:44:12,000 --> 00:44:14,000
+there is a lack of knowledge.
+
+943
+00:44:14,000 --> 00:44:16,000
+You can do a lot
+
+944
+00:44:16,000 --> 00:44:18,000
+in what you've been doing
+
+945
+00:44:18,000 --> 00:44:20,000
+for 10 years.
+
+946
+00:44:20,000 --> 00:44:22,000
+You change things.
+
+947
+00:44:22,000 --> 00:44:24,000
+Then you move to another company
+
+948
+00:44:24,000 --> 00:44:26,000
+and you are not as flexible
+
+949
+00:44:26,000 --> 00:44:28,000
+when it comes to technology
+
+950
+00:44:28,000 --> 00:44:30,000
+and products.
+
+951
+00:44:30,000 --> 00:44:32,000
+It wasn't enough.
+
+952
+00:44:32,000 --> 00:44:34,000
+You are culturally
+
+953
+00:44:34,000 --> 00:44:36,000
+very balanced in one field
+
+954
+00:44:36,000 --> 00:44:38,000
+after 10 years.
+
+955
+00:44:38,000 --> 00:44:40,000
+It's best 10 times in one
+
+956
+00:44:40,000 --> 00:44:42,000
+than once in 10.
+
+957
+00:44:42,000 --> 00:44:44,000
+You are in an open zone.
+
+958
+00:44:44,000 --> 00:44:46,000
+Of course,
+
+959
+00:44:46,000 --> 00:44:48,000
+there are other criteria.
+
+960
+00:44:48,000 --> 00:44:50,000
+You will be here for a long time.
+
+961
+00:44:50,000 --> 00:44:52,000
+That's good.
+
+962
+00:44:52,000 --> 00:44:54,000
+I see that
+
+963
+00:44:54,000 --> 00:44:56,000
+here you are always
+
+964
+00:44:56,000 --> 00:44:58,000
+building a team
+
+965
+00:44:58,000 --> 00:45:00,000
+or as a recruiter.
+
+966
+00:45:00,000 --> 00:45:02,000
+There are some differences.
+
+967
+00:45:02,000 --> 00:45:04,000
+There is a difference
+
+968
+00:45:04,000 --> 00:45:06,000
+between 7 years of experience
+
+969
+00:45:06,000 --> 00:45:08,000
+and 7 times in one year.
+
+970
+00:45:08,000 --> 00:45:10,000
+But is it possible
+
+971
+00:45:10,000 --> 00:45:12,000
+to have one year of experience
+
+972
+00:45:12,000 --> 00:45:14,000
+even better than 7 years?
+
+973
+00:45:14,000 --> 00:45:16,000
+It depends on the context.
+
+974
+00:45:16,000 --> 00:45:18,000
+I think that
+
+975
+00:45:18,000 --> 00:45:20,000
+one year
+
+976
+00:45:20,000 --> 00:45:22,000
+is extreme.
+
+977
+00:45:22,000 --> 00:45:24,000
+But I think that
+
+978
+00:45:24,000 --> 00:45:26,000
+Slovenia doesn't understand it.
+
+979
+00:45:28,000 --> 00:45:30,000
+That's a sign
+
+980
+00:45:30,000 --> 00:45:32,000
+as I hear
+
+981
+00:45:32,000 --> 00:45:34,000
+from my contacts
+
+982
+00:45:34,000 --> 00:45:36,000
+that there is something wrong with the candidate.
+
+983
+00:45:36,000 --> 00:45:38,000
+Absolutely.
+
+984
+00:45:38,000 --> 00:45:40,000
+As you said,
+
+985
+00:45:40,000 --> 00:45:42,000
+job hopping
+
+986
+00:45:44,000 --> 00:45:46,000
+I can understand it
+
+987
+00:45:46,000 --> 00:45:48,000
+in a candidate-driven market.
+
+988
+00:45:48,000 --> 00:45:50,000
+When you are interested
+
+989
+00:45:50,000 --> 00:45:52,000
+in a skill set
+
+990
+00:45:52,000 --> 00:45:54,000
+and you get a new offer
+
+991
+00:45:54,000 --> 00:45:56,000
+every week in an inbox.
+
+992
+00:45:56,000 --> 00:45:58,000
+You find a better project
+
+993
+00:45:58,000 --> 00:46:00,000
+and it doesn't work
+
+994
+00:46:00,000 --> 00:46:02,000
+on its own.
+
+995
+00:46:02,000 --> 00:46:04,000
+On the other hand,
+
+996
+00:46:04,000 --> 00:46:06,000
+you let it go.
+
+997
+00:46:06,000 --> 00:46:08,000
+It's a great way
+
+998
+00:46:08,000 --> 00:46:10,000
+to optimize for a higher salary.
+
+999
+00:46:10,000 --> 00:46:12,000
+If you optimize for an expert,
+
+1000
+00:46:12,000 --> 00:46:14,000
+it's hard to work
+
+1001
+00:46:14,000 --> 00:46:16,000
+if you only have one year.
+
+1002
+00:46:16,000 --> 00:46:18,000
+I would like to change the perception.
+
+1003
+00:46:18,000 --> 00:46:20,000
+I have been working
+
+1004
+00:46:20,000 --> 00:46:22,000
+for 60-70 different companies
+
+1005
+00:46:22,000 --> 00:46:24,000
+for 10 years.
+
+1006
+00:46:24,000 --> 00:46:26,000
+When I applied
+
+1007
+00:46:26,000 --> 00:46:28,000
+for a regular job,
+
+1008
+00:46:28,000 --> 00:46:30,000
+I said that I was a freelancer
+
+1009
+00:46:30,000 --> 00:46:32,000
+and I had my own agency.
+
+1010
+00:46:32,000 --> 00:46:34,000
+The more contracts I have,
+
+1011
+00:46:34,000 --> 00:46:36,000
+the lower my value.
+
+1012
+00:46:38,000 --> 00:46:40,000
+I know how to impose
+
+1013
+00:46:40,000 --> 00:46:42,000
+FDV.
+
+1014
+00:46:42,000 --> 00:46:44,000
+I try to adapt my situation
+
+1015
+00:46:44,000 --> 00:46:46,000
+to a variety of experiences.
+
+1016
+00:46:50,000 --> 00:46:52,000
+If I write
+
+1017
+00:46:52,000 --> 00:46:54,000
+that I was here for half a year
+
+1018
+00:46:54,000 --> 00:46:56,000
+and here for 3 months
+
+1019
+00:46:56,000 --> 00:46:58,000
+and here I am hiding
+
+1020
+00:46:58,000 --> 00:47:00,000
+because I worked in 3 projects
+
+1021
+00:47:00,000 --> 00:47:02,000
+for a short time,
+
+1022
+00:47:02,000 --> 00:47:04,000
+I think it's also
+
+1023
+00:47:04,000 --> 00:47:06,000
+because
+
+1024
+00:47:06,000 --> 00:47:08,000
+in the end,
+
+1025
+00:47:08,000 --> 00:47:10,000
+IT is a very complicated thing
+
+1026
+00:47:10,000 --> 00:47:12,000
+where you have a portfolio
+
+1027
+00:47:12,000 --> 00:47:14,000
+and some references.
+
+1028
+00:47:14,000 --> 00:47:16,000
+Those who are
+
+1029
+00:47:16,000 --> 00:47:18,000
+at the top
+
+1030
+00:47:18,000 --> 00:47:20,000
+have a lot of unrelated
+
+1031
+00:47:20,000 --> 00:47:22,000
+services.
+
+1032
+00:47:22,000 --> 00:47:24,000
+They have startups,
+
+1033
+00:47:24,000 --> 00:47:26,000
+hobby projects that can develop
+
+1034
+00:47:26,000 --> 00:47:28,000
+or not.
+
+1035
+00:47:28,000 --> 00:47:30,000
+And now we will have
+
+1036
+00:47:30,000 --> 00:47:32,000
+an experience where
+
+1037
+00:47:32,000 --> 00:47:34,000
+they value engineering
+
+1038
+00:47:34,000 --> 00:47:36,000
+in a positive way.
+
+1039
+00:47:36,000 --> 00:47:38,000
+That you are not a one-trick pony.
+
+1040
+00:47:38,000 --> 00:47:40,000
+Absolutely.
+
+1041
+00:47:42,000 --> 00:47:44,000
+When it comes to profiles,
+
+1042
+00:47:44,000 --> 00:47:46,000
+we see hundreds
+
+1043
+00:47:46,000 --> 00:47:48,000
+of recruiters.
+
+1044
+00:47:48,000 --> 00:47:50,000
+Življen wrote weekly,
+
+1045
+00:47:50,000 --> 00:47:52,000
+then also daily,
+
+1046
+00:47:52,000 --> 00:47:54,000
+but weekly.
+
+1047
+00:47:54,000 --> 00:47:56,000
+There are some patterns.
+
+1048
+00:47:56,000 --> 00:47:58,000
+You see that
+
+1049
+00:47:58,000 --> 00:48:00,000
+engineers who are
+
+1050
+00:48:00,000 --> 00:48:02,000
+perhaps the most successful,
+
+1051
+00:48:02,000 --> 00:48:04,000
+there is a difference
+
+1052
+00:48:04,000 --> 00:48:06,000
+between 100 and 200 engineers,
+
+1053
+00:48:06,000 --> 00:48:08,000
+there is a difference.
+
+1054
+00:48:08,000 --> 00:48:10,000
+You see a lot of different things.
+
+1055
+00:48:10,000 --> 00:48:12,000
+But it's not just
+
+1056
+00:48:12,000 --> 00:48:14,000
+different companies,
+
+1057
+00:48:14,000 --> 00:48:16,000
+but really different
+
+1058
+00:48:16,000 --> 00:48:18,000
+industries, different stacks,
+
+1059
+00:48:18,000 --> 00:48:20,000
+different products,
+
+1060
+00:48:20,000 --> 00:48:22,000
+consultants, agencies
+
+1061
+00:48:22,000 --> 00:48:24,000
+and product companies,
+
+1062
+00:48:24,000 --> 00:48:26,000
+startups and big
+
+1063
+00:48:26,000 --> 00:48:28,000
+legacy companies.
+
+1064
+00:48:28,000 --> 00:48:30,000
+When you see more different things,
+
+1065
+00:48:30,000 --> 00:48:32,000
+you are more
+
+1066
+00:48:32,000 --> 00:48:34,000
+realistically T-shaped.
+
+1067
+00:48:34,000 --> 00:48:36,000
+It seems to me that
+
+1068
+00:48:36,000 --> 00:48:38,000
+at the beginning of your career,
+
+1069
+00:48:38,000 --> 00:48:40,000
+in the first 10 years,
+
+1070
+00:48:40,000 --> 00:48:42,000
+it is obvious that you change
+
+1071
+00:48:42,000 --> 00:48:44,000
+and you see a lot of things.
+
+1072
+00:48:46,000 --> 00:48:48,000
+I have an experience
+
+1073
+00:48:48,000 --> 00:48:50,000
+with mentoring and people
+
+1074
+00:48:50,000 --> 00:48:52,000
+who perform.
+
+1075
+00:48:52,000 --> 00:48:54,000
+What you are trying to look for
+
+1076
+00:48:54,000 --> 00:48:56,000
+is an organization or environment
+
+1077
+00:48:56,000 --> 00:48:58,000
+in which you can grow.
+
+1078
+00:48:58,000 --> 00:49:00,000
+There are not many of them.
+
+1079
+00:49:00,000 --> 00:49:02,000
+I think that at the beginning
+
+1080
+00:49:02,000 --> 00:49:04,000
+you will suffer a low salary
+
+1081
+00:49:04,000 --> 00:49:06,000
+if you have a feeling that you are developing.
+
+1082
+00:49:06,000 --> 00:49:08,000
+Because this development will
+
+1083
+00:49:08,000 --> 00:49:10,000
+happen to you in some time.
+
+1084
+00:49:10,000 --> 00:49:12,000
+The alternative is to fall
+
+1085
+00:49:12,000 --> 00:49:14,000
+into a company that can pay well,
+
+1086
+00:49:14,000 --> 00:49:16,000
+but then you stagnate
+
+1087
+00:49:16,000 --> 00:49:18,000
+for years.
+
+1088
+00:49:18,000 --> 00:49:20,000
+If you change the service so much,
+
+1089
+00:49:20,000 --> 00:49:22,000
+you become competitive
+
+1090
+00:49:22,000 --> 00:49:24,000
+because you have not learned
+
+1091
+00:49:24,000 --> 00:49:26,000
+anything useful.
+
+1092
+00:49:28,000 --> 00:49:30,000
+Because you become an expert
+
+1093
+00:49:30,000 --> 00:49:32,000
+in your own system.
+
+1094
+00:49:32,000 --> 00:49:34,000
+I had a situation
+
+1095
+00:49:34,000 --> 00:49:36,000
+where I applied for a front-end developer
+
+1096
+00:49:36,000 --> 00:49:38,000
+and I did not know JavaScript.
+
+1097
+00:49:38,000 --> 00:49:40,000
+He told me that this person
+
+1098
+00:49:40,000 --> 00:49:42,000
+had 4 hours of Bruto
+
+1099
+00:49:42,000 --> 00:49:44,000
+3 years ago, before Corona,
+
+1100
+00:49:44,000 --> 00:49:46,000
+which is a very high salary.
+
+1101
+00:49:46,000 --> 00:49:48,000
+But there was one person in Slovenia
+
+1102
+00:49:48,000 --> 00:49:50,000
+who is a custom CMS
+
+1103
+00:49:50,000 --> 00:49:52,000
+developed by an agency.
+
+1104
+00:49:52,000 --> 00:49:54,000
+I told him to stay here
+
+1105
+00:49:54,000 --> 00:49:56,000
+because no other company
+
+1106
+00:49:56,000 --> 00:49:58,000
+will give you this salary
+
+1107
+00:49:58,000 --> 00:50:00,000
+for front-end developer.
+
+1108
+00:50:00,000 --> 00:50:02,800
+And that is one of the reasons.
+
+1109
+00:50:02,800 --> 00:50:10,800
+And I said, look, ride it out, but know that you will have a challenge if you don't know that.
+
+1110
+00:50:10,800 --> 00:50:20,799
+And in the end, he still paid me well, he was at a certain level, but at the end of the service, it will be a little more painful.
+
+1111
+00:50:21,600 --> 00:50:33,599
+It's a little, well, here it's a little, no, well, there is a menu, but as you said, if you find a good engineering culture,
+
+1112
+00:50:33,599 --> 00:50:39,599
+then you will spend the next two to three years, because you can go there on that dip.
+
+1113
+00:50:39,599 --> 00:50:45,599
+But I also face this question a lot, what is a good business, what is a good engineering culture.
+
+1114
+00:50:46,400 --> 00:50:48,400
+I have two opinions on the recipe.
+
+1115
+00:50:48,400 --> 00:50:54,400
+Now I don't know if you agree with me or not, but I think it's true that you always optimize,
+
+1116
+00:50:54,400 --> 00:51:02,400
+or if you already choose and you don't have a lot of choices, you prioritize companies that make a living from selling their software.
+
+1117
+00:51:02,400 --> 00:51:14,400
+This means that their main source of income is software and not gasoline, or I don't know, something else, but business software.
+
+1118
+00:51:15,199 --> 00:51:19,199
+You have to approach the production of a product in a very different way.
+
+1119
+00:51:19,199 --> 00:51:21,199
+Is engineering a profit center or a cost center?
+
+1120
+00:51:21,199 --> 00:51:23,199
+That's right.
+
+1121
+00:51:23,199 --> 00:51:27,199
+In my world, it's a bit like that.
+
+1122
+00:51:27,199 --> 00:51:31,199
+Services are partners, you have to try more to know what you like.
+
+1123
+00:51:31,199 --> 00:51:41,199
+I somehow follow this in the world, you don't really know what a good service and a bad service are if you have one.
+
+1124
+00:51:42,000 --> 00:51:50,000
+A lot has already happened to me, I thought it was the best, then I changed it and two years later I'm preparing it.
+
+1125
+00:51:50,000 --> 00:51:56,000
+They write that it was toxic, you didn't satisfy and I don't know what else.
+
+1126
+00:51:56,000 --> 00:52:00,000
+But when you're in there, you have a different view of what you don't know.
+
+1127
+00:52:00,000 --> 00:52:04,000
+After ten years and sixty accidents, I gave up.
+
+1128
+00:52:04,800 --> 00:52:06,800
+Now I'm a bit old-fashioned.
+
+1129
+00:52:06,800 --> 00:52:12,800
+When I'm older, I'm a bit more lost, I don't sleep well.
+
+1130
+00:52:12,800 --> 00:52:18,800
+You get a perception when you're at the factory, you know, you're accused of a crime,
+
+1131
+00:52:18,800 --> 00:52:24,800
+and then you realize that people work 10-12 hours a day and they're proud of it.
+
+1132
+00:52:24,800 --> 00:52:28,800
+And you're like, okay, I've been there a hundred times, I know how it ends.
+
+1133
+00:52:29,600 --> 00:52:33,600
+This is definitely one of the stresses of organization of work.
+
+1134
+00:52:33,600 --> 00:52:37,600
+But I think it's very interesting.
+
+1135
+00:52:37,600 --> 00:52:41,600
+The engineering culture or the process of development,
+
+1136
+00:52:41,600 --> 00:52:45,600
+where the software development life cycle is as transparent as possible,
+
+1137
+00:52:45,600 --> 00:52:51,600
+so you can really see how things start and how they go into production,
+
+1138
+00:52:51,600 --> 00:52:53,600
+and what happens later.
+
+1139
+00:52:54,399 --> 00:52:58,399
+That's one thing, that the software development life cycle is transparent
+
+1140
+00:52:58,399 --> 00:53:00,399
+and that it values your brain, not your hands.
+
+1141
+00:53:00,399 --> 00:53:02,399
+That's the best.
+
+1142
+00:53:02,399 --> 00:53:04,399
+I'm still a bit skeptical.
+
+1143
+00:53:04,399 --> 00:53:06,399
+Maybe I'll tell you later.
+
+1144
+00:53:06,399 --> 00:53:10,399
+And one year? Really, not one year?
+
+1145
+00:53:10,399 --> 00:53:12,399
+No, no, no.
+
+1146
+00:53:12,399 --> 00:53:14,399
+Slovenian companies don't have such good onboarding systems.
+
+1147
+00:53:14,399 --> 00:53:16,399
+No, absolutely not.
+
+1148
+00:53:16,399 --> 00:53:18,399
+So that you can really go and start working.
+
+1149
+00:53:18,399 --> 00:53:22,399
+Slovenian companies are not prepared to replace candidates in one year
+
+1150
+00:53:23,199 --> 00:53:25,199
+and one year really perform fully.
+
+1151
+00:53:25,199 --> 00:53:27,199
+I think everyone here ...
+
+1152
+00:53:27,199 --> 00:53:29,199
+I agree completely.
+
+1153
+00:53:29,199 --> 00:53:31,199
+If you're a junior, three years.
+
+1154
+00:53:31,199 --> 00:53:33,199
+If you're a senior, maybe a year and a half.
+
+1155
+00:53:33,199 --> 00:53:35,199
+And then a year if you're really out.
+
+1156
+00:53:35,199 --> 00:53:37,199
+Yes.
+
+1157
+00:53:37,199 --> 00:53:39,199
+I would say that if the engineering culture is bad,
+
+1158
+00:53:39,199 --> 00:53:41,199
+change it in one year if you find a better one.
+
+1159
+00:53:41,199 --> 00:53:43,199
+In three months.
+
+1160
+00:53:43,199 --> 00:53:45,199
+If it's good, stay two to three years.
+
+1161
+00:53:45,199 --> 00:53:47,199
+Absolutely.
+
+1162
+00:53:47,199 --> 00:53:49,199
+I think it's a better digger.
+
+1163
+00:53:49,199 --> 00:53:51,199
+For example, in the first seven to ten years,
+
+1164
+00:53:52,000 --> 00:53:54,000
+you can replace more than five companies.
+
+1165
+00:53:54,000 --> 00:53:56,000
+Something like that.
+
+1166
+00:53:56,000 --> 00:53:58,000
+If you're a regular employee.
+
+1167
+00:53:58,000 --> 00:54:00,000
+If you're a regular employee.
+
+1168
+00:54:00,000 --> 00:54:02,000
+If you replace more than five companies in ten years,
+
+1169
+00:54:02,000 --> 00:54:04,000
+it's already a bit of a red flag.
+
+1170
+00:54:04,000 --> 00:54:06,000
+You can have a good argument why you did it.
+
+1171
+00:54:06,000 --> 00:54:08,000
+Because they will ask you.
+
+1172
+00:54:08,000 --> 00:54:10,000
+That's it.
+
+1173
+00:54:10,000 --> 00:54:12,000
+I'm really not completely against it.
+
+1174
+00:54:12,000 --> 00:54:14,000
+If you're not good, if you don't learn anything new,
+
+1175
+00:54:14,000 --> 00:54:16,000
+change it anyway.
+
+1176
+00:54:16,000 --> 00:54:18,000
+But I think it's an indicator.
+
+1177
+00:54:18,000 --> 00:54:20,000
+I will not say any relationship,
+
+1178
+00:54:20,799 --> 00:54:22,799
+but it is in existence.
+
+1179
+00:54:22,799 --> 00:54:24,799
+You put it very well.
+
+1180
+00:54:24,799 --> 00:54:26,799
+I would also like to share
+
+1181
+00:54:26,799 --> 00:54:28,799
+this onboarding.
+
+1182
+00:54:28,799 --> 00:54:30,799
+Because it seems to me that
+
+1183
+00:54:30,799 --> 00:54:32,799
+Slovenian companies
+
+1184
+00:54:32,799 --> 00:54:34,799
+have a chance to improve
+
+1185
+00:54:34,799 --> 00:54:36,799
+when we talk
+
+1186
+00:54:36,799 --> 00:54:38,799
+at a very senior level.
+
+1187
+00:54:38,799 --> 00:54:40,799
+You want a samurai
+
+1188
+00:54:40,799 --> 00:54:42,799
+and someone
+
+1189
+00:54:42,799 --> 00:54:44,799
+who will really change
+
+1190
+00:54:44,799 --> 00:54:46,799
+things in the company.
+
+1191
+00:54:46,799 --> 00:54:48,799
+Then he comes to you
+
+1192
+00:54:49,600 --> 00:54:51,600
+and you shake his hand.
+
+1193
+00:54:51,600 --> 00:54:53,600
+The first thing.
+
+1194
+00:54:53,600 --> 00:54:55,600
+You shake his hand and say,
+
+1195
+00:54:55,600 --> 00:54:57,600
+it's okay,
+
+1196
+00:54:57,600 --> 00:54:59,600
+here's a year of onboarding
+
+1197
+00:54:59,600 --> 00:55:01,600
+so you can get to know each other a little.
+
+1198
+00:55:01,600 --> 00:55:03,600
+Then it comes
+
+1199
+00:55:03,600 --> 00:55:05,600
+the trust.
+
+1200
+00:55:05,600 --> 00:55:07,600
+That maybe you know everything
+
+1201
+00:55:07,600 --> 00:55:09,600
+and you're in the top
+
+1202
+00:55:09,600 --> 00:55:11,600
+paid company.
+
+1203
+00:55:11,600 --> 00:55:13,600
+I think these companies
+
+1204
+00:55:13,600 --> 00:55:15,600
+know faster
+
+1205
+00:55:15,600 --> 00:55:17,600
+what your superpower is
+
+1206
+00:55:18,399 --> 00:55:20,399
+and you let your superpower
+
+1207
+00:55:20,399 --> 00:55:22,399
+to them as soon as possible.
+
+1208
+00:55:22,399 --> 00:55:24,399
+Is that just a stereotype
+
+1209
+00:55:24,399 --> 00:55:26,399
+from my side?
+
+1210
+00:55:26,399 --> 00:55:28,399
+Or how do you see it?
+
+1211
+00:55:28,399 --> 00:55:30,399
+I think we have a problem
+
+1212
+00:55:30,399 --> 00:55:32,399
+in Slovenia with the culture
+
+1213
+00:55:32,399 --> 00:55:34,399
+when we come to a more leadership position.
+
+1214
+00:55:34,399 --> 00:55:36,399
+Onboarding and recruiting
+
+1215
+00:55:36,399 --> 00:55:38,399
+for juniors
+
+1216
+00:55:38,399 --> 00:55:40,399
+and for mid-levels
+
+1217
+00:55:40,399 --> 00:55:42,399
+is even more difficult
+
+1218
+00:55:42,399 --> 00:55:44,399
+because there are
+
+1219
+00:55:44,399 --> 00:55:46,399
+very few opportunities.
+
+1220
+00:55:47,200 --> 00:55:49,200
+It's more difficult
+
+1221
+00:55:49,200 --> 00:55:51,200
+to get that knowledge
+
+1222
+00:55:51,200 --> 00:55:53,200
+and I would say
+
+1223
+00:55:53,200 --> 00:55:55,200
+that when a leadership position comes
+
+1224
+00:55:55,200 --> 00:55:57,200
+to a company,
+
+1225
+00:55:57,200 --> 00:55:59,200
+it's usually when there's a crisis
+
+1226
+00:55:59,200 --> 00:56:01,200
+and there are fires
+
+1227
+00:56:01,200 --> 00:56:03,200
+and you need to do something.
+
+1228
+00:56:03,200 --> 00:56:05,200
+That's why they hire you.
+
+1229
+00:56:05,200 --> 00:56:07,200
+I think it's difficult
+
+1230
+00:56:07,200 --> 00:56:09,200
+in a bad leadership culture
+
+1231
+00:56:09,200 --> 00:56:11,200
+in general
+
+1232
+00:56:11,200 --> 00:56:13,200
+because
+
+1233
+00:56:13,200 --> 00:56:15,200
+we talk too little
+
+1234
+00:56:16,000 --> 00:56:18,000
+about these things
+
+1235
+00:56:18,000 --> 00:56:20,000
+because we have so few opportunities
+
+1236
+00:56:20,000 --> 00:56:22,000
+in general
+
+1237
+00:56:22,000 --> 00:56:24,000
+how the organization is set up
+
+1238
+00:56:24,000 --> 00:56:26,000
+how it's organized
+
+1239
+00:56:26,000 --> 00:56:28,000
+how the teams are structured
+
+1240
+00:56:28,000 --> 00:56:30,000
+we don't talk about these things
+
+1241
+00:56:30,000 --> 00:56:32,000
+in the sense of whether you have engineers in the team
+
+1242
+00:56:32,000 --> 00:56:34,000
+whether you have a product team
+
+1243
+00:56:34,000 --> 00:56:36,000
+or what is the composition
+
+1244
+00:56:36,000 --> 00:56:38,000
+and that has a big impact
+
+1245
+00:56:38,000 --> 00:56:40,000
+on the whole onboarding
+
+1246
+00:56:40,000 --> 00:56:42,000
+because if you only need one year
+
+1247
+00:56:42,000 --> 00:56:44,000
+to figure out
+
+1248
+00:56:44,000 --> 00:56:46,000
+there's no problem in onboarding
+
+1249
+00:56:46,000 --> 00:56:48,000
+the problem is in the food.
+
+1250
+00:56:48,000 --> 00:56:50,000
+In my experience
+
+1251
+00:56:50,000 --> 00:56:52,000
+I think that
+
+1252
+00:56:52,000 --> 00:56:54,000
+in Slovenia
+
+1253
+00:56:54,000 --> 00:56:56,000
+all companies will say
+
+1254
+00:56:56,000 --> 00:56:58,000
+that they exist
+
+1255
+00:56:58,000 --> 00:57:00,000
+and that they have all the necessary documents
+
+1256
+00:57:00,000 --> 00:57:02,000
+and you go through it
+
+1257
+00:57:02,000 --> 00:57:04,000
+and you don't know where to start.
+
+1258
+00:57:04,000 --> 00:57:06,000
+That's my experience
+
+1259
+00:57:06,000 --> 00:57:08,000
+I'm a bit triggered
+
+1260
+00:57:08,000 --> 00:57:10,000
+and maybe you can see
+
+1261
+00:57:10,000 --> 00:57:12,000
+that I've been through a couple of such stories.
+
+1262
+00:57:12,000 --> 00:57:14,000
+You are also
+
+1263
+00:57:14,000 --> 00:57:16,000
+starting a business
+
+1264
+00:57:16,000 --> 00:57:18,000
+with onboarding
+
+1265
+00:57:18,000 --> 00:57:20,000
+because there's a fee
+
+1266
+00:57:20,000 --> 00:57:22,000
+or a guarantee
+
+1267
+00:57:22,000 --> 00:57:24,000
+that you give to the candidate
+
+1268
+00:57:24,000 --> 00:57:26,000
+if they pass the exam
+
+1269
+00:57:26,000 --> 00:57:28,000
+and then you invest in onboarding.
+
+1270
+00:57:28,000 --> 00:57:30,000
+What are the trends
+
+1271
+00:57:30,000 --> 00:57:32,000
+from your point of view?
+
+1272
+00:57:32,000 --> 00:57:34,000
+We are prepared
+
+1273
+00:57:34,000 --> 00:57:36,000
+when we talk about
+
+1274
+00:57:36,000 --> 00:57:38,000
+collaborating with companies
+
+1275
+00:57:38,000 --> 00:57:40,000
+that have very little experience
+
+1276
+00:57:40,000 --> 00:57:42,000
+and we had a case
+
+1277
+00:57:42,000 --> 00:57:44,000
+that we are still recruiting for
+
+1278
+00:57:44,000 --> 00:57:46,000
+where they hired 10 people in the last two years
+
+1279
+00:57:46,000 --> 00:57:48,000
+and out of those 10 people
+
+1280
+00:57:48,000 --> 00:57:50,000
+only one was hired in two years.
+
+1281
+00:57:50,000 --> 00:57:52,000
+And then
+
+1282
+00:57:52,000 --> 00:57:54,000
+we got
+
+1283
+00:57:54,000 --> 00:57:56,000
+four positions
+
+1284
+00:57:56,000 --> 00:57:58,000
+and we started to think
+
+1285
+00:57:58,000 --> 00:58:00,000
+what's going on
+
+1286
+00:58:00,000 --> 00:58:02,000
+what's the problem
+
+1287
+00:58:02,000 --> 00:58:04,000
+is it the people you hired
+
+1288
+00:58:04,000 --> 00:58:06,000
+that weren't right
+
+1289
+00:58:06,000 --> 00:58:08,000
+or is it the problem in the way
+
+1290
+00:58:08,000 --> 00:58:10,000
+that they didn't
+
+1291
+00:58:10,000 --> 00:58:12,000
+work for the recruiters
+
+1292
+00:58:12,000 --> 00:58:14,000
+because they are
+
+1293
+00:58:14,000 --> 00:58:16,000
+not well-known in Slovenia
+
+1294
+00:58:16,000 --> 00:58:18,000
+they are super international
+
+1295
+00:58:18,000 --> 00:58:20,000
+they got bad reviews
+
+1296
+00:58:20,000 --> 00:58:22,000
+and they took the ones they could
+
+1297
+00:58:22,000 --> 00:58:24,000
+so we found them
+
+1298
+00:58:24,000 --> 00:58:26,000
+hired people
+
+1299
+00:58:26,000 --> 00:58:28,000
+but we were a bit scared
+
+1300
+00:58:28,000 --> 00:58:30,000
+what if we let them go
+
+1301
+00:58:30,000 --> 00:58:32,000
+and we decided
+
+1302
+00:58:32,000 --> 00:58:34,000
+that we are going to
+
+1303
+00:58:34,000 --> 00:58:36,000
+start onboarding
+
+1304
+00:58:36,000 --> 00:58:38,000
+so we were
+
+1305
+00:58:38,000 --> 00:58:40,000
+a bit scared
+
+1306
+00:58:40,000 --> 00:58:42,000
+did we give them a tool
+
+1307
+00:58:42,000 --> 00:58:44,000
+even though the first six months
+
+1308
+00:58:44,000 --> 00:58:46,000
+were exhausting
+
+1309
+00:58:46,000 --> 00:58:48,000
+working with people
+
+1310
+00:58:48,000 --> 00:58:50,000
+because in any case
+
+1311
+00:58:50,000 --> 00:58:52,000
+you are on a project
+
+1312
+00:58:52,000 --> 00:58:54,000
+you have your priorities
+
+1313
+00:58:54,000 --> 00:58:56,000
+how much time do you have
+
+1314
+00:58:56,000 --> 00:58:58,000
+even if you are a mentor
+
+1315
+00:58:58,000 --> 00:59:00,000
+how much time do you have
+
+1316
+00:59:00,000 --> 00:59:02,000
+and those people are juniors
+
+1317
+00:59:02,000 --> 00:59:04,000
+at the beginning
+
+1318
+00:59:04,000 --> 00:59:06,000
+we realized that
+
+1319
+00:59:06,000 --> 00:59:08,000
+there are companies
+
+1320
+00:59:08,000 --> 00:59:10,000
+that do it very well
+
+1321
+00:59:10,000 --> 00:59:12,000
+and there are companies
+
+1322
+00:59:12,000 --> 00:59:14,000
+that you come to
+
+1323
+00:59:14,000 --> 00:59:16,000
+and you don't fall in the water
+
+1324
+00:59:16,000 --> 00:59:18,000
+or you swim
+
+1325
+00:59:18,000 --> 00:59:20,000
+we are interested
+
+1326
+00:59:20,000 --> 00:59:22,000
+if we hire a candidate
+
+1327
+00:59:22,000 --> 00:59:24,000
+to hold on for a long time
+
+1328
+00:59:24,000 --> 00:59:26,000
+not only in the time
+
+1329
+00:59:26,000 --> 00:59:28,000
+of the guarantee
+
+1330
+00:59:28,000 --> 00:59:30,000
+which is so many months
+
+1331
+00:59:30,000 --> 00:59:32,000
+so we recognize
+
+1332
+00:59:32,000 --> 00:59:34,000
+that there is something missing
+
+1333
+00:59:34,000 --> 00:59:36,000
+in smaller companies
+
+1334
+00:59:36,000 --> 00:59:38,000
+because they don't have time
+
+1335
+00:59:38,000 --> 00:59:40,000
+to deal with it
+
+1336
+00:59:40,000 --> 00:59:42,000
+and they don't have tools
+
+1337
+00:59:42,000 --> 00:59:44,000
+to help them
+
+1338
+00:59:46,000 --> 00:59:48,000
+once you were in a company
+
+1339
+00:59:50,000 --> 00:59:52,000
+onboarding went through
+
+1340
+00:59:52,000 --> 00:59:54,000
+two years went by
+
+1341
+00:59:54,000 --> 00:59:56,000
+first year
+
+1342
+00:59:56,000 --> 00:59:58,000
+honeymoon period
+
+1343
+00:59:58,000 --> 01:00:00,000
+everything was great
+
+1344
+01:00:00,000 --> 01:00:02,000
+second year
+
+1345
+01:00:02,000 --> 01:00:04,000
+you have a sexier company
+
+1346
+01:00:04,000 --> 01:00:06,000
+and you look at your net pay
+
+1347
+01:00:06,000 --> 01:00:08,000
+and you get your net salary
+
+1348
+01:00:08,000 --> 01:00:10,000
+when is it easiest
+
+1349
+01:00:10,000 --> 01:00:12,000
+to pay
+
+1350
+01:00:12,000 --> 01:00:14,000
+and
+
+1351
+01:00:14,000 --> 01:00:16,000
+how to
+
+1352
+01:00:16,000 --> 01:00:18,000
+protect
+
+1353
+01:00:18,000 --> 01:00:20,000
+a position in a company
+
+1354
+01:00:20,000 --> 01:00:22,000
+but you have to pay
+
+1355
+01:00:22,000 --> 01:00:24,000
+to stay competitive
+
+1356
+01:00:24,000 --> 01:00:26,000
+do we have a world
+
+1357
+01:00:26,000 --> 01:00:28,000
+for all those who
+
+1358
+01:00:28,000 --> 01:00:30,000
+worked hard
+
+1359
+01:00:30,000 --> 01:00:32,000
+but
+
+1360
+01:00:32,000 --> 01:00:34,000
+what are the opportunities
+
+1361
+01:00:34,000 --> 01:00:36,000
+for higher pay
+
+1362
+01:00:36,000 --> 01:00:38,000
+once you work in a company
+
+1363
+01:00:38,000 --> 01:00:40,000
+just like you did with a domestic tax
+
+1364
+01:00:40,000 --> 01:00:42,000
+the day before you ask
+
+1365
+01:00:42,000 --> 01:00:44,000
+for a higher salary
+
+1366
+01:00:44,000 --> 01:00:46,000
+6 months ago you asked
+
+1367
+01:00:46,000 --> 01:00:48,000
+hypothetically
+
+1368
+01:00:48,000 --> 01:00:50,000
+if someone wanted a higher salary
+
+1369
+01:00:50,000 --> 01:00:52,000
+what could they do
+
+1370
+01:00:52,000 --> 01:00:54,000
+you tell your boss
+
+1371
+01:00:54,000 --> 01:00:56,000
+you talk about some goals
+
+1372
+01:00:56,000 --> 01:00:58,000
+and then you work
+
+1373
+01:00:58,000 --> 01:01:00,000
+to satisfy those goals
+
+1374
+01:01:00,000 --> 01:01:02,000
+get new competences
+
+1375
+01:01:02,000 --> 01:01:04,000
+or whatever
+
+1376
+01:01:04,000 --> 01:01:06,000
+and then you put
+
+1377
+01:01:06,000 --> 01:01:08,000
+your effort into action
+
+1378
+01:01:08,000 --> 01:01:10,000
+and you are ready
+
+1379
+01:01:10,000 --> 01:01:12,000
+that's it
+
+1380
+01:01:12,000 --> 01:01:14,000
+a lot of times
+
+1381
+01:01:14,000 --> 01:01:16,000
+in my experience
+
+1382
+01:01:16,000 --> 01:01:18,000
+why don't they give a raise
+
+1383
+01:01:18,000 --> 01:01:20,000
+to people who are already employed
+
+1384
+01:01:20,000 --> 01:01:22,000
+until they ask
+
+1385
+01:01:22,000 --> 01:01:24,000
+just that simple
+
+1386
+01:01:24,000 --> 01:01:26,000
+just ask
+
+1387
+01:01:26,000 --> 01:01:28,000
+ok, first step
+
+1388
+01:01:28,000 --> 01:01:30,000
+ask
+
+1389
+01:01:30,000 --> 01:01:32,000
+and then they say
+
+1390
+01:01:32,000 --> 01:01:34,000
+I don't have a budget
+
+1391
+01:01:34,000 --> 01:01:36,000
+and if I don't have a budget
+
+1392
+01:01:36,000 --> 01:01:38,000
+I won't pay new people
+
+1393
+01:01:38,000 --> 01:01:40,000
+and then you know
+
+1394
+01:01:40,000 --> 01:01:42,000
+if you have a budget
+
+1395
+01:01:42,000 --> 01:01:44,000
+and you don't want to give it
+
+1396
+01:01:44,000 --> 01:01:46,000
+you know where you are
+
+1397
+01:01:46,000 --> 01:01:48,000
+and it's a different kind of conversation
+
+1398
+01:01:48,000 --> 01:01:50,000
+but you always have to ask
+
+1399
+01:01:50,000 --> 01:01:52,000
+what are your goals
+
+1400
+01:01:52,000 --> 01:01:54,000
+most companies start
+
+1401
+01:01:54,000 --> 01:01:56,000
+hiring once or twice a year
+
+1402
+01:01:56,000 --> 01:01:58,000
+we will hire for inflation
+
+1403
+01:01:58,000 --> 01:02:00,000
+we will hire for that
+
+1404
+01:02:00,000 --> 01:02:02,000
+those are things you have to
+
+1405
+01:02:02,000 --> 01:02:04,000
+be prepared for
+
+1406
+01:02:04,000 --> 01:02:06,000
+and you have to talk about
+
+1407
+01:02:06,000 --> 01:02:08,000
+that shouldn't be a topic
+
+1408
+01:02:08,000 --> 01:02:10,000
+your compensation is part of your job
+
+1409
+01:02:10,000 --> 01:02:12,000
+and if you are afraid to ask
+
+1410
+01:02:12,000 --> 01:02:14,000
+I would think about it
+
+1411
+01:02:14,000 --> 01:02:16,000
+because
+
+1412
+01:02:16,000 --> 01:02:18,000
+if you don't ask, you won't get it
+
+1413
+01:02:18,000 --> 01:02:20,000
+it doesn't mean
+
+1414
+01:02:20,000 --> 01:02:22,000
+you won't get it
+
+1415
+01:02:22,000 --> 01:02:24,000
+but it's just a step
+
+1416
+01:02:24,000 --> 01:02:26,000
+do you pay attention to
+
+1417
+01:02:26,000 --> 01:02:28,000
+a lot of candidates
+
+1418
+01:02:28,000 --> 01:02:30,000
+who hire you
+
+1419
+01:02:30,000 --> 01:02:32,000
+to get a raise
+
+1420
+01:02:32,000 --> 01:02:34,000
+yes, it happens
+
+1421
+01:02:34,000 --> 01:02:36,000
+quite often
+
+1422
+01:02:36,000 --> 01:02:38,000
+for example
+
+1423
+01:02:38,000 --> 01:02:40,000
+we give them a better opportunity
+
+1424
+01:02:40,000 --> 01:02:42,000
+a better pay
+
+1425
+01:02:42,000 --> 01:02:44,000
+they are not satisfied
+
+1426
+01:02:44,000 --> 01:02:46,000
+but once they decide to go
+
+1427
+01:02:46,000 --> 01:02:48,000
+you have to be patient
+
+1428
+01:02:48,000 --> 01:02:50,000
+you push them a little
+
+1429
+01:02:50,000 --> 01:02:52,000
+because you know them well
+
+1430
+01:02:52,000 --> 01:02:54,000
+and you have to be patient
+
+1431
+01:02:54,000 --> 01:02:56,000
+so you have to repeat
+
+1432
+01:02:56,000 --> 01:02:58,000
+when they decide to go
+
+1433
+01:02:58,000 --> 01:03:00,000
+you have to pay attention
+
+1434
+01:03:00,000 --> 01:03:02,000
+so I would say
+
+1435
+01:03:02,000 --> 01:03:04,000
+if you are
+
+1436
+01:03:04,000 --> 01:03:06,000
+if you are satisfied
+
+1437
+01:03:06,000 --> 01:03:08,000
+but you just have to pay
+
+1438
+01:03:08,000 --> 01:03:10,000
+one thing is to ask
+
+1439
+01:03:10,000 --> 01:03:12,000
+the other is
+
+1440
+01:03:12,000 --> 01:03:14,000
+you can say
+
+1441
+01:03:14,000 --> 01:03:16,000
+I think I have a low salary
+
+1442
+01:03:16,000 --> 01:03:18,000
+I think I would pay a little
+
+1443
+01:03:18,000 --> 01:03:20,000
+and again, it's enough
+
+1444
+01:03:20,000 --> 01:03:22,000
+if you know
+
+1445
+01:03:22,000 --> 01:03:24,000
+you have a domestic task
+
+1446
+01:03:24,000 --> 01:03:26,000
+and the domestic task is
+
+1447
+01:03:26,000 --> 01:03:28,000
+if you are lucky
+
+1448
+01:03:28,000 --> 01:03:30,000
+look around
+
+1449
+01:03:30,000 --> 01:03:32,000
+and try to get a value
+
+1450
+01:03:32,000 --> 01:03:34,000
+you don't have to react to it
+
+1451
+01:03:34,000 --> 01:03:36,000
+but it's an ease of mind
+
+1452
+01:03:36,000 --> 01:03:38,000
+the service for hiring
+
+1453
+01:03:38,000 --> 01:03:40,000
+is not a fixed time
+
+1454
+01:03:40,000 --> 01:03:42,000
+you won't be prepared
+
+1455
+01:03:42,000 --> 01:03:44,000
+for some options
+
+1456
+01:03:44,000 --> 01:03:46,000
+that's it
+
+1457
+01:03:46,000 --> 01:03:48,000
+I think
+
+1458
+01:03:48,000 --> 01:03:50,000
+the hardest
+
+1459
+01:03:50,000 --> 01:03:52,000
+is to know the context
+
+1460
+01:03:52,000 --> 01:03:54,000
+and
+
+1461
+01:03:54,000 --> 01:03:56,000
+I know
+
+1462
+01:03:56,000 --> 01:03:58,000
+we go to recruiters
+
+1463
+01:03:58,000 --> 01:04:00,000
+and then you go
+
+1464
+01:04:00,000 --> 01:04:02,000
+you didn't want to go to another service
+
+1465
+01:04:02,000 --> 01:04:04,000
+but you had to tell the boss
+
+1466
+01:04:04,000 --> 01:04:06,000
+it's a little more serious
+
+1467
+01:04:06,000 --> 01:04:08,000
+than we talked
+
+1468
+01:04:08,000 --> 01:04:10,000
+it's nice when you mentioned
+
+1469
+01:04:10,000 --> 01:04:12,000
+it's a good product
+
+1470
+01:04:12,000 --> 01:04:14,000
+it's nice when you are prepared
+
+1471
+01:04:14,000 --> 01:04:16,000
+for the story
+
+1472
+01:04:16,000 --> 01:04:18,000
+what did you do
+
+1473
+01:04:18,000 --> 01:04:20,000
+what did you learn
+
+1474
+01:04:20,000 --> 01:04:22,000
+what did you contribute
+
+1475
+01:04:22,000 --> 01:04:24,000
+just to say
+
+1476
+01:04:24,000 --> 01:04:26,000
+I think I have a low salary
+
+1477
+01:04:26,000 --> 01:04:28,000
+so I would deserve more
+
+1478
+01:04:28,000 --> 01:04:30,000
+or he has more
+
+1479
+01:04:30,000 --> 01:04:32,000
+you have to be careful
+
+1480
+01:04:32,000 --> 01:04:34,000
+what you wish for
+
+1481
+01:04:34,000 --> 01:04:36,000
+you can wish too much
+
+1482
+01:04:36,000 --> 01:04:38,000
+can someone
+
+1483
+01:04:38,000 --> 01:04:40,000
+say
+
+1484
+01:04:40,000 --> 01:04:42,000
+we don't play in this league
+
+1485
+01:04:42,000 --> 01:04:44,000
+for such compensation
+
+1486
+01:04:44,000 --> 01:04:46,000
+we all agreed
+
+1487
+01:04:46,000 --> 01:04:48,000
+you have a low culture fit
+
+1488
+01:04:48,000 --> 01:04:50,000
+and
+
+1489
+01:04:50,000 --> 01:04:52,000
+you can be worried
+
+1490
+01:04:52,000 --> 01:04:54,000
+that if you can't
+
+1491
+01:04:54,000 --> 01:04:56,000
+offer compensation
+
+1492
+01:04:56,000 --> 01:04:58,000
+that you know
+
+1493
+01:04:58,000 --> 01:05:00,000
+it's too late
+
+1494
+01:05:00,000 --> 01:05:02,000
+too late
+
+1495
+01:05:02,000 --> 01:05:04,000
+for the person
+
+1496
+01:05:04,000 --> 01:05:06,000
+who will ask for more compensation
+
+1497
+01:05:06,000 --> 01:05:08,000
+in two years
+
+1498
+01:05:08,000 --> 01:05:10,000
+we don't have to increase
+
+1499
+01:05:10,000 --> 01:05:12,000
+the compensation
+
+1500
+01:05:12,000 --> 01:05:14,000
+we are prepared to invest
+
+1501
+01:05:14,000 --> 01:05:16,000
+and risk
+
+1502
+01:05:16,000 --> 01:05:18,000
+it's very likely
+
+1503
+01:05:18,000 --> 01:05:20,000
+that the person will fly
+
+1504
+01:05:20,000 --> 01:05:22,000
+it's related to a culture fit
+
+1505
+01:05:22,000 --> 01:05:24,000
+where you try to understand
+
+1506
+01:05:24,000 --> 01:05:26,000
+why the person is looking for a job
+
+1507
+01:05:26,000 --> 01:05:28,000
+6 months without a job
+
+1508
+01:05:28,000 --> 01:05:30,000
+desperate
+
+1509
+01:05:30,000 --> 01:05:32,000
+not satisfied with our compensation
+
+1510
+01:05:32,000 --> 01:05:34,000
+but will take it
+
+1511
+01:05:34,000 --> 01:05:36,000
+and you will find someone else
+
+1512
+01:05:36,000 --> 01:05:38,000
+I see it this way
+
+1513
+01:05:38,000 --> 01:05:40,000
+you always try
+
+1514
+01:05:40,000 --> 01:05:42,000
+to match your expectations
+
+1515
+01:05:42,000 --> 01:05:44,000
+to what you are looking for
+
+1516
+01:05:44,000 --> 01:05:46,000
+there are levels
+
+1517
+01:05:46,000 --> 01:05:48,000
+there are budgets
+
+1518
+01:05:48,000 --> 01:05:50,000
+and if you are off
+
+1519
+01:05:50,000 --> 01:05:52,000
+hiring manager can win
+
+1520
+01:05:52,000 --> 01:05:54,000
+we have to change the crypto
+
+1521
+01:05:54,000 --> 01:05:56,000
+we have to change the crypto bubble
+
+1522
+01:05:56,000 --> 01:05:58,000
+with a song
+
+1523
+01:05:58,000 --> 01:06:00,000
+because
+
+1524
+01:06:00,000 --> 01:06:02,000
+there are engineers
+
+1525
+01:06:02,000 --> 01:06:04,000
+who managed
+
+1526
+01:06:04,000 --> 01:06:06,000
+to reach a compensation
+
+1527
+01:06:06,000 --> 01:06:08,000
+that was simply unimaginable
+
+1528
+01:06:08,000 --> 01:06:10,000
+because it was
+
+1529
+01:06:10,000 --> 01:06:12,000
+a lot of free crypto money
+
+1530
+01:06:12,000 --> 01:06:14,000
+and then
+
+1531
+01:06:14,000 --> 01:06:16,000
+there was a lot of disappointment
+
+1532
+01:06:16,000 --> 01:06:18,000
+when you had to leave
+
+1533
+01:06:18,000 --> 01:06:20,000
+I had a situation
+
+1534
+01:06:20,000 --> 01:06:22,000
+when someone came and said
+
+1535
+01:06:22,000 --> 01:06:24,000
+I want 7000 brutes per month
+
+1536
+01:06:24,000 --> 01:06:26,000
+and the question was why
+
+1537
+01:06:26,000 --> 01:06:28,000
+because I come from Great Britain
+
+1538
+01:06:28,000 --> 01:06:30,000
+and it starts there
+
+1539
+01:06:30,000 --> 01:06:32,000
+once in a lifetime opportunity
+
+1540
+01:06:32,000 --> 01:06:34,000
+I am very happy
+
+1541
+01:06:34,000 --> 01:06:36,000
+that you liked it
+
+1542
+01:06:36,000 --> 01:06:38,000
+but
+
+1543
+01:06:38,000 --> 01:06:40,000
+the reality
+
+1544
+01:06:40,000 --> 01:06:42,000
+99% of other cases
+
+1545
+01:06:42,000 --> 01:06:44,000
+we don't talk about those numbers
+
+1546
+01:06:44,000 --> 01:06:46,000
+and now it is
+
+1547
+01:06:46,000 --> 01:06:48,000
+a bad recognition
+
+1548
+01:06:48,000 --> 01:06:50,000
+or you will go back to crypto
+
+1549
+01:06:50,000 --> 01:06:52,000
+and try again
+
+1550
+01:06:52,000 --> 01:06:54,000
+or you will agree
+
+1551
+01:06:54,000 --> 01:06:56,000
+that if you earn 4000 brutes
+
+1552
+01:06:56,000 --> 01:06:58,000
+you are a top 1% earner
+
+1553
+01:06:58,000 --> 01:07:00,000
+that is the reality
+
+1554
+01:07:00,000 --> 01:07:02,000
+I don't know what to say
+
+1555
+01:07:06,000 --> 01:07:08,000
+if you are the first one to say
+
+1556
+01:07:08,000 --> 01:07:10,000
+in a paid conversation
+
+1557
+01:07:10,000 --> 01:07:12,000
+and it is so high
+
+1558
+01:07:12,000 --> 01:07:14,000
+that you take away the opportunity
+
+1559
+01:07:14,000 --> 01:07:16,000
+and it is better to wait
+
+1560
+01:07:16,000 --> 01:07:18,000
+for your children to say
+
+1561
+01:07:18,000 --> 01:07:20,000
+this was a question
+
+1562
+01:07:20,000 --> 01:07:22,000
+on this topic
+
+1563
+01:07:22,000 --> 01:07:24,000
+and it is interesting
+
+1564
+01:07:24,000 --> 01:07:26,000
+these are just some basics
+
+1565
+01:07:26,000 --> 01:07:28,000
+is it a stereotype
+
+1566
+01:07:28,000 --> 01:07:30,000
+that it is very important
+
+1567
+01:07:30,000 --> 01:07:32,000
+to be the first one to pay
+
+1568
+01:07:32,000 --> 01:07:34,000
+and is it or not
+
+1569
+01:07:34,000 --> 01:07:36,000
+how do you see it
+
+1570
+01:07:38,000 --> 01:07:40,000
+my problem is
+
+1571
+01:07:40,000 --> 01:07:42,000
+that
+
+1572
+01:07:42,000 --> 01:07:44,000
+sometimes I exceed
+
+1573
+01:07:44,000 --> 01:07:46,000
+most of the budget
+
+1574
+01:07:46,000 --> 01:07:48,000
+and I won't have 6 interviews
+
+1575
+01:07:48,000 --> 01:07:50,000
+in 4 months
+
+1576
+01:07:50,000 --> 01:07:52,000
+and I say
+
+1577
+01:07:52,000 --> 01:07:54,000
+thank you
+
+1578
+01:07:54,000 --> 01:07:56,000
+but
+
+1579
+01:07:56,000 --> 01:07:58,000
+if you don't exceed the budget
+
+1580
+01:07:58,000 --> 01:08:00,000
+it is good
+
+1581
+01:08:00,000 --> 01:08:02,000
+that you have a good idea
+
+1582
+01:08:02,000 --> 01:08:04,000
+of what you want
+
+1583
+01:08:04,000 --> 01:08:06,000
+you have to know what you want
+
+1584
+01:08:06,000 --> 01:08:08,000
+you don't have to say it
+
+1585
+01:08:08,000 --> 01:08:10,000
+but you have to know
+
+1586
+01:08:10,000 --> 01:08:12,000
+what are your expectations
+
+1587
+01:08:12,000 --> 01:08:14,000
+and if you don't have expectations
+
+1588
+01:08:14,000 --> 01:08:16,000
+don't go crazy
+
+1589
+01:08:16,000 --> 01:08:18,000
+because you won't know
+
+1590
+01:08:18,000 --> 01:08:20,000
+what you want
+
+1591
+01:08:20,000 --> 01:08:22,000
+it depends on the context
+
+1592
+01:08:22,000 --> 01:08:24,000
+and it is important
+
+1593
+01:08:24,000 --> 01:08:26,000
+to have a response
+
+1594
+01:08:26,000 --> 01:08:28,000
+because it depends on the subject
+
+1595
+01:08:28,000 --> 01:08:30,000
+on the seniority
+
+1596
+01:08:30,000 --> 01:08:32,000
+and if you already know
+
+1597
+01:08:32,000 --> 01:08:34,000
+what you want
+
+1598
+01:08:34,000 --> 01:08:36,000
+it is much easier
+
+1599
+01:08:36,000 --> 01:08:38,000
+to move forward
+
+1600
+01:08:40,000 --> 01:08:42,000
+if not
+
+1601
+01:08:42,000 --> 01:08:44,000
+I think
+
+1602
+01:08:44,000 --> 01:08:46,000
+it is best to be realistic
+
+1603
+01:08:46,000 --> 01:08:48,000
+you won't get 30%
+
+1604
+01:08:48,000 --> 01:08:50,000
+more money
+
+1605
+01:08:50,000 --> 01:08:52,000
+but
+
+1606
+01:08:52,000 --> 01:08:54,000
+there are possibilities
+
+1607
+01:08:54,000 --> 01:08:56,000
+be realistic
+
+1608
+01:08:56,000 --> 01:08:58,000
+say what are your expectations
+
+1609
+01:08:58,000 --> 01:09:00,000
+one principle
+
+1610
+01:09:00,000 --> 01:09:02,000
+is to say
+
+1611
+01:09:02,000 --> 01:09:04,000
+what do we pay now
+
+1612
+01:09:04,000 --> 01:09:06,000
+and you expect so much more
+
+1613
+01:09:06,000 --> 01:09:08,000
+another principle
+
+1614
+01:09:08,000 --> 01:09:10,000
+is also
+
+1615
+01:09:10,000 --> 01:09:12,000
+I recently received
+
+1616
+01:09:12,000 --> 01:09:14,000
+from a professor
+
+1617
+01:09:14,000 --> 01:09:16,000
+very interesting
+
+1618
+01:09:16,000 --> 01:09:18,000
+MBA
+
+1619
+01:09:18,000 --> 01:09:20,000
+what do you pay
+
+1620
+01:09:20,000 --> 01:09:22,000
+how much do you say
+
+1621
+01:09:22,000 --> 01:09:24,000
+first of all
+
+1622
+01:09:24,000 --> 01:09:26,000
+you say a very high number
+
+1623
+01:09:26,000 --> 01:09:28,000
+that means
+
+1624
+01:09:28,000 --> 01:09:30,000
+for this position
+
+1625
+01:09:30,000 --> 01:09:32,000
+I predict that you pay
+
+1626
+01:09:32,000 --> 01:09:34,000
+as much as you can
+
+1627
+01:09:34,000 --> 01:09:36,000
+psychologically
+
+1628
+01:09:36,000 --> 01:09:38,000
+a very high amount
+
+1629
+01:09:38,000 --> 01:09:40,000
+and then
+
+1630
+01:09:40,000 --> 01:09:42,000
+ok
+
+1631
+01:09:42,000 --> 01:09:44,000
+now I look at my experience
+
+1632
+01:09:44,000 --> 01:09:46,000
+and seniority
+
+1633
+01:09:46,000 --> 01:09:48,000
+so
+
+1634
+01:09:48,000 --> 01:09:50,000
+you have your minimum
+
+1635
+01:09:50,000 --> 01:09:52,000
+and maximum
+
+1636
+01:09:52,000 --> 01:09:54,000
+and your salary is not your maximum
+
+1637
+01:09:54,000 --> 01:09:56,000
+but it is chaos for this position
+
+1638
+01:09:56,000 --> 01:09:58,000
+so you psychologically
+
+1639
+01:09:58,000 --> 01:10:00,000
+give them an idea
+
+1640
+01:10:00,000 --> 01:10:02,000
+that they give you more
+
+1641
+01:10:02,000 --> 01:10:04,000
+than your minimum
+
+1642
+01:10:04,000 --> 01:10:06,000
+I don't know
+
+1643
+01:10:06,000 --> 01:10:08,000
+you can always make a domestic tax
+
+1644
+01:10:08,000 --> 01:10:10,000
+yes
+
+1645
+01:10:10,000 --> 01:10:12,000
+every company for the same tax
+
+1646
+01:10:12,000 --> 01:10:14,000
+will have different budgets
+
+1647
+01:10:14,000 --> 01:10:16,000
+and if you will
+
+1648
+01:10:16,000 --> 01:10:18,000
+come to two different companies
+
+1649
+01:10:18,000 --> 01:10:20,000
+you didn't make a domestic tax
+
+1650
+01:10:20,000 --> 01:10:22,000
+you have to be interested
+
+1651
+01:10:22,000 --> 01:10:24,000
+either through voice
+
+1652
+01:10:24,000 --> 01:10:26,000
+what are your budgets
+
+1653
+01:10:26,000 --> 01:10:28,000
+or you try to pay
+
+1654
+01:10:28,000 --> 01:10:30,000
+through LinkedIn for jobs
+
+1655
+01:10:30,000 --> 01:10:32,000
+or whatever
+
+1656
+01:10:32,000 --> 01:10:34,000
+first of all
+
+1657
+01:10:34,000 --> 01:10:36,000
+we don't talk about paying
+
+1658
+01:10:36,000 --> 01:10:38,000
+we talk about paying
+
+1659
+01:10:38,000 --> 01:10:40,000
+and these are issues
+
+1660
+01:10:40,000 --> 01:10:42,000
+that are not a taboo
+
+1661
+01:10:42,000 --> 01:10:44,000
+if something is recorded
+
+1662
+01:10:44,000 --> 01:10:46,000
+or not recorded
+
+1663
+01:10:46,000 --> 01:10:48,000
+but recorded
+
+1664
+01:10:48,000 --> 01:10:50,000
+so let's make a domestic tax
+
+1665
+01:10:50,000 --> 01:10:52,000
+I don't have an experience
+
+1666
+01:10:52,000 --> 01:10:54,000
+that if a range is announced
+
+1667
+01:10:54,000 --> 01:10:56,000
+that everyone comes
+
+1668
+01:10:56,000 --> 01:10:58,000
+and wants the highest salary
+
+1669
+01:10:58,000 --> 01:11:00,000
+I think it is true
+
+1670
+01:11:00,000 --> 01:11:02,000
+that we break the stereotype
+
+1671
+01:11:02,000 --> 01:11:04,000
+that companies have
+
+1672
+01:11:04,000 --> 01:11:06,000
+if I write
+
+1673
+01:11:06,000 --> 01:11:08,000
+that everyone wants the highest
+
+1674
+01:11:08,000 --> 01:11:10,000
+and my employees will come
+
+1675
+01:11:10,000 --> 01:11:12,000
+I don't have such experiences
+
+1676
+01:11:14,000 --> 01:11:16,000
+on the other hand
+
+1677
+01:11:16,000 --> 01:11:18,000
+I also have an experience
+
+1678
+01:11:18,000 --> 01:11:20,000
+that there is always a range
+
+1679
+01:11:20,000 --> 01:11:22,000
+after the range
+
+1680
+01:11:22,000 --> 01:11:24,000
+as you said
+
+1681
+01:11:24,000 --> 01:11:26,000
+everything happens
+
+1682
+01:11:26,000 --> 01:11:28,000
+that if there is a range
+
+1683
+01:11:28,000 --> 01:11:30,000
+for the right skillset
+
+1684
+01:11:30,000 --> 01:11:32,000
+it is not there
+
+1685
+01:11:32,000 --> 01:11:34,000
+what happens a lot
+
+1686
+01:11:34,000 --> 01:11:36,000
+is that you come
+
+1687
+01:11:36,000 --> 01:11:38,000
+to a workplace
+
+1688
+01:11:38,000 --> 01:11:40,000
+and you think
+
+1689
+01:11:40,000 --> 01:11:42,000
+that it would be better
+
+1690
+01:11:42,000 --> 01:11:44,000
+for something else
+
+1691
+01:11:44,000 --> 01:11:46,000
+that we haven't opened yet
+
+1692
+01:11:46,000 --> 01:11:48,000
+there we can talk
+
+1693
+01:11:48,000 --> 01:11:50,000
+and there are different interviews
+
+1694
+01:11:50,000 --> 01:11:52,000
+and there is a new job
+
+1695
+01:11:52,000 --> 01:11:54,000
+and a lot of times
+
+1696
+01:11:54,000 --> 01:11:56,000
+a new job opens
+
+1697
+01:11:56,000 --> 01:11:58,000
+because if you get
+
+1698
+01:11:58,000 --> 01:12:00,000
+a super old guy
+
+1699
+01:12:00,000 --> 01:12:02,000
+you won't give him
+
+1700
+01:12:02,000 --> 01:12:04,000
+a clean slate
+
+1701
+01:12:04,000 --> 01:12:06,000
+and a lot of times
+
+1702
+01:12:06,000 --> 01:12:08,000
+when the right person came
+
+1703
+01:12:08,000 --> 01:12:10,000
+everything changed
+
+1704
+01:12:10,000 --> 01:12:12,000
+and the leaders
+
+1705
+01:12:12,000 --> 01:12:14,000
+changed
+
+1706
+01:12:14,000 --> 01:12:16,000
+that was my experience
+
+1707
+01:12:16,000 --> 01:12:18,000
+it happens
+
+1708
+01:12:18,000 --> 01:12:20,000
+but we can't say
+
+1709
+01:12:20,000 --> 01:12:22,000
+that it is a rule
+
+1710
+01:12:22,000 --> 01:12:24,000
+because in some cases
+
+1711
+01:12:24,000 --> 01:12:26,000
+the politics is very strict
+
+1712
+01:12:26,000 --> 01:12:28,000
+they look at the salary
+
+1713
+01:12:28,000 --> 01:12:30,000
+they look at the situation
+
+1714
+01:12:30,000 --> 01:12:32,000
+for the last night
+
+1715
+01:12:32,000 --> 01:12:34,000
+it is different in other cases
+
+1716
+01:12:34,000 --> 01:12:36,000
+what is the salary
+
+1717
+01:12:36,000 --> 01:12:38,000
+in a clean workplace
+
+1718
+01:12:38,000 --> 01:12:40,000
+is it a lot?
+
+1719
+01:12:40,000 --> 01:12:42,000
+I would say that it is not a practice
+
+1720
+01:12:42,000 --> 01:12:44,000
+it is not a practice
+
+1721
+01:12:44,000 --> 01:12:46,000
+but still
+
+1722
+01:12:46,000 --> 01:12:48,000
+there are some
+
+1723
+01:12:48,000 --> 01:12:50,000
+roles
+
+1724
+01:12:50,000 --> 01:12:52,000
+with a range
+
+1725
+01:12:52,000 --> 01:12:54,000
+and it is hard
+
+1726
+01:12:54,000 --> 01:12:56,000
+to go beyond that
+
+1727
+01:12:56,000 --> 01:12:58,000
+but it is not
+
+1728
+01:12:58,000 --> 01:13:00,000
+like it would be
+
+1729
+01:13:00,000 --> 01:13:02,000
+publicly known
+
+1730
+01:13:02,000 --> 01:13:04,000
+what is the salary
+
+1731
+01:13:04,000 --> 01:13:06,000
+even in IT
+
+1732
+01:13:06,000 --> 01:13:08,000
+I don't know if you know
+
+1733
+01:13:08,000 --> 01:13:10,000
+it is too many jobs
+
+1734
+01:13:10,000 --> 01:13:12,000
+three times
+
+1735
+01:13:12,000 --> 01:13:14,000
+a product job
+
+1736
+01:13:14,000 --> 01:13:16,000
+an engineer
+
+1737
+01:13:16,000 --> 01:13:18,000
+a basic job
+
+1738
+01:13:18,000 --> 01:13:20,000
+there can be a big difference
+
+1739
+01:13:20,000 --> 01:13:22,000
+in salaries
+
+1740
+01:13:22,000 --> 01:13:24,000
+between sales and IT
+
+1741
+01:13:24,000 --> 01:13:26,000
+sales salary is very low
+
+1742
+01:13:26,000 --> 01:13:28,000
+because it is related to
+
+1743
+01:13:28,000 --> 01:13:30,000
+compensation
+
+1744
+01:13:30,000 --> 01:13:32,000
+then it depends
+
+1745
+01:13:32,000 --> 01:13:34,000
+if it is a yes or no
+
+1746
+01:13:34,000 --> 01:13:36,000
+maybe
+
+1747
+01:13:36,000 --> 01:13:38,000
+sales is not so much
+
+1748
+01:13:38,000 --> 01:13:40,000
+because it can be
+
+1749
+01:13:40,000 --> 01:13:42,000
+very good
+
+1750
+01:13:42,000 --> 01:13:44,000
+compensation
+
+1751
+01:13:44,000 --> 01:13:46,000
+support functions, accounting
+
+1752
+01:13:46,000 --> 01:13:48,000
+marketing
+
+1753
+01:13:48,000 --> 01:13:50,000
+there are standards
+
+1754
+01:13:50,000 --> 01:13:52,000
+customer support
+
+1755
+01:13:52,000 --> 01:13:54,000
+there are standards
+
+1756
+01:13:54,000 --> 01:13:56,000
+we all need to know
+
+1757
+01:13:56,000 --> 01:13:58,000
+that engineering salaries
+
+1758
+01:13:58,000 --> 01:14:00,000
+are above average
+
+1759
+01:14:00,000 --> 01:14:02,000
+absolutely
+
+1760
+01:14:02,000 --> 01:14:04,000
+this is also
+
+1761
+01:14:04,000 --> 01:14:06,000
+my experience
+
+1762
+01:14:06,000 --> 01:14:08,000
+that Slovenian engineers
+
+1763
+01:14:08,000 --> 01:14:10,000
+are more conservative
+
+1764
+01:14:10,000 --> 01:14:12,000
+than I said before
+
+1765
+01:14:12,000 --> 01:14:14,000
+I have to work three times more
+
+1766
+01:14:14,000 --> 01:14:16,000
+especially because
+
+1767
+01:14:16,000 --> 01:14:18,000
+they get along with others
+
+1768
+01:14:18,000 --> 01:14:20,000
+and engineering salaries
+
+1769
+01:14:20,000 --> 01:14:22,000
+are above average
+
+1770
+01:14:22,000 --> 01:14:24,000
+I agree
+
+1771
+01:14:24,000 --> 01:14:26,000
+it is so rare
+
+1772
+01:14:26,000 --> 01:14:28,000
+to get a job
+
+1773
+01:14:28,000 --> 01:14:30,000
+in a software company
+
+1774
+01:14:30,000 --> 01:14:32,000
+in Slovenia
+
+1775
+01:14:32,000 --> 01:14:34,000
+we don't have much to do
+
+1776
+01:14:34,000 --> 01:14:36,000
+we get bonuses
+
+1777
+01:14:36,000 --> 01:14:38,000
+we get a good salary
+
+1778
+01:14:38,000 --> 01:14:40,000
+we have a good
+
+1779
+01:14:40,000 --> 01:14:42,000
+reputation
+
+1780
+01:14:42,000 --> 01:14:44,000
+and a good personality
+
+1781
+01:14:44,000 --> 01:14:46,000
+we don't complain
+
+1782
+01:14:46,000 --> 01:14:48,000
+it is not a bad thing
+
+1783
+01:14:48,000 --> 01:14:50,000
+it is nice
+
+1784
+01:14:50,000 --> 01:14:52,000
+that if you work
+
+1785
+01:14:52,000 --> 01:14:54,000
+somewhere else
+
+1786
+01:14:54,000 --> 01:14:56,000
+you don't realize
+
+1787
+01:14:56,000 --> 01:14:58,000
+that you are privileged
+
+1788
+01:14:58,000 --> 01:15:00,000
+this is my intention
+
+1789
+01:15:00,000 --> 01:15:05,200
+We are all privileged, not only IT people, but we need to maintain some kind of relativeness.
+
+1790
+01:15:05,200 --> 01:15:10,200
+We are nearing the end, so I will only ask one last question.
+
+1791
+01:15:10,200 --> 01:15:16,200
+It is a big one, but it will also be a guide for the next episodes.
+
+1792
+01:15:16,200 --> 01:15:21,200
+You touched on this a little bit, so maybe we can conclude with this.
+
+1793
+01:15:21,200 --> 01:15:27,200
+In addition to the salary, maybe there is no space, no budget for a higher salary.
+
+1794
+01:15:27,200 --> 01:15:30,200
+Maybe this is not achievable.
+
+1795
+01:15:30,200 --> 01:15:35,200
+What are the other things besides the salary, which can be more successful,
+
+1796
+01:15:35,200 --> 01:15:43,200
+or which are often used by companies for, as you said, compensation, not just salary?
+
+1797
+01:15:43,200 --> 01:15:47,200
+One thing we often forget is the allowance.
+
+1798
+01:15:47,200 --> 01:15:52,200
+You can always say 5 more days.
+
+1799
+01:15:52,200 --> 01:15:58,200
+If this is still your compensation, if you say for 20 more days an additional month,
+
+1800
+01:15:58,200 --> 01:16:01,200
+which is almost 10% higher salary,
+
+1801
+01:16:01,200 --> 01:16:06,199
+and of course some things that are not related to finance,
+
+1802
+01:16:06,199 --> 01:16:13,199
+such as a car service or something similar,
+
+1803
+01:16:13,199 --> 01:16:18,199
+which is more contextual, are things that you can talk about.
+
+1804
+01:16:18,199 --> 01:16:23,199
+For companies it is easier because they have a budget for salary.
+
+1805
+01:16:23,199 --> 01:16:28,199
+These things come from other budgets, education budget, etc.
+
+1806
+01:16:28,199 --> 01:16:34,199
+You can always ask, you can talk.
+
+1807
+01:16:34,199 --> 01:16:37,199
+The question is, what does it consist of?
+
+1808
+01:16:37,199 --> 01:16:40,199
+And then they ask themselves on the basis of this,
+
+1809
+01:16:40,199 --> 01:16:43,199
+what is the space available for me?
+
+1810
+01:16:43,199 --> 01:16:46,199
+Some things go against you, some don't.
+
+1811
+01:16:46,199 --> 01:16:48,199
+These are all my experiences.
+
+1812
+01:16:48,199 --> 01:16:51,199
+In addition to bonuses and salaries,
+
+1813
+01:16:51,199 --> 01:16:56,199
+this is not so widespread in Slovenia now, in my opinion.
+
+1814
+01:16:56,199 --> 01:16:58,199
+Did I forget something?
+
+1815
+01:16:58,199 --> 01:17:00,199
+Yes, maybe that.
+
+1816
+01:17:00,199 --> 01:17:03,199
+Sometimes it is not necessary to have a high salary,
+
+1817
+01:17:03,199 --> 01:17:06,199
+but let's say a company offers 13-14 salaries,
+
+1818
+01:17:06,199 --> 01:17:08,199
+a reward for success,
+
+1819
+01:17:08,199 --> 01:17:10,199
+and you have a plan at the end,
+
+1820
+01:17:10,199 --> 01:17:12,199
+I don't know, 5 salaries can be more,
+
+1821
+01:17:12,199 --> 01:17:14,199
+but if you don't ask, you won't know.
+
+1822
+01:17:14,199 --> 01:17:17,199
+So it's also nice that maybe you start asking for a salary
+
+1823
+01:17:17,199 --> 01:17:19,199
+before you increase the amount,
+
+1824
+01:17:19,199 --> 01:17:21,199
+but what are the other benefits?
+
+1825
+01:17:21,199 --> 01:17:24,199
+Do you see a lot of this in the Slovenian market,
+
+1826
+01:17:24,199 --> 01:17:28,199
+that companies try to be more competitive with other things,
+
+1827
+01:17:28,199 --> 01:17:32,199
+which benefits more than just business?
+
+1828
+01:17:32,199 --> 01:17:35,199
+And is the candidate a business person?
+
+1829
+01:17:35,199 --> 01:17:38,199
+I mean, has anyone ever replaced a company
+
+1830
+01:17:38,199 --> 01:17:41,199
+because of ping-pong and good writers?
+
+1831
+01:17:41,199 --> 01:17:43,199
+Or not at all?
+
+1832
+01:17:43,199 --> 01:17:46,199
+It depends on how dissatisfied he was.
+
+1833
+01:17:46,199 --> 01:17:49,199
+A lot of candidates who are very dissatisfied
+
+1834
+01:17:49,199 --> 01:17:51,199
+will also go for less,
+
+1835
+01:17:51,199 --> 01:17:53,199
+I think it's because of the full practice,
+
+1836
+01:17:53,199 --> 01:17:55,199
+but it will also go for a little less,
+
+1837
+01:17:55,199 --> 01:17:57,199
+and maybe for a little less stressful job,
+
+1838
+01:17:57,199 --> 01:17:59,199
+maybe for a better performance,
+
+1839
+01:17:59,199 --> 01:18:01,199
+I don't know, the benefits they will have.
+
+1840
+01:18:01,199 --> 01:18:03,199
+So these things happen too.
+
+1841
+01:18:03,199 --> 01:18:06,199
+I think that a lot of engineers and programmers are like that,
+
+1842
+01:18:06,199 --> 01:18:08,199
+when they come to a level
+
+1843
+01:18:08,199 --> 01:18:11,199
+where 500 euros more or less is not as important as
+
+1844
+01:18:11,199 --> 01:18:13,199
+what kind of challenge they have,
+
+1845
+01:18:13,199 --> 01:18:15,199
+what kind of team they have,
+
+1846
+01:18:15,199 --> 01:18:17,199
+how they can develop in the future.
+
+1847
+01:18:17,199 --> 01:18:20,199
+So different things happen.
+
+1848
+01:18:20,199 --> 01:18:22,199
+A good indicator of these benefits
+
+1849
+01:18:22,199 --> 01:18:24,199
+is the culture of the business,
+
+1850
+01:18:24,199 --> 01:18:26,199
+what gives value.
+
+1851
+01:18:26,199 --> 01:18:28,199
+I have a card for fitness, badminton,
+
+1852
+01:18:28,199 --> 01:18:30,199
+I don't know what else.
+
+1853
+01:18:30,199 --> 01:18:32,199
+It's not badminton,
+
+1854
+01:18:32,199 --> 01:18:34,199
+but the card that makes the difference,
+
+1855
+01:18:34,199 --> 01:18:36,199
+but it gives you a feeling
+
+1856
+01:18:36,199 --> 01:18:38,199
+that they value you as a person,
+
+1857
+01:18:38,199 --> 01:18:40,199
+in their head,
+
+1858
+01:18:40,199 --> 01:18:42,199
+in a physical sense.
+
+1859
+01:18:44,199 --> 01:18:46,199
+I have the feeling that a lot of companies
+
+1860
+01:18:46,199 --> 01:18:48,199
+that can't compete with pay
+
+1861
+01:18:48,199 --> 01:18:50,199
+compete with that culture.
+
+1862
+01:18:50,199 --> 01:18:52,199
+Holistically.
+
+1863
+01:18:52,199 --> 01:18:54,199
+We have, I don't know,
+
+1864
+01:18:56,199 --> 01:18:58,199
+God,
+
+1865
+01:18:58,199 --> 01:19:00,199
+as funny as it sounds,
+
+1866
+01:19:00,199 --> 01:19:02,199
+businesses that have God
+
+1867
+01:19:02,199 --> 01:19:04,199
+let you know that these are family businesses,
+
+1868
+01:19:04,199 --> 01:19:06,199
+and if you have children in your head,
+
+1869
+01:19:06,199 --> 01:19:08,199
+it won't be that bad.
+
+1870
+01:19:08,199 --> 01:19:10,199
+And those who have children,
+
+1871
+01:19:10,199 --> 01:19:12,199
+God is an indicator
+
+1872
+01:19:12,199 --> 01:19:14,199
+that maybe you will feel better here,
+
+1873
+01:19:14,199 --> 01:19:16,200
+because if my child is sick,
+
+1874
+01:19:16,200 --> 01:19:18,200
+nobody will live for me,
+
+1875
+01:19:18,200 --> 01:19:20,200
+because he has children and understands.
+
+1876
+01:19:20,200 --> 01:19:22,200
+So I would say these are indicators,
+
+1877
+01:19:22,200 --> 01:19:24,200
+that they have a culture,
+
+1878
+01:19:24,200 --> 01:19:26,200
+value, and maybe something else,
+
+1879
+01:19:26,200 --> 01:19:28,200
+because you work from 8 to 4,
+
+1880
+01:19:28,200 --> 01:19:30,200
+as much as possible,
+
+1881
+01:19:30,200 --> 01:19:32,200
+make money, make money,
+
+1882
+01:19:32,200 --> 01:19:34,200
+but there are other tasks.
+
+1883
+01:19:34,200 --> 01:19:36,200
+Or time,
+
+1884
+01:19:36,200 --> 01:19:38,200
+that's a good shout-out.
+
+1885
+01:19:38,200 --> 01:19:40,200
+I think that time is
+
+1886
+01:19:40,200 --> 01:19:42,200
+extremely valuable,
+
+1887
+01:19:42,200 --> 01:19:44,200
+and a lot of engineers
+
+1888
+01:19:44,200 --> 01:19:46,200
+from my experience
+
+1889
+01:19:46,200 --> 01:19:48,200
+are prepared to work
+
+1890
+01:19:48,200 --> 01:19:50,200
+for a lot less than 4 days a week,
+
+1891
+01:19:50,200 --> 01:19:52,200
+for example.
+
+1892
+01:19:52,200 --> 01:19:54,200
+There are others
+
+1893
+01:19:54,200 --> 01:19:56,200
+who only pay at the end,
+
+1894
+01:19:56,200 --> 01:19:58,200
+but
+
+1895
+01:20:00,200 --> 01:20:02,200
+are we already in Slovenia,
+
+1896
+01:20:02,200 --> 01:20:04,200
+did we conquer it,
+
+1897
+01:20:04,200 --> 01:20:06,200
+do we have a nice competitive
+
+1898
+01:20:06,200 --> 01:20:08,200
+benefit and profit
+
+1899
+01:20:08,200 --> 01:20:10,200
+in Slovenian businesses,
+
+1900
+01:20:10,200 --> 01:20:12,200
+or is it still a little
+
+1901
+01:20:12,200 --> 01:20:14,200
+connected to culture?
+
+1902
+01:20:14,200 --> 01:20:16,200
+I think there is more to it.
+
+1903
+01:20:16,200 --> 01:20:18,200
+When Corona came,
+
+1904
+01:20:18,200 --> 01:20:20,200
+we had competitors,
+
+1905
+01:20:20,200 --> 01:20:22,200
+and in one year
+
+1906
+01:20:22,200 --> 01:20:24,200
+a lot of things happened.
+
+1907
+01:20:24,200 --> 01:20:26,200
+Cups are no longer
+
+1908
+01:20:26,200 --> 01:20:28,200
+rare, but we all have cups now.
+
+1909
+01:20:28,200 --> 01:20:30,200
+So for me,
+
+1910
+01:20:30,200 --> 01:20:32,200
+the pressure that came
+
+1911
+01:20:32,200 --> 01:20:34,200
+from Zuni for the Slovenian frame,
+
+1912
+01:20:34,200 --> 01:20:36,200
+some Slovenian companies
+
+1913
+01:20:36,200 --> 01:20:38,200
+were a little scared.
+
+1914
+01:20:38,200 --> 01:20:40,200
+So I'm not saying that it's
+
+1915
+01:20:40,200 --> 01:20:42,200
+very good now and that everyone is there,
+
+1916
+01:20:42,200 --> 01:20:44,200
+but I personally see a lot of progress
+
+1917
+01:20:44,200 --> 01:20:46,200
+in the last 2-3 years.
+
+1918
+01:20:46,200 --> 01:20:48,200
+We also let ourselves be trampled,
+
+1919
+01:20:48,200 --> 01:20:50,200
+we know that the law has changed.
+
+1920
+01:20:50,200 --> 01:20:52,200
+This is a big indicator
+
+1921
+01:20:52,200 --> 01:20:54,200
+that your presence is not important,
+
+1922
+01:20:54,200 --> 01:20:56,200
+your output or outcome is important,
+
+1923
+01:20:56,200 --> 01:20:58,200
+and this is a big shift
+
+1924
+01:20:58,200 --> 01:21:00,200
+in the mentality that
+
+1925
+01:21:00,200 --> 01:21:02,200
+maybe 5-10 years
+
+1926
+01:21:02,200 --> 01:21:04,200
+is not as widespread as it is today.
+
+1927
+01:21:04,200 --> 01:21:06,200
+So that's my opinion.
+
+1928
+01:21:06,200 --> 01:21:08,200
+I'm pretty happy today.
+
+1929
+01:21:08,200 --> 01:21:10,200
+I was also here 4 years ago,
+
+1930
+01:21:10,200 --> 01:21:12,200
+but today I'm a little happier.
+
+1931
+01:21:12,200 --> 01:21:14,200
+I think that
+
+1932
+01:21:14,200 --> 01:21:16,200
+when we talked about
+
+1933
+01:21:16,200 --> 01:21:18,200
+how much the need for IT staff has increased,
+
+1934
+01:21:18,200 --> 01:21:20,200
+all the companies could adapt a little.
+
+1935
+01:21:20,200 --> 01:21:22,200
+Also working
+
+1936
+01:21:22,200 --> 01:21:24,200
+on employer branding,
+
+1937
+01:21:24,200 --> 01:21:26,200
+to hear the stories
+
+1938
+01:21:26,200 --> 01:21:28,200
+how well they are doing.
+
+1939
+01:21:28,200 --> 01:21:30,200
+We also have a very small company,
+
+1940
+01:21:30,200 --> 01:21:32,200
+I don't know them at all,
+
+1941
+01:21:32,200 --> 01:21:34,200
+but I'm worried about the employees.
+
+1942
+01:21:34,200 --> 01:21:36,200
+Once again, I can say that
+
+1943
+01:21:36,200 --> 01:21:38,200
+the names that are promoted
+
+1944
+01:21:38,200 --> 01:21:40,200
+with it. So in practice,
+
+1945
+01:21:40,200 --> 01:21:42,200
+the companies have made a lot of progress.
+
+1946
+01:21:42,200 --> 01:21:44,200
+Thank you.
+
+1947
+01:21:44,200 --> 01:21:46,200
+You're welcome.
+
+1948
+01:21:46,200 --> 01:21:48,200
+It seems to me that it was
+
+1949
+01:21:48,200 --> 01:21:50,200
+a great conversation.
+
+1950
+01:21:50,200 --> 01:21:52,200
+I'll give you a little more time
+
+1951
+01:21:52,200 --> 01:21:54,200
+for some closing thoughts,
+
+1952
+01:21:54,200 --> 01:21:56,200
+if you want.
+
+1953
+01:21:56,200 --> 01:21:58,200
+Miha, maybe
+
+1954
+01:21:58,200 --> 01:22:00,200
+we'll start with you.
+
+1955
+01:22:00,200 --> 01:22:02,200
+We are always a little paid.
+
+1956
+01:22:02,200 --> 01:22:04,200
+If you work,
+
+1957
+01:22:04,200 --> 01:22:06,200
+you always pay too much.
+
+1958
+01:22:06,200 --> 01:22:08,200
+Let's talk.
+
+1959
+01:22:08,200 --> 01:22:10,200
+First of all,
+
+1960
+01:22:10,200 --> 01:22:12,200
+we won't talk about a taboo topic,
+
+1961
+01:22:12,200 --> 01:22:14,200
+but let's talk about it
+
+1962
+01:22:14,200 --> 01:22:16,200
+with some context and
+
+1963
+01:22:16,200 --> 01:22:18,200
+importance, because
+
+1964
+01:22:18,200 --> 01:22:20,200
+there is a lot of talk about it in Slovenia.
+
+1965
+01:22:20,200 --> 01:22:22,200
+We always
+
+1966
+01:22:22,200 --> 01:22:24,200
+talk about how much you pay.
+
+1967
+01:22:26,200 --> 01:22:28,200
+Maybe one more reply
+
+1968
+01:22:28,200 --> 01:22:30,200
+from my side.
+
+1969
+01:22:30,200 --> 01:22:32,200
+Don't fall asleep.
+
+1970
+01:22:32,200 --> 01:22:34,200
+Don't be 10 years in one company.
+
+1971
+01:22:34,200 --> 01:22:36,200
+Look here,
+
+1972
+01:22:36,200 --> 01:22:38,200
+what can you develop?
+
+1973
+01:22:38,200 --> 01:22:40,200
+Tell us what
+
+1974
+01:22:40,200 --> 01:22:42,200
+doesn't suit you.
+
+1975
+01:22:42,200 --> 01:22:44,200
+If you think you have a change,
+
+1976
+01:22:44,200 --> 01:22:46,200
+go talk to a recruiter.
+
+1977
+01:22:46,200 --> 01:22:48,200
+I'm kidding.
+
+1978
+01:22:48,200 --> 01:22:50,200
+If you can,
+
+1979
+01:22:50,200 --> 01:22:52,200
+don't turn away.
+
+1980
+01:22:52,200 --> 01:22:54,200
+We'll tell you in a light way.
+
+1981
+01:22:54,200 --> 01:22:56,200
+Definitely,
+
+1982
+01:22:56,200 --> 01:22:58,200
+don't fall asleep.
+
+1983
+01:22:58,200 --> 01:23:00,200
+In fact, every employee is
+
+1984
+01:23:00,200 --> 01:23:02,200
+responsible for his or her career.
+
+1985
+01:23:02,200 --> 01:23:04,200
+If you leave it to others and
+
+1986
+01:23:04,200 --> 01:23:06,200
+don't take care of your career,
+
+1987
+01:23:06,200 --> 01:23:08,200
+we'll get in trouble.
+
+1988
+01:23:10,200 --> 01:23:12,200
+We've covered it to the end.
+
+1989
+01:23:12,200 --> 01:23:14,200
+Thank you for joining me.
+
+1990
+01:23:14,200 --> 01:23:16,200
+For all our listeners,
+
+1991
+01:23:16,200 --> 01:23:18,200
+you can sign up for the service
+
+1992
+01:23:18,200 --> 01:23:20,200
+on kaldi.humanfrog.rif.se,
+
+1993
+01:23:20,200 --> 01:23:22,200
+which is sponsored by
+
+1994
+01:23:22,200 --> 01:23:24,200
+this podcast,
+
+1995
+01:23:24,200 --> 01:23:26,200
+which is also
+
+1996
+01:23:26,200 --> 01:23:28,200
+in a collection of Slovenian companies
+
+1997
+01:23:28,200 --> 01:23:30,200
+in the IT space.
+
+1998
+01:23:30,200 --> 01:23:32,200
+So,
+
+1999
+01:23:32,200 --> 01:23:34,200
+thank you very much
+
+2000
+01:23:34,200 --> 01:23:36,200
+once again for this interview.
+
+2001
+01:23:36,200 --> 01:23:38,200
+And of course,
+
+2002
+01:23:38,200 --> 01:23:40,200
+we invite all our viewers
+
+2003
+01:23:40,200 --> 01:23:42,200
+and listeners
+
+2004
+01:23:42,200 --> 01:23:44,200
+to leave us some feedback,
+
+2005
+01:23:44,200 --> 01:23:46,200
+follow-up questions,
+
+2006
+01:23:46,200 --> 01:23:48,200
+and we'll try
+
+2007
+01:23:48,200 --> 01:23:50,200
+to answer them
+
+2008
+01:23:50,200 --> 01:23:52,200
+in the next episodes.
+
+2009
+01:23:52,200 --> 01:23:54,200
+So,
+
+2010
+01:23:54,200 --> 01:23:56,200
+one more baby under the train
+
+2011
+01:23:56,200 --> 01:23:58,200
+to wrap up.
+
+2012
+01:23:58,200 --> 01:24:00,200
+Have a nice evening.
+
+2013
+01:24:02,200 --> 01:24:04,200
+Thank you.

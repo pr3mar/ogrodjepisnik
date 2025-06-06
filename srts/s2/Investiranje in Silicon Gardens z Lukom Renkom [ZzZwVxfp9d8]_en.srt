@@ -1,0 +1,9119 @@
+1
+00:00:00,000 --> 00:00:21,000
+Let's start with the episode in Grodno again, with the 24th attempt to make a good analysis of technology,
+
+2
+00:00:21,000 --> 00:00:28,000
+development, technical culture, everything that is connected here, everything that is balanced.
+
+3
+00:00:28,000 --> 00:00:33,000
+And today we will try...
+
+4
+00:00:33,000 --> 00:00:41,000
+At first I thought we would talk about some side projects, about how people start their small projects,
+
+5
+00:00:41,000 --> 00:00:44,000
+and those projects grow and grow and grow.
+
+6
+00:00:44,000 --> 00:00:55,000
+And I thought this would be a good start, and then Luka would get in, and then I started looking for who Luka Renko is,
+
+7
+00:00:55,000 --> 00:01:03,000
+and what he did, and when I started looking for him, I realized that maybe...
+
+8
+00:01:03,000 --> 00:01:07,000
+Especially after you sent me an email, I realized that maybe this is not the best.
+
+9
+00:01:07,000 --> 00:01:10,000
+My side project is not a side project.
+
+10
+00:01:10,000 --> 00:01:14,000
+Well, I went to look at your github, but...
+
+11
+00:01:14,000 --> 00:01:21,000
+Anyway, we have prepared together this...
+
+12
+00:01:21,000 --> 00:01:23,000
+How do I say this...
+
+13
+00:01:23,000 --> 00:01:28,000
+NIT, and we will try here today to talk a little about how...
+
+14
+00:01:28,000 --> 00:01:31,000
+Well, maybe a little more about bigger projects,
+
+15
+00:01:31,000 --> 00:01:35,000
+that we will talk a little about investing in those bigger projects,
+
+16
+00:01:35,000 --> 00:01:41,000
+we will talk a little about the technological ecosystem that is needed for this,
+
+17
+00:01:41,000 --> 00:01:43,000
+what else did he add...
+
+18
+00:01:43,000 --> 00:01:46,000
+We have some sweet sources.
+
+19
+00:01:46,000 --> 00:01:51,000
+Of course, we will also talk in the follow-up, but very briefly, because I think...
+
+20
+00:01:51,000 --> 00:01:58,000
+In the follow-up, we will talk, we will listen, yes.
+
+21
+00:01:58,000 --> 00:02:04,000
+Now, I didn't want to dedicate the whole episode to the follow-up, because I don't have much to say about it.
+
+22
+00:02:04,000 --> 00:02:07,000
+I've already said it five times.
+
+23
+00:02:07,000 --> 00:02:12,000
+But the rest of what you say is also very impressive,
+
+24
+00:02:12,000 --> 00:02:15,000
+and that's why we invited you today, so you can say something.
+
+25
+00:02:15,000 --> 00:02:20,000
+And yes, we know that today you are selling a ship.
+
+26
+00:02:20,000 --> 00:02:26,000
+At the beginning, you told us about the podcast, or about the YouTube video,
+
+27
+00:02:26,000 --> 00:02:29,000
+there is a link to support, where you can support us,
+
+28
+00:02:29,000 --> 00:02:33,000
+and you will also help us in the future.
+
+29
+00:02:33,000 --> 00:02:36,000
+You will start with the first question, right?
+
+30
+00:02:36,000 --> 00:02:37,000
+Yes, I will.
+
+31
+00:02:37,000 --> 00:02:40,000
+Wait, let me take it out.
+
+32
+00:02:40,000 --> 00:02:41,000
+Suspense.
+
+33
+00:02:41,000 --> 00:02:42,000
+Suspense.
+
+34
+00:02:42,000 --> 00:02:46,000
+Now I will be like an old gentleman, who will have a...
+
+35
+00:02:46,000 --> 00:02:48,000
+You will be a good businessman.
+
+36
+00:02:48,000 --> 00:02:49,000
+Yes.
+
+37
+00:02:49,000 --> 00:02:51,000
+Wait, I have to correct myself a little, but...
+
+38
+00:02:51,000 --> 00:02:52,000
+Wait, yes.
+
+39
+00:02:52,000 --> 00:02:54,000
+Here, as a first...
+
+40
+00:02:54,000 --> 00:02:56,000
+It's simple, right?
+
+41
+00:02:57,000 --> 00:03:00,000
+Luka, how do you see yourself?
+
+42
+00:03:00,000 --> 00:03:03,000
+Because when we were preparing for the episode,
+
+43
+00:03:03,000 --> 00:03:05,000
+or when we accepted you,
+
+44
+00:03:05,000 --> 00:03:08,000
+you are a man of many images,
+
+45
+00:03:08,000 --> 00:03:12,000
+or when you are at Jadarnica,
+
+46
+00:03:12,000 --> 00:03:18,000
+when you receive various awards on behalf of the community,
+
+47
+00:03:18,000 --> 00:03:20,000
+which is building wonderful projects.
+
+48
+00:03:20,000 --> 00:03:23,000
+But how do you see yourself? Who are you?
+
+49
+00:03:24,000 --> 00:03:30,000
+I see myself as someone who has successfully built teams,
+
+50
+00:03:30,000 --> 00:03:32,000
+developed teams.
+
+51
+00:03:32,000 --> 00:03:36,000
+I did that a few times in my career,
+
+52
+00:03:36,000 --> 00:03:38,000
+and I really enjoyed it.
+
+53
+00:03:38,000 --> 00:03:40,000
+Building teams, building successors,
+
+54
+00:03:40,000 --> 00:03:44,000
+successful managers, new leaders, and so on.
+
+55
+00:03:44,000 --> 00:03:48,000
+After Outfit7, I decided that I would not go
+
+56
+00:03:48,000 --> 00:03:50,000
+into that rollercoaster,
+
+57
+00:03:50,000 --> 00:03:53,000
+a scale-up company, once again.
+
+58
+00:03:53,000 --> 00:03:57,000
+I would not go if there was not a really good idea,
+
+59
+00:03:57,000 --> 00:04:01,000
+which would motivate me to work.
+
+60
+00:04:01,000 --> 00:04:05,000
+I decided what I would start with.
+
+61
+00:04:05,000 --> 00:04:12,000
+One of the tasks was that I wanted to return to the environment
+
+62
+00:04:12,000 --> 00:04:15,000
+in which I grew up.
+
+63
+00:04:15,000 --> 00:04:19,000
+That is the part where I started investing,
+
+64
+00:04:19,000 --> 00:04:22,000
+where Silicon Garden is being built,
+
+65
+00:04:22,000 --> 00:04:25,000
+where we try to help local startups,
+
+66
+00:04:25,000 --> 00:04:28,000
+especially in the phase where it is the most difficult
+
+67
+00:04:28,000 --> 00:04:30,000
+to get capital at the moment.
+
+68
+00:04:30,000 --> 00:04:32,000
+That is the early stage,
+
+69
+00:04:32,000 --> 00:04:35,000
+where the developers are not interested yet.
+
+70
+00:04:35,000 --> 00:04:38,000
+They do not have the basic validation yet.
+
+71
+00:04:38,000 --> 00:04:41,000
+We, the locals, know these people better,
+
+72
+00:04:41,000 --> 00:04:44,000
+we know what they are capable of,
+
+73
+00:04:44,000 --> 00:04:47,000
+and what results can be achieved.
+
+74
+00:04:47,000 --> 00:04:50,000
+The other thing I wanted to protect
+
+75
+00:04:50,000 --> 00:04:53,000
+was working with people.
+
+76
+00:04:53,000 --> 00:04:56,000
+That is why I decided to do coaching.
+
+77
+00:04:56,000 --> 00:05:00,000
+In a similar way I was working with my manager.
+
+78
+00:05:00,000 --> 00:05:04,000
+I do it without any methodology.
+
+79
+00:05:04,000 --> 00:05:07,000
+When I work with a few people,
+
+80
+00:05:07,000 --> 00:05:11,000
+I have four managers at the moment,
+
+81
+00:05:11,000 --> 00:05:14,000
+out of two companies there are a lot of people
+
+82
+00:05:14,000 --> 00:05:16,000
+who are changing.
+
+83
+00:05:16,000 --> 00:05:19,000
+I work with them weekly,
+
+84
+00:05:19,000 --> 00:05:22,000
+and that is my stick,
+
+85
+00:05:22,000 --> 00:05:25,000
+where I help these people build themselves
+
+86
+00:05:25,000 --> 00:05:27,000
+to the next level.
+
+87
+00:05:27,000 --> 00:05:30,000
+I deal with their challenges,
+
+88
+00:05:30,000 --> 00:05:33,000
+their individuality, and so on.
+
+89
+00:05:33,000 --> 00:05:38,000
+One thing I found out is that I was lucky in my career.
+
+90
+00:05:38,000 --> 00:05:41,000
+I had a few managers who were pen and desk,
+
+91
+00:05:41,000 --> 00:05:44,000
+but they were very persistent,
+
+92
+00:05:44,000 --> 00:05:47,000
+and they gave me a lot.
+
+93
+00:05:47,000 --> 00:05:50,000
+I came across some challenges
+
+94
+00:05:50,000 --> 00:05:53,000
+that I did not even think about.
+
+95
+00:05:53,000 --> 00:05:55,000
+I was an engineer,
+
+96
+00:05:55,000 --> 00:05:58,000
+I worked in development,
+
+97
+00:05:58,000 --> 00:06:01,000
+and through the process I realized
+
+98
+00:06:01,000 --> 00:06:04,000
+that I am more interested in other things.
+
+99
+00:06:04,000 --> 00:06:07,000
+That is how I work.
+
+100
+00:06:07,000 --> 00:06:10,000
+Can you say that as a single contributor
+
+101
+00:06:10,000 --> 00:06:13,000
+you cannot go back as much?
+
+102
+00:06:13,000 --> 00:06:16,000
+I worked as a team,
+
+103
+00:06:16,000 --> 00:06:19,000
+so my projects were always team projects,
+
+104
+00:06:19,000 --> 00:06:22,000
+my whole professional life.
+
+105
+00:06:22,000 --> 00:06:25,000
+They were not one-man jobs
+
+106
+00:06:25,000 --> 00:06:28,000
+from the first project.
+
+107
+00:06:28,000 --> 00:06:31,000
+I realized that.
+
+108
+00:06:31,000 --> 00:06:34,000
+On the other hand,
+
+109
+00:06:34,000 --> 00:06:37,000
+you have to take more responsibility,
+
+110
+00:06:37,000 --> 00:06:40,000
+and you have to take responsibility for others.
+
+111
+00:06:40,000 --> 00:06:43,000
+That was one of the things
+
+112
+00:06:43,000 --> 00:06:46,000
+that my first manager, Andrej Kuščar,
+
+113
+00:06:46,000 --> 00:06:49,000
+made me struggle for a year or two.
+
+114
+00:06:49,000 --> 00:06:52,000
+He said to me,
+
+115
+00:06:52,000 --> 00:06:55,000
+you can work for three,
+
+116
+00:06:55,000 --> 00:06:58,000
+but you cannot scale anymore.
+
+117
+00:06:58,000 --> 00:07:01,000
+You have to start helping.
+
+118
+00:07:01,000 --> 00:07:04,000
+I had no time,
+
+119
+00:07:04,000 --> 00:07:07,000
+but I had to do it.
+
+120
+00:07:07,000 --> 00:07:10,000
+Those were hard lessons
+
+121
+00:07:10,000 --> 00:07:13,000
+that I experienced and changed.
+
+122
+00:07:13,000 --> 00:07:16,000
+Over time, I realized that other things
+
+123
+00:07:16,000 --> 00:07:19,000
+were also important for me.
+
+124
+00:07:19,000 --> 00:07:22,000
+I wanted to ask you
+
+125
+00:07:22,000 --> 00:07:25,000
+about investment.
+
+126
+00:07:25,000 --> 00:07:28,000
+You started talking about management.
+
+127
+00:07:28,000 --> 00:07:31,000
+Is good management in Slovenia
+
+128
+00:07:31,000 --> 00:07:34,000
+something that you can learn
+
+129
+00:07:34,000 --> 00:07:37,000
+in college or school,
+
+130
+00:07:37,000 --> 00:07:40,000
+or do you have to have some predispositions?
+
+131
+00:07:40,000 --> 00:07:43,000
+Are we good managers in Slovenia?
+
+132
+00:07:43,000 --> 00:07:46,000
+Do we have good material to become good managers?
+
+133
+00:07:46,000 --> 00:07:49,000
+I think we have good material,
+
+134
+00:07:49,000 --> 00:07:52,000
+as long as we have people who want to learn
+
+135
+00:07:52,000 --> 00:07:55,000
+and work on themselves.
+
+136
+00:07:55,000 --> 00:07:58,000
+Once you become a better manager,
+
+137
+00:07:58,000 --> 00:08:01,000
+you can start changing other people.
+
+138
+00:08:01,000 --> 00:08:04,000
+You can lead and be a good leader.
+
+139
+00:08:04,000 --> 00:08:07,000
+I think we have to realize
+
+140
+00:08:07,000 --> 00:08:10,000
+that good management can happen
+
+141
+00:08:10,000 --> 00:08:13,000
+in companies with good culture.
+
+142
+00:08:13,000 --> 00:08:16,000
+You have to have an environment
+
+143
+00:08:16,000 --> 00:08:19,000
+where the culture is good,
+
+144
+00:08:19,000 --> 00:08:22,000
+healthy, open, trustworthy.
+
+145
+00:08:22,000 --> 00:08:25,000
+That's where good management can come in.
+
+146
+00:08:25,000 --> 00:08:28,000
+You can have managers, MBAs,
+
+147
+00:08:28,000 --> 00:08:31,000
+who come in and do hard shots
+
+148
+00:08:31,000 --> 00:08:34,000
+in a certain environment,
+
+149
+00:08:34,000 --> 00:08:37,000
+but I believe they are proper leaders
+
+150
+00:08:37,000 --> 00:08:40,000
+in a product company
+
+151
+00:08:40,000 --> 00:08:43,000
+that you want to succeed in.
+
+152
+00:08:43,000 --> 00:08:46,000
+You said that you have to work on yourself.
+
+153
+00:08:46,000 --> 00:08:49,000
+What do you mean by that?
+
+154
+00:08:49,000 --> 00:08:52,000
+You have to realize your own limitations,
+
+155
+00:08:52,000 --> 00:08:55,000
+your own fears,
+
+156
+00:08:55,000 --> 00:08:58,000
+your own subconscious problems
+
+157
+00:08:58,000 --> 00:09:01,000
+that limit you in thinking.
+
+158
+00:09:01,000 --> 00:09:04,000
+You have to realize
+
+159
+00:09:04,000 --> 00:09:07,000
+that you can't work with people
+
+160
+00:09:07,000 --> 00:09:10,000
+who are more compatible with you.
+
+161
+00:09:10,000 --> 00:09:13,000
+As a manager, you work with different people.
+
+162
+00:09:13,000 --> 00:09:16,000
+People have different value systems.
+
+163
+00:09:16,000 --> 00:09:19,000
+You can't work with them,
+
+164
+00:09:19,000 --> 00:09:22,000
+so you have to adjust your communication
+
+165
+00:09:22,000 --> 00:09:25,000
+so that you can replace them.
+
+166
+00:09:25,000 --> 00:09:28,000
+I think all these tasks are important.
+
+167
+00:09:28,000 --> 00:09:31,000
+If you don't start working on yourself
+
+168
+00:09:31,000 --> 00:09:34,000
+to adapt to certain limitations,
+
+169
+00:09:34,000 --> 00:09:37,000
+it will be easier for me to work this way.
+
+170
+00:09:37,000 --> 00:09:40,000
+When I managed other managers,
+
+171
+00:09:40,000 --> 00:09:43,000
+I managed a lot of things.
+
+172
+00:09:43,000 --> 00:09:46,000
+I noticed this when I wanted to hire someone.
+
+173
+00:09:46,000 --> 00:09:49,000
+A psychologist who was part of the hiring process
+
+174
+00:09:49,000 --> 00:09:52,000
+for someone I worked with for four years
+
+175
+00:09:52,000 --> 00:09:55,000
+said that he wouldn't fit in our culture.
+
+176
+00:09:55,000 --> 00:09:58,000
+I said, how can I not know him?
+
+177
+00:09:58,000 --> 00:10:01,000
+He said he was looking for a competitor.
+
+178
+00:10:01,000 --> 00:10:04,000
+There is a very rough culture in Outfit.
+
+179
+00:10:04,000 --> 00:10:07,000
+People expect to fight for their decisions,
+
+180
+00:10:07,000 --> 00:10:10,000
+and so on.
+
+181
+00:10:11,000 --> 00:10:14,000
+He said he was looking for a competitor.
+
+182
+00:10:14,000 --> 00:10:17,000
+I thought back and said,
+
+183
+00:10:17,000 --> 00:10:20,000
+yes!
+
+184
+00:10:20,000 --> 00:10:23,000
+When I hired him,
+
+185
+00:10:23,000 --> 00:10:26,000
+I worked with other managers a lot.
+
+186
+00:10:26,000 --> 00:10:29,000
+I was a micro-manager,
+
+187
+00:10:29,000 --> 00:10:32,000
+so I was interested.
+
+188
+00:10:32,000 --> 00:10:35,000
+I wanted to know what it was like.
+
+189
+00:10:35,000 --> 00:10:38,000
+I wasn't delegating responsibilities
+
+190
+00:10:38,000 --> 00:10:41,000
+but I was looking around.
+
+191
+00:10:41,000 --> 00:10:44,000
+People thought I was looking for a competitor.
+
+192
+00:10:44,000 --> 00:10:47,000
+Suddenly you realize
+
+193
+00:10:47,000 --> 00:10:50,000
+that everything is going through your hands.
+
+194
+00:10:50,000 --> 00:10:53,000
+I had a similar experience later on.
+
+195
+00:10:53,000 --> 00:10:56,000
+I adjusted to these people.
+
+196
+00:10:56,000 --> 00:10:59,000
+He had a good approach.
+
+197
+00:10:59,000 --> 00:11:02,000
+He is a leader today.
+
+198
+00:11:02,000 --> 00:11:05,000
+I think he has about 60 people in the company.
+
+199
+00:11:05,000 --> 00:11:08,000
+I think we can do better than that.
+
+200
+00:11:08,000 --> 00:11:11,000
+I wouldn't fit into the culture we had.
+
+201
+00:11:15,000 --> 00:11:18,000
+We have a more technical audience here.
+
+202
+00:11:18,000 --> 00:11:21,000
+Most of them are developers and engineers.
+
+203
+00:11:21,000 --> 00:11:24,000
+To some extent,
+
+204
+00:11:24,000 --> 00:11:27,000
+a lot of people work as juniors or seniors.
+
+205
+00:11:27,000 --> 00:11:30,000
+To some extent,
+
+206
+00:11:30,000 --> 00:11:33,000
+a lot of people work as juniors or seniors.
+
+207
+00:11:33,000 --> 00:11:36,000
+At some point,
+
+208
+00:11:36,000 --> 00:11:39,000
+most organizations expect you to become a team leader.
+
+209
+00:11:39,000 --> 00:11:42,000
+Or a squad leader.
+
+210
+00:11:42,000 --> 00:11:45,000
+At some point,
+
+211
+00:11:45,000 --> 00:11:48,000
+you become a manager.
+
+212
+00:11:48,000 --> 00:11:51,000
+Then you have to decide
+
+213
+00:11:51,000 --> 00:11:54,000
+if you want to focus on engineering
+
+214
+00:11:54,000 --> 00:11:57,000
+or manage people.
+
+215
+00:11:57,000 --> 00:12:00,000
+At some point, it was the same for you.
+
+216
+00:12:00,000 --> 00:12:03,000
+Yes, it was the same for me.
+
+217
+00:12:03,000 --> 00:12:06,000
+At Herman Soft Lab,
+
+218
+00:12:06,000 --> 00:12:09,000
+we struggled a lot.
+
+219
+00:12:09,000 --> 00:12:12,000
+In the beginning,
+
+220
+00:12:12,000 --> 00:12:15,000
+it was easier to have a managerial career.
+
+221
+00:12:15,000 --> 00:12:18,000
+It was a digital agency company
+
+222
+00:12:18,000 --> 00:12:21,000
+where there were project managers.
+
+223
+00:12:21,000 --> 00:12:24,000
+It was easier to show responsibility
+
+224
+00:12:24,000 --> 00:12:27,000
+that you have 10 people.
+
+225
+00:12:27,000 --> 00:12:30,000
+It was easier to show responsibility
+
+226
+00:12:30,000 --> 00:12:33,000
+that you have 10 people.
+
+227
+00:12:33,000 --> 00:12:36,000
+Then we managed to reach an agreement
+
+228
+00:12:36,000 --> 00:12:39,000
+in the recording system
+
+229
+00:12:39,000 --> 00:12:42,000
+that you can become a senior manager
+
+230
+00:12:42,000 --> 00:12:45,000
+or even more.
+
+231
+00:12:45,000 --> 00:12:48,000
+At Herman Soft Lab,
+
+232
+00:12:48,000 --> 00:12:51,000
+I made my first career to the top engineering level.
+
+233
+00:12:51,000 --> 00:12:54,000
+I was chief technology for the entire area,
+
+234
+00:12:54,000 --> 00:12:57,000
+but I didn't have a sub-manager.
+
+235
+00:12:57,000 --> 00:13:00,000
+I wasn't a team manager.
+
+236
+00:13:00,000 --> 00:13:03,000
+Then I decided
+
+237
+00:13:03,000 --> 00:13:06,000
+that I wanted to do something else
+
+238
+00:13:06,000 --> 00:13:09,000
+and I started working as a manager
+
+239
+00:13:09,000 --> 00:13:12,000
+for the entire business unit.
+
+240
+00:13:12,000 --> 00:13:15,000
+for the entire business unit.
+
+241
+00:13:15,000 --> 00:13:18,000
+I am responsible for the fact
+
+242
+00:13:18,000 --> 00:13:21,000
+that engineering has to be
+
+243
+00:13:21,000 --> 00:13:24,000
+balanced with management.
+
+244
+00:13:24,000 --> 00:13:27,000
+In real companies,
+
+245
+00:13:27,000 --> 00:13:30,000
+they have a level of chief,
+
+246
+00:13:30,000 --> 00:13:33,000
+when they are at the level of senior VP.
+
+247
+00:13:33,000 --> 00:13:36,000
+In Slovenia,
+
+248
+00:13:36,000 --> 00:13:39,000
+there are not many companies
+
+249
+00:13:39,000 --> 00:13:42,000
+that have such a need.
+
+250
+00:13:42,000 --> 00:13:45,000
+Someone at this level
+
+251
+00:13:45,000 --> 00:13:48,000
+is at the top in the world.
+
+252
+00:13:48,000 --> 00:13:51,000
+I don't have the same expectations
+
+253
+00:13:51,000 --> 00:13:54,000
+that everyone has to be at the top.
+
+254
+00:13:54,000 --> 00:13:57,000
+I see management in many nuances.
+
+255
+00:13:57,000 --> 00:14:00,000
+We have a lot of
+
+256
+00:14:00,000 --> 00:14:03,000
+imagined thinking
+
+257
+00:14:03,000 --> 00:14:06,000
+about what a manager should be like.
+
+258
+00:14:06,000 --> 00:14:09,000
+We imagine that we need a manager
+
+259
+00:14:09,000 --> 00:14:12,000
+of this team and what it should be like.
+
+260
+00:14:12,000 --> 00:14:15,000
+People are very different.
+
+261
+00:14:15,000 --> 00:14:18,000
+They need more things
+
+262
+00:14:18,000 --> 00:14:21,000
+and maybe they will not be satisfied
+
+263
+00:14:21,000 --> 00:14:24,000
+only with team management.
+
+264
+00:14:24,000 --> 00:14:27,000
+I think that the organization
+
+265
+00:14:27,000 --> 00:14:30,000
+should adapt to the people it has.
+
+266
+00:14:30,000 --> 00:14:33,000
+Create a structure that is ideal
+
+267
+00:14:33,000 --> 00:14:36,000
+with the people you have at the moment
+
+268
+00:14:36,000 --> 00:14:39,000
+and fulfill these roles.
+
+269
+00:14:39,000 --> 00:14:42,000
+A role is a team manager.
+
+270
+00:14:42,000 --> 00:14:45,000
+A team manager is a person
+
+271
+00:14:45,000 --> 00:14:48,000
+who cares about his career path,
+
+272
+00:14:48,000 --> 00:14:51,000
+his next steps and so on.
+
+273
+00:14:51,000 --> 00:14:54,000
+On the other hand,
+
+274
+00:14:54,000 --> 00:14:57,000
+you have other managerial roles.
+
+275
+00:14:57,000 --> 00:15:00,000
+A technology leader,
+
+276
+00:15:00,000 --> 00:15:03,000
+a development leader in a field,
+
+277
+00:15:03,000 --> 00:15:06,000
+on a component, on a back-end, etc.
+
+278
+00:15:06,000 --> 00:15:09,000
+This person is also a team manager.
+
+279
+00:15:10,000 --> 00:15:13,000
+I see it as a role.
+
+280
+00:15:13,000 --> 00:15:16,000
+Phew, that was a good warm-up.
+
+281
+00:15:16,000 --> 00:15:19,000
+Will you continue?
+
+282
+00:15:19,000 --> 00:15:22,000
+We are shocked.
+
+283
+00:15:22,000 --> 00:15:25,000
+I mean, are we?
+
+284
+00:15:25,000 --> 00:15:28,000
+Talk like a classic manager.
+
+285
+00:15:28,000 --> 00:15:31,000
+I would like to.
+
+286
+00:15:32,000 --> 00:15:35,000
+The structure of the company
+
+287
+00:15:35,000 --> 00:15:38,000
+is a bit stupid.
+
+288
+00:15:38,000 --> 00:15:41,000
+It seems to me that we often copy
+
+289
+00:15:41,000 --> 00:15:44,000
+from a larger environment
+
+290
+00:15:44,000 --> 00:15:47,000
+and then try to copy it
+
+291
+00:15:47,000 --> 00:15:50,000
+to a smaller environment or to Slovenia.
+
+292
+00:15:50,000 --> 00:15:53,000
+In the end, we come to the conclusion
+
+293
+00:15:53,000 --> 00:15:56,000
+that technologically we all need Kubernetes
+
+294
+00:15:56,000 --> 00:15:59,000
+or the management of some teams.
+
+295
+00:15:59,000 --> 00:16:02,000
+They are not relevant.
+
+296
+00:16:02,000 --> 00:16:05,000
+My experience is primarily
+
+297
+00:16:05,000 --> 00:16:08,000
+in the scale of the company.
+
+298
+00:16:08,000 --> 00:16:11,000
+The company grows fast.
+
+299
+00:16:11,000 --> 00:16:14,000
+I don't have myself for a startup.
+
+300
+00:16:14,000 --> 00:16:17,000
+If I had a startup,
+
+301
+00:16:17,000 --> 00:16:20,000
+I don't know how I would do it.
+
+302
+00:16:20,000 --> 00:16:23,000
+I would say that I was the first person
+
+303
+00:16:23,000 --> 00:16:26,000
+who prepared for the next level.
+
+304
+00:16:26,000 --> 00:16:29,000
+I worked on a product,
+
+305
+00:16:29,000 --> 00:16:32,000
+a backup product.
+
+306
+00:16:32,000 --> 00:16:35,000
+I grew from a team of 12 people
+
+307
+00:16:35,000 --> 00:16:38,000
+to 150 people who developed
+
+308
+00:16:38,000 --> 00:16:41,000
+and supported the product.
+
+309
+00:16:41,000 --> 00:16:44,000
+I didn't have the experience,
+
+310
+00:16:44,000 --> 00:16:47,000
+but I see myself as a scale-up manager.
+
+311
+00:16:47,000 --> 00:16:50,000
+In this scale-up mode,
+
+312
+00:16:50,000 --> 00:16:53,000
+a lot of companies forgot
+
+313
+00:16:53,000 --> 00:16:56,000
+where they are and why they are successful.
+
+314
+00:16:56,000 --> 00:16:59,000
+Do you mean culturally?
+
+315
+00:16:59,000 --> 00:17:02,000
+Culturally, yes.
+
+316
+00:17:02,000 --> 00:17:05,000
+When a company grows,
+
+317
+00:17:05,000 --> 00:17:08,000
+founders have to delegate.
+
+318
+00:17:08,000 --> 00:17:11,000
+They don't ask themselves
+
+319
+00:17:11,000 --> 00:17:14,000
+what made them successful.
+
+320
+00:17:14,000 --> 00:17:17,000
+What are the strong values
+
+321
+00:17:17,000 --> 00:17:20,000
+they lived by in the first year.
+
+322
+00:17:20,000 --> 00:17:23,000
+What do they have to protect from this?
+
+323
+00:17:23,000 --> 00:17:26,000
+Can I ask you this?
+
+324
+00:17:26,000 --> 00:17:29,000
+Our guests before you
+
+325
+00:17:29,000 --> 00:17:32,000
+talked a lot about values.
+
+326
+00:17:32,000 --> 00:17:35,000
+Can you give us a few values
+
+327
+00:17:35,000 --> 00:17:38,000
+that seem very important to you?
+
+328
+00:17:38,000 --> 00:17:41,000
+Give us a few plastic examples.
+
+329
+00:17:41,000 --> 00:17:44,000
+What do you mean by values?
+
+330
+00:17:44,000 --> 00:17:47,000
+Values mean something
+
+331
+00:17:47,000 --> 00:17:50,000
+for the mentality of the company.
+
+332
+00:17:50,000 --> 00:17:53,000
+Let's talk about Outfit7.
+
+333
+00:17:53,000 --> 00:17:56,000
+We thought about it a lot.
+
+334
+00:17:56,000 --> 00:17:59,000
+We brainwashed people.
+
+335
+00:17:59,000 --> 00:18:02,000
+My experience with HMSoftLab is that
+
+336
+00:18:02,000 --> 00:18:05,000
+on the one hand,
+
+337
+00:18:05,000 --> 00:18:08,000
+we are not in the middle.
+
+338
+00:18:08,000 --> 00:18:11,000
+On the other hand,
+
+339
+00:18:11,000 --> 00:18:14,000
+we have a very strict culture in certain areas.
+
+340
+00:18:14,000 --> 00:18:17,000
+In my career,
+
+341
+00:18:17,000 --> 00:18:20,000
+we have a very strong culture.
+
+342
+00:18:20,000 --> 00:18:23,000
+We have a very good teamwork.
+
+343
+00:18:23,000 --> 00:18:26,000
+It was very important for us
+
+344
+00:18:26,000 --> 00:18:29,000
+to work well together.
+
+345
+00:18:29,000 --> 00:18:32,000
+The team is more than just an individual.
+
+346
+00:18:32,000 --> 00:18:35,000
+I didn't realize it until I went out.
+
+347
+00:18:35,000 --> 00:18:38,000
+Because it's a different environment.
+
+348
+00:18:38,000 --> 00:18:41,000
+People who went out
+
+349
+00:18:41,000 --> 00:18:44,000
+have a different attitude.
+
+350
+00:18:44,000 --> 00:18:47,000
+In Outfit7, we had specific tasks
+
+351
+00:18:47,000 --> 00:18:50,000
+that we gave.
+
+352
+00:18:50,000 --> 00:18:53,000
+One of the most important ones was No Limits.
+
+353
+00:18:53,000 --> 00:18:56,000
+It was a thing that said
+
+354
+00:18:56,000 --> 00:18:59,000
+that we shouldn't limit ourselves.
+
+355
+00:18:59,000 --> 00:19:02,000
+We shouldn't limit ourselves in our thinking.
+
+356
+00:19:02,000 --> 00:19:05,000
+Because the possibilities are limitless.
+
+357
+00:19:05,000 --> 00:19:08,000
+What can we do?
+
+358
+00:19:08,000 --> 00:19:11,000
+If you limit yourself in the beginning,
+
+359
+00:19:11,000 --> 00:19:14,000
+your goal becomes low,
+
+360
+00:19:14,000 --> 00:19:17,000
+and then you are satisfied with it.
+
+361
+00:19:17,000 --> 00:19:20,000
+From what I learned,
+
+362
+00:19:20,000 --> 00:19:23,000
+you can always go higher.
+
+363
+00:19:23,000 --> 00:19:26,000
+I can tell you an anecdote.
+
+364
+00:19:26,000 --> 00:19:29,000
+My previous manager always said
+
+365
+00:19:29,000 --> 00:19:32,000
+that he didn't like me because I was too ambitious.
+
+366
+00:19:32,000 --> 00:19:35,000
+I always said, no, you are too ambitious.
+
+367
+00:19:35,000 --> 00:19:38,000
+When you see that someone
+
+368
+00:19:38,000 --> 00:19:41,000
+gives you the opportunity
+
+369
+00:19:41,000 --> 00:19:44,000
+to go one step further...
+
+370
+00:19:44,000 --> 00:19:47,000
+That's not a bad word.
+
+371
+00:19:47,000 --> 00:19:50,000
+You can be unrealistically ambitious
+
+372
+00:19:50,000 --> 00:19:53,000
+and give people unreal goals.
+
+373
+00:19:53,000 --> 00:19:56,000
+You can also disappoint them.
+
+374
+00:19:56,000 --> 00:19:59,000
+Sure, but those goals must be something
+
+375
+00:19:59,000 --> 00:20:02,000
+that you want to achieve.
+
+376
+00:20:02,000 --> 00:20:05,000
+And even if you don't achieve them,
+
+377
+00:20:05,000 --> 00:20:08,000
+you have to ask yourself why.
+
+378
+00:20:08,000 --> 00:20:11,000
+They had to be on the reach.
+
+379
+00:20:11,000 --> 00:20:14,000
+There were failures.
+
+380
+00:20:14,000 --> 00:20:17,000
+But if you don't limit yourself in the beginning,
+
+381
+00:20:17,000 --> 00:20:20,000
+if you don't limit yourself in the beginning,
+
+382
+00:20:20,000 --> 00:20:23,000
+then...
+
+383
+00:20:23,000 --> 00:20:26,000
+For example, we worked on No Limits
+
+384
+00:20:26,000 --> 00:20:29,000
+and two teams appeared on the project.
+
+385
+00:20:30,000 --> 00:20:33,000
+We worked on No Game.
+
+386
+00:20:33,000 --> 00:20:36,000
+It was a team of 20-40 people.
+
+387
+00:20:36,000 --> 00:20:39,000
+Then VFX Artist started to doubt something
+
+388
+00:20:39,000 --> 00:20:42,000
+and started talking to QA Lead.
+
+389
+00:20:42,000 --> 00:20:45,000
+They started to say,
+
+390
+00:20:45,000 --> 00:20:48,000
+if this mechanic still works,
+
+391
+00:20:48,000 --> 00:20:51,000
+and so on.
+
+392
+00:20:51,000 --> 00:20:54,000
+These are doubts, fears.
+
+393
+00:20:54,000 --> 00:20:57,000
+Art comes to you quickly.
+
+394
+00:20:57,000 --> 00:21:00,000
+You have to know if it's worth it to work so hard.
+
+395
+00:21:00,000 --> 00:21:03,000
+And in that moment,
+
+396
+00:21:03,000 --> 00:21:06,000
+we quickly decided to go together
+
+397
+00:21:06,000 --> 00:21:09,000
+and discuss what worries us.
+
+398
+00:21:09,000 --> 00:21:12,000
+Why are these doubts?
+
+399
+00:21:12,000 --> 00:21:15,000
+Why do we think it won't happen?
+
+400
+00:21:15,000 --> 00:21:18,000
+Let's get rid of these fears.
+
+401
+00:21:18,000 --> 00:21:21,000
+Let's see and discuss.
+
+402
+00:21:21,000 --> 00:21:24,000
+This is very natural.
+
+403
+00:21:24,000 --> 00:21:27,000
+We don't limit our ambitions.
+
+404
+00:21:27,000 --> 00:21:30,000
+Can I ask you one more question?
+
+405
+00:21:30,000 --> 00:21:33,000
+I recently talked to some members
+
+406
+00:21:33,000 --> 00:21:36,000
+and they said that we want to...
+
+407
+00:21:36,000 --> 00:21:39,000
+Especially big and older organizations
+
+408
+00:21:39,000 --> 00:21:42,000
+have a hard time with innovations.
+
+409
+00:21:42,000 --> 00:21:45,000
+One of the reasons they called him
+
+410
+00:21:45,000 --> 00:21:48,000
+is because they lost the feeling
+
+411
+00:21:48,000 --> 00:21:51,000
+that you can fail.
+
+412
+00:21:51,000 --> 00:21:54,000
+It has to be in the culture
+
+413
+00:21:54,000 --> 00:21:57,000
+that we will try,
+
+414
+00:21:57,000 --> 00:22:00,000
+and if it doesn't work,
+
+415
+00:22:00,000 --> 00:22:03,000
+we will do something else.
+
+416
+00:22:03,000 --> 00:22:06,000
+Can you tell us how you do it?
+
+417
+00:22:06,000 --> 00:22:09,000
+Failure is acceptable and we will all learn.
+
+418
+00:22:09,000 --> 00:22:12,000
+I had big failures on Outfit.
+
+419
+00:22:12,000 --> 00:22:15,000
+Million-dollar failures.
+
+420
+00:22:15,000 --> 00:22:18,000
+We invested in a new game mechanic,
+
+421
+00:22:18,000 --> 00:22:21,000
+a multiplayer mechanic,
+
+422
+00:22:21,000 --> 00:22:24,000
+a new brand, a big launch,
+
+423
+00:22:24,000 --> 00:22:27,000
+and it just didn't work.
+
+424
+00:22:27,000 --> 00:22:30,000
+For a game that was tested on the internet
+
+425
+00:22:30,000 --> 00:22:33,000
+by 200 people, it showed the best engagement.
+
+426
+00:22:33,000 --> 00:22:36,000
+We haven't had such engagement on any other game.
+
+427
+00:22:36,000 --> 00:22:39,000
+You get a lot of pressure,
+
+428
+00:22:39,000 --> 00:22:42,000
+you get disappointed,
+
+429
+00:22:42,000 --> 00:22:45,000
+because of your own feelings.
+
+430
+00:22:45,000 --> 00:22:48,000
+It's hard if it's a failure.
+
+431
+00:22:48,000 --> 00:22:51,000
+We tried a few more things
+
+432
+00:22:51,000 --> 00:22:54,000
+until we finally trusted the product.
+
+433
+00:22:54,000 --> 00:22:57,000
+It's a big investment,
+
+434
+00:22:57,000 --> 00:23:00,000
+and you can't believe that someone
+
+435
+00:23:00,000 --> 00:23:03,000
+who puts so much energy into it,
+
+436
+00:23:03,000 --> 00:23:06,000
+just doesn't accept it.
+
+437
+00:23:06,000 --> 00:23:09,000
+On the other hand,
+
+438
+00:23:09,000 --> 00:23:12,000
+you put it on the side,
+
+439
+00:23:12,000 --> 00:23:15,000
+because you need to catch up in 2-3 years.
+
+440
+00:23:15,000 --> 00:23:18,000
+That's your survival.
+
+441
+00:23:18,000 --> 00:23:21,000
+If you don't succeed in 2-3 years,
+
+442
+00:23:21,000 --> 00:23:24,000
+how much freedom do you have
+
+443
+00:23:24,000 --> 00:23:27,000
+to maintain your competitiveness?
+
+444
+00:23:27,000 --> 00:23:30,000
+It's like content creation.
+
+445
+00:23:30,000 --> 00:23:33,000
+If every episode was like nothing,
+
+446
+00:23:33,000 --> 00:23:36,000
+I don't know where we would be.
+
+447
+00:23:36,000 --> 00:23:39,000
+Before we talked about some values,
+
+448
+00:23:39,000 --> 00:23:42,000
+I always wondered,
+
+449
+00:23:42,000 --> 00:23:45,000
+I think that my circle of people
+
+450
+00:23:45,000 --> 00:23:48,000
+and acquaintances,
+
+451
+00:23:48,000 --> 00:23:51,000
+we're all technical perfectionists.
+
+452
+00:23:51,000 --> 00:23:54,000
+We're real, we work on the market,
+
+453
+00:23:54,000 --> 00:23:57,000
+we're not academics,
+
+454
+00:23:57,000 --> 00:24:00,000
+we still have to work,
+
+455
+00:24:00,000 --> 00:24:03,000
+but technical expertise is important to us.
+
+456
+00:24:03,000 --> 00:24:06,000
+You meet people in your career,
+
+457
+00:24:06,000 --> 00:24:09,000
+and they say,
+
+458
+00:24:09,000 --> 00:24:12,000
+it's good that you have all that knowledge,
+
+459
+00:24:12,000 --> 00:24:15,000
+but try to be as scrappy as possible.
+
+460
+00:24:15,000 --> 00:24:18,000
+It's not 100% good,
+
+461
+00:24:18,000 --> 00:24:21,000
+because perfectionists can't be better.
+
+462
+00:24:21,000 --> 00:24:24,000
+80% is something I would do,
+
+463
+00:24:24,000 --> 00:24:27,000
+and you say, let's do this.
+
+464
+00:24:27,000 --> 00:24:30,000
+Then there are some values,
+
+465
+00:24:30,000 --> 00:24:33,000
+which are more scrappy,
+
+466
+00:24:33,000 --> 00:24:36,000
+but if it doesn't work,
+
+467
+00:24:36,000 --> 00:24:39,000
+how do you look at it?
+
+468
+00:24:39,000 --> 00:24:42,000
+I think that most start-ups
+
+469
+00:24:42,000 --> 00:24:45,000
+are in a scrappy mode.
+
+470
+00:24:45,000 --> 00:24:48,000
+The faster you can get to a prototype,
+
+471
+00:24:48,000 --> 00:24:51,000
+MVP or whatever,
+
+472
+00:24:51,000 --> 00:24:54,000
+and get some confirmation,
+
+473
+00:24:54,000 --> 00:24:57,000
+some feedback,
+
+474
+00:24:57,000 --> 00:25:00,000
+so I was in the same situation.
+
+475
+00:25:00,000 --> 00:25:13,600
+In the beginning, I was thinking about another abstraction layer, just in case, if I were to change the base or something like that.
+
+476
+00:25:13,600 --> 00:25:19,440
+Then I learned a lot that this would only complicate refactoring in the future.
+
+477
+00:25:19,440 --> 00:25:25,920
+It would be much easier to change the base and everything around it.
+
+478
+00:25:26,000 --> 00:25:28,000
+I was very pragmatic about it.
+
+479
+00:25:28,000 --> 00:25:35,040
+Outfit culture itself was completely scrappy from that point of view.
+
+480
+00:25:35,040 --> 00:25:40,000
+He is responsible, quick and dirty, make it work.
+
+481
+00:25:40,000 --> 00:25:46,480
+We will fix it when we succeed, we will fix it on a certain level.
+
+482
+00:25:46,480 --> 00:25:49,759
+Is it the same when you mentioned scale-up?
+
+483
+00:25:50,080 --> 00:25:54,560
+Does that mean that when you get to the phase where you realize that you are interested,
+
+484
+00:25:54,560 --> 00:25:56,560
+is it then the time to go in that direction?
+
+485
+00:25:56,560 --> 00:25:59,439
+Yes, I think that's how he called me.
+
+486
+00:25:59,439 --> 00:26:05,120
+When he was alone, we knew each other from high school, because he was still in elementary school.
+
+487
+00:26:05,120 --> 00:26:07,839
+But when he was 15 years old, I didn't have any contact with him.
+
+488
+00:26:07,839 --> 00:26:14,239
+Then he pinged me on e-mail, I would like to scale-up a company, etc.
+
+489
+00:26:14,239 --> 00:26:18,559
+Would you like to come and take over as a VP of Engineering Technologies?
+
+490
+00:26:18,959 --> 00:26:20,959
+I said to him, I'm not interested.
+
+491
+00:26:20,959 --> 00:26:22,959
+I said, I'm really into software.
+
+492
+00:26:22,959 --> 00:26:27,199
+I did backup recovery systems, archiving and so on.
+
+493
+00:26:27,199 --> 00:26:29,199
+What are you, a cat?
+
+494
+00:26:29,199 --> 00:26:31,199
+First of all, I never played games.
+
+495
+00:26:31,199 --> 00:26:33,199
+Me neither.
+
+496
+00:26:33,199 --> 00:26:35,199
+I've never been in that space.
+
+497
+00:26:35,199 --> 00:26:37,199
+I'm just a meme.
+
+498
+00:26:37,199 --> 00:26:39,199
+But I said, let's listen to each other.
+
+499
+00:26:39,199 --> 00:26:41,199
+I'm just interested in the whole story and so on.
+
+500
+00:26:41,199 --> 00:26:45,760
+But he just presented the story to me again.
+
+501
+00:26:45,760 --> 00:26:47,760
+The problem is that he has it.
+
+502
+00:26:47,760 --> 00:26:49,760
+The company will now have to grow.
+
+503
+00:26:49,760 --> 00:26:51,760
+We have to do it at the next level.
+
+504
+00:26:51,760 --> 00:26:53,760
+He needs someone who has international experience.
+
+505
+00:26:53,760 --> 00:26:55,760
+He has experience in building teams.
+
+506
+00:26:55,760 --> 00:26:57,760
+When I came, there were 10 people.
+
+507
+00:26:57,760 --> 00:27:05,760
+Founders, two animation students, an office manager and so on.
+
+508
+00:27:05,760 --> 00:27:07,760
+A very small team.
+
+509
+00:27:07,760 --> 00:27:09,759
+We knew how to sell.
+
+510
+00:27:09,759 --> 00:27:11,759
+We knew how to sell the story.
+
+511
+00:27:11,759 --> 00:27:13,759
+For example, Google App Engine sales.
+
+512
+00:27:13,759 --> 00:27:15,759
+We had it on the back-end.
+
+513
+00:27:15,759 --> 00:27:17,759
+It was so well released.
+
+514
+00:27:17,759 --> 00:27:19,759
+He made a stream for the game again.
+
+515
+00:27:19,759 --> 00:27:21,759
+It was interesting for me.
+
+516
+00:27:21,759 --> 00:27:23,759
+To see such a project.
+
+517
+00:27:23,759 --> 00:27:25,759
+To go a little further.
+
+518
+00:27:25,759 --> 00:27:27,759
+Actually, I fell on the back-end.
+
+519
+00:27:27,759 --> 00:27:29,759
+In the final phase.
+
+520
+00:27:29,759 --> 00:27:31,759
+In that story.
+
+521
+00:27:31,759 --> 00:27:33,759
+And to go back to international.
+
+522
+00:27:33,759 --> 00:27:37,759
+I was on some projects that did not develop so quickly.
+
+523
+00:27:37,759 --> 00:27:39,759
+And I regret it a little.
+
+524
+00:27:43,759 --> 00:27:45,759
+Will you ask any more questions?
+
+525
+00:27:47,759 --> 00:27:51,759
+Or try to get more investment in the world?
+
+526
+00:27:51,759 --> 00:27:53,759
+Yes.
+
+527
+00:27:55,759 --> 00:27:57,759
+I would like to move on.
+
+528
+00:27:57,759 --> 00:27:59,759
+Because
+
+529
+00:27:59,759 --> 00:28:01,759
+These things are all very interesting.
+
+530
+00:28:01,759 --> 00:28:03,759
+Because of our sponsors.
+
+531
+00:28:03,759 --> 00:28:05,759
+Because they are our contemporaries.
+
+532
+00:28:05,759 --> 00:28:07,759
+I would like to be younger.
+
+533
+00:28:07,759 --> 00:28:09,759
+This is definitely very interesting to me.
+
+534
+00:28:13,759 --> 00:28:15,759
+Time is limited.
+
+535
+00:28:19,759 --> 00:28:21,759
+We will try to connect everything somehow.
+
+536
+00:28:23,759 --> 00:28:27,759
+Try to tell us a little more.
+
+537
+00:28:27,759 --> 00:28:31,759
+What does the other part of your description do?
+
+538
+00:28:31,759 --> 00:28:33,759
+Coaching investor.
+
+539
+00:28:33,759 --> 00:28:35,759
+Can you tell us
+
+540
+00:28:35,759 --> 00:28:37,759
+For laymen.
+
+541
+00:28:37,759 --> 00:28:39,759
+For beginners.
+
+542
+00:28:39,759 --> 00:28:41,759
+So that we all understand.
+
+543
+00:28:41,759 --> 00:28:43,759
+What is this discipline?
+
+544
+00:28:43,759 --> 00:28:45,759
+What is this investment?
+
+545
+00:28:47,759 --> 00:28:49,759
+What are we investing in?
+
+546
+00:28:49,759 --> 00:28:51,759
+When you make an exit.
+
+547
+00:28:51,759 --> 00:28:53,759
+Slovenia is already
+
+548
+00:28:53,759 --> 00:28:55,759
+Some IT firm.
+
+549
+00:28:55,759 --> 00:28:57,759
+Made exits.
+
+550
+00:28:57,759 --> 00:28:59,759
+Sizable exits.
+
+551
+00:28:59,759 --> 00:29:01,759
+One thing.
+
+552
+00:29:01,759 --> 00:29:03,759
+That was probably it.
+
+553
+00:29:03,759 --> 00:29:05,759
+That I actually had some money.
+
+554
+00:29:05,759 --> 00:29:07,759
+That I got with the exit.
+
+555
+00:29:07,759 --> 00:29:09,759
+With which I did not deal.
+
+556
+00:29:09,759 --> 00:29:11,759
+I was lying on the account and I did not know what.
+
+557
+00:29:11,759 --> 00:29:13,759
+What.
+
+558
+00:29:13,759 --> 00:29:15,759
+Now a little gambling.
+
+559
+00:29:15,759 --> 00:29:17,760
+Then bitcoin.
+
+560
+00:29:19,760 --> 00:29:21,760
+I did not deal with it.
+
+561
+00:29:21,760 --> 00:29:23,760
+I did not want to trust it.
+
+562
+00:29:23,760 --> 00:29:25,760
+I needed an exit from the company.
+
+563
+00:29:25,760 --> 00:29:27,760
+Also because I started to understand.
+
+564
+00:29:27,760 --> 00:29:29,760
+What do I want to do with it.
+
+565
+00:29:29,760 --> 00:29:31,760
+So part of the investment.
+
+566
+00:29:31,760 --> 00:29:33,760
+For me is also that.
+
+567
+00:29:33,760 --> 00:29:35,760
+The funds I made there.
+
+568
+00:29:35,760 --> 00:29:37,760
+I incorporate them.
+
+569
+00:29:37,760 --> 00:29:39,760
+I invest them in some projects that I think are important.
+
+570
+00:29:39,760 --> 00:29:41,760
+I support some projects that are important.
+
+571
+00:29:41,760 --> 00:29:43,760
+And in the final phase.
+
+572
+00:29:43,760 --> 00:29:45,760
+I also protect them to some extent.
+
+573
+00:29:45,760 --> 00:29:47,760
+I do not lose them.
+
+574
+00:29:47,760 --> 00:29:49,760
+I assume that looking at your background.
+
+575
+00:29:49,760 --> 00:29:51,760
+You also understand them well.
+
+576
+00:29:51,760 --> 00:29:53,760
+All right.
+
+577
+00:29:53,760 --> 00:29:55,760
+I do not.
+
+578
+00:29:55,760 --> 00:29:57,760
+My investment is not something that is very close to me.
+
+579
+00:29:57,760 --> 00:29:59,760
+I have to say.
+
+580
+00:29:59,760 --> 00:30:01,760
+I was also in the investment committee.
+
+581
+00:30:01,760 --> 00:30:03,760
+Maybe a devil's advocate.
+
+582
+00:30:03,760 --> 00:30:05,760
+Someone who challenges for devs.
+
+583
+00:30:05,760 --> 00:30:07,760
+I could not get the most hype.
+
+584
+00:30:07,760 --> 00:30:09,760
+I could not know.
+
+585
+00:30:09,760 --> 00:30:11,760
+What is the next trend.
+
+586
+00:30:11,760 --> 00:30:13,760
+Maybe.
+
+587
+00:30:13,760 --> 00:30:15,760
+I have seen some feelings.
+
+588
+00:30:15,760 --> 00:30:17,760
+I know very well about the team.
+
+589
+00:30:17,760 --> 00:30:19,760
+I know well.
+
+590
+00:30:19,760 --> 00:30:21,760
+Will the team work together?
+
+591
+00:30:21,760 --> 00:30:23,760
+Is it complementary?
+
+592
+00:30:23,760 --> 00:30:25,760
+Do we have the right energy?
+
+593
+00:30:25,760 --> 00:30:27,760
+I know that.
+
+594
+00:30:27,760 --> 00:30:29,760
+I think it is a good assessment.
+
+595
+00:30:29,760 --> 00:30:31,760
+I often look at it.
+
+596
+00:30:31,760 --> 00:30:33,760
+The Silicon Garden is a company.
+
+597
+00:30:33,760 --> 00:30:35,760
+We are founders.
+
+598
+00:30:35,760 --> 00:30:37,760
+We made exits.
+
+599
+00:30:37,760 --> 00:30:39,760
+People we worked with.
+
+600
+00:30:39,760 --> 00:30:41,760
+When we got some capital.
+
+601
+00:30:41,760 --> 00:30:43,760
+We collected together.
+
+602
+00:30:43,760 --> 00:30:45,760
+Approximately 6 million funds.
+
+603
+00:30:45,760 --> 00:30:47,760
+From 25 individuals.
+
+604
+00:30:49,760 --> 00:30:51,760
+We started to invest ourselves.
+
+605
+00:30:51,760 --> 00:30:53,760
+Not everyone works alone.
+
+606
+00:30:53,760 --> 00:30:55,760
+We distributed the funds.
+
+607
+00:30:55,760 --> 00:30:57,760
+We set up a structure.
+
+608
+00:30:57,760 --> 00:30:59,760
+We started to invest in the Slovenian community.
+
+609
+00:30:59,760 --> 00:31:01,760
+From our networks.
+
+610
+00:31:01,760 --> 00:31:03,760
+Slovenians are also auto-innovators.
+
+611
+00:31:03,760 --> 00:31:05,760
+We have networks with them.
+
+612
+00:31:05,760 --> 00:31:07,760
+And so on.
+
+613
+00:31:07,760 --> 00:31:09,760
+To be healthy.
+
+614
+00:31:09,760 --> 00:31:11,760
+On the one hand,
+
+615
+00:31:11,760 --> 00:31:13,760
+it gave me a sense of what is happening.
+
+616
+00:31:13,760 --> 00:31:15,760
+I am not in technology anymore.
+
+617
+00:31:15,760 --> 00:31:17,760
+It gives me a lot.
+
+618
+00:31:19,760 --> 00:31:21,760
+On the other hand,
+
+619
+00:31:21,760 --> 00:31:23,760
+I think that
+
+620
+00:31:23,760 --> 00:31:25,760
+we should try to help.
+
+621
+00:31:25,760 --> 00:31:27,760
+And in the end,
+
+622
+00:31:27,760 --> 00:31:29,760
+we hope to make some good exits.
+
+623
+00:31:29,760 --> 00:31:31,760
+Some good stories.
+
+624
+00:31:31,760 --> 00:31:33,760
+Some next outfits.
+
+625
+00:31:33,760 --> 00:31:35,760
+And in the end,
+
+626
+00:31:35,760 --> 00:31:37,760
+we deserve it.
+
+627
+00:31:37,760 --> 00:31:39,760
+The idea is to have a good return.
+
+628
+00:31:41,760 --> 00:31:43,760
+My question is
+
+629
+00:31:43,760 --> 00:31:45,760
+about
+
+630
+00:31:47,760 --> 00:31:49,760
+the investment
+
+631
+00:31:49,760 --> 00:31:51,760
+in Silicon Gardens.
+
+632
+00:31:53,760 --> 00:31:55,760
+At what stage
+
+633
+00:31:55,760 --> 00:31:57,760
+does Silicon Gardens help companies?
+
+634
+00:31:57,760 --> 00:31:59,760
+Can you briefly tell us
+
+635
+00:31:59,760 --> 00:32:01,760
+what are the rounds of investment?
+
+636
+00:32:01,760 --> 00:32:03,760
+I think a lot of people don't understand
+
+637
+00:32:03,760 --> 00:32:05,760
+how it works.
+
+638
+00:32:05,760 --> 00:32:07,760
+It's an exit.
+
+639
+00:32:07,760 --> 00:32:09,760
+It doesn't mean you run away from the company.
+
+640
+00:32:09,760 --> 00:32:11,760
+You can explain the terminology.
+
+641
+00:32:13,760 --> 00:32:15,760
+I'm not the best at explaining it.
+
+642
+00:32:15,760 --> 00:32:17,760
+Basically,
+
+643
+00:32:17,760 --> 00:32:19,760
+it's like this.
+
+644
+00:32:19,760 --> 00:32:21,760
+You can create a startup,
+
+645
+00:32:21,760 --> 00:32:23,760
+and you invest
+
+646
+00:32:23,760 --> 00:32:25,760
+on your own.
+
+647
+00:32:25,760 --> 00:32:27,760
+You come to your funds on your own.
+
+648
+00:32:27,760 --> 00:32:29,760
+So, I would eat some money,
+
+649
+00:32:29,760 --> 00:32:31,760
+and then...
+
+650
+00:32:31,760 --> 00:32:33,760
+Outfit7 was created
+
+651
+00:32:33,760 --> 00:32:35,760
+without any capital.
+
+652
+00:32:35,760 --> 00:32:37,760
+It's a company
+
+653
+00:32:37,760 --> 00:32:39,760
+that came to its first hit
+
+654
+00:32:39,760 --> 00:32:41,760
+with its own funds.
+
+655
+00:32:41,760 --> 00:32:43,760
+It's a company
+
+656
+00:32:43,760 --> 00:32:45,760
+that came to its first hit
+
+657
+00:32:45,760 --> 00:32:47,760
+with its own funds.
+
+658
+00:32:47,760 --> 00:32:49,760
+From that point of view,
+
+659
+00:32:49,760 --> 00:32:51,760
+it's an ideal outcome.
+
+660
+00:32:51,760 --> 00:32:53,760
+You create a business
+
+661
+00:32:53,760 --> 00:32:55,760
+that has a side.
+
+662
+00:32:55,760 --> 00:32:57,760
+It's on the market.
+
+663
+00:32:57,760 --> 00:32:59,760
+It has a healthy growth
+
+664
+00:32:59,760 --> 00:33:01,760
+in the background.
+
+665
+00:33:01,760 --> 00:33:03,760
+You don't need
+
+666
+00:33:03,760 --> 00:33:05,760
+daily capital.
+
+667
+00:33:05,760 --> 00:33:07,760
+Not everyone is in that position.
+
+668
+00:33:07,760 --> 00:33:09,760
+Not everyone has 300 euros
+
+669
+00:33:09,760 --> 00:33:11,760
+to finance half a year,
+
+670
+00:33:11,760 --> 00:33:13,760
+or a couple of friends
+
+671
+00:33:13,760 --> 00:33:15,760
+to do it.
+
+672
+00:33:15,760 --> 00:33:17,760
+In that case,
+
+673
+00:33:17,760 --> 00:33:19,760
+you need
+
+674
+00:33:19,760 --> 00:33:21,760
+family, friends, and fools.
+
+675
+00:33:21,760 --> 00:33:23,760
+They are probably the first ones.
+
+676
+00:33:23,760 --> 00:33:25,760
+Friends, family,
+
+677
+00:33:25,760 --> 00:33:27,760
+or something
+
+678
+00:33:27,760 --> 00:33:29,760
+like that.
+
+679
+00:33:29,760 --> 00:33:31,760
+Something from NASA
+
+680
+00:33:31,760 --> 00:33:33,760
+for such a gamble.
+
+681
+00:33:33,760 --> 00:33:35,760
+You need to invest them.
+
+682
+00:33:35,760 --> 00:33:37,760
+They believe in your idea,
+
+683
+00:33:37,760 --> 00:33:39,760
+and they give you money
+
+684
+00:33:39,760 --> 00:33:41,760
+to do something for them.
+
+685
+00:33:41,760 --> 00:33:43,760
+That's the angel round.
+
+686
+00:33:43,760 --> 00:33:45,760
+They come in healthy.
+
+687
+00:33:45,760 --> 00:33:47,760
+If it's 10 euros,
+
+688
+00:33:47,760 --> 00:33:49,760
+if it's 50,
+
+689
+00:33:49,760 --> 00:33:51,760
+I don't know.
+
+690
+00:33:51,760 --> 00:33:53,760
+Then there are
+
+691
+00:33:53,760 --> 00:33:55,760
+Silicon Gardens
+
+692
+00:33:55,760 --> 00:33:57,760
+that are early stage.
+
+693
+00:33:57,760 --> 00:33:59,760
+Early stage means
+
+694
+00:33:59,760 --> 00:34:01,760
+that they are startups
+
+695
+00:34:01,760 --> 00:34:03,760
+that don't have a product yet.
+
+696
+00:34:03,760 --> 00:34:05,760
+They may have a prototype,
+
+697
+00:34:05,760 --> 00:34:07,760
+an idea.
+
+698
+00:34:07,760 --> 00:34:09,760
+We invest in people
+
+699
+00:34:09,760 --> 00:34:11,760
+that we believe have potential.
+
+700
+00:34:11,760 --> 00:34:13,760
+Whether the idea is good,
+
+701
+00:34:13,760 --> 00:34:15,760
+whether the team is good,
+
+702
+00:34:15,760 --> 00:34:17,760
+whether the founders have a drive
+
+703
+00:34:17,760 --> 00:34:19,760
+and are strong enough
+
+704
+00:34:19,760 --> 00:34:21,760
+to believe in that story.
+
+705
+00:34:21,760 --> 00:34:23,760
+Whether we know them well,
+
+706
+00:34:23,760 --> 00:34:25,760
+because they are former employees
+
+707
+00:34:25,760 --> 00:34:27,760
+of our networks,
+
+708
+00:34:27,760 --> 00:34:29,760
+and we know exactly what
+
+709
+00:34:29,760 --> 00:34:31,760
+these people are capable of.
+
+710
+00:34:31,760 --> 00:34:33,760
+You want to support them.
+
+711
+00:34:33,760 --> 00:34:35,760
+It's like a lottery ticket
+
+712
+00:34:35,760 --> 00:34:37,760
+and you simply give them money.
+
+713
+00:34:37,760 --> 00:34:39,760
+We at Silicon Gardens
+
+714
+00:34:39,760 --> 00:34:41,760
+invest in startups
+
+715
+00:34:41,760 --> 00:34:43,760
+from 100,000 euros
+
+716
+00:34:43,760 --> 00:34:45,760
+to half a million.
+
+717
+00:34:45,760 --> 00:34:47,760
+We let them invest in one startup
+
+718
+00:34:47,760 --> 00:34:49,760
+for half a million.
+
+719
+00:34:49,760 --> 00:34:51,760
+We have distributed 6 million funds
+
+720
+00:34:51,760 --> 00:34:53,760
+over 5 years.
+
+721
+00:34:53,760 --> 00:34:55,760
+We are going into the last year
+
+722
+00:34:55,760 --> 00:34:57,760
+and we are preparing a new stock.
+
+723
+00:34:57,760 --> 00:34:59,760
+We are planning a 30 million stock
+
+724
+00:34:59,760 --> 00:35:01,760
+and we will focus
+
+725
+00:35:01,760 --> 00:35:03,760
+on the wider region.
+
+726
+00:35:03,760 --> 00:35:05,760
+Founders and investors
+
+727
+00:35:05,760 --> 00:35:07,760
+from Croatia and Serbia
+
+728
+00:35:07,760 --> 00:35:09,760
+would invest in us.
+
+729
+00:35:09,760 --> 00:35:11,760
+We want to expand our network.
+
+730
+00:35:11,760 --> 00:35:13,760
+But in the same style.
+
+731
+00:35:13,760 --> 00:35:15,760
+Founders for founders.
+
+732
+00:35:15,760 --> 00:35:17,760
+We believe
+
+733
+00:35:17,760 --> 00:35:19,760
+that we as founders,
+
+734
+00:35:19,760 --> 00:35:21,760
+managers and successful startups
+
+735
+00:35:21,760 --> 00:35:23,760
+can help the world
+
+736
+00:35:23,760 --> 00:35:25,760
+and feed ourselves.
+
+737
+00:35:25,760 --> 00:35:27,760
+I have to ask you
+
+738
+00:35:27,760 --> 00:35:29,760
+specifically
+
+739
+00:35:29,760 --> 00:35:31,760
+about the audience.
+
+740
+00:35:31,760 --> 00:35:33,760
+About the audience.
+
+741
+00:35:33,760 --> 00:35:35,760
+Easy, you got it wrong.
+
+742
+00:35:35,760 --> 00:35:37,760
+You are our fan
+
+743
+00:35:37,760 --> 00:35:39,760
+so you probably listened to everything.
+
+744
+00:35:39,760 --> 00:35:41,760
+My question is
+
+745
+00:35:41,760 --> 00:35:43,760
+what kind of money
+
+746
+00:35:43,760 --> 00:35:45,760
+do you transfer
+
+747
+00:35:45,760 --> 00:35:47,760
+to the company
+
+748
+00:35:47,760 --> 00:35:49,760
+you invest in?
+
+749
+00:35:49,760 --> 00:35:51,760
+The most
+
+750
+00:35:51,760 --> 00:35:53,760
+is that we can
+
+751
+00:35:53,760 --> 00:35:55,760
+help them.
+
+752
+00:35:55,760 --> 00:35:57,760
+We have different
+
+753
+00:35:57,760 --> 00:35:59,760
+profiles of people
+
+754
+00:35:59,760 --> 00:36:01,760
+who can help.
+
+755
+00:36:01,760 --> 00:36:03,760
+We have people who are
+
+756
+00:36:03,760 --> 00:36:05,760
+really good at
+
+757
+00:36:05,760 --> 00:36:07,760
+marketing, e-commerce
+
+758
+00:36:07,760 --> 00:36:09,760
+and so on.
+
+759
+00:36:09,760 --> 00:36:11,760
+App development
+
+760
+00:36:11,760 --> 00:36:13,760
+and on the other hand
+
+761
+00:36:13,760 --> 00:36:15,760
+distribution,
+
+762
+00:36:15,760 --> 00:36:17,760
+and so on.
+
+763
+00:36:17,760 --> 00:36:19,760
+We can help founders.
+
+764
+00:36:19,760 --> 00:36:21,760
+Can I
+
+765
+00:36:21,760 --> 00:36:23,760
+ask you
+
+766
+00:36:23,760 --> 00:36:25,760
+one more thing.
+
+767
+00:36:25,760 --> 00:36:27,760
+Do you get
+
+768
+00:36:27,760 --> 00:36:29,760
+paid?
+
+769
+00:36:29,760 --> 00:36:31,760
+Yes.
+
+770
+00:36:31,760 --> 00:36:33,760
+Does that mean you add
+
+771
+00:36:33,760 --> 00:36:35,760
+someone for the job?
+
+772
+00:36:35,760 --> 00:36:37,760
+No, founders are
+
+773
+00:36:37,760 --> 00:36:39,760
+like a supervisory board.
+
+774
+00:36:39,760 --> 00:36:41,760
+It's more like an advisory board.
+
+775
+00:36:41,760 --> 00:36:43,760
+It's someone who prepares
+
+776
+00:36:43,760 --> 00:36:45,760
+the company.
+
+777
+00:36:45,760 --> 00:36:47,760
+There is always someone
+
+778
+00:36:47,760 --> 00:36:49,760
+in charge
+
+779
+00:36:49,760 --> 00:36:51,760
+for every startup.
+
+780
+00:36:51,760 --> 00:36:53,760
+He prepares the startup.
+
+781
+00:36:53,760 --> 00:36:55,760
+And then that person
+
+782
+00:36:55,760 --> 00:36:57,760
+calls other investors.
+
+783
+00:36:57,760 --> 00:36:59,760
+Not only those who work
+
+784
+00:36:59,760 --> 00:37:01,760
+in the investment committee.
+
+785
+00:37:01,760 --> 00:37:03,760
+Can you,
+
+786
+00:37:03,760 --> 00:37:05,760
+when you have experience
+
+787
+00:37:05,760 --> 00:37:07,760
+in aerospace and so on,
+
+788
+00:37:07,760 --> 00:37:09,760
+can you connect with him
+
+789
+00:37:09,760 --> 00:37:11,760
+and so on.
+
+790
+00:37:11,760 --> 00:37:13,760
+Also the network
+
+791
+00:37:13,760 --> 00:37:15,760
+is extremely powerful.
+
+792
+00:37:15,760 --> 00:37:17,760
+Also the experience.
+
+793
+00:37:19,760 --> 00:37:21,760
+Jugoslav Petković
+
+794
+00:37:21,760 --> 00:37:23,760
+who went through the investment rounds
+
+795
+00:37:23,760 --> 00:37:25,760
+with TUI Miskladi or
+
+796
+00:37:25,760 --> 00:37:27,760
+Manta or Outbrain.
+
+797
+00:37:27,760 --> 00:37:29,760
+They have experience
+
+798
+00:37:29,760 --> 00:37:31,760
+with TUI Miskladi
+
+799
+00:37:31,760 --> 00:37:33,760
+and how to prepare for the next round.
+
+800
+00:37:33,760 --> 00:37:35,760
+So you need
+
+801
+00:37:35,760 --> 00:37:37,760
+a million-dollar investment
+
+802
+00:37:37,760 --> 00:37:39,760
+instead of 100,000 euros.
+
+803
+00:37:39,760 --> 00:37:41,760
+If we take
+
+804
+00:37:41,760 --> 00:37:43,760
+I am
+
+805
+00:37:43,760 --> 00:37:45,760
+an ambitious, full eager
+
+806
+00:37:45,760 --> 00:37:47,760
+person or I have a small
+
+807
+00:37:47,760 --> 00:37:49,760
+team.
+
+808
+00:37:49,760 --> 00:37:51,760
+Maybe we already have a product.
+
+809
+00:37:51,760 --> 00:37:53,760
+Maybe we put it on the market,
+
+810
+00:37:53,760 --> 00:37:55,760
+we didn't put it on the market.
+
+811
+00:37:55,760 --> 00:37:57,760
+For example, let's say we are chosen.
+
+812
+00:37:57,760 --> 00:37:59,760
+From 100,000 to
+
+813
+00:37:59,760 --> 00:38:01,760
+500,000 euros,
+
+814
+00:38:01,760 --> 00:38:03,760
+we often get 5,000,
+
+815
+00:38:03,760 --> 00:38:05,760
+if I understand correctly.
+
+816
+00:38:05,760 --> 00:38:07,760
+It covers the fact that
+
+817
+00:38:07,760 --> 00:38:09,760
+you can
+
+818
+00:38:09,760 --> 00:38:11,760
+hire the right person,
+
+819
+00:38:11,760 --> 00:38:13,760
+because we are running out of time.
+
+820
+00:38:13,760 --> 00:38:15,760
+We put it aside and
+
+821
+00:38:15,760 --> 00:38:17,760
+try to move it to a new phase.
+
+822
+00:38:17,760 --> 00:38:19,760
+For example,
+
+823
+00:38:19,760 --> 00:38:21,760
+in the next phase
+
+824
+00:38:21,760 --> 00:38:23,760
+we won't be able to
+
+825
+00:38:23,760 --> 00:38:25,760
+exit yet,
+
+826
+00:38:25,760 --> 00:38:27,760
+but we can get
+
+827
+00:38:27,760 --> 00:38:29,760
+the next round of investment.
+
+828
+00:38:29,760 --> 00:38:31,760
+Yes, that's right.
+
+829
+00:38:31,760 --> 00:38:33,760
+When you
+
+830
+00:38:33,760 --> 00:38:35,760
+put the stocks in,
+
+831
+00:38:35,760 --> 00:38:37,760
+the stocks need to be
+
+832
+00:38:37,760 --> 00:38:39,760
+installed with a timer.
+
+833
+00:38:39,760 --> 00:38:41,760
+That needs to be done.
+
+834
+00:38:41,760 --> 00:38:43,760
+That's a good question.
+
+835
+00:38:43,760 --> 00:38:45,760
+Why are there versions 1, 2, 3?
+
+836
+00:38:45,760 --> 00:38:47,760
+Investors who
+
+837
+00:38:47,760 --> 00:38:49,760
+have entered the stock market
+
+838
+00:38:49,760 --> 00:38:51,760
+have entered into some conditions.
+
+839
+00:38:51,760 --> 00:38:53,760
+These conditions are
+
+840
+00:38:53,760 --> 00:38:55,760
+that the stock will receive
+
+841
+00:38:55,760 --> 00:38:57,760
+the capital from investors,
+
+842
+00:38:57,760 --> 00:38:59,760
+which will be paid
+
+843
+00:38:59,760 --> 00:39:01,760
+in 5 years, in some tranches.
+
+844
+00:39:01,760 --> 00:39:03,760
+This is when the stock
+
+845
+00:39:03,760 --> 00:39:05,760
+needs money,
+
+846
+00:39:05,760 --> 00:39:07,760
+or a year in advance.
+
+847
+00:39:07,760 --> 00:39:09,760
+Let's say
+
+848
+00:39:09,760 --> 00:39:11,760
+the stock
+
+849
+00:39:11,760 --> 00:39:13,760
+in Silicon Gardens 2
+
+850
+00:39:13,760 --> 00:39:15,760
+is installed with a timer
+
+851
+00:39:15,760 --> 00:39:17,760
+for 5 years of investment,
+
+852
+00:39:17,760 --> 00:39:19,760
+5 years of exit
+
+853
+00:39:19,760 --> 00:39:21,760
+or monetization,
+
+854
+00:39:21,760 --> 00:39:23,760
+plus 2 years
+
+855
+00:39:23,760 --> 00:39:25,760
+of extension
+
+856
+00:39:25,760 --> 00:39:27,760
+for start-ups with additional potential,
+
+857
+00:39:27,760 --> 00:39:29,760
+or are just about to exit,
+
+858
+00:39:29,760 --> 00:39:31,760
+and it would be worth waiting.
+
+859
+00:39:31,760 --> 00:39:33,760
+What does this mean in practice?
+
+860
+00:39:33,760 --> 00:39:35,760
+If you have
+
+861
+00:39:35,760 --> 00:39:37,760
+investors inside,
+
+862
+00:39:37,760 --> 00:39:39,760
+if you have
+
+863
+00:39:39,760 --> 00:39:41,760
+friends, family and fools,
+
+864
+00:39:41,760 --> 00:39:43,760
+they probably won't expect
+
+865
+00:39:43,760 --> 00:39:45,760
+to get their money back in 10 years.
+
+866
+00:39:45,760 --> 00:39:47,760
+Mom will probably be happy
+
+867
+00:39:47,760 --> 00:39:49,760
+to have a job.
+
+868
+00:39:49,760 --> 00:39:51,760
+And she will be worried
+
+869
+00:39:51,760 --> 00:39:53,760
+about those 10 euros.
+
+870
+00:39:53,760 --> 00:39:55,760
+If you have
+
+871
+00:39:55,760 --> 00:39:57,760
+investors inside,
+
+872
+00:39:57,760 --> 00:39:59,760
+they are there
+
+873
+00:39:59,760 --> 00:40:01,760
+to have a financial outcome.
+
+874
+00:40:01,760 --> 00:40:03,760
+This is why
+
+875
+00:40:03,760 --> 00:40:05,760
+they will encourage you
+
+876
+00:40:05,760 --> 00:40:07,760
+to stay in the market
+
+877
+00:40:07,760 --> 00:40:09,760
+as long as possible.
+
+878
+00:40:09,760 --> 00:40:11,760
+Ideally,
+
+879
+00:40:11,760 --> 00:40:13,760
+with the first investment,
+
+880
+00:40:13,760 --> 00:40:15,760
+you are successful.
+
+881
+00:40:15,760 --> 00:40:17,760
+How successful can you be
+
+882
+00:40:17,760 --> 00:40:19,760
+if you are just struggling?
+
+883
+00:40:19,760 --> 00:40:21,760
+Maybe one round is enough
+
+884
+00:40:21,760 --> 00:40:23,760
+to make you successful in the market.
+
+885
+00:40:23,760 --> 00:40:25,760
+You start to have some income.
+
+886
+00:40:25,760 --> 00:40:27,760
+Maybe you can finance it
+
+887
+00:40:27,760 --> 00:40:29,760
+with a small loan.
+
+888
+00:40:29,760 --> 00:40:31,760
+Maybe it's easier
+
+889
+00:40:31,760 --> 00:40:33,760
+to look for investors
+
+890
+00:40:33,760 --> 00:40:35,760
+for the next round.
+
+891
+00:40:35,760 --> 00:40:37,760
+What does it mean to be a successful investor?
+
+892
+00:40:37,760 --> 00:40:39,760
+Do you sell the company
+
+893
+00:40:39,760 --> 00:40:41,760
+or do you work for a company
+
+894
+00:40:41,760 --> 00:40:43,760
+or do you just have
+
+895
+00:40:43,760 --> 00:40:45,760
+a constant influx?
+
+896
+00:40:45,760 --> 00:40:47,760
+As I said, it depends
+
+897
+00:40:47,760 --> 00:40:49,760
+on the time.
+
+898
+00:40:49,760 --> 00:40:51,760
+They actually leave the company.
+
+899
+00:40:51,760 --> 00:40:53,760
+You can leave it in many ways.
+
+900
+00:40:53,760 --> 00:40:55,760
+One way is to go to the stock market
+
+901
+00:40:55,760 --> 00:40:57,760
+and get an IPO,
+
+902
+00:40:57,760 --> 00:40:59,760
+the initial public offering,
+
+903
+00:40:59,760 --> 00:41:01,760
+and leave the stock market.
+
+904
+00:41:01,760 --> 00:41:03,760
+You have already sold the company.
+
+905
+00:41:03,760 --> 00:41:05,760
+Another option is
+
+906
+00:41:05,760 --> 00:41:07,760
+to get a new investor
+
+907
+00:41:07,760 --> 00:41:09,760
+who has brought
+
+908
+00:41:09,760 --> 00:41:11,760
+your startup to a certain level.
+
+909
+00:41:11,760 --> 00:41:13,760
+They invest in the company.
+
+910
+00:41:13,760 --> 00:41:15,760
+When they invest,
+
+911
+00:41:15,760 --> 00:41:17,760
+they give 3 million.
+
+912
+00:41:17,760 --> 00:41:19,760
+Of these 3 million,
+
+913
+00:41:19,760 --> 00:41:21,760
+2 million goes to the company
+
+914
+00:41:21,760 --> 00:41:23,760
+for a long-term growth.
+
+915
+00:41:23,760 --> 00:41:25,760
+1 million is collected
+
+916
+00:41:25,760 --> 00:41:27,760
+by the previous investors.
+
+917
+00:41:27,760 --> 00:41:29,760
+That's how it works.
+
+918
+00:41:29,760 --> 00:41:31,760
+The previous investors pay.
+
+919
+00:41:31,760 --> 00:41:33,760
+Yes, they pay.
+
+920
+00:41:33,760 --> 00:41:35,760
+If you are under pressure
+
+921
+00:41:35,760 --> 00:41:37,760
+from certain circumstances,
+
+922
+00:41:37,760 --> 00:41:39,760
+it's a mistake.
+
+923
+00:41:39,760 --> 00:41:41,760
+Generally speaking,
+
+924
+00:41:41,760 --> 00:41:43,760
+what are the expectations?
+
+925
+00:41:43,760 --> 00:41:45,760
+In most startups,
+
+926
+00:41:45,760 --> 00:41:47,760
+you expect
+
+927
+00:41:47,760 --> 00:41:49,760
+1 out of 10 investments
+
+928
+00:41:49,760 --> 00:41:51,760
+to be successful.
+
+929
+00:41:51,760 --> 00:41:53,760
+They will do x10
+
+930
+00:41:53,760 --> 00:41:55,760
+and you will cover
+
+931
+00:41:55,760 --> 00:41:57,760
+everything else.
+
+932
+00:41:57,760 --> 00:41:59,760
+Then there will be a few startups
+
+933
+00:41:59,760 --> 00:42:01,760
+that will succeed,
+
+934
+00:42:01,760 --> 00:42:03,760
+x2, x3, x4,
+
+935
+00:42:03,760 --> 00:42:05,760
+and some will probably
+
+936
+00:42:05,760 --> 00:42:07,760
+go bankrupt.
+
+937
+00:42:07,760 --> 00:42:09,760
+You will not be able to return
+
+938
+00:42:09,760 --> 00:42:11,760
+the investments.
+
+939
+00:42:11,760 --> 00:42:13,760
+You need to calculate
+
+940
+00:42:13,760 --> 00:42:15,760
+the numbers.
+
+941
+00:42:15,760 --> 00:42:17,760
+You can't invest in stocks with that.
+
+942
+00:42:17,760 --> 00:42:19,760
+When you are in a stock market,
+
+943
+00:42:19,760 --> 00:42:21,760
+you have to invest in everything.
+
+944
+00:42:21,760 --> 00:42:23,760
+You have to have a certain
+
+945
+00:42:23,760 --> 00:42:25,760
+return.
+
+946
+00:42:25,760 --> 00:42:27,760
+You want a certain return,
+
+947
+00:42:27,760 --> 00:42:29,760
+but there is also a risk
+
+948
+00:42:29,760 --> 00:42:31,760
+in investing.
+
+949
+00:42:31,760 --> 00:42:33,760
+You don't invest in state bonds
+
+950
+00:42:33,760 --> 00:42:35,760
+or coins.
+
+951
+00:42:35,760 --> 00:42:37,760
+You need to get a new partner
+
+952
+00:42:37,760 --> 00:42:39,760
+for every investment.
+
+953
+00:42:39,760 --> 00:42:41,760
+If you are a founder,
+
+954
+00:42:41,760 --> 00:42:43,760
+you need a new partner.
+
+955
+00:42:43,760 --> 00:42:45,760
+They have new knowledge,
+
+956
+00:42:45,760 --> 00:42:47,760
+new thinking,
+
+957
+00:42:47,760 --> 00:42:49,760
+new appetites,
+
+958
+00:42:49,760 --> 00:42:51,760
+and you will have to deal
+
+959
+00:42:51,760 --> 00:42:53,760
+with them in the future.
+
+960
+00:42:53,760 --> 00:42:55,760
+That means that
+
+961
+00:42:55,760 --> 00:42:57,760
+on the roadmap
+
+962
+00:42:57,760 --> 00:42:59,760
+or on a plan
+
+963
+00:42:59,760 --> 00:43:01,760
+if you want to invest
+
+964
+00:43:01,760 --> 00:43:03,760
+in a company,
+
+965
+00:43:03,760 --> 00:43:05,760
+you will have an impact.
+
+966
+00:43:05,760 --> 00:43:07,760
+Definitely.
+
+967
+00:43:07,760 --> 00:43:09,760
+If a company takes
+
+968
+00:43:09,760 --> 00:43:11,760
+capital from you,
+
+969
+00:43:11,760 --> 00:43:13,760
+does that mean
+
+970
+00:43:13,760 --> 00:43:15,760
+that they have to propose
+
+971
+00:43:15,760 --> 00:43:17,760
+a plan of what to do?
+
+972
+00:43:17,760 --> 00:43:19,760
+Do you put it on a roadmap
+
+973
+00:43:19,760 --> 00:43:21,760
+or on a projection?
+
+974
+00:43:21,760 --> 00:43:23,760
+No, they don't recommend
+
+975
+00:43:23,760 --> 00:43:25,760
+any goals.
+
+976
+00:43:25,760 --> 00:43:27,760
+Some investors
+
+977
+00:43:27,760 --> 00:43:29,760
+or even more investors
+
+978
+00:43:29,760 --> 00:43:31,760
+in a company
+
+979
+00:43:31,760 --> 00:43:33,760
+take the lead role.
+
+980
+00:43:33,760 --> 00:43:35,760
+They are more active
+
+981
+00:43:35,760 --> 00:43:37,760
+with management
+
+982
+00:43:37,760 --> 00:43:39,760
+and founders,
+
+983
+00:43:39,760 --> 00:43:41,760
+and others support them.
+
+984
+00:43:41,760 --> 00:43:43,760
+Otherwise,
+
+985
+00:43:43,760 --> 00:43:45,760
+30 years later,
+
+986
+00:43:45,760 --> 00:43:47,760
+everyone has their own vision
+
+987
+00:43:47,760 --> 00:43:49,760
+of what founders should do.
+
+988
+00:43:49,760 --> 00:43:51,760
+You have someone
+
+989
+00:43:51,760 --> 00:43:53,760
+who is a lead investor
+
+990
+00:43:53,760 --> 00:43:55,760
+and a new round is coming.
+
+991
+00:43:55,760 --> 00:43:57,760
+Investors in previous rounds
+
+992
+00:43:57,760 --> 00:43:59,760
+are very much on the side.
+
+993
+00:43:59,760 --> 00:44:01,760
+You are more or less following
+
+994
+00:44:01,760 --> 00:44:03,760
+and you expect that those who are new
+
+995
+00:44:03,760 --> 00:44:05,760
+will be the ones to take the lead.
+
+996
+00:44:05,760 --> 00:44:07,760
+They will be the founders.
+
+997
+00:44:07,760 --> 00:44:09,760
+For example,
+
+998
+00:44:09,760 --> 00:44:11,760
+we help a lot with product management,
+
+999
+00:44:11,760 --> 00:44:13,760
+but when it comes to
+
+1000
+00:44:13,760 --> 00:44:15,760
+organizing markets,
+
+1001
+00:44:15,760 --> 00:44:17,760
+scaling,
+
+1002
+00:44:17,760 --> 00:44:19,760
+and so on,
+
+1003
+00:44:19,760 --> 00:44:21,760
+a different company can
+
+1004
+00:44:21,760 --> 00:44:23,760
+achieve much more.
+
+1005
+00:44:23,760 --> 00:44:25,760
+It has a lot of potential.
+
+1006
+00:44:27,760 --> 00:44:29,760
+Speaking of investing,
+
+1007
+00:44:29,760 --> 00:44:31,760
+we skipped
+
+1008
+00:44:31,760 --> 00:44:33,760
+all the questions we had.
+
+1009
+00:44:35,760 --> 00:44:37,760
+I would like to ask
+
+1010
+00:44:37,760 --> 00:44:39,760
+what happens
+
+1011
+00:44:39,760 --> 00:44:41,760
+when a company grows
+
+1012
+00:44:41,760 --> 00:44:43,760
+and invests in a market
+
+1013
+00:44:43,760 --> 00:44:45,760
+and we don't have an answer.
+
+1014
+00:44:49,760 --> 00:44:51,760
+Everyone pays.
+
+1015
+00:44:51,760 --> 00:44:53,760
+Was that a good answer?
+
+1016
+00:44:55,760 --> 00:44:57,760
+I think it was good.
+
+1017
+00:44:57,760 --> 00:44:59,760
+What interests me more
+
+1018
+00:44:59,760 --> 00:45:01,760
+is what Silicon Gardens
+
+1019
+00:45:03,760 --> 00:45:05,760
+is looking for.
+
+1020
+00:45:05,760 --> 00:45:07,760
+We have a lot of stocks
+
+1021
+00:45:07,760 --> 00:45:09,760
+and all of them
+
+1022
+00:45:09,760 --> 00:45:11,760
+differ a lot.
+
+1023
+00:45:11,760 --> 00:45:13,760
+One thing is definitely
+
+1024
+00:45:13,760 --> 00:45:15,760
+regionality and the network.
+
+1025
+00:45:15,760 --> 00:45:17,760
+You get to know people
+
+1026
+00:45:17,760 --> 00:45:19,760
+you invest in regionally.
+
+1027
+00:45:19,760 --> 00:45:21,760
+You don't have a local
+
+1028
+00:45:21,760 --> 00:45:23,760
+scout
+
+1029
+00:45:23,760 --> 00:45:25,760
+that you put on the
+
+1030
+00:45:25,760 --> 00:45:27,760
+website or comment.
+
+1031
+00:45:29,760 --> 00:45:31,760
+What are the other things
+
+1032
+00:45:31,760 --> 00:45:33,760
+that you invest in?
+
+1033
+00:45:35,760 --> 00:45:37,760
+You invest in things
+
+1034
+00:45:37,760 --> 00:45:39,760
+that you will get to know.
+
+1035
+00:45:41,760 --> 00:45:43,760
+We know software for service,
+
+1036
+00:45:43,760 --> 00:45:45,760
+we know app businesses,
+
+1037
+00:45:45,760 --> 00:45:47,760
+we know ad tech businesses,
+
+1038
+00:45:49,760 --> 00:45:51,760
+we know e-commerce
+
+1039
+00:45:51,760 --> 00:45:53,760
+and so on.
+
+1040
+00:45:53,760 --> 00:45:55,760
+We know brand building
+
+1041
+00:45:55,760 --> 00:45:57,760
+in the final phase.
+
+1042
+00:45:59,760 --> 00:46:01,760
+You will always have
+
+1043
+00:46:01,760 --> 00:46:03,760
+more potential for knowledge
+
+1044
+00:46:03,760 --> 00:46:05,760
+and you will see your bias.
+
+1045
+00:46:07,760 --> 00:46:09,760
+You have to be careful
+
+1046
+00:46:09,760 --> 00:46:11,760
+not to let that bias overwhelm you.
+
+1047
+00:46:11,760 --> 00:46:13,760
+You think you represent it
+
+1048
+00:46:13,760 --> 00:46:15,760
+and because you do,
+
+1049
+00:46:15,760 --> 00:46:17,760
+it seems more real to you.
+
+1050
+00:46:17,760 --> 00:46:19,760
+That is a part of the problem.
+
+1051
+00:46:21,760 --> 00:46:23,760
+DNA of the people
+
+1052
+00:46:23,760 --> 00:46:25,760
+who do the scouts
+
+1053
+00:46:25,760 --> 00:46:27,760
+and us on the investment committee
+
+1054
+00:46:27,760 --> 00:46:29,760
+is definitely known
+
+1055
+00:46:29,760 --> 00:46:31,760
+in decision making.
+
+1056
+00:46:31,760 --> 00:46:33,760
+You can learn from that.
+
+1057
+00:46:33,760 --> 00:46:35,760
+You can learn from those skills
+
+1058
+00:46:35,760 --> 00:46:37,760
+and you can't rely on them.
+
+1059
+00:46:37,760 --> 00:46:39,760
+You mentioned industry,
+
+1060
+00:46:39,760 --> 00:46:41,760
+but on your website
+
+1061
+00:46:41,760 --> 00:46:43,760
+it says
+
+1062
+00:46:45,760 --> 00:46:47,760
+that you are looking for
+
+1063
+00:46:47,760 --> 00:46:49,760
+proven market traction.
+
+1064
+00:46:49,760 --> 00:46:51,760
+Can you tell us
+
+1065
+00:46:51,760 --> 00:46:53,760
+what that means?
+
+1066
+00:46:55,760 --> 00:46:57,760
+I can tell you
+
+1067
+00:46:57,760 --> 00:46:59,760
+about BirdBuddy.
+
+1068
+00:46:59,760 --> 00:47:01,760
+BirdBuddy.
+
+1069
+00:47:05,760 --> 00:47:07,760
+I know one of the co-founders,
+
+1070
+00:47:07,760 --> 00:47:09,760
+he is a product manager
+
+1071
+00:47:09,760 --> 00:47:11,760
+at Outfit.
+
+1072
+00:47:11,760 --> 00:47:13,760
+You know what kind of person he is
+
+1073
+00:47:13,760 --> 00:47:15,760
+and what you can expect from him.
+
+1074
+00:47:15,760 --> 00:47:17,760
+When you came up with that idea,
+
+1075
+00:47:17,760 --> 00:47:19,760
+people in France
+
+1076
+00:47:19,760 --> 00:47:21,760
+came to us
+
+1077
+00:47:21,760 --> 00:47:23,760
+to ask if we would do
+
+1078
+00:47:23,760 --> 00:47:25,760
+a Kickstarter campaign.
+
+1079
+00:47:25,760 --> 00:47:27,760
+Kickstarter, Kickstarter,
+
+1080
+00:47:27,760 --> 00:47:29,760
+it doesn't sound good.
+
+1081
+00:47:31,760 --> 00:47:33,760
+But after you showed us
+
+1082
+00:47:33,760 --> 00:47:35,760
+what you have done,
+
+1083
+00:47:35,760 --> 00:47:37,760
+in the sense that
+
+1084
+00:47:37,760 --> 00:47:39,760
+you made a whole web presence,
+
+1085
+00:47:39,760 --> 00:47:41,760
+in the sense that
+
+1086
+00:47:41,760 --> 00:47:43,760
+this product already exists,
+
+1087
+00:47:43,760 --> 00:47:45,760
+that you got credit cards
+
+1088
+00:47:45,760 --> 00:47:47,760
+from people
+
+1089
+00:47:47,760 --> 00:47:49,760
+and people already bought it,
+
+1090
+00:47:49,760 --> 00:47:51,760
+and you made a campaign
+
+1091
+00:47:51,760 --> 00:47:53,760
+where you evaluated
+
+1092
+00:47:53,760 --> 00:47:55,760
+how much the campaign would cost,
+
+1093
+00:47:55,760 --> 00:47:57,760
+and that there were paying users
+
+1094
+00:47:57,760 --> 00:47:59,760
+who gave you a credit card
+
+1095
+00:47:59,760 --> 00:48:01,760
+for which you said
+
+1096
+00:48:01,760 --> 00:48:03,760
+sorry, we don't have that yet,
+
+1097
+00:48:03,760 --> 00:48:05,760
+and you made a cancellation,
+
+1098
+00:48:05,760 --> 00:48:07,760
+but you validated
+
+1099
+00:48:07,760 --> 00:48:09,760
+that the market exists for that.
+
+1100
+00:48:09,760 --> 00:48:11,760
+You know,
+
+1101
+00:48:11,760 --> 00:48:13,760
+you haven't done anything like that before.
+
+1102
+00:48:13,760 --> 00:48:15,760
+You know, it was just an idea
+
+1103
+00:48:15,760 --> 00:48:17,760
+and it wasn't
+
+1104
+00:48:17,760 --> 00:48:19,760
+a photoshopped picture.
+
+1105
+00:48:19,760 --> 00:48:21,760
+But it's very unimportant.
+
+1106
+00:48:21,760 --> 00:48:23,760
+Unimportant with the methodology
+
+1107
+00:48:23,760 --> 00:48:25,760
+of advertising campaigns
+
+1108
+00:48:25,760 --> 00:48:27,760
+on Facebook,
+
+1109
+00:48:27,760 --> 00:48:29,760
+how much we will pay for them,
+
+1110
+00:48:29,760 --> 00:48:31,760
+what will be the price,
+
+1111
+00:48:31,760 --> 00:48:33,760
+and so on.
+
+1112
+00:48:33,760 --> 00:48:35,760
+And when someone brings it to you,
+
+1113
+00:48:35,760 --> 00:48:37,760
+and you say, hey,
+
+1114
+00:48:37,760 --> 00:48:39,760
+let's give them 50-100 euros
+
+1115
+00:48:39,760 --> 00:48:41,760
+to make a Kickstarter campaign,
+
+1116
+00:48:41,760 --> 00:48:43,760
+a good promotion,
+
+1117
+00:48:43,760 --> 00:48:45,760
+if they worked so hard for this,
+
+1118
+00:48:45,760 --> 00:48:47,760
+it's worth supporting.
+
+1119
+00:48:47,760 --> 00:48:49,760
+And so maybe we invested
+
+1120
+00:48:49,760 --> 00:48:51,760
+more because of the traction
+
+1121
+00:48:51,760 --> 00:48:53,760
+and because it's a lifestyle business.
+
+1122
+00:48:53,760 --> 00:48:55,760
+It's a good business for some people,
+
+1123
+00:48:55,760 --> 00:48:57,760
+but it's hard to sell it.
+
+1124
+00:48:57,760 --> 00:48:59,760
+It's hard to scale it to a certain level
+
+1125
+00:48:59,760 --> 00:49:01,760
+because we brought it with us
+
+1126
+00:49:01,760 --> 00:49:03,760
+or with a software,
+
+1127
+00:49:03,760 --> 00:49:05,760
+or with hardware.
+
+1128
+00:49:05,760 --> 00:49:07,760
+But they showed
+
+1129
+00:49:07,760 --> 00:49:09,760
+that they have the idea,
+
+1130
+00:49:09,760 --> 00:49:11,760
+and we believed in it.
+
+1131
+00:49:11,760 --> 00:49:13,760
+We didn't prepare it
+
+1132
+00:49:13,760 --> 00:49:15,760
+because of how much they believed
+
+1133
+00:49:15,760 --> 00:49:17,760
+in the market,
+
+1134
+00:49:17,760 --> 00:49:19,760
+in the enthusiasts,
+
+1135
+00:49:19,760 --> 00:49:21,760
+and so on.
+
+1136
+00:49:21,760 --> 00:49:23,760
+And then they proved
+
+1137
+00:49:23,760 --> 00:49:25,760
+that it's worth it.
+
+1138
+00:49:25,760 --> 00:49:27,760
+Maybe we believed in it at the beginning.
+
+1139
+00:49:27,760 --> 00:49:29,760
+BirdBuddy is an amazing story.
+
+1140
+00:49:29,760 --> 00:49:31,760
+I saw
+
+1141
+00:49:31,760 --> 00:49:33,760
+a real-time feed
+
+1142
+00:49:33,760 --> 00:49:35,760
+where you can
+
+1143
+00:49:35,760 --> 00:49:37,760
+turn on the cameras
+
+1144
+00:49:37,760 --> 00:49:39,760
+and they send back the footage,
+
+1145
+00:49:39,760 --> 00:49:41,760
+and in real-time you see the birds from all over the world.
+
+1146
+00:49:41,760 --> 00:49:43,760
+You can also see
+
+1147
+00:49:43,760 --> 00:49:45,760
+other cameras and birds.
+
+1148
+00:49:45,760 --> 00:49:47,760
+It's really interesting
+
+1149
+00:49:47,760 --> 00:49:49,760
+how they managed
+
+1150
+00:49:49,760 --> 00:49:51,760
+to create such a global brand.
+
+1151
+00:49:51,760 --> 00:49:53,760
+It's really fascinating.
+
+1152
+00:49:53,760 --> 00:49:55,760
+It's the best thing ever.
+
+1153
+00:49:55,760 --> 00:49:57,760
+That's an example
+
+1154
+00:49:57,760 --> 00:49:59,760
+of an atypical startup.
+
+1155
+00:50:00,000 --> 00:50:10,640
+It is not a typical startup for investing in VC, which has proven its worth over time, but Traction showed you how to do it on paper.
+
+1156
+00:50:10,640 --> 00:50:13,120
+And they validated it with credit cards.
+
+1157
+00:50:13,120 --> 00:50:21,440
+No, we made a flyer, and there are some enthusiasts on Facebook, they talk a lot about it.
+
+1158
+00:50:21,440 --> 00:50:24,959
+How many of those cards did you pull? That's the question.
+
+1159
+00:50:25,920 --> 00:50:32,320
+Now I turned it to the side, so we don't make a mess.
+
+1160
+00:50:32,320 --> 00:50:36,320
+Homemade water from a pipe, that's not good.
+
+1161
+00:50:36,320 --> 00:50:38,320
+That's the stuff we have.
+
+1162
+00:50:38,320 --> 00:50:40,320
+The stuff we have.
+
+1163
+00:50:40,320 --> 00:50:47,279
+Here I have two questions, let's go to the last one in this pile.
+
+1164
+00:50:47,599 --> 00:51:03,919
+Can you tell us what is the biggest difference between the Silicon Gardens and the Slovenian business complex?
+
+1165
+00:51:03,919 --> 00:51:11,919
+Can you tell us that?
+
+1166
+00:51:12,160 --> 00:51:22,480
+I am also the type of person who wants to invest in a lot, so I got involved in the business angels.
+
+1167
+00:51:22,480 --> 00:51:27,919
+I once went as a trainer to this business complex to get to know it a bit.
+
+1168
+00:51:27,919 --> 00:51:36,080
+The difference I see is what you actually want as a return.
+
+1169
+00:51:36,239 --> 00:51:43,279
+And now, like in the Slovenian business complex, they invest money in the market.
+
+1170
+00:51:43,279 --> 00:51:52,879
+They don't look at the exit as an outcome, they invest money in a certain environment.
+
+1171
+00:51:52,879 --> 00:51:59,120
+I noticed that in this assessment, a lifestyle business is supported very quickly.
+
+1172
+00:51:59,199 --> 00:52:05,199
+The idea is great, but then you ask yourself, what is a lifestyle business?
+
+1173
+00:52:05,199 --> 00:52:10,800
+That means that you see that this can be done by a founder and two more people will survive.
+
+1174
+00:52:10,800 --> 00:52:12,800
+Great.
+
+1175
+00:52:12,800 --> 00:52:18,399
+And now, if it is supported, two people make a local business out of it,
+
+1176
+00:52:18,399 --> 00:52:25,199
+they survive, they have a solidly paid service and so on, and a sustainable business, nothing bad.
+
+1177
+00:52:25,600 --> 00:52:29,600
+For a company, this is not enough.
+
+1178
+00:52:29,600 --> 00:52:33,600
+And I think that is one of the biggest differences.
+
+1179
+00:52:33,600 --> 00:52:39,600
+Now, for example, a business company has the idea that if you find a foreign investor,
+
+1180
+00:52:39,600 --> 00:52:43,600
+they will add a combination.
+
+1181
+00:52:43,600 --> 00:52:45,600
+I don't agree with that.
+
+1182
+00:52:45,600 --> 00:52:49,600
+But everything is a bit oriented in that direction.
+
+1183
+00:52:50,000 --> 00:52:54,000
+The difference is also in the fact that you invest your own money,
+
+1184
+00:52:54,000 --> 00:52:58,000
+or you manage someone else's money.
+
+1185
+00:52:58,000 --> 00:53:00,000
+We put our own money in it.
+
+1186
+00:53:00,000 --> 00:53:04,000
+When we manage this company, it is an amateur-led company.
+
+1187
+00:53:04,000 --> 00:53:10,000
+The first Silicon Garden company, which invested in Flavia, Arpovia and so on,
+
+1188
+00:53:10,000 --> 00:53:14,000
+was entirely amateur-oriented.
+
+1189
+00:53:14,399 --> 00:53:18,399
+D.O.O. invested in 10 companies, put them on those tickets,
+
+1190
+00:53:18,399 --> 00:53:20,399
+and completely unprofessionally...
+
+1191
+00:53:20,399 --> 00:53:24,399
+Do you mean because you were still in school?
+
+1192
+00:53:24,399 --> 00:53:28,399
+I was not healthy at the time, but that was the way they were...
+
+1193
+00:53:28,399 --> 00:53:30,399
+A start-up?
+
+1194
+00:53:30,399 --> 00:53:32,399
+Yes, a start-up.
+
+1195
+00:53:32,399 --> 00:53:36,399
+The two of us went to do a real investment, an alternative investment.
+
+1196
+00:53:36,399 --> 00:53:42,399
+The minimum investment according to the Slovenian legislation was 150,000 euros.
+
+1197
+00:53:42,800 --> 00:53:44,800
+You cannot invest in such a company,
+
+1198
+00:53:44,800 --> 00:53:48,800
+because you have to be an informed investor.
+
+1199
+00:53:48,800 --> 00:53:52,800
+This is a guarantee that you do not put people under your wing.
+
+1200
+00:53:52,800 --> 00:53:56,800
+When someone invests 150,000 euros in something,
+
+1201
+00:53:56,800 --> 00:53:58,800
+they know that there can be risks,
+
+1202
+00:53:58,800 --> 00:54:02,800
+and they can probably survive without those 150,000 euros.
+
+1203
+00:54:02,800 --> 00:54:04,800
+When you manage that...
+
+1204
+00:54:04,800 --> 00:54:06,800
+For example, as an investment committee,
+
+1205
+00:54:06,800 --> 00:54:08,800
+I am aware that I manage my own money,
+
+1206
+00:54:08,800 --> 00:54:10,800
+but also from some of my friends,
+
+1207
+00:54:11,199 --> 00:54:15,199
+and I also have a responsibility for them.
+
+1208
+00:54:17,200 --> 00:54:21,200
+For example, there are some evaluators.
+
+1209
+00:54:21,200 --> 00:54:23,200
+You come to KS, evaluate some points,
+
+1210
+00:54:23,200 --> 00:54:25,200
+then some are counted,
+
+1211
+00:54:25,200 --> 00:54:27,200
+and in the end they get 1 dinar.
+
+1212
+00:54:27,200 --> 00:54:29,200
+For some points.
+
+1213
+00:54:29,200 --> 00:54:31,200
+There are 5 evaluators,
+
+1214
+00:54:31,200 --> 00:54:33,200
+and half of them are...
+
+1215
+00:54:33,200 --> 00:54:35,200
+In the last month there were 20.
+
+1216
+00:54:35,200 --> 00:54:37,200
+Yes.
+
+1217
+00:54:37,600 --> 00:54:41,600
+In the end, maybe this is not the most potential,
+
+1218
+00:54:41,600 --> 00:54:43,600
+but it is a child's system,
+
+1219
+00:54:43,600 --> 00:54:45,600
+from which people invest.
+
+1220
+00:54:45,600 --> 00:54:47,600
+It's a little different.
+
+1221
+00:54:47,600 --> 00:54:49,600
+Public money is not our money,
+
+1222
+00:54:49,600 --> 00:54:51,600
+it is our money.
+
+1223
+00:54:51,600 --> 00:54:53,600
+I just wanted to...
+
+1224
+00:54:53,600 --> 00:54:55,600
+I think it's good that we have it,
+
+1225
+00:54:55,600 --> 00:54:57,600
+but it's something else.
+
+1226
+00:54:57,600 --> 00:54:59,600
+It is something else,
+
+1227
+00:54:59,600 --> 00:55:01,600
+and it is also needed on the market,
+
+1228
+00:55:01,600 --> 00:55:03,600
+but it is not completely irreplaceable.
+
+1229
+00:55:03,600 --> 00:55:05,600
+I just added an asterisk.
+
+1230
+00:55:06,000 --> 00:55:08,000
+I also participated a few times
+
+1231
+00:55:08,000 --> 00:55:10,000
+as a part of the Slovenian business team,
+
+1232
+00:55:10,000 --> 00:55:12,000
+as a mentor.
+
+1233
+00:55:12,000 --> 00:55:14,000
+OK, there are different tasks.
+
+1234
+00:55:14,000 --> 00:55:16,000
+Find out both,
+
+1235
+00:55:16,000 --> 00:55:18,000
+if you are in the phase of searching.
+
+1236
+00:55:18,000 --> 00:55:20,000
+I will just say that at this point.
+
+1237
+00:55:20,000 --> 00:55:22,000
+Will we have any more questions
+
+1238
+00:55:22,000 --> 00:55:24,000
+at this point, Andras?
+
+1239
+00:55:24,000 --> 00:55:26,000
+No.
+
+1240
+00:55:26,000 --> 00:55:28,000
+We skipped some questions.
+
+1241
+00:55:28,000 --> 00:55:30,000
+Supporters will know in the future
+
+1242
+00:55:30,000 --> 00:55:32,000
+what these three questions are.
+
+1243
+00:55:32,000 --> 00:55:34,000
+Yes.
+
+1244
+00:55:34,399 --> 00:55:36,399
+I can say it again,
+
+1245
+00:55:36,399 --> 00:55:38,399
+if you like these personalities,
+
+1246
+00:55:38,399 --> 00:55:40,399
+and if you want to support
+
+1247
+00:55:40,399 --> 00:55:42,399
+our task,
+
+1248
+00:55:42,399 --> 00:55:44,399
+we will put some links below,
+
+1249
+00:55:44,399 --> 00:55:46,399
+so please support us,
+
+1250
+00:55:46,399 --> 00:55:48,399
+it will help everyone.
+
+1251
+00:55:48,399 --> 00:55:50,399
+We support Slovenians too little
+
+1252
+00:55:50,399 --> 00:55:52,399
+from the things we create,
+
+1253
+00:55:52,399 --> 00:55:54,399
+so I can only support.
+
+1254
+00:55:54,399 --> 00:55:56,399
+Yes, so we all support Tomas.
+
+1255
+00:55:56,399 --> 00:55:58,399
+Now,
+
+1256
+00:55:58,399 --> 00:56:00,399
+the next task,
+
+1257
+00:56:00,399 --> 00:56:02,399
+I have here
+
+1258
+00:56:02,799 --> 00:56:04,799
+two more tasks,
+
+1259
+00:56:04,799 --> 00:56:06,799
+and then we will move on.
+
+1260
+00:56:06,799 --> 00:56:08,799
+Maybe we will talk about the potential
+
+1261
+00:56:08,799 --> 00:56:10,799
+of technological companies.
+
+1262
+00:56:10,799 --> 00:56:12,799
+We are trying to
+
+1263
+00:56:12,799 --> 00:56:14,799
+make this podcast work.
+
+1264
+00:56:14,799 --> 00:56:16,799
+We asked
+
+1265
+00:56:16,799 --> 00:56:18,799
+our audience
+
+1266
+00:56:18,799 --> 00:56:20,799
+for questions,
+
+1267
+00:56:20,799 --> 00:56:22,799
+and Matej sent us a question.
+
+1268
+00:56:22,799 --> 00:56:24,799
+Will you read it?
+
+1269
+00:56:24,799 --> 00:56:26,799
+I will.
+
+1270
+00:56:26,799 --> 00:56:28,799
+Matej wrote,
+
+1271
+00:56:28,799 --> 00:56:30,799
+lately we are looking at
+
+1272
+00:56:31,200 --> 00:56:33,200
+whether more money is invested
+
+1273
+00:56:33,200 --> 00:56:35,200
+in companies whose product
+
+1274
+00:56:35,200 --> 00:56:37,200
+is based on information technology.
+
+1275
+00:56:37,200 --> 00:56:39,200
+In most cases,
+
+1276
+00:56:39,200 --> 00:56:41,200
+we are talking about
+
+1277
+00:56:41,200 --> 00:56:43,200
+10 million investments.
+
+1278
+00:56:43,200 --> 00:56:45,200
+Many times, companies
+
+1279
+00:56:45,200 --> 00:56:47,200
+do not realize
+
+1280
+00:56:47,200 --> 00:56:49,200
+the love they have
+
+1281
+00:56:49,200 --> 00:56:51,200
+for collecting capital.
+
+1282
+00:56:51,200 --> 00:56:53,200
+Do you think
+
+1283
+00:56:53,200 --> 00:56:55,200
+in recent years
+
+1284
+00:56:55,200 --> 00:56:57,200
+we are spending
+
+1285
+00:56:57,200 --> 00:56:59,200
+too much money
+
+1286
+00:56:59,600 --> 00:57:01,600
+on information technology?
+
+1287
+00:57:01,600 --> 00:57:03,600
+Yes, of course.
+
+1288
+00:57:03,600 --> 00:57:05,600
+The situation has changed a lot
+
+1289
+00:57:05,600 --> 00:57:07,600
+in recent months,
+
+1290
+00:57:07,600 --> 00:57:09,600
+maybe in the last half a year.
+
+1291
+00:57:09,600 --> 00:57:11,600
+Valuations are different.
+
+1292
+00:57:13,600 --> 00:57:15,600
+In startups
+
+1293
+00:57:15,600 --> 00:57:17,600
+valuations are well known.
+
+1294
+00:57:17,600 --> 00:57:19,600
+Before,
+
+1295
+00:57:19,600 --> 00:57:21,600
+it was easy to estimate
+
+1296
+00:57:21,600 --> 00:57:23,600
+1 million,
+
+1297
+00:57:23,600 --> 00:57:25,600
+but now
+
+1298
+00:57:25,600 --> 00:57:27,600
+we will have to show something.
+
+1299
+00:57:28,000 --> 00:57:30,000
+It is not that easy
+
+1300
+00:57:30,000 --> 00:57:32,000
+to get 1 million.
+
+1301
+00:57:32,000 --> 00:57:34,000
+It has changed a lot.
+
+1302
+00:57:34,000 --> 00:57:36,000
+And yes,
+
+1303
+00:57:36,000 --> 00:57:38,000
+certain companies
+
+1304
+00:57:38,000 --> 00:57:40,000
+have a lot of capital
+
+1305
+00:57:40,000 --> 00:57:42,000
+that they try to place
+
+1306
+00:57:42,000 --> 00:57:44,000
+in the market.
+
+1307
+00:57:44,000 --> 00:57:46,000
+EF, which is in different areas
+
+1308
+00:57:46,000 --> 00:57:48,000
+in Slovenia, Croatia,
+
+1309
+00:57:48,000 --> 00:57:50,000
+EF is the first company
+
+1310
+00:57:50,000 --> 00:57:52,000
+in the world,
+
+1311
+00:57:52,000 --> 00:57:54,000
+they have funds
+
+1312
+00:57:54,000 --> 00:57:56,000
+that they have to reinvest.
+
+1313
+00:57:56,399 --> 00:57:58,399
+The goal is
+
+1314
+00:57:58,399 --> 00:58:00,399
+to invest in the market
+
+1315
+00:58:00,399 --> 00:58:02,399
+and to buy
+
+1316
+00:58:02,399 --> 00:58:04,399
+a lot of luck.
+
+1317
+00:58:04,399 --> 00:58:06,399
+Some of them
+
+1318
+00:58:06,399 --> 00:58:08,399
+will be satisfied.
+
+1319
+00:58:08,399 --> 00:58:10,399
+How lucky you are,
+
+1320
+00:58:10,399 --> 00:58:12,399
+how well you have decided,
+
+1321
+00:58:12,399 --> 00:58:14,399
+how well you have estimated
+
+1322
+00:58:14,399 --> 00:58:16,399
+some potentials,
+
+1323
+00:58:16,399 --> 00:58:18,399
+it will be seen
+
+1324
+00:58:18,399 --> 00:58:20,399
+in a few years,
+
+1325
+00:58:20,399 --> 00:58:22,399
+maybe in 5-10 years.
+
+1326
+00:58:22,399 --> 00:58:24,399
+It is not known
+
+1327
+00:58:24,799 --> 00:58:26,799
+how many start-ups
+
+1328
+00:58:26,799 --> 00:58:28,799
+will be pivoted
+
+1329
+00:58:28,799 --> 00:58:30,799
+in the end.
+
+1330
+00:58:30,799 --> 00:58:32,799
+If the founders
+
+1331
+00:58:32,799 --> 00:58:34,799
+are ready
+
+1332
+00:58:34,799 --> 00:58:36,799
+and have the grit
+
+1333
+00:58:36,799 --> 00:58:38,799
+to do it.
+
+1334
+00:58:38,799 --> 00:58:40,799
+Yes,
+
+1335
+00:58:40,799 --> 00:58:42,799
+some investments surprised me,
+
+1336
+00:58:42,799 --> 00:58:44,799
+but again,
+
+1337
+00:58:44,799 --> 00:58:46,799
+I support
+
+1338
+00:58:46,799 --> 00:58:48,799
+money to be invested.
+
+1339
+00:58:48,799 --> 00:58:50,799
+You can't estimate
+
+1340
+00:58:50,799 --> 00:58:52,799
+the price.
+
+1341
+00:58:53,200 --> 00:58:55,200
+We were interested
+
+1342
+00:58:55,200 --> 00:58:57,200
+in RoboDločar.
+
+1343
+00:58:57,200 --> 00:58:59,200
+Why did we choose RoboDločar?
+
+1344
+00:58:59,200 --> 00:59:01,200
+Maybe it will work out,
+
+1345
+00:59:01,200 --> 00:59:03,200
+but I always asked
+
+1346
+00:59:03,200 --> 00:59:05,200
+why it turned out so badly,
+
+1347
+00:59:05,200 --> 00:59:07,200
+what was wrong with it,
+
+1348
+00:59:07,200 --> 00:59:09,200
+what did we learn from it?
+
+1349
+00:59:09,200 --> 00:59:11,200
+It is a school,
+
+1350
+00:59:11,200 --> 00:59:13,200
+every failure is a school.
+
+1351
+00:59:13,200 --> 00:59:15,200
+You learn here.
+
+1352
+00:59:15,200 --> 00:59:17,200
+I think that
+
+1353
+00:59:17,200 --> 00:59:19,200
+we can exaggerate
+
+1354
+00:59:19,200 --> 00:59:21,200
+the failure
+
+1355
+00:59:21,599 --> 00:59:23,599
+and put a label on it
+
+1356
+00:59:23,599 --> 00:59:25,599
+and it is like that and so on.
+
+1357
+00:59:25,599 --> 00:59:27,599
+I think that
+
+1358
+00:59:27,599 --> 00:59:29,599
+you have to be persistent,
+
+1359
+00:59:29,599 --> 00:59:31,599
+at least you learn from those failures.
+
+1360
+00:59:31,599 --> 00:59:33,599
+I would like
+
+1361
+00:59:33,599 --> 00:59:35,599
+to try
+
+1362
+00:59:35,599 --> 00:59:37,599
+to focus on
+
+1363
+00:59:37,599 --> 00:59:39,599
+the potential of technological companies.
+
+1364
+00:59:39,599 --> 00:59:41,599
+We are more interested
+
+1365
+00:59:41,599 --> 00:59:43,599
+in
+
+1366
+00:59:43,599 --> 00:59:45,599
+Slovenia's
+
+1367
+00:59:45,599 --> 00:59:47,599
+technological companies
+
+1368
+00:59:47,599 --> 00:59:49,599
+or
+
+1369
+00:59:49,599 --> 00:59:51,599
+companies that
+
+1370
+00:59:51,599 --> 00:59:53,599
+work in this area,
+
+1371
+00:59:53,599 --> 00:59:55,599
+competitive or
+
+1372
+00:59:55,599 --> 00:59:57,599
+European.
+
+1373
+00:59:57,599 --> 00:59:59,599
+Can
+
+1374
+00:59:59,599 --> 01:00:01,599
+you tell us
+
+1375
+01:00:01,599 --> 01:00:03,599
+more about it?
+
+1376
+01:00:03,599 --> 01:00:05,599
+On a technological level?
+
+1377
+01:00:05,599 --> 01:00:07,599
+I don't know where
+
+1378
+01:00:07,599 --> 01:00:09,599
+it could be
+
+1379
+01:00:09,599 --> 01:00:11,599
+a little better,
+
+1380
+01:00:11,599 --> 01:00:13,599
+do we need
+
+1381
+01:00:13,599 --> 01:00:15,599
+more support,
+
+1382
+01:00:15,599 --> 01:00:17,599
+do we need a different infrastructure,
+
+1383
+01:00:17,599 --> 01:00:19,599
+where are
+
+1384
+01:00:19,599 --> 01:00:21,599
+the opportunities
+
+1385
+01:00:21,599 --> 01:00:23,599
+to make it better?
+
+1386
+01:00:23,599 --> 01:00:25,599
+We need a better educational system.
+
+1387
+01:00:25,599 --> 01:00:27,599
+Do we need a better educational system?
+
+1388
+01:00:27,599 --> 01:00:29,599
+If we
+
+1389
+01:00:29,599 --> 01:00:31,599
+compare us
+
+1390
+01:00:31,599 --> 01:00:33,599
+to Silicon Valley,
+
+1391
+01:00:33,599 --> 01:00:35,599
+I lived there
+
+1392
+01:00:35,599 --> 01:00:37,599
+for a few months in 1992
+
+1393
+01:00:37,599 --> 01:00:39,599
+and my family and I
+
+1394
+01:00:39,599 --> 01:00:41,599
+were there for a year.
+
+1395
+01:00:41,599 --> 01:00:43,599
+If I look at
+
+1396
+01:00:43,599 --> 01:00:45,599
+the situation there
+
+1397
+01:00:45,599 --> 01:00:47,599
+or here,
+
+1398
+01:00:47,599 --> 01:00:49,599
+we are not there yet.
+
+1399
+01:00:49,599 --> 01:00:51,599
+You can imagine
+
+1400
+01:00:51,599 --> 01:00:53,599
+that Silicon Valley
+
+1401
+01:00:53,599 --> 01:00:55,599
+started with Hewlett-Packard,
+
+1402
+01:00:55,599 --> 01:00:57,599
+Intel,
+
+1403
+01:00:57,599 --> 01:00:59,599
+microprocessors,
+
+1404
+01:00:59,599 --> 01:01:01,599
+and that drove
+
+1405
+01:01:01,599 --> 01:01:03,599
+the next start-ups.
+
+1406
+01:01:03,599 --> 01:01:05,599
+Those people then
+
+1407
+01:01:05,599 --> 01:01:07,599
+invested and created
+
+1408
+01:01:07,599 --> 01:01:09,599
+the next companies.
+
+1409
+01:01:09,599 --> 01:01:11,599
+It is the 20th generation
+
+1410
+01:01:11,599 --> 01:01:13,599
+of those companies
+
+1411
+01:01:13,599 --> 01:01:15,599
+and I think we are
+
+1412
+01:01:15,599 --> 01:01:17,599
+on the 1st or 2nd generation.
+
+1413
+01:01:17,599 --> 01:01:19,599
+We are not there yet.
+
+1414
+01:01:19,599 --> 01:01:21,599
+There are no stories yet.
+
+1415
+01:01:21,599 --> 01:01:23,599
+I can tell you that
+
+1416
+01:01:23,599 --> 01:01:25,599
+if I look at
+
+1417
+01:01:25,599 --> 01:01:27,599
+the software industry,
+
+1418
+01:01:27,599 --> 01:01:29,599
+which was the biggest IT company
+
+1419
+01:01:29,599 --> 01:01:31,599
+for many years,
+
+1420
+01:01:31,599 --> 01:01:33,599
+a successful story came out of it.
+
+1421
+01:01:33,599 --> 01:01:35,599
+I can say that
+
+1422
+01:01:35,599 --> 01:01:37,599
+a story came out of it.
+
+1423
+01:01:37,599 --> 01:01:39,599
+Click, Sportradar,
+
+1424
+01:01:39,599 --> 01:01:41,599
+a story came out.
+
+1425
+01:01:41,599 --> 01:01:43,599
+Investing in Slovenia
+
+1426
+01:01:43,599 --> 01:01:45,599
+was 150 million in the last period.
+
+1427
+01:01:45,599 --> 01:01:47,599
+It came out of it.
+
+1428
+01:01:47,599 --> 01:01:49,599
+So,
+
+1429
+01:01:49,599 --> 01:01:51,599
+the next generations
+
+1430
+01:01:51,599 --> 01:01:53,599
+are already here.
+
+1431
+01:01:53,599 --> 01:01:55,599
+We need to encourage the environment.
+
+1432
+01:01:55,599 --> 01:01:57,599
+I think it is better
+
+1433
+01:01:57,599 --> 01:01:59,599
+if those people who created Exit
+
+1434
+01:01:59,599 --> 01:02:01,599
+invest in the environment
+
+1435
+01:02:01,599 --> 01:02:03,599
+because it is hard on the one hand.
+
+1436
+01:02:03,599 --> 01:02:05,599
+It is hard to go back.
+
+1437
+01:02:05,599 --> 01:02:07,599
+There is also
+
+1438
+01:02:07,599 --> 01:02:09,599
+an investment mode
+
+1439
+01:02:09,599 --> 01:02:11,599
+where you have to grow.
+
+1440
+01:02:11,599 --> 01:02:13,599
+It is not something you have done before
+
+1441
+01:02:13,599 --> 01:02:15,599
+and you can get used to it.
+
+1442
+01:02:15,599 --> 01:02:17,599
+It is not simple.
+
+1443
+01:02:17,599 --> 01:02:19,599
+We are not all for that.
+
+1444
+01:02:19,599 --> 01:02:21,599
+Not everyone who has capital
+
+1445
+01:02:21,599 --> 01:02:23,599
+will naturally
+
+1446
+01:02:23,599 --> 01:02:25,599
+want to do that.
+
+1447
+01:02:25,599 --> 01:02:27,599
+You want more than that.
+
+1448
+01:02:27,599 --> 01:02:29,599
+Everything goes into some
+
+1449
+01:02:29,599 --> 01:02:31,599
+impermanence and so on.
+
+1450
+01:02:31,599 --> 01:02:33,599
+I also invest in
+
+1451
+01:02:33,599 --> 01:02:35,599
+the decision of impermanence.
+
+1452
+01:02:35,599 --> 01:02:37,599
+It is part of
+
+1453
+01:02:37,599 --> 01:02:39,599
+preserving some values
+
+1454
+01:02:39,599 --> 01:02:41,599
+for a long time.
+
+1455
+01:02:41,599 --> 01:02:43,599
+You don't have to think about it.
+
+1456
+01:02:43,599 --> 01:02:45,599
+I am
+
+1457
+01:02:45,599 --> 01:02:47,599
+from the audience
+
+1458
+01:02:47,599 --> 01:02:49,599
+again.
+
+1459
+01:02:49,599 --> 01:02:51,599
+Draž says
+
+1460
+01:02:51,599 --> 01:02:53,599
+you are a passionate supporter
+
+1461
+01:02:53,599 --> 01:02:55,599
+of the inhabitants.
+
+1462
+01:02:57,599 --> 01:02:59,599
+One of the new topics
+
+1463
+01:02:59,599 --> 01:03:01,599
+is the Technological Forum of Slovenia.
+
+1464
+01:03:01,599 --> 01:03:03,599
+I forgot about that.
+
+1465
+01:03:03,599 --> 01:03:05,599
+Can you tell us
+
+1466
+01:03:05,599 --> 01:03:07,599
+where will
+
+1467
+01:03:07,599 --> 01:03:09,599
+that forum be?
+
+1468
+01:03:09,599 --> 01:03:11,599
+Is it a topic
+
+1469
+01:03:11,599 --> 01:03:13,599
+where we will get
+
+1470
+01:03:13,599 --> 01:03:15,599
+a more connected
+
+1471
+01:03:15,599 --> 01:03:17,599
+community?
+
+1472
+01:03:17,599 --> 01:03:19,599
+Why is that?
+
+1473
+01:03:19,599 --> 01:03:21,599
+It is still
+
+1474
+01:03:21,599 --> 01:03:23,599
+planned
+
+1475
+01:03:23,599 --> 01:03:25,599
+to launch
+
+1476
+01:03:25,599 --> 01:03:27,599
+somewhere in May.
+
+1477
+01:03:27,599 --> 01:03:29,599
+Publicity and so on.
+
+1478
+01:03:29,599 --> 01:03:31,599
+We established
+
+1479
+01:03:31,599 --> 01:03:33,599
+an economic interest association.
+
+1480
+01:03:33,599 --> 01:03:35,599
+It is a formal form.
+
+1481
+01:03:35,599 --> 01:03:37,599
+The Slovenian Technological Forum.
+
+1482
+01:03:37,599 --> 01:03:39,599
+We are waiting for the government
+
+1483
+01:03:39,599 --> 01:03:41,599
+to confirm the use of the word
+
+1484
+01:03:41,599 --> 01:03:43,599
+Slovenian.
+
+1485
+01:03:43,599 --> 01:03:45,599
+We haven't got it yet.
+
+1486
+01:03:45,599 --> 01:03:47,599
+We are a technological forum.
+
+1487
+01:03:47,599 --> 01:03:49,599
+The idea is
+
+1488
+01:03:49,599 --> 01:03:51,599
+that we have been listening
+
+1489
+01:03:51,599 --> 01:03:53,599
+for many years.
+
+1490
+01:03:53,599 --> 01:03:55,599
+Many of the entrepreneurs
+
+1491
+01:03:55,599 --> 01:03:57,599
+who tried to do something
+
+1492
+01:03:57,599 --> 01:03:59,599
+changed the environment
+
+1493
+01:03:59,599 --> 01:04:01,599
+and adapted to the environment
+
+1494
+01:04:01,599 --> 01:04:03,599
+of the technological sector.
+
+1495
+01:04:03,599 --> 01:04:05,599
+They worked hard
+
+1496
+01:04:05,599 --> 01:04:07,599
+and got a lot of information
+
+1497
+01:04:07,599 --> 01:04:09,599
+about the company.
+
+1498
+01:04:09,599 --> 01:04:11,599
+I am a representative
+
+1499
+01:04:11,599 --> 01:04:13,599
+and so on.
+
+1500
+01:04:13,599 --> 01:04:15,599
+Marcik also tried
+
+1501
+01:04:15,599 --> 01:04:17,599
+different associations
+
+1502
+01:04:17,599 --> 01:04:19,599
+and an economic forum
+
+1503
+01:04:19,599 --> 01:04:21,599
+and so on.
+
+1504
+01:04:23,599 --> 01:04:25,599
+They were unsuccessful.
+
+1505
+01:04:27,599 --> 01:04:29,599
+In the last year and a half
+
+1506
+01:04:29,599 --> 01:04:31,599
+there were
+
+1507
+01:04:31,599 --> 01:04:33,599
+17 companies
+
+1508
+01:04:33,599 --> 01:04:35,599
+who joined us.
+
+1509
+01:04:37,599 --> 01:04:39,599
+We said
+
+1510
+01:04:39,599 --> 01:04:41,599
+that we will give
+
+1511
+01:04:41,599 --> 01:04:43,599
+20,000 euros
+
+1512
+01:04:43,599 --> 01:04:45,599
+for this project.
+
+1513
+01:04:45,599 --> 01:04:47,599
+We believe
+
+1514
+01:04:47,599 --> 01:04:49,599
+that we will put our money
+
+1515
+01:04:49,599 --> 01:04:51,599
+into it.
+
+1516
+01:04:51,599 --> 01:04:53,599
+We will create
+
+1517
+01:04:53,599 --> 01:04:55,599
+an association
+
+1518
+01:04:55,599 --> 01:04:57,599
+that will try
+
+1519
+01:04:57,599 --> 01:04:59,599
+to place
+
+1520
+01:04:59,599 --> 01:05:01,599
+an agenda
+
+1521
+01:05:01,599 --> 01:05:03,599
+in the public.
+
+1522
+01:05:03,599 --> 01:05:05,599
+We will lobby politicians
+
+1523
+01:05:05,599 --> 01:05:07,599
+and try to persuade
+
+1524
+01:05:07,599 --> 01:05:09,599
+the public and politicians
+
+1525
+01:05:09,599 --> 01:05:11,599
+to start
+
+1526
+01:05:11,599 --> 01:05:13,599
+working.
+
+1527
+01:05:13,599 --> 01:05:15,599
+I think
+
+1528
+01:05:15,599 --> 01:05:17,599
+we will have to
+
+1529
+01:05:17,599 --> 01:05:19,599
+create a vision
+
+1530
+01:05:19,599 --> 01:05:21,599
+of what Slovenia should be.
+
+1531
+01:05:21,599 --> 01:05:23,599
+A strategic plan.
+
+1532
+01:05:23,599 --> 01:05:25,599
+No, not a strategic plan.
+
+1533
+01:05:25,599 --> 01:05:27,599
+A vision.
+
+1534
+01:05:27,599 --> 01:05:29,599
+What do we want to be in 10 years?
+
+1535
+01:05:29,599 --> 01:05:31,599
+A less defined,
+
+1536
+01:05:31,599 --> 01:05:33,599
+but a starting point.
+
+1537
+01:05:33,599 --> 01:05:35,599
+Something that
+
+1538
+01:05:35,599 --> 01:05:37,599
+the society would accept.
+
+1539
+01:05:37,599 --> 01:05:39,599
+This is not
+
+1540
+01:05:39,599 --> 01:05:41,599
+just something
+
+1541
+01:05:41,599 --> 01:05:43,599
+for the environment,
+
+1542
+01:05:43,599 --> 01:05:45,599
+it is everything.
+
+1543
+01:05:45,599 --> 01:05:47,599
+The technological sector
+
+1544
+01:05:47,599 --> 01:05:49,599
+must be successful
+
+1545
+01:05:49,599 --> 01:05:51,599
+if we do not improve education.
+
+1546
+01:05:51,599 --> 01:05:53,599
+If the environment
+
+1547
+01:05:53,599 --> 01:05:55,599
+is not open
+
+1548
+01:05:55,599 --> 01:05:57,599
+to the migration
+
+1549
+01:05:57,599 --> 01:05:59,599
+of immigrants
+
+1550
+01:05:59,599 --> 01:06:01,599
+and their families.
+
+1551
+01:06:03,599 --> 01:06:05,599
+We need a lot of
+
+1552
+01:06:05,599 --> 01:06:07,599
+initiatives.
+
+1553
+01:06:07,599 --> 01:06:09,599
+Silicon Gardens
+
+1554
+01:06:09,599 --> 01:06:11,599
+is one of the members.
+
+1555
+01:06:11,599 --> 01:06:13,599
+We see that
+
+1556
+01:06:13,599 --> 01:06:15,599
+if we invest in the Slovenian sector,
+
+1557
+01:06:15,599 --> 01:06:17,599
+in the next round,
+
+1558
+01:06:17,599 --> 01:06:19,599
+this sector will move
+
+1559
+01:06:19,599 --> 01:06:21,599
+to Delaware, London,
+
+1560
+01:06:21,599 --> 01:06:23,599
+or somewhere else,
+
+1561
+01:06:23,599 --> 01:06:25,599
+because a venture capitalist
+
+1562
+01:06:25,599 --> 01:06:27,599
+from Silicon Valley
+
+1563
+01:06:27,599 --> 01:06:29,599
+will not come to a notary
+
+1564
+01:06:29,599 --> 01:06:31,599
+in Slovenia with a power of attorney
+
+1565
+01:06:31,599 --> 01:06:33,599
+where he will be able
+
+1566
+01:06:33,599 --> 01:06:35,599
+to invest.
+
+1567
+01:06:35,599 --> 01:06:37,599
+No way.
+
+1568
+01:06:37,599 --> 01:06:39,599
+This is
+
+1569
+01:06:39,599 --> 01:06:41,599
+a problem
+
+1570
+01:06:41,599 --> 01:06:43,599
+that he will not solve.
+
+1571
+01:06:43,599 --> 01:06:45,599
+There are some problems
+
+1572
+01:06:45,599 --> 01:06:47,599
+that can be solved
+
+1573
+01:06:47,599 --> 01:06:49,599
+with low-hanging fruit.
+
+1574
+01:06:49,599 --> 01:06:51,599
+There are also problems
+
+1575
+01:06:51,599 --> 01:06:53,599
+that need to be imagined
+
+1576
+01:06:53,599 --> 01:06:55,599
+as a vision,
+
+1577
+01:06:55,599 --> 01:06:57,599
+to start believing
+
+1578
+01:06:57,599 --> 01:06:59,599
+that something can be done.
+
+1579
+01:06:59,599 --> 01:07:01,599
+I believe in politics
+
+1580
+01:07:01,599 --> 01:07:03,599
+as a vision.
+
+1581
+01:07:03,599 --> 01:07:05,599
+If we look back
+
+1582
+01:07:05,599 --> 01:07:07,599
+while I was preparing
+
+1583
+01:07:07,599 --> 01:07:09,599
+politics
+
+1584
+01:07:09,599 --> 01:07:11,599
+before independence
+
+1585
+01:07:11,599 --> 01:07:13,599
+and so on,
+
+1586
+01:07:13,599 --> 01:07:15,599
+we had a vision
+
+1587
+01:07:15,599 --> 01:07:17,599
+of an independent state,
+
+1588
+01:07:17,599 --> 01:07:19,599
+we had a vision
+
+1589
+01:07:19,599 --> 01:07:21,599
+of the European Union,
+
+1590
+01:07:21,599 --> 01:07:23,599
+we had a vision of the euro,
+
+1591
+01:07:23,599 --> 01:07:25,599
+and the whole society
+
+1592
+01:07:25,599 --> 01:07:27,599
+was working to achieve it.
+
+1593
+01:07:27,599 --> 01:07:29,599
+A lot of things
+
+1594
+01:07:29,599 --> 01:07:31,599
+had to be adapted
+
+1595
+01:07:31,599 --> 01:07:33,599
+to achieve it.
+
+1596
+01:07:33,599 --> 01:07:35,599
+Now we are moving
+
+1597
+01:07:35,599 --> 01:07:37,599
+without any vision.
+
+1598
+01:07:37,599 --> 01:07:39,599
+We are talking about
+
+1599
+01:07:39,599 --> 01:07:41,599
+a bit of tourism,
+
+1600
+01:07:41,599 --> 01:07:43,599
+a bit of dark metal,
+
+1601
+01:07:43,599 --> 01:07:45,599
+a bit of aquaponics.
+
+1602
+01:07:45,599 --> 01:07:47,599
+My question is
+
+1603
+01:07:47,599 --> 01:07:49,599
+related to that.
+
+1604
+01:07:49,599 --> 01:07:51,599
+What kind of infrastructure
+
+1605
+01:07:51,599 --> 01:07:53,599
+is really important,
+
+1606
+01:07:53,599 --> 01:07:55,599
+purely plastic,
+
+1607
+01:07:55,599 --> 01:07:57,599
+what kind of infrastructure
+
+1608
+01:07:57,599 --> 01:07:59,599
+is needed for this kind of
+
+1609
+01:07:59,599 --> 01:08:01,599
+tasks?
+
+1610
+01:08:01,599 --> 01:08:03,599
+Sometimes they say
+
+1611
+01:08:03,599 --> 01:08:05,599
+you need a railway,
+
+1612
+01:08:05,599 --> 01:08:07,599
+you need a highway.
+
+1613
+01:08:07,599 --> 01:08:09,599
+Where do you see
+
+1614
+01:08:09,599 --> 01:08:11,599
+this basic
+
+1615
+01:08:11,599 --> 01:08:13,599
+base layer
+
+1616
+01:08:13,599 --> 01:08:15,599
+that is really needed?
+
+1617
+01:08:15,599 --> 01:08:17,599
+I am a big advocate
+
+1618
+01:08:17,599 --> 01:08:19,599
+that education is
+
+1619
+01:08:19,599 --> 01:08:21,599
+one of the big tasks.
+
+1620
+01:08:21,599 --> 01:08:23,599
+I am not talking about
+
+1621
+01:08:23,599 --> 01:08:25,599
+the vehement digitization
+
+1622
+01:08:25,599 --> 01:08:27,599
+and so on.
+
+1623
+01:08:27,599 --> 01:08:29,599
+This aspect seems important to me,
+
+1624
+01:08:29,599 --> 01:08:31,599
+but it seems more important
+
+1625
+01:08:31,599 --> 01:08:33,599
+that the next generation
+
+1626
+01:08:33,599 --> 01:08:35,599
+that comes out
+
+1627
+01:08:35,599 --> 01:08:37,599
+of the school system
+
+1628
+01:08:37,599 --> 01:08:39,599
+would experience
+
+1629
+01:08:39,599 --> 01:08:41,599
+more things,
+
+1630
+01:08:41,599 --> 01:08:43,599
+more cooperation and so on.
+
+1631
+01:08:43,599 --> 01:08:45,599
+Today, the school is very competitive
+
+1632
+01:08:45,599 --> 01:08:47,599
+in terms of individualized
+
+1633
+01:08:47,599 --> 01:08:49,599
+assessments and some fight
+
+1634
+01:08:49,599 --> 01:08:51,599
+for that.
+
+1635
+01:08:51,599 --> 01:08:53,599
+You have to create
+
+1636
+01:08:53,599 --> 01:08:55,599
+a foundation for cooperation
+
+1637
+01:08:55,599 --> 01:08:57,599
+and so on.
+
+1638
+01:08:57,599 --> 01:08:59,599
+Education seems to me
+
+1639
+01:08:59,599 --> 01:09:01,599
+to be one of the key tasks.
+
+1640
+01:09:01,599 --> 01:09:03,599
+When I say
+
+1641
+01:09:03,599 --> 01:09:05,599
+digitization,
+
+1642
+01:09:05,599 --> 01:09:07,599
+I mean that
+
+1643
+01:09:07,599 --> 01:09:09,599
+if you look at Nobel Prizes
+
+1644
+01:09:09,599 --> 01:09:11,599
+most of the awards
+
+1645
+01:09:11,599 --> 01:09:13,599
+were awarded
+
+1646
+01:09:13,599 --> 01:09:15,599
+in different fields
+
+1647
+01:09:15,599 --> 01:09:17,599
+for achievements
+
+1648
+01:09:17,599 --> 01:09:19,599
+that were effective
+
+1649
+01:09:19,599 --> 01:09:21,599
+due to the use
+
+1650
+01:09:21,599 --> 01:09:23,599
+of data
+
+1651
+01:09:23,599 --> 01:09:25,599
+and information technologies
+
+1652
+01:09:25,599 --> 01:09:27,599
+that enabled
+
+1653
+01:09:27,599 --> 01:09:29,599
+breakthroughs.
+
+1654
+01:09:29,599 --> 01:09:31,599
+Today,
+
+1655
+01:09:31,599 --> 01:09:33,599
+chemists, physicists,
+
+1656
+01:09:33,599 --> 01:09:35,599
+everyone needs
+
+1657
+01:09:35,599 --> 01:09:37,599
+to be literate
+
+1658
+01:09:37,599 --> 01:09:39,599
+in digital sciences
+
+1659
+01:09:39,599 --> 01:09:41,599
+a long time ago.
+
+1660
+01:09:41,599 --> 01:09:43,599
+If we don't use
+
+1661
+01:09:43,599 --> 01:09:45,599
+these talents of young children,
+
+1662
+01:09:45,599 --> 01:09:47,599
+we probably won't
+
+1663
+01:09:47,599 --> 01:09:49,599
+be able to go to Bangalore.
+
+1664
+01:09:49,599 --> 01:09:51,599
+I was lucky
+
+1665
+01:09:51,599 --> 01:09:53,599
+when I was in school.
+
+1666
+01:09:53,599 --> 01:09:55,599
+I had a math teacher
+
+1667
+01:09:55,599 --> 01:09:57,599
+who opened my eyes.
+
+1668
+01:09:57,599 --> 01:09:59,599
+He was really good
+
+1669
+01:09:59,599 --> 01:10:01,599
+at computer science
+
+1670
+01:10:01,599 --> 01:10:03,599
+at the Kran High School.
+
+1671
+01:10:03,599 --> 01:10:05,599
+He was led by a teacher.
+
+1672
+01:10:05,599 --> 01:10:07,599
+I think we need more of that.
+
+1673
+01:10:07,599 --> 01:10:09,599
+That's one thing.
+
+1674
+01:10:09,599 --> 01:10:11,599
+The other is bureaucratic trust.
+
+1675
+01:10:11,599 --> 01:10:13,599
+Bureaucratic trust is nonsense.
+
+1676
+01:10:13,599 --> 01:10:15,599
+When you say
+
+1677
+01:10:15,599 --> 01:10:17,599
+this is trust,
+
+1678
+01:10:17,599 --> 01:10:19,599
+can we send it?
+
+1679
+01:10:19,599 --> 01:10:21,599
+We don't have it in the company.
+
+1680
+01:10:21,599 --> 01:10:23,599
+If there is a trust,
+
+1681
+01:10:23,599 --> 01:10:25,599
+where can you send it?
+
+1682
+01:10:25,599 --> 01:10:27,599
+Someone set it up.
+
+1683
+01:10:27,599 --> 01:10:29,599
+What is the solution?
+
+1684
+01:10:29,599 --> 01:10:31,599
+How can we remove this trust?
+
+1685
+01:10:31,599 --> 01:10:33,599
+This is where
+
+1686
+01:10:33,599 --> 01:10:35,599
+the journalist's
+
+1687
+01:10:35,599 --> 01:10:37,599
+inexperience comes in.
+
+1688
+01:10:37,599 --> 01:10:39,599
+Maybe the journalists would
+
+1689
+01:10:39,599 --> 01:10:41,599
+do better.
+
+1690
+01:10:43,599 --> 01:10:45,599
+There is a quote.
+
+1691
+01:10:45,599 --> 01:10:47,599
+If you want to make enemies,
+
+1692
+01:10:47,599 --> 01:10:49,599
+try to change something.
+
+1693
+01:10:49,599 --> 01:10:51,599
+It sounds like an uphill battle.
+
+1694
+01:10:51,599 --> 01:10:53,599
+Yes.
+
+1695
+01:10:53,599 --> 01:10:55,599
+I agree.
+
+1696
+01:10:55,599 --> 01:10:57,599
+We also think
+
+1697
+01:10:57,599 --> 01:10:59,599
+a lot
+
+1698
+01:10:59,599 --> 01:11:01,599
+about how
+
+1699
+01:11:01,599 --> 01:11:03,599
+we will be able to communicate
+
+1700
+01:11:03,599 --> 01:11:05,599
+this information.
+
+1701
+01:11:05,599 --> 01:11:07,599
+If you try to change something,
+
+1702
+01:11:07,599 --> 01:11:09,599
+it's a disaster.
+
+1703
+01:11:09,599 --> 01:11:11,599
+I think we need a new vision.
+
+1704
+01:11:11,599 --> 01:11:13,599
+We need to imagine
+
+1705
+01:11:13,599 --> 01:11:15,599
+a better future.
+
+1706
+01:11:15,599 --> 01:11:17,599
+Why?
+
+1707
+01:11:17,599 --> 01:11:19,599
+And then we hope to
+
+1708
+01:11:19,599 --> 01:11:21,599
+talk about it.
+
+1709
+01:11:21,599 --> 01:11:23,599
+A good example
+
+1710
+01:11:23,599 --> 01:11:25,599
+is Digital Serbia.
+
+1711
+01:11:25,599 --> 01:11:27,599
+They are an IT company.
+
+1712
+01:11:27,599 --> 01:11:29,599
+Serbia is in a different situation.
+
+1713
+01:11:29,599 --> 01:11:31,599
+The success rate is too good.
+
+1714
+01:11:31,599 --> 01:11:33,599
+We tolerate everything.
+
+1715
+01:11:33,599 --> 01:11:35,599
+It's not bad enough yet.
+
+1716
+01:11:35,599 --> 01:11:37,599
+It's good.
+
+1717
+01:11:37,599 --> 01:11:39,599
+When you are in a worse situation,
+
+1718
+01:11:39,599 --> 01:11:41,599
+it's easier to grow.
+
+1719
+01:11:41,599 --> 01:11:43,599
+They launched
+
+1720
+01:11:43,599 --> 01:11:45,599
+a voice
+
+1721
+01:11:45,599 --> 01:11:47,599
+where they said,
+
+1722
+01:11:47,599 --> 01:11:49,599
+I'm learning Python at school.
+
+1723
+01:11:49,599 --> 01:11:51,599
+That was the vision.
+
+1724
+01:11:51,599 --> 01:11:53,599
+Then they came to this.
+
+1725
+01:11:53,599 --> 01:11:55,599
+They started
+
+1726
+01:11:55,599 --> 01:11:57,599
+programming based on
+
+1727
+01:11:57,599 --> 01:11:59,599
+Word and writing.
+
+1728
+01:12:01,599 --> 01:12:03,599
+It's a creative work.
+
+1729
+01:12:03,599 --> 01:12:05,599
+It's a creative creation.
+
+1730
+01:12:05,599 --> 01:12:07,599
+They do it
+
+1731
+01:12:07,599 --> 01:12:09,599
+with students,
+
+1732
+01:12:09,599 --> 01:12:11,599
+students and so on.
+
+1733
+01:12:13,599 --> 01:12:15,599
+You continue.
+
+1734
+01:12:15,599 --> 01:12:17,599
+When we were preparing,
+
+1735
+01:12:17,599 --> 01:12:19,599
+we thought a lot.
+
+1736
+01:12:19,599 --> 01:12:21,599
+I'm an investor.
+
+1737
+01:12:23,599 --> 01:12:25,599
+We have certain problems
+
+1738
+01:12:25,599 --> 01:12:27,599
+with law
+
+1739
+01:12:27,599 --> 01:12:29,599
+or with
+
+1740
+01:12:29,599 --> 01:12:31,599
+not so modern
+
+1741
+01:12:31,599 --> 01:12:33,599
+legislation.
+
+1742
+01:12:33,599 --> 01:12:35,599
+We thought,
+
+1743
+01:12:35,599 --> 01:12:37,599
+what does it look like in Slovenia
+
+1744
+01:12:37,599 --> 01:12:39,599
+if you want to make a business
+
+1745
+01:12:39,599 --> 01:12:41,599
+for employees?
+
+1746
+01:12:41,599 --> 01:12:43,599
+When I listen to it,
+
+1747
+01:12:43,599 --> 01:12:45,599
+I feel like
+
+1748
+01:12:45,599 --> 01:12:47,599
+we are at a point
+
+1749
+01:12:47,599 --> 01:12:49,599
+where
+
+1750
+01:12:49,599 --> 01:12:51,599
+the legislation
+
+1751
+01:12:51,599 --> 01:12:53,599
+states that certain institutions
+
+1752
+01:12:53,599 --> 01:12:55,599
+wrote their own laws
+
+1753
+01:12:55,599 --> 01:12:57,599
+and proposed them.
+
+1754
+01:12:57,599 --> 01:12:59,599
+Maybe it helped
+
+1755
+01:12:59,599 --> 01:13:01,599
+to change the law.
+
+1756
+01:13:01,599 --> 01:13:03,599
+I'm talking about
+
+1757
+01:13:03,599 --> 01:13:05,599
+the evolution
+
+1758
+01:13:05,599 --> 01:13:07,599
+of diseases.
+
+1759
+01:13:09,599 --> 01:13:11,599
+How do you see
+
+1760
+01:13:11,599 --> 01:13:13,599
+this topic
+
+1761
+01:13:13,599 --> 01:13:15,599
+of employee capital?
+
+1762
+01:13:15,599 --> 01:13:17,599
+We are working on it.
+
+1763
+01:13:17,599 --> 01:13:19,599
+There will be steps in lobbying.
+
+1764
+01:13:19,599 --> 01:13:21,599
+Lobbying has mixed feelings.
+
+1765
+01:13:21,599 --> 01:13:23,599
+In Slovenia,
+
+1766
+01:13:23,599 --> 01:13:25,599
+it's a taboo.
+
+1767
+01:13:25,599 --> 01:13:27,599
+I don't think
+
+1768
+01:13:27,599 --> 01:13:29,599
+it should be.
+
+1769
+01:13:29,599 --> 01:13:31,599
+It depends on the person
+
+1770
+01:13:31,599 --> 01:13:33,599
+who does it and the way you do it.
+
+1771
+01:13:35,599 --> 01:13:37,599
+I don't think it's the best
+
+1772
+01:13:37,599 --> 01:13:39,599
+if laws
+
+1773
+01:13:39,599 --> 01:13:41,599
+come out of the blue
+
+1774
+01:13:41,599 --> 01:13:43,599
+and are proposed.
+
+1775
+01:13:43,599 --> 01:13:45,599
+I think the parliament
+
+1776
+01:13:45,599 --> 01:13:47,599
+has to do its job.
+
+1777
+01:13:47,599 --> 01:13:49,599
+They are paid
+
+1778
+01:13:49,599 --> 01:13:51,599
+to do their job.
+
+1779
+01:13:53,599 --> 01:13:55,599
+I don't want this.
+
+1780
+01:13:57,599 --> 01:13:59,599
+On the other hand,
+
+1781
+01:13:59,599 --> 01:14:01,599
+if you want to change something,
+
+1782
+01:14:01,599 --> 01:14:03,599
+you have to show the way.
+
+1783
+01:14:03,599 --> 01:14:05,599
+There are different ways.
+
+1784
+01:14:05,599 --> 01:14:07,599
+How do you solve
+
+1785
+01:14:07,599 --> 01:14:09,599
+the problem of
+
+1786
+01:14:09,599 --> 01:14:11,599
+giving a startup
+
+1787
+01:14:11,599 --> 01:14:13,599
+and making it profitable?
+
+1788
+01:14:13,599 --> 01:14:15,599
+The biggest problem
+
+1789
+01:14:15,599 --> 01:14:17,599
+is that people
+
+1790
+01:14:17,599 --> 01:14:19,599
+don't buy it.
+
+1791
+01:14:19,599 --> 01:14:21,599
+If they buy it for nominal value,
+
+1792
+01:14:21,599 --> 01:14:23,599
+they will pay
+
+1793
+01:14:23,599 --> 01:14:25,599
+in cash.
+
+1794
+01:14:25,599 --> 01:14:27,599
+More than you plan to invest.
+
+1795
+01:14:27,599 --> 01:14:29,599
+That's exactly what's happening.
+
+1796
+01:14:29,599 --> 01:14:31,599
+People are looking for a way
+
+1797
+01:14:31,599 --> 01:14:33,599
+to do it.
+
+1798
+01:14:33,599 --> 01:14:35,599
+They establish a company
+
+1799
+01:14:35,599 --> 01:14:37,599
+and that company invests.
+
+1800
+01:14:37,599 --> 01:14:39,599
+It's hidden behind a holding company.
+
+1801
+01:14:39,599 --> 01:14:41,599
+Slovenia or anywhere else.
+
+1802
+01:14:41,599 --> 01:14:43,599
+It's transparent
+
+1803
+01:14:43,599 --> 01:14:45,599
+but it's not treated
+
+1804
+01:14:45,599 --> 01:14:47,599
+as a source of income.
+
+1805
+01:14:47,599 --> 01:14:49,599
+Or, I don't know,
+
+1806
+01:14:49,599 --> 01:14:51,599
+in the end,
+
+1807
+01:14:51,599 --> 01:14:53,599
+the Industrial Democracy Institute
+
+1808
+01:14:53,599 --> 01:14:55,599
+adopts the ESOP model
+
+1809
+01:14:55,599 --> 01:14:57,599
+which is a company
+
+1810
+01:14:57,599 --> 01:14:59,599
+as a part of the system.
+
+1811
+01:15:00,000 --> 01:15:11,000
+I would like to see it as something that cannot be picked up by a large number of people.
+
+1812
+01:15:11,000 --> 01:15:18,000
+On the other hand, there is a great potential that people who are involved in some great stories
+
+1813
+01:15:18,000 --> 01:15:24,000
+will gain some added value and then pay a capital gain.
+
+1814
+01:15:24,000 --> 01:15:31,000
+And in the end, the money, the people who are here, in Slovenia, who are working here,
+
+1815
+01:15:31,000 --> 01:15:36,000
+creating a family and so on, will probably be used by the majority here in the final phase,
+
+1816
+01:15:36,000 --> 01:15:38,000
+and not invested.
+
+1817
+01:15:38,000 --> 01:15:42,000
+Are we, as a society, aware that we live in such a global world,
+
+1818
+01:15:42,000 --> 01:15:46,000
+so that capital can jump quickly, but we are too little?
+
+1819
+01:15:46,000 --> 01:15:48,000
+Too little, too little.
+
+1820
+01:15:48,000 --> 01:15:57,000
+Do things happen quickly, or do we get confused because we are not aware of it?
+
+1821
+01:15:57,000 --> 01:16:03,000
+I don't know if we are not aware of it, but I think it's a priority.
+
+1822
+01:16:03,000 --> 01:16:07,000
+We are a typical example of status quo.
+
+1823
+01:16:07,000 --> 01:16:10,000
+Why would I change anything? It's just a part of it.
+
+1824
+01:16:10,000 --> 01:16:12,000
+It's not that bad.
+
+1825
+01:16:13,000 --> 01:16:21,000
+I think that's the main problem.
+
+1826
+01:16:23,000 --> 01:16:28,000
+Are we going to eat now, or are we going to ask some followers?
+
+1827
+01:16:28,000 --> 01:16:31,000
+Because he's been struggling with it.
+
+1828
+01:16:31,000 --> 01:16:35,000
+We can't eat here if we don't ask some followers.
+
+1829
+01:16:35,000 --> 01:16:42,000
+We'll sort it out. I think we have one more message from the audience.
+
+1830
+01:16:42,000 --> 01:16:43,000
+Yes, we can sort it out.
+
+1831
+01:16:43,000 --> 01:16:46,000
+You have it in front of you. Please, do it.
+
+1832
+01:16:46,000 --> 01:16:49,000
+You can make a drink of water if we need it.
+
+1833
+01:16:49,000 --> 01:16:51,000
+Or a top dog.
+
+1834
+01:16:54,000 --> 01:16:55,000
+Did you find it?
+
+1835
+01:16:55,000 --> 01:16:57,000
+Yes, I did.
+
+1836
+01:16:57,000 --> 01:17:01,000
+Majalko asked a question about technology.
+
+1837
+01:17:01,000 --> 01:17:03,000
+I believe you have it very respected.
+
+1838
+01:17:03,000 --> 01:17:06,000
+Luka leads a huge team of volunteers,
+
+1839
+01:17:06,000 --> 01:17:09,000
+where he has created a trailer during the pandemic.
+
+1840
+01:17:09,000 --> 01:17:12,000
+He has a question about soft skills,
+
+1841
+01:17:12,000 --> 01:17:17,000
+and how he came up with the organization of the work at the same time.
+
+1842
+01:17:17,000 --> 01:17:26,000
+I believe that technology is not the most demanding thing in all these projects,
+
+1843
+01:17:26,000 --> 01:17:30,000
+but how do you organize a group of volunteers?
+
+1844
+01:17:31,000 --> 01:17:34,000
+It's like herding the cats.
+
+1845
+01:17:36,000 --> 01:17:39,000
+Yes, it's very different.
+
+1846
+01:17:39,000 --> 01:17:42,000
+I was lucky enough to experience it myself.
+
+1847
+01:17:42,000 --> 01:17:45,000
+I was in Ubuntu and KDE community for 4 years,
+
+1848
+01:17:45,000 --> 01:17:47,000
+and I was very active.
+
+1849
+01:17:47,000 --> 01:17:49,000
+I saw it there.
+
+1850
+01:17:49,000 --> 01:17:54,000
+I saw the Ubuntu canonical, Ubuntu community,
+
+1851
+01:17:54,000 --> 01:17:57,000
+and the aspect of mixing it.
+
+1852
+01:17:58,000 --> 01:18:00,000
+Problems that arise there,
+
+1853
+01:18:00,000 --> 01:18:03,000
+and that's where I tried to solve them.
+
+1854
+01:18:03,000 --> 01:18:06,000
+In Ubuntu community, which we had at KDE,
+
+1855
+01:18:06,000 --> 01:18:09,000
+and I learned a lot there.
+
+1856
+01:18:09,000 --> 01:18:12,000
+I saw that things are different there.
+
+1857
+01:18:17,000 --> 01:18:19,000
+It's not like in a company,
+
+1858
+01:18:19,000 --> 01:18:21,000
+where you make a top-level decision,
+
+1859
+01:18:21,000 --> 01:18:23,000
+and then it's done.
+
+1860
+01:18:24,000 --> 01:18:28,000
+Community and meritocracy are the best types.
+
+1861
+01:18:28,000 --> 01:18:30,000
+What you do, you do.
+
+1862
+01:18:30,000 --> 01:18:32,000
+If you do something good,
+
+1863
+01:18:32,000 --> 01:18:34,000
+you'll be on the right track,
+
+1864
+01:18:34,000 --> 01:18:36,000
+and you'll keep doing it.
+
+1865
+01:18:37,000 --> 01:18:40,000
+The advantage of being an investigator during COVID
+
+1866
+01:18:40,000 --> 01:18:42,000
+was that, on the one hand,
+
+1867
+01:18:42,000 --> 01:18:44,000
+you could stay at home,
+
+1868
+01:18:44,000 --> 01:18:46,000
+work from home,
+
+1869
+01:18:46,000 --> 01:18:48,000
+and on the other hand,
+
+1870
+01:18:48,000 --> 01:18:50,000
+there were some smart people.
+
+1871
+01:18:51,000 --> 01:18:54,000
+They were worried about what would happen,
+
+1872
+01:18:54,000 --> 01:18:56,000
+and they said,
+
+1873
+01:18:56,000 --> 01:18:58,000
+this seems more important to me
+
+1874
+01:18:58,000 --> 01:19:00,000
+than what I do in the office.
+
+1875
+01:19:00,000 --> 01:19:02,000
+We had a few people
+
+1876
+01:19:02,000 --> 01:19:04,000
+who were on the other side,
+
+1877
+01:19:04,000 --> 01:19:07,000
+because we were so engaged,
+
+1878
+01:19:07,000 --> 01:19:09,000
+and interested,
+
+1879
+01:19:09,000 --> 01:19:12,000
+that we changed the priorities.
+
+1880
+01:19:12,000 --> 01:19:15,000
+In the beginning, it was very simple,
+
+1881
+01:19:15,000 --> 01:19:18,000
+because people were very engaged.
+
+1882
+01:19:18,000 --> 01:19:20,000
+I didn't change the plan,
+
+1883
+01:19:20,000 --> 01:19:23,000
+I just put together my Excel table,
+
+1884
+01:19:23,000 --> 01:19:25,000
+and that was it.
+
+1885
+01:19:25,000 --> 01:19:27,000
+Then it all came together.
+
+1886
+01:19:27,000 --> 01:19:29,000
+I said, let's not do it again,
+
+1887
+01:19:29,000 --> 01:19:31,000
+and it happened overnight.
+
+1888
+01:19:31,000 --> 01:19:33,000
+I was a comfortable person,
+
+1889
+01:19:33,000 --> 01:19:35,000
+and when I fell asleep,
+
+1890
+01:19:35,000 --> 01:19:37,000
+in the 10th grade,
+
+1891
+01:19:37,000 --> 01:19:39,000
+it was dark again,
+
+1892
+01:19:39,000 --> 01:19:41,000
+and I said, wow,
+
+1893
+01:19:41,000 --> 01:19:43,000
+yesterday I said let's not do it,
+
+1894
+01:19:43,000 --> 01:19:45,000
+and now this.
+
+1895
+01:19:45,000 --> 01:19:47,000
+You don't need a lot,
+
+1896
+01:19:47,000 --> 01:19:49,000
+because the environment is such
+
+1897
+01:19:49,000 --> 01:19:51,000
+that people are people.
+
+1898
+01:19:51,000 --> 01:19:54,000
+There were people from the academic sphere,
+
+1899
+01:19:54,000 --> 01:19:56,000
+who first tasted
+
+1900
+01:19:56,000 --> 01:19:59,000
+what it is like in an entrepreneurial environment.
+
+1901
+01:19:59,000 --> 01:20:02,000
+We had a more entrepreneurial culture,
+
+1902
+01:20:02,000 --> 01:20:04,000
+a more mentality,
+
+1903
+01:20:04,000 --> 01:20:07,000
+because there were a lot of developers,
+
+1904
+01:20:07,000 --> 01:20:09,000
+IT people, product managers,
+
+1905
+01:20:09,000 --> 01:20:12,000
+who were from such agile companies.
+
+1906
+01:20:12,000 --> 01:20:15,000
+And there were people from the academic world,
+
+1907
+01:20:15,000 --> 01:20:18,000
+professors from different faculties,
+
+1908
+01:20:18,000 --> 01:20:20,000
+scientists,
+
+1909
+01:20:20,000 --> 01:20:22,000
+and they first tasted
+
+1910
+01:20:22,000 --> 01:20:24,000
+what fast-paced moving was like,
+
+1911
+01:20:24,000 --> 01:20:26,000
+and they enjoyed it.
+
+1912
+01:20:26,000 --> 01:20:28,000
+Because they were used to doing
+
+1913
+01:20:28,000 --> 01:20:30,000
+big tasks,
+
+1914
+01:20:30,000 --> 01:20:32,000
+and it was impossible for them.
+
+1915
+01:20:32,000 --> 01:20:34,000
+Now they are all over the country,
+
+1916
+01:20:34,000 --> 01:20:36,000
+and there is no funding,
+
+1917
+01:20:36,000 --> 01:20:39,000
+and there was a can-do mentality.
+
+1918
+01:20:39,000 --> 01:20:41,000
+It was very simple.
+
+1919
+01:20:41,000 --> 01:20:43,000
+Then later,
+
+1920
+01:20:43,000 --> 01:20:45,000
+the motivation,
+
+1921
+01:20:45,000 --> 01:20:47,000
+the question is again
+
+1922
+01:20:47,000 --> 01:20:50,000
+the individual who sees it as a responsibility,
+
+1923
+01:20:50,000 --> 01:20:52,000
+and moves forward.
+
+1924
+01:20:52,000 --> 01:20:54,000
+Last year and a half,
+
+1925
+01:20:54,000 --> 01:20:56,000
+it was Maja Založnik,
+
+1926
+01:20:56,000 --> 01:20:58,000
+COVID-19,
+
+1927
+01:20:58,000 --> 01:21:00,000
+last year and a half,
+
+1928
+01:21:00,000 --> 01:21:02,000
+Maja Založnik,
+
+1929
+01:21:02,000 --> 01:21:04,000
+and some other people
+
+1930
+01:21:04,000 --> 01:21:06,000
+who jumped in at the moment.
+
+1931
+01:21:06,000 --> 01:21:08,000
+If there were 300 people active,
+
+1932
+01:21:08,000 --> 01:21:10,000
+100 people active weekly,
+
+1933
+01:21:10,000 --> 01:21:12,000
+and so on,
+
+1934
+01:21:13,000 --> 01:21:15,000
+now we have a scientific community
+
+1935
+01:21:15,000 --> 01:21:17,000
+behind it,
+
+1936
+01:21:17,000 --> 01:21:19,000
+which is the bearer of the project,
+
+1937
+01:21:19,000 --> 01:21:21,000
+so that we can collect donations
+
+1938
+01:21:21,000 --> 01:21:23,000
+through it,
+
+1939
+01:21:23,000 --> 01:21:25,000
+and so on.
+
+1940
+01:21:25,000 --> 01:21:27,000
+That was the main reason
+
+1941
+01:21:27,000 --> 01:21:29,000
+for establishing it,
+
+1942
+01:21:29,000 --> 01:21:31,000
+and also because we got
+
+1943
+01:21:31,000 --> 01:21:33,000
+a commercial version of SLEK
+
+1944
+01:21:33,000 --> 01:21:35,000
+as a non-profit.
+
+1945
+01:21:35,000 --> 01:21:37,000
+And these tasks,
+
+1946
+01:21:37,000 --> 01:21:39,000
+to offer some infrastructure,
+
+1947
+01:21:39,000 --> 01:21:41,000
+but the society is not the one
+
+1948
+01:21:41,000 --> 01:21:43,000
+that contributes,
+
+1949
+01:21:43,000 --> 01:21:45,000
+it is the ones
+
+1950
+01:21:45,000 --> 01:21:47,000
+that contribute,
+
+1951
+01:21:47,000 --> 01:21:49,000
+and so on.
+
+1952
+01:21:49,000 --> 01:21:51,000
+Some individuals
+
+1953
+01:21:51,000 --> 01:21:53,000
+came up with the idea,
+
+1954
+01:21:53,000 --> 01:21:55,000
+they were ready to do it,
+
+1955
+01:21:55,000 --> 01:21:57,000
+and then there was
+
+1956
+01:21:57,000 --> 01:21:59,000
+Jakar Danev,
+
+1957
+01:21:59,000 --> 01:22:01,000
+who coded it,
+
+1958
+01:22:01,000 --> 01:22:03,000
+and in the end,
+
+1959
+01:22:03,000 --> 01:22:05,000
+we had a new service.
+
+1960
+01:22:05,000 --> 01:22:07,000
+What is now easier,
+
+1961
+01:22:07,000 --> 01:22:09,000
+what is not,
+
+1962
+01:22:09,000 --> 01:22:11,000
+it is hard to find
+
+1963
+01:22:11,000 --> 01:22:13,000
+motivation,
+
+1964
+01:22:13,000 --> 01:22:15,000
+it is hard to find the team spirit,
+
+1965
+01:22:15,000 --> 01:22:17,000
+because they are just volunteers,
+
+1966
+01:22:17,000 --> 01:22:19,000
+and they all have the same time
+
+1967
+01:22:19,000 --> 01:22:21,000
+to invest,
+
+1968
+01:22:21,000 --> 01:22:23,000
+and then they wait for this,
+
+1969
+01:22:23,000 --> 01:22:25,000
+and that, and so on.
+
+1970
+01:22:25,000 --> 01:22:27,000
+Is this a model,
+
+1971
+01:22:27,000 --> 01:22:29,000
+do you need
+
+1972
+01:22:29,000 --> 01:22:31,000
+a state entity
+
+1973
+01:22:31,000 --> 01:22:33,000
+in these projects,
+
+1974
+01:22:33,000 --> 01:22:35,000
+or does it transcend?
+
+1975
+01:22:35,000 --> 01:22:37,000
+No,
+
+1976
+01:22:37,000 --> 01:22:39,000
+you don't need it.
+
+1977
+01:22:39,000 --> 01:22:41,000
+Are you making an offer
+
+1978
+01:22:41,000 --> 01:22:43,000
+for public good?
+
+1979
+01:22:43,000 --> 01:22:45,000
+Yes,
+
+1980
+01:22:45,000 --> 01:22:47,000
+it came up as a response
+
+1981
+01:22:47,000 --> 01:22:49,000
+to a need,
+
+1982
+01:22:49,000 --> 01:22:51,000
+I think we gave a need to the market.
+
+1983
+01:22:51,000 --> 01:22:53,000
+If I tell you what
+
+1984
+01:22:53,000 --> 01:22:55,000
+the MWP was,
+
+1985
+01:22:55,000 --> 01:22:57,000
+when I was asked what it was,
+
+1986
+01:22:57,000 --> 01:22:59,000
+I said that all I need
+
+1987
+01:22:59,000 --> 01:23:01,000
+is one page,
+
+1988
+01:23:01,000 --> 01:23:03,000
+I go to one link every day,
+
+1989
+01:23:03,000 --> 01:23:05,000
+and I can get
+
+1990
+01:23:05,000 --> 01:23:07,000
+quick information about what is going on,
+
+1991
+01:23:07,000 --> 01:23:09,000
+or I go deeper and find everything there.
+
+1992
+01:23:09,000 --> 01:23:11,000
+I don't need to have five pages,
+
+1993
+01:23:11,000 --> 01:23:13,000
+three levels down somewhere,
+
+1994
+01:23:13,000 --> 01:23:15,000
+to find waste water,
+
+1995
+01:23:15,000 --> 01:23:17,000
+data, or whatever.
+
+1996
+01:23:17,000 --> 01:23:19,000
+That was the idea,
+
+1997
+01:23:19,000 --> 01:23:21,000
+when the idea came up.
+
+1998
+01:23:21,000 --> 01:23:23,000
+That's why it's on the long side now,
+
+1999
+01:23:23,000 --> 01:23:25,000
+because we haven't refactored it yet,
+
+2000
+01:23:25,000 --> 01:23:27,000
+redesigned it,
+
+2001
+01:23:27,000 --> 01:23:29,000
+and it still serves as the main idea.
+
+2002
+01:23:29,000 --> 01:23:31,000
+And then there was a need.
+
+2003
+01:23:31,000 --> 01:23:33,000
+We were millions of users,
+
+2004
+01:23:33,000 --> 01:23:35,000
+and there are millions of users
+
+2005
+01:23:35,000 --> 01:23:37,000
+who access it every month.
+
+2006
+01:23:37,000 --> 01:23:39,000
+One thing that I think
+
+2007
+01:23:39,000 --> 01:23:41,000
+is particularly important
+
+2008
+01:23:41,000 --> 01:23:43,000
+is that
+
+2009
+01:23:43,000 --> 01:23:45,000
+open source models
+
+2010
+01:23:45,000 --> 01:23:47,000
+enable transparency.
+
+2011
+01:23:47,000 --> 01:23:49,000
+They enable openness and transparency,
+
+2012
+01:23:49,000 --> 01:23:51,000
+and it's all visible.
+
+2013
+01:23:51,000 --> 01:23:53,000
+Is this also a part
+
+2014
+01:23:53,000 --> 01:23:55,000
+where it was the basis
+
+2015
+01:23:55,000 --> 01:23:57,000
+for trust that was needed
+
+2016
+01:23:57,000 --> 01:23:59,000
+at the same time, I think?
+
+2017
+01:23:59,000 --> 01:24:01,000
+Yes, to some extent.
+
+2018
+01:24:01,000 --> 01:24:03,000
+Data that we created
+
+2019
+01:24:03,000 --> 01:24:05,000
+was all in CSV,
+
+2020
+01:24:05,000 --> 01:24:07,000
+in GitHub, in Diffie.
+
+2021
+01:24:07,000 --> 01:24:09,000
+Everything was visible.
+
+2022
+01:24:09,000 --> 01:24:11,000
+People could verify it,
+
+2023
+01:24:11,000 --> 01:24:13,000
+correct it, and send it back.
+
+2024
+01:24:13,000 --> 01:24:15,000
+And while we were working
+
+2025
+01:24:15,000 --> 01:24:17,000
+on the data,
+
+2026
+01:24:17,000 --> 01:24:19,000
+we had the validation automatically built in.
+
+2027
+01:24:19,000 --> 01:24:21,000
+Tanja Ambrozic,
+
+2028
+01:24:21,000 --> 01:24:23,000
+who used to work in RIC,
+
+2029
+01:24:23,000 --> 01:24:25,000
+the old accounting center,
+
+2030
+01:24:25,000 --> 01:24:27,000
+as an analytician,
+
+2031
+01:24:27,000 --> 01:24:29,000
+still sends Excel daily
+
+2032
+01:24:29,000 --> 01:24:31,000
+and recommends
+
+2033
+01:24:31,000 --> 01:24:33,000
+if something is missing in a model.
+
+2034
+01:24:33,000 --> 01:24:35,000
+You learn something
+
+2035
+01:24:35,000 --> 01:24:37,000
+from the people
+
+2036
+01:24:37,000 --> 01:24:39,000
+who sing about it.
+
+2037
+01:24:39,000 --> 01:24:41,000
+Transparency certainly helps.
+
+2038
+01:24:41,000 --> 01:24:43,000
+It also helps that
+
+2039
+01:24:43,000 --> 01:24:45,000
+a few junior engineers
+
+2040
+01:24:45,000 --> 01:24:47,000
+who were at Sladilnik
+
+2041
+01:24:47,000 --> 01:24:49,000
+found future jobs
+
+2042
+01:24:49,000 --> 01:24:51,000
+at the reference base of Sladilnik.
+
+2043
+01:24:51,000 --> 01:24:53,000
+This also happened.
+
+2044
+01:24:53,000 --> 01:24:55,000
+I don't know.
+
+2045
+01:24:55,000 --> 01:24:57,000
+At the end of the day,
+
+2046
+01:24:57,000 --> 01:24:59,000
+I don't know.
+
+2047
+01:24:59,000 --> 01:25:01,000
+Maybe it's a great example
+
+2048
+01:25:01,000 --> 01:25:03,000
+for discussion,
+
+2049
+01:25:03,000 --> 01:25:05,000
+but someone like Šarkaš
+
+2050
+01:25:05,000 --> 01:25:07,000
+is now looking for a new career
+
+2051
+01:25:07,000 --> 01:25:09,000
+in IT.
+
+2052
+01:25:09,000 --> 01:25:11,000
+He worked here on COVID,
+
+2053
+01:25:11,000 --> 01:25:13,000
+on healthcare,
+
+2054
+01:25:13,000 --> 01:25:15,000
+and contributed a lot.
+
+2055
+01:25:15,000 --> 01:25:17,000
+It enables a certain environment,
+
+2056
+01:25:17,000 --> 01:25:19,000
+and in the end,
+
+2057
+01:25:19,000 --> 01:25:21,000
+the community is the greatest value.
+
+2058
+01:25:21,000 --> 01:25:23,000
+The connections we established
+
+2059
+01:25:23,000 --> 01:25:25,000
+are the greatest value
+
+2060
+01:25:25,000 --> 01:25:27,000
+for Sladilnik.
+
+2061
+01:25:27,000 --> 01:25:29,000
+Now,
+
+2062
+01:25:29,000 --> 01:25:31,000
+we have a whiteboard here,
+
+2063
+01:25:31,000 --> 01:25:33,000
+and it says that we are running out of time
+
+2064
+01:25:33,000 --> 01:25:35,000
+for an extremely interesting
+
+2065
+01:25:35,000 --> 01:25:37,000
+part.
+
+2066
+01:25:37,000 --> 01:25:39,000
+I would just quickly...
+
+2067
+01:25:39,000 --> 01:25:41,000
+The repository is on GitHub,
+
+2068
+01:25:41,000 --> 01:25:43,000
+the organization is on GitHub,
+
+2069
+01:25:43,000 --> 01:25:45,000
+on Slack. If Sladilnik interests you
+
+2070
+01:25:45,000 --> 01:25:47,000
+and you are developers,
+
+2071
+01:25:47,000 --> 01:25:49,000
+I think you will find a link to it,
+
+2072
+01:25:49,000 --> 01:25:51,000
+if you haven't yet.
+
+2073
+01:25:51,000 --> 01:25:53,000
+So, on behalf of our
+
+2074
+01:25:53,000 --> 01:25:55,000
+team, thank you for Sladilnik,
+
+2075
+01:25:55,000 --> 01:25:57,000
+and to you and everyone who worked hard
+
+2076
+01:25:57,000 --> 01:25:59,000
+for Sladilnik.
+
+2077
+01:25:59,000 --> 01:26:01,000
+To conclude,
+
+2078
+01:26:01,000 --> 01:26:03,000
+we have two more questions,
+
+2079
+01:26:03,000 --> 01:26:05,000
+and then we will wrap up.
+
+2080
+01:26:05,000 --> 01:26:07,000
+Right at the end.
+
+2081
+01:26:07,000 --> 01:26:09,000
+There.
+
+2082
+01:26:09,000 --> 01:26:11,000
+Now,
+
+2083
+01:26:11,000 --> 01:26:13,000
+when I look at
+
+2084
+01:26:13,000 --> 01:26:15,000
+some of the people
+
+2085
+01:26:15,000 --> 01:26:17,000
+who are connected to Silicon Garden,
+
+2086
+01:26:17,000 --> 01:26:19,000
+and I think
+
+2087
+01:26:19,000 --> 01:26:21,000
+it's a step
+
+2088
+01:26:21,000 --> 01:26:23,000
+in the right direction,
+
+2089
+01:26:23,000 --> 01:26:25,000
+as a student,
+
+2090
+01:26:25,000 --> 01:26:27,000
+a few people
+
+2091
+01:26:27,000 --> 01:26:29,000
+stayed in Slovenia.
+
+2092
+01:26:29,000 --> 01:26:31,000
+You could have gone to Tuin,
+
+2093
+01:26:31,000 --> 01:26:33,000
+and you were in Tuin,
+
+2094
+01:26:33,000 --> 01:26:35,000
+but why did you
+
+2095
+01:26:35,000 --> 01:26:37,000
+stay in Slovenia?
+
+2096
+01:26:37,000 --> 01:26:39,000
+Why didn't you run away to Tuin?
+
+2097
+01:26:39,000 --> 01:26:41,000
+I would say,
+
+2098
+01:26:41,000 --> 01:26:43,000
+because of Radansk.
+
+2099
+01:26:43,000 --> 01:26:45,000
+When I worked
+
+2100
+01:26:45,000 --> 01:26:47,000
+at Silicon Valley,
+
+2101
+01:26:47,000 --> 01:26:49,000
+I really enjoyed
+
+2102
+01:26:49,000 --> 01:26:51,000
+the environment.
+
+2103
+01:26:51,000 --> 01:26:53,000
+In 1999-2000,
+
+2104
+01:26:53,000 --> 01:26:55,000
+I was appointed
+
+2105
+01:26:55,000 --> 01:26:57,000
+to San Jose Mercury News,
+
+2106
+01:26:57,000 --> 01:26:59,000
+which is a local newspaper,
+
+2107
+01:26:59,000 --> 01:27:01,000
+and I was reading it
+
+2108
+01:27:01,000 --> 01:27:03,000
+every day,
+
+2109
+01:27:03,000 --> 01:27:05,000
+on paper, if you can imagine.
+
+2110
+01:27:05,000 --> 01:27:07,000
+Inside, there were only good stories
+
+2111
+01:27:07,000 --> 01:27:09,000
+about what was happening,
+
+2112
+01:27:09,000 --> 01:27:11,000
+about new startups,
+
+2113
+01:27:11,000 --> 01:27:13,000
+in a daily newspaper.
+
+2114
+01:27:13,000 --> 01:27:15,000
+There were also other local stories,
+
+2115
+01:27:15,000 --> 01:27:17,000
+about the process of downtown San Jose,
+
+2116
+01:27:17,000 --> 01:27:19,000
+and the fact that this positivism
+
+2117
+01:27:19,000 --> 01:27:21,000
+can do anything,
+
+2118
+01:27:21,000 --> 01:27:23,000
+was incredible.
+
+2119
+01:27:23,000 --> 01:27:25,000
+The project I was working on
+
+2120
+01:27:25,000 --> 01:27:27,000
+didn't go well,
+
+2121
+01:27:27,000 --> 01:27:29,000
+and I was looking for
+
+2122
+01:27:29,000 --> 01:27:31,000
+an alternative,
+
+2123
+01:27:31,000 --> 01:27:33,000
+so that I could stay there.
+
+2124
+01:27:33,000 --> 01:27:35,000
+I identified three companies
+
+2125
+01:27:35,000 --> 01:27:37,000
+that I talked to,
+
+2126
+01:27:37,000 --> 01:27:39,000
+but in the end,
+
+2127
+01:27:39,000 --> 01:27:41,000
+as the right engineer
+
+2128
+01:27:41,000 --> 01:27:43,000
+wrote,
+
+2129
+01:27:43,000 --> 01:27:45,000
+I was ready to
+
+2130
+01:27:45,000 --> 01:27:47,000
+leave,
+
+2131
+01:27:47,000 --> 01:27:49,000
+and I didn't like it.
+
+2132
+01:27:51,000 --> 01:27:53,000
+I didn't like
+
+2133
+01:27:53,000 --> 01:27:55,000
+the fact that
+
+2134
+01:27:55,000 --> 01:27:57,000
+if I didn't prepare
+
+2135
+01:27:57,000 --> 01:27:59,000
+the food myself,
+
+2136
+01:27:59,000 --> 01:28:01,000
+I wouldn't eat well.
+
+2137
+01:28:01,000 --> 01:28:03,000
+There were companies
+
+2138
+01:28:03,000 --> 01:28:05,000
+that were on a different level.
+
+2139
+01:28:05,000 --> 01:28:07,000
+In the end,
+
+2140
+01:28:07,000 --> 01:28:09,000
+I was a fan of Radansk,
+
+2141
+01:28:09,000 --> 01:28:11,000
+and I had the feeling that
+
+2142
+01:28:11,000 --> 01:28:13,000
+Radansk found me there.
+
+2143
+01:28:13,000 --> 01:28:15,000
+So, I decided
+
+2144
+01:28:15,000 --> 01:28:17,000
+that the quality of life
+
+2145
+01:28:17,000 --> 01:28:19,000
+in Slovenia is relatively good.
+
+2146
+01:28:19,000 --> 01:28:21,000
+We don't know
+
+2147
+01:28:21,000 --> 01:28:23,000
+what we have
+
+2148
+01:28:23,000 --> 01:28:25,000
+at what distance.
+
+2149
+01:28:25,000 --> 01:28:27,000
+As long as you're not a fan,
+
+2150
+01:28:27,000 --> 01:28:29,000
+you don't know.
+
+2151
+01:28:29,000 --> 01:28:31,000
+Maybe I'm hard-delivered,
+
+2152
+01:28:31,000 --> 01:28:33,000
+that this is so good,
+
+2153
+01:28:33,000 --> 01:28:35,000
+maybe I'm a baker,
+
+2154
+01:28:35,000 --> 01:28:37,000
+I don't know.
+
+2155
+01:28:37,000 --> 01:28:39,000
+I'm a fan of Radansk,
+
+2156
+01:28:39,000 --> 01:28:41,000
+but I don't know
+
+2157
+01:28:41,000 --> 01:28:43,000
+I had a lot of colleagues
+
+2158
+01:28:43,000 --> 01:28:45,000
+with whom I could
+
+2159
+01:28:45,000 --> 01:28:47,000
+go to Inno,
+
+2160
+01:28:47,000 --> 01:28:49,000
+I did careers at EMC,
+
+2161
+01:28:49,000 --> 01:28:51,000
+Microsoft, Oracle.
+
+2162
+01:28:51,000 --> 01:28:53,000
+We had a lot of coaching
+
+2163
+01:28:53,000 --> 01:28:55,000
+at the same time.
+
+2164
+01:28:55,000 --> 01:28:57,000
+Part of that
+
+2165
+01:28:57,000 --> 01:28:59,000
+was that there were no opportunities,
+
+2166
+01:28:59,000 --> 01:29:01,000
+but I decided that
+
+2167
+01:29:01,000 --> 01:29:03,000
+it's a matter of personal decisions.
+
+2168
+01:29:03,000 --> 01:29:05,000
+Maybe I had a challenge
+
+2169
+01:29:05,000 --> 01:29:07,000
+because of that,
+
+2170
+01:29:07,000 --> 01:29:09,000
+maybe a small one on the other hand,
+
+2171
+01:29:09,000 --> 01:29:11,000
+you can make great stories from here.
+
+2172
+01:29:11,000 --> 01:29:13,000
+One last question.
+
+2173
+01:29:13,000 --> 01:29:15,000
+Give us another
+
+2174
+01:29:15,000 --> 01:29:17,000
+world for young people
+
+2175
+01:29:17,000 --> 01:29:19,000
+in the industry.
+
+2176
+01:29:19,000 --> 01:29:21,000
+I also wrote that young people
+
+2177
+01:29:21,000 --> 01:29:23,000
+can listen to older people.
+
+2178
+01:29:23,000 --> 01:29:25,000
+We all don't know something,
+
+2179
+01:29:25,000 --> 01:29:27,000
+so we need a good world.
+
+2180
+01:29:27,000 --> 01:29:29,000
+Young people who are moving
+
+2181
+01:29:29,000 --> 01:29:31,000
+to the sector
+
+2182
+01:29:31,000 --> 01:29:33,000
+at the moment,
+
+2183
+01:29:33,000 --> 01:29:35,000
+or maybe us,
+
+2184
+01:29:35,000 --> 01:29:37,000
+who are young at heart.
+
+2185
+01:29:37,000 --> 01:29:39,000
+I would like to ask
+
+2186
+01:29:39,000 --> 01:29:41,000
+if you are doing something
+
+2187
+01:29:41,000 --> 01:29:43,000
+that motivates you personally?
+
+2188
+01:29:43,000 --> 01:29:45,000
+That's a question
+
+2189
+01:29:45,000 --> 01:29:47,000
+you should ask once a month.
+
+2190
+01:29:47,000 --> 01:29:49,000
+Do you do it
+
+2191
+01:29:49,000 --> 01:29:51,000
+because it motivates you personally?
+
+2192
+01:29:51,000 --> 01:29:53,000
+Do you do it with a personal motivation?
+
+2193
+01:29:53,000 --> 01:29:55,000
+Do you believe in the story you are doing?
+
+2194
+01:29:55,000 --> 01:29:57,000
+And if not,
+
+2195
+01:29:57,000 --> 01:29:59,000
+do you think about what would
+
+2196
+01:29:59,000 --> 01:30:01,000
+motivate you?
+
+2197
+01:30:01,000 --> 01:30:03,000
+Maybe it's an independent path,
+
+2198
+01:30:03,000 --> 01:30:05,000
+maybe it's a quick course.
+
+2199
+01:30:05,000 --> 01:30:07,000
+I haven't done a lot
+
+2200
+01:30:07,000 --> 01:30:09,000
+in the history of my career.
+
+2201
+01:30:09,000 --> 01:30:11,000
+I've been at Hermes Softlab for 18 years,
+
+2202
+01:30:11,000 --> 01:30:13,000
+since I was 18.
+
+2203
+01:30:13,000 --> 01:30:15,000
+When I found out I would be
+
+2204
+01:30:15,000 --> 01:30:17,000
+in the market at 36,
+
+2205
+01:30:17,000 --> 01:30:19,000
+I found out I would have half my life
+
+2206
+01:30:19,000 --> 01:30:21,000
+there, in a company.
+
+2207
+01:30:21,000 --> 01:30:23,000
+And the last year and a half
+
+2208
+01:30:23,000 --> 01:30:25,000
+I was more worried
+
+2209
+01:30:25,000 --> 01:30:27,000
+about how I, as a manager
+
+2210
+01:30:27,000 --> 01:30:29,000
+of another company,
+
+2211
+01:30:29,000 --> 01:30:31,000
+would take on another team.
+
+2212
+01:30:31,000 --> 01:30:33,000
+I grew up in a team,
+
+2213
+01:30:33,000 --> 01:30:35,000
+they bought me,
+
+2214
+01:30:35,000 --> 01:30:37,000
+I was under their care,
+
+2215
+01:30:37,000 --> 01:30:39,000
+and because of that,
+
+2216
+01:30:39,000 --> 01:30:41,000
+I was able to survive
+
+2217
+01:30:41,000 --> 01:30:43,000
+the last year and a half,
+
+2218
+01:30:43,000 --> 01:30:45,000
+which were not ideal for my career.
+
+2219
+01:30:45,000 --> 01:30:47,000
+Ask yourself,
+
+2220
+01:30:47,000 --> 01:30:49,000
+does it motivate you?
+
+2221
+01:30:49,000 --> 01:30:51,000
+If you are doing something
+
+2222
+01:30:51,000 --> 01:30:53,000
+with your personal joy,
+
+2223
+01:30:53,000 --> 01:30:55,000
+I believe there are a lot of opportunities
+
+2224
+01:30:55,000 --> 01:30:57,000
+in the world of IT,
+
+2225
+01:30:57,000 --> 01:30:59,000
+where you can do it.
+
+2226
+01:30:59,000 --> 01:31:01,000
+I am responsible for loyalty,
+
+2227
+01:31:01,000 --> 01:31:03,000
+I am not the kind of person
+
+2228
+01:31:03,000 --> 01:31:05,000
+to change things,
+
+2229
+01:31:05,000 --> 01:31:07,000
+but think about
+
+2230
+01:31:07,000 --> 01:31:09,000
+what you do,
+
+2231
+01:31:09,000 --> 01:31:11,000
+is it a product, a story,
+
+2232
+01:31:11,000 --> 01:31:13,000
+do you really believe in it?
+
+2233
+01:31:13,000 --> 01:31:15,000
+And if not, do you believe in it?
+
+2234
+01:31:15,000 --> 01:31:17,000
+That's the first step.
+
+2235
+01:31:17,000 --> 01:31:19,000
+Why don't you believe in it?
+
+2236
+01:31:19,000 --> 01:31:21,000
+Why are you not fully in it?
+
+2237
+01:31:21,000 --> 01:31:23,000
+Because when you start doing it,
+
+2238
+01:31:23,000 --> 01:31:25,000
+it will be easy.
+
+2239
+01:31:25,000 --> 01:31:27,000
+Then you start functioning differently.
+
+2240
+01:31:27,000 --> 01:31:29,000
+It's not a service anymore,
+
+2241
+01:31:29,000 --> 01:31:31,000
+it's something that enriches you,
+
+2242
+01:31:31,000 --> 01:31:33,000
+you start enjoying it,
+
+2243
+01:31:33,000 --> 01:31:35,000
+and it's not hard at all.
+
+2244
+01:31:35,000 --> 01:31:37,000
+And the environment around you
+
+2245
+01:31:37,000 --> 01:31:39,000
+will change.
+
+2246
+01:31:39,000 --> 01:31:41,000
+When you change,
+
+2247
+01:31:41,000 --> 01:31:43,000
+the environment around you will change.
+
+2248
+01:31:43,000 --> 01:31:45,000
+Thank you, Luka,
+
+2249
+01:31:45,000 --> 01:31:47,000
+that was our exit.
+
+2250
+01:31:47,000 --> 01:31:49,000
+Thank you again, Luka Renko,
+
+2251
+01:31:49,000 --> 01:31:51,000
+for your interview, we appreciate it.
+
+2252
+01:31:51,000 --> 01:31:53,000
+Thank you, Tepan Draž,
+
+2253
+01:31:53,000 --> 01:31:55,000
+thank you to the team,
+
+2254
+01:31:55,000 --> 01:31:57,000
+thank you to Dollar Media for the production,
+
+2255
+01:31:57,000 --> 01:31:59,000
+thank you to the viewers.
+
+2256
+01:31:59,000 --> 01:32:01,000
+Thank you, because you're doing
+
+2257
+01:32:01,000 --> 01:32:03,000
+such a dedicated podcast in this area,
+
+2258
+01:32:03,000 --> 01:32:05,000
+I think it's really enjoyable.
+
+2259
+01:32:05,000 --> 01:32:07,000
+If you listen to it regularly.
+
+2260
+01:32:07,000 --> 01:32:09,000
+Yes.
+
+2261
+01:32:09,000 --> 01:32:11,000
+The problem is that
+
+2262
+01:32:11,000 --> 01:32:13,000
+there are no more daily commutes,
+
+2263
+01:32:13,000 --> 01:32:15,000
+and then there are opportunities for that,
+
+2264
+01:32:15,000 --> 01:32:17,000
+even when I wash dishes,
+
+2265
+01:32:17,000 --> 01:32:19,000
+I still listen to the podcast,
+
+2266
+01:32:19,000 --> 01:32:21,000
+and it's just fleeting time,
+
+2267
+01:32:21,000 --> 01:32:23,000
+the listener does too much,
+
+2268
+01:32:23,000 --> 01:32:25,000
+and so on.
+
+2269
+01:32:25,000 --> 01:32:27,000
+I listen to it regularly.
+
+2270
+01:32:27,000 --> 01:32:29,000
+You can listen to us too,
+
+2271
+01:32:29,000 --> 01:32:31,000
+we have a diadrama.
+
+2272
+01:32:31,000 --> 01:32:33,000
+No, we have other sounds,
+
+2273
+01:32:33,000 --> 01:32:35,000
+you don't like them.
+
+2274
+01:32:35,000 --> 01:32:37,000
+Thank you for being with us,
+
+2275
+01:32:37,000 --> 01:32:39,000
+see you next time,
+
+2276
+01:32:39,000 --> 01:32:41,000
+there are links below for support,
+
+2277
+01:32:41,000 --> 01:32:43,000
+and see you next time.
+
+2278
+01:32:43,000 --> 01:32:45,000
+Did we forget something? That's it.
+
+2279
+01:32:45,000 --> 01:32:47,000
+Thank you.
+
+2280
+01:32:47,000 --> 01:32:49,000
+Good luck.

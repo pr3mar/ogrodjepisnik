@@ -1,0 +1,5643 @@
+1
+00:00:00,000 --> 00:00:18,240
+En lep pozdrav vsem na Spletnih ulicah Maribor. Danes z vami pričudvita ekipa podkesta Ogrodje.
+
+2
+00:00:18,240 --> 00:00:39,279
+Dobrodošli na prvih, danes je ful nekih prvih zadev. Danes imamo prvi Spletnih ulicah v pričudvitem klubu KGB, najbolj underground placu z mikrofoni in lučmi v Mariboru.
+
+3
+00:00:39,599 --> 00:00:43,919
+Danes je tudi prvo snemanje podkesta Ogrodje v živo.
+
+4
+00:00:43,919 --> 00:00:50,880
+Predvsem, smo že probali, kvalificirati v takih oblikih in z takim barojem z igrami.
+
+5
+00:00:50,880 --> 00:00:52,880
+Nismo šli tako big.
+
+6
+00:00:52,880 --> 00:00:54,880
+Aha, niste šli tako big.
+
+7
+00:00:54,880 --> 00:00:59,680
+Rečmo prvo snemanje epizode podkesta v kleti.
+
+8
+00:00:59,680 --> 00:01:01,680
+Absolutno.
+
+9
+00:01:01,680 --> 00:01:08,720
+In pa prvo snemanje podkesta v živo na Spletnih ulicah, ne? To sem že povel.
+
+10
+00:01:08,879 --> 00:01:10,879
+Nisem povel.
+
+11
+00:01:10,879 --> 00:01:12,879
+Tako da, ja.
+
+12
+00:01:12,879 --> 00:01:18,720
+Čist na hitro za vse tiste, ki ste danes prvič na Spletnih ulicah, ker to vedno povem, ne, kot moderator Spletnih ulic.
+
+13
+00:01:18,720 --> 00:01:24,879
+Spletne ulice so dogodki o tehnologiji, svetu in vsemu vmes.
+
+14
+00:01:24,879 --> 00:01:30,320
+Enkratna mesec se dobivamo v našem priljubem mestu Maribor.
+
+15
+00:01:31,120 --> 00:01:36,879
+Prej smo se več krajov dobivali, ampak gledaj, zdaj smo pač zrasli, pa imamo vsi nekaj odrasla življenja, pa pač.
+
+16
+00:01:36,879 --> 00:01:40,320
+Ne mora zagljihna dva tedna nekam iti, ne, ker že imamo tako čudno zgled.
+
+17
+00:01:40,320 --> 00:01:49,440
+Ampak ja, jaz ful dosti govorim, pa mogoče bi bilo kul, da zdaj Andraža nekako vpletemo v to noter.
+
+18
+00:01:49,440 --> 00:01:58,559
+Ne, mislim, jaz sem si najprej, pač to, kjer smo zdaj vsi v tem novem mrču, pa mogoče še to.
+
+19
+00:01:58,559 --> 00:02:04,000
+Jaz bi kolo odnaredil Irnejo Gračnerju, ki je tudi, en aplavz za Irneja.
+
+20
+00:02:06,480 --> 00:02:13,759
+Ki je ne samo, da pomaga nam skrbeti, da ogrodje zgleda tako profesionalno, kot zgleda,
+
+21
+00:02:13,759 --> 00:02:23,520
+je tudi en izmed tistih, ki so zelo zaslužni, da spletne urice imate že 13 let, tako da tudi za to, Irnej, hvala za to.
+
+22
+00:02:23,520 --> 00:02:25,520
+Hvala, ker se trudiš.
+
+23
+00:02:29,039 --> 00:02:31,039
+Morem jaz to držati, ker ti lahko dobro.
+
+24
+00:02:31,039 --> 00:02:35,919
+Ne, ne, ti zdiš, še kaj, še ti bom, samo glede tehničnega brifinga, kar še ljudem povemo ponavadine.
+
+25
+00:02:35,919 --> 00:02:43,759
+Mi imamo neke še te točke. Ena je, da dovoljeno je preklinjeno in izaželjeno.
+
+26
+00:02:43,759 --> 00:02:45,039
+Super, super.
+
+27
+00:02:45,039 --> 00:02:47,039
+Zdaj bomo to probali tudi v live prenesti.
+
+28
+00:02:47,039 --> 00:02:55,600
+Zdaj, kadar se mi dva pogovarjamo, tudi potem časih zelo neumno porošanje postavljamo, to je zato, da,
+
+29
+00:02:55,679 --> 00:02:58,160
+ne, zato, ker mi dva ne bi vedela, pa ker bi mi dva bila neumna.
+
+30
+00:02:58,160 --> 00:02:59,279
+Simulirava publiko.
+
+31
+00:02:59,279 --> 00:03:03,839
+Simulirava publiko, da približamo, da približamo audiens.
+
+32
+00:03:03,839 --> 00:03:10,800
+To se tako čudno sliša, ne, da kaj, imamo mi tako zelo audiens na nivoju, da pač.
+
+33
+00:03:12,800 --> 00:03:16,399
+Ja, ja, to je zato tako, ne.
+
+34
+00:03:16,399 --> 00:03:20,080
+Audiens v Grodju, ja.
+
+35
+00:03:20,960 --> 00:03:23,600
+Ne vem, a imaš ti strukturo, bomo šli potem ali?
+
+36
+00:03:24,399 --> 00:03:32,080
+Ja, jaz sem prvo mislil začeti z vpolnikim rentom, ne, kako je vse, šlo v tri krasne sploh po covidu,
+
+37
+00:03:32,080 --> 00:03:34,800
+ampak sem rekel, ne, da še nismo, zdaj je tam, ne.
+
+38
+00:03:34,800 --> 00:03:35,839
+Najprej se mi.
+
+39
+00:03:35,839 --> 00:03:36,800
+Boš pa še donostop.
+
+40
+00:03:36,800 --> 00:03:38,080
+Ja, definitivno, definitivno.
+
+41
+00:03:38,080 --> 00:03:40,080
+Ne bi zdaj, uno, tako, in pa potem.
+
+42
+00:03:40,080 --> 00:03:41,600
+Ne izštarta, malo.
+
+43
+00:03:41,600 --> 00:03:42,960
+Langzam, apa ziher, ne.
+
+44
+00:03:42,960 --> 00:03:44,320
+Ne, da ne bodo pobegnu.
+
+45
+00:03:44,320 --> 00:03:46,000
+Ja, ne, ne, se nima, kam pobegniti.
+
+46
+00:03:46,000 --> 00:03:48,000
+Si gor zaklenu.
+
+47
+00:03:48,000 --> 00:03:50,399
+Ne, ne, ne, da ne bo zdaj to tako spadlo.
+
+48
+00:03:51,119 --> 00:03:56,000
+Jaz bi samo, mogoče, za vse poslušalce, gledalce podkestov v Grodji,
+
+49
+00:03:56,000 --> 00:04:01,759
+mogoče, dal samo en mali tako background o spletnih uricah, zlasti v Mariboru.
+
+50
+00:04:03,039 --> 00:04:07,199
+Vsi tisti, ki živite v Ljubljani, gledalci, poslušalci, ste lahko zelo veseli,
+
+51
+00:04:07,199 --> 00:04:12,399
+ker v Ljubljani se ful dogaja, kar se tiče tehnoloških eventov in vsega tega dogajanja.
+
+52
+00:04:13,360 --> 00:04:18,160
+V Mariboru jih ni ravno nekaj dosti, ne, so pa spletne urice tukaj,
+
+53
+00:04:18,160 --> 00:04:26,799
+kot nek, kaj bi rekel, vezni člen skupnosti, tehnološke skupnosti generalno,
+
+54
+00:04:26,799 --> 00:04:30,799
+ker niso samo teme čistega software developmenta, so tudi teme dizajna,
+
+55
+00:04:30,799 --> 00:04:32,799
+project, product managementa.
+
+56
+00:04:34,320 --> 00:04:40,079
+In ja, grečni, ki tam pač ob vzadju se skriva, ne, to že fura pism, ne,
+
+57
+00:04:40,079 --> 00:04:43,760
+enih 13 let, ne, že, gleda se dela, kao da ne vidi, ne.
+
+58
+00:04:44,559 --> 00:04:49,760
+Ampak ja, zelo taka volonterska zadeva, zelo entuziastično smo pristopili k temu.
+
+59
+00:04:49,760 --> 00:04:56,079
+Jaz pač načeloma rad delam butla in sebe, tako da sem front-facing, ne, karakter.
+
+60
+00:04:56,079 --> 00:05:00,720
+Če to, ne, pa ste v bistvu prihteli v Ljubljanske spletne urice, ne.
+
+61
+00:05:00,720 --> 00:05:03,600
+Ja, preživeli ste. Preživeli smo, ja.
+
+62
+00:05:03,600 --> 00:05:06,640
+Pa kaj, spletne urice so se začele v Ljubljani, ali kaj?
+
+63
+00:05:06,640 --> 00:05:08,640
+Ja, ja, ja.
+
+64
+00:05:08,640 --> 00:05:12,640
+In potem brand spletne urice še vedno obstaja ali?
+
+65
+00:05:13,839 --> 00:05:18,399
+Kolikor sem se znanjen, ja, je neka spletna stran,
+
+66
+00:05:18,399 --> 00:05:23,279
+ne vem pa, če se še dogajajo dogodki, vedno so bili neki poskusi revajvala par let nazaj,
+
+67
+00:05:23,279 --> 00:05:29,040
+ampak teh par let je tak, ne vem, 2014 ali 14, ne vem zdaj držati za besedo.
+
+68
+00:05:29,040 --> 00:05:33,279
+To mene zanima recimo pri skupnostih, ne.
+
+69
+00:05:33,279 --> 00:05:36,959
+Kako se neka skupnost razvije, kako se neka skupnost obdrži, ne.
+
+70
+00:05:36,959 --> 00:05:40,720
+Kaj je ta stvar, ne? Kako se je ogrodje razvilo?
+
+71
+00:05:40,799 --> 00:05:42,799
+Zakaj se je ogrodje obdržalo?
+
+72
+00:05:42,799 --> 00:05:46,399
+Znaš, kako se je obdržalo, bo bodo o to, ampak ne veš,
+
+73
+00:05:46,399 --> 00:05:48,640
+tisto kako se razvija, smo prej povedali, ne.
+
+74
+00:05:48,640 --> 00:05:52,880
+Potem odrasteš, ne, potem, znaš, so druge prioritete, ne.
+
+75
+00:05:52,880 --> 00:05:59,359
+Potem pač, znaš, uspeš nek podmladek ali pa neke vezne člene,
+
+76
+00:05:59,359 --> 00:06:03,760
+ki bo to naprej vlekala, ne, če ne, pa pač, znaš, vsaka stvar se enkrat konča, ne.
+
+77
+00:06:03,760 --> 00:06:04,880
+Ja.
+
+78
+00:06:04,880 --> 00:06:07,760
+Potem pač, znaš, zaključaš.
+
+79
+00:06:08,559 --> 00:06:15,760
+Ok, skupnosti na splošno gremo zdaj, ali gremo specifično?
+
+80
+00:06:15,760 --> 00:06:22,320
+Zdaj, ogrodjo vidimo, zdaj bom govoril imeno ogrodja, ampak mislim,
+
+81
+00:06:22,320 --> 00:06:24,720
+da smo nekako enotni v tem.
+
+82
+00:06:24,720 --> 00:06:32,239
+Ogrodjo smo nekako ugotovili, da pač, če hočeš delati neke vsebine,
+
+83
+00:06:32,559 --> 00:06:37,279
+je dober, da imaš pač svoj odjenz, da ta svoj odjenz, nek ciljno publiko,
+
+84
+00:06:37,279 --> 00:06:45,040
+dobro poznaš, da veš, kdo so, da razumeš, kaj so njihove ambicije,
+
+85
+00:06:45,040 --> 00:06:48,880
+da razumeš, kaj so njihove problemi, s čim se soočajo, kak razmišljajo,
+
+86
+00:06:48,880 --> 00:06:56,079
+kaj deluje, kar ne, kak jezik govorijo, da pač poznaš ljudi, za katere to delaš.
+
+87
+00:06:56,640 --> 00:07:04,559
+In v bistvu smo poskušali narediti na neki točki neko bazen,
+
+88
+00:07:04,559 --> 00:07:08,000
+preko katerega bomo lahko zdaj naslavljali to odjenz,
+
+89
+00:07:08,000 --> 00:07:12,320
+pa da bomo tam na enem kanalu čim več ljudi skupaj nabrali,
+
+90
+00:07:12,320 --> 00:07:16,799
+za to, da dobimo čimprej to, ko si rekel preproduktno, nek ta feedback,
+
+91
+00:07:16,799 --> 00:07:20,320
+za to, da dobimo, da vemo, za koga delamo, da nam ljudje povejo,
+
+92
+00:07:20,399 --> 00:07:28,000
+če smo vredo naredili, ali nismo vredo naredili, in pa da v bistvu rastejo skupaj z nami.
+
+93
+00:07:28,000 --> 00:07:34,239
+To nam je v bistvu ful pomaga tudi pri izbiranju vsebi in tudi pri promociji vsebi
+
+94
+00:07:34,239 --> 00:07:44,079
+in tudi pri vsem ostalem. In pač ogrod je, delamo za dva nekaj takih ciljneh publika.
+
+95
+00:07:44,079 --> 00:07:48,880
+Eno je, delamo ga za sebe, drugo je, pa delamo ga za ta odjenz,
+
+96
+00:07:48,880 --> 00:07:53,040
+ki ga upam, da razumemo in upam, da bo vzrasto skupaj z nami.
+
+97
+00:07:53,920 --> 00:07:55,920
+Za lahko še gremo naprej, če hočeš.
+
+98
+00:07:57,040 --> 00:07:59,040
+There is more.
+
+99
+00:07:59,839 --> 00:08:03,440
+Meni je ta stvar z tem audiencem vedno tako zanimiva.
+
+100
+00:08:03,440 --> 00:08:07,920
+Jaz sem pač v svoji relativno kratki karieri delal veliko različnih stvari,
+
+101
+00:08:07,920 --> 00:08:10,799
+vedno znova se pa nekako ukvarjam z ljudmi,
+
+102
+00:08:10,799 --> 00:08:18,640
+sicer malo bolj v tem tehničnem smislu, ampak tudi s folkom, ki ni čisto tehničen kader.
+
+103
+00:08:19,040 --> 00:08:22,320
+In vedno znova se pač ukvarjam z tem, kako
+
+104
+00:08:23,679 --> 00:08:31,359
+kako prevedeš neko idejo v takšen jezik, da bodo pač vsi razumeli.
+
+105
+00:08:31,359 --> 00:08:35,840
+In recimo kar smo delali fulj dobro, po mojem mnenju vsaj ne,
+
+106
+00:08:35,840 --> 00:08:38,320
+hejteri se zdaj ne rabite oglašati, tako da,
+
+107
+00:08:39,919 --> 00:08:44,320
+kar smo zelo dobro delali vseh teh letih pri sprednjih uricah je to, da smo uspeli
+
+108
+00:08:45,280 --> 00:08:51,440
+kompleksne ali pa mogoče tehnično zahtevne še neke koncepte približati
+
+109
+00:08:51,440 --> 00:08:57,679
+v veliko širši populaciji, tudi tisti, ki nimajo nujno tehničnega ozadja.
+
+110
+00:08:57,679 --> 00:09:02,880
+Jaz sem to že večkrat povedal, pa še večkrat bom verjetno povedal,
+
+111
+00:09:02,880 --> 00:09:07,599
+jaz pač celotno svojo karjero dogujem uricam in podobno,
+
+112
+00:09:07,599 --> 00:09:11,760
+ker če ne bi bilo uric in takšnih in drugačnih dogodkov v Mariboru,
+
+113
+00:09:11,760 --> 00:09:15,919
+pa sploh ne bi vedel, kaj je Ruby on Rails, pa sploh ne bi imel izdelanih
+
+114
+00:09:15,919 --> 00:09:20,559
+najnojava skribe v frameworkih, pa zdaj pa se bo veliko, pač dovelo karjev.
+
+115
+00:09:20,559 --> 00:09:24,559
+Samo po drugi strani, če ne bi splednjih uric poznal, pa mogoče ne bi zdaj bili v kleti,
+
+116
+00:09:24,559 --> 00:09:26,960
+pa bi bili verjetno kaj bolj fancy, lokalno nekaj.
+
+117
+00:09:26,960 --> 00:09:30,000
+Ej, to je tako, ampak je kratko kletno.
+
+118
+00:09:30,000 --> 00:09:32,000
+Ampak bi se o nečem drugem pogovarjali.
+
+119
+00:09:33,599 --> 00:09:40,000
+Mislim, lahko ti dam tudi odgovor na to, mi smo se, prinašamo od Jensu,
+
+120
+00:09:40,799 --> 00:09:49,440
+smo se naučili to, da poneumljanje ali delanje v sebi in preveč dostopnih
+
+121
+00:09:49,440 --> 00:09:55,039
+tudi ne deluje. Smo gotovili, da vse je za to, kar v sebi ne mi ustvarjamo,
+
+122
+00:09:55,039 --> 00:10:00,719
+da pač je, če imaš nekega ful strokonjaka, recimo da si ti zdaj ful strokonjate,
+
+123
+00:10:00,719 --> 00:10:02,719
+ne vem, kafko, nekaj keyword.
+
+124
+00:10:02,719 --> 00:10:04,719
+Se je, zihar jaz strokonjaka včemam.
+
+125
+00:10:04,960 --> 00:10:06,960
+Kapki ne bi imeli.
+
+126
+00:10:06,960 --> 00:10:08,960
+Lopeto, nekaj termin sem se obrev.
+
+127
+00:10:08,960 --> 00:10:14,960
+Ampak, če te zdaj pripeljem pred mikrofon, pa te sprašujem neke res osnove,
+
+128
+00:10:14,960 --> 00:10:20,960
+ali se boš začel dolgočasiti, ali boš se res na trudo razložil.
+
+129
+00:10:20,960 --> 00:10:25,679
+Po drugi strani imaš pa ljudi, ki, če jih to zanima, bodo itak našli
+
+130
+00:10:25,679 --> 00:10:29,679
+dižet polno drugega kontenta, ki je na to sebino naredil.
+
+131
+00:10:30,239 --> 00:10:34,239
+Bodo tam naši boljše vira, boljše bo razloženo, lepše bo razloženo,
+
+132
+00:10:34,239 --> 00:10:38,239
+specijalno bo razloženo, mogoče s nekim drugim pristopom.
+
+133
+00:10:38,239 --> 00:10:42,719
+Toda to smo se že do zdaj nekako očili, da to nismo mi.
+
+134
+00:10:42,719 --> 00:10:48,719
+Toliko ponaumljanje, ampak poenostavljanje, ni vse za naš,
+
+135
+00:10:48,719 --> 00:10:50,719
+naš primer ne deluje.
+
+136
+00:10:50,719 --> 00:10:56,719
+Smo pa potem, moče to pa lahko malo od teh pomladkih pa to,
+
+137
+00:10:56,960 --> 00:11:00,960
+smo pa ugotovili potem, da recimo
+
+138
+00:11:02,320 --> 00:11:07,359
+rabimo posebnik format po prostor za sebine za začetnike.
+
+139
+00:11:07,359 --> 00:11:13,919
+In to smo potem naredili to serijo sebin pod znamko Zagon,
+
+140
+00:11:13,919 --> 00:11:17,200
+ki je tudi naša Sara pač razstvarja in vodi.
+
+141
+00:11:17,200 --> 00:11:21,200
+In tiste sebine so pa narete za začetnike in probajo biti
+
+142
+00:11:21,280 --> 00:11:28,080
+sebine za začetnike, ki pač kako se znajti v tem prostoru,
+
+143
+00:11:28,080 --> 00:11:31,280
+ampak še vedno z neko lokalno noto.
+
+144
+00:11:31,280 --> 00:11:35,280
+Kako, ne vem, pripraviti CV, kako se pogovarjati za plačo,
+
+145
+00:11:35,280 --> 00:11:38,799
+kakje so spohne in plači developer, to je nekaj,
+
+146
+00:11:38,799 --> 00:11:40,799
+kar bomo zdaj raziskovali.
+
+147
+00:11:40,799 --> 00:11:46,000
+In pač ta nekaj lokalna nota za začetnike, kako se navčiti
+
+148
+00:11:46,000 --> 00:11:50,000
+programirati, kaj spodela programera, to so pa neke take teme,
+
+149
+00:11:50,000 --> 00:11:54,000
+ki pa ljudje iščejo in tudi vidim, da je ful dober odziv in to deluje.
+
+150
+00:11:56,799 --> 00:12:00,799
+To je verjetno malo bolj drugače za naš, jaz kaj znam.
+
+151
+00:12:00,799 --> 00:12:04,799
+Pa tudi mogoče zdaj, tudi z community na to noto,
+
+152
+00:12:04,799 --> 00:12:08,799
+zdaj imamo v Discordu, imamo tudi čanel Zagon,
+
+153
+00:12:08,799 --> 00:12:12,799
+in tamnotre se tudi vedno več začetnikov nabira,
+
+154
+00:12:12,799 --> 00:12:16,799
+ki danes eksperimentirajo, poskušajo, pa rabijo kakšen feedback
+
+155
+00:12:16,799 --> 00:12:20,799
+in pomoč, in pač, ker je že tako veliko ljudi tamnotre,
+
+156
+00:12:20,799 --> 00:12:24,799
+se že med sabo pomagajo in je tudi tako zanimivo spremljati.
+
+157
+00:12:24,799 --> 00:12:26,799
+Mislim, predvsem je ta dela.
+
+158
+00:12:26,799 --> 00:12:30,799
+Mislim, če vzameš spletna urica, rečeš pač community,
+
+159
+00:12:30,799 --> 00:12:35,799
+pač ti jaz ken stav, da je ena velika večina ljudi,
+
+160
+00:12:35,799 --> 00:12:39,799
+ki so redni obiskovalci, ali pa so skozi z tem,
+
+161
+00:12:39,799 --> 00:12:43,799
+ko so tja prihajali in zahajali, ne znam,
+
+162
+00:12:43,799 --> 00:12:47,799
+ne mogoče se napil, spoznali nove prijatelje,
+
+163
+00:12:47,799 --> 00:12:50,799
+dejansko prišli tudi pomožnosti, tako kot si ti rekel,
+
+164
+00:12:50,799 --> 00:12:53,799
+do karijere oziroma do nekih priložnostih,
+
+165
+00:12:53,799 --> 00:12:55,799
+ki so se tukaj zdaj odprli.
+
+166
+00:12:55,799 --> 00:12:58,799
+Zato pač je v bistvu community pač to.
+
+167
+00:12:58,799 --> 00:13:02,799
+Vstvarjaš ne samo to, da deliš neko vsebino oziroma popraviš,
+
+168
+00:13:02,799 --> 00:13:06,799
+ampak da pač zraste neka skupnost posameznikov,
+
+169
+00:13:06,799 --> 00:13:10,799
+ki začnejo med sabo vso ustvarjati, vso delovati.
+
+170
+00:13:11,799 --> 00:13:17,799
+Ogrod je zraven potegljeno, da pač obstaja discord,
+
+171
+00:13:17,799 --> 00:13:21,799
+spletne urice, verjetno pač fizičen prostor in prisotnost,
+
+172
+00:13:21,799 --> 00:13:25,799
+se pravi to, da ne samo da ljudje poslušajo neko predavanje
+
+173
+00:13:25,799 --> 00:13:29,799
+pa zastavljajo vprašanje, ampak da se pa v bistvu šanko
+
+174
+00:13:29,799 --> 00:13:31,799
+lahko razvija debata in podobno.
+
+175
+00:13:31,799 --> 00:13:35,799
+V bistvu to je tist, kaj šteje in to je verjetno pač tist,
+
+176
+00:13:35,799 --> 00:13:38,799
+kar je korona tako dobro zjebala,
+
+177
+00:13:38,799 --> 00:13:42,799
+kar smo pa malo pozabili, je v bistvu to druženje.
+
+178
+00:13:42,799 --> 00:13:46,799
+Online ne moreno nam stiti, čeprav v ogrodju pač upažamo,
+
+179
+00:13:46,799 --> 00:13:51,799
+da mlajše generacije to lažje.
+
+180
+00:13:53,799 --> 00:13:57,799
+Sam izhajem z one generacije, ki je ustvarjala KiberPipo,
+
+181
+00:13:57,799 --> 00:14:01,799
+se pravi še eno klet in tam je pač dejansko,
+
+182
+00:14:01,799 --> 00:14:07,799
+ljudje so rabili tja pridati in to je bil tudi ta added value,
+
+183
+00:14:08,799 --> 00:14:12,799
+ne kakšna vsebina, vsebina se je tam ustvarjala, to tudi,
+
+184
+00:14:12,799 --> 00:14:16,799
+ampak to, da so ljudje tam se dejansko podružili in podobno.
+
+185
+00:14:17,799 --> 00:14:19,799
+Eno vprašanje tukaj, ker ...
+
+186
+00:14:19,799 --> 00:14:21,799
+Mikrofon daj na pest.
+
+187
+00:14:21,799 --> 00:14:23,799
+Mikrofon daj malo bolj gor, ja.
+
+188
+00:14:24,799 --> 00:14:27,799
+Ker snimaš to zelo lepo, ne? Tako je malo boljše, ne?
+
+189
+00:14:27,799 --> 00:14:29,799
+Odli, evo ga.
+
+190
+00:14:30,799 --> 00:14:34,799
+Eno stvar, ki me zelo zanima ravno pač na tej točki,
+
+191
+00:14:35,799 --> 00:14:40,799
+ogrodje je v bistvu skupnost, ki je neka hibridna skupnost,
+
+192
+00:14:40,799 --> 00:14:43,799
+če se lahko tako izrazim, delno je pač v živo, ne?
+
+193
+00:14:43,799 --> 00:14:46,799
+V živo je pač preko teh pogovorov, ki jih imate,
+
+194
+00:14:46,799 --> 00:14:48,799
+vsake toliko časa imate tudi, ne vem.
+
+195
+00:14:49,799 --> 00:14:56,799
+Mi ogrodje v tem trenutku ne organiziramo ogrodje meet-upov
+
+196
+00:14:56,799 --> 00:15:01,799
+ali pa ogrodje eventov kot takih, enostavno pač na konc dneva
+
+197
+00:15:01,799 --> 00:15:06,799
+pač imamo še druge stvari, pa ni to ambicija naša.
+
+198
+00:15:06,799 --> 00:15:10,799
+Jaz mislim, da pač ogrodje mora biti ravno to, ogrodje.
+
+199
+00:15:10,799 --> 00:15:14,799
+Mora biti framework, na katerem lahko gradimo stvari,
+
+200
+00:15:14,799 --> 00:15:18,799
+mora biti ta nek temelj, mora biti ta medij pa skupnost,
+
+201
+00:15:18,799 --> 00:15:23,799
+pa hkrati ta nek čanel do odjensa in potem moramo v bistvu
+
+202
+00:15:23,799 --> 00:15:27,799
+upolne močiti eventov organizirajoči, ki pa organizirajo
+
+203
+00:15:27,799 --> 00:15:34,799
+in spletne urice in open blend in sektoke in bisajce in vse ostalo.
+
+204
+00:15:36,799 --> 00:15:40,799
+To bo Andraš veliko povedal, zgodovina vseh teh eventov je,
+
+205
+00:15:40,799 --> 00:15:43,799
+vedno se potem najde nekdo, ki reče, jaz pa znam to boljše
+
+206
+00:15:43,799 --> 00:15:45,799
+in prav je, da se najde.
+
+207
+00:15:46,799 --> 00:15:52,799
+To je Slovenjsko, jaz znam to boljše, jaz bom to sam naredil.
+
+208
+00:15:52,799 --> 00:15:55,799
+Potem nastane številni vrtički in potem pridemo do tega,
+
+209
+00:15:55,799 --> 00:16:00,799
+da rečejo, oto, kaj bi ti naredil en koledar, pa bi zbral vse datume,
+
+210
+00:16:00,799 --> 00:16:03,799
+zato da ne bi mi na isti dan organizirali event,
+
+211
+00:16:03,799 --> 00:16:06,799
+ker to se zdaj že delansko v Ljubljani dogaja,
+
+212
+00:16:06,799 --> 00:16:09,799
+da imaš na isti dan zelo velika, močna eventa.
+
+213
+00:16:13,799 --> 00:16:16,799
+Prostor je, mislim, da v Sloveniji za vse.
+
+214
+00:16:17,799 --> 00:16:20,799
+Če pogledaš, ti številke so še vedno male.
+
+215
+00:16:21,799 --> 00:16:24,799
+Pač nekaj kap obstaja, kako lahko te stvari zrastajo,
+
+216
+00:16:24,799 --> 00:16:26,799
+in ta kap ni ful velik.
+
+217
+00:16:28,799 --> 00:16:33,799
+In mislim, da pač, na kaj zdaj ciljamo, pa kaj gradimo letos,
+
+218
+00:16:33,799 --> 00:16:36,799
+je to, da pač imamo en par teh eventov,
+
+219
+00:16:36,799 --> 00:16:39,799
+kjer smo z organizatorje povezani, pa imajo eventi,
+
+220
+00:16:39,799 --> 00:16:42,799
+ki ga pač tudi po svojih čanelih objavimo
+
+221
+00:16:42,799 --> 00:16:45,799
+in na tak način ga svojim audiencem izpostavljamo
+
+222
+00:16:45,799 --> 00:16:48,799
+in potem pač v bistvu win-win in za organizatorje
+
+223
+00:16:48,799 --> 00:16:52,799
+in za naš audience, ker vemo, da pač jih zanimajo te vsebine
+
+224
+00:16:52,799 --> 00:16:55,799
+in pač je logično, da ljudje pridajo.
+
+225
+00:16:55,799 --> 00:16:58,799
+Tudi, recimo, na eventu, ki imam, sponzorja 3FSE,
+
+226
+00:16:58,799 --> 00:17:02,799
+oni organizirajo Kubernetes meetup, smo ga promovirali
+
+227
+00:17:02,799 --> 00:17:05,800
+in jaz mislim, da bo jutri nekaj 18 ljudi.
+
+228
+00:17:05,800 --> 00:17:08,800
+Tako da pač to je, mislim, ta nekaj naša vloga.
+
+229
+00:17:09,800 --> 00:17:12,800
+Za leto smo tudi partnerali z Dragonhackom,
+
+230
+00:17:12,800 --> 00:17:16,800
+z, ne vem, Ada, pač pono nekih teh dogodek.
+
+231
+00:17:17,800 --> 00:17:20,800
+V bistvu hočemo ta čanel skupno stvariti,
+
+232
+00:17:20,800 --> 00:17:23,800
+povdati kanal za te evente.
+
+233
+00:17:24,800 --> 00:17:28,800
+Pa tudi na teh eventih smo zelo veliko tudi prisotni,
+
+234
+00:17:29,800 --> 00:17:35,800
+tudi predavamo in pač da spet, ker tam se pa dogaja ta offline,
+
+235
+00:17:35,800 --> 00:17:37,800
+kot je Andraž prirekel.
+
+236
+00:17:40,800 --> 00:17:43,800
+Ampak se vam zdi, da mogoče prihaja,
+
+237
+00:17:44,800 --> 00:17:48,800
+kaj bi rekel, do ekspanze in kontrakce teh nekih dogodkov in meetupov.
+
+238
+00:17:48,800 --> 00:17:51,800
+Ker recimo čisto na primeru Maribora, ja se spomnim,
+
+239
+00:17:51,800 --> 00:17:54,800
+par let nazaj smo v enem trenutku imeli ogromno meetupo.
+
+240
+00:17:54,800 --> 00:17:58,800
+Pa je bil ta meetup, pa tisti meetup, pa potem v enem trenutku
+
+241
+00:17:58,800 --> 00:18:03,800
+ljudje izgubijo zagon in nima več časa in so otroci.
+
+242
+00:18:03,800 --> 00:18:05,800
+In so druge službe.
+
+243
+00:18:05,800 --> 00:18:07,800
+In so druge službe, ne.
+
+244
+00:18:07,800 --> 00:18:10,800
+In potem včasih ljudje izgorijo,
+
+245
+00:18:11,800 --> 00:18:15,800
+kar je sploh v naši industriji veliko krat razlog.
+
+246
+00:18:20,800 --> 00:18:25,800
+Kaj lahko naredimo mi vsi, zato da imamo čim bolj sustejno?
+
+247
+00:18:26,800 --> 00:18:29,800
+Jaz mislim, da največ lahko narediš, da greš pogledat.
+
+248
+00:18:29,800 --> 00:18:32,800
+Da greš pogledat, kdo to organizira.
+
+249
+00:18:34,800 --> 00:18:37,800
+Če si ekspert v neki temi ali neko temu raziskuješ,
+
+250
+00:18:37,800 --> 00:18:41,800
+če greš kot predavatelj, to ful veliko pomeni ljudem.
+
+251
+00:18:43,800 --> 00:18:45,800
+Ljudje organizirajo, naj organizirajo.
+
+252
+00:18:45,800 --> 00:18:47,800
+Čim več tega, boljše je.
+
+253
+00:18:49,800 --> 00:18:51,800
+Ljudje se učijo organizirati.
+
+254
+00:18:51,800 --> 00:18:53,800
+Na površči vzgleda ful enostavno.
+
+255
+00:18:53,800 --> 00:18:55,800
+To, ki imaš tri type, z tremi mikrofoni,
+
+256
+00:18:55,800 --> 00:18:58,800
+koliko je pa to komunikacija potrebna, da se zgodi.
+
+257
+00:18:59,800 --> 00:19:03,800
+Tako da jaz mislim, da moramo dejmo podpred,
+
+258
+00:19:03,800 --> 00:19:05,800
+pa naj bo še več teh eventov.
+
+259
+00:19:07,800 --> 00:19:09,800
+Ali da je boljše, če so močni,
+
+260
+00:19:09,800 --> 00:19:12,800
+ker potem, če ljudje skupaj stopijo, lahko je bolj...
+
+261
+00:19:12,800 --> 00:19:14,800
+To sem ti hotel reči.
+
+262
+00:19:14,800 --> 00:19:17,800
+V bistvu je bolj to. Manjka to sodelovanja.
+
+263
+00:19:18,800 --> 00:19:21,800
+Če bi več bilo tega sodelovanja, pa se mi zdi, da...
+
+264
+00:19:22,800 --> 00:19:24,800
+Pa da bom zdaj rekel, da vidim,
+
+265
+00:19:24,800 --> 00:19:27,800
+da zaradi ogrodja je zdaj več sodelovanja,
+
+266
+00:19:27,800 --> 00:19:31,800
+ampak vidim, da je na neki stopni več sodelovanja.
+
+267
+00:19:32,800 --> 00:19:34,800
+Če bi bilo tega več sodelovanja,
+
+268
+00:19:34,800 --> 00:19:37,800
+bi verjetno pač določeni meet-upi,
+
+269
+00:19:37,800 --> 00:19:40,800
+določeni komuniti lažje shajali.
+
+270
+00:19:40,800 --> 00:19:43,800
+Manj tega burn-out-ov bi bilo po samem znikal.
+
+271
+00:19:43,800 --> 00:19:45,800
+Kar po drugi strani pomeni,
+
+272
+00:19:45,800 --> 00:19:49,800
+da je tist, kar zdaj začenja, nek meet-up ali podobno,
+
+273
+00:19:49,800 --> 00:19:52,800
+da mogoče ego da na stran,
+
+274
+00:19:52,800 --> 00:19:55,800
+kad jaz lahko to naredim, jaz verjamem, da lahko,
+
+275
+00:19:55,800 --> 00:19:59,800
+ampak veliko smo videli, da enga, dva narediš,
+
+276
+00:19:59,800 --> 00:20:03,800
+potem pa ni več, ker ne spolgaš.
+
+277
+00:20:03,800 --> 00:20:08,800
+Se pravi, bolje je ono, kako prepeljati druge ljudi,
+
+278
+00:20:08,800 --> 00:20:10,800
+ki ti bojo tukaj pomagali.
+
+279
+00:20:10,800 --> 00:20:14,800
+Kako v bistvu, ne vem, zloteš, da prepeljaš nekoga,
+
+280
+00:20:14,800 --> 00:20:18,800
+ki ga tako motiviraš, navdušaš, da ti pač pomaga.
+
+281
+00:20:18,800 --> 00:20:22,800
+Pač ne bo mogoče perfektno, ampak je pa pač nek učni proces.
+
+282
+00:20:22,800 --> 00:20:25,800
+Ali pa, da vse odpre Asano in pa pogleda tikte.
+
+283
+00:20:25,800 --> 00:20:28,800
+Joj, ne, Asano ne morem jaz.
+
+284
+00:20:28,800 --> 00:20:30,800
+Flashback dobim ga Asano.
+
+285
+00:20:31,800 --> 00:20:34,800
+Ja, šeč me, da sta to omenila, ker to je ena stvar,
+
+286
+00:20:34,800 --> 00:20:37,800
+s katero se pri spletnih uricah srečujemo, ker ne.
+
+287
+00:20:39,800 --> 00:20:43,800
+Maribor v realnosti ni zdaj neko ogromno mesto.
+
+288
+00:20:43,800 --> 00:20:46,800
+Maribor ima dokaj razvit tech community,
+
+289
+00:20:46,800 --> 00:20:50,800
+ni pa spet tako razvit, oziroma pač,
+
+290
+00:20:50,800 --> 00:20:53,800
+v njej morda ni toliko sredstev, kot je pač v Ljubljani
+
+291
+00:20:53,800 --> 00:20:55,800
+ali pa v kakšnem drugem.
+
+292
+00:20:55,800 --> 00:20:57,800
+Jaz mislim, da to ni problem.
+
+293
+00:20:58,800 --> 00:21:01,800
+Glej, če misliš, da ti bodo ljudje prišli do tebe,
+
+294
+00:21:01,800 --> 00:21:04,800
+blendora lahko sponzoriramo, težko je.
+
+295
+00:21:04,800 --> 00:21:06,800
+Ja, ne, to ne bo dober.
+
+296
+00:21:06,800 --> 00:21:08,800
+Blizu časi, ko, ne vem, Ruby Meetup,
+
+297
+00:21:08,800 --> 00:21:11,800
+smo imeli štiri sponzorje in so se kregali,
+
+298
+00:21:11,800 --> 00:21:13,800
+kdo bo imel pizzo, kdo bo imel cookie,
+
+299
+00:21:13,800 --> 00:21:15,800
+kdo bo imel kapse, ne vem, vse živo.
+
+300
+00:21:15,800 --> 00:21:18,800
+Za tih čas, ko se je fulj iskali developerje,
+
+301
+00:21:18,800 --> 00:21:21,800
+je bil to nek način, kako prideti do to vrstnih ljudi
+
+302
+00:21:21,800 --> 00:21:24,800
+in pač valjda tudi nekim podjetjem,
+
+303
+00:21:24,800 --> 00:21:26,800
+kaj je ljubljansko v interesu to podpreti,
+
+304
+00:21:26,800 --> 00:21:28,800
+ampak, ne, to je zdaj pač tako.
+
+305
+00:21:28,800 --> 00:21:30,800
+Zdaj, ko vsi zategujejo pa sovek,
+
+306
+00:21:30,800 --> 00:21:32,800
+je nekaj vrste krize v zona,
+
+307
+00:21:32,800 --> 00:21:35,800
+težko bo zdaj nekdo si, a veš, in sponzor, ne.
+
+308
+00:21:35,800 --> 00:21:39,800
+Pa tudi, pač možeš se zavedati tudi,
+
+309
+00:21:39,800 --> 00:21:42,800
+tudi pač tu imamo, mi nimamo sponzorje,
+
+310
+00:21:42,800 --> 00:21:44,800
+ogled ima podpornike.
+
+311
+00:21:44,800 --> 00:21:49,800
+Zdaj, ti hočeš neko uredniško svobodo,
+
+312
+00:21:49,800 --> 00:21:53,800
+in zdaj hočeš verjetno sam izbirati neke teme,
+
+313
+00:21:53,800 --> 00:21:55,800
+zdaj, če boš neke partnerje povabil,
+
+314
+00:21:55,800 --> 00:21:57,800
+tudi tudi pazi, da ti ne bojo vplivali
+
+315
+00:21:57,800 --> 00:22:00,800
+na izbor sibine, gostov in podobno,
+
+316
+00:22:00,800 --> 00:22:06,800
+da dobesedno HR ne prevzame tvojega eventa
+
+317
+00:22:06,800 --> 00:22:08,800
+in ga bo sanj za rekrutner,
+
+318
+00:22:08,800 --> 00:22:11,800
+kar smo tudi že videli, da se je veliko krat zgodilo.
+
+319
+00:22:11,800 --> 00:22:14,800
+Tako da, there is no free money.
+
+320
+00:22:14,800 --> 00:22:17,800
+Pa tudi ljudje, ki pridejo na dogodke,
+
+321
+00:22:17,800 --> 00:22:19,800
+tudi ni nobeno, da so vedno pripravljeni plačati
+
+322
+00:22:19,800 --> 00:22:21,800
+za to, da bojo prišli na tvoje dogodke.
+
+323
+00:22:22,800 --> 00:22:24,800
+Razen danes nas bodo dali za pivo,
+
+324
+00:22:24,800 --> 00:22:26,800
+ker vejo, da morajo.
+
+325
+00:22:30,800 --> 00:22:35,800
+V Sloveniji je težko dobiti founding za nekaj tega.
+
+326
+00:22:35,800 --> 00:22:38,800
+In mislim, da bolj so ljudje že dozetni,
+
+327
+00:22:38,800 --> 00:22:41,800
+kot predčasom, to boš ti potrdil.
+
+328
+00:22:43,800 --> 00:22:45,800
+Spet so te unicikli ups and downs.
+
+329
+00:22:45,800 --> 00:22:48,800
+Počasovnik obdobjak je bistveno lažje.
+
+330
+00:22:49,800 --> 00:22:52,800
+Sploh, ko si enkrat ustvariš imej,
+
+331
+00:22:52,800 --> 00:22:55,800
+oziroma, ko je to že nekaj vtečena za deva,
+
+332
+00:22:55,800 --> 00:22:58,800
+potem je to vsekako bistveno lažje,
+
+333
+00:22:58,800 --> 00:23:01,800
+ampak pa si misliš, da si zajah od tega konja,
+
+334
+00:23:01,800 --> 00:23:03,800
+in zdaj bomo to vsak let harali,
+
+335
+00:23:03,800 --> 00:23:05,800
+in potem si pač na sleden let,
+
+336
+00:23:05,800 --> 00:23:08,800
+a to je pa enkrat ni več tega denarja,
+
+337
+00:23:08,800 --> 00:23:11,800
+pač te isti ljudje več ne dajo, pač ja.
+
+338
+00:23:12,800 --> 00:23:15,800
+Meni je to zanimivo, ker veliko dogodkov,
+
+339
+00:23:15,800 --> 00:23:18,800
+ki so njih spremljali v Sloveniji v zadnjih,
+
+340
+00:23:18,800 --> 00:23:21,800
+da ne vem, osmi do desetih letih,
+
+341
+00:23:21,800 --> 00:23:23,800
+so šli na dva principa.
+
+342
+00:23:23,800 --> 00:23:26,800
+Ali je bil DIY, čisto pankerski,
+
+343
+00:23:26,800 --> 00:23:29,800
+samo toliko pač, da gre skozi, dobimo se vsi
+
+344
+00:23:29,800 --> 00:23:32,800
+vsaki drugi četrtek na bivo, pri Angležu,
+
+345
+00:23:32,800 --> 00:23:35,800
+in se bomo tam pogovarjali o neki temi,
+
+346
+00:23:35,800 --> 00:23:38,800
+ali pa pač gremo v neko formalno strukturo,
+
+347
+00:23:38,800 --> 00:23:40,800
+organizacijo itd.
+
+348
+00:23:40,800 --> 00:23:43,800
+Spletni urici so recimo primer tak,
+
+349
+00:23:43,800 --> 00:23:45,800
+pač pankerskega.
+
+350
+00:23:45,800 --> 00:23:48,800
+Saj sem ti hotel to reči, ampak nisem tako,
+
+351
+00:23:48,800 --> 00:23:51,800
+pošme zdaj rekel, da ne, nisem fulj strukturirani.
+
+352
+00:23:51,800 --> 00:23:54,800
+Ja, smo strukturirani, ampak eto,
+
+353
+00:23:54,800 --> 00:23:57,800
+ta pankerski, recimo mi smo imeli
+
+354
+00:23:57,800 --> 00:24:00,800
+zelo veliko sreče, da smo imeli
+
+355
+00:24:00,800 --> 00:24:03,800
+zelo dobre prijatelje in podpornike,
+
+356
+00:24:04,800 --> 00:24:07,800
+čisto tako, ki je bila, Narodni dom,
+
+357
+00:24:08,800 --> 00:24:11,800
+vedno je bila tam za nas, promotala ZDV,
+
+358
+00:24:11,800 --> 00:24:14,800
+smo dobili zastoj in prostor.
+
+359
+00:24:14,800 --> 00:24:17,800
+Na dva tedna smo organizirali dogodke,
+
+360
+00:24:17,800 --> 00:24:20,800
+kar je bilo pač insane.
+
+361
+00:24:20,800 --> 00:24:23,800
+Ekipa Spletni urici, ki je trenutno tukaj,
+
+362
+00:24:23,800 --> 00:24:26,800
+lahko sama pod tredine, to je bilo pač mašinerija.
+
+363
+00:24:26,800 --> 00:24:29,800
+In ljudje so se pač, so hodili v Maribor konstantno,
+
+364
+00:24:29,800 --> 00:24:32,800
+vsak je tu lahko videl vse.
+
+365
+00:24:32,800 --> 00:24:35,800
+Od, ne vem, res specifičnih ZDV,
+
+366
+00:24:35,800 --> 00:24:38,800
+kot Kafka in blokče
+
+367
+00:24:39,800 --> 00:24:42,800
+in ne vem, XY stvari,
+
+368
+00:24:42,800 --> 00:24:45,800
+do čisto nekih preprostih,
+
+369
+00:24:45,800 --> 00:24:48,800
+ne preprostih, nekaj moram praviti besedo preprosto,
+
+370
+00:24:48,800 --> 00:24:51,800
+ker nič ni preprosto, do čisto nekih splošnih tem,
+
+371
+00:24:51,800 --> 00:24:54,800
+ko smo se pogovarjali o tem, kako odnajti
+
+372
+00:24:54,800 --> 00:24:57,800
+svoj prvi džob v ITO ali pa
+
+373
+00:24:57,800 --> 00:25:00,800
+dizajnerske teme.
+
+374
+00:25:00,000 --> 00:25:05,280
+nekega razloga, pač underrepresented generalno project, product management.
+
+375
+00:25:08,280 --> 00:25:13,760
+Ko smo začeli razvijati te zadeve in ko smo začeli pač razvijati ta program,
+
+376
+00:25:14,880 --> 00:25:20,040
+DIY mindset, punkerski mindset, te pripelje do ene točke.
+
+377
+00:25:21,280 --> 00:25:25,959
+Mi smo imeli low operating costs, ki so bili praktično nični, zelo veliko ljudi
+
+378
+00:25:25,959 --> 00:25:30,360
+in ni dobilo honorara kar koli in svojega želja pa smo mar se kaj krili.
+
+379
+00:25:30,920 --> 00:25:37,759
+In je to ful časa šlo skozi. Potem pa prije korona, potem se pa zapremo vsi na svoje sobice.
+
+380
+00:25:37,759 --> 00:25:43,560
+Ampak vi ste imeli nekaj, kar nekaj tako tudi imeti. To je bilo kar zelo vzgledno.
+
+381
+00:25:43,560 --> 00:25:46,240
+Gledam to, da se je Slovenija tako zaprla v tistem času.
+
+382
+00:25:46,639 --> 00:25:51,759
+Spet na gorice so bile ene redke, ki so dejansko objavljale, dejansko si prišli,
+
+383
+00:25:51,759 --> 00:25:57,919
+je bil čanel, stream, talk, tako zelo proporna nivola, v katero smo imeli za tisti čas.
+
+384
+00:25:58,400 --> 00:26:03,599
+Tudi arhiv spet na gorici obstaja za tisti čas. Veliko zanimivosti smo jo še eno notili.
+
+385
+00:26:03,599 --> 00:26:09,559
+Ja, je bilo ful nekih stvari. Ampak vse to terja nek davek, predvsem na ljudeh.
+
+386
+00:26:10,440 --> 00:26:13,760
+Jer ne, smo upokojili, potem smo ga enkrat v mesec nazaj poklizali,
+
+387
+00:26:14,239 --> 00:26:16,360
+pa jasno lase v mesec zgubo.
+
+388
+00:26:16,360 --> 00:26:17,760
+A to je bilo?
+
+389
+00:26:17,760 --> 00:26:19,040
+A sej, to je bilo.
+
+390
+00:26:19,040 --> 00:26:20,239
+Najslaba genetika.
+
+391
+00:26:21,879 --> 00:26:22,879
+Na gorico.
+
+392
+00:26:24,080 --> 00:26:33,320
+Ampak ja, dogodek kot je naš, temelji na tem, da je v živo, z ljudmi, pred publiko.
+
+393
+00:26:33,320 --> 00:26:39,279
+In live eventi ima pač neko svojo dimenzijo in neke svoje izzive in neke svoje specifike.
+
+394
+00:26:40,839 --> 00:26:46,720
+Popravite me mogoče, oziroma zanima me vajno mnenje, kje vidi da vidi prihodnost live eventov?
+
+395
+00:26:46,879 --> 00:26:47,879
+Poleg vseh.
+
+396
+00:26:48,279 --> 00:26:52,160
+Jaz vidim tako, kar sem jaz organiziral teh meet-upov in tega,
+
+397
+00:26:53,080 --> 00:26:59,480
+tako, 40% je danesko neka osebina, 60% mora biti v obhodarka na tem, kar se dogaja potem.
+
+398
+00:27:00,080 --> 00:27:03,839
+In iz perspektive nekoga, ki organizira tak dogodek,
+
+399
+00:27:04,279 --> 00:27:08,600
+moraš dati fokus, ok, vidim gosta, vse to mora biti preskribno.
+
+400
+00:27:09,119 --> 00:27:13,399
+Potem pa tisti 60%, pa ko bo zdaj se tu lučka ogasnila,
+
+401
+00:27:13,800 --> 00:27:18,639
+poiskati, kdo bo naslednič ti pomago organiziral, kdo bo naslednič govoril,
+
+402
+00:27:19,080 --> 00:27:25,199
+kje boš te naslednič delegiral, naprej, ti moraš delati zelo aktivno na tem,
+
+403
+00:27:25,479 --> 00:27:29,000
+da bo nasledni dogodek že, ko si tam. On se zdaj sam smiji.
+
+404
+00:27:30,320 --> 00:27:33,639
+Recimo, Andraž lahko pove za Sektoke, ne, tam je ...
+
+405
+00:27:33,639 --> 00:27:39,639
+Jaz sem lahko povem še, čist, da ne vem, kako so v Kiberpipi, a ne, pač tisti, jaz se pač ...
+
+406
+00:27:40,639 --> 00:27:48,119
+Zbogem ne morem si predstavljati dones, da je Kiberpipa producirala na tedanski ravni
+
+407
+00:27:48,119 --> 00:27:50,119
+vsaj tri dogodke na teden.
+
+408
+00:27:50,119 --> 00:27:51,119
+To je mora.
+
+409
+00:27:51,119 --> 00:27:57,880
+In pazi to, to so tri dogodke na teden, ker je, pa, je bilo ob tuč četvrti,
+
+410
+00:27:57,880 --> 00:28:04,479
+se pravi, da so šter dni v tednu bili dogodki, in je bilo treba za en mesec naprej vedeti,
+
+411
+00:28:04,479 --> 00:28:07,639
+točno kaj na dan bo, ker se je tiskalo flyerje.
+
+412
+00:28:08,639 --> 00:28:10,639
+Pa ni bilo interneta.
+
+413
+00:28:10,639 --> 00:28:16,639
+How sick is that? Se pravi, ti dejansko si mogu imeti predavatla, vedu si naslove,
+
+414
+00:28:16,639 --> 00:28:21,639
+si mogu vedeti, da si lahko oddel, da se je tiskalo flyerje za naslednji mesec.
+
+415
+00:28:21,639 --> 00:28:23,639
+Če dones se pa pomislim ...
+
+416
+00:28:23,639 --> 00:28:25,639
+E Andraž, kaj so to flyerji?
+
+417
+00:28:26,639 --> 00:28:33,639
+Se pravi, v analognem, v analogni obliki, list papirja, na katerem ti je piso program
+
+418
+00:28:33,639 --> 00:28:35,639
+za naslednji mesec.
+
+419
+00:28:35,639 --> 00:28:37,639
+Letak, letak.
+
+420
+00:28:38,639 --> 00:28:44,639
+Tako, jaz si pa sem takrat aktivno vodil, pipim odprte termine.
+
+421
+00:28:46,639 --> 00:28:49,639
+Kaj sem počel, da je to bilo izvedljivo, ne vem.
+
+422
+00:28:49,639 --> 00:28:58,639
+Zdaj, se trudim en meet-up na mesec postaviti v koledar, pa to tako res se treba pretegljati.
+
+423
+00:28:59,639 --> 00:29:05,639
+Kaj je to, mislim, da ne vem, publika, ki tlele sedi, zgleda zelo enostavno.
+
+424
+00:29:07,639 --> 00:29:12,639
+Se pošla tist mailing, meet-up bo, ni to tako enostavno.
+
+425
+00:29:13,639 --> 00:29:21,640
+Tudi tist kopij, ki ga je treba spisati, ki je mogoče 34 stavke, ti požreje hitrga ena ura.
+
+426
+00:29:22,640 --> 00:29:30,640
+Pa imič, pa to, pa to, pa te. Zgubiš enega časa, tako da ni čist trivialno.
+
+427
+00:29:33,640 --> 00:29:40,640
+Se pa strinjam s to, kaj je oto rekel, ker si v bistvu sam pogruntev, ideja je tist,
+
+428
+00:29:42,640 --> 00:29:47,640
+ko je live, ljudje je tam, kaj s temi ljudmi tam počneš.
+
+429
+00:29:47,640 --> 00:29:54,640
+In jaz sem pač vna generacija, ki zagovarja, da ta video strema, da imaš ti dogodek,
+
+430
+00:29:55,640 --> 00:30:02,640
+streman obija dogodek. V Kiberpipi smo se pač lotilo v neki fazi strema,
+
+431
+00:30:03,640 --> 00:30:06,640
+ne zato, ker fulja fajn med strem, ne, zato, ker pač nekdo imel ideja,
+
+432
+00:30:07,640 --> 00:30:10,640
+jaz bi se s tem tako tehnično ukvarjil, kako je, če zadevo stremaš,
+
+433
+00:30:11,640 --> 00:30:15,640
+in se pač strem pojavlj, ampak na nek način se tudi ljudi razvarila.
+
+434
+00:30:15,640 --> 00:30:18,640
+Pa je bilo tako, kako danes pa ne bo strema, je pa brez veze.
+
+435
+00:30:19,640 --> 00:30:24,640
+V krati se je to na uricah zgodilo, da so me ljudje po cesti Mariboru ustavili,
+
+436
+00:30:25,640 --> 00:30:30,640
+pa smo bili tako, kaj bo strem v zadnjih uric? Zakaj pa te ni bilo v Kibli,
+
+437
+00:30:31,640 --> 00:30:36,640
+ali pa v Kmešo pisarni, ker imamo zdaj redne dogodke. Aja, nekaj sem pač delal s nekaj,
+
+438
+00:30:37,640 --> 00:30:44,640
+pa sem tako, žal, super so stremi, in je pa en dodatni nivou kompleksa,
+
+439
+00:30:45,640 --> 00:30:48,640
+in že to, da smo set-upali vse to tukaj.
+
+440
+00:30:49,640 --> 00:30:56,640
+Na te točki bi njihovo obrodalje publiki ni tukaj izravljali, ampak tudi z ogrodjem,
+
+441
+00:30:57,640 --> 00:31:01,640
+pa tudi z to zgodbo, kar Andraš umenja, pa tudi to si se vredno tudi ti zdaj navčil.
+
+442
+00:31:02,640 --> 00:31:10,640
+Zelo enostavno je takim zadevam, kot so te naše, dodajati fičarje, pa kompleksnost,
+
+443
+00:31:11,640 --> 00:31:18,640
+pa v bistvu posledično zvišati pričakovanja avdijensa pa ljudi, ki hodijo na te dogodke.
+
+444
+00:31:20,640 --> 00:31:27,640
+Bolje enostavno je dodati lučke, kamere, pa to, kot potem v neki točki reči,
+
+445
+00:31:28,640 --> 00:31:30,640
+fak, stari, ne moremo se tega prevoščiti, gremo jednozaj.
+
+446
+00:31:31,640 --> 00:31:34,640
+Zdaj smo imeli streming, ja, zdaj pa ne bomo več streminga imeli.
+
+447
+00:31:35,640 --> 00:31:42,640
+Zdaj, ali ti sam se ne moreš prevoščiti, da bi šel nazaj, ali dejansko imaš feeling,
+
+448
+00:31:43,640 --> 00:31:47,640
+da te publika ne bo to zamerila? Kaj smo imeli videti, da se mi pridemo do te stopnje,
+
+449
+00:31:48,640 --> 00:31:53,640
+da nam to postane nek nov standard in potem nočimo mi več tega nazaj,
+
+450
+00:31:54,640 --> 00:31:59,640
+ker pač v bistvu povezaš nešto, da je na tem nivoju.
+
+451
+00:32:00,640 --> 00:32:05,640
+Mislim, treba se zavedati, da postaja ta full, to je, zelo v veliki meri delamo to,
+
+452
+00:32:06,640 --> 00:32:10,640
+zato ker nam je všeč, pa v večini primerov delamo to, ker nam je toliko všeč,
+
+453
+00:32:11,640 --> 00:32:17,640
+da to delamo prostovoljno in v takem mindsetu ljudje zelo lahko eksplojta,
+
+454
+00:32:18,640 --> 00:32:24,640
+recimo cela glasbena industrija dela na tem konceptu in ljudje, ker so strasni,
+
+455
+00:32:24,640 --> 00:32:31,640
+so se pripravljeni komitat na marsi in kaj in potem iz tega tudi pride do tega izgorelosti,
+
+456
+00:32:32,640 --> 00:32:36,640
+do tega prija, da take prečakovanje postavimo, da jih potem ne moraš več držati
+
+457
+00:32:37,640 --> 00:32:45,640
+in potem pride pač, tako kot si pravila, imam v Hrodje live eventov,
+
+458
+00:32:46,640 --> 00:32:51,640
+pač to bi bilo dodatno delo poleg vsega, ki ga moramo še narediti.
+
+459
+00:32:52,640 --> 00:32:56,640
+Zdaj, razen če najdemo nekoga, da delegiramo to, ampak če najdemo nekoga,
+
+460
+00:32:57,640 --> 00:33:01,640
+da delegiramo, moramo nekako dati nekaj zameno ali nekaj skompenzirati,
+
+461
+00:33:02,640 --> 00:33:04,640
+kar spet pomeni, da spet dodati nekaj.
+
+462
+00:33:05,640 --> 00:33:07,640
+Mislim, tukaj bi lahko na tem mestu shout-out bil.
+
+463
+00:33:08,640 --> 00:33:12,640
+Če je nekdo, ki ga to zanima, bi to eksperimentiral, bi se rad s tem ukvarjal,
+
+464
+00:33:13,640 --> 00:33:18,640
+pač valjda vabljen na set, pač streama live, a ne, mi ne bomo,
+
+465
+00:33:18,640 --> 00:33:20,640
+ali se boš preteževal.
+
+466
+00:33:23,640 --> 00:33:25,640
+Kaj pa, če bi bili ...
+
+467
+00:33:26,640 --> 00:33:28,640
+A vidiš, to se začne. Kaj pa, če bi bili ...
+
+468
+00:33:29,640 --> 00:33:31,640
+Veš, kaj bi ti mogo, ne?
+
+469
+00:33:32,640 --> 00:33:34,640
+To je čista Mariborska. Veš, kaj bi ti mogo.
+
+470
+00:33:35,640 --> 00:33:37,640
+Mar si kaj. V Turčju si lahko se presediti.
+
+471
+00:33:38,640 --> 00:33:41,640
+To ti vedno povejo tisti, ki te ne obiskujajo, pa ki te ne poslušajo,
+
+472
+00:33:42,640 --> 00:33:45,640
+ampak se nekje so zasledili, ampak predlagajo, kaj bi.
+
+473
+00:33:45,640 --> 00:33:46,640
+Kaj bi, ne?
+
+474
+00:33:47,640 --> 00:33:50,640
+Vi bi mogli imeti slušalke, vi bi mogli imeti še boljše mikrofone,
+
+475
+00:33:51,640 --> 00:33:53,640
+vi bi mogli imeti še stream.
+
+476
+00:33:54,640 --> 00:33:59,640
+A boš naš Patreon. Ah, veš, pismo v Švici imamo nizke plače.
+
+477
+00:34:05,640 --> 00:34:10,640
+Zelo veliko krat te inicijative, ogrodje, spletne urice, razno razni meet-upi,
+
+478
+00:34:11,640 --> 00:34:14,640
+so samo nekje zadeve, ki pridejo iz nekega skupnega entuzijazma,
+
+479
+00:34:15,640 --> 00:34:18,640
+iz nekega skupnega interesa. Zberemo se okoli ene teme.
+
+480
+00:34:19,640 --> 00:34:20,640
+Norosti.
+
+481
+00:34:21,640 --> 00:34:22,640
+Norosti je veliko krat.
+
+482
+00:34:23,640 --> 00:34:25,640
+V bistvu bi jaz rekel, da vse prijeje iz enega posameznika,
+
+483
+00:34:26,640 --> 00:34:27,640
+ki je dovolj nora, ne?
+
+484
+00:34:28,640 --> 00:34:29,640
+Jer ne je gračner.
+
+485
+00:34:30,640 --> 00:34:31,640
+Da to ri ne napraja, ne?
+
+486
+00:34:32,640 --> 00:34:33,640
+Ja, definitivno.
+
+487
+00:34:34,640 --> 00:34:35,640
+Andral Sraga.
+
+488
+00:34:36,640 --> 00:34:42,640
+Zelo veliko krat se te socialne tvorbe formirajo in se zdaj nekje najdemo.
+
+489
+00:34:43,640 --> 00:34:47,640
+Še vedno za organizacijo nekega dogodka potrebuješ nek prostor,
+
+490
+00:34:48,640 --> 00:34:50,640
+potrebuješ način, da skomuniciraš z ljudmi.
+
+491
+00:34:54,640 --> 00:34:55,640
+Jaz bi šel malo nazaj.
+
+492
+00:34:56,640 --> 00:35:00,640
+Jaz tu na tej točki velikrat uporabim nek slovenski pregovor.
+
+493
+00:35:00,640 --> 00:35:05,640
+In je tako kao, dober gospodar najde dobrega naslednika.
+
+494
+00:35:06,640 --> 00:35:09,640
+In to je ful taka neka globoka misel.
+
+495
+00:35:10,640 --> 00:35:12,640
+V tem nismo dobri. V tem ful nismo dobri.
+
+496
+00:35:13,640 --> 00:35:14,640
+V tem še delamo.
+
+497
+00:35:15,640 --> 00:35:18,640
+To je ta teorija pri ta slovenski pregovor, da v tem nismo dobri.
+
+498
+00:35:19,640 --> 00:35:26,640
+No, ampak, ok. Če delamo, če hočemo, da bo v Grodi preživelo 5, 10 let,
+
+499
+00:35:27,640 --> 00:35:31,640
+potem moramo ga strukturirati na tak način, da bo resilient.
+
+500
+00:35:32,640 --> 00:35:36,640
+Spravi, da če jaz danes sem bolan ali pa je Andraž bolan,
+
+501
+00:35:37,640 --> 00:35:39,640
+da se nekako zarotiramo in pač lahko zadevo izvedemo.
+
+502
+00:35:40,640 --> 00:35:43,640
+In da je vsak na nek način zadomisliv.
+
+503
+00:35:44,640 --> 00:35:49,640
+In da tudi delamo na tem, ko pač bom ješal neke druge zadeve delati,
+
+504
+00:35:50,640 --> 00:35:55,640
+pa draščo delati, da se bo nekako ta torč, bakla predala naprej.
+
+505
+00:35:56,640 --> 00:36:01,640
+Ampak to ni tako, ej, here are the keys, pač moraš nekako…
+
+506
+00:36:02,640 --> 00:36:04,640
+Če tega živi v sebi in poslovnem življanju vedela…
+
+507
+00:36:05,640 --> 00:36:08,640
+Jaz bi tukaj dodelal, da to je vse lepo in pravo.
+
+508
+00:36:10,640 --> 00:36:14,640
+Ampak jaz bi tukaj dodelal, da dopuščam možnost,
+
+509
+00:36:14,640 --> 00:36:17,640
+da kdorkol bi zdaj to baklo ključe karkoli prevzevo,
+
+510
+00:36:18,640 --> 00:36:21,640
+da lahko to zdaj zavije tudi v drugo smer.
+
+511
+00:36:22,640 --> 00:36:27,640
+Ker pomeni, da so to spletne urice ali je to ne vem kater koli meet-up,
+
+512
+00:36:28,640 --> 00:36:33,640
+ali je to ogrodje, da pač je kot tisti, ki to rinejo naprej,
+
+513
+00:36:34,640 --> 00:36:36,640
+da rinejo z neko svojo vizijo.
+
+514
+00:36:37,640 --> 00:36:41,640
+Da pač obdržijo skelet in zdaj zapelajo ali se spremeni določen content,
+
+515
+00:36:41,640 --> 00:36:45,640
+ali zdaj začnemo drugače delati ali samo zamenjamo barvoluček.
+
+516
+00:36:47,640 --> 00:36:52,640
+To je neka stvar, ki je pa pač malo čist slovensko,
+
+517
+00:36:53,640 --> 00:36:56,640
+ker jaz sem si to spomnul, to je moj projekt in zdaj ta naslednik,
+
+518
+00:36:57,640 --> 00:36:59,640
+ki bi hotel to malo drugače, tega pa jaz ne bom pustil.
+
+519
+00:37:00,640 --> 00:37:04,640
+Treba spet tu na egota stran pustiti, ker nekdo se je opokojil,
+
+520
+00:37:05,640 --> 00:37:07,640
+nekdo drug je prišel sveža energija, sveža zamisev,
+
+521
+00:37:08,640 --> 00:37:10,640
+da zavije pač tudi v drugo smer.
+
+522
+00:37:12,640 --> 00:37:18,640
+Sliši se bolj enostavno, ampak zgraditi neko klimo,
+
+523
+00:37:19,640 --> 00:37:24,640
+da lahko zajebeš, da pač bomo naredili nekaj, kar bomo mogoče zajebali,
+
+524
+00:37:25,640 --> 00:37:28,640
+pa bo disester, ampak bomo se zdaj navčili,
+
+525
+00:37:29,640 --> 00:37:32,640
+pa bomo pivotali v neko drugo smer.
+
+526
+00:37:33,640 --> 00:37:36,640
+Ja, ampak veš, tukaj je ta problema, ko ti zajebeš, pa se navčiš.
+
+527
+00:37:37,640 --> 00:37:39,640
+A to govoriš med seboj?
+
+528
+00:37:40,640 --> 00:37:42,640
+Mogoče, mogoče.
+
+529
+00:37:44,640 --> 00:37:47,640
+Potem to postane tako, da zdaj dokolik pride, pa si ti pametan,
+
+530
+00:37:48,640 --> 00:37:50,640
+ta nauč naredil, mi smo se zdaj nekaj navčili.
+
+531
+00:37:51,640 --> 00:37:53,640
+Ne, pač ta človek morit čez iste napake oziroma podobne napake
+
+532
+00:37:54,640 --> 00:37:58,640
+in neke zafuke, če tako rečeš, da se spet nekaj novega navči.
+
+533
+00:37:59,640 --> 00:38:02,640
+Ja, zato recimo v Grodju nimao več nobenega alkohola.
+
+534
+00:38:04,640 --> 00:38:07,640
+Organizirali snimanje v kafani.
+
+535
+00:38:08,640 --> 00:38:10,640
+Več neke stvari se navčiš.
+
+536
+00:38:11,640 --> 00:38:13,640
+Mogoče je to tudi naja pomembna zadeva.
+
+537
+00:38:14,640 --> 00:38:16,640
+Če boste kdaj organizirali spet novice ali kaj podobnega,
+
+538
+00:38:17,640 --> 00:38:20,640
+ta refleksija po eventu je ful pomembna.
+
+539
+00:38:21,640 --> 00:38:23,640
+Mi tudi, ko posnamemo, tudi se pogovorimo,
+
+540
+00:38:24,640 --> 00:38:26,640
+kaj je bilo vredo, kaj ni bilo vredo.
+
+541
+00:38:27,640 --> 00:38:29,640
+Moč ne zdaj tako je, ampak potem, ko je koncni predlog,
+
+542
+00:38:30,640 --> 00:38:33,640
+da vidimo, kaj smo se navčili, kaj ne, kaj nam odgovarja.
+
+543
+00:38:34,640 --> 00:38:40,640
+Ta refleksija, pa retro, prav dokaj, žargono, je ful pomembna.
+
+544
+00:38:41,640 --> 00:38:45,640
+Ker rabiš neko točko, da rečeš, a je to to, kar se seborimo.
+
+545
+00:38:46,640 --> 00:38:50,640
+Če imaš te neke umestne točke, pa se ti manjša vrednost je,
+
+546
+00:38:51,640 --> 00:38:53,640
+da boš zgubil nit, zakaj se boriš.
+
+547
+00:38:54,640 --> 00:38:56,640
+Mi je všeč, ker bi celotno ta pogovor lahko apliciral
+
+548
+00:38:57,640 --> 00:38:59,640
+na ful mojih prejšnjih džobov.
+
+549
+00:39:00,640 --> 00:39:03,640
+Ta šit, kaj delamo, je v bistvu sam, pač obiramo iz tega,
+
+550
+00:39:04,640 --> 00:39:06,640
+kaj smo že delali. Kaj je Loki delo v Kiberpipi,
+
+551
+00:39:07,640 --> 00:39:10,640
+kaj je Gračner delo v desajna druge, kaj smo delali v ...
+
+552
+00:39:12,640 --> 00:39:14,640
+In pač se potem ful učimo.
+
+553
+00:39:16,640 --> 00:39:21,640
+Deločene stvari se dajo preslikati, deločene stvari ne veljajo več
+
+554
+00:39:22,640 --> 00:39:26,640
+v letu 2020 in naprej, ampak je potem treba drugače probati.
+
+555
+00:39:27,640 --> 00:39:32,640
+To je res, ja. Videlam, da tudi ko so live eventi, se moramo včasih
+
+556
+00:39:33,640 --> 00:39:36,640
+mi prav truditi, da ljudje še ostanejo na pijači za tem in da se
+
+557
+00:39:37,640 --> 00:39:40,640
+za šankom razvije debata. Par let nazaj je pa bilo to pač
+
+558
+00:39:41,640 --> 00:39:43,640
+čisto nekaj normalnega.
+
+559
+00:39:44,640 --> 00:39:50,640
+Jaz sem imel to foro na Pejpinovih prtih, ker vemo, da slovenska
+
+560
+00:39:51,640 --> 00:39:54,640
+publika ne je zastavljala vprašanj. Ti imaš lahko zdaj tam
+
+561
+00:39:54,640 --> 00:39:58,640
+ful dober tok, nekoga, ki se je ful uložil tisto eno uro in na konc
+
+562
+00:39:59,640 --> 00:40:01,640
+zero questions. Kaj zdaj naredite?
+
+563
+00:40:02,640 --> 00:40:07,640
+Al pa je vedno ena oseba, ki vpraša najbolj zajebano vprašanje in
+
+564
+00:40:08,640 --> 00:40:10,640
+najbolj diskusija na svetu.
+
+565
+00:40:11,640 --> 00:40:13,640
+To sem jaz pač pripravljen. Jaz sem imel dejansko pripravljeno
+
+566
+00:40:14,640 --> 00:40:18,640
+vprašanje in sem pač tako provoceril publiko in nekoga, zato da sem
+
+567
+00:40:19,640 --> 00:40:22,640
+na konc metel ful enih vprašanj ali pa pač najdel nekoga v publiki,
+
+568
+00:40:22,640 --> 00:40:27,640
+ki je rekel, ej, gledaj, tole boš vprašal. Samo zato, da sem pospešil,
+
+569
+00:40:28,640 --> 00:40:32,640
+da se je pač zadeva začela premikati. Ker samo enega rabeš, da začne
+
+570
+00:40:33,640 --> 00:40:35,640
+govoriti, da se gledna publika, a ja, lahko sprašujemo.
+
+571
+00:40:36,640 --> 00:40:38,640
+Mali trike velikega mojstra.
+
+572
+00:40:41,640 --> 00:40:43,640
+Al bomo ključili v neki točki vprašanje publike?
+
+573
+00:40:44,640 --> 00:40:45,640
+Bomo.
+
+574
+00:40:46,640 --> 00:40:48,640
+A veš kaj, v bistvu, prej po časovnici smo zdaj nekje bi smo mogli
+
+575
+00:40:48,640 --> 00:40:51,640
+povedati naši sponzori oziroma podpornike. Už ti?
+
+576
+00:40:52,640 --> 00:40:53,640
+Ne, to je tvoje delo.
+
+577
+00:40:54,640 --> 00:41:00,640
+Ok, tukaj imamo. V Grodju se zahvaljujemo podjetju 3FSE pa podjetju
+
+578
+00:41:01,640 --> 00:41:06,640
+Human Frog, ki nam nas podpirata pri tej zgodbi, pa zelo se zahvaljujemo
+
+579
+00:41:07,640 --> 00:41:11,640
+vsem Patreonom, ki nas podpirajo. Patreonit poleg tega, da dobijo
+
+580
+00:41:12,640 --> 00:41:14,640
+osebinov tudi prej, dobijo še zdaj tudi neki mrč, ki ga je tudi
+
+581
+00:41:14,640 --> 00:41:19,640
+gospod Gračner oblikoval, tako da hvala vsem, ki nas podpirate na tej poti.
+
+582
+00:41:20,640 --> 00:41:21,640
+EPP.
+
+583
+00:41:23,640 --> 00:41:26,640
+Zdaj, tukaj imamo še ta vprašanje, zaibljubno bi bilo, da jih nekako
+
+584
+00:41:27,640 --> 00:41:28,640
+vključimo.
+
+585
+00:41:28,640 --> 00:41:29,640
+Definitivno, definitivno.
+
+586
+00:41:29,640 --> 00:41:30,640
+Si zda?
+
+587
+00:41:30,640 --> 00:41:31,640
+Al me zbero.
+
+588
+00:41:32,640 --> 00:41:36,640
+Dobro, a si prebral vprašanje tega tole prvo? Zakaj nimamo v 8K
+
+589
+00:41:37,640 --> 00:41:38,640
+video podcast?
+
+590
+00:41:42,640 --> 00:41:43,640
+Jan!
+
+591
+00:41:44,640 --> 00:41:47,640
+A se boš, a se boš zdaj razakanjal? Ne, ne, veš kaj, ne imamo,
+
+592
+00:41:48,640 --> 00:41:49,640
+diska nimamo.
+
+593
+00:41:49,640 --> 00:41:50,640
+Ja.
+
+594
+00:41:50,640 --> 00:41:51,640
+Diska storiča nimamo.
+
+595
+00:41:51,640 --> 00:41:52,640
+Ja, to je problem.
+
+596
+00:41:52,640 --> 00:41:56,640
+Ja, te SD kartice smo fulj polimiterani, tako da pa ble epizode po 20 minut.
+
+597
+00:41:57,640 --> 00:42:00,640
+Če bi, če bi delali v 8K, če sem si pravil za spolno,
+
+598
+00:42:01,640 --> 00:42:04,640
+Janov odgovor je, da potem bi bila epizoda velika 100 giga.
+
+599
+00:42:05,640 --> 00:42:08,640
+Mislim, da bi to volumensko zasedleno. To je krprce.
+
+600
+00:42:09,640 --> 00:42:12,640
+Zdaj, če moraš vse te ZD-ve prenesem, to ti ja pa obdelat,
+
+601
+00:42:12,640 --> 00:42:13,640
+pa sprocesirat.
+
+602
+00:42:14,640 --> 00:42:17,640
+Veš kako enega ponalo dje po netu prenaša, pa nima problema za 100 giga.
+
+603
+00:42:18,640 --> 00:42:19,640
+Ti pa zdaj.
+
+604
+00:42:20,640 --> 00:42:21,640
+Ok, tak da.
+
+605
+00:42:22,640 --> 00:42:25,640
+Jaz sem si zamičen predvosni SSD disk up M-tera za 90 evrov,
+
+606
+00:42:26,640 --> 00:42:28,640
+tako da, po taki mali fžep ga daš komod.
+
+607
+00:42:29,640 --> 00:42:31,640
+No, ga boš ti dal, potem Janu, pa bomo.
+
+608
+00:42:32,640 --> 00:42:33,640
+Rešeno.
+
+609
+00:42:34,640 --> 00:42:38,640
+Ne, ampak tudi, mislim, da so neke druge, druge tehnične zadeve.
+
+610
+00:42:39,640 --> 00:42:42,640
+Jan je rekel, da, če vas zanima, zakaj nimamo ogrodja v 8K,
+
+611
+00:42:43,640 --> 00:42:46,640
+je tukaj zadi, vas čakajo v publiki, bo zelo zaseden predebatiral
+
+612
+00:42:47,640 --> 00:42:48,640
+detalje tega.
+
+613
+00:42:49,640 --> 00:42:52,640
+Zdaj, mogoče tu na komentar na preogrodju.
+
+614
+00:42:54,640 --> 00:42:55,640
+Videoprodukcija.
+
+615
+00:42:56,640 --> 00:42:58,640
+To ima 1 dolar in 1 dolar medija čez.
+
+616
+00:42:59,640 --> 00:43:02,640
+In to, da zgleda in da je proper posneto z oče, na to je
+
+617
+00:43:03,640 --> 00:43:04,640
+apsolutno 1.
+
+618
+00:43:05,640 --> 00:43:06,640
+Tak da, hvala Janu za se.
+
+619
+00:43:06,640 --> 00:43:08,640
+In to tudi pomeni, da se lahko mi uskvarjamo s vsem ostalim.
+
+620
+00:43:09,640 --> 00:43:10,640
+Tak da, Jan, res se ve.
+
+621
+00:43:11,640 --> 00:43:13,640
+Malo mora še Tomaža vključiti, ker tudi, a veš, Lightnik je pomemben.
+
+622
+00:43:14,640 --> 00:43:15,640
+Ja.
+
+623
+00:43:16,640 --> 00:43:17,640
+Prinošalec Svetlobe je Tomaž.
+
+624
+00:43:18,640 --> 00:43:19,640
+Prinošalec Svetlobe.
+
+625
+00:43:20,640 --> 00:43:23,640
+Prinošalec Svetlobe iz Kobilja je Tomaž Zaman.
+
+626
+00:43:24,640 --> 00:43:25,640
+In se mu zelo zahvaljujemo.
+
+627
+00:43:26,640 --> 00:43:28,640
+On je tisti pravi YouTuber od vseh nas.
+
+628
+00:43:30,640 --> 00:43:31,640
+En random intermeco.
+
+629
+00:43:32,640 --> 00:43:34,640
+Če se kdorokoli od vas, kdaj ukvarja z organizacijo dogodkov,
+
+630
+00:43:35,640 --> 00:43:39,640
+vedno veste, da tista oseba, ki oblikuje luč,
+
+631
+00:43:40,640 --> 00:43:42,640
+ponavadi sedi za mizo in gleda, ne.
+
+632
+00:43:43,640 --> 00:43:45,640
+Tisti, ki pa dejansko naredijo svojo zločine in vse, pa je tako Jan, ne,
+
+633
+00:43:46,640 --> 00:43:48,640
+pa tu fotka, pa nabaskače na okolji, pa fizičari.
+
+634
+00:43:49,640 --> 00:43:50,640
+Tak da.
+
+635
+00:43:52,640 --> 00:43:53,640
+Smešno je.
+
+636
+00:43:54,640 --> 00:43:55,640
+Kaj, kaj, par, random.
+
+637
+00:43:57,640 --> 00:43:59,640
+Zdaj, a gremo naprej?
+
+638
+00:44:00,640 --> 00:44:01,640
+Daj, gremo naprej, resno vprašanje.
+
+639
+00:44:01,640 --> 00:44:03,640
+Ker bodo ljudje mogli polulati.
+
+640
+00:44:04,640 --> 00:44:05,640
+Oni grejo lahko.
+
+641
+00:44:06,640 --> 00:44:07,640
+Oni lahko grejo.
+
+642
+00:44:08,640 --> 00:44:09,640
+Mi imamo nekaj problema, moramo zabaviti njih.
+
+643
+00:44:10,640 --> 00:44:14,640
+Vsi lahko lulaš, samo tehnično gledalnost ne snemajo, ne.
+
+644
+00:44:18,640 --> 00:44:21,640
+Koliko časa vam zame post production oziroma video editing,
+
+645
+00:44:22,640 --> 00:44:24,640
+na kak način objavite novo video na vse platforme,
+
+646
+00:44:25,640 --> 00:44:27,640
+imate spisano svojo app ali porabljate kak third party app?
+
+647
+00:44:28,640 --> 00:44:29,640
+To je nekoga res zanimavstva.
+
+648
+00:44:29,640 --> 00:44:30,640
+Res zanimavstva.
+
+649
+00:44:31,640 --> 00:44:33,640
+Koliko časa nam zame video editing?
+
+650
+00:44:34,640 --> 00:44:38,640
+Zdaj, ko bomo tole posneli, imam to že vse na disku in bomo to nesli domov.
+
+651
+00:44:39,640 --> 00:44:40,640
+In ko bomo imeli čas, bomo to obdelovali.
+
+652
+00:44:41,640 --> 00:44:42,640
+To ponavadi traja sedmi.
+
+653
+00:44:43,640 --> 00:44:44,640
+Give or take, odvisno koliko je za sedem.
+
+654
+00:44:46,640 --> 00:44:51,640
+Ne hitimo neki, delamo pritiska, to je neko umetniško delo.
+
+655
+00:44:53,640 --> 00:44:54,640
+Umetniško delo.
+
+656
+00:44:55,640 --> 00:44:57,640
+Umetniško delo, zrelo ga.
+
+657
+00:44:57,640 --> 00:44:58,640
+Ga pošli in potem ga objavimo.
+
+658
+00:44:59,640 --> 00:45:01,640
+To si tako povedal, da je ful post produkcije potrebo.
+
+659
+00:45:03,640 --> 00:45:04,640
+Post produkcije.
+
+660
+00:45:05,640 --> 00:45:08,640
+Post produkcije je samo, da vržiš noter v te audio program,
+
+661
+00:45:09,640 --> 00:45:10,640
+normaliziraš na minus tri decibelja.
+
+662
+00:45:11,640 --> 00:45:12,640
+Ne, ne, ne.
+
+663
+00:45:13,640 --> 00:45:14,640
+Hired.
+
+664
+00:45:15,640 --> 00:45:16,640
+Naravim še enga shifta vrej.
+
+665
+00:45:17,640 --> 00:45:18,640
+Preveč dela malo.
+
+666
+00:45:19,640 --> 00:45:20,640
+To smo se že naučili, da to ne dela.
+
+667
+00:45:21,640 --> 00:45:23,640
+Zato imamo Jana, ki pa zna to.
+
+668
+00:45:24,640 --> 00:45:27,640
+Enkrat smo tako, da obstajo AI tooli, da to noter vržeš,
+
+669
+00:45:28,640 --> 00:45:29,640
+pa bo AI tool pač rekel, zdaj bo perfect zvok.
+
+670
+00:45:30,640 --> 00:45:31,640
+Ne.
+
+671
+00:45:32,640 --> 00:45:33,640
+Se mi bi rekel, vse je v redu.
+
+672
+00:45:34,640 --> 00:45:35,640
+Sam je rekel, da ne.
+
+673
+00:45:36,640 --> 00:45:37,640
+Sam je...
+
+674
+00:45:38,640 --> 00:45:39,640
+Kaj je na en YouTube komentar, ko bo rekel,
+
+675
+00:45:40,640 --> 00:45:41,640
+kaj ste skozi AI tool vrgli, daj ne.
+
+676
+00:45:42,640 --> 00:45:44,640
+Jan je pogledal, pa je rekel, fant je prednji, bo AI tool vržil,
+
+677
+00:45:45,640 --> 00:45:47,640
+da te poskrbe do stereosne, imate ne v mono.
+
+678
+00:45:47,640 --> 00:45:48,640
+Zakaj objavite?
+
+679
+00:45:49,640 --> 00:45:51,640
+Ok, objavo podkesto je, for dummies, izjemno enostavno.
+
+680
+00:45:52,640 --> 00:45:54,640
+Obstajajo platforme, podkester, ki ga je Spotify kupil,
+
+681
+00:45:55,640 --> 00:45:57,640
+gor naložiš fajl in on pa v bistvu naredi RSS feed,
+
+682
+00:45:58,640 --> 00:46:00,640
+to pa pa v bistvu imamo prijavljeno v vseh teh ostalih platformah,
+
+683
+00:46:01,640 --> 00:46:03,640
+kot so Apple in ostali, in pol iz tega RSS-a pobira YouTube,
+
+684
+00:46:04,640 --> 00:46:06,640
+pa pač isto objaviš gor in to je to.
+
+685
+00:46:07,640 --> 00:46:08,640
+Tako da naša platforma je enostavna.
+
+686
+00:46:08,640 --> 00:46:10,640
+Tako da naša platforma je enostavna.
+
+687
+00:46:38,640 --> 00:47:05,640
+Zdaj, kaj nam naj uspej narediti, je navaditi folka, da bi jo samo uporabljali.
+
+688
+00:47:06,640 --> 00:47:10,640
+V bistvu je to tisti zadev, ki smo bili že na tej družički, da imamo tiketing sistem.
+
+689
+00:47:11,640 --> 00:47:14,640
+Pa pač je Slovenska odreča seboj svojega spisala.
+
+690
+00:47:17,640 --> 00:47:21,640
+Potem sem rekel, pač vse jih je ful, samo ne džire, pač kar kaj drugega.
+
+691
+00:47:23,640 --> 00:47:26,640
+Tako PTSD dobim vsake dve sekundi, ko nekaj obdobim.
+
+692
+00:47:26,640 --> 00:47:28,640
+Samo da je integrirano.
+
+693
+00:47:29,640 --> 00:47:30,640
+Ja, to jih je zanimalo.
+
+694
+00:47:32,640 --> 00:47:38,640
+Pač v Githubu imamo vse napisano, če koga zanima, če kdo hoče sklonirati v Grodje, pa narediti svoj podcast.
+
+695
+00:47:38,640 --> 00:47:39,640
+Ja, go for it.
+
+696
+00:47:41,640 --> 00:47:44,640
+Potem je tudi skupnost in to smo se že vse dotaknili.
+
+697
+00:47:45,640 --> 00:47:47,640
+Vprašanje za starejšo generacijo.
+
+698
+00:47:47,640 --> 00:47:48,640
+Oh my god.
+
+699
+00:47:50,640 --> 00:47:51,640
+Kaj discipliniramo kot starejšo?
+
+700
+00:47:51,640 --> 00:47:58,640
+Kaj trenutni meet-upi, konference in podobni dogodki počnejo bolje kot predhodniki recimo desetletje ali desetletja nazaj?
+
+701
+00:47:59,640 --> 00:48:01,640
+Kaj zdajne zdelamo boljše?
+
+702
+00:48:05,640 --> 00:48:16,640
+Definitivno bolj omniprezentni na internetu, na vseh možnih kanalih, ampak je tudi pač tako, kot si rekel, so vsi ti različni tooli,
+
+703
+00:48:16,640 --> 00:48:21,640
+kjer samo naložiš en file, se RSS vidi, generirajo, se pošilja, bla, bla, bla.
+
+704
+00:48:23,640 --> 00:48:26,640
+Kaj se dela slabše? To je meni mogoče bolj zanimivo.
+
+705
+00:48:27,640 --> 00:48:31,640
+Majno čestnega stika je med folkom na dogodkih. Ne vem.
+
+706
+00:48:35,640 --> 00:48:40,640
+Če gremo na naš stran, mi smo leto začeli sodelovati z Laro Kozbek,
+
+707
+00:48:40,640 --> 00:48:47,640
+zdaj, če ne bi bilo še v portogalskem, bi bila bi lahko zdaj z nami, in imamo zdaj v ekipi članico,
+
+708
+00:48:48,640 --> 00:48:55,640
+ki se ukvarja samo s tem, da ogrodje distribuiramo na TikTok, na YouTube, Rilse pa Instagram,
+
+709
+00:48:56,640 --> 00:49:02,640
+ker smo gotvi, da pač tam je zelo veliko odjensa in pač tam moramo biti prisotni, je svoj format,
+
+710
+00:49:03,640 --> 00:49:08,640
+tako da, če vidite te klipe, pa to izrezane iz videa, to Laro vse sama dela in razpršuje in to.
+
+711
+00:49:09,640 --> 00:49:13,640
+In pažamo, da tudi zrad tega nas vidijo ljudje, ki nas drugače ne bi,
+
+712
+00:49:14,640 --> 00:49:17,640
+ker Facebook je za stare ljudi, LinkedIn je pa za poslo.
+
+713
+00:49:18,640 --> 00:49:20,640
+Kaj ne pa jaz rečem, ki nimam Facebooka?
+
+714
+00:49:23,640 --> 00:49:32,640
+To je, treba delati, ampak je ful, pač, če hočeš res biti nek prisotni na teh LinkedIn, Facebook,
+
+715
+00:49:32,640 --> 00:49:36,640
+boš mogel vršketi še na to, pač mogel boš dejansko kupiti adse,
+
+716
+00:49:37,640 --> 00:49:42,640
+pol pa priti, če narediš hitro do tega, a si lahko to dejansko kot nek organizator nekih eventov s poh priboščiš ali ne.
+
+717
+00:49:44,640 --> 00:49:51,640
+Zdaj, v našem premjeru, v StopPresence smo zgradili v bistvu nič evri,
+
+718
+00:49:52,640 --> 00:49:58,640
+mi nismo nikoli kupili nojnih vglasev ali karkoli, vse pač preko teh nekih svojih netvorkov, ki jih imamo in to je bilo za dost.
+
+719
+00:50:00,000 --> 00:50:03,280
+Vokzale, če lahko preko tega efekta gremo.
+
+720
+00:50:03,280 --> 00:50:07,240
+Definitivno se pozna, če pač, ne vem,
+
+721
+00:50:07,240 --> 00:50:11,560
+imam rekel, eventi pred, ne vem, dva, osem,
+
+722
+00:50:11,560 --> 00:50:14,080
+in pa potem
+
+723
+00:50:14,080 --> 00:50:16,840
+ful je, ful se, kako sta rekla,
+
+724
+00:50:16,840 --> 00:50:20,200
+dejansko imaš možnost, kje, mislim, lažje dobiš ta audiens.
+
+725
+00:50:20,200 --> 00:50:21,719
+Pač malo se moraš potruditi,
+
+726
+00:50:21,719 --> 00:50:25,000
+ampak imaš pač social netvorke, imaš pač en kup stvari,
+
+727
+00:50:25,000 --> 00:50:26,840
+to, kar sem prej rekel,
+
+728
+00:50:26,840 --> 00:50:30,200
+letake, tiskanje letakov, vse drugega ni bilo, a ne.
+
+729
+00:50:30,200 --> 00:50:34,000
+A veš, let na stran, pa če je imela RSS je to bilo že napredek,
+
+730
+00:50:34,000 --> 00:50:36,480
+a veš, nekih v agregator je bilo ful malo,
+
+731
+00:50:36,480 --> 00:50:40,639
+a ne, kam boš, ne vem, nekih Facebookov ni bilo, Myspace je obstajal,
+
+732
+00:50:40,639 --> 00:50:43,240
+a ne, in to je bilo to, a ne.
+
+733
+00:50:43,240 --> 00:50:48,360
+In v bistvu ta rič je dones bistveno lažji,
+
+734
+00:50:48,360 --> 00:50:50,759
+pač, ja. Samo tudi ni lažji, ne.
+
+735
+00:50:50,759 --> 00:50:56,160
+Hrati, a veš, ni lažji zato, ker se pa može za to pozornost teh ljudi bistveno bolj potruditi,
+
+736
+00:50:56,240 --> 00:51:00,880
+a ne, se pravi, ni dovolj, da pač nekaj lansiraš, ampak nekakšen, ne vem,
+
+737
+00:51:00,880 --> 00:51:05,199
+smart način bo zdaj to lansiral, da boš pač tragetiral te prave ljudi, a ne.
+
+738
+00:51:06,199 --> 00:51:09,559
+Ampak tako, da bi zdaj prej rekel, se pa ja, se pa strinjam, da
+
+739
+00:51:09,559 --> 00:51:11,400
+da ta del
+
+740
+00:51:11,400 --> 00:51:14,959
+v česnega stika, oziroma pač dejansko
+
+741
+00:51:14,959 --> 00:51:17,720
+graditi skupnost ali pa, ne vem,
+
+742
+00:51:17,720 --> 00:51:22,199
+se z ljudmi, ki res pridajo na sanj dogodek
+
+743
+00:51:22,199 --> 00:51:26,480
+manjako vrokovati, oziroma se okvarjati, da tega pa bistvo namanja.
+
+744
+00:51:26,480 --> 00:51:27,160
+Ful manj.
+
+745
+00:51:27,160 --> 00:51:30,320
+Osa, saj za nas vidim, da
+
+746
+00:51:30,320 --> 00:51:37,120
+vsak, ko ga spoznaš na takem eventu, pa ga dobesedno ročno onbordaš,
+
+747
+00:51:37,120 --> 00:51:39,360
+ostane forever tam.
+
+748
+00:51:39,360 --> 00:51:45,599
+Pač, en izmed teh, vse v našem tem Discordu pa so ljudje, ki so prišli notri, so pač,
+
+749
+00:51:45,599 --> 00:51:48,800
+če so, če smo jih ročno onbordali,
+
+750
+00:51:48,800 --> 00:51:54,839
+so tam, pa so full that passion, pa to so dejansko počutijo, ker razumejo te zadeve.
+
+751
+00:51:54,839 --> 00:51:58,839
+Tako da, ta osebni stik pač,
+
+752
+00:51:58,839 --> 00:52:04,239
+skupnosti so ljudje, pač vse lahko imamo, mi neke te toole, pa tehniko, pa
+
+753
+00:52:04,239 --> 00:52:08,600
+glase, pa vse, ampak to je o stike gradiš z ljudmi, a ne.
+
+754
+00:52:08,600 --> 00:52:12,720
+In tudi, če hočeš pol, komentuj na srednjo vprašanje,
+
+755
+00:52:12,720 --> 00:52:17,720
+prenes neki komercialni pa biznis del, pač z ljudmi boš delal posel.
+
+756
+00:52:17,720 --> 00:52:22,720
+Mislim, vse je isto, saj pač nivoj je višji ali pa drugačen, ampak
+
+757
+00:52:22,720 --> 00:52:29,520
+tudi biznis boš verjetno mogel to vzdržati, pa podobno je premalj, da ti to enkrat narediš,
+
+758
+00:52:29,520 --> 00:52:33,520
+pa zdaj upaš, da lej, te smo pa že vse dobili, ne.
+
+759
+00:52:33,520 --> 00:52:37,520
+Ok, tu imam enega, kdo me to piso, joj.
+
+760
+00:52:37,520 --> 00:52:44,160
+Kako motivirati, vklepajo, in kije mlade, ki bodo pomagali vzdrževati in nadeljevati skupnosti
+
+761
+00:52:44,160 --> 00:52:47,759
+smiljno glasbo, kot švica.
+
+762
+00:52:47,759 --> 00:52:51,759
+Ena iz debat, ki smo imeli zadnji, je z Blenderjem.
+
+763
+00:52:51,759 --> 00:52:57,759
+Mislim, jaz imam osobno v kafanah, na basket igrišču,
+
+764
+00:52:57,759 --> 00:53:03,759
+tako random, ki se dobimo v nekih leteh v Mariboru.
+
+765
+00:53:03,759 --> 00:53:09,759
+Ugotavljam eno stvar, dosti delam z mladim in veliko pač sem
+
+766
+00:53:10,360 --> 00:53:14,360
+v nekih različnih inicijativah, poleg spletnih uric,
+
+767
+00:53:14,360 --> 00:53:19,360
+faliran stand-up komik, faliran improvizator, faliran ekonomist.
+
+768
+00:53:19,360 --> 00:53:21,360
+Ok, dobro, no, ustavljaj se.
+
+769
+00:53:21,360 --> 00:53:23,360
+Pol inicijativ.
+
+770
+00:53:23,360 --> 00:53:31,360
+Videvam, da zelo veliko mladih ma neko željo,
+
+771
+00:53:31,360 --> 00:53:35,360
+pa bi radi bili del neke zgodbe, nečesa večjega,
+
+772
+00:53:35,960 --> 00:53:39,960
+ampak jim je veliko krat problem, ker ne vedo pač,
+
+773
+00:53:39,960 --> 00:53:43,960
+kako narediti tisti prvi korak, kako se priključiti
+
+774
+00:53:43,960 --> 00:53:46,960
+v neki inicijativi. Zelo veliko krat ni nobenega,
+
+775
+00:53:46,960 --> 00:53:49,960
+kak bi rekel, onboardinga, kot si ti rekel.
+
+776
+00:53:49,960 --> 00:53:52,960
+Pač prideš, znajdeš se nekje, pa če imaš srečo,
+
+777
+00:53:52,960 --> 00:53:55,960
+da te nekdo vzame pod okrilje, pa ti malo pokaže stvari,
+
+778
+00:53:55,960 --> 00:54:01,960
+ti začneš potem se učiti, spoznaš neke nove zadeve,
+
+779
+00:54:01,960 --> 00:54:05,960
+pa veliko krat je problem, ker nimajo vsi ljudje nekega tega,
+
+780
+00:54:05,960 --> 00:54:09,960
+kak bi rekel, strukturiranega pristopa.
+
+781
+00:54:09,960 --> 00:54:12,960
+Spet na primeru urec, mi smo imeli skozi leta zelo veliko
+
+782
+00:54:12,960 --> 00:54:15,960
+nekih študentov, ki so prišli pač pomagati.
+
+783
+00:54:15,960 --> 00:54:19,959
+Pa so pomagali z snemanjem, fotkanjem, organizacijo eventov.
+
+784
+00:54:19,959 --> 00:54:23,959
+In načel ima event kot tak, ni težko narediti.
+
+785
+00:54:23,959 --> 00:54:26,959
+Potrebuješ en prostor, kjer se bodo ljudje zbrali,
+
+786
+00:54:26,959 --> 00:54:29,959
+potrebuješ eno temu, okoli katere se bomo pogovarjali,
+
+787
+00:54:29,959 --> 00:54:33,959
+potrebuješ torej nekoga, ki bo o tej temi pač nekaj povedal.
+
+788
+00:54:33,959 --> 00:54:38,959
+In pa mora samo poskrbeti, da so pogoji za to disseminacijo
+
+789
+00:54:38,959 --> 00:54:42,959
+informacij čim bolj ugodni. Da je neka luč, pa mogoče mikrofon,
+
+790
+00:54:42,959 --> 00:54:46,959
+ali pa da je vsaj toliko tiho, da se ga sliši itd.
+
+791
+00:54:46,959 --> 00:54:50,959
+Nihče ne vidi vseh ostalih stvari, ki so pri teh dogodkih.
+
+792
+00:54:50,959 --> 00:54:55,959
+Ti moraš priti prej, pripraviti stole, moraš pripraviti kable,
+
+793
+00:54:55,959 --> 00:54:59,959
+ono levo, desno. In tu je ful nekega skritega dela.
+
+794
+00:54:59,959 --> 00:55:06,959
+Mladi zelo veliko krat so pod vtisom, da to je ready-made.
+
+795
+00:55:06,959 --> 00:55:10,959
+Jaz pridem, se vsedem in kar najenkrat stvari funkcionirajo same od sebe.
+
+796
+00:55:10,959 --> 00:55:16,959
+Kje najti mlade, ki pa imajo sami toliko neke želje?
+
+797
+00:55:16,959 --> 00:55:21,959
+Zelo težko jih je najti, ko pa jih najdeš, pa moraš narediti vse,
+
+798
+00:55:21,959 --> 00:55:23,959
+kar je v tvoji moči, da je idealsko zadržiš.
+
+799
+00:55:23,959 --> 00:55:27,959
+To je zelo velik problem, ker ravno tisti mladi ali tisti ljudje,
+
+800
+00:55:27,959 --> 00:55:32,959
+ki imajo neke osebnostne lasnosti oziroma predispozicije, karakteristike,
+
+801
+00:55:32,959 --> 00:55:38,959
+so zelo radovedni in delajo šest drugih stvari poleg.
+
+802
+00:55:38,959 --> 00:55:43,959
+In ti tekmuješ zdaj za tisti šestimi drugimi interesi v njegovem življenju.
+
+803
+00:55:43,959 --> 00:55:48,959
+Včasih ti uspe, včasih ti ne uspe, pa se ljudje preselijo,
+
+804
+00:55:48,959 --> 00:55:53,959
+pa službe, pa majo otroke, pa je to, pa ono.
+
+805
+00:55:53,959 --> 00:55:57,959
+Ne vem, če ti rada, da imaš nek strukturiran pristop k iskanju teh mladih, super,
+
+806
+00:55:57,959 --> 00:56:01,959
+ampak to za sebo povleče zelo veliko resursov.
+
+807
+00:56:01,959 --> 00:56:04,959
+Če nimaš kaša, čas pa energija. Če nimaš časa pa energija,
+
+808
+00:56:04,959 --> 00:56:09,959
+lahko to suplementaš za kašem.
+
+809
+00:56:09,959 --> 00:56:13,959
+Ni eno značnega odgovora. Ful je težka tema, to, kdo je to vprašanje dal.
+
+810
+00:56:13,959 --> 00:56:17,959
+Tri ure lahko te govorim.
+
+811
+00:56:22,959 --> 00:56:27,959
+Če se spomnim, Kiberpipe na začetku je bilo lihto obdobje,
+
+812
+00:56:27,959 --> 00:56:32,959
+ki brod band ni bil tako zelo razširjen. Če si imel doma
+
+813
+00:56:32,959 --> 00:56:38,959
+en dober ASD, oziroma začetek XDSL, super.
+
+814
+00:56:39,959 --> 00:56:46,959
+Dejansko smo takrat dol imeli najupremo, ki je takrat obstala.
+
+815
+00:56:46,959 --> 00:56:51,959
+Ful nekega interesa, ljudje so imeli hiter internet,
+
+816
+00:56:51,959 --> 00:56:55,959
+pa dol je bilo en kup ene upreme, ki jo doma nemaš.
+
+817
+00:56:55,959 --> 00:57:01,959
+Ful je bilo, takoj si dobil en krok ljudi, ki so lahko tam hangali.
+
+818
+00:57:01,959 --> 00:57:06,959
+En kup ljudi je zaradi tega postal ful motiviranih,
+
+819
+00:57:06,959 --> 00:57:10,959
+pač nekaj tam noter dala. Danes imamo ta problema,
+
+820
+00:57:10,959 --> 00:57:13,959
+ki se generacije naprej, ki pač pridejo in rečejo,
+
+821
+00:57:13,959 --> 00:57:18,959
+da je internet doma hitrejši, doma imam nekakšen powerbook,
+
+822
+00:57:18,959 --> 00:57:22,959
+ki ga tukaj pač nimate. Zakaj bi jaz k vem hodil?
+
+823
+00:57:22,959 --> 00:57:28,959
+Takrat je bil nek obdobje, ki smo imeli 3D printer, super.
+
+824
+00:57:28,959 --> 00:57:32,959
+Danes si 3D printer doma postaveš, pa zakaj bi se nekaj družil?
+
+825
+00:57:32,959 --> 00:57:38,959
+Ampak to se ni spremenilo iz pred 2008.
+
+826
+00:57:38,959 --> 00:57:42,959
+V Ljubljani je zaradi Ljubljana Tech Hub, eventi tam.
+
+827
+00:57:42,959 --> 00:57:44,959
+Ljubljana Tech Hub, kaj je to?
+
+828
+00:57:44,959 --> 00:57:46,959
+Ti imaš old news.
+
+829
+00:57:46,959 --> 00:57:48,959
+Ni več Ljubljana Tech Hub?
+
+830
+00:57:48,959 --> 00:57:52,959
+Mislim, to še ni čez Trojane prišlo, ta novica.
+
+831
+00:57:52,959 --> 00:57:54,959
+Ne, nisem…
+
+832
+00:57:54,959 --> 00:57:56,959
+Bova, ti bolo pivo.
+
+833
+00:57:56,959 --> 00:58:00,959
+Na zadnje, ko smo bili na nekem eventu, je bilo boljše upremljeno,
+
+834
+00:58:00,959 --> 00:58:04,959
+kot marsikatera dvora na prijeditvem prostoru v Sloveniji.
+
+835
+00:58:04,959 --> 00:58:06,959
+To je spet ono, ko smo se prej pogovarjali.
+
+836
+00:58:06,959 --> 00:58:10,959
+Zelo enostavno je realizat vse neki stvari, težje je pa potem
+
+837
+00:58:10,959 --> 00:58:12,959
+biti konsistenten skozi čas.
+
+838
+00:58:12,959 --> 00:58:16,959
+A veš, če štartaš s previsokim nivojem, tega ne moreš pač…
+
+839
+00:58:16,959 --> 00:58:18,959
+Ni sustajnbil.
+
+840
+00:58:18,959 --> 00:58:24,959
+V Grodje je en tretji ali četvrti poskus med tehnični podcast
+
+841
+00:58:24,959 --> 00:58:26,959
+ali pa tek del podcast v Sloveniji.
+
+842
+00:58:26,959 --> 00:58:32,960
+Pač ljudje imajo v svojih kleteh še boljše mikrofone,
+
+843
+00:58:32,960 --> 00:58:34,960
+kojih imamo mi.
+
+844
+00:58:34,960 --> 00:58:37,960
+Pa so samo pač v mikrofoni, ker pač, veš,
+
+845
+00:58:37,960 --> 00:58:40,960
+rabiš še kupiti neki drugi stvari, ki so pomembne,
+
+846
+00:58:40,960 --> 00:58:43,960
+pa to kontinuiteto, da pač grediš.
+
+847
+00:58:43,960 --> 00:58:45,960
+Ja, definitivno.
+
+848
+00:58:45,960 --> 00:58:51,960
+Lahko narekovali jih kupiti, ker težje je pač ta zreda.
+
+849
+00:58:51,960 --> 00:58:54,960
+Ja, ampak če se samo navežem naprej,
+
+850
+00:58:55,960 --> 00:59:01,960
+večja verjetnost je, da če ustvariš ugodne fizične pogoje
+
+851
+00:59:01,960 --> 00:59:06,960
+za neko inicijativo, da boš vsaj pritegnil pozornost ljudi,
+
+852
+00:59:06,960 --> 00:59:08,960
+ni pa nujno, da boš pripozoril ljudi.
+
+853
+00:59:08,960 --> 00:59:10,960
+Tle, veš, tle…
+
+854
+00:59:10,960 --> 00:59:12,960
+Ne bom sicer glubok zabredil s tem,
+
+855
+00:59:12,960 --> 00:59:16,960
+ampak tle, kiber pipa, ko je zgubila prostora,
+
+856
+00:59:16,960 --> 00:59:21,960
+je na nek način neko zatunila oziroma propadla.
+
+857
+00:59:22,960 --> 00:59:27,960
+In je bilo, veš, ljudje so se pač, zdi, imamo prostora,
+
+858
+00:59:27,960 --> 00:59:30,960
+nimamo več kje početi, gor dolo.
+
+859
+00:59:30,960 --> 00:59:32,960
+In pa se je pač ugotovil v neki fazi,
+
+860
+00:59:32,960 --> 00:59:35,960
+ok, se pravi, mi za to, za nek svoj obstoj,
+
+861
+00:59:35,960 --> 00:59:38,960
+za to, kaj počnemo, rabimo prostora.
+
+862
+00:59:38,960 --> 00:59:41,960
+In pa se je pač najdel nek nedomesten prostor.
+
+863
+00:59:41,960 --> 00:59:44,960
+Ampak pa pa te ljudje je pač tako,
+
+864
+00:59:44,960 --> 00:59:46,960
+kar nekaj več niso imeli v sebi,
+
+865
+00:59:46,960 --> 00:59:49,960
+oziroma je pač tako, pa so pa te ljudje ideli tam,
+
+866
+00:59:49,960 --> 00:59:51,960
+pa se nič ni zgorila.
+
+867
+00:59:51,960 --> 00:59:56,960
+Tako da ful, veš, premal je sam infrastruktura,
+
+868
+00:59:56,960 --> 00:59:59,960
+pa pač, veš, ljudje imajo nekaj zdaj pa to, to.
+
+869
+00:59:59,960 --> 01:00:04,960
+Veš, vse ni je, ker če je ta motivacija v ljudeh,
+
+870
+01:00:04,960 --> 01:00:07,960
+oziroma pač ta passion, ki ga te ljudje bojo najdel,
+
+871
+01:00:07,960 --> 01:00:11,960
+a veš, bojo pač ugotovil, kaj rabijo in pa bojo naredil.
+
+872
+01:00:11,960 --> 01:00:13,960
+A veš, tle je bilo pa tako, ljudje so rekel,
+
+873
+01:00:13,960 --> 01:00:16,960
+ej, mi rabimo prostor, pač mi smo zrihtil prostor
+
+874
+01:00:16,960 --> 01:00:18,960
+in potem se nič zgodila.
+
+875
+01:00:18,960 --> 01:00:21,960
+Ker pomeni, da nisem prostor tist, kaj vi radite.
+
+876
+01:00:21,960 --> 01:00:26,960
+Ful se sliši klišetsko, ampak vse je pomembno od ekipe,
+
+877
+01:00:26,960 --> 01:00:28,960
+od ljudi.
+
+878
+01:00:28,960 --> 01:00:32,960
+In isto pač, ko go organiziraš nekaj te dogodke,
+
+879
+01:00:32,960 --> 01:00:35,960
+a ti res rabiš 350 ljudi?
+
+880
+01:00:35,960 --> 01:00:39,960
+Ali je dovolj, da rabiš enega, dva, tri,
+
+881
+01:00:39,960 --> 01:00:43,960
+pa boste imeli, pač recimo Ruby Meetup
+
+882
+01:00:43,960 --> 01:00:46,960
+je sedem ljudi, pet ljudi včasih,
+
+883
+01:00:46,960 --> 01:00:49,960
+zdaj jih je moč malo več, pol jih je malo manj,
+
+884
+01:00:49,960 --> 01:00:53,960
+ampak to so ljudje, ki so pač že 15 let delajo v Ruby
+
+885
+01:00:53,960 --> 01:00:55,960
+in se poznajo vsi.
+
+886
+01:00:55,960 --> 01:00:59,960
+Ljudje delajo evente, za ljudi delajo,
+
+887
+01:00:59,960 --> 01:01:01,960
+to ne pozabiti, ono bi mogla biti nekaj tema.
+
+888
+01:01:01,960 --> 01:01:04,960
+Zdaj, če še všeč enkrat Kiberpipo vmeno.
+
+889
+01:01:04,960 --> 01:01:10,960
+Kiberpipo je super.
+
+890
+01:01:10,960 --> 01:01:15,960
+Kiberpipo je pomembno zgodovinsko in tudi,
+
+891
+01:01:15,960 --> 01:01:16,960
+ampak...
+
+892
+01:01:16,960 --> 01:01:19,960
+Veš, kaj mi je fascinantno, vmeno bom še enkrat,
+
+893
+01:01:19,960 --> 01:01:22,960
+kaj fascinantno mi je to, da pridajo ljudje,
+
+894
+01:01:22,960 --> 01:01:25,960
+ki rečejo, to je pa tisto, ki je bilo ful dober,
+
+895
+01:01:25,960 --> 01:01:28,960
+ampak nikoli nisem tam bil, ker sem bil tako kmehan.
+
+896
+01:01:28,960 --> 01:01:31,960
+A veš, tako kako, tipo, vsi so mi govorili,
+
+897
+01:01:31,960 --> 01:01:34,960
+tam notri se je pač res nekaj počelo.
+
+898
+01:01:34,960 --> 01:01:37,960
+Tako da je očitno nekaj impact naredil.
+
+899
+01:01:37,960 --> 01:01:39,960
+Definitivno, definitivno.
+
+900
+01:01:39,960 --> 01:01:41,960
+Se je veliko nekih takih stvarin,
+
+901
+01:01:41,960 --> 01:01:43,960
+vedno se psi pogovarjajo, kak je bilo včasih,
+
+902
+01:01:43,960 --> 01:01:45,960
+kaj je bilo.
+
+903
+01:01:45,960 --> 01:01:49,960
+Zdaj to delamo, da vedemo, koliko časa bo.
+
+904
+01:01:49,960 --> 01:01:52,960
+A veš, vedno možeš pač sledi,
+
+905
+01:01:52,960 --> 01:01:55,960
+dejmo zdaj narediti to epizodo v redu,
+
+906
+01:01:55,960 --> 01:01:58,960
+dejmo narediti ta epizod, to zdaj,
+
+907
+01:01:58,960 --> 01:02:00,960
+ker mogoče...
+
+908
+01:02:00,960 --> 01:02:03,960
+Ko pa za Šankom lahko diskutiramo o Kiberpipi.
+
+909
+01:02:03,960 --> 01:02:05,960
+A se bojiš, da je to zadnjo?
+
+910
+01:02:05,960 --> 01:02:07,960
+Ne, ampak moja etitud je vedno tak,
+
+911
+01:02:07,960 --> 01:02:09,960
+ko se se pogovarjam, ja, kaj bomo bil naprej,
+
+912
+01:02:09,960 --> 01:02:11,960
+ni to važno, zdaj je važno, ta epizoda zdaj.
+
+913
+01:02:11,960 --> 01:02:13,960
+Zdaj jo moramo narediti, dobro moramo biti narediti,
+
+914
+01:02:13,960 --> 01:02:15,960
+vse morajo biti ta, ta, ta.
+
+915
+01:02:15,960 --> 01:02:17,960
+Še vedno te skrbi, da ne bo.
+
+916
+01:02:19,960 --> 01:02:21,960
+Vedno majnem, ampak, ja.
+
+917
+01:02:21,960 --> 01:02:23,960
+Ampak zdaj govoriš tako ful, kot da nekaj zem koane, ne,
+
+918
+01:02:23,960 --> 01:02:25,960
+tako zdalje po njem.
+
+919
+01:02:25,960 --> 01:02:27,960
+Tu smo, v prostoru.
+
+920
+01:02:27,960 --> 01:02:29,960
+Če kaj, ne domačam tereno, ja.
+
+921
+01:02:29,960 --> 01:02:31,960
+Ne, ful.
+
+922
+01:02:31,960 --> 01:02:33,960
+Ne.
+
+923
+01:02:33,960 --> 01:02:35,960
+Če lahko grem zdaj na to,
+
+924
+01:02:35,960 --> 01:02:37,960
+mi imamo pač, v Grodi ima strategijo.
+
+925
+01:02:37,960 --> 01:02:39,960
+To je en dokument,
+
+926
+01:02:39,960 --> 01:02:41,960
+če greš na ogrodi.si,
+
+927
+01:02:41,960 --> 01:02:43,960
+je, dizajn bom dobil novo,
+
+928
+01:02:43,960 --> 01:02:45,960
+ampak, tam je en tab, je strategija,
+
+929
+01:02:45,960 --> 01:02:47,960
+mi je napisano.
+
+930
+01:02:47,960 --> 01:02:49,960
+Mi imamo en dokument, en.
+
+931
+01:02:49,960 --> 01:02:51,960
+To gledaš po linkov v epizodi.
+
+932
+01:02:51,960 --> 01:02:53,960
+Ja, ja, vse je vedno v ogrodi.si.
+
+933
+01:02:53,960 --> 01:02:55,960
+Ja, ne vem, če so ljudje to prebrali.
+
+934
+01:02:55,960 --> 01:02:57,960
+To je edina
+
+935
+01:02:57,960 --> 01:02:59,960
+dokument, ki obstaja v Ogrodju,
+
+936
+01:02:59,960 --> 01:03:01,960
+in smo ga napisali.
+
+937
+01:03:01,960 --> 01:03:03,960
+Manifesto. In je fucking manifesto.
+
+938
+01:03:03,960 --> 01:03:05,960
+In tega se držimo, smo ga sicer update-ali
+
+939
+01:03:05,960 --> 01:03:07,960
+slonično je, kad vstupamo,
+
+940
+01:03:07,960 --> 01:03:09,960
+vse, kar delamo.
+
+941
+01:03:09,960 --> 01:03:11,960
+Ampak,
+
+942
+01:03:11,960 --> 01:03:13,960
+to je ful pomembno. Zato, ker
+
+943
+01:03:13,960 --> 01:03:15,960
+to je nek tak
+
+944
+01:03:15,960 --> 01:03:17,960
+kontrakt med nami,
+
+945
+01:03:17,960 --> 01:03:19,960
+ko to ustvarjamo,
+
+946
+01:03:19,960 --> 01:03:21,960
+zakaj to delamo,
+
+947
+01:03:21,960 --> 01:03:23,960
+kaj so neke vrednote, kjer smo
+
+948
+01:03:23,960 --> 01:03:25,960
+si skupni,
+
+949
+01:03:25,960 --> 01:03:27,960
+za koga bomo to naredili,
+
+950
+01:03:27,960 --> 01:03:29,960
+pa pač, kam sploh to gre.
+
+951
+01:03:29,960 --> 01:03:31,960
+In, zdaj,
+
+952
+01:03:31,960 --> 01:03:33,960
+sicer je moramo malo update-ati,
+
+953
+01:03:33,960 --> 01:03:35,960
+ker je že letnicno, treba malo starejše.
+
+954
+01:03:35,960 --> 01:03:37,960
+Se oblikuje,
+
+955
+01:03:37,960 --> 01:03:39,960
+zadeva raste,
+
+956
+01:03:39,960 --> 01:03:41,960
+ampak, to so neke temeljne vrednote, ko lahko rečeš,
+
+957
+01:03:41,960 --> 01:03:43,960
+ej,
+
+958
+01:03:43,960 --> 01:03:45,960
+to, kar pa zdaj ti tukaj predlagaš, pa ni vrstnici
+
+959
+01:03:45,960 --> 01:03:47,960
+z nekimi vrednotami, je pa z nekej
+
+960
+01:03:47,960 --> 01:03:49,960
+strategijo, ki smo si jo zastavili.
+
+961
+01:03:49,960 --> 01:03:51,960
+Zdaj, ali bomo evolvirali
+
+962
+01:03:51,960 --> 01:03:53,960
+proti tisti temeljem, ali
+
+963
+01:03:53,960 --> 01:03:55,960
+bomo šli pa mogoče v neko čisto drugo vejo.
+
+964
+01:03:55,960 --> 01:03:57,960
+Ali bomo pa strategijo spremilili, ja.
+
+965
+01:03:57,960 --> 01:03:59,960
+Ampak, fajn je, da
+
+966
+01:03:59,960 --> 01:04:01,960
+imaš poenotene
+
+967
+01:04:01,960 --> 01:04:03,960
+ljudi, da to lahko...
+
+968
+01:04:03,960 --> 01:04:05,960
+Zdaj, pa je tukaj še nekaj epizoda po sname, ki je malo drugačna.
+
+969
+01:04:05,960 --> 01:04:07,960
+Malo drugačna?
+
+970
+01:04:09,960 --> 01:04:11,960
+Ja, to pa spet doma lahko napake delam,
+
+971
+01:04:11,960 --> 01:04:13,960
+ampak, za to pa
+
+972
+01:04:13,960 --> 01:04:15,960
+izpada, ko da si nek zen mojster, pa nek
+
+973
+01:04:15,960 --> 01:04:17,960
+floskor, ampak...
+
+974
+01:04:17,960 --> 01:04:19,960
+Dokleno...
+
+975
+01:04:19,960 --> 01:04:21,960
+Dokleno mi kinzija kliče...
+
+976
+01:04:21,960 --> 01:04:23,960
+To je ogrodje, zadeva
+
+977
+01:04:23,960 --> 01:04:25,960
+to ogrodje, ja, razumeš.
+
+978
+01:04:25,960 --> 01:04:27,960
+Torej, oto je zdaj naš zen mojster.
+
+979
+01:04:27,960 --> 01:04:29,960
+Ok, zabor, bomo zdaj na slednjo vprašanje še.
+
+980
+01:04:29,960 --> 01:04:31,960
+Ker mi je Jan
+
+981
+01:04:31,960 --> 01:04:33,960
+povedal, ko ga imamo še včasih.
+
+982
+01:04:33,960 --> 01:04:35,960
+A spet imamo mehne karte,
+
+983
+01:04:35,960 --> 01:04:37,960
+SD kartice?
+
+984
+01:04:37,960 --> 01:04:39,960
+Ljudi imamo zaprte
+
+985
+01:04:39,960 --> 01:04:41,960
+v klete, stari.
+
+986
+01:04:41,960 --> 01:04:43,960
+Če točijo, naročijo,
+
+987
+01:04:43,960 --> 01:04:45,960
+če so ženi...
+
+988
+01:04:45,960 --> 01:04:47,960
+Dajte nekaj spet.
+
+989
+01:04:47,960 --> 01:04:49,960
+To vprašanje je še vedno
+
+990
+01:04:49,960 --> 01:04:51,960
+v skupnostih, pa piše tako,
+
+991
+01:04:51,960 --> 01:04:53,960
+mokre želje.
+
+992
+01:04:53,960 --> 01:04:55,960
+Ali mislite, da community-funded način podpore
+
+993
+01:04:55,960 --> 01:04:57,960
+možen v Sloveniji in kaj bi bilo potrebno,
+
+994
+01:04:57,960 --> 01:04:59,960
+da bi bil?
+
+995
+01:04:59,960 --> 01:05:01,960
+Je.
+
+996
+01:05:01,960 --> 01:05:03,960
+Če pa ste vi community-funded.
+
+997
+01:05:03,960 --> 01:05:05,960
+A ste vi?
+
+998
+01:05:05,960 --> 01:05:07,960
+Mi? Ne.
+
+999
+01:05:07,960 --> 01:05:09,960
+Mi nismo community-funded.
+
+1000
+01:05:09,960 --> 01:05:11,960
+A ste razmišljali o tem?
+
+1001
+01:05:11,960 --> 01:05:13,960
+Smo. Večkrat.
+
+1002
+01:05:13,960 --> 01:05:15,960
+Bolj, ko ne,
+
+1003
+01:05:15,960 --> 01:05:17,960
+nas je pri temo zaviralo
+
+1004
+01:05:17,960 --> 01:05:19,960
+mogoče bolj časovna
+
+1005
+01:05:19,960 --> 01:05:21,960
+stiska, oziroma, da se nam
+
+1006
+01:05:21,960 --> 01:05:23,960
+toliko stvari v življenju dogajalo, da nikoli nismo šli
+
+1007
+01:05:23,960 --> 01:05:25,960
+en korak naprej in tega
+
+1008
+01:05:25,960 --> 01:05:27,960
+formalizirali.
+
+1009
+01:05:27,960 --> 01:05:29,960
+Vi imate Patreon.
+
+1010
+01:05:29,960 --> 01:05:31,960
+Community-funded.
+
+1011
+01:05:31,960 --> 01:05:33,960
+Ful časa smo morali, da smo tja prišli.
+
+1012
+01:05:33,960 --> 01:05:35,960
+Enega smo morali prepričati.
+
+1013
+01:05:35,960 --> 01:05:37,960
+Ful dolg.
+
+1014
+01:05:39,960 --> 01:05:41,960
+Borbe.
+
+1015
+01:05:41,960 --> 01:05:43,960
+Ampak no, če ste vi community-funded, potem se da biti
+
+1016
+01:05:43,960 --> 01:05:45,960
+community-funded.
+
+1017
+01:05:47,960 --> 01:05:49,960
+Sliši se trivialno.
+
+1018
+01:05:51,960 --> 01:05:53,960
+Potem to pomeni, da zdaj
+
+1019
+01:05:53,960 --> 01:05:55,960
+od nekoga za to
+
+1020
+01:05:55,960 --> 01:05:57,960
+obitov, ki jo izvajaš,
+
+1021
+01:05:57,960 --> 01:05:59,960
+nekaj vzameš.
+
+1022
+01:06:03,960 --> 01:06:05,960
+Na en način je ful pomembno, ker
+
+1023
+01:06:05,960 --> 01:06:07,960
+validira to, da to, kar delamo
+
+1024
+01:06:07,960 --> 01:06:09,960
+dansko, ljudem prinaša toliko vrednosti,
+
+1025
+01:06:09,960 --> 01:06:11,960
+da so za to pripravljeni
+
+1026
+01:06:11,960 --> 01:06:13,960
+plačati. To je čisto iz produktnega
+
+1027
+01:06:13,960 --> 01:06:15,960
+perspektive.
+
+1028
+01:06:15,960 --> 01:06:17,960
+Lahko gledaš pa ne toliko vrednosti,
+
+1029
+01:06:17,960 --> 01:06:19,960
+ampak samo za to, da to
+
+1030
+01:06:19,960 --> 01:06:21,960
+počneš, so te pripravljeni podpred.
+
+1031
+01:06:21,960 --> 01:06:23,960
+Ja.
+
+1032
+01:06:23,960 --> 01:06:25,960
+Oboje.
+
+1033
+01:06:27,960 --> 01:06:29,960
+To, kar te fantje počnejo,
+
+1034
+01:06:29,960 --> 01:06:31,960
+naj še naprej počnejo,
+
+1035
+01:06:31,960 --> 01:06:33,960
+vizika bom njim dal,
+
+1036
+01:06:33,960 --> 01:06:35,960
+pa jih niti ne tako nespremljam, samo
+
+1037
+01:06:35,960 --> 01:06:37,960
+to, kar delam, se mi zdi
+
+1038
+01:06:37,960 --> 01:06:39,960
+dober kos.
+
+1039
+01:06:39,960 --> 01:06:41,960
+Da je dansko ima toliko vrednosti.
+
+1040
+01:06:41,960 --> 01:06:43,960
+Imaš dovolj dispozib v linkovima,
+
+1041
+01:06:43,960 --> 01:06:45,960
+zakaj boljše ga tuda, tako pa zapitaš.
+
+1042
+01:06:45,960 --> 01:06:47,960
+Jaz povekrat razmišljam,
+
+1043
+01:06:47,960 --> 01:06:49,960
+tik predem publišamo epizodo,
+
+1044
+01:06:49,960 --> 01:06:51,960
+pa predem stisneš tisti send,
+
+1045
+01:06:51,960 --> 01:06:53,960
+uplod, publiš, whatever, pak,
+
+1046
+01:06:53,960 --> 01:06:55,960
+pizda je bilo fajn, da bi nekaj drug,
+
+1047
+01:06:55,960 --> 01:06:57,960
+tole naredil, pa bi jaz bil tisti,
+
+1048
+01:06:57,960 --> 01:06:59,960
+kot da sem pet evrov. A veš?
+
+1049
+01:06:59,960 --> 01:07:01,960
+Da bi jaz sam jaz bil tisti subscriber,
+
+1050
+01:07:01,960 --> 01:07:03,960
+Patreo,
+
+1051
+01:07:03,960 --> 01:07:05,959
+pa naj nekaj drug ustvarja te osebine,
+
+1052
+01:07:05,959 --> 01:07:07,959
+pa da mi samo subscribe.
+
+1053
+01:07:07,959 --> 01:07:09,959
+Ah, fuck it.
+
+1054
+01:07:09,959 --> 01:07:11,959
+Kdo, če ne ti?
+
+1055
+01:07:11,959 --> 01:07:13,959
+No, ampak,
+
+1056
+01:07:13,959 --> 01:07:15,959
+mislim,
+
+1057
+01:07:15,959 --> 01:07:17,959
+mogoče tak,
+
+1058
+01:07:17,959 --> 01:07:19,959
+staja nek ta pet,
+
+1059
+01:07:19,959 --> 01:07:21,959
+kje smo mi to trenutno zgodbo,
+
+1060
+01:07:21,959 --> 01:07:23,959
+in če smo na začetku bili
+
+1061
+01:07:23,959 --> 01:07:25,959
+ful minus, pa smo delali
+
+1062
+01:07:25,959 --> 01:07:27,959
+v apsolutno vsej svojega
+
+1063
+01:07:27,959 --> 01:07:29,959
+žepa, pa smo pol zdaj
+
+1064
+01:07:29,959 --> 01:07:31,959
+prišli že malo bliže ničle,
+
+1065
+01:07:31,959 --> 01:07:33,959
+nismo še nadničlo.
+
+1066
+01:07:33,959 --> 01:07:35,959
+Se pravi, velika dela
+
+1067
+01:07:35,959 --> 01:07:37,959
+ogrodja je dobesedno
+
+1068
+01:07:37,959 --> 01:07:39,959
+prostovoljnega,
+
+1069
+01:07:39,959 --> 01:07:41,959
+vozimo se na svoj benzin,
+
+1070
+01:07:41,959 --> 01:07:43,959
+lučke si sposodimo,
+
+1071
+01:07:43,959 --> 01:07:45,959
+veliko je tega.
+
+1072
+01:07:45,959 --> 01:07:47,959
+Tako da, če bi ti
+
+1073
+01:07:47,959 --> 01:07:49,959
+zdaj hotev imeti produkcijo
+
+1074
+01:07:49,959 --> 01:07:51,959
+ogrodja, pa se brez javno zmenu boš
+
+1075
+01:07:51,959 --> 01:07:53,959
+plačal velik,
+
+1076
+01:07:53,959 --> 01:07:55,959
+tako da, ta produkcija
+
+1077
+01:07:55,959 --> 01:07:57,959
+košta, ne delamo
+
+1078
+01:07:57,959 --> 01:07:59,959
+plusa, ne splačujemo si
+
+1079
+01:07:59,959 --> 01:08:01,959
+kakršnih koli plač, čeprav mogoče
+
+1080
+01:08:01,959 --> 01:08:03,959
+to zgleda v top shit,
+
+1081
+01:08:03,959 --> 01:08:05,959
+ta zadeva
+
+1082
+01:08:05,959 --> 01:08:07,959
+je zelo draga,
+
+1083
+01:08:07,959 --> 01:08:09,959
+posebej, če ne poštevaš tega
+
+1084
+01:08:09,959 --> 01:08:11,959
+časa, ki ga damo notri,
+
+1085
+01:08:11,959 --> 01:08:13,959
+energije, odrekanja,
+
+1086
+01:08:13,959 --> 01:08:15,959
+to je en tak zanimljiv
+
+1087
+01:08:15,959 --> 01:08:17,959
+faktor, ker mi znamo
+
+1088
+01:08:17,959 --> 01:08:19,959
+priračunati, kaj je to časa, pa
+
+1089
+01:08:19,959 --> 01:08:21,959
+nismo svojega notru poštevali.
+
+1090
+01:08:21,959 --> 01:08:23,959
+To je verjetno pol fulno res.
+
+1091
+01:08:23,959 --> 01:08:25,959
+Vse urice, ne, delujejo
+
+1092
+01:08:25,959 --> 01:08:27,959
+pač po istem principu, mi že pre 14 let
+
+1093
+01:08:27,959 --> 01:08:29,959
+volontersko delamo,
+
+1094
+01:08:29,959 --> 01:08:31,959
+da enkrat
+
+1095
+01:08:31,959 --> 01:08:33,959
+noben predavatelj na uricah ni dobil
+
+1096
+01:08:33,959 --> 01:08:35,959
+nobenega honorarja, enkrat si noben od nas
+
+1097
+01:08:35,959 --> 01:08:37,959
+ni splačal honorarja, tisti burek,
+
+1098
+01:08:37,959 --> 01:08:39,959
+ki ga na koncu sezone vsi jeste,
+
+1099
+01:08:39,959 --> 01:08:41,959
+kar mi pokrijemo iz svojega
+
+1100
+01:08:41,959 --> 01:08:43,959
+žepa, veliko krat smo pač
+
+1101
+01:08:43,959 --> 01:08:45,959
+plačali za marsikatero
+
+1102
+01:08:45,959 --> 01:08:47,959
+stvar, imamo pa ful fajne
+
+1103
+01:08:47,959 --> 01:08:49,959
+podpornike, prijatelje,
+
+1104
+01:08:49,959 --> 01:08:51,959
+ki pač nam pridajo nas proti
+
+1105
+01:08:51,959 --> 01:08:53,959
+s tem, da pač ne rabimo plačevati
+
+1106
+01:08:53,959 --> 01:08:55,959
+za nek prostor,
+
+1107
+01:08:55,959 --> 01:08:57,959
+veliko krat imamo neko svojo opremo
+
+1108
+01:08:57,959 --> 01:08:59,959
+itd. Čas, energija je tista stvar,
+
+1109
+01:08:59,959 --> 01:09:01,959
+ki pač žene
+
+1110
+01:09:01,959 --> 01:09:03,959
+to inicijativo naprej.
+
+1111
+01:09:03,959 --> 01:09:05,959
+Da se, lahko bi šli
+
+1112
+01:09:05,959 --> 01:09:07,959
+community funded, ne,
+
+1113
+01:09:07,959 --> 01:09:09,959
+varianta, ampak to za sabo potegne
+
+1114
+01:09:09,959 --> 01:09:11,959
+zelo veliko neke administrativnega,
+
+1115
+01:09:11,959 --> 01:09:13,959
+birokratskega dela,
+
+1116
+01:09:13,959 --> 01:09:15,959
+predvsem pa, vidiš,
+
+1117
+01:09:15,959 --> 01:09:17,959
+je mentalnega pritiska
+
+1118
+01:09:17,959 --> 01:09:19,959
+na tebi, da deliveraš.
+
+1119
+01:09:19,959 --> 01:09:21,959
+Znam, ta veš,
+
+1120
+01:09:21,959 --> 01:09:23,959
+verjetno greš opet na ta
+
+1121
+01:09:23,959 --> 01:09:25,959
+komitment, veš, če
+
+1122
+01:09:25,959 --> 01:09:27,959
+sebe jemlješ ta
+
+1123
+01:09:27,959 --> 01:09:29,959
+DIY,
+
+1124
+01:09:29,959 --> 01:09:31,959
+koncept, pomagite nam,
+
+1125
+01:09:31,959 --> 01:09:33,959
+a ne, kaj boš
+
+1126
+01:09:33,959 --> 01:09:35,959
+delivrav, je pač vse,
+
+1127
+01:09:35,959 --> 01:09:37,959
+potrudili se bomo po najboljših močeh,
+
+1128
+01:09:37,959 --> 01:09:39,959
+a ne, lahko ne rata.
+
+1129
+01:09:39,959 --> 01:09:41,959
+In če je to ta ekspektejšan, kjer se lahko
+
+1130
+01:09:41,959 --> 01:09:43,959
+zgodi, a ne, veš,
+
+1131
+01:09:43,959 --> 01:09:45,959
+verjetnje je jebati, če se,
+
+1132
+01:09:45,959 --> 01:09:47,959
+mi bomo to zdaj redno konstantno počeli
+
+1133
+01:09:47,959 --> 01:09:49,959
+na tem nivoju, a ne, in če se
+
+1134
+01:09:49,959 --> 01:09:51,959
+pač to v glavi pač postvaraš, da to je ta
+
+1135
+01:09:51,959 --> 01:09:53,959
+bare minimum in imaš to
+
+1136
+01:09:53,959 --> 01:09:55,959
+odnos, da pač zdaj oni pač čekujejo, da bo to
+
+1137
+01:09:55,959 --> 01:09:57,959
+vedno konstantno, potem verjetnje je problem.
+
+1138
+01:09:57,959 --> 01:09:59,959
+Mi smo že imeli te težave, recimo,
+
+1139
+01:09:59,959 --> 01:10:01,959
+mi smo imeli te težave, kar smo
+
+1140
+01:10:01,959 --> 01:10:03,959
+snemali ful med
+
+1141
+01:10:03,959 --> 01:10:05,959
+korono, ko smo imeli pač te
+
+1142
+01:10:05,959 --> 01:10:07,959
+preko zoom klicov in podobno,
+
+1143
+01:10:07,959 --> 01:10:09,959
+in potem so pač vsi ljudje gledali,
+
+1144
+01:10:09,959 --> 01:10:11,959
+okaj, vredo.
+
+1145
+01:10:11,959 --> 01:10:13,959
+Malo pred korono,
+
+1146
+01:10:13,959 --> 01:10:15,959
+čist tako vam v glavi
+
+1147
+01:10:15,959 --> 01:10:17,959
+popravite me, ekipa,
+
+1148
+01:10:17,959 --> 01:10:19,959
+tak recimo par mesecov,
+
+1149
+01:10:19,959 --> 01:10:21,959
+pet mesecov, šest mesecov, predem se
+
+1150
+01:10:21,959 --> 01:10:23,959
+vrzičala korona, smo začeli z nekimi
+
+1151
+01:10:23,959 --> 01:10:25,959
+strimi, pa smo začeli z nekimi
+
+1152
+01:10:25,959 --> 01:10:27,959
+posnetki,
+
+1153
+01:10:27,959 --> 01:10:29,959
+pa potem to uploadati na YouTube,
+
+1154
+01:10:29,959 --> 01:10:31,959
+ampak stvar je bila zelo simple. En telefon
+
+1155
+01:10:31,959 --> 01:10:33,959
+stari smo imeli na voljo,
+
+1156
+01:10:33,959 --> 01:10:35,959
+ki ga pač nihče en je uporabljal,
+
+1157
+01:10:35,959 --> 01:10:37,959
+en podceni tripod, nastavili smo ga
+
+1158
+01:10:37,959 --> 01:10:39,959
+v kibli, posneli, kibla
+
+1159
+01:10:39,959 --> 01:10:41,959
+pač ma vse to
+
+1160
+01:10:41,959 --> 01:10:43,959
+ozvočene in to perajt, tako da smo
+
+1161
+01:10:43,959 --> 01:10:45,959
+samo pač potegnili še en kabel
+
+1162
+01:10:45,959 --> 01:10:47,959
+signalom v telefon noter,
+
+1163
+01:10:47,959 --> 01:10:49,959
+ena je pač v prostem času to editiral,
+
+1164
+01:10:49,959 --> 01:10:51,959
+uploadal, in zdaj, ker nekaj so vsi ljudje
+
+1165
+01:10:51,959 --> 01:10:53,959
+pač hoteli produkcijo
+
+1166
+01:10:53,959 --> 01:10:55,959
+in so hteli to zameti uploadano
+
+1167
+01:10:55,959 --> 01:10:57,959
+itd., itd., itd., in smo razmišljali,
+
+1168
+01:10:57,959 --> 01:10:59,959
+ej, kaj, če mi zdaj
+
+1169
+01:10:59,959 --> 01:11:01,959
+naredimo neko društvo, pa dobimo
+
+1170
+01:11:01,959 --> 01:11:03,959
+nekaj sredstva, potem lahko dobimo boljši
+
+1171
+01:11:03,959 --> 01:11:05,959
+telefon oziroma kamero,
+
+1172
+01:11:05,959 --> 01:11:07,959
+mikrofone,
+
+1173
+01:11:07,959 --> 01:11:09,959
+kamorkoli pridemo, se lahko naredimo
+
+1174
+01:11:09,959 --> 01:11:11,959
+taki mini set-up, kot ta tukaj,
+
+1175
+01:11:11,959 --> 01:11:13,959
+da lahko to posnamemo, ker
+
+1176
+01:11:13,959 --> 01:11:15,959
+vse se ne gre za to, da bi mi zdaj ful služili
+
+1177
+01:11:15,959 --> 01:11:17,959
+od tega, ker pač ne služimo,
+
+1178
+01:11:17,959 --> 01:11:19,959
+mi že 13 let dajemo sebe v to noter,
+
+1179
+01:11:19,959 --> 01:11:21,959
+gre se pa za to, da bi ti res rad
+
+1180
+01:11:21,959 --> 01:11:23,959
+ljudem, ki pa pridajo
+
+1181
+01:11:23,959 --> 01:11:25,959
+in si vsaki torek ob 19.05.
+
+1182
+01:11:25,959 --> 01:11:27,959
+vzamejo čas, bi jim res
+
+1183
+01:11:27,959 --> 01:11:29,959
+rad nekaj dobrega dal,
+
+1184
+01:11:29,959 --> 01:11:31,959
+ti bi res nek dober produkt,
+
+1185
+01:11:31,959 --> 01:11:33,959
+da imajo nekaj value od tega,
+
+1186
+01:11:33,959 --> 01:11:35,959
+ampak, ne?
+
+1187
+01:11:35,959 --> 01:11:37,959
+Jaz mislim, da je ta pomemben
+
+1188
+01:11:37,959 --> 01:11:39,959
+del, da,
+
+1189
+01:11:39,959 --> 01:11:41,959
+če en od teh
+
+1190
+01:11:41,959 --> 01:11:43,959
+vlečnih konjev znotraj ekipi,
+
+1191
+01:11:43,959 --> 01:11:45,959
+pa če je to nek pešen, ki ga zanima,
+
+1192
+01:11:45,959 --> 01:11:47,959
+a veš, pa je to
+
+1193
+01:11:47,959 --> 01:11:49,959
+streamati, ne vem,
+
+1194
+01:11:49,959 --> 01:11:51,959
+zadevo spravljati v 8K,
+
+1195
+01:11:51,959 --> 01:11:53,959
+če je to tist, ki ti je,
+
+1196
+01:11:53,959 --> 01:11:55,959
+a veš, polja, ne pa
+
+1197
+01:11:55,959 --> 01:11:57,959
+to, da je ono, ej, to bomo mi zdaj
+
+1198
+01:11:57,959 --> 01:11:59,959
+naredili, zato, ker je pač audience tak,
+
+1199
+01:11:59,959 --> 01:12:01,959
+ki to pričakuje, ne. Mislim,
+
+1200
+01:12:01,959 --> 01:12:03,959
+je, vesem, obije,
+
+1201
+01:12:03,959 --> 01:12:05,959
+verjetno, ta del, ki se ti pač
+
+1202
+01:12:05,959 --> 01:12:07,959
+trudaš, a ne, ker to je tist,
+
+1203
+01:12:07,959 --> 01:12:09,959
+če tebe to zanima, veš, tako, ker
+
+1204
+01:12:09,959 --> 01:12:11,959
+verjetno tebi pač zanimal, ker si pač
+
+1205
+01:12:11,959 --> 01:12:13,959
+videl obliko spletnihuric v takem,
+
+1206
+01:12:13,959 --> 01:12:15,959
+ki so, a ne, nadaljevat to zgodbo,
+
+1207
+01:12:15,959 --> 01:12:17,959
+to, da pač je neko srečene, da pač
+
+1208
+01:12:17,959 --> 01:12:19,959
+ji se okol neke teme, teme,
+
+1209
+01:12:19,959 --> 01:12:21,959
+teme pač dobite,
+
+1210
+01:12:21,959 --> 01:12:23,959
+in to je tist, a ne.
+
+1211
+01:12:23,959 --> 01:12:25,959
+Veš, in če bi tebe verjetno zanimal,
+
+1212
+01:12:25,959 --> 01:12:27,959
+med novo 8K live stream,
+
+1213
+01:12:27,959 --> 01:12:29,959
+a ne, pa bi verjetno to bilo, a ne.
+
+1214
+01:12:29,959 --> 01:12:31,959
+Bi bil naš odmer, da bi bil novo 8K live stream,
+
+1215
+01:12:31,959 --> 01:12:33,959
+a ne.
+
+1216
+01:12:33,959 --> 01:12:35,959
+Ok, jaz bom mogel zdaj še, na zadnjih par
+
+1217
+01:12:35,959 --> 01:12:37,959
+vprašanj, ker pač bomo počasi
+
+1218
+01:12:37,959 --> 01:12:39,959
+zaključili, ali vam je cool to?
+
+1219
+01:12:39,959 --> 01:12:41,959
+Ta počasi, tak, v miro.
+
+1220
+01:12:41,959 --> 01:12:43,959
+Tiker, ujzi.
+
+1221
+01:12:43,959 --> 01:12:45,959
+Spet imam neki, pa kaj je to,
+
+1222
+01:12:45,959 --> 01:12:47,959
+enkrat imam mokre želje, drugič imam mokre
+
+1223
+01:12:47,959 --> 01:12:49,959
+sanje.
+
+1224
+01:12:49,959 --> 01:12:51,959
+Ok, mokre sanje v vprašanje
+
+1225
+01:12:51,959 --> 01:12:53,959
+za oba.
+
+1226
+01:12:53,959 --> 01:12:55,959
+Mokre sanje v vprašanje za te, veš?
+
+1227
+01:12:55,959 --> 01:12:57,959
+Ne, ne, ne, bom ga jaz zdaj serviral te,
+
+1228
+01:12:57,959 --> 01:12:59,959
+z toplega. Mokre sanje
+
+1229
+01:12:59,959 --> 01:13:01,959
+v vprašanje za tebe, Andraž.
+
+1230
+01:13:01,959 --> 01:13:03,959
+Kje bi radi videli v Grodji čez par let?
+
+1231
+01:13:07,959 --> 01:13:09,959
+Zdaj moram...
+
+1232
+01:13:09,959 --> 01:13:11,959
+Mokre sanje, kje bi radi videli v Grodji.
+
+1233
+01:13:13,959 --> 01:13:15,959
+Kaj bom zdaj tako čist,
+
+1234
+01:13:15,959 --> 01:13:17,959
+mogoče bolj iz sebe ven izhajal,
+
+1235
+01:13:17,959 --> 01:13:19,959
+a ne, mogoče z cele ekipe
+
+1236
+01:13:19,959 --> 01:13:21,959
+v Grodji, a ne. Ampak jaz
+
+1237
+01:13:21,959 --> 01:13:23,959
+predvsem vidim
+
+1238
+01:13:23,959 --> 01:13:25,959
+od tistega
+
+1239
+01:13:25,959 --> 01:13:27,959
+manifesta, če tako rečeš,
+
+1240
+01:13:27,959 --> 01:13:29,959
+da je to
+
+1241
+01:13:29,959 --> 01:13:31,959
+ta nek vezni
+
+1242
+01:13:31,959 --> 01:13:33,959
+člen, ki pomaga
+
+1243
+01:13:33,959 --> 01:13:35,959
+tem posameznikom, ali pa
+
+1244
+01:13:35,959 --> 01:13:37,959
+poskupnostem v,
+
+1245
+01:13:37,959 --> 01:13:39,959
+ne vem, te slovenski zemlji,
+
+1246
+01:13:39,959 --> 01:13:41,959
+narediti nekaj boljšega, pa pač
+
+1247
+01:13:41,959 --> 01:13:43,959
+pisati te skodbe.
+
+1248
+01:13:45,959 --> 01:13:47,959
+Se bomo lahko še kje druge
+
+1249
+01:13:47,959 --> 01:13:49,959
+v kajšnem druge kleti, ali pa tej kleti,
+
+1250
+01:13:49,959 --> 01:13:51,959
+ali pa nekajšnem
+
+1251
+01:13:51,959 --> 01:13:53,959
+drugem pivu dobil, pa
+
+1252
+01:13:53,959 --> 01:13:55,959
+reka, lej, deset let, petnaest let
+
+1253
+01:13:55,959 --> 01:13:57,959
+nazaj smo pa to zorganizirali,
+
+1254
+01:13:57,959 --> 01:13:59,959
+pa dobro je bilo.
+
+1255
+01:13:59,959 --> 01:14:01,959
+Jaz mislim, da to je
+
+1256
+01:14:01,959 --> 01:14:03,959
+predvsem tist...
+
+1257
+01:14:03,959 --> 01:14:05,959
+Jaz nikoli nisem,
+
+1258
+01:14:05,959 --> 01:14:07,959
+nikoli, zdaj pri
+
+1259
+01:14:07,959 --> 01:14:09,959
+meet-upjih in dogodkih,
+
+1260
+01:14:09,959 --> 01:14:11,959
+ki jih zdaj delam, je ful več,
+
+1261
+01:14:11,959 --> 01:14:13,959
+več mi je vreden
+
+1262
+01:14:13,959 --> 01:14:15,959
+kvaliteta kontenta,
+
+1263
+01:14:15,959 --> 01:14:17,959
+kot kvantiteta,
+
+1264
+01:14:17,959 --> 01:14:19,959
+koliko je to gledal,
+
+1265
+01:14:19,959 --> 01:14:21,959
+kakšne so številke, koliko ljudi je prišlo pogledati.
+
+1266
+01:14:21,959 --> 01:14:23,959
+Mi ne gra vloge.
+
+1267
+01:14:23,959 --> 01:14:25,959
+Jaz bolj mislim to,
+
+1268
+01:14:25,959 --> 01:14:27,959
+da če bo pač to
+
+1269
+01:14:27,959 --> 01:14:29,959
+postil nek pečat, da, ne vem,
+
+1270
+01:14:29,959 --> 01:14:31,959
+je bila dobra
+
+1271
+01:14:31,959 --> 01:14:33,959
+vsebina, so bili dobre
+
+1272
+01:14:33,959 --> 01:14:35,959
+zadeve, smo povezali.
+
+1273
+01:14:35,959 --> 01:14:37,959
+Ne vem, če samo to,
+
+1274
+01:14:37,959 --> 01:14:39,959
+da smo povezali dva človeka
+
+1275
+01:14:39,959 --> 01:14:41,959
+na čist drugih koncih
+
+1276
+01:14:41,959 --> 01:14:43,959
+Slovenije, dveh različnih komunitiv,
+
+1277
+01:14:43,959 --> 01:14:45,959
+da se najde ta, ne vem,
+
+1278
+01:14:45,959 --> 01:14:47,959
+magar najde ta novo start-up,
+
+1279
+01:14:47,959 --> 01:14:49,959
+magar najde ta, ne vem, novo firmo,
+
+1280
+01:14:49,959 --> 01:14:51,959
+ali pa samo neko novo skupnost,
+
+1281
+01:14:51,959 --> 01:14:53,959
+mislim, da smo že
+
+1282
+01:14:53,959 --> 01:14:55,959
+kar veliko naredili.
+
+1283
+01:14:55,959 --> 01:14:57,959
+Bravo.
+
+1284
+01:15:00,000 --> 01:15:02,000
+Hvala.
+
+1285
+01:15:30,000 --> 01:15:40,000
+Urice kot ne kot fizični prostor, ampak prostor, ki bo predvsem dajal mladim možnosti.
+
+1286
+01:15:42,000 --> 01:15:52,000
+Vedno pač izhajam iz sebe, če pred leti ne bi bilo Uric in ne bi bilo prostora, ki bi pač mladega vedoželjnega
+
+1287
+01:15:52,000 --> 01:16:03,000
+z glavo povnila z Blindorja sprejo med se. Jaz pač ne bi imel kariere v IT-u, ne bi spoznal vseh teh ljudi, veliko zgodb se je rodilo
+
+1288
+01:16:03,000 --> 01:16:15,000
+pred šankom, za šankom, kakorkoli. Imeti en ta prostor, neodvisen prostor, kjer lahko kdorkoli, ki ga zanima pač tehnologija
+
+1289
+01:16:15,000 --> 01:16:29,000
+in pač ves ta svet tehnologije, poteši to vedoželjnost. To vidim. V kakšni obliki bo pa to, pa gledaj, ko bomo tako dalje, bomo ga tu videli,
+
+1290
+01:16:29,000 --> 01:16:34,000
+ker to je živo organizem, to se konstantno spreminja. Tako da, to je to, no.
+
+1291
+01:16:34,000 --> 01:16:37,000
+Odlično je to. Upam, da je bilo še.
+
+1292
+01:16:37,000 --> 01:16:42,000
+Ti, ti, ti, imaš tip, kakšne mokre sanje?
+
+1293
+01:16:42,000 --> 01:16:48,000
+Jaz si ti povedal, preberi strategijo, kjer si mi je napisal.
+
+1294
+01:16:48,000 --> 01:16:52,000
+A, to je to, v bistvu strategije na stav, skozi mokre sanje.
+
+1295
+01:16:52,000 --> 01:17:04,000
+Skozi mokre sanje, da je strategija. Ja, v bistvu pač to, pač bit, ta lejer, ta ogrodje, ta framework, da lahko naprej sestejno bo,
+
+1296
+01:17:04,000 --> 01:17:15,000
+gradimo te zgodbe, da jih lahko prenašamo naprej, da gradimo zelo močno skupnost ljudi, ki ima neke ambicije podobne, ki deluje v tem prostoru,
+
+1297
+01:17:15,000 --> 01:17:29,000
+prenašati zgodbe, povedati, da lahko tudi nekdo izprek murja, iz neke vsi pride delati v Google pa v vašem telefonu po celem svetu,
+
+1298
+01:17:29,000 --> 01:17:40,000
+da v Sloveniji imamo nek ta dober inženiring, da v Sloveniji znamo graditi produkte, da smo čisto tisto vrhunjski, kot pa kjerkolj druge,
+
+1299
+01:17:40,000 --> 01:17:53,000
+in pač bit ta nek vezni člen in lejer, da bo pač vse to možno v kakvi oblikih, kjer mediji je nek pomembno, pa da bomo res delali to, ker nam bo zabavno,
+
+1300
+01:17:53,000 --> 01:18:01,000
+ker nam bo veselje, ker bomo imeli nek ta zadoščenje z tega, pač ta, da bo nam bo fajn delati. Dokr nam bo fajn delati, bomo delali,
+
+1301
+01:18:01,000 --> 01:18:18,000
+ko nam ne bo več, pač bomo okej drugega, ampak ja, pa zelo manj pred, ko za koga to delamo, pa izbiramo sebi, imamo vedno pač to v glavi, te, ne vem, greš na razne dogodke
+
+1302
+01:18:18,000 --> 01:18:28,000
+in potem pride nek sremžljiv študent prvega letnika ali pa dijak do tebe, ej poslušal sem vse vaše epizode, follover, nisem vedel, da to raste eno, drugo,
+
+1303
+01:18:28,000 --> 01:18:38,000
+in pač, da vidiš, da mu pokažeš, ej, lej, tu smo iste ljudje, ki jih zanima iste stvari, ti bomo pomagali, to, to sem videl, folover, eno se stvarim, upam, da bomo to lahko naprej delali eno tako.
+
+1304
+01:18:38,000 --> 01:18:42,000
+Nekaj takega. Ja, veš, ful zena, ne?
+
+1305
+01:18:47,000 --> 01:18:49,000
+Boš ti z nekim zadnjim vprašanjem ali?
+
+1306
+01:18:49,000 --> 01:18:51,000
+Ne vem, kaj pa je zadnjo vprašanje?
+
+1307
+01:18:51,000 --> 01:18:53,000
+Feferon ali čili.
+
+1308
+01:18:56,000 --> 01:18:57,000
+To je prišlo.
+
+1309
+01:18:57,000 --> 01:19:00,000
+A to je potem ta nadaljujem od mokrih.
+
+1310
+01:19:00,000 --> 01:19:13,000
+Laka, evo, laka še to, to bom sam, content creation je bistvo bila nek ta, še vedno, mogoče malo bolj, sicer mogoče malo bolj za nas, ampak vse je tudi s plenu urice povezano.
+
+1311
+01:19:14,000 --> 01:19:22,000
+Kako pomembno je ustvarjanje osebin, blogov, video, za posame z njega programmerja oziroma za njego karijero?
+
+1312
+01:19:23,000 --> 01:19:26,000
+In to lahko potem tudi nekako povežemo.
+
+1313
+01:19:27,000 --> 01:19:33,000
+Koliko je ta ustvarjanje osebin pomembno danes? In tokov, in video, in tutorialov, in vsega.
+
+1314
+01:19:34,000 --> 01:19:52,000
+Jaz mislim, da vsaj, kar se tega dela tiče tokov, če hočeš ti prosperirati nekje, pa si na začetku svoje karijere, pa si že uspil neko znanje, valjda zato, da ljudje v teb zvejo, da se lahko ti prodaš.
+
+1315
+01:19:53,000 --> 01:19:58,000
+Probi čim več konferencah predavati, prijavlji se pač način več, če zadevka je možno.
+
+1316
+01:19:59,000 --> 01:20:06,000
+To znanje probi prenašati naprej, ker na ta način krediš svojo kredibilnost, se dodatno oči.
+
+1317
+01:20:07,000 --> 01:20:12,000
+Tudi to, da te reče, da nisi še dovolj, je tudi to neke vrste očenja.
+
+1318
+01:20:13,000 --> 01:20:18,000
+Definitivno, da se vdejstvuješ v predavanju.
+
+1319
+01:20:19,000 --> 01:20:26,000
+Če si še tako bolj, da znaš kaj napisati in imeti nek svoj personal blog, je to super.
+
+1320
+01:20:27,000 --> 01:20:30,000
+Če si pa influencer, pa rabiš še YouTube.
+
+1321
+01:20:31,000 --> 01:20:39,000
+Boj, da mladi me to ful lažijo, da so navajeni biti pred kamero in govoriti sami se po zaslonu.
+
+1322
+01:20:40,000 --> 01:20:42,000
+Nama je to...
+
+1323
+01:20:43,000 --> 01:20:46,000
+Kaj, lahko en hot take na to temo?
+
+1324
+01:20:47,000 --> 01:20:51,000
+Jaz ne znam potem, da stikrat butnem neko ven, pa me ljudje potem čudno gledajo.
+
+1325
+01:20:52,000 --> 01:20:53,000
+To nisem opazil.
+
+1326
+01:20:54,000 --> 01:21:03,000
+Meni se zdi, da smo mi kolektivno brainwashali ljudem glave s tem, da mora vsak rengar postati content production mašina.
+
+1327
+01:21:04,000 --> 01:21:09,000
+Že tako ali tako, ti kot bilo kdo, ki dela v ITO, ni eno samo developer.
+
+1328
+01:21:10,000 --> 01:21:17,000
+Ti porabljaš zelo veliko časa in možganske energije za to, da neke kompleksne probleme razbiješ na manjše.
+
+1329
+01:21:19,000 --> 01:21:22,000
+Potem to skupaj se stavljaš v nek mozaik celo.
+
+1330
+01:21:23,000 --> 01:21:29,000
+Zdaj se mi zdi, da je nefer pričakovati, da bo še ti svoj osebni blog imel.
+
+1331
+01:21:29,000 --> 01:21:31,000
+Polek tega pa produciral ne vem koliko kontenta.
+
+1332
+01:21:33,000 --> 01:21:41,000
+Dajmo kolektivno ne polagati nekega prešarja zlasti na mlade, ki začenjajo na tej poti.
+
+1333
+01:21:42,000 --> 01:21:44,000
+Self-pace v svojem času.
+
+1334
+01:21:45,000 --> 01:21:51,000
+Rajše en dober projekt naredi, ga dobro dokumentiraj, pa ga postopoma objavljaj.
+
+1335
+01:21:52,000 --> 01:21:58,000
+En dober tok, ne pa da zdaj to vse sprevrže v konstantno produciranje, v zavolju produciranja samega kontenta.
+
+1336
+01:21:59,000 --> 01:22:01,000
+Vrjetno se mora vsako vprašati, kaj je endgame.
+
+1337
+01:22:02,000 --> 01:22:04,000
+Kaj bi rad dosegel.
+
+1338
+01:22:05,000 --> 01:22:07,000
+Ali bi se samo v nekam pririnul.
+
+1339
+01:22:08,000 --> 01:22:14,000
+Jaz imam počutek, da doskrat se potem zgodi, če pogledaš te neke blogarje,
+
+1340
+01:22:15,000 --> 01:22:19,000
+ki so ful velik blog, dokr niso pač naredili next level.
+
+1341
+01:22:20,000 --> 01:22:22,000
+Ali je to bilo zaradi tega, da so zdaj dobili nek job.
+
+1342
+01:22:22,000 --> 01:22:27,000
+Zdaj na pamet se spomnim neko, ki je bil v Second Life ful popularen.
+
+1343
+01:22:28,000 --> 01:22:30,000
+Je v bistvu dubil šiht v Second Life.
+
+1344
+01:22:32,000 --> 01:22:38,000
+Dubil je dejansko šiht, zato kaj pač piso ta experience Second Life, pa svoj blog, pa gor dol.
+
+1345
+01:22:39,000 --> 01:22:41,000
+V momentu, ko je ta služba dubil tega bloga, pač ni bilo več.
+
+1346
+01:22:42,000 --> 01:22:45,000
+Je pač padla ta zadeva, kar so druge prioritete.
+
+1347
+01:22:46,000 --> 01:22:50,000
+Spravo, njegov endgame je bil samo zato, kako pridati jaz ravno.
+
+1348
+01:22:51,000 --> 01:22:58,000
+Nekdo, ki bi bil zdaj nek super inžener in prišel prijeti na Google,
+
+1349
+01:22:59,000 --> 01:23:04,000
+ne vem, mogoče bo tam pisol en blog v algoritmih in zaradi tega pač
+
+1350
+01:23:05,000 --> 01:23:11,000
+probu svojo kredibilnost buildati na tem, da se bo na Google lahko pogovarjal za službo.
+
+1351
+01:23:12,000 --> 01:23:14,000
+Ali bo kontribuital v kakaj open source projekt.
+
+1352
+01:23:15,000 --> 01:23:21,000
+Če tudi, če si dober, vrhunski programer, ni nujno, da znaš pisati članke.
+
+1353
+01:23:22,000 --> 01:23:25,000
+Exactly, v tem sem prej rekel, da pač ni nujno.
+
+1354
+01:23:28,000 --> 01:23:36,000
+Ampak mogoče step one dokumentirati vse svoje side projekte,
+
+1355
+01:23:37,000 --> 01:23:42,000
+dokumentirati v stilu, kar kole ne radim na GitHub.
+
+1356
+01:23:43,000 --> 01:23:49,000
+Pač delaj si repozitori svojih projektov. To je že tako minimalen step.
+
+1357
+01:23:50,000 --> 01:23:53,000
+Kar kole se igram, kar kole eksperimentiram, sam snippet kode,
+
+1358
+01:23:54,000 --> 01:24:00,000
+sam neki toy project, samo čim prej, zato da se navadiš v te rutine objavljanja in publišanja.
+
+1359
+01:24:02,000 --> 01:24:07,000
+Tudi kontra, če vidiš, da je nekdo, če uporabljaš nek, spet gremo tako,
+
+1360
+01:24:08,000 --> 01:24:12,000
+če vidiš, da je nekdo naredil neko knjižnico, če vidiš, da uporabljaš neko knjižnico,
+
+1361
+01:24:13,000 --> 01:24:16,000
+pa si našel nek bug, zdovoljen, da če samo poveš, rečiš, e, bug sem našel,
+
+1362
+01:24:17,000 --> 01:24:23,000
+odprašiš, išiš, reportaš, tudi to se smatra, ko aktiven sem, zanimajo me stvari,
+
+1363
+01:24:24,000 --> 01:24:29,000
+pripravljen sem videti ta nek naslednji korak se engažati, znam uporabljati taj tule,
+
+1364
+01:24:30,000 --> 01:24:35,000
+znane so me te zveji in tudi tudi kriješ, potem tudi, da so tam na drugi strani
+
+1365
+01:24:35,000 --> 01:24:40,000
+drugi ljudje, ki delajo kodo, ki spet prijemo do teh online komunitijo, pa tega,
+
+1366
+01:24:41,000 --> 01:24:47,000
+tako da kar kodo daš od sebe boljše, kot če daš nič, večina ljudi itak v tem
+
+1367
+01:24:48,000 --> 01:24:54,000
+space-u je, pač, konzumira, ne, kontribuira in če bote napisali članek,
+
+1368
+01:24:55,000 --> 01:25:00,000
+če bote napisali blog post, če bote prišli na spletne urice predavati, je to že bistveno več,
+
+1369
+01:25:00,000 --> 01:25:04,000
+je bistveno več, kot je kajkoli drug naredil. Potem pa par spletnih uric,
+
+1370
+01:25:05,000 --> 01:25:10,000
+pa par manjših meet-upov, potem pa imaš, recimo, že tudi dovolj nekaj izkušenj,
+
+1371
+01:25:11,000 --> 01:25:15,000
+da si, recimo, na kako konferenco prijaviš, kjer so potem drugoče neugodnosti.
+
+1372
+01:25:16,000 --> 01:25:21,000
+Recimo ljudje spohnevejo, da če se ti prijaviš na, recimo, na neko večjo mednarodno
+
+1373
+01:25:22,000 --> 01:25:26,000
+konferenco, po navadi so, imajo te konference reči se speaker dinner,
+
+1374
+01:25:27,000 --> 01:25:32,000
+in to pomeni, da, recimo, si na mednarodni konferenci skupaj z največjimi strkonjaki
+
+1375
+01:25:33,000 --> 01:25:40,000
+na tistem področju in dobiš dostop iz pet nek network vrhunskih ljudi.
+
+1376
+01:25:41,000 --> 01:25:45,000
+In v bistvu tako zelo počasi lahko tudi zgradiš to svoje ime.
+
+1377
+01:25:46,000 --> 01:25:49,000
+Začneš nekimi manjšimi eventi, da dobiš malo več izkušenj popol naprej.
+
+1378
+01:25:50,000 --> 01:25:55,000
+Ja, ampak to, kar si povedal, je res, lahko je full overwhelming.
+
+1379
+01:25:56,000 --> 01:25:59,000
+Dejte začet skodo s tem mali korakcijem.
+
+1380
+01:26:00,000 --> 01:26:03,000
+Če smem samo se navezati na te, pa to izkoristiti kot EPP,
+
+1381
+01:26:04,000 --> 01:26:09,000
+spletne urice Maribor so vedno otprte za nove predavatelje, tako da če ima kdo od vas
+
+1382
+01:26:10,000 --> 01:26:14,000
+tukaj v tem prostoru ali v virtualnem prostoru v želju priti kaj povedati,
+
+1383
+01:26:15,000 --> 01:26:18,000
+vi se samo javite. Mi smo tu. Počasi smo v kleti, počasi smo na
+
+1384
+01:26:19,000 --> 01:26:21,000
+površijo, lepa ni panike.
+
+1385
+01:26:22,000 --> 01:26:23,000
+Odlično.
+
+1386
+01:26:26,000 --> 01:26:30,000
+V Grodju nismo toliko otprti, da bi rekel, da lahko ...
+
+1387
+01:26:33,000 --> 01:26:36,000
+No, ampak smo že dobeli, da bi ljudje prišli kaj povedati.
+
+1388
+01:26:37,000 --> 01:26:39,000
+Zelo EPP naravnajamo, ampak ...
+
+1389
+01:26:40,000 --> 01:26:44,000
+Zdravo, iz marketinga delka, naš šef je prišel kaj povedati,
+
+1390
+01:26:44,000 --> 01:26:48,000
+pa ful je. Ne vem, če bo šlo to skozi.
+
+1391
+01:26:50,000 --> 01:26:54,000
+Mislim, lahko razložim zakaj, ker smo gotvi, da pač to faking ne dolje.
+
+1392
+01:26:55,000 --> 01:26:59,000
+Ker je boljše, da pride najboljši inženir v njihovi ekipi,
+
+1393
+01:27:00,000 --> 01:27:02,000
+kaj povedati recimo. To bolj nas zanima.
+
+1394
+01:27:05,000 --> 01:27:07,000
+Pošti in naredo, exit.
+
+1395
+01:27:08,000 --> 01:27:09,000
+Kaj je to? To je ti?
+
+1396
+01:27:10,000 --> 01:27:11,000
+Jaz sem s Ženjo, pa sem ...
+
+1397
+01:27:11,000 --> 01:27:12,000
+Ja.
+
+1398
+01:27:13,000 --> 01:27:14,000
+To je bilo to.
+
+1399
+01:27:16,000 --> 01:27:21,000
+To je bilo to. Poslušali ste in gledali ste Spletne urice
+
+1400
+01:27:22,000 --> 01:27:24,000
+z V Grodjem v živo.
+
+1401
+01:27:26,000 --> 01:27:28,000
+Tretja sezona, četvrta epizoda.
+
+1402
+01:27:30,000 --> 01:27:31,000
+To je to.
+
+1403
+01:27:32,000 --> 01:27:34,000
+Kje vas lahko spremljajo? Oči.
+
+1404
+01:27:35,000 --> 01:27:37,000
+Na vseh podcasting platformah in na YouTube.
+
+1405
+01:27:37,000 --> 01:27:39,000
+To je zdaj ono, kaj bi mogli srečati.
+
+1406
+01:27:40,000 --> 01:27:42,000
+Pač vpisuj spodaj, pa kazuj dolje.
+
+1407
+01:27:43,000 --> 01:27:45,000
+Like in subscribe.
+
+1408
+01:27:46,000 --> 01:27:50,000
+Če ste na Patreonu, ste to epizodo dobili pred vstalimi.
+
+1409
+01:27:51,000 --> 01:27:52,000
+To je to.
+
+1410
+01:27:53,000 --> 01:27:55,000
+Najlepša hvala vsem še enkrat, da ste prišli.
+
+1411
+01:27:56,000 --> 01:27:57,000
+To je exit.

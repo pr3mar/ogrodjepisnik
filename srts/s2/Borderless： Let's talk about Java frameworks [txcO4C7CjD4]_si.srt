@@ -1,0 +1,2834 @@
+1
+00:00:00,000 --> 00:00:16,280
+Okay, so let's start this thing. So welcome everybody to our very
+
+2
+00:00:16,280 --> 00:00:23,600
+first bell that's that we're gonna do in in our podcast. And
+
+3
+00:00:23,600 --> 00:00:28,120
+we're gonna try to record this in a in front of live audience
+
+4
+00:00:28,120 --> 00:00:34,639
+here. And we're gonna try to record this, hopefully, in a way
+
+5
+00:00:34,639 --> 00:00:37,340
+that you guys will all feel comfortable talking about the
+
+6
+00:00:37,340 --> 00:00:43,080
+frameworks that you guys use on a daily basis. And we're gonna
+
+7
+00:00:43,080 --> 00:00:47,480
+try to also show the world that this conference that we're now
+
+8
+00:00:47,480 --> 00:00:52,360
+attending, can bring together experts in the field of Java and
+
+9
+00:00:53,160 --> 00:00:58,480
+the ecosystem around it. We're recording this session, it's
+
+10
+00:00:58,480 --> 00:01:02,680
+make it conference in Porto Roche. The make it conference
+
+11
+00:01:02,720 --> 00:01:06,800
+this year is divided into two parts. One is more Oracle
+
+12
+00:01:06,800 --> 00:01:10,879
+technologies. And one is what we call open blend with jcon, which
+
+13
+00:01:10,879 --> 00:01:14,599
+is more Java and other technologies around it. So
+
+14
+00:01:14,599 --> 00:01:20,919
+welcome everybody to this panel. We're going to try to talk today
+
+15
+00:01:21,000 --> 00:01:26,519
+about three Java frameworks, web frameworks. There are other
+
+16
+00:01:26,800 --> 00:01:30,839
+Java frameworks that we talked about this conference also.
+
+17
+00:01:31,599 --> 00:01:36,120
+Sadly, we are limited by number of microphones here. But next
+
+18
+00:01:36,279 --> 00:01:38,919
+next year, we might shuffle a bit. So sorry for everybody
+
+19
+00:01:38,919 --> 00:01:43,800
+that's that use other frameworks. Let's, let's, let's,
+
+20
+00:01:43,839 --> 00:01:48,519
+let's put that constraint here. And let me first start by
+
+21
+00:01:48,519 --> 00:01:52,839
+introducing our guests today. So here we have Roman, Roman
+
+22
+00:01:52,879 --> 00:01:58,279
+neglig. He's, he's independent contract and senior software
+
+23
+00:01:58,279 --> 00:02:04,239
+engineer at a company called object computing, Inc. Welcome.
+
+24
+00:02:05,919 --> 00:02:11,720
+We then have 18 Rozenik from a company sport rather, he's gonna
+
+25
+00:02:11,759 --> 00:02:16,360
+he's head of MBS shared services at sport rather. I'm not sure
+
+26
+00:02:16,360 --> 00:02:19,320
+what exactly that means. But I think you're an engineer, right?
+
+27
+00:02:19,360 --> 00:02:24,880
+Okay, check. And then on my left side, we have Gavin King. He is
+
+28
+00:02:25,479 --> 00:02:30,119
+his senior distinguished engineer at IBM, and did a lot of stuff
+
+29
+00:02:30,160 --> 00:02:36,360
+also from Red Hat, I imagine. Yeah, okay. So that's why we put
+
+30
+00:02:36,360 --> 00:02:40,720
+the IBM and Red Hat together there as well. And you're also
+
+31
+00:02:40,720 --> 00:02:44,520
+very known in the world of Java as a creator of hibernate ORM
+
+32
+00:02:44,520 --> 00:02:49,600
+framework as well. Welcome, everybody to this panel. Feel
+
+33
+00:02:49,639 --> 00:02:55,520
+relaxed, although there's a lot of people in the room. My very
+
+34
+00:02:55,520 --> 00:03:00,520
+first question is this gonna be very hard, but still try to try
+
+35
+00:03:00,520 --> 00:03:04,720
+to put yourself together to answer. So my first question to
+
+36
+00:03:04,720 --> 00:03:09,080
+you guys will be if you can tell us a bit about yourself, the
+
+37
+00:03:09,080 --> 00:03:13,000
+company you represent. And if you can tell us a bit, what kind
+
+38
+00:03:13,000 --> 00:03:16,399
+of challenges do you guys solve with your company, so that we
+
+39
+00:03:16,399 --> 00:03:19,600
+can like understand what are you doing? I would start with Roman
+
+40
+00:03:19,600 --> 00:03:19,880
+first.
+
+41
+00:03:20,160 --> 00:03:24,679
+Okay, my name is Roman Naglich. As I mentioned, working in
+
+42
+00:03:24,679 --> 00:03:30,520
+software development for almost 20 years. I can say that I have
+
+43
+00:03:30,520 --> 00:03:34,800
+few points in my career, where I really accelerate my knowledge
+
+44
+00:03:34,800 --> 00:03:40,160
+about it. First one was 1990s, where I joined a select
+
+45
+00:03:40,160 --> 00:03:44,399
+technology company, which does not exist anymore. And we were
+
+46
+00:03:44,399 --> 00:03:48,600
+working on the next and open step computers, which are still
+
+47
+00:03:48,600 --> 00:03:53,119
+considered one of the best object oriented ecosystem. Then
+
+48
+00:03:53,960 --> 00:03:58,119
+another another boost was that when I when I joined the Oracle
+
+49
+00:03:58,160 --> 00:04:03,320
+company working as a middle tier consultant, or working on the
+
+50
+00:04:03,320 --> 00:04:07,320
+project across Europe, see a lot of stack trace, see a lot of
+
+51
+00:04:07,559 --> 00:04:12,520
+troubles, and learn a lot. Then the third one was when I joined
+
+52
+00:04:12,520 --> 00:04:15,839
+the micro notes, actually, I used micro notes before already
+
+53
+00:04:15,839 --> 00:04:20,839
+before. But I go deeply into the macro notes when I joined object
+
+54
+00:04:20,839 --> 00:04:26,119
+computing. So I'm not actually a developer of the framework, but
+
+55
+00:04:26,119 --> 00:04:30,040
+heavy user. So I have constantly contact with the developers of
+
+56
+00:04:30,040 --> 00:04:34,279
+the framework. And we're actually solving business
+
+57
+00:04:34,279 --> 00:04:37,920
+problems and working on a business problem with micro
+
+58
+00:04:37,920 --> 00:04:40,880
+notes. So you use micro notes on daily basis, daily business.
+
+59
+00:04:40,880 --> 00:04:45,760
+Okay, thank you. A thing can ask you the same question. Yeah, of
+
+60
+00:04:45,760 --> 00:04:51,279
+course. My name is Ken. And yes, I'm a software engineer. I've
+
+61
+00:04:51,279 --> 00:04:54,480
+been in the software development world for about 10 years, give
+
+62
+00:04:54,480 --> 00:04:57,720
+it or take. And for the last seven years, I've been a part of
+
+63
+00:04:57,720 --> 00:05:01,359
+Sportradar. Over the years, I jumped over a few positions
+
+64
+00:05:01,359 --> 00:05:04,600
+within the company. And with with my latest role as the head
+
+65
+00:05:04,600 --> 00:05:07,920
+of MB Azure services, I'm helping out engineers by
+
+66
+00:05:07,920 --> 00:05:11,040
+providing various tooling, internet turnkey solutions, but
+
+67
+00:05:11,040 --> 00:05:15,480
+they also teach engineers about frameworks and other similar
+
+68
+00:05:15,480 --> 00:05:21,160
+things. So over the years, I've been in touch with quite a lot
+
+69
+00:05:21,160 --> 00:05:25,480
+of technologies and open source solutions. And as such, I
+
+70
+00:05:25,480 --> 00:05:29,799
+learned a lot of things. And that really helps me out from
+
+71
+00:05:29,799 --> 00:05:30,320
+day to day.
+
+72
+00:05:31,279 --> 00:05:35,119
+Can I also ask you, you're going to represent Springboot today
+
+73
+00:05:35,119 --> 00:05:37,679
+because you also use it at the company you work for?
+
+74
+00:05:37,760 --> 00:05:41,200
+We're mostly a Springboot company. But we also use a
+
+75
+00:05:41,200 --> 00:05:43,720
+couple of other frameworks, including Quarkus.
+
+76
+00:05:43,920 --> 00:05:47,200
+Okay, thank you very much. And Etienne, can you?
+
+77
+00:05:48,480 --> 00:05:53,359
+Yeah, so I guess I have a pretty different kind of experience in
+
+78
+00:05:53,359 --> 00:05:57,200
+the industry. I've been working in essentially the same role for
+
+79
+00:05:57,600 --> 00:06:03,279
+20 years now. And unlike a lot of folks in the industry, I have
+
+80
+00:06:03,279 --> 00:06:06,559
+little experience of building applications and deploying
+
+81
+00:06:06,600 --> 00:06:10,559
+applications. My workmates joke that I've never, never deployed
+
+82
+00:06:10,559 --> 00:06:14,760
+an application in my life. And it's close to true. So I've been
+
+83
+00:06:14,760 --> 00:06:20,160
+doing, you know, tooling, framework, language, library
+
+84
+00:06:20,160 --> 00:06:25,079
+development for, you know, product development for my whole
+
+85
+00:06:25,079 --> 00:06:29,160
+career. And it's interesting, really, when you talk to people,
+
+86
+00:06:29,160 --> 00:06:32,839
+it's been interesting recently to really realize how kind of
+
+87
+00:06:34,160 --> 00:06:36,359
+different that is. There's a lot of things which I'm sure
+
+88
+00:06:36,359 --> 00:06:40,480
+everybody in this room, you know, kind of lives and breathes
+
+89
+00:06:40,480 --> 00:06:45,959
+and has lots of experience with. And if you ask me about it, I'm
+
+90
+00:06:45,959 --> 00:06:50,399
+blankly, I don't know anything about what you're talking about.
+
+91
+00:06:51,079 --> 00:06:54,160
+Because the reality of product development is getting very deep
+
+92
+00:06:54,239 --> 00:06:58,760
+in, you know, one, you know, kind of specific problem over the
+
+93
+00:06:58,760 --> 00:07:01,200
+space of years and kind of losing touch with the rest of the
+
+94
+00:07:01,200 --> 00:07:01,920
+industry a little bit.
+
+95
+00:07:03,079 --> 00:07:04,399
+Specialist in one.
+
+96
+00:07:05,119 --> 00:07:07,839
+Yeah, I mean, you know, the lifecycle of developing a product
+
+97
+00:07:07,839 --> 00:07:13,679
+is, you know, decade or more. And, you know, that's longer
+
+98
+00:07:13,679 --> 00:07:17,559
+than the lifecycle of a typical kind of project, you know. And,
+
+99
+00:07:18,000 --> 00:07:20,320
+and in that time, that's plenty of time to lose touch completely
+
+100
+00:07:20,320 --> 00:07:22,040
+with what the industry is doing.
+
+101
+00:07:23,040 --> 00:07:26,440
+Okay, so I do have like, a couple of questions about trendy
+
+102
+00:07:26,440 --> 00:07:30,600
+stuff. So hopefully, hopefully, we'll get through that.
+
+103
+00:07:30,600 --> 00:07:32,000
+Hopefully, I can cover up my ignorance.
+
+104
+00:07:33,160 --> 00:07:41,000
+Okay. Let's go into more now, the content of this, this
+
+105
+00:07:41,000 --> 00:07:45,320
+episode, right. So we'll start with Roman. And we'll talk more
+
+106
+00:07:45,320 --> 00:07:49,320
+about my first question is going to be about Micronaut. You
+
+107
+00:07:49,320 --> 00:07:53,480
+presented today Micronaut. And from other presentations
+
+108
+00:07:53,480 --> 00:07:56,959
+regarding other frameworks, what stand out, at least to me is
+
+109
+00:07:56,959 --> 00:08:03,040
+that Micronaut tries to be polyglot framework, meaning that
+
+110
+00:08:03,040 --> 00:08:07,480
+it supports several languages. But you also go very far in
+
+111
+00:08:07,480 --> 00:08:10,920
+sense that you demonstrated, for example, in your talk today,
+
+112
+00:08:10,920 --> 00:08:15,600
+that matrix for all the documentation that you have. So
+
+113
+00:08:15,880 --> 00:08:19,880
+all the languages that you guys actually support, there are docs
+
+114
+00:08:19,880 --> 00:08:21,799
+written in detail for everything.
+
+115
+00:08:21,799 --> 00:08:23,679
+Correct, correct. We are very proud of that.
+
+116
+00:08:23,920 --> 00:08:28,480
+And it's impressive. You also need a generator to generate the
+
+117
+00:08:28,480 --> 00:08:32,599
+scaffolding of the tool because of the nature of that, right? So
+
+118
+00:08:32,599 --> 00:08:38,640
+my question there would be, why would you build the framework
+
+119
+00:08:38,640 --> 00:08:40,559
+that is polyglot? What's the advantage?
+
+120
+00:08:40,559 --> 00:08:44,640
+The first reason was that actually, the origin of this
+
+121
+00:08:44,640 --> 00:08:47,679
+framework and the authors of the framework comes from the
+
+122
+00:08:47,679 --> 00:08:51,520
+Grails. So Grails was a framework, it's still framework
+
+123
+00:08:51,919 --> 00:08:56,559
+based on Spring Boot, but implemented in the GUI. So that
+
+124
+00:08:56,559 --> 00:08:59,960
+was the first reason why GUI was supported. And they have some
+
+125
+00:08:59,960 --> 00:09:02,239
+problems with the framework, and they want to solve those
+
+126
+00:09:02,239 --> 00:09:06,520
+problems. And they decided they will do, they will challenge
+
+127
+00:09:06,520 --> 00:09:10,039
+those weaknesses of the framework, and implement it on
+
+128
+00:09:10,039 --> 00:09:13,679
+different ways. So GUI was there. So what language could
+
+129
+00:09:13,679 --> 00:09:19,760
+be better to start with than Java? It was in that time. Then
+
+130
+00:09:19,760 --> 00:09:25,400
+Kotlin comes and then it's normal transition to support
+
+131
+00:09:25,440 --> 00:09:29,919
+Kotlin as well, because it's so compatible with between Java and
+
+132
+00:09:29,919 --> 00:09:34,679
+Kotlin is quite easy to achieve. So that's the main reason.
+
+133
+00:09:34,719 --> 00:09:35,760
+There are three languages.
+
+134
+00:09:36,080 --> 00:09:38,039
+Three languages, GUI, Kotlin and Java.
+
+135
+00:09:38,200 --> 00:09:44,159
+Okay, okay. Yeah, that's the that's what what, thank you for
+
+136
+00:09:44,159 --> 00:09:49,559
+that. Okay, I'm gonna go now to, to Parkos and Gavin. So that's
+
+137
+00:09:49,559 --> 00:09:54,799
+the question for you. So some may say that like, traditional
+
+138
+00:09:54,799 --> 00:09:59,760
+stack, like having big monoliths, one application
+
+139
+00:09:59,760 --> 00:10:02,679
+server that serves a lot of traffic that that these times
+
+140
+00:10:02,679 --> 00:10:06,239
+are kind of like, not suitable in this cloud environment where
+
+141
+00:10:06,239 --> 00:10:11,559
+you have very dynamic loads where you go into per request
+
+142
+00:10:11,559 --> 00:10:15,799
+serving all that stuff. We're moving more into this serverless
+
+143
+00:10:15,919 --> 00:10:20,159
+ecosystem where you want to have small functions that spin up and
+
+144
+00:10:20,159 --> 00:10:25,520
+scale down all that stuff. So that's my hypothesis. Do you
+
+145
+00:10:25,520 --> 00:10:26,799
+feel that that's still?
+
+146
+00:10:26,799 --> 00:10:31,119
+Yeah. So I mean, look, I think, you know, the whole, you know,
+
+147
+00:10:31,119 --> 00:10:36,359
+cloud deployments have clearly been extremely successful, you
+
+148
+00:10:36,359 --> 00:10:40,719
+know, to a greater extent than I had expected. You know, surely
+
+149
+00:10:40,719 --> 00:10:43,239
+there's still, you know, some organizations who want to run
+
+150
+00:10:43,239 --> 00:10:45,760
+their cloud internally or want to, you know, or who are, you
+
+151
+00:10:45,760 --> 00:10:49,080
+know, have, you know, software that works on a, you know, what
+
+152
+00:10:49,080 --> 00:10:51,799
+you're calling a traditional stack, I guess, by which I, I
+
+153
+00:10:51,799 --> 00:10:57,239
+take it you mean, like, a cluster of services, HTTP, and
+
+154
+00:10:57,239 --> 00:10:59,400
+then a relational database behind it, something like that.
+
+155
+00:11:01,280 --> 00:11:05,039
+I was joking last night that I've written code in Fortran for
+
+156
+00:11:05,039 --> 00:11:09,640
+VMS. So, you know, but so traditional is kind of new in a
+
+157
+00:11:09,640 --> 00:11:15,239
+way. It's not that old. Okay. So that's been very, very, very,
+
+158
+00:11:15,239 --> 00:11:22,479
+very successful. And, you know, and Java has been perhaps not,
+
+159
+00:11:22,559 --> 00:11:26,640
+is perhaps, it was perhaps initially not a perfect match to
+
+160
+00:11:26,640 --> 00:11:30,880
+that, to that architecture, because of the initial resource
+
+161
+00:11:30,880 --> 00:11:33,799
+requirements of just spinning up a JVM and the latency involved
+
+162
+00:11:33,799 --> 00:11:43,919
+in spinning up a JVM. And so, and so, you know, I don't want
+
+163
+00:11:43,919 --> 00:11:47,479
+to get too far on down that path right now. You know, when you're
+
+164
+00:11:47,479 --> 00:11:49,719
+talking about serverless and stuff, I'm not really sure what
+
+165
+00:11:49,719 --> 00:11:52,919
+that word means. I cannot try to ask you folks yesterday what
+
+166
+00:11:52,919 --> 00:11:55,640
+that means. And they're kind of like, well, you know, and then
+
+167
+00:11:55,640 --> 00:11:58,119
+they give me a textbook definition of what a server is.
+
+168
+00:11:58,440 --> 00:12:01,320
+And then, you know, but apparently the thing is, well,
+
+169
+00:12:01,320 --> 00:12:04,280
+yeah, it's infinitely scalable, and all that. And I just want to,
+
+170
+00:12:04,280 --> 00:12:07,520
+you know, kind of look, I don't know, you know, I'm talking out
+
+171
+00:12:07,520 --> 00:12:10,719
+of my area of knowledge here. But I just want to caution a bit
+
+172
+00:12:10,719 --> 00:12:13,840
+when we start talking about infinite scalability, there's
+
+173
+00:12:13,840 --> 00:12:15,760
+this, there's this thing that happens in our industry, like,
+
+174
+00:12:16,200 --> 00:12:20,440
+we're kind of every five years or so, somebody discovers that
+
+175
+00:12:20,479 --> 00:12:24,919
+stateless services are really scalable. Right? And, you know,
+
+176
+00:12:24,919 --> 00:12:27,559
+yeah, right. And that's great. You know, that's great that
+
+177
+00:12:27,559 --> 00:12:30,280
+your stateless service scales. And that's really great until
+
+178
+00:12:30,440 --> 00:12:33,000
+you have a program and you want your program to have an effect
+
+179
+00:12:33,000 --> 00:12:36,799
+upon the world. Right. And so when you're talking about
+
+180
+00:12:36,799 --> 00:12:41,280
+stateless services, you're talking about pushing the limits
+
+181
+00:12:41,280 --> 00:12:44,880
+to scalability somewhere else. Okay. So as soon as you need to
+
+182
+00:12:44,880 --> 00:12:48,400
+access a database, as soon as you need to cache some data, as
+
+183
+00:12:48,400 --> 00:12:54,280
+soon as you need to have divide up a workload into various parts
+
+184
+00:12:54,280 --> 00:12:56,919
+which share some intermediate state between them or have some
+
+185
+00:12:56,919 --> 00:13:01,359
+dependencies upon upon how the computation needs to proceed, or,
+
+186
+00:13:02,000 --> 00:13:06,840
+you know, or more exotic things, you need to run a part of your
+
+187
+00:13:06,840 --> 00:13:08,919
+algorithm on a quantum device, you know, there's something
+
+188
+00:13:08,919 --> 00:13:12,559
+like, I don't know, 10 to the four qubits in the world at the
+
+189
+00:13:12,559 --> 00:13:18,119
+moment, right? Or, I don't know, you're running a shared world,
+
+190
+00:13:18,119 --> 00:13:22,960
+and you have players who need to who need to interact. Suddenly,
+
+191
+00:13:23,440 --> 00:13:26,559
+I don't care how stateless your service is, you know, it's not
+
+192
+00:13:26,559 --> 00:13:30,760
+infinitely scalable. Okay. So I, you know, I just, you know, I
+
+193
+00:13:30,760 --> 00:13:33,520
+know, it's just picking on a word there. But, you know, like,
+
+194
+00:13:34,440 --> 00:13:37,760
+I'm always a bit, you know, like, like, I feel like sometimes
+
+195
+00:13:37,760 --> 00:13:41,919
+we focus too much upon that stateless service without and
+
+196
+00:13:41,919 --> 00:13:44,080
+when we should, or, you know, we should be talking a lot more
+
+197
+00:13:44,080 --> 00:13:46,479
+about state and how to manage state. And in this cloud, you
+
+198
+00:13:46,479 --> 00:13:48,239
+know, one of the things really exciting about these cloud
+
+199
+00:13:48,239 --> 00:13:51,159
+environments is the extent to which is the advances which have
+
+200
+00:13:51,159 --> 00:13:54,520
+been made in terms of scaling data, right? And workloads,
+
+201
+00:13:54,520 --> 00:13:58,159
+which I wouldn't have thought would be natural for the cloud
+
+202
+00:13:58,159 --> 00:14:00,080
+things in machine learning and stuff like that, like, like,
+
+203
+00:14:00,080 --> 00:14:02,479
+naively, I would not have thought would be very natural,
+
+204
+00:14:02,479 --> 00:14:08,320
+like, like this, like are moving to this kind of cloud things. I
+
+205
+00:14:08,320 --> 00:14:10,239
+think I think, yeah, I'll stop there.
+
+206
+00:14:12,200 --> 00:14:17,599
+No, it's fine. It's fine. My question was more like, correct.
+
+207
+00:14:17,640 --> 00:14:22,280
+I'll completely understand. But it's, you have a feeling that
+
+208
+00:14:22,400 --> 00:14:26,479
+Quarkus, the development of Quarkus is focused around being
+
+209
+00:14:26,479 --> 00:14:30,719
+ready for this environment being ready for, for, you know, there
+
+210
+00:14:30,719 --> 00:14:35,440
+is, you feel that it's tight to GraalVM, to native images. We
+
+211
+00:14:35,440 --> 00:14:36,960
+can talk more for other frameworks in this.
+
+212
+00:14:36,960 --> 00:14:38,880
+Yeah, well, I didn't want to, like, cut into their time. So
+
+213
+00:14:38,880 --> 00:14:40,960
+yeah, that's fine. Do you want me to answer that question?
+
+214
+00:14:40,960 --> 00:14:41,520
+Yeah, please do.
+
+215
+00:14:41,559 --> 00:14:46,840
+Okay. Okay. So like, so we always want to, you know, it's a
+
+216
+00:14:46,840 --> 00:14:49,440
+difficult messaging job on our part. Okay. First of all,
+
+217
+00:14:49,440 --> 00:14:55,440
+Quarkus is not only a framework for GraalVM. Okay, or for a
+
+218
+00:14:55,440 --> 00:14:59,159
+native compilation. Okay. It is the next generation of what was
+
+219
+00:14:59,200 --> 00:15:04,200
+our server Java E technology, okay, reinvented for the modern
+
+220
+00:15:04,200 --> 00:15:07,679
+era. Okay. One of the things it does extremely well, and
+
+221
+00:15:07,679 --> 00:15:11,679
+obviously, a big focus of development is that it is the
+
+222
+00:15:11,679 --> 00:15:14,320
+need to be able to, you know, spin up instances extremely fast
+
+223
+00:15:14,320 --> 00:15:17,559
+in a cloud environment. And that is enabled not just not just by
+
+224
+00:15:17,559 --> 00:15:20,239
+native compilation, but but more importantly, actually, most
+
+225
+00:15:20,239 --> 00:15:23,359
+of the work is not just on being able to compile with GraalVM.
+
+226
+00:15:23,640 --> 00:15:27,479
+But in terms of being able to compile, interpret and compile a
+
+227
+00:15:27,479 --> 00:15:31,280
+bunch of metadata into the image that is deployed, so that if you
+
+228
+00:15:31,280 --> 00:15:33,280
+start up Hibernate or something like that, you're doing that work
+
+229
+00:15:33,280 --> 00:15:36,359
+at compilation time as part of the build step, rather than doing
+
+230
+00:15:36,359 --> 00:15:39,440
+it at runtime. I'm gonna cut myself short.
+
+231
+00:15:40,000 --> 00:15:43,679
+Yeah, cool. Etienne, you ready for next one?
+
+232
+00:15:43,719 --> 00:15:44,039
+Yeah.
+
+233
+00:15:44,159 --> 00:15:44,559
+Okay.
+
+234
+00:15:47,200 --> 00:15:51,799
+My question is going to be regarding Spring. So Spring, you
+
+235
+00:15:51,799 --> 00:15:57,000
+kind of feel that it has transcended the world framework.
+
+236
+00:15:57,320 --> 00:16:04,119
+So it's more like the whole ecosystem of tools and services
+
+237
+00:16:04,119 --> 00:16:07,760
+and libraries and cloud offerings. And there's a lot of
+
+238
+00:16:07,760 --> 00:16:13,840
+stuff regarding Spring. So can you, like, from beginner
+
+239
+00:16:13,840 --> 00:16:18,880
+perspective, explain to us the difference between Spring Boot
+
+240
+00:16:19,119 --> 00:16:22,919
+and Spring Framework? Like, what's in the whole ecosystem
+
+241
+00:16:22,919 --> 00:16:25,799
+that you're more excited about? And can you tell us a bit more
+
+242
+00:16:25,799 --> 00:16:26,200
+about that?
+
+243
+00:16:26,840 --> 00:16:30,799
+Yeah, while the long answer would be very, very accurate, I
+
+244
+00:16:30,799 --> 00:16:33,799
+would probably still forget quite a lot of things because as
+
+245
+00:16:33,799 --> 00:16:37,479
+you said, it is really a long list of features that the Spring
+
+246
+00:16:37,479 --> 00:16:42,679
+Framework offers. So if we just sum it up, we can say that the
+
+247
+00:16:42,679 --> 00:16:46,359
+Spring Framework has those functionality available and you
+
+248
+00:16:46,359 --> 00:16:49,080
+can use them, but there is a lot of boilerplate configuration
+
+249
+00:16:49,080 --> 00:16:53,320
+which you have to do. Whereas with the Spring Boot solution, a
+
+250
+00:16:53,320 --> 00:16:56,640
+lot of that boilerplate gets done to the auto-configuration
+
+251
+00:16:56,640 --> 00:17:00,000
+functionalities. So what that brings to developers is that
+
+252
+00:17:00,000 --> 00:17:05,160
+developers can start doing their business logic way sooner than
+
+253
+00:17:05,199 --> 00:17:06,359
+with the Spring Framework.
+
+254
+00:17:08,319 --> 00:17:15,239
+There's a Micronaut Quarkus. I think they promote themselves
+
+255
+00:17:15,239 --> 00:17:18,359
+that they're AOT ready, meaning that you compile all these
+
+256
+00:17:18,359 --> 00:17:21,040
+things in advance and that helps build native images and all
+
+257
+00:17:21,040 --> 00:17:25,920
+that. Is that still the case also with Spring Boot? Do you
+
+258
+00:17:25,920 --> 00:17:28,920
+use these technologies also there? I'm not sure if it's...
+
+259
+00:17:31,319 --> 00:17:34,839
+Well, to be honest, in the last year or so, I didn't give it a
+
+260
+00:17:34,839 --> 00:17:38,719
+go with the Spring Boot AOT compilation. But last year when
+
+261
+00:17:38,719 --> 00:17:41,920
+I did the analysis, I was comparing Quarkus against
+
+262
+00:17:41,920 --> 00:17:45,040
+Spring Boot. Spring Boot just wasn't there. But I know that
+
+263
+00:17:45,040 --> 00:17:47,839
+since then there was a lot of work done within the Spring Boot
+
+264
+00:17:48,719 --> 00:17:53,079
+ecosystem on this. And the bottom line one year ago was
+
+265
+00:17:53,079 --> 00:17:56,880
+that Quarkus is the clear winner for ahead-of-time compilation.
+
+266
+00:17:56,959 --> 00:18:00,040
+And that was mostly because Spring Boot dependencies just
+
+267
+00:18:00,040 --> 00:18:04,640
+weren't there up yet, at least for the stack that I was looking
+
+268
+00:18:04,640 --> 00:18:08,280
+for. Because I had a particular solution in mind that I needed
+
+269
+00:18:08,280 --> 00:18:11,680
+to deploy in a serverless environment and I wanted to do
+
+270
+00:18:11,719 --> 00:18:16,680
+native compilations for the quicker bootstrap times. But
+
+271
+00:18:16,880 --> 00:18:21,680
+yeah, as I said, that list of dependencies that are now being
+
+272
+00:18:21,680 --> 00:18:25,119
+supported by Spring Boot is being constantly updated. And I
+
+273
+00:18:25,119 --> 00:18:28,280
+would suggest to developers when they're starting to think about
+
+274
+00:18:28,319 --> 00:18:32,560
+going the Spring Boot AOT path, well, just check up that list
+
+275
+00:18:32,599 --> 00:18:34,880
+and see if that list fits your needs and you have all the
+
+276
+00:18:34,880 --> 00:18:38,319
+dependencies ready. Because otherwise, you're going to have
+
+277
+00:18:38,319 --> 00:18:42,280
+to do a lot of manual work and configurations. So enable AOT.
+
+278
+00:18:42,560 --> 00:18:47,640
+Okay, thank you for that. You guys all comfortable? You can
+
+279
+00:18:47,640 --> 00:18:50,199
+also drink water, so relax a bit.
+
+280
+00:18:50,560 --> 00:18:51,400
+I want a coffee, man.
+
+281
+00:18:51,439 --> 00:18:51,920
+Coffee.
+
+282
+00:18:52,439 --> 00:18:53,079
+Water stuff.
+
+283
+00:18:54,880 --> 00:18:58,880
+I'm going to go now into the next section of questions. And
+
+284
+00:18:58,880 --> 00:19:03,719
+I'm going to go to Roman, to you. My question is going to be,
+
+285
+00:19:05,359 --> 00:19:11,760
+you know, modern systems now going more towards, you know,
+
+286
+00:19:11,800 --> 00:19:17,160
+event-driven architecture, microservices, and we need to
+
+287
+00:19:17,160 --> 00:19:21,880
+then somehow connect these services together, etc. And my
+
+288
+00:19:21,880 --> 00:19:26,079
+question is, or like an open-ended question is, can you
+
+289
+00:19:26,079 --> 00:19:33,719
+give us some pointers, like how hard it is to use Micronaut in
+
+290
+00:19:33,719 --> 00:19:37,959
+microservices way? And like, how hard it is to couple these
+
+291
+00:19:37,959 --> 00:19:42,520
+things together with some broker like Kafka or something? Is this
+
+292
+00:19:42,520 --> 00:19:45,479
+part of the framework or do I need to reinvent things around
+
+293
+00:19:45,479 --> 00:19:47,239
+it? Can you tell us a bit more?
+
+294
+00:19:47,319 --> 00:19:52,280
+Actually, Micronaut fully supports declarative clients for
+
+295
+00:19:52,280 --> 00:19:55,560
+the Kafka and other messaging systems. So it's very easy to
+
+296
+00:19:55,560 --> 00:19:59,680
+implement, for example, just define interfaces, annotate with
+
+297
+00:19:59,719 --> 00:20:02,760
+topics which you are using, which you are wanted to receive,
+
+298
+00:20:02,760 --> 00:20:05,839
+for example, as a listener, and you will get messages from the
+
+299
+00:20:05,839 --> 00:20:10,599
+Kafka. And put into the configuration a few lines where
+
+300
+00:20:10,599 --> 00:20:14,040
+this Kafka server is located, and that's it. That's all what
+
+301
+00:20:14,040 --> 00:20:18,280
+you need to be able to receive messages. The same situation is
+
+302
+00:20:18,319 --> 00:20:22,479
+with producers. So we also support declarative producers,
+
+303
+00:20:22,479 --> 00:20:27,079
+and you just call it. Thankfully for the IoT compilation,
+
+304
+00:20:27,079 --> 00:20:31,079
+when you build your application, all this code is generated for
+
+305
+00:20:31,079 --> 00:20:35,160
+you. So you don't need to do anything about that. There is
+
+306
+00:20:35,160 --> 00:20:39,239
+a question if the event-driven architecture is the right
+
+307
+00:20:39,239 --> 00:20:43,040
+solution for coupling microservices, because it brings
+
+308
+00:20:43,040 --> 00:20:46,199
+some other challenges, how to handle all this, how to handle
+
+309
+00:20:46,199 --> 00:20:50,560
+transaction, what to do with this, that. Actually, I prefer
+
+310
+00:20:50,680 --> 00:20:54,160
+there are other event architectures as well. For
+
+311
+00:20:54,160 --> 00:20:58,319
+example, event sourcing is one of them. Event sourcing, I think
+
+312
+00:20:58,319 --> 00:21:02,319
+when you have one source of true, and just save events, save
+
+313
+00:21:02,640 --> 00:21:05,640
+events which happened in the past, and then recreate the state
+
+314
+00:21:05,640 --> 00:21:11,760
+of the object from that event. And that's perhaps a more
+
+315
+00:21:11,760 --> 00:21:15,239
+appropriate approach how to handle event-driven architecture.
+
+316
+00:21:16,199 --> 00:21:21,680
+Okay, thank you. It feels like maybe just maybe just one
+
+317
+00:21:21,680 --> 00:21:25,640
+comment. It feels too easy, you know, it's easy. But maybe just
+
+318
+00:21:25,640 --> 00:21:31,560
+comment about framework and IoT compilation. Maybe all this is
+
+319
+00:21:31,560 --> 00:21:35,760
+absolute, because Amazon, I think, has this crack
+
+320
+00:21:35,760 --> 00:21:40,400
+functionality, you know, when you just create an image from
+
+321
+00:21:40,400 --> 00:21:44,119
+the Java process, and you just recreate it from the end, it's
+
+322
+00:21:44,119 --> 00:21:46,880
+instantly, you know, it's it doesn't matter if it's run
+
+323
+00:21:46,880 --> 00:21:49,040
+Quarkus, Micronauts, Spring Boot, and...
+
+324
+00:21:49,800 --> 00:21:50,599
+But what happens with...
+
+325
+00:21:50,599 --> 00:21:52,959
+Actually, theoretically, it's very good. I don't know,
+
+326
+00:21:52,959 --> 00:21:54,199
+practically, because I didn't...
+
+327
+00:21:54,239 --> 00:21:57,479
+What happens with, if we go back to what Gavin said, what
+
+328
+00:21:57,479 --> 00:22:00,239
+happens with state? For example, you have a snapshot of, you
+
+329
+00:22:00,239 --> 00:22:01,160
+know, current time.
+
+330
+00:22:01,479 --> 00:22:07,839
+Yeah, actually, okay, a state is preserved. So you get the last
+
+331
+00:22:07,880 --> 00:22:11,800
+state when you finish with your application. So I don't know if
+
+332
+00:22:11,800 --> 00:22:15,479
+that's good or not. That depends on the situation. But it
+
+333
+00:22:15,479 --> 00:22:16,239
+looks promising.
+
+334
+00:22:16,319 --> 00:22:18,959
+So my colleagues who have reviewed this quite carefully
+
+335
+00:22:18,959 --> 00:22:19,920
+say not.
+
+336
+00:22:20,199 --> 00:22:23,400
+Really? Okay. I read about that.
+
+337
+00:22:23,400 --> 00:22:26,640
+I don't know, I'm passing on that item of information, but
+
+338
+00:22:26,640 --> 00:22:27,199
+they...
+
+339
+00:22:27,239 --> 00:22:27,800
+Sure, sure.
+
+340
+00:22:27,920 --> 00:22:30,119
+Right, Alex? Yeah. Yeah. They say not.
+
+341
+00:22:30,920 --> 00:22:36,880
+It's an experimental world. Thank you for your answer. I'll
+
+342
+00:22:36,880 --> 00:22:41,520
+go back to Gavin now. So Hibernate is now 20 plus years
+
+343
+00:22:41,520 --> 00:22:45,680
+old. Thanks for all the very hard work on that as well to you
+
+344
+00:22:45,680 --> 00:22:49,640
+and your colleagues. My question is still going to be related to
+
+345
+00:22:49,640 --> 00:22:54,560
+Quarkus more a bit. So is it today still a good idea to mix
+
+346
+00:22:54,560 --> 00:22:59,599
+Quarkus and Hibernate together? Do you guys, like, put a lot of
+
+347
+00:22:59,599 --> 00:23:03,560
+effort into making it as easy as possible? Like, how does this
+
+348
+00:23:03,839 --> 00:23:04,800
+chemistry work?
+
+349
+00:23:04,800 --> 00:23:06,400
+Right, right, right. I mean, it's a great question. You know,
+
+350
+00:23:06,400 --> 00:23:12,079
+like, when I got, you know, called, got the call to work on
+
+351
+00:23:12,119 --> 00:23:17,719
+Quarkus, you know, really, the thing that stood out for me and
+
+352
+00:23:17,719 --> 00:23:20,680
+why I'm, you know, not really doing data development on
+
+353
+00:23:20,680 --> 00:23:23,119
+Quarkus, but really came back to Hibernate was really the
+
+354
+00:23:23,119 --> 00:23:26,680
+realisation that Hibernate and ORM was still super important to
+
+355
+00:23:26,680 --> 00:23:30,839
+our, you know, developers on our platform. And the other
+
+356
+00:23:30,839 --> 00:23:36,359
+realisation was that this project was 20 years old and had
+
+357
+00:23:36,359 --> 00:23:39,520
+been very stable and that meant a lot of cruft, right? So, you
+
+358
+00:23:39,520 --> 00:23:45,000
+know, really, I mean, that was the question you just asked me
+
+359
+00:23:45,000 --> 00:23:46,800
+was a question I asked myself three years ago was, you know,
+
+360
+00:23:46,800 --> 00:23:49,839
+are we, you know, is this something that we can really
+
+361
+00:23:49,839 --> 00:23:53,000
+now, you know, it had been kind of like in a maintenance phase
+
+362
+00:23:53,000 --> 00:23:55,319
+as part of why, you know, as an underlying implementation of
+
+363
+00:23:55,319 --> 00:24:01,359
+JPA and, you know, Wildfly. And that was a question and really,
+
+364
+00:24:01,359 --> 00:24:04,119
+you know, we had to sit down and look at it and go, okay, you
+
+365
+00:24:04,199 --> 00:24:07,560
+know, we need to reinvent this because this is actually
+
+366
+00:24:07,560 --> 00:24:09,599
+critical to what we're doing with Quarkus. It's actually
+
+367
+00:24:09,599 --> 00:24:14,040
+really important. And the other side of this was that Quarkus,
+
+368
+00:24:14,040 --> 00:24:16,719
+you know, we're kind of late to the game a bit with Reactive,
+
+369
+00:24:16,719 --> 00:24:18,880
+but, you know, Reactive was, you know, an important thing they
+
+370
+00:24:18,880 --> 00:24:23,640
+wanted to be able to support in Quarkus. And, you know, nobody
+
+371
+00:24:23,640 --> 00:24:27,719
+had ever heard of a Reactive ORM, right? So we had to, you
+
+372
+00:24:27,719 --> 00:24:30,719
+know, make Hibernate Reactive. It was quite hard with such a
+
+373
+00:24:30,760 --> 00:24:35,479
+big code base, big old code base. But we did it. And so
+
+374
+00:24:35,479 --> 00:24:37,359
+that was a very, very interesting project. I mean, a
+
+375
+00:24:37,359 --> 00:24:39,599
+kind of unglamorous project going through and trying to
+
+376
+00:24:39,599 --> 00:24:43,959
+figure out how you can clean up all these APIs and fix all this
+
+377
+00:24:43,959 --> 00:24:48,959
+craft and kind of bug-like behaviors that had developed
+
+378
+00:24:48,959 --> 00:24:52,359
+over time and, you know, without breaking everything, you know,
+
+379
+00:24:52,359 --> 00:24:54,400
+every single program. Anyway.
+
+380
+00:24:55,839 --> 00:24:59,199
+So no, it's fine. I'm going to do a follow up on this question
+
+381
+00:24:59,199 --> 00:24:59,920
+and...
+
+382
+00:25:00,000 --> 00:25:08,480
+In this conference, we heard talks about this Project Loom, like you go to, I went to a
+
+383
+00:25:08,480 --> 00:25:13,080
+Scala conference, give a talk there, and there was like, you know, people in Scala world
+
+384
+00:25:13,080 --> 00:25:15,120
+are excited about Project Loom.
+
+385
+00:25:15,120 --> 00:25:21,920
+So everywhere to every conference you go, green threads coming in Java, it's a revolution.
+
+386
+00:25:21,920 --> 00:25:30,160
+And it's going to radically simplify, possibly even eliminate the use of reactive patterns
+
+387
+00:25:30,160 --> 00:25:33,439
+in the codebases.
+
+388
+00:25:33,439 --> 00:25:39,919
+That I think is going to be challenging on its own for Harbinate, for Quarkus as well,
+
+389
+00:25:39,919 --> 00:25:40,919
+right?
+
+390
+00:25:40,919 --> 00:25:43,320
+Are you guys excited about it or scared?
+
+391
+00:25:43,320 --> 00:25:47,680
+No, I mean, I guess I got to agree with the Scala guys then.
+
+392
+00:25:47,680 --> 00:25:48,680
+It's very exciting.
+
+393
+00:25:48,680 --> 00:25:53,000
+It's very interesting.
+
+394
+00:25:53,000 --> 00:25:57,959
+Again, we need to be careful about the hype, you know, I was just looking at a website
+
+395
+00:25:57,959 --> 00:26:02,200
+which was saying, oh, this is going to mean your server can scale to millions of threads,
+
+396
+00:26:02,200 --> 00:26:03,200
+right?
+
+397
+00:26:03,200 --> 00:26:04,199
+Yeah.
+
+398
+00:26:04,199 --> 00:26:07,919
+And once again, you know, I want to hammer on this fact that, you know, careful, right?
+
+399
+00:26:07,919 --> 00:26:08,919
+Be realistic.
+
+400
+00:26:08,919 --> 00:26:09,919
+Yeah, be realistic here.
+
+401
+00:26:09,919 --> 00:26:14,080
+You know, one of the things we've run into with reactive is users coming on and wanting
+
+402
+00:26:14,080 --> 00:26:16,959
+to use and saying, oh, everything runs on a single thread.
+
+403
+00:26:16,959 --> 00:26:21,160
+So I can fork my reactive stream and hit the database in 20 different threads and it's
+
+404
+00:26:21,160 --> 00:26:22,279
+going to be faster.
+
+405
+00:26:22,279 --> 00:26:24,480
+And no, you can't do that, right?
+
+406
+00:26:24,480 --> 00:26:26,959
+Reactive streams are a kind of thread, okay?
+
+407
+00:26:26,959 --> 00:26:30,720
+Loom virtual threads are a kind of thread, all right?
+
+408
+00:26:30,720 --> 00:26:35,400
+If you have shared mutable state that is shared between threads, it doesn't matter what kind
+
+409
+00:26:35,400 --> 00:26:36,919
+of thread they are, okay?
+
+410
+00:26:36,919 --> 00:26:38,760
+Thread doesn't mean native OS thread.
+
+411
+00:26:38,760 --> 00:26:41,320
+It didn't mean that when the word thread was coined, okay?
+
+412
+00:26:41,320 --> 00:26:43,080
+And it shouldn't mean that now, all right?
+
+413
+00:26:43,080 --> 00:26:47,599
+So if you have a multithreaded program, multiple reactive streams, multiple virtual threads,
+
+414
+00:26:47,599 --> 00:26:53,160
+whatever they are, and you share a state between them, then you need to synchronize access
+
+415
+00:26:53,160 --> 00:26:54,160
+to that state.
+
+416
+00:26:54,160 --> 00:26:55,160
+You need semaphores.
+
+417
+00:26:55,160 --> 00:26:58,680
+You need whatever it is, whatever concurrency management pattern you have, all right?
+
+418
+00:26:58,680 --> 00:27:04,120
+And that means, you know, the idea, oh, you know, before I was limited to running a thousand
+
+419
+00:27:04,120 --> 00:27:11,039
+threads and now I'm just going to run a million and I'm going to get that for free is, I would
+
+420
+00:27:11,039 --> 00:27:12,960
+argue, not right.
+
+421
+00:27:12,960 --> 00:27:15,839
+You're going to have to think carefully about what the programming models are.
+
+422
+00:27:15,839 --> 00:27:21,520
+We've seen that people immediately start abusing reactive streams in terms of data access,
+
+423
+00:27:21,520 --> 00:27:22,520
+okay?
+
+424
+00:27:22,520 --> 00:27:26,800
+That's something, that's like this crash between these two, my world and the world of people
+
+425
+00:27:26,800 --> 00:27:29,960
+who are thinking about stateless services.
+
+426
+00:27:29,960 --> 00:27:36,000
+And immediately they started abusing the model and not understanding that, no, not everything
+
+427
+00:27:36,000 --> 00:27:40,399
+is stateless, particularly, you know, data access is not stateless by nature.
+
+428
+00:27:40,919 --> 00:27:44,199
+So with Loom, there's lots of interesting questions, you know, does it mean that reactive
+
+429
+00:27:44,199 --> 00:27:45,199
+is over?
+
+430
+00:27:45,199 --> 00:27:46,199
+Unclear.
+
+431
+00:27:46,199 --> 00:27:48,240
+I don't know the answer to that.
+
+432
+00:27:48,240 --> 00:27:50,240
+And we don't know the answer to that.
+
+433
+00:27:50,240 --> 00:27:51,960
+We're talking about a lot.
+
+434
+00:27:51,960 --> 00:27:57,279
+You know, some of my colleagues think that the JDBC drivers, for example, will catch
+
+435
+00:27:57,279 --> 00:27:59,520
+up really quickly and then we're good, all right?
+
+436
+00:27:59,520 --> 00:28:01,880
+Some of my colleagues say, well, maybe not, right?
+
+437
+00:28:01,880 --> 00:28:08,279
+And so, you know, maybe there's still a place for these replacement, for the Vertex reactive
+
+438
+00:28:08,279 --> 00:28:11,119
+database clients and stuff in all this, right?
+
+439
+00:28:11,119 --> 00:28:15,039
+You know, perhaps we'll be using Loom, but then we'll switch over to reactive at some
+
+440
+00:28:15,039 --> 00:28:16,039
+point.
+
+441
+00:28:16,039 --> 00:28:18,360
+I'm not going to, I don't want to go too far and start saying stuff that we're thinking
+
+442
+00:28:18,360 --> 00:28:20,039
+about, right?
+
+443
+00:28:20,039 --> 00:28:23,839
+So it's really interesting and there's a lot of opportunities for us there, but we have
+
+444
+00:28:23,839 --> 00:28:29,720
+to like really, really do a lot of testing and think hard about programming models.
+
+445
+00:28:29,720 --> 00:28:30,720
+And it's very interesting.
+
+446
+00:28:30,720 --> 00:28:31,720
+Super interesting.
+
+447
+00:28:31,720 --> 00:28:33,800
+Just a question.
+
+448
+00:28:33,800 --> 00:28:40,839
+You guys, your frameworks, do they depend on Netty or not?
+
+449
+00:28:40,839 --> 00:28:41,839
+Can you...
+
+450
+00:28:41,839 --> 00:28:43,720
+You can make them depend on Netty.
+
+451
+00:28:43,720 --> 00:28:45,119
+You can make them depend, but...
+
+452
+00:28:45,119 --> 00:28:46,119
+Actually not.
+
+453
+00:28:46,119 --> 00:28:48,440
+We can, we can choose the engine, the web engine.
+
+454
+00:28:48,440 --> 00:28:50,800
+So we can run it on the Tomcat.
+
+455
+00:28:50,800 --> 00:28:54,559
+We can even deploy it to the web project server or something like that.
+
+456
+00:28:54,559 --> 00:28:55,559
+Okay.
+
+457
+00:28:55,559 --> 00:28:56,559
+You always have the option.
+
+458
+00:28:56,559 --> 00:28:57,559
+It's the same for SpringBoot.
+
+459
+00:28:57,559 --> 00:28:58,559
+I tested with SpringBoot.
+
+460
+00:28:58,559 --> 00:28:59,559
+It works.
+
+461
+00:28:59,559 --> 00:29:00,559
+Yeah.
+
+462
+00:29:00,559 --> 00:29:01,559
+I think we're done by the way.
+
+463
+00:29:01,600 --> 00:29:02,600
+Yeah.
+
+464
+00:29:02,600 --> 00:29:03,600
+Okay, cool.
+
+465
+00:29:03,600 --> 00:29:09,279
+So the Netty is still the framework underneath the frameworks that you guys use on a daily
+
+466
+00:29:09,279 --> 00:29:10,279
+basis.
+
+467
+00:29:10,279 --> 00:29:11,279
+It's the fastest way to...
+
+468
+00:29:11,279 --> 00:29:12,279
+Still.
+
+469
+00:29:12,279 --> 00:29:13,279
+Okay.
+
+470
+00:29:13,279 --> 00:29:14,279
+Cool.
+
+471
+00:29:14,279 --> 00:29:15,279
+That was an easy question.
+
+472
+00:29:15,279 --> 00:29:16,279
+Okay.
+
+473
+00:29:16,279 --> 00:29:28,359
+I have the next round of more questions focused more towards like bringing these frameworks
+
+474
+00:29:28,359 --> 00:29:34,480
+to the hands of let's say newcomers or beginners or how to make these things more accessible
+
+475
+00:29:34,480 --> 00:29:38,359
+to the new generation of the engineers, if you want.
+
+476
+00:29:38,359 --> 00:29:41,559
+And I'll start with Roman with a question for you.
+
+477
+00:29:41,559 --> 00:29:48,440
+For example, Micronaut comes out of the box with open API, Swagger support, AOT compilation,
+
+478
+00:29:48,440 --> 00:29:49,440
+aspect oriented API.
+
+479
+00:29:49,440 --> 00:29:50,440
+Yeah.
+
+480
+00:29:50,440 --> 00:29:56,839
+Just these are words that I got from the webpage and it's a polyglot, et cetera.
+
+481
+00:29:56,839 --> 00:30:02,959
+The question here I have is like, how hard it is to go from, for example, the demo that
+
+482
+00:30:02,959 --> 00:30:07,720
+you had on today on your presentation to actual production environment?
+
+483
+00:30:07,720 --> 00:30:14,720
+Can you like, you have to do a lot more work than just like, does it help the framework?
+
+484
+00:30:14,720 --> 00:30:15,720
+Actually no.
+
+485
+00:30:15,720 --> 00:30:24,480
+Gradle plugin which comes with Micronaut supports all kinds of building deployment images.
+
+486
+00:30:24,480 --> 00:30:31,040
+So you can build native image, you can produce Fedjar, you can prepare Docker, you can deploy
+
+487
+00:30:31,040 --> 00:30:33,920
+this Docker to the registry.
+
+488
+00:30:33,920 --> 00:30:38,600
+So everything is actually quite easy to achieve.
+
+489
+00:30:38,600 --> 00:30:46,920
+Then the problem, how to go to the production is more, I think, what is your process?
+
+490
+00:30:46,920 --> 00:30:50,040
+How your code is testing?
+
+491
+00:30:50,040 --> 00:30:53,640
+From what stages to what stages this goes, you know, and that's more important than how
+
+492
+00:30:53,640 --> 00:30:54,640
+to prepare just binary.
+
+493
+00:30:54,640 --> 00:30:55,640
+Binary is easy.
+
+494
+00:30:55,640 --> 00:31:01,040
+Let's just run the script and that's it.
+
+495
+00:31:01,040 --> 00:31:07,799
+But you also offer support for different ways of injecting configuration, flags, et cetera
+
+496
+00:31:07,799 --> 00:31:08,799
+as well.
+
+497
+00:31:08,799 --> 00:31:09,799
+Correct.
+
+498
+00:31:09,799 --> 00:31:10,799
+Correct.
+
+499
+00:31:10,799 --> 00:31:11,799
+You put a lot of effort into that.
+
+500
+00:31:11,799 --> 00:31:12,799
+At least that's how I feel.
+
+501
+00:31:12,799 --> 00:31:19,720
+With simple definition of Micronaut environments, you said, for example, test, a whole different
+
+502
+00:31:19,799 --> 00:31:23,799
+stack of configuration, application configuration can be used.
+
+503
+00:31:23,799 --> 00:31:30,359
+So it's easy to set, for example, even it was deducted from the environment.
+
+504
+00:31:30,359 --> 00:31:38,279
+So when you deploy to the GCP, it automatically, if it exists, application-gcp is used.
+
+505
+00:31:38,279 --> 00:31:43,880
+So now I think in the new version it's not that anymore and you have to specifically
+
+506
+00:31:43,880 --> 00:31:46,600
+define in what environment it will run.
+
+507
+00:31:46,600 --> 00:31:49,920
+So from that, from technical perspective, it's easy.
+
+508
+00:31:49,920 --> 00:31:56,640
+I said what I mean is more hard is how to define the deploying process.
+
+509
+00:31:56,640 --> 00:31:57,640
+Okay.
+
+510
+00:31:57,640 --> 00:32:05,359
+A question for you, Etienne, then Spring Boot has a very active community and you also have
+
+511
+00:32:05,359 --> 00:32:11,359
+courses, certification, academies also written on the page.
+
+512
+00:32:11,359 --> 00:32:15,600
+There is a lot of resources around Spring.
+
+513
+00:32:15,600 --> 00:32:19,959
+And would you recommend people doing any of that?
+
+514
+00:32:19,959 --> 00:32:20,959
+Did you try it?
+
+515
+00:32:20,959 --> 00:32:25,720
+You said that you also work with people, you try to introduce them to frameworks with juniors.
+
+516
+00:32:25,720 --> 00:32:27,279
+Do you use any of these resources?
+
+517
+00:32:27,279 --> 00:32:29,880
+Do you contribute to these resources?
+
+518
+00:32:29,880 --> 00:32:35,279
+Is that the best way to learn or YouTube videos or something?
+
+519
+00:32:35,279 --> 00:32:41,279
+Learning is a core skill that every developer should really work on it because learning
+
+520
+00:32:41,279 --> 00:32:46,040
+on how to learn new things is something that you master through your whole life.
+
+521
+00:32:46,040 --> 00:32:49,940
+And every person has different requirements on how to learn new things.
+
+522
+00:32:49,940 --> 00:32:51,600
+For some, it might be YouTube videos.
+
+523
+00:32:51,600 --> 00:32:53,720
+For some, it might be reading a book.
+
+524
+00:32:53,720 --> 00:32:57,359
+For some, might be attending a seminar or two in real life.
+
+525
+00:32:57,359 --> 00:33:01,839
+Now, whereas the Spring Boot Academy, no, I didn't give it a go.
+
+526
+00:33:01,839 --> 00:33:08,079
+And yes, I suggest to people to use online courses and YouTube videos or similar things
+
+527
+00:33:08,079 --> 00:33:10,279
+to get a kickstart on their knowledge.
+
+528
+00:33:10,279 --> 00:33:16,160
+So they at least get acquainted with the system, what is going on, a few concepts, the terminology.
+
+529
+00:33:16,160 --> 00:33:19,040
+But that is only a baseline knowledge.
+
+530
+00:33:19,040 --> 00:33:25,519
+From there, engineers have to build on, they have to get their hands on code or the keyboard
+
+531
+00:33:25,519 --> 00:33:30,480
+and they have to start writing code to get a feeling about the framework, maybe write
+
+532
+00:33:30,559 --> 00:33:36,000
+a unit test, an integration test, and really understand what are they doing and not copy
+
+533
+00:33:36,000 --> 00:33:39,359
+things just from chat GPT or similar stuff.
+
+534
+00:33:39,359 --> 00:33:46,039
+Because while that might get them through a few problems, at the end of the day, they
+
+535
+00:33:46,039 --> 00:33:52,559
+are engineers and they have to build chat GPT and not use it.
+
+536
+00:33:52,559 --> 00:33:55,200
+Thank you.
+
+537
+00:33:55,200 --> 00:33:56,760
+You're prepared for this answer, right?
+
+538
+00:33:56,760 --> 00:33:59,760
+You can sense it in your voice.
+
+539
+00:33:59,760 --> 00:34:04,479
+I have a question then for Gavi now.
+
+540
+00:34:04,479 --> 00:34:10,200
+The question is more like how to work with community, I guess, but like how can engineers
+
+541
+00:34:10,200 --> 00:34:15,640
+contribute to a framework such as Quarkus or Quarkus specifically if you want?
+
+542
+00:34:15,640 --> 00:34:23,159
+And can you give us a few practical tips where you think that people can contribute the most
+
+543
+00:34:23,159 --> 00:34:31,640
+and how can engineers that, for example, now use Quarkus be useful to Quarkus developers
+
+544
+00:34:31,640 --> 00:34:32,640
+or engineers?
+
+545
+00:34:32,640 --> 00:34:33,640
+Yeah.
+
+546
+00:34:33,640 --> 00:34:39,320
+I don't know how to answer this question because it's something I've often wrestled with.
+
+547
+00:34:39,320 --> 00:34:40,840
+What kind of help would help you?
+
+548
+00:34:40,840 --> 00:34:41,840
+Yeah.
+
+549
+00:34:41,840 --> 00:34:45,440
+I mean, like, you know, and this, I guess, because the thing is like the thing that would
+
+550
+00:34:45,440 --> 00:34:52,719
+really help is if the people who are core developing the framework, whatever it is,
+
+551
+00:34:52,719 --> 00:35:02,919
+the library, had time to focus their energies on strategically important functionality and
+
+552
+00:35:02,919 --> 00:35:07,520
+weren't absolutely overcome by a parade of small, minor bugs, right?
+
+553
+00:35:07,520 --> 00:35:12,239
+So really, you know, if you want to, you know, if you're a contributor and you want to like
+
+554
+00:35:12,239 --> 00:35:19,440
+help this framework advance, like the kind of work that would most help is completely
+
+555
+00:35:19,440 --> 00:35:22,880
+unglamorous bug fixing, right?
+
+556
+00:35:22,880 --> 00:35:28,280
+The truth is that for obvious reasons, very few developers are really that motivated to
+
+557
+00:35:28,280 --> 00:35:31,919
+contribute unglamorous bug fixes.
+
+558
+00:35:31,919 --> 00:35:35,280
+And so instead, what happens is that people come along and they want to contribute some
+
+559
+00:35:35,280 --> 00:35:37,400
+major piece of functionality.
+
+560
+00:35:37,400 --> 00:35:41,239
+And that at times is great, all right?
+
+561
+00:35:41,239 --> 00:35:50,559
+But, you know, a framework, a library has a vision, a philosophy behind it, even if
+
+562
+00:35:50,559 --> 00:36:01,000
+that sometimes is not necessarily that obvious to, you know, there is always a set of belief
+
+563
+00:36:01,000 --> 00:36:02,159
+and ideology behind it.
+
+564
+00:36:02,159 --> 00:36:04,840
+That was the word I was looking for.
+
+565
+00:36:04,840 --> 00:36:09,039
+And so very often we have people come in and rather than posing a problem, they propose
+
+566
+00:36:09,039 --> 00:36:10,799
+a solution, right?
+
+567
+00:36:10,799 --> 00:36:13,320
+And the solution goes against the ideology, okay?
+
+568
+00:36:13,320 --> 00:36:21,280
+And it is very hard for me, as, you know, someone, you know, leading or whatever an
+
+569
+00:36:21,280 --> 00:36:26,159
+open source project, it is very hard for maintaining, I think that's the right word, it is very
+
+570
+00:36:26,159 --> 00:36:31,159
+hard for me to not just kind of knock that on the head as, no, that's wrong for all these
+
+571
+00:36:31,159 --> 00:36:32,159
+reasons.
+
+572
+00:36:32,159 --> 00:36:35,400
+I mean, you do have to try and explain to people why that's not going to fly, not what
+
+573
+00:36:35,400 --> 00:36:38,000
+we're going to do.
+
+574
+00:36:38,000 --> 00:36:41,400
+And that rarely goes over well, right?
+
+575
+00:36:41,400 --> 00:36:44,760
+So what I try to, you know, what I often try to do is kind of explore, okay, what is it,
+
+576
+00:36:44,760 --> 00:36:48,159
+you know, what was the actual real problem you were trying to solve?
+
+577
+00:36:48,159 --> 00:36:51,400
+The number of times, you know, in my life as a software developer that people come to
+
+578
+00:36:51,400 --> 00:36:54,919
+me with a solution instead of coming to me with a problem, you know, and I have to kind
+
+579
+00:36:54,919 --> 00:36:59,719
+of drill down and by the time I actually get and discover what their actual problem was,
+
+580
+00:36:59,719 --> 00:37:04,000
+like they're, they've had it with me because I've challenged all their ideas and they're
+
+581
+00:37:04,000 --> 00:37:06,159
+upset with me, right?
+
+582
+00:37:06,159 --> 00:37:11,280
+You know, and so, you know, like I often feel like, you know, what I want to know is
+
+583
+00:37:11,280 --> 00:37:22,200
+what are your actual problems, you know, like instead of, you know, like, you know, understand
+
+584
+00:37:22,200 --> 00:37:26,280
+your problem better and then come and, you know, and then talk to us about the problem
+
+585
+00:37:26,280 --> 00:37:29,320
+and you'll find when you come to us with problems, we're like super interested to know about
+
+586
+00:37:29,320 --> 00:37:33,239
+new problems if we didn't know the problem before and then, you know, maybe we can work
+
+587
+00:37:33,280 --> 00:37:38,200
+with you to design a solution which is coherent with the ideology and which fits with the
+
+588
+00:37:38,200 --> 00:37:43,239
+other features and which, you know, can elegantly integrate with other things.
+
+589
+00:37:43,239 --> 00:37:45,000
+Okay, I'll stop talking.
+
+590
+00:37:45,000 --> 00:37:47,479
+So, no, that's nice.
+
+591
+00:37:47,479 --> 00:37:52,760
+So, people should bring problems to you and they should fix bugs essentially.
+
+592
+00:37:52,760 --> 00:37:53,760
+That's the...
+
+593
+00:37:56,760 --> 00:37:58,039
+I mean, fixing bugs would be great.
+
+594
+00:37:58,039 --> 00:38:02,679
+Like, you laugh, but like, that's actually what your average open source project needs
+
+595
+00:38:02,679 --> 00:38:06,760
+is people doing unglamorous, fixing shitty little bugs, right?
+
+596
+00:38:06,760 --> 00:38:07,760
+Like I'm sorry.
+
+597
+00:38:07,760 --> 00:38:08,760
+Yeah.
+
+598
+00:38:08,760 --> 00:38:09,760
+That's...
+
+599
+00:38:09,760 --> 00:38:11,159
+What would help most?
+
+600
+00:38:11,159 --> 00:38:14,039
+That's how they would also learn the framework and understand...
+
+601
+00:38:14,039 --> 00:38:15,039
+Yes.
+
+602
+00:38:15,039 --> 00:38:16,039
+And learn how...
+
+603
+00:38:16,039 --> 00:38:17,039
+Yes, right.
+
+604
+00:38:17,039 --> 00:38:18,039
+And learn the ideology.
+
+605
+00:38:18,039 --> 00:38:19,039
+Learn the...
+
+606
+00:38:19,039 --> 00:38:20,039
+Solving bugs is hard.
+
+607
+00:38:20,039 --> 00:38:21,039
+Yes.
+
+608
+00:38:21,039 --> 00:38:22,039
+Solving bugs is hard.
+
+609
+00:38:22,039 --> 00:38:23,880
+So, people get out of them quite a lot.
+
+610
+00:38:23,880 --> 00:38:30,760
+People should also, like, try to put more effort into reporting bugs, like put more
+
+611
+00:38:30,840 --> 00:38:31,840
+context into...
+
+612
+00:38:31,840 --> 00:38:32,840
+Yes.
+
+613
+00:38:32,840 --> 00:38:33,840
+Be friendly.
+
+614
+00:38:33,840 --> 00:38:34,840
+Yeah.
+
+615
+00:38:34,840 --> 00:38:35,840
+Respect people's time.
+
+616
+00:38:35,840 --> 00:38:39,880
+People on the other side are sometimes paid, sometimes not paid to, yeah.
+
+617
+00:38:39,880 --> 00:38:40,880
+Yeah, yeah, yeah.
+
+618
+00:38:40,880 --> 00:38:41,880
+Yeah.
+
+619
+00:38:41,880 --> 00:38:42,880
+The quality of...
+
+620
+00:38:42,880 --> 00:38:49,479
+The quality of how you report the issue which you're facing makes an enormous difference
+
+621
+00:38:49,479 --> 00:38:51,280
+to how quickly you will have a solution.
+
+622
+00:38:51,280 --> 00:38:57,359
+And really, folks, probably not you guys in this room, but the typical quality of a bug
+
+623
+00:38:57,359 --> 00:39:01,440
+report I typically receive is abysmal, all right?
+
+624
+00:39:01,440 --> 00:39:02,440
+Abysmal.
+
+625
+00:39:02,440 --> 00:39:05,440
+Wait, what is that word?
+
+626
+00:39:05,440 --> 00:39:06,440
+Abysmal.
+
+627
+00:39:06,440 --> 00:39:07,440
+Bad.
+
+628
+00:39:07,440 --> 00:39:12,640
+Well, these are more or less my, like...
+
+629
+00:39:12,640 --> 00:39:16,039
+These are the questions that I prepared for you guys, more or less.
+
+630
+00:39:16,039 --> 00:39:19,840
+But I still have, like, the last round of questions for you.
+
+631
+00:39:19,840 --> 00:39:26,599
+My question is, like, can you name, like, one of the features that excites you the most
+
+632
+00:39:26,840 --> 00:39:28,919
+in Java ecosystem and such, right?
+
+633
+00:39:28,919 --> 00:39:34,320
+So what are you really looking forward in Java now and in the future, right?
+
+634
+00:39:34,320 --> 00:39:35,320
+What excites you?
+
+635
+00:39:35,320 --> 00:39:36,320
+So please, Roman.
+
+636
+00:39:36,320 --> 00:39:40,119
+This is a tough question.
+
+637
+00:39:40,119 --> 00:39:41,119
+What excites me?
+
+638
+00:39:41,119 --> 00:39:46,719
+As I said, I really, really love domain-driven design.
+
+639
+00:39:46,719 --> 00:39:53,919
+And so environment, event sourcing and that kind of things, actually, I'm working on to
+
+640
+00:39:53,919 --> 00:39:58,679
+provide the component for the micro-node to be part...
+
+641
+00:39:58,679 --> 00:40:02,039
+For the event sourcing to be part of the framework.
+
+642
+00:40:02,039 --> 00:40:04,840
+But I'm in the middle of the work, so still...
+
+643
+00:40:04,840 --> 00:40:08,479
+So that's my, actually, exciting idea.
+
+644
+00:40:08,479 --> 00:40:09,479
+Absolutely.
+
+645
+00:40:09,479 --> 00:40:13,200
+Can I ask you a question, Sam?
+
+646
+00:40:13,200 --> 00:40:14,200
+Yeah.
+
+647
+00:40:14,200 --> 00:40:19,119
+But we already touched my favorite thing of Java in the upcoming years, months, and that
+
+648
+00:40:19,119 --> 00:40:20,559
+is Project Loom.
+
+649
+00:40:20,559 --> 00:40:26,119
+I'm hoping that this will at least severely decrease the complexity that we have to do
+
+650
+00:40:26,119 --> 00:40:29,520
+today with the current threading model in JVMs.
+
+651
+00:40:29,520 --> 00:40:30,760
+Okay.
+
+652
+00:40:30,760 --> 00:40:34,400
+And Gavin, can I ask you the same question?
+
+653
+00:40:34,400 --> 00:40:36,219
+What's the question?
+
+654
+00:40:36,219 --> 00:40:38,880
+What excites you about Project Valhalla?
+
+655
+00:40:38,880 --> 00:40:40,679
+What excites me about Project Valhalla?
+
+656
+00:40:40,679 --> 00:40:41,679
+Valhalla.
+
+657
+00:40:41,679 --> 00:40:43,679
+That's a tricky question, sorry.
+
+658
+00:40:43,679 --> 00:40:44,679
+Yeah.
+
+659
+00:40:44,679 --> 00:40:47,679
+Oh, well, that's pretty cool.
+
+660
+00:40:47,679 --> 00:40:50,599
+I don't really like how they...
+
+661
+00:40:50,599 --> 00:40:51,599
+I don't look...
+
+662
+00:40:51,599 --> 00:40:53,159
+I haven't looked at the most recent proposals.
+
+663
+00:40:53,159 --> 00:40:56,440
+There were some things that I didn't like about the proposal from years and years ago,
+
+664
+00:40:56,440 --> 00:40:57,440
+but Valhalla.
+
+665
+00:40:57,440 --> 00:40:58,440
+Yeah.
+
+666
+00:40:58,440 --> 00:40:59,440
+It's a crazy...
+
+667
+00:40:59,440 --> 00:41:00,440
+Like the value-touch thing.
+
+668
+00:41:00,440 --> 00:41:01,440
+I don't know.
+
+669
+00:41:01,440 --> 00:41:02,440
+I'm a Scala engineer.
+
+670
+00:41:02,440 --> 00:41:03,440
+I don't know what you guys are doing these days, but...
+
+671
+00:41:03,440 --> 00:41:04,440
+Yeah.
+
+672
+00:41:04,440 --> 00:41:05,440
+No, no.
+
+673
+00:41:05,440 --> 00:41:06,440
+I mean, it's good.
+
+674
+00:41:06,440 --> 00:41:07,440
+I mean, yeah.
+
+675
+00:41:07,440 --> 00:41:08,440
+No, no.
+
+676
+00:41:08,440 --> 00:41:09,440
+I mean, I think it's great, right?
+
+677
+00:41:09,440 --> 00:41:10,440
+The names are really catchy.
+
+678
+00:41:10,440 --> 00:41:11,440
+Valhalla, Loom, Growl.
+
+679
+00:41:11,440 --> 00:41:12,799
+Like, the name is cool.
+
+680
+00:41:12,799 --> 00:41:16,919
+It's absolutely true that one of the, you know, like one of the critical things that
+
+681
+00:41:16,919 --> 00:41:23,640
+limits your options with respect to implementing some kinds of algorithms on Java is that,
+
+682
+00:41:23,640 --> 00:41:26,640
+you know, every object requires garbage collection, right?
+
+683
+00:41:26,640 --> 00:41:31,640
+So, I mean, I think value types are like super important, but I haven't looked at the spec
+
+684
+00:41:31,640 --> 00:41:34,640
+for probably years and years and years.
+
+685
+00:41:34,640 --> 00:41:35,640
+Okay.
+
+686
+00:41:35,640 --> 00:41:36,640
+Okay.
+
+687
+00:41:36,640 --> 00:41:37,640
+That was a tricky question.
+
+688
+00:41:37,640 --> 00:41:42,799
+Not good for my site, but still, like, what are you most excited about the Java in the
+
+689
+00:41:42,799 --> 00:41:44,960
+next couple of years?
+
+690
+00:41:44,960 --> 00:41:45,960
+What excites you?
+
+691
+00:41:46,000 --> 00:41:48,000
+What excites me in Java?
+
+692
+00:41:50,000 --> 00:41:51,000
+Not by...
+
+693
+00:41:51,000 --> 00:41:52,000
+Look, man.
+
+694
+00:41:52,000 --> 00:41:57,500
+You realize I'm, like, going to be turning 50 and, like, it's pretty hard for a 50-year-old
+
+695
+00:41:57,500 --> 00:41:59,000
+man to be excited.
+
+696
+00:42:06,000 --> 00:42:09,000
+I did that.
+
+697
+00:42:09,040 --> 00:42:17,040
+I definitely did that to myself.
+
+698
+00:42:17,040 --> 00:42:24,040
+Well, we're now kind of, like, ending our slot here and our time, so I'm going to do
+
+699
+00:42:24,040 --> 00:42:25,359
+the closing remarks now.
+
+700
+00:42:25,359 --> 00:42:32,599
+So I would really like to thank first the MakeIT organizers and sponsors, and then I
+
+701
+00:42:32,599 --> 00:42:40,760
+would like to also thank the sponsors and Patreons and supporters of our podcast, Ogrodie.
+
+702
+00:42:40,760 --> 00:42:42,079
+And I would like to thank you, Gavin.
+
+703
+00:42:42,079 --> 00:42:48,040
+I would like to thank you, Roman, and I would like to thank you, Etienne, for your time.
+
+704
+00:42:48,040 --> 00:42:53,599
+We're going to put links to your profiles in the notes, and, yeah, thanks, everybody,
+
+705
+00:42:53,599 --> 00:42:56,599
+for listening, and thanks for being nice citizens, and thank you.
+
+706
+00:42:56,599 --> 00:42:58,599
+Thank you for having us.
+
+707
+00:43:02,599 --> 00:43:03,599
+Thank you.
+
+708
+00:43:03,599 --> 00:43:04,599
+Thank you.
+
+709
+00:43:04,599 --> 00:43:04,599

@@ -1,0 +1,7983 @@
+1
+00:00:00,000 --> 00:00:10,460
+Muzika
+
+2
+00:00:10,460 --> 00:00:14,860
+Lijepo pozdravljeni u novim epizodima u Grodje
+
+3
+00:00:14,860 --> 00:00:18,080
+To je zdaj že 20. epizoda
+
+4
+00:00:18,080 --> 00:00:20,080
+21. epizoda
+
+5
+00:00:20,080 --> 00:00:22,740
+Druga epizoda s videopotporom
+
+6
+00:00:22,740 --> 00:00:25,000
+Znači prvo očitaješ da je bio eksperiment
+
+7
+00:00:25,000 --> 00:00:29,020
+Prvo je bio eksperiment, ali bila je toliko dobra da nije bio ravno čist eksperiment
+
+8
+00:00:29,900 --> 00:00:31,500
+Tako da, danes bomo
+
+9
+00:00:31,500 --> 00:00:34,099
+Probali zdaj uspeljati malo z videom vse en
+
+10
+00:00:34,099 --> 00:00:38,779
+Pa vse en bomo spuštljivi do naših korodijensa
+
+11
+00:00:38,779 --> 00:00:42,139
+Tudi na zvoku, tako da spuštujemo tudi to
+
+12
+00:00:42,139 --> 00:00:45,619
+Danes je z nami nov gost
+
+13
+00:00:45,619 --> 00:00:47,619
+Dr. Cergol
+
+14
+00:00:47,619 --> 00:00:51,860
+Govorili bomo pa o umetni inteligenciji
+
+15
+00:00:51,860 --> 00:00:55,459
+Umetni inteligenciji iz perspektive inženiringa
+
+16
+00:00:55,459 --> 00:00:58,180
+Poskušali bomo malo
+
+17
+00:00:58,340 --> 00:01:02,220
+Id globle v to, kako umetna inteligenca spremenja
+
+18
+00:01:02,220 --> 00:01:04,620
+Naš svet, kako spremenja kladijet
+
+19
+00:01:04,620 --> 00:01:06,620
+Kako bomo službe zagubili
+
+20
+00:01:06,620 --> 00:01:08,620
+Pogovarjali smo malo o tem
+
+21
+00:01:08,620 --> 00:01:11,660
+Teh temah, ki so povezani s tem, več ne bom
+
+22
+00:01:11,660 --> 00:01:14,940
+Ker potem Andraža ni všeč, če je manj praveč skritirana
+
+23
+00:01:14,940 --> 00:01:18,620
+Mej, pa je problem, da pač ti naprej poveš ful enih stvari, a ne
+
+24
+00:01:18,620 --> 00:01:24,699
+In pa so mogoče poslušalci, slež gledalci razočareni, ker peč z teh stvari se ne bomo dotakani, ker nam bo časa prezmanjka
+
+25
+00:01:24,699 --> 00:01:26,699
+Ja, zdaj
+
+26
+00:01:27,019 --> 00:01:31,339
+Kako bo ta epizoda dolga, ne vemo, če bo predolga, bomo razsekali na dva dela, ampak, okej
+
+27
+00:01:32,739 --> 00:01:34,739
+Zdaj, Boris
+
+28
+00:01:36,180 --> 00:01:38,860
+Lahko te jaz predstavim, ali pa
+
+29
+00:01:38,860 --> 00:01:39,860
+No, kaj probaš, ne?
+
+30
+00:01:39,860 --> 00:01:41,860
+Lahko probam
+
+31
+00:01:41,860 --> 00:01:43,860
+Boris je
+
+32
+00:01:46,620 --> 00:01:52,459
+Je mojster, ki ga jaz spremljam že vrste let in se zelo dobro pozicionira v
+
+33
+00:01:52,459 --> 00:01:55,940
+V umetni inteligenciji, v uporablji umetni inteligenciji
+
+34
+00:01:56,059 --> 00:02:01,459
+In je pač dela produkte z uporabljo umetni inteligencije pa strojnega učenja
+
+35
+00:02:02,660 --> 00:02:08,020
+Imaš zelo zanimivo tudi to podjetniško pot, pa bom tudi taj par vprašanj iz tega postavil
+
+36
+00:02:08,779 --> 00:02:13,660
+Ampak danes si zadožen v endavi za umetno inteligenco, pa za
+
+37
+00:02:14,380 --> 00:02:16,940
+Podatke, pa za data science, če prav razumem
+
+38
+00:02:16,940 --> 00:02:22,940
+Ja, v bistvu nekak, vodim podatkovno disciplino, regijsko in tukaj noter
+
+39
+00:02:23,059 --> 00:02:27,179
+Pada je vse, kar je povezan s podatki, torej od podatkovnega inženiringa
+
+40
+00:02:27,899 --> 00:02:30,699
+Strojnega učenja, podatkovne analitike
+
+41
+00:02:31,779 --> 00:02:33,220
+Zdaj
+
+42
+00:02:34,020 --> 00:02:36,899
+Jaz sem, ko smo se nazadnje
+
+43
+00:02:36,899 --> 00:02:42,740
+Pogovarjali o vsebnost, mislim, da smo se v Portorožu pogovarjali, pa si rekel, da greš na Slovenski ugreševalski festival
+
+44
+00:02:43,300 --> 00:02:45,059
+In boš headliner tam
+
+45
+00:02:45,059 --> 00:02:47,619
+Kaj se te tam predstavili tudi, kot
+
+46
+00:02:48,619 --> 00:02:53,740
+V bistvu se ne spomnim, dober, ker sem se tako fokusiral na to, kaj bom povedal
+
+47
+00:02:53,740 --> 00:02:56,059
+Oziroma pokazal, ne, ker
+
+48
+00:02:56,059 --> 00:03:03,539
+Sem imel predstavitev, kaj je bila polovica, je bil samo govor za slajdi, pa je bilo pa demo primeri in to je
+
+49
+00:03:03,539 --> 00:03:09,179
+Kar izjiv med, tako da možeš imeti res dober vse pripravljan, če hočeš spelati v kratkem času
+
+50
+00:03:10,820 --> 00:03:12,300
+Dej
+
+51
+00:03:12,300 --> 00:03:14,619
+A gremo najprej malo raziskati
+
+52
+00:03:14,779 --> 00:03:21,619
+Kako si tipo skušal ustvariti eno tako resno podjetje, ki se ukvarja z umetno inteligenco
+
+53
+00:03:21,619 --> 00:03:25,619
+Al bomo najprej umetno inteligenco razsekali
+
+54
+00:03:25,619 --> 00:03:26,619
+Al bomo najprej umetno inteligenco razsekali
+
+55
+00:03:26,619 --> 00:03:28,860
+Al bomo najprej taj razblinili, kaj je buzzword
+
+56
+00:03:28,860 --> 00:03:30,860
+Pa kaj je res
+
+57
+00:03:30,860 --> 00:03:35,059
+Pa dobro, pa da imamo mogoče rajst ten začetek
+
+58
+00:03:37,059 --> 00:03:39,059
+Mislim, lahko
+
+59
+00:03:39,059 --> 00:03:41,059
+Ne vem si sedaj, če bomo prišli nazaj
+
+60
+00:03:41,500 --> 00:03:43,500
+Ja, pa kaj
+
+61
+00:03:44,500 --> 00:03:53,500
+Dej, povej, zakaj si, zakaj tako ukvarjaveš umetno inteligenco, da ste se s prijateljo odločili ostanoviti Ektimo
+
+62
+00:03:54,500 --> 00:04:02,500
+Pa zakaj ste mislili, da je čas primeren za delati nekaj podjetniškega, poslovnega v tem prostoru
+
+63
+00:04:02,500 --> 00:04:03,500
+Dejmo tako
+
+64
+00:04:03,500 --> 00:04:09,500
+Sej si želim, da bi lahko rekel, kako je bilo to vse dele velikega strateškega načrta
+
+65
+00:04:09,940 --> 00:04:13,940
+V bistvu ni bilo čist tako na začetku
+
+66
+00:04:14,940 --> 00:04:19,940
+V samem začetku podjetja sem mislil delati stvari povezane s finansami
+
+67
+00:04:19,940 --> 00:04:22,940
+Kvantitativne finance, fascinirati se v algoritmi
+
+68
+00:04:23,940 --> 00:04:30,940
+Ta ideja, da lahko se boljše odločaš, če pogledaš gore podatkov, kukar pa, da se mogi baš in podobno
+
+69
+00:04:31,380 --> 00:04:40,380
+Smo pa takrat to podjetje ustanovil v takih zelo zanimivih časih, da sploh v slovenskem prostoru
+
+70
+00:04:40,380 --> 00:04:50,380
+Finančna industrija v dva desetni je bila glih najbolj na nogah, sploh pripravljena za investicije
+
+71
+00:04:51,380 --> 00:04:56,380
+Tako da sem jaz pa zelo začel razmišljati, kako lahko širše kaj naredimo z algoritmi
+
+72
+00:04:56,820 --> 00:05:03,820
+In takrat sem kar hitro ugotovil, da to, če kar je začel takrat počasi dobivati in imeti podatkov na znanost
+
+73
+00:05:04,820 --> 00:05:07,820
+Pravzaprav ni nobenega razloga, zakaj bi to umejeval na eno industrijo
+
+74
+00:05:09,820 --> 00:05:13,820
+Takrat sem bil še mlajši, pa še malo bolj naiven
+
+75
+00:05:14,820 --> 00:05:20,820
+Potem sem tako, ko sem gledal, kaj se je v združenih državah na tem področju dogajal, recimo koniec devedesetih
+
+76
+00:05:21,260 --> 00:05:27,260
+Sem imel tako počutek, da je vse naredeno, lahko sploh neko podjetje tukaj kaj naredi
+
+77
+00:05:28,260 --> 00:05:34,260
+Potem sem se navučil, da smo bili v Sloveniji pet let prezgodij vsaj, mogoče še kaj več
+
+78
+00:05:37,260 --> 00:05:47,260
+Ampak ste se pozicionirali kot firma, ki bo v Sloveniji delala, Slovenijska trga ali pač whoever comes
+
+79
+00:05:47,700 --> 00:05:51,700
+Se pravi, mogoče ni bilo to glitko srtežko primišljeno
+
+80
+00:05:52,700 --> 00:05:57,700
+V praksi smo bili firma, ki je večino časa delala v slovenskem prostoru
+
+81
+00:05:58,700 --> 00:06:01,700
+Zaradi umnosti kot zaradi strategije
+
+82
+00:06:02,700 --> 00:06:09,700
+To, kar sem kasnaj videl, da bi bilo ključno je najti način, kako se pogovarjati z ljudmi na trgih
+
+83
+00:06:10,140 --> 00:06:16,140
+Je bilo dovolj kapitala za investicije v to področje, kjer so bili tudi te
+
+84
+00:06:17,140 --> 00:06:21,140
+Razvitov trga večja in posledično tudi povprešvanje po teh storitvah
+
+85
+00:06:22,140 --> 00:06:29,140
+Če bi šel včasov nazaj, bi probu si zrihtat, da bi ene šest mesecov životaril nekaj v predmestju Londona
+
+86
+00:06:30,140 --> 00:06:34,140
+Pa pač se je pojavljal na kakšnih meet-upih in izkustike z ljudmi
+
+87
+00:06:34,579 --> 00:06:37,579
+Zdaj, da pač še razložimo
+
+88
+00:06:38,579 --> 00:06:43,579
+Kaj to podjetje rešuje, kakšen problem naslavljajo, kaj rešujete, da pač bo bolj jasno
+
+89
+00:06:44,579 --> 00:06:46,579
+Zdaj, to še govorimo o ECT
+
+90
+00:06:47,579 --> 00:06:50,579
+To je malo blest from the past, kako bi ga že rekla
+
+91
+00:06:51,579 --> 00:06:53,579
+Tako si jo to zadal, da s tem začemo
+
+92
+00:06:54,579 --> 00:06:59,579
+Vse je dobro, da smo s tem začeli. Kakšna je pa bila umetna inteligenca v osem mesecih?
+
+93
+00:07:00,019 --> 00:07:02,019
+Ne, ali pa še malo prej
+
+94
+00:07:03,019 --> 00:07:12,019
+Ideja je bila v bistvu podjetjem pomagati graditi sisteme, kjer je podatkovna znanost ključni element
+
+95
+00:07:12,019 --> 00:07:14,019
+Data science boljši
+
+96
+00:07:15,019 --> 00:07:17,019
+Ampak kot nekaj vrste, bolj advanced BI
+
+97
+00:07:18,019 --> 00:07:26,019
+Ne, ne, ne, mislim, bolj postavljati modele strojnega učenja, ki bi delali neke predikcije, ki bi jih podjetja uporabljala
+
+98
+00:07:26,459 --> 00:07:38,459
+Ampak tako zelo generično povedano, se pravi pač različni tip podatkov, ali je pač neka specifika, v katero ste se pač
+
+99
+00:07:38,459 --> 00:07:40,459
+Predvsem generično je bilo
+
+100
+00:07:42,459 --> 00:07:46,459
+Generično v smislu, da se nismo umevali na eno industrijsko vertikalo
+
+101
+00:07:47,459 --> 00:07:52,459
+Ampak predvsem niščno v smislu, da se je targetiral res data science
+
+102
+00:07:52,899 --> 00:07:58,899
+Nismo ponujali storitev data inženiringa, razvoja softvera po naročilu in podobno
+
+103
+00:07:59,899 --> 00:08:04,899
+Zdaj, ena tema, ki jo bomo nekako pol tudi mali kasneje bolj razspletili
+
+104
+00:08:05,899 --> 00:08:16,899
+A ljudje so prišli, pa še tudi danes pridejo do podjetij, ki implementirajo umetno inteligenco, ki rešujejo probleme z umetno inteligenco
+
+105
+00:08:16,899 --> 00:08:20,899
+Zato ker iščejo rešitev, ki bodo temeljila na umetno inteligenco
+
+106
+00:08:21,339 --> 00:08:28,339
+Je že to zavedanje na trgu, ali pridejo ljudje, pa rečejo, mi imamo tak velik problem, da ga ne znamo drugače rešiti
+
+107
+00:08:28,339 --> 00:08:30,339
+Pomagajte nam
+
+108
+00:08:30,339 --> 00:08:32,340
+Je ta zavedanje na marketu?
+
+109
+00:08:33,340 --> 00:08:36,340
+Jaz mislim, da je lepo razdelen v obe kategoriji
+
+110
+00:08:37,340 --> 00:08:40,340
+Jaz mislim, da je veliko enih problemov, ki jih podjetja imajo
+
+111
+00:08:41,340 --> 00:08:46,340
+Se v bistvu ne zavedajo, da pravi model umetno inteligenco bi lahko danes zadober rešila
+
+112
+00:08:46,780 --> 00:08:51,780
+Potem ne bodo nujno iskali na trgu ljudi, ki bi jim pomagali implementirati to stvar
+
+113
+00:08:51,780 --> 00:08:54,780
+Ker ni zavedanje, da je to možno rešiti na tak način
+
+114
+00:08:55,780 --> 00:08:58,780
+Ampak mislim, da je zelo veliko tega
+
+115
+00:08:59,780 --> 00:09:04,780
+Z zadnjih deset let smo malo in malo investirali v to, nimamo interne ekipe
+
+116
+00:09:04,780 --> 00:09:08,780
+Je lahko zdaj nekdo na trgu, ki nam pomaga to postaviti na hitrico?
+
+117
+00:09:13,780 --> 00:09:15,780
+Je štar strah
+
+118
+00:09:16,780 --> 00:09:19,780
+Zdaj, jaz imam zdišo pa malo naprej
+
+119
+00:09:20,780 --> 00:09:25,780
+Iz Ektima si potem šel v Comtrade, Digital Services
+
+120
+00:09:26,780 --> 00:09:32,780
+Potem zdaj v Endavit te stvari razvijaš naprej na večjem dosegu, v večji firmi, z večjem naročnike
+
+121
+00:09:33,780 --> 00:09:35,780
+Pa če vse skupaj je postalo bolj resno
+
+122
+00:09:36,780 --> 00:09:38,780
+Ja, ja, ja
+
+123
+00:09:39,780 --> 00:09:45,780
+V bistvu je bil kaj preskok, ta iz Ektima v eno od večjih IT podjetij
+
+124
+00:09:46,780 --> 00:09:48,780
+V Sloveniji, v Regiji tekrat
+
+125
+00:09:49,780 --> 00:09:52,780
+Je bila izkušnja pravzaprav tako
+
+126
+00:09:53,780 --> 00:10:00,780
+Zanimiva, no, se mi zdi, da lahko nekdo, ki je navajen životaret v majhni firmi pa konstantno se trudati
+
+127
+00:10:01,780 --> 00:10:06,780
+Z inoviranjem lahko veliko prinese potem v večjem podjetju
+
+128
+00:10:07,780 --> 00:10:15,780
+Težava je pa, ker se zelo redko kdaj zgodi, da nekdo naredi preskok, da gre iz managementa majhnega podjetja
+
+129
+00:10:16,219 --> 00:10:20,219
+V bistvu efektivno neke vrste, menedžersko vlogo v večje podjetje
+
+130
+00:10:21,219 --> 00:10:24,219
+Tako da moja izkušnja je bila zelo pozitivna, no
+
+131
+00:10:25,219 --> 00:10:32,219
+Sedaj potem se je pa malo zgodil prevzem za stranijen dave, kaj pa še toliko več sistem
+
+132
+00:10:33,219 --> 00:10:34,219
+Ampak, ja
+
+133
+00:10:35,219 --> 00:10:39,219
+Tukaj bomo se pogovarjali tudi če malo naprej o metni inteligenciji po to
+
+134
+00:10:39,659 --> 00:10:46,659
+A se ti zdi, da velikost podjetja, ki se ukvarja s temi tehnologijami, da ima neko vlogo?
+
+135
+00:10:47,659 --> 00:10:54,659
+Lahko rečemo, da to so toolingi, ki jih lahko Andraž zdele kot SP vzame in pa bo začel nekaj delati
+
+136
+00:10:55,659 --> 00:10:57,659
+Ali rabiš večji inženiranj tim?
+
+137
+00:10:58,659 --> 00:11:01,659
+A se ti zdi, da je to izkušnje?
+
+138
+00:11:02,099 --> 00:11:07,099
+Zelo se je, to je recimo ena stvar, ki se izredno spremenila zdaj
+
+139
+00:11:08,099 --> 00:11:11,099
+V, kaj ne rečem, horizontu mesecov ali pa največ let
+
+140
+00:11:12,099 --> 00:11:19,099
+Dejansko za aplikacije umetne inteligence, tako kot so recimo, ble pet let nazaj
+
+141
+00:11:20,099 --> 00:11:24,099
+Je bila tendenca, da so večji timi to lažje implementiral
+
+142
+00:11:24,539 --> 00:11:34,539
+Zdaj, z prihodom novih modelov prednavčenih na ogromnih količinah podatkov
+
+143
+00:11:35,539 --> 00:11:42,539
+Z boljšim toolingom, ki pomaga te stvari dadva produkcijo, se mi zdi, da je bistveno bolj even ground
+
+144
+00:11:43,539 --> 00:11:49,539
+Mogoče se celo lahko večja podjetja srečujejo s večjimi državami pri implementaciji
+
+145
+00:11:49,979 --> 00:11:54,979
+Ker ni nujno omejitev recimo v tem, da smo tehnološko nekaj rešili
+
+146
+00:11:55,979 --> 00:12:00,979
+Ampak je lahko omejitev v tem, kako zdaj spremeniti poslovne procese, da bo ta tehnologija lahko razdosegla svoj cilj
+
+147
+00:12:01,979 --> 00:12:07,979
+In to je pač change management v velikih podjetjih je bistveno težji
+
+148
+00:12:08,419 --> 00:12:14,419
+Ok, pač zdaj ta segvej, ondraž
+
+149
+00:12:16,419 --> 00:12:24,419
+Zdaj, ko sem se malo prepravljal na to epizodo, pač sem gledal nekaj te knjige, ki govorijo o umetni inteligenci
+
+150
+00:12:25,419 --> 00:12:30,419
+Pa potem umetna inteligenca za inženirje, pa pač nekaj različne knjige sem bil
+
+151
+00:12:30,859 --> 00:12:38,859
+In ena knjiga, ki sem imel, sicer bom pa tudi referenciral noter v zapiskih, mi je tale How Machines Think
+
+152
+00:12:39,859 --> 00:12:47,859
+In tam v tej knjigi so razloženi tako zelo ilustrativno različni algoritmi, ki se uporabljajo
+
+153
+00:12:48,859 --> 00:12:54,859
+Od tega, kaj bi potrebno narediti, da se pametno avto vozi, do tega, kako pametno, ne vem,
+
+154
+00:12:55,299 --> 00:13:03,299
+Ta videorekognizacija, pač različni koncepti, v glavnem uvod tam je tak, da se pravi
+
+155
+00:13:04,299 --> 00:13:15,299
+Dajmo se pogovarjati o tem, kako razmišljajo stroji, kako stroje pripravljamo do tega, da so bolj pametni in kakvi algoritmi so to zadane
+
+156
+00:13:16,299 --> 00:13:23,299
+In tam v tem uvodnem delu te knjige je fulen dober primer razložen, da je v leta 1737 Francije neki
+
+157
+00:13:23,739 --> 00:13:35,739
+Umetnik, moram v tem rekli, je naredil enega robota, automata, ki je znal igrat na piščal, znal je igrat na 12 različnih
+
+158
+00:13:36,739 --> 00:13:45,739
+Melodij, 12 različnih pesmi, je znal lepo zaigrat, imel je tak mehanizem, kot te stare ure, si znavil, pa so bila nekaj vzmetine, ta zadeva pihala
+
+159
+00:13:46,179 --> 00:13:56,179
+In to je bilo ful popularno in ljudje so takrat to videli, primožni ljudje, kot neke blazno napredne igrače pa entertementa
+
+160
+00:13:57,179 --> 00:14:06,179
+In ok, on je to naredil in potem se je pojavilo kup skeptiko, ki so se v bistvu sprašivali, kako za Boga ta zadeva deluje
+
+161
+00:14:06,619 --> 00:14:17,619
+In ta kralj Ludvig, ki je takrat bil šef, je rekel, pač to je neki fejk, to ne more biti, to je znotraj ena mala punčka, ki zna to igrat, pet let stara in zna melodije
+
+162
+00:14:18,619 --> 00:14:27,619
+In so ga totalno rejektali tam, potem crko je tudi rekla, to je bogoskrunstvo, ne more, da je stroj biti bolj pametna, ne zaveden
+
+163
+00:14:28,059 --> 00:14:37,059
+In potem je prišel tako daleč, da je predstavil to svojo idejo, kako ta njegov stroj deluje pred nekim Academy of Science
+
+164
+00:14:37,059 --> 00:14:43,059
+In se je razložil pač točno, kake vzvodi so noter, kako se te ručice premikajo in kako ta zadeva deluje
+
+165
+00:14:44,059 --> 00:14:50,059
+In pač, ko je dobil pol to nek recognition tega Science Boarda, da je to pač legit stroj, ki je premaknil naprej
+
+166
+00:14:50,500 --> 00:15:05,500
+Ampak spet, družba je videla vse te zadeve skozi to, kaj je bilo narejeno, niso pa razumeli, kaj se je treba vzadi narediti, da ta stroj deluje, kaj za boga je to vzadi
+
+167
+00:15:05,500 --> 00:15:15,500
+In jaz bi rada, da mogoče zdaj razblinimo te stvari, malo pa malo gremo globlej, pa ogotovimo, kako je danes ti algoritmi delovalo, kaj je potrebno, da vzadi se stvari delujejo
+
+168
+00:15:15,500 --> 00:15:18,500
+In pa končni fazi, kako jih tudi razvijamo naprej
+
+169
+00:15:18,940 --> 00:15:38,940
+Tukaj verjetno govorimo o nekaj, ki je naprej navčeno, to je pač, algoritem dela samo eno, pač tistih 15 minutij in gor dolg
+
+170
+00:15:38,940 --> 00:15:47,940
+Tukaj pa, ko gremo po umetni inteligenci, imamo pa pač domašnji parametri, se lahko pač spreminjajo, ta drvo odločanja je pač bistveno večji
+
+171
+00:15:48,380 --> 00:15:59,380
+Lahko tako rečemo, algoritem pač, če bi imel neke definicije algoritma, algoritem je nek splošen postopek za rešitev točno določenega problema, a je to še res, ko govorimo o tej sistemi?
+
+172
+00:16:02,380 --> 00:16:14,380
+Mislim, strinjam se, da je to čisto okej definicija algoritma, se mi pa zdi, da, jaz se odvisim po tem, za umetno inteligenco, koliko oskol pa široko definiraš problema
+
+173
+00:16:14,820 --> 00:16:27,820
+Pač, načeloma, pot, ki jo je dosledaj ta tehnologija obirala, je bila vedno bolj proti sistemom, ker lahko isti sistem rešuje več različnih problemov
+
+174
+00:16:29,820 --> 00:16:37,820
+In, tudi mislim, da na danj na smer bo šla v taj smer, ja, torej, s sistemom, ki bodo vedno bolj splošni
+
+175
+00:16:38,260 --> 00:16:50,260
+Tako, da lahko bi potem debatirali, kje se ta splošnost konča, to je, recimo, ena taka tema, ki doskrat razdvaja, ko ljudje rečejo splošno umetna inteligenca
+
+176
+00:16:50,260 --> 00:17:02,260
+Kaj to pomeni? Vedno se najde nek uporečnik, kar reče, da tudi ljudje niso splošno umetna inteligenca, v smislu, ker je en kup enih problemov,
+
+177
+00:17:02,260 --> 00:17:09,699
+ki jih, v bistvu, mi ne moramo in ne znamo, nismo biološko ustrezno skonstruirani, da bi jih lahko sploh rešila, ne.
+
+178
+00:17:11,699 --> 00:17:13,699
+Tako, da, ja.
+
+179
+00:17:14,699 --> 00:17:29,699
+Zdaj, jaz to folim, ta, a veš, operacijski sistem, vse zna, in pač, potem pa imaš nad tem operacijskem sistemom, pa imaš potem programe, ki so specialnje za rešitev nekega določenega problema
+
+180
+00:17:30,140 --> 00:17:33,140
+A lahko na tako rečenje si to predstavljamo?
+
+181
+00:17:34,140 --> 00:17:37,140
+Se pravi, imaš nek splošen kor, pa potem ga...
+
+182
+00:17:37,140 --> 00:17:52,140
+Zdaj, zdaj, zdaj, zdaj, zdaj, zdaj, vas je vse ful preskočila, ne, celo zgodovino, ampak jaz mislim, da te sistemi, ki zdaj so še, recimo, temu na začetku, ampak vsem dovolj dostopni, da lahko začnemo delati z njimi že dones, ne,
+
+183
+00:17:52,579 --> 00:18:06,579
+lahko delujem na tak sistem, ne, torej imamo nek orkestrator, ki dobiva naloge noter, ki se potem odloča, ne, za posamezno nalogo, ki je prišla not, kater drug, recimo, temu pod sistem je najbolj primeren za to, da to nalogo reši,
+
+184
+00:18:06,579 --> 00:18:26,020
+pošle to nalogo pod sistemu, on naprej presotne, a rab še bolj, ne, razgrajevati to nalogo ali pa, da drugim sistemom še niže spodaj, ne, ali pa lahko sam reši, ne, in potem pošle na zaorkestrator kot rešitev, ne, tako, recimo, to je en tak, en tak sistem, ki...
+
+185
+00:18:27,020 --> 00:18:30,020
+Večinoma pa dones sistemi umetne inteligence niso tak.
+
+186
+00:18:30,459 --> 00:18:33,459
+Večina sistemov ni takih.
+
+187
+00:18:33,459 --> 00:18:48,459
+Mogoče bo dobro zaradi te razlike stopati en korak samo nazaj, ne, kar zdaj bom večkrat umenil, ne, sistemi, kat so bili, sistemi, kukr so zdaj, pa so mogoče še na začetku, pa sistemi, kat bodo, ne.
+
+188
+00:18:48,900 --> 00:19:01,900
+Večino zgodovine umetne inteligence, so te modeli umetne inteligence funkcionirali zelo na tak način, da so rešvali en točen, zelo natančno definiran problem.
+
+189
+00:19:01,900 --> 00:19:13,900
+Za vsak, za rešitvo tazga problema je bilo vsakič potrebno na novo naučiti model, večinoma je to pomenil pridobiti podatke,
+
+190
+00:19:13,900 --> 00:19:25,900
+ka so se zelo natančno ujemali s tem specifičnim problemom, te podatke označati, na primer, ne, če smo recimo hoteli delati, recimo klasificirati stvari, ne,
+
+191
+00:19:25,900 --> 00:19:38,900
+smo jih mogli prej označati, naučiti model, potem, da ta model nekako v produkcijo gleda, kako dobro deluje, čim je prišlo do kakšnih bolj občutnih
+
+192
+00:19:38,900 --> 00:19:49,900
+sprememb v distribuciji teh primerov, ne, smo šli malo ven iz te distribucije, na katerih je bil naučen, zadeva ni več dobro delala, potem je cela umetnost bila,
+
+193
+00:19:49,900 --> 00:20:01,900
+zaznavati, kdaj se to zgodi, nove podatke dejati noter, novo označevanje, zadeve so pa izredno, izredno krhke, ne, in posledično potem tudi težke za,
+
+194
+00:20:01,900 --> 00:20:10,900
+dosta tudi ekonomsko, kako bi rekel, neoprivičene, ne, tudi če je sistem, takrat, ker je bil naučen, znal tist problem relativno dobro rešiti,
+
+195
+00:20:10,900 --> 00:20:21,900
+če smo pa razmislili čez cel njegov življenski cikl, ne, kakšen bo strošek, pa koliko ljudi bo mogli zaravno nekakrokico držati, pa tako naprej, pač ni pilo vode, ne.
+
+196
+00:20:22,900 --> 00:20:30,900
+Zdaj, to, kar se je pa začel spreminjati potem, bi rekel, s temi prednaučenimi modeli, ne, pre-trend,
+
+197
+00:20:32,900 --> 00:20:43,900
+zdaj že kar nekaj let nazaj, ne, je pa bil ta koncept, ne, da če mi vzamemo en model, pa ga naučimo na res, res ogromni količini podatkov,
+
+198
+00:20:43,900 --> 00:20:57,900
+ki vključuje pač noter zelo raznolike probleme, lahko si predstavljamo, kaj da bi ena kopica različnih distribucij zmešal skupin, ne, pa na tem potem učil.
+
+199
+00:20:58,900 --> 00:21:03,900
+Lahko pridemo do modela, ki je sposoben tudi potem reševat…
+
+200
+00:21:04,900 --> 00:21:05,900
+Na dolgi rok ali kaj.
+
+201
+00:21:05,900 --> 00:21:16,900
+Mislim, reševat, tudi isti model reševat različne probleme in je tudi potem nekoliko bolj robusten, ne, zato ker ni bil na tako singularni distribuciji naučen.
+
+202
+00:21:16,900 --> 00:21:21,900
+Ampak to, ko zdaj govoriš, a to nekaj, kar se že uporablja, ali nekaj, kar je…
+
+203
+00:21:21,900 --> 00:21:22,900
+Ja, ja, ja.
+
+204
+00:21:22,900 --> 00:21:23,900
+Je to trendi, kateri gre?
+
+205
+00:21:24,900 --> 00:21:39,900
+Se pravim, trendi, ki so se začeli… No, dajmo tako reči, ta arhitektura transformarjev je bila tista, kaj je pravzaprav bila gonilo razvoja za ta trend.
+
+206
+00:21:40,900 --> 00:21:43,900
+Sem so prišli v 2017.
+
+207
+00:21:44,900 --> 00:21:45,900
+Gre.
+
+208
+00:21:45,900 --> 00:21:46,900
+Pobližno tekrat.
+
+209
+00:21:48,900 --> 00:22:00,900
+No in pomembna stvar, ne, tukaj je pa bila, ne, prej sem omenil, ne, za te klasične sisteme, ne, da je bilo treba vedno znovati podatke v značevata, ne.
+
+210
+00:22:01,900 --> 00:22:13,900
+No, ena zanimiva rešitev tukaj je pa bila tako imenovano samosupervizirano naučenje, kjer mi lahko vzamemo neoznačene podatke, pa si predstavljamo, da, ne vem, najbolj še to na slikah povedati, kaj je tako zelo…
+
+211
+00:22:14,900 --> 00:22:17,900
+Kaj, da imamo sliko, ne, pa en košček ven vzamemo, ne.
+
+212
+00:22:19,900 --> 00:22:30,900
+In potem damo modelu za nalogo, ne, da nej na podlagi teh, pač preostanka slike, ne, ne povedati, kaj, kater košček smo ven vzeli, ne.
+
+213
+00:22:31,900 --> 00:22:32,900
+In isto lahko naredimo tudi za tekst, ne.
+
+214
+00:22:33,900 --> 00:22:39,900
+Ampak če si izbral samo enega iz cele množice, je to dovolj?
+
+215
+00:22:39,900 --> 00:22:50,900
+Ne, ne, mislim, ne vem, predstavljaj si, da vzameš sto milijonov slik, na vsaki vzameš ven en košček in potem rečeš…
+
+216
+00:22:51,900 --> 00:22:52,900
+Aha, se pravi, subset.
+
+217
+00:22:52,900 --> 00:22:53,900
+Ja.
+
+218
+00:22:53,900 --> 00:22:54,900
+Sto tiseč.
+
+219
+00:22:55,900 --> 00:23:05,900
+Ne, ne, ne, pa če vzameš sto milijonov slik, iz vsake vzameš ven en košček, uporabiš ostale koščke, pa rečeš modelu, daš kot nalogo, daj na povej, kaj manjka, ne.
+
+220
+00:23:06,900 --> 00:23:15,900
+In kar naenkrat v bistvu ne rabaš nič podatkov označevati, ne, on pač poskuša se na podlagi tega naučiti, ne, kaj tisto kar manjka, ne.
+
+221
+00:23:16,900 --> 00:23:19,900
+Torej v bistvu se proba naučiti iz konteksta, iz preostanka slike, ne.
+
+222
+00:23:20,900 --> 00:23:23,900
+Ampak se pravim, podobno je pri besedilu, ne.
+
+223
+00:23:24,900 --> 00:23:27,900
+In tle dajem večkrat kakšne te primere, ne.
+
+224
+00:23:28,900 --> 00:23:36,900
+Recimo, če gremo zdaj na jezik, ne, kar jezik je bil tisti, kaj tudi bil gonilo razvoja teh metod, ta novih, ne.
+
+225
+00:23:39,900 --> 00:23:40,900
+Recimo…
+
+226
+00:23:43,900 --> 00:23:45,900
+Tak, čisto osnovni stavki, a ne.
+
+227
+00:23:46,900 --> 00:23:48,900
+Jabo, ko je padlo iz, ne.
+
+228
+00:23:48,900 --> 00:23:52,900
+Ampak pa je bilo recimo drevesa, ne, samo ta beseda zdaj manjka, ne.
+
+229
+00:23:55,900 --> 00:23:59,900
+Ko model vidi dovolj teh stavkov, ne, če hoče postati boljši pri napovedovanju
+
+230
+00:24:02,900 --> 00:24:14,900
+tega, ne, katera beseda manjka, se verjetno izoblikuje nekje notri reprezentacija tega, ne, da pač jabloka rastajo na drevesih, ne.
+
+231
+00:24:14,900 --> 00:24:16,900
+Rastajo na drevesih, ne.
+
+232
+00:24:17,900 --> 00:24:23,900
+Če že pade od nekot, je bolj verjetno, da bo padel iz drevesa, kot pa iz police, a ne. Čeprav lahko tudi iz police pade, ne, ampak tako.
+
+233
+00:24:24,900 --> 00:24:25,900
+Ampak za…
+
+234
+00:24:26,900 --> 00:24:28,900
+Vsi bomo šli za to, ampak za…
+
+235
+00:24:29,900 --> 00:24:36,900
+Ti rabiš, jaz si predstavljam, rabiš res ogromne količine podatkov, da lahko te…
+
+236
+00:24:38,900 --> 00:24:39,900
+General Worker Solution.
+
+237
+00:24:40,900 --> 00:24:42,900
+In to more koštati, to more nekdo…
+
+238
+00:24:42,900 --> 00:24:43,900
+Je to ogromno koštati.
+
+239
+00:24:43,900 --> 00:24:44,900
+Prečistiti, prečistiti.
+
+240
+00:24:45,900 --> 00:24:48,900
+Ne, mislim, prečistiti, do neke mere je to res, ne, ampak tukaj ne…
+
+241
+00:24:49,900 --> 00:24:51,900
+A ni ta koncepta, veš, smetino od smeti ven.
+
+242
+00:24:52,900 --> 00:24:59,900
+Ja, ja. Veš, lahko si pomagaj z bližnicami, ne, recimo, da imaš neke podatkovne vire, ne,
+
+243
+00:25:00,000 --> 00:25:03,000
+so, recimo, že sami poseb precej visoke kakovosti.
+
+244
+00:25:03,000 --> 00:25:04,000
+Na primer Wikipedia.
+
+245
+00:25:04,000 --> 00:25:07,000
+Wikipedia, ali pa knjige, recimo.
+
+246
+00:25:07,000 --> 00:25:12,000
+In ti lahko pogledaš neke osnovne lastnosti teksta v teh kvalitetnih virih,
+
+247
+00:25:12,000 --> 00:25:15,000
+pol greš pa čez vse to, kar si poskrepel doli iz interneta,
+
+248
+00:25:15,000 --> 00:25:19,000
+pa pač ohranaš tiste stvari, ki so malo bolj podobne tem visokokvalitetnim viram,
+
+249
+00:25:19,000 --> 00:25:21,000
+pa ostalo vrže stran.
+
+250
+00:25:21,000 --> 00:25:25,000
+Pa te to v bistvu, da si to vse zračunal,
+
+251
+00:25:25,000 --> 00:25:28,000
+pa to ti je vzel neki denarja in časa,
+
+252
+00:25:28,000 --> 00:25:31,000
+ampak v smislu programerskega dela,
+
+253
+00:25:31,000 --> 00:25:33,000
+pa se nisi rabil zelo veliko kvarjati s tem,
+
+254
+00:25:33,000 --> 00:25:36,000
+pač te stvari kar sami ven padajo potem.
+
+255
+00:25:36,000 --> 00:25:38,000
+In teh podatkov imamo veliko,
+
+256
+00:25:38,000 --> 00:25:41,000
+torej, te modeli imamo veliko.
+
+257
+00:25:41,000 --> 00:25:42,000
+Kdo ima veliko?
+
+258
+00:25:42,000 --> 00:25:44,000
+Ja, pa tih imaš lahko.
+
+259
+00:25:44,000 --> 00:25:47,000
+Sej, načeloma je ta Common Crawl,
+
+260
+00:25:47,000 --> 00:25:51,000
+ki je v bistvu zbiralnik tega,
+
+261
+00:25:51,000 --> 00:25:53,000
+kar skrejperi poberajo doli iz interneta,
+
+262
+00:25:53,000 --> 00:25:55,000
+je dostopen, sicer je ogromen,
+
+263
+00:25:55,000 --> 00:25:57,000
+tako da mogoče rabiš potem še malo denarja,
+
+264
+00:25:57,000 --> 00:26:00,000
+za to, da boš lahko kaj z tem naredil,
+
+265
+00:26:00,000 --> 00:26:03,000
+ampak načeloma te podatki so tam, lahko jih uporabiš.
+
+266
+00:26:03,000 --> 00:26:06,000
+Zdaj bom ti en projekt razložil,
+
+267
+00:26:06,000 --> 00:26:08,000
+kje smo ga mi počeli,
+
+268
+00:26:08,000 --> 00:26:10,000
+pa bom ti razložil probleme,
+
+269
+00:26:10,000 --> 00:26:13,000
+ki si jih že tudi ti na nek način izpostavil,
+
+270
+00:26:13,000 --> 00:26:14,000
+pa mi boš povedal,
+
+271
+00:26:14,000 --> 00:26:17,000
+kak bi bila naslednja generacija takega sistema,
+
+272
+00:26:17,000 --> 00:26:19,000
+pekaj ga je vse boljšo dal narediti.
+
+273
+00:26:19,000 --> 00:26:21,000
+Sej pripravljam to.
+
+274
+00:26:21,000 --> 00:26:22,000
+Kaj?
+
+275
+00:26:22,000 --> 00:26:25,000
+En svoj pet projekt boš dejal.
+
+276
+00:26:25,000 --> 00:26:27,000
+Ne, ne, ne,
+
+277
+00:26:27,000 --> 00:26:29,000
+jaz bom klub v konzultantski.
+
+278
+00:26:29,000 --> 00:26:30,000
+Ne, ne, ne.
+
+279
+00:26:30,000 --> 00:26:31,000
+Bo pa račun izdal.
+
+280
+00:26:31,000 --> 00:26:32,000
+Ne, ne.
+
+281
+00:26:33,000 --> 00:26:35,000
+Ok, se pravi, problem je bil ta,
+
+282
+00:26:35,000 --> 00:26:37,000
+razvijali smo tehnologijo
+
+283
+00:26:37,000 --> 00:26:39,000
+za masovno anketirani ljudi,
+
+284
+00:26:39,000 --> 00:26:41,000
+več jezikov po celem svetu,
+
+285
+00:26:41,000 --> 00:26:43,000
+ljudje pridejo noter
+
+286
+00:26:43,000 --> 00:26:45,000
+in postaviš jim vprašanja,
+
+287
+00:26:45,000 --> 00:26:47,000
+postaviš jim nek chatbot,
+
+288
+00:26:47,000 --> 00:26:49,000
+postaviš jim vprašanja,
+
+289
+00:26:49,000 --> 00:26:51,000
+ljudje ti dajo odgovore,
+
+290
+00:26:51,000 --> 00:26:53,000
+ljudje ti dajo določeno število odgovorov,
+
+291
+00:26:53,000 --> 00:26:55,000
+dobijo neko izplačilo, neko nagrado.
+
+292
+00:26:55,000 --> 00:26:57,000
+Kar je v teoriji zelo dober način
+
+293
+00:26:57,000 --> 00:27:00,000
+za dobiti zelo zanimive podatke,
+
+294
+00:27:00,000 --> 00:27:02,000
+masovno lahko zadevodiraš, super.
+
+295
+00:27:02,000 --> 00:27:05,000
+Problem je, da ta koncept
+
+296
+00:27:05,000 --> 00:27:07,000
+dajanja ljudem nagrado
+
+297
+00:27:07,000 --> 00:27:09,000
+za njih učasti na internetu
+
+298
+00:27:09,000 --> 00:27:11,000
+prevabi ogromno offroada, logično.
+
+299
+00:27:11,000 --> 00:27:14,000
+In izziv, ki smo ga imeli,
+
+300
+00:27:14,000 --> 00:27:17,000
+je bilo kako zdaj razviti sistem,
+
+301
+00:27:17,000 --> 00:27:19,000
+ki bo zagotovil,
+
+302
+00:27:19,000 --> 00:27:21,000
+da tisti, ki odgovarja na ta vprašanja,
+
+303
+00:27:21,000 --> 00:27:23,000
+da bo odgovarjal resnično,
+
+304
+00:27:23,000 --> 00:27:25,000
+da ne bo samo kliko,
+
+305
+00:27:25,000 --> 00:27:27,000
+pa čim hitreje prišel do nagrade,
+
+306
+00:27:27,000 --> 00:27:29,000
+pa izplačil vse.
+
+307
+00:27:29,000 --> 00:27:31,000
+In smo potrebovali nek sistem,
+
+308
+00:27:31,000 --> 00:27:33,000
+ki bi dal nek skor
+
+309
+00:27:33,000 --> 00:27:35,000
+ali neko indikator,
+
+310
+00:27:35,000 --> 00:27:37,000
+da to odgovorje
+
+311
+00:27:37,000 --> 00:27:39,000
+pripadajo res človeku ali pa ne.
+
+312
+00:27:39,000 --> 00:27:41,000
+In kaj smo naredili?
+
+313
+00:27:41,000 --> 00:27:43,000
+Naredili smo en sistem, ki je
+
+314
+00:27:43,000 --> 00:27:45,000
+beležu vse te male
+
+315
+00:27:45,000 --> 00:27:47,000
+mikrointerakcije,
+
+316
+00:27:47,000 --> 00:27:50,000
+ki jih je delo človek
+
+317
+00:27:50,000 --> 00:27:53,000
+na tem upravniškem omesniku,
+
+318
+00:27:53,000 --> 00:27:55,000
+pa smo potem združevali tudi
+
+319
+00:27:55,000 --> 00:27:57,000
+z odgovorje, ki jih je delo.
+
+320
+00:27:57,000 --> 00:27:59,000
+Se pravi, kako si miško premiko,
+
+321
+00:27:59,000 --> 00:28:01,000
+kako si hovoro zmiško
+
+322
+00:28:01,000 --> 00:28:03,000
+na nek element,
+
+323
+00:28:03,000 --> 00:28:05,000
+kako si si recimo spremislil.
+
+324
+00:28:05,000 --> 00:28:07,000
+Potem smo vključevali,
+
+325
+00:28:07,000 --> 00:28:09,000
+recimo si poprašal,
+
+326
+00:28:09,000 --> 00:28:11,000
+a je zuna in sonce,
+
+327
+00:28:11,000 --> 00:28:13,000
+pa si ga v drugim vprašanju poprašal,
+
+328
+00:28:13,000 --> 00:28:15,000
+a je zuna in še vedno sonce.
+
+329
+00:28:15,000 --> 00:28:17,000
+To je bila pravilna in logična zadeva.
+
+330
+00:28:17,000 --> 00:28:19,000
+V glavnem, zbrali smo ogromno
+
+331
+00:28:19,000 --> 00:28:21,000
+količine teh podatkov,
+
+332
+00:28:21,000 --> 00:28:23,000
+pa teh parametrov,
+
+333
+00:28:23,000 --> 00:28:25,000
+oblikovali smo teh nekih 12 fičerjev
+
+334
+00:28:25,000 --> 00:28:27,000
+in potem smo rekli, lahko,
+
+335
+00:28:27,000 --> 00:28:29,000
+ok, kombinacija teh
+
+336
+00:28:29,000 --> 00:28:31,000
+mikrometrik pa teh
+
+337
+00:28:31,000 --> 00:28:33,000
+odgovorov, lahko
+
+338
+00:28:33,000 --> 00:28:35,000
+labelamo in naredimo label,
+
+339
+00:28:35,000 --> 00:28:37,000
+ta je legit, ta ni legit.
+
+340
+00:28:37,000 --> 00:28:39,000
+In smo nekako polebelali dataset
+
+341
+00:28:39,000 --> 00:28:41,000
+in smo dejansko
+
+342
+00:28:41,000 --> 00:28:43,000
+imeli relativno dober sistem
+
+343
+00:28:43,000 --> 00:28:45,000
+za ogotavljati ljudje goljofajo.
+
+344
+00:28:45,000 --> 00:28:47,000
+Zadeva je super delala,
+
+345
+00:28:47,000 --> 00:28:49,000
+pojavo se je problem,
+
+346
+00:28:49,000 --> 00:28:51,000
+da pač se je,
+
+347
+00:28:51,000 --> 00:28:53,000
+ko se nam je uporabniški umestnik
+
+348
+00:28:53,000 --> 00:28:55,000
+spreminil, so se začeli
+
+349
+00:28:55,000 --> 00:28:57,000
+interakcije spreminjati,
+
+350
+00:28:57,000 --> 00:28:59,000
+potem so se začeli pojavljati
+
+351
+00:28:59,000 --> 00:29:01,000
+problemi, da so recimo
+
+352
+00:29:01,000 --> 00:29:03,000
+družina vprašalnika
+
+353
+00:29:03,000 --> 00:29:05,000
+se je spreminjala,
+
+354
+00:29:05,000 --> 00:29:07,000
+pa je to vplivalo. V glavnem, kar kol smo
+
+355
+00:29:07,000 --> 00:29:09,000
+spreminjali, je dejansko to,
+
+356
+00:29:09,000 --> 00:29:11,000
+ko si sam preizpostavil, ni bil dovolj
+
+357
+00:29:11,000 --> 00:29:13,000
+robustni in ga bo treba spet natrenirati,
+
+358
+00:29:13,000 --> 00:29:15,000
+spet naučiti.
+
+359
+00:29:15,000 --> 00:29:17,000
+To pa pač ta življenski cikl
+
+360
+00:29:17,000 --> 00:29:19,000
+spremljati, kako je
+
+361
+00:29:19,000 --> 00:29:21,000
+ta njegov scoring deluje,
+
+362
+00:29:21,000 --> 00:29:23,000
+a je še vedno relevanten,
+
+363
+00:29:23,000 --> 00:29:25,000
+ker nam je potem začelo
+
+364
+00:29:25,000 --> 00:29:27,000
+napačno tagati.
+
+365
+00:29:27,000 --> 00:29:29,000
+To je en tak primer, kar smo
+
+366
+00:29:29,000 --> 00:29:31,000
+delali, pa so se te problemi
+
+367
+00:29:31,000 --> 00:29:33,000
+izpostavljali. Zdaj me pa zanima,
+
+368
+00:29:33,000 --> 00:29:35,000
+kako bi mogoče se dalo
+
+369
+00:29:35,000 --> 00:29:37,000
+to bolj robustno narediti
+
+370
+00:29:37,000 --> 00:29:39,000
+v kontekstu, ki si ga prvi razlagal.
+
+371
+00:29:39,000 --> 00:29:41,000
+A se da?
+
+372
+00:29:41,000 --> 00:29:43,000
+Mislim, se da,
+
+373
+00:29:43,000 --> 00:29:45,000
+ampak
+
+374
+00:29:45,000 --> 00:29:47,000
+bom rekel tudi na drugi strani,
+
+375
+00:29:47,000 --> 00:29:49,000
+na fraud strani.
+
+376
+00:29:49,000 --> 00:29:51,000
+Kapabiliti zboljšujejo.
+
+377
+00:29:51,000 --> 00:29:53,000
+Hotovo bi se mogoče bolj vprašali,
+
+378
+00:29:53,000 --> 00:29:55,000
+za kaj ste rabili zbirati podatke?
+
+379
+00:29:55,000 --> 00:29:57,000
+Za te,
+
+380
+00:29:57,000 --> 00:29:59,000
+misliš, te podatke
+
+381
+00:29:59,000 --> 00:30:01,000
+za fraud, prav veš, ali samo podatke?
+
+382
+00:30:01,000 --> 00:30:03,000
+Ne, ne, samo podatke.
+
+383
+00:30:03,000 --> 00:30:05,000
+Ja, podatje se ukvarjalo
+
+384
+00:30:05,000 --> 00:30:07,000
+z market researchom
+
+385
+00:30:07,000 --> 00:30:09,000
+v globalnem
+
+386
+00:30:09,000 --> 00:30:11,000
+skelo, se pravi, zanimalo nas je,
+
+387
+00:30:11,000 --> 00:30:13,000
+recimo, ali ljudje uporabljajo
+
+388
+00:30:13,000 --> 00:30:15,000
+YouTube, ali ljudje uporabljajo TikTok,
+
+389
+00:30:15,000 --> 00:30:17,000
+koliko časa so na TikToku,
+
+390
+00:30:17,000 --> 00:30:19,000
+kaj si mislijo o mobile bankingu,
+
+391
+00:30:19,000 --> 00:30:21,000
+se pravi, vse, kar ljudje delajo
+
+392
+00:30:21,000 --> 00:30:23,000
+v tem digital space-u, nas je zanimalo.
+
+393
+00:30:23,000 --> 00:30:25,000
+In te podatke so bili
+
+394
+00:30:25,000 --> 00:30:27,000
+zelo pomembni za stranke,
+
+395
+00:30:27,000 --> 00:30:29,000
+ki so, recimo, globalne korporacije,
+
+396
+00:30:29,000 --> 00:30:31,000
+pa morajo, ne vem, globalen badžet
+
+397
+00:30:31,000 --> 00:30:33,000
+locirati v razvoju nekih produktov,
+
+398
+00:30:33,000 --> 00:30:35,000
+marketinga, storitev in podobno.
+
+399
+00:30:35,000 --> 00:30:37,000
+In te so
+
+400
+00:30:37,000 --> 00:30:39,000
+zelo pomembni podatki, kaj ljudje
+
+401
+00:30:39,000 --> 00:30:41,000
+delajo.
+
+402
+00:30:41,000 --> 00:30:43,000
+Ja, mislim, problem je seveda pol,
+
+403
+00:30:43,000 --> 00:30:45,000
+ne, ko daš nek bounty,
+
+404
+00:30:45,000 --> 00:30:47,000
+za to, da nekdo to reši,
+
+405
+00:30:47,000 --> 00:30:49,000
+potem imaš ponovat nek vprašanjnik,
+
+406
+00:30:49,000 --> 00:30:51,000
+ljudje je noter klika v vprašanja.
+
+407
+00:30:51,000 --> 00:30:53,000
+Zdaj, če se gre za klikanje
+
+408
+00:30:53,000 --> 00:30:55,000
+na vprašanja, potem
+
+409
+00:30:55,000 --> 00:30:57,000
+je to nekaj,
+
+410
+00:30:57,000 --> 00:30:59,000
+kar je dosti enostavno avtomatizirata.
+
+411
+00:30:59,000 --> 00:31:01,000
+O, ja.
+
+412
+00:31:01,000 --> 00:31:03,000
+Al pa če gre za neke preproste tekstovne vnose
+
+413
+00:31:03,000 --> 00:31:05,000
+in podobno, to ni težko narediti.
+
+414
+00:31:05,000 --> 00:31:07,000
+Zdaj, z temi novimi
+
+415
+00:31:07,000 --> 00:31:09,000
+pristopi, ne,
+
+416
+00:31:09,000 --> 00:31:11,000
+bi jaz verjetno rekel,
+
+417
+00:31:11,000 --> 00:31:13,000
+da ta fraud detection del
+
+418
+00:31:13,000 --> 00:31:15,000
+spreminjo v način, kako se te podatke sploh
+
+419
+00:31:15,000 --> 00:31:17,000
+zbira, ne.
+
+420
+00:31:17,000 --> 00:31:19,000
+V smislu,
+
+421
+00:31:19,000 --> 00:31:21,000
+zakaj ne bi imel proaktivnega bota, ne,
+
+422
+00:31:21,000 --> 00:31:23,000
+ki bi v ustrezno izbranem
+
+423
+00:31:23,000 --> 00:31:25,000
+naravnem habitatu najdel ljudi,
+
+424
+00:31:25,000 --> 00:31:27,000
+pa se pač pogovoril
+
+425
+00:31:27,000 --> 00:31:29,000
+z njimi, ne, v free flow
+
+426
+00:31:29,000 --> 00:31:31,000
+chatu, ne, ki ga je potem
+
+427
+00:31:31,000 --> 00:31:33,000
+vsem nekolik težje,
+
+428
+00:31:33,000 --> 00:31:35,000
+nekolik težje
+
+429
+00:31:35,000 --> 00:31:37,000
+tako spufati, ne.
+
+430
+00:31:37,000 --> 00:31:39,000
+Znači, lahko
+
+431
+00:31:39,000 --> 00:31:41,000
+povem, kaj, se zanima
+
+432
+00:31:41,000 --> 00:31:43,000
+hijack v celo debatu, ampak
+
+433
+00:31:43,000 --> 00:31:45,000
+naslednja, se pravi, to, kaj sem zdaj upisal,
+
+434
+00:31:45,000 --> 00:31:47,000
+je bilo tekstovno, se pravi,
+
+435
+00:31:47,000 --> 00:31:49,000
+ljudje pišejo tekst ali pa klikajo gumbke,
+
+436
+00:31:49,000 --> 00:31:51,000
+naslednja generacija tega
+
+437
+00:31:51,000 --> 00:31:53,000
+sistema je bila zvočna, se pravi,
+
+438
+00:31:53,000 --> 00:31:55,000
+izpisalo se te vprašanje,
+
+439
+00:31:55,000 --> 00:31:57,000
+prebral te vprašanje preko
+
+440
+00:31:57,000 --> 00:31:59,000
+zvoka in potem je šel
+
+441
+00:31:59,000 --> 00:32:01,000
+ta listen mode, pa je poslušal in ko
+
+442
+00:32:01,000 --> 00:32:03,000
+si ti odgovoril, je delal real-time
+
+443
+00:32:03,000 --> 00:32:05,000
+speech-to-text transition, ne.
+
+444
+00:32:05,000 --> 00:32:07,000
+In to, kar ti praviš, se je
+
+445
+00:32:07,000 --> 00:32:09,000
+zelo hitro izkazalo ta,
+
+446
+00:32:09,000 --> 00:32:11,000
+kako
+
+447
+00:32:11,000 --> 00:32:13,000
+goljofije je notera, ne,
+
+448
+00:32:13,000 --> 00:32:15,000
+ker si kr naenkrat so ljudje,
+
+449
+00:32:15,000 --> 00:32:17,000
+si začel z mikrofonom pobirati
+
+450
+00:32:17,000 --> 00:32:19,000
+zraven še, kaj se je dogajalo
+
+451
+00:32:19,000 --> 00:32:21,000
+v prostoru, potem si ugotovil, da ljudje
+
+452
+00:32:21,000 --> 00:32:23,000
+to rešujejo v, ne vem, podzemni
+
+453
+00:32:23,000 --> 00:32:25,000
+železnici, pa na avtobusu,
+
+454
+00:32:25,000 --> 00:32:27,000
+na drugi strani si pobiral
+
+455
+00:32:27,000 --> 00:32:29,000
+zdaj emocije, ljudje so
+
+456
+00:32:29,000 --> 00:32:31,000
+zelo jezno odgovarjali noter, ne,
+
+457
+00:32:31,000 --> 00:32:33,000
+ali pa so, ko so ugotovili,
+
+458
+00:32:33,000 --> 00:32:35,000
+da se je mikrofon vklopil, so že
+
+459
+00:32:35,000 --> 00:32:37,000
+krati začeli preklinjati, ne, bote mi sodili,
+
+460
+00:32:37,000 --> 00:32:39,000
+a veš, ful, in to pa
+
+461
+00:32:39,000 --> 00:32:41,000
+opazil se je tudi, da
+
+462
+00:32:41,000 --> 00:32:43,000
+kres velike tega
+
+463
+00:32:43,000 --> 00:32:45,000
+skriptinga, pa veliko ljudi je dansko
+
+464
+00:32:45,000 --> 00:32:47,000
+se ukvarja samo s tem, da bote piše,
+
+465
+00:32:47,000 --> 00:32:49,000
+zato goljofa, ne, da pač
+
+466
+00:32:49,000 --> 00:32:51,000
+enostavno je ugotovil,
+
+467
+00:32:51,000 --> 00:32:53,000
+da tista skripta začela feljati,
+
+468
+00:32:53,000 --> 00:32:55,000
+ker pač nisi sploh imel mikrofona, ne.
+
+469
+00:32:55,000 --> 00:32:57,000
+Tako da je ta
+
+470
+00:32:57,000 --> 00:32:59,000
+aspekt možno izboljšati, ne,
+
+471
+00:32:59,000 --> 00:33:01,000
+s tem, da potem pa priješ ta
+
+472
+00:33:03,000 --> 00:33:05,000
+skejl, ne, pač tekstualno
+
+473
+00:33:05,000 --> 00:33:07,000
+zdaj delati interakcijo
+
+474
+00:33:07,000 --> 00:33:09,000
+z ljudmi je bistveno ceneje, ko pa
+
+475
+00:33:09,000 --> 00:33:11,000
+zvočno, pa infrastruktura je dražja,
+
+476
+00:33:11,000 --> 00:33:13,000
+pa kup nekih drugih stvari, ne,
+
+477
+00:33:13,000 --> 00:33:15,000
+pa tudi privacy je tudi prije zraven,
+
+478
+00:33:15,000 --> 00:33:17,000
+pa tako, ja, tako je.
+
+479
+00:33:17,000 --> 00:33:19,000
+Ja, se strimam, je pa strošek
+
+480
+00:33:19,000 --> 00:33:21,000
+naglo, pa dajoč, ne.
+
+481
+00:33:21,000 --> 00:33:23,000
+Ja, dobro, ok,
+
+482
+00:33:23,000 --> 00:33:25,000
+to sem zdihajček.
+
+483
+00:33:25,000 --> 00:33:27,000
+No, drgače, kar se tiče,
+
+484
+00:33:27,000 --> 00:33:29,000
+kar se tiče froda, ne,
+
+485
+00:33:29,000 --> 00:33:31,000
+tle je pač, tle je konstantna,
+
+486
+00:33:31,000 --> 00:33:33,000
+kaj ne rečem, vojna,
+
+487
+00:33:33,000 --> 00:33:35,000
+tekma, ne, med...
+
+488
+00:33:35,000 --> 00:33:37,000
+Kaj, cat and mouse game pač.
+
+489
+00:33:37,000 --> 00:33:39,000
+Ja, mislim, edina stvar,
+
+490
+00:33:39,000 --> 00:33:41,000
+ki je jasna tukaj, ne, da pač
+
+491
+00:33:41,000 --> 00:33:43,000
+ne smejiš v tej tekni
+
+492
+00:33:43,000 --> 00:33:45,000
+ti biti tisti, ki spusti v porabo umetne inteligence,
+
+493
+00:33:45,000 --> 00:33:47,000
+ne, pa prepustiti
+
+494
+00:33:47,000 --> 00:33:49,000
+vstalim, da ima
+
+495
+00:33:49,000 --> 00:33:51,000
+na svojo strani, da ima prednost pred tabo, ne.
+
+496
+00:33:51,000 --> 00:33:53,000
+Mislim, hitro se je opazilo tudi,
+
+497
+00:33:53,000 --> 00:33:55,000
+ko smo podatke gledali v tem
+
+498
+00:33:55,000 --> 00:33:57,000
+sistemu, je, ok, ko smo mi
+
+499
+00:33:57,000 --> 00:33:59,000
+aktivirali ta naš sistem, da je to delo,
+
+500
+00:33:59,000 --> 00:34:01,000
+ko sem rekel, je hitro padlo
+
+501
+00:34:01,000 --> 00:34:03,000
+pač številu tega froda,
+
+502
+00:34:03,000 --> 00:34:05,000
+zelo očitno.
+
+503
+00:34:05,000 --> 00:34:07,000
+Ampak, a veš, potem se pa pojavijo
+
+504
+00:34:07,000 --> 00:34:09,000
+nekaj ljudi, ko pa
+
+505
+00:34:09,000 --> 00:34:11,000
+mogoče pa poznajo te toole,
+
+506
+00:34:11,000 --> 00:34:13,000
+ki jih ti uporabljaš, proti taj poporabite,
+
+507
+00:34:13,000 --> 00:34:15,000
+ne, in potem začnejo, ne vem,
+
+508
+00:34:15,000 --> 00:34:17,000
+simulirati, kako se miška givlja,
+
+509
+00:34:17,000 --> 00:34:19,000
+da bolj organsko deluje, ne,
+
+510
+00:34:19,000 --> 00:34:21,000
+res je, res je ketaj mozga,
+
+511
+00:34:21,000 --> 00:34:23,000
+frod sploh.
+
+512
+00:34:23,000 --> 00:34:25,000
+Sej, a veš, to, kar, mislim, tako je,
+
+513
+00:34:25,000 --> 00:34:27,000
+ko imaš tukaj vzad denara, ne,
+
+514
+00:34:27,000 --> 00:34:29,000
+je pač interes na drugi strani
+
+515
+00:34:29,000 --> 00:34:31,000
+ful velik za to, ne, in pač,
+
+516
+00:34:31,000 --> 00:34:33,000
+ne.
+
+517
+00:34:33,000 --> 00:34:35,000
+Evo, dam mal,
+
+518
+00:34:35,000 --> 00:34:37,000
+en primer, ki je sicer,
+
+519
+00:34:37,000 --> 00:34:39,000
+mogoče mu ne bi rekel frod, ampak bi mu rekel,
+
+520
+00:34:39,000 --> 00:34:41,000
+recimo, dark pattern, ne,
+
+521
+00:34:41,000 --> 00:34:43,000
+recimo podjetja, ne,
+
+522
+00:34:43,000 --> 00:34:45,000
+ki te
+
+523
+00:34:45,000 --> 00:34:47,000
+ponudijo neko naročnino, ne,
+
+524
+00:34:47,000 --> 00:34:49,000
+prostavno naročat, ne,
+
+525
+00:34:49,000 --> 00:34:51,000
+če hočeš pa, če hočeš pa enkrat to prekinjit,
+
+526
+00:34:51,000 --> 00:34:53,000
+ne, je pa, je pa,
+
+527
+00:34:53,000 --> 00:34:55,000
+je pa izredno težko, moraš pa, ne vem,
+
+528
+00:34:55,000 --> 00:34:57,000
+čez kakšne korake vse it, ne, in,
+
+529
+00:34:57,000 --> 00:34:59,000
+v bistvu, za njih, sicer,
+
+530
+00:34:59,000 --> 00:35:01,000
+mogoče ni najbolj, najbolj
+
+531
+00:35:01,000 --> 00:35:03,000
+moralno, ali pa tako naprej,
+
+532
+00:35:03,000 --> 00:35:05,000
+ampak je pa podcena, ne.
+
+533
+00:35:05,000 --> 00:35:07,000
+Mislim, oni imajo v bistvu,
+
+534
+00:35:07,000 --> 00:35:09,000
+še menj svojih sistemov
+
+535
+00:35:09,000 --> 00:35:11,000
+rabijo imeti na ta račun,
+
+536
+00:35:11,000 --> 00:35:13,000
+zato, ker si ti prepuščen nekim
+
+537
+00:35:13,000 --> 00:35:15,000
+neoptimalnim putem,
+
+538
+00:35:15,000 --> 00:35:17,000
+zato, da to narediš, ne.
+
+539
+00:35:17,000 --> 00:35:19,000
+Zdaj, kaj se pa zgodi, ne, čim
+
+540
+00:35:19,000 --> 00:35:21,000
+ti noter
+
+541
+00:35:23,000 --> 00:35:25,000
+predstaviš, upelješ, ne,
+
+542
+00:35:25,000 --> 00:35:27,000
+eno stvar, ki bo
+
+543
+00:35:27,000 --> 00:35:29,000
+rahlo dvigljena kost za
+
+544
+00:35:29,000 --> 00:35:31,000
+tak Dark Pattern podjetjem,
+
+545
+00:35:31,000 --> 00:35:33,000
+se kar
+
+546
+00:35:33,000 --> 00:35:35,000
+neenkrat ta
+
+547
+00:35:35,000 --> 00:35:37,000
+logika z njihove strani izgleda
+
+548
+00:35:37,000 --> 00:35:39,000
+popolnoma drugačna, ne.
+
+549
+00:35:39,000 --> 00:35:41,000
+Recimo, ne, če ti imaš enkrat
+
+550
+00:35:41,000 --> 00:35:43,000
+nekega bota, ki lahko
+
+551
+00:35:43,000 --> 00:35:45,000
+na tvojo željo avtomatsko gre, čez vse
+
+552
+00:35:45,000 --> 00:35:47,000
+tiste njihove čudne korake, ne, in
+
+553
+00:35:47,000 --> 00:35:49,000
+scansla naročino, ne, po možnosti
+
+554
+00:35:49,000 --> 00:35:51,000
+morajo oni zdaj imeti na svoji
+
+555
+00:35:51,000 --> 00:35:53,000
+strani
+
+556
+00:35:53,000 --> 00:35:55,000
+nek strošek, ki v bistvu
+
+557
+00:35:55,000 --> 00:35:57,000
+ugotavla, ki gre za to
+
+558
+00:35:57,000 --> 00:35:59,000
+interakcijo s tvojim botom, ne.
+
+559
+00:35:59,000 --> 00:36:01,000
+Bot je mogoče za tebe lahko zelo
+
+560
+00:36:01,000 --> 00:36:03,000
+podcena, ne, oni morajo pa kar naenkrat
+
+561
+00:36:03,000 --> 00:36:05,000
+biti v interakciji z, ne vem,
+
+562
+00:36:05,000 --> 00:36:07,000
+milionom teh botov, ne, in
+
+563
+00:36:07,000 --> 00:36:09,000
+te stvari lahko
+
+564
+00:36:09,000 --> 00:36:11,000
+obrne na glavo, ne.
+
+565
+00:36:11,000 --> 00:36:13,000
+Tako da jaz mislim, da bomo kar nekaj tega
+
+566
+00:36:13,000 --> 00:36:15,000
+videli na tem področju, ne, pač ti
+
+567
+00:36:15,000 --> 00:36:17,000
+taki dost očitni,
+
+568
+00:36:17,000 --> 00:36:19,000
+dark patternji, mogoče ne bodo
+
+569
+00:36:19,000 --> 00:36:21,000
+več delvali, zato ker bo neka stopnja
+
+570
+00:36:21,000 --> 00:36:23,000
+inteligence noter na obih
+
+571
+00:36:23,000 --> 00:36:25,000
+stranih, ne samo na eni, ne.
+
+572
+00:36:25,000 --> 00:36:27,000
+Ampak to je dober.
+
+573
+00:36:27,000 --> 00:36:29,000
+Ja, je to dober, ja.
+
+574
+00:36:29,000 --> 00:36:31,000
+Mislim. Evo, še en podoben
+
+575
+00:36:31,000 --> 00:36:33,000
+primera, ne, od, recimo
+
+576
+00:36:33,000 --> 00:36:35,000
+recimo v pravu, ne,
+
+577
+00:36:35,000 --> 00:36:37,000
+je tako, ne, da pač nimajo vsi,
+
+578
+00:36:37,000 --> 00:36:39,000
+ne, na začetku ima zakoni velaj za vse,
+
+579
+00:36:39,000 --> 00:36:41,000
+ne, ampak je pa res, ne, da imajo ljudje
+
+580
+00:36:41,000 --> 00:36:43,000
+zelo različen dostop do
+
+581
+00:36:43,000 --> 00:36:45,000
+ljudi, ki jim lahko
+
+582
+00:36:45,000 --> 00:36:47,000
+pomagajo navigirati med temi zakoni,
+
+583
+00:36:47,000 --> 00:36:49,000
+ne. In sveda,
+
+584
+00:36:49,000 --> 00:36:51,000
+potem se to napolno zelo rabla, ne.
+
+585
+00:36:51,000 --> 00:36:53,000
+Firma, ki ima veliko denarja za odvetnike, lahko
+
+586
+00:36:53,000 --> 00:36:55,000
+zagrozi eni manjši, ki mogoče
+
+587
+00:36:55,000 --> 00:36:57,000
+niti za enega nima in se stvari
+
+588
+00:36:57,000 --> 00:36:59,000
+nekako uredijo, ne. Zdaj,
+
+589
+00:36:59,000 --> 00:37:01,000
+če pa ti noter introdjusaš,
+
+590
+00:37:01,000 --> 00:37:03,000
+ne, nek ekstra pocen
+
+591
+00:37:03,000 --> 00:37:05,000
+servis, ne, pravne,
+
+592
+00:37:05,000 --> 00:37:07,000
+pravne pomoči, ne, ki
+
+593
+00:37:07,000 --> 00:37:09,000
+imajo zmanjša
+
+594
+00:37:09,000 --> 00:37:11,000
+ta razkorak, ne, med tem, kaj imajo
+
+595
+00:37:11,000 --> 00:37:13,000
+šipki pa tem, kar imajo močnejši,
+
+596
+00:37:13,000 --> 00:37:15,000
+pa imajo lahko te stvari zelo
+
+597
+00:37:15,000 --> 00:37:17,000
+spremenijo celotno, celotno dinamiko,
+
+598
+00:37:17,000 --> 00:37:19,000
+ne.
+
+599
+00:37:19,000 --> 00:37:21,000
+Ker je spet dober.
+
+600
+00:37:21,000 --> 00:37:23,000
+Ja, mislim, vsej verjamem, da bomo v nadelevanju...
+
+601
+00:37:23,000 --> 00:37:25,000
+Čega vi strani si?
+
+602
+00:37:27,000 --> 00:37:29,000
+Bomo v nadelevanju šli na kakšne te teme,
+
+603
+00:37:29,000 --> 00:37:31,000
+ki so pa slabe, ne. Ne, ne, ne, se se strinjam,
+
+604
+00:37:31,000 --> 00:37:33,000
+ampak
+
+605
+00:37:33,000 --> 00:37:35,000
+to, ki je to,
+
+606
+00:37:35,000 --> 00:37:37,000
+si izpostavil, pač, gledam čist tako
+
+607
+00:37:37,000 --> 00:37:39,000
+evolucijsko, je to dober in istočasno,
+
+608
+00:37:39,000 --> 00:37:41,000
+pač, pač,
+
+609
+00:37:41,000 --> 00:37:43,000
+ta razkorak zmanjša, zapravo.
+
+610
+00:37:43,000 --> 00:37:45,000
+Tako unga, ki pač te možnosti
+
+611
+00:37:45,000 --> 00:37:47,000
+nima, zdaj prida do neki možnosti,
+
+612
+00:37:47,000 --> 00:37:49,000
+kot pač unga, ki je pač to
+
+613
+00:37:49,000 --> 00:37:51,000
+na veliko zlo rabljav, ne,
+
+614
+00:37:51,000 --> 00:37:53,000
+zdaj samo to, pač ta njegova pozicija je zdaj
+
+615
+00:37:53,000 --> 00:37:55,000
+malo drugačna, ne.
+
+616
+00:37:55,000 --> 00:37:57,000
+Da smo čist konkretni, ne, če koga to
+
+617
+00:37:57,000 --> 00:37:59,000
+mogoče bolj po sebi zanima, ne, podjetje,
+
+618
+00:37:59,000 --> 00:38:01,000
+ki se ukvarja s takimi stvarmi, je do not pay.
+
+619
+00:38:01,000 --> 00:38:03,000
+Ja, ok.
+
+620
+00:38:03,000 --> 00:38:05,000
+So postaži malo kar znani v tem prostoru
+
+621
+00:38:05,000 --> 00:38:07,000
+in splača se pogledat,
+
+622
+00:38:07,000 --> 00:38:09,000
+vsake tok, kaj je ta zadna stvar,
+
+623
+00:38:09,000 --> 00:38:11,000
+ki jo imajo, vrzena. Ta do not pay,
+
+624
+00:38:11,000 --> 00:38:13,000
+ne, sem razumev,
+
+625
+00:38:13,000 --> 00:38:15,000
+oni se bojujojo
+
+626
+00:38:15,000 --> 00:38:17,000
+proti temu, da ti
+
+627
+00:38:17,000 --> 00:38:19,000
+plačaš te subscription-e,
+
+628
+00:38:19,000 --> 00:38:21,000
+ali pač, da nič ne plačaš.
+
+629
+00:38:21,000 --> 00:38:23,000
+Ne, jaz mislim, da
+
+630
+00:38:23,000 --> 00:38:25,000
+se tako pozicionirajo, kot neke
+
+631
+00:38:25,000 --> 00:38:27,000
+vrste
+
+632
+00:38:27,000 --> 00:38:29,000
+small consumer
+
+633
+00:38:29,000 --> 00:38:31,000
+every person advocate.
+
+634
+00:38:31,000 --> 00:38:33,000
+V razno raznih interakcijah z sistemi.
+
+635
+00:38:33,000 --> 00:38:35,000
+Lahko se gre za cancelane naročnin,
+
+636
+00:38:35,000 --> 00:38:37,000
+lahko se gre
+
+637
+00:38:37,000 --> 00:38:39,000
+za kakšno osnovno pravno pomoč,
+
+638
+00:38:39,000 --> 00:38:41,000
+in podobno, ne.
+
+639
+00:38:41,000 --> 00:38:43,000
+Ampak oni, mislim, da so ravno zdaj, preteklih
+
+640
+00:38:43,000 --> 00:38:45,000
+tednih, dali nek challenge,
+
+641
+00:38:45,000 --> 00:38:47,000
+da bojo dali
+
+642
+00:38:47,000 --> 00:38:49,000
+neko nagrado
+
+643
+00:38:49,000 --> 00:38:51,000
+za umetno inteligenco,
+
+644
+00:38:51,000 --> 00:38:53,000
+ki bo sposobno zmagati
+
+645
+00:38:53,000 --> 00:38:55,000
+na sodišču v nekih case-ih.
+
+646
+00:38:55,000 --> 00:38:57,000
+Ja, v Njemčiji bo en,
+
+647
+00:38:57,000 --> 00:38:59,000
+mislim, da bo v Njemčini,
+
+648
+00:38:59,000 --> 00:39:01,000
+sodni proces,
+
+649
+00:39:01,000 --> 00:39:03,000
+sicer gre, mislim, da gre še vedno za neko...
+
+650
+00:39:03,000 --> 00:39:05,000
+Nek parking.
+
+651
+00:39:05,000 --> 00:39:07,000
+Neko high stakes.
+
+652
+00:39:07,000 --> 00:39:09,000
+In pač stranka bo sama
+
+653
+00:39:09,000 --> 00:39:11,000
+sebe zastopala, ker ima možnost, ne,
+
+654
+00:39:11,000 --> 00:39:13,000
+pa imela bo slušalko, ne,
+
+655
+00:39:13,000 --> 00:39:15,000
+kjer bo model naročal
+
+656
+00:39:15,000 --> 00:39:17,000
+kaj ne reče na sodišču.
+
+657
+00:39:17,000 --> 00:39:19,000
+Ampak so pa tudi ponudili za en miljon
+
+658
+00:39:19,000 --> 00:39:21,000
+dolarjev nagrade nekomu,
+
+659
+00:39:21,000 --> 00:39:23,000
+ki bi bil pripravljen
+
+660
+00:39:23,000 --> 00:39:25,000
+iti v podobno zadevo, ampak pred
+
+661
+00:39:25,000 --> 00:39:27,000
+ameriškim ustavnim sodiščem.
+
+662
+00:39:27,000 --> 00:39:29,000
+Kar bi bilo težko izvedljivo, ker
+
+663
+00:39:29,000 --> 00:39:31,000
+vse to so pa ljudje komentirali, ne,
+
+664
+00:39:31,000 --> 00:39:33,000
+da načeloma tam niti ne moraš teh napraviti,
+
+665
+00:39:33,000 --> 00:39:35,000
+sploh noter ne sta, ne.
+
+666
+00:39:35,000 --> 00:39:37,000
+Ampak verjamam,
+
+667
+00:39:37,000 --> 00:39:39,000
+da so kar confident v to,
+
+668
+00:39:39,000 --> 00:39:41,000
+kar trenutno imajo in kar trenutno
+
+669
+00:39:41,000 --> 00:39:43,000
+je možno. Recimo v vidu
+
+670
+00:39:43,000 --> 00:39:45,000
+sem en posnetek, kako se njihov bod
+
+671
+00:39:45,000 --> 00:39:47,000
+pogaja
+
+672
+00:39:47,000 --> 00:39:49,000
+z nekim predstavnikom
+
+673
+00:39:49,000 --> 00:39:51,000
+bodjetja za znižanje naročnine
+
+674
+00:39:51,000 --> 00:39:53,000
+in gre prek glasu, ne,
+
+675
+00:39:53,000 --> 00:39:55,000
+tj. po obdansko se pogovarjata.
+
+676
+00:39:55,000 --> 00:39:57,000
+Mislim, da je šlo za
+
+677
+00:39:57,000 --> 00:39:59,000
+Comcast, da so potem se izpogaja
+
+678
+00:39:59,000 --> 00:40:01,000
+nižjo naročnino, ne.
+
+679
+00:40:01,000 --> 00:40:03,000
+In to je samo,
+
+680
+00:40:03,000 --> 00:40:05,000
+to je res samo tak vrh
+
+681
+00:40:05,000 --> 00:40:07,000
+ljudi gore zdaj, ne, kam
+
+682
+00:40:07,000 --> 00:40:09,000
+bo to šlo, ne.
+
+683
+00:40:09,000 --> 00:40:11,000
+Mislim, pa vidiš,
+
+684
+00:40:11,000 --> 00:40:13,000
+da bo tega
+
+685
+00:40:13,000 --> 00:40:15,000
+še več na masovni
+
+686
+00:40:15,000 --> 00:40:17,000
+uporabi. A valja bo vedno
+
+687
+00:40:17,000 --> 00:40:19,000
+bolj dostopno, bože?
+
+688
+00:40:19,000 --> 00:40:21,000
+A bo?
+
+689
+00:40:21,000 --> 00:40:23,000
+Jaz ko gledam, nasploh, mislim, da
+
+690
+00:40:23,000 --> 00:40:25,000
+lahko uporabna perspektiva,
+
+691
+00:40:25,000 --> 00:40:27,000
+kar se tiče podjetništva,
+
+692
+00:40:27,000 --> 00:40:29,000
+pa novih produktov, ne, recimo,
+
+693
+00:40:29,000 --> 00:40:31,000
+če hočemo, si zamisli, ne,
+
+694
+00:40:31,000 --> 00:40:33,000
+kaj so kakšni produkti, ki bi
+
+695
+00:40:33,000 --> 00:40:35,000
+ljudje radi imeli, pa uporabljali, ne.
+
+696
+00:40:35,000 --> 00:40:37,000
+A ena varianta je, da pogledaš,
+
+697
+00:40:37,000 --> 00:40:39,000
+kaj recimo ta trenutek
+
+698
+00:40:39,000 --> 00:40:41,000
+uporabljajo ful bogati, ne,
+
+699
+00:40:41,000 --> 00:40:43,000
+pa probaš fantazirati,
+
+700
+00:40:43,000 --> 00:40:45,000
+kako pa bi zgledalo, če bi ti to naredil
+
+701
+00:40:45,000 --> 00:40:47,000
+tisočkrat senej. A bi se stvar
+
+702
+00:40:47,000 --> 00:40:49,000
+prijel, ali se ne bi bilo.
+
+703
+00:40:49,000 --> 00:40:51,000
+Vedno se dodajo ceneje.
+
+704
+00:40:51,000 --> 00:40:53,000
+Jaz mislim, da take stvari, kukar
+
+705
+00:40:53,000 --> 00:40:55,000
+pač nek asistent, ki namesto
+
+706
+00:40:55,000 --> 00:40:57,000
+tebe pohendla
+
+707
+00:40:57,000 --> 00:40:59,000
+pogajanje z ponudnikom
+
+708
+00:40:59,000 --> 00:41:01,000
+telekomunikacij, ali pa, ne vem,
+
+709
+00:41:01,000 --> 00:41:03,000
+ti dela razne rezervacije,
+
+710
+00:41:03,000 --> 00:41:05,000
+neke nakupe, s katerimi
+
+711
+00:41:05,000 --> 00:41:07,000
+se nočeš ukvarjati, jaz mislim, da je to velik potencijal.
+
+712
+00:41:07,000 --> 00:41:09,000
+In,
+
+713
+00:41:09,000 --> 00:41:11,000
+evo, jaz mislim, da bo prav letošnje
+
+714
+00:41:11,000 --> 00:41:13,000
+leto tisto, no, ki bodo te
+
+715
+00:41:13,000 --> 00:41:15,000
+tovrstni agenti začeli prihajati
+
+716
+00:41:15,000 --> 00:41:17,000
+v spredje.
+
+717
+00:41:17,000 --> 00:41:19,000
+Zdaj bi, probam malo,
+
+718
+00:41:19,000 --> 00:41:21,000
+malič v teh pojmih,
+
+719
+00:41:21,000 --> 00:41:23,000
+da se pogovorimo. Tisto, kar mogli na začetku.
+
+720
+00:41:23,000 --> 00:41:25,000
+Kar biš mogli na začetku.
+
+721
+00:41:25,000 --> 00:41:27,000
+A nam lahko
+
+722
+00:41:27,000 --> 00:41:29,000
+razložiš
+
+723
+00:41:29,000 --> 00:41:31,000
+koncept umetna inteligenca,
+
+724
+00:41:31,000 --> 00:41:33,000
+strojno učenje,
+
+725
+00:41:33,000 --> 00:41:35,000
+pa deep learning? Kakje so
+
+726
+00:41:35,000 --> 00:41:37,000
+te povezave,
+
+727
+00:41:37,000 --> 00:41:39,000
+pa kaj nam to majo razložiti?
+
+728
+00:41:39,000 --> 00:41:41,000
+Kaj je tista meja, kaj je buzzword?
+
+729
+00:41:41,000 --> 00:41:43,000
+Kaj je tisto marketiško
+
+730
+00:41:43,000 --> 00:41:45,000
+buzzword? Kaj je Hollywood,
+
+731
+00:41:45,000 --> 00:41:47,000
+kaj je sci-fi?
+
+732
+00:41:47,000 --> 00:41:49,000
+Kaj tisto dejansko se pač
+
+733
+00:41:49,000 --> 00:41:51,000
+pogovarjamo v tej stroki?
+
+734
+00:41:51,000 --> 00:41:53,000
+Ja, dajmo, pa začnimo
+
+735
+00:41:53,000 --> 00:41:55,000
+z umetno inteligenco,
+
+736
+00:41:55,000 --> 00:41:57,000
+najbolj obloženo besedo tukaj.
+
+737
+00:41:59,000 --> 00:42:01,000
+To je v bistvu, lahko,
+
+738
+00:42:01,000 --> 00:42:03,000
+stvar, ki je zelo, zelo, zelo splošna
+
+739
+00:42:03,000 --> 00:42:05,000
+in tukaj notri dejansko lahko
+
+740
+00:42:05,000 --> 00:42:07,000
+pade ogromno nekaj stvari.
+
+741
+00:42:07,000 --> 00:42:09,000
+Jaz osebno
+
+742
+00:42:09,000 --> 00:42:11,000
+to tako vidimo,
+
+743
+00:42:11,000 --> 00:42:13,000
+en sistem, ki
+
+744
+00:42:13,000 --> 00:42:15,000
+na podlagi nekih
+
+745
+00:42:15,000 --> 00:42:17,000
+inputov proizvede
+
+746
+00:42:17,000 --> 00:42:19,000
+outpute, ki so
+
+747
+00:42:19,000 --> 00:42:21,000
+skladni z neko,
+
+748
+00:42:21,000 --> 00:42:23,000
+kaj ne temu rečem,
+
+749
+00:42:23,000 --> 00:42:25,000
+optimizacijsko funkcijo.
+
+750
+00:42:25,000 --> 00:42:27,000
+Ampak tukaj,
+
+751
+00:42:27,000 --> 00:42:29,000
+je to posledično
+
+752
+00:42:29,000 --> 00:42:31,000
+pomen tukaj, da lahko
+
+753
+00:42:31,000 --> 00:42:33,000
+skor kajkolno zapakiramo dejansko.
+
+754
+00:42:33,000 --> 00:42:35,000
+Recimo en sistem, ki
+
+755
+00:42:35,000 --> 00:42:37,000
+pogleda
+
+756
+00:42:37,000 --> 00:42:39,000
+na vrednost nekega
+
+757
+00:42:39,000 --> 00:42:41,000
+senzore za temperaturo,
+
+758
+00:42:41,000 --> 00:42:43,000
+pa ti na konc pač da
+
+759
+00:42:43,000 --> 00:42:45,000
+enko ali pa ničlo glede na
+
+760
+00:42:45,000 --> 00:42:47,000
+vrednost, je neke vrste
+
+761
+00:42:47,000 --> 00:42:49,000
+inteligenca.
+
+762
+00:42:49,000 --> 00:42:51,000
+To je tako, kaj da bi zdaj nekaj pač
+
+763
+00:42:51,000 --> 00:42:53,000
+if, ali pa case close
+
+764
+00:42:53,000 --> 00:42:55,000
+pač zdefinirali. Lahko je, mislim,
+
+765
+00:42:55,000 --> 00:42:57,000
+to hočem reči, lahko začnemo.
+
+766
+00:42:57,000 --> 00:42:59,000
+Jaz jih avtomatsko pri tej
+
+767
+00:42:59,000 --> 00:43:01,000
+uradni definiciji tega stvari ne izključujem.
+
+768
+00:43:03,000 --> 00:43:05,000
+To je zdaj,
+
+769
+00:43:05,000 --> 00:43:07,000
+če gledamo čist uradno.
+
+770
+00:43:07,000 --> 00:43:09,000
+V praksi
+
+771
+00:43:09,000 --> 00:43:11,000
+ljudje to tako uporabljajo.
+
+772
+00:43:11,000 --> 00:43:13,000
+Umetna inteligenca je vse tisto, kar še ne znamo narediti.
+
+773
+00:43:15,000 --> 00:43:17,000
+In posledično tudi to
+
+774
+00:43:17,000 --> 00:43:19,000
+dirigira
+
+775
+00:43:19,000 --> 00:43:21,000
+celo to diskusijo.
+
+776
+00:43:21,000 --> 00:43:23,000
+Recimo eno podjetje
+
+777
+00:43:23,000 --> 00:43:25,000
+reče, da uporablja umetno inteligenco.
+
+778
+00:43:25,000 --> 00:43:27,000
+V bistvu uporablja ene tri vstavke nekje
+
+779
+00:43:27,000 --> 00:43:29,000
+noter.
+
+780
+00:43:29,000 --> 00:43:31,000
+Potem je full denarja.
+
+781
+00:43:31,000 --> 00:43:33,000
+Mogoče, ampak ljudje bodo
+
+782
+00:43:33,000 --> 00:43:35,000
+rekli, ne, to ni umetna inteligenca.
+
+783
+00:43:35,000 --> 00:43:37,000
+Umetna inteligenca je samo tisto.
+
+784
+00:43:37,000 --> 00:43:39,000
+Potem gremo naprej.
+
+785
+00:43:39,000 --> 00:43:41,000
+Zdaj pač
+
+786
+00:43:41,000 --> 00:43:43,000
+si hotev povejati, da umetna inteligenca
+
+787
+00:43:43,000 --> 00:43:45,000
+je tisto, kar se masovno zelo
+
+788
+00:43:45,000 --> 00:43:47,000
+rabila v marketinjske namene.
+
+789
+00:43:47,000 --> 00:43:49,000
+Vsekakor se
+
+790
+00:43:49,000 --> 00:43:51,000
+zelo rabila, ja.
+
+791
+00:43:51,000 --> 00:43:53,000
+Mislim, da tako
+
+792
+00:43:53,000 --> 00:43:55,000
+vidim, da
+
+793
+00:43:55,000 --> 00:43:57,000
+čez noč je nastali kupa enih produktov
+
+794
+00:43:57,000 --> 00:43:59,000
+z nojimi imeni, ki so v bistvu stari produkti,
+
+795
+00:43:59,000 --> 00:44:01,000
+samo dodali sem ta nek
+
+796
+00:44:01,000 --> 00:44:03,000
+diskripsion, da zdaj pa imamo
+
+797
+00:44:03,000 --> 00:44:05,000
+neko umetno inteligenco noter.
+
+798
+00:44:05,000 --> 00:44:07,000
+Verjetno podoben, kot si prej rekel,
+
+799
+00:44:07,000 --> 00:44:09,000
+pač par if-ov, ki zdaj nekaj pametnega
+
+800
+00:44:09,000 --> 00:44:11,000
+se odločijo, ja. Ja,
+
+801
+00:44:11,000 --> 00:44:13,000
+z tem, da pa mislim, da je ta primerjava,
+
+802
+00:44:13,000 --> 00:44:15,000
+ker se teh if-ov tiče
+
+803
+00:44:15,000 --> 00:44:17,000
+ta trenutek, pa bom rekel, že
+
+804
+00:44:17,000 --> 00:44:19,000
+zadnji, mogoče dve leti, je izredno
+
+805
+00:44:19,000 --> 00:44:21,000
+škodljiva. Ker recimo to
+
+806
+00:44:21,000 --> 00:44:23,000
+tudi uporabljajo potem ljudje kot nek
+
+807
+00:44:23,000 --> 00:44:25,000
+izgovor, ne. Ah,
+
+808
+00:44:25,000 --> 00:44:27,000
+vsej to ni nač res pametnega,
+
+809
+00:44:27,000 --> 00:44:29,000
+to so samo if-stavki, ne.
+
+810
+00:44:29,000 --> 00:44:31,000
+Smo pa zdaj pač
+
+811
+00:44:31,000 --> 00:44:33,000
+zelo že globok v nekem
+
+812
+00:44:33,000 --> 00:44:35,000
+obdobju, ko smo šli izredno
+
+813
+00:44:35,000 --> 00:44:37,000
+dalec stran, v kakršnih koli
+
+814
+00:44:37,000 --> 00:44:39,000
+if-stavkov, ne. Ampak
+
+815
+00:44:39,000 --> 00:44:41,000
+pač marsi kdo se niti ne izobrazi
+
+816
+00:44:41,000 --> 00:44:43,000
+v tem, zato ker pač, ne, ne, to so
+
+817
+00:44:43,000 --> 00:44:45,000
+vsi smo videli tiste mime, ne,
+
+818
+00:44:45,000 --> 00:44:47,000
+ker pač, ne vem, piši gora i, pa odgrneš
+
+819
+00:44:47,000 --> 00:44:49,000
+jim ga duhca, pa so if-stavki,
+
+820
+00:44:49,000 --> 00:44:51,000
+ne. Ampak nismo več
+
+821
+00:44:51,000 --> 00:44:53,000
+iz tem, ne. Ja, ampak, mislim,
+
+822
+00:44:53,000 --> 00:44:55,000
+a veš, če
+
+823
+00:44:55,000 --> 00:44:57,000
+gremo spet, a veš, kako stroj razmišlja,
+
+824
+00:44:57,000 --> 00:44:59,000
+na konc dneva
+
+825
+00:44:59,000 --> 00:45:01,000
+je tam v škatla stroj,
+
+826
+00:45:01,000 --> 00:45:03,000
+ki dela na
+
+827
+00:45:03,000 --> 00:45:05,000
+na enkih pa nulah.
+
+828
+00:45:05,000 --> 00:45:07,000
+Ja, ne, takda,
+
+829
+00:45:07,000 --> 00:45:09,000
+res je pa, da smo zgradili
+
+830
+00:45:09,000 --> 00:45:11,000
+više abstrakcije, zagotovo,
+
+831
+00:45:11,000 --> 00:45:13,000
+pa matematiko. Mislim,
+
+832
+00:45:13,000 --> 00:45:15,000
+to, kar je kontrargumen za to
+
+833
+00:45:15,000 --> 00:45:17,000
+vrstne argumente, je vedno to, ne, ja,
+
+834
+00:45:17,000 --> 00:45:19,000
+a ti pa nisi neke vrste stroja,
+
+835
+00:45:19,000 --> 00:45:21,000
+ali kaj. Če bi pa, če bi pa pretep
+
+836
+00:45:21,000 --> 00:45:23,000
+dovolj globok pogledal, bi pa kaj videl,
+
+837
+00:45:23,000 --> 00:45:25,000
+neke molekule, ali kaj, ne, veš.
+
+838
+00:45:25,000 --> 00:45:27,000
+Where is the magic? On pravi, da ima
+
+839
+00:45:27,000 --> 00:45:29,000
+dušo, pa ima sobodno voljo.
+
+840
+00:45:29,000 --> 00:45:31,000
+Ja, ampak vse ti stroje zdaj tudi pravi,
+
+841
+00:45:31,000 --> 00:45:33,000
+da imajo, ne, veš, samo pravo na udilo
+
+842
+00:45:33,000 --> 00:45:35,000
+omoržati na začetku, ne.
+
+843
+00:45:35,000 --> 00:45:37,000
+K manj pa mogoče nikako to ne boš več rabil, ne.
+
+844
+00:45:37,000 --> 00:45:39,000
+No, ampak, evo, če se malo vrnemo nazaj, ne, dober,
+
+845
+00:45:39,000 --> 00:45:41,000
+ne, če je ta splošnj pojem
+
+846
+00:45:41,000 --> 00:45:43,000
+mišnje inteligencije tako splošen, ne,
+
+847
+00:45:43,000 --> 00:45:45,000
+kaj pa palj strojna učenja, ne, ga dosta to
+
+848
+00:45:45,000 --> 00:45:47,000
+ljudje uporabljajo čist tako, ne,
+
+849
+00:45:47,000 --> 00:45:49,000
+kot so pomenko, ne.
+
+850
+00:45:49,000 --> 00:45:51,000
+Ja, strojna učenja je pa pač postopek
+
+851
+00:45:51,000 --> 00:45:53,000
+tega, ne, da ti v bistvu
+
+852
+00:45:53,000 --> 00:45:55,000
+model nekaj naučiš, ne,
+
+853
+00:45:55,000 --> 00:45:57,000
+ampak stroj nekaj naučiš, ne.
+
+854
+00:45:57,000 --> 00:45:59,000
+Tako da je,
+
+855
+00:45:59,000 --> 00:46:01,000
+em, tle smo v bistvu
+
+856
+00:46:01,000 --> 00:46:03,000
+eno bolj zožele, ne. Tukaj ni,
+
+857
+00:46:03,000 --> 00:46:05,000
+ni, ni v nobenih odločitev, nismo tako,
+
+858
+00:46:05,000 --> 00:46:07,000
+ne,
+
+859
+00:46:07,000 --> 00:46:09,000
+ni nekih funkcij oziroma sodel,
+
+860
+00:46:09,000 --> 00:46:11,000
+ampak tle se gre samo za proces učenja, ne.
+
+861
+00:46:11,000 --> 00:46:13,000
+Ampak strojna učenja je
+
+862
+00:46:13,000 --> 00:46:15,000
+ključna za umetna inteligenca?
+
+863
+00:46:15,000 --> 00:46:17,000
+Ja, ja.
+
+864
+00:46:17,000 --> 00:46:19,000
+Mislim. Načeloma,
+
+865
+00:46:19,000 --> 00:46:21,000
+mislim,
+
+866
+00:46:21,000 --> 00:46:23,000
+ti lahko spremaš,
+
+867
+00:46:23,000 --> 00:46:25,000
+imajo boš primere, ko lahko
+
+868
+00:46:25,000 --> 00:46:27,000
+spremaš neke odločitve,
+
+869
+00:46:27,000 --> 00:46:29,000
+oziroma produciraš nek output,
+
+870
+00:46:29,000 --> 00:46:31,000
+tudi ne, da bi rabil imeti nek močno komponento nekega učenja.
+
+871
+00:46:31,000 --> 00:46:33,000
+Je pa res da večina stvari, ki
+
+872
+00:46:33,000 --> 00:46:35,000
+ne zanimajo pa potrebujno učenje, ne.
+
+873
+00:46:35,000 --> 00:46:37,000
+No, in če pa
+
+874
+00:46:37,000 --> 00:46:39,000
+gremo zdaj potem še na deep learning, ne,
+
+875
+00:46:39,000 --> 00:46:41,000
+deep learning je pa posebna
+
+876
+00:46:41,000 --> 00:46:43,000
+veja
+
+877
+00:46:43,000 --> 00:46:45,000
+strojnega učenja,
+
+878
+00:46:45,000 --> 00:46:47,000
+ki te meli v bistvu na
+
+879
+00:46:47,000 --> 00:46:49,000
+mnogo ni vojskih
+
+880
+00:46:49,000 --> 00:46:51,000
+neuronskih mrežah, kot neki
+
+881
+00:46:51,000 --> 00:46:53,000
+osnovni arhitekturi.
+
+882
+00:46:53,000 --> 00:46:55,000
+Verjetno bi se lahko
+
+883
+00:46:55,000 --> 00:46:57,000
+tudi kakšne druge arhitekture
+
+884
+00:46:57,000 --> 00:46:59,000
+delno te koncepte implementirati,
+
+885
+00:46:59,000 --> 00:47:01,000
+ampak to je zdaj pač ta uvelavljena paradigma,
+
+886
+00:47:01,000 --> 00:47:03,000
+ki je
+
+887
+00:47:03,000 --> 00:47:05,000
+nekako uvelavljen tam
+
+888
+00:47:05,000 --> 00:47:07,000
+od zadnjih deset let, ne,
+
+889
+00:47:07,000 --> 00:47:09,000
+recimo, ne, že pa podstaja
+
+890
+00:47:09,000 --> 00:47:11,000
+vedno bolj.
+
+891
+00:47:11,000 --> 00:47:13,000
+Zdaj pa vedno bova tisto vprašanja, ne,
+
+892
+00:47:13,000 --> 00:47:15,000
+kaj pa zdaj, ne, ali zdaj pa to že poseje,
+
+893
+00:47:15,000 --> 00:47:17,000
+ali kaj, ne. Mislim, da
+
+894
+00:47:17,000 --> 00:47:19,000
+še ni, mislim, da ima še kar velik
+
+895
+00:47:19,000 --> 00:47:21,000
+poti za prostora
+
+896
+00:47:21,000 --> 00:47:23,000
+za izboljšave.
+
+897
+00:47:25,000 --> 00:47:27,000
+Nekak meni je všeč, ne, ta definicija,
+
+898
+00:47:27,000 --> 00:47:29,000
+ne, da v bistvu lahko rečem, ok, ne,
+
+899
+00:47:29,000 --> 00:47:31,000
+obdobje globokega učenja, ne.
+
+900
+00:47:31,000 --> 00:47:33,000
+Pol nekje v mese smo pa
+
+901
+00:47:33,000 --> 00:47:35,000
+prišalte na big learning.
+
+902
+00:47:35,000 --> 00:47:37,000
+Tako mi je všeč, ker
+
+903
+00:47:37,000 --> 00:47:39,000
+jem le same take odlične
+
+904
+00:47:39,000 --> 00:47:41,000
+buzzworde deep learning pa big data,
+
+905
+00:47:41,000 --> 00:47:43,000
+združe skupin, da biš big learning.
+
+906
+00:47:43,000 --> 00:47:45,000
+Tako, če ne moraš s tem kaj prodati, pa res ne.
+
+907
+00:47:45,000 --> 00:47:47,000
+Ne, ampak,
+
+908
+00:47:47,000 --> 00:47:49,000
+poanta je pa v tem, ne,
+
+909
+00:47:49,000 --> 00:47:51,000
+modeli, ki zahtevajo
+
+910
+00:47:51,000 --> 00:47:53,000
+tok računske moči, ne, pa so
+
+911
+00:47:53,000 --> 00:47:55,000
+naučeni na tako ogromnih množicah podatkov,
+
+912
+00:47:55,000 --> 00:47:57,000
+ne, da si jih v bistvu ne more,
+
+913
+00:47:57,000 --> 00:47:59,000
+to več ni ti en manjši laboratori
+
+914
+00:47:59,000 --> 00:48:01,000
+prevoščiti, ampak lahko samo, bom rekel,
+
+915
+00:48:01,000 --> 00:48:03,000
+big tech ali pa zelo well-funded
+
+916
+00:48:03,000 --> 00:48:05,000
+start-upi počnejo, ne. To je
+
+917
+00:48:05,000 --> 00:48:07,000
+to, kar smo videli zdaj zadnjih par let
+
+918
+00:48:07,000 --> 00:48:09,000
+in to je to, te modeli, o katerih se
+
+919
+00:48:09,000 --> 00:48:11,000
+danes največ govori, ne, so v bistvu
+
+920
+00:48:11,000 --> 00:48:13,000
+zelo dragi.
+
+921
+00:48:13,000 --> 00:48:15,000
+Zelo dragi primerki tega, ne.
+
+922
+00:48:15,000 --> 00:48:17,000
+A pri teh
+
+923
+00:48:17,000 --> 00:48:19,000
+cutting-edge produktih,
+
+924
+00:48:19,000 --> 00:48:21,000
+pa bomo potem se malo več o teh produktih pogovarjali,
+
+925
+00:48:21,000 --> 00:48:23,000
+tu zadnji gre,
+
+926
+00:48:23,000 --> 00:48:25,000
+kaj, za neko
+
+927
+00:48:25,000 --> 00:48:27,000
+vejo deep learninga
+
+928
+00:48:27,000 --> 00:48:29,000
+ali neko evolucijo
+
+929
+00:48:29,000 --> 00:48:31,000
+nad deep learningom ali gre za
+
+930
+00:48:31,000 --> 00:48:33,000
+hibridne neke pristope,
+
+931
+00:48:33,000 --> 00:48:35,000
+ali ne,
+
+932
+00:48:35,000 --> 00:48:37,000
+ali je to secret?
+
+933
+00:48:37,000 --> 00:48:39,000
+Razlog, zakaj smo tukaj,
+
+934
+00:48:39,000 --> 00:48:41,000
+zakaj se stalo danes pogovarjati o tem,
+
+935
+00:48:41,000 --> 00:48:43,000
+je pač deep learning.
+
+936
+00:48:43,000 --> 00:48:45,000
+Če se to ne bi zgodil, pa če te stvari ne bi imel,
+
+937
+00:48:45,000 --> 00:48:47,000
+pa moje, ne bi imel tega pogovorja,
+
+938
+00:48:47,000 --> 00:48:49,000
+ampak, ne vem, mogoče jih so v kripto
+
+939
+00:48:49,000 --> 00:48:51,000
+konji pogovarjali.
+
+940
+00:48:51,000 --> 00:48:53,000
+Ne, se ne. To se sigurno ne.
+
+941
+00:48:53,000 --> 00:48:55,000
+Vse še imam, ne, par list.
+
+942
+00:48:55,000 --> 00:48:57,000
+Te dve stvari se da zihar povezati. Zihar je pač
+
+943
+00:48:57,000 --> 00:48:59,000
+tle ta kripto pa AI se da skupaj povezati.
+
+944
+00:48:59,000 --> 00:49:01,000
+Ne, dajmo,
+
+945
+00:49:01,000 --> 00:49:03,000
+dajmo.
+
+946
+00:49:03,000 --> 00:49:05,000
+To del bom ozrezal.
+
+947
+00:49:07,000 --> 00:49:09,000
+Ja, no,
+
+948
+00:49:09,000 --> 00:49:11,000
+kar je bilo res pomembno, ne,
+
+949
+00:49:11,000 --> 00:49:13,000
+znotraj tega deep learninga, ne, je bila ta točka,
+
+950
+00:49:13,000 --> 00:49:15,000
+mislim, da sem jih že omenil, ne,
+
+951
+00:49:15,000 --> 00:49:17,000
+te, arhitektura transformerjev.
+
+952
+00:49:17,000 --> 00:49:19,000
+Mislim, ne, bi zdaj,
+
+953
+00:49:19,000 --> 00:49:21,000
+mislim, da je to bolj prekršenih slajdov delati,
+
+954
+00:49:21,000 --> 00:49:23,000
+ne, kaj to je, ampak
+
+955
+00:49:23,000 --> 00:49:25,000
+ta mehanizem, ki je odzadi,
+
+956
+00:49:25,000 --> 00:49:27,000
+ne, je pa v bistvu
+
+957
+00:49:27,000 --> 00:49:29,000
+pozornost, attention, ne,
+
+958
+00:49:29,000 --> 00:49:31,000
+ta je bil zelo, zelo pomemben, ne.
+
+959
+00:49:31,000 --> 00:49:33,000
+V bistvu, če so grobo povedano,
+
+960
+00:49:33,000 --> 00:49:35,000
+se gre za to, da ki diš, dobiš nek kontekst,
+
+961
+00:49:35,000 --> 00:49:37,000
+ne, mislim, da bi vzel,
+
+962
+00:49:37,000 --> 00:49:39,000
+ko bi rekel, ta cel kontekst,
+
+963
+00:49:39,000 --> 00:49:41,000
+pri odločanju notera, ne, obtežiš
+
+964
+00:49:41,000 --> 00:49:43,000
+tiste dele v kontekstu,
+
+965
+00:49:43,000 --> 00:49:45,000
+ki si zaslužil več pozornosti,
+
+966
+00:49:45,000 --> 00:49:47,000
+recimo. Ampak ta proces je,
+
+967
+00:49:47,000 --> 00:49:49,000
+se pravi,
+
+968
+00:49:49,000 --> 00:49:51,000
+human interaction, ki presodi,
+
+969
+00:49:51,000 --> 00:49:53,000
+ali pač ma spet, ne, to se,
+
+970
+00:49:53,000 --> 00:49:55,000
+to spet se strojno naoči, kaj
+
+971
+00:49:55,000 --> 00:49:57,000
+zdiš, deočenja. Ja, strojno se reči, če mora
+
+972
+00:49:57,000 --> 00:49:59,000
+namenjati pozornost, ne, to je,
+
+973
+00:49:59,000 --> 00:50:01,000
+to je lepota tega, ne.
+
+974
+00:50:00,000 --> 00:50:11,000
+Tako da v bistvu ta prdigma, povolj, ko se je začela, pa zdaj daje sadove na vseh možnih primerjih uporabe.
+
+975
+00:50:11,000 --> 00:50:25,000
+Na začel se je zbesedili, potem so bile slike, potem so zdaj multimodalni modeli, ki lahko jemljajo boje ven, povezujejo to boje in tako.
+
+976
+00:50:25,000 --> 00:50:33,000
+A da lahko vprašam pri deep learningu, gre za nevronske mreže, ki so povezane med sabo ali kaj?
+
+977
+00:50:33,000 --> 00:50:45,000
+V bistvu, kaj pomeni ta deep, kaj je mišljeno pred tem deep? Layeri, ki jih moraš dati skupaj ali nevroni, ki jih moraš dati skupaj ali kaj?
+
+978
+00:50:45,000 --> 00:51:02,000
+Predstavlji si, da imaš layerje, sloje, sestavljene iz mnogo nevronev in v bistvu signal, če temu tako rečem, po tej nevronski mreži potuje po teh slojih in teh slojev je tipično veliko.
+
+979
+00:51:02,000 --> 00:51:06,000
+Kaj to govorimo? Sto tisoč, deset, miljon?
+
+980
+00:51:06,000 --> 00:51:09,000
+Ne, ne, mislim sto tisoč.
+
+981
+00:51:09,000 --> 00:51:11,000
+Tako za občutek?
+
+982
+00:51:11,000 --> 00:51:16,000
+Nema mogoče tako najprej reči, čista osnovne stvari.
+
+983
+00:51:16,000 --> 00:51:19,000
+Dost kaj govorimo o parametrih v teh modeljih.
+
+984
+00:51:19,000 --> 00:51:30,000
+Tukaj kot parametar se šteje med drugim v tež na vsakej povezavi med dvema neuronoma.
+
+985
+00:51:30,000 --> 00:51:32,000
+Koliko je teh povezav?
+
+986
+00:51:32,000 --> 00:51:44,000
+Pri trenutnih, ne vem, pogosto danes uporabljanj modelga, pa tri, ima 175 milijard nekje teh povezav.
+
+987
+00:51:44,000 --> 00:51:55,000
+V bistvu so že modeli, ki imajo tudi več, ki grejo prot biljardi ali pa mogoče, da smo tudi že kje čez.
+
+988
+00:51:56,000 --> 00:52:06,000
+Ampak to število, je to nek parametar, ki ga dodaš, ko učiš mrežo?
+
+989
+00:52:06,000 --> 00:52:09,000
+Ne, ne, to je parametar, to je v bistvu tisto, kar se mreža nauči.
+
+990
+00:52:09,000 --> 00:52:11,000
+Mreža se nauči, kakšne mora biti.
+
+991
+00:52:11,000 --> 00:52:14,000
+Ampak ta številka, ki se rekuje za milijarde, pa to.
+
+992
+00:52:14,000 --> 00:52:20,000
+Je to nekaj, kar programere reče, to je limita na to, ko hočem, da me treniraš, pa ne več?
+
+993
+00:52:20,000 --> 00:52:23,000
+To ti definiraš.
+
+994
+00:52:23,000 --> 00:52:30,000
+V začetku, ko postavljaš arhitekturo mreže, pa veš, koliko birati imel slojev, koliko birati imel povezav in tako naprej.
+
+995
+00:52:30,000 --> 00:52:36,000
+To, ampak kakšni so pa vrednosti vsakega v teh, to se pa mreža potem sama nauči.
+
+996
+00:52:38,000 --> 00:52:40,000
+Izjemno.
+
+997
+00:52:40,000 --> 00:52:42,000
+Slišiš kaj ne unaučil?
+
+998
+00:52:42,000 --> 00:52:43,000
+Ja, vse to je point.
+
+999
+00:52:43,000 --> 00:52:47,000
+Pa ne samo jaz, upam, da se boli dekaj naučili, ki nas poslušajo tukaj.
+
+1000
+00:52:48,000 --> 00:53:02,000
+Zdaj, imam vprašanje, a nam lahko mogoče poveš malo več, kakšne projekte recimo v Endavi delate z temi tehnologijami?
+
+1001
+00:53:02,000 --> 00:53:10,000
+Lahko te pa potem grem bolj sprašvati o teh AI produktih, pa mogoče se malo pogovarjamo, kak ti delajo.
+
+1002
+00:53:10,000 --> 00:53:19,000
+Lahko bi se enkrat slišal, kakšen day-to-day projekt delate, da bi ljudje malo dobili občutek, kaj v svojo industrijo delajo.
+
+1003
+00:53:19,000 --> 00:53:22,000
+Razumem, če delaš čez GTP, pa ne smeš povedati.
+
+1004
+00:53:22,000 --> 00:53:34,000
+Ja, ne, mogoče bi tako rekel, kaj so ta trenutek? Če vidimo zdaj en preres v času, pa rečemo, kaj so problemi, ki se rešujo.
+
+1005
+00:53:34,000 --> 00:53:48,000
+Res so raznoliki, pač v velikem podjetju. Lahko, recimo, detektiramo neke stvari na slikah, ne vem, za potrebe proizvodne ali medicine.
+
+1006
+00:53:48,000 --> 00:54:02,000
+Lahko napovedujemo neke cene, napovedujemo velikosti inventarja, kaj potreba. Take stvari, ki so ljudem že nekako tako poznane.
+
+1007
+00:54:03,000 --> 00:54:16,000
+Ampak istočasno, tukaj še posebej smo na tem internem razvoju aktivni, pa gre lahko za stvari, ki pa napolno uporabljajo te čim bolj zadnje tehnologije.
+
+1008
+00:54:16,000 --> 00:54:34,000
+Recimo, ne vem, asistenti za kodiranje, recimo sistemi za optimalno menedžiranje znanja v podjetjih, razno razni boti za odgovarjanje na vprašanja in tako naprej.
+
+1009
+00:54:35,000 --> 00:54:42,000
+Ok. Zdaj, ponavadi, ko greš na job intervju, te vedno vprašajo, kakšni so tvoji pet projekti.
+
+1010
+00:54:42,000 --> 00:54:53,000
+Še boš povedal, kakšen je tvoj pet projekt. Delam malo reše, malo to, kako se igraš, lahko tudi od sklopne dave.
+
+1011
+00:54:54,000 --> 00:55:03,000
+Sej, časih so kakšne stvari, ki jih delam, pa so tako zanimive, da lahko razglasim tudi za moj pet projekt.
+
+1012
+00:55:03,000 --> 00:55:14,000
+Ampak dobro, ena stvar, ki jo takoč izdelam v prostem času, je recimo semantični skalnik po tvitih.
+
+1013
+00:55:15,000 --> 00:55:23,000
+To je sicer neka taka funkcionalnost, da bi si človek želel, da bi bila produktno samo po sebi.
+
+1014
+00:55:23,000 --> 00:55:34,000
+Zdaj, kaj mislim s tem? Recimo, da bom jaz polajkanih en kup enih tvitov. Potem pa pride en trenutek,
+
+1015
+00:55:34,000 --> 00:55:40,000
+da me nekdo povab, pa bi hotel se dotakniti kakšnih tem, ki so prišli na moj radar.
+
+1016
+00:55:40,000 --> 00:55:47,000
+Ampak kako zdaj to najdete, kako povsmiselno pogrupirati. Zdaj delam recimo to, da pa ču zameš ti tvit,
+
+1017
+00:55:47,000 --> 00:55:55,000
+pa vzameš neke tvite kontekstualno povezane z njim, pa vzameš recimo sliko, ki jo je nekdo prelepil,
+
+1018
+00:55:55,000 --> 00:56:02,000
+pa potem pogledaš, kaj je vsebina te slike, pa pogledaš recimo, kaj so ljudje v tem tvitu napisali,
+
+1019
+00:56:02,000 --> 00:56:10,000
+ko so ga kvotri tvitali, in potem to vzameš vse skupaj, vržeš not v GPT-3, da ustrezno to sumarizira,
+
+1020
+00:56:10,000 --> 00:56:21,000
+in potem pa če vse te stvari vložiš v neko vektorsko bazo in nakonc, če ni čist končano ideja,
+
+1021
+00:56:21,000 --> 00:56:26,000
+da napišeš eno temo, ki te zanima in avtomatsko prikliče.
+
+1022
+00:56:26,000 --> 00:56:39,000
+Se pravi, moraš razumeti sebino tvitov, moraš znati povezati nekako s širšim kontekstom, kaj ljudje govorijo,
+
+1023
+00:56:39,000 --> 00:56:42,000
+pa tudi na drugi strani, ko ti postaviš vprašanje.
+
+1024
+00:56:42,000 --> 00:56:53,000
+Ja, ampak največji hec je, recimo to je bil projekt, še pet let nazaj, research department,
+
+1025
+00:56:53,000 --> 00:56:59,000
+pa ne vem koliko raznih inženirjev takih in drugačnih, zdaj pa često sam delam za hobija,
+
+1026
+00:56:59,000 --> 00:57:09,000
+ker enostavno s temi modeli, ki je GPT-3, je to k tega konteksta avtomatsko prednaučenega, da v bistvu...
+
+1027
+00:57:09,000 --> 00:57:11,000
+Pravi, porabnik, bolj kot researcher.
+
+1028
+00:57:11,000 --> 00:57:16,000
+Mislim ja, ne, plus pač on mi pomaga kodo pisati, če kaj rabim.
+
+1029
+00:57:16,000 --> 00:57:25,000
+To se zdi, da si tako opisal, da to je nekaj, ki lahko tako nekdo dost hitro pride noter in dost hitro začne uporabljati.
+
+1030
+00:57:25,000 --> 00:57:36,000
+Ja, če bi kaj hotel, da ljudi odnesejo danes z tega pogovora, je to, da res se je spremenil čas in tehnologija je res ratala izredno dostopna.
+
+1031
+00:57:37,000 --> 00:57:47,000
+Na mesto, da bi govorili zdaj o nekih akademskih člankih, ki jih moraš preštudirati, lahko govorimo o temu, da pač preprosto so tooli, ki jih samo začneš uporabljati in so popolnoma no code.
+
+1032
+00:57:48,000 --> 00:58:02,000
+Samo veš kaj, velika težava je, ki se včasih zgodije, pod seboj pri juniorih, to bo Andraš v letnju potredil, da ljudje pač preberajo nek članek, gledajo YouTube tutorial,
+
+1033
+00:58:02,000 --> 00:58:16,000
+v zadev se stavijo, potem pa pridejo na službo, potem pa gotoviš, da kaj več, pa tisto tutorial, pa ljudje nimajo konteksta, pa vzadja, pa globine.
+
+1034
+00:58:16,000 --> 00:58:25,000
+In ko te zadeve začnejo, ko se razpočijo, jih moraš nekako znati skupaj, se staviti.
+
+1035
+00:58:25,000 --> 00:58:34,000
+To je pač tisti zdel, ki povemaš, da te ljudje morajo imeti nekaj tega samo zanimanja v zadevi, samo raziskovanja.
+
+1036
+00:58:34,000 --> 00:58:47,000
+Ja, samo raziskovanje, pa iti, recimo gledati, kako JavaScript knjižnica deluje, je verjetno magnitudo bolj enostavno, kot pa razumeti vse te enažbe.
+
+1037
+00:58:48,000 --> 00:58:49,000
+Tle ni kaj dose enač, poveš?
+
+1038
+00:58:49,000 --> 00:58:50,000
+Ni dose enač, ne.
+
+1039
+00:58:53,000 --> 00:58:59,000
+Ja, mislim, ne, enostavno pač prišli smo v obdobje, ka so to pač produkti.
+
+1040
+00:58:59,000 --> 00:59:06,000
+Ti pač uporabljaš produkt za to, da ti pač pomaga optimizirati en del tvojega dela ali početja, kakorkoli.
+
+1041
+00:59:06,000 --> 00:59:08,000
+Mislim, se je tle ničkolik takih primerov.
+
+1042
+00:59:09,000 --> 00:59:10,000
+Mogoče bi tle to rekel.
+
+1043
+00:59:12,000 --> 00:59:20,000
+Ko se tiče uporabe umetne inteligence, mislim, da smo v preteklosti velikrat največ fokusa dejali na uporabo v primerjih, ki res niso primerni za to.
+
+1044
+00:59:21,000 --> 00:59:26,000
+Do neke mere, če pogledamo količino investicij, ki je šla v samo vzečje avta.
+
+1045
+00:59:27,000 --> 00:59:36,000
+To je en tak zoprnjuskejs, ka se avto vvosti v popolnoma splošnem svetu, z neko visoko hitrostjo.
+
+1046
+00:59:36,000 --> 00:59:41,000
+V vsakem trenutku so ogrožena človeška življenja in ena napaka je živo.
+
+1047
+00:59:41,000 --> 00:59:42,000
+High-stakes, totalno.
+
+1048
+00:59:42,000 --> 00:59:43,000
+Ja, ful je high-stakes.
+
+1049
+00:59:44,000 --> 00:59:46,000
+Lahko bi bilo še bolje, ampak dobro.
+
+1050
+00:59:48,000 --> 00:59:53,000
+In sveda potem ti narediš nekaj dela 99,99, ampak je to ful premal.
+
+1051
+00:59:54,000 --> 00:59:59,000
+In vsaka naslednja decimalka te pa stane milijarde ali desetine milijarde, kakorkoli.
+
+1052
+01:00:00,000 --> 01:00:09,000
+Za enkrat bi rekel, še vedno najboljši primeri za uporabo so tisti, ki lahko ti pomaga mnogo krat na dan nekaj narediti,
+
+1053
+01:00:10,000 --> 01:00:13,000
+pa če naredi napako, jo ti lahko dosti hitro opazeš.
+
+1054
+01:00:14,000 --> 01:00:17,000
+In to, da stisneš pa še enkrat generate, ni problem.
+
+1055
+01:00:18,000 --> 01:00:21,000
+In potem se znebiš tega bremena, da mora biti sistem vedno prav.
+
+1056
+01:00:23,000 --> 01:00:28,000
+In te sistemi za marsikej so na voljo dones in jih lahko začneš uporabljati.
+
+1057
+01:00:29,000 --> 01:00:39,000
+Pravi za ljudi, ki razmišljajo o tem, kako bi bil dober začetni produkt z umetno inteligenco ali pa s strojno ženjem,
+
+1058
+01:00:40,000 --> 01:00:46,000
+izberte se nekaj takih produktov, ko niso tako high stakes, pa ko lahko niso ogrožo življenja.
+
+1059
+01:00:49,000 --> 01:00:57,000
+Veseli v firmi, recimo firma ni nikoli kaj dost delala, data science pa to, gre to vplevat in se odloča,
+
+1060
+01:00:57,000 --> 01:01:00,000
+pa ne, kje bomo zdaj to aplicirali, to nas bo stalo veliko,
+
+1061
+01:01:01,000 --> 01:01:07,000
+pa bomo šli v najbolj high stakes dela, zato ker hočemo pogovoriti o te investicije, to nas najbolj stane, to najbolj boli.
+
+1062
+01:01:08,000 --> 01:01:13,000
+In potem probajo rešiti ta ful težek, ful high stakes problem, vsaka napaka je boleča.
+
+1063
+01:01:14,000 --> 01:01:21,000
+In na koncu vidijo, da pa ta umetna inteligenca nas nič isprepeljala do te četrte decimalke, kaj zdaj to, ful smo razočarani.
+
+1064
+01:01:22,000 --> 01:01:28,000
+Istočasno, imajo pa tam recimo nekoga v back office-u, ki zapravo ogroman časa pa svojih živcev,
+
+1065
+01:01:29,000 --> 01:01:36,000
+zato da nek ful neoptimalno zastavljan proces počne, pa bi ga lahko tako totalno enostavno optimiziral,
+
+1066
+01:01:37,000 --> 01:01:41,000
+ampak se ne smatra, da je high stakes in potem se pač v tisto ne gre.
+
+1067
+01:01:42,000 --> 01:01:49,000
+Se pravi, ko ljudje govorijo o digitalni transformaciji podjetij, našo podjetje je zastarelo,
+
+1068
+01:01:49,000 --> 01:01:51,000
+treba ga je transformirati, pa to.
+
+1069
+01:01:52,000 --> 01:01:59,000
+Dajte mogoče najprej razdelati, kje procese imate, pa mogoče začeti avtomatizirati te low hanging fruit,
+
+1070
+01:02:00,000 --> 01:02:07,000
+take projekte, naj najprej vzeti najdražje umetne inteligence in pa iti na najbolj hardcore problem, ki ga imaš.
+
+1071
+01:02:08,000 --> 01:02:14,000
+Mogoče lahko pa tako začneš, če bi rad, da imajo zaposleni pozitiven odnos do tega, da jih vpraši, kaj im gre najbolj na živce.
+
+1072
+01:02:15,000 --> 01:02:21,000
+Pa pa tam začni, a lahko ta sistem naredimo tako, da bo manj živcero z umetno inteligenco.
+
+1073
+01:02:22,000 --> 01:02:30,000
+Ej, zdaj imam tu, ježiš, kaj bomo to povezali, Andreš?
+
+1074
+01:02:31,000 --> 01:02:33,000
+Ne vem, ti si si, ti si si zamislil.
+
+1075
+01:02:36,000 --> 01:02:46,000
+Mogoče bi se malo šli pogovarjati o produktih, ki uporabljajo umetno inteligenco, pa bomo šli z tami izpeljati nekaj iz točnic, pa povezati.
+
+1076
+01:02:47,000 --> 01:02:56,000
+Zdaj sem si tukaj izpisal par teh bolj znanih, bolj odmevnih produktov po zgod, pa nekatere so mogoče malo manj znane.
+
+1077
+01:02:57,000 --> 01:03:00,000
+Jaz mislim, da vse poznaš, če pa kaj ne znaš, bomo pa že.
+
+1078
+01:03:01,000 --> 01:03:03,000
+Ampak mislim, da so ti vsi poznani.
+
+1079
+01:03:04,000 --> 01:03:14,000
+Prvi produkt, ki je predvsej spremenil predvsem ta del prostor, pa ki je kar naredil nek tak pomp, je ta…
+
+1080
+01:03:14,000 --> 01:03:16,000
+Mislim, dvigno za skrbljenost.
+
+1081
+01:03:17,000 --> 01:03:18,000
+Dvigno za skrbljenost.
+
+1082
+01:03:19,000 --> 01:03:31,000
+Je GitHub-ov Co-Pilot. To je en plugin, ki ga dobiš za svoje ideje in ta plugin spremlja kodo, ki jo pišeš, mislim, na komentarje.
+
+1083
+01:03:32,000 --> 01:03:38,000
+In ko ti napišeš nek komentar, ti že on predlaga snippet solušena, klikneš tab ali enter, pa ti to izpolne.
+
+1084
+01:03:39,000 --> 01:03:45,000
+Ta zadeva je navčena na GitHub-ovem repozitorju, se pravi vso kodo, ki ima GitHub.
+
+1085
+01:03:46,000 --> 01:03:48,000
+A vemo javno ali tudi privatno?
+
+1086
+01:03:49,000 --> 01:03:52,000
+Mislim, v bistvu kar dobro poznam ta produkt.
+
+1087
+01:03:54,000 --> 01:04:05,000
+Je navčena na Marsičem, v bistvu uporablja noter v svojem jedru, so to GPT-3 kodeks modeli.
+
+1088
+01:04:05,000 --> 01:04:12,000
+To so bili v bistvu modeli, ki je bil navčen in na celi gori kode, in na jednoravnem jeziku.
+
+1089
+01:04:14,000 --> 01:04:20,000
+Potem je bil pa pač, ko je bil že navčen, je bil pa samo pač malo prilagujen za to, da dela bolj za kodo.
+
+1090
+01:04:21,000 --> 01:04:25,000
+Ampak ja, v osnovi pa je to GPT-3 model.
+
+1091
+01:04:26,000 --> 01:04:27,000
+Prilagujen za ta jezika.
+
+1092
+01:04:28,000 --> 01:04:31,000
+Začel, štarto je kot GPT-3 model, posle ga pa pač malo, nekaj fajn so naredili.
+
+1093
+01:04:31,000 --> 01:04:41,000
+To se je zdaj tako upisalo, kot dost simple, dost trivialno, pač bolj marketiška fora, nič posebnega, lahko bi naredil doma to.
+
+1094
+01:04:42,000 --> 01:04:43,000
+Mislim, dejansko.
+
+1095
+01:04:44,000 --> 01:04:46,000
+100 dolarjev na leto, oziroma 10 dolarjev na mesec.
+
+1096
+01:04:47,000 --> 01:04:49,000
+Lahko to sam narediš za tak denar.
+
+1097
+01:04:50,000 --> 01:04:52,000
+Ne, o to, a to zdaj jo ti uporabljaš?
+
+1098
+01:04:53,000 --> 01:04:55,000
+Kod opišeš s tem asistentom?
+
+1099
+01:04:56,000 --> 01:05:04,000
+Jaz imam na GitHubu skoro 200 open source repozitorij.
+
+1100
+01:05:05,000 --> 01:05:07,000
+In tam notri najdeš svega in svašta.
+
+1101
+01:05:08,000 --> 01:05:10,000
+Ekzemplov, primerov, prototipov, whatever.
+
+1102
+01:05:11,000 --> 01:05:23,000
+In je tako, ko sem jaz dajel te snipe, te gore, sem jih dajel pač z namenom, da pač ali imam to v svoj arhiv, ali pa da so to dajem v community, pa da ljudje jo uporabljajo.
+
+1103
+01:05:24,000 --> 01:05:35,000
+Ne vem pa, če sem jaz, ko sem teh 200 repozitorijov pa pul requestov, pa vse skupaj, ko sem jih dal ven, ne vem, če sem se takrat zavedel, da bo nekdo to vzel v porabu,
+
+1104
+01:05:36,000 --> 01:05:41,000
+pa da bom v nekem zasebnem podjetju nekdo uporabljal ta GitHub copilot, pa bom moje snipe te imel ven.
+
+1105
+01:05:42,000 --> 01:05:43,000
+A veš kaj mislim?
+
+1106
+01:05:44,000 --> 01:05:45,000
+Mislim, zadevo ne dela tega.
+
+1107
+01:05:46,000 --> 01:05:52,000
+Ne, če jaz tam pišem neko brutalno skalo, pa bo moj ekzempl zelo tak unique.
+
+1108
+01:05:53,000 --> 01:05:59,000
+In bo nekdo napisal, jaz rabim to brutalno ekzempl v svojo, in ultimativno bo vzel mojo kodo.
+
+1109
+01:06:00,000 --> 01:06:03,000
+Ja, ampak ne na tak način.
+
+1110
+01:06:07,000 --> 01:06:08,000
+A gre morajš na slike?
+
+1111
+01:06:09,000 --> 01:06:14,000
+Ne, sam se tukaj, isti problem je. Sam ga je mogoče bolj lažje razložiti.
+
+1112
+01:06:15,000 --> 01:06:23,000
+Pač tudi te modeli za generirani slik so bili naučeni na eni celi množici takih in drugačnih slik.
+
+1113
+01:06:24,000 --> 01:06:26,000
+Ljudje so jih v zelo različnih namenah odajali.
+
+1114
+01:06:27,000 --> 01:06:32,000
+In niso pač pomislili, skoraj nobeno teh, da bo to enkrat učil nek AI.
+
+1115
+01:06:34,000 --> 01:06:40,000
+Pač AI pogleda vse te množico slik in se nauči nekaj reprezentacije.
+
+1116
+01:06:40,000 --> 01:06:44,000
+Torej, te slike niso potem nikjer noter schranjene v njej.
+
+1117
+01:06:45,000 --> 01:06:50,000
+Samo tiste vtežine se, bom rekel, stabilizirajo potem v učenju na tak način.
+
+1118
+01:06:52,000 --> 01:07:02,000
+Potem, ko ti napišeš noter nek tekst, se ta tekst prevede v sliko, ampak to dejansko na podlagi teh reprezentacij pojmov,
+
+1119
+01:07:03,000 --> 01:07:06,000
+vizualnih, ki so bili naučeni, niso zdaj prekodni.
+
+1120
+01:07:07,000 --> 01:07:08,000
+Ne, ne, ni to v baza.
+
+1121
+01:07:09,000 --> 01:07:10,000
+Ne, nobene baze ni.
+
+1122
+01:07:11,000 --> 01:07:16,000
+Mislim, da recimo za generiranje slik itak je velikost šla dol na koliko? 4 GB?
+
+1123
+01:07:18,000 --> 01:07:27,000
+A veš, z tem modelim Stable Diffusion, kje v teh 4 GB so schranjena umetniška dela celega sveta?
+
+1124
+01:07:28,000 --> 01:07:34,000
+Zdaj, če pa najdeš slučajno, da pa je nek snippet prišel ven, kaj pa res tako ful podobno nečemu, kar si ti delal.
+
+1125
+01:07:35,000 --> 01:07:37,000
+Ampak vse ljudje so lepli.
+
+1126
+01:07:38,000 --> 01:07:40,000
+Da se najde premere.
+
+1127
+01:07:41,000 --> 01:07:50,000
+Doskat je to, če si predstavljaš nekako distribucijo kode, če si se ti slučajno znaš v enem kotičku,
+
+1128
+01:07:51,000 --> 01:07:59,000
+ki ni imel zelo veliko družbe, ki je delala na tajnistem problemu, se pač je on večino te svoje reprezentacije v tem modelu distribucije
+
+1129
+01:08:00,000 --> 01:08:02,000
+mogoče pobral ven iz tega, kar si ti prispeval.
+
+1130
+01:08:04,000 --> 01:08:06,000
+A ostalo bo pa pač.
+
+1131
+01:08:07,000 --> 01:08:12,000
+Mogoče bo pa ta naslednjo vrstico, ki boš jih zgeneriral, malo dragačna, kot si jo ti napisal.
+
+1132
+01:08:13,000 --> 01:08:15,000
+Ful je to resen problem.
+
+1133
+01:08:16,000 --> 01:08:22,000
+Obstajajo tudi modeli, ki so bili navčeni strikno na kodi, ki ima pomnom permisivno licenso.
+
+1134
+01:08:23,000 --> 01:08:31,000
+Če si nekaj izdajal pod MIT licenso, mislim, da težko ugovarjaš, da pa zdaj nekdo najde en način za uporabo tega, ki pa tebi ni všeč.
+
+1135
+01:08:31,000 --> 01:08:33,000
+Too late, ne?
+
+1136
+01:08:34,000 --> 01:08:36,000
+Ampak misliš, da ...
+
+1137
+01:08:37,000 --> 01:08:39,000
+Meni se zdi, mislim,
+
+1138
+01:08:40,000 --> 01:08:46,000
+mogoče bi mogli na začetku, ko se pač delaš te, odpreš GitHub project,
+
+1139
+01:08:47,000 --> 01:08:55,000
+ko boš uploadal, bi mogel biti tam nek checkbox, pa bi pisalo nočem, da to kodo uporabljate za kopaj leta in bi mogel imeti možnost od toga.
+
+1140
+01:08:56,000 --> 01:08:57,000
+Se strinja.
+
+1141
+01:08:57,000 --> 01:08:59,000
+V neki fazi se bo to verjetno pojavljalo.
+
+1142
+01:08:59,000 --> 01:09:01,000
+Kot ne zdaj, ko smo to vse naredili.
+
+1143
+01:09:02,000 --> 01:09:04,000
+Dam en primer spet iz umetnosti.
+
+1144
+01:09:06,000 --> 01:09:08,000
+Jaz sičer mislim, da bi tako mogli biti.
+
+1145
+01:09:09,000 --> 01:09:11,000
+In tudi verjamem, da bo šlo v tej smeri.
+
+1146
+01:09:12,000 --> 01:09:15,000
+Recimo, prv, umetnost je zdaj tako, da nekateri en ...
+
+1147
+01:09:16,000 --> 01:09:18,000
+Ni toliko organizacija, kaj bi rekel.
+
+1148
+01:09:19,000 --> 01:09:26,000
+Skratka, ena ekipa, ki bedi nad enim od teh velikih data setov slik, je dala umetnikom možnost, da jasno ...
+
+1149
+01:09:26,000 --> 01:09:27,000
+Ne rečejo.
+
+1150
+01:09:27,000 --> 01:09:30,000
+Ne rečejo, jaz ne želim biti vključen v to.
+
+1151
+01:09:31,000 --> 01:09:33,000
+No, kaj bo pa zdaj rezultat?
+
+1152
+01:09:34,000 --> 01:09:36,000
+Zdaj, veliko umetnikov pa pač ne bo vse.
+
+1153
+01:09:36,000 --> 01:09:41,000
+Ali bodo pa rekel, lej, a me lahko prosim vključite, ker dovek, sto ljudi, sto čudi.
+
+1154
+01:09:42,000 --> 01:09:44,000
+In se bo ta model to naučil.
+
+1155
+01:09:45,000 --> 01:09:54,000
+In potem, ne, bo nekdo v bistvu ugotovil, da če pa on napiše ta prompt, kaj navodilo modelu, kakšno sliko ne naredi,
+
+1156
+01:09:54,000 --> 01:10:01,000
+pa reče, daj mi kombinacijo tega, pa tega, pa tega, pa tega, pa tega umetnika.
+
+1157
+01:10:01,000 --> 01:10:04,000
+Od teh, ki so dali omoljenje.
+
+1158
+01:10:04,000 --> 01:10:12,000
+Ja, bo pa rezultat tak, da bo pa zgledu ne ločljiv od tizga, kar bi sicer produciril on, kaj pa rekel, da noče biti inkluden.
+
+1159
+01:10:13,000 --> 01:10:16,000
+In take probleme imaš po tem.
+
+1160
+01:10:16,000 --> 01:10:20,000
+Na konci je ful enega prahu odvignil, ljudje se mogoče nekaj časa boljš počutijo,
+
+1161
+01:10:21,000 --> 01:10:29,000
+ker pač niso prispevali direktno sami nočem, ampak ko se model te koncepte vizualne ali pa koderske nauči,
+
+1162
+01:10:30,000 --> 01:10:37,000
+bo ravno tako lahko sposoben na koncu reproducirati tisto kodo, ki bo zelo, zelo podobno tistom, kar so oni naredili.
+
+1163
+01:10:39,000 --> 01:10:46,000
+Mislim, če to zdaj je nek problem, ki bo, pa jaz se predstavljam, da pač ta stvar pa lahko konča nekakšno na sodišču.
+
+1164
+01:10:46,000 --> 01:10:48,000
+Sej že, je že končala na sodišču.
+
+1165
+01:10:49,000 --> 01:10:59,000
+Sej je nek projekt, neki GitHub copilot, neki antitrust, neki, neki se svedaj povečajo.
+
+1166
+01:11:00,000 --> 01:11:06,000
+Ne upam si špekulirati, ker je to bolj vprašanje za pravo, kukr pa ne.
+
+1167
+01:11:07,000 --> 01:11:17,000
+Samo, lej, kaj bi se zgodilo z to industrijo, če reči, recimo na pamet govorim, Evropa, reče full privacy heavy,
+
+1168
+01:11:18,000 --> 01:11:29,000
+da, če hočeš delati te data sete, na katerih bomo trenirali in če pač, recimo, ta copilot ali pa kjerkolaj AI,
+
+1169
+01:11:29,000 --> 01:11:34,000
+da moraš eksplicitno predobiti dovoljenje od ljudi, da so lahko v tem data setu.
+
+1170
+01:11:34,000 --> 01:11:41,000
+Ker zdaj je glih kontra, ne. Se pravi, zdaj kar poberemo vse app-o, v internet, celo Wikipedia, pa vse treniramo.
+
+1171
+01:11:41,000 --> 01:11:47,000
+Če pa zadevo rečeš kontra, rečeš, vsi morate dati dovoljenje, imaš pa full problem v tej industriji.
+
+1172
+01:11:47,000 --> 01:11:49,000
+Ker nimaš data seto.
+
+1173
+01:11:49,000 --> 01:11:55,000
+Zdaj, jaz bolj vidim, kako bo zdaj nekdo dokazal, da je on v data setu.
+
+1174
+01:11:55,000 --> 01:11:57,000
+Ja, no.
+
+1175
+01:11:57,000 --> 01:12:00,000
+Ne, ker pač, kot si rekel, pač na koncu samo teži, pač ni.
+
+1176
+01:12:00,000 --> 01:12:05,000
+Ja, on je rekel, da, tako te rekel, ni baze, ampak so številke.
+
+1177
+01:12:05,000 --> 01:12:10,000
+Exactly, exactly. Zdaj pač, kako zdaj to pač greš dokazvat, ja, jaz sem tle notri.
+
+1178
+01:12:10,000 --> 01:12:13,000
+Seveda tudi tista slika, ko jo naložiš tam gor na Facebook, ni več tvoja.
+
+1179
+01:12:13,000 --> 01:12:18,000
+A ni zdaj, a ni zdaj tako, da jemo tako čisto v praksi, kaj se tega, ne.
+
+1180
+01:12:18,000 --> 01:12:22,000
+Koliko je zdaj teh primerov, ne, ki si ti napisal eno kodo, ne.
+
+1181
+01:12:22,000 --> 01:12:24,000
+Pa ni potem IT licenca, ne.
+
+1182
+01:12:24,000 --> 01:12:28,000
+Potem je pa tam na drugem koncu sveta en programera, ne.
+
+1183
+01:12:28,000 --> 01:12:31,000
+Ker gleda to tvojo kodo, ne, pa piše svojo, ne.
+
+1184
+01:12:31,000 --> 01:12:34,000
+Gledaj, mogoče je malo previden, pa je malo spremenil stvari.
+
+1185
+01:12:34,000 --> 01:12:39,000
+V resnici, v resnici je bila tvoja koda njegov glavni vir, ne.
+
+1186
+01:12:40,000 --> 01:12:45,000
+Ti ne boš ni ti to vedel, ni ti, kako, ni enostavno te stvari dokazvat.
+
+1187
+01:12:45,000 --> 01:12:48,000
+In časih so tako obvjaz, da glava boli, ne.
+
+1188
+01:12:48,000 --> 01:12:51,000
+Ampak, a veš, pač isto je v umetnosti, ne.
+
+1189
+01:12:51,000 --> 01:12:55,000
+Sej to, da so se ljudje zgledvali po neki sliki, pa naredili svojo varianto,
+
+1190
+01:12:55,000 --> 01:12:58,000
+ali pa coverji v glasbi, to je kratka sprejeta, ne.
+
+1191
+01:13:00,000 --> 01:13:02,000
+Lahko se to zgodi, ne.
+
+1192
+01:13:02,000 --> 01:13:05,000
+Potem, če gremo z upeljavo tako striktne regulative in to, ne.
+
+1193
+01:13:05,000 --> 01:13:09,000
+Začnejo pa lahko, ali tudi v take vrste uporabo to posegati, ne.
+
+1194
+01:13:09,000 --> 01:13:11,000
+Pa hitro bi ljudje rekli, ne, čak malo, ne.
+
+1195
+01:13:11,000 --> 01:13:13,000
+To pa ne, ne, zdaj, kaj.
+
+1196
+01:13:13,000 --> 01:13:16,000
+Ne smem več skoro nobene korikature narisati, ker vsaka,
+
+1197
+01:13:16,000 --> 01:13:20,000
+če vsaka od teh bo podobna, kakšni, že obstoječega avtorja, ne.
+
+1198
+01:13:20,000 --> 01:13:22,000
+In kaj zdaj, ne.
+
+1199
+01:13:22,000 --> 01:13:25,000
+Ampak, a bi lahko zdaj, pač, to uporabo tudi kontra, ne.
+
+1200
+01:13:25,000 --> 01:13:30,000
+V smislu, dokazvanje se pravi, da ti, v bistvu, s pomočjo umetne inteligence
+
+1201
+01:13:30,000 --> 01:13:33,000
+dokažeš, da je pač to kopija nečesa.
+
+1202
+01:13:34,000 --> 01:13:38,000
+Ja, mislim, gledaj, do neke mere lahko, ne.
+
+1203
+01:13:38,000 --> 01:13:41,000
+Težko je to delati z kakršnokolj gotovostjo, ne.
+
+1204
+01:13:41,000 --> 01:13:46,000
+Lahko iščeš nek similarity semantični, ali pa...
+
+1205
+01:13:48,000 --> 01:13:51,000
+Ok, naslednji produkt.
+
+1206
+01:13:51,000 --> 01:13:54,000
+Zdaj bomo šli v produkte od firme OpenAI.
+
+1207
+01:13:54,000 --> 01:13:59,000
+To je eno start-up firma, a si še vedno start-up.
+
+1208
+01:14:00,000 --> 01:14:02,000
+Taken nariv, ne vem.
+
+1209
+01:14:02,000 --> 01:14:05,000
+Brav sem, ko sem malo delal researcha, da je Microsoft rekel, da bo investiral
+
+1210
+01:14:05,000 --> 01:14:10,000
+10 milijard dolarjev v to firmo, ki je naredilo, pač, chat GTP.
+
+1211
+01:14:10,000 --> 01:14:12,000
+To so govorice, a?
+
+1212
+01:14:12,000 --> 01:14:13,000
+Govorice.
+
+1213
+01:14:13,000 --> 01:14:14,000
+Karbroče govorice.
+
+1214
+01:14:14,000 --> 01:14:17,000
+Zelo drage govorice, pa mislim, da so že prej tudi investirali.
+
+1215
+01:14:17,000 --> 01:14:22,000
+Neke neuradne podatki so, da so že 3 milijarde tako investirali.
+
+1216
+01:14:22,000 --> 01:14:27,000
+Ja, tako da Microsoft zelo na veliko stavi na OpenAI.
+
+1217
+01:14:28,000 --> 01:14:31,000
+Mislim, klipi bodo jansko boste oporabljali.
+
+1218
+01:14:31,000 --> 01:14:34,000
+Potem boš otvoril ofis in klipi boš rekel, jej,
+
+1219
+01:14:34,000 --> 01:14:37,000
+rabim pač uvod moje knjige in tram.
+
+1220
+01:14:37,000 --> 01:14:39,000
+Stvar se bo zgodila.
+
+1221
+01:14:39,000 --> 01:14:45,000
+No, v glavnem, pač to podjetje, sicer maja tudi tam so bile neki podatki,
+
+1222
+01:14:45,000 --> 01:14:48,000
+kak delaš, bo Microsoft imel noter, pa kako so se zavezali,
+
+1223
+01:14:48,000 --> 01:14:52,000
+kak bi profit delili, doker ni profita, pa vse skupaj.
+
+1224
+01:14:52,000 --> 01:14:56,000
+Sem, da dodam na to, ena stvar, ki je dost ljudi mogoče niste slišali,
+
+1225
+01:14:56,000 --> 01:15:00,000
+vsaj, spet govorica, da bi je dogovor, ki je naslednji.
+
+1226
+01:15:00,000 --> 01:15:06,320
+Ta je taka, da če pa zaslužijo, od točke, ko zaslužijo več kot 255 milijardi,
+
+1227
+01:15:06,320 --> 01:15:07,320
+pa vse njihovo.
+
+1228
+01:15:07,320 --> 01:15:08,320
+Tako je.
+
+1229
+01:15:08,320 --> 01:15:09,320
+Ja, ja, ja.
+
+1230
+01:15:09,320 --> 01:15:13,200
+To sem to zbral. 75 procentov nekje poplače.
+
+1231
+01:15:13,200 --> 01:15:18,799
+Če vas zanima zadeve raziskovanja same firme, googlejte,
+
+1232
+01:15:18,799 --> 01:15:23,920
+zanimivo je podjetje kot tako in kak deluje.
+
+1233
+01:15:23,920 --> 01:15:29,799
+Zdaj, Andraž je fulj raziskoval ta 4GTP, zato ker je bil za eno še neki drugi daj.
+
+1234
+01:15:29,799 --> 01:15:37,520
+Pomošlji malo to, ampak, ko sem jaz gledal ta 4GTP, pa kaj OpenAI dela,
+
+1235
+01:15:37,520 --> 01:15:42,040
+pa ko malo se odmahniš iz strani in pogledaš,
+
+1236
+01:15:42,040 --> 01:15:49,919
+v bistvu, jaz imam feeling, da prvič po ne vem, 15-ih, 20-ih letih se lahko na googlejovi strani
+
+1237
+01:15:49,919 --> 01:15:55,119
+malo začnejo bati za njihov core business, pravi search in ta advertising.
+
+1238
+01:15:56,080 --> 01:16:02,000
+Obstajajo sicer enkup stvari, ki lahko raz se pogovorimo bolj v detajle,
+
+1239
+01:16:02,000 --> 01:16:08,919
+ampak nekako je ta feeling, da mogoče pa prihaja nekaj revolucije v tem spesu.
+
+1240
+01:16:08,919 --> 01:16:15,160
+In tudi, ko si ti prezačel ta malo semantic search, pa ta noter te teme odpirati.
+
+1241
+01:16:15,160 --> 01:16:21,199
+A imaš tak feeling, da so dečki zastavili,
+
+1242
+01:16:21,800 --> 01:16:28,360
+na ta deklici, nek no trend, ki ga enostavno ne moramo več ignorirati in je
+
+1243
+01:16:28,360 --> 01:16:35,879
+glede na to, da se pač samo še to v medijih, da je to zdaj zadnje dva meseca najbolj hot topic.
+
+1244
+01:16:35,879 --> 01:16:40,239
+Kako me če so kisle kumore, pa ni drugače.
+
+1245
+01:16:40,239 --> 01:16:44,680
+Meni je zanimiv, pa se ne vem, mogoče je tudi na strani OpenAI komu to zanimiv.
+
+1246
+01:16:44,680 --> 01:16:49,559
+Torej, če GPT, pač je zgolj neka
+
+1247
+01:16:49,559 --> 01:16:54,199
+rahla modifikacija GPT-3 modela.
+
+1248
+01:16:54,199 --> 01:17:00,680
+In pač jaz sem GPT-3 začel porabljati po leti 2020.
+
+1249
+01:17:00,680 --> 01:17:03,639
+Takrat sem jaz doživel to, se mi zdi, ker zdaj je ful ljudi.
+
+1250
+01:17:03,639 --> 01:17:08,960
+Potem sem tako dve leti ostale po najboljših močeh navduševal,
+
+1251
+01:17:08,960 --> 01:17:12,839
+pa tudi en velik del tega časa je dejansko stvar že bila dostopna.
+
+1252
+01:17:12,839 --> 01:17:18,279
+In pa tako, ne bom rekel, da nisem uspel koga navdušati.
+
+1253
+01:17:18,279 --> 01:17:21,960
+Ampak tako, dost ljudi pa niti mali ni trznali na to.
+
+1254
+01:17:21,960 --> 01:17:25,919
+Ni zelo veliko podjetij tudi šlo v to, da bi kaj probala implementirati s tem.
+
+1255
+01:17:25,919 --> 01:17:26,960
+Tako da jaz bi rekel, da ...
+
+1256
+01:17:26,960 --> 01:17:27,839
+Še.
+
+1257
+01:17:27,839 --> 01:17:29,759
+Še.
+
+1258
+01:17:29,759 --> 01:17:35,960
+Da je chat GPT res izvrsten primer tega, kaj se da narediti z uporabniško izkušnjo.
+
+1259
+01:17:35,960 --> 01:17:38,520
+To je boljši primer za uporabniško izkušnjo,
+
+1260
+01:17:38,520 --> 01:17:40,679
+pa njen dosežek, kot pa za umetno inteligencov.
+
+1261
+01:17:40,720 --> 01:17:44,559
+Ker pač, kar je bil umetna inteligenca na to temo, je to bilo že naredeno dve leti nazaj.
+
+1262
+01:17:44,559 --> 01:17:48,600
+Ampak se uporabniško izkušnjo, tudi chat boti kot taki,
+
+1263
+01:17:48,600 --> 01:17:52,919
+pa te neki online asistenti, pa te neki ...
+
+1264
+01:17:52,919 --> 01:17:58,479
+To smo zdaj doživeli dve take velike preskoke.
+
+1265
+01:17:58,479 --> 01:18:01,800
+A veš, ko je prišla ta davčna svetovalka,
+
+1266
+01:18:01,800 --> 01:18:06,399
+ki se pravi tisti čas, v krok 2000, ko so prvič začeli vse video,
+
+1267
+01:18:06,880 --> 01:18:13,039
+pa potem, ko je Facebook dal ven suport za chat bote v svoje Messenger platformi.
+
+1268
+01:18:13,039 --> 01:18:16,000
+Zdaj pa spet imamo ta chat interfejs.
+
+1269
+01:18:16,000 --> 01:18:16,880
+Ja, no ...
+
+1270
+01:18:16,880 --> 01:18:19,800
+Mislim, da iz tega ne vidim, da bi bilo tako krogosno.
+
+1271
+01:18:19,800 --> 01:18:23,000
+Chat boti so bili totalni flop, mislim.
+
+1272
+01:18:23,000 --> 01:18:24,880
+Čudovito, ja.
+
+1273
+01:18:24,880 --> 01:18:26,759
+So bili.
+
+1274
+01:18:26,759 --> 01:18:29,160
+Problem je bil, ker ...
+
+1275
+01:18:29,160 --> 01:18:33,039
+Enostavno, metodologija, ki so jo uporabljali,
+
+1276
+01:18:33,039 --> 01:18:38,600
+ni bila zrela zato, ker so ljudje, ki so dizajniral UX, hoteli, da bi bila.
+
+1277
+01:18:38,600 --> 01:18:43,639
+Zadeva je v bistvu probala malo cirka, okvirno razumet, kaj ti bi.
+
+1278
+01:18:43,639 --> 01:18:48,479
+Potem pa je hotela usmirti v ene par teh vnaprej pripravljenih konverzacijskih trackov.
+
+1279
+01:18:48,479 --> 01:18:50,279
+In pač ljudje se ne pogovarjamo tako.
+
+1280
+01:18:50,279 --> 01:18:54,559
+Pač ti si tudi napisal nek track, kako ne bi to šlo, pa verjamem, da je zdaj čist nekaj prednja.
+
+1281
+01:18:54,559 --> 01:18:59,039
+Ja, ampak za tisto, kako že je klicni center, je pa točno to.
+
+1282
+01:18:59,240 --> 01:19:01,039
+Ja, sam tu ni, ne?
+
+1283
+01:19:01,039 --> 01:19:06,440
+Seveda ni, ampak tam on za telefono na drugi strani ima nek diagram, ki pravi,
+
+1284
+01:19:06,440 --> 01:19:10,240
+ok, sprašuje za to, ti ga moramo spet, to moramo vprašati.
+
+1285
+01:19:10,240 --> 01:19:12,039
+A ne, tako da je ...
+
+1286
+01:19:12,039 --> 01:19:15,520
+Če se ne veže na tist produkt, ko smo prej rekli, da smo masovno agitirali ljudi,
+
+1287
+01:19:15,520 --> 01:19:18,040
+pa ki smo raziskovali tiste zadeve.
+
+1288
+01:19:18,040 --> 01:19:23,720
+A veš, danes ljudje so že navajeni konic na telefonih, na računalnikih
+
+1289
+01:19:23,720 --> 01:19:27,200
+in vejo, da če bom stisnul ta gumb, se bo zgodila neka akcija.
+
+1290
+01:19:27,200 --> 01:19:32,399
+Pričet bo tu, pa ne veš, kaj se bo zgodilo, ne veš, kaj zna, ne veš, kam te bo peljal,
+
+1291
+01:19:32,399 --> 01:19:36,200
+ne veš, koliko je zanislil, a veš, nič ne veš.
+
+1292
+01:19:36,200 --> 01:19:41,399
+In ne moraš, samo tekst včasih ni dovolj, da veš, kje si.
+
+1293
+01:19:41,399 --> 01:19:45,799
+Enim je to, enim je to, pač to, kaj jih trigera, da pač ne ve, pa se začne pogovarjati,
+
+1294
+01:19:45,799 --> 01:19:46,799
+potem pač vrejame, da pač ...
+
+1295
+01:19:46,799 --> 01:19:47,799
+Kaj obgotavlja, kaj ...
+
+1296
+01:19:47,799 --> 01:19:51,000
+Ja, pač, a ne, ful se mu fajn z nej in se porabi dve uri,
+
+1297
+01:19:51,000 --> 01:19:52,600
+ko se pogovarja s tistim botom, a ne.
+
+1298
+01:19:52,600 --> 01:19:54,200
+Čak, čak, čak, čak, čak, čak.
+
+1299
+01:19:54,200 --> 01:19:57,799
+Eno kondargo men, opravšaj, to ne vem, ne vem, kaj ta bot sposoben.
+
+1300
+01:19:57,799 --> 01:19:58,399
+Ja, tako, ja.
+
+1301
+01:19:58,399 --> 01:20:01,799
+A ti boš se zdaj navpravno enoto, a ti zdaj veš, kaj ona ženska ali pa moški,
+
+1302
+01:20:01,799 --> 01:20:04,799
+kaj je tam na okn ti sposoben.
+
+1303
+01:20:04,799 --> 01:20:05,200
+Ja, ne vem.
+
+1304
+01:20:05,200 --> 01:20:06,200
+A te to moh.
+
+1305
+01:20:06,200 --> 01:20:09,799
+In se pa se tako sprašuješ, joj, kaj pač se bova začela pogovarjati o nečem,
+
+1306
+01:20:09,799 --> 01:20:11,000
+kaj nisem pripravljen na pogovor o tem.
+
+1307
+01:20:11,000 --> 01:20:12,200
+Je vse, je vse dober point, ja.
+
+1308
+01:20:12,200 --> 01:20:14,200
+In zase verjamem, da je za ene ljudi je to problem, ne.
+
+1309
+01:20:14,200 --> 01:20:16,799
+Če eno ljudem so konverzacije naporne in jih skrbi, ne.
+
+1310
+01:20:16,799 --> 01:20:17,399
+Ampak...
+
+1311
+01:20:17,399 --> 01:20:19,399
+Pa veš kaj, pa še, še veš kaj.
+
+1312
+01:20:21,000 --> 01:20:24,600
+Pa če ja, ne vem, kaj ve, tam je človek, človek je nekako,
+
+1313
+01:20:24,600 --> 01:20:28,600
+če ne bo vedel, bo mogoče oprašal, mogoče bo,
+
+1314
+01:20:28,600 --> 01:20:32,600
+a veš, ti po vseh svojih možnostih najboljši odgovor dal.
+
+1315
+01:20:32,600 --> 01:20:36,200
+Ljudje smo bo sposobni interpolirati z nekih nepopolnih podatkov, ne.
+
+1316
+01:20:36,200 --> 01:20:36,799
+Ne, vidiš.
+
+1317
+01:20:36,799 --> 01:20:37,399
+Ja.
+
+1318
+01:20:37,399 --> 01:20:39,799
+Točno te sistemi so zdaj tega sposobni, ne.
+
+1319
+01:20:39,799 --> 01:20:43,399
+To je, zakaj bomo zdaj govorili spet v neki novi dobi,
+
+1320
+01:20:43,399 --> 01:20:44,600
+chat botov.
+
+1321
+01:20:44,600 --> 01:20:49,399
+Jaz iskren mislim, da se bo varjetno kakšen drug termin uporabil,
+
+1322
+01:20:49,399 --> 01:20:52,399
+zato da bi malo naredil prelom med tem, kaj je bilo.
+
+1323
+01:20:52,399 --> 01:20:55,399
+Mogoče asistent ali pa agent.
+
+1324
+01:20:57,000 --> 01:20:59,399
+Se pravi, da bot ima negativno...
+
+1325
+01:20:59,399 --> 01:21:01,399
+Mislim, pa kot chat bot.
+
+1326
+01:21:01,399 --> 01:21:03,399
+Zastranje, zastranje. Space.
+
+1327
+01:21:03,399 --> 01:21:04,399
+Ja.
+
+1328
+01:21:04,399 --> 01:21:08,799
+Veliko se bo porabljal ta argument, joj, ne, chat bote smo mi že obdelali kot podjetja
+
+1329
+01:21:08,799 --> 01:21:10,200
+in so bili totalni fail.
+
+1330
+01:21:10,200 --> 01:21:12,200
+Znaš, in potem, kaj je enkrat ena stvar fail,
+
+1331
+01:21:12,200 --> 01:21:15,000
+pa pride neki boljšiga meme, težko to reintroduceš,
+
+1332
+01:21:15,000 --> 01:21:17,000
+ker tam že nek kostk, ne.
+
+1333
+01:21:17,000 --> 01:21:22,200
+Znam pa se, jaz mislim, da marketing bo to pač zagrabil, pa najdel neko novo besedo, pač.
+
+1334
+01:21:22,200 --> 01:21:25,200
+Ja, mislim, na konci ni ti ni pomembno, ne.
+
+1335
+01:21:25,200 --> 01:21:28,799
+Mogoče, če se pravi, samo malo vrneva, ne, ta OpenAI, da ne odkoli spada,
+
+1336
+01:21:28,799 --> 01:21:31,799
+ker smo ni introduce, pa pa...
+
+1337
+01:21:31,799 --> 01:21:36,399
+Torej, OpenAI, ne, mislim, je res...
+
+1338
+01:21:36,399 --> 01:21:37,399
+Tako.
+
+1339
+01:21:37,799 --> 01:21:41,000
+Glavni igralc, ne, ta trenutek, ne, na tem področju.
+
+1340
+01:21:41,000 --> 01:21:43,399
+In zdaj, zakaj, kaj je bila tista stvar,
+
+1341
+01:21:43,399 --> 01:21:46,000
+ki je njih diferencirala pred ostalimi?
+
+1342
+01:21:46,000 --> 01:21:51,399
+Torej, oni so zelo zgodi, tako, da rečem, stavili vse svoje čipe, ne,
+
+1343
+01:21:51,399 --> 01:21:54,000
+na hipotezo skaliranja.
+
+1344
+01:21:54,000 --> 01:21:55,399
+To je bil tist...
+
+1345
+01:21:55,399 --> 01:21:58,799
+In zdaj, doživljajo pay-off, zato, ker so na to stavili,
+
+1346
+01:21:58,799 --> 01:22:02,399
+ker, recimo, še v 2019
+
+1347
+01:22:02,399 --> 01:22:04,799
+so vsem ljudem ljudje smejali, ne.
+
+1348
+01:22:04,799 --> 01:22:07,000
+Recimo, takrat je prišel ven model GPT-2,
+
+1349
+01:22:07,000 --> 01:22:11,000
+meni je bil že sam poseb, takrat zelo fascinanten.
+
+1350
+01:22:11,000 --> 01:22:14,200
+In takrat se enostavno ljudje niso vrjeli,
+
+1351
+01:22:14,200 --> 01:22:18,000
+mislim pa, ko rečem ljudje, mislim tako strokovnjaki na področju itd.,
+
+1352
+01:22:18,000 --> 01:22:20,399
+da, če je zdaj to zadevo, samo še malo bolj skaliramo,
+
+1353
+01:22:20,399 --> 01:22:24,399
+da bomo neke bolj impresivne rezultate dosega,
+
+1354
+01:22:24,399 --> 01:22:26,799
+in pa točno to se je zgodilo, ne.
+
+1355
+01:22:26,799 --> 01:22:31,000
+Tako da, samo... Ne, daj ti.
+
+1356
+01:22:31,000 --> 01:22:35,799
+Ker je lahko to še naprej, mislim, s tem pušenjem naprej,
+
+1357
+01:22:35,799 --> 01:22:38,600
+se pravi, ima to, kar oni počnejo,
+
+1358
+01:22:38,600 --> 01:22:43,000
+se da bo še to skalirati še više, ali je pač nekaj ta limit,
+
+1359
+01:22:43,000 --> 01:22:45,600
+do katerega počnečemo dobiti, ja, a ne?
+
+1360
+01:22:45,600 --> 01:22:48,000
+Mislim, tako kot jaz vidim, ne vemo,
+
+1361
+01:22:48,000 --> 01:22:51,399
+ampak vse... Tako, če bi jaz zdaj hotel nekaj staviti,
+
+1362
+01:22:51,399 --> 01:22:57,200
+bi rekel, da imamo še predvsej lufta za to skaliranje.
+
+1363
+01:22:57,200 --> 01:23:01,200
+Tako, ne vidim, da smo kje trčali, ne?
+
+1364
+01:23:01,200 --> 01:23:03,799
+Ker recimo, pri prejšnji metodologiji, ne?
+
+1365
+01:23:03,799 --> 01:23:07,200
+Recimo, bom rekel, ta deep learning brez big learning, ne?
+
+1366
+01:23:07,200 --> 01:23:10,600
+Se je začel kazati, ne? Recimo, v computer visionu
+
+1367
+01:23:10,600 --> 01:23:14,200
+si prišel do nekje, pa pa kar nekak ni bilo več nekega
+
+1368
+01:23:14,200 --> 01:23:16,399
+ful drastičnega izboljšanja, ne?
+
+1369
+01:23:16,399 --> 01:23:19,799
+V smislu tako, kar priješ do 98% natančnosti,
+
+1370
+01:23:19,799 --> 01:23:25,200
+ampak pa pa vsaka desetinka procenta je pa ful težka, ne?
+
+1371
+01:23:25,200 --> 01:23:29,200
+Zdaj, tle pa, tle pa kar gre, ne? Tako, da...
+
+1372
+01:23:30,399 --> 01:23:34,799
+Jaz sem si napisal, ok, ta chat GTP,
+
+1373
+01:23:34,799 --> 01:23:38,000
+napisal sem si par problemov oziroma izzivov, ki jih vidim
+
+1374
+01:23:38,000 --> 01:23:42,799
+z ta zadeva, ne? In tudi, če boste boli raziskovali sami,
+
+1375
+01:23:42,799 --> 01:23:45,799
+boste tudi videli te zadeve.
+
+1376
+01:23:45,799 --> 01:23:51,400
+Ena zadeva je, da ko so trenirali te modele,
+
+1377
+01:23:51,400 --> 01:23:56,200
+so pač delali, nekaj časa traja, da ti vse te modele zgradiš.
+
+1378
+01:23:56,200 --> 01:23:57,200
+V bistvu en, ja.
+
+1379
+01:23:57,200 --> 01:24:04,200
+Ja, in potem pač imaš snapshot
+
+1380
+01:24:04,200 --> 01:24:06,599
+takratnega sveta v tem modelu, ne?
+
+1381
+01:24:06,599 --> 01:24:11,599
+In on ne ve zdaj, recimo, kdo je trenutni predsednik Amerike,
+
+1382
+01:24:11,599 --> 01:24:14,599
+ne ve, a veš, ne ve teh aktualnih stvari, ne?
+
+1383
+01:24:14,599 --> 01:24:18,599
+A se ti zdi, da če bo oni povečali size,
+
+1384
+01:24:18,799 --> 01:24:21,400
+še vedno ne bojo imeli tega up-to-date sveta ali misliš,
+
+1385
+01:24:21,400 --> 01:24:24,400
+da bo to tudi nekako inkorporirano, da bo bolj živo?
+
+1386
+01:24:24,400 --> 01:24:28,400
+To je tako, kdaj bo ta uvit, a ne, da pač to mi manjka,
+
+1387
+01:24:28,400 --> 01:24:30,400
+to se moram navčiti, a ne?
+
+1388
+01:24:30,400 --> 01:24:31,400
+Seveda, to tako, ja.
+
+1389
+01:24:31,400 --> 01:24:35,400
+Zdaj, to mislim, da je tako res ključno vprašanje, ne?
+
+1390
+01:24:35,400 --> 01:24:36,400
+Ja.
+
+1391
+01:24:36,400 --> 01:24:39,400
+Tako da zdaj, če kdo so spal zdravo, ni vresno malo.
+
+1392
+01:24:41,400 --> 01:24:45,400
+Ja, res je, trenutno model mislim, da celo sami navajajo,
+
+1393
+01:24:45,400 --> 01:24:51,200
+ki je iz, mislim, da je iz 2021, poleti, eseni, nekje, ne?
+
+1394
+01:24:51,200 --> 01:24:55,200
+Takrat, te podatki, ki jih je videl so tekrat, je statičen, ne?
+
+1395
+01:24:57,200 --> 01:25:01,200
+In tega samo za skaliranjem ne moreš rešiti, a ne?
+
+1396
+01:25:01,200 --> 01:25:05,200
+Ti, mislim, kako, ne, če so neke stvari zgodilo,
+
+1397
+01:25:05,200 --> 01:25:07,200
+ki se še niso, on to ne more vedeti, a ne?
+
+1398
+01:25:07,200 --> 01:25:10,200
+Če bi pa to skaliranjem rešil, bi bilo res zadovoljno, ne?
+
+1399
+01:25:10,200 --> 01:25:14,200
+Ampak obstajajo druge rešitve, v bistvu,
+
+1400
+01:25:14,200 --> 01:25:16,200
+dost enostavne, ne?
+
+1401
+01:25:16,200 --> 01:25:20,200
+Torej, on ne rabi med v svojih vtežeh
+
+1402
+01:25:20,200 --> 01:25:23,200
+vsega znanja sveta zapisanega.
+
+1403
+01:25:23,200 --> 01:25:26,200
+Zato je dober mogoče postaviti v en kortekst,
+
+1404
+01:25:26,200 --> 01:25:29,200
+kaj pa je to znanje, ki je v vtežeh, pa kako lahko
+
+1405
+01:25:29,200 --> 01:25:32,200
+kakšno analogijo potegnemo z tem, kako ljudi delujemo.
+
+1406
+01:25:32,200 --> 01:25:35,200
+Tako da mogoče bom to analogijo postavil,
+
+1407
+01:25:35,200 --> 01:25:37,200
+pa bo pa lažje naprej govorit, ne?
+
+1408
+01:25:37,200 --> 01:25:41,200
+Recimo, če znamo človeka, ne, imaš kratkoročni spomin, ne?
+
+1409
+01:25:41,200 --> 01:25:44,200
+Recimo, če rešuješ eno analogo, tako, ne,
+
+1410
+01:25:44,200 --> 01:25:47,200
+moraš skozi, moraš vedjeti, kaj pa delaš, ne?
+
+1411
+01:25:47,200 --> 01:25:48,200
+Recimo, ne?
+
+1412
+01:25:48,200 --> 01:25:51,200
+In tako kot kar, da pišeš kodo za eno funkcijo,
+
+1413
+01:25:51,200 --> 01:25:54,200
+verjetno moraš vedeti, kjera funkcija to je, ne?
+
+1414
+01:25:54,200 --> 01:25:56,200
+To je kratkoročni spomin, ne?
+
+1415
+01:25:56,200 --> 01:25:58,200
+Pa imaš pa dolgoročni spomin, ne?
+
+1416
+01:25:58,200 --> 01:26:01,200
+One stvari, ki moraš ko malo pomislit,
+
+1417
+01:26:01,200 --> 01:26:06,200
+da se spomneš, na njih ampak jih lahko prikličeš,
+
+1418
+01:26:06,200 --> 01:26:09,200
+na nek, lahko jih enostavno, pač,
+
+1419
+01:26:09,200 --> 01:26:12,200
+to znanjo lahko porabaš, ne?
+
+1420
+01:26:12,200 --> 01:26:14,200
+Ampak je pa tako, ne?
+
+1421
+01:26:14,200 --> 01:26:16,200
+Ni pa sanesljivo, ne?
+
+1422
+01:26:16,200 --> 01:26:18,200
+Mislim, ti si lahko nekaj, ali se nekaj ne spomneš,
+
+1423
+01:26:18,200 --> 01:26:21,200
+ali se nekaj narobe spomneš, ali zamešaš to stvar
+
+1424
+01:26:21,200 --> 01:26:24,200
+z enim drugim spominom, človeški spomin je,
+
+1425
+01:26:24,200 --> 01:26:26,200
+ne, ne, ne nujno najbolj sanesljiv.
+
+1426
+01:26:26,200 --> 01:26:30,200
+Potem, imaš pa ti še to znanje, ki je pa izven tebe, ne?
+
+1427
+01:26:30,200 --> 01:26:32,200
+Lahko greš na Google, pa ga prašaš,
+
+1428
+01:26:32,200 --> 01:26:35,200
+lahko prejš knjigo, pa prebereš in tako naprej, ne?
+
+1429
+01:26:35,200 --> 01:26:38,200
+Zdaj pa kako to zgleda pr teh language modelih, ne?
+
+1430
+01:26:38,200 --> 01:26:42,200
+Torej, te language modeli, ne, imajo nekaj, če mora se reče, pač prompt, ne?
+
+1431
+01:26:42,200 --> 01:26:45,200
+Jaz mislim, da je zdaj dost ljudi s tem eksperimentirali,
+
+1432
+01:26:45,200 --> 01:26:47,200
+da to vedo, ne?
+
+1433
+01:26:47,200 --> 01:26:49,200
+In to je pač neko navodilo, ne, ki ga daš modelu
+
+1434
+01:26:49,200 --> 01:26:51,200
+in potem on skladno s tem navodilom,
+
+1435
+01:26:51,200 --> 01:26:54,200
+v bistvu, v bistvu nadaljuje to navodilo, ne,
+
+1436
+01:26:54,200 --> 01:26:56,200
+nadaljuje ta tekst iz navodila.
+
+1437
+01:26:56,200 --> 01:27:01,200
+In to je, to navodilo igra v logo kratkoročnega spomina, ne?
+
+1438
+01:27:01,200 --> 01:27:04,200
+To je tisto, kar ima model najbolj pred sabo,
+
+1439
+01:27:04,200 --> 01:27:07,200
+s tem lahko najlažje dela, ne?
+
+1440
+01:27:08,200 --> 01:27:11,200
+V logo dolgoročnega spomina v modelih
+
+1441
+01:27:11,200 --> 01:27:16,200
+igrajo te neuronji oziroma v teži,
+
+1442
+01:27:16,200 --> 01:27:22,200
+cela neuronska mreža modela je v bistvu njegov nekaj vrste dolgoročni spomin, ne?
+
+1443
+01:27:24,200 --> 01:27:29,200
+Ampak to ne pomeni, ne, da te modeli ne morajo porabljati drugih oblik spomina, ne?
+
+1444
+01:27:29,200 --> 01:27:34,200
+Torej, modeli lahko se povežejo z brskalnikom,
+
+1445
+01:27:34,200 --> 01:27:39,200
+lahko pogledajo v bazo, lahko pogledajo v nek repozitorij tekstov.
+
+1446
+01:27:39,200 --> 01:27:44,200
+In potem iz tem v kratkoročni spomin prikličajo, ne,
+
+1447
+01:27:44,200 --> 01:27:48,200
+informacije, kar so relevantne za reživanje problema, na katerem delajo.
+
+1448
+01:27:48,200 --> 01:27:53,200
+In to je zdaj en mehanizem, ki bo suportiril ogromne nekih rešitev,
+
+1449
+01:27:53,200 --> 01:27:55,200
+ampak trenutno ni dovolj fokusa na tem.
+
+1450
+01:27:55,200 --> 01:27:59,200
+Ljudje se, ljudje pričakujejo, da bo ta neuronska mreža,
+
+1451
+01:27:59,200 --> 01:28:01,200
+če se bo valjala vse informacije,
+
+1452
+01:28:01,200 --> 01:28:03,200
+da je neuronska mreža ni baza.
+
+1453
+01:28:03,200 --> 01:28:06,200
+Jaz te modele vidim kot neke vrste lepilo,
+
+1454
+01:28:06,200 --> 01:28:10,200
+ker so dovolj splošni, da hitro ujamejo kontekst
+
+1455
+01:28:10,200 --> 01:28:14,200
+in jih lahko postavljaš v mes, ne, recimo med problem, ki ga imaš,
+
+1456
+01:28:14,200 --> 01:28:19,200
+in vire podatkov, ki so potrebni, z to se ta problem reži.
+
+1457
+01:28:19,200 --> 01:28:23,200
+Jaz sem si napisal integracije kot problem.
+
+1458
+01:28:23,200 --> 01:28:28,200
+Se pravi, dansko, a veš, seče može vržeš notri tabelo,
+
+1459
+01:28:28,200 --> 01:28:31,200
+pa mu rečeš, ne vem, naredi mi povzetek iz te tabele,
+
+1460
+01:28:31,200 --> 01:28:35,200
+se pravi, vreteno v neki tak koncept bomo rekli,
+
+1461
+01:28:35,200 --> 01:28:38,200
+pa če povezeš se, povezeš se bo z drugimi modelji,
+
+1462
+01:28:38,200 --> 01:28:41,200
+pa povezeš se bo z drugimi sistemi in bo iz tega znal ekstrapolirati
+
+1463
+01:28:41,200 --> 01:28:42,200
+nek noleč, ali kaj.
+
+1464
+01:28:42,200 --> 01:28:43,200
+Mogoče tudi...
+
+1465
+01:28:43,200 --> 01:28:45,200
+Eto, bo taka integracija, vidimo.
+
+1466
+01:28:45,200 --> 01:28:47,200
+Na nek način.
+
+1467
+01:28:47,200 --> 01:28:49,200
+Bom razložil, da podlagem enega primjera,
+
+1468
+01:28:49,200 --> 01:28:51,200
+ki ga dosta pokažem, ki je tako simple,
+
+1469
+01:28:51,200 --> 01:28:55,200
+recimo, te modeli fulj niso dobri v aritmetiki.
+
+1470
+01:28:55,200 --> 01:28:58,200
+Malo je čuden, ampak tako je.
+
+1471
+01:28:58,200 --> 01:29:02,200
+Če mu daš, ti zmnoži dve šestmesni številki,
+
+1472
+01:29:02,200 --> 01:29:05,200
+najverjetne bo narobe.
+
+1473
+01:29:05,200 --> 01:29:09,200
+Ampak ti lahko to modelu, recimo v kratkoročni spomin,
+
+1474
+01:29:09,200 --> 01:29:11,200
+ti lahko njemu to poveš.
+
+1475
+01:29:11,200 --> 01:29:13,200
+Šlej, ti nisi dobri v aritmetiki.
+
+1476
+01:29:13,200 --> 01:29:17,200
+Če ti uporabnik zastavi vprašanje,
+
+1477
+01:29:17,200 --> 01:29:21,200
+ko misliš, da presega svoje sposobnosti,
+
+1478
+01:29:21,200 --> 01:29:24,200
+potem ti napiši Python kodo,
+
+1479
+01:29:24,200 --> 01:29:28,200
+ki bo poiskal rešitev na to vprašanje
+
+1480
+01:29:28,200 --> 01:29:32,200
+in zračunil rezultat, pa bo vrn ta rezultat.
+
+1481
+01:29:32,200 --> 01:29:34,200
+Ti lahko modelu poveš.
+
+1482
+01:29:34,200 --> 01:29:38,200
+Če ga ti vprašaš, koliko je 2 plus 3,
+
+1483
+01:29:38,200 --> 01:29:43,200
+potem on odgovori iz svojega dolgoročnega spomina.
+
+1484
+01:29:43,200 --> 01:29:45,200
+Bo prav odgovoril.
+
+1485
+01:29:45,200 --> 01:29:49,200
+Če mu boš dal zmnožiti dve šestmesni številke,
+
+1486
+01:29:49,200 --> 01:29:53,200
+pa pač napiši v tem primeru mini Python funkcijo
+
+1487
+01:29:53,200 --> 01:29:56,200
+in ti bo podal odgovor.
+
+1488
+01:29:56,200 --> 01:29:59,200
+Lahko bi zelo vehementno rekel,
+
+1489
+01:29:59,200 --> 01:30:04,200
+da si v stvaru mašino za neurosimbolični kompjutink.
+
+1490
+01:30:08,200 --> 01:30:13,200
+Potem tudi use case, kje so da monetizirati
+
+1491
+01:30:13,200 --> 01:30:16,200
+če GTP pa te produkte v PNA,
+
+1492
+01:30:16,200 --> 01:30:20,200
+so da bodo podjetja uporabljali
+
+1493
+01:30:20,200 --> 01:30:27,200
+če GTP pa GTP3 kot neko tako osnovno jedro.
+
+1494
+01:30:27,200 --> 01:30:32,200
+Potem bodo ali dali dostop do nekih svojih
+
+1495
+01:30:32,200 --> 01:30:36,200
+specifičnih podatkov, svojega use case,
+
+1496
+01:30:36,200 --> 01:30:40,200
+ali pa da bodo trenirali za svoje domeno,
+
+1497
+01:30:40,200 --> 01:30:44,200
+ki pa je specifično za njih, finance in činovost.
+
+1498
+01:30:44,200 --> 01:30:48,200
+Jaz mislim, da največ enostavnih uporab v podjetjih
+
+1499
+01:30:48,200 --> 01:30:52,200
+bo prišlo iz tega naslova, v podobnem settingu.
+
+1500
+01:30:52,200 --> 01:30:55,200
+Ti boš uporabil to kot nek umestni člen,
+
+1501
+01:30:55,200 --> 01:30:59,200
+zato da boš en proces naredil bolj enostaven.
+
+1502
+01:30:59,200 --> 01:31:03,200
+In boš iz automatizacije določenih procesov
+
+1503
+01:31:03,200 --> 01:31:06,200
+lahko ful vrednosti ven poteglal.
+
+1504
+01:31:07,200 --> 01:31:10,200
+Ne vem, recimo en tak dober primer.
+
+1505
+01:31:10,200 --> 01:31:14,200
+Podjetje ima ful internih pravil in dokumentov.
+
+1506
+01:31:14,200 --> 01:31:17,200
+V načelama zaposljenja vsi morajo vsem v tem uslediti.
+
+1507
+01:31:17,200 --> 01:31:20,200
+To je komplicirano. Če se zgodi ena stvar,
+
+1508
+01:31:20,200 --> 01:31:23,200
+moraš ti kot zaposljenje na nekaj odreagerati
+
+1509
+01:31:23,200 --> 01:31:26,200
+in potem nisi čist pripričana, kaj moraš narediti.
+
+1510
+01:31:26,200 --> 01:31:29,200
+Zdaj v podjetjih to tako zgleda, da sečneš spraševati okrog,
+
+1511
+01:31:29,200 --> 01:31:32,200
+pa ti veš, kako se to naredi, potem te dajo.
+
+1512
+01:31:33,200 --> 01:31:37,200
+Tako stvar lahko bodo podjetja rešvala na tak način,
+
+1513
+01:31:37,200 --> 01:31:41,200
+da boš ti vprašal bod, a bod ne bo iz svojih vtežide.
+
+1514
+01:31:43,200 --> 01:31:47,200
+On bo naredil semantic search po vseh internih pravilnikih,
+
+1515
+01:31:47,200 --> 01:31:50,200
+po isku dele, ki so relevančni glede na problem
+
+1516
+01:31:50,200 --> 01:31:54,200
+in na podlagi tega ponudil odgovor, kaj je pravilen postopek.
+
+1517
+01:31:56,200 --> 01:31:59,200
+Zdaj si pač opisal malo boljši čet bod.
+
+1518
+01:32:00,200 --> 01:32:04,199
+Spet uporaba, uporaba, use case pač bo bod,
+
+1519
+01:32:04,199 --> 01:32:08,199
+katerega boš vprašal in on bo v bistvu,
+
+1520
+01:32:08,199 --> 01:32:11,199
+tista baza ne bo zdaj statisno, pač bo šel tam čez
+
+1521
+01:32:11,199 --> 01:32:15,199
+in pač tam se bo na podlagi tega najdu najboljš odgore
+
+1522
+01:32:15,199 --> 01:32:18,199
+in mogoče je to tisto, kaj pač...
+
+1523
+01:32:18,199 --> 01:32:22,199
+Ja, samo veš, iz stališča user experience-a je pa razlika,
+
+1524
+01:32:22,199 --> 01:32:25,199
+po moje tako, kot da bi rekel, da je vsebni auto pa tank,
+
+1525
+01:32:25,199 --> 01:32:27,199
+oboje je vozilo.
+
+1526
+01:32:27,199 --> 01:32:31,199
+Se strinjam, da bo dejansko user experience boljši,
+
+1527
+01:32:31,199 --> 01:32:33,199
+ampak...
+
+1528
+01:32:33,199 --> 01:32:37,199
+Hotev sem pač samo to, da bi mogoče malo bilo dvensti čet bod.
+
+1529
+01:32:37,199 --> 01:32:39,199
+Ja, ja, ja.
+
+1530
+01:32:40,199 --> 01:32:43,199
+Težko je ljudem,
+
+1531
+01:32:43,199 --> 01:32:46,199
+kako bi rekel, dati v razumevanje,
+
+1532
+01:32:46,199 --> 01:32:49,199
+koliko pomembno je to izboljšanje, da imajo sami
+
+1533
+01:32:49,199 --> 01:32:52,199
+hand-on izkušno interakcij s temi sistemi.
+
+1534
+01:32:52,199 --> 01:32:54,199
+Stavno moraš oborabljati.
+
+1535
+01:32:54,199 --> 01:32:57,199
+Moraš pač probaviti, da vidiš.
+
+1536
+01:32:57,199 --> 01:33:01,199
+Ok, jaz manjše tu bom povezal dve stvari.
+
+1537
+01:33:01,199 --> 01:33:05,199
+V strojnem očenju,
+
+1538
+01:33:05,199 --> 01:33:09,199
+ko evolviramo kvaliteto modelov,
+
+1539
+01:33:09,199 --> 01:33:13,199
+razbijemo te osnovne inpute na nek test data set,
+
+1540
+01:33:13,199 --> 01:33:16,199
+pa potem na real data set, pa pogledamo,
+
+1541
+01:33:16,199 --> 01:33:18,199
+koliko smo dejansko zadeli.
+
+1542
+01:33:18,199 --> 01:33:22,199
+Potem imaš ta metrike, zanesljivost, točnost,
+
+1543
+01:33:22,199 --> 01:33:25,199
+preciznost, ki v bistvu opisujejo,
+
+1544
+01:33:25,199 --> 01:33:28,199
+kako dobro in kvalitetni so ti modeli.
+
+1545
+01:33:28,199 --> 01:33:31,199
+Ko smo pač pregovorili o teh nekih
+
+1546
+01:33:31,199 --> 01:33:34,199
+machine learning sistemih, to je ful pomembno,
+
+1547
+01:33:34,199 --> 01:33:37,199
+ker veš, a imaš dovolj natrenirano model,
+
+1548
+01:33:37,199 --> 01:33:40,199
+ali premalj natrenirano, ali bo dejansko delo
+
+1549
+01:33:40,199 --> 01:33:43,199
+tako, kot misliš.
+
+1550
+01:33:43,199 --> 01:33:46,199
+In zdaj, ko sem oporabljal ta
+
+1551
+01:33:46,199 --> 01:33:49,199
+4GTP, ko mu postavljaš neke
+
+1552
+01:33:49,199 --> 01:33:52,199
+probleme, ki so mogoče malo bolj
+
+1553
+01:33:52,199 --> 01:33:55,199
+fringe ali pa malo bolj na meji,
+
+1554
+01:33:55,199 --> 01:33:58,199
+ker ni veliko znanja okolo tega,
+
+1555
+01:33:58,199 --> 01:34:01,199
+on še vedno odgovarja zelo
+
+1556
+01:34:01,199 --> 01:34:04,199
+samozavestno, odgovarja zelo
+
+1557
+01:34:04,199 --> 01:34:07,199
+našteva dejstva.
+
+1558
+01:34:07,199 --> 01:34:10,199
+Recimo, daš mu kodo, rečiš, naredi mi
+
+1559
+01:34:10,199 --> 01:34:13,199
+code review, pa ti napiše 7 toček
+
+1560
+01:34:13,199 --> 01:34:16,199
+kod reviewa, kaj sebi je treba izboljšati,
+
+1561
+01:34:16,199 --> 01:34:19,199
+in potem 3 točke so realne, ampak ostale 4 so
+
+1562
+01:34:19,199 --> 01:34:22,199
+totalno non-sense.
+
+1563
+01:34:22,199 --> 01:34:25,199
+To ne piše nekjer, nekjer ni nekega warninga, nekjer ni
+
+1564
+01:34:25,199 --> 01:34:28,199
+izraveno napisano, confidence pa to.
+
+1565
+01:34:28,199 --> 01:34:31,199
+Zdaj pa vidim, da ljudje vzamev outpute
+
+1566
+01:34:31,199 --> 01:34:34,199
+teh toolov, zgenerira marketingški
+
+1567
+01:34:34,199 --> 01:34:37,199
+newsletter ali pa scenarij za podcast
+
+1568
+01:34:37,199 --> 01:34:40,199
+ali ne vem kaj tako, in to prodaja
+
+1569
+01:34:40,199 --> 01:34:43,199
+kot slušal, in pač ta, ljudje so že
+
+1570
+01:34:43,199 --> 01:34:46,199
+toliko dalič pušajo za deve,
+
+1571
+01:34:46,199 --> 01:34:49,199
+da zamejo, da je zanesljiv, da pač
+
+1572
+01:34:49,199 --> 01:34:52,199
+pa ni, dalič od tega. Definitivno ni,
+
+1573
+01:34:52,199 --> 01:34:55,199
+pač ljudje se more to zavedati.
+
+1574
+01:34:55,199 --> 01:34:58,199
+Vse nekje warningi so. Ja, vse so,
+
+1575
+01:34:58,199 --> 01:35:01,199
+ampak se strinjam, to je v bistvu zloraba na nek način
+
+1576
+01:35:01,199 --> 01:35:04,199
+tega modela, mislim, da nidi ni v duhu
+
+1577
+01:35:04,199 --> 01:35:07,199
+te uporabe. Ja, ljudje najdemo ful kreativne načine,
+
+1578
+01:35:07,199 --> 01:35:10,199
+da ne eksplojkamo tehnologijo.
+
+1579
+01:35:10,199 --> 01:35:13,199
+Klučna,
+
+1580
+01:35:13,199 --> 01:35:16,199
+uspešna načina uporabe tega je v integraciji.
+
+1581
+01:35:16,199 --> 01:35:19,199
+Če rabeš simbolični
+
+1582
+01:35:19,199 --> 01:35:22,199
+capability, recimo zdaj imaš
+
+1583
+01:35:22,199 --> 01:35:25,199
+interakcijo z Wolfram Alpha.
+
+1584
+01:35:25,199 --> 01:35:28,199
+Natural language task,
+
+1585
+01:35:28,199 --> 01:35:31,199
+ki pride v tvoj model, ga lahko
+
+1586
+01:35:31,199 --> 01:35:34,199
+potakne, tja nota dobiva na outpute in ga skomunicira.
+
+1587
+01:35:35,199 --> 01:35:38,199
+Isto, kar se tiče teh virov.
+
+1588
+01:35:38,199 --> 01:35:41,199
+Ti mu lahko, ko mu daš ti navodilo na začetku,
+
+1589
+01:35:41,199 --> 01:35:44,199
+ti lahko zelo povdaraš, da odgovor vsebuje
+
+1590
+01:35:44,199 --> 01:35:47,199
+stvari, ki so prišli iz tega
+
+1591
+01:35:47,199 --> 01:35:50,199
+spomina. Če pa ne more
+
+1592
+01:35:50,199 --> 01:35:53,199
+s temi snipe, ki jih je ven dobil, odgovoriti na tvoj problem,
+
+1593
+01:35:53,199 --> 01:35:56,199
+ne ti pa pove, da nima ustreznih informacij.
+
+1594
+01:35:56,199 --> 01:35:59,199
+Mislim, to se je spromti inženiringom, da tako rečem, da
+
+1595
+01:35:59,199 --> 01:36:02,199
+do neke mere rešiti. Zato pa pravim,
+
+1596
+01:36:02,199 --> 01:36:05,199
+ne je zdaj uporabljati to, kaj ČED bo zalansiran jebarskih
+
+1597
+01:36:05,199 --> 01:36:08,199
+raket. Ampak si tako povedal, da
+
+1598
+01:36:08,199 --> 01:36:11,199
+v bistvu po svojem moraš znat
+
+1599
+01:36:11,199 --> 01:36:14,199
+tudi prompt napisati. In v bistvu
+
+1600
+01:36:14,199 --> 01:36:17,199
+postane to neka vrste umetnost.
+
+1601
+01:36:17,199 --> 01:36:20,199
+Se pravi, postate.
+
+1602
+01:36:20,199 --> 01:36:23,199
+ČED,
+
+1603
+01:36:23,199 --> 01:36:26,199
+GPT, ima te neke umejitve,
+
+1604
+01:36:26,199 --> 01:36:29,199
+kam ne greš, oziroma na kaj ne bo odgovarjal.
+
+1605
+01:36:29,199 --> 01:36:32,199
+Ampak so ljudje,
+
+1606
+01:36:32,199 --> 01:36:35,199
+ki so šli v raziskovanje,
+
+1607
+01:36:35,199 --> 01:36:38,199
+kako napisati prompt, da vse en dobijo.
+
+1608
+01:36:38,199 --> 01:36:41,199
+Prompt injection.
+
+1609
+01:36:41,199 --> 01:36:44,199
+Mogoče, kar se prompt inženiringa tiče.
+
+1610
+01:36:44,199 --> 01:36:47,199
+Ta zadeva, ko smo te modeli prvič prišli ven, 2020, je bilo vse v prompt inženiringu.
+
+1611
+01:36:47,199 --> 01:36:50,199
+Tam si mogoče na ta prav način vprašati,
+
+1612
+01:36:50,199 --> 01:36:53,199
+da si dobil to ven, kar si hotel.
+
+1613
+01:36:53,199 --> 01:36:56,199
+Ampak zdaj se pa v bistvu dela
+
+1614
+01:36:56,199 --> 01:36:59,199
+reinforcement learning with human feedback.
+
+1615
+01:36:59,199 --> 01:37:02,199
+To bi se zdaj tako zgleda.
+
+1616
+01:37:02,199 --> 01:37:05,199
+Imamo en model, ki je bil naučen in nesuperviziran.
+
+1617
+01:37:05,199 --> 01:37:08,199
+In on zdaj, če mu damo neko nalogo,
+
+1618
+01:37:08,199 --> 01:37:11,199
+da nek rezultat.
+
+1619
+01:37:11,199 --> 01:37:14,199
+Pa pa imamo recimo ljudi, ki gradejo,
+
+1620
+01:37:14,199 --> 01:37:17,199
+kako je ta odgovor dober.
+
+1621
+01:37:17,199 --> 01:37:20,199
+In na podlagi tega gradinga se nauči ta drugi model,
+
+1622
+01:37:20,199 --> 01:37:23,199
+ki je v bistvu tam samo, da ne pove,
+
+1623
+01:37:23,199 --> 01:37:26,199
+kako bi človek ocenil tisti odgovor, ki ga je prvi model dal.
+
+1624
+01:37:26,199 --> 01:37:29,199
+In potem, ko enkrat imamo ta oba modela,
+
+1625
+01:37:29,199 --> 01:37:32,199
+v bistvu on ta prvi daje rezultate,
+
+1626
+01:37:32,199 --> 01:37:35,199
+on ta drugi mu pove, a je bil dober ali ne,
+
+1627
+01:37:35,199 --> 01:37:38,199
+in se dogaja reinforcement learning.
+
+1628
+01:37:38,199 --> 01:37:41,199
+In to pripelje do modela, potem ki bistveno, bistveno boljše
+
+1629
+01:37:41,199 --> 01:37:44,199
+sledi na vodilom, kot jih je človek dal.
+
+1630
+01:37:44,199 --> 01:37:47,199
+In to recimo en velik del prompt inženiringa
+
+1631
+01:37:47,199 --> 01:37:50,199
+naredi odveč.
+
+1632
+01:37:50,199 --> 01:37:53,199
+Ker je, bom rekel, že sam način, kako je model skonstruiran tak,
+
+1633
+01:37:53,199 --> 01:37:56,199
+da to poenostavi maksimalno.
+
+1634
+01:37:57,199 --> 01:38:00,199
+Ok.
+
+1635
+01:38:00,199 --> 01:38:03,199
+Hvala, da še imaš kaj.
+
+1636
+01:38:03,199 --> 01:38:06,199
+Hvala, da hočeš biti na WC.
+
+1637
+01:38:06,199 --> 01:38:09,199
+Eno par vprašanj še imam, potem bomo zaključili.
+
+1638
+01:38:12,199 --> 01:38:15,199
+Zdaj bom šel malo ven
+
+1639
+01:38:15,199 --> 01:38:18,199
+iz teh produktov,
+
+1640
+01:38:18,199 --> 01:38:21,199
+ki je tako vprašal.
+
+1641
+01:38:21,199 --> 01:38:24,199
+Področje umetne inteligence, strojne gočenje, deep learninga,
+
+1642
+01:38:24,199 --> 01:38:27,199
+produktov, ki smo jih zdaj umenjali,
+
+1643
+01:38:27,199 --> 01:38:30,199
+to področje raste eksponentno.
+
+1644
+01:38:30,199 --> 01:38:33,199
+Stvari, ki smo jih videli na začetku leta 2021,
+
+1645
+01:38:33,199 --> 01:38:36,199
+pa 2020,
+
+1646
+01:38:36,199 --> 01:38:39,199
+pa zdaj pač je boom.
+
+1647
+01:38:39,199 --> 01:38:42,199
+Ampak res raste ali je samo medijsko
+
+1648
+01:38:42,199 --> 01:38:45,199
+tako bolj izpostavljeno?
+
+1649
+01:38:45,199 --> 01:38:48,199
+Specifično je skato dogovor na to vprašanje,
+
+1650
+01:38:48,199 --> 01:38:51,199
+ampak poštevilo research paper objavljenih,
+
+1651
+01:38:51,199 --> 01:38:54,199
+poštevilo člankov objavljenih,
+
+1652
+01:38:54,199 --> 01:38:57,199
+poštevilo kode objavljene, projektov objavljenih,
+
+1653
+01:38:57,199 --> 01:39:00,199
+activity-a znotraj tega space-a,
+
+1654
+01:39:00,199 --> 01:39:03,199
+vse raste eksponentno.
+
+1655
+01:39:03,199 --> 01:39:06,199
+In tudi tituli, kvaliteta njihova se izboljšuje skoraj eksponentno.
+
+1656
+01:39:06,199 --> 01:39:09,199
+Se pravi, nekaj stvari, ki danes,
+
+1657
+01:39:09,199 --> 01:39:12,199
+ko zdaj tole snemamo,
+
+1658
+01:39:12,199 --> 01:39:15,199
+pač zanimive, pa že nekaj dalje,
+
+1659
+01:39:15,199 --> 01:39:18,199
+do konca leta bodo še bistveno boljše kot so.
+
+1660
+01:39:18,199 --> 01:39:21,199
+Ker spet pač imamo eksponentno rast.
+
+1661
+01:39:21,199 --> 01:39:24,199
+Zdaj to imamo vsi cervijo, jaz imam tu nekaj čarte,
+
+1662
+01:39:24,199 --> 01:39:27,199
+in vsi čarti grejo hitro goro.
+
+1663
+01:39:27,199 --> 01:39:30,199
+In zdaj moje vprašanje bo to,
+
+1664
+01:39:30,199 --> 01:39:33,199
+recimo da je to hipoteza drži,
+
+1665
+01:39:33,199 --> 01:39:36,199
+da je rast res hitra pa eksponentna.
+
+1666
+01:39:36,199 --> 01:39:39,199
+Mene zanima zdaj, kaj omogoča to rast.
+
+1667
+01:39:39,199 --> 01:39:42,199
+Ker je toliko zanimiva priložnost,
+
+1668
+01:39:42,199 --> 01:39:45,199
+da bo naredila ful preboja,
+
+1669
+01:39:45,199 --> 01:39:48,199
+da res damo ogromno denarja noter,
+
+1670
+01:39:48,199 --> 01:39:51,199
+ali je to software nam omogoča to,
+
+1671
+01:39:51,199 --> 01:39:54,199
+ali nam hardware omogoča to,
+
+1672
+01:39:54,199 --> 01:39:57,199
+ali nam cene hardware omogočajo to.
+
+1673
+01:39:57,199 --> 01:40:00,199
+Kaj za boga žene ta eksponentno rast.
+
+1674
+01:40:00,000 --> 01:40:02,800
+od tega področja ali pa napred kotem.
+
+1675
+01:40:02,800 --> 01:40:07,680
+Torej, na koncu je bil ta Richard Sutton,
+
+1676
+01:40:07,680 --> 01:40:13,680
+je napisal en kratek esej
+
+1677
+01:40:13,680 --> 01:40:17,680
+z naslovom The Bitter Lesson, britka lekcija,
+
+1678
+01:40:17,680 --> 01:40:20,680
+kjer je v bistvu že nekaj časa nazaj povedal, da tako,
+
+1679
+01:40:20,680 --> 01:40:23,680
+če pogledamo čez umetno inteligenco, ma, kaj je bil dosežen, kaj ni bilo,
+
+1680
+01:40:23,680 --> 01:40:26,680
+pa potegnemo eno črto, zakaj se je vse to zgodila,
+
+1681
+01:40:26,680 --> 01:40:29,680
+se je v bistvu zaradi tega, kaj je bilo več.
+
+1682
+01:40:29,680 --> 01:40:32,680
+V bistvu vse te dosežke je na nek način suportiral ali pa slugnal naprej,
+
+1683
+01:40:32,680 --> 01:40:37,680
+predprosto hardver in toliko več računske moči.
+
+1684
+01:40:37,680 --> 01:40:40,680
+In jaz mislim, da je to še vedno res.
+
+1685
+01:40:40,680 --> 01:40:45,680
+Torej, ko govorimo o skaliranju,
+
+1686
+01:40:45,680 --> 01:40:50,680
+seveda bomo potrebovali za skaliranje vedno več računske moči.
+
+1687
+01:40:50,680 --> 01:40:54,680
+In zato, da si jo lahko prevoščimo, pa če računamo na to,
+
+1688
+01:40:54,680 --> 01:40:58,680
+da hardver postaja bolj zmogljiv, ni pa samo hardver.
+
+1689
+01:40:58,680 --> 01:41:03,680
+Sva tudi, bom rekel, v načini, kako z boljšim softverom stvari optimizirati in tako naprej.
+
+1690
+01:41:03,680 --> 01:41:05,680
+Ampak v osnovi je to.
+
+1691
+01:41:05,680 --> 01:41:10,680
+In zdaj tukaj, da bi rekel, da imamo na horizontu kakšen močen cutoff,
+
+1692
+01:41:10,680 --> 01:41:12,680
+da bi tako že zdaj videli, ne.
+
+1693
+01:41:12,680 --> 01:41:16,680
+Ker ne, ni zdaj samo v posameznem procesorskem jedru.
+
+1694
+01:41:16,680 --> 01:41:20,680
+Lahko grejo stvari tudi v širino, pa pa ne vem, skratka.
+
+1695
+01:41:20,680 --> 01:41:23,680
+Da bomo tako reči, jaz sem trenutno zelo confident,
+
+1696
+01:41:23,680 --> 01:41:27,680
+da bomo v naslednjih, na primer, treh letih, glede hardvera, še vedno rastl.
+
+1697
+01:41:27,680 --> 01:41:32,680
+Če se ne zgodi nek exogen event, kakšna bojna ali kaj podobnega,
+
+1698
+01:41:32,680 --> 01:41:36,680
+ampak izven tega, naslednja tri leta bomo še rastli.
+
+1699
+01:41:37,680 --> 01:41:40,680
+Tri leta v računalištvu je...
+
+1700
+01:41:42,680 --> 01:41:44,680
+...je 15 let v nekaj drugim stvari.
+
+1701
+01:41:44,680 --> 01:41:47,680
+Pa se upaš nam povedati, kam bomo rastli.
+
+1702
+01:41:47,680 --> 01:41:53,680
+Mislim, da se recimo umija, kaj bo potem konc tega leta.
+
+1703
+01:41:54,680 --> 01:41:57,680
+Kaj se upaš povedati, kje bomo?
+
+1704
+01:41:57,680 --> 01:42:01,680
+Ena stvar, ki je že zelo pričakovana, je prihod GPT-4.
+
+1705
+01:42:01,680 --> 01:42:06,680
+Mislim, da, ko se bo zgodilo, bo še velik večja stvar,
+
+1706
+01:42:06,680 --> 01:42:09,679
+kot pa to, kar je bilo v začetji GPT.
+
+1707
+01:42:09,679 --> 01:42:12,679
+Težko je zdaj reči, kakšne bodo funkcionalnosti.
+
+1708
+01:42:12,679 --> 01:42:15,679
+Mislim, moje pričakovanje je, da bi lahko bistveno
+
+1709
+01:42:15,679 --> 01:42:19,679
+bolj model bil povezan z internetom.
+
+1710
+01:42:19,679 --> 01:42:24,679
+Mogoče delegiranje nekih taskov, ki bi jih lahko samostojno
+
+1711
+01:42:24,679 --> 01:42:27,679
+potem opravili.
+
+1712
+01:42:27,679 --> 01:42:31,679
+Potem pričakujem, kar se tiče generiranja videja,
+
+1713
+01:42:31,679 --> 01:42:36,679
+tukaj do konca tega leta pričakujem drastičen napredek.
+
+1714
+01:42:36,679 --> 01:42:39,679
+Mislim, da bomo bistveno hitrej dosegli to točko,
+
+1715
+01:42:39,679 --> 01:42:43,679
+ki boš lahko z enim stavkom zgeneriral celo večerc.
+
+1716
+01:42:43,679 --> 01:42:46,679
+To še ne bo najvretneje do konca tega leta,
+
+1717
+01:42:46,679 --> 01:42:49,679
+ampak lej, drugo leto.
+
+1718
+01:42:49,679 --> 01:42:52,679
+Ampak tukaj pa video, potem spet ta
+
+1719
+01:42:52,679 --> 01:42:55,679
+deepfake vode.
+
+1720
+01:42:55,679 --> 01:42:58,679
+Ja, veš, kar se tiče deepfake-ov,
+
+1721
+01:42:58,679 --> 01:43:02,679
+mi moramo najdati eno rešitev,
+
+1722
+01:43:02,679 --> 01:43:05,679
+ki ne bo veza na detektiranje tega,
+
+1723
+01:43:05,679 --> 01:43:08,679
+ker to je izgubljajoča bitka.
+
+1724
+01:43:08,679 --> 01:43:11,679
+Jaz predlagam, da se rešitve išče bolj v smislu kriptografije.
+
+1725
+01:43:12,679 --> 01:43:17,679
+Na tak način. Če imaš kriptografsko verificiran kanal,
+
+1726
+01:43:17,679 --> 01:43:20,679
+prekaterega nekdo podaje neke informacije,
+
+1727
+01:43:20,679 --> 01:43:23,679
+potem se ne rabe ukvarjati.
+
+1728
+01:43:23,679 --> 01:43:26,679
+Ti lahko privzamaš, če je informacija prišla iz tega kanala
+
+1729
+01:43:26,679 --> 01:43:29,679
+in zaupam, če ne, pa če ne.
+
+1730
+01:43:29,679 --> 01:43:32,679
+Kakršnihol te poskusi, da boš nekaj detektiral.
+
+1731
+01:43:32,679 --> 01:43:35,679
+Nekaj časa gre, potem pride nekaj boljšega,
+
+1732
+01:43:35,679 --> 01:43:38,679
+pa ti ne deluje več.
+
+1733
+01:43:38,679 --> 01:43:41,679
+Niška pa mudska.
+
+1734
+01:43:41,679 --> 01:43:46,679
+To, kar se je pokazali ljudi, je že brez deepfakev
+
+1735
+01:43:46,679 --> 01:43:49,679
+možno kar dobro manipulirati.
+
+1736
+01:43:49,679 --> 01:43:53,679
+Kakšna je dodana vrednost, da lahko v zraven
+
+1737
+01:43:53,679 --> 01:43:56,679
+vključaš še deepfake, je pomembno vprašanje.
+
+1738
+01:43:56,679 --> 01:43:59,679
+Ampak jaz mislim, da bi bilo kaj te medijski deepfake.
+
+1739
+01:43:59,679 --> 01:44:04,679
+To, kar bi mene skrbel, je, da tebe pokliče
+
+1740
+01:44:04,679 --> 01:44:09,679
+agenta in se prijetno s teboj pogovarja po telefonu
+
+1741
+01:44:09,679 --> 01:44:12,679
+ali pa imaš z njim videokol.
+
+1742
+01:44:12,679 --> 01:44:17,679
+Tako se do neke mere vojz obstaje.
+
+1743
+01:44:17,679 --> 01:44:20,679
+To je vrstni skemija.
+
+1744
+01:44:20,679 --> 01:44:23,679
+So že tukaj.
+
+1745
+01:44:23,679 --> 01:44:26,679
+Ampak kaj je točka, ko ne boš več ločil?
+
+1746
+01:44:26,679 --> 01:44:30,679
+Mene bolj zanima, ali se dela kaj kontra.
+
+1747
+01:44:30,679 --> 01:44:33,679
+Se pravi, da boš zaznal, oziroma, da boš detektiral,
+
+1748
+01:44:33,679 --> 01:44:40,679
+da gre za output, ki je bil zgeneriran skozi AI sistem.
+
+1749
+01:44:40,679 --> 01:44:47,679
+Da je na drugi strani res nek bot, pa naprej posnet glas.
+
+1750
+01:44:47,679 --> 01:44:50,679
+Kitajci imajo super solučenje.
+
+1751
+01:44:50,679 --> 01:44:53,679
+Vse, kar je zgenerirano z obmetno inteligencov,
+
+1752
+01:44:53,679 --> 01:44:56,679
+vse videe in fotografije morajo imeti watermarker, da je generirano.
+
+1753
+01:44:56,679 --> 01:44:59,679
+Ja, so rešili problem.
+
+1754
+01:44:59,679 --> 01:45:03,679
+Kaj je ona tehnologija? Radikalna.
+
+1755
+01:45:03,679 --> 01:45:06,679
+Krop pikčer.
+
+1756
+01:45:10,679 --> 01:45:13,679
+Zdaj imam tukaj še nekaj ta...
+
+1757
+01:45:13,679 --> 01:45:17,679
+Tri vprašanja bom dal, pa bomo res zaključili.
+
+1758
+01:45:17,679 --> 01:45:21,679
+To si ti sicer odpostavil to vprašanje, ampak
+
+1759
+01:45:22,679 --> 01:45:27,679
+kaka je vloga, sicer si rekel, data scientista,
+
+1760
+01:45:27,679 --> 01:45:32,679
+pa machine learning inženirja v celem tem aspektu.
+
+1761
+01:45:32,679 --> 01:45:39,679
+Mislim, da se bomo zdaj bojevali proti umetni inteligenci,
+
+1762
+01:45:39,679 --> 01:45:42,679
+je, ne vem, verjetno zgubljena bitka.
+
+1763
+01:45:42,679 --> 01:45:45,679
+Verjetno se moramo naučiti delati z njo.
+
+1764
+01:45:46,679 --> 01:45:52,679
+Kaka je tu vloga sodobnega inženirja, ki se v tem prostoru najde.
+
+1765
+01:45:52,679 --> 01:45:55,679
+Se vidi, da je to vprašanje malo v vlogah, kaj ljudje sploh delajo,
+
+1766
+01:45:55,679 --> 01:45:57,679
+pa malo v bistvu AI safety.
+
+1767
+01:45:57,679 --> 01:45:59,679
+Ampak je zagotovo, se bomo premešali.
+
+1768
+01:45:59,679 --> 01:46:02,679
+Kaj bomo zdaj ti, ko boš nekaj skala programirati?
+
+1769
+01:46:02,679 --> 01:46:04,679
+Ja, podcast host bom pismal.
+
+1770
+01:46:04,679 --> 01:46:08,679
+Pa to bomo zdaj pač tako rečeš, če ti tu idejo današnjo daj.
+
+1771
+01:46:08,679 --> 01:46:13,679
+Ja, ta tip, ki dela ta open AI,
+
+1772
+01:46:13,679 --> 01:46:16,679
+ki ima nek sklad za, kaj je že rekel,
+
+1773
+01:46:16,679 --> 01:46:21,679
+za ta, kaj se tam reče, univerzalni temelji dohode,
+
+1774
+01:46:21,679 --> 01:46:26,679
+in bo preko tega nazaj dajeli ljudem, ki ne bojo imeli več službe zrad tega.
+
+1775
+01:46:26,679 --> 01:46:29,679
+Ampak bomo, dejmo malo iti nazaj.
+
+1776
+01:46:29,679 --> 01:46:32,679
+Gremo na vloge.
+
+1777
+01:46:32,679 --> 01:46:38,679
+Pač tako, Data Scientist, kaj je bil tak zelo privlačen poklicin,
+
+1778
+01:46:38,679 --> 01:46:42,679
+mislim, sej še vedno, ampak ljudje, ko stopajo v Data Science,
+
+1779
+01:46:42,679 --> 01:46:45,679
+še donosno, imajo niko tako pričakovanje, da bodo gradili modele,
+
+1780
+01:46:45,679 --> 01:46:48,679
+in da bodo mogli poznati ful različnih arhitektur,
+
+1781
+01:46:48,679 --> 01:46:50,679
+kaj bodo kreativno uporabljali in tako naprej.
+
+1782
+01:46:50,679 --> 01:46:53,679
+Pač ta del malo zamira.
+
+1783
+01:46:53,679 --> 01:46:58,679
+Ker recimo te običajni Data Science problemi v podjetjih so dobro razumljeni,
+
+1784
+01:46:58,679 --> 01:47:01,679
+modeli, ki to rešujejo, dobro znani in dokumentirani,
+
+1785
+01:47:01,679 --> 01:47:04,679
+pač bistveno imajo nepotrebe po tej kreativnosti.
+
+1786
+01:47:04,679 --> 01:47:07,679
+In to, ker dost tih ljudi najbolj veseli, se polizi kaže,
+
+1787
+01:47:07,679 --> 01:47:10,679
+da pravzaprav ne bodo tega delala.
+
+1788
+01:47:10,679 --> 01:47:13,679
+Plus, obstajajo razno razne AutoML metode,
+
+1789
+01:47:13,679 --> 01:47:17,679
+ki tudi, ko moraš to delati, je tako ful zaotomatiziran.
+
+1790
+01:47:17,679 --> 01:47:23,679
+In posledično, Data Science ulog se zatakne zdaj na dveh koncih.
+
+1791
+01:47:23,679 --> 01:47:27,679
+Prvo je razumevanje, katere podatke sploh potrebujemo,
+
+1792
+01:47:27,679 --> 01:47:32,679
+pa so te podatke v redu in tako zelo, ja, pač čiščenje.
+
+1793
+01:47:32,679 --> 01:47:36,679
+Mar si komu ne diši najbolj, če si obetal, da bo učil neke sofisticirane modele,
+
+1794
+01:47:36,679 --> 01:47:38,679
+ampak to je esencialen del tega.
+
+1795
+01:47:38,679 --> 01:47:40,679
+Na drugi strani je pa komunikacija.
+
+1796
+01:47:40,679 --> 01:47:44,679
+Stalno, aha, zdaj smo nekaj dobil ven iz teh modelov,
+
+1797
+01:47:44,679 --> 01:47:48,679
+in zdaj to treba, ne vem, pač ponibolj...
+
+1798
+01:47:48,679 --> 01:47:49,679
+Stakeholderjem, ja.
+
+1799
+01:47:49,679 --> 01:47:53,679
+Stakeholderjem prikazati, zakaj, in zakaj bi bilo dobro naredili tega.
+
+1800
+01:47:53,679 --> 01:47:57,679
+In spet je tudi neko področje, ki mar se kdo ni v resnici ne išče tega.
+
+1801
+01:47:57,679 --> 01:48:01,679
+On bi pač rad modele razvijal.
+
+1802
+01:48:01,679 --> 01:48:05,679
+No, zdaj, pri Machine Learning inženerjih,
+
+1803
+01:48:05,679 --> 01:48:09,679
+se mi zdi, da ta inženir del je prišel iz tega,
+
+1804
+01:48:09,679 --> 01:48:13,679
+da pač gradiš nekaj, ker je en gradnik sistema,
+
+1805
+01:48:13,679 --> 01:48:19,679
+ki kontinuirano deluje in mora delovati res gladko in preverjeno in tako naprej.
+
+1806
+01:48:19,679 --> 01:48:24,679
+Tle gre pa bolj za to, da postaveš, v bistvu bom rekel, pipeline,
+
+1807
+01:48:24,679 --> 01:48:30,679
+ki bo prepeljal od poslovnega problema alquerija,
+
+1808
+01:48:30,679 --> 01:48:33,679
+pa do končne napovedi skladno za celotno verifikacijo,
+
+1809
+01:48:33,679 --> 01:48:36,679
+ko se mora zgoditi, da vse gladko teče.
+
+1810
+01:48:36,679 --> 01:48:40,679
+Skratka, gradnjo takih in zdrževanje takih sistemov.
+
+1811
+01:48:40,679 --> 01:48:47,679
+Tako da sta na nek način ulogi, ki vedno bolj divergirata.
+
+1812
+01:48:47,679 --> 01:48:52,679
+Spet je pa tako, tudi Machine Learning inženjer ne bo nujno,
+
+1813
+01:48:52,679 --> 01:48:56,679
+ker je dost časa več porabu na samem učenju modelov.
+
+1814
+01:48:56,679 --> 01:49:02,679
+To, kar se zdaj dogaja, kje se nove arhitekture porabijo,
+
+1815
+01:49:02,679 --> 01:49:07,679
+pa če bodi si na univerzah, ki pa so pogosto finančno mejene,
+
+1816
+01:49:07,679 --> 01:49:11,679
+glede budžeta za kalkuliranje, in pa v razvojnih odelkih podjetij,
+
+1817
+01:49:11,679 --> 01:49:15,679
+ki so se odločila, da bodo veliko denarja potopila v to.
+
+1818
+01:49:15,679 --> 01:49:18,679
+In tam imajo potem ulogo, ki je spet ločeno,
+
+1819
+01:49:18,679 --> 01:49:22,679
+ne več Machine Learning inženjer, ampak Research Scientist.
+
+1820
+01:49:23,679 --> 01:49:34,679
+Ampak tudi za običajne inženjere, kjer to se zelo neumno sliši,
+
+1821
+01:49:34,679 --> 01:49:39,679
+ampak recimo, da si web developer, da si front-end developer,
+
+1822
+01:49:39,679 --> 01:49:43,679
+se pravi, da nisi specialno Data Science in Machine Learning inženjer,
+
+1823
+01:49:43,679 --> 01:49:49,679
+se mi vsem zdi, da je pametno biti stiko z to tehnologijo,
+
+1824
+01:49:49,679 --> 01:49:56,679
+ker je uporabljati, ali se pritvarja, da ne dela.
+
+1825
+01:49:56,679 --> 01:50:06,679
+Nekdo je imel primer, se pravi, imel je nek plugin,
+
+1826
+01:50:06,679 --> 01:50:12,679
+ki je bil napisan v jQuery-u, pa ne vem, nek druga template imel,
+
+1827
+01:50:12,679 --> 01:50:17,679
+in je dal noter v gtp, pa je rekel, napiši mi React komponento iz tega.
+
+1828
+01:50:17,679 --> 01:50:21,679
+In je izplunovan tisto React komponento, malo popraviš, pa je delalo.
+
+1829
+01:50:21,679 --> 01:50:27,679
+To so neki taki egzempli, ko moraš malo zavedenje zgraditi,
+
+1830
+01:50:27,679 --> 01:50:30,679
+da zdaj pa tam tool, ki ti bo pomagal to izboljšati.
+
+1831
+01:50:30,679 --> 01:50:34,679
+Ne rabiš sicer biti ML inženjer, ampak te tooli ti lahko...
+
+1832
+01:50:34,679 --> 01:50:40,679
+Ja, moči malo takih osebnih pogledov, ki morajo pa malo tudi skušno.
+
+1833
+01:50:40,679 --> 01:50:44,679
+Ena stvar, ki sem jo definitivno opazil, ko se gre za upolevanje
+
+1834
+01:50:44,679 --> 01:50:49,679
+nekih takih toolov, kot je GPT. Pazil sem, da ljudje, ki delajo
+
+1835
+01:50:49,679 --> 01:50:56,679
+v marketingu, people developmentu, managerji, sales,
+
+1836
+01:50:56,679 --> 01:51:03,679
+taki poklici veliko hitreje dejansko zaobjamejo uporabo te tehnologije.
+
+1837
+01:51:03,679 --> 01:51:07,679
+Recimo, ne vem, enkrat jim to pokažem, in posle slišimo,
+
+1838
+01:51:07,679 --> 01:51:11,679
+čez dva meseca jim tako casualjo umenjo, da to zdaj vsak dan uporabljajo.
+
+1839
+01:51:11,679 --> 01:51:16,679
+Se mi pa zdi, da pri bolj, bom rekel, ljudeh, ki so bolj fokusirani
+
+1840
+01:51:16,679 --> 01:51:20,679
+na development, je pa ni vedno tako, ampak je pa pogosto se mi zdi
+
+1841
+01:51:20,679 --> 01:51:24,679
+začutiti nek tak odpor, pa eno tako ful močno skepso,
+
+1842
+01:51:24,679 --> 01:51:31,679
+kaj lahko naredimo s temi urodji. Ja, mislim, moje priporočilo vse,
+
+1843
+01:51:31,679 --> 01:51:35,679
+kakor je, da se splača s tem se znanit. Pa ne je nujno samo z urodji,
+
+1844
+01:51:35,679 --> 01:51:38,679
+ki so za pomoč developmentu, ampak je tudi druga.
+
+1845
+01:51:38,679 --> 01:51:43,679
+Recimo, ena stran je, ki je ful koristna, Future Tools,
+
+1846
+01:51:43,679 --> 01:51:48,679
+kaj se jo res splača obiskati, ker je tak res skrbno izbran nabor
+
+1847
+01:51:48,679 --> 01:51:54,679
+produktov, ki se jih da danes uporabljati, za rešvanje raznoraznih stvari.
+
+1848
+01:51:54,679 --> 01:51:58,679
+Ne vem, bi rekel banalnih, kako povečati resolucijo slike,
+
+1849
+01:51:58,679 --> 01:52:01,679
+pa seveda tudi tako urodje, kaj te GPT so gor zlistane.
+
+1850
+01:52:01,679 --> 01:52:10,679
+Jaz mislim, da bo šlo zelo v tej smeri, da bodo tudi senior developerji
+
+1851
+01:52:10,679 --> 01:52:15,679
+uporabljali te toole, zato da bodo še boljši. Tudi, če grem spremljati
+
+1852
+01:52:15,679 --> 01:52:21,679
+recimo po Twitterju to, kaj ljudje, ki vem, da so izredno dobri developerji,
+
+1853
+01:52:21,679 --> 01:52:27,679
+potem po parih mesecih uporabe teh toolov sporočajo, je, da jih je naredil
+
+1854
+01:52:28,679 --> 01:52:32,679
+neprimerno bolj učinkovite, in da tudi vedno večji od stotek njihove kode
+
+1855
+01:52:32,679 --> 01:52:35,679
+je nastane z uporabo teh toolov.
+
+1856
+01:52:37,679 --> 01:52:40,679
+OK, zadnjo vprašanje. Ste pripravljeno?
+
+1857
+01:52:41,679 --> 01:52:43,679
+Tega sem si sremično roštil.
+
+1858
+01:52:45,679 --> 01:52:51,679
+Jaz bi pa čisto samo, kaj managementu povejati, oziroma kako zdaj
+
+1859
+01:52:51,679 --> 01:52:57,679
+je v bistvu povezati ta del metentiligence in managementa,
+
+1860
+01:52:57,679 --> 01:53:03,679
+a bo zdaj management se zdaj boljši drugači odločil, se zanašal na te toole,
+
+1861
+01:53:03,679 --> 01:53:14,679
+ali je tukaj vse ena boljša distanca, pa še vedno se odločil na način,
+
+1862
+01:53:14,679 --> 01:53:16,679
+kaj smo se do zdaj odločili.
+
+1863
+01:53:17,679 --> 01:53:19,679
+To je bolj šopek vprašanje.
+
+1864
+01:53:20,679 --> 01:53:29,679
+Kaj bi svetoval danes tehnološkim podjetjem in njihovem managementu?
+
+1865
+01:53:30,679 --> 01:53:34,679
+Prva stvar, ki je najbolj koristna, če se jo da izvesti, je,
+
+1866
+01:53:34,679 --> 01:53:40,679
+da vsem ljudem v managementu pridobite hands-on izkušnje s temi tooli.
+
+1867
+01:53:40,679 --> 01:53:44,679
+Ne rabite zdaj generirati kodo, ampak začnite jih uporabljati,
+
+1868
+01:53:44,679 --> 01:53:47,679
+vzavnite si eno uro časa, postavljate vprašanje in pogledajte,
+
+1869
+01:53:47,679 --> 01:53:51,679
+kaj dobivate nazaj. Jaz mislim, da sama ta eno urna izkušnja
+
+1870
+01:53:51,679 --> 01:53:56,679
+bo vredna več kot trop konzultantov z nekakšnimi urnimi postavkami,
+
+1871
+01:53:56,679 --> 01:54:01,679
+ker bo dala boljši uvid v to dejansko, kaj je možno narediti.
+
+1872
+01:54:02,679 --> 01:54:08,679
+Tako da, kar se tiče managementa in kako se bo to spreminjalo
+
+1873
+01:54:08,679 --> 01:54:11,679
+pred podjetjih, jaz mislim, da se bodo v eni točki,
+
+1874
+01:54:11,679 --> 01:54:16,679
+ki ni preveč oddaljena, začela pojavljati podjetja,
+
+1875
+01:54:16,679 --> 01:54:21,679
+ki bodo tudi en del te vloge zaupala ustrezno zastavljenim agentom.
+
+1876
+01:54:21,679 --> 01:54:25,679
+Recimo zdaj je podjetje Antropic, ki je tudi eden od teh
+
+1877
+01:54:25,679 --> 01:54:30,679
+kar pomembnih igralcev pri velikih modelih. So pred kratkim izdal članek,
+
+1878
+01:54:30,679 --> 01:54:35,679
+mislim, da me je naslal Constitutional AI, kjer so raziskvali to,
+
+1879
+01:54:35,679 --> 01:54:40,679
+kako ti lahko modelu daš neka pravila oziroma osmeritve
+
+1880
+01:54:40,679 --> 01:54:43,679
+oziroma vrednote, ki ne jih upošteva.
+
+1881
+01:54:44,679 --> 01:54:49,679
+In potem v bistvu on presoja druge modele, ki so skladni s tem
+
+1882
+01:54:49,679 --> 01:54:53,679
+in jih preko tega trenira, za to, da postaje automatsko bolj
+
+1883
+01:54:53,679 --> 01:54:56,679
+sinhroni za temi osmeritvami.
+
+1884
+01:54:57,679 --> 01:55:02,679
+Meni se zdi, da se bodo začela tudi, mogoče podjetja, ki bodo raziskvala
+
+1885
+01:55:02,679 --> 01:55:05,679
+nove poslovne modele, mogoče formirati, kako imamo
+
+1886
+01:55:05,679 --> 01:55:09,679
+Infrastructure as Code, company as code.
+
+1887
+01:55:09,679 --> 01:55:14,679
+Kaj bo Žliv tako lahko imel nekega orkestratorja, v smislu COTA,
+
+1888
+01:55:14,679 --> 01:55:20,679
+kaj bo potem taske pod menedžerjem dodeljeval in oni potem
+
+1889
+01:55:20,679 --> 01:55:24,679
+naprej razpracelira in v nekaterih teh ulogah utegnejo biti ljudje,
+
+1890
+01:55:24,679 --> 01:55:28,679
+v nekaterih pač morda niti ne, ampak skratka, to bo vse ratalo
+
+1891
+01:55:28,679 --> 01:55:32,679
+po moje, bolj zlepljeno skupaj.
+
+1892
+01:55:33,679 --> 01:55:43,679
+Zdaj pa vidiš, če gremo v nekih inženirskih vodah ali v nekaj
+
+1893
+01:55:43,679 --> 01:55:51,679
+firmi, lahko zdaj je že sodeločena delovna mesta ogrožena, da bi rekel,
+
+1894
+01:55:51,679 --> 01:55:58,679
+da bo AI to zamenjal ali na polovico nadumestil nekega človeka.
+
+1895
+01:55:58,679 --> 01:56:05,679
+Trenutno moja ocena je taka, da je to ena izredno, izredno neizkoriščena
+
+1896
+01:56:05,679 --> 01:56:11,679
+tehnologija, v smislu, da skozi večino zgodovine umetne inteligence
+
+1897
+01:56:11,679 --> 01:56:17,679
+smo imeli te obljube, kaj se ne bi dal, potem pa si probil, pa se ni dal,
+
+1898
+01:56:17,679 --> 01:56:22,679
+ali pa ni bilo še čist tam, potem smo pa zdaj relativno v hitrem tempu
+
+1899
+01:56:22,679 --> 01:56:27,679
+preskočili v obdobje, ko se ogromno stvari da narediti, ampak pač noben
+
+1900
+01:56:27,679 --> 01:56:32,679
+za to ne ve, ali pa tudi, če zve, je skeptičen, ah, sej, to pa se še ne da,
+
+1901
+01:56:32,679 --> 01:56:34,679
+in imamo v bistvu...
+
+1902
+01:56:34,679 --> 01:56:35,679
+Prebožnost.
+
+1903
+01:56:35,679 --> 01:56:36,679
+Ja.
+
+1904
+01:56:36,679 --> 01:56:37,679
+To je diskorekt.
+
+1905
+01:56:37,679 --> 01:56:44,679
+In tudi, če govori o tej splošnji umetni inteligenci in to, vedno bolj se mi zdi,
+
+1906
+01:56:44,679 --> 01:56:48,679
+da bomo v eni točki imeli te sisteme na voljo, ampak se pač ne bodo
+
+1907
+01:56:48,679 --> 01:56:53,679
+uporabljali, ker bo sicer, mislim, da rečem tragi komično, ampak v teg
+
+1908
+01:56:53,679 --> 01:56:58,679
+ne se zgoditi. Tako da, ko govorimo zdaj o priložnostih za ljudi, treba,
+
+1909
+01:56:58,679 --> 01:57:04,680
+da ste tako zavedate, ne, to, kar bo ratal osko grlo, je ta komunikacija pa
+
+1910
+01:57:04,680 --> 01:57:08,680
+zavedanje, kako se širi med ljudmi, ne. Zdaj, recimo, če GPT je naredil tle
+
+1911
+01:57:08,680 --> 01:57:15,680
+ogromno, ampak še vedno na nek način zelo, zelo malo, ne, tako da ljudje,
+
+1912
+01:57:15,680 --> 01:57:20,680
+ki jih skrbi, ne, da mogoče za tem, kar osnovi zdaj delajo, ne, pač,
+
+1913
+01:57:20,680 --> 01:57:25,680
+da bo to zautomatiziran, lahko razmišljajo, ali lahko to, kar počnejo, vsem
+
+1914
+01:57:25,680 --> 01:57:29,680
+nagnejo malo bolj v to komunikacijsko smer, ne, da se v bistvu ti zvezni
+
+1915
+01:57:29,680 --> 01:57:36,680
+element, ki pomaga ljudem pač upeljevati te zadeve, ne.
+
+1916
+01:57:41,680 --> 01:57:42,680
+Skeri.
+
+1917
+01:57:42,680 --> 01:57:45,680
+A je? A si se zamislil? Dobro, da slišiš prosto.
+
+1918
+01:57:46,680 --> 01:57:50,680
+Jaz sem še tukaj napisal, sicer, risk vprašanj, ne.
+
+1919
+01:57:53,680 --> 01:57:56,680
+Risk, priložnost, se to povedano.
+
+1920
+01:57:56,680 --> 01:58:01,680
+Ja, mogoče še to, no, dost, kad ti tajmline-i se to naredimo.
+
+1921
+01:58:01,680 --> 01:58:05,680
+Dvakrat smo že implementirali chat v našo firmo, pa dvakrat je že bil fail,
+
+1922
+01:58:05,680 --> 01:58:09,680
+ljudje naše vedno klicejo na call center, pa smo zaposlili še deset ljudi
+
+1923
+01:58:09,680 --> 01:58:13,680
+v call centru, zakaj za Boga bi zdaj še tretji čet GPT. Ampak tehnologija
+
+1924
+01:58:13,680 --> 01:58:16,680
+je verjetno tako, da se razvija. Ja, ampak zdaj ne boste imeli bota,
+
+1925
+01:58:16,680 --> 01:58:20,680
+zdaj boste imeli agenta. Ampak tehnologija se razvija in vedno boljšo
+
+1926
+01:58:20,680 --> 01:58:22,680
+postaja in...
+
+1927
+01:58:23,680 --> 01:58:28,680
+Ja, to sem še hotel reči, da recimo, ko delamo te napovedi,
+
+1928
+01:58:28,680 --> 01:58:32,680
+kje smo, pa koliko časa bomo morali, da pridemo do tema. Jaz redno
+
+1929
+01:58:32,680 --> 01:58:36,680
+zdaj spremljam na Metaculusu, kaj neke vrste prediction market,
+
+1930
+01:58:36,680 --> 01:58:42,680
+je eno specifično vprašanje, kdaj bo javno znana, ali mislim,
+
+1931
+01:58:42,680 --> 01:58:48,680
+da je announced, da ni prav dostopna, recimo umetna inteligenca,
+
+1932
+01:58:48,680 --> 01:58:53,680
+ker ji potem v tem vprašanju rečejo, kukar šipka splošno umetna
+
+1933
+01:58:53,680 --> 01:58:56,680
+inteligenca, ker je samo definirana, da bo na enih šterih dovolj
+
+1934
+01:58:56,680 --> 01:59:00,680
+splošno zastavljenih benchmarkih dosegla nek nivo performansa.
+
+1935
+01:59:00,680 --> 01:59:10,680
+In recimo lansko leto, januarja, je bila ta napoved, kaj v večinoma
+
+1936
+01:59:10,680 --> 01:59:17,680
+delajo ljudje, ki pač nekaj vejo v tem notku, je bila 2042.
+
+1937
+01:59:17,680 --> 01:59:24,680
+Par dni nazaj sem pogledal in je zdaj 2027.
+
+1938
+01:59:24,680 --> 01:59:35,680
+Ta številka mogoče samo daje ilustracije o tem, koliko so se v roku
+
+1939
+01:59:35,680 --> 01:59:40,680
+enega leta spremenila pričakovanja in meni je na vse tako zanimivo
+
+1940
+01:59:40,680 --> 01:59:44,680
+zdaj gledati, recimo, podjetja, ki delajo plane in recimo delajo plane
+
+1941
+01:59:44,680 --> 01:59:51,680
+za deset let naprej. Mislim, ker je tako. Jaz ne upam delati
+
+1942
+01:59:51,680 --> 01:59:55,680
+planov za deset let naprej.
+
+1943
+01:59:55,680 --> 01:59:57,680
+Hvamo s tem končali.
+
+1944
+01:59:57,680 --> 02:00:00,680
+Ne bomo delati planov.
+
+1945
+02:00:00,680 --> 02:00:07,680
+Dejmo ljudem reči, da naj se navčijo več v strojnem učenju,
+
+1946
+02:00:07,680 --> 02:00:12,680
+naj se raziščejo, kaj so ti modeli, naj bodo bolj odprti do teh
+
+1947
+02:00:12,680 --> 02:00:18,680
+tehnologij, lahko jim rečemo, da je kup dokumentacije, kup ekzemplov,
+
+1948
+02:00:18,680 --> 02:00:21,680
+pa da ni bal, bal uporabljati te zadeve, da so postale bistveno
+
+1949
+02:00:21,680 --> 02:00:27,680
+bolj ergonomične, da je malce neje zadeve, danes teč, ko jih je bilo
+
+1950
+02:00:27,680 --> 02:00:32,680
+pred leti, pa da definitivno naj bodo bolj alert power, glede teh
+
+1951
+02:00:32,680 --> 02:00:36,680
+tehnologij in naj spremljajo zadeve, pa da je verjetno dober čas,
+
+1952
+02:00:36,680 --> 02:00:39,680
+da se zdaj lotijo stvari kupati.
+
+1953
+02:00:39,680 --> 02:00:45,680
+Ja, mislim, čas je zdaj najboljši, še boljši bi bil kakšen dan nazaj.
+
+1954
+02:00:46,680 --> 02:00:51,680
+Ja, mogoče ena taka splošna, kar se tega tiča.
+
+1955
+02:00:51,680 --> 02:00:56,680
+Nevronske mreže imajo neko lasnost, kar se je reče, katastrofik
+
+1956
+02:00:56,680 --> 02:01:01,680
+forgettinga, v smislu, saj tako je bilo, se je do neke mere še,
+
+1957
+02:01:01,680 --> 02:01:05,680
+kar ti trenjaš mrežo, pa dodaja zraven podatke, potem pa začneš
+
+1958
+02:01:05,680 --> 02:01:08,680
+jo trenjati na eno malo drugačno problemo, ful hiter pozab,
+
+1959
+02:01:08,680 --> 02:01:12,680
+tisto, kar se je prenaučila. Jaz imam občutek, da pri dost ljudih
+
+1960
+02:01:12,680 --> 02:01:16,680
+je problem ta catastrophic remembering. Ljudje nekaj počnejo,
+
+1961
+02:01:16,680 --> 02:01:20,680
+zgradijo neko ekspertizo na nekem področju, črpajo neko vrednost,
+
+1962
+02:01:20,680 --> 02:01:26,680
+samo vrednost iz tega in je zelo težek preskok, če sločajno
+
+1963
+02:01:26,680 --> 02:01:31,680
+pride mimo tehnologija, kar naredi tist skill majnoporabne.
+
+1964
+02:01:31,680 --> 02:01:37,680
+Ja, kar se Janezek nauči, to Janezek zna. Del tega, da se ljudje
+
+1965
+02:01:37,680 --> 02:01:41,680
+ne programiramo v te naše habite ali navade, če tako rečeš.
+
+1966
+02:01:42,680 --> 02:01:46,680
+Zokolj tega postavljamo cel mindset in pa je težko zdaj,
+
+1967
+02:01:46,680 --> 02:01:51,680
+da pride nekaj novega, če se ne odprogramiramo oziroma
+
+1968
+02:01:51,680 --> 02:01:54,680
+začnemo te nove zadeve uporabljati.
+
+1969
+02:01:55,680 --> 02:02:01,680
+Ja, ampak nekaj je zgodovo v tej naši branži, da dogaja se
+
+1970
+02:02:01,680 --> 02:02:07,680
+stvari blazno hiter, pa če ne investiraš v svoj čas,
+
+1971
+02:02:07,680 --> 02:02:12,680
+pa tudi finance v razvoj, posodabljanje svojega znanja,
+
+1972
+02:02:12,680 --> 02:02:18,680
+pa zastaraš in Janezek ne bo imel kaj veliko za početek,
+
+1973
+02:02:18,680 --> 02:02:20,680
+če ne bo o teh storijih.
+
+1974
+02:02:20,680 --> 02:02:26,680
+To so pa spet te izkušnje, ki te naučijo, da ne smeš zaspati.
+
+1975
+02:02:26,680 --> 02:02:32,680
+Ja, ok. Zdaj bom na tej točki pogledal, da gremo kaj jester,
+
+1976
+02:02:32,680 --> 02:02:34,680
+kaj hkrati.
+
+1977
+02:02:34,680 --> 02:02:37,680
+Da tako boš smeje, kaj pa gledalci in poslušalci.
+
+1978
+02:02:37,680 --> 02:02:39,680
+Ja, gledalci in poslušalci.
+
+1979
+02:02:39,680 --> 02:02:42,680
+Če ste lačni, petaj ješ.
+
+1980
+02:02:42,680 --> 02:02:45,680
+Če ste lačni, petaj ješ, če ste v gužbi, počakajte še malo.
+
+1981
+02:02:45,680 --> 02:02:49,680
+Boris, najlepša hvala za tvoj čas in poglede.
+
+1982
+02:02:49,680 --> 02:02:51,680
+Še zadnjem sedaj.
+
+1983
+02:02:51,680 --> 02:02:53,680
+Ja, hvala za bilo, bilo.
+
+1984
+02:02:53,680 --> 02:02:55,680
+To je bizno, treba reči.
+
+1985
+02:02:55,680 --> 02:02:56,680
+Ja.
+
+1986
+02:02:56,680 --> 02:03:00,680
+Jaz bom tudi rekel, da pogledajte Endavo, pa pogledajte
+
+1987
+02:03:00,680 --> 02:03:03,680
+Karir se tam, tudi nekih zanimivih rolov.
+
+1988
+02:03:03,680 --> 02:03:05,680
+Brenda na Stikljaničku.
+
+1989
+02:03:05,680 --> 02:03:07,680
+Ja, Stikljanička.
+
+1990
+02:03:07,680 --> 02:03:09,680
+Poglejte tudi Endavo.
+
+1991
+02:03:09,680 --> 02:03:13,680
+Andraž, hvala tudi tebi za tvoj čas.
+
+1992
+02:03:13,680 --> 02:03:16,680
+Jan, hvala tudi vama.
+
+1993
+02:03:16,680 --> 02:03:22,680
+Poslušajte nas še naprej, delite tole s svojimi kolegi,
+
+1994
+02:03:22,680 --> 02:03:26,680
+dejte nam kakšen feedback, pa se vidimo naslednjič.
+
+1995
+02:03:26,680 --> 02:03:27,680
+Srečno.
+
+1996
+02:03:30,680 --> 02:03:31,680
+Srečno.

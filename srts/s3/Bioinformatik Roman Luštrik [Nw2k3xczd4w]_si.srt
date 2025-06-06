@@ -1,0 +1,5183 @@
+1
+00:00:00,000 --> 00:00:04,000
+Zdaj lahko začnemo s drugo epizodo tretje sezone Ogrodja.
+
+2
+00:00:05,000 --> 00:00:10,000
+Neka, skore že štrdeseta epizoda tega našega podkesta.
+
+3
+00:00:11,000 --> 00:00:16,000
+Danes malo bolj sproščeno spet, to, kar bomo govorili o
+
+4
+00:00:17,000 --> 00:00:19,000
+njegovih poslušalcih.
+
+5
+00:00:20,000 --> 00:00:25,000
+Zdaj, naša glasba, naša glasba, naša glasba.
+
+6
+00:00:25,000 --> 00:00:30,000
+Malo bolj sproščeno spet, to, kar bomo govorili o
+
+7
+00:00:31,000 --> 00:00:35,000
+data science, oziroma podatkovnih znanosti.
+
+8
+00:00:36,000 --> 00:00:40,000
+Malo bomo govorili o Aero, malo bomo govorili o Pythonu.
+
+9
+00:00:41,000 --> 00:00:46,000
+Malo se bomo zabavili na račun Romana in Andraža.
+
+10
+00:00:47,000 --> 00:00:49,000
+Na tvoj račun se bomo zabavili.
+
+11
+00:00:50,000 --> 00:00:52,000
+Ja, še ena vidim, da na moj.
+
+12
+00:00:52,000 --> 00:00:56,000
+Danes smo polablili v Ogrodje Romana Luštriha.
+
+13
+00:00:57,000 --> 00:01:00,000
+Roman je tudi en iz med tistih ljudi, ki je videl, da bomo
+
+14
+00:01:01,000 --> 00:01:04,000
+delali svoj podkest. Je rekel, fanti, počakajte, bom prišel,
+
+15
+00:01:05,000 --> 00:01:08,000
+pa vam bom pokazal, kako se snema podkest Hold My Beer in
+
+16
+00:01:09,000 --> 00:01:11,000
+nam je pokazal tudi upremo. Tako da hvala ti tudi za to,
+
+17
+00:01:12,000 --> 00:01:13,000
+ko pred tremi leti.
+
+18
+00:01:14,000 --> 00:01:16,000
+To sem že zasel, a potem pozabil. Se to zgodilo res.
+
+19
+00:01:17,000 --> 00:01:19,000
+Ja, si nam pronesel ger, pa si rekel, lej, fanti, tole
+
+20
+00:01:19,000 --> 00:01:23,000
+rabite, tole rabite. Če si kako pive odprete z ravnjo,
+
+21
+00:01:24,000 --> 00:01:26,000
+se še boljšega dajo s snetom. Tako da smo upšteljali tvoj na svet.
+
+22
+00:01:27,000 --> 00:01:28,000
+Točno, ja, sam sem prišel.
+
+23
+00:01:29,000 --> 00:01:33,000
+Ja, tako da danes imamo velikega človeka v našem podkestu
+
+24
+00:01:34,000 --> 00:01:36,000
+in upam, da bo zabavno in zanimivo za vse.
+
+25
+00:01:37,000 --> 00:01:40,000
+Lahko te pompozne predstavitve. Twitter influencer, podkester.
+
+26
+00:01:41,000 --> 00:01:44,000
+Ja, na Twitter bi šel, pa bi priprav, kaj mi tam piše,
+
+27
+00:01:45,000 --> 00:01:46,000
+pa bi bilo čisto dost točk.
+
+28
+00:01:46,000 --> 00:01:49,000
+Genjalci, ali genjalis? Genjalci.
+
+29
+00:01:50,000 --> 00:01:51,000
+Ja, sem.
+
+30
+00:01:52,000 --> 00:01:54,000
+Človek, delan na genjalis. Genjal.
+
+31
+00:01:55,000 --> 00:01:57,000
+Ja, še bolj pogosto je pa genitalc.
+
+32
+00:01:58,000 --> 00:02:00,000
+O, najs, lepa. To je kar intimno.
+
+33
+00:02:01,000 --> 00:02:03,000
+Odvisno, za ene je, za ene ne.
+
+34
+00:02:04,000 --> 00:02:09,000
+Zdaj, jaz mislim, da od našega odjensa ljudje so te verjetno
+
+35
+00:02:10,000 --> 00:02:13,000
+največkrat srečali na Python meet-upu.
+
+36
+00:02:13,000 --> 00:02:16,000
+Ja, lokalci so me na Python meet-up posrečali,
+
+37
+00:02:17,000 --> 00:02:21,000
+tisti, ki pa malo v R-u delajo, so me pa na Stack Overflow vskoraj.
+
+38
+00:02:22,000 --> 00:02:23,000
+Na Stack Overflow? Zato?
+
+39
+00:02:24,000 --> 00:02:26,000
+Ja, zato, ker sem davnega leta na in 2.9. začel tam.
+
+40
+00:02:27,000 --> 00:02:30,000
+Najprej sem se učil R, pa pa sem, kar sem ga začel,
+
+41
+00:02:31,000 --> 00:02:36,000
+kar sem začel nazaj vračati družbi, pa sem kar veliko pisal odgovorov
+
+42
+00:02:37,000 --> 00:02:41,000
+in enkrat mojih teh odgovorov pa vprašan je nekaj,
+
+43
+00:02:41,000 --> 00:02:45,000
+kar pride gor, ki te usnove R-a začneš spoznavat.
+
+44
+00:02:46,000 --> 00:02:48,000
+Tako je bilo že, mislim, da je ne dvakrat se zgodil,
+
+45
+00:02:49,000 --> 00:02:52,000
+da je prišla ena naključna raziskovalka iz Floride,
+
+46
+00:02:53,000 --> 00:02:56,000
+pa so me pokrat, takrat, ko sem delal še na odelku za biologijo,
+
+47
+00:02:57,000 --> 00:03:00,000
+pa me kličejo po telefonu, Roman, pridi dol, kje imamo eno raziskovalko,
+
+48
+00:03:01,000 --> 00:03:04,000
+tudi v R-u dela, pa pridem dol, pa se jih predstavljam.
+
+49
+00:03:05,000 --> 00:03:07,000
+Ja, ja, I know who you are.
+
+50
+00:03:08,000 --> 00:03:11,000
+Iz K-pop-a, ja, no ste kar veliko na tvoj post vidim.
+
+51
+00:03:12,000 --> 00:03:14,000
+To se mi je dvakrat zgodilo že.
+
+52
+00:03:15,000 --> 00:03:20,000
+Zdaj, večina naših gostov po teh naših pogovorov,
+
+53
+00:03:21,000 --> 00:03:23,000
+nekako smo z Andražo tudi malo pogovarjali s tem,
+
+54
+00:03:24,000 --> 00:03:29,000
+izhaja iz tega, da so ponavadi ljudje, ki so primarno najprej developeri,
+
+55
+00:03:30,000 --> 00:03:34,000
+pa potem neke druge domene osvajajo, ti pa nisi developer.
+
+56
+00:03:35,000 --> 00:03:38,000
+V tej osnovi, kaj je to vprašanje?
+
+57
+00:03:39,000 --> 00:03:43,000
+Ja, zelo prav si rekel, jaz nisem developer, jaz sem sicer že od mojhega,
+
+58
+00:03:44,000 --> 00:03:47,000
+bil navdušen nad računalniki, kaj sem bil stvarno nekaj 12 let,
+
+59
+00:03:48,000 --> 00:03:51,000
+sem prvi, malo prej, no, sem dobil Commodore-ja,
+
+60
+00:03:52,000 --> 00:03:55,000
+pa sem znal lihtovk, da sem kažen špil znal pognat, kaj več pa ne,
+
+61
+00:03:56,000 --> 00:04:01,000
+pa sem dobil pa PC-ja, pa smo pa začeli, pa či igrce špiljati bolj ali manj,
+
+62
+00:04:02,000 --> 00:04:06,000
+no, pa nekega resnega šolskega dela leta 97. ni bilo,
+
+63
+00:04:07,000 --> 00:04:11,000
+na računalnik treba delati, pa je pa Irc prišel, pa malo to skriptanje,
+
+64
+00:04:12,000 --> 00:04:16,000
+pa hta malo, odnegdaj sem bil tako v računalnikih, ampak zares moja strast,
+
+65
+00:04:17,000 --> 00:04:20,000
+so bili pa bolj ali manj živali, že odnegdaj, tako da sem tudi
+
+66
+00:04:21,000 --> 00:04:24,000
+veterinarski tehnik, tako da to short story je, da sem veterinarski tehnik,
+
+67
+00:04:25,000 --> 00:04:29,000
+pa sem genezijski maturant, pa faliran študent zootehnike, biolog,
+
+68
+00:04:30,000 --> 00:04:35,000
+pa statistik, tako da sanj še kakšen tak keramičar mi imam,
+
+69
+00:04:36,000 --> 00:04:37,000
+ampak pa imam jaz pokrit.
+
+70
+00:04:38,000 --> 00:04:40,000
+Ampak to bo šlo dobro, zdaj hiperdički išo.
+
+71
+00:04:41,000 --> 00:04:43,000
+Ne, ne, ne, to sem se odločil, da ne bom jaz keramike polagal,
+
+72
+00:04:44,000 --> 00:04:47,000
+sem pa ta vikend osvojil veščino polaganja izotekta pa stirodure,
+
+73
+00:04:48,000 --> 00:04:50,000
+tako da če hočeš rabo, pridem švasat.
+
+74
+00:04:51,000 --> 00:04:57,000
+Ja, tudi. V glavnem biologija, nekako ta, kar delaš je,
+
+75
+00:04:58,000 --> 00:05:04,000
+v bistvu znan, raziskuješ iz področja biologije in za tebe so
+
+76
+00:05:05,000 --> 00:05:09,000
+in Python in R so v bistvu urodje, enogrode, s katerimi si pomagaš.
+
+77
+00:05:10,000 --> 00:05:12,000
+Na nek tak način si moram dopredstavljati.
+
+78
+00:05:13,000 --> 00:05:16,000
+Tako, tako, v bistvu jaz sem v to čisto tako iz praktičnega vidika padel.
+
+79
+00:05:16,000 --> 00:05:21,000
+Kaj je bilo tako, da sem začel diplomo pisati, je bilo treba analizirati podatke,
+
+80
+00:05:22,000 --> 00:05:27,000
+kako to narediš in pač na faksu sem vprašal Jerpota, Jerne Polajnar,
+
+81
+00:05:28,000 --> 00:05:31,000
+če ste kdaj vikipedijo, karkolikor slovenske vikipedije gledal,
+
+82
+00:05:32,000 --> 00:05:36,000
+je on strokovnjak za te zadeve in je rekel, joj, daj tam v R pogledaj.
+
+83
+00:05:37,000 --> 00:05:41,000
+In sem to downloadal, malo probal, sem bil naddušen,
+
+84
+00:05:42,000 --> 00:05:44,000
+ker je bilo tako lahko, tako logično.
+
+85
+00:05:45,000 --> 00:05:50,000
+Predvsem pa, kaj me je potegnil v to noter, je, da je zelo, zelo, zelo dobro dokumentiran.
+
+86
+00:05:51,000 --> 00:05:56,000
+Tako, niben urodje, ki sem ga do sedaj uporabljal, ni tako dobro dokumentirano.
+
+87
+00:05:57,000 --> 00:06:02,000
+Tako, ne samo tako nek funkcije, posamično dokumentiran, ampak prav,
+
+88
+00:06:03,000 --> 00:06:06,000
+kako narediš to analizo, ker je bilo pa zame zelo relevantno,
+
+89
+00:06:06,000 --> 00:06:11,000
+ker sem rabil tako pa tako analiza za okvir o diplome in si praktično samo
+
+90
+00:06:12,000 --> 00:06:15,000
+svoje podatke noter dal pa pognal, sledej je bilo kajnkak erorjev,
+
+91
+00:06:16,000 --> 00:06:19,000
+ker pa če nisem razumel, kako je, treba vse detajle pa tako, ampak
+
+92
+00:06:20,000 --> 00:06:24,000
+pol, ka si enkrat to nekako poglihov, si dobil ven rezultate tabelo, sliko, karkol,
+
+93
+00:06:25,000 --> 00:06:29,000
+in je bil to tako aha moment zame, tudi v smislu programiranja.
+
+94
+00:06:30,000 --> 00:06:34,000
+Pol sem še le začel usvajati malo bolj napredne tehnike, pa da sem začel
+
+95
+00:06:34,000 --> 00:06:38,000
+zarejst, na začetku sem samo analiziral podatke, pa sem začel pa še dejansko
+
+96
+00:06:39,000 --> 00:06:43,000
+programirati, tudi pol s časom, kaj era rasto, era je dobil zagon tako.
+
+97
+00:06:44,000 --> 00:06:49,000
+A misliš, da zdaj ljudje, ki še ne poznajo era, recimo vas zdaj poslušajo to,
+
+98
+00:06:50,000 --> 00:06:58,000
+verjetno se neko prvo analizo podatko sreče v koncu osnovne, v srednji šoli,
+
+99
+00:06:59,000 --> 00:07:03,000
+upam, da že. Al pa nikoli. Al pa mogoče nikoli, recimo, ampak jaz si predstavljam,
+
+100
+00:07:04,000 --> 00:07:08,000
+najprej se ljudje spreko Excel-a lotijo v teh stvari, ali kaj?
+
+101
+00:07:08,000 --> 00:07:09,000
+In je čisto okej.
+
+102
+00:07:09,000 --> 00:07:10,000
+Je to okej?
+
+103
+00:07:10,000 --> 00:07:15,000
+Excel je ful dobro urode, recimo, no, ni popolno, je pa dost dobro in priročno urode
+
+104
+00:07:15,000 --> 00:07:20,000
+za nabirati podatke, tamno se da tudi veliko narediti v smislu vizualizacij,
+
+105
+00:07:20,000 --> 00:07:25,000
+pa tako, ampak recimo, če se greš pa tako malo resno znanost, kjer hočeš,
+
+106
+00:07:25,000 --> 00:07:28,000
+da je zavedeva ponuljiva, da je dokumentirana, kaj si naredil,
+
+107
+00:07:28,000 --> 00:07:31,000
+rabiš pa praktično kodo, ker ti ne moraš v članku napisati,
+
+108
+00:07:31,000 --> 00:07:35,000
+v Excel-u sem najprej kliknul to gor, pa potem sem želel, pa runmenu,
+
+109
+00:07:35,000 --> 00:07:37,000
+pa tam nastavljam, no bent, ono, bravo.
+
+110
+00:07:37,000 --> 00:07:38,000
+Gaj.
+
+111
+00:07:38,000 --> 00:07:43,000
+In v Eru je pa to v kodi dokumentirano, poženaš skripto in se praktično izvede,
+
+112
+00:07:43,000 --> 00:07:46,000
+lahko šenkat, v predpostavki, da imaš iste verzi paketov in tako dalje.
+
+113
+00:07:46,000 --> 00:07:50,000
+Kaj pa, če bo zdaj Excel novma support za Python?
+
+114
+00:07:50,000 --> 00:07:52,000
+Misliš, da bo to ...
+
+115
+00:07:52,000 --> 00:07:53,000
+Ja, to je tudi ...
+
+116
+00:07:53,000 --> 00:07:57,000
+Pa je to neka priložnost s tem pogledom za Excel?
+
+117
+00:07:57,000 --> 00:08:04,000
+Ja, danes, mislim, po eni strani je lahko, si predstavljam, ima neke prednosti,
+
+118
+00:08:04,000 --> 00:08:12,000
+ampak se pravi, večina ljudi, ki začne, pa se mi zdi, da to ni toliko dodane vrednosti,
+
+119
+00:08:12,000 --> 00:08:14,000
+nekaj pa verjetno je, ampak ...
+
+120
+00:08:14,000 --> 00:08:15,000
+Ja.
+
+121
+00:08:15,000 --> 00:08:20,000
+Mogoče bi mogo probati in videti, ampak na Excel ima tako, se pravi,
+
+122
+00:08:20,000 --> 00:08:23,000
+tisti, ki se malo resno razgovarjamo s podatki, ker ne maramo.
+
+123
+00:08:23,000 --> 00:08:24,000
+OK.
+
+124
+00:08:24,000 --> 00:08:31,000
+Tako, kategorično ne maramo, predvsem zato, ker vnaša toliko enih tehničnih problemov.
+
+125
+00:08:31,000 --> 00:08:33,000
+Dej me pripremem.
+
+126
+00:08:33,000 --> 00:08:39,000
+Recimo, znanstveniki so šli spremeniti imej človeškega gena,
+
+127
+00:08:39,000 --> 00:08:42,000
+zato, ker ga je Excel spremenil v datum.
+
+128
+00:08:42,000 --> 00:08:43,000
+OK.
+
+129
+00:08:43,000 --> 00:08:47,000
+Ampak to je napračno, bo raba urodja?
+
+130
+00:08:47,000 --> 00:08:52,000
+Seveda, zato, ker tam moraš definirati tip stojbca, pa pa je to v redu,
+
+131
+00:08:52,000 --> 00:08:56,000
+ampak poprečni uporabnik pa tega ne razume.
+
+132
+00:08:56,000 --> 00:08:58,000
+In potem je pač ...
+
+133
+00:08:58,000 --> 00:09:02,000
+Pa tudi, recimo, če uvozaš CSV, pa kakšenakolj flat file,
+
+134
+00:09:02,000 --> 00:09:07,000
+nekaj datotekov, ki nima definicij tipov, ti bo pokvaril.
+
+135
+00:09:07,000 --> 00:09:10,000
+In potem si mi pulaš lese.
+
+136
+00:09:10,000 --> 00:09:12,000
+Toliko Excel-a.
+
+137
+00:09:14,000 --> 00:09:16,000
+In naravno ga zasovražeš.
+
+138
+00:09:16,000 --> 00:09:18,000
+Se mi zdi, da je to ...
+
+139
+00:09:18,000 --> 00:09:23,000
+Tudi vidiš, da so bolj primerna urodja za tvojo delo.
+
+140
+00:09:23,000 --> 00:09:27,000
+Ja, tako, ampak kot sem na začetku rekel, ta nabiranje podatkov,
+
+141
+00:09:27,000 --> 00:09:32,000
+če hočeš ti nabrati podatke, idealno je, da imaš neko formo,
+
+142
+00:09:32,000 --> 00:09:36,000
+kjer imaš predizbire in samo klikaš in se ne zmoteš,
+
+143
+00:09:36,000 --> 00:09:39,000
+ker v Excel-u tega ni.
+
+144
+00:09:39,000 --> 00:09:43,000
+Ti pa lahko napišeš v celico, kar hočeš,
+
+145
+00:09:44,000 --> 00:09:49,000
+ker je zelo priročno in hiter, ampak zelo velik napak lahko vnese
+
+146
+00:09:49,000 --> 00:09:52,000
+v dataset in čiščenje podatkov.
+
+147
+00:09:52,000 --> 00:09:55,000
+To enormno časa zahteva.
+
+148
+00:09:55,000 --> 00:10:01,000
+Doskrat na račun tega, da ni nekega konsistentnega vnosa podatkov.
+
+149
+00:10:01,000 --> 00:10:03,000
+Po drugi strani, pa te forme.
+
+150
+00:10:03,000 --> 00:10:06,000
+To rabeš pa že biti malo programejer.
+
+151
+00:10:06,000 --> 00:10:09,000
+Kakšna urodja je malo bolj uporabna, da to definiraš,
+
+152
+00:10:09,000 --> 00:10:13,000
+pa je dolj časa traja, če se pa narpa.
+
+153
+00:10:13,000 --> 00:10:18,000
+Zandražo, boš ti povedal, kakšna je tvoja izkušnja z R?
+
+154
+00:10:18,000 --> 00:10:24,000
+Ja, jaz sem ga par dni pred tem snemanjem probal.
+
+155
+00:10:24,000 --> 00:10:30,000
+In potem, zato, ker že veliko let programiram Python,
+
+156
+00:10:30,000 --> 00:10:33,000
+pa je tam pač neka knjižnica, ki je Panda, sem bil tako,
+
+157
+00:10:33,000 --> 00:10:36,000
+aha, zdaj razumem, zakaj v Panda delamo stvari tako,
+
+158
+00:10:36,000 --> 00:10:40,000
+zato, ker je v bistvu influenced oziroma pač v bistvu iz R-a
+
+159
+00:10:40,000 --> 00:10:42,000
+vzame pač sintakso.
+
+160
+00:10:42,000 --> 00:10:45,000
+Ja, pa meni je tako luškeno. Jaz se mi zdi, da sem se kar znajdel.
+
+161
+00:10:45,000 --> 00:10:50,000
+Šel sem na Opsy, kaj smo pač imeli tudi v prejšnji epizodi,
+
+162
+00:10:50,000 --> 00:10:53,000
+pač, ker je ta portal odprtih podatkov, pa sem tam vzel ta
+
+163
+00:10:53,000 --> 00:10:58,000
+PC access, jaz sem si pravil zapolnil format teh podatkov,
+
+164
+00:10:58,000 --> 00:11:02,000
+ki je nek po moje bolj komercialen sofver, pa sem v R-u
+
+165
+00:11:02,000 --> 00:11:05,000
+inštaliroval eno knjižnico, da zna to prebrat, pa sem prebral,
+
+166
+00:11:05,000 --> 00:11:08,000
+pa sem dobil data frame, pa sem pal že kar lahko,
+
+167
+00:11:09,000 --> 00:11:15,000
+jaz sem sortiral po občinah, po prečni najnižji starosti,
+
+168
+00:11:16,000 --> 00:11:20,000
+pač vse občine, to se pravi, kera ma najmanj me je zanimal.
+
+169
+00:11:20,000 --> 00:11:23,000
+Pa sem to tako, pomal pod eno uro, kar sem se je delal,
+
+170
+00:11:23,000 --> 00:11:26,000
+ok, kaj lahko naredimo eno uri, pa se da pač ful hiter.
+
+171
+00:11:26,000 --> 00:11:29,000
+Pa zdaj še benam nekih par teh knjig, ki v bistvu
+
+172
+00:11:29,000 --> 00:11:33,000
+kamal razdagajo statistiki, pa kako se to porabila,
+
+173
+00:11:33,000 --> 00:11:36,000
+pa me je mogoče pal tudi zaradi tega malo bolj zanimil.
+
+174
+00:11:37,000 --> 00:11:39,000
+Ja, prej pa nikoli nisem uporabljal, sam ne vem,
+
+175
+00:11:39,000 --> 00:11:42,000
+meni se zdi kar fascinantno. Prej, ko si rekel, da v bistvu
+
+176
+00:11:43,000 --> 00:11:47,000
+lahko daš kodo zraven, a to pomeni, da pač,
+
+177
+00:11:47,000 --> 00:11:50,000
+ko imaš nek strokoven člank, ti daš tam neke vizualizacije,
+
+178
+00:11:50,000 --> 00:11:54,000
+pa pa domnevan, da v prilogo daš, prilogo A daš pač podatke,
+
+179
+00:11:55,000 --> 00:11:57,000
+prilogo B daš pa pal kaj pal R-kodo.
+
+180
+00:11:57,000 --> 00:12:01,000
+Tako je, lahko kar skripto daš, ali pa danes upažam tudi,
+
+181
+00:12:01,000 --> 00:12:05,000
+da ljudje dajo link na GitHub repo.
+
+182
+00:12:06,000 --> 00:12:11,000
+Ker je sicer tako malo dobro. Lohka zgine, ampak rečmo,
+
+183
+00:12:11,000 --> 00:12:14,000
+da v naslednjih nekaj letih ne bo zginal in bo ponovljivo,
+
+184
+00:12:14,000 --> 00:12:20,000
+pa bo pa itak ljudje pozabili na člank, pa se pol s tem ukvarja.
+
+185
+00:12:20,000 --> 00:12:24,000
+Kaj si umelo? Ja, ena stvar, ne vem,
+
+186
+00:12:24,000 --> 00:12:27,000
+sem danes že rekel, da je ful dobro dokumentiran.
+
+187
+00:12:27,000 --> 00:12:33,000
+Se pravi, ful dobro pomoč imaš. Poleg tistih vinjet,
+
+188
+00:12:33,000 --> 00:12:38,000
+kjer so te analize nekako upisane, je pa res pesteri zbor knjig.
+
+189
+00:12:38,000 --> 00:12:43,000
+Tako za vsako področje imaš knjige in kako to narediti v ero.
+
+190
+00:12:43,000 --> 00:12:47,000
+In se mi zdi res zelo dobro vrode, ker danes, ko ti vzimaš knjigo,
+
+191
+00:12:47,000 --> 00:12:51,000
+in tisto tako doprepisuješ in padajo ven stvari,
+
+192
+00:12:52,000 --> 00:13:00,000
+in to imaš res od neke matematike do biologije, časovna analiza vrst,
+
+193
+00:13:00,000 --> 00:13:04,000
+ekologija, jaz sem se te stvari vse prek teh knjig učil.
+
+194
+00:13:04,000 --> 00:13:10,000
+In lahko ne samo teoretično odpreš knjigo, pa vidiš matematične formule,
+
+195
+00:13:10,000 --> 00:13:14,000
+pa se ti vbrne. Ampak dajansko ljudje, ki so resni,
+
+196
+00:13:14,000 --> 00:13:18,000
+naredijo pa še urodje v ero, funkcijo paket,
+
+197
+00:13:18,000 --> 00:13:22,000
+in dajansko ti samo rečeš ime, funkcijo, neki podatki,
+
+198
+00:13:22,000 --> 00:13:27,000
+in padejo stvari ven. Seveda, jaz bi to lahko vzel v matematične formule,
+
+199
+00:13:27,000 --> 00:13:32,000
+pa to je sam napisal, ampak to je zelo dozetno, da bom nekaj napako naredil,
+
+200
+00:13:32,000 --> 00:13:36,000
+ali pa je mogoče že on tam naredil, pa mesto to na robe prepisal.
+
+201
+00:13:36,000 --> 00:13:42,000
+In potem gdi ful časa za to, da iteriraš in narediš rešitev sam.
+
+202
+00:13:42,000 --> 00:13:46,000
+Ampak je škoda, da to vsak sam dela, ker če lahko eden sposoban naredi,
+
+203
+00:13:46,000 --> 00:13:51,000
+in lahko ljudje uporabljajo. Znanstveniki so uporabniki,
+
+204
+00:13:51,000 --> 00:13:57,000
+velika večina, 99%, ali pa še več, smo uporabniki nekih teh rešitev,
+
+205
+00:13:57,000 --> 00:14:02,000
+in nam zelo vlajša, kot prvo, včasu, kot drugo, da se namatraš,
+
+206
+00:14:02,000 --> 00:14:06,000
+in je zaradi tega tudi bolj konsistentno lahko.
+
+207
+00:14:06,000 --> 00:14:11,000
+In jaz tvarjamam, da je bil ER zaslužen za to, da je mrskater,
+
+208
+00:14:12,000 --> 00:14:17,000
+da smo znanost na nasleden nivo spravili po svoje.
+
+209
+00:14:17,000 --> 00:14:22,000
+Nismo še tam čisto, recimo ta reproducibilna znanost še ni čisto,
+
+210
+00:14:22,000 --> 00:14:26,000
+ampak se mi zdi, da je Python pa rasta pa zelo na dobri poti,
+
+211
+00:14:26,000 --> 00:14:28,000
+da bosta to mogočila.
+
+212
+00:14:28,000 --> 00:14:32,000
+Če se pravi hočeš reči, da če se hočem jaz domensko naučiti,
+
+213
+00:14:32,000 --> 00:14:39,000
+naprimer, imam neke vzorce, to se pravi neke miritve,
+
+214
+00:14:40,000 --> 00:14:43,000
+pa hočem vedeti, kaj je zdaj povprečna vrednost,
+
+215
+00:14:43,000 --> 00:14:47,000
+pa kaj je, ne vem, kako se neke te vrednosti distribuirajo,
+
+216
+00:14:47,000 --> 00:14:51,000
+namesto, da pač vzema samo sluhoparno knjigo iz matematike ena,
+
+217
+00:14:51,000 --> 00:14:55,000
+ali kokerkole že v srednji šoli, lahko pač vzema knjigo v Eru,
+
+218
+00:14:55,000 --> 00:14:58,000
+pa pač je tam noter, so neki osnovni koncepti razloženi,
+
+219
+00:14:58,000 --> 00:15:01,000
+ne vem, povprečna vrednost oziroma matematično upanje
+
+220
+00:15:01,000 --> 00:15:05,000
+ali pa, ne vem, korelacija in potem v bistvu vsemali igraš
+
+221
+00:15:05,000 --> 00:15:07,000
+pa je interaktivno.
+
+222
+00:15:08,000 --> 00:15:13,000
+Postaja tudi knjiga R for Dummies, ker, če boš prebral
+
+223
+00:15:13,000 --> 00:15:16,000
+za hvalo, boš videl tudi mene noter.
+
+224
+00:15:16,000 --> 00:15:19,000
+Humble brag, no ne, ni humble.
+
+225
+00:15:19,000 --> 00:15:22,000
+In imaš točno to noter, te osnove R-ja na res osnovnih
+
+226
+00:15:22,000 --> 00:15:25,000
+konceptih razloženja.
+
+227
+00:15:28,000 --> 00:15:33,000
+Jaz imam tako relativno tako naravosloven pogled na znanost,
+
+228
+00:15:34,000 --> 00:15:39,000
+imam bil ta biološki del, imam full knjig, pa imam takole,
+
+229
+00:15:39,000 --> 00:15:43,000
+recimo, ne vem, 3, 4 metra, imam samo R knjige,
+
+230
+00:15:43,000 --> 00:15:46,000
+kako nekaj narediti v Eru ali pa v ESO tehnično,
+
+231
+00:15:46,000 --> 00:15:48,000
+ampak to je isto praktično.
+
+232
+00:15:48,000 --> 00:15:50,000
+Kaj pa je povezava S, R, kaj je to?
+
+233
+00:15:50,000 --> 00:15:54,000
+S je komercialen paket in potem sta dva tipa rekla,
+
+234
+00:15:54,000 --> 00:15:58,000
+fuck this shit, pa sta napisala open source rešitev,
+
+235
+00:15:58,000 --> 00:16:02,000
+tako kot se reče R, dela koda iz ESA, dela tudi v Eru.
+
+236
+00:16:05,000 --> 00:16:10,000
+Te lahko poprašam to noter, ko zelo hitro po vseh teh
+
+237
+00:16:10,000 --> 00:16:15,000
+R-tutorijalih priješ do, v Pythonu je ta, oziroma v tem,
+
+238
+00:16:15,000 --> 00:16:18,000
+je ta dataframe, koncept dataframe-a.
+
+239
+00:16:18,000 --> 00:16:22,000
+Tudi R ima neko podobno zadevo ali se isto reče dataframe?
+
+240
+00:16:22,000 --> 00:16:23,000
+Tako je.
+
+241
+00:16:23,000 --> 00:16:26,000
+Neka interna struktura, lahko malo več.
+
+242
+00:16:26,000 --> 00:16:29,000
+V Eru imaš nekih teh osnovnih tipov.
+
+243
+00:16:30,000 --> 00:16:34,000
+Vektor je recimo array, enodimenzionalen, pa imaš matriko,
+
+244
+00:16:34,000 --> 00:16:38,000
+kaj dvodimenzionalen, pa imaš tudi večdimenzionalno matriko,
+
+245
+00:16:38,000 --> 00:16:41,000
+pa imaš dataframe, pa list.
+
+246
+00:16:41,000 --> 00:16:46,000
+List je pa v bistvu tako, kaj bi imel eno mapco,
+
+247
+00:16:46,000 --> 00:16:49,000
+pa pa noter daš či skrčeš.
+
+248
+00:16:49,000 --> 00:16:53,000
+Lahko daš vščilence, lahko daš pogodbo in ti lahko
+
+249
+00:16:53,000 --> 00:16:57,000
+s posebnimi okazji dostopaš do vsakega tezga elementa.
+
+250
+00:16:57,000 --> 00:17:02,000
+Imaš tudi funkcije, ki znajo sistematično dostopo do teh elementov,
+
+251
+00:17:02,000 --> 00:17:05,000
+rekursivno, seklečno in tako.
+
+252
+00:17:07,000 --> 00:17:14,000
+Načeloma s temi nekaj tipi lahko narediš zelo kompleksne objekte,
+
+253
+00:17:14,000 --> 00:17:17,000
+ki nosijo enkrat informacije.
+
+254
+00:17:17,000 --> 00:17:21,000
+Pa imaš recimo kompleksen objekt, ki nosi sparse,
+
+255
+00:17:22,000 --> 00:17:25,000
+kako se to reče, redko matriko,
+
+256
+00:17:25,000 --> 00:17:29,000
+pa imaš pa zranje še malo meta podatkov, ki je pa čist navaden dataframe.
+
+257
+00:17:29,000 --> 00:17:32,000
+Imaš tako dva čisto različna koncepta, ampak v enem objektu.
+
+258
+00:17:32,000 --> 00:17:36,000
+In je to združeno in ti se delaš, kada je to nek dataframe,
+
+259
+00:17:36,000 --> 00:17:40,000
+neka navadna tabela, ki ima vrstice pa stolbce in to je to.
+
+260
+00:17:44,000 --> 00:17:47,000
+A delaš z velikimi količinami podatkov?
+
+261
+00:17:47,000 --> 00:17:50,000
+Kaj je pa terabajti podatkov?
+
+262
+00:17:50,000 --> 00:17:53,000
+Je ta dataframe neka abstrakcija?
+
+263
+00:17:53,000 --> 00:17:56,000
+Ali je še RR?
+
+264
+00:17:56,000 --> 00:17:59,000
+Ali si vedno nekim subsetom delaš?
+
+265
+00:18:01,000 --> 00:18:04,000
+Nativno ne, nativno vse menjče v memory
+
+266
+00:18:04,000 --> 00:18:07,000
+in potem si umejen s tem, koliko imaš rama,
+
+267
+00:18:07,000 --> 00:18:10,000
+kar je danes tako malo lažje, zato ker instanca,
+
+268
+00:18:10,000 --> 00:18:14,000
+pa imaš terabajt v memory, nekaj narediš, zaprešiš,
+
+269
+00:18:14,000 --> 00:18:16,000
+pa te stane pet evra.
+
+270
+00:18:17,000 --> 00:18:20,000
+Recimo, če se okvarjaš s prostorskimi podatki,
+
+271
+00:18:20,000 --> 00:18:24,000
+imaš lahko velike rastre, to so giga in gigabajti,
+
+272
+00:18:24,000 --> 00:18:28,000
+ali pa so terabajti, veliki faili in ti ne možeš tega
+
+273
+00:18:28,000 --> 00:18:31,000
+enkrat prebrati, tudi nima smisla.
+
+274
+00:18:31,000 --> 00:18:34,000
+Zakaj bi prebral rastrski podatek za cel svet,
+
+275
+00:18:34,000 --> 00:18:37,000
+če rabiš pa samo za Slovenijo?
+
+276
+00:18:37,000 --> 00:18:41,000
+In imaš metode, imaš paket, ki ti mu rečeš,
+
+277
+00:18:42,000 --> 00:18:45,000
+da mi preberi od te geografske širine do te,
+
+278
+00:18:45,000 --> 00:18:49,000
+in tako v redu tak kvadratek in ti sam tisto prebere ven
+
+279
+00:18:49,000 --> 00:18:52,000
+in ti s tem analiziraš, kaj delaš.
+
+280
+00:18:52,000 --> 00:18:55,000
+Tako da enkrat s teorije, pa imaš tudi mislim,
+
+281
+00:18:55,000 --> 00:18:59,000
+da v DAPAČI je, zdaj imajo neke formate,
+
+282
+00:18:59,000 --> 00:19:03,000
+kjer ti praktično tudi na podoben način dela,
+
+283
+00:19:03,000 --> 00:19:07,000
+samo z matrikam, mislim, s tabelaričnimi podatki.
+
+284
+00:19:08,000 --> 00:19:12,000
+Vsej tehnično rastr je tabela, ki ima stolbce, piksele.
+
+285
+00:19:12,000 --> 00:19:16,000
+Imaš tudi druge vektorske oblike, ki so malo drugačne.
+
+286
+00:19:16,000 --> 00:19:21,000
+Načeloma dela v memoriju, ampak da se ga z malo švicanja
+
+287
+00:19:21,000 --> 00:19:24,000
+prepričati tudi, da tako malo dela.
+
+288
+00:19:24,000 --> 00:19:27,000
+S neobičajnimi podatki.
+
+289
+00:19:27,000 --> 00:19:29,000
+OK.
+
+290
+00:19:32,000 --> 00:19:34,000
+Kaj pa je?
+
+291
+00:19:34,000 --> 00:19:38,000
+To sem hotel še reči, da v bistvu ER so naredili statistiki
+
+292
+00:19:38,000 --> 00:19:41,000
+za svoje potrebe in to je bilo tako ...
+
+293
+00:19:41,000 --> 00:19:43,000
+Organsko.
+
+294
+00:19:43,000 --> 00:19:48,000
+Organsko se je razvijalo in to ni super konsistentno.
+
+295
+00:19:48,000 --> 00:19:52,000
+Imej argumenta v eni funkciji je drgače kot v drugi.
+
+296
+00:19:52,000 --> 00:19:55,000
+Včasih velike tiskanje, včasih male tiskanje,
+
+297
+00:19:55,000 --> 00:19:59,000
+ker je za nekoga, ki na novo to pride, ful tečno.
+
+298
+00:19:59,000 --> 00:20:03,000
+Z ministarci, ki smo to navajali, nam je že itak vsen.
+
+299
+00:20:03,000 --> 00:20:06,000
+Pa danes, ko imaš ideje, je to skoraj vsem,
+
+300
+00:20:06,000 --> 00:20:08,000
+ker pač s Control Space pa imaš ...
+
+301
+00:20:08,000 --> 00:20:10,000
+Ja, auto kompležno.
+
+302
+00:20:10,000 --> 00:20:12,000
+Tako da je malo lažje.
+
+303
+00:20:14,000 --> 00:20:16,000
+In to je rastelo.
+
+304
+00:20:16,000 --> 00:20:20,000
+V 2010, recimo, je to res začelo rast.
+
+305
+00:20:20,000 --> 00:20:23,000
+Pa ne rast, on veš rast.
+
+306
+00:20:23,000 --> 00:20:26,000
+In se je razvil ne samo za statistike,
+
+307
+00:20:26,000 --> 00:20:29,000
+ampak dejansko še za čist druge stvari.
+
+308
+00:20:29,000 --> 00:20:32,000
+In recimo, naredil so tudi en framework
+
+309
+00:20:32,000 --> 00:20:35,000
+za web-app-e pisati,
+
+310
+00:20:35,000 --> 00:20:37,000
+ki jim rečemo Shiny.
+
+311
+00:20:37,000 --> 00:20:41,000
+To je tako, kot bi rekel, ne vem, Django ali pa ...
+
+312
+00:20:41,000 --> 00:20:43,000
+A, je to tako?
+
+313
+00:20:45,000 --> 00:20:47,000
+Se pravi, ni to dobro kot Django.
+
+314
+00:20:47,000 --> 00:20:49,000
+A to je tako tudi Python plug-in,
+
+315
+00:20:49,000 --> 00:20:52,000
+ko lahko pol eksportaš v nek widget,
+
+316
+00:20:52,000 --> 00:20:54,000
+ki ti to znaš.
+
+317
+00:20:54,000 --> 00:20:57,000
+Ne moraš niti eksportati, lahko pa deployaš.
+
+318
+00:20:57,000 --> 00:21:00,000
+Se pravi, kot Streamlit.io ali nekaj takšnega.
+
+319
+00:21:00,000 --> 00:21:03,000
+Ti imaš elemente in jih sam se stavljaš.
+
+320
+00:21:03,000 --> 00:21:05,000
+A veš, ti daš ...
+
+321
+00:21:05,000 --> 00:21:09,000
+In kaj, potem izvoziš kot web-app ali kaj?
+
+322
+00:21:09,000 --> 00:21:12,000
+Tako, v bistvu, ti imaš samo rf.r file
+
+323
+00:21:12,000 --> 00:21:15,000
+in to deployaš na nek server
+
+324
+00:21:15,000 --> 00:21:18,000
+in se ti pač servira kot app.
+
+325
+00:21:18,000 --> 00:21:22,000
+Se pravi, v bistvu, da dobiš neko interaktivnost na podatkih.
+
+326
+00:21:22,000 --> 00:21:25,000
+Pač imaš nek slajder, pa ga lahko primikaš.
+
+327
+00:21:25,000 --> 00:21:27,000
+Točno tako.
+
+328
+00:21:27,000 --> 00:21:31,000
+To interaktivno rada pa se lahko pogovarja naprej-nazaj.
+
+329
+00:21:31,000 --> 00:21:35,000
+Ti lahko s preminjanjem tvojih inputov
+
+330
+00:21:35,000 --> 00:21:40,000
+lahko dejansko vplivaš na generiranje tega user interfejsa.
+
+331
+00:21:42,000 --> 00:21:46,000
+Kaj sicer pomaga, če imaš znanje JavaScript-a.
+
+332
+00:21:46,000 --> 00:21:50,000
+Ampak tudi brez tega lahko narediš zanimive stvari.
+
+333
+00:21:50,000 --> 00:21:53,000
+Ful veliko stvari je že tako boilerplate zadev.
+
+334
+00:21:53,000 --> 00:21:56,000
+Ti samo rečeš, če bi imel dashboard.
+
+335
+00:21:56,000 --> 00:22:00,000
+In potem samo rečeš, na tem dashboardu se to prekazuje in se to.
+
+336
+00:22:00,000 --> 00:22:02,000
+Vse je narejen.
+
+337
+00:22:02,000 --> 00:22:06,000
+Največ dela imaš s tem, da css pegljaš pa te barve.
+
+338
+00:22:06,000 --> 00:22:10,000
+To se je ful razvil in je ful uporabno.
+
+339
+00:22:10,000 --> 00:22:14,000
+Poleg tega, da je uporaben v različnih vajah znanosti.
+
+340
+00:22:14,000 --> 00:22:18,000
+Od kemije, farmacije, biologije, ekonomije.
+
+341
+00:22:20,000 --> 00:22:23,000
+Prostorski problem, tako.
+
+342
+00:22:23,000 --> 00:22:26,000
+Te lahko vprašam v tej točki.
+
+343
+00:22:26,000 --> 00:22:30,000
+Kje je tunotr pride na vrsto ta R studio.
+
+344
+00:22:30,000 --> 00:22:34,000
+Če gledaš veliko teh tutorialov, pa če imaš programski jezik R,
+
+345
+00:22:34,000 --> 00:22:37,000
+potem se je zareklo, da je R.
+
+346
+00:22:37,000 --> 00:22:41,000
+Potem je pa ta R studio kot nek...
+
+347
+00:22:41,000 --> 00:22:43,000
+Kaj je to?
+
+348
+00:22:43,000 --> 00:22:45,000
+To je zelo dobro vprašanje.
+
+349
+00:22:45,000 --> 00:22:48,000
+Na Stack Overflow v to ljudi menajo non-stop.
+
+350
+00:22:48,000 --> 00:22:50,000
+Jaz imam včasih, ker ne vem kaj bi delal,
+
+351
+00:22:50,000 --> 00:22:54,000
+grem prv popravljati tage, ker ljudje dajo R studio tag zraven.
+
+352
+00:22:54,000 --> 00:22:58,000
+Ampak R studio nima veze z R-om kot tako.
+
+353
+00:22:58,000 --> 00:23:00,000
+Včasih smo imeli R, to je en program,
+
+354
+00:23:00,000 --> 00:23:04,000
+ki ga v terminalu zaženeš in te aktivno lahko noterkucaš.
+
+355
+00:23:04,000 --> 00:23:06,000
+Repel.
+
+356
+00:23:06,000 --> 00:23:10,000
+Včasih je to tako zgledal, da si imel terminal odprt,
+
+357
+00:23:10,000 --> 00:23:13,000
+pa zraven tekst, nek notepad.
+
+358
+00:23:13,000 --> 00:23:17,000
+In si je copy-paste-o v te noterkodo in to je bilo to.
+
+359
+00:23:17,000 --> 00:23:21,000
+Pa smo imeli tudi neke plug-ine za notepad, plus-plus in tako.
+
+360
+00:23:21,000 --> 00:23:24,000
+Ampak to je bilo zelo komplicirano za nastaviti,
+
+361
+00:23:24,000 --> 00:23:26,000
+sploh za nove uporabnike.
+
+362
+00:23:26,000 --> 00:23:31,000
+Pa so pa prišli eni dobri moži, pa so začeli delati en IDE,
+
+363
+00:23:31,000 --> 00:23:36,000
+ki so mu rekel R studio, ki ti R studio inšteliraš
+
+364
+00:23:36,000 --> 00:23:38,000
+in kar vse dela.
+
+365
+00:23:38,000 --> 00:23:41,000
+Tako, imaš tekst editor in ti ta nota napišeš,
+
+366
+00:23:41,000 --> 00:23:45,000
+označaš kurzore v vrstici, pritisneš Ctrl-Enter
+
+367
+00:23:45,000 --> 00:23:49,000
+in se izvede v temu replu noter in kar dela.
+
+368
+00:23:49,000 --> 00:23:52,000
+To je podobno kot te Jupyter notebooks,
+
+369
+00:23:52,000 --> 00:23:54,000
+jel kaj je s Python so ta?
+
+370
+00:23:54,000 --> 00:23:58,000
+Ne, lahko je tudi, ampak v osnovi ne.
+
+371
+00:23:58,000 --> 00:24:00,000
+To imaš tako.
+
+372
+00:24:00,000 --> 00:24:02,000
+Včasih smo imeli terminal pa tekst editor,
+
+373
+00:24:02,000 --> 00:24:06,000
+zdaj pa to vse v enem oknu in je tako integrirano.
+
+374
+00:24:07,000 --> 00:24:09,000
+Klikneš na imej funkcije, pritisneš Fn-a,
+
+375
+00:24:09,000 --> 00:24:12,000
+pa se ti od spodi odpre help file.
+
+376
+00:24:12,000 --> 00:24:15,000
+Poleg pa pal imaš še te key bindinge,
+
+377
+00:24:15,000 --> 00:24:17,000
+lahko spremineš pa tako.
+
+378
+00:24:17,000 --> 00:24:20,000
+Ampak to je predvsem pomagal, da nove uporabniki,
+
+379
+00:24:20,000 --> 00:24:23,000
+namest, da smo imeli kakšno delavnico v R-u,
+
+380
+00:24:23,000 --> 00:24:28,000
+namest, da prva srečanje je bilo, kako to vse nastaviti,
+
+381
+00:24:28,000 --> 00:24:32,000
+je zdaj samo odpreš in dekart dela.
+
+382
+00:24:32,000 --> 00:24:34,000
+In ful, ful prišpara.
+
+383
+00:24:34,000 --> 00:24:39,000
+Pa pač tako, vse ni perfekta, ni zdel, ki je pa good enough.
+
+384
+00:24:39,000 --> 00:24:41,000
+Vse ima svoje probleme.
+
+385
+00:24:41,000 --> 00:24:43,000
+Lahko tudi gledaš te neke umestne rezultate,
+
+386
+00:24:43,000 --> 00:24:45,000
+pa te data frame, a se reče data frame,
+
+387
+00:24:45,000 --> 00:24:47,000
+to mi potrdi in povrži.
+
+388
+00:24:47,000 --> 00:24:49,000
+Ja, ja, data frame je v osnovu.
+
+389
+00:24:49,000 --> 00:24:52,000
+Lahko pogledaš dansko, kaj ima v tiste memorije svoje.
+
+390
+00:24:52,000 --> 00:24:54,000
+Tako, tako, ti lahko sprot gledaš.
+
+391
+00:24:54,000 --> 00:24:56,000
+In upravljaš tudi.
+
+392
+00:24:56,000 --> 00:24:59,000
+Tako, ti lahko vse, ti lahko interaktivno čaraš
+
+393
+00:24:59,000 --> 00:25:01,000
+s tistimi problemami.
+
+394
+00:25:00,000 --> 00:25:04,160
+objekti krčeš, pa imaš sam problem, če to nadeleš v skripti,
+
+395
+00:25:04,160 --> 00:25:10,800
+pa ne veš, kaj si naredil, ali pa pozabu, kaj si naredil,
+
+396
+00:25:10,800 --> 00:25:15,840
+sicer greš lahko gledati zgodovino, ampak to je lahko nastoti vrstic in pa se zgubiš.
+
+397
+00:25:15,840 --> 00:25:22,160
+Jaz, ko sem se igral, je bilo v bistvu tako, da inštaliral sem R,
+
+398
+00:25:22,160 --> 00:25:26,480
+ki je tako kot protokoln, pa sem inštaliral ta R studio,
+
+399
+00:25:26,480 --> 00:25:32,639
+ker je tudi ta community veržen, ker je afero licenca in potem sem piso noter
+
+400
+00:25:32,639 --> 00:25:38,240
+in en okanček sem imel za vizualizacijo, enega je bil ta Ripple,
+
+401
+00:25:38,240 --> 00:25:43,680
+tako da pa če sem imel ultra specializirano razvijalsko okolje pa za to.
+
+402
+00:25:43,680 --> 00:25:50,639
+Glede na to, da tudi veliko Pythona uporabljaš, ali pažiš, da R kakih funkcij ali lajberjev,
+
+403
+00:25:50,639 --> 00:25:55,279
+recimo njima, ki so v Pythonu zelo priježde teh vprašanj?
+
+404
+00:25:55,840 --> 00:26:02,240
+Jaz to v bistvu velikrat razmišljam, ker moj dej džoba.
+
+405
+00:26:02,240 --> 00:26:06,400
+Uporabljam Python veliko, pa tudi R in vidim, da v Pythonu so ene stvari
+
+406
+00:26:06,400 --> 00:26:12,320
+lepše rešenje kot v R-u in obratno, tako da imam tako love-hate relationship
+
+407
+00:26:12,320 --> 00:26:18,639
+z vsemi temi. Specifično recimo sem se zapičil v objektno programiranje.
+
+408
+00:26:18,720 --> 00:26:24,400
+V Pythonu je to mi lina. Res, res sploh namoram prehvaljati.
+
+409
+00:26:24,400 --> 00:26:28,000
+V R-u je pa pač to katastrofa. V R-u imaš tako, mislim,
+
+410
+00:26:28,000 --> 00:26:31,599
+decelo šteral še več tipov objektnega programiranja.
+
+411
+00:26:31,599 --> 00:26:37,839
+Ja in potem, ne, pick one in potem pa ni tako lep, no, primerjavi s Pythono.
+
+412
+00:26:37,839 --> 00:26:44,080
+Tako da to je ena, recimo, ker mejo Pythono fulj boljš, druga je pa,
+
+413
+00:26:44,480 --> 00:26:48,239
+kaj pa v R-u fulj boljš rešenje pa, da imamo kot community,
+
+414
+00:26:48,239 --> 00:26:52,400
+imamo to srečo, da imamo paket ggplot2,
+
+415
+00:26:52,400 --> 00:26:55,919
+ki implementira ta grammar of graphics, to je v bistvu koncept,
+
+416
+00:26:55,919 --> 00:27:00,160
+kjer ti v bistvu sliko rišiš po slojih, daš najprej ozadje,
+
+417
+00:27:00,160 --> 00:27:04,080
+potem daš točke, potem daš črte in ti lahko vsak sloj nekako po svoje
+
+418
+00:27:04,080 --> 00:27:09,919
+spreminjaš in je res, res fulj dober. Zato, ker ti dobiš podatke,
+
+419
+00:27:10,000 --> 00:27:14,559
+ki imaš en stolpec, ne vem, spol in ti birati naredil dve slikci
+
+420
+00:27:14,559 --> 00:27:20,240
+za moškega pa za ženskega, ne vem, za žensko in to je tam tako,
+
+421
+00:27:20,240 --> 00:27:25,600
+tilde, spol in se kar zgodi, za vsako slik, reš, tako res je dober naredil
+
+422
+00:27:25,600 --> 00:27:30,160
+in Pythono pa to ne srečo, da je matplotlib fulj rešeren in je pač mene
+
+423
+00:27:30,160 --> 00:27:34,399
+pa to grozem, grozem tako, za isto slikco v R-u rabim, ne vem,
+
+424
+00:27:34,399 --> 00:27:40,639
+tri ali pa šter vrstice, v medplatlibu bom to rabil nekaj 150 vrstic.
+
+425
+00:27:40,639 --> 00:27:44,479
+Sej se da vse narediti, samo ni. Res moraš poznati, sedajste
+
+426
+00:27:44,479 --> 00:27:48,639
+fičeri pa to gleda in sviča. Tako, tako, je kar je zalogajno,
+
+427
+00:27:48,639 --> 00:27:54,479
+ampak so pa sicer zdaj poskusi, zdaj imaš plot 9 knjižnica v Pythonu,
+
+428
+00:27:54,479 --> 00:27:59,279
+ki pa implementira praktično ggplot2, pa tudi sintaksa zelo podobna
+
+429
+00:28:00,240 --> 00:28:05,520
+in jaz se dosti kaj za tega zatečem, pa probam kakšno slikco narisati
+
+430
+00:28:05,520 --> 00:28:07,600
+v temu, zato kaj pač hitrej.
+
+431
+00:28:09,440 --> 00:28:16,960
+Zdaj, cel ta nov val ometne inteligence z LLVM-i in podobnimi,
+
+432
+00:28:16,960 --> 00:28:26,080
+en kup toolinga je, ki je razvit v, nam reku, da je razvit v Pythonu,
+
+433
+00:28:26,479 --> 00:28:31,199
+pa ki je razvit v C-o recimo, ali pa C++-o z lepimi wraperi,
+
+434
+00:28:31,199 --> 00:28:36,479
+bindingi za Python in to je v bistvu, če gledame škatero,
+
+435
+00:28:36,479 --> 00:28:42,880
+kol teh, kaj tam rečem, new age, new stack tehnologij,
+
+436
+00:28:42,880 --> 00:28:46,320
+je Python zaradi tega posledično v spredji, a ne?
+
+437
+00:28:46,320 --> 00:28:47,360
+Tako, ja.
+
+438
+00:28:48,240 --> 00:28:49,520
+Kje je tunoter AR?
+
+439
+00:28:49,520 --> 00:28:50,240
+Niga.
+
+440
+00:28:50,240 --> 00:28:50,720
+Niga.
+
+441
+00:28:50,720 --> 00:28:51,520
+Ja.
+
+442
+00:28:52,479 --> 00:28:58,240
+Tako, kaj sem rekel, ful je pisano za Python, AR je pa nekako
+
+443
+00:28:58,240 --> 00:29:01,600
+kar odzadnjo stov, ker se sploh tega deep learninga tiče.
+
+444
+00:29:01,600 --> 00:29:02,160
+Ja.
+
+445
+00:29:02,160 --> 00:29:06,800
+In obstajajo knjižnice za AR, ki delajo deep learninga,
+
+446
+00:29:06,800 --> 00:29:12,320
+pa v bistvu so samo klici na Keras ali pa pač Python kliče
+
+447
+00:29:12,320 --> 00:29:12,880
+odzadno.
+
+448
+00:29:12,880 --> 00:29:13,440
+Ja, ja.
+
+449
+00:29:13,440 --> 00:29:14,720
+In potem jaz sem to probal.
+
+450
+00:29:14,720 --> 00:29:15,360
+Ja.
+
+451
+00:29:15,360 --> 00:29:19,519
+In je nekako tolko bugy bilo, da izkos neke Python errorje
+
+452
+00:29:19,519 --> 00:29:23,040
+ven matal in se rekel, fak it, pa sem šel kar v Python
+
+453
+00:29:23,040 --> 00:29:24,720
+potem narediti, pa je bilo pač veliko lažje.
+
+454
+00:29:24,720 --> 00:29:27,519
+In vse potem, kaj si narediš, ne, mogoče nek notebook,
+
+455
+00:29:27,519 --> 00:29:30,079
+zdaj to je Jupyter notebook, ki so ful naprejšli, a ne,
+
+456
+00:29:30,079 --> 00:29:32,880
+jaz se spomenem, tukaj sem en leta nazaj začel, je bilo tako,
+
+457
+00:29:32,880 --> 00:29:34,399
+vse je bilo okej, ampak zdaj pa res dober.
+
+458
+00:29:34,399 --> 00:29:34,959
+Hm.
+
+459
+00:29:34,959 --> 00:29:40,640
+Hm, in je zelo lapo integrirano, zelo lapo se da igrat
+
+460
+00:29:40,640 --> 00:29:46,160
+in je top, tako da, se pravi, ta machine learning aspekt
+
+461
+00:29:46,160 --> 00:29:49,119
+je v Pythonu ful bolj razvit, kot v AR-u, a ne?
+
+462
+00:29:49,279 --> 00:29:52,320
+AR je, kot so rekel, to so statistiki naredili,
+
+463
+00:29:52,320 --> 00:29:56,000
+a ne, ti v Pythonu nimaš tako dobrih kapacitet
+
+464
+00:29:56,000 --> 00:29:58,959
+za delanje določenih statistik, kot v AR-u, a ne,
+
+465
+00:29:58,959 --> 00:30:02,399
+ti imaš tam od zelo kompleksne modele, statistične,
+
+466
+00:30:02,399 --> 00:30:06,320
+kaj jih pač, bolj ali manj, res tako, specialisti uporabljamo
+
+467
+00:30:06,320 --> 00:30:11,359
+in jih v Pythonu ni, ali pa, če pa so, so pa tako
+
+468
+00:30:11,359 --> 00:30:12,959
+slabo implementirani.
+
+469
+00:30:12,959 --> 00:30:16,880
+No, ja, veliko dela imaš za to, da niste, ja.
+
+470
+00:30:17,200 --> 00:30:20,320
+Jaz tu v Pythonu rečem, ko zračunam nek model,
+
+471
+00:30:20,320 --> 00:30:23,119
+rečem plot ta model in se mi diagnostika izpiše,
+
+472
+00:30:23,119 --> 00:30:24,959
+a ne, v Pythonu pač tega ni.
+
+473
+00:30:24,959 --> 00:30:26,799
+Tega AR-u misliš, ja.
+
+474
+00:30:26,799 --> 00:30:28,799
+Tako v AR-u, pač, ja.
+
+475
+00:30:30,160 --> 00:30:34,320
+Ni še, povče, ne vem, sej, a ne, Python se mi zdi tako,
+
+476
+00:30:34,320 --> 00:30:37,119
+da nekako bi ta computer science del uporablja
+
+477
+00:30:37,119 --> 00:30:41,440
+in niso tako orientirani na to diagnostiko pa to, a ne.
+
+478
+00:30:41,440 --> 00:30:44,880
+Statistiki smo pa stickler for the rules, a veš,
+
+479
+00:30:45,440 --> 00:30:48,079
+pred postavke pregledati, prej, preden daš karkol ven,
+
+480
+00:30:48,079 --> 00:30:51,839
+pa tako, a ne, in je veliko pomembno, da imaš to.
+
+481
+00:30:51,839 --> 00:30:55,679
+Ampak sej, lej, Python v zajednih aspektih od zaklja,
+
+482
+00:30:55,679 --> 00:30:58,239
+ampak jaz sem prepričan, da v eni točki AR-a sploh
+
+483
+00:30:58,239 --> 00:31:00,160
+na več rabo.
+
+484
+00:31:00,160 --> 00:31:04,959
+Jaz sem, pač, ko jaz sem vedel, da bomo to snemali,
+
+485
+00:31:04,959 --> 00:31:08,239
+sem šel pač, valjda, kaj greš gledati, če so te debate
+
+486
+00:31:08,239 --> 00:31:10,720
+v jeziki, kaj greš na YouTube, pa pa napišeš notri
+
+487
+00:31:10,720 --> 00:31:14,720
+Python vs. AR, in pa pač gledaš, ko pač te videje
+
+488
+00:31:14,720 --> 00:31:17,760
+in mi je bilo ful dobro, zato, ker folk je tako itak
+
+489
+00:31:17,760 --> 00:31:21,839
+ful spoštljiv, pa pač, kaj tako, nek tak komuniti,
+
+490
+00:31:21,839 --> 00:31:25,760
+in pol, sloh ne vprašanje ali eno ali drugo, ampak v bistvu
+
+491
+00:31:25,760 --> 00:31:30,079
+odgovor je tako, kaj o to doskrat reče ja, pač,
+
+492
+00:31:30,079 --> 00:31:35,600
+kaj v bistvu na konci, usnove so itak toliko enostavne,
+
+493
+00:31:35,600 --> 00:31:38,559
+se mi zdi, da tist dost hiter pač pogruntaš,
+
+494
+00:31:38,559 --> 00:31:41,200
+pa pa, kaj pa rabeš domensko specifično, da veš,
+
+495
+00:31:41,200 --> 00:31:43,920
+kako specifično nekaj klicati, tist je itak,
+
+496
+00:31:43,920 --> 00:31:48,079
+pa pa pač pogledat v obeh jezikih, tako da ne, meni je,
+
+497
+00:31:48,079 --> 00:31:51,519
+meni je predvsem, pr AR mi je bil ful zanimiv ta vizualen del,
+
+498
+00:31:51,519 --> 00:31:56,320
+ko pol gledaš v bistvu, kot Python, jer je to res tako,
+
+499
+00:31:56,320 --> 00:31:59,920
+ta matplotlip je res grozen, tipično vse je podatke lepo
+
+500
+00:31:59,920 --> 00:32:04,480
+sfilteriraš, pa pa hočeš grafek napisati, pa xos nastaviti,
+
+501
+00:32:04,480 --> 00:32:08,079
+pa se pa za glavo primaš, ker je tisto okrigidno,
+
+502
+00:32:08,079 --> 00:32:12,480
+tako da, po moje, tisti, ki nas poslušajo, pa zdaj taktizirajo,
+
+503
+00:32:12,480 --> 00:32:15,040
+pa pogledat eno ali drugo, po moje odgovor, ja.
+
+504
+00:32:15,040 --> 00:32:21,920
+Ej, mogoče bi mogli iti še zdaj malo nazaj,
+
+505
+00:32:21,920 --> 00:32:29,920
+malo naprej, pa malo pol naprej, ti delaš za podjetje Genialis?
+
+506
+00:32:29,920 --> 00:32:31,920
+Ne Genitalis.
+
+507
+00:32:31,920 --> 00:32:39,440
+Ja, pa bi mogoče tak, ali nam lahko preko tega, kaj je tam,
+
+508
+00:32:39,440 --> 00:32:43,040
+počneš malo razložiš, recimo kaj, s čim se okvarjate,
+
+509
+00:32:43,040 --> 00:32:47,839
+pa kaj nekako to je vloga, kaj je ta, lahko malo tako
+
+510
+00:32:47,839 --> 00:32:55,040
+razložiš, kaj dela, enik data scientist, statist, wiz.
+
+511
+00:32:55,040 --> 00:33:00,160
+Magic, to je black box, ker jaz grem v pisarno in pa pridem ven
+
+512
+00:33:00,160 --> 00:33:02,160
+in nam beno ve, kaj se je zgodilo.
+
+513
+00:33:02,160 --> 00:33:05,359
+Pa bi mu rekel, zakaj si plačar, ampak ja.
+
+514
+00:33:05,359 --> 00:33:08,399
+Ne sem plačan, zato da izpomnim o pogodbeni obveznosti,
+
+515
+00:33:08,399 --> 00:33:12,399
+tako da strikno gledam.
+
+516
+00:33:12,399 --> 00:33:21,839
+Ja, Genialis je podjetje, ker so ga ustanovil moji kolegi,
+
+517
+00:33:21,839 --> 00:33:27,839
+so bili po profilu biologi in računalničari, tako, tak.
+
+518
+00:33:28,799 --> 00:33:38,239
+Pol smo zdaj, na zadnji pivot je bil pa bolj v tej smeri,
+
+519
+00:33:38,239 --> 00:33:42,239
+da smo se vsro dotočali na raševanje problemov raka.
+
+520
+00:33:42,239 --> 00:33:46,799
+In pol smo imeli že debato, kako v svoji babici poveš,
+
+521
+00:33:46,799 --> 00:33:49,119
+kaj delaš, ker čez karamičar to ni problem,
+
+522
+00:33:49,119 --> 00:33:51,119
+ja, polagam ploščice, pa vsi razumejo.
+
+523
+00:33:51,119 --> 00:33:56,320
+Zdaj nas je pa tako včasih malo teži, zato ker mi pa pomagamo
+
+524
+00:33:56,880 --> 00:34:02,880
+našim partnerjem pri raševanju problemov z raki.
+
+525
+00:34:02,880 --> 00:34:08,880
+Recimo si lahko predstavljaš, rak to ni ena bolezna,
+
+526
+00:34:08,880 --> 00:34:10,880
+to je veliko boleznih.
+
+527
+00:34:10,880 --> 00:34:15,760
+In tudi en rak, ki so v preteklosti mislili, da je en,
+
+528
+00:34:15,760 --> 00:34:19,359
+se jih kaže, da na molekularnem nivoju, na nivoju DNK,
+
+529
+00:34:19,359 --> 00:34:21,359
+ni ista bolezna.
+
+530
+00:34:22,159 --> 00:34:28,479
+In zdravila, ki jih imamo, proti raku, delujejo, recimo,
+
+531
+00:34:28,479 --> 00:34:33,840
+za zdravljanje enega raka, ampak ne za vse pacijente.
+
+532
+00:34:33,840 --> 00:34:38,880
+Dela, ne vem, na 80%, 50%, ne, lahko je še manj.
+
+533
+00:34:38,880 --> 00:34:44,080
+In ti, ki se zdravljaš proti raku, greš čez neko kaskado
+
+534
+00:34:44,080 --> 00:34:49,200
+s tretmajo, ne, najprej tako zdravilo, pol onako, ne.
+
+535
+00:34:49,760 --> 00:34:52,799
+In potem, ko prideš pol že na en tretjega, četrdega,
+
+536
+00:34:52,799 --> 00:34:54,799
+skratni imaš več veliko časa.
+
+537
+00:34:54,799 --> 00:34:58,239
+In je veliko pomembno, da bi ti vedel,
+
+538
+00:34:58,239 --> 00:35:00,960
+a bo naslednja terapija delvala ali ne.
+
+539
+00:35:00,960 --> 00:35:04,960
+In to, za nekoga, ki nima več prav dolg še zaživeti,
+
+540
+00:35:04,960 --> 00:35:08,719
+je zelo pomembno, da ve, da, a proba tole,
+
+541
+00:35:08,719 --> 00:35:12,159
+potencialno tudi v drago zdravilo,
+
+542
+00:35:12,159 --> 00:35:14,799
+a gre v to zdravljanje ali ne.
+
+543
+00:35:14,880 --> 00:35:19,840
+In recimo mi probamo razviti nekaj, neka urodja,
+
+544
+00:35:19,840 --> 00:35:25,359
+ki bi povedala ti, a je na to zdravljanje ali ne.
+
+545
+00:35:25,359 --> 00:35:28,799
+Zato, da ne zapravljaš časa z nečem,
+
+546
+00:35:28,799 --> 00:35:31,760
+kar recimo vemo ali pa sumimo,
+
+547
+00:35:31,760 --> 00:35:36,239
+da najverjetneje ne bo očinkovito, a ne.
+
+548
+00:35:36,239 --> 00:35:39,280
+In tako nekak, je lahko to dodana vrednost.
+
+549
+00:35:39,280 --> 00:35:41,440
+Na eno dodana vrednost je seveda, da imaš zdravilo,
+
+550
+00:35:41,440 --> 00:35:45,440
+kaj deluje. Druga dodana vrednost je pa, da veš,
+
+551
+00:35:45,440 --> 00:35:49,440
+a boš se odzival na neko zdravljanje ali ne.
+
+552
+00:35:49,440 --> 00:35:52,400
+Tako da, ko grem jaz v pisarno, nekako o tem razmišljam
+
+553
+00:35:52,400 --> 00:35:56,400
+in ko pridem jaz v pisarno, pa razmišljam kaj drugega.
+
+554
+00:35:57,440 --> 00:36:02,400
+A te lahko potem malo tako, kot data scientist,
+
+555
+00:36:02,400 --> 00:36:05,840
+potem dobiš verjetno, je tvoj input,
+
+556
+00:36:05,840 --> 00:36:11,359
+so nekje podatki, DNK ali kaj?
+
+557
+00:36:11,760 --> 00:36:14,559
+Kaj so podatki, s katerim operiraš potem,
+
+558
+00:36:14,559 --> 00:36:17,919
+da lahko te predikcija?
+
+559
+00:36:17,919 --> 00:36:21,039
+Ja, napovedujemo nekaj lošnosti,
+
+560
+00:36:21,039 --> 00:36:27,039
+upamo, da se jih bomo naučili iz recimo dednega zapisa.
+
+561
+00:36:29,599 --> 00:36:32,080
+Podatki, ki jih jaz dobim, so,
+
+562
+00:36:32,080 --> 00:36:38,960
+se pravi, mi se v podjetju ukvarjamo predvsem z DNK podatki.
+
+563
+00:36:39,039 --> 00:36:43,039
+To pa, DNK je pa, naše celice imajo DNK,
+
+564
+00:36:43,039 --> 00:36:47,039
+to je ta dedni zapis, ki se deduje iz starševne oproke,
+
+565
+00:36:48,159 --> 00:36:52,159
+ampak rezultat tega DNK so pa potem beljakovine, proteini.
+
+566
+00:36:53,840 --> 00:36:57,840
+In umestna stopna je pa DNK, to je nekaj umestnega,
+
+567
+00:36:57,840 --> 00:37:01,039
+to je v bistvu, kad bi ti načrt prekupiral
+
+568
+00:37:01,039 --> 00:37:05,039
+in s tem načrtom šel do nekoga, da bo naredil ta protein.
+
+569
+00:37:05,039 --> 00:37:07,039
+In zato ta načrt uničeš.
+
+570
+00:37:07,039 --> 00:37:09,039
+No in, mi znamo pa prebrat.
+
+571
+00:37:09,039 --> 00:37:11,039
+Za načrt, okaj.
+
+572
+00:37:11,039 --> 00:37:15,039
+Tako, mi znamo prebrat tudi, koliko je teh načrtov za posamezen protein.
+
+573
+00:37:15,039 --> 00:37:19,039
+Večkih načrtov, verjetno se tudi več proteina proizvaja.
+
+574
+00:37:19,039 --> 00:37:23,039
+No in ta umesten del nekako znamo prebrat,
+
+575
+00:37:23,039 --> 00:37:25,039
+do neke mere zanesljivo,
+
+576
+00:37:25,039 --> 00:37:27,039
+in potem na podlagi tega,
+
+577
+00:37:27,039 --> 00:37:29,039
+potem naša ekipa.
+
+578
+00:37:29,039 --> 00:37:31,039
+Mašinerija.
+
+579
+00:37:31,039 --> 00:37:39,039
+Razvid kakšen model, da bo to pač za nek produkt.
+
+580
+00:37:39,039 --> 00:37:43,039
+Smo pa recimo, prej sem omenil ta interdisciplinarnost pa to,
+
+581
+00:37:43,039 --> 00:37:45,039
+pri nas smo res tudi fruti,
+
+582
+00:37:45,039 --> 00:37:49,039
+imamo fizike, imamo biotehnologe, imamo biologe,
+
+583
+00:37:49,039 --> 00:37:53,039
+v računaličari in tako.
+
+584
+00:37:53,039 --> 00:37:59,039
+Tako da je pristop tak multidisciplinaren.
+
+585
+00:37:59,039 --> 00:38:01,039
+Benčlok, ne bi mogli tega definitivno delati.
+
+586
+00:38:01,039 --> 00:38:03,039
+Rabiš kot ekipa.
+
+587
+00:38:03,039 --> 00:38:05,039
+Ampak verjetno je tudi,
+
+588
+00:38:05,039 --> 00:38:07,039
+kot pravijo to pač,
+
+589
+00:38:07,039 --> 00:38:09,039
+junk in, junk out, pač če...
+
+590
+00:38:09,039 --> 00:38:13,039
+To je, to glede sloh na majci napisano.
+
+591
+00:38:13,039 --> 00:38:15,039
+To drži kot pribito, res to je...
+
+592
+00:38:15,039 --> 00:38:19,039
+Mislim, verjetno, če sem planiral zdaj pri Andražu DNK,
+
+593
+00:38:19,039 --> 00:38:23,039
+oziroma RNK, je to cel proces pa verjetno,
+
+594
+00:38:23,039 --> 00:38:27,039
+je tudi hitro treba vse skupaj izvesti,
+
+595
+00:38:27,039 --> 00:38:31,039
+cel proces izbiranja in digitalizacije tega ali kaj.
+
+596
+00:38:31,039 --> 00:38:35,039
+Ja, to je pal, kaj produkci se to na čelama dogaja,
+
+597
+00:38:35,039 --> 00:38:37,039
+tako on the fly praktično.
+
+598
+00:38:37,039 --> 00:38:41,039
+Za razvoj pa lahko porabljaš tudi arhivske podatke.
+
+599
+00:38:41,039 --> 00:38:45,039
+Tako da ni čist, nujno.
+
+600
+00:38:45,039 --> 00:38:47,039
+Je pa tako,
+
+601
+00:38:49,039 --> 00:38:53,039
+vzorci, ki jih mi dobivamo, to so ponavat
+
+602
+00:38:57,039 --> 00:38:59,039
+ja.
+
+603
+00:39:01,039 --> 00:39:03,039
+A iščeš politično strezno besedo?
+
+604
+00:39:03,039 --> 00:39:05,039
+Ne, ne, ne.
+
+605
+00:39:05,039 --> 00:39:07,039
+Samo...
+
+606
+00:39:07,039 --> 00:39:09,039
+A so veliki?
+
+607
+00:39:09,039 --> 00:39:11,039
+A je to format, ne vem,
+
+608
+00:39:11,039 --> 00:39:15,039
+jpeg ali en giga velik file,
+
+609
+00:39:15,039 --> 00:39:19,039
+post v človeku ali so to terabajt veliki podatki?
+
+610
+00:39:19,039 --> 00:39:23,039
+Tako nam je malo velikostna.
+
+611
+00:39:23,039 --> 00:39:27,039
+Recimo ena oblika podatkov, ki jih dobimo,
+
+612
+00:39:27,039 --> 00:39:31,039
+je tako, da imaš v bistvu text file, ki je velik, zazipan,
+
+613
+00:39:31,039 --> 00:39:35,039
+dvakrat po dva gigabajta.
+
+614
+00:39:35,039 --> 00:39:39,039
+Zato, ker DNK beraš eno vjačnico,
+
+615
+00:39:39,039 --> 00:39:43,039
+mislim, eno vjačnico pa drugo.
+
+616
+00:39:43,039 --> 00:39:47,039
+Mislim, ne vjačnico, ampak ti imaš DNK je dvo,
+
+617
+00:39:47,039 --> 00:39:51,039
+je Helix, ki ima dve nogici.
+
+618
+00:39:51,039 --> 00:39:55,039
+In ti beraš eno pa drugo.
+
+619
+00:39:55,039 --> 00:39:57,039
+Vsaka gre v svoj file.
+
+620
+00:39:57,039 --> 00:40:01,039
+Lahko tudi samo eno, ampak to so zdaj zelo specifični.
+
+621
+00:40:01,039 --> 00:40:05,039
+To je zelo specifično.
+
+622
+00:40:05,039 --> 00:40:09,039
+In pol, ja, te file, to so...
+
+623
+00:40:09,039 --> 00:40:13,039
+Lahko so majhni, vdvisno od tehnologije.
+
+624
+00:40:13,039 --> 00:40:17,039
+Ti imaš lahko posebni tip tehnologije za branje
+
+625
+00:40:17,039 --> 00:40:21,039
+vjačnih stvari, pa so majhni file, lahko dobiš pa
+
+626
+00:40:21,039 --> 00:40:25,039
+cel genom posekveniran, to je pa pol, ne vem,
+
+627
+00:40:25,039 --> 00:40:29,039
+50, 100 giga file lahko. In seveda tudi pristopi so drugi.
+
+628
+00:40:29,039 --> 00:40:33,039
+Kako to obdelati.
+
+629
+00:40:33,039 --> 00:40:37,039
+Dej mu ti na tem mestu neko smarto vprašanje.
+
+630
+00:40:37,039 --> 00:40:41,039
+A to pa v bistvu...
+
+631
+00:40:41,039 --> 00:40:45,039
+Ne vem, jaz sem šel na nekih partejh delavnic, rečmo za mašinarnik,
+
+632
+00:40:45,039 --> 00:40:49,039
+pa pač na konci, kaj sem poštudiral, kaj smo delali, realne probleme je,
+
+633
+00:40:49,039 --> 00:40:53,039
+da ti dobiš nekatero podatke, ki jih je veliko,
+
+634
+00:40:53,039 --> 00:40:57,039
+pa pa v bistvu v neki fazi probaš te količino podatke
+
+635
+00:40:57,039 --> 00:41:01,039
+reducirati, da je zelo koristno za učenje ali pa za model,
+
+636
+00:41:01,039 --> 00:41:05,039
+pa pač filtriraš ven stvari, pri čem
+
+637
+00:41:05,039 --> 00:41:09,039
+ne filtriraš tako, kot, ne vem, smo v srednji šoli,
+
+638
+00:41:09,039 --> 00:41:13,039
+pa je bilo enomerito odstopanje, pa se je rekel, ok, te odstopanje,
+
+639
+00:41:13,039 --> 00:41:17,039
+se je pričrtil, pač je realno moraš tudi vedeti, kaj je tista merito, pa
+
+640
+00:41:17,039 --> 00:41:21,039
+komogočeno odstopanje je ful velibel podatka, ne.
+
+641
+00:41:21,039 --> 00:41:25,039
+In pač si, pač pol, ko sem bil na tej ML delavnici,
+
+642
+00:41:25,039 --> 00:41:29,039
+sem v bistvu poštudiral, da ful je tega, da ti
+
+643
+00:41:29,039 --> 00:41:33,039
+pač v bistvu sfiltriraš podatke, a, da sloh veš, kaj so te podatke,
+
+644
+00:41:33,039 --> 00:41:37,039
+pol jih zreduciraš, da sloh narediš nek model, pa pa ta delček,
+
+645
+00:41:37,039 --> 00:41:41,039
+ki je pisan je sanjega tega modela, ali pa v mojemu
+
+646
+00:41:41,039 --> 00:41:45,039
+primeru, ko sem bil na delavnici, ta samo machine learning model,
+
+647
+00:41:45,039 --> 00:41:49,039
+to je pa tako itak čist brezveze, sloh ni to spet pomembno, pač, ok,
+
+648
+00:41:49,039 --> 00:41:53,039
+ja, tem par perimetrov je, ki jih nastaveš, ali več ali manj smo se obadali
+
+649
+00:41:53,039 --> 00:41:57,039
+s to predprocesiranjem podatkov, pa mi pa zanima,
+
+650
+00:41:57,039 --> 00:42:01,039
+a si ti v bistvu v glavnini svojega delovnega časa s tem ukvarjaš,
+
+651
+00:42:01,039 --> 00:42:05,040
+da pač redusaš to, ali se pač obaddaš pol dejansko
+
+652
+00:42:05,040 --> 00:42:09,040
+večino časa s tem pro-modelom statističnem?
+
+653
+00:42:09,040 --> 00:42:13,040
+Moj odgovor bo iz dveh stvari.
+
+654
+00:42:13,040 --> 00:42:17,040
+Se pravi, še, ko sem študiral statistiko,
+
+655
+00:42:17,040 --> 00:42:21,040
+pa tudi prej, no, pa tudi kasnej, je bilo tako,
+
+656
+00:42:21,040 --> 00:42:25,040
+da ti, ko gledaš te knjige, ki sem jih omenil,
+
+657
+00:42:25,040 --> 00:42:29,040
+pa imaš noter, ja, narediš model tako, pa tako,
+
+658
+00:42:29,040 --> 00:42:33,040
+in pa govoriš, da to je tako, 10, govoriš, da je 20 procentov dela,
+
+659
+00:42:33,040 --> 00:42:37,040
+večino časa je to, kar ste rekel, pucanje podatkov,
+
+660
+00:42:37,040 --> 00:42:43,040
+to je tako, timesink, to lahko neskončno časa porabiš,
+
+661
+00:42:43,040 --> 00:42:47,040
+zato da to spucaš, to je res velik problem.
+
+662
+00:42:47,040 --> 00:42:53,040
+In pa druga strana je pa recimo,
+
+663
+00:42:53,040 --> 00:42:57,040
+ko dobiš te podatke, pa če so ful veliki, to ne možeš
+
+664
+00:42:57,040 --> 00:43:01,040
+na laptopu delati, to je nemogoče. Mi imamo ful srečo,
+
+665
+00:43:01,040 --> 00:43:05,040
+da imamo eno svojo platformo, ki to vse hendla za te.
+
+666
+00:43:05,040 --> 00:43:09,040
+Ti samo aplodaš v Zords, poženeš ta pipeline, pa se kar zgodi se.
+
+667
+00:43:09,040 --> 00:43:13,040
+Prideš dve ure kasneje, pa je kar poračunano. Je to ful dober.
+
+668
+00:43:13,040 --> 00:43:18,040
+Dve ure kasneje, ključ v takem investiciji v avtomatiko in klasično.
+
+669
+00:43:18,040 --> 00:43:23,040
+Ja, no, to je pa on problema. Veliko urodij recimo je napisanih
+
+670
+00:43:23,040 --> 00:43:29,040
+v Pythonu, ali pa recimo v Pythonu, in to niso nujno ful optimizirane urodje.
+
+671
+00:43:30,040 --> 00:43:37,040
+Ampak, če bi hotel to narediti v rastu, to bi ful časa šlo,
+
+672
+00:43:37,040 --> 00:43:42,040
+pa mogoče nimaš tudi znanja. So pa to povečini nekak od
+
+673
+00:43:42,040 --> 00:43:49,040
+protokodni programi, ki recimo imajo že nekak v komunitiji potvrdil,
+
+674
+00:43:49,040 --> 00:43:57,040
+da delajo to, kar pravijo, da delajo. Veliko ljudi to uporablja,
+
+675
+00:43:57,040 --> 00:44:02,040
+so preverjeni pa tako, in zares hočeš to uporabljati, nočeš izumljati
+
+676
+00:44:02,040 --> 00:44:07,040
+svojega urodja, tudi če je hitrejši. Ampak včasih so to zelo kompleksne
+
+677
+00:44:07,040 --> 00:44:14,040
+algoritme vzadi in je ful težko je nekak forkat to pa pohitriti dramatično.
+
+678
+00:44:14,040 --> 00:44:18,040
+To narediš takrat, ko veš, da imaš, ko lahko priovičaš sredstva,
+
+679
+00:44:18,040 --> 00:44:23,040
+da boš to naredil. Do takrat je pa včasih laži sam splonati
+
+680
+00:44:23,040 --> 00:44:30,040
+pet instants, pa bo pač, recimo jaz sem, ko sem še delal v prejšnji
+
+681
+00:44:30,040 --> 00:44:37,040
+službi, smo analizirali podatke, meni je tisto lahko en teden na kišti
+
+682
+00:44:37,040 --> 00:44:43,040
+ali na mizi. Ampak če bi pa to lahko paraleliziral takrat,
+
+683
+00:44:43,040 --> 00:44:50,040
+bi bilo pa tudi v treh urah. Velik del optimizacije se da narediti,
+
+684
+00:44:50,040 --> 00:44:56,040
+tako da paraleliziraš, pa predvsem to, da ti te fajle, nekje hran,
+
+685
+00:44:56,040 --> 00:45:00,040
+da se ti nastepno ukvarjaš, ker to je disk takoj povhan.
+
+686
+00:45:00,040 --> 00:45:06,040
+To hitro ljude, kar recimo, prej, ko sem delal na oddelku za biologijo,
+
+687
+00:45:06,040 --> 00:45:10,040
+pa ljudje analizirajo podatke, kar enkrat ugotujo, da imajo lepo ta povhan,
+
+688
+00:45:10,040 --> 00:45:15,040
+ker pač deset ozorcev so dobili in to je zdaj polno.
+
+689
+00:45:15,040 --> 00:45:19,040
+In je ful fino imeti neko platformo, kar to hendla zate.
+
+690
+00:45:21,040 --> 00:45:28,040
+Je pa tako, kaj se reku, mi dobimo ogromne fajle in pol preko teh
+
+691
+00:45:28,040 --> 00:45:35,040
+algoritmov to zreduciramo iz nekaj giga na dvesto kilo.
+
+692
+00:45:35,040 --> 00:45:41,040
+In pol gre pa to, recimo, ga modeliranje, kjer se dogaja no magic noter.
+
+693
+00:45:41,040 --> 00:45:43,040
+Kaj so to pol neki vektori?
+
+694
+00:45:43,040 --> 00:45:51,040
+To je tabelca. Ozorci, geni. Ni tako komplicirano.
+
+695
+00:45:51,040 --> 00:45:55,040
+To je enti podatko. Seveda imaš še druge, ampak velik del je pa to,
+
+696
+00:45:55,040 --> 00:45:59,040
+da imaš posamezne ozorce. Možeš pa razumet. To so tabelce,
+
+697
+00:45:59,040 --> 00:46:03,040
+ki imajo malo ozorcev in ogromno genov. Ti imaš človeški genom,
+
+698
+00:46:03,040 --> 00:46:08,040
+ki ima 50 tisoč genov. To je 50 tisoč stolbcev.
+
+699
+00:46:08,040 --> 00:46:20,040
+Ozorcev dobiš pa lahko različno, kukor ima partner dostop do tega.
+
+700
+00:46:20,040 --> 00:46:27,040
+Če delaš svojo študijo, na začetku je to 10 ozorcev.
+
+701
+00:46:27,040 --> 00:46:30,040
+To je malo za take stvari.
+
+702
+00:46:30,040 --> 00:46:33,040
+Ampak je zelo težko dobiti lahko ozorce.
+
+703
+00:46:33,040 --> 00:46:35,040
+Obretno drago.
+
+704
+00:46:35,040 --> 00:46:41,040
+Eno je drago. Relativno drago. Farmo to ni veliko, ampak ...
+
+705
+00:46:44,040 --> 00:46:48,040
+Farmo se to zgrozno sliši. Kaj misliš? Farmacijo.
+
+706
+00:46:48,040 --> 00:46:50,040
+Farmacijo, ja.
+
+707
+00:46:52,040 --> 00:46:55,040
+Ampak že dobiti ljudi, da bojo pripravljeni sodelovati,
+
+708
+00:46:55,040 --> 00:47:01,040
+pa da bojo ustrali. To je nasploh področje kliničnih študij.
+
+709
+00:47:01,040 --> 00:47:03,040
+Mi je zelo zanimivo.
+
+710
+00:47:03,040 --> 00:47:08,040
+In vidiš, kakšni so daneski realni problemi.
+
+711
+00:47:08,040 --> 00:47:13,040
+Kako prvabiti ljudi, da bojo sodelovali pri tvojih študijih,
+
+712
+00:47:13,040 --> 00:47:16,040
+da boš sploh lahko začel.
+
+713
+00:47:16,040 --> 00:47:20,040
+Ker ti imaš to, klinične študije potekajo v večjih fazah,
+
+714
+00:47:20,040 --> 00:47:23,040
+ena, dva, tri in tako.
+
+715
+00:47:23,040 --> 00:47:27,040
+In ti možeš nabirati ljudi. Časih je težko.
+
+716
+00:47:27,040 --> 00:47:32,040
+Ljudi ali omrejo, lahko tudi nehajo,
+
+717
+00:47:32,040 --> 00:47:39,040
+ampak na koncu imaš vzorce za prištet na prsteh dveh rokov.
+
+718
+00:47:39,040 --> 00:47:43,040
+To je v tem prostoru.
+
+719
+00:47:43,040 --> 00:47:48,040
+Pa imaš v ekologiji zelo podoben problem.
+
+720
+00:47:48,040 --> 00:47:52,040
+Ti si sezono vmejena in si predstavljaš, da en metulček leta
+
+721
+00:47:52,040 --> 00:47:55,040
+en teden v letu.
+
+722
+00:47:55,040 --> 00:48:00,040
+Ti ne moraš to nabrati nebrojno, ampak nabiraš.
+
+723
+00:48:00,040 --> 00:48:05,040
+To je krep, pa čakaš novo sezono, ampak včasih nabiraš te podatke.
+
+724
+00:48:05,040 --> 00:48:10,040
+Izzivi se mi zdi v celi znanosti.
+
+725
+00:48:10,040 --> 00:48:19,040
+Po eni strani ti lahko z hidrantom podatke vate puhajo,
+
+726
+00:48:19,040 --> 00:48:24,040
+ampak ne moraš vse procesirati ali je res.
+
+727
+00:48:24,040 --> 00:48:29,040
+Spinceto pobiraš in vse vmese.
+
+728
+00:48:29,040 --> 00:48:36,040
+Zadnjič vem, da si objavljala, da iščete data scientista
+
+729
+00:48:36,040 --> 00:48:39,040
+za Genialis.
+
+730
+00:48:39,040 --> 00:48:42,040
+Sem videl, da ste imeli nekaj joba.
+
+731
+00:48:42,040 --> 00:48:45,040
+Vem, da smo se potem o tem pogovarjali.
+
+732
+00:48:45,040 --> 00:48:50,040
+Pa me zanima, je težko najti data scientista,
+
+733
+00:48:50,040 --> 00:48:54,040
+da ima dobre premise za delo v tem.
+
+734
+00:48:54,040 --> 00:48:59,040
+Iščete bolj biologe kot si sam ali iščete bolj statiste
+
+735
+00:48:59,040 --> 00:49:02,040
+ali matematike.
+
+736
+00:49:02,040 --> 00:49:05,040
+Statistike.
+
+737
+00:49:05,040 --> 00:49:09,040
+Kaj te lahko pripravi na take izzive?
+
+738
+00:49:09,040 --> 00:49:12,040
+Ful pomaga, da imaš domensko znanje.
+
+739
+00:49:13,040 --> 00:49:16,040
+Si ga lahko tudi naučiš dovolj hitro.
+
+740
+00:49:16,040 --> 00:49:19,040
+Sem pripričan, da se vse da, ampak je ful lažje.
+
+741
+00:49:19,040 --> 00:49:23,040
+Se mi zdi, da ... Nisem testiral hipoteze še,
+
+742
+00:49:23,040 --> 00:49:26,040
+ampak meni se zdi, da če dobiš nekoga z tem biološkim znanjem,
+
+743
+00:49:26,040 --> 00:49:29,040
+ga že naučiš potem ti sprogramirati.
+
+744
+00:49:29,040 --> 00:49:34,040
+Obratno, se mi zdi, da če imaš nekega komputer scientista,
+
+745
+00:49:34,040 --> 00:49:39,040
+se pravi nekega računalničarja, pa ful je v snov,
+
+746
+00:49:39,040 --> 00:49:42,040
+ampak pa le pa še domensko znanje nad tem.
+
+747
+00:49:42,040 --> 00:49:45,040
+Se mi zdi, da je ta smeri ...
+
+748
+00:49:45,040 --> 00:49:48,040
+Znaš, ti moraš računati, nekdo z naravslovenega FACSA,
+
+749
+00:49:48,040 --> 00:49:51,040
+on se šteri leta oči od denka jagora.
+
+750
+00:49:51,040 --> 00:49:54,040
+In je ful težko ta šter leta splačati v pol leta
+
+751
+00:49:54,040 --> 00:49:57,040
+nekega usmerenega zobraževanja za nekoga,
+
+752
+00:49:57,040 --> 00:50:00,040
+ki je prvotno Java.
+
+753
+00:50:00,000 --> 00:50:13,000
+Se mi zdi, da je to smer, in tudi se mi zdi, da moji sodelavci so veliko matematično, naravoslovno, primarno izobraženi, pa se navčijo programirati.
+
+754
+00:50:13,000 --> 00:50:23,000
+Imamo pa kaj potrkati, imamo ful sreče. Res imam izjemne sodelavce.
+
+755
+00:50:23,000 --> 00:50:33,000
+Jaz se tam prijem note, pa se počutim res najbolj butasga na tem svetu in so res izjemni, tako da imamo kar srečo, da znamo prvabati tak kadar.
+
+756
+00:50:33,000 --> 00:50:50,000
+Poleg tega, da znamo prvabati dober kadar, pa se mi zdi, da tudi veliko vračamo in imamo velikrat kažne študente, pa nekako te džunjorje nekako probamo izobrazati, pa jih dati nazaj v bazen.
+
+757
+00:50:51,000 --> 00:51:01,000
+Tako da se mi zdi, da smo unikne jamraja, kot njih ljudi, pa tako, ne, ker to velikrat slišem na kažnih meet-upih.
+
+758
+00:51:01,000 --> 00:51:08,000
+Jaz pa, ne vem, pri nas pa imamo nazaj enkrat to srečo, da nam rada zapavati te pozicije.
+
+759
+00:51:08,000 --> 00:51:14,000
+Boš ti mu dal tisto vprašanje o Python meet-upu, ko smo ga se ti predobro zdelo?
+
+760
+00:51:15,000 --> 00:51:16,000
+Ja.
+
+761
+00:51:16,000 --> 00:51:21,000
+Dej ga malo bomo, mogoče, šli v naredko zarce vode, pa bo Andraž formuliral vprašanje.
+
+762
+00:51:23,000 --> 00:51:26,000
+Ne, ampak je neko vprašanje, ki smo ga tudi večkrat imeli.
+
+763
+00:51:27,000 --> 00:51:40,000
+Ti si predvsej aktiven v Python skupnosti, pa pač si soorganizator Python meet-upov, pa smo se preizpršvali,
+
+764
+00:51:40,000 --> 00:51:47,000
+ki pač mi ta ogrodje produceramo, pa to, koliko težko je najdati pa sponsorje za Python meet-upe?
+
+765
+00:51:48,000 --> 00:51:51,000
+Kako gledaš na te stvari oziroma?
+
+766
+00:51:52,000 --> 00:51:59,000
+Poglej, različno mi je bilo tako, pač velikrat smo se pogovarjali o Python meet-upu, pa vem, da si tudi,
+
+767
+00:51:59,000 --> 00:52:07,000
+pač daj bo naslednji Python meet-up, pa če je Python res razširjen, pa zelo veliko ljudi ga uporablja,
+
+768
+00:52:07,000 --> 00:52:13,000
+pa vem, da išče te sponsorje za to, ker pač do besednega člena ne bomo imeli Python meet-upa, ker ni sponsorje.
+
+769
+00:52:14,000 --> 00:52:22,000
+In to je nekako zanima, zakaj je tako težko nekako dobiti backing za nekaj, kar je tako splošno?
+
+770
+00:52:22,000 --> 00:52:26,000
+Ja, zares ni težko, če si tako malo angažiraš.
+
+771
+00:52:27,000 --> 00:52:37,000
+Recimo, ugotovil sem, da je ful neproduktivno reči tako, dajte meet-toke, dajte v firmi reči, da bi bili sponsorje.
+
+772
+00:52:37,000 --> 00:52:39,000
+To nič ne dobiš.
+
+773
+00:52:40,000 --> 00:52:47,000
+Kaj greš pa tako do človeka, pa se začneš pogovarjati, daj, a bi vih sponsorjel, pa se pa krda, zares.
+
+774
+00:52:47,000 --> 00:52:57,000
+Tako da men se zdi, da v preteklosti denar ni bil tak problem, kaj to je za eno firmo, nekaj 100 Euro, mogoče jump change.
+
+775
+00:52:59,000 --> 00:53:05,000
+Včasih je problem, kakšen ga predavatelje dobiti, včasih ne.
+
+776
+00:53:06,000 --> 00:53:09,000
+Tako da se mi zdi, da je tako večdimenzionalen problem.
+
+777
+00:53:10,000 --> 00:53:13,000
+Problem je pa ponavad v nas, organizatorjih, ker smo malo leni.
+
+778
+00:53:13,000 --> 00:53:25,000
+To ni naš primaren džob, in potem 8h šihta, pa še doma moram kaj delati, in potem se mi pa nada novno firmo klicati, ali pa novače zadnjara.
+
+779
+00:53:25,000 --> 00:53:33,000
+In potem to prelagaš, ker ti ni primarno, in potem nekako traja, da se nekaj zgodi.
+
+780
+00:53:33,000 --> 00:53:39,000
+Včasih pridejo pa do tebe ljudje in rečejo, mi bi pa imeli tok, pa sponzoriramo vse.
+
+781
+00:53:42,000 --> 00:53:44,000
+Se da, zres se da.
+
+782
+00:53:44,000 --> 00:53:46,000
+Je pa tako, kot sta rekla, to je ful velik komuniti.
+
+783
+00:53:46,000 --> 00:53:54,000
+Mislim, da na meetup.com, da je to verjetno največji računalniški komuniti v Sloveniji.
+
+784
+00:53:54,000 --> 00:54:01,000
+Mislim, da imamo tisoč, tristo članov, nekaj tazga, v primarjavi s drugimi, je to ful veliko.
+
+785
+00:54:01,000 --> 00:54:04,000
+To pa ima neko zgodovino.
+
+786
+00:54:04,000 --> 00:54:09,000
+Ja, ja, to so pred mano začeli ljudje, pa zdajle se naspela tistočna zgodovina.
+
+787
+00:54:11,000 --> 00:54:15,000
+Jaz pa spomin, on the record, imam zelo slab spomin.
+
+788
+00:54:15,000 --> 00:54:19,000
+Če boste poslušali podcast Metamorfoza, to tam več kot povem.
+
+789
+00:54:24,000 --> 00:54:29,000
+Jaz sem tam prišel leta 2016, pa je bilo že več let staro.
+
+790
+00:54:30,000 --> 00:54:37,000
+A pa imaš občutek, da ta komuniti ima pritok mladih začetnikov?
+
+791
+00:54:38,000 --> 00:54:40,000
+Ja, do neke mere se mi zdi, da kar pridajo.
+
+792
+00:54:40,000 --> 00:54:43,000
+Ljudje tako pripeljajo kakšne svoje sodelovce.
+
+793
+00:54:45,000 --> 00:54:49,000
+No pa včasih kar tako iz vogala skoče čist novi ljudje,
+
+794
+00:54:49,000 --> 00:54:54,000
+ko so kakšni majstri recimo, pa imajo kakšno predavanje,
+
+795
+00:54:54,000 --> 00:54:56,000
+ali pa znajo kaj pametnega povedati.
+
+796
+00:54:57,000 --> 00:55:03,000
+Pol na druženju. Pojnt mita pa je tisto druženje pola.
+
+797
+00:55:03,000 --> 00:55:11,000
+To se mi zdi, da se skozi novo učim, da ta predavanje so fajn pa to,
+
+798
+00:55:11,000 --> 00:55:15,000
+ampak tisti žmoht, ki ga daje pa pol tista pica na konc,
+
+799
+00:55:15,000 --> 00:55:19,000
+pa kaj se pogovarjaš, pa iskreno lahko poveš kaj, ali pa povejo.
+
+800
+00:55:21,000 --> 00:55:23,000
+Pa pač to druženje, ker neenkrat se gotu vidijo,
+
+801
+00:55:23,000 --> 00:55:27,000
+da je ta movni ferni pa to iščejo, a to pa jaz znam, pa se povežaš,
+
+802
+00:55:27,000 --> 00:55:29,000
+pa je ful dodana vrednost.
+
+803
+00:55:30,000 --> 00:55:35,000
+Tako da bi priporočal na ljudem, da grejo na meetup.com,
+
+804
+00:55:35,000 --> 00:55:39,000
+pa nas najdejo, če še niso.
+
+805
+00:55:39,000 --> 00:55:41,000
+Pa prijedno naslednjega.
+
+806
+00:55:42,000 --> 00:55:49,000
+Zdaj paralela to, ki je še zadnjič si tudi promoviral
+
+807
+00:55:49,000 --> 00:55:53,000
+oziroma pomagal organizirati ar-meetup oziroma ar-ladies.
+
+808
+00:55:53,000 --> 00:55:58,000
+A lahko še o tem malo poveš, ker sem tudi to zasledil, da pomagaš.
+
+809
+00:55:58,000 --> 00:56:00,000
+Ja, če grem en korak nazaj.
+
+810
+00:56:01,000 --> 00:56:05,000
+Ko sem delal še eno delko za biologijo, je bilo tam ene par nasednjakov,
+
+811
+00:56:05,000 --> 00:56:09,000
+pa smo, ko smo v Eru delali, pa smo začeli se malo družati,
+
+812
+00:56:09,000 --> 00:56:15,000
+pa smo delali malo Erpa, kakšen problem imaš pa ti, a tako in tako.
+
+813
+00:56:15,000 --> 00:56:18,000
+Pa smo se začeli malo družati, pa povedali, da je pa še koga povab,
+
+814
+00:56:18,000 --> 00:56:20,000
+pa je nas je kar naenkrat malo več.
+
+815
+00:56:21,000 --> 00:56:27,000
+Pa smo pa rekel, da to nas je pa že reč, pa zdaj imamo pa loh ime,
+
+816
+00:56:27,000 --> 00:56:29,000
+pa smo rekli, da smo ar-koholiki.
+
+817
+00:56:31,000 --> 00:56:34,000
+Pa smo začeli tudi organizirati predavanja.
+
+818
+00:56:34,000 --> 00:56:38,000
+Prvo predavanje, ki sem ga imel v ta največji predavanjici,
+
+819
+00:56:38,000 --> 00:56:40,000
+pa je bilo polno.
+
+820
+00:56:40,000 --> 00:56:44,000
+Je bilo zelo veliko ljudi, jih je zanima, kaj to R,
+
+821
+00:56:44,000 --> 00:56:46,000
+pa ker veš, vsi so govorili R.
+
+822
+00:56:46,000 --> 00:56:50,000
+Še tako kot seks, vsi govorijo, da to delajo, ampak zarej sem ben,
+
+823
+00:56:50,000 --> 00:56:52,000
+ne dela, ampak samo berajo tema.
+
+824
+00:56:53,000 --> 00:56:54,000
+Al pa javni testi.
+
+825
+00:56:54,000 --> 00:56:56,000
+Al pa javni testi tudi.
+
+826
+00:56:58,000 --> 00:57:01,000
+In je bilo zelo, tako zelo navalno to,
+
+827
+00:57:01,000 --> 00:57:04,000
+pa se to nekako zvodenilo, pa sem tudi šel.
+
+828
+00:57:06,000 --> 00:57:08,000
+S faksa pa je nekako pal to.
+
+829
+00:57:08,000 --> 00:57:10,000
+Sej sicer že prej kar zamrl.
+
+830
+00:57:10,000 --> 00:57:12,000
+To mi je bil predvsem problem predavatele dobiti.
+
+831
+00:57:12,000 --> 00:57:16,000
+Ti imaš na BFJ, imaš toliko raziskovalcev,
+
+832
+00:57:17,000 --> 00:57:21,000
+pa nadelajo si vero, pa nekako hitro vsako predavati,
+
+833
+00:57:21,000 --> 00:57:23,000
+skrma in potem zmanjka.
+
+834
+00:57:23,000 --> 00:57:26,000
+Nismo pa takrat šli toliko ven, da bi ...
+
+835
+00:57:27,000 --> 00:57:32,000
+In ta R ladies je bistvo bolj na začetku
+
+836
+00:57:33,000 --> 00:57:37,000
+s tem novim preporodom ali kaj ne rečem.
+
+837
+00:57:38,000 --> 00:57:43,000
+V bistvu pa imamo pa ti alkoholiki, imamo tudi nek slek kanal
+
+838
+00:57:44,000 --> 00:57:47,000
+in tam se je zbrali kar nekaj teh ljudi
+
+839
+00:57:47,000 --> 00:57:51,000
+in so ene punce rekli, kaj pa če bi imeli mi R ladies meetup,
+
+840
+00:57:51,000 --> 00:57:54,000
+kaj pa v bistvu kar svetovna inicijativa,
+
+841
+00:57:54,000 --> 00:58:00,000
+ker imaš različna mesta po svetu, imajo pač te chapters,
+
+842
+00:58:00,000 --> 00:58:04,000
+nekaj poglavja, nekaj odseke in organizirajo,
+
+843
+00:58:04,000 --> 00:58:08,000
+kjer punce ponovat ali pa ženske nekako povejo kaj delajo
+
+844
+00:58:09,000 --> 00:58:13,000
+in je tako, ko gledaš te videje ali pa bereš v tem resko nevrjetno,
+
+845
+00:58:13,000 --> 00:58:15,000
+kaj se vse dela.
+
+846
+00:58:15,000 --> 00:58:19,000
+In tudi imamo v Sloveniji ene par tih zanesenjak,
+
+847
+00:58:20,000 --> 00:58:23,000
+ki organizirajo to. Jaz cicer pač malo pomagam,
+
+848
+00:58:23,000 --> 00:58:28,000
+kukr pač lahko, ampak te glavne so pa one,
+
+849
+00:58:28,000 --> 00:58:30,000
+tako da jaz tam sam sem privesek.
+
+850
+00:58:30,000 --> 00:58:33,000
+Lahko, nekako povezano s tem še vprašam,
+
+851
+00:58:33,000 --> 00:58:38,000
+a nam lahko poveš recimo mogoče par inštitucij
+
+852
+00:58:38,000 --> 00:58:41,000
+ali pa firm ali pa organizacij, za katere veš,
+
+853
+00:58:41,000 --> 00:58:43,000
+da recimo v Sloveniji uporabljajo R?
+
+854
+00:58:43,000 --> 00:58:49,000
+Zelo tako za občutek, da so to startupi
+
+855
+00:58:49,000 --> 00:58:52,000
+ali velike firme, male banke.
+
+856
+00:58:52,000 --> 00:58:55,000
+Ena največja firma, ki jo poznam je Univerzal Ljubljani,
+
+857
+00:58:55,000 --> 00:58:58,000
+zelo masenine, podružene fakultete.
+
+858
+00:58:59,000 --> 00:59:02,000
+Mogoče teološka lih tega ne dela, ampak Filofax.
+
+859
+00:59:02,000 --> 00:59:05,000
+Če bom pravil na Filofaxu, verjetno zakašno.
+
+860
+00:59:06,000 --> 00:59:07,000
+SPSS.
+
+861
+00:59:07,000 --> 00:59:11,000
+Pa na teološki tudi, koliko angeloloka pleše na koncu igle,
+
+862
+00:59:11,000 --> 00:59:13,000
+kaj ima lože vprašanje včasih.
+
+863
+00:59:14,000 --> 00:59:16,000
+Razrezala zdej v naše.
+
+864
+00:59:17,000 --> 00:59:19,000
+Ne, pa seveda to je čisto ložko vprašanje.
+
+865
+00:59:21,000 --> 00:59:25,000
+Se pravi, da se pravi raziskovalci iz različnih inštitucij.
+
+866
+00:59:26,000 --> 00:59:28,000
+Ogromno tega R-a.
+
+867
+00:59:30,000 --> 00:59:34,000
+Vem, da največja sistemska banka v Sloveniji tudi uporablja R.
+
+868
+00:59:40,000 --> 00:59:44,000
+Se mi zdi, da je velik firam, kjer so nekje ljudje,
+
+869
+00:59:47,000 --> 00:59:51,000
+ki so raziskovalno osmerjeni, je R hiter tugov urodje,
+
+870
+00:59:52,000 --> 00:59:56,000
+ki ga uporabljaš. Je pa tudi Python tisto zelo velikrat,
+
+871
+00:59:58,000 --> 01:00:00,000
+nekako to nišo za sebe.
+
+872
+01:00:02,000 --> 01:00:05,000
+Ampak se mi zdi, da je R zelo pogosten.
+
+873
+01:00:08,000 --> 01:00:11,000
+Mogoče jaz bi se mogao sest, pa začeti se napisati.
+
+874
+01:00:11,000 --> 01:00:14,000
+Zanimalo me, koliko je uporabnikov.
+
+875
+01:00:14,000 --> 01:00:16,000
+Če je res nekaj, ne poznam.
+
+876
+01:00:19,000 --> 01:00:21,000
+Ne govoriš moraš.
+
+877
+01:00:21,000 --> 01:00:24,000
+Ja, vem, da imaš piste na več izkušenja.
+
+878
+01:00:28,000 --> 01:00:31,000
+Poli community stvari, si tudi podcaste snimate.
+
+879
+01:00:32,000 --> 01:00:35,000
+Vse na začetku povedal, da metamorfoza.
+
+880
+01:00:35,000 --> 01:00:37,000
+Nismo dovolj povdarila.
+
+881
+01:00:37,000 --> 01:00:39,000
+Po moje neč nismo to povedali.
+
+882
+01:00:40,000 --> 01:00:43,000
+Ne vem še kaj, da bomo najprej sponzori.
+
+883
+01:00:45,000 --> 01:00:47,000
+To je dober klip.
+
+884
+01:00:47,000 --> 01:00:51,000
+Tukaj na Mizi imamo danes stikerje od Aurora Coworking.
+
+885
+01:00:52,000 --> 01:00:54,000
+Aurora Coworking je ta...
+
+886
+01:00:57,000 --> 01:01:01,000
+community, ta space, kjer danes gostimo in se zahvaljujemo
+
+887
+01:01:01,000 --> 01:01:05,000
+za priložnost, da lahko tukaj danes snemamo v malo drugačnem
+
+888
+01:01:06,000 --> 01:01:09,000
+setupu in v malo drugačnem mizo kot ponavadi.
+
+889
+01:01:09,000 --> 01:01:12,000
+Tako da hvala Hoseja in prijatelji za to priložnost.
+
+890
+01:01:13,000 --> 01:01:17,000
+Podjetje 3FS pa Human Frog sta se odločila, da tudi letos
+
+891
+01:01:17,000 --> 01:01:19,000
+nam bote dala podporo.
+
+892
+01:01:19,000 --> 01:01:23,000
+Tako da tudi njim se zahvaljujemo, da lahko to ustvarjamo.
+
+893
+01:01:23,000 --> 01:01:26,000
+In pa seveda Patreonom, kjer nas tudi potpirajo.
+
+894
+01:01:26,000 --> 01:01:29,000
+Da lažje ustvarjamo te ZD-ve in nekaj stroško odneseva.
+
+895
+01:01:29,000 --> 01:01:33,000
+Tako da hvala vsem, ki nas potpirate in nam pomagate,
+
+896
+01:01:33,000 --> 01:01:35,000
+da se zahvaljujemo naprej.
+
+897
+01:01:35,000 --> 01:01:38,000
+Če hočete se malo več pogovarjati z nami, pa prite
+
+898
+01:01:38,000 --> 01:01:41,000
+tudi na Discord, kjer lahko temu razvijamo še naprej.
+
+899
+01:01:41,000 --> 01:01:43,000
+Mislim, da si tudi ti tam.
+
+900
+01:01:43,000 --> 01:01:46,000
+Jaz sem tudi tam popovrnil včasih.
+
+901
+01:01:46,000 --> 01:01:49,000
+In odgovarjaš tudi, to sem videl.
+
+902
+01:01:49,000 --> 01:01:52,000
+Zdaj pa lahko je ti, modajš nasednje vprašanje.
+
+903
+01:01:52,000 --> 01:01:54,000
+Jaz imam samo vprašanje, gledaj sponzor.
+
+904
+01:01:54,000 --> 01:01:57,000
+A Human Frog je tudi tako kot Human Fish, pa da imajo pivo
+
+905
+01:01:57,000 --> 01:01:59,000
+ali imajo kaj drugega?
+
+906
+01:01:59,000 --> 01:02:02,000
+Human Frog je firma, ki je prej bila znana kot
+
+907
+01:02:02,000 --> 01:02:06,000
+Group in so zdaj to rebrandali, pa mislim, da so neke firme
+
+908
+01:02:06,000 --> 01:02:09,000
+Equisition naredili in so se malo povečali, zrastli in so temu
+
+909
+01:02:09,000 --> 01:02:11,000
+primerno se tudi rebrandali.
+
+910
+01:02:11,000 --> 01:02:15,000
+Tako da so, ne bom rekel agency, ampak
+
+911
+01:02:15,000 --> 01:02:20,000
+celovit suet paketov za IT recimo.
+
+912
+01:02:20,000 --> 01:02:23,000
+Ja, z njimi je lažje.
+
+913
+01:02:25,000 --> 01:02:31,000
+Ja, jaz sem hotel podsnimati ta podcast Metamorfoza.
+
+914
+01:02:32,000 --> 01:02:37,000
+In potem dvasto zanč poslušam in potem berem pač nekaj te
+
+915
+01:02:37,000 --> 01:02:41,000
+znanstvenih, ne gli znanstvenih članka, ampak berem pač te
+
+916
+01:02:41,000 --> 01:02:44,000
+novice o znanosti.
+
+917
+01:02:44,000 --> 01:02:48,000
+In pa pač ta AI je tudi fulj, fulj popularen.
+
+918
+01:02:48,000 --> 01:02:53,000
+In zdaj pred leti je bilo cilj kup teh algoritmov, ki delajo
+
+919
+01:02:53,000 --> 01:02:56,000
+ta protein unfolding.
+
+920
+01:02:56,000 --> 01:02:58,000
+Verjetno folding ampak, ok.
+
+921
+01:02:58,000 --> 01:03:00,000
+Folding, ja, sorry.
+
+922
+01:03:00,000 --> 01:03:03,000
+Unfolding, ampak vse je isto.
+
+923
+01:03:03,000 --> 01:03:04,000
+Ok.
+
+924
+01:03:04,000 --> 01:03:07,000
+In pač me tako pač zanima,
+
+925
+01:03:09,000 --> 01:03:12,000
+bilo je v bistvu tako, ljudje so rekli, ok, kjere moderne
+
+926
+01:03:12,000 --> 01:03:15,000
+tehnologije so zdaj v bistvu neklih bistvene za človeštvo,
+
+927
+01:03:15,000 --> 01:03:18,000
+ampak tako dejansko, aplikativno, zanimive in potem ta
+
+928
+01:03:18,000 --> 01:03:21,000
+chat GPT vsi poznamo, ampak ena izmed teh je bila pa tudi
+
+929
+01:03:21,000 --> 01:03:23,000
+v bistvu ta protein folding.
+
+930
+01:03:23,000 --> 01:03:25,000
+Pa me zanima, ne vem, kaj si ti v tem misliš, kaj je to,
+
+931
+01:03:25,000 --> 01:03:27,000
+mogoče nam lahko kaj poveš.
+
+932
+01:03:27,000 --> 01:03:31,000
+Ja, ti imaš, če gremo malo nazaj, ne, tist, ki sem omenil,
+
+933
+01:03:31,000 --> 01:03:35,000
+DNK imaš in iz tega DNK je nastavljeno v proteini.
+
+934
+01:03:35,000 --> 01:03:38,000
+Ampak to ni samo zapis nekih aminokislin, ampak je tudi
+
+935
+01:03:38,000 --> 01:03:41,000
+oblik, v katero so zloženi.
+
+936
+01:03:41,000 --> 01:03:45,000
+To je zelo kompleksen proces, kako se to zlaga in ga je zelo
+
+937
+01:03:45,000 --> 01:03:51,000
+težko v laboratoriju za vse proteine nekak eksperimentalno
+
+938
+01:03:52,000 --> 01:03:56,000
+narediti in potem pogledati, kaj je struktura.
+
+939
+01:03:56,000 --> 01:04:02,000
+In seveda pa probaš bližno vse pogruntati in kako bi računalnik
+
+940
+01:04:02,000 --> 01:04:06,000
+naučil, da ti daš noter input, pa output.
+
+941
+01:04:06,000 --> 01:04:10,000
+Zdaj se pa nauči, kako se je tole zvila.
+
+942
+01:04:10,000 --> 01:04:15,000
+In te simulacije pridejo prav lik za to, da v bistvu ti
+
+943
+01:04:15,000 --> 01:04:20,000
+probaš napovedati, kako se bo nek protein, ki si ga sam naredil,
+
+944
+01:04:20,000 --> 01:04:30,000
+ti narediš DNK in vstaviš bakterijo v glivo in ti bo naredila ta proteina.
+
+945
+01:04:30,000 --> 01:04:35,000
+Ampak ti lahko že naprej probaš napovedati, kako se bo zvil
+
+946
+01:04:35,000 --> 01:04:39,000
+in potem seveda od tega zvijanja je odvisno kakšna je njegova funkcija.
+
+947
+01:04:39,000 --> 01:04:41,000
+A bo delal ali ne bo delal.
+
+948
+01:04:41,000 --> 01:04:47,000
+In so te veliki sistemi uporabni lik za to.
+
+949
+01:04:47,000 --> 01:04:52,000
+Rabaš pa ogromno v računalniški moči lik za to.
+
+950
+01:04:52,000 --> 01:04:58,000
+Če se ukvarjaš, če si v takoj branži, kakšna biotehnologija,
+
+951
+01:04:58,000 --> 01:05:03,000
+pa mogoče tam je to zelo pogosto, da probajo razvijati neke
+
+952
+01:05:03,000 --> 01:05:09,000
+produkte, da boš delal biodizol ali nekaj in hočeš spleten protein
+
+953
+01:05:09,000 --> 01:05:15,000
+za to, da bo več tega ali manj odpadka ali kaj tasga.
+
+954
+01:05:16,000 --> 01:05:20,000
+To so zelo zanimive tehnologije, zares pa ne imam pregleda
+
+955
+01:05:20,000 --> 01:05:27,000
+nad tem, kako so dejansko, kakšna je ta ROI, kako se je splačalo to.
+
+956
+01:05:27,000 --> 01:05:30,000
+Return on Investment.
+
+957
+01:05:30,000 --> 01:05:36,000
+Ni to moje primarno področje, tako da nisem zares domač v tem.
+
+958
+01:05:36,000 --> 01:05:44,000
+Sam videl sem, da se to nekaj prepogiba, pa da je full breakthrough.
+
+959
+01:05:44,000 --> 01:05:46,000
+To je dobra animacija.
+
+960
+01:05:46,000 --> 01:05:49,000
+Ja, vem, ful se lepo sliši, ful se lepo vidi.
+
+961
+01:05:49,000 --> 01:05:57,000
+Vem, da so ljudje v neki game igrali z nekim foldanjem in so potem
+
+962
+01:05:57,000 --> 01:06:02,000
+anotacije delali, da so neki data sete dobili ali pretekli.
+
+963
+01:06:02,000 --> 01:06:07,000
+So to zelo hardcore probleme in težko je razviti.
+
+964
+01:06:08,000 --> 01:06:12,000
+Mislim, bolj včasih pač mam dometno.
+
+965
+01:06:12,000 --> 01:06:15,000
+Jaz sem že bil s tobim pri hrana.
+
+966
+01:06:15,000 --> 01:06:19,000
+Ko smo se z Andražem tudi pogovarjali, kaj bomo se pogovarjali,
+
+967
+01:06:19,000 --> 01:06:26,000
+danes sem rekel, brodo, ko bo konec sveta, jaz grem k Romanu.
+
+968
+01:06:26,000 --> 01:06:31,000
+Se je rekel, Roman je tisti, kateri bojo skočili konec sveta priživeti.
+
+969
+01:06:31,000 --> 01:06:33,000
+Pa je rekel, ja, sem rekel, zakaj.
+
+970
+01:06:33,000 --> 01:06:37,000
+Ja, Roman je tisti, ki bo oborožen.
+
+971
+01:06:39,000 --> 01:06:42,000
+Veda bo, kaj se v kroku dogaja.
+
+972
+01:06:44,000 --> 01:06:47,000
+Najbolj pomembno se je pozabil, dobra družba bo.
+
+973
+01:06:47,000 --> 01:06:52,000
+Dobra družba bo, plesalno prejmo domašče, tako da tudi štriki kakimi ne bo problem.
+
+974
+01:06:52,000 --> 01:06:54,000
+Tako da ci si pripravljali.
+
+975
+01:06:54,000 --> 01:06:57,000
+Pa še štrik imamo pri njih, tako da nismo čez pokliti.
+
+976
+01:06:57,000 --> 01:07:04,000
+Zdaj, a gremo se pogovarjati malo, da nam poveš, kaj si delal kot
+
+977
+01:07:04,000 --> 01:07:10,000
+praktesing data scientist v prisledilniku?
+
+978
+01:07:10,000 --> 01:07:11,000
+Nam to malo poveš?
+
+979
+01:07:11,000 --> 01:07:17,000
+Al pa nam malo poveš, zakaj danes dobro imeti svoje rezenale urože?
+
+980
+01:07:17,000 --> 01:07:18,000
+V boje lahko.
+
+981
+01:07:18,000 --> 01:07:19,000
+Lahko nam v boje poveš.
+
+982
+01:07:19,000 --> 01:07:20,000
+Ja, se to...
+
+983
+01:07:20,000 --> 01:07:21,000
+A se to dopovnjuje?
+
+984
+01:07:24,000 --> 01:07:25,000
+Ne.
+
+985
+01:07:26,000 --> 01:07:32,000
+Drgače, to je že druga oseba, ki je rekla, da bi me imela sabo na samotnem otoku.
+
+986
+01:07:34,000 --> 01:07:42,000
+Drgače, pa v prisledilniku, jaz sem relativno malo bil aktiven, tako malo bolj aktiven.
+
+987
+01:07:42,000 --> 01:07:47,000
+Sicer lrkam skozi na sleku, nekako spremljam približno, kaj se dogajam.
+
+988
+01:07:47,000 --> 01:07:49,000
+In zgodbe so zelo zanimive.
+
+989
+01:07:50,000 --> 01:07:55,000
+Moj del je bil na začetku, ko se je vse skupaj z koronom začelo.
+
+990
+01:07:55,000 --> 01:07:58,000
+Korona je en tak virus, ki je bil pred leti popularen.
+
+991
+01:07:58,000 --> 01:07:59,000
+Evo, hvala.
+
+992
+01:07:59,000 --> 01:08:08,000
+In je, ko se je vse začelo, pa smo prišli na idejo, kako bi ocenili,
+
+993
+01:08:08,000 --> 01:08:10,000
+koliko je tega virusa.
+
+994
+01:08:10,000 --> 01:08:13,000
+Na začetku je bilo tega relativno malo.
+
+995
+01:08:13,000 --> 01:08:20,000
+In pa sem, recimo, napisal simulacijo, da sem ocenil, koliko ljudi bi mogli testirati,
+
+996
+01:08:20,000 --> 01:08:24,000
+da bi sploh dobili lohka nek zanesljiv podatka.
+
+997
+01:08:24,000 --> 01:08:33,000
+Ker, če imaš tudi nekaj virusa, ki ga na začetku še ni in ga je zelo malo,
+
+998
+01:08:33,000 --> 01:08:36,000
+in ga je zelo težko detektirati,
+
+999
+01:08:36,000 --> 01:08:40,000
+rabeš zelo veliko ljudi pozorčati, da ga sploh zaznaš.
+
+1000
+01:08:40,000 --> 01:08:43,000
+Ker, če z to ljudi pozorčaš, je nič.
+
+1001
+01:08:43,000 --> 01:08:45,000
+V konec, z nič namorš.
+
+1002
+01:08:45,000 --> 01:08:47,000
+To namorš v intervalu.
+
+1003
+01:08:47,000 --> 01:08:50,000
+Zato sem takrat zračunal.
+
+1004
+01:08:50,000 --> 01:08:53,000
+Smo dali tudi to na internet.
+
+1005
+01:08:53,000 --> 01:08:56,000
+In pa so na FRI v to.
+
+1006
+01:08:56,000 --> 01:09:02,000
+Oni so bili podpora za imi, se mi zdi, ki so pozorčali.
+
+1007
+01:09:02,000 --> 01:09:08,000
+In pa so naredili prvo študijo na svetu, kjer so ocenili prevalence virusa v populaciji.
+
+1008
+01:09:09,000 --> 01:09:12,000
+In so prišli do podobnih števil, kaj jaz.
+
+1009
+01:09:12,000 --> 01:09:15,000
+To je bila taka validacija.
+
+1010
+01:09:15,000 --> 01:09:18,000
+Potem sem nekaj pomagal v nekih pipelinejih,
+
+1011
+01:09:18,000 --> 01:09:21,000
+ki so se obnavljali podatki,
+
+1012
+01:09:21,000 --> 01:09:24,000
+pa potem update-ali na spletno stran.
+
+1013
+01:09:24,000 --> 01:09:26,000
+To je bilo bolj ali manj to.
+
+1014
+01:09:26,000 --> 01:09:29,000
+Jaz pa na sestankih sem bil v tečanj,
+
+1015
+01:09:29,000 --> 01:09:33,000
+ker se je daro na ljudi, ne bojo tih, pa naj zdaj nekdo drug še kaj pove.
+
+1016
+01:09:34,000 --> 01:09:37,000
+Zmeram, da ni pingponga, ne dveh.
+
+1017
+01:09:37,000 --> 01:09:40,000
+Ostalih 18 nas na kolo, pa pač gleda v zrak.
+
+1018
+01:09:40,000 --> 01:09:43,000
+Ljubitelj efektivnosti.
+
+1019
+01:09:43,000 --> 01:09:50,000
+Ne, efektivnosti, jaz ful čutim to potrebo, da je prav.
+
+1020
+01:09:50,000 --> 01:09:52,000
+Da je fair.
+
+1021
+01:09:52,000 --> 01:09:56,000
+In če imaš ti ljudi tam, ki vem, da so inteligentni, pa imajo kaj zapovedati,
+
+1022
+01:09:56,000 --> 01:10:00,000
+ampak nima tazga značaja, da bi se oglasili,
+
+1023
+01:10:00,000 --> 01:10:04,000
+pa stopili nekomu na nogo, pa zdaj pa jaz nekaj povedem.
+
+1024
+01:10:04,000 --> 01:10:07,000
+Zdaj pa pač jaz sem ta grdka, pač to naredim.
+
+1025
+01:10:07,000 --> 01:10:10,000
+Roman je v bistvu rojen skramaster, sanj še ne vej.
+
+1026
+01:10:10,000 --> 01:10:13,000
+Ja, to ne bi bil jaz, Drago.
+
+1027
+01:10:17,000 --> 01:10:20,000
+To je bil moj instint presledilnikov nekak.
+
+1028
+01:10:20,000 --> 01:10:22,000
+Je pa hudiča.
+
+1029
+01:10:22,000 --> 01:10:25,000
+Sestanki za sledilnik so v Bosnih devetih zvečer,
+
+1030
+01:10:25,000 --> 01:10:27,000
+jaz sem pa takrat že spužva.
+
+1031
+01:10:27,000 --> 01:10:31,000
+Jaz bi imel sestanko v šestih zutri, ampak to nekak ni posluha.
+
+1032
+01:10:31,000 --> 01:10:33,000
+Zakaj le?
+
+1033
+01:10:36,000 --> 01:10:39,000
+Če bi pa kdo kaj delal presledilnikov, pa ne,
+
+1034
+01:10:39,000 --> 01:10:42,000
+nekaj skontakteral, zdi se za koga kaj najde.
+
+1035
+01:10:43,000 --> 01:10:47,000
+A nam lahko zdaj k poveške v svojih rezonalo, ali nam ne boš?
+
+1036
+01:10:47,000 --> 01:10:53,000
+Ja, jaz sem že odnekdaj bil fulno dušen nad kontrapcijam,
+
+1037
+01:10:53,000 --> 01:10:55,000
+nad nasploh tak gig.
+
+1038
+01:10:55,000 --> 01:10:59,000
+Ne sanj žvali, ampak tudi naprave, pa tudi orožje.
+
+1039
+01:10:59,000 --> 01:11:03,000
+To je tako drg špas, relativno drg špas.
+
+1040
+01:11:03,000 --> 01:11:06,000
+In nisem nikoli imel nekega dostopa do tega.
+
+1041
+01:11:06,000 --> 01:11:08,000
+Razen mogoče zračna puška.
+
+1042
+01:11:08,000 --> 01:11:12,000
+Pa sem pa nekak, ka som začel plačati, dobivati,
+
+1043
+01:11:12,000 --> 01:11:16,000
+sem pa pal tudi si umislil prvo tisto.
+
+1044
+01:11:16,000 --> 01:11:17,000
+Lego kocke.
+
+1045
+01:11:17,000 --> 01:11:19,000
+Sorry, kaj?
+
+1046
+01:11:20,000 --> 01:11:23,000
+Ne vem, da sem bil nad kalašnikom zmerjeno dušen,
+
+1047
+01:11:23,000 --> 01:11:27,000
+pa sem si pa pač kupil civilno verzijo tega.
+
+1048
+01:11:28,000 --> 01:11:31,000
+Tako pa pa, pa se pa pač učljanaš v ta društva,
+
+1049
+01:11:31,000 --> 01:11:36,000
+pa hodoš pa na nekakšne srečanja, te tekme.
+
+1050
+01:11:36,000 --> 01:11:40,000
+Je pa upozoriljo, ne, to je soseč fest, tako da
+
+1051
+01:11:40,000 --> 01:11:42,000
+to so sami tipi po nama.
+
+1052
+01:11:42,000 --> 01:11:47,000
+Je pa ful zanimiv šport, tako men to, pač orožje.
+
+1053
+01:11:47,000 --> 01:11:51,000
+Jaz ga bolj vidim kot orožje, se mi zdi.
+
+1054
+01:11:51,000 --> 01:11:55,000
+Pač je zelo glasno poč, ampak mi je fascinantno,
+
+1055
+01:11:55,000 --> 01:11:57,000
+kako je to narejen.
+
+1056
+01:11:57,000 --> 01:12:01,000
+Jaz tudi si pa za nekatero orožje sam delam municijo.
+
+1057
+01:12:01,000 --> 01:12:07,000
+Što se zgubiš v tem, kako smudnika, kakšno kuglo,
+
+1058
+01:12:07,000 --> 01:12:10,000
+kako tulc pripraviti.
+
+1059
+01:12:10,000 --> 01:12:13,000
+To je tako zelo zelo dobro hobby.
+
+1060
+01:12:14,000 --> 01:12:16,000
+Boljko časa lahko se tešte.
+
+1061
+01:12:16,000 --> 01:12:19,000
+Ja, ja, ja, taj mislim, spet se že ponavljam,
+
+1062
+01:12:19,000 --> 01:12:22,000
+to lahko vržeš v obrani tega in pal to delajo.
+
+1063
+01:12:22,000 --> 01:12:27,000
+In pal imaš ljudi, ki pimpajo svoje kose sploh te
+
+1064
+01:12:27,000 --> 01:12:29,000
+kakšni ustrostreljci.
+
+1065
+01:12:29,000 --> 01:12:36,000
+To je znanost zase, ampak v Sloveniji to še kar razvito.
+
+1066
+01:12:36,000 --> 01:12:39,000
+A je razvito? Mislim, se ti zdi, da se razvija
+
+1067
+01:12:39,000 --> 01:12:42,000
+tudi ta scena v Sloveniji?
+
+1068
+01:12:42,000 --> 01:12:45,000
+No, tako ne bi rekel.
+
+1069
+01:12:45,000 --> 01:12:50,000
+V Sloveniji imaš tretjo ali največje organizacijo,
+
+1070
+01:12:50,000 --> 01:12:52,000
+ki so lovci.
+
+1071
+01:12:52,000 --> 01:12:55,000
+Lovci pa vsak ima orožje, tako da z res orožje je
+
+1072
+01:12:55,000 --> 01:12:57,000
+ful veliko v Sloveniji.
+
+1073
+01:12:57,000 --> 01:13:00,000
+Samo je pač tako v nekih subkulturah.
+
+1074
+01:13:02,000 --> 01:13:05,000
+Lovci so zelo subkultura.
+
+1075
+01:13:05,000 --> 01:13:09,000
+Oni imajo svoje obrede, uniforme, zvezo.
+
+1076
+01:13:09,000 --> 01:13:11,000
+Državno tepovanje v ruganju.
+
+1077
+01:13:11,000 --> 01:13:13,000
+V rukanju, ja.
+
+1078
+01:13:13,000 --> 01:13:15,000
+Veš, kaj je ruk?
+
+1079
+01:13:15,000 --> 01:13:17,000
+Klicanje jelena.
+
+1080
+01:13:17,000 --> 01:13:21,000
+Ruk je oglašanje jelenov, ki se parijo.
+
+1081
+01:13:21,000 --> 01:13:23,000
+Pa veš, zakaj se reče ruk?
+
+1082
+01:13:23,000 --> 01:13:26,000
+Zato, ker jeleni ne znajo reči črke F.
+
+1083
+01:13:29,000 --> 01:13:32,000
+In imaš v glavnem tega nekaj sam.
+
+1084
+01:13:32,000 --> 01:13:35,000
+Ponataj pa možeš nekako prideti v to noter,
+
+1085
+01:13:35,000 --> 01:13:37,000
+ponataj pa nekdo.
+
+1086
+01:13:37,000 --> 01:13:40,000
+To ni tako, da greš na vrata. Jaz bi rad strelal.
+
+1087
+01:13:40,000 --> 01:13:44,000
+Greš na strelišče. V Ljubljani imamo komercijalno strelišče.
+
+1088
+01:13:46,000 --> 01:13:48,000
+Najlažji pa tako, da poznaš komercijalno.
+
+1089
+01:13:48,000 --> 01:13:50,000
+Kaj so te največji?
+
+1090
+01:13:54,000 --> 01:13:57,000
+Kaj nima stika z orožjem sploh?
+
+1091
+01:13:57,000 --> 01:14:01,000
+Gaj spremlja preko ameriških filmov in medijev?
+
+1092
+01:14:02,000 --> 01:14:04,000
+Ti se vse larifari.
+
+1093
+01:14:04,000 --> 01:14:08,000
+Kaj je največja razlika, ki jo doživiš,
+
+1094
+01:14:08,000 --> 01:14:12,000
+ko se spoznaš na slovenski prostor?
+
+1095
+01:14:12,000 --> 01:14:16,000
+Ali smo bolj regulirani v Sloveniji?
+
+1096
+01:14:16,000 --> 01:14:18,000
+Ali smo manj?
+
+1097
+01:14:18,000 --> 01:14:20,000
+Ali je ful problem s tem?
+
+1098
+01:14:20,000 --> 01:14:23,000
+Kot nekoga, ki ga zanima tehnološki aspekt tega.
+
+1099
+01:14:23,000 --> 01:14:26,000
+Meni se zdi, da imamo v Sloveniji rožno zakonodajo,
+
+1100
+01:14:26,000 --> 01:14:28,000
+ki je kar dobra.
+
+1101
+01:14:28,000 --> 01:14:30,000
+Je še kar regulirana.
+
+1102
+01:14:32,000 --> 01:14:34,000
+Načeloma lahko vsak dobi orožje,
+
+1103
+01:14:34,000 --> 01:14:36,000
+ki ima nekaj upravičljiv razlog.
+
+1104
+01:14:37,000 --> 01:14:40,000
+Ponovrat pa, če si obsojen za kaznjiva dejanja
+
+1105
+01:14:40,000 --> 01:14:43,000
+z elementi nasilja, potem lečejo.
+
+1106
+01:14:43,000 --> 01:14:47,000
+Ampak taki ljudi si dosti tudi preko drugih kanalov dobijo.
+
+1107
+01:14:49,000 --> 01:14:54,000
+Jaz imam na forumu Strelec eno nit,
+
+1108
+01:14:54,000 --> 01:14:57,000
+kjer dajemo noter vse novice
+
+1109
+01:14:57,000 --> 01:15:00,000
+s področja orožja, strelec.
+
+1110
+01:15:00,000 --> 01:15:05,280
+v Sloveniji. To sprema že deset plus let.
+
+1111
+01:15:05,280 --> 01:15:09,480
+Kar nisi na Stack Overflow, si na Strelje Spikes C, jel?
+
+1112
+01:15:09,480 --> 01:15:11,600
+Skoraj, ja.
+
+1113
+01:15:11,600 --> 01:15:16,959
+Je zelo popularna nit, zelo velik, in enkrat bom vzel si čas
+
+1114
+01:15:16,959 --> 01:15:21,320
+in bom šel analizirati. In se mi zdi, da ni problem.
+
+1115
+01:15:21,320 --> 01:15:25,680
+Sej so urože udeleženo okaznivih dejanih, ampak se mi zdi,
+
+1116
+01:15:25,680 --> 01:15:29,240
+da je tega tako. Kukar bi človek iz filmov mislil, da je tega
+
+1117
+01:15:29,240 --> 01:15:32,680
+ful velik, pa je zares relativno malo.
+
+1118
+01:15:32,680 --> 01:15:36,720
+Zelo z legalnim urožjem. Ti moraš vedeti, da legalni lastniki
+
+1119
+01:15:36,720 --> 01:15:40,119
+urožja smo postani cucki. Mi se bojimo kar koli narediti
+
+1120
+01:15:40,119 --> 01:15:44,279
+zato, da nam navajo zelo urožja. Isto lovci, recimo.
+
+1121
+01:15:44,279 --> 01:15:51,840
+In tako, kar se spoštuje. To je moja asociacija nad filme,
+
+1122
+01:15:51,840 --> 01:15:57,000
+ampak je to sreko. Kakšen šok dobiš, ko prideš na strelišče.
+
+1123
+01:15:57,000 --> 01:16:03,360
+To je retni disciplina. To ni nekaj maha.
+
+1124
+01:16:03,360 --> 01:16:05,879
+Prvo, ko to naredi, gre kar dam.
+
+1125
+01:16:05,879 --> 01:16:09,879
+Že tudi, ko si na poligo. Samo, da na robe pokažeš,
+
+1126
+01:16:09,879 --> 01:16:13,879
+usmerdaš urožje. Samo zapiskajo, pospraviš in greš dam.
+
+1127
+01:16:13,879 --> 01:16:18,080
+Na prvem mestu je varnost, na drugem mestu je varnost,
+
+1128
+01:16:18,080 --> 01:16:21,239
+na tretjem mestu je varnost. Potem začnema počas strelati.
+
+1129
+01:16:21,239 --> 01:16:25,239
+Tudi se mi zdi, da je nesrečje z urožjem pri nas tudi relativno malo.
+
+1130
+01:16:25,239 --> 01:16:29,239
+Vse pa dogajajo. Sploh, recimo, lovci imajo to nesrečo,
+
+1131
+01:16:29,239 --> 01:16:33,239
+ker so v lovišču, tam se pa krko lahko zgodi.
+
+1132
+01:16:33,239 --> 01:16:37,239
+Ti odnese kuglo, nekaj drgam, ali pa slišaš ugarmove,
+
+1133
+01:16:37,239 --> 01:16:40,239
+ki pa k enotu strelijo, pa pač loj zjebiva.
+
+1134
+01:16:40,239 --> 01:16:44,239
+Tudi to se je zgodilo. Se pravim, to so tako izjeme.
+
+1135
+01:16:45,239 --> 01:16:49,239
+Boš ti nadgradil to vprašanje?
+
+1136
+01:16:49,239 --> 01:16:55,239
+Da bomo še kaj, že našemu balončku korekdi.
+
+1137
+01:16:55,239 --> 01:17:00,239
+Meni je bilo ful dober. Enkrat smo se fureli z kolesi po barju.
+
+1138
+01:17:00,239 --> 01:17:05,239
+In pa sem v bistvu, pač to je bilo amazing izkušnje,
+
+1139
+01:17:05,239 --> 01:17:09,240
+zato kar pa si tako ful kot lajk, ful pozor na enih stvari.
+
+1140
+01:17:09,240 --> 01:17:12,240
+In pa mi je bilo ful fajn, ker se je rekel,
+
+1141
+01:17:12,240 --> 01:17:15,240
+a vidiš, tam raste to in to.
+
+1142
+01:17:15,240 --> 01:17:18,240
+To je v bistvu invazivna vrsta. Mi se dobivamo...
+
+1143
+01:17:18,240 --> 01:17:20,240
+Kresnik.
+
+1144
+01:17:20,240 --> 01:17:23,240
+Ne vem, pač ameriški neki ali deki neki.
+
+1145
+01:17:23,240 --> 01:17:27,240
+Folk se dobiva, pa pač, ne vem, pol proba to
+
+1146
+01:17:27,240 --> 01:17:31,240
+na barju ven izrezati.
+
+1147
+01:17:31,240 --> 01:17:37,240
+Pol, ne vem, vem, da se šteje tudi kače pesterje.
+
+1148
+01:17:37,240 --> 01:17:41,240
+Da je celkopaj enih tih zanimivih aktivnosti,
+
+1149
+01:17:41,240 --> 01:17:45,240
+ki jih pač delaš, oziroma...
+
+1150
+01:17:45,240 --> 01:17:50,240
+Pa me tako zanima, ne vem, kaj je še kaj tašnega,
+
+1151
+01:17:50,240 --> 01:17:53,240
+ki je tako, ne vem, doskrat govorimo,
+
+1152
+01:17:53,240 --> 01:17:56,240
+moramo biti pač ful eko, moramo pač, ne vem,
+
+1153
+01:17:56,240 --> 01:17:59,240
+skrbeti za naravo, so pa tudi tako pač akcije,
+
+1154
+01:17:59,240 --> 01:18:02,240
+ki ti lahko odstranjuješ invazivne vrste.
+
+1155
+01:18:02,240 --> 01:18:03,240
+Da.
+
+1156
+01:18:03,240 --> 01:18:06,240
+Pa me pač zanima, ne vem, kaj so neke stvari,
+
+1157
+01:18:06,240 --> 01:18:09,240
+ki jih pač delaš, pa so pač aktivistično,
+
+1158
+01:18:09,240 --> 01:18:12,240
+boljkurko, ker se zanima tudi v asfaltob tla.
+
+1159
+01:18:12,240 --> 01:18:16,240
+Ja, to je zares kot...
+
+1160
+01:18:16,240 --> 01:18:21,240
+Kot biolog ti tako nekako da lahko dostop
+
+1161
+01:18:21,240 --> 01:18:25,240
+do vseh teh nekih društav, ki obstajajo v Sloveniji
+
+1162
+01:18:25,240 --> 01:18:28,240
+in imaš ful različnih aktivnosti,
+
+1163
+01:18:28,240 --> 01:18:32,240
+ki se lahko im preključaš, recimo,
+
+1164
+01:18:32,240 --> 01:18:35,240
+tudi je ful fajn, ker je veliko usmerenih v to,
+
+1165
+01:18:35,240 --> 01:18:39,240
+da lahko otroke vključaš v to, tako da je zares zabavno
+
+1166
+01:18:39,240 --> 01:18:42,240
+za vsa držino, imaš pa, ne vem,
+
+1167
+01:18:42,240 --> 01:18:45,240
+za botaniko se lahko kvarjaš, pa imaš izlete pa na nekakšne kraje,
+
+1168
+01:18:45,240 --> 01:18:48,240
+ne vem, na boč, recimo, ali pa kaj tazga,
+
+1169
+01:18:48,240 --> 01:18:51,240
+kjer imaš botanično zelo zanimivo, ali pa v hribe,
+
+1170
+01:18:51,240 --> 01:18:54,240
+pa ne sanj, da greš gor na Engolaš, pa nazaj dol,
+
+1171
+01:18:54,240 --> 01:18:57,240
+ampak v mesto danes, ko še lahko kakšno rožo vidiš,
+
+1172
+01:18:57,240 --> 01:18:59,240
+pa kaj zanimivega.
+
+1173
+01:18:59,240 --> 01:19:02,240
+Društvo, ki se z metulijo kvarjajo, pa imaš izlete
+
+1174
+01:19:02,240 --> 01:19:05,240
+na razne konce Slovenije, pa popisuješ metulje,
+
+1175
+01:19:05,240 --> 01:19:08,240
+eni se raziskovalno s tem ukvarjajo,
+
+1176
+01:19:08,240 --> 01:19:11,240
+ampak velike fotkanja tih metuljev, ki je tudi
+
+1177
+01:19:11,240 --> 01:19:14,240
+mali zist o makrofotografijo,
+
+1178
+01:19:14,240 --> 01:19:17,239
+imaš kače pasterje, tako kot so meno,
+
+1179
+01:19:17,239 --> 01:19:20,239
+imaš društvo, ki preučuje to,
+
+1180
+01:19:20,239 --> 01:19:23,239
+imajo tudi tekmovanje, ne vem, kdo bo v enem dnevu
+
+1181
+01:19:23,239 --> 01:19:26,239
+več kačih pasterjev preštel, pa vrst.
+
+1182
+01:19:27,239 --> 01:19:30,239
+Imaš netopirje, imaš dvožilke,
+
+1183
+01:19:30,239 --> 01:19:33,239
+pa plezilce,
+
+1184
+01:19:35,239 --> 01:19:38,239
+ptiči, ptičari, to so največja druščina
+
+1185
+01:19:38,239 --> 01:19:41,239
+v Sloveniji, DOPS,
+
+1186
+01:19:41,239 --> 01:19:44,239
+če se zdi, kdo že za DOPS slišal,
+
+1187
+01:19:44,239 --> 01:19:47,239
+oni so tudi zelo aktivni, organizirajo različne prireditve,
+
+1188
+01:19:47,239 --> 01:19:50,239
+popis uharice, štetje vodnih ptic,
+
+1189
+01:19:50,239 --> 01:19:53,239
+aktivnosti tako res,
+
+1190
+01:19:53,239 --> 01:19:56,239
+priročnik, ful dobrih ljudi,
+
+1191
+01:19:56,239 --> 01:19:59,239
+ki ti ful radi bojo povedali, kako te bo zanimal,
+
+1192
+01:19:59,239 --> 01:20:02,239
+ti bojo pomagali, kako sprideš v to noter,
+
+1193
+01:20:02,239 --> 01:20:05,239
+literature, imaš različne priročnike,
+
+1194
+01:20:05,239 --> 01:20:08,239
+dostopni vsem, zdaj imaš na tablcah to,
+
+1195
+01:20:08,239 --> 01:20:11,239
+sploh ne rabeš več knjige na telefonu,
+
+1196
+01:20:11,239 --> 01:20:14,239
+in je ful fajn, tako ful aktivno
+
+1197
+01:20:14,239 --> 01:20:17,239
+preživljanje časa od zuni, da nisi sem takole
+
+1198
+01:20:17,239 --> 01:20:20,239
+z računalnikom noter,
+
+1199
+01:20:20,239 --> 01:20:23,239
+in je ful dostopno, pa Slovenija ima ful to srečo,
+
+1200
+01:20:23,239 --> 01:20:26,239
+da je diverziteta tukaj,
+
+1201
+01:20:26,239 --> 01:20:29,239
+ljudje si sploh ne predstavljajo,
+
+1202
+01:20:29,239 --> 01:20:32,239
+koliko imamo tukaj diverzitete, nekih različnih rastlin pa živali,
+
+1203
+01:20:32,239 --> 01:20:35,239
+recimo jaz grem
+
+1204
+01:20:35,239 --> 01:20:38,239
+junija na
+
+1205
+01:20:38,239 --> 01:20:41,239
+travnik,
+
+1206
+01:20:41,239 --> 01:20:44,239
+pa ne naj boljši travnik, ampak srednje dober travnik,
+
+1207
+01:20:44,239 --> 01:20:47,239
+in naštejem več vrst metulja, kukorih ima Nizo Zemska
+
+1208
+01:20:47,239 --> 01:20:50,239
+čez celo leto. Nizo Zemska je pač
+
+1209
+01:20:50,239 --> 01:20:53,239
+ravno, v posodje in kmetijstvo,
+
+1210
+01:20:53,239 --> 01:20:56,239
+vse je porezan in je tam relativno vničeno.
+
+1211
+01:20:56,239 --> 01:20:59,239
+Če greš na
+
+1212
+01:20:59,239 --> 01:21:02,239
+vojaško vodbišče Počaka, ne je kar tja hodati,
+
+1213
+01:21:02,239 --> 01:21:05,239
+prosim, brez dovoljena, ampak
+
+1214
+01:21:05,239 --> 01:21:08,239
+to so najboljši travniki v Sloveniji,
+
+1215
+01:21:08,239 --> 01:21:11,239
+kar sem jih jaz tudi videl. Tam gor imaš toliko različnih rož,
+
+1216
+01:21:11,239 --> 01:21:14,239
+fascinantno. Tu je več tak trip, da greš kot ljubitelj
+
+1217
+01:21:14,239 --> 01:21:17,239
+orožja in biologije na Počak, na nek izlet.
+
+1218
+01:21:17,239 --> 01:21:20,239
+Ja, sej, z eno smislo, ko gremo na
+
+1219
+01:21:20,239 --> 01:21:23,239
+kakšno vojaško vodbišče,
+
+1220
+01:21:23,239 --> 01:21:26,239
+greš Maja in
+
+1221
+01:21:26,239 --> 01:21:29,239
+Bložka Pulica, priješ gor te vijočno od Orhidej.
+
+1222
+01:21:29,239 --> 01:21:32,239
+Orhidej je tako ful ogrožena,
+
+1223
+01:21:32,239 --> 01:21:35,239
+nekatere, ampak
+
+1224
+01:21:35,239 --> 01:21:38,239
+to mi je pa tako, pač
+
+1225
+01:21:38,239 --> 01:21:41,239
+za prodajat, zato ker
+
+1226
+01:21:41,239 --> 01:21:44,239
+je ekstenzivna raba travnika,
+
+1227
+01:21:44,239 --> 01:21:47,239
+ampak kajkada je pokošeno, relativno nažgnojeno
+
+1228
+01:21:47,239 --> 01:21:50,239
+in to je to, kar orožja rapo.
+
+1229
+01:21:50,239 --> 01:21:53,239
+In je tako ful zanimivo. Zato se tudi v Sloveniji na želovarstvu
+
+1230
+01:21:53,239 --> 01:21:56,239
+nekaj tako upirajo kakšnim tem veternicam,
+
+1231
+01:21:56,239 --> 01:21:59,239
+ker uničuješ res nekaj izjemnega.
+
+1232
+01:21:59,239 --> 01:22:02,239
+Spoznam par nizozemcev, kar so se dol poženili,
+
+1233
+01:22:02,239 --> 01:22:05,239
+zato ker so bili tako navdušeni,
+
+1234
+01:22:05,239 --> 01:22:08,239
+tudi nad ženam, ampak nad tistimi pliči,
+
+1235
+01:22:08,239 --> 01:22:11,239
+predvsem, ker so jih.
+
+1236
+01:22:11,239 --> 01:22:14,239
+Dva pojtev na rav.
+
+1237
+01:22:14,239 --> 01:22:17,239
+Zdaj, počasih smo mogli to nekako prepeljati
+
+1238
+01:22:17,239 --> 01:22:20,239
+do piva in hrane.
+
+1239
+01:22:20,239 --> 01:22:23,239
+Življstvo in prehrana.
+
+1240
+01:22:23,239 --> 01:22:26,239
+Življstvo in prehrana. Rekl si, da si še sam
+
+1241
+01:22:26,239 --> 01:22:29,239
+prepravil par vprašanj, ali kaj?
+
+1242
+01:22:29,239 --> 01:22:32,239
+Pa ne vem, če smo ti dali priložnost, da spoh...
+
+1243
+01:22:32,239 --> 01:22:35,239
+Ne, desi, niso bili tako vprašani kot tako.
+
+1244
+01:22:35,239 --> 01:22:38,239
+Nekaj smo se zataknali v vseh teh temah.
+
+1245
+01:22:38,239 --> 01:22:41,239
+Še imaš?
+
+1246
+01:22:41,239 --> 01:22:44,239
+Ena zadeva, ki sem mislil, da jo bomo najedali,
+
+1247
+01:22:44,239 --> 01:22:47,239
+je, kaj je to bioinformatika.
+
+1248
+01:22:47,239 --> 01:22:50,239
+Točno, Roman je bioinformatik.
+
+1249
+01:22:50,239 --> 01:22:53,239
+Moj naziv je starosta bioinformatike.
+
+1250
+01:22:53,239 --> 01:22:56,239
+Senior bioinformatician.
+
+1251
+01:22:56,239 --> 01:22:59,239
+Ampak se mi zdi, da to je nekak,
+
+1252
+01:22:59,239 --> 01:23:02,239
+ko greš gledati online definicije,
+
+1253
+01:23:02,239 --> 01:23:05,239
+bioinformatika in kako se na data science navazuje.
+
+1254
+01:23:05,239 --> 01:23:08,239
+Meni se zdi, da je bioinformatika samo en delček
+
+1255
+01:23:08,239 --> 01:23:11,239
+data science-a.
+
+1256
+01:23:11,239 --> 01:23:14,239
+Ker data science, meni se zdi, da to je,
+
+1257
+01:23:14,239 --> 01:23:17,239
+ko so računalničari odkrili statistiko,
+
+1258
+01:23:17,239 --> 01:23:20,239
+so rekli to pol data science-a.
+
+1259
+01:23:20,239 --> 01:23:23,239
+Ker je pač programiranje zraven.
+
+1260
+01:23:23,239 --> 01:23:26,239
+Ampak zrej se je to analiza podatkov in vse,
+
+1261
+01:23:26,239 --> 01:23:29,239
+ki se tega pritiče. Od tega, da ti postaviš
+
+1262
+01:23:29,239 --> 01:23:32,239
+infrastrukturo si za to. Pa pal seveda,
+
+1263
+01:23:32,239 --> 01:23:35,239
+tisto modeliranje in tako.
+
+1264
+01:23:35,239 --> 01:23:38,239
+Ampak, ful je vedebatno, kaj je to bioinformatika.
+
+1265
+01:23:38,239 --> 01:23:41,239
+Meni se zdi, da, ko daš noter, kapneš v data science,
+
+1266
+01:23:41,239 --> 01:23:44,239
+če ta biološki, molekularni kažen tak aspekt,
+
+1267
+01:23:44,239 --> 01:23:47,239
+dobiš pa pač bioinformatika.
+
+1268
+01:23:47,239 --> 01:23:50,239
+To je nekdo, ki ima mogoče domensko znanje
+
+1269
+01:23:50,239 --> 01:23:53,239
+iz biologije, malo še zraven poleg
+
+1270
+01:23:53,239 --> 01:23:56,239
+tisga programiranja, ki je pa
+
+1271
+01:23:57,239 --> 01:24:00,239
+hitro dost dobro. In to se navezuje tudi na tisto,
+
+1272
+01:24:00,239 --> 01:24:03,239
+kar smo se prej pogovarjali, da
+
+1273
+01:24:03,239 --> 01:24:06,239
+nekoga z domenskim znanjem hitro naučiš
+
+1274
+01:24:06,239 --> 01:24:09,239
+programirati. Good enough.
+
+1275
+01:24:09,239 --> 01:24:12,239
+Seveda, bi bilo idealno, da bi bili vsi
+
+1276
+01:24:12,239 --> 01:24:15,239
+computer scientists, da bi znali vse te algoritme,
+
+1277
+01:24:15,239 --> 01:24:18,239
+pa RAST, pa CEPA, ampak realnost je taka,
+
+1278
+01:24:18,239 --> 01:24:21,239
+da ti imaš rok, ti moraš v enem tednu
+
+1279
+01:24:21,239 --> 01:24:24,239
+narediti nekaj. Jaz se naučam okvarjati
+
+1280
+01:24:24,239 --> 01:24:30,239
+lokacijo, pojnteri. Jaz hočem klik, pa da dobim slikco.
+
+1281
+01:24:33,239 --> 01:24:36,239
+Najlepša hvala Roman za vse tvoj trut, hvala za
+
+1282
+01:24:36,239 --> 01:24:40,239
+organizacijo, soorganizacijo meet-upov in dogodkov,
+
+1283
+01:24:40,239 --> 01:24:43,239
+hvala za tvoj doprenos tej družbi,
+
+1284
+01:24:43,239 --> 01:24:46,239
+tehnološkim in v širšem smislu.
+
+1285
+01:24:46,239 --> 01:24:49,239
+Hvala tebi Andraž, hvala ekipi v Grodje
+
+1286
+01:24:49,239 --> 01:24:53,239
+za snemanje. Če imaš še zadnjo
+
+1287
+01:24:53,239 --> 01:24:56,239
+misel, če ne, bomo rekli hvala.
+
+1288
+01:24:56,239 --> 01:24:59,239
+Hvala za povabilo, jaz sem sicer v prvi vrsti
+
+1289
+01:24:59,239 --> 01:25:02,239
+rekel, da bom prišel, zato, ker sem upel, da bo VIP-i,
+
+1290
+01:25:02,239 --> 01:25:05,239
+ampak jaz ga še ne vidim, da mogoče imamo
+
+1291
+01:25:05,239 --> 01:25:08,239
+kakšen drug štuk. Šli v drug štuk.
+
+1292
+01:25:08,239 --> 01:25:11,239
+Hvala vsem za vašo pozornost, hvala vsem za podporo
+
+1293
+01:25:11,239 --> 01:25:14,239
+in se slišimo prihodnič, hvala objema.
+
+1294
+01:25:14,239 --> 01:25:17,239
+Hvala tebi, čau. Nadijo, pa se vidimo prej,
+
+1295
+01:25:17,239 --> 01:25:20,239
+ko kar ob koncu sveta. Tam bova pa jaz pa brodila.
+
+1296
+01:25:23,239 --> 01:25:25,239
+Hvala.

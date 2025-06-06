@@ -1,0 +1,8695 @@
+1
+00:00:00,000 --> 00:00:20,000
+Mi dva smo se posvetovali z game developerji in z gamerji, prej nas ima se stavljala ta mind map,
+
+2
+00:00:20,000 --> 00:00:24,000
+v katerem bomo prvič poskušali slediti temu pogovoru.
+
+3
+00:00:24,000 --> 00:00:35,000
+Ampak mi jaz imam web developerja z web backgroundom, z ops, z infra in podobnimi zadevami.
+
+4
+00:00:35,000 --> 00:00:44,000
+Ampak se en pač komidas na te danes povabila, da bi se malo pogovarjali o razvoju iger.
+
+5
+00:00:44,000 --> 00:00:53,000
+Želela bi, da malo raziščemo, kaj pomeni narediti resen game danes.
+
+6
+00:00:53,000 --> 00:00:58,000
+Kaj tehnologije uporabljamo pri razvoju iger.
+
+7
+00:00:58,000 --> 00:01:07,000
+Zanima nas, kaj vse ne vemo, pa kaj vse moraš znati, da lahko nek proper game naredimo.
+
+8
+00:01:07,000 --> 00:01:16,000
+Dobrodošli v našem podcastu v Grodje. Zdravljenje tudi danes Andraž, Marko Grgurovič.
+
+9
+00:01:17,000 --> 00:01:19,000
+Teži prijeme, ki je v podcastu.
+
+10
+00:01:21,000 --> 00:01:25,000
+Dobrodošli in lahko pozdravi še malo poslušalcev.
+
+11
+00:01:25,000 --> 00:01:32,000
+Hvala, hvala za povabilo in vod. Ja, jaz se preveselim debate.
+
+12
+00:01:33,000 --> 00:01:43,000
+Boš na kratko povedal, kdo si oziroma kako si sploh prišel do te industrije.
+
+13
+00:01:43,000 --> 00:01:48,000
+Zakaj igrce, zakaj ne, ne vem.
+
+14
+00:01:48,000 --> 00:01:49,000
+Računovodske sistemi.
+
+15
+00:01:49,000 --> 00:01:51,000
+Računovodske sistemi v dosu.
+
+16
+00:01:51,000 --> 00:01:53,000
+A pa zakaj je level 60 padal.
+
+17
+00:01:54,000 --> 00:02:00,000
+Ja, če začnemo s sedamnjesti, trenutno sem v triternjeno direktor in ustanovitelj,
+
+18
+00:02:00,000 --> 00:02:03,000
+sicer iskreno tudi preveč kode pišem.
+
+19
+00:02:05,000 --> 00:02:07,000
+Ne bi smel, ampak, ko je.
+
+20
+00:02:08,000 --> 00:02:15,000
+Drugače pa se je stvar začela, mislim, da nekje v 2014 samo igro Mordhau.
+
+21
+00:02:15,000 --> 00:02:18,000
+Predtem, mogoče grem še bolj nazaj.
+
+22
+00:02:19,000 --> 00:02:26,000
+Nisem nekako delal v tej sceni ful ogromno.
+
+23
+00:02:26,000 --> 00:02:31,000
+Igral sem, nekako moj stik z game developmentom se je začel,
+
+24
+00:02:33,000 --> 00:02:36,000
+dajmo reči nekje tam, 2000, 2003.
+
+25
+00:02:37,000 --> 00:02:41,000
+Ko sem v bistvu igral en ful stari MMO, Ultimo Online.
+
+26
+00:02:43,000 --> 00:02:45,000
+Ampak sem ga igral na teh privatnih serverih.
+
+27
+00:02:46,000 --> 00:02:50,000
+Ker sem imel svoj emulator in v bistvu je bil ful dobro spisan.
+
+28
+00:02:51,000 --> 00:02:53,000
+In je dejansko boljše fural, kot upišljali.
+
+29
+00:02:55,000 --> 00:02:59,000
+Tako da si lahko tisti emulator ful kostumajzal in posli delal in kup novih mehanik.
+
+30
+00:03:00,000 --> 00:03:03,000
+Vsak server v takrat je bil čisto drugačen.
+
+31
+00:03:04,000 --> 00:03:07,000
+Čisto nek nov stil, nek nove mehanike.
+
+32
+00:03:09,000 --> 00:03:12,000
+In pa jaz sem tole Ultimo igral enih deset let, po mojem.
+
+33
+00:03:13,000 --> 00:03:14,000
+On and off.
+
+34
+00:03:15,000 --> 00:03:19,000
+In s časoma sem tam tudi delal in stvari pisal.
+
+35
+00:03:20,000 --> 00:03:22,000
+Ampak to je bilo tako, občasno.
+
+36
+00:03:23,000 --> 00:03:24,000
+Govorimo o modingu?
+
+37
+00:03:25,000 --> 00:03:26,000
+Skoraj, lahko bi rekli.
+
+38
+00:03:27,000 --> 00:03:31,000
+Če jaz prav to razumem, ti imaš pač klajenta in potem si imel server site.
+
+39
+00:03:32,000 --> 00:03:33,000
+Tako.
+
+40
+00:03:34,000 --> 00:03:38,000
+In potem je pač community reverse inženiral dejansko protokol in naredil svoj server site.
+
+41
+00:03:39,000 --> 00:03:40,000
+In potem si ga lahko modificiral.
+
+42
+00:03:41,000 --> 00:03:43,000
+Tako, in klajent je bil ful dumb.
+
+43
+00:03:43,000 --> 00:03:46,000
+Tako da je klajenta nisi mogel tikat, ker pač tega nismo imeli.
+
+44
+00:03:47,000 --> 00:03:51,000
+Ampak server je imel kontrolo nad vsem, tako da si lahko na tak način skoraj vse počel.
+
+45
+00:03:52,000 --> 00:03:57,000
+In ja, to je bil nekako nek prvi stem multiplayer, zdaj pa sicer to je bilo tako.
+
+46
+00:03:58,000 --> 00:03:59,000
+Ni bilo tako detaljno, no.
+
+47
+00:04:00,000 --> 00:04:01,000
+Vse je, 2D je bilo, pa...
+
+48
+00:04:02,000 --> 00:04:03,000
+Jaz se spomnim še tega.
+
+49
+00:04:04,000 --> 00:04:06,000
+Ampak to Ultimo je ful nek tak milestone v gaming industriji.
+
+50
+00:04:07,000 --> 00:04:11,000
+To sem v zadnjič nekaj poslušal, da pač ljudje se blazno hackali to zadevo.
+
+51
+00:04:11,000 --> 00:04:19,000
+In je imelo neke prvjenstva, najbolj v odločenih, kaj ste mi reče, funkcionalnostih ali kaj.
+
+52
+00:04:20,000 --> 00:04:27,000
+Ker pokaj se poslušam, te neke hacker podkeste, folk ki so pač zašli v temne smeri hackanja.
+
+53
+00:04:28,000 --> 00:04:31,000
+Vsi rečejo, da so hackali Ultimo, kradli neke coine in podobno.
+
+54
+00:04:32,000 --> 00:04:33,000
+Igra je bila nora, no.
+
+55
+00:04:34,000 --> 00:04:35,000
+Tako po mehanikah.
+
+56
+00:04:35,000 --> 00:04:43,000
+Tako lahko, ne vem, bom baš sebil, pa ga obiral, pa te en tako nag te je našel, se kira, pa te je pobil, pa ti vsa bom baš pokradil, pa ga je šel prodati.
+
+57
+00:04:44,000 --> 00:04:45,000
+In potem te je iztrejeval, ne.
+
+58
+00:04:46,000 --> 00:04:50,000
+Te je grožnje pošeljal, daj mu dnar, če ne bo prišel jutri, ko bom spet nabiral, pa te bom spet.
+
+59
+00:04:51,000 --> 00:04:52,000
+In to, mislim, noro.
+
+60
+00:04:53,000 --> 00:04:55,000
+Ker je bil tako free, da si lahko delal, kar si hotel, ne.
+
+61
+00:04:56,000 --> 00:04:57,000
+Tega danes ni več.
+
+62
+00:04:58,000 --> 00:05:00,000
+Ker to je nightmare drugače, kar se komunitija tiče, da to menedžiraš.
+
+63
+00:05:01,000 --> 00:05:02,000
+To je noro.
+
+64
+00:05:02,000 --> 00:05:07,000
+Folk je potem nehal to igrat, pa je še bolj v taki bolj safe varianti, kot je recimo World of Warcraft.
+
+65
+00:05:08,000 --> 00:05:10,000
+Ker pač te niso mogli bombalo pokrati.
+
+66
+00:05:11,000 --> 00:05:12,000
+Okej, okej.
+
+67
+00:05:13,000 --> 00:05:25,000
+Rekl si, da to si igral, mičkajn si, mičkajn si, to ne vem, da pač hekal na tem strežniku, da čega si imel dostop, oziroma si bil zmenjen, za kaj so to gameasteri.
+
+68
+00:05:26,000 --> 00:05:33,000
+Ja, pa čitek privatni serveri so bili, ne, pa si noto pršel, pa si nekako sodeloval, pa si malo kakšne kodo napisal, koda je bila takrat v C-sharpu.
+
+69
+00:05:34,000 --> 00:05:36,000
+Je bil ta emulator ravno v ovo, mislim, da se je klical.
+
+70
+00:05:37,000 --> 00:05:38,000
+Ja.
+
+71
+00:05:39,000 --> 00:05:42,000
+Ej, kako si pa odkril to zadevo? A si v kakih forumih našel te stvari?
+
+72
+00:05:45,000 --> 00:05:48,000
+Jaz sem ultim online hotel igrat še ful let predtem.
+
+73
+00:05:49,000 --> 00:05:51,000
+Sem, interneta nisem, interneta nisem.
+
+74
+00:05:51,000 --> 00:05:52,000
+Ja, ja.
+
+75
+00:05:52,000 --> 00:05:57,000
+Sem dejansko šel v trgovino, vzel škatlo in sem rekel tako, ko sem bil ful mlad, ne, sem rekel, mami, da bi jaz to kupil, ne.
+
+76
+00:05:58,000 --> 00:06:02,000
+In potem oni me reče, ja, maš ti modem doma, mi prdeja, reciš, pa zdaj to, ne.
+
+77
+00:06:03,000 --> 00:06:05,000
+In potem sem bil ful žalosten v bistvu, ker nisem mogel.
+
+78
+00:06:06,000 --> 00:06:08,000
+In sem čakal, dokaj nisem dobil DSL.
+
+79
+00:06:09,000 --> 00:06:12,000
+In potem sem jaj dol pobral in je bila v Kitajščini, v Kitajščini je bila.
+
+80
+00:06:13,000 --> 00:06:14,000
+Ker ne vem, pač na tem.
+
+81
+00:06:14,000 --> 00:06:15,000
+Kaj, preboli?
+
+82
+00:06:15,000 --> 00:06:18,000
+Ja, nek torent je bil, ne, dol sem jaj pobral in je bila v Kitajščini.
+
+83
+00:06:18,000 --> 00:06:20,000
+In sem mogel tam ugibati, kaj, kaj.
+
+84
+00:06:20,000 --> 00:06:23,000
+Ampak potem smo s kolegi nagruntili točno, kaj pomeni kaj.
+
+85
+00:06:24,000 --> 00:06:26,000
+Mislim, ne vem, ne znam, brat, Kitaj.
+
+86
+00:06:26,000 --> 00:06:31,000
+To je bolj tako, ko greš do modernega praljnega stroja, pa gledaš v ne simbole.
+
+87
+00:06:31,000 --> 00:06:33,000
+Pa potem nekaj ugruntaš, kaj šta, da se bombaš.
+
+88
+00:06:33,000 --> 00:06:34,000
+Ja, ja, ja.
+
+89
+00:06:35,000 --> 00:06:36,000
+Če smo nazaj prebombažili.
+
+90
+00:06:36,000 --> 00:06:37,000
+Ja, tako, ja.
+
+91
+00:06:38,000 --> 00:06:40,000
+Ej, dobro smo začeli.
+
+92
+00:06:40,000 --> 00:06:45,000
+Samo, jaz, ti imaš vedno doktorat iz računalnjstva.
+
+93
+00:06:45,000 --> 00:06:46,000
+Zdaj, če si sam.
+
+94
+00:06:46,000 --> 00:06:47,000
+Ganjujem.
+
+95
+00:06:47,000 --> 00:06:48,000
+Ne?
+
+96
+00:06:48,000 --> 00:06:49,000
+Če.
+
+97
+00:06:49,000 --> 00:06:50,000
+To je druga naša dora.
+
+98
+00:06:51,000 --> 00:06:52,000
+Oddanje, oddanje.
+
+99
+00:06:52,000 --> 00:06:54,000
+Tako vse je oddano, da se sem čaka.
+
+100
+00:06:54,000 --> 00:06:55,000
+Okej, okej.
+
+101
+00:06:55,000 --> 00:06:56,000
+Hvala.
+
+102
+00:06:56,000 --> 00:07:03,000
+No, ampak je eno pot odhekanja, odhekanja ultima serverja do, do, do daljših doktorat.
+
+103
+00:07:03,000 --> 00:07:04,000
+Sedem si šel.
+
+104
+00:07:04,000 --> 00:07:07,000
+Ja, posle je nekaj malo, malo stvari so šle drugače.
+
+105
+00:07:08,000 --> 00:07:09,000
+Srečno.
+
+106
+00:07:09,000 --> 00:07:12,000
+Srečno, čisto iskreno sem delal to s proti še potem.
+
+107
+00:07:12,000 --> 00:07:21,000
+Ampak, ja, potem sem začel študijem nadodiplonskem in me je ful potegnilo od algoritmi in tako zadeve.
+
+108
+00:07:21,000 --> 00:07:27,000
+In sem potem to tudi nadaljeval s ciljem, da bi v bistvu to počel, ne.
+
+109
+00:07:27,000 --> 00:07:31,000
+Dizajn algoritmov, analiza, pač znanost.
+
+110
+00:07:32,000 --> 00:07:42,000
+Potem sem se malo odločil, da mogoče, sicer zelo pozno, ko sem že začel doktorat, pa imel štipendijo, pa vse, ne.
+
+111
+00:07:42,000 --> 00:07:53,000
+Takrat sem se odločil, da mogoče to ni lih tisto, kar bi počel, ker vseeno ta akademijska sfera je, ne deluje lih tako, da ti delaš, kar hočeš, ne.
+
+112
+00:07:54,000 --> 00:08:03,000
+Treba je dela tiste projekte, pa vse to, takrat sem se malo odločil, da mogoče bi jaz sprobal, kaj tako, kar sam naredit.
+
+113
+00:08:03,000 --> 00:08:12,000
+Videl sem, da ljudje delajo, ne vem, takrat v Unity, gledam, 3D game neke majjo, 3D assete, pač čitno to ni tako težko, gledam, ta ne ve nič, ne.
+
+114
+00:08:12,000 --> 00:08:15,000
+Tako, da jaz saj programirat vem, da jem še jaz sprobal, ne.
+
+115
+00:08:15,000 --> 00:08:20,000
+In tako se je začelo, tistega usodnega dne, 1. januarja 2014.
+
+116
+00:08:21,000 --> 00:08:23,000
+A to si rekel, novoletna oblaza v glubi.
+
+117
+00:08:23,000 --> 00:08:30,000
+Čitno, ne vem, ne spomnem se tako, ampak vem, da je bil 1. januar, takrat sem naredil projekt, Unity Slasher se je klical.
+
+118
+00:08:30,000 --> 00:08:35,000
+Hodom, to se pravi, ko so ljudje jedali zjutraj kislo juho, vsi na mačkanje.
+
+119
+00:08:35,000 --> 00:08:42,000
+Ja, ful mi je čudno to, ne vem, mogoče se ne spominem tega pravke ponovadi, tistega 1. januarja se ga ne spomnem, tako da to mi je malo sumljivo.
+
+120
+00:08:43,000 --> 00:08:45,000
+Ampak začel si z Unity.
+
+121
+00:08:45,000 --> 00:08:58,000
+Mislim, jaz imam nek ta feeling, da ta proper game development je počasi tak bil, da si vzel Windows v API, pa C++.
+
+122
+00:08:58,000 --> 00:09:00,000
+Kličeš in narišeš.
+
+123
+00:09:00,000 --> 00:09:03,000
+Narišeš en piksel in začne trikotnik.
+
+124
+00:09:03,000 --> 00:09:10,000
+Ja, nekje sem tudi jaz tako, sem malo igral v ful časa še pred Sveta Ultima, ne, tu si časno.
+
+125
+00:09:10,000 --> 00:09:13,000
+Objekt pa skalu sem jaz to, ne vem zakaj.
+
+126
+00:09:13,000 --> 00:09:21,000
+To je bizarno bilo, bizarn jezik, ampak smo ga imeli v srednji šoli, nekdo ga je forsirao, čisto sem rekel, dajmo nekaj probati tega narediti.
+
+127
+00:09:21,000 --> 00:09:34,000
+Ampak ja, večina teh developmente na začetku je bilo narejenega tako, da si sam svoj engine naredil ali pač DirectX ali OpenGL, pač 3D ali pa 2D, kakorkoli že.
+
+128
+00:09:34,000 --> 00:09:42,000
+Brez nobenih nekih knjižnic, oziroma minimalno, ampak zdaj se je to ful spremenilo.
+
+129
+00:09:43,000 --> 00:09:52,000
+Predvsem zato, ker je nivo, kaj ti moraš not vključiti v igru, je bistveno više, kot je bilo v časih.
+
+130
+00:09:52,000 --> 00:09:54,000
+Ker so prečakovanja.
+
+131
+00:09:54,000 --> 00:10:04,000
+Prečakovanja so više in če zdaj v časih si ti lahko recimo spravil skupaj nek svoj enostaven 3D model, pa da si igral eno enostavno 3D animacijo, ne, ampak zdaj ni več to dovolj.
+
+132
+00:10:04,000 --> 00:10:16,000
+Ti moraš imeti blending med animacijami, ti moraš imeti razne inverzne kinematike, vse te stvari not v igri, da lahko sploh potpiraš tako stil vizualen, kot bi ga mogo imeti.
+
+133
+00:10:16,000 --> 00:10:28,000
+Da ne govorimo sploh o samo 3D grafiki, pač razen post processing in vse te zadeve, ki pridejo skupaj, pa tudi pogon, sam rendering, ko je se stavljen dan danes je bolj kompleksen, kot je bilo takrat.
+
+134
+00:10:28,000 --> 00:10:36,000
+Preden gremo v The Core in to je nekaj, kar si zdaj že skoraj začel.
+
+135
+00:10:36,000 --> 00:10:54,000
+Tam, ko smo se pogovarjali malo o gamingu, pač pomagali so nam ljudje prepraviti malo tole agendo, je Goran rekel, da vidi gaming v bistvu kot neko najbolj kompleksno obliko entertainmenta, ki jo danes poznamo.
+
+136
+00:10:54,000 --> 00:11:08,000
+Se pravi, da je res, ali pa umetnosti na nek način, ker da res še film je v nek načini helaži delac kot gaming.
+
+137
+00:11:08,000 --> 00:11:10,000
+Kaj ti misliš, kaj ti vidiš to?
+
+138
+00:11:11,000 --> 00:11:22,000
+Ja, ja, sigurno. Že sama ideja in kako stvare zasnoviš in potem ugotoviš, da tle noti je igralec in igralec ti lahko vse poruši in igralec ti hoče vse porušiti.
+
+139
+00:11:22,000 --> 00:11:30,000
+Tako, da ti v bistvu delaš to pod takimi grožnjami, pod stisko, da te bodo oni vedno zelo rabljali.
+
+140
+00:11:30,000 --> 00:11:38,000
+Tako, da to ni kot film. Film pa snameš in je tak in ga boš gledal in bo tak. Ok, mogoče imaš drugačno televizijo, ampak bo tak.
+
+141
+00:11:38,000 --> 00:11:45,000
+Ti igro, ki jo spraviš, boš povsem ne veš, da se je opognala. Pa manjkajo mu, ne vem, kateri library, jih je milijon.
+
+142
+00:11:45,000 --> 00:11:55,000
+Danes je to že bolj funkcionira, ampak še vedno, ko pride on not, on se odloči, ne vem, jaz bi to zdaj tako igral, on bi imel take kontrole, on imel one kontrole.
+
+143
+00:11:55,000 --> 00:12:00,000
+Že to je problem, potem pa še sama igra, kako se oni odločijo, ne, kako bojo sposobno igrali tu igru.
+
+144
+00:12:00,000 --> 00:12:09,000
+Ni tako, mogoče kot si se ti vzemislil, ampak na drugačen način. In je lahko boljši način, ampak zgleda, recimo, mi recimo imamo ta problem, ne.
+
+145
+00:12:09,000 --> 00:12:12,000
+Kako se oni mečevanje samo, ne.
+
+146
+00:12:12,000 --> 00:12:15,000
+Aha, to se pravi, neka meta igre, ki ni nečismišljeno.
+
+147
+00:12:15,000 --> 00:12:16,000
+Ja, da.
+
+148
+00:12:16,000 --> 00:12:24,000
+Ja, doskrat se mi zdi, da ljudje jemljajo za samo umevno, da pač, ne vem, če se igra hokej, imajo vsi ljudje palce, pa pak, pa strelajo na gola, ne.
+
+149
+00:12:24,000 --> 00:12:30,000
+Zato, ker ljudje gledajo to kot igro, v bistvu pa pač, ne vem, nabaj ne potegne ven pištole, ne.
+
+150
+00:12:30,000 --> 00:12:32,000
+Če prav hokej, so se tudi mlade, ne.
+
+151
+00:12:32,000 --> 00:12:33,000
+Ja, ne že.
+
+152
+00:12:33,000 --> 00:12:34,000
+To je že blizu, ja.
+
+153
+00:12:34,000 --> 00:12:44,000
+Tako, da ja, razumem, ja. V bistvu, ti moraš tehnično biti zelo znajedljiv, da svojo vizijo igre tehansko narediš tako, da jih ljudje ne zelo urabljajo.
+
+154
+00:12:44,000 --> 00:12:58,000
+Ja, ful je nevarno, ker, mislim, tega je ogromno v teh AAA igrah, so zelo pazljivi pri tem, kar delajo, da ti ne moreš prav veliko narediti kot igralec, da si omejen, da imajo oni njihov vizijo in da ta vizija je potem enaka.
+
+155
+00:12:58,000 --> 00:13:09,000
+Ampak tle tudi izgubiš, ker je v bistvu ta indie scena, ki je zdaj ful popularna, pa izhaja iz tega, da čim manj omejitev, čim bolj sandboxa,
+
+156
+00:13:09,000 --> 00:13:18,000
+da jim omejtev in peskovni, ker plejer lahko vse lahko pokvarja, vse lahko razstavi, razbije, uniči, ampak pusti mu, ne.
+
+157
+00:13:18,000 --> 00:13:25,000
+In plejeri imajo to ful radi, ker potem sistem not samo sami zgodbe naredi, ne. Tako recimo Minecraft, pač delaš, ker hočeš.
+
+158
+00:13:25,000 --> 00:13:34,000
+Pravi, da so ostvarjajo v bistvu svet, v katerem, ki so potem del igre na tak način, da ga so ostvarjajo enake.
+
+159
+00:13:34,000 --> 00:13:45,000
+Ja, jaz imam zdaj tu ful vprašanj o Mordhau, pa bomo potem nekako izpeljali iz tega, če sta zano.
+
+160
+00:13:45,000 --> 00:13:54,000
+Pa dejmo začeti najprej. Dej nam ti predstav to igro na svoj način, da ne bom jaz nerudno se...
+
+161
+00:13:55,000 --> 00:14:04,000
+Mordhau je večigralska, mečevalska igra. Mislim, dejansko se mlatiš z drugimi igralci zelo blizu, no.
+
+162
+00:14:04,000 --> 00:14:10,000
+Te peškanje, mislim, da so jo pisali v Jokerju, ko je še bil, bili smo v zadnji zdaj.
+
+163
+00:14:11,000 --> 00:14:21,000
+Tako da, ja, gre se za to, da je noc enih tam 64 igralcev istočasno na strežniku, ena večja taka pokrajena je.
+
+164
+00:14:21,000 --> 00:14:30,000
+In zdaj se vsi, dva, dve ekipista, pa se buri 32 proti 32 na vse možne načine, sem da ga ubiješ.
+
+165
+00:14:31,000 --> 00:14:42,000
+Zelo je krvava, tako da, ja, pretežno je to zaradi tega, ker tudi je težko je upisati sam udarec.
+
+166
+00:14:42,000 --> 00:14:48,000
+Feeling narediti, ko nekoga ti udariš, da se pretiravamo. To ni tako realistično.
+
+167
+00:14:48,000 --> 00:14:57,000
+Če ti v realnem svetu, ko imaš en meč, ti ne moraš viteza oklepa prebiti. Ne gre skozi, to se samo odbije.
+
+168
+00:14:57,000 --> 00:15:06,000
+Tako da pretiravamo ful, ampak brez tega bi bila stvar ful flat. Ne bi imel tisti juicy feeling, ko ga zadaneš, pa naredimo.
+
+169
+00:15:06,000 --> 00:15:12,000
+To je en izmegljani feature, kaj ti človeka zadaneš, kako to gre.
+
+170
+00:15:12,000 --> 00:15:19,000
+Ful, ful časa smo porabili na vseh teh zadevah in sound. Recimo, prej smo govorili o filmih.
+
+171
+00:15:19,000 --> 00:15:30,000
+V filmu ti postaneš sceno in veš, da bo en meč šel do njega, ga bo zadev. V tem trenutku ti lahko narediš cel build-up sound-on, preden en meč pride in zadane.
+
+172
+00:15:30,000 --> 00:15:34,000
+In to je ful pomembno. V igri ti ne veš, da ga bo meč zadel, dokaj ga ne zadane.
+
+173
+00:15:34,000 --> 00:15:36,000
+Kar pomembno je, ti ne moraš nič glufati.
+
+174
+00:15:36,000 --> 00:15:39,000
+Ampak se je to v realnem svetu, verjetno, naredilo glufati.
+
+175
+00:15:39,000 --> 00:15:40,000
+Ja, ne, ampak.
+
+176
+00:15:40,000 --> 00:15:42,000
+Mislim, je boloj realno, zaradi tega.
+
+177
+00:15:42,000 --> 00:15:52,000
+Ne, ne, mislim, pravim, film je lažje tako narediti. V tem smislu, da je juicy feeling, pa dober sound. V tem, ko v igri pa moraš ti bistveno bolj zakomplicirati na stvari.
+
+178
+00:15:52,000 --> 00:15:54,000
+Everything can happen.
+
+179
+00:15:54,000 --> 00:16:00,000
+Ja, in ne veš kdaj. In veš sem takrat, kadar se je zgodilo, kar je ponovad je že prepozno, če bi hotel kakršen koli anticipation.
+
+180
+00:16:00,000 --> 00:16:08,000
+Veliko čas smo porabili in na soundu, na animacijah, na samih animacijah, kaj se zgodi, ko recimo nekoga zadaneš.
+
+181
+00:16:08,000 --> 00:16:18,000
+Itak prvoosebna igra je, pretežno je tudi tretja oseba možnost tega pogleda, ampak glavna stvar je first person, seveda.
+
+182
+00:16:18,000 --> 00:16:30,000
+In ja, ogromno časa na tem, potem seveda networking, da ta stvar dejansko zgleda tako, kot bi morala in pa samih efektih, kaj se zgodi, ko ga zadaneš.
+
+183
+00:16:30,000 --> 00:16:37,000
+Da je kri in točno na tej lokaciji, da je reakcija točno taka, kot mora biti.
+
+184
+00:16:37,000 --> 00:16:46,000
+To ni nuljno, da je animacija, ker so, mislim, pri animacijah je treba razumet, da animacije so posnete in igrajo vedno isto.
+
+185
+00:16:46,000 --> 00:16:53,000
+Zdaj neke trike lahko delaš, ampak koli se začne smer, nekaj, če imaš proceduralno, če imaš kodo, ki v bistvu vozi ta trup.
+
+186
+00:16:53,000 --> 00:16:59,000
+In tega je kr nekaj, no, potem prideš, to smo porabili kr nekaj let, da smo počasi te stvari.
+
+187
+00:16:59,000 --> 00:17:07,000
+Pa to je v bistvu kompetitiv igra, ti si dejansko igralec proti igralcu, ni ko-op igra, to se pravi, ne bori se proti AI.
+
+188
+00:17:07,000 --> 00:17:10,000
+Kaj pa, če se reka, da si v dveh ekipah.
+
+189
+00:17:10,000 --> 00:17:12,000
+Ja, je kompetitiv.
+
+190
+00:17:12,000 --> 00:17:13,000
+Njač.
+
+191
+00:17:13,000 --> 00:17:16,000
+Ampak svojega verjetno ne boš napalil.
+
+192
+00:17:18,000 --> 00:17:19,000
+O, bi te preseneval.
+
+193
+00:17:19,000 --> 00:17:20,000
+Bi me preseneval.
+
+194
+00:17:20,000 --> 00:17:23,000
+Pa tudi za nalašč, predvsem za nalašč.
+
+195
+00:17:23,000 --> 00:17:24,000
+Predvsem za nalašč.
+
+196
+00:17:24,000 --> 00:17:25,000
+Predvsem za nalašč.
+
+197
+00:17:25,000 --> 00:17:30,000
+Je pa, imamo pa tudi kooperativne načine igranja proti AI.
+
+198
+00:17:30,000 --> 00:17:40,000
+Skupaj braniš, mislim, da zdaj enega, tako je naredeno, da braniš enega bota in proti tebi prihajajo te wavy.
+
+199
+00:17:40,000 --> 00:17:41,000
+Hord način.
+
+200
+00:17:41,000 --> 00:17:45,000
+To je zame, veš, to je moj stil igre, v bistvu, da...
+
+201
+00:17:45,000 --> 00:17:46,000
+To, da ohrani stol.
+
+202
+00:17:46,000 --> 00:17:54,000
+Pa življenje se mi zdi tako kompetitivno, pa v bistvu, ko igraš s prijateljima in se pač res ne da kregati, kdo je zdaj, koga mahno.
+
+203
+00:17:54,000 --> 00:17:57,000
+Ampak če pa AI mahaš, najlažji brc nad robota.
+
+204
+00:17:57,000 --> 00:18:00,000
+Če pravi, roboti to človek, kako že pravi.
+
+205
+00:18:00,000 --> 00:18:13,000
+Jaz sem o to vprašal, če lažje narediti igro, kjer se ljudje med sabo tekmujejo versus človek, versus AI, ampak so to verjetno približno drugi nabor problemov.
+
+206
+00:18:13,000 --> 00:18:17,000
+Ja, drug način je, mislim, tako.
+
+207
+00:18:17,000 --> 00:18:18,000
+Drugi zivi.
+
+208
+00:18:18,000 --> 00:18:24,000
+Ja, pri samem dezainu igre, pri mehanikah, če imaš ti playerja proti playerju, ne.
+
+209
+00:18:26,000 --> 00:18:29,000
+Hočeš, da sta oba zadovoljna z zidom.
+
+210
+00:18:29,000 --> 00:18:35,000
+Tako, da nočeš nobenega preveč, če bo en igralec drugega igralca vdaril.
+
+211
+00:18:35,000 --> 00:18:39,000
+Bo tisti, ki ga bo vdaril, se slabo počutili.
+
+212
+00:18:39,000 --> 00:18:42,000
+Tisti, ki pa bo ga uspel vdariti, ne bo pa kul.
+
+213
+00:18:42,000 --> 00:18:48,000
+Mislim, pri, če imaš ti AI, ne, on ga ne briga, kaj mu narediš.
+
+214
+00:18:48,000 --> 00:18:54,000
+Ti ga lahko maltretiraš, lahko ga mlatiš, mu glavo sekaš, ga postiš tam, rebeža, da krvavi.
+
+215
+00:18:54,000 --> 00:18:58,000
+Playerje ni tam, tako da je svoboda.
+
+216
+00:18:58,000 --> 00:19:04,000
+In lahko na tak način v bistvu ful dobre mehanike daš playerju, da se on počuti kot totalen bedesk.
+
+217
+00:19:04,000 --> 00:19:05,000
+Na drugi strani ni človek.
+
+218
+00:19:05,000 --> 00:19:09,000
+Med tem, ko pri PvP-e, pa to čisto drugačno.
+
+219
+00:19:09,000 --> 00:19:17,000
+To pravi, da v bistvu, da kada igraš igralec na igralca, da ne v bistvu, da ni preveč brutalno za tistega, ki je izgubil.
+
+220
+00:19:17,000 --> 00:19:21,000
+Ja, jeso ometve. Ne moreš si kar privoščiti.
+
+221
+00:19:22,000 --> 00:19:27,000
+To je res zanimavo. To me spomne, na, ko si otrok, pa nekdo starejši z tabo šah igra,
+
+222
+00:19:27,000 --> 00:19:32,000
+ki te pač mora te grih prav opustiti, zmagvat, da pač ta igra še slov smiselna,
+
+223
+00:19:32,000 --> 00:19:36,000
+pa da jo ne reč pitneš, pa narediš tableflipa.
+
+224
+00:19:36,000 --> 00:19:40,000
+Jaz zato zdaj ne bom naredil, ker je tukaj ta rekorder, pa bo folor potal.
+
+225
+00:19:40,000 --> 00:19:44,000
+Zdaj, če si pa ti game designer je pa še bolj zafrknano,
+
+226
+00:19:44,000 --> 00:19:48,000
+zato, kar ti ne moraš tega bremena, da nekomu opustiš zmagovati,
+
+227
+00:19:48,000 --> 00:19:53,000
+nas je prevset, ampak ti ima samo tujce, ki so morjo vsi fajn met.
+
+228
+00:19:53,000 --> 00:19:57,000
+Ja, pa nisem dejansko zmagovanje, ali pa ne, tudi feeling.
+
+229
+00:19:57,000 --> 00:20:01,000
+Določene mehanike, ki se za playerja počutijo super, kot totalen bedesk,
+
+230
+00:20:01,000 --> 00:20:05,000
+za onega drugega ne počutijo sprejemljive, zato ker, recimo, zaklenja na mestu,
+
+231
+00:20:05,000 --> 00:20:09,000
+pa mora čakati. To je katastrofa za feeling.
+
+232
+00:20:09,000 --> 00:20:14,000
+Bral sem eno knjigo, Deep Thinking, od Garja Kasparova,
+
+233
+00:20:14,000 --> 00:20:20,000
+tega šahvele mojstra, ki je prvič igral proti Deep Blue od IBM-a,
+
+234
+00:20:20,000 --> 00:20:27,000
+ki je ta prvi profesionalen šakist, mojstr, ki ga je AI premagal, mislim,
+
+235
+00:20:27,000 --> 00:20:31,000
+in govori pač o razvoju teh šahovskih algoritmov,
+
+236
+00:20:31,000 --> 00:20:38,000
+kako je v bistvu ta brute force najprej bil metoda,
+
+237
+00:20:38,000 --> 00:20:41,000
+pa potem, kako so razvijali bolj pametne algoritme
+
+238
+00:20:41,000 --> 00:20:48,000
+za ugotavljanje idealne pozicije, ki je najšahovski program premagal.
+
+239
+00:20:48,000 --> 00:20:53,000
+En velik čapter v tej knjigi je v bistvu posvečen temu,
+
+240
+00:20:53,000 --> 00:20:56,000
+ko je se ugotovili, da lahko naredijo fullover AI,
+
+241
+00:20:56,000 --> 00:21:02,000
+ki bo res zelo veliko poprečnih ljudi premagal, ampak je bil preveč dober.
+
+242
+00:21:02,000 --> 00:21:07,000
+Ga je bilo treba narediti dovolj neumnega, da je še vedno bil zanimiv
+
+243
+00:21:07,000 --> 00:21:12,000
+tudi za ljudi, ki so bili manj izkušeni ali pa začetnike,
+
+244
+00:21:12,000 --> 00:21:17,000
+da je potem bil uporabn za učenje in da je bil zabavn.
+
+245
+00:21:17,000 --> 00:21:19,000
+Mate vi tudi taki ziv?
+
+246
+00:21:19,000 --> 00:21:23,000
+Ker v bistvu pri first-person shooterjih AI tezmer lahko počne 100 kilometrov.
+
+247
+00:21:23,000 --> 00:21:25,000
+Prvo se je mogoče malo teže.
+
+248
+00:21:25,000 --> 00:21:28,000
+Je malo teže, ampak ne dovolj teže, ker smo ga naredili,
+
+249
+00:21:28,000 --> 00:21:30,000
+sem pol smo ga mogli oklestiti.
+
+250
+00:21:30,000 --> 00:21:34,000
+V bistvu smo potem stvari delali drugačeno.
+
+251
+00:21:34,000 --> 00:21:38,000
+Načeloma, ja, on lahko v zadnji momentu ne se brani.
+
+252
+00:21:38,000 --> 00:21:42,000
+To ni dober feeling.
+
+253
+00:21:42,000 --> 00:21:46,000
+Meli smo ga potem še eno, to je bilo bolj tako narejeno,
+
+254
+00:21:46,000 --> 00:21:50,000
+ampak potem ga nekako omejimo, da nima dobre reakcije ali kaj takega.
+
+255
+00:21:50,000 --> 00:21:54,000
+Ampak mislim, da bi se drugače lotilo.
+
+256
+00:21:54,000 --> 00:21:56,000
+Ne bi smo šli na tak način gledati.
+
+257
+00:21:56,000 --> 00:22:00,000
+Sploh ni pomembno, koliko.
+
+258
+00:22:00,000 --> 00:22:04,000
+Zdaj, v našem primeru, ker smo delali PvP game, so bili te boti,
+
+259
+00:22:04,000 --> 00:22:09,000
+ta AI noter je bil dodan bolj z vidika, da lahko mi testiramo,
+
+260
+00:22:09,000 --> 00:22:13,000
+kot kar koli drugega, tako da se uporabljajo v isti načine,
+
+261
+00:22:13,000 --> 00:22:17,000
+kot player, vse isto, nimajo nič drugega.
+
+262
+00:22:17,000 --> 00:22:21,000
+Po navadi v igrah so to malo spremenjene stvari,
+
+263
+00:22:21,000 --> 00:22:24,000
+tako da so oni malo prirejeni in funkcionirajo drugače.
+
+264
+00:22:24,000 --> 00:22:26,000
+Ampak pri nas so pravijo isti interfejs kot playerji,
+
+265
+00:22:26,000 --> 00:22:28,000
+pa do besedno miško premikajemo.
+
+266
+00:22:28,000 --> 00:22:31,000
+Zanimiva.
+
+267
+00:22:31,000 --> 00:22:36,000
+A imaš zdaj problem, da igravci goljofajo na tak način,
+
+268
+00:22:36,000 --> 00:22:39,000
+da pišejo svoje?
+
+269
+00:22:40,000 --> 00:22:42,000
+Ne samo to.
+
+270
+00:22:42,000 --> 00:22:46,000
+Če smo se prej pogovarjali o Ultimi, tam je bilo gameplay bistveno bolj enostaven.
+
+271
+00:22:46,000 --> 00:22:49,000
+Zdaj, celo dva deja igra, ne. Tu pa govorimo o tri dejah,
+
+272
+00:22:49,000 --> 00:22:51,000
+pa premikanje, pa prostor, pa vse skupaj.
+
+273
+00:22:51,000 --> 00:22:55,000
+Imate tudi v tem pogledu, ljude je cheater za AI-om?
+
+274
+00:22:55,000 --> 00:23:00,000
+Ja, par stvari je načelo me pri nas, ker se tak cheating zgodi.
+
+275
+00:23:00,000 --> 00:23:06,000
+Zdaj, nekatere stvari, mi samo fiziko na vse te stvari vse delamo na serveri.
+
+276
+00:23:06,000 --> 00:23:10,000
+Ampak določene stvari smo opustili klajentu,
+
+277
+00:23:10,000 --> 00:23:15,000
+zaradi tega, ker je pretežko tako stvar,
+
+278
+00:23:15,000 --> 00:23:19,000
+ali pa ne mogoče, če boš teba še ping pa te stvari,
+
+279
+00:23:19,000 --> 00:23:22,000
+res nadzirati, da bi bila smutno za vse,
+
+280
+00:23:22,000 --> 00:23:24,000
+ker ti sti korekšeni so lahko kar bed.
+
+281
+00:23:24,000 --> 00:23:27,000
+Tako da neke stvari smo opustili za nalašč,
+
+282
+00:23:27,000 --> 00:23:30,000
+nekatere stvari smo rekli, ok, mogoče jih bo kdo exploital, ne,
+
+283
+00:23:30,000 --> 00:23:32,000
+pa jih bomo lahko potem fiksali.
+
+284
+00:23:32,000 --> 00:23:34,000
+Pa smo jih, nekatere smo jih pustili.
+
+285
+00:23:34,000 --> 00:23:39,000
+Načeloma je težko, kadar čitajo so ful obvis.
+
+286
+00:23:39,000 --> 00:23:41,000
+To je razlika pri nas.
+
+287
+00:23:41,000 --> 00:23:45,000
+Zdaj, tiste, ki niso tako obvis, ne vem, mislim, so kakšni detalji.
+
+288
+00:23:45,000 --> 00:23:49,000
+Problem je, da pri nas se imaš tudi zmiško, ne,
+
+289
+00:23:49,000 --> 00:23:52,000
+ti, ko jo obračaš na okrog, s tem tudi napad kontroliraš.
+
+290
+00:23:52,000 --> 00:23:54,000
+In to je glavni feature.
+
+291
+00:23:54,000 --> 00:23:58,000
+Tako da ni tako lahko čitati kot v kakšnem šuterju,
+
+292
+00:23:58,000 --> 00:23:59,000
+ker imaš ti aimbot.
+
+293
+00:23:59,000 --> 00:24:01,000
+Tukaj pač ni, enostavno, kaj boš...
+
+294
+00:24:02,000 --> 00:24:07,000
+Pač ful je tako težko uprijemljiv koncept.
+
+295
+00:24:07,000 --> 00:24:12,000
+Ti imaš parry, to je blok, ko ga aktiviraš,
+
+296
+00:24:12,000 --> 00:24:15,000
+ti traja, ne vem, 0,3 sekunde.
+
+297
+00:24:15,000 --> 00:24:18,000
+Po pa gre dol in ne moreš takrat nič početi
+
+298
+00:24:18,000 --> 00:24:20,000
+in si te lahko zadane.
+
+299
+00:24:20,000 --> 00:24:23,000
+On pa, ko začne napad, napad, recimo, štarta,
+
+300
+00:24:23,000 --> 00:24:26,000
+traja 0,4 milisekunde, ko sploh nič,
+
+301
+00:24:26,000 --> 00:24:28,000
+ne, ko se samo aktivira, da ga vidiš.
+
+302
+00:24:28,000 --> 00:24:32,000
+Potem pa še, recimo, 0,4 milisekunde ali pa 0,5,
+
+303
+00:24:32,000 --> 00:24:34,000
+ko se premika skozi igro.
+
+304
+00:24:34,000 --> 00:24:37,000
+Ampak takrat, ko se premika, lahko ni miško premikaj.
+
+305
+00:24:37,000 --> 00:24:39,000
+Tako da ti loviš v njih napad z onim blokom,
+
+306
+00:24:39,000 --> 00:24:42,000
+on pa se ti odmika, tako da, ko ti bo šel blok dol,
+
+307
+00:24:42,000 --> 00:24:43,000
+te bo zadel.
+
+308
+00:24:43,000 --> 00:24:46,000
+In je to ni tako easy začitati.
+
+309
+00:24:46,000 --> 00:24:48,000
+Ja, razumem.
+
+310
+00:24:48,000 --> 00:24:51,000
+Je pol ful enih detaljev, kako oni premikajo te napade,
+
+311
+00:24:51,000 --> 00:24:55,000
+ker spet odvisno od hitboxov, nekako zgleda player,
+
+312
+00:24:55,000 --> 00:24:57,000
+kaj je v kateri animaciji, da te on zadame,
+
+313
+00:24:57,000 --> 00:25:00,000
+točno v zadnji moment, ko ti bo šel v prvi dol.
+
+314
+00:25:00,000 --> 00:25:10,000
+Nočen derelet, smerite debatamo. Vse ima zanima se okvarjati s tem aktivnim iskanjem cheaterjev, ali pa ...
+
+315
+00:25:10,000 --> 00:25:12,000
+Ne, nimamo toliko problemov.
+
+316
+00:25:12,000 --> 00:25:14,000
+Da bi ni ...
+
+317
+00:25:14,000 --> 00:25:24,000
+Ne, ni toliko problemov. Problem je mogoče na tistih kompetitivnih par igralcih, ki igrajo res na privatnih serverih med sabo, pa se pol krege, kdo keči, tako, ne vem.
+
+318
+00:25:24,000 --> 00:25:27,000
+Za nas to ni nek priority.
+
+319
+00:25:27,000 --> 00:25:29,000
+Komuniti je še zmer happy in ni to cheaterjev.
+
+320
+00:25:29,000 --> 00:25:32,000
+Ja, ne, cheaterjev jih je precej zelo, zelo malo.
+
+321
+00:25:32,000 --> 00:25:33,000
+Super.
+
+322
+00:25:33,000 --> 00:25:36,000
+Pa, kadar jih najdemo, so obvjesni, da kad jih več benamo.
+
+323
+00:25:36,000 --> 00:25:42,000
+Ej, daj mi še to odgovar, pa bomo pošli po te poti naprej.
+
+324
+00:25:42,000 --> 00:25:55,000
+Zakaj morehound, zakaj vitezi, zakaj sable, zakaj ta srednjeveška tematika, zakaj ni to, ne vem, v vesolju?
+
+325
+00:25:55,000 --> 00:25:58,000
+Mi smo štartali z tega, da hočemo narediti tale melee game, ne.
+
+326
+00:25:58,000 --> 00:26:02,000
+To, da imaš te pač blizu, da si pa, da se mlatiš v stormi.
+
+327
+00:26:02,000 --> 00:26:04,000
+To je bil starting point.
+
+328
+00:26:04,000 --> 00:26:08,000
+Zdaj, iz tega bi, ja, lahko bi šli v katerokolaj tako smer.
+
+329
+00:26:08,000 --> 00:26:15,000
+Razlog za medieval je pa bilo, mi smo, nas je bilo v bistvu devet ljudi.
+
+330
+00:26:15,000 --> 00:26:16,000
+Devet ljudi vsega?
+
+331
+00:26:16,000 --> 00:26:17,000
+Ja.
+
+332
+00:26:17,000 --> 00:26:19,000
+In to so bili vsi porazdeljeni po celem svetu.
+
+333
+00:26:19,000 --> 00:26:20,000
+OK.
+
+334
+00:26:20,000 --> 00:26:27,000
+Organizacije, da bi jih res držali, pa to je bilo, treba je bilo delati s tem dejstvom, da je to, pač ne moreš, enostavno.
+
+335
+00:26:27,000 --> 00:26:30,000
+Mislim, načeloma bi lahko, ampak bi smo mogli biti bistveno več.
+
+336
+00:26:30,000 --> 00:26:33,000
+Pa nismo imeli nobenega, ki bi samo se z managementom ukvarjali, pa produkcijo ali karkoli.
+
+337
+00:26:33,000 --> 00:26:35,000
+Vsi smo nekaj konkretno delali.
+
+338
+00:26:35,000 --> 00:26:41,000
+Tako, da sem jih jaz nekako skušal nadzirati oziroma postaviti stvar, da bo funkcionirala.
+
+339
+00:26:41,000 --> 00:26:54,000
+In izi način, da recimo 3D art uskladiš, je, da ga fokusiraš na recimo medieval, ker potem imaš te stare slike, manuskripte, reference in kar nekaj se paše skupaj.
+
+340
+00:26:54,000 --> 00:27:01,000
+Če bi pa ti delal nek space game, pa rečeš različnim artistom, petje neki del, vsak naredi svoje in sploh ne paše skupaj.
+
+341
+00:27:01,000 --> 00:27:03,000
+Koncept arti lažje.
+
+342
+00:27:03,000 --> 00:27:04,000
+Ja.
+
+343
+00:27:04,000 --> 00:27:05,000
+V bistvu ga sploh ne rabiš.
+
+344
+00:27:05,000 --> 00:27:06,000
+Ja.
+
+345
+00:27:06,000 --> 00:27:07,000
+Mi ga nismo niti imeli.
+
+346
+00:27:07,000 --> 00:27:08,000
+Sam pogledaš knjige in ...
+
+347
+00:27:08,000 --> 00:27:10,000
+In vse paše, vse je smiselno, ne.
+
+348
+00:27:10,000 --> 00:27:18,000
+Druga stvar je, da itak je to tak stil igre, ker vemo, da medieval deluje, nismo pa še videli kar koli druge kot medieval.
+
+349
+00:27:18,000 --> 00:27:21,000
+Tako da iz market vidi, kaj bi bilo to preveč riskantno.
+
+350
+00:27:21,000 --> 00:27:23,000
+Pa nam je bil cool medieval, mislim.
+
+351
+00:27:23,000 --> 00:27:27,000
+Čisto cool, imaš to, imaš kri, imaš dekapitešne, pa vse te stvari.
+
+352
+00:27:28,000 --> 00:27:34,000
+Ej, razmišljam, če moramo za ta podcast posebej pogledati, da je explicit content tam oklopeno, ali ne?
+
+353
+00:27:35,000 --> 00:27:36,000
+Moramo, ne?
+
+354
+00:27:37,000 --> 00:27:38,000
+Ne, pomaga nekaj.
+
+355
+00:27:38,000 --> 00:27:39,000
+Ne.
+
+356
+00:27:39,000 --> 00:27:40,000
+Dokler ne konemo, je vse v redu.
+
+357
+00:27:40,000 --> 00:27:41,000
+Ja.
+
+358
+00:27:41,000 --> 00:27:43,000
+Lahko govorimo v glavljenju, ne smemo pa koneti.
+
+359
+00:27:43,000 --> 00:27:44,000
+Okej.
+
+360
+00:27:44,000 --> 00:27:48,000
+Ja, lej pač, tudi standardi za explicit so se globalizirali, zelo v redu.
+
+361
+00:27:48,000 --> 00:27:49,000
+Ja.
+
+362
+00:27:49,000 --> 00:27:57,000
+Mislim, apsolutno, očitno je market za immersive igre vsebne, ki so pač akcija.
+
+363
+00:27:58,000 --> 00:28:03,000
+Ljudje hiperlijo po različnih igrah, jel kaj.
+
+364
+00:28:04,000 --> 00:28:12,000
+Mislim, jaz sem ful, ko sem raziskoval to zadevo, pač, mislim, da ste ful neko nišno vejo igre našli, ne.
+
+365
+00:28:13,000 --> 00:28:20,000
+Če prav razumem, so bile nekaj druge igre, ne vem, ti si ful bolj poznal, ki so imeli mačevanje, pa že zelo dolgo ni bilo nobene.
+
+366
+00:28:21,000 --> 00:28:23,000
+Ja, Chivalry je bil v 2012, ja.
+
+367
+00:28:24,000 --> 00:28:26,000
+Ali danes imate kaj več konference?
+
+368
+00:28:27,000 --> 00:28:30,000
+Ja, Chivalry je zdaj v nadaljevanje potem.
+
+369
+00:28:31,000 --> 00:28:33,000
+Tako da je, trg je definitivno my hands.
+
+370
+00:28:34,000 --> 00:28:36,000
+Ni tako velik trg za te igre, kot kaj šuter je, ne.
+
+371
+00:28:37,000 --> 00:28:40,000
+Tako da se pozna, če so zdaj dva igre na tem trgu, ne.
+
+372
+00:28:40,000 --> 00:28:41,000
+Se pozna.
+
+373
+00:28:41,000 --> 00:28:50,000
+Meni se zdi, da je v bistvu ta morhal tudi zbrsto ven iz tega babla, pač se mi zdi, da je bil takrat na neki točki tudi.
+
+374
+00:28:51,000 --> 00:28:59,000
+Ni to samo za določen aspekt playerev, zdi se mi, da je pač folk to bil tako, ok, jaz bom to s kolegi ste igrali, čeprav nisem pol v tem.
+
+375
+00:28:59,000 --> 00:29:01,000
+Ja, huge je bil. Launch je bil huge.
+
+376
+00:29:02,000 --> 00:29:06,000
+Mislim, da smo bili tako tretji na Twitchu par dni takrat.
+
+377
+00:29:07,000 --> 00:29:10,000
+Pa top sellerji smo bili na Steamu, mislim, da kar ne tri tedne.
+
+378
+00:29:11,000 --> 00:29:14,000
+Tako da, pa tako mislim, res number one številka, ne.
+
+379
+00:29:15,000 --> 00:29:19,000
+To je bilo huge. To so vsi streameri prišli gor, pa igrali, pa vse.
+
+380
+00:29:21,000 --> 00:29:27,000
+Na splošno je tudi presenetljivo tako, koliko ljudi ga je poznalo, je igralo.
+
+381
+00:29:27,000 --> 00:29:34,000
+Zdaj je sicer manj, ker je itak že tri leta ne od tega, ampak ja, tudi tako, kr znani ljudje.
+
+382
+00:29:34,000 --> 00:29:37,000
+Mislim, da na neki točki je Post Malone igral.
+
+383
+00:29:38,000 --> 00:29:43,000
+Tako da je, pa on je Mountains Game of Thrones streamer.
+
+384
+00:29:44,000 --> 00:29:48,000
+A kaj delate, da zdržite ta playerbase, kako to prve zdaj sleda?
+
+385
+00:29:48,000 --> 00:29:51,000
+Dejansko naš playerbase gre kar dol s časom.
+
+386
+00:29:52,000 --> 00:29:58,000
+Težko ga držimo, predvsem je tukaj smo obvodili, da je ful težava to, da igra postane težja s časom.
+
+387
+00:29:59,000 --> 00:30:06,000
+Ljudje, ker je multiplayer, je PvP, ljudje dobijo neke strategije, se naučijo.
+
+388
+00:30:07,000 --> 00:30:10,000
+Razumejo drugače animacije, bolj specifično.
+
+389
+00:30:11,000 --> 00:30:14,000
+In učijo druge playerje in se spreminja način igranja.
+
+390
+00:30:14,000 --> 00:30:18,000
+In s časoma je postalo to težje in težje in težje.
+
+391
+00:30:19,000 --> 00:30:25,000
+Kaj to pomeni, da za začetnike, ki jih dajo hord, je tako težko?
+
+392
+00:30:26,000 --> 00:30:29,000
+Ja, mislim, je čisto drugače. Sedaj smo neki stvari skušamo potem oblažiti.
+
+393
+00:30:30,000 --> 00:30:37,000
+To, da dodamo kakšne posebne strežnike za začetnike, ampak ni dobre rešitve za ta problem.
+
+394
+00:30:38,000 --> 00:30:41,000
+Ker se res, mislim, to se zgodi z vsako tako igro.
+
+395
+00:30:41,000 --> 00:30:43,000
+Vsaj do zdaj se je vedno zgodilo.
+
+396
+00:30:44,000 --> 00:30:52,000
+Na začetku je feeling tak, da vsi pridejo gor, vidijo te twitch streamerje, pa vsi tečejo, pa se neki mlatijo, pa noben ne ve kaj dela.
+
+397
+00:30:53,000 --> 00:31:02,000
+In je feeling drugačen, ker ti nekoga zamahneš proti nekomu in on jih se neki smeje, pa hoče se braniti, pa ne uspe, pa ga zadaneš, pa evo, kul, sem ga zadev.
+
+398
+00:31:03,000 --> 00:31:05,000
+Zdaj pa je bolj to tako, da ga mlatiš, on jih se pa stalno branje.
+
+399
+00:31:05,000 --> 00:31:11,000
+In ti mu ne moraš nič, on tebe mlati, pa se ti neki braniš, pa pravi ful časa preden, da dobi vdarec in to več ni isti feeling.
+
+400
+00:31:12,000 --> 00:31:13,000
+Taka vpad v pozicijo.
+
+401
+00:31:14,000 --> 00:31:29,000
+A se potem ful intenzivno ukvarjate s tem onboardingom, oziroma s tem first experience, ko jaz inštaliram game, ga začnem igrat, da, a veš, ta prvi feedback je verjetno ful pomembna.
+
+402
+00:31:30,000 --> 00:31:34,000
+Ljudje pa skozi igrajo, pa potem, če imajo verjetno slabo izkušnjo, kaj se potem zgodi, gre strano?
+
+403
+00:31:35,000 --> 00:31:36,000
+Ja, ali pa refundajo.
+
+404
+00:31:37,000 --> 00:31:38,000
+Ja, dejansko refundajo.
+
+405
+00:31:39,000 --> 00:31:41,000
+Ja, mislim, da dve ure imajo, potem pa refundajo lahko.
+
+406
+00:31:44,000 --> 00:31:51,000
+Ja, mislim, smo se tudi s tem ukvarjali precej, ampak je zelo težko tako stvar rešiti potem v post.
+
+407
+00:31:52,000 --> 00:32:00,000
+Ko enkrat že grejo tisti veliko val plejerjev, potem ti ostane ta community, ki je aktiven in jih je precej, ampak je težko potem spet zarast gor.
+
+408
+00:32:01,000 --> 00:32:07,000
+Predvsem za PvP igre je to težko, za co-op je bistveno lažje, ker dodaš nov content, pa plejeri pridejo nazaj in igrajo.
+
+409
+00:32:08,000 --> 00:32:19,000
+Tako da s tem, mislim, mi tudi ne baziramo na tem, da bi bil zdaj to mordhal, pa da bo to trajalo, ne vem, še koliko dolgo, ampak počasi že pivotamo na nove projekte.
+
+410
+00:32:20,000 --> 00:32:27,000
+Tako da ni imamo cilja, da bi to res vzdržavali na takem nivoju, bomo vzdržavali, ampak zmerno.
+
+411
+00:32:29,000 --> 00:32:39,000
+A ta, samo, ne vem, kostomizacij, sam si prej na začetku rekel, da si tvek v te servere in je to te tudi na nek čin pretegnalo v igru.
+
+412
+00:32:39,000 --> 00:32:52,000
+Tu v tej igri je ogromno orožje, pa če ta character building je tudi ekstremno pomemben za igravceva in dejte malo več povednosti.
+
+413
+00:32:53,000 --> 00:32:57,000
+Ja, mislim, da imamo, se ne vem, če imamo, že tisoč kosov v te opreme razne.
+
+414
+00:32:58,000 --> 00:33:05,000
+Tega je ogromno, mislim, to je, pretiravili smo ful pri sami kostomizaciji, pač imaš ta face sculpting, da si narediš svoj face.
+
+415
+00:33:06,000 --> 00:33:09,000
+Zakaj to rabiš v pvp-gemu, ne vem, ampak smo ga dodali.
+
+416
+00:33:10,000 --> 00:33:14,000
+Dakle, dosti krat smo vdajali krfiče, recimo, tisto lutnjo lahko igraš, zakaj, ne vem, lahko.
+
+417
+00:33:15,000 --> 00:33:28,000
+Potem smo imeli en kup teh kosov opremene, imaš rukavice, pa imaš tukaj na roki, imaš en oklep, pa imaš na rami, imaš en oklep, pa imaš na prsih, imaš en oklep, pa imaš na glavi, imaš oklep, pa na vratu, imaš oklep, pa na nogah.
+
+418
+00:33:29,000 --> 00:33:31,000
+A pa je to bazirano na realnosti?
+
+419
+00:33:31,000 --> 00:33:38,000
+Ne, oklepi so, nekateri so tudi malo zmišljeni, ampak dejstvo je, da ti lahko vse to spreminjaš, neodvisno skoraj, ne.
+
+420
+00:33:39,000 --> 00:33:44,000
+In pa ga barvaš, pa te zadeve in je to nek tak barbi simulator, ne, delaš svojo.
+
+421
+00:33:46,000 --> 00:33:54,000
+In igralci ful to majo radi in ful tega je, ful si, nekateri pridejo pač v igro z to, da si delajo te loadoute, ne.
+
+422
+00:33:55,000 --> 00:33:56,000
+Tako da tega je ful, ja.
+
+423
+00:33:57,000 --> 00:33:59,000
+A potem kupujejo te...
+
+424
+00:34:00,000 --> 00:34:01,000
+Mi imamo ta cheater.
+
+425
+00:34:02,000 --> 00:34:20,000
+Mi imamo in game gold sistem, ga dobiš ko igraš, nismo imeli DLC-e do, mislim, da lani, lani smo jih začeli prvič dajati, da malo revenue dvignemo, ampak je, večinoma tega je igraš, z game, z časom v igri dobiš gold.
+
+426
+00:34:21,000 --> 00:34:26,000
+To je najboljše, te DLC-e so neka možnost community-a, da vas pač podpravljajo še za naprej, ne, najbolj tako.
+
+427
+00:34:26,000 --> 00:34:31,000
+Da razvstaš od DLC-e za vsaj, ki so Tetris na zadnje igrali.
+
+428
+00:34:33,000 --> 00:34:35,000
+V bistvu je to neka nova vsebina, ne.
+
+429
+00:34:37,000 --> 00:34:52,000
+Nova vsebina, za katero moraš imeti osnovno igro, ki jo tudi kupiš, ampak ta nova vsebina ti, recimo, da novo klep, pa daš, ne vem, od pet evrov, pa dobiš eno klep pa en meč ali nekaj takega, ki ga drugače stvari ne moraš dobiti.
+
+430
+00:34:53,000 --> 00:35:06,000
+Bilo sem nekaj časa nazaj, da je, mislim, da World of Warcraft je bil tak znan potem, da si ti zbil do karakter, do nekega full level-a ali kaj in potem si ga prodal.
+
+431
+00:35:07,000 --> 00:35:10,000
+Ali se vam tudi prodaja full karakter?
+
+432
+00:35:11,000 --> 00:35:20,000
+Ne, ne, tega ni, v World of Warcraft je bilo to drugače malce, ker ti si delal ta karakter, ne, in si dejansko je postal močnejši,
+
+433
+00:35:20,000 --> 00:35:27,000
+bolj zmogljiviši, lahko je delal druge stvari. Pre nas tega ni, vse stvari, ki jih ti odkleneš s tem goldom, so samo kozmetične.
+
+434
+00:35:28,000 --> 00:35:45,000
+Ti imaš sicer, je, ok, drugi oklep, ampak imamo, recimo, tri type oklepov, pravzaprav štirino in glede na to, kateri tip je, ali je to light, medium, heavy, ima določene stece, ampak to je fiksno.
+
+435
+00:35:45,000 --> 00:35:48,000
+Potem pa ti sem to kozmetično, drugače malo zgleda, ne.
+
+436
+00:35:49,000 --> 00:35:52,000
+To bi bil najbrž tudi Nočna mora, če bi bih hotel to splesirati, ne.
+
+437
+00:35:53,000 --> 00:36:13,000
+Ja, ne mogoče, že to je, tega je toliko, že to je preveč, da je absolutno preveč, ker imamo, ne vem, štiri različne armorije, sicer ločimo samo na glavi, pa na prsih, pa na nogah, ampak pol je še noge, pa prsa, pa glava ima različne bonuse, pa weapony ima različne za vsaka kost, tako da tega je vrono.
+
+438
+00:36:14,000 --> 00:36:15,000
+Lepa matrika.
+
+439
+00:36:16,000 --> 00:36:29,000
+A te, ko je v bonusih potem govoriš, je to nekaj, kar je insight, ki ga veš kot razvijalec, ali je to nekaj, kar tudi napišeš, ne vem, ljudje vejo ali, mislim.
+
+440
+00:36:30,000 --> 00:36:32,000
+Vejo oziroma, ja, ne, ne.
+
+441
+00:36:34,000 --> 00:36:36,000
+Resni, ki dolgo časa igrajo.
+
+442
+00:36:36,000 --> 00:36:43,000
+Ja, ne, vejo, vejo, ker je vse to tudi v not, imaš en takt teb, ker pogledaš lahko vse te stece, ne, za orožje.
+
+443
+00:36:44,000 --> 00:36:45,000
+Globoko smo šli, všeč me.
+
+444
+00:36:46,000 --> 00:36:47,000
+Ja, ja.
+
+445
+00:36:48,000 --> 00:36:53,000
+Tako, jaz, pol enih stvari, ki nikoli ne bih mislil.
+
+446
+00:36:54,000 --> 00:37:02,000
+Npr. zloh to, zakaj ta tema, jaz zato, ker imaš v bistvu peč koncept art narejen in ne laži ljudi v skladbi.
+
+447
+00:37:03,000 --> 00:37:07,000
+A te zvoke pa to tudi kupite ali to sami snemate?
+
+448
+00:37:08,000 --> 00:37:17,000
+Na začetku, v bistvu, do izdajene zvoke sem na čeloma zamordko deloval, tako da so bili kupljeni in potem spremenjeni, izrezani, tako kot morajo biti.
+
+449
+00:37:18,000 --> 00:37:26,000
+Tam je bilo, ja, tega je bilo kar precej, zdaj tega ne delam več, hvala Bogu, ampak sem še vedno opleten, če kar koli.
+
+450
+00:37:27,000 --> 00:37:34,000
+Ampak, ja, precej stvari smo, mislim, precej, predvsem zvoke, zvokov nismo snemali, to pa res ne.
+
+451
+00:37:35,000 --> 00:37:44,000
+Razen vojsov, imamo tudi te vojse v igri, lahko si izbereš, to smo, takrat smo dobili ljudi, ki so na preko maila prišli pa rekli, ja, jaz bi nekaj posnel, pa to.
+
+452
+00:37:45,000 --> 00:37:51,000
+In sem rekel, ok, če bi bil kašen, ki bi bil dejansko se ukvarjal s tem, amatersko sicer, ampak, ok, so posneli in so bili cool.
+
+453
+00:37:52,000 --> 00:37:58,000
+In je pa bilo tako, ful je bilo, nekako, nismo imeli dober pipeline za to, no.
+
+454
+00:37:59,000 --> 00:38:04,000
+Nekdo se je mogel javiti, v bistvu, ali pa nekoga poznati, ne, da smo potem to mi furali.
+
+455
+00:38:05,000 --> 00:38:09,000
+In posem jaz to nekako malo porezal, pa je uni malo porezal, pa posem sem to spravil na to igro.
+
+456
+00:38:10,000 --> 00:38:15,000
+Zdaj imamo to drugače narejeno, dejansko gremo preko agencije, agencija najde ljudje in tako, da ta stvar lahko fura.
+
+457
+00:38:16,000 --> 00:38:20,000
+In kaj ste začeli, rekel si, kako je bilo, 9, 8?
+
+458
+00:38:21,000 --> 00:38:22,000
+Ja, 9, ja.
+
+459
+00:38:23,000 --> 00:38:32,000
+Pač to je tako impresivno, ti imaš v bistvu, to je pač tvoja core ekipa, ti delaš špil, ki je pač top svetovan špil.
+
+460
+00:38:33,000 --> 00:38:36,000
+Kako to zgleda, ne, ker to je spet ena stvar.
+
+461
+00:38:37,000 --> 00:38:43,000
+Ti greš na otok Sapalmo, kjer je tri stvari v sabo vzem, zdaj, prve se je bilo poveč, malo več ljudi.
+
+462
+00:38:43,000 --> 00:38:44,000
+Ja, ja.
+
+463
+00:38:45,000 --> 00:38:46,000
+Kako je to razmišljeno?
+
+464
+00:38:47,000 --> 00:38:53,000
+Na začetku so bili to bolj ali malj vsi nekako tako, ali živeli doma ali nekako, narejeno je bilo.
+
+465
+00:38:55,000 --> 00:39:07,000
+V 2017 smo sicer Kickstarter imeli, pa smo tistih 300 tisoč nekako dobili, ampak to ni tudi šlo prav daleč, glede na to tudi, da smo mogli še potem za serverje pa to rezervirati.
+
+466
+00:39:08,000 --> 00:39:15,000
+Naša ekipa je bila iz dveh programerjev, jaz sem bil eden od teh.
+
+467
+00:39:16,000 --> 00:39:30,000
+Od artistov nas jih je bilo, mislim, da štirje, pa potem dva dezainerja, eden od teh je bil level dezainer,
+
+468
+00:39:30,000 --> 00:39:37,000
+kar pomeni, da je pač te stvari, ki so artisti naredili, postavljali v pol levelih, ampak tudi nekatere te artisti so te stvari počeli.
+
+469
+00:39:38,000 --> 00:39:40,000
+Tempa ne vem, kdo je bil še devetih.
+
+470
+00:39:41,000 --> 00:39:51,000
+A ta Kickstarter, ne, mislim, ena zadeva, ki jo smo raziskvali, pa tukaj je z topa, je ta community, ne.
+
+471
+00:39:51,000 --> 00:40:02,000
+To je, znači danes, predvsem indie game imajo plazne velike community in že preden, ko se pripravljajo, sploh, da bo igra naredila, se že ustvarjajo nekaj community, ne.
+
+472
+00:40:03,000 --> 00:40:08,000
+A tudi ti developeri, ki si vmenil ta ekipa, a je tudi eno, s kojo je z tega community nastala?
+
+473
+00:40:09,000 --> 00:40:16,000
+Ja, ja, iz community-a od Chivalry, kar smo tisto igrali in tam sem jih v bistvu spoznal, ta folk.
+
+474
+00:40:17,000 --> 00:40:20,000
+Tako, to so dobesedno prišli tako iz team cheta.
+
+475
+00:40:21,000 --> 00:40:22,000
+Tako, do.
+
+476
+00:40:22,000 --> 00:40:27,000
+Jaz nisem jih dal v življenju, mislim, pol sem jih videl, ampak dotakrat pojma nisem imel.
+
+477
+00:40:29,000 --> 00:40:39,000
+Ja, oni so, nekateri od njih, zdaj Chivalry je imel tudi ta, kar se zdaj malo bolj dogaja, je, da vsake tolkašna igra sponzorira kakšen modding contest.
+
+478
+00:40:39,000 --> 00:40:50,000
+Pa majem priz z namenom, da potem ta najboljši, ne, ga dajamo to v igro in njim to v bistvu poceni kontent za playerje, pa to nekaj cash-a ali pa recognition.
+
+479
+00:40:51,000 --> 00:40:55,000
+In teji naši, ne, kar nekaj od njih je sodelovalo v tem.
+
+480
+00:40:56,000 --> 00:41:02,000
+Tako, da smo jih iz tam pobrali, nekateri so s nej, en, mislim, par se jih je tudi javilo, ko smo dali kakšen post.
+
+481
+00:41:03,000 --> 00:41:10,000
+Ful je bilo filtriranje, da najdeš to pravo osebo, ker delati z ekipo, ne, ki ni plačena, je čisto druga stvar.
+
+482
+00:41:11,000 --> 00:41:16,000
+Mi smo jih tudi srečo, da ne obbeniš ostran z ekipe v vseh štirih, treh letih pa po, ki smo delali.
+
+483
+00:41:17,000 --> 00:41:19,000
+Ampak včasih so se, ljudje so se mogli jesti.
+
+484
+00:41:20,000 --> 00:41:30,000
+Ja, ampak so bolj ali manj bili, zato smo, ko zbiraš te ljudi, ne, moraš paziti, da so to lahko ljudje, ki bojo živeli doma praktično, pa so dovolj mladi.
+
+485
+00:41:31,000 --> 00:41:34,000
+In so dovolj perspektivni in ne bojo povzročili problemov.
+
+486
+00:41:36,000 --> 00:41:37,000
+In to je to.
+
+487
+00:41:38,000 --> 00:41:39,000
+To si fulj nastavno opisal zdaj.
+
+488
+00:41:40,000 --> 00:41:41,000
+Vsak, vsak start-up.
+
+489
+00:41:42,000 --> 00:41:44,000
+Najmejo slošalci, če želite gre biti v ekipo.
+
+490
+00:41:46,000 --> 00:41:52,000
+Pa, seveda, programer ponovadi moraš biti sam, ker programerje boš zelo težko našel, ki bojo, vedno bojo dobili službo.
+
+491
+00:41:53,000 --> 00:41:56,000
+Zdaj tisti 3D umetniki, ne, pa če umetniki stradejo, ne, oni so navajani na to.
+
+492
+00:41:56,000 --> 00:41:57,000
+Navajani na to.
+
+493
+00:41:58,000 --> 00:41:59,000
+Ne.
+
+494
+00:42:00,000 --> 00:42:04,000
+Tako ja, pač najlepše je to zdaj z vodeljmanjem.
+
+495
+00:42:05,000 --> 00:42:09,000
+Ta projekt je totalno nor in bil narenj totalno strastelj.
+
+496
+00:42:10,000 --> 00:42:11,000
+In celotekl.
+
+497
+00:42:12,000 --> 00:42:15,000
+In veliko dela celotekla, kosmičev in vode.
+
+498
+00:42:16,000 --> 00:42:17,000
+Vode, ja.
+
+499
+00:42:18,000 --> 00:42:22,000
+Tako da ta medieval tema ni bila samo v Art Direction, ampak je bil doma.
+
+500
+00:42:23,000 --> 00:42:32,000
+Hotov sem tudi pravim še enkrat o tega, te epizode, kaj v bistvu začeti sploh s tem dane začeti s nekim v gaming industrije.
+
+501
+00:42:33,000 --> 00:42:46,000
+Pa bi hotel nekaj predstaviti, da vidiš, da je, se želiš delati, pa sem zdaj si ful ponudil nekaj odgovor, preko tega, da pač ta moding je v bistvu tak zelo lep, lepa priložnost, za začeti nekaj delati v tem.
+
+502
+00:42:46,000 --> 00:42:59,000
+Ja, če hočeš delati v indie sceni, je definitivno, oni, ki bo bil programer, bo imel vse v rokah, ne, v teh timih, ker res programmerje je ful težko dobiti.
+
+503
+00:43:00,000 --> 00:43:08,000
+Še zdaj, tudi če jih plačeš, je težko dobiti. Kaj še le tam. Vse drugo se da najt ali pa rešit, vse imaš te asset store, imaš vse te stvari.
+
+504
+00:43:08,000 --> 00:43:16,000
+Lahko predvsem narediš in pokažeš in pri nas je bilo predvsem to, da sem, ko smo pristopili, do vsakega sem pristopil, ne, sem že imel nekaj.
+
+505
+00:43:17,000 --> 00:43:27,000
+Nekaj za pokazati nekaj, kar si lahko igral, ne. Tako da najlažji način za začet v indie industrije je bit programer, poleg vsega drugega.
+
+506
+00:43:28,000 --> 00:43:37,000
+To pač pomeni, da si mojster jezika, pa mojster nekega ogrodja, ko kar je pač analizirati.
+
+507
+00:43:38,000 --> 00:43:47,000
+Ja, oddiroma se naučiš, pač se lotiš tega, pač nešto stvarjaš v temu in ne se bat stvari, kot so recimo, ne vem, delati 3D animacije ali pa kašen zvok.
+
+508
+00:43:48,000 --> 00:43:52,000
+Ker to, pač ljudi, ki bi delali samo to, jih v ponovadi ne boš dobil.
+
+509
+00:43:53,000 --> 00:44:02,000
+Imel boš recimo tri ljudi v ekipci, eden od teh bo kašen 3D artist, programer, ni prostora za nekoga, ki bi se ukvarjal s produkcijo ali pa s managementom.
+
+510
+00:44:03,000 --> 00:44:04,000
+Ja, seveda.
+
+511
+00:44:05,000 --> 00:44:07,000
+Ja, tako da je, ja.
+
+512
+00:44:09,000 --> 00:44:12,000
+Oto, kaj je prav tvoj kompas in tvoja darta po potovanju.
+
+513
+00:44:13,000 --> 00:44:28,000
+Ne, pol sem še hotel še eno stvar dodati. Se mi zdi, da mladi, ki igrajo igre, pa mogoče jih zanima, kako deluje igre, pa si želijo v to industrijo iti.
+
+514
+00:44:29,000 --> 00:44:42,000
+Ta, community obstaja, pač in the game community, pa teše to povej, ker se mi zdi, da to mogoče, ne, poprečen dijak, ali pa števenci tega ne vejo, ali pa mogoče vejo.
+
+515
+00:44:43,000 --> 00:44:48,000
+Ne povej, kako je ta suport za ljudi, ki si želijo iti v industrijo obzadeno.
+
+516
+00:44:49,000 --> 00:45:05,000
+E je community, kjer se bo lahko naučili stvari in bojo ljudje pomagali dobiti to ostrezno znanje ali pač če si en janec v nekem kraju, vrjetno ne boš me okrog game developerja skatenil in se boš vsak dan pogovarjal, ampak.
+
+517
+00:45:06,000 --> 00:45:25,000
+Ja, v bistvu kar bi jaz tukaj predlagal je, da če računaš na to, ti bo kdorkoli pomagal, si v napačni industriji, ker dejansko je tukaj ful enega dela potrebnega in enostavno treba vse, kar ti je potrebno, danes je ful laž začet, da ne bo pomote.
+
+518
+00:45:25,000 --> 00:45:36,000
+Pobereš si dol, ne vem, Unreal ali pa Unity, tutorialo imaš en kup, nič drugega ne rabiš. Če ti to ni dovolj, potem si v napačni industriji, ker je ful kompetitivna in je ful težko uspeti.
+
+519
+00:45:37,000 --> 00:45:47,000
+Tako da moraš biti boljši od tistega, ki sedi na forumu pa sprašuje vse, ki ga boš sicer videl, ker boš iskal odgovore, ampak don't be that guy.
+
+520
+00:45:48,000 --> 00:45:58,000
+Loti se samo nekaj časa uloži v tono. Vedno za današnji sti roadblock, ampak ustrajaš in se prebiješ skozi zid in to je to.
+
+521
+00:45:59,000 --> 00:46:02,000
+Filter je tam tisti, ki ne ustrajajo.
+
+522
+00:46:03,000 --> 00:46:12,000
+Engine so dostopni, vse je dejansko na dosegu, nič ne rabiš plačati.
+
+523
+00:46:13,000 --> 00:46:23,000
+Unreal je free, pa pol daš tistih 5%, ne vem, koliko je zdaj. Potem imaš pa Unity, ki pa itak spet free.
+
+524
+00:46:23,000 --> 00:46:25,000
+Dej mi še to povej.
+
+525
+00:46:26,000 --> 00:46:33,000
+Games, pa sam si rekel, da so pričakovanja ljudi ekstremno visoka.
+
+526
+00:46:35,000 --> 00:46:44,000
+Če si danes, ne vem, programer, pa si reče, igru bom naredil, je to, ko začneš razmišljati, kaj vse bom jaz mogel narediti za neki game.
+
+527
+00:46:45,000 --> 00:46:47,000
+Je lahko overwhelming in bo na nek nečin tudi ljudi odvrnalo.
+
+528
+00:46:48,000 --> 00:47:03,000
+Moje vprašanje je, kako mogoče tako Hello World ali Simple Game, kako na svet bi ponudil nekomu, da bo naredil svoj game, da bo dovolj enostaven,
+
+529
+00:47:04,000 --> 00:47:08,000
+pa da bo prišel čez cel proces, da bo dodajansko ga dal nekomu, da zaigrat.
+
+530
+00:47:09,000 --> 00:47:11,000
+V bistvu je to vprašanje ful je tricky.
+
+531
+00:47:14,000 --> 00:47:25,000
+Kako ti je rekel, če ti razmišljaš o tem, kaj boš ti ravil naredil, to viš, da to je štir leta, pet let, ne vem, koliko časa bom ravil.
+
+532
+00:47:26,000 --> 00:47:29,000
+In potem to automatsko, mislim, tega ne boš oddelal, to ne gre skozi.
+
+533
+00:47:31,000 --> 00:47:36,000
+V bistvu moraš biti naiven, ampak ne sreč biti preveč naiven.
+
+534
+00:47:37,000 --> 00:47:43,000
+Če gremo iz mojega primera, jaz sem mislil, da vsako leto od 2014, da bomo izdali tisto leto, da bo vse končalo.
+
+535
+00:47:44,000 --> 00:47:50,000
+Absolutno ni šans, če bi jaz vedel, da bom pet let mogoče to delati, jaz bi rekel, ne hvala, grem nekaj drugega.
+
+536
+00:47:51,000 --> 00:48:00,000
+Ampak sem bil dovolj naiven, da sem mislil, da se igra tudi spreminjala, kaj bi izdal sploh ven, ampak sem izdal vedno, to smo zdaj škorti tle, še malo to spremenimo, pa je.
+
+537
+00:48:00,000 --> 00:48:06,000
+In potem na koncu sem, kaj sem jaz razmišljal, to je še vsaj eno leto. In vsaki, če bo eno leto, eno leto, eno leto.
+
+538
+00:48:07,000 --> 00:48:09,000
+Ampak zaradi tega sem potem tudi ustrajal.
+
+539
+00:48:10,000 --> 00:48:15,000
+Tako da, malo moraš biti naiven, če pa si preveč naiven, pa začneš, to imaš drugje ekstremno.
+
+540
+00:48:16,000 --> 00:48:22,000
+Ko začnejo, pa reče, jaz bom pa zdaj MMO naredil, World of Warcraft 2, pač trije smo in to bo zdaj to.
+
+541
+00:48:24,000 --> 00:48:26,000
+To pa ti nič ne pomaga, tle pa ti nič ne pomaga.
+
+542
+00:48:26,000 --> 00:48:33,000
+Konkludira boš, da Facebook naredi vse ena forma, pač tri ljude v dve leti pa imamo.
+
+543
+00:48:34,000 --> 00:48:39,000
+Tako da ja, naiven, ampak ne preveč naiven moraš biti, absolutno.
+
+544
+00:48:40,000 --> 00:48:42,000
+A je to naivnost, je to norost, seveda?
+
+545
+00:48:43,000 --> 00:48:45,000
+Ne vem, ne vem, ne vem katero teha.
+
+546
+00:48:46,000 --> 00:48:50,000
+Najbrž na neki točki si se naučil, da si bil naiven, potem prerasti v nekaj drugih motivacij.
+
+547
+00:48:51,000 --> 00:48:57,000
+Če pa potegnem neko paralelo z web developmentom.
+
+548
+00:48:58,000 --> 00:49:09,000
+Web development je toliko uspešen, zato ker, a veš, če hočem drugačne izkušnje, pač uplodam na server eno fajl, pač je izkušnja za vse odjemalce nova.
+
+549
+00:49:10,000 --> 00:49:17,000
+Če naredim mobile app, ga bom mogel na iStore naložiti, pa nek review proces, pa bo spet treba.
+
+550
+00:49:18,000 --> 00:49:27,000
+In pri gamingu je pa verjetno še bolj morajo biti stvari na nek način izpiljene, da so hkrati uporabne, pa stabilne.
+
+551
+00:49:28,000 --> 00:49:34,000
+A je tukaj potem tudi, se ti lahko zgodi ta, veš, iskanje nekega perfekcionizma.
+
+552
+00:49:35,000 --> 00:49:38,000
+A moreš biti perfekcionista ali ne smeš biti?
+
+553
+00:49:39,000 --> 00:49:51,000
+Ja, še ena, mogoče se tudi malo navezuje na tisto vprašanje prej, ki je bilo glede, mislim, opaska, da je dejansko, da so ful zakomplicirane postale igre, pa da je ful težko uspeti.
+
+554
+00:49:52,000 --> 00:49:59,000
+Dejansko je situacija taka, da je trg obstaja za vse tipe igre, tudi za tiste, ki niso tako izpopolnjene.
+
+555
+00:50:00,000 --> 00:50:02,800
+so tudi med njimi take, ki so ful uspešne.
+
+556
+00:50:02,800 --> 00:50:04,800
+Pa so simple, dva d...
+
+557
+00:50:05,500 --> 00:50:07,500
+Razlika je edino v tem,
+
+558
+00:50:07,500 --> 00:50:11,200
+koliko je ljudi, ki jih ustvarja.
+
+559
+00:50:11,200 --> 00:50:14,500
+Ker so lažje in ljudje si pač
+
+560
+00:50:14,500 --> 00:50:16,500
+dosti lažje se jih lotijo.
+
+561
+00:50:17,500 --> 00:50:19,299
+Posledično je več takih igr
+
+562
+00:50:19,299 --> 00:50:20,700
+in teže je uspeti.
+
+563
+00:50:20,700 --> 00:50:22,600
+Bolj, ko zakompliciraš stvar,
+
+564
+00:50:22,600 --> 00:50:24,000
+bolj, ko jo izpopolniš,
+
+565
+00:50:24,000 --> 00:50:27,400
+bolj, ko jo sfiniširaš več časa, kot rabiš,
+
+566
+00:50:27,400 --> 00:50:29,700
+manje ljudi, ki ustraja pri tem.
+
+567
+00:50:29,700 --> 00:50:31,700
+To pomeni, da je manj drugih razvijalcev,
+
+568
+00:50:31,700 --> 00:50:33,299
+kar pomeni, da lažje uspeš.
+
+569
+00:50:33,299 --> 00:50:35,299
+Tako da na določenji
+
+570
+00:50:35,299 --> 00:50:37,299
+imaš tudi potem greš na tiste,
+
+571
+00:50:37,299 --> 00:50:39,299
+ki so res triple A,
+
+572
+00:50:39,299 --> 00:50:41,299
+ampak potem že toliko keša porabiš zato,
+
+573
+00:50:41,299 --> 00:50:42,799
+da je malo nesmiselno.
+
+574
+00:50:42,799 --> 00:50:44,299
+Je nekje sweet spot,
+
+575
+00:50:44,299 --> 00:50:46,299
+ker ni
+
+576
+00:50:46,299 --> 00:50:48,299
+dosti tega nojza
+
+577
+00:50:48,299 --> 00:50:51,299
+v samem storu, v samih produktih, ki prihajajo ven,
+
+578
+00:50:51,299 --> 00:50:54,299
+ampak istočasno ne porabijo preveč ljudi.
+
+579
+00:50:54,299 --> 00:50:55,500
+Al pa premalo.
+
+580
+00:50:55,500 --> 00:50:57,099
+Tako da je fulj odvisno od tega,
+
+581
+00:50:57,099 --> 00:50:59,099
+kam pašeš v ta...
+
+582
+00:51:00,099 --> 00:51:02,500
+Je pa tako, da tiste, zelo enostavne igre,
+
+583
+00:51:02,500 --> 00:51:04,500
+jih je fulj in tudi, če je super igra,
+
+584
+00:51:04,500 --> 00:51:06,500
+lahko se enostavno zgubi nekje na tem šumu
+
+585
+00:51:06,500 --> 00:51:08,500
+in ne proda nič.
+
+586
+00:51:08,500 --> 00:51:10,500
+Ampak verjetno, če si začetnik
+
+587
+00:51:10,500 --> 00:51:12,500
+in vse ta izkušnja,
+
+588
+00:51:12,500 --> 00:51:14,500
+lej, to igra, ki si mi naredil,
+
+589
+00:51:14,500 --> 00:51:16,500
+je na marketu.
+
+590
+00:51:16,500 --> 00:51:19,500
+Šel sem enkrat čez cel proces.
+
+591
+00:51:19,500 --> 00:51:21,500
+Sigurno, ne.
+
+592
+00:51:21,500 --> 00:51:24,500
+Morajo nekaj zadoščani ljudje poskušati najti to tema.
+
+593
+00:51:24,500 --> 00:51:26,500
+Zaključiti neko zadevo.
+
+594
+00:51:26,500 --> 00:51:28,500
+Sigurno je, ampak
+
+595
+00:51:28,500 --> 00:51:30,500
+ne je delati enostavnih igr.
+
+596
+00:51:30,500 --> 00:51:32,500
+Zato, ker, mislim,
+
+597
+00:51:32,500 --> 00:51:34,500
+če jih hočeš delati, jih potem, prav.
+
+598
+00:51:34,500 --> 00:51:36,500
+Ampak s tem ne boš ti nobenega
+
+599
+00:51:36,500 --> 00:51:38,500
+uporabljenega znanja dobil, v glede tega,
+
+600
+00:51:38,500 --> 00:51:40,500
+recimo, ne vem, kako delajo 3D animacij,
+
+601
+00:51:40,500 --> 00:51:42,500
+kako jaz to zlepim skupaj,
+
+602
+00:51:42,500 --> 00:51:44,500
+kakšen je workflow za to.
+
+603
+00:51:44,500 --> 00:51:46,500
+Čisto drugačne tehnike se uporabljajo.
+
+604
+00:51:46,500 --> 00:51:48,500
+Mislim, vse jih so
+
+605
+00:51:48,500 --> 00:51:50,500
+osnove, ki jih lahko uporabiš,
+
+606
+00:51:50,500 --> 00:51:52,500
+seveda, veš, kako dela enjin, veš, kako daš na stor,
+
+607
+00:51:52,500 --> 00:51:54,500
+kakšen store integration, ali kaj takega.
+
+608
+00:51:54,500 --> 00:51:56,500
+Al pa enostavne stvari,
+
+609
+00:51:56,500 --> 00:51:58,500
+ampak je čisto, čisto, čisto
+
+610
+00:51:58,500 --> 00:52:00,500
+druga stvar drugače.
+
+611
+00:52:00,500 --> 00:52:02,500
+Z detalji, ki se moraš ti ukvarjati,
+
+612
+00:52:02,500 --> 00:52:04,500
+ti tudi spremenijo samo arhitekturo igre,
+
+613
+00:52:04,500 --> 00:52:06,500
+kako je zasnovana,
+
+614
+00:52:06,500 --> 00:52:08,500
+s čim se moraš ukvarjati,
+
+615
+00:52:08,500 --> 00:52:10,500
+in tako naprej.
+
+616
+00:52:10,500 --> 00:52:12,500
+Jaz sem se ne učil, da rad delaš težke stvari,
+
+617
+00:52:12,500 --> 00:52:14,500
+tako, mislim, da je zdaj pro doktorato.
+
+618
+00:52:16,500 --> 00:52:18,500
+Kaj pa je tvoj doktorat?
+
+619
+00:52:18,500 --> 00:52:20,500
+Je v teoretičnem računalništvu
+
+620
+00:52:20,500 --> 00:52:22,500
+algoritmična teorija grafo.
+
+621
+00:52:22,500 --> 00:52:24,500
+V bistvu so
+
+622
+00:52:24,500 --> 00:52:26,500
+hitrejši algoritmi za
+
+623
+00:52:28,500 --> 00:52:30,500
+predvsem za najkrajši poti v grafih.
+
+624
+00:52:30,500 --> 00:52:32,500
+Pač v klasičnem problemu je
+
+625
+00:52:32,500 --> 00:52:34,500
+potem je asimptotikanot,
+
+626
+00:52:34,500 --> 00:52:36,500
+pa hitrejši časi
+
+627
+00:52:36,500 --> 00:52:38,500
+v teoriji in
+
+628
+00:52:38,500 --> 00:52:40,500
+nekje tudi v praksi.
+
+629
+00:52:40,500 --> 00:52:42,500
+Ok, lepo.
+
+630
+00:52:42,500 --> 00:52:44,500
+Zdaj nisem se pogovarjal z enem dečkom,
+
+631
+00:52:44,500 --> 00:52:46,500
+ki je delal za
+
+632
+00:52:46,500 --> 00:52:48,500
+Neo4j, pač delal je
+
+633
+00:52:48,500 --> 00:52:50,500
+v firmi Neo4j za Neo4j,
+
+634
+00:52:50,500 --> 00:52:52,500
+to je pač ta commercial
+
+635
+00:52:52,500 --> 00:52:54,500
+offering za
+
+636
+00:52:54,500 --> 00:52:56,500
+graf bazo, najbolj popularne.
+
+637
+00:52:56,500 --> 00:52:58,500
+In smo tako po govoru
+
+638
+00:52:58,500 --> 00:53:00,500
+hitrej ogotovila, da tudi on,
+
+639
+00:53:00,500 --> 00:53:02,500
+ki dela v Neo4j,
+
+640
+00:53:02,500 --> 00:53:04,500
+v resnici ne dela v X-grafi.
+
+641
+00:53:04,500 --> 00:53:06,500
+Da so ful
+
+642
+00:53:06,500 --> 00:53:08,500
+vse v našem delu
+
+643
+00:53:08,500 --> 00:53:10,500
+industrije, so znani kot
+
+644
+00:53:10,500 --> 00:53:12,500
+Silver Bullet, ampak vsi si želijo delati
+
+645
+00:53:12,500 --> 00:53:14,500
+z grafijo, ampak v resnici
+
+646
+00:53:14,500 --> 00:53:16,500
+te tradicionalne baze še
+
+647
+00:53:16,500 --> 00:53:18,500
+vedno so dovolj optimizirane,
+
+648
+00:53:18,500 --> 00:53:20,500
+pa dovolj dobre, da pač večino
+
+649
+00:53:20,500 --> 00:53:22,500
+s kaj so vse pokrijene.
+
+650
+00:53:22,500 --> 00:53:24,500
+Da, sem ta neki trmec na grafe.
+
+651
+00:53:24,500 --> 00:53:26,500
+A to potem, v bistvu,
+
+652
+00:53:26,500 --> 00:53:28,500
+to je povezano z Morehoundom?
+
+653
+00:53:28,500 --> 00:53:30,500
+Ne, ne, čisto nepovezano.
+
+654
+00:53:30,500 --> 00:53:32,500
+To je čisto taka akademska stvar,
+
+655
+00:53:32,500 --> 00:53:34,500
+nič v povezaji z industrijo,
+
+656
+00:53:34,500 --> 00:53:36,500
+zelo malo praktičnega.
+
+657
+00:53:36,500 --> 00:53:38,500
+Ok.
+
+658
+00:53:38,500 --> 00:53:40,500
+Zdaj pač ta podkaz
+
+659
+00:53:40,500 --> 00:53:42,500
+bomo probali še bolj
+
+660
+00:53:42,500 --> 00:53:44,500
+tehnični zdaj. In ta
+
+661
+00:53:44,500 --> 00:53:46,500
+core
+
+662
+00:53:46,500 --> 00:53:48,500
+tehnička je pri vas
+
+663
+00:53:48,500 --> 00:53:50,500
+verjetno, če se jaz pravda
+
+664
+00:53:50,500 --> 00:53:52,500
+predstavljam, ukvarja
+
+665
+00:53:54,500 --> 00:53:56,500
+okoli tega game enčena.
+
+666
+00:53:56,500 --> 00:53:58,500
+Saj te bom poskušal
+
+667
+00:53:58,500 --> 00:54:00,500
+postaviti vrašanje.
+
+668
+00:54:00,500 --> 00:54:02,500
+Pa bi te prosto, če nam razložiš,
+
+669
+00:54:02,500 --> 00:54:04,500
+najprej ste začeli
+
+670
+00:54:04,500 --> 00:54:06,500
+svoj game enčen delati?
+
+671
+00:54:06,500 --> 00:54:08,500
+Ne.
+
+672
+00:54:08,500 --> 00:54:10,500
+V Unity smo.
+
+673
+00:54:10,500 --> 00:54:12,500
+Začeli ste z Unity in potem ste šli pa na Unreal Engine.
+
+674
+00:54:12,500 --> 00:54:14,500
+Če prav razumem, imate zdaj Unreal Engine 4.
+
+675
+00:54:14,500 --> 00:54:16,500
+Ja, in
+
+676
+00:54:16,500 --> 00:54:18,500
+delamo spetko tudi zanaprej.
+
+677
+00:54:18,500 --> 00:54:20,500
+A lahko zaizostaj razložiš
+
+678
+00:54:20,500 --> 00:54:22,500
+kaj so ti game enčeni
+
+679
+00:54:22,500 --> 00:54:24,500
+in kaj je ta
+
+680
+00:54:24,500 --> 00:54:26,500
+ogrodje tega game enčena
+
+681
+00:54:26,500 --> 00:54:28,500
+in kaj ni noter recimo?
+
+682
+00:54:28,500 --> 00:54:30,500
+Ja, razlikuje se, ampak
+
+683
+00:54:30,500 --> 00:54:32,500
+načeloma je pričakovanje
+
+684
+00:54:32,500 --> 00:54:34,500
+tako, da ti game enčen nudi vse
+
+685
+00:54:34,500 --> 00:54:36,500
+tisto, kar
+
+686
+00:54:36,500 --> 00:54:38,500
+bi vse igre
+
+687
+00:54:38,500 --> 00:54:40,500
+potrebovali. Tako da
+
+688
+00:54:40,500 --> 00:54:42,500
+se ne rabiš ukvarjati. Tako kot imaš operacijski sistem,
+
+689
+00:54:42,500 --> 00:54:44,500
+pač ne boš ga pisal, boš samo aplikacije pisal.
+
+690
+00:54:44,500 --> 00:54:46,500
+Tako kot tukaj, idealno bi mi radi
+
+691
+00:54:46,500 --> 00:54:48,500
+igre delali, ne pa se ukvarjali
+
+692
+00:54:48,500 --> 00:54:50,500
+z banalnimi stvarmi, ki niso res
+
+693
+00:54:50,500 --> 00:54:52,500
+pomembne. Stvari,
+
+694
+00:54:52,500 --> 00:54:54,500
+kot so recimo,
+
+695
+00:54:54,500 --> 00:54:56,500
+to je bolj ali manj tooling,
+
+696
+00:54:56,500 --> 00:54:58,500
+kot recimo za podporo za zvok.
+
+697
+00:54:58,500 --> 00:55:00,500
+Da ti pač zvok dela,
+
+698
+00:55:00,500 --> 00:55:02,500
+kjerkoli si, na katerikoli platformi. Da se ne rabiš
+
+699
+00:55:02,500 --> 00:55:04,500
+tem ukvarjati. Da ti rendering dela,
+
+700
+00:55:04,500 --> 00:55:06,500
+pa da je postavljen renderer.
+
+701
+00:55:06,500 --> 00:55:08,500
+Da lahko importaš
+
+702
+00:55:08,500 --> 00:55:10,500
+modele, animacije,
+
+703
+00:55:10,500 --> 00:55:12,500
+pa da se potem zrišejo. Ampak to so zelo enostavne
+
+704
+00:55:12,500 --> 00:55:14,500
+stvari. Zdaj enženi
+
+705
+00:55:14,500 --> 00:55:16,500
+dan dane so bolj napredni kot to
+
+706
+00:55:16,500 --> 00:55:18,500
+in ti omogočajo tudi, da je
+
+707
+00:55:18,500 --> 00:55:20,500
+ta sound sistem, da je bolj izpopolnjen,
+
+708
+00:55:20,500 --> 00:55:22,500
+da lahko recimo editaš,
+
+709
+00:55:22,500 --> 00:55:24,500
+lepiš skupaj razne sounde
+
+710
+00:55:24,500 --> 00:55:26,500
+v večje konstrukte.
+
+711
+00:55:26,500 --> 00:55:28,500
+Da animacije lahko
+
+712
+00:55:28,500 --> 00:55:30,500
+not vvoziš, ampak jih tudi potem, kako ta
+
+713
+00:55:30,500 --> 00:55:32,500
+koda jih hendla je dovolj
+
+714
+00:55:32,500 --> 00:55:34,500
+otprta, da jo lahko svoje feature-e not delaš
+
+715
+00:55:34,500 --> 00:55:36,500
+v enženu. V bistvu,
+
+716
+00:55:36,500 --> 00:55:38,500
+to je in networking konec koncev,
+
+717
+00:55:38,500 --> 00:55:40,500
+da ti omogoča. Zdaj
+
+718
+00:55:40,500 --> 00:55:42,500
+različni enženi nudijo
+
+719
+00:55:42,500 --> 00:55:44,500
+različne stvari. Nekatere
+
+720
+00:55:44,500 --> 00:55:46,500
+mogoče ne to,
+
+721
+00:55:46,500 --> 00:55:48,500
+ko izpopolnjujo neko druge.
+
+722
+00:55:48,500 --> 00:55:50,500
+Med sabo tekmujo na Cheromast,
+
+723
+00:55:50,500 --> 00:55:52,500
+glavna dva za kar koli
+
+724
+00:55:52,500 --> 00:55:54,500
+tako več
+
+725
+00:55:54,500 --> 00:55:56,500
+kot 2D, Unreal
+
+726
+00:55:56,500 --> 00:55:58,500
+pa Unity.
+
+727
+00:55:58,500 --> 00:56:00,500
+S tem, da
+
+728
+00:56:00,500 --> 00:56:02,500
+Unity je tako,
+
+729
+00:56:02,500 --> 00:56:04,500
+nimam lih
+
+730
+00:56:04,500 --> 00:56:06,500
+najboljšega mnenja o Unityu
+
+731
+00:56:06,500 --> 00:56:08,500
+dan danes. Res je
+
+732
+00:56:08,500 --> 00:56:10,500
+tudi kot enžen. Zdaj ne vem,
+
+733
+00:56:10,500 --> 00:56:12,500
+grem preveč? Ne, premalo.
+
+734
+00:56:12,500 --> 00:56:14,500
+Gremo še globijo.
+
+735
+00:56:14,500 --> 00:56:16,500
+Unity
+
+736
+00:56:16,500 --> 00:56:18,500
+je ful lep
+
+737
+00:56:18,500 --> 00:56:20,500
+tool. Ful lepo je z njim delat,
+
+738
+00:56:20,500 --> 00:56:22,500
+dokr ne delaš nekaj resnega.
+
+739
+00:56:22,500 --> 00:56:24,500
+Takrat ugotoviš, da je to
+
+740
+00:56:24,500 --> 00:56:26,500
+katastrofa.
+
+741
+00:56:26,500 --> 00:56:28,500
+Katastrofa predvsem zaradi tega, ker
+
+742
+00:56:28,500 --> 00:56:30,500
+problem je
+
+743
+00:56:30,500 --> 00:56:32,500
+Unity podjetje samo in kaj oni delajo
+
+744
+00:56:32,500 --> 00:56:34,500
+in kaj fokusirajo. Ogromno
+
+745
+00:56:34,500 --> 00:56:36,500
+feature-e ima ta enžen, ki sploh
+
+746
+00:56:36,500 --> 00:56:38,500
+so tako zastareli, da so
+
+747
+00:56:38,500 --> 00:56:40,500
+tano neuporabni. Ljudje delajo
+
+748
+00:56:40,500 --> 00:56:42,500
+svoj networking znotraj enžena,
+
+749
+00:56:42,500 --> 00:56:44,500
+kar je nedopustno.
+
+750
+00:56:44,500 --> 00:56:46,500
+Mislim, lahko to delaš,
+
+751
+00:56:46,500 --> 00:56:48,500
+ampak zakaj to delaš?
+
+752
+00:56:48,500 --> 00:56:50,500
+Potem razne
+
+753
+00:56:50,500 --> 00:56:52,500
+optimizacije za
+
+754
+00:56:52,500 --> 00:56:54,500
+rendering, kaj nove stvari
+
+755
+00:56:54,500 --> 00:56:56,500
+ful imajo teh plug-inov na njihove store.
+
+756
+00:56:56,500 --> 00:56:58,500
+Ljudje pa če poverijo plug-in, pa ga uporabljajo.
+
+757
+00:56:58,500 --> 00:57:00,500
+Ampak to je ful velika pas.
+
+758
+00:57:00,500 --> 00:57:02,500
+Ti zdaj si odvisen od enega plug-ina,
+
+759
+00:57:02,500 --> 00:57:04,500
+ki ga en, ne vem,
+
+760
+00:57:04,500 --> 00:57:06,500
+kar nek
+
+761
+00:57:06,500 --> 00:57:08,500
+x-tip doma naredi, ga da gor,
+
+762
+00:57:08,500 --> 00:57:10,500
+zdaj se odloči, da on bo šel na fax, bo nehal
+
+763
+00:57:10,500 --> 00:57:12,500
+podpirati ono, pa gre to, gre delati
+
+764
+00:57:12,500 --> 00:57:14,500
+nekaj svoj in dobi službo tam.
+
+765
+00:57:14,500 --> 00:57:16,500
+Stvar ni več podprta, ampak ti zdaj baziraš na tem.
+
+766
+00:57:16,500 --> 00:57:18,500
+Imaš šipov s tem, jasno? Ne biste im šipovi.
+
+767
+00:57:18,500 --> 00:57:20,500
+Ni šans.
+
+768
+00:57:20,500 --> 00:57:22,500
+A boš ti to za njim
+
+769
+00:57:22,500 --> 00:57:24,500
+popravljal? Ne vem.
+
+770
+00:57:24,500 --> 00:57:26,500
+Ne vem, kakšno kod je pustil.
+
+771
+00:57:26,500 --> 00:57:28,500
+Tega smo se mi ful izogibali.
+
+772
+00:57:28,500 --> 00:57:30,500
+In smo imeli ful problem v Unity s tem,
+
+773
+00:57:30,500 --> 00:57:32,500
+ker je ogromno stvari bilo treba tako narediti.
+
+774
+00:57:32,500 --> 00:57:34,500
+Networking smo imeli svoj.
+
+775
+00:57:34,500 --> 00:57:36,500
+Nobene,
+
+776
+00:57:36,500 --> 00:57:38,500
+dejansko je
+
+777
+00:57:38,500 --> 00:57:40,500
+ful malo stvari naredilo. Ampak
+
+778
+00:57:40,500 --> 00:57:42,500
+Unity je bila edina opcija v 2014.
+
+779
+00:57:42,500 --> 00:57:44,500
+Unreal je bil lih komaj,
+
+780
+00:57:44,500 --> 00:57:46,500
+da je prišel v preview,
+
+781
+00:57:46,500 --> 00:57:48,500
+pa je potem bil relisan,
+
+782
+00:57:48,500 --> 00:57:50,500
+ampak ti nikdar nočeš pri
+
+783
+00:57:50,500 --> 00:57:52,500
+Unrealu, pa tako, kadarkoli prije nekaj
+
+784
+00:57:52,500 --> 00:57:54,500
+novega, ne tikaj.
+
+785
+00:57:54,500 --> 00:57:56,500
+Saj še eno leto, ne tikaj,
+
+786
+00:57:56,500 --> 00:57:58,500
+ker to ni redi. Oni pravijo,
+
+787
+00:57:58,500 --> 00:58:00,500
+da je redi, ampak ni.
+
+788
+00:58:00,500 --> 00:58:02,500
+Unreal je bil takrat predsej
+
+789
+00:58:02,500 --> 00:58:04,500
+bog, komaj se je začelo.
+
+790
+00:58:04,500 --> 00:58:06,500
+Marketplace-a ni bilo,
+
+791
+00:58:06,500 --> 00:58:08,500
+jaz sem delal sam,
+
+792
+00:58:08,500 --> 00:58:10,500
+in tako, da sem pobiral določit Marketplace-a od Unity,
+
+793
+00:58:10,500 --> 00:58:12,500
+je prišel kar prav. Zdaj se je
+
+794
+00:58:12,500 --> 00:58:14,500
+tudi Unreal postavil tam na noge.
+
+795
+00:58:14,500 --> 00:58:16,500
+Ampak...
+
+796
+00:58:16,500 --> 00:58:18,500
+Da jih samo to ne povej, a vi ste dejansko začeli z Unity,
+
+797
+00:58:18,500 --> 00:58:20,500
+pa ste rekli, da je to nebošno,
+
+798
+00:58:20,500 --> 00:58:22,500
+pa ste začeli po letu popol
+
+799
+00:58:22,500 --> 00:58:24,500
+from scratch z novim engine-om?
+
+800
+00:58:24,500 --> 00:58:26,500
+From scratch.
+
+801
+00:58:26,500 --> 00:58:28,500
+Kaj to meni, da asset-e ste prenesli,
+
+802
+00:58:28,500 --> 00:58:30,500
+pa je to, ste rekli, ne, ne, ne, gremo še.
+
+803
+00:58:30,500 --> 00:58:32,500
+Ne, bolj ali manj smo, nekatera stvari smo prenesli,
+
+804
+00:58:32,500 --> 00:58:34,500
+ampak zelo malo, skoraj nič.
+
+805
+00:58:34,500 --> 00:58:36,500
+Ja.
+
+806
+00:58:36,500 --> 00:58:38,500
+A je mogoče Unity...
+
+807
+00:58:38,500 --> 00:58:40,500
+A je mogoče Unity...
+
+808
+00:58:40,500 --> 00:58:42,500
+Laži z njim začeti,
+
+809
+00:58:42,500 --> 00:58:44,500
+pa pal, ko bistu delaš kompleksne še stvari?
+
+810
+00:58:44,500 --> 00:58:46,500
+Ja, ja.
+
+811
+00:58:46,500 --> 00:58:48,500
+Oziroma, čisto ti staviš še risk management-a,
+
+812
+00:58:48,500 --> 00:58:50,500
+ne, pa ti neke rizike menedžeraš.
+
+813
+00:58:50,500 --> 00:58:52,500
+Unity je ful lep za začet.
+
+814
+00:58:52,500 --> 00:58:54,500
+Mislim, jaz sem užival, ko sem no delal,
+
+815
+00:58:54,500 --> 00:58:56,500
+pa nekaj narediš, pa se lepo sam skompajla,
+
+816
+00:58:56,500 --> 00:58:58,500
+pa se stvar funkcionira in je bilo kul.
+
+817
+00:58:58,500 --> 00:59:00,500
+Sicer nima feature-ov ful,
+
+818
+00:59:00,500 --> 00:59:02,500
+ampak se s tem tudi te malo forcira,
+
+819
+00:59:02,500 --> 00:59:04,500
+da sam narediš svojo stvar,
+
+820
+00:59:04,500 --> 00:59:06,500
+kar tudi je okej.
+
+821
+00:59:06,500 --> 00:59:08,500
+Problem nastopi, da nudi ful malo,
+
+822
+00:59:08,500 --> 00:59:10,500
+kar se samega gameplay funkcionalnosti tiče,
+
+823
+00:59:10,500 --> 00:59:12,500
+ker jih hrabiš sicer.
+
+824
+00:59:12,500 --> 00:59:14,500
+Koncept in arhitektura,
+
+825
+00:59:14,500 --> 00:59:16,500
+ki je,
+
+826
+00:59:16,500 --> 00:59:18,500
+omogoča ti, da delaš, kar hočeš.
+
+827
+00:59:18,500 --> 00:59:20,500
+Nič te ne bo forciral, vse je dovoljeno,
+
+828
+00:59:20,500 --> 00:59:22,500
+ampak nič ni prav dobro podprto.
+
+829
+00:59:22,500 --> 00:59:24,500
+To me je toliko všeč,
+
+830
+00:59:24,500 --> 00:59:26,500
+da lahko tako vertikalno spletno programiranje.
+
+831
+00:59:28,500 --> 00:59:30,500
+Jaz samo slišim React vs. Angular.
+
+832
+00:59:32,500 --> 00:59:34,500
+Na primer,
+
+833
+00:59:34,500 --> 00:59:36,500
+v Python svetu je Flask,
+
+834
+00:59:36,500 --> 00:59:38,500
+strašansko popularen mikro-framework,
+
+835
+00:59:38,500 --> 00:59:40,500
+ki napišeš v en file
+
+836
+00:59:40,500 --> 00:59:42,500
+celo osnovno aplikacijo,
+
+837
+00:59:42,500 --> 00:59:44,500
+nek Getting Started, Hello World, kliknaš,
+
+838
+00:59:44,500 --> 00:59:46,500
+poka, dela.
+
+839
+00:59:46,500 --> 00:59:48,500
+Imam priljubljene
+
+840
+00:59:48,500 --> 00:59:50,500
+frameworke,
+
+841
+00:59:50,500 --> 00:59:52,500
+kjer moraš napisati najprej
+
+842
+00:59:52,500 --> 00:59:54,500
+en ini file, pa tisto stvar, pa tretjo stvar.
+
+843
+00:59:54,500 --> 00:59:56,500
+Pa se tako skaže,
+
+844
+00:59:56,500 --> 00:59:58,500
+ki ti delaš na neke točki
+
+845
+00:59:58,500 --> 01:00:00,500
+komercialen produkt na letu pa pol,
+
+846
+01:00:00,500 --> 01:00:02,500
+si rečeš,
+
+847
+01:00:02,500 --> 01:00:04,500
+zdaj razumem, zakaj mogoče
+
+848
+01:00:04,500 --> 01:00:06,500
+se mora mičkan malo bolj
+
+849
+01:00:06,500 --> 01:00:08,500
+več obaditi
+
+850
+01:00:08,500 --> 01:00:10,500
+z predpostavljeno arhitekturo,
+
+851
+01:00:10,500 --> 01:00:12,500
+nekega ogrodja, pa not umestiti stvari,
+
+852
+01:00:12,500 --> 01:00:14,500
+da pol,
+
+853
+01:00:14,500 --> 01:00:16,500
+ko imam osem ljudi,
+
+854
+01:00:16,500 --> 01:00:18,500
+v treh letih razvajati,
+
+855
+01:00:18,500 --> 01:00:20,500
+da pa stvari nekaj še zmer.
+
+856
+01:00:20,500 --> 01:00:22,500
+V smislu ne.
+
+857
+01:00:22,500 --> 01:00:24,500
+Ta Unreal Engine,
+
+858
+01:00:24,500 --> 01:00:26,500
+Unreal Engine 4, si rekel, ne?
+
+859
+01:00:26,500 --> 01:00:28,500
+Pravi, to je, ta se dela
+
+860
+01:00:28,500 --> 01:00:30,500
+open source-oval, kaj?
+
+861
+01:00:30,500 --> 01:00:32,500
+To je ful zdaj pomembna stvar pri Unity-o.
+
+862
+01:00:32,500 --> 01:00:34,500
+Unity je closed source.
+
+863
+01:00:34,500 --> 01:00:36,500
+In po navadi
+
+864
+01:00:36,500 --> 01:00:38,500
+pri teh engineh, ki so closed source,
+
+865
+01:00:38,500 --> 01:00:40,500
+ti sploh ne očeš videti
+
+866
+01:00:40,500 --> 01:00:42,500
+source-a.
+
+867
+01:00:42,500 --> 01:00:44,500
+To je grozno.
+
+868
+01:00:44,500 --> 01:00:46,500
+Crytek je likal, mislim, Crytek
+
+869
+01:00:46,500 --> 01:00:48,500
+o engine, Cryengine je likal nekaj časa nazaj,
+
+870
+01:00:48,500 --> 01:00:50,500
+pa to je, to je neverjetno,
+
+871
+01:00:50,500 --> 01:00:52,500
+kaj je ta not. To sem zapreš,
+
+872
+01:00:52,500 --> 01:00:54,500
+pa aj, čau. Ni šans.
+
+873
+01:00:54,500 --> 01:00:56,500
+Nimaš kaj tam iskati. Mislim, sej lahko
+
+874
+01:00:56,500 --> 01:00:58,500
+nekaj skopljaš, ampak
+
+875
+01:00:58,500 --> 01:01:00,500
+po drugi strani, Unreal
+
+876
+01:01:00,500 --> 01:01:02,500
+je open source in
+
+877
+01:01:02,500 --> 01:01:04,500
+ful je pomembno, ker ti v Unity,
+
+878
+01:01:04,500 --> 01:01:06,500
+v Unity si tega hendla, recimo, hendla ti kakšen
+
+879
+01:01:06,500 --> 01:01:08,500
+input ali kaj takega, ampak ti ne veš, kaj on dela
+
+880
+01:01:08,500 --> 01:01:10,500
+s tem. Če jaz recimo mene
+
+881
+01:01:10,500 --> 01:01:12,500
+zanima, če imam specifično igro, ki je zelo
+
+882
+01:01:12,500 --> 01:01:14,500
+specifična zahteva, da jaz hočem videti,
+
+883
+01:01:14,500 --> 01:01:16,500
+koliko ima ta input latency, pa kje prije ta input.
+
+884
+01:01:16,500 --> 01:01:18,500
+A se input prebere na začetku
+
+885
+01:01:18,500 --> 01:01:20,500
+frajma, a se input prebere na koncu
+
+886
+01:01:20,500 --> 01:01:22,500
+frajma, frajm pač, ko
+
+887
+01:01:22,500 --> 01:01:24,500
+igra, rendera vsak frajm po sebi,
+
+888
+01:01:24,500 --> 01:01:26,500
+pa to traja 16 milisekund, in to je lahko
+
+889
+01:01:26,500 --> 01:01:28,500
+input latency 16 milisekund, lahko je
+
+890
+01:01:28,500 --> 01:01:30,500
+30 milisekund, ampak v bistvu je
+
+891
+01:01:30,500 --> 01:01:32,500
+je ful pomembna stvar,
+
+892
+01:01:32,500 --> 01:01:34,500
+ampak ne more, ne veš, ker je
+
+893
+01:01:34,500 --> 01:01:36,500
+black box. In tega je
+
+894
+01:01:36,500 --> 01:01:38,500
+ful v Unity in je to ful veliko problem.
+
+895
+01:01:38,500 --> 01:01:40,500
+Ne moreš pa niti tudi
+
+896
+01:01:40,500 --> 01:01:42,500
+v, recimo,
+
+897
+01:01:42,500 --> 01:01:44,500
+druga stvar je, ful je pomembno, da imaš dostop
+
+898
+01:01:44,500 --> 01:01:46,500
+do low level stvari v C++-u.
+
+899
+01:01:46,500 --> 01:01:48,500
+Unity je spisana v C++-u,
+
+900
+01:01:48,500 --> 01:01:50,500
+ampak ti pa delaš v C-sharp-u.
+
+901
+01:01:50,500 --> 01:01:52,500
+In je to vse pozna,
+
+902
+01:01:52,500 --> 01:01:54,500
+mislim, vse ne rabiš delati
+
+903
+01:01:54,500 --> 01:01:56,500
+celega game-a not v C++-u,
+
+904
+01:01:56,500 --> 01:01:58,500
+ampak taki stvari, ne, bi pa
+
+905
+01:01:58,500 --> 01:02:00,500
+rad imel mogoče.
+
+906
+01:02:00,500 --> 01:02:02,500
+Za razlika od tega, Unreal
+
+907
+01:02:02,500 --> 01:02:04,500
+je čisto open source in je
+
+908
+01:02:04,500 --> 01:02:06,500
+lab source. Vsi
+
+909
+01:02:06,500 --> 01:02:08,500
+ga berajo, vsi ga
+
+910
+01:02:08,500 --> 01:02:10,500
+popravljajo, jasno,
+
+911
+01:02:10,500 --> 01:02:12,500
+potem Epic se odloči, če bo okej
+
+912
+01:02:12,500 --> 01:02:14,500
+dal nota, ne, ampak je
+
+913
+01:02:14,500 --> 01:02:16,500
+pa tudi huge.
+
+914
+01:02:16,500 --> 01:02:18,500
+Unreal je huge. Unity je
+
+915
+01:02:18,500 --> 01:02:20,500
+muha
+
+916
+01:02:20,500 --> 01:02:22,500
+proti Unrealu. Unreal ima toliko stvari
+
+917
+01:02:22,500 --> 01:02:24,500
+not, da sploh po petih
+
+918
+01:02:24,500 --> 01:02:26,500
+letih ni se vedel, oh, to obstaja.
+
+919
+01:02:26,500 --> 01:02:28,500
+In je
+
+920
+01:02:28,500 --> 01:02:30,500
+ful je strikten tudi, kako so
+
+921
+01:02:30,500 --> 01:02:32,500
+stvari zasnovane.
+
+922
+01:02:32,500 --> 01:02:34,500
+Določen framework je,
+
+923
+01:02:34,500 --> 01:02:36,500
+ki mu moraš pač slediti.
+
+924
+01:02:36,500 --> 01:02:38,500
+Zdaj, če hočeš iti izven tega,
+
+925
+01:02:38,500 --> 01:02:40,500
+ne bo šlo. Mislim,
+
+926
+01:02:40,500 --> 01:02:42,500
+lahko to narediš, ampak zakaj, pejdi v
+
+927
+01:02:42,500 --> 01:02:44,500
+Unity potem, pa delaj kaj tam. Mi smo
+
+928
+01:02:44,500 --> 01:02:46,500
+gotovili, da, ko smo šli, ko sem šel jaz
+
+929
+01:02:46,500 --> 01:02:48,500
+v Unreal, sem veliko teh stvari, so imeli v bistvu
+
+930
+01:02:48,500 --> 01:02:50,500
+ful dobre prakse in podobne stvari sem jaz potem šel delati
+
+931
+01:02:50,500 --> 01:02:52,500
+v Unity odakrad. In sem
+
+932
+01:02:52,500 --> 01:02:54,500
+gotovil, da, v bistvu, zakaj jaz to delam v Unity,
+
+933
+01:02:54,500 --> 01:02:56,500
+če imam uniju, imam jo v bistvu nareden tako, kot bi jaz
+
+934
+01:02:56,500 --> 01:02:58,500
+hotel met, ne. In greš tam in
+
+935
+01:02:58,500 --> 01:03:00,500
+gotoviš, da je to ful
+
+936
+01:03:00,500 --> 01:03:02,500
+lažje delati. Zdaj, ampak
+
+937
+01:03:02,500 --> 01:03:04,500
+če je framework
+
+938
+01:03:04,500 --> 01:03:06,500
+tako velik,
+
+939
+01:03:06,500 --> 01:03:08,500
+se ti ne zgodi, pa
+
+940
+01:03:08,500 --> 01:03:10,500
+mogoče bi začel
+
+941
+01:03:10,500 --> 01:03:12,500
+sam nekaj reinventati, ker ne veš,
+
+942
+01:03:12,500 --> 01:03:14,500
+da kaj obstaja. To se ful
+
+943
+01:03:14,500 --> 01:03:16,500
+dosti, kad zgodi in to je ful na robe.
+
+944
+01:03:16,500 --> 01:03:18,500
+To ne smeš dovoliti. Tudi pri naših
+
+945
+01:03:18,500 --> 01:03:20,500
+programerih, če vidim, da kaj delajo sami,
+
+946
+01:03:20,500 --> 01:03:22,500
+ne, pač pejti not. Pri Unrealu
+
+947
+01:03:22,500 --> 01:03:24,500
+je tako, da ti, če delaš v Unrealu, na mestu,
+
+948
+01:03:24,500 --> 01:03:26,500
+če so pise zjutraj, ti moraš odpreti
+
+949
+01:03:26,500 --> 01:03:28,500
+GitHub in brati vsak dan po en
+
+950
+01:03:28,500 --> 01:03:30,500
+source file, ker not je dokumentacija
+
+951
+01:03:30,500 --> 01:03:32,500
+in je edina dokumentacija, ki je.
+
+952
+01:03:32,500 --> 01:03:34,500
+Vse, kar je zuna, je
+
+953
+01:03:34,500 --> 01:03:36,500
+outdated oziroma tako.
+
+954
+01:03:36,500 --> 01:03:38,500
+Pač source moraš brati, te glavne
+
+955
+01:03:38,500 --> 01:03:40,500
+stvari moraš iti skozi, kako delujejo
+
+956
+01:03:40,500 --> 01:03:42,500
+in ampak lahko vidiš vse, vidiš točno,
+
+957
+01:03:42,500 --> 01:03:44,500
+kako deluje networking, vidiš točno, kako deluje input.
+
+958
+01:03:44,500 --> 01:03:46,500
+Ni debate.
+
+959
+01:03:46,500 --> 01:03:48,500
+Tako da to moraš, to je edina
+
+960
+01:03:48,500 --> 01:03:50,500
+dokumentacija, ki je, zares.
+
+961
+01:03:50,500 --> 01:03:52,500
+Ampak je zelo lepo berljiva
+
+962
+01:03:52,500 --> 01:03:54,500
+in tako, ful je dobro zastavljeno.
+
+963
+01:03:54,500 --> 01:03:56,500
+Razlika je predvsem v tem, da Epic,
+
+964
+01:03:56,500 --> 01:03:58,500
+ki dela Unreal,
+
+965
+01:03:58,500 --> 01:04:00,500
+šipa igre z njim. Unity
+
+966
+01:04:00,500 --> 01:04:02,500
+ni šipo, vedeš, ni se šipo ni nič.
+
+967
+01:04:02,500 --> 01:04:04,500
+In zelo malo iger je
+
+968
+01:04:04,500 --> 01:04:06,500
+v bistvu v Unity na takem nivoju.
+
+969
+01:04:06,500 --> 01:04:08,500
+Po navadi so tako 2D ali pa mobile,
+
+970
+01:04:08,500 --> 01:04:10,500
+tam je huge, ampak za recimo
+
+971
+01:04:10,500 --> 01:04:12,500
+tak nivoj je pa zelo
+
+972
+01:04:12,500 --> 01:04:14,500
+malo izdaj. In še v neki soso
+
+973
+01:04:14,500 --> 01:04:16,500
+po navadi ble narejene predenje,
+
+974
+01:04:16,500 --> 01:04:18,500
+je bil Unreal, s vseh opcij.
+
+975
+01:04:18,500 --> 01:04:20,500
+Med tem, ko Unreal, Fortnite,
+
+976
+01:04:20,500 --> 01:04:22,500
+vse te stvari, to gre direktno, to oni delajo.
+
+977
+01:04:22,500 --> 01:04:24,500
+Oni vse dobre prakse, ki jih tam
+
+978
+01:04:24,500 --> 01:04:26,500
+naredijo, jih potem v Unreal, v Engine
+
+979
+01:04:26,500 --> 01:04:28,500
+nazaj delajo. Vključno
+
+980
+01:04:28,500 --> 01:04:30,500
+z bolj gameplay
+
+981
+01:04:30,500 --> 01:04:32,500
+orientat stvarmi, kot recimo
+
+982
+01:04:32,500 --> 01:04:34,500
+framework same igre. Kako ti,
+
+983
+01:04:34,500 --> 01:04:36,500
+kaj je razlika med, ko si ti not player,
+
+984
+01:04:36,500 --> 01:04:38,500
+a si ti zdaj player, a je to sem
+
+985
+01:04:38,500 --> 01:04:40,500
+tvoj lik, ali je to še en kontroler,
+
+986
+01:04:40,500 --> 01:04:42,500
+ki kontrola ta lik, pa ima še en state,
+
+987
+01:04:42,500 --> 01:04:44,500
+pa ima še neki, Unity nima nič nobenih teh
+
+988
+01:04:44,500 --> 01:04:46,500
+konceptov. Unreal pa ima to že vse definirano.
+
+989
+01:04:46,500 --> 01:04:48,500
+Meni se zdi, da itak ta,
+
+990
+01:04:48,500 --> 01:04:50,500
+Unreal, Fortnite, ti so v bistvu neke vrste
+
+991
+01:04:50,500 --> 01:04:52,500
+zelo to hresni
+
+992
+01:04:52,500 --> 01:04:54,500
+demo ti, Engine, da so v bistvu
+
+993
+01:04:54,500 --> 01:04:56,500
+svoje igre, je bolj ta filozofija.
+
+994
+01:04:56,500 --> 01:04:58,500
+Ja, oni imajo
+
+995
+01:04:58,500 --> 01:05:00,500
+to lepo
+
+996
+01:05:00,500 --> 01:05:02,500
+tako, da kot
+
+997
+01:05:02,500 --> 01:05:04,500
+za vsak Engine, za Štirko,
+
+998
+01:05:04,500 --> 01:05:06,500
+pa za Petko, naredijo referenčni projekt.
+
+999
+01:05:06,500 --> 01:05:08,500
+In ta projekt ima svoje ekipce
+
+1000
+01:05:08,500 --> 01:05:10,500
+odzadaj, in oni ta projekt
+
+1001
+01:05:10,500 --> 01:05:12,500
+updatajo vsak
+
+1002
+01:05:12,500 --> 01:05:14,500
+update Engine-a, ki je, ga oni
+
+1003
+01:05:14,500 --> 01:05:16,500
+updatajo. Če je nov sistem, ga dajo
+
+1004
+01:05:16,500 --> 01:05:18,500
+not spremenil, in je to v bistvu ena igra.
+
+1005
+01:05:18,500 --> 01:05:20,500
+Za Andri Petko je to Lira,
+
+1006
+01:05:20,500 --> 01:05:22,500
+in ti pokaže, kakšne so vse prakse,
+
+1007
+01:05:22,500 --> 01:05:24,500
+dobre prakse za cel projekt, in ponovadi to.
+
+1008
+01:05:24,500 --> 01:05:26,500
+A so te gemi tudi open-sourceno?
+
+1009
+01:05:26,500 --> 01:05:28,500
+Ja, vse je open-sourceno.
+
+1010
+01:05:28,500 --> 01:05:30,500
+Tudi ti promovirajo, da je
+
+1011
+01:05:30,500 --> 01:05:32,500
+dober način, kako začeti, recimo, da začneš
+
+1012
+01:05:32,500 --> 01:05:34,500
+to kot tvoj template,
+
+1013
+01:05:34,500 --> 01:05:36,500
+pa potem gradiš na njega. Zatem jaz tega ne bi delobiral,
+
+1014
+01:05:36,500 --> 01:05:38,500
+šel skozi,
+
+1015
+01:05:38,500 --> 01:05:40,500
+pa povleko ven stvari.
+
+1016
+01:05:40,500 --> 01:05:42,500
+Jaz imam ful trike vprašanje
+
+1017
+01:05:42,500 --> 01:05:44,500
+za to, da je bo more, kao
+
+1018
+01:05:44,500 --> 01:05:46,500
+open-source.
+
+1019
+01:05:46,500 --> 01:05:48,500
+Ni si believer
+
+1020
+01:05:48,500 --> 01:05:50,500
+v open-source.
+
+1021
+01:05:50,500 --> 01:05:52,500
+Zdravi postošanci, ta facial expression
+
+1022
+01:05:52,500 --> 01:05:54,500
+bo prast.
+
+1023
+01:05:54,500 --> 01:05:56,500
+Pa ne sprašujem zato, ka bi rekel, ok, to
+
+1024
+01:05:56,500 --> 01:05:58,500
+bom jaz vzel, pa bi kompiliral.
+
+1025
+01:05:58,500 --> 01:06:00,500
+To je, da je to vprašanje malo
+
+1026
+01:06:00,500 --> 01:06:02,500
+drugače zapelje, da ne bomo gosto
+
+1027
+01:06:02,500 --> 01:06:04,500
+spravljali.
+
+1028
+01:06:04,500 --> 01:06:06,500
+SDK je pa na voljo.
+
+1029
+01:06:06,500 --> 01:06:08,500
+Samo ni pa source, je samo
+
+1030
+01:06:08,500 --> 01:06:10,500
+civilizovanje in scripting.
+
+1031
+01:06:10,500 --> 01:06:12,500
+Unreal Engine, pa Epic Games,
+
+1032
+01:06:12,500 --> 01:06:14,500
+pa Team Sweeney.
+
+1033
+01:06:14,500 --> 01:06:16,500
+A lahko to nam malo razložiš?
+
+1034
+01:06:16,500 --> 01:06:18,500
+Kaj je ta filozofija
+
+1035
+01:06:18,500 --> 01:06:20,500
+Epic Games-a?
+
+1036
+01:06:20,500 --> 01:06:22,500
+Zakaj je lahko sloh Unreal Engine, open-source,
+
+1037
+01:06:22,500 --> 01:06:24,500
+pa kaj je ta
+
+1038
+01:06:24,500 --> 01:06:26,500
+neka vizija Epic Games-a?
+
+1039
+01:06:26,500 --> 01:06:28,500
+Ker Epic Games
+
+1040
+01:06:28,500 --> 01:06:30,500
+trenutno je ena izmed tistih
+
+1041
+01:06:30,500 --> 01:06:32,500
+tehnoloških firm, ki že 20-30 let
+
+1042
+01:06:32,500 --> 01:06:34,500
+se prepravlja na to, kar zdaj Facebook
+
+1043
+01:06:34,500 --> 01:06:36,500
+začel govoriti. Metaverse,
+
+1044
+01:06:36,500 --> 01:06:38,500
+ta neka
+
+1045
+01:06:38,500 --> 01:06:40,500
+immersive experience
+
+1046
+01:06:40,500 --> 01:06:42,500
+in pa to.
+
+1047
+01:06:42,500 --> 01:06:44,500
+Facebook, Google in podobni playeri so
+
+1048
+01:06:44,500 --> 01:06:46,500
+začeli govoriti o tem, ampak
+
+1049
+01:06:46,500 --> 01:06:48,500
+Epic Games je po vrstnici
+
+1050
+01:06:48,500 --> 01:06:50,500
+tehnološko firma, ki je 30 let
+
+1051
+01:06:50,500 --> 01:06:52,500
+investirala v tehnologije, ki bojo
+
+1052
+01:06:52,500 --> 01:06:54,500
+v vrstnici. Ampak niso vedeli, da delajo
+
+1053
+01:06:54,500 --> 01:06:56,500
+to. Ampak kaj lahko
+
+1054
+01:06:56,500 --> 01:06:58,500
+ima ta Epic vseko sistemo?
+
+1055
+01:06:58,500 --> 01:07:00,500
+Oni so takrat začeli z Unreal Tournamentom
+
+1056
+01:07:00,500 --> 01:07:02,500
+na Unrealom, ki so v bistvu
+
+1057
+01:07:02,500 --> 01:07:04,500
+podobno kot Quake, pa to so bili te
+
+1058
+01:07:04,500 --> 01:07:06,500
+arena šuteri. Zdaj, oni so ta
+
+1059
+01:07:06,500 --> 01:07:08,500
+engine potem vlekli
+
+1060
+01:07:08,500 --> 01:07:10,500
+in nekako so bili
+
+1061
+01:07:10,500 --> 01:07:12,500
+edini, ki so ostali.
+
+1062
+01:07:12,500 --> 01:07:14,500
+Zdaj, zakaj je to lahko open-source?
+
+1063
+01:07:14,500 --> 01:07:16,500
+Vse in obene težave, ni vsak engine je lahko
+
+1064
+01:07:16,500 --> 01:07:18,500
+open-source.
+
+1065
+01:07:18,500 --> 01:07:20,500
+Mislim, da bi zdaj kdo to
+
+1066
+01:07:20,500 --> 01:07:22,500
+potem
+
+1067
+01:07:22,500 --> 01:07:24,500
+iskreno nič
+
+1068
+01:07:24,500 --> 01:07:26,500
+ne pridobiš s tem, da je close-source, razen,
+
+1069
+01:07:26,500 --> 01:07:28,500
+če je close-source nebrljiv.
+
+1070
+01:07:28,500 --> 01:07:30,500
+In v večini primerov je,
+
+1071
+01:07:30,500 --> 01:07:32,500
+zato ti nič ne pomaga, če je open-source.
+
+1072
+01:07:32,500 --> 01:07:34,500
+Lahko ima jakoš ne trd parti
+
+1073
+01:07:34,500 --> 01:07:36,500
+zadev, ampak vse ima tudi Epic, pa
+
+1074
+01:07:36,500 --> 01:07:38,500
+včeloma ni nekaj težavno.
+
+1075
+01:07:38,500 --> 01:07:40,500
+Ne vem, ne vem, zakaj drugi
+
+1076
+01:07:40,500 --> 01:07:42,500
+skrivajo source, po mojem zato, ker je
+
+1077
+01:07:42,500 --> 01:07:44,500
+enostavno ni na nivoju.
+
+1078
+01:07:44,500 --> 01:07:46,500
+Epic s tem nima nobenih težav,
+
+1079
+01:07:46,500 --> 01:07:48,500
+poberajo
+
+1080
+01:07:48,500 --> 01:07:50,500
+tistih pet procentov, po navadi,
+
+1081
+01:07:50,500 --> 01:07:52,500
+od izdaje, to je za njih čisto
+
+1082
+01:07:52,500 --> 01:07:54,500
+ok, ker je kar ogromni
+
+1083
+01:07:54,500 --> 01:07:56,500
+studij ga uporabljajo, recimo zdaj CD Projekt,
+
+1084
+01:07:56,500 --> 01:07:58,500
+ki ima Witcher, pa TZDV,
+
+1085
+01:07:58,500 --> 01:08:00,500
+oni so zdaj čisto prešalitelji na Unreal.
+
+1086
+01:08:00,500 --> 01:08:02,500
+In tega je ful.
+
+1087
+01:08:02,500 --> 01:08:04,500
+In oni so že od tega lahko
+
+1088
+01:08:04,500 --> 01:08:06,500
+kar dobro živijo,
+
+1089
+01:08:06,500 --> 01:08:08,500
+poleg tega pa vse tako Fortnite zdaj izumlji.
+
+1090
+01:08:08,500 --> 01:08:10,500
+In to je zdaj samo cash print.
+
+1091
+01:08:10,500 --> 01:08:12,500
+Ampak je ta ekosistem
+
+1092
+01:08:12,500 --> 01:08:14,500
+Fortnite,
+
+1093
+01:08:14,500 --> 01:08:16,500
+engine, store,
+
+1094
+01:08:16,500 --> 01:08:18,500
+launcher,
+
+1095
+01:08:18,500 --> 01:08:20,500
+pa tudi publisheri danes,
+
+1096
+01:08:20,500 --> 01:08:22,500
+ko so postali oziroma Soč, če prav znam.
+
+1097
+01:08:22,500 --> 01:08:24,500
+Ne, publisheri kot taki
+
+1098
+01:08:24,500 --> 01:08:26,500
+niso v načeloma, mislim
+
+1099
+01:08:26,500 --> 01:08:28,500
+zdaj vsaki lahko publišer,
+
+1100
+01:08:28,500 --> 01:08:30,500
+to ni nič za tem več,
+
+1101
+01:08:30,500 --> 01:08:32,500
+ampak oni so
+
+1102
+01:08:32,500 --> 01:08:34,500
+na začetku so začeli
+
+1103
+01:08:34,500 --> 01:08:36,500
+z Unrealom, to je bilo tam,
+
+1104
+01:08:36,500 --> 01:08:38,500
+dokr ni Fortnite prišel,
+
+1105
+01:08:38,500 --> 01:08:40,500
+oni so vedno delali sproti, so imeli
+
+1106
+01:08:40,500 --> 01:08:42,500
+engine team, pa imajo potem še
+
+1107
+01:08:42,500 --> 01:08:44,500
+time, ki delajo na igrah, in
+
+1108
+01:08:44,500 --> 01:08:46,500
+te timi, ki delajo na igrah, potem
+
+1109
+01:08:46,500 --> 01:08:48,500
+se pogovarja z engine teamom in tako se engine
+
+1110
+01:08:48,500 --> 01:08:50,500
+updata in posodablja.
+
+1111
+01:08:50,500 --> 01:08:52,500
+In oni so imeli
+
+1112
+01:08:52,500 --> 01:08:54,500
+kar nekaj flopov, no. Izdali so
+
+1113
+01:08:54,500 --> 01:08:56,500
+v tekrat paragon, ki je bila ena moba, ne, ko so vsi
+
+1114
+01:08:56,500 --> 01:08:58,500
+delali mobe, dajmo še eno delati mobo.
+
+1115
+01:08:58,500 --> 01:09:00,500
+Fortnite je bil kar nek
+
+1116
+01:09:00,500 --> 01:09:02,500
+ko survival
+
+1117
+01:09:02,500 --> 01:09:04,500
+ishting, ki bi tudi mogla, mislim,
+
+1118
+01:09:04,500 --> 01:09:06,500
+da bila na nivoj, da bi
+
+1119
+01:09:06,500 --> 01:09:08,500
+flopnila, ampak poslojo je spremenil
+
+1120
+01:09:08,500 --> 01:09:10,500
+ta beta v realne, in potem je bilo full cash-a.
+
+1121
+01:09:10,500 --> 01:09:12,500
+Potem,
+
+1122
+01:09:12,500 --> 01:09:14,500
+kar se je zgodilo,
+
+1123
+01:09:14,500 --> 01:09:16,500
+Unreal je bil že prej tistih 5%
+
+1124
+01:09:16,500 --> 01:09:18,500
+pa free,
+
+1125
+01:09:18,500 --> 01:09:20,500
+čisto nepovezano s tem.
+
+1126
+01:09:20,500 --> 01:09:22,500
+Potem pa so začeli s tem storom,
+
+1127
+01:09:22,500 --> 01:09:24,500
+z cash-em od Fortnite.
+
+1128
+01:09:24,500 --> 01:09:26,500
+In s tem storom
+
+1129
+01:09:26,500 --> 01:09:28,500
+zdaj oni skušajo konkurirati proti Steamu,
+
+1130
+01:09:28,500 --> 01:09:30,500
+je sicer full manjši stor,
+
+1131
+01:09:30,500 --> 01:09:32,500
+bistveno manj playerjev je tam,
+
+1132
+01:09:32,500 --> 01:09:34,500
+bistveno manj prodaja se, ampak
+
+1133
+01:09:34,500 --> 01:09:36,500
+jih financirajo tudi s tem, da
+
+1134
+01:09:36,500 --> 01:09:38,500
+odkupijo igre za
+
+1135
+01:09:38,500 --> 01:09:40,500
+nekaj časa, da so free.
+
+1136
+01:09:40,500 --> 01:09:42,500
+Če prav razumem, je tudi
+
+1137
+01:09:42,500 --> 01:09:44,500
+ta royalty, ki ga plačaš, manjši, a ne?
+
+1138
+01:09:44,500 --> 01:09:46,500
+Ja, royalty je
+
+1139
+01:09:46,500 --> 01:09:48,500
+manjši, ja.
+
+1140
+01:09:48,500 --> 01:09:50,500
+Niti nima take veze, a ne?
+
+1141
+01:09:50,500 --> 01:09:52,500
+Mislim, ima veze, ampak je toliko malo
+
+1142
+01:09:52,500 --> 01:09:54,500
+prodaj, da...
+
+1143
+01:09:54,500 --> 01:09:56,500
+Čakaj, Epic Games je imel
+
+1144
+01:09:56,500 --> 01:09:58,500
+neko
+
+1145
+01:09:58,500 --> 01:10:00,500
+polosud z Apple Storem,
+
+1146
+01:10:00,500 --> 01:10:02,500
+zaradi nekih,
+
+1147
+01:10:02,500 --> 01:10:04,500
+lahko to malo poveš, če prav razumem,
+
+1148
+01:10:04,500 --> 01:10:06,500
+je...
+
+1149
+01:10:06,500 --> 01:10:08,500
+Zakaj se tam grejo?
+
+1150
+01:10:08,500 --> 01:10:10,500
+Ker je
+
+1151
+01:10:10,500 --> 01:10:12,500
+za industrijo, se mi zdi, da je kaj nek tako
+
+1152
+01:10:12,500 --> 01:10:14,500
+pomembno. Ja, gre se za to, da
+
+1153
+01:10:14,500 --> 01:10:16,500
+nočejo plačati, ne?
+
+1154
+01:10:16,500 --> 01:10:18,500
+Tistih 30 procentov.
+
+1155
+01:10:18,500 --> 01:10:20,500
+Ampak to je povsod.
+
+1156
+01:10:20,500 --> 01:10:22,500
+Je kr velik problem, ker recimo
+
+1157
+01:10:22,500 --> 01:10:24,500
+Steam ima tistih 30 procentov,
+
+1158
+01:10:24,500 --> 01:10:26,500
+pa vse oni nič ne delajo več.
+
+1159
+01:10:26,500 --> 01:10:28,500
+Oni so in cash printer, to je to.
+
+1160
+01:10:28,500 --> 01:10:30,500
+In...
+
+1161
+01:10:30,500 --> 01:10:32,500
+Ne moreš
+
+1162
+01:10:32,500 --> 01:10:34,500
+priti mimo tega. Oni
+
+1163
+01:10:34,500 --> 01:10:36,500
+recimo zdaj z Epic Storem probajo, pa znižajo
+
+1164
+01:10:36,500 --> 01:10:38,500
+vse stvari, pa ne vem kaj, ampak
+
+1165
+01:10:38,500 --> 01:10:40,500
+to je toliko ingrained, da ne prideš noter.
+
+1166
+01:10:40,500 --> 01:10:42,500
+Če pravi vse dostopno.
+
+1167
+01:10:42,500 --> 01:10:44,500
+Zdaj, kaj šele na mobil, ker
+
+1168
+01:10:44,500 --> 01:10:46,500
+sploh nimaš opcije, ne? In je to
+
+1169
+01:10:46,500 --> 01:10:48,500
+res grozno, da potem imaš, da si
+
+1170
+01:10:48,500 --> 01:10:50,500
+forciram plačati naj 30 procentov.
+
+1171
+01:10:50,500 --> 01:10:52,500
+In
+
+1172
+01:10:52,500 --> 01:10:54,500
+po drugi strani to tudi
+
+1173
+01:10:54,500 --> 01:10:56,500
+omejuje ful igre, ne? Če gledaš
+
+1174
+01:10:56,500 --> 01:10:58,500
+na tak način. Oni nočejo sem 30 procentov,
+
+1175
+01:10:58,500 --> 01:11:00,500
+oni hočejo imeti 30 procentov tih stvarih, ki jih ti kupiš
+
+1176
+01:11:00,500 --> 01:11:02,500
+znotraj igre. Torej, če jaz
+
+1177
+01:11:02,500 --> 01:11:04,500
+naredim store v storu,
+
+1178
+01:11:04,500 --> 01:11:06,500
+bojo oni dobili 30 procentov, jaz bom dobil
+
+1179
+01:11:06,500 --> 01:11:08,500
+30 procentov, on na koncu ne bo dobil nič, ne?
+
+1180
+01:11:08,500 --> 01:11:10,500
+Mislim, ne vem, kam greš.
+
+1181
+01:11:10,500 --> 01:11:12,500
+Razlika, po mojem, predvsem, zakaj
+
+1182
+01:11:14,500 --> 01:11:16,500
+bi jaz se toliko fokusiral na to,
+
+1183
+01:11:16,500 --> 01:11:18,500
+če bi bil v njihovem
+
+1184
+01:11:18,500 --> 01:11:20,500
+položaju, je, če ti
+
+1185
+01:11:20,500 --> 01:11:22,500
+hočeš imeti game, pa znotraj, in da
+
+1186
+01:11:22,500 --> 01:11:24,500
+recimo, da je ta game bolj kot nek meta
+
+1187
+01:11:24,500 --> 01:11:26,500
+vrst, da lahko
+
+1188
+01:11:26,500 --> 01:11:28,500
+not maš v sebi nekih playerij
+
+1189
+01:11:28,500 --> 01:11:30,500
+naredijo. Edinačina, da bojo delili
+
+1190
+01:11:30,500 --> 01:11:32,500
+dobre v sebi, je, če bojo bili plačeni
+
+1191
+01:11:32,500 --> 01:11:34,500
+in če bojo playeri kupli.
+
+1192
+01:11:34,500 --> 01:11:36,500
+Ampak, če imaš ti to, in ti
+
+1193
+01:11:36,500 --> 01:11:38,500
+stor pobere procente, ti pobereš
+
+1194
+01:11:38,500 --> 01:11:40,500
+procente in on, on pobere
+
+1195
+01:11:40,500 --> 01:11:42,500
+svoj delež, na koncu ne ostane nič in to ne more
+
+1196
+01:11:42,500 --> 01:11:44,500
+funkcionirati. Dokr ne izničiš stora,
+
+1197
+01:11:44,500 --> 01:11:46,500
+potem lahko komaj zaživi tak
+
+1198
+01:11:46,500 --> 01:11:48,500
+meta vrst. Zdaj, ali narediš svoj
+
+1199
+01:11:48,500 --> 01:11:50,500
+stor, kar je
+
+1200
+01:11:50,500 --> 01:11:52,500
+ful težko, ok, Facebook je
+
+1201
+01:11:52,500 --> 01:11:54,500
+uspelo na questu,
+
+1202
+01:11:54,500 --> 01:11:56,500
+tisti stor
+
+1203
+01:11:56,500 --> 01:11:58,500
+dominira, absolutno dominira,
+
+1204
+01:11:58,500 --> 01:12:00,500
+cifre so nenormalno
+
+1205
+01:12:00,500 --> 01:12:02,500
+pomirjavi z steamom.
+
+1206
+01:12:02,500 --> 01:12:04,500
+Tako da, ja, to je glavni
+
+1207
+01:12:04,500 --> 01:12:06,500
+problem, po mojem, za njih.
+
+1208
+01:12:06,500 --> 01:12:08,500
+Itak pa, še boljše je,
+
+1209
+01:12:08,500 --> 01:12:10,500
+pa če ne rabijo plačati v njih.
+
+1210
+01:12:10,500 --> 01:12:12,500
+Ampak,
+
+1211
+01:12:12,500 --> 01:12:14,500
+če ne bi,
+
+1212
+01:12:14,500 --> 01:12:16,500
+razumem, zdaj, hvala si nam to risoval,
+
+1213
+01:12:16,500 --> 01:12:18,500
+ampak bom zdaj počasi šel še
+
+1214
+01:12:18,500 --> 01:12:20,500
+malo nazaj na engine, pa to.
+
+1215
+01:12:20,500 --> 01:12:22,500
+Če ne bi
+
+1216
+01:12:22,500 --> 01:12:24,500
+Unreal Engine-a bilo,
+
+1217
+01:12:24,500 --> 01:12:26,500
+potem Unity,
+
+1218
+01:12:26,500 --> 01:12:28,500
+Edina opcija še,
+
+1219
+01:12:28,500 --> 01:12:30,500
+odvisno,
+
+1220
+01:12:30,500 --> 01:12:32,500
+zakaj ne,
+
+1221
+01:12:32,500 --> 01:12:34,500
+ne, odvisno zakaj,
+
+1222
+01:12:34,500 --> 01:12:36,500
+zakaj še ne take 3D stvari, ne,
+
+1223
+01:12:36,500 --> 01:12:38,500
+ja, v bistvu, Unity, mislim,
+
+1224
+01:12:38,500 --> 01:12:40,500
+kraj engine še obstaja, ampak iskreno, jaz tisto ne vem,
+
+1225
+01:12:40,500 --> 01:12:42,500
+tisto je malo tako, hecna situacija.
+
+1226
+01:12:42,500 --> 01:12:44,500
+Nobenega ne uporablja,
+
+1227
+01:12:44,500 --> 01:12:46,500
+edini, ki jih uporabljajo, skoraj edini,
+
+1228
+01:12:46,500 --> 01:12:48,500
+so Crytek.
+
+1229
+01:12:48,500 --> 01:12:50,500
+Zelo redko kdo
+
+1230
+01:12:50,500 --> 01:12:52,500
+uporablja tisto zadevo.
+
+1231
+01:12:52,500 --> 01:12:54,500
+Nisem pa ful pogledal, zdaj,
+
+1232
+01:12:54,500 --> 01:12:56,500
+kaj bi ostala opcija, če ni
+
+1233
+01:12:56,500 --> 01:12:58,500
+Unreal-a, Unity ali pa
+
+1234
+01:12:58,500 --> 01:13:00,500
+kraj engine. Slišal sem za nek engine
+
+1235
+01:13:00,500 --> 01:13:02,500
+Godot,
+
+1236
+01:13:02,500 --> 01:13:04,500
+ja, jaz sicer ne poznam,
+
+1237
+01:13:04,500 --> 01:13:06,500
+neki nov opensource,
+
+1238
+01:13:06,500 --> 01:13:08,500
+zadevo videl sem, da so ljudje bili
+
+1239
+01:13:08,500 --> 01:13:10,500
+plazmeno vdušeni, mislim, da je bolj
+
+1240
+01:13:10,500 --> 01:13:12,500
+za začetnike,
+
+1241
+01:13:12,500 --> 01:13:14,500
+lahko pa ne, nisi, ne vem, če poznaš.
+
+1242
+01:13:14,500 --> 01:13:16,500
+Ne, žal ne poznam, sem slišal,
+
+1243
+01:13:16,500 --> 01:13:18,500
+mislim, tako poznam, približno vem,
+
+1244
+01:13:18,500 --> 01:13:20,500
+da obstaja, nisem pa nikdaj nič kaj delal
+
+1245
+01:13:20,500 --> 01:13:22,500
+s tem. To so najboljši,
+
+1246
+01:13:22,500 --> 01:13:24,500
+te, pač Unreal,
+
+1247
+01:13:24,500 --> 01:13:26,500
+to je svoja liga.
+
+1248
+01:13:26,500 --> 01:13:28,500
+Mislim, ja, to je tako, kaj da bi ti
+
+1249
+01:13:28,500 --> 01:13:30,500
+rekel, okej, kupovoš vsi
+
+1250
+01:13:30,500 --> 01:13:32,500
+toolingi, ki so odolbi z YouTube,
+
+1251
+01:13:32,500 --> 01:13:34,500
+pač vseh sedem produktov,
+
+1252
+01:13:34,500 --> 01:13:36,500
+pa cel
+
+1253
+01:13:36,500 --> 01:13:38,500
+IntelliJ, vsi
+
+1254
+01:13:38,500 --> 01:13:40,500
+ideje, pa še
+
+1255
+01:13:40,500 --> 01:13:42,500
+Emuvia, ne vem,
+
+1256
+01:13:42,500 --> 01:13:44,500
+to so samo te toolingi, ki jih ti
+
+1257
+01:13:44,500 --> 01:13:46,500
+vidiš. Ja, mislim.
+
+1258
+01:13:46,500 --> 01:13:48,500
+To je pač tako kompleksno. Noro, noro je.
+
+1259
+01:13:48,500 --> 01:13:50,500
+Če pride nov player, gre za
+
+1260
+01:13:50,500 --> 01:13:52,500
+multigeneracijski efort, da
+
+1261
+01:13:52,500 --> 01:13:54,500
+vviš. Ne, zdaj so tudi že studije
+
+1262
+01:13:54,500 --> 01:13:56,500
+ne, nehali počasi svoje in-house,
+
+1263
+01:13:56,500 --> 01:13:58,500
+ker
+
+1264
+01:13:58,500 --> 01:14:00,500
+ne moreš več, je že toliko
+
+1265
+01:14:00,500 --> 01:14:02,500
+teh stvari, trebam odmeti, da
+
+1266
+01:14:02,500 --> 01:14:04,500
+od vseh različnih
+
+1267
+01:14:04,500 --> 01:14:06,500
+zadev, ne, od animacij do tega,
+
+1268
+01:14:06,500 --> 01:14:08,500
+ampak vedno gremo bolj, bolj, bolj
+
+1269
+01:14:08,500 --> 01:14:10,500
+kompleksno. Pa ni to, da sem animacij
+
+1270
+01:14:10,500 --> 01:14:12,500
+hintlašč, ampak sem animation design,
+
+1271
+01:14:12,500 --> 01:14:14,500
+kako te animaciji skupaj lepiš,
+
+1272
+01:14:14,500 --> 01:14:16,500
+to so konec konca vsem klipi, ne,
+
+1273
+01:14:16,500 --> 01:14:18,500
+ti moraš to narediti, da je nekako smooth, da gre vse
+
+1274
+01:14:18,500 --> 01:14:20,500
+in tega in kup teh
+
+1275
+01:14:20,500 --> 01:14:22,500
+zadev. Ful je tudi pomembno
+
+1276
+01:14:22,500 --> 01:14:24,500
+zdaj postalo, ker so designeri bolj
+
+1277
+01:14:24,500 --> 01:14:26,500
+empowered, da sami delajo kodo,
+
+1278
+01:14:26,500 --> 01:14:28,500
+zdaj to je tako.
+
+1279
+01:14:28,500 --> 01:14:30,500
+Naslednja generacija.
+
+1280
+01:14:30,500 --> 01:14:32,500
+Ne, malo je problem to,
+
+1281
+01:14:32,500 --> 01:14:34,500
+ker oni res
+
+1282
+01:14:34,500 --> 01:14:36,500
+naredijo nekaj tako
+
+1283
+01:14:36,500 --> 01:14:38,500
+z glavo, skozi zid, ne, I have the
+
+1284
+01:14:38,500 --> 01:14:40,500
+power of code, ne, pa grejo.
+
+1285
+01:14:40,500 --> 01:14:42,500
+In to je grozno, mislim, pol moraš to
+
+1286
+01:14:42,500 --> 01:14:44,500
+popravljati za njimi, ni lepo, ampak
+
+1287
+01:14:44,500 --> 01:14:46,500
+zanimivo je, da idealen
+
+1288
+01:14:46,500 --> 01:14:48,500
+engine, po moje, ima tri
+
+1289
+01:14:48,500 --> 01:14:50,500
+jezike, v katerih delaš.
+
+1290
+01:14:50,500 --> 01:14:52,500
+En je low level, v katerem je
+
+1291
+01:14:52,500 --> 01:14:54,500
+engine napisan kot je C++.
+
+1292
+01:14:54,500 --> 01:14:56,500
+Unreal v C++, by the way, je ful lep,
+
+1293
+01:14:56,500 --> 01:14:58,500
+za uporabljati. Ni, to ni navadne C++,
+
+1294
+01:14:58,500 --> 01:15:00,500
+imajo svoje stvari.
+
+1295
+01:15:00,000 --> 01:15:03,080
+in tudi je refleksija in vse.
+
+1296
+01:15:03,360 --> 01:15:06,760
+Potem drugi je nek scripting language, to je lahko C-sharp,
+
+1297
+01:15:06,760 --> 01:15:09,760
+lahko je pa dejansko kakšen scripting-scripting language,
+
+1298
+01:15:12,080 --> 01:15:15,080
+lahko bi tudi kakšen Python, ali nekaj skratke, kar se lepo piše,
+
+1299
+01:15:15,080 --> 01:15:18,480
+pa lahko potem uporabljati. In zadnji je pa vizualni.
+
+1300
+01:15:18,480 --> 01:15:20,080
+To pa moraš imeti zaradi designerja.
+
+1301
+01:15:20,080 --> 01:15:23,080
+Aha, to se pravi, misliš blokovno ali?
+
+1302
+01:15:23,080 --> 01:15:26,000
+Ja, pa dejansko note-based.
+
+1303
+01:15:26,000 --> 01:15:28,719
+Tako da te tri stvariče imaš, pokriješ vse.
+
+1304
+01:15:28,719 --> 01:15:31,719
+Če kateregakoli od teh nimaš, je problem.
+
+1305
+01:15:31,719 --> 01:15:34,720
+C++ je preveč low-level, mislim, se da z njim delati,
+
+1306
+01:15:34,720 --> 01:15:38,720
+ampak jasno je, da bi blok je lepši med kaj bolj kompaktnega,
+
+1307
+01:15:38,720 --> 01:15:42,720
+ampak, ali ima C++ pa ta note-based.
+
+1308
+01:15:42,720 --> 01:15:45,720
+Med tem, ko Unity ima pa, ne vem,
+
+1309
+01:15:45,720 --> 01:15:47,720
+note-based se da mislim, da se spraviti nekako,
+
+1310
+01:15:47,720 --> 01:15:49,720
+note, ko imaš kakšne plug-ine, drugače ima pa C-sharp,
+
+1311
+01:15:49,720 --> 01:15:52,720
+ne, nima pa low-level. Če nimaš low-level, nimaš performance-a,
+
+1312
+01:15:52,720 --> 01:15:56,720
+če nimaš scripting language-a, se ukvarjaš s C++-om,
+
+1313
+01:15:56,720 --> 01:15:58,720
+ali pa se ukvarjaš s tem note-based.
+
+1314
+01:15:58,720 --> 01:16:01,720
+Pri tem note-based pa so špageti taki, da aj čau.
+
+1315
+01:16:01,720 --> 01:16:05,720
+Mislim, je noro, tako da organizacija kode, ne,
+
+1316
+01:16:05,720 --> 01:16:07,720
+hočeš imeti v tekstu.
+
+1317
+01:16:07,720 --> 01:16:10,720
+Tako da te tri stvari so perfect, ampak nobenih nima.
+
+1318
+01:16:10,720 --> 01:16:14,720
+Unreal zdaj pa je, planira, da bodo note.
+
+1319
+01:16:14,720 --> 01:16:16,720
+Scripting language.
+
+1320
+01:16:16,720 --> 01:16:22,720
+Eno vprašanje, ok, imaš Unreal,
+
+1321
+01:16:23,720 --> 01:16:26,720
+potem imaš pa, pomoč pa seveda za ful enih stvarih
+
+1322
+01:16:26,720 --> 01:16:29,720
+graditi določene pipeline-e, pač asset pipeline-e.
+
+1323
+01:16:29,720 --> 01:16:33,720
+Mene pač zanima tudi, koliko ste,
+
+1324
+01:16:33,720 --> 01:16:36,720
+a ste mogli dejansko nek intern tooling razviti,
+
+1325
+01:16:36,720 --> 01:16:39,720
+ali to zdaj v bistvu šlo čist stran?
+
+1326
+01:16:39,720 --> 01:16:42,720
+Ne, nismo imeli nič kaj takega.
+
+1327
+01:16:42,720 --> 01:16:45,720
+Unreal ima tudi to lepolasno, da lahko editor extendeš, ne.
+
+1328
+01:16:45,720 --> 01:16:47,720
+Je open source tudi editor sam.
+
+1329
+01:16:47,720 --> 01:16:50,720
+Tako da se da kaj narediti tam,
+
+1330
+01:16:50,720 --> 01:16:53,720
+kakšna avtomatizacija se da narediti znotraj editorja.
+
+1331
+01:16:53,720 --> 01:16:56,720
+To je cool, ampak drugače pa nič kaj dosti.
+
+1332
+01:16:56,720 --> 01:16:59,720
+Pa, a ste mogli kupovati nekaj trt parti stvari,
+
+1333
+01:16:59,720 --> 01:17:02,720
+ne vem, jaz sem pol gledal, imaš dost tega toolinga,
+
+1334
+01:17:02,720 --> 01:17:05,720
+ki jo bi zelo specializira, ne vem, za zvok, kako, ne vem.
+
+1335
+01:17:05,720 --> 01:17:08,720
+Ti ste, ne vem, peč, a ste...
+
+1336
+01:17:08,720 --> 01:17:11,720
+Za zvok imaš plnovadije, to so peč Wiser, recimo en tak,
+
+1337
+01:17:11,720 --> 01:17:15,720
+pa FMOD. Nismo, ker Unreal ima zelo dobro narejeno,
+
+1338
+01:17:15,720 --> 01:17:18,720
+v bistvu ta zvok je kr na nivoju.
+
+1339
+01:17:18,720 --> 01:17:21,720
+V Unity, recimo, je to že problem. Tam že plnovadije rabiš.
+
+1340
+01:17:21,720 --> 01:17:24,720
+To se pravi, dejansko je Unreal...
+
+1341
+01:17:24,720 --> 01:17:27,720
+Self-sufficient je razen, edina stvar, ki mi je manjkala takrat,
+
+1342
+01:17:27,720 --> 01:17:30,720
+je bil back-end. Back-end, imamo pa PlayFab.
+
+1343
+01:17:30,720 --> 01:17:33,720
+Ampak to, ga integriraš not,
+
+1344
+01:17:33,720 --> 01:17:36,720
+zdaj, Unreal tudi tam začel delati.
+
+1345
+01:17:36,720 --> 01:17:39,720
+Zdaj se s temi back-endi ful začelo, ne.
+
+1346
+01:17:39,720 --> 01:17:42,720
+Ker zdaj game, ok, game, zdaj game engine je.
+
+1347
+01:17:42,720 --> 01:17:45,720
+Maš cool. Store, ok, imamo.
+
+1348
+01:17:45,720 --> 01:17:48,720
+Back-end se ga uporablja od stora, od Steam-a.
+
+1349
+01:17:48,720 --> 01:17:51,720
+Zdaj je prišel še Epic, pa so prišle konzole, pa zdaj lahko da še,
+
+1350
+01:17:51,720 --> 01:17:54,720
+zdaj pa to ni več, ok, moraš imeti cross-platform, zdaj pa moraš imeti še back-end.
+
+1351
+01:17:54,720 --> 01:17:57,720
+In back-end je, recimo, v tem primeru PlayFab.
+
+1352
+01:17:57,720 --> 01:18:00,720
+Razložno. Kaj misliš o tem back-endu? A misliš to,
+
+1353
+01:18:00,720 --> 01:18:03,720
+ta nek, server-side od game-a?
+
+1354
+01:18:03,720 --> 01:18:06,720
+Ne od game-a, mislim, ja, od game-a,
+
+1355
+01:18:06,720 --> 01:18:09,720
+ampak v smislu, kje se shrani tvoj profil,
+
+1356
+01:18:09,720 --> 01:18:12,720
+kje se shrani tvoji itemi, ki jih imaš, itemi v smislu,
+
+1357
+01:18:12,720 --> 01:18:15,720
+kaj si unlokal, nekaj si kupil v storu, kje se shrani.
+
+1358
+01:18:15,720 --> 01:18:18,720
+A to sami razvijate ali to? Ne, PlayFab imamo,
+
+1359
+01:18:18,720 --> 01:18:21,720
+ta, trd partije. To so neke generalne stvari,
+
+1360
+01:18:21,720 --> 01:18:24,720
+ki jih lahko naredite, pa pa domnevam,
+
+1361
+01:18:24,720 --> 01:18:27,720
+da sam ta game-mechanik, netcode je pa pač stvar,
+
+1362
+01:18:27,720 --> 01:18:30,720
+ki… Netcode je pa dejansko ločeno od tega,
+
+1363
+01:18:30,720 --> 01:18:33,720
+back-end je, to pa je Unreal dejansko, to je pa game-server.
+
+1364
+01:18:33,720 --> 01:18:36,720
+Server je še vedno imamo, jih mih, trenutek imamo
+
+1365
+01:18:36,720 --> 01:18:39,720
+sami mašine, pač rentene nekje,
+
+1366
+01:18:39,720 --> 01:18:42,720
+pa potem poženemo gor Unreal-o v server,
+
+1367
+01:18:42,720 --> 01:18:45,720
+ki je v bistvu ista koda kot game,
+
+1368
+01:18:45,720 --> 01:18:48,720
+ampak je stripano ven, to že vse Unreal ima,
+
+1369
+01:18:48,720 --> 01:18:51,720
+ti stripa ven grafiko, vse te stvari ti stripa,
+
+1370
+01:18:51,720 --> 01:18:54,720
+tako da je command-line. Se pravi, da poznamem,
+
+1371
+01:18:54,720 --> 01:18:57,720
+da razumem, če je iste stvari govorila.
+
+1372
+01:18:57,720 --> 01:19:00,720
+Ti v bistvu en code-base delaš, en game,
+
+1373
+01:19:00,720 --> 01:19:03,720
+in potem v bistvu zgeneriraš servers,
+
+1374
+01:19:03,720 --> 01:19:06,720
+dobiš ven output server-side kodo, pa pa v bistvu client-side kodo,
+
+1375
+01:19:06,720 --> 01:19:09,720
+in ta server-side kodo potem tudi na serverih tečete.
+
+1376
+01:19:09,720 --> 01:19:12,720
+Kaj pa ta komunikacija, server-client,
+
+1377
+01:19:12,720 --> 01:19:15,720
+predpostavljam, da je to
+
+1378
+01:19:15,720 --> 01:19:18,720
+blazno optimizirano,
+
+1379
+01:19:18,720 --> 01:19:21,720
+ali se tudi ukvarjate zdajansko?
+
+1380
+01:19:21,720 --> 01:19:24,720
+Kaj je netcode?
+
+1381
+01:19:24,720 --> 01:19:27,720
+Zdaj, osnove, samo pač
+
+1382
+01:19:27,720 --> 01:19:30,720
+trafik v vseh engineh je tole
+
+1383
+01:19:30,720 --> 01:19:33,720
+praktično vedno, karkoli je bolj
+
+1384
+01:19:33,720 --> 01:19:36,720
+high, fast-paced, to je vedno UDP.
+
+1385
+01:19:36,720 --> 01:19:39,720
+Not rollaš svoj reliable
+
+1386
+01:19:39,720 --> 01:19:42,720
+funkcionalno, če hočeš kakšen stvar, da sigurno pride,
+
+1387
+01:19:42,720 --> 01:19:45,720
+in moraš pač ti handlati nad svojim protokolo, pač vedno delaš svoj protokolo.
+
+1388
+01:19:45,720 --> 01:19:48,720
+Zdaj, za Unreal,
+
+1389
+01:19:48,720 --> 01:19:51,720
+Unreal to ima, in je dejansko fulj lepo spisan,
+
+1390
+01:19:51,720 --> 01:19:54,720
+so nek mogoče ne težave, če imaš fulj playerjev, zdaj se je to malo spremenilo.
+
+1391
+01:19:54,720 --> 01:19:57,720
+Ampak lepo ti handla te stvari,
+
+1392
+01:19:57,720 --> 01:20:00,720
+ker tudi ni
+
+1393
+01:20:00,720 --> 01:20:03,720
+pošiljanje teh stvari, designer se odloči, a jaz vidim to,
+
+1394
+01:20:03,720 --> 01:20:06,720
+ampak to bi rada zdaj vejo vsi playerji.
+
+1395
+01:20:06,720 --> 01:20:09,720
+In zdaj, to mora biti nek cel framework, kako bo ta stvar funkcionirala.
+
+1396
+01:20:09,720 --> 01:20:12,720
+In ima lepo sestavljeno te stvari, da ti pošilja okrog,
+
+1397
+01:20:12,720 --> 01:20:15,720
+seveda je tukaj fulj je, sam netcode,
+
+1398
+01:20:15,720 --> 01:20:18,720
+pa ni to ni, netcode je pa zdaj že gameplay,
+
+1399
+01:20:18,720 --> 01:20:21,720
+to pa delaš sam, ker tukaj netcode je fulj taka
+
+1400
+01:20:21,720 --> 01:20:24,720
+slippery definicija stvari.
+
+1401
+01:20:24,720 --> 01:20:27,720
+Ampak pri samem netcode moraš pa paziti na to,
+
+1402
+01:20:27,720 --> 01:20:30,720
+da ne veš nujno v kakšnem vrstnem redu ti pridejo določene stvari,
+
+1403
+01:20:30,720 --> 01:20:33,720
+moraš razumeti, kako dela to v Unrealu,
+
+1404
+01:20:33,720 --> 01:20:36,720
+networking sam, da veš kaj pride skupaj,
+
+1405
+01:20:36,720 --> 01:20:39,720
+kaj ne pride skupaj, kaj pomeni to, kaj pomeni ono,
+
+1406
+01:20:39,720 --> 01:20:42,720
+in potem paziti skoraj, kot da delaš paralelno kodo,
+
+1407
+01:20:42,720 --> 01:20:45,720
+ker ne veš, kaj se bo zgodilo, pa moraš par stvari gardati,
+
+1408
+01:20:45,720 --> 01:20:48,720
+ker ne veš, kaj je atomično, kaj ni.
+
+1409
+01:20:48,720 --> 01:20:51,720
+To je prva stvar, zdaj druga stvar je pa dejansko,
+
+1410
+01:20:51,720 --> 01:20:54,720
+kako ti dosežeš to,
+
+1411
+01:20:54,720 --> 01:20:57,720
+kako ti dosežeš to, da so hiti sinkani,
+
+1412
+01:20:57,720 --> 01:21:00,720
+kako dosežeš to, da zgleda stvar tako, kot mora online.
+
+1413
+01:21:00,720 --> 01:21:03,720
+To je pa ...
+
+1414
+01:21:03,720 --> 01:21:06,720
+To je pa tako.
+
+1415
+01:21:06,720 --> 01:21:09,720
+Cervnija.
+
+1416
+01:21:09,720 --> 01:21:12,720
+Ja, ampak tako, time wizarder je to, ker se moraš predvsem
+
+1417
+01:21:12,720 --> 01:21:15,720
+je vprašanje, kdaj si.
+
+1418
+01:21:15,720 --> 01:21:18,720
+Kdaj si trenutno v tem trenutku, ker čas je relativen za vse
+
+1419
+01:21:18,720 --> 01:21:21,720
+upovezane v ta server.
+
+1420
+01:21:21,720 --> 01:21:24,720
+Ti recimo stisneš en gumb, zdaj ena varianta je, kaj se zgodi.
+
+1421
+01:21:24,720 --> 01:21:27,720
+Gumb za naprej. Ga stisneš,
+
+1422
+01:21:27,720 --> 01:21:30,720
+gre tvoj karakter tako naprej ali čakaš na respons od serverja?
+
+1423
+01:21:30,720 --> 01:21:33,720
+Odgovor je, ne. Vedno gre naprej, zato ker,
+
+1424
+01:21:33,720 --> 01:21:36,720
+če boš čakal, bo to klan, ki bo feeling, bo katastrofa.
+
+1425
+01:21:36,720 --> 01:21:39,720
+To pomeni, da ti si v bistvu zdaj
+
+1426
+01:21:39,720 --> 01:21:42,720
+v prihodnosti.
+
+1427
+01:21:42,720 --> 01:21:45,720
+Server še ni tam. Server bo bil tam, ko bo dobil input, pa ga bo,
+
+1428
+01:21:45,720 --> 01:21:48,720
+če ga bo potrdil, recimo, da ga bo, si v prihodnosti.
+
+1429
+01:21:48,720 --> 01:21:51,720
+To velja, če ti,
+
+1430
+01:21:51,720 --> 01:21:54,720
+če pa gledaš drugega playerja,
+
+1431
+01:21:54,720 --> 01:21:57,720
+tukaj je poslal server informacijo,
+
+1432
+01:21:57,720 --> 01:22:00,720
+ampak on ti je poslal, kje je trenutno.
+
+1433
+01:22:00,720 --> 01:22:03,720
+Kje je bil prej, je tako. Ti veš samo, kje je zdaj.
+
+1434
+01:22:03,720 --> 01:22:06,720
+V mesji bo 30 milisekunde. Ti moraš to interpolirati.
+
+1435
+01:22:06,720 --> 01:22:09,720
+Pa tudi, mogoče malo več časa boš hrabil, ker ne veš, kam bo potem šel.
+
+1436
+01:22:09,720 --> 01:22:12,720
+Tako da on je v priteknosti.
+
+1437
+01:22:12,720 --> 01:22:15,720
+Za serverja je on v vsedanjosti.
+
+1438
+01:22:15,720 --> 01:22:18,720
+In kje se to zakomplicira?
+
+1439
+01:22:18,720 --> 01:22:21,720
+Recimo, da zdaj ti začneš en napad.
+
+1440
+01:22:21,720 --> 01:22:24,720
+Ti začneš napad, ki štarta takoj. Torej, je v prihodnosti.
+
+1441
+01:22:24,720 --> 01:22:27,720
+Zadaneš enega tipa, ki je v priteknosti,
+
+1442
+01:22:27,720 --> 01:22:30,720
+ampak v serverju je v vsedanjosti, ampak ti si v prihodnosti,
+
+1443
+01:22:30,720 --> 01:22:33,720
+zato ti server pošle in zdaj si, ne vem, nekje v priteknosti
+
+1444
+01:22:33,720 --> 01:22:36,720
+dobiš ta registration nazaj.
+
+1445
+01:22:36,720 --> 01:22:39,720
+Kako se to lotiš, je po navadi tako, da uskladiš stvar
+
+1446
+01:22:39,720 --> 01:22:42,720
+na različna čina, odvisno od mehanike.
+
+1447
+01:22:42,720 --> 01:22:45,720
+Če ti začneš napad, kaj lahko narediš je, da animacijo napada
+
+1448
+01:22:45,720 --> 01:22:48,720
+upočasniš zato, kot je tvoj ping.
+
+1449
+01:22:48,720 --> 01:22:51,720
+S tem si v bistvu dosegu, da ko bo se zgodil napad
+
+1450
+01:22:51,720 --> 01:22:54,720
+na serverju, server ti bo poslal tebe.
+
+1451
+01:22:54,720 --> 01:22:57,720
+Ti si naj pre njemu poslal, pa je šlo pol pinga.
+
+1452
+01:22:57,720 --> 01:23:00,720
+On je začel napad, koga on zadane, ti si ga upočasnil,
+
+1453
+01:23:00,720 --> 01:23:03,720
+koga on zadane, ti pošle odgovor nazaj, še drugi del
+
+1454
+01:23:03,720 --> 01:23:06,720
+pinga je šlo in to pomeni, da se cel ping zdaj dobiti bo nazaj
+
+1455
+01:23:06,720 --> 01:23:09,720
+in si sinkan, ker je bil tle napad in tvoj je delejan
+
+1456
+01:23:09,720 --> 01:23:12,720
+in je zdaj to cool. Razumem, to se pravi, tako kot
+
+1457
+01:23:12,720 --> 01:23:15,720
+N, P, G, A in kaj se izmeri, imaš tri cikle, pa se izmeri.
+
+1458
+01:23:15,720 --> 01:23:18,720
+Ampak ima še en problem. Tvoj movement
+
+1459
+01:23:18,720 --> 01:23:21,720
+in tvoj mouselook je v prihodnosti.
+
+1460
+01:23:21,720 --> 01:23:24,720
+Tako da zdaj, da to sinkaš, mi dejansko
+
+1461
+01:23:24,720 --> 01:23:27,720
+not v kontroliran način
+
+1462
+01:23:27,720 --> 01:23:30,720
+injektamo lag, ampak
+
+1463
+01:23:30,720 --> 01:23:33,719
+na zelo kontroliran način, kar pomeni, da
+
+1464
+01:23:33,719 --> 01:23:36,719
+te legamo, ampak ti pokažemo, kje si bil, ne kje si,
+
+1465
+01:23:36,719 --> 01:23:39,719
+ampak malo ekstrapoliramo v tam, kje si.
+
+1466
+01:23:39,719 --> 01:23:42,719
+Tako da imaš feeling, da lahko prenikaš, ampak ne je full.
+
+1467
+01:23:42,719 --> 01:23:45,719
+Kako to testirate?
+
+1468
+01:23:45,719 --> 01:23:48,719
+Simulirate?
+
+1469
+01:23:48,719 --> 01:23:51,719
+Načeloma, mislim, simuliraš
+
+1470
+01:23:51,719 --> 01:23:54,719
+lag itek lahko, to ni problem in to je to.
+
+1471
+01:23:54,719 --> 01:23:57,719
+Zdaj, testiraš pol itek, full feeling.
+
+1472
+01:23:57,719 --> 01:24:00,719
+Kako veš, da tvoja koda, ki to preračunava, deluje?
+
+1473
+01:24:00,719 --> 01:24:03,719
+Na kak način to rešujete?
+
+1474
+01:24:03,719 --> 01:24:06,719
+Greš skozi kodo, pa jo čisto na
+
+1475
+01:24:06,719 --> 01:24:09,719
+greš skozi, dokaj ne ugotoviš, da je for sure
+
+1476
+01:24:09,719 --> 01:24:12,719
+da stvar dela. Če je karkoli na robi, pa greš enkrat skozi
+
+1477
+01:24:12,719 --> 01:24:15,719
+in jo pač res formalno greš skozi, pa jo
+
+1478
+01:24:15,719 --> 01:24:18,719
+do nule naštudiraš.
+
+1479
+01:24:18,719 --> 01:24:21,719
+Formalno je pogledaš, lahko introdjuseš v bistvu
+
+1480
+01:24:21,719 --> 01:24:24,719
+nek lag, da dobiš bolje realno okolje
+
+1481
+01:24:24,719 --> 01:24:27,719
+dveh igralcev, ki sta nekje lokacijsko, pa potem
+
+1482
+01:24:27,719 --> 01:24:30,719
+domnevam, da pač empirično sediš in igraš igro.
+
+1483
+01:24:31,719 --> 01:24:34,719
+A pa te izračuni potekajo
+
+1484
+01:24:34,719 --> 01:24:37,719
+v bistvu potem in na klajntu in na serveru?
+
+1485
+01:24:37,719 --> 01:24:40,719
+Ja, v kodo imaš drugače vsa koda.
+
+1486
+01:24:40,719 --> 01:24:43,719
+Kot sem rekel na začetku, ti izvoziš v bistvu
+
+1487
+01:24:43,719 --> 01:24:46,719
+ven server, ampak je ista koda. Dejansko je ista koda.
+
+1488
+01:24:46,719 --> 01:24:49,719
+Ni to, da je sem pač skupaj nekako, ampak je ista koda.
+
+1489
+01:24:49,719 --> 01:24:52,719
+In v kodi imaš, if če si server
+
+1490
+01:24:52,719 --> 01:24:55,719
+else če si klajnt. Zakaj tako?
+
+1491
+01:24:55,719 --> 01:24:58,719
+Da se tablizo. Ne, mislim, je nemogoče
+
+1492
+01:24:58,719 --> 01:25:01,719
+drugače pisat tako kodo. Ne moreš
+
+1493
+01:25:01,719 --> 01:25:04,719
+tega kratko vločiti. Tudi to prebereš.
+
+1494
+01:25:04,719 --> 01:25:07,719
+Dejansko vidiš, aha, dva konteksta sta.
+
+1495
+01:25:07,719 --> 01:25:10,719
+Drugače se tega, ne obstaja boljši način
+
+1496
+01:25:10,719 --> 01:25:13,719
+kako to pisati, ker kdaj
+
+1497
+01:25:13,719 --> 01:25:16,719
+klajnt naredi to, kar tudi server naredi, ampak naredi
+
+1498
+01:25:16,719 --> 01:25:19,719
+za to, da lahko predikta vnaprej. Ni dumb klajnt,
+
+1499
+01:25:19,719 --> 01:25:22,719
+ker ne more biti. Tako da je ful prepletanje te kode.
+
+1500
+01:25:22,719 --> 01:25:25,719
+Mi je bilo ful duplikacije. In potem imaš
+
+1501
+01:25:25,719 --> 01:25:28,719
+še tretji varianta je, da je to nekdo drugi,
+
+1502
+01:25:28,719 --> 01:25:31,719
+ki je kontrol, ki ga player, en drugi
+
+1503
+01:25:31,719 --> 01:25:34,719
+igralec igra. Recimo drugi varianta tega
+
+1504
+01:25:34,719 --> 01:25:37,719
+ne tako, kako se ukvarjaš s tem časom.
+
+1505
+01:25:37,719 --> 01:25:40,719
+Ko te player začne, pa te napada, pa ti viš animacijo prihaja.
+
+1506
+01:25:40,719 --> 01:25:43,719
+Player bo reagiral, glede na
+
+1507
+01:25:43,719 --> 01:25:46,719
+animacijo, ki jo vidi. Ampak to je v
+
+1508
+01:25:46,719 --> 01:25:49,719
+preteklosti. In on je ful v prihodnosti.
+
+1509
+01:25:49,719 --> 01:25:52,719
+Zato, ker on je poslal, ti si tam.
+
+1510
+01:25:52,719 --> 01:25:55,719
+Ampak, ko govoriš ta prehodnost, preteklost,
+
+1511
+01:25:55,719 --> 01:25:58,719
+koliko je ta čas? Odvisno od laga?
+
+1512
+01:25:58,719 --> 01:26:01,719
+Odvisno od spinga, ja. Pa kaj te govorimo milisekonda?
+
+1513
+01:26:01,719 --> 01:26:04,719
+60 do 100 milisekonda. Kar je že kar veliko.
+
+1514
+01:26:04,719 --> 01:26:07,719
+Tako da, v tem primeru, neče on rejekta na
+
+1515
+01:26:07,719 --> 01:26:10,719
+stvar, ki je v zgodovini se zgodila,
+
+1516
+01:26:10,719 --> 01:26:13,719
+je pol to prepoznen reakšen. Tako da v tem primeru
+
+1517
+01:26:13,719 --> 01:26:16,719
+ti narediš obratno in ga premakneš njegovo animacijo malo naprej.
+
+1518
+01:26:16,719 --> 01:26:19,719
+Ker bo bil, čeprav še ni. Tako da pomagaš playerju,
+
+1519
+01:26:19,719 --> 01:26:22,719
+da narediš ta predikšer. Samo posle moraš spet
+
+1520
+01:26:22,719 --> 01:26:25,719
+paziti. Ker zdaj si to naredil, zdaj kaj se bo zgodilo? Hit ne bo
+
+1521
+01:26:25,719 --> 01:26:28,719
+več sinken. Perfektno. On bo šel malo čez,
+
+1522
+01:26:28,719 --> 01:26:31,719
+server bo rekel tu in spet moraš paziti.
+
+1523
+01:26:31,719 --> 01:26:34,719
+A iz teh
+
+1524
+01:26:34,719 --> 01:26:37,719
+izračunov, ki jih moraš opravljati,
+
+1525
+01:26:37,719 --> 01:26:40,719
+potem prijemo do te umetve 64
+
+1526
+01:26:40,719 --> 01:26:43,719
+playerjev, ki jih imaš na serveru? Ne.
+
+1527
+01:26:43,719 --> 01:26:46,719
+Do te umetve pridemo zato, ker server je v našem primeru
+
+1528
+01:26:46,719 --> 01:26:49,719
+vso fiziko in vse izračune in vse animacije,
+
+1529
+01:26:49,719 --> 01:26:52,719
+kar ne dela, če bom imel ena igra dan danes. Zato ker recimo
+
+1530
+01:26:52,719 --> 01:26:55,719
+šuter, ti ustreliš, on ti reče, ok, si imel ustrelo, cool.
+
+1531
+01:26:55,719 --> 01:26:58,719
+Pa če potrdi server, nič ne gre preveriti
+
+1532
+01:26:58,719 --> 01:27:01,719
+animacije. V tistem primeru je to ok.
+
+1533
+01:27:01,719 --> 01:27:04,719
+V našem primeru je ful pomembno, da je
+
+1534
+01:27:04,719 --> 01:27:07,719
+lag enako vreden med tistim, ki se
+
+1535
+01:27:07,719 --> 01:27:10,719
+brani, pa tistim, ki napada. V šuteri to ni toliko pomembno.
+
+1536
+01:27:10,719 --> 01:27:13,719
+Zato mi delamo vse na serverju in več kot 64,
+
+1537
+01:27:13,719 --> 01:27:16,719
+60, pa če nastavljamo, nismo uspeli zoptimizirati, da bi več kot toliko
+
+1538
+01:27:16,719 --> 01:27:19,719
+furali. Mislim, do 80 smo prišli. Ampak več so,
+
+1539
+01:27:19,719 --> 01:27:22,719
+tu potrebuješ neke mega hardvere
+
+1540
+01:27:22,719 --> 01:27:25,719
+za to zadevo. In kr konkretne mašine, ja.
+
+1541
+01:27:25,719 --> 01:27:28,719
+So kr konkretne mašine. Je pa res to,
+
+1542
+01:27:28,719 --> 01:27:31,719
+da mislim, če imaš več playerjev, tudi te manj
+
+1543
+01:27:31,719 --> 01:27:34,719
+stane stvar, ker lažje razporediš.
+
+1544
+01:27:34,719 --> 01:27:37,719
+Če imaš ti recimo štiri, enega, dva playerja,
+
+1545
+01:27:37,719 --> 01:27:40,719
+ne, ne boš dobil toliko podceni
+
+1546
+01:27:40,719 --> 01:27:43,719
+mašine, da bi lahko to fural.
+
+1547
+01:27:43,719 --> 01:27:46,719
+Za 64 pa se lepše, po razdeli.
+
+1548
+01:27:46,719 --> 01:27:49,719
+Ampak, ja, predvsem je to za optimizacijo.
+
+1549
+01:27:49,719 --> 01:27:52,719
+V optimizaciji pa je ogromno bilo potrebno, da smo lahko to furali, ne, na serveri.
+
+1550
+01:27:52,719 --> 01:27:55,719
+Treba je profiling iti skozi, ne, odarjati mato
+
+1551
+01:27:55,719 --> 01:27:58,719
+di si server, seveda profiling, pa vse.
+
+1552
+01:27:58,719 --> 01:28:01,719
+Pa potem pogledati, kaj ti porabi toliko časa, ne.
+
+1553
+01:28:01,719 --> 01:28:04,719
+Kot uviš, a, lej tistim lin tam se vrti, pa tika vsako,
+
+1554
+01:28:04,719 --> 01:28:07,719
+vsak frame, ne.
+
+1555
+01:28:07,719 --> 01:28:10,719
+Za kaj, ne, daš stran, pa daš neki, ne vem, neki nastavnega.
+
+1556
+01:28:10,719 --> 01:28:13,719
+Al pa premakneš neka stvar, ki je bila v vizualnem skriptingu,
+
+1557
+01:28:13,719 --> 01:28:16,719
+ki je heavy, ne, jo premakneš v C++.
+
+1558
+01:28:16,719 --> 01:28:19,719
+Al pa ugotoviš, ne vem, a, te imajo fiziko, ampak so v bistvu
+
+1559
+01:28:19,719 --> 01:28:22,719
+dovolj daleč, da je ne rabijo. Ena stvar, ki jo imamo, recimo,
+
+1560
+01:28:22,719 --> 01:28:25,719
+je level of detail, ki je ponovadi za modele.
+
+1561
+01:28:25,719 --> 01:28:28,719
+Ko so modeli stran, ne, so bolje nastavni, mi imamo ta
+
+1562
+01:28:28,719 --> 01:28:31,719
+level of detail tudi za samo kodo.
+
+1563
+01:28:31,719 --> 01:28:34,719
+Tako da, ko je nekdo stran, se tik spremeni.
+
+1564
+01:28:34,719 --> 01:28:37,719
+Če prav, ker vsa koda je bazirana na te, frame time, ne,
+
+1565
+01:28:37,719 --> 01:28:40,719
+koliko pač je, lahko ti enostavno, kar lahko narediš, je,
+
+1566
+01:28:40,719 --> 01:28:43,719
+če hukaš not na pravem mestu, ti enostavno
+
+1567
+01:28:43,719 --> 01:28:46,719
+daš mu večji tik time, pa jo bolj redko tikaš.
+
+1568
+01:28:46,719 --> 01:28:49,719
+In na tak način ga zbalansiraš, da je tudi koda.
+
+1569
+01:28:49,719 --> 01:28:52,719
+To se pravi, v bistvu, njegov refresh rate,
+
+1570
+01:28:52,719 --> 01:28:55,719
+z realizacije niže, četraj od tega, ko je pa bližji,
+
+1571
+01:28:55,719 --> 01:28:58,719
+pa bolj pomembno je ponovadi. Ponovadi tudele z animacijami,
+
+1572
+01:28:58,719 --> 01:29:01,719
+delamo to tudi za vse drugo, kar je povezano s kodo.
+
+1573
+01:29:01,719 --> 01:29:04,719
+Kot ko poslušam, koliko ponosen si na to,
+
+1574
+01:29:04,719 --> 01:29:07,719
+pa kako globalno, kje misliš, da je ta
+
+1575
+01:29:07,719 --> 01:29:10,719
+v state of art umeščen v industrijo.
+
+1576
+01:29:10,719 --> 01:29:13,719
+To se pravi, ne vem, pač meni se to sliši tako,
+
+1577
+01:29:13,719 --> 01:29:16,719
+kako pač ste top of the top.
+
+1578
+01:29:16,719 --> 01:29:19,719
+Pač na team size pa skore gotovo.
+
+1579
+01:29:19,719 --> 01:29:22,719
+Ja, za sam feel, ne, za sam feel
+
+1580
+01:29:22,719 --> 01:29:25,719
+tega impacta, kar smo v bistvu, je nekje
+
+1581
+01:29:25,719 --> 01:29:28,719
+topja. Je kr,
+
+1582
+01:29:29,719 --> 01:29:32,719
+kr lepo prišlo v skozi. So zdaj igre, ki so prišle ven,
+
+1583
+01:29:32,719 --> 01:29:35,719
+pa nima niti približno takega sinkanja, pa se pol ljude smejajo,
+
+1584
+01:29:35,719 --> 01:29:38,719
+pa pokaže, lej, te so naredili ne toliko boljše to.
+
+1585
+01:29:38,719 --> 01:29:41,719
+So sicer potem druge stvari, ki bi lahko bile boljše,
+
+1586
+01:29:41,719 --> 01:29:44,719
+ampak za tisto smo, mislim, da kr
+
+1587
+01:29:44,719 --> 01:29:47,719
+ni, za enkrat nismo videli še nič boljšega, da bi bilo bolj sinkano.
+
+1588
+01:29:47,719 --> 01:29:50,719
+Pa toliko so bode. Ampak a misliš,
+
+1589
+01:29:50,719 --> 01:29:53,719
+da te zovem potem, a misliš,
+
+1590
+01:29:53,719 --> 01:29:56,719
+da bom nekoč, a bom videli
+
+1591
+01:29:56,719 --> 01:29:59,719
+tisti gejmi, ki je v bistvu na večko šteno še sedaj
+
+1592
+01:29:59,719 --> 01:30:02,719
+s playerjo možno, da igra karati.
+
+1593
+01:30:02,719 --> 01:30:05,719
+Po mojem, ja. A bomo mogli neke
+
+1594
+01:30:05,719 --> 01:30:08,719
+paradigme spremeniti, bomo hardver mogli spremeniti,
+
+1595
+01:30:08,719 --> 01:30:11,719
+bomo boljši hardver mogli na serveru vsaj dobiti.
+
+1596
+01:30:11,719 --> 01:30:14,719
+Kaj bomo naredili ta lip naprej?
+
+1597
+01:30:14,719 --> 01:30:17,719
+Ponavadi se to do ene točke gre, ne,
+
+1598
+01:30:17,719 --> 01:30:20,719
+ampak potem pa je treba razmišljati o tem, da imaš
+
+1599
+01:30:20,719 --> 01:30:23,719
+več strežnikov, kar porazdeliš love.
+
+1600
+01:30:23,719 --> 01:30:26,719
+To pa ti, to prenese za sabo
+
+1601
+01:30:26,719 --> 01:30:29,719
+kar neke problemo, ne, kaj, če si na tistem borderju, a zdaj ti vidiš
+
+1602
+01:30:29,719 --> 01:30:32,719
+onega nasprot. Zdaj, to se da tudi reševati z
+
+1603
+01:30:32,719 --> 01:30:35,719
+dizajnom, ampak potem spet si ločena
+
+1604
+01:30:35,719 --> 01:30:38,719
+sobce, ne. Tako da, če imaš en seamless svet, ne,
+
+1605
+01:30:38,719 --> 01:30:41,719
+se moraš ukvarjati s tem boundary, ampak kako greš
+
+1606
+01:30:41,719 --> 01:30:44,719
+kod ta boundary. Obstaja zdaj toolsi za
+
+1607
+01:30:44,719 --> 01:30:47,719
+multiplayer, recimo, frameworki,
+
+1608
+01:30:47,719 --> 01:30:50,719
+ki ti v bistvu tole hendlajo. In so tudi
+
+1609
+01:30:50,719 --> 01:30:53,719
+pol lahko integrirajo v Unreal, ampak pri teh toolsih je vedno tako,
+
+1610
+01:30:53,719 --> 01:30:56,719
+čim ti spremeniš tak low level stvari, je, hitro se
+
+1611
+01:30:56,719 --> 01:30:59,719
+poruši za update, ne. Imajo pa vse te feature,
+
+1612
+01:30:59,719 --> 01:31:02,719
+ne, potem, da ti mirorajo čez boundary, da vidiš, da je
+
+1613
+01:31:02,719 --> 01:31:05,719
+tam, da je seamless transition in vse te
+
+1614
+01:31:05,719 --> 01:31:08,719
+stvari, ampak to je fulj zakomplicirano, postane, potem.
+
+1615
+01:31:10,719 --> 01:31:13,719
+Ne, ja, daj, to,
+
+1616
+01:31:13,719 --> 01:31:16,719
+zato smo imeli ta podcast. Tako ga smo nekaj
+
+1617
+01:31:16,719 --> 01:31:19,719
+prej, ne, pač, če si včasih naredil
+
+1618
+01:31:19,719 --> 01:31:22,719
+hip iskal nas nek od letov, pa je bilo to advanced,
+
+1619
+01:31:22,719 --> 01:31:25,719
+je pač ta game development na konc, čista
+
+1620
+01:31:25,719 --> 01:31:28,719
+norost, tehnološka.
+
+1621
+01:31:28,719 --> 01:31:31,719
+Zdaj sem ful, ko sem raziskal tudi ta
+
+1622
+01:31:31,719 --> 01:31:34,719
+Epic Games, ne,
+
+1623
+01:31:34,719 --> 01:31:37,719
+da v bistvu vidim zdaj, da bo ta Unreal Engine
+
+1624
+01:31:37,719 --> 01:31:40,719
+v bistvu pojedel ta movie
+
+1625
+01:31:40,719 --> 01:31:43,719
+production, ne, k način, to je zdaj. Ja, ja.
+
+1626
+01:31:43,719 --> 01:31:46,719
+Ne poznajem toliko tega, ampak vem, da delajo ful
+
+1627
+01:31:46,719 --> 01:31:49,719
+na tem in ful ga uporabljajo v real time, ne,
+
+1628
+01:31:49,719 --> 01:31:52,719
+razlika je, da movie so do zdaj delali ful offline,
+
+1629
+01:31:52,719 --> 01:31:55,719
+kar pomeni, da se ti stvari postavijo,
+
+1630
+01:31:55,719 --> 01:31:58,719
+ne, postisno en gumb in se je zagnala, ne vem,
+
+1631
+01:31:58,719 --> 01:32:01,719
+server mašine, ki so
+
+1632
+01:32:01,719 --> 01:32:04,719
+te koštale ogromno in to so mlele in
+
+1633
+01:32:04,719 --> 01:32:07,719
+delale in zrisale po en frame in to je bilo to.
+
+1634
+01:32:07,719 --> 01:32:10,719
+In potem smo prišli drugi daj, pa smo prišli en frame. Ne, sej gre
+
+1635
+01:32:10,719 --> 01:32:13,719
+hitreje, ampak je ful počasno, ne, to je zamudno.
+
+1636
+01:32:14,719 --> 01:32:17,719
+A ne really real time, drugačne tehnike uporabljajo.
+
+1637
+01:32:17,719 --> 01:32:20,719
+Zdaj še posebej, ko je, ko imamo ta ray tracing,
+
+1638
+01:32:20,719 --> 01:32:23,719
+da se počasi premikamo v to smer, mislim, ta ray tracing
+
+1639
+01:32:23,719 --> 01:32:26,719
+je zdaj totalno porazna stvar, ne, ni, da je to,
+
+1640
+01:32:26,719 --> 01:32:29,719
+ampak grejo v to smer
+
+1641
+01:32:29,719 --> 01:32:32,719
+in na eni točki bo prišlo do tega, da se bo dalo ful več
+
+1642
+01:32:32,719 --> 01:32:35,719
+počet s temi mašinami, ki jih zdaj niso toliko uporabljale,
+
+1643
+01:32:35,719 --> 01:32:38,719
+recimo grafične. Tako da, oni ful
+
+1644
+01:32:38,719 --> 01:32:41,719
+forcirajo na ta real time movie making, ker
+
+1645
+01:32:41,719 --> 01:32:44,719
+ful ti, ful je bolj pocenjeno za te
+
+1646
+01:32:44,719 --> 01:32:47,719
+palažje spreminjajo potem, ne. Mogoče
+
+1647
+01:32:47,719 --> 01:32:50,719
+ne narediš prvih super toliko
+
+1648
+01:32:50,719 --> 01:32:53,719
+isto kvaliteto, ampak lahko več spremeniš
+
+1649
+01:32:53,719 --> 01:32:56,719
+v sceni, v samem filmu, kako to delaš, da
+
+1650
+01:32:56,719 --> 01:32:59,719
+da imaš, da potem narediš boljši izdelek, ne.
+
+1651
+01:32:59,719 --> 01:33:02,719
+In tega je ful, ja.
+
+1652
+01:33:02,719 --> 01:33:05,719
+Lahko nekako navežem zdaj še na Unreal 5, ne.
+
+1653
+01:33:05,719 --> 01:33:08,719
+Zdaj vidli smo, kaj, Lani, mislim, da je prišel
+
+1654
+01:33:08,719 --> 01:33:11,719
+kaj na Unreal, Lani ali pre Lani, kaj ne.
+
+1655
+01:33:11,719 --> 01:33:14,719
+Lani, prehitar je bil čas. Unreal 5, jaz sem gledal te
+
+1656
+01:33:14,719 --> 01:33:17,719
+demo za Unreal 5, ko hodijo ona
+
+1657
+01:33:17,719 --> 01:33:20,719
+gospodična, pa pleza, pa to, pa je bilo no.
+
+1658
+01:33:20,719 --> 01:33:23,719
+Ja.
+
+1659
+01:33:23,719 --> 01:33:26,719
+A si tudi ti tako impresionirana, že imaš
+
+1660
+01:33:26,719 --> 01:33:29,719
+glavo bolj. Ful dobro so tole
+
+1661
+01:33:29,719 --> 01:33:32,719
+zmarketali, no, Unreal 5, ne vem kaj.
+
+1662
+01:33:32,719 --> 01:33:35,719
+V bistvu je to tako en version
+
+1663
+01:33:35,719 --> 01:33:38,719
+bump, ampak tako, bili smo na
+
+1664
+01:33:38,719 --> 01:33:41,719
+Unreal 4 pika 2.7.
+
+1665
+01:33:41,719 --> 01:33:44,719
+In to je bil zdaj Unreal 5, ampak
+
+1666
+01:33:44,719 --> 01:33:47,719
+dajmo reči, da je to Unreal 4 pika
+
+1667
+01:33:47,719 --> 01:33:50,719
+3.0. Ok.
+
+1668
+01:33:50,719 --> 01:33:53,719
+Ni take razlike, ti lahko. Pravim, v programerskih termih
+
+1669
+01:33:53,719 --> 01:33:56,719
+je še vedno nadaljevanje. Isti engine.
+
+1670
+01:33:56,719 --> 01:33:59,719
+Govorimo o marketingu. To je isti engine.
+
+1671
+01:33:59,719 --> 01:34:02,719
+So novi fičeri, so novi fičeri, predvsej
+
+1672
+01:34:02,719 --> 01:34:05,719
+huge fičeri, ampak to je v osnovi isti
+
+1673
+01:34:05,719 --> 01:34:08,719
+engine. Ti lahko Unreal 4.27 projekt
+
+1674
+01:34:08,719 --> 01:34:11,719
+odpreš v Unreal 5 in bo delal.
+
+1675
+01:34:11,719 --> 01:34:14,719
+In bo portan. Nič ne rabiš narediti.
+
+1676
+01:34:14,719 --> 01:34:17,719
+Razlika je, da so dodali, no, tale
+
+1677
+01:34:17,719 --> 01:34:20,719
+nenajt, za virtualizirano geometrijo,
+
+1678
+01:34:20,719 --> 01:34:23,719
+da se ne rabiš ukvarjati
+
+1679
+01:34:23,719 --> 01:34:26,719
+toliko s temi performancem
+
+1680
+01:34:26,719 --> 01:34:29,719
+in poleg tega so dodali en kup drugih stvari, ki so
+
+1681
+01:34:29,719 --> 01:34:32,719
+v bistvu dodali, sem zaradi tega, ker so dodali to.
+
+1682
+01:34:32,719 --> 01:34:35,719
+Lighting, ker ga na teh stvarih
+
+1683
+01:34:35,719 --> 01:34:38,719
+rabiš met real time lighting, ne.
+
+1684
+01:34:38,719 --> 01:34:41,719
+Illumination, ja. Pa potem razen ta shadow
+
+1685
+01:34:41,719 --> 01:34:44,719
+casting. Ta shadow casting,
+
+1686
+01:34:44,719 --> 01:34:47,719
+ki je bolj dinamičen, zato ker
+
+1687
+01:34:47,719 --> 01:34:50,719
+tradicionalno je ta shadow casting delo drugače in ko imaš
+
+1688
+01:34:50,719 --> 01:34:53,719
+ti ta nenajt not, ne dela več nič.
+
+1689
+01:34:53,719 --> 01:34:56,719
+In moraš imeti drugačen shadow casting. In tako vse te stvari so dodali
+
+1690
+01:34:56,719 --> 01:34:59,719
+po tem, zaradi tega. Malo so še
+
+1691
+01:34:59,719 --> 01:35:02,719
+polepšali editor pa tako, ampak je
+
+1692
+01:35:02,719 --> 01:35:05,719
+koda je istina v zadju.
+
+1693
+01:35:05,719 --> 01:35:08,719
+Je pa, mislim,
+
+1694
+01:35:08,719 --> 01:35:11,719
+vsi te novi fičuri, to je unstable, to zdaj ne moreš
+
+1695
+01:35:11,719 --> 01:35:14,719
+spokoj uporabljati. Tudi Anžel ti je
+
+1696
+01:35:14,719 --> 01:35:17,719
+epik je rekel, ne, šipati nič zdaj s tem še.
+
+1697
+01:35:17,719 --> 01:35:20,719
+Ne vemo, kamo to šlo, ful je heavy performance hit.
+
+1698
+01:35:20,719 --> 01:35:23,719
+Ko ti enkrat vklopiš ta nenajt, ne misliš,
+
+1699
+01:35:23,719 --> 01:35:26,719
+ok, cool, zdaj lahko, ne, performa v ful boljši.
+
+1700
+01:35:26,719 --> 01:35:29,719
+V bistvu pa je zdaj problem, da, a, zdaj pa moramo
+
+1701
+01:35:29,719 --> 01:35:32,719
+vklopiti global illumination, a, zdaj moramo vklopiti
+
+1702
+01:35:32,719 --> 01:35:35,719
+te shadowse in tako vsakič, ne, 10 milisekund prej.
+
+1703
+01:35:35,719 --> 01:35:38,719
+Tako da je za enkrat,
+
+1704
+01:35:38,719 --> 01:35:41,719
+ne vemo, koliko tega se bo uporabljeno.
+
+1705
+01:35:41,719 --> 01:35:44,719
+Zavretno posebej za tak gen, kog imate vi, ko se ful dogaja,
+
+1706
+01:35:44,719 --> 01:35:47,719
+ko je ful multiplier vse, je
+
+1707
+01:35:47,719 --> 01:35:50,719
+se to še bolj pozna, kot pa če, ne vem,
+
+1708
+01:35:50,719 --> 01:35:53,719
+nekaj bolj personal, nekaj bolj laže mehanika.
+
+1709
+01:35:53,719 --> 01:35:56,719
+Najbolj se pozna za velike open world igre.
+
+1710
+01:35:56,719 --> 01:35:59,719
+Ko imajo res ogromne viste pa ful dalje,
+
+1711
+01:35:59,719 --> 01:36:02,719
+što mi niti nismo.
+
+1712
+01:36:02,719 --> 01:36:05,719
+V tistem se pozna ful, mi smo imeli ful likov, ne, istočasno.
+
+1713
+01:36:05,719 --> 01:36:08,719
+In tej gliki to, to ne, nič ne dobi
+
+1714
+01:36:08,719 --> 01:36:11,719
+s tem. Ker ta nenajt je samo
+
+1715
+01:36:11,719 --> 01:36:14,719
+za statično geometrijo.
+
+1716
+01:36:14,719 --> 01:36:17,719
+Tako da je, tisti je še vedno klasičen. Ampak gre pa v to smer,
+
+1717
+01:36:17,719 --> 01:36:20,719
+ne, da je njihov cilj
+
+1718
+01:36:20,719 --> 01:36:23,719
+ni, da stvar zgleda lepše nujno,
+
+1719
+01:36:23,719 --> 01:36:26,719
+ampak da je lažje zadelat. Ker trenutno
+
+1720
+01:36:26,719 --> 01:36:29,719
+je, mi recimo naredimo level, naredimo en model,
+
+1721
+01:36:29,719 --> 01:36:32,719
+ne, artist naredi en model. Pol moramo zgenerirati z tega
+
+1722
+01:36:32,719 --> 01:36:35,719
+level of detail modele, ki so vedno grši.
+
+1723
+01:36:35,719 --> 01:36:38,719
+In pol moraš imeti sistem, ki ti to hendla.
+
+1724
+01:36:38,719 --> 01:36:41,719
+Da veš, katerega bomo zdaj prikazali. Pol greš stran,
+
+1725
+01:36:41,719 --> 01:36:44,719
+pa ugotoviš, ok, zdaj te karakteri, toj treba to zoptimizirati,
+
+1726
+01:36:44,719 --> 01:36:47,719
+pa malo manj teh materialov imeti na njih, da je manj tekstur,
+
+1727
+01:36:47,719 --> 01:36:50,719
+pa vse te stvari. In, ko si vse to končal,
+
+1728
+01:36:50,719 --> 01:36:53,719
+pol moraš pa še lighting bake-at,
+
+1729
+01:36:53,719 --> 01:36:56,719
+pa to traja, ne vem, ti traja, kaj sem,
+
+1730
+01:36:56,719 --> 01:36:59,719
+kajšno, zdaj odvisno najde, povrce recimo, ampak
+
+1731
+01:36:59,719 --> 01:37:02,719
+razumeš, vsakič... To znameni, da moraš zračunati
+
+1732
+01:37:02,719 --> 01:37:05,719
+s svetlobo, za vsako opcijo,
+
+1733
+01:37:05,719 --> 01:37:08,719
+kje bi kje svetloba gledala. In to je zoprno, to moraš vsakič
+
+1734
+01:37:08,719 --> 01:37:11,719
+videti, ko boš ti hotel šipati stvar, ne, za vse mapi boš mogel zbildati to,
+
+1735
+01:37:11,719 --> 01:37:14,719
+zbildati ono, pa pol imaš še ta... Malo te stavim.
+
+1736
+01:37:14,719 --> 01:37:17,719
+Daj to malo razložiti. Se pravi,
+
+1737
+01:37:17,719 --> 01:37:20,719
+za vsak level, morem zračunati
+
+1738
+01:37:20,719 --> 01:37:23,719
+potencialno, glede na možnost,
+
+1739
+01:37:23,719 --> 01:37:26,719
+kje se lahko nekdo nahaja svetlobo in potem
+
+1740
+01:37:26,719 --> 01:37:29,719
+to nekam zapeči. Ali si to prav razložil?
+
+1741
+01:37:29,719 --> 01:37:32,719
+Na splošno svetlobo zračunaš kje je.
+
+1742
+01:37:32,719 --> 01:37:35,719
+Za izaplayer je, ne, to ni vaze, ker se itak premihajo
+
+1743
+01:37:35,719 --> 01:37:38,719
+za statične objekte. Zračunaš to, plus zračunaš
+
+1744
+01:37:38,719 --> 01:37:41,719
+tudi esence. In to zapečeš.
+
+1745
+01:37:41,719 --> 01:37:44,719
+In to narediš preden šip. In to je del
+
+1746
+01:37:44,719 --> 01:37:47,719
+binarja. Ja, tako je.
+
+1747
+01:37:47,719 --> 01:37:50,719
+In to je zelo zamudno, kadarkoli premakneš neko stvar.
+
+1748
+01:37:50,719 --> 01:37:53,719
+Moraš tudi lalo. Vse na novo.
+
+1749
+01:37:53,719 --> 01:37:56,719
+In to ni edina stvar, pa imaš še eno, ko moraš vse te modele...
+
+1750
+01:37:56,719 --> 01:37:59,719
+Ok, za en model ti imaš ta level of detail, ampak pol jih
+
+1751
+01:37:59,719 --> 01:38:02,719
+ne mečeš in kupiš. In zdaj, ti
+
+1752
+01:38:02,719 --> 01:38:05,719
+moraš imeti, v bistvu, level of detail, ki je nekako
+
+1753
+01:38:05,719 --> 01:38:08,719
+za specifično za ta level.
+
+1754
+01:38:08,719 --> 01:38:11,719
+In nekako združiti je v en model. In temu pravimo
+
+1755
+01:38:11,719 --> 01:38:14,719
+HLOD. In tudi to moraš
+
+1756
+01:38:14,719 --> 01:38:17,719
+zbildati. In to traja, ne vem,
+
+1757
+01:38:17,719 --> 01:38:20,719
+50 minut, 40 minut, 30 minut in potem kreša.
+
+1758
+01:38:20,719 --> 01:38:23,719
+Potem veš CI, recimo.
+
+1759
+01:38:25,719 --> 01:38:28,719
+A ni to ena bifikišta, ki ti rečeš calculate, pa
+
+1760
+01:38:28,719 --> 01:38:31,719
+upload do kreša? Ja, ja. Tri tenda traja.
+
+1761
+01:38:31,719 --> 01:38:34,719
+Zdaj, trenutno, Team City uporabljamo
+
+1762
+01:38:34,719 --> 01:38:37,719
+za koordinirati stvari.
+
+1763
+01:38:37,719 --> 01:38:40,719
+Imamo pa eno bifikišto, ja.
+
+1764
+01:38:40,719 --> 01:38:43,719
+In pač zbilda.
+
+1765
+01:38:43,719 --> 01:38:46,719
+Se gre malce samo.
+
+1766
+01:38:46,719 --> 01:38:49,719
+Vse imajo svojo del, ker živi.
+
+1767
+01:38:49,719 --> 01:38:52,719
+Ampak, ne, včasih smo to
+
+1768
+01:38:52,719 --> 01:38:55,719
+pač, ne vem, nekdo je imel doma eno tehkih zbildal.
+
+1769
+01:38:55,719 --> 01:38:58,719
+Drugi programirno. In nemče zbildim.
+
+1770
+01:38:58,719 --> 01:39:01,719
+Tukaj, za taj nighlight, konkretno nam je Goran
+
+1771
+01:39:01,719 --> 01:39:04,719
+rekel, ko smo se pogledali,
+
+1772
+01:39:04,719 --> 01:39:07,719
+da je tako velika sprememba,
+
+1773
+01:39:07,719 --> 01:39:10,719
+OK, za engine, pa za game builder,
+
+1774
+01:39:10,719 --> 01:39:13,719
+ampak tudi tooling za artiste,
+
+1775
+01:39:13,719 --> 01:39:16,719
+ki morajo, ne vem, delati te asset,
+
+1776
+01:39:16,719 --> 01:39:19,719
+te like in vse ostalo,
+
+1777
+01:39:19,719 --> 01:39:22,719
+da ta tooling v resnici še ni zrel
+
+1778
+01:39:22,719 --> 01:39:25,719
+za tak kompleks.
+
+1779
+01:39:25,719 --> 01:39:28,719
+Ja, ful, mislim, vse to poleg tega je še, recimo,
+
+1780
+01:39:28,719 --> 01:39:31,719
+ray tracing, ker tudi so,
+
+1781
+01:39:31,719 --> 01:39:34,719
+zdaj, artist, ko dela model,
+
+1782
+01:39:34,719 --> 01:39:37,719
+on mora poenostaviti stvari, ne sme biti preveč detajlov,
+
+1783
+01:39:37,719 --> 01:39:40,719
+ampak detajle imamo še vedno radi.
+
+1784
+01:39:40,719 --> 01:39:43,719
+Zato te detajle mi izbejkamo v en normal map,
+
+1785
+01:39:43,719 --> 01:39:46,719
+ki ti te detajle potem prikaže na nek heki način.
+
+1786
+01:39:46,719 --> 01:39:49,719
+Če hočeš imeti, recimo, da je reflection,
+
+1787
+01:39:49,719 --> 01:39:52,719
+pa te stvari, pa potem imaš material, pa daš nekih teksturov,
+
+1788
+01:39:52,719 --> 01:39:55,719
+pišeš točno ta prave stvari, da se potem tako sveti.
+
+1789
+01:39:55,719 --> 01:39:58,719
+Vaktor je vse ful,
+
+1790
+01:39:58,719 --> 01:40:01,719
+ful enih let.
+
+1791
+01:40:00,000 --> 01:40:03,000
+ki jih moraš dodajati, pa skrbeti za njih, pa ne vem kaj.
+
+1792
+01:40:03,000 --> 01:40:08,000
+Če imaš tak sistem, potem si ne rabiš, recimo, sekirati, ker ti on to hendla,
+
+1793
+01:40:08,000 --> 01:40:12,000
+koga ti importaš, ti engine dejansko to hendla in ti to streama na tak način,
+
+1794
+01:40:12,000 --> 01:40:16,000
+da dobiš točno ono, kar rabiš in nič več in nič manj in se ne rabiš s tem ukvarjati.
+
+1795
+01:40:16,000 --> 01:40:21,000
+Če imaš raytracing, recimo, se ne rabiš ukvarjati potem z raznimi reflections,
+
+1796
+01:40:21,000 --> 01:40:24,000
+ki jih ponovadi hekaš na nek način pa te stvari.
+
+1797
+01:40:24,000 --> 01:40:27,000
+V bistvu, game development je ful enih hekov.
+
+1798
+01:40:27,000 --> 01:40:30,000
+Če hočeš imeti eno stvar, če hočeš imeti eno ogledalo,
+
+1799
+01:40:30,000 --> 01:40:35,000
+narediš eno kamero, ki ti zriše ven cel svet, pa potem zrišeš to kot tekstura.
+
+1800
+01:40:38,000 --> 01:40:40,000
+Vrata sem slišal, da je.
+
+1801
+01:40:41,000 --> 01:40:43,000
+Tisto je bolj zaradi dezajne.
+
+1802
+01:40:45,000 --> 01:40:51,000
+V bistvu, tvoj job je narediti matrico na ful slabem hardveru,
+
+1803
+01:40:51,000 --> 01:40:54,000
+tako da je ljudem misljeno, da dejansko je taka.
+
+1804
+01:40:55,000 --> 01:40:58,000
+Pa tako, nekdo neki ne gleda, tistega ni.
+
+1805
+01:40:59,000 --> 01:41:04,000
+Naši animacije zginajo, ko jih ne gledaš.
+
+1806
+01:41:04,000 --> 01:41:08,000
+Pa pa smo imeli problemo, da ljudje niso čuli, če je nekdo hodil za njim.
+
+1807
+01:41:08,000 --> 01:41:09,000
+Ja, seveda, ne.
+
+1808
+01:41:09,000 --> 01:41:10,000
+Če je zginjal, saj.
+
+1809
+01:41:10,000 --> 01:41:12,000
+Če je pa cim hodil.
+
+1810
+01:41:15,000 --> 01:41:19,000
+Tudi še imam nekaj ta vprašanja, s tem mislim, da smo se zataknili,
+
+1811
+01:41:19,000 --> 01:41:23,000
+kako pohendlaš popularnost spajk igre.
+
+1812
+01:41:23,000 --> 01:41:28,000
+Zdaj, razlagal si, da imaš crvsajt kodo.
+
+1813
+01:41:29,000 --> 01:41:35,000
+Verjetno potem, ko ste prišli na Steam store, ste bili na prvi načatu,
+
+1814
+01:41:35,000 --> 01:41:37,000
+pa Kickstarter, pa to.
+
+1815
+01:41:38,000 --> 01:41:39,000
+Ja, vse nam je crkno.
+
+1816
+01:41:43,000 --> 01:41:44,000
+Hard.
+
+1817
+01:41:44,000 --> 01:41:45,000
+Igra je uspešna.
+
+1818
+01:41:45,000 --> 01:41:48,000
+Čisto na hard, ampak toliko nam je crkno, da nismo vedeli, kaj popraviti.
+
+1819
+01:41:49,000 --> 01:41:55,000
+Dejansko je bil, ne vem, nisem imel čez tega backhenda, ampak ta drugi kolega, ki je imel to čez, je rekel,
+
+1820
+01:41:55,000 --> 01:42:02,000
+ne vem, jaz nisem, sem naredil, ne, vse ta stvar je funkcionirala, ampak ko je toliko playeril, ta stvar sploh ne dela.
+
+1821
+01:42:02,000 --> 01:42:04,000
+Ta moj sistem sploh ne bo funkcioniral.
+
+1822
+01:42:05,000 --> 01:42:08,000
+To so ljudje žalosti, mjezni, pesti.
+
+1823
+01:42:09,000 --> 01:42:14,000
+Mislim, da v dveh dneh smo menjali backhend iz tistega na Steam, kar nudi Steam po defoltu,
+
+1824
+01:42:14,000 --> 01:42:16,000
+in potem stvari funkcionirajo.
+
+1825
+01:42:16,000 --> 01:42:23,000
+Poleg tega nam je še en kup drugih stvari crkavalo, pa serveri so merili nek, tisti dokr nam je nekako se vpletil not,
+
+1826
+01:42:23,000 --> 01:42:27,000
+da je cel server spravil dol performance na grozem načinni.
+
+1827
+01:42:27,000 --> 01:42:29,000
+Spravil dokr, a nimate več?
+
+1828
+01:42:29,000 --> 01:42:32,000
+Imamo, imamo, sem zdaj fikseno, pa so nek tisti settingi, kar koli že je bilo.
+
+1829
+01:42:32,000 --> 01:42:34,000
+Jaz tega nisem imel čez, ampak, ja.
+
+1830
+01:42:34,000 --> 01:42:42,000
+E, a je to, tak, iz tega SRE perspektive, DOS perspektive, ne,
+
+1831
+01:42:42,000 --> 01:42:48,000
+Brodel je tudi ful uporabl, te Gatling-e pa KSX-e, ki so v bistvu za load-testing infrastrukture,
+
+1832
+01:42:48,000 --> 01:42:53,000
+a to je zato, ker mogoče, ne vem, sploh niste testirali load-a vašega sistema,
+
+1833
+01:42:53,000 --> 01:42:56,000
+ali je danes to pričakovali?
+
+1834
+01:42:56,000 --> 01:42:57,000
+Ne vem.
+
+1835
+01:42:57,000 --> 01:42:59,000
+Niste pričakovali, ali pa če nastavimo?
+
+1836
+01:42:59,000 --> 01:43:03,000
+Iskreno ne vem, koliko smo testirali, koliko smo imeli časa za to.
+
+1837
+01:43:03,000 --> 01:43:10,000
+Pač dva sva bila, on je delal vse testiranje in dokler, mislim, izdatilo treba, ne.
+
+1838
+01:43:10,000 --> 01:43:11,000
+Mislim.
+
+1839
+01:43:11,000 --> 01:43:14,000
+In potem smo, pač v zadnji moment smo vrihtali, ne.
+
+1840
+01:43:14,000 --> 01:43:16,000
+To je po moje taka stvar, kar se ni...
+
+1841
+01:43:16,000 --> 01:43:21,000
+Vse ni bilo nič sladega, no. Na koncu smo rešili vse do prve nedelje, ker v nedeljeh je vedno pik.
+
+1842
+01:43:21,000 --> 01:43:22,000
+Aha, pik, ja.
+
+1843
+01:43:22,000 --> 01:43:25,000
+In do, mislim, petek je vložil vse funkcionalno.
+
+1844
+01:43:25,000 --> 01:43:30,000
+Sreje starih lišče je bolj med pripravljan en e-mail, če se to zgodi,
+
+1845
+01:43:30,000 --> 01:43:37,000
+ker to te uzame relativno malo časa, ako kar preoptimizirati pač na te stvari, ne.
+
+1846
+01:43:38,000 --> 01:43:44,000
+Zmer, če crkne vendor, na kateri ga dependa, če fajn med e-mail, če, ne.
+
+1847
+01:43:44,000 --> 01:43:46,000
+Če mičem, vse to, te scenarije so...
+
+1848
+01:43:46,000 --> 01:43:47,000
+E-maili so najcinejši.
+
+1849
+01:43:47,000 --> 01:43:51,000
+Če likaš ljudem vse njihove informacije, fajn med e-mail,
+
+1850
+01:43:51,000 --> 01:43:56,000
+če zgodiš vse obaše upremok in pa leveling, progres je fajn med en e-mail.
+
+1851
+01:43:56,000 --> 01:44:00,000
+Pač tako, da če si že paničen, da lahko vse nekaj z mapcev vzameš, domujem, da...
+
+1852
+01:44:00,000 --> 01:44:02,000
+Mislim, vse tako jaz gledam.
+
+1853
+01:44:02,000 --> 01:44:05,000
+Pa pa meni ljudje tudi malo tako, da je čuden pogledal, kar reče o dober,
+
+1854
+01:44:05,000 --> 01:44:07,000
+pa si ti tehnično sloh, ker je lebilen človek.
+
+1855
+01:44:07,000 --> 01:44:11,000
+To je srečan, da jaz sem samo tako izkušen, da le e-mail je nekaj, ki lahko imaš.
+
+1856
+01:44:11,000 --> 01:44:13,000
+To je dost pocen.
+
+1857
+01:44:13,000 --> 01:44:19,000
+Zdaj, če se malo delimo še od teh engine-a in tega, pa rečem...
+
+1858
+01:44:19,000 --> 01:44:26,000
+Zdaj, Microsoftov, ta neki šef inženiringa, ar kaj, je par tednov nazaj rekel,
+
+1859
+01:44:26,000 --> 01:44:33,000
+da imajo ful težavo zaradi napačne uporabe teh CE-a, C++-a
+
+1860
+01:44:33,000 --> 01:44:38,000
+in da ful veliko stavijo na Rust kot nek jezik prihodnosti za low-level,
+
+1861
+01:44:38,000 --> 01:44:40,000
+pa sistemsko programiranje.
+
+1862
+01:44:40,000 --> 01:44:44,000
+Pa bi ti saj na te mesto postalo še to vprašanje,
+
+1863
+01:44:44,000 --> 01:44:52,000
+a bo C++ za tvoje pojme vedno dominiral, ta industrija, pa ta market,
+
+1864
+01:44:52,000 --> 01:44:59,000
+ali misliš, da so jeziki kot recimo Rust tudi neki jeziki prihodnosti za ta space,
+
+1865
+01:44:59,000 --> 01:45:02,000
+ali lahko je v tem, kako je poključiraš?
+
+1866
+01:45:02,000 --> 01:45:05,000
+Ne poznam, ki je dosta iz specifik, glede Rust-a.
+
+1867
+01:45:05,000 --> 01:45:12,000
+Tako da, mislim, s C++-om zdaj, kar delamo mi v Unreal-u, je to zelo tak subset,
+
+1868
+01:45:12,000 --> 01:45:16,000
+ki ga imajo oni, ki je definiran in kup makrojev.
+
+1869
+01:45:16,000 --> 01:45:19,000
+Male vse skupaj je tako, salotape definitivno.
+
+1870
+01:45:19,000 --> 01:45:23,000
+Ko vidiš tiste makroje, pa jih pač dažit gor in pa to nekako funkcionira.
+
+1871
+01:45:23,000 --> 01:45:27,000
+In pa imajo on en kupenega toolchain-a, da to potem nekako sparsa.
+
+1872
+01:45:27,000 --> 01:45:29,000
+To je malo scary.
+
+1873
+01:45:29,000 --> 01:45:36,000
+Ampak načeloma ni imamo nekih težav, zato ker je tako lepo hendlan, ta C++,
+
+1874
+01:45:36,000 --> 01:45:38,000
+kako delaš z njim.
+
+1875
+01:45:38,000 --> 01:45:41,000
+Pa imajo svoje kontejnerje, imajo svoje garbage collection.
+
+1876
+01:45:41,000 --> 01:45:48,000
+Tudi garbage collection mora biti ni za gaming, za real-time, res je tricky za tega.
+
+1877
+01:45:48,000 --> 01:45:51,000
+Ne moreš ti imeti spajka na frame. To je nedopustno.
+
+1878
+01:45:51,000 --> 01:45:53,000
+Na kakšnih, nastavnih gemih mogoče.
+
+1879
+01:45:53,000 --> 01:45:57,000
+Če imaš ti res 120 frame-ov na sekundo, pa ti on spajka na vem 5 milisekund.
+
+1880
+01:45:57,000 --> 01:46:00,000
+To je, kaj se dogaja. To nimaš kaj tega početi.
+
+1881
+01:46:00,000 --> 01:46:03,000
+Tako da to je ful pomembno, da imajo oni hendlno.
+
+1882
+01:46:03,000 --> 01:46:06,000
+In zaenkrat nismo imeli nekih težav, no.
+
+1883
+01:46:06,000 --> 01:46:12,000
+A tukaj uporabljaš, kaj compiler uporabljaš C++-o? To nekaj Unity-o?
+
+1884
+01:46:12,000 --> 01:46:14,000
+Ne, ne, Visual Studio.
+
+1885
+01:46:14,000 --> 01:46:17,000
+Dejansko je narejen, moraš imeti pač Visual Studio.
+
+1886
+01:46:18,000 --> 01:46:21,000
+To je, nimaš druge opcije, mislim, za celo.
+
+1887
+01:46:21,000 --> 01:46:23,000
+Je pa ta znega ful prenosljiva potem.
+
+1888
+01:46:23,000 --> 01:46:29,000
+Če prav razumem, če praviš Unreal Engine, lahko pa prepakiraš, predpostavljam,
+
+1889
+01:46:29,000 --> 01:46:31,000
+za različne platforme.
+
+1890
+01:46:31,000 --> 01:46:36,000
+Ja, mislim, mi se zdaj ukvarjamo več kot eno leto s portingom na pozole,
+
+1891
+01:46:36,000 --> 01:46:38,000
+tako da nilih isto, no.
+
+1892
+01:46:38,000 --> 01:46:39,000
+Mislim, ja.
+
+1893
+01:46:39,000 --> 01:46:42,000
+So detajli. Ampak, ja, pač store integration moraš imeti.
+
+1894
+01:46:42,000 --> 01:46:45,000
+Ampak v načelama, ja, lahko ga stavno izvoziš za druge platforme.
+
+1895
+01:46:45,000 --> 01:46:54,000
+Kot so PlayStation, pa, itak, VR, pa Xbox, pa Nintendo, tole stvari.
+
+1896
+01:46:54,000 --> 01:46:56,000
+To vse funkcionira.
+
+1897
+01:46:58,000 --> 01:47:00,000
+Ne vem, kaj sem zdaj.
+
+1898
+01:47:00,000 --> 01:47:07,000
+Ampak, moraš še vedno, če boš, recimo, če bote šli na Nintendo platforme,
+
+1899
+01:47:07,000 --> 01:47:12,000
+a moraš posebno potem večje nekoga, ki je ekspert za Nintendo, nekaj.
+
+1900
+01:47:13,000 --> 01:47:17,000
+A misliš, da jansko zaupraš te tehnologije dovalno?
+
+1901
+01:47:17,000 --> 01:47:19,000
+Ne, ne rabiš biti ekspert.
+
+1902
+01:47:19,000 --> 01:47:25,000
+Udomnevam, da imaš pa v bistvu noter še določene i-dev makrote za platform.
+
+1903
+01:47:25,000 --> 01:47:27,000
+Ja, ja, ja, seveda, seveda.
+
+1904
+01:47:27,000 --> 01:47:31,000
+Ampak, ja, mislim, je en kup pol detajlov, ne,
+
+1905
+01:47:31,000 --> 01:47:34,000
+ker ti imaš zdaj mašneto mašino, ta mašina je bolj šlo.
+
+1906
+01:47:34,000 --> 01:47:35,000
+Treba je nekaj spremeniti.
+
+1907
+01:47:35,000 --> 01:47:37,000
+Šejderi ne delajo več na tej mašini.
+
+1908
+01:47:37,000 --> 01:47:40,000
+Zato, ker imajo neke fičere, ki niso podprti,
+
+1909
+01:47:40,000 --> 01:47:42,000
+pa moraš to malo sklesti dol, pa narediti.
+
+1910
+01:47:42,000 --> 01:47:45,000
+Ampak Unreal ima to fulj lepo urejeno, ne,
+
+1911
+01:47:45,000 --> 01:47:50,000
+ker oni so multipletform že od starta in lahko določiš settinge
+
+1912
+01:47:50,000 --> 01:47:53,000
+in potem izvožiš dejansko isto igro, ne.
+
+1913
+01:47:53,000 --> 01:47:56,000
+Tako da je kr vredu podprto.
+
+1914
+01:48:00,000 --> 01:48:04,000
+Dejmo še. Kaj, bomo počasi zapeljali?
+
+1915
+01:48:04,000 --> 01:48:06,000
+A boste imeli crossplay?
+
+1916
+01:48:07,000 --> 01:48:10,000
+Med konzolami, ja, med PCM pa ne,
+
+1917
+01:48:10,000 --> 01:48:13,000
+zato, ker je PC player base preveč skilled.
+
+1918
+01:48:13,000 --> 01:48:17,000
+Zdaj imate kaj, imate na Steamu ali imate Dedicated?
+
+1919
+01:48:17,000 --> 01:48:20,000
+Ne, ne, na Steamu smo, na Store.
+
+1920
+01:48:20,000 --> 01:48:22,000
+Backend naš je pa na PlayFabu.
+
+1921
+01:48:22,000 --> 01:48:24,000
+Tako da backend je multipletform.
+
+1922
+01:48:24,000 --> 01:48:29,000
+PlayFab lahko se konekta na vse in to je v bistvu fulj pomagane potem.
+
+1923
+01:48:29,000 --> 01:48:33,000
+Zdaj Epic dela tudi svoje tukaj, Epic online services,
+
+1924
+01:48:33,000 --> 01:48:36,000
+ki so tudi zanimivi in dejansko free.
+
+1925
+01:48:36,000 --> 01:48:38,000
+Samo takrat tega še ni bilo.
+
+1926
+01:48:38,000 --> 01:48:40,000
+In je fulj dober backend,
+
+1927
+01:48:40,000 --> 01:48:42,000
+ker kaj dobijo oni od tega?
+
+1928
+01:48:42,000 --> 01:48:44,000
+Epic račun imaš.
+
+1929
+01:48:44,000 --> 01:48:48,000
+Čakaj, ker rečeš free, to pomeni, da je to vključeno v 5% royalties?
+
+1930
+01:48:48,000 --> 01:48:51,000
+Ne, ne, to čisto, mislim, ja, v bistvu je.
+
+1931
+01:48:51,000 --> 01:48:54,000
+Čeprav ne vem, če ga lahko tudi uporabijo za Unity.
+
+1932
+01:48:54,000 --> 01:48:57,000
+Mislim, da celo, ja, ker je ločeno.
+
+1933
+01:48:57,000 --> 01:49:01,000
+Oni cilje na to ne, da boš ti potem naredil Epic račun,
+
+1934
+01:49:01,000 --> 01:49:04,000
+ker lahko se z njim loginaš, pa lahko potem skupaj vse frence.
+
+1935
+01:49:04,000 --> 01:49:07,000
+In tako da oni playerje v bistvu s tem dobijo.
+
+1936
+01:49:07,000 --> 01:49:09,000
+Aha, aha.
+
+1937
+01:49:09,000 --> 01:49:12,000
+Razumem, razumem, kaj hočeš povedati.
+
+1938
+01:49:12,000 --> 01:49:17,000
+Tudi sem še spoznal prej prašat dve za deveste še v sklopu Unreal Engine-a,
+
+1939
+01:49:17,000 --> 01:49:19,000
+ki so tudi zanimivi.
+
+1940
+01:49:19,000 --> 01:49:21,000
+Ena je ta MetaHuman.
+
+1941
+01:49:21,000 --> 01:49:23,000
+To sem slišal.
+
+1942
+01:49:23,000 --> 01:49:26,000
+Amgoče to je zanimivo za vas, pa za vaše karaktere?
+
+1943
+01:49:26,000 --> 01:49:29,000
+Čeprav zdaj, mislim, delal smo v preprodukciji za nov projekt,
+
+1944
+01:49:29,000 --> 01:49:32,000
+pa ne vem, mislim, da ga ne bomo uporabljali.
+
+1945
+01:49:32,000 --> 01:49:34,000
+Mislim, mogoče ga bomo.
+
+1946
+01:49:34,000 --> 01:49:36,000
+Problem je, da res dobro zgleda.
+
+1947
+01:49:36,000 --> 01:49:37,000
+Ja.
+
+1948
+01:49:37,000 --> 01:49:38,000
+Amgoče prej dobro.
+
+1949
+01:49:38,000 --> 01:49:41,000
+Ja, povej malo samo, kaj je, da boš, kaj je ta MetaHuman?
+
+1950
+01:49:41,000 --> 01:49:45,000
+MetaHuman je v bistvu en sistem, ki ga ima zdaj, ne vem, Epic,
+
+1951
+01:49:45,000 --> 01:49:48,000
+mislim, da ga jih je odkupil prej, ne vem, bilo to eno drugo podjetje.
+
+1952
+01:49:48,000 --> 01:49:55,000
+Ki je sistem za ustvarjanje teh fulj realističnih ljudi, human karakterjev.
+
+1953
+01:49:56,000 --> 01:49:58,000
+Popolnoma rigged in animation ready.
+
+1954
+01:49:58,000 --> 01:50:02,000
+To pomeni, da ga lahko kar začneš pozirati, pa vse, daš mu facial hair,
+
+1955
+01:50:02,000 --> 01:50:06,000
+hair, pa imaš vse te opce in on ti ga je nestavno zgeneriran na podlagi teh slajderjev.
+
+1956
+01:50:06,000 --> 01:50:11,000
+In je to, če imaš kakršen koli realističen game, je to pač go-to.
+
+1957
+01:50:11,000 --> 01:50:13,000
+Zgleda tako dobro, da nimaš kaj.
+
+1958
+01:50:13,000 --> 01:50:18,000
+Je 3D scanned, kaj pomeni, da skenirajo nekoga dejansko in je full high resolution.
+
+1959
+01:50:18,000 --> 01:50:20,000
+A dejansko so skeni ljudi?
+
+1960
+01:50:20,000 --> 01:50:21,000
+Ja.
+
+1961
+01:50:21,000 --> 01:50:22,000
+Okej.
+
+1962
+01:50:23,000 --> 01:50:25,000
+In ne, ne moreš se temu približati.
+
+1963
+01:50:25,000 --> 01:50:30,000
+Problem je eno to, da je tako dober, da ti vse drugi game, ki ga imaš,
+
+1964
+01:50:30,000 --> 01:50:32,000
+zgleda slabo primerjali s tem.
+
+1965
+01:50:32,000 --> 01:50:36,000
+Ja, ampak tu pa potem vidim, mega scans-i pridejo v igro.
+
+1966
+01:50:36,000 --> 01:50:42,000
+Ja, mega scans-i so pa v bistvu taka stvar kot metahuman, ampak za vse druge objekte.
+
+1967
+01:50:42,000 --> 01:50:47,000
+Santista je fiksen tako v library, pa jih pol not daš.
+
+1968
+01:50:48,000 --> 01:50:52,000
+Tudi na nek način bojo pomagali stvarjati bolje realistične okolje.
+
+1969
+01:50:52,000 --> 01:50:56,000
+Ja, do ene mere. Zdaj spet, z mega scans-i ti ne moreš vsega narediti.
+
+1970
+01:50:56,000 --> 01:51:01,000
+Problem nastane. Kaj narediš, ko ti moraš dati neko novo stvar, ki je ni?
+
+1971
+01:51:03,000 --> 01:51:05,000
+A boš ti šel skenirati?
+
+1972
+01:51:07,000 --> 01:51:12,000
+Če imaš vse z mega scans-i, pa daš nekaj, kar ni, si zgršiš art direction.
+
+1973
+01:51:12,000 --> 01:51:14,000
+Ja, čisto ne paše sploh.
+
+1974
+01:51:14,000 --> 01:51:16,000
+Ne paš enkavčke.
+
+1975
+01:51:17,000 --> 01:51:22,000
+Drugi problem pri mega scans-ih, če imaš nekakšne kamne ali to za level,
+
+1976
+01:51:22,000 --> 01:51:28,000
+je ponavadi, oni kamen slikajo 3D scanom in ti vidiš ono, kar štrali ven.
+
+1977
+01:51:28,000 --> 01:51:33,000
+Drugega ni, ampak mi povradi obračamo te kamne, pa jih postavljamo tako, pa tako, pa tako.
+
+1978
+01:51:33,000 --> 01:51:35,000
+In zdaj kar nekaj tukaj luknja.
+
+1979
+01:51:35,000 --> 01:51:40,000
+Mega scans-i so kule, ampak dejansko zgleda točno tako, kot ti je tam, če ne.
+
+1980
+01:51:41,000 --> 01:51:45,000
+Ne spomnim še dve stvari, prej se je omenilo VR.
+
+1981
+01:51:45,000 --> 01:51:47,000
+Ja, to je zelo zanimivo.
+
+1982
+01:51:47,000 --> 01:51:49,000
+Ali morhal tudi VR.
+
+1983
+01:51:50,000 --> 01:51:52,000
+Koliko ljudi te to praša?
+
+1984
+01:51:53,000 --> 01:51:58,000
+Pa ni toliko, tako vam reku, razmišljamo, se nam zdi zanimiva ideja,
+
+1985
+01:51:58,000 --> 01:52:02,000
+predvsem zato, ker mi bomo zdaj delali nov projekt in ta projekt je,
+
+1986
+01:52:02,000 --> 01:52:07,000
+vsi projekte, ki jih delamo, delamo samo eno stvar in so 4 leta, 3 do 4 leta,
+
+1987
+01:52:08,000 --> 01:52:12,000
+traja, tako da se fokusiramo samo na to.
+
+1988
+01:52:12,000 --> 01:52:17,000
+Ampak VR je zanimiv ena, zato ker ful raste zdaj adoption na Questu.
+
+1989
+01:52:17,000 --> 01:52:24,000
+Quest je huge, je prodal, je mislim, da več kot Xbox Series pa PlayStation 5 konzol.
+
+1990
+01:52:24,000 --> 01:52:29,000
+Res je huge, tudi revenue im gre gor, prej ni bilo feasible.
+
+1991
+01:52:29,000 --> 01:52:33,000
+Mislim, si izdal VR game, ni prodal nič.
+
+1992
+01:52:33,000 --> 01:52:35,000
+Zdaj se je to spremenilo, predvsem zaradi Questa.
+
+1993
+01:52:35,000 --> 01:52:41,000
+In nas zanima zato, ker so še vedno bolj kompaktni experience.
+
+1994
+01:52:41,000 --> 01:52:46,000
+Ne rabimo dati 3 leta v to, lahko v letu do dveh z ekipico,
+
+1995
+01:52:46,000 --> 01:52:50,000
+mogoče pet ljudi, narediš dejansko game.
+
+1996
+01:52:50,000 --> 01:52:54,000
+Zdaj sicer iščemo ljudi, še vedno, tako da zdaj nas je nekje,
+
+1997
+01:52:54,000 --> 01:52:57,000
+rabimo nekaj 30 ljudi za naš main game, nas je 22,
+
+1998
+01:52:57,000 --> 01:53:02,000
+tako da še pet ljudi mogoče, zdaj se s tem nekako debatiramo.
+
+1999
+01:53:02,000 --> 01:53:09,000
+Interes je, imamo šest Oculus devkitov v pisarni,
+
+2000
+01:53:09,000 --> 01:53:12,000
+tako da razmišljamo v to smer.
+
+2001
+01:53:12,000 --> 01:53:16,000
+Tudi Facebook je zainteresiran, mogoče.
+
+2002
+01:53:16,000 --> 01:53:20,000
+Ampak v sajšnjo leto ne bomo vedeli, če.
+
+2003
+01:53:20,000 --> 01:53:24,000
+A nam eno kaj zupaš? Ti igrite v preprodakšno?
+
+2004
+01:53:24,000 --> 01:53:28,000
+V preprodakšno in praktično zaenkrat še nič ne morem.
+
+2005
+01:53:28,000 --> 01:53:31,000
+Ker tudi še sami spremenjamo stvari.
+
+2006
+01:53:31,000 --> 01:53:37,000
+In pa večina ljudi je še vedno na Mordhau, tako da se samo res zelo začetki.
+
+2007
+01:53:37,000 --> 01:53:42,000
+Ampak mogoče drugo leto bomo bili v full production.
+
+2008
+01:53:42,000 --> 01:53:47,000
+Jaz imam še neko community vprašanje, pač
+
+2009
+01:53:50,000 --> 01:53:54,000
+zelo zanimivo obdobje zdaj, ker ti si lahko doma,
+
+2010
+01:53:54,000 --> 01:53:58,000
+pa če hočeš doma gojiti gobe, delati eksplozivo,
+
+2011
+01:53:58,000 --> 01:54:00,000
+razvijati igre.
+
+2012
+01:54:00,000 --> 01:54:02,000
+Veliko od tega Andraž počeva.
+
+2013
+01:54:02,000 --> 01:54:06,000
+Treba še, pač vse lahko narediš sam v sobi.
+
+2014
+01:54:06,000 --> 01:54:08,000
+Treba še, no ja.
+
+2015
+01:54:08,000 --> 01:54:10,000
+Ful velike.
+
+2016
+01:54:10,000 --> 01:54:13,000
+Pa radeš malo govše, pa bo to nažasno.
+
+2017
+01:54:13,000 --> 01:54:15,000
+A ja, sem mislil, da doma v sobi.
+
+2018
+01:54:15,000 --> 01:54:17,000
+Ne, ne, mislim, zato radeš hišo.
+
+2019
+01:54:17,000 --> 01:54:19,000
+A pa majhem treba še.
+
+2020
+01:54:19,000 --> 01:54:21,000
+Majhem treba še, no ja.
+
+2021
+01:54:21,000 --> 01:54:24,000
+Ne čisto. Če tretjeno v velikosti.
+
+2022
+01:54:24,000 --> 01:54:27,000
+Treba še džok smo dali v Kotorijo.
+
+2023
+01:54:27,000 --> 01:54:28,000
+Res je.
+
+2024
+01:54:28,000 --> 01:54:32,000
+Smo bili katapult in pač ne morejo 90 kilogramov šopati,
+
+2025
+01:54:32,000 --> 01:54:34,000
+ampak nekaj pa je.
+
+2026
+01:54:34,000 --> 01:54:36,000
+Ja, vse se lahko ljudem naučijo.
+
+2027
+01:54:36,000 --> 01:54:39,000
+Res je neka taka čudna, zlata doba znanja,
+
+2028
+01:54:39,000 --> 01:54:42,000
+ki včasih smo hodili v knjižnico,
+
+2029
+01:54:42,000 --> 01:54:45,000
+pa smo z knjižnih polovic dol vzemili knjige,
+
+2030
+01:54:45,000 --> 01:54:47,000
+ki so bile C++, pa noti bil CD,
+
+2031
+01:54:47,000 --> 01:54:49,000
+pa pa si upel, da dela na tistem Windowsu,
+
+2032
+01:54:49,000 --> 01:54:51,000
+ki se je takrat imel, tist CD,
+
+2033
+01:54:51,000 --> 01:54:54,000
+pa da si se lahko nek ideje, pa kompiler gordel.
+
+2034
+01:54:55,000 --> 01:54:58,000
+Zdaj lahko to vse je doma, pa me pa zanima,
+
+2035
+01:54:58,000 --> 01:55:01,000
+ne vem, kako si ti, pa tvoja ekipa,
+
+2036
+01:55:01,000 --> 01:55:04,000
+a ste povezani, mislim,
+
+2037
+01:55:04,000 --> 01:55:06,000
+a si kaj povezan s Slovenici,
+
+2038
+01:55:06,000 --> 01:55:08,000
+a si kaj povezan z našo regijo,
+
+2039
+01:55:08,000 --> 01:55:12,000
+ali pač nakonc to niti ni regionalno tako pomembno,
+
+2040
+01:55:12,000 --> 01:55:16,000
+ampak si nakonc samo povezan z male entuziasti,
+
+2041
+01:55:16,000 --> 01:55:20,000
+pač, pa razumem, ja, pač,
+
+2042
+01:55:20,000 --> 01:55:22,000
+jaz se čistrinjam to, kaj si prej rekel,
+
+2043
+01:55:22,000 --> 01:55:27,000
+pač, če ti hočeš biti legit sogovornik,
+
+2044
+01:55:27,000 --> 01:55:30,000
+pač v določenih industrijah,
+
+2045
+01:55:30,000 --> 01:55:32,000
+ljudi so afro-developnati, ti moraš prijeti špilom,
+
+2046
+01:55:32,000 --> 01:55:35,000
+kaj je tako. Ej, sanje še zvoka nima,
+
+2047
+01:55:35,000 --> 01:55:38,000
+pač moraš dejansko pokazati, kaj imaš,
+
+2048
+01:55:38,000 --> 01:55:40,000
+da si kredibilen, to se pravi, da ni to,
+
+2049
+01:55:40,000 --> 01:55:42,000
+gremo nastekati v roh, lahko poznaš najmigro,
+
+2050
+01:55:42,000 --> 01:55:45,000
+ampak domenjam, da na neki točki pač priješ do točke,
+
+2051
+01:55:45,000 --> 01:55:47,000
+kjer se hočeš povezati z ljudmi.
+
+2052
+01:55:47,000 --> 01:55:50,000
+Ja, mislim, kar se samega dela tiče,
+
+2053
+01:55:50,000 --> 01:55:53,000
+tudi mi smo tako malo lih inverzno
+
+2054
+01:55:53,000 --> 01:55:55,000
+z tem, kar se je dogajalo s korono,
+
+2055
+01:55:55,000 --> 01:55:57,000
+lih obratno se je dogajalo z nami,
+
+2056
+01:55:57,000 --> 01:55:59,000
+ker mi smo bili remote na začetku.
+
+2057
+01:55:59,000 --> 01:56:05,000
+Pravzaprav do lani smo bili čisto vsi
+
+2058
+01:56:05,000 --> 01:56:09,000
+100% remote in v tweeni in potem smo začeli to obračat,
+
+2059
+01:56:09,000 --> 01:56:12,000
+da smo se preselili v Ljubljanu,
+
+2060
+01:56:12,000 --> 01:56:15,000
+ker imamo prostore in zdaj imamo 22 ljudi,
+
+2061
+01:56:15,000 --> 01:56:17,000
+ki so fizično v Sloveniji v prostoru.
+
+2062
+01:56:17,000 --> 01:56:19,000
+Še vedno delamo nekaj od doma, ampak…
+
+2063
+01:56:19,000 --> 01:56:21,000
+Tujce si uspeli pripeljati v Slovenijo?
+
+2064
+01:56:21,000 --> 01:56:24,000
+Ne, so bolj ali manj tukaj.
+
+2065
+01:56:24,000 --> 01:56:27,000
+Zdaj, en je sicer iz prvotne ekipe, poleg mene,
+
+2066
+01:56:27,000 --> 01:56:30,000
+drugi so šli tudi delati svoje nove stvari,
+
+2067
+01:56:30,000 --> 01:56:33,000
+ker to so bili ljudje, ki so bili v tem
+
+2068
+01:56:33,000 --> 01:56:35,000
+zdaj že osem let.
+
+2069
+01:56:35,000 --> 01:56:39,000
+In počasi so zdaj oni tudi šli delati druge stvari.
+
+2070
+01:56:39,000 --> 01:56:44,000
+In imamo bolj ali manj slovenski tim
+
+2071
+01:56:45,000 --> 01:56:48,000
+in niščemo še ljudi, seveda.
+
+2072
+01:56:48,000 --> 01:56:50,000
+Ampak, ja, je malo drugačen filim,
+
+2073
+01:56:50,000 --> 01:56:52,000
+ko si v pisarni, pa lažje.
+
+2074
+01:56:52,000 --> 01:56:55,000
+Mislim, definitivno je lažje potem delati kakoli večjega,
+
+2075
+01:56:55,000 --> 01:56:58,000
+kot ne rabiš potem se omejevat recimo na medievalne
+
+2076
+01:56:58,000 --> 01:57:00,000
+oziroma lahko malo bolj koordiniraš stvari
+
+2077
+01:57:00,000 --> 01:57:04,000
+in je to huge plus od samega dela.
+
+2078
+01:57:05,000 --> 01:57:09,000
+Mislim, da Andraše še vedno lahko bolj uprašati tudi
+
+2079
+01:57:09,000 --> 01:57:11,000
+ta evropska genga.
+
+2080
+01:57:11,000 --> 01:57:13,000
+Tako da je še nekakšen indie festival
+
+2081
+01:57:13,000 --> 01:57:15,000
+došel lahko komu.
+
+2082
+01:57:15,000 --> 01:57:17,000
+Ja, bil sem na, mislim, tako je,
+
+2083
+01:57:17,000 --> 01:57:21,000
+malo smo imeli nesreč na, timing je bil nesrečen.
+
+2084
+01:57:21,000 --> 01:57:23,000
+Mi smo 2019. izdali in potem je priprašal
+
+2085
+01:57:23,000 --> 01:57:25,000
+že hitro korona.
+
+2086
+01:57:25,000 --> 01:57:27,000
+Tako da bili smo na Games.comu
+
+2087
+01:57:27,000 --> 01:57:32,000
+pomalo se tako pokonektali z developerji,
+
+2088
+01:57:32,000 --> 01:57:34,000
+pa tudi tukaj pred nas, še ko smo imeli
+
+2089
+01:57:34,000 --> 01:57:37,000
+ta SGC-ne konferenco.
+
+2090
+01:57:38,000 --> 01:57:40,000
+Potem pa se je to nekako ustavilo
+
+2091
+01:57:40,000 --> 01:57:42,000
+in zdaj se spet počasi začenja,
+
+2092
+01:57:42,000 --> 01:57:44,000
+tako da upam, da bo več tega.
+
+2093
+01:57:44,000 --> 01:57:45,000
+Hvala.
+
+2094
+01:57:47,000 --> 01:57:51,000
+Danes je malo daljša epizoda kot ponovadija, ampak ...
+
+2095
+01:57:52,000 --> 01:57:54,000
+Potem hoče sam povedati, da kaj lulat,
+
+2096
+01:57:54,000 --> 01:57:55,000
+to je naš ...
+
+2097
+01:57:55,000 --> 01:57:56,000
+Ne, ne moreš še nekaj.
+
+2098
+01:57:56,000 --> 01:57:58,000
+Danes na menoma nisem tako vodil.
+
+2099
+01:57:58,000 --> 01:58:00,000
+To, ker sem upel, da bomo imeli dobro debat.
+
+2100
+01:58:00,000 --> 01:58:02,000
+Zmerj se, epizoda končala.
+
+2101
+01:58:02,000 --> 01:58:04,000
+Velika epizodica je končala.
+
+2102
+01:58:05,000 --> 01:58:08,000
+Ja, ne vem, mislim, da bi mogoče vse
+
+2103
+01:58:08,000 --> 01:58:12,000
+in Marko ta počasi zaključila.
+
+2104
+01:58:13,000 --> 01:58:16,000
+Bi še pa to vprašal, zdaj ...
+
+2105
+01:58:18,000 --> 01:58:25,000
+Tok veliko znanja, energije, optimizacij, detajlov.
+
+2106
+01:58:26,000 --> 01:58:30,000
+Zdaj bo itak explicit jebanja v tem igri.
+
+2107
+01:58:31,000 --> 01:58:35,000
+In tako poslušal, mislim, da je 30 evrov poštaje
+
+2108
+01:58:35,000 --> 01:58:38,000
+game nekaj takega, se mi zdi, da je ful prepocenji.
+
+2109
+01:58:41,000 --> 01:58:45,000
+Tako ogromno inženiring znanja, pa passion-a, pa znanja.
+
+2110
+01:58:46,000 --> 01:58:48,000
+Mislim tako, se mi zdi, da je ...
+
+2111
+01:58:49,000 --> 01:58:52,000
+Čestitke za dosežen release.
+
+2112
+01:58:52,000 --> 01:58:56,000
+Čestitke, da ste se speli, če ste tehnične zive prebiti.
+
+2113
+01:58:56,000 --> 01:59:01,000
+Čestitke, da tukaj ljudi pridejo do tega, da je lahko igrati.
+
+2114
+01:59:04,000 --> 01:59:07,000
+Nekaj vprašanja tu nimam, ampak res sem tako ...
+
+2115
+01:59:07,000 --> 01:59:09,000
+Hotem reči, da se mi zdi preniskacija.
+
+2116
+01:59:09,000 --> 01:59:13,000
+Res nič za to, ampak razumem, kakšen je market.
+
+2117
+01:59:13,000 --> 01:59:16,000
+Ja, mislim, ni njeno, da ti pomaga.
+
+2118
+01:59:16,000 --> 01:59:18,000
+Zdaj, par stvari balansiraš pri ceni.
+
+2119
+01:59:18,000 --> 01:59:21,000
+Itak ne veš, ker ne prodajaš enemu kupcu,
+
+2120
+01:59:21,000 --> 01:59:23,000
+ne prodajaš sedem v trgu.
+
+2121
+01:59:23,000 --> 01:59:27,000
+Tudi pri online igri je odvisno od tega, koliko playerjev imaš.
+
+2122
+01:59:27,000 --> 01:59:31,000
+Tako da, če daš previsoko ceno, si ti lahko prodaš isto količin,
+
+2123
+01:59:31,000 --> 01:59:35,000
+mislim, kar se tiče revenue, ampak imaš manj playerjev,
+
+2124
+01:59:35,000 --> 01:59:37,000
+pa potem je to malo problem.
+
+2125
+01:59:37,000 --> 01:59:39,000
+Tako da, zato je to free-to-play kr ...
+
+2126
+01:59:39,000 --> 01:59:44,000
+Mimo grede, danes, v četrtek, ne vem, kdaj gre to gor.
+
+2127
+01:59:44,000 --> 01:59:46,000
+V ponedeljek.
+
+2128
+01:59:46,000 --> 01:59:48,000
+Ej, to pa ne bomo nič emenjali.
+
+2129
+01:59:48,000 --> 01:59:49,000
+Se lahko.
+
+2130
+01:59:49,000 --> 01:59:50,000
+Imamo free weekend.
+
+2131
+01:59:50,000 --> 01:59:52,000
+Ampak, ko pride ven tako, da bo to ...
+
+2132
+01:59:52,000 --> 01:59:54,000
+V četrtek. A ja, danes imate free weekend.
+
+2133
+01:59:54,000 --> 01:59:56,000
+Ja, danes imamo free weekend in v ponedeljek.
+
+2134
+01:59:56,000 --> 01:59:57,000
+Ampak, bolj še kdaj trekujem?
+
+2135
+01:59:57,000 --> 01:59:58,000
+Ne, ne, ne.
+
+2136
+01:59:59,000 --> 02:00:02,000
+Recimo, da se izobražujemo v teh socijalnih medijih, pa to, ne.
+
+2137
+02:00:02,000 --> 02:00:06,000
+In lahko naredimo, lahko napišemo, da smo se pogovarjali,
+
+2138
+02:00:06,000 --> 02:00:11,000
+da naj skoristimo to promocijo in da naj potem tudi kontent poslušajo.
+
+2139
+02:00:11,000 --> 02:00:14,000
+Tako da bomo zagotovo nekaj naredili v tem smeri,
+
+2140
+02:00:14,000 --> 02:00:16,000
+kar kolikor pač potrebuješ.
+
+2141
+02:00:17,000 --> 02:00:19,000
+Dej mi še samo goče to povej.
+
+2142
+02:00:20,000 --> 02:00:23,000
+Zdaj si direktor.
+
+2143
+02:00:23,000 --> 02:00:27,000
+Nisi tehnični direktor, si tehnični direktor.
+
+2144
+02:00:27,000 --> 02:00:29,000
+Sem tudi tehnični direktor, ja.
+
+2145
+02:00:31,000 --> 02:00:34,000
+Kak to zbalansiraš? Dej mi še to malo povej.
+
+2146
+02:00:37,000 --> 02:00:38,000
+Se ne vem.
+
+2147
+02:00:38,000 --> 02:00:44,000
+Čutek vam, da tisti izzivi, milisekund, pa šejderi, pa to,
+
+2148
+02:00:44,000 --> 02:00:47,000
+mislim, te ne bo zanimajo, ko kvarjece kdaj gre, kdo na dopust.
+
+2149
+02:00:47,000 --> 02:00:50,000
+Ne, to sigurno, to sigurno.
+
+2150
+02:00:50,000 --> 02:00:53,000
+Mislim pa, če prevzel določene še druge vveznosti,
+
+2151
+02:00:53,000 --> 02:00:58,000
+vedno prijest, potem jih sproti, dam stran, te stvari, ki jih nočem metno,
+
+2152
+02:00:58,000 --> 02:01:04,000
+tako da vse počasi zbalansira. Vedno prije kaj novega, pa vedno kaj daš stran.
+
+2153
+02:01:04,000 --> 02:01:12,000
+Absolutno ni, da je menedžiranje ljudi, da je to nekaj, kar mi je cilj.
+
+2154
+02:01:14,000 --> 02:01:19,000
+Ja, počasi najdemo koga drugega, da ki je v pravi, pa optimiziram čas.
+
+2155
+02:01:19,000 --> 02:01:20,000
+Delegiraš.
+
+2156
+02:01:23,000 --> 02:01:27,000
+Marko Grgurovič, jaz se fulj se trudim pravilno.
+
+2157
+02:01:27,000 --> 02:01:33,000
+Grgurovič, jaz se ti fulj zahvaljujem, da si danes delil z nami svoje znanje in izkušnje.
+
+2158
+02:01:33,000 --> 02:01:38,000
+Ti želimo res vse najboljše naprej v podjetju in drugače.
+
+2159
+02:01:38,000 --> 02:01:40,000
+Biti pa še vse en prosočen.
+
+2160
+02:01:40,000 --> 02:01:43,000
+Bo, če imaš še ti kako zaključno mislo.
+
+2161
+02:01:43,000 --> 02:01:46,000
+Ja, ne, hvala, hvala za povabilo.
+
+2162
+02:01:46,000 --> 02:01:47,000
+Kaj pa vem.
+
+2163
+02:01:50,000 --> 02:01:52,000
+Če delate game, pišite mail.
+
+2164
+02:01:52,000 --> 02:01:56,000
+Ja, če vas zanima delati v industriji, kar pošljete mail.
+
+2165
+02:01:56,000 --> 02:02:03,000
+Vse imamo tudi v naši strani, kakšna pozicija se odprte, ampak načeloma smo fulj veseli, če je kdo res perspektiven.
+
+2166
+02:02:03,000 --> 02:02:06,000
+Tako da ja, smo tu.
+
+2167
+02:02:06,000 --> 02:02:11,000
+Rastemo in upamo, da bo tudi kaj več industrije v Sloveniji kot posledice tega.
+
+2168
+02:02:11,000 --> 02:02:16,000
+Ne pa ne da samo mobil, ampak da imamo tudi konkretno kakšen studio.
+
+2169
+02:02:18,000 --> 02:02:27,000
+Hvala. Zdaj, jaz bi se na te točki zahvalil še tudi Gorano Kudruno, Janko Tometelko pa Andreji Skoto.
+
+2170
+02:02:27,000 --> 02:02:31,000
+Za pomoč pri pripravi te epizode in input.
+
+2171
+02:02:31,000 --> 02:02:35,000
+Hvala tudi dr. Brodniku za co-hosting.
+
+2172
+02:02:35,000 --> 02:02:39,000
+Hvala, če vam je bila osebina všeč, jo prosim delite.
+
+2173
+02:02:39,000 --> 02:02:42,000
+Dajte nam nekaj komentar, pa igrajte igrce.
+
+2174
+02:02:42,000 --> 02:02:46,000
+Ja, zavreste še iz čelja in pa prejte spati.

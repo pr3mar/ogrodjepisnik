@@ -1,0 +1,4827 @@
+1
+00:00:00,000 --> 00:00:17,680
+Hey everyone, hey all the ladies and gentlemen that listen to us.
+
+2
+00:00:17,680 --> 00:00:23,760
+Today we are recording at Deobs Day Ljubljana 2024.
+
+3
+00:00:23,760 --> 00:00:32,000
+This conference is kindly hosted by Ivan and Marko from Povio Labs.
+
+4
+00:00:32,000 --> 00:00:34,880
+Thanks for everyone organizing these conferences.
+
+5
+00:00:34,880 --> 00:00:41,599
+I think that the guests and Otto, we know how hard it is.
+
+6
+00:00:41,599 --> 00:00:47,139
+So yeah, we are amazed at the local community that we can have so many good conferences
+
+7
+00:00:47,139 --> 00:00:49,599
+in such a small tech community.
+
+8
+00:00:49,599 --> 00:00:55,880
+Well, we have a big heart, but the numbers are not that huge.
+
+9
+00:00:55,880 --> 00:01:05,239
+I would also like to thank all our Patreons, all our supporters, 3FS, HumanFrog and Kaldi.
+
+10
+00:01:05,239 --> 00:01:11,300
+That means a bunch to us, this is still kind of our hobby and you know how it is with money
+
+11
+00:01:11,300 --> 00:01:12,300
+and hobbies.
+
+12
+00:01:12,300 --> 00:01:16,239
+It's not very profitable or shouldn't be, right?
+
+13
+00:01:16,239 --> 00:01:19,160
+At least that I tell my wife.
+
+14
+00:01:19,160 --> 00:01:20,160
+Yeah, okay.
+
+15
+00:01:20,160 --> 00:01:27,160
+No, no, we will get rich, Otto's wife, just that you know.
+
+16
+00:01:27,160 --> 00:01:34,419
+So today, me and Otto, we are welcoming Taylor Dolezal.
+
+17
+00:01:34,419 --> 00:01:35,419
+I hope that's okay.
+
+18
+00:01:35,419 --> 00:01:36,419
+Yeah, perfect.
+
+19
+00:01:36,419 --> 00:01:37,419
+Amazing.
+
+20
+00:01:37,419 --> 00:01:38,419
+Amazing.
+
+21
+00:01:38,419 --> 00:01:45,919
+He's head of ecosystem at Cloud Native Computing Foundation.
+
+22
+00:01:45,919 --> 00:01:49,360
+I will use Cloud Native Foundation.
+
+23
+00:01:49,360 --> 00:01:53,000
+So yeah, welcome to Ugrodje, the Framework Podcast.
+
+24
+00:01:53,000 --> 00:01:54,000
+Thanks for having me.
+
+25
+00:01:54,000 --> 00:01:56,000
+This is going to be fun.
+
+26
+00:01:56,000 --> 00:01:57,000
+Yeah.
+
+27
+00:01:57,000 --> 00:01:58,000
+Welcome again.
+
+28
+00:01:58,000 --> 00:02:01,720
+I mean, first time in Slovenia, probably jet lagged.
+
+29
+00:02:01,720 --> 00:02:07,160
+You're pending to have a talk in a couple of hours, if I understand correctly.
+
+30
+00:02:07,160 --> 00:02:14,000
+We have a lot of questions about this foundation that is essentially responsible in quotes
+
+31
+00:02:14,000 --> 00:02:19,960
+for most of the infrastructure that we run in production around the world and in our
+
+32
+00:02:19,960 --> 00:02:22,839
+offices and in our home labs as well.
+
+33
+00:02:22,839 --> 00:02:25,380
+So yeah, let's get started.
+
+34
+00:02:25,380 --> 00:02:33,240
+But like before we can actually tell to our audience what this foundation stands for,
+
+35
+00:02:33,240 --> 00:02:34,960
+we need to establish your character.
+
+36
+00:02:34,960 --> 00:02:41,520
+So I think Andras has like a very first question about like an icebreaker on how just to see
+
+37
+00:02:41,520 --> 00:02:42,520
+who you are really.
+
+38
+00:02:42,520 --> 00:02:43,520
+Yeah.
+
+39
+00:02:44,039 --> 00:02:45,039
+So classical ops one.
+
+40
+00:02:45,039 --> 00:02:51,919
+What's the most significant production effort that you've had in your past, in your career?
+
+41
+00:02:51,919 --> 00:02:52,919
+That's a good one.
+
+42
+00:02:52,919 --> 00:02:58,240
+I'd say some of my favorites have to deal with Kubernetes and working with that.
+
+43
+00:02:58,240 --> 00:03:00,800
+Probably I used to work at Walt Disney Studios.
+
+44
+00:03:00,800 --> 00:03:06,020
+And so I was working with the groups in the theatrical distribution group.
+
+45
+00:03:06,020 --> 00:03:09,119
+And we were one of the first to get Kubernetes spun up.
+
+46
+00:03:09,119 --> 00:03:12,320
+We already had applications that were containerized and working with that.
+
+47
+00:03:12,320 --> 00:03:17,279
+But I remember it was before we had these really awesome GitOps tools like Argo and
+
+48
+00:03:17,279 --> 00:03:18,279
+Flux.
+
+49
+00:03:18,279 --> 00:03:21,639
+And so you were just applying manifests directly.
+
+50
+00:03:21,639 --> 00:03:24,820
+And so I remember naming, caching, right?
+
+51
+00:03:24,820 --> 00:03:27,399
+Those are the hardest things for all of us.
+
+52
+00:03:27,399 --> 00:03:29,039
+And that and DNS.
+
+53
+00:03:29,039 --> 00:03:34,399
+But there was a time where I had some, I liked scoping everything with namespaces so that
+
+54
+00:03:34,399 --> 00:03:37,119
+I can name everything the same.
+
+55
+00:03:37,119 --> 00:03:40,880
+But when you don't check your context before you go and apply those things, then that can
+
+56
+00:03:40,880 --> 00:03:43,160
+cause a kerfuffle.
+
+57
+00:03:43,160 --> 00:03:47,080
+And so I remember I applied a whole bunch of things to what I thought was the staging
+
+58
+00:03:47,080 --> 00:03:53,000
+namespace for all of these millions of orders were just about to come in for Disney.
+
+59
+00:03:53,000 --> 00:03:57,399
+And yeah, some of the microservices there, I pushed them up.
+
+60
+00:03:57,399 --> 00:04:02,179
+They weren't able to resolve because they're looking for the production FQDN, not URI.
+
+61
+00:04:02,179 --> 00:04:05,919
+And so I had, thankfully I was sitting close enough to the development team.
+
+62
+00:04:05,919 --> 00:04:07,919
+They came over and they said, hey, is prod down?
+
+63
+00:04:07,919 --> 00:04:09,600
+And I went, no.
+
+64
+00:04:09,759 --> 00:04:10,759
+Oh, hold on.
+
+65
+00:04:10,759 --> 00:04:13,119
+I went and changed it back.
+
+66
+00:04:13,119 --> 00:04:17,600
+So only impacted about three minutes, but I think that was the biggest one.
+
+67
+00:04:17,600 --> 00:04:22,760
+Some of the bigger ones at Disney working like with the wider teams was some DNS issues
+
+68
+00:04:22,760 --> 00:04:26,119
+because we linked everything off studio.disney.com.
+
+69
+00:04:26,119 --> 00:04:31,480
+And so when anything further down the chain there were to break, we would have lots of
+
+70
+00:04:31,480 --> 00:04:33,480
+FFs, as you would say.
+
+71
+00:04:33,480 --> 00:04:34,480
+Yeah.
+
+72
+00:04:34,480 --> 00:04:39,559
+FFs as usual, right?
+
+73
+00:04:39,559 --> 00:04:52,640
+Well, before you go more into like your role now, you came from DevOps, system ops background.
+
+74
+00:04:52,640 --> 00:04:53,640
+Is that correct?
+
+75
+00:04:53,640 --> 00:04:54,640
+Right.
+
+76
+00:04:54,640 --> 00:04:59,799
+Like how do you come from being more operations engineering kind of role into kind of like
+
+77
+00:04:59,799 --> 00:05:03,480
+leading the vision of ecosystem and managing the stakeholders?
+
+78
+00:05:03,480 --> 00:05:05,399
+Can you tell us a bit more in that regard?
+
+79
+00:05:05,399 --> 00:05:06,399
+Yeah.
+
+80
+00:05:06,399 --> 00:05:07,399
+Yeah.
+
+81
+00:05:07,399 --> 00:05:11,320
+I'd say a whole bunch of good decisions and a whole bunch of mistakes is what led me here.
+
+82
+00:05:11,320 --> 00:05:16,079
+I started off working with, I wanted to be a software engineer.
+
+83
+00:05:16,079 --> 00:05:23,640
+And so I remember vividly back to one of my math classes, I had a TI 83 plus calculator
+
+84
+00:05:23,640 --> 00:05:26,640
+and someone was showing me, there were like ones you could borrow from the classroom at
+
+85
+00:05:26,640 --> 00:05:27,799
+that time.
+
+86
+00:05:27,799 --> 00:05:32,119
+And I remember somebody showed me the snake game or nibbles as it was called.
+
+87
+00:05:32,119 --> 00:05:35,440
+And so you'd see the snake go, try to eat the food and you grow, not try to like crash
+
+88
+00:05:35,440 --> 00:05:36,440
+into yourself.
+
+89
+00:05:36,440 --> 00:05:38,799
+They went, oh, hold on, check this out.
+
+90
+00:05:38,799 --> 00:05:45,040
+And they changed a little asterisk to like a zero or an O or an M. And I was like, what?
+
+91
+00:05:45,040 --> 00:05:46,040
+That was it.
+
+92
+00:05:46,040 --> 00:05:47,380
+I knew what I wanted to do for the rest of my life.
+
+93
+00:05:47,380 --> 00:05:51,399
+And so I started programming with that, working my way through there.
+
+94
+00:05:51,399 --> 00:05:58,359
+I got started with like VB6 and .NET and about 16, I wanted to get into game design and stuff
+
+95
+00:05:58,359 --> 00:05:59,359
+like that.
+
+96
+00:06:00,359 --> 00:06:05,679
+I learned very quickly that licenses cost a lot of money and I didn't have that at 16.
+
+97
+00:06:05,679 --> 00:06:12,160
+And so that's where I got into open source PHP and then Ruby, Go, and then kind of found
+
+98
+00:06:12,160 --> 00:06:18,760
+my way, made my way closer and closer to infrastructure stuff when I started up my own consultancy.
+
+99
+00:06:18,760 --> 00:06:21,059
+And I had a client say, okay, Taylor, this code's great.
+
+100
+00:06:21,059 --> 00:06:22,059
+How do we get it live?
+
+101
+00:06:22,059 --> 00:06:25,500
+And I went, oh, I didn't think about that.
+
+102
+00:06:25,500 --> 00:06:32,899
+And then that was my trek into systems, systems design and distributed stuff and everything
+
+103
+00:06:32,899 --> 00:06:33,899
+else.
+
+104
+00:06:33,899 --> 00:06:34,899
+But yeah, really fun.
+
+105
+00:06:34,899 --> 00:06:41,019
+It was kind of scary to learn that everything is basically a while true loop, but you know,
+
+106
+00:06:41,019 --> 00:06:42,019
+it's fun.
+
+107
+00:06:42,019 --> 00:06:43,019
+It's fun.
+
+108
+00:06:43,019 --> 00:06:44,019
+Yeah.
+
+109
+00:06:44,019 --> 00:06:45,019
+Yeah.
+
+110
+00:06:45,019 --> 00:06:58,220
+So if we move, if we go forward, like when we research our guests, right, then there
+
+111
+00:06:58,220 --> 00:07:08,899
+is, you're ahead of ecosystem and we are watching the Cloud Native Foundation landscape.
+
+112
+00:07:08,899 --> 00:07:09,980
+I use it all the time.
+
+113
+00:07:09,980 --> 00:07:14,500
+It's an awesome kind of JavaScript app, whatever, right?
+
+114
+00:07:14,980 --> 00:07:21,140
+But yeah, I guess that what does head of ecosystem, what's your role?
+
+115
+00:07:21,140 --> 00:07:22,140
+It's right.
+
+116
+00:07:22,140 --> 00:07:24,579
+It's not a common corporate role.
+
+117
+00:07:24,579 --> 00:07:28,980
+No, it's, it's something I try to figure out every day, honestly.
+
+118
+00:07:28,980 --> 00:07:29,980
+Like a startup.
+
+119
+00:07:29,980 --> 00:07:30,980
+Exactly.
+
+120
+00:07:30,980 --> 00:07:31,980
+Exactly.
+
+121
+00:07:31,980 --> 00:07:36,459
+We're about, we're just about 10 years old as a foundation, but there's just so much
+
+122
+00:07:36,459 --> 00:07:38,140
+going on all the time.
+
+123
+00:07:38,140 --> 00:07:43,459
+We went from one project Kubernetes, we now have over, I think it's over 200, 203 if I
+
+124
+00:07:43,459 --> 00:07:44,820
+counted right last time.
+
+125
+00:07:44,820 --> 00:07:51,500
+I didn't count it individually on the landscape, but we just rebooted that app too.
+
+126
+00:07:51,500 --> 00:07:56,140
+One Easter egg for people, if you don't want to type in the landscape.cncfio, I can save
+
+127
+00:07:56,140 --> 00:07:57,140
+you a little bit of time.
+
+128
+00:07:57,140 --> 00:07:58,140
+Okay.
+
+129
+00:07:58,140 --> 00:08:03,940
+Just type in L.CNCFIO, then it'll load it up, but we added a stats page that rewrote
+
+130
+00:08:03,940 --> 00:08:04,940
+it in Rust.
+
+131
+00:08:04,940 --> 00:08:09,260
+And so that was kind of like a cool thing that got done recently.
+
+132
+00:08:09,260 --> 00:08:13,980
+As head of ecosystem, it's my, it's my responsibility to work really closely with our end user
+
+133
+00:08:13,980 --> 00:08:17,019
+community and what's, you know, what's end user.
+
+134
+00:08:17,019 --> 00:08:19,380
+That's also very generic.
+
+135
+00:08:19,380 --> 00:08:23,179
+Those are people that are taking and really adopting these cloud native projects within
+
+136
+00:08:23,179 --> 00:08:25,059
+their organizations.
+
+137
+00:08:25,059 --> 00:08:28,380
+And that's more of an Apple, an Intuit, a Mercedes Benz.
+
+138
+00:08:28,380 --> 00:08:31,779
+It's groups that aren't selling cloud native services.
+
+139
+00:08:31,779 --> 00:08:37,900
+They're not cloud service providers or consultancies, and they're building their entire business
+
+140
+00:08:37,940 --> 00:08:39,340
+on these platforms.
+
+141
+00:08:39,340 --> 00:08:43,979
+And their core competency might not be technology too, right?
+
+142
+00:08:43,979 --> 00:08:48,780
+We want to save a lot of those organizations time and money with adapting and adopting
+
+143
+00:08:48,780 --> 00:08:52,460
+a lot of these workflows with cloud native.
+
+144
+00:08:52,460 --> 00:08:57,340
+Because again, they have other things to do, selling cars, you know, B2C software, all
+
+145
+00:08:57,340 --> 00:08:58,919
+of these other things.
+
+146
+00:08:58,919 --> 00:09:00,900
+So I do a whole bunch of research.
+
+147
+00:09:00,900 --> 00:09:04,859
+I work with people on programs like our Zero to Merge program, where we show people how
+
+148
+00:09:04,859 --> 00:09:09,260
+to contribute to open source and be marketable.
+
+149
+00:09:09,260 --> 00:09:11,020
+Do keynotes and get to talk to people.
+
+150
+00:09:11,020 --> 00:09:14,820
+I get to travel like this and interact with the community.
+
+151
+00:09:14,820 --> 00:09:19,460
+And then really just work, one other thing that we did was spin up an end user technical
+
+152
+00:09:19,460 --> 00:09:20,460
+advisory board.
+
+153
+00:09:20,460 --> 00:09:26,539
+And that's made up of about 13 individuals, some appointed, some voted in by the community.
+
+154
+00:09:26,539 --> 00:09:30,900
+And that gives a much better anchoring point for our community to be able to talk with
+
+155
+00:09:30,900 --> 00:09:31,900
+people.
+
+156
+00:09:31,900 --> 00:09:36,780
+Because we used to say, hey, you know, we care about vendors and end users.
+
+157
+00:09:36,780 --> 00:09:38,820
+And it was just kind of hand wavy.
+
+158
+00:09:38,820 --> 00:09:44,099
+We could connect you with end users, but there wasn't that interface, so to speak, for that.
+
+159
+00:09:44,099 --> 00:09:46,380
+And so now we have that.
+
+160
+00:09:46,380 --> 00:09:49,940
+And then a whole bunch of things lined up for KubeCon, which will be exciting.
+
+161
+00:09:49,940 --> 00:09:56,700
+Can you like, there is like, can you tell us a bit about this dashboard, just for people
+
+162
+00:09:56,700 --> 00:09:57,700
+who don't know.
+
+163
+00:09:57,700 --> 00:10:00,099
+There is like a chart.
+
+164
+00:10:00,099 --> 00:10:01,099
+Just explain to us, please.
+
+165
+00:10:01,299 --> 00:10:02,299
+What is it?
+
+166
+00:10:02,299 --> 00:10:05,500
+So, if you try to take it in all at once, you will get a headache.
+
+167
+00:10:05,500 --> 00:10:07,580
+I can vouch for that.
+
+168
+00:10:07,580 --> 00:10:08,780
+I've made jokes about that.
+
+169
+00:10:08,780 --> 00:10:11,979
+There's lots of memes and stuff like that, too.
+
+170
+00:10:11,979 --> 00:10:17,340
+It's a, my recommendation is when you take a look at the landscape, you'll see a whole
+
+171
+00:10:17,340 --> 00:10:18,500
+bunch of projects.
+
+172
+00:10:18,500 --> 00:10:21,539
+And it's within differing categories.
+
+173
+00:10:21,539 --> 00:10:23,580
+There's like app definition and delivery.
+
+174
+00:10:23,580 --> 00:10:25,219
+There's observability.
+
+175
+00:10:25,219 --> 00:10:28,619
+And then if you take a closer look, you can see subcategories in there, too.
+
+176
+00:10:28,619 --> 00:10:33,099
+So, if you're looking specifically for like databases, you'll find that subcategory in
+
+177
+00:10:33,099 --> 00:10:34,099
+there.
+
+178
+00:10:34,099 --> 00:10:38,700
+And the goal, I recommend to no one that you go and adopt all of those projects and try
+
+179
+00:10:38,700 --> 00:10:41,059
+to plug them in all over the place.
+
+180
+00:10:41,059 --> 00:10:44,859
+That's absolutely where some confusion came in earlier on, because, you know, with like
+
+181
+00:10:44,859 --> 00:10:49,900
+10 projects, sure, there's enough of a problem space that it might make sense to adapt all
+
+182
+00:10:49,900 --> 00:10:50,900
+those.
+
+183
+00:10:50,900 --> 00:10:51,900
+But now it's-
+
+184
+00:10:51,900 --> 00:10:53,539
+You don't need everything in the big picture.
+
+185
+00:10:53,539 --> 00:10:54,539
+Okay.
+
+186
+00:10:54,539 --> 00:10:55,539
+Exactly.
+
+187
+00:10:55,539 --> 00:10:58,419
+And for those that like to play with Legos, it's kind of like, okay, this one, here's
+
+188
+00:10:58,419 --> 00:11:01,099
+the shape of the piece.
+
+189
+00:11:01,099 --> 00:11:05,179
+And it just comes in a whole bunch of different colors or ways in which it actually fits into
+
+190
+00:11:05,179 --> 00:11:08,659
+what you're trying to build, I think is a good way to think about it.
+
+191
+00:11:08,659 --> 00:11:14,020
+Again, yeah, never, if someone wanted to adapt all those, that'd be a work of art rather
+
+192
+00:11:14,020 --> 00:11:16,580
+than something usable, I would say.
+
+193
+00:11:16,580 --> 00:11:22,820
+But do you still collaborate, you told us that you collaborate with end users more or
+
+194
+00:11:22,820 --> 00:11:23,820
+less.
+
+195
+00:11:23,820 --> 00:11:24,820
+Okay.
+
+196
+00:11:25,099 --> 00:11:29,500
+Do you collaborate with developers of these platforms, with engineers, like do you bring
+
+197
+00:11:29,500 --> 00:11:33,780
+the knowledge that you obtain from the end users to them or how does that work?
+
+198
+00:11:33,780 --> 00:11:34,780
+Definitely.
+
+199
+00:11:34,780 --> 00:11:38,299
+Do you help shape the roadmaps or what's your role in that then?
+
+200
+00:11:38,299 --> 00:11:43,500
+With that, it's really about educating the end users on things like project health.
+
+201
+00:11:43,500 --> 00:11:46,820
+You know, it's end users that are taking these projects and adopting them.
+
+202
+00:11:46,820 --> 00:11:49,059
+You want to know that they're going to be around tomorrow.
+
+203
+00:11:49,059 --> 00:11:52,739
+And the fact that they're already in the foundation is a pretty good indicator.
+
+204
+00:11:52,739 --> 00:11:57,659
+But even within our projects, we have sandbox, incubating, and then graduated projects.
+
+205
+00:11:57,659 --> 00:12:00,299
+You can expect graduated to be very rock solid.
+
+206
+00:12:00,299 --> 00:12:01,419
+It's proven itself.
+
+207
+00:12:01,419 --> 00:12:08,619
+And our technical oversight committee, another governing body, has basically said, okay,
+
+208
+00:12:08,619 --> 00:12:12,659
+it's gone from sandbox to incubating to graduated, all right, great.
+
+209
+00:12:12,659 --> 00:12:16,820
+Sandbox is more the experimental and exploratory projects that we have and that we have the
+
+210
+00:12:16,820 --> 00:12:19,119
+most of those.
+
+211
+00:12:19,119 --> 00:12:23,760
+With any good software life cycle thing, you'll see a lot of those either get archived out
+
+212
+00:12:23,760 --> 00:12:27,479
+or people stop working on them, et cetera.
+
+213
+00:12:27,479 --> 00:12:31,200
+Incubating is going to be a little bit more solid and then graduated is going to be most
+
+214
+00:12:31,200 --> 00:12:32,400
+of all.
+
+215
+00:12:32,400 --> 00:12:40,359
+With the TAB structure that we've established too, we have some technical advisors, and
+
+216
+00:12:40,359 --> 00:12:43,960
+not spaces, the TABs.
+
+217
+00:12:43,960 --> 00:12:48,880
+They have a couple initiatives that they're working on right now.
+
+218
+00:12:49,640 --> 00:12:53,799
+One of them is Project Health, and then another one of them is linking end users to projects.
+
+219
+00:12:53,799 --> 00:12:58,320
+Basically feedback and getting that in, so just like you said.
+
+220
+00:12:58,320 --> 00:13:03,039
+I'll talk with a lot of folks, but really it is introducing them to the projects rather
+
+221
+00:13:03,039 --> 00:13:06,400
+than me stepping in and saying like, hey, project, you got to do this.
+
+222
+00:13:06,400 --> 00:13:11,440
+We're a vendor neutral foundation, and so we're not looking to pick the winner or be
+
+223
+00:13:11,440 --> 00:13:12,440
+king makers.
+
+224
+00:13:12,440 --> 00:13:18,080
+We're looking to just help out where we can, security audits, patent litigation with open
+
+225
+00:13:18,280 --> 00:13:19,880
+source, all of those kinds of things.
+
+226
+00:13:19,880 --> 00:13:24,400
+When you say you want to help with these things, does that mean that you try to recruit open
+
+227
+00:13:24,400 --> 00:13:29,960
+source contributors or do you actually pay for engineers to work on these problems?
+
+228
+00:13:29,960 --> 00:13:37,039
+Is all this stuff voluntarily or do the vendors have the ability to pay for these things?
+
+229
+00:13:37,039 --> 00:13:39,000
+There is probably some money involved.
+
+230
+00:13:39,000 --> 00:13:43,919
+Tell us a bit more about the economic or business, I'm sure the business model is the right question.
+
+231
+00:13:43,919 --> 00:13:44,919
+Can you tell us?
+
+232
+00:13:44,919 --> 00:13:45,919
+Yeah, yeah.
+
+233
+00:13:45,919 --> 00:13:49,039
+I'm glad it's good to zoom out because we'll get that a lot of the time is like, hey, this
+
+234
+00:13:49,039 --> 00:13:52,760
+foundation you should pay the maintainers, you should pay people.
+
+235
+00:13:52,760 --> 00:13:57,640
+We don't disagree at all, but when it comes to setting up, it's kind of like a community
+
+236
+00:13:57,640 --> 00:13:59,280
+garden is what we try to establish.
+
+237
+00:13:59,280 --> 00:14:03,359
+We don't go and buy the produce that people have worked hard to make, but we try to set
+
+238
+00:14:03,359 --> 00:14:07,559
+up the plot, give you fertilizer, the tools, and then help out with marketing and other
+
+239
+00:14:07,559 --> 00:14:12,239
+things like at the farmer's market for this analogy.
+
+240
+00:14:12,239 --> 00:14:16,400
+Otherwise you get into a whole bunch of things where it's, we're maintaining and sustaining
+
+241
+00:14:16,400 --> 00:14:18,919
+a project that only that one person's using.
+
+242
+00:14:18,919 --> 00:14:22,799
+You can kind of get into those things and extrapolate.
+
+243
+00:14:22,799 --> 00:14:28,960
+But again, we really want maintainers to be paid, so we'll help out with connecting them.
+
+244
+00:14:28,960 --> 00:14:32,440
+Someone will come in, they'll get trained, they'll start making contributions, they might
+
+245
+00:14:32,440 --> 00:14:34,320
+become a maintainer.
+
+246
+00:14:34,320 --> 00:14:39,599
+It's a lot easier to get hired and go to places, typically vendors, but some end users as well.
+
+247
+00:14:39,599 --> 00:14:42,320
+They're always looking for that because that's a very solid person.
+
+248
+00:14:42,320 --> 00:14:47,080
+You can look and go see the resume all in Git right there.
+
+249
+00:14:47,080 --> 00:14:51,799
+And so we try to help out projects specifically when they need security audits or have to
+
+250
+00:14:51,799 --> 00:14:55,919
+go through litigation or have a new need that's popped up that we can help out with.
+
+251
+00:14:55,919 --> 00:14:59,080
+When you take a look at the foundation and how it makes money and kind of like where
+
+252
+00:14:59,080 --> 00:15:02,559
+that goes to, it's really three things.
+
+253
+00:15:02,559 --> 00:15:06,719
+It's memberships, which is companies joining and then you get benefits like KubeCon tickets
+
+254
+00:15:06,719 --> 00:15:09,440
+and training and certification, things like that.
+
+255
+00:15:09,440 --> 00:15:13,919
+Training and certification is yet another stream of revenue that we take.
+
+256
+00:15:13,919 --> 00:15:18,520
+And then we're more so focused on the certification piece.
+
+257
+00:15:18,520 --> 00:15:21,159
+There's a whole bunch of great training, education, things like that.
+
+258
+00:15:21,159 --> 00:15:24,200
+Some people are putting that up for free, other people have books.
+
+259
+00:15:24,200 --> 00:15:28,039
+We want to allow the space for that because everybody learns different.
+
+260
+00:15:28,039 --> 00:15:33,239
+And then events like KubeCon, CloudNativeCon, and other co-located events or one-offs that
+
+261
+00:15:33,239 --> 00:15:34,239
+we'll have too.
+
+262
+00:15:34,239 --> 00:15:37,359
+So those are the three ways that we make money that goes to pay the staff, that goes
+
+263
+00:15:37,359 --> 00:15:44,159
+to help out with the administrative and logistical things for projects like Zoom accounts and
+
+264
+00:15:44,159 --> 00:15:46,200
+hiring people as project managers.
+
+265
+00:15:46,200 --> 00:15:50,799
+They'll come in and can help out with some of these services that projects have, artwork
+
+266
+00:15:50,799 --> 00:15:53,239
+that gets created, a whole bunch of other things like that.
+
+267
+00:15:53,239 --> 00:15:56,719
+It's kind of like what the makeup looks like.
+
+268
+00:15:56,719 --> 00:16:04,320
+When I was researching, Cloud Native Foundation is a foundation that was founded by Linux
+
+269
+00:16:04,320 --> 00:16:06,640
+Foundation, right?
+
+270
+00:16:06,640 --> 00:16:10,039
+That's the relationship between these two organizations, right?
+
+271
+00:16:10,039 --> 00:16:11,039
+Correct.
+
+272
+00:16:11,039 --> 00:16:12,039
+Okay.
+
+273
+00:16:12,039 --> 00:16:14,919
+And then there is also Apache Foundation.
+
+274
+00:16:14,919 --> 00:16:20,159
+And I was trying to do a research like, what's the relationship between Linux Foundation
+
+275
+00:16:20,159 --> 00:16:22,039
+and Apache Foundation?
+
+276
+00:16:22,039 --> 00:16:26,640
+And then there's like a really nice, somebody wrote like a really nice answer on the core,
+
+277
+00:16:26,640 --> 00:16:28,000
+I believe so.
+
+278
+00:16:28,000 --> 00:16:33,440
+And he explained like these two organizations, they don't really compete between each other.
+
+279
+00:16:33,440 --> 00:16:37,679
+If something, they complement each other, but they're like one of two of the biggest
+
+280
+00:16:37,679 --> 00:16:39,520
+probably in the space, right?
+
+281
+00:16:39,520 --> 00:16:43,320
+So this is like Linux Foundation is on top of this.
+
+282
+00:16:43,320 --> 00:16:44,320
+That's how I understand.
+
+283
+00:16:44,320 --> 00:16:45,320
+Okay.
+
+284
+00:16:45,320 --> 00:16:46,320
+Yeah.
+
+285
+00:16:46,320 --> 00:16:47,320
+Yeah.
+
+286
+00:16:47,320 --> 00:16:48,320
+Yeah.
+
+287
+00:16:48,320 --> 00:16:49,320
+There's the Linux Foundation and then we're a sub-foundation under them.
+
+288
+00:16:49,320 --> 00:16:54,200
+I've been to like OpenSSF Foundation and several other, like PyTorch is under Linux
+
+289
+00:16:54,200 --> 00:16:56,080
+Foundation, LF and AI.
+
+290
+00:16:56,080 --> 00:17:01,799
+You can tell what's been on my brain recently, but you keep hearing about it.
+
+291
+00:17:01,799 --> 00:17:03,440
+But that's how that's set up.
+
+292
+00:17:03,440 --> 00:17:08,839
+And then that gives us a really good structure and keep it lean and small too.
+
+293
+00:17:08,839 --> 00:17:14,599
+I'd say the biggest difference with the Linux Foundation and the Apache Foundation is again,
+
+294
+00:17:14,599 --> 00:17:18,439
+kind of looking at like operating revenue, you see Apache is like really lean, but then
+
+295
+00:17:18,560 --> 00:17:23,760
+you have a lot of, a lot more people donating their time and then not as many services provided.
+
+296
+00:17:23,760 --> 00:17:26,520
+We're big fans of the Apache 2 license, you know, like that's.
+
+297
+00:17:26,520 --> 00:17:30,439
+It's more, it's, it's in the similar space, but different, yeah.
+
+298
+00:17:30,439 --> 00:17:34,160
+But exactly like you said, we can help complement one another and then we'll, you know, we'll
+
+299
+00:17:34,160 --> 00:17:39,560
+regularly talk with them and people like OSI and just a whole bunch of other initiatives
+
+300
+00:17:39,560 --> 00:17:40,560
+that are going on.
+
+301
+00:17:40,560 --> 00:17:44,880
+I think that we're, we're all about trying to share out that information with people
+
+302
+00:17:44,880 --> 00:17:48,359
+and then just eliminate duplication of work where it doesn't make sense, right?
+
+303
+00:17:48,359 --> 00:17:53,479
+At the end of the day, that's truly what we're trying to aim for.
+
+304
+00:17:53,479 --> 00:18:00,160
+So we were mentioning a lot about the end users and those are basically from our perspective,
+
+305
+00:18:00,160 --> 00:18:02,760
+because we are in an emerging market, right?
+
+306
+00:18:02,760 --> 00:18:04,880
+Those are huge corporations, right?
+
+307
+00:18:04,880 --> 00:18:08,640
+We don't have such corporations here.
+
+308
+00:18:08,640 --> 00:18:17,359
+So I would think that maybe of course we are not in SF area, but for us that those are
+
+309
+00:18:17,359 --> 00:18:25,959
+maybe 20% of companies looking at them globally and the other 80s are not the members, right?
+
+310
+00:18:25,959 --> 00:18:38,079
+And I, my question is, okay, how do then the other 80% shape the technology that we basically
+
+311
+00:18:38,079 --> 00:18:40,400
+use, right?
+
+312
+00:18:40,400 --> 00:18:43,280
+Because of course we are on this free when, right?
+
+313
+00:18:43,280 --> 00:18:49,079
+We are riding along whatever cloud native foundation or the big guys do.
+
+314
+00:18:49,079 --> 00:18:51,520
+Sometimes it's relatively complicated.
+
+315
+00:18:51,520 --> 00:18:55,599
+Sometimes it's, we are super grateful for all the technologies.
+
+316
+00:18:55,599 --> 00:19:04,280
+Is there like a way or how can maybe we do some input or how does that come in?
+
+317
+00:19:04,280 --> 00:19:10,680
+I think when you take a look at the foundation and projects, it's, it's again, if you had
+
+318
+00:19:10,680 --> 00:19:15,119
+like a whole bunch of cloud providers, cloud service providers, all working on like distributed
+
+319
+00:19:15,119 --> 00:19:19,640
+storage or something like that, they might have eight different ways in which you interact
+
+320
+00:19:19,640 --> 00:19:20,640
+with that.
+
+321
+00:19:20,640 --> 00:19:23,760
+And then that becomes very difficult as an end user to be like, oh, okay.
+
+322
+00:19:23,760 --> 00:19:24,760
+We want to move over.
+
+323
+00:19:24,760 --> 00:19:27,119
+We want to move from cloud service provider one to two.
+
+324
+00:19:27,119 --> 00:19:29,000
+They did it a completely different way.
+
+325
+00:19:29,000 --> 00:19:30,719
+We have to rewrite everything.
+
+326
+00:19:30,719 --> 00:19:34,359
+So that's where standards and that, and the foundation comes in.
+
+327
+00:19:34,359 --> 00:19:39,599
+So vendors have really realized this, that they can plan a lot better across their teams
+
+328
+00:19:39,599 --> 00:19:40,599
+as well.
+
+329
+00:19:40,599 --> 00:19:45,439
+When they have a shared specification that they can use, like OCI, the open container
+
+330
+00:19:45,439 --> 00:19:48,359
+interface, there's storage interface, the network interface now.
+
+331
+00:19:48,359 --> 00:19:54,199
+And so they've learned the benefits of working on that and then sending people to kind of
+
+332
+00:19:54,199 --> 00:19:59,439
+interact with the community, work on those specifications and have those conversations.
+
+333
+00:19:59,439 --> 00:20:01,599
+Vendors really do want to sell to end users too.
+
+334
+00:20:01,599 --> 00:20:05,400
+So that's like how many end users are members within the CNCF?
+
+335
+00:20:05,400 --> 00:20:08,719
+That's a, that's a good measure as far as what's the health, are they staying?
+
+336
+00:20:08,839 --> 00:20:09,839
+Are they going?
+
+337
+00:20:09,839 --> 00:20:13,319
+And this year it's been, you know, with a lot of people moving their budgets around
+
+338
+00:20:13,319 --> 00:20:17,239
+for like AI and trying to make a, understand the shape of that.
+
+339
+00:20:17,239 --> 00:20:20,680
+We've seen the lowest churn for end user members thus far.
+
+340
+00:20:20,680 --> 00:20:22,319
+So I've been really happy.
+
+341
+00:20:22,319 --> 00:20:25,640
+I've had a lot of conversations with many of them and they're like, I'm glad that they're
+
+342
+00:20:25,640 --> 00:20:29,319
+staying and really investing back into the ecosystem.
+
+343
+00:20:29,319 --> 00:20:33,040
+But that's the biggest thing that they'll share back with is just trying to save time,
+
+344
+00:20:33,040 --> 00:20:35,959
+trying to make sense of things.
+
+345
+00:20:35,959 --> 00:20:39,920
+One of the things that the end user technical advisory board is working on as well.
+
+346
+00:20:39,920 --> 00:20:44,239
+We have a, we have a site up right now, but it's going to be, there's going to be examples
+
+347
+00:20:44,239 --> 00:20:48,959
+in it just before KubeCon called architecture.cncf.io.
+
+348
+00:20:48,959 --> 00:20:51,079
+And that's when I was an end user working at Disney.
+
+349
+00:20:51,079 --> 00:20:54,800
+That's the thing I wish I had was give me some reference architectures, just show me
+
+350
+00:20:54,800 --> 00:20:56,439
+some workflows and patterns.
+
+351
+00:20:56,439 --> 00:20:57,439
+The tool's not enough.
+
+352
+00:20:57,439 --> 00:20:58,439
+Right.
+
+353
+00:20:58,439 --> 00:20:59,439
+I know I have a hammer.
+
+354
+00:20:59,439 --> 00:21:00,439
+What can I do with it?
+
+355
+00:21:00,439 --> 00:21:01,439
+Is this for eating soup?
+
+356
+00:21:01,439 --> 00:21:02,439
+I can use it wrong.
+
+357
+00:21:02,439 --> 00:21:07,119
+What do I do with this?
+
+358
+00:21:07,119 --> 00:21:09,520
+And that's what a lot of end users are asking.
+
+359
+00:21:09,520 --> 00:21:13,119
+Like they might've heard about, you know, by now, you know, hopefully heard about Kubernetes
+
+360
+00:21:13,119 --> 00:21:18,000
+and know when is and is not the right time to use those things.
+
+361
+00:21:18,000 --> 00:21:22,859
+That's the frame of knowledge that we're sharing right now is trying to show what workflows
+
+362
+00:21:22,859 --> 00:21:27,079
+are possible and then how people are combining these things together.
+
+363
+00:21:27,079 --> 00:21:29,280
+It's not enough just to show the one project.
+
+364
+00:21:29,280 --> 00:21:33,400
+People are really curious about how you string these things together, how you utilize those
+
+365
+00:21:33,400 --> 00:21:34,400
+interfaces.
+
+366
+00:21:34,400 --> 00:21:39,040
+And then that creates a really good communication dynamic between vendors and users or vendors
+
+367
+00:21:39,040 --> 00:21:41,119
+to vendors and users to end users.
+
+368
+00:21:41,119 --> 00:21:45,560
+So for example, like you have Kubernetes and then you want to have cloud ops and then you
+
+369
+00:21:45,560 --> 00:21:51,599
+maybe adopt Argo or Flux and observability and container storage.
+
+370
+00:21:51,599 --> 00:21:59,119
+So you're targeting to have like white papers or like blog posts, something like that.
+
+371
+00:21:59,119 --> 00:22:00,640
+We're starting to do more.
+
+372
+00:22:00,640 --> 00:22:03,560
+We're learning from a lot of like the big media companies, right?
+
+373
+00:22:03,560 --> 00:22:07,000
+Where you could take a look at this project, see related content.
+
+374
+00:22:07,000 --> 00:22:11,719
+So if you go and check out like the CNCF blog, you'll see more, we've been doing more experimentation
+
+375
+00:22:11,719 --> 00:22:12,719
+with that.
+
+376
+00:22:12,719 --> 00:22:16,439
+And it's leading to a lot of people being like, oh, okay, now I understand where all
+
+377
+00:22:16,439 --> 00:22:18,719
+these things are.
+
+378
+00:22:18,719 --> 00:22:22,760
+The way that the reference architectures will be set up is basically it'll kind of look
+
+379
+00:22:22,760 --> 00:22:24,199
+like a case study.
+
+380
+00:22:24,199 --> 00:22:29,239
+So we'll have a whole bunch of links to the different CNCF projects and then charts like
+
+381
+00:22:29,239 --> 00:22:33,520
+a mermaid JS graph to be able to see how these things link together.
+
+382
+00:22:33,520 --> 00:22:37,800
+And then we're hoping that that leads to more case studies and end user journey reports
+
+383
+00:22:37,800 --> 00:22:44,119
+and like actual assets that give you a better picture for what's going on.
+
+384
+00:22:44,119 --> 00:22:49,560
+I think it's kind of related to the question, like sometimes in these environments, like
+
+385
+00:22:49,560 --> 00:22:55,680
+you feel that you have a bubble and in your bubble, there's like Kubernetes and Flux,
+
+386
+00:22:55,680 --> 00:22:57,599
+for example, might be the way to go.
+
+387
+00:22:57,599 --> 00:23:01,400
+And you think that's the shit and you talk to a couple of buddies and they say the same
+
+388
+00:23:01,400 --> 00:23:02,400
+thing.
+
+389
+00:23:02,400 --> 00:23:07,520
+But like in your position, you probably don't have, you should not have these bubbles or
+
+390
+00:23:07,520 --> 00:23:09,239
+you should be aware of them.
+
+391
+00:23:09,239 --> 00:23:15,199
+How do you like have a better understanding where the thing is going?
+
+392
+00:23:15,199 --> 00:23:16,640
+Because you cannot prioritize everything.
+
+393
+00:23:16,640 --> 00:23:18,439
+You cannot do everything equally.
+
+394
+00:23:18,439 --> 00:23:20,079
+How do you navigate these things?
+
+395
+00:23:20,079 --> 00:23:22,359
+Even for you personally, how do you?
+
+396
+00:23:22,359 --> 00:23:27,119
+So I've been at the CNCF for about two and a half, going on three years.
+
+397
+00:23:27,119 --> 00:23:31,439
+I've been in the community since like the days of Docker and Kubernetes was coming up.
+
+398
+00:23:31,439 --> 00:23:35,760
+I remember learning about Kubernetes at a meetup, I think somebody hosted a WordPress
+
+399
+00:23:35,760 --> 00:23:41,400
+site in their demo and then they took out the persistent volume and then it came back
+
+400
+00:23:41,400 --> 00:23:45,560
+and I was like, whoa, this is wild.
+
+401
+00:23:45,560 --> 00:23:51,760
+But I think that by getting to talk with just a whole bunch of people and see the landscape
+
+402
+00:23:51,760 --> 00:23:56,000
+of what people are talking about are like, oh, this group is in finance.
+
+403
+00:23:56,000 --> 00:23:58,599
+This is typically a pattern that they'll use.
+
+404
+00:23:58,599 --> 00:24:02,319
+If you go and take a look at manufacturing, they might love it and they might implement
+
+405
+00:24:02,319 --> 00:24:03,880
+something completely different.
+
+406
+00:24:03,880 --> 00:24:09,000
+So you start to learn the more time you spend talking with people, what the shape of their
+
+407
+00:24:09,000 --> 00:24:10,439
+workflows look like.
+
+408
+00:24:10,439 --> 00:24:14,640
+You know, media, Disney is going to act a lot differently than say like Intuit or Mercedes
+
+409
+00:24:14,640 --> 00:24:15,640
+Benz.
+
+410
+00:24:15,640 --> 00:24:19,760
+And so you kind of learn where the echo chambers are just over time and talking with people.
+
+411
+00:24:19,760 --> 00:24:23,680
+So you get to pop a lot of those bubbles, but that happens a lot of the time.
+
+412
+00:24:23,680 --> 00:24:28,040
+And then end users specifically, you know, they'll hear about the latest and greatest
+
+413
+00:24:28,040 --> 00:24:31,319
+things within technology or patterns and whatnot.
+
+414
+00:24:31,319 --> 00:24:34,920
+And they just won't, it's, there's either not the time justification or the ability
+
+415
+00:24:34,920 --> 00:24:40,040
+to go learn the thing, but with like these reference architectures, it gives people something
+
+416
+00:24:40,040 --> 00:24:41,719
+to copy and to try.
+
+417
+00:24:41,719 --> 00:24:45,880
+And so that's the thing that we haven't had for a long time, or it's just been word of
+
+418
+00:24:45,880 --> 00:24:48,079
+mouth or in a case study.
+
+419
+00:24:48,079 --> 00:24:51,000
+And then you kind of have to go and dig and talk to the people implementing that.
+
+420
+00:24:51,000 --> 00:24:56,040
+So it's, it's becoming easier to drive that change once we better understand the problem
+
+421
+00:24:56,040 --> 00:24:59,479
+rather than just have like the ingredients or list of the tools that we're going to use.
+
+422
+00:25:00,000 --> 00:25:04,240
+Um, but yeah, it's really interesting within the community hearing kind of what's repeated,
+
+423
+00:25:04,240 --> 00:25:06,960
+what becomes the echo chamber versus what people are actually doing.
+
+424
+00:25:08,000 --> 00:25:13,360
+Um, we, we mentioned into it a few times. We, so here we know what Mercedes-Benz does,
+
+425
+00:25:13,360 --> 00:25:18,080
+they're like cars and then Disney is like media. What, what's into it? What's their core business?
+
+426
+00:25:18,080 --> 00:25:22,160
+Uh, their core business is they, they have a whole bunch of things like, uh, MailChimp
+
+427
+00:25:22,160 --> 00:25:26,480
+and TurboTax and some things that, yeah, in the States I'm grateful for.
+
+428
+00:25:26,480 --> 00:25:29,600
+So TurboTax is like how you submit taxes, right?
+
+429
+00:25:30,320 --> 00:25:34,880
+Yeah. It's like a wizard you go through, you know, I, I, I, Hey, I, I'm envious of everyone
+
+430
+00:25:34,880 --> 00:25:45,360
+here in Europe. So super important. Yeah. I would like to continue this, uh, from this
+
+431
+00:25:45,360 --> 00:25:50,880
+bubble of the last before, um, as you said, you have three stages, uh, of, in which the projects
+
+432
+00:25:50,880 --> 00:26:00,480
+are, um, do you like you personally, do you have time to explore these tools on your own?
+
+433
+00:26:00,480 --> 00:26:06,400
+Uh, and like, how do you play with these things? Do you just like, uh, make them demo apps? I
+
+434
+00:26:06,400 --> 00:26:11,279
+imagine you do because you will have talking hours, like, how do you explore these things?
+
+435
+00:26:11,279 --> 00:26:17,839
+And how do you find these new incubating projects, I guess for you personally, or in the wider
+
+436
+00:26:17,839 --> 00:26:20,720
+organization, how do you find these challenging or interesting things?
+
+437
+00:26:21,360 --> 00:26:25,279
+There's a, there's another thing that we added. That's helping me learn a lot of these things,
+
+438
+00:26:25,279 --> 00:26:29,680
+especially like within the new sandbox projects that are coming in. Um, we just like went through
+
+439
+00:26:29,680 --> 00:26:34,160
+the summer, the TOC went through the summer schedule and a lot just got accepted. Um,
+
+440
+00:26:34,160 --> 00:26:37,680
+and so when we do like our all hands and things like that, we've done the funny,
+
+441
+00:26:37,680 --> 00:26:42,239
+like Pokemon, like shadow. And it's like, what project is that? You know, what does it do?
+
+442
+00:26:42,239 --> 00:26:47,599
+And so those are areas where we learn. I think that there's, it's great to involve play with
+
+443
+00:26:47,599 --> 00:26:52,000
+learning too. Um, there's a little game controller at the top, at the upper right-hand
+
+444
+00:26:52,000 --> 00:26:57,120
+corner of the CNCF landscape. And you can click on that and it'll ask you questions about projects.
+
+445
+00:26:57,120 --> 00:27:01,919
+So I like note cards and that way of learning. So I love that the projects team decided to add
+
+446
+00:27:01,919 --> 00:27:06,959
+that as a good way to like introspect and look at that. Um, I learned mostly by demos and then
+
+447
+00:27:07,519 --> 00:27:12,639
+it's being what I've, I've been in this industry, I want to say close to like 17 years,
+
+448
+00:27:12,720 --> 00:27:16,880
+maybe 20. I've just stopped counting. Um, that's for, that's a job for program to do.
+
+449
+00:27:18,160 --> 00:27:22,639
+Welcome back. Yeah. Plus, plus that's how many years I've been here, but, um, you,
+
+450
+00:27:22,639 --> 00:27:27,919
+you start to learn and see that it's a lot of repetition of the same patterns, right?
+
+451
+00:27:27,919 --> 00:27:31,199
+If you learn the fundamentals, you're going to be set for a very long time.
+
+452
+00:27:31,199 --> 00:27:34,639
+And not many people do, they might know how to work with a certain framework or library
+
+453
+00:27:34,639 --> 00:27:41,039
+or orchestrator. And, um, that's, that's also great. But if you really have a sense of the
+
+454
+00:27:41,039 --> 00:27:45,839
+fundamentals, you're again, just going to go really far. And I keep seeing repeated patterns
+
+455
+00:27:45,839 --> 00:27:50,559
+or some projects I'll look at and be like, really, you know, and I'll, I'll, I'll question
+
+456
+00:27:50,559 --> 00:27:55,759
+what the use case is. That's what really urges me to go check it out is like, huh, I had a really
+
+457
+00:27:55,759 --> 00:27:59,839
+strong feeling about this. What is, let me go check this out. Do we need to restart pods and
+
+458
+00:27:59,839 --> 00:28:05,440
+do this? Does this thing make sense? How do we actually do policy and introspection? Um, it's
+
+459
+00:28:05,440 --> 00:28:11,919
+fun. If Andras now has a new, um, Kubernetes related project, let's just put it like that.
+
+460
+00:28:11,919 --> 00:28:16,880
+Yeah. Of course I write a operator in Go. Like for ordering pizza.
+
+461
+00:28:16,880 --> 00:28:26,000
+Yeah. Pizza operator written in Go, uh, and it has a, it has a really good read me and it has,
+
+462
+00:28:26,000 --> 00:28:28,880
+let's say 200 stars on GitHub.
+
+463
+00:28:28,880 --> 00:28:33,119
+The custom resource definition, there is a hard limit. It must not have pineapple in it.
+
+464
+00:28:33,279 --> 00:28:38,800
+Yeah. So, so let's say, let's, let's say that we have an operator and let's say that there is a,
+
+465
+00:28:39,440 --> 00:28:45,679
+let's say, like I said, a hundred stars and people are actually using it. So how would like his
+
+466
+00:28:45,679 --> 00:28:50,880
+project get into the cloud native foundation and how would the roadmap look like? Can you give us
+
+467
+00:28:50,880 --> 00:28:55,520
+like an example on top of it? Yeah. Yeah, absolutely. I think in this hypothetical too,
+
+468
+00:28:55,520 --> 00:28:59,520
+it's imperative that businesses have pizza parties. And so this is a business critical.
+
+469
+00:29:00,000 --> 00:29:06,399
+Exactly. It's critical for Disney and Intel to have pizza because no pizza, no team.
+
+470
+00:29:06,399 --> 00:29:11,279
+Yeah. And I'll, I know I'll be filing issues too. It's like stuffed crust, not, you know,
+
+471
+00:29:11,279 --> 00:29:16,320
+like what kind of cuts it's going to be good. It's, so to get this started, what you'd want
+
+472
+00:29:16,320 --> 00:29:21,600
+to do is take a look at, there's a CNCF, a sandbox repository. And in that is an issue
+
+473
+00:29:21,600 --> 00:29:25,279
+that you can create and kind of like list out what's going on with your project and features
+
+474
+00:29:25,279 --> 00:29:31,040
+and just kind of give the overall description. And then there's a schedule in which the technical
+
+475
+00:29:31,040 --> 00:29:37,040
+oversight committee will review differing projects that are coming in. We've had not to pick on
+
+476
+00:29:37,040 --> 00:29:41,200
+anyone. I honestly can't remember the names, but we've had people submit, you know, vaporware or
+
+477
+00:29:41,200 --> 00:29:45,920
+an idea. And that's not necessarily what the technical oversight committee or TOC is looking
+
+478
+00:29:45,920 --> 00:29:51,760
+for. They're looking for projects that have a compliant license, you know, OSI approved license.
+
+479
+00:29:51,760 --> 00:29:56,000
+It has a community, you have maintainers, and there's some other due diligence things,
+
+480
+00:29:56,000 --> 00:30:00,160
+which are published in that sandbox repository. So you can take a look and see if it actually
+
+481
+00:30:00,160 --> 00:30:06,640
+matches up. And then once you get in, then you start to get some benefits available to you.
+
+482
+00:30:06,640 --> 00:30:11,200
+Like if you wanted to schedule community meetings and have us do that with some of the tooling we
+
+483
+00:30:11,200 --> 00:30:16,160
+built and so that you can get reporting on that, all of those things start to open up as well.
+
+484
+00:30:16,799 --> 00:30:21,760
+Um, and then when you want to go to, let's say it's really successful, you know, everybody loves
+
+485
+00:30:21,760 --> 00:30:26,079
+the pizza operator and you want to go to incubating, then you would signal to the technical
+
+486
+00:30:26,079 --> 00:30:29,760
+oversight committee, like, Hey, I think we're ready. More due diligence. And then the same
+
+487
+00:30:29,760 --> 00:30:34,000
+thing with graduated and all those things are published. There's a lot of due diligence work
+
+488
+00:30:34,000 --> 00:30:39,119
+that the technical oversight committee does that, um, I, I had no idea about until I joined the
+
+489
+00:30:39,119 --> 00:30:42,720
+foundation and got to like read through all of the readmes and things that they take a look at.
+
+490
+00:30:43,040 --> 00:30:47,279
+So if Andraž then also needs like a test Kubernetes cluster,
+
+491
+00:30:47,279 --> 00:30:50,559
+is this something that you guys can help with or, or not?
+
+492
+00:30:51,119 --> 00:30:56,720
+There's, I know that there's, um, uh, Equinix is, is, uh, an organization that's partnered with
+
+493
+00:30:56,720 --> 00:31:03,200
+the CNCF. Um, and there is, there, there is a cluster that's available for testing on some
+
+494
+00:31:03,200 --> 00:31:08,480
+things there. Um, there's also like GitHub runners. We've had several, uh, cloud service providers
+
+495
+00:31:08,480 --> 00:31:14,079
+donate credits or allow for us to set up a runner on their cloud to be able to scale with
+
+496
+00:31:14,079 --> 00:31:19,440
+different projects, same thing with arm. And so again, you know, if we, if we need like,
+
+497
+00:31:19,440 --> 00:31:23,679
+like, no, this will only run on pizza cloud, you know, then we can, uh, try to figure out
+
+498
+00:31:23,679 --> 00:31:27,040
+what that looks like. If that's, you know, something that we can work with them on,
+
+499
+00:31:27,040 --> 00:31:31,359
+but that's another benefit that the foundation has is being able to go and talk to these
+
+500
+00:31:31,359 --> 00:31:36,640
+organizations or service providers to get those. There's also like, like the social element,
+
+501
+00:31:36,640 --> 00:31:42,799
+right. Uh, we know that of course, uh, Intel is contributing to the pizza operator and then,
+
+502
+00:31:42,799 --> 00:31:47,920
+yeah, maybe you can establish. So additional channels just to open a conversation because
+
+503
+00:31:47,920 --> 00:31:53,440
+they, they're obviously, yeah. Using the, yeah. Stuff, crust, batch.
+
+504
+00:31:55,279 --> 00:32:02,480
+And in this, like, uh, let's say that not everybody is a fan of pizza and let's say
+
+505
+00:32:02,480 --> 00:32:09,359
+that somebody now finds an, uh, an exploit in this, uh, this pizza operator, as we call it now.
+
+506
+00:32:09,359 --> 00:32:20,079
+Um, some Hawaiian guys, some Hawaiian guys. Yeah. So, and let's say that, uh, that, uh,
+
+507
+00:32:20,079 --> 00:32:25,600
+Andraž is not aware of this stuff and let's say that somewhere, somebody somewhere would, uh,
+
+508
+00:32:25,600 --> 00:32:32,799
+find an exploitation. How would then this, this information get to Andraž? Would you guys help
+
+509
+00:32:32,799 --> 00:32:38,880
+to try to patch it, try to talk to him, try to prioritize or like, or how does this work?
+
+510
+00:32:38,880 --> 00:32:42,239
+Do you guys help in this case or not? Yeah. There's, there's a couple of good recipes,
+
+511
+00:32:43,839 --> 00:32:48,799
+that we have for this. And, um, when projects join, there's a whole bunch of things that we
+
+512
+00:32:48,799 --> 00:32:52,959
+make sure that they have. And that's like a security distribution list. We'll tie that
+
+513
+00:32:52,959 --> 00:32:57,920
+into GitHub, if it makes sense. Uh, we try to set up projects so that they have the most success
+
+514
+00:32:57,920 --> 00:33:03,040
+possible. And so with something like that, whether, you know, if that came out as like a
+
+515
+00:33:03,040 --> 00:33:07,279
+fuzzing or security audit that we did, we would let the, you know, we wouldn't go say, Hey world,
+
+516
+00:33:07,279 --> 00:33:11,440
+check it out. Oh yeah. And maintainers too. Yeah. We won't, we don't give that the same time. We'll
+
+517
+00:33:11,440 --> 00:33:16,399
+give that to the project maintainers directly so that they can go and triage, take a look at things
+
+518
+00:33:16,399 --> 00:33:21,920
+and then kind of get a sense for ETAs. And then, um, we'll go and publish that after we found
+
+519
+00:33:21,920 --> 00:33:26,880
+everything, of course. But, um, I think that's my favorite thing about the foundation too,
+
+520
+00:33:26,880 --> 00:33:31,359
+is like, what if it's a survey, a security audit, anything like that, you'll get to see
+
+521
+00:33:31,359 --> 00:33:37,119
+all of those things that you can learn from them too. Um, but patching this specifically,
+
+522
+00:33:37,119 --> 00:33:41,440
+um, typically like we don't have anything that's proactive besides the community taking a look at
+
+523
+00:33:41,440 --> 00:33:47,359
+this, um, or the security audits, but when people raise it, it will get to someone. And I think
+
+524
+00:33:47,359 --> 00:33:52,000
+that's the thing that, um, that's what really helps out with these projects rather than like,
+
+525
+00:33:52,000 --> 00:33:56,080
+Hey, we just found something in the struts, you know, library or something like that,
+
+526
+00:33:56,080 --> 00:34:00,320
+that we've seen in the, in the industry. Um, that's like, uh, okay, we don't know when a
+
+527
+00:34:00,320 --> 00:34:05,599
+fix is coming, but we'll work really closely with folks to be able to get ETAs. And then
+
+528
+00:34:05,599 --> 00:34:10,640
+we have so many members that are vendors. They all want to see the succeed too. So they'll,
+
+529
+00:34:10,640 --> 00:34:15,200
+they might step up and say, okay, we have a couple core maintainers, or they might have people to,
+
+530
+00:34:15,280 --> 00:34:18,640
+um, a lead into the project so that they're there for the longterm too.
+
+531
+00:34:20,799 --> 00:34:28,400
+Let us have a short off topic break. And thanks again, our sponsors, uh, from KyleD3FS and
+
+532
+00:34:28,400 --> 00:34:35,520
+HumanFrog and all the Patreons. Um, I have a thing to admit, right? Um, like I'm a huge
+
+533
+00:34:36,239 --> 00:34:42,080
+fan of craft beers and we have a few pubs here in Ljubljana and there is a, an app that I have
+
+534
+00:34:42,080 --> 00:34:49,840
+on my phone and whenever they connect a new, uh, keg or barrel of beer, I get not really a
+
+535
+00:34:49,840 --> 00:34:55,520
+notification, but it's popped up. It pops up. It says, Hey, there's a new beer. And I know,
+
+536
+00:34:55,520 --> 00:35:01,119
+know if I have tried already or not because I checked them in the app, right? It's like
+
+537
+00:35:01,119 --> 00:35:08,320
+connecting Pokemons, but instead it's just like drinking pints of beer. Um, and I wonder if
+
+538
+00:35:09,119 --> 00:35:09,840
+where you're going with this.
+
+539
+00:35:15,280 --> 00:35:23,520
+Like there's a lot of projects joining in, like from different, like sandbox or like incubator
+
+540
+00:35:23,520 --> 00:35:27,599
+and the landscape, especially the recent years with Kubernetes is changing
+
+541
+00:35:28,559 --> 00:35:33,200
+relatively rapidly, right? Because a lot of new, awesome things are going on.
+
+542
+00:35:33,200 --> 00:35:39,520
+And I wonder what's the easiest way for me to subscribe to an Ares, Ares fits and just like
+
+543
+00:35:39,520 --> 00:35:47,200
+see what got promoted to which stage. Right. Um, because sometimes I go through the landscape and
+
+544
+00:35:47,200 --> 00:35:53,359
+I'm like, Oh, that's amazing. Yeah. That's well, I will not implement it. Right. But I know that
+
+545
+00:35:53,359 --> 00:35:59,119
+it's there. And then when a problem pops up at a customer that feeds that project,
+
+546
+00:35:59,760 --> 00:36:06,000
+then yeah, of course you do additional due diligence, but it really helps to be, I think
+
+547
+00:36:06,000 --> 00:36:12,799
+it's more productive to know what is there than reading like a hacker news every morning. Right.
+
+548
+00:36:12,799 --> 00:36:18,400
+So I wonder if, if it's there like a list or how is that communicated? How the project gets promoted?
+
+549
+00:36:19,200 --> 00:36:25,200
+It's that's a question I've, I did. I want to see this too. And I found a couple of things. Um,
+
+550
+00:36:25,200 --> 00:36:32,159
+the CNCF actually worked with the CNCF, um, website developer. We, it used to be truncated
+
+551
+00:36:32,159 --> 00:36:37,679
+RSS so that you'd read it in your RSS reader as many of us do. And it was only the first like
+
+552
+00:36:37,679 --> 00:36:42,719
+hundred words. And I was like, no, I, I get that you want people to click a link and go through,
+
+553
+00:36:42,719 --> 00:36:47,039
+but I also just want to be able to read my, my RSS reader and get the sense for what's going on.
+
+554
+00:36:47,599 --> 00:36:52,320
+Um, so that's been expanded. That's a decent way to, to keep track of a lot of things,
+
+555
+00:36:52,320 --> 00:36:58,479
+but it's just a lot. Right. Yeah. Um, so there's, there have been talks of tags and some other
+
+556
+00:36:58,479 --> 00:37:04,239
+ways in which to fix that taxonomy, but that's a known problem within our ecosystem is so much news.
+
+557
+00:37:04,239 --> 00:37:09,760
+How do you keep track of it? Um, in the new landscape, there's a metrics tab, I think,
+
+558
+00:37:09,760 --> 00:37:14,559
+um, uh, or stats. And if you click on that, then you can see which projects have moved within the
+
+559
+00:37:14,559 --> 00:37:19,039
+year, how many have been accepted. And you can see some graphs that'll tie to that. I don't think
+
+560
+00:37:19,039 --> 00:37:24,640
+that lets you click and then introspect with those projects are necessarily though, but that's
+
+561
+00:37:24,640 --> 00:37:28,719
+something that, yeah, that's on my personal wishlist too, is to be able to take a look at that
+
+562
+00:37:28,719 --> 00:37:34,239
+or who donated this project. You know, I want the, I, you know, I love history because it's
+
+563
+00:37:34,239 --> 00:37:39,119
+a collection of just what choices were made at certain times with certain effects. And that's
+
+564
+00:37:39,119 --> 00:37:43,599
+kind of what you do with an SRE. That's what I'm doing within the ecosystem. So by being able to go
+
+565
+00:37:43,599 --> 00:37:48,000
+back and look at that full history, that's really helpful. We don't have that tool yet, but
+
+566
+00:37:48,000 --> 00:37:52,320
+something that isn't out of mind, we have a couple of things that we're going to work on probably
+
+567
+00:37:52,320 --> 00:37:57,440
+2025 and take a look, a deeper look into something like that. So I would say, stay tuned, check your
+
+568
+00:37:57,440 --> 00:38:03,280
+RSS feed for what exists today. Is there an API for, for the project listed there that will be
+
+569
+00:38:03,280 --> 00:38:09,760
+open? There, there is, there's, uh, what's really funny. It's well, funny and interesting is that
+
+570
+00:38:09,760 --> 00:38:20,400
+the landscape, uh, database is just a giant YAML file. So does it have an API? Yeah, kind of.
+
+571
+00:38:20,400 --> 00:38:27,440
+Um, there's, there is an end point. I'm not sure if it's documented for the CNCF website, but there
+
+572
+00:38:27,440 --> 00:38:31,760
+is a way to be able to list out projects, things like that. I'd say dev stats is probably another
+
+573
+00:38:31,760 --> 00:38:35,919
+good way that definitely has an API. I've used that. You could see people's contributions,
+
+574
+00:38:35,919 --> 00:38:41,599
+company contributions, and, um, and then the list of things and projects that are there.
+
+575
+00:38:41,599 --> 00:38:47,200
+So that's probably what's best as far as what's available today. Um, big organizations will utilize
+
+576
+00:38:47,200 --> 00:38:51,840
+that API too, and pulling metrics as well as doing the same thing, checking to see where projects at,
+
+577
+00:38:51,840 --> 00:38:58,479
+et cetera. Challenge accepted. Yeah. I will find the YAML. I'm not exactly sure how should I make
+
+578
+00:38:58,479 --> 00:39:03,440
+a parallel out of your beer analogy now, but I have this question, like you have,
+
+579
+00:39:03,840 --> 00:39:09,840
+uh, let's say that you have very good oversight in what's in the ecosystem and that there are 200
+
+580
+00:39:09,840 --> 00:39:19,119
+and 200 more projects in there, but like, are there gaps in the ecosystem? Are there holes
+
+581
+00:39:19,119 --> 00:39:27,200
+where you think, oh, somebody should make a project in this space? Uh, can you, did you so
+
+582
+00:39:27,200 --> 00:39:33,919
+far identify these gaps or are you somehow insinuating to the people that they should
+
+583
+00:39:33,919 --> 00:39:38,960
+probably do something in there? It's a big opportunity, or do you have that insight as
+
+584
+00:39:38,960 --> 00:39:43,200
+well? Do you think that there should, you know, can you, can you give us some pointers on that?
+
+585
+00:39:43,200 --> 00:39:47,760
+Yeah, there's no gaps. It's perfect. That's why there's 200 projects. Yeah, of course.
+
+586
+00:39:47,760 --> 00:39:52,960
+That's why we accept more and more projects every single year. Um, it's, I'd say some of the,
+
+587
+00:39:52,960 --> 00:39:57,599
+personally what I've seen it, I've loved seeing projects like for the tests where it's, you know,
+
+588
+00:39:57,599 --> 00:40:03,679
+you can spin up my SQL in this incredible clustered way. Um, personally I've like,
+
+589
+00:40:03,679 --> 00:40:07,520
+I'm seeing amazing things with like Postgres running in the browser with Wasm, you know,
+
+590
+00:40:07,520 --> 00:40:13,039
+like super cool. That's Otto's favorite tool. It's so cool. It's having it, having a,
+
+591
+00:40:13,039 --> 00:40:19,599
+having a Postgres compiled, running in browser, and then you have the chat GPT or whatever
+
+592
+00:40:19,599 --> 00:40:25,679
+it is. Yeah. And you just write a query and then it generates the whole, uh, tables for you,
+
+593
+00:40:25,679 --> 00:40:29,280
+relationships, graph is there. And you're just like, start querying. It says,
+
+594
+00:40:29,280 --> 00:40:33,840
+uh, I don't have data, but I can make a data for you. And you say, yes, make that. And then you
+
+595
+00:40:33,840 --> 00:40:39,840
+have, it's like, that future is now, right? Yeah, exactly. That's, that's, I'm not sure
+
+596
+00:40:39,840 --> 00:40:45,039
+that's cloud native. I'm too old for this. It's in, everything is in browser. Sorry.
+
+597
+00:40:46,000 --> 00:40:53,280
+Yeah, exactly. No, that's insane. That's, that's, those are the kinds of projects I want to see is
+
+598
+00:40:53,280 --> 00:40:59,520
+like, I, I've gotten to work with a big team, small teams. I think at Disney was the most
+
+599
+00:40:59,520 --> 00:41:04,719
+enlightening for me. Cause we had 21st century Fox come in. Um, we had to, we just got out of
+
+600
+00:41:04,719 --> 00:41:08,080
+all these data centers and got rid of like Salesforce and these other things. And then
+
+601
+00:41:08,080 --> 00:41:12,479
+we acquired 21st century Fox and all of a sudden our backlog grew again. And so we're like, ah,
+
+602
+00:41:12,479 --> 00:41:19,440
+we were just got out of this data center. Um, but the biggest thing was learning about teams and
+
+603
+00:41:19,440 --> 00:41:23,119
+kind of like what they were expecting. And it's, you're always going to want storage. You're going
+
+604
+00:41:23,119 --> 00:41:27,840
+to want to have a way for the app to access these different services and things. You want an
+
+605
+00:41:27,840 --> 00:41:32,320
+application to kind of learn about how it's being used and make its own changes to things like,
+
+606
+00:41:32,320 --> 00:41:37,280
+okay. Um, maybe cold storage is fine. Nope. This is accessed a lot. Let's move it up to warm. Oh,
+
+607
+00:41:37,280 --> 00:41:42,159
+nope. Hot. We really need hot. Okay. Let's double active, you know, international app.
+
+608
+00:41:42,239 --> 00:41:48,719
+You can kind of have something shape itself. Those are, I think multi-cluster, um, it's there.
+
+609
+00:41:48,719 --> 00:41:54,000
+I think that that's a little bit of a gap right now. Um, identity and access management in a true
+
+610
+00:41:54,000 --> 00:42:00,640
+multi-cloud way that really difficult to do. Multi multi-cloud DNS is like auto failover.
+
+611
+00:42:00,640 --> 00:42:05,199
+You know, if like Google shut down and you need to shift over to Azure, Amazon, Oracle,
+
+612
+00:42:05,199 --> 00:42:11,119
+that's still lots of manual steps in the, in the mix right now. Um, same thing with CDNs too. So
+
+613
+00:42:11,680 --> 00:42:16,400
+there's a lot, there's a lot of like functional gaps like that, that I see still. And it's just
+
+614
+00:42:16,400 --> 00:42:21,839
+been, you know, but from end users perspective, you have to be big enough so that you actually
+
+615
+00:42:21,839 --> 00:42:27,760
+need to tackle these kinds of challenges, right? Exactly. It's it's, and is it truly in a cloud's
+
+616
+00:42:27,760 --> 00:42:33,040
+incentive to really make that the focus? I would say yes, with a specification, right? Like if all
+
+617
+00:42:33,040 --> 00:42:36,560
+clouds kind of talked and they said, okay, cool. We could get out of the business of constantly
+
+618
+00:42:36,560 --> 00:42:41,119
+rewriting this or building on this legacy thing that we've had for a long time, you know, like
+
+619
+00:42:41,119 --> 00:42:45,680
+open ID connect. Can we just make that work? You've, you see like key cloak coming in. That's,
+
+620
+00:42:45,680 --> 00:42:50,239
+that's an interesting project to check out for open ID connect and authentication authorization.
+
+621
+00:42:50,239 --> 00:42:57,280
+But, um, yeah, I, I personally, I want to see like the, the tests for, uh, uh, postgres, you know,
+
+622
+00:42:57,280 --> 00:43:02,640
+like that's kind of cool. Um, some of the AI stuff is still up and coming as well.
+
+623
+00:43:02,719 --> 00:43:06,719
+Um, there's a alpha feature in Kubernetes called dynamic resource allocation,
+
+624
+00:43:06,719 --> 00:43:11,280
+and that allows for you to be able to more efficiently schedule CPUs, GPUs, and other
+
+625
+00:43:11,280 --> 00:43:16,160
+things. Um, and then you can, you know, work with web assembly on Kubernetes now too. It's
+
+626
+00:43:16,160 --> 00:43:22,719
+not a replacement for containers. It works really well in tandem with, but, um, it's that community,
+
+627
+00:43:22,719 --> 00:43:28,319
+I think candidly have spent more time with like specifications and standards. And then now they're
+
+628
+00:43:28,319 --> 00:43:33,680
+just moving into actually making actionable things. So, but it's kind of, you, you know,
+
+629
+00:43:33,680 --> 00:43:37,599
+when you're setting up the dinner table for so long and your family's waiting to eat,
+
+630
+00:43:37,599 --> 00:43:41,439
+you know, you're like, you get people that lose interest. So that's, I feel like that's.
+
+631
+00:43:41,439 --> 00:43:47,359
+That's, uh, this, uh, web assembly, we touched on this, this demo that we equally share passion.
+
+632
+00:43:49,280 --> 00:43:54,479
+This idea is very interesting that, uh, the next generation of containers is going to be web
+
+633
+00:43:54,479 --> 00:44:00,239
+assembly. This is, uh, I've heard this, uh, two to three years ago, I have seen a couple of
+
+634
+00:44:00,239 --> 00:44:05,920
+projects that are actually trying to build like whole durable computing platforms on top of these
+
+635
+00:44:05,920 --> 00:44:11,119
+things. These are like very interesting ideas that like will probably shape a lot of these tools if
+
+636
+00:44:11,119 --> 00:44:14,560
+they actually make it to, to, to, to more adoption, I guess.
+
+637
+00:44:15,920 --> 00:44:21,520
+I think it needs more stories. We had like, uh, at KubeCon, where was that? Uh, was that,
+
+638
+00:44:21,520 --> 00:44:26,160
+I think it was, yeah, it was in Paris. We talked about, uh, like Zeiss. They couldn't grow their
+
+639
+00:44:26,160 --> 00:44:30,479
+data center size, but they were asked to do more with their compute and their, and their applications.
+
+640
+00:44:30,479 --> 00:44:35,599
+And so they turned to web assembly to save the day and were able to more effectively and
+
+641
+00:44:35,599 --> 00:44:39,520
+efficiently utilize all of their compute using web assembly and all the features.
+
+642
+00:44:39,520 --> 00:44:44,319
+But where do you think this, this, this, uh, again, comes into the play? Why do you think
+
+643
+00:44:44,319 --> 00:44:47,599
+these web assembly would be more efficient than Zeiss?
+
+644
+00:44:48,319 --> 00:44:52,160
+Uh, it's, it took a little bit of rethinking of the way that they set up their applications,
+
+645
+00:44:52,160 --> 00:44:56,479
+but more efficient in that their workload specifically is one that was bursty. So
+
+646
+00:44:56,479 --> 00:45:00,719
+things would come in, you'd scale up, you'd be able to handle that at an immense scale
+
+647
+00:45:00,719 --> 00:45:05,439
+and then scale back down. So I think that web assembly does really good at those kinds of
+
+648
+00:45:05,439 --> 00:45:10,400
+workloads, whereas containers are better at others too, like running a database in that
+
+649
+00:45:10,400 --> 00:45:13,760
+for production, that might be something that needs to be thought about.
+
+650
+00:45:13,760 --> 00:45:18,640
+It's funny how web assembly nowadays is used on the backend because it's a multi-arch.
+
+651
+00:45:20,640 --> 00:45:25,680
+So it's just like, Oh my God, so funny. If you think about it, like from five years ago.
+
+652
+00:45:26,640 --> 00:45:32,560
+It's wild. I remember ASMJS, like, and I got so excited way back when that was a thing,
+
+653
+00:45:32,560 --> 00:45:36,719
+but yeah, even like Disney plus, they utilize a lot of web assembly for like their front end
+
+654
+00:45:36,719 --> 00:45:41,439
+to create really nice UX UI, but it's, we're seeing it skew into the backend.
+
+655
+00:45:42,079 --> 00:45:49,839
+So, sorry. So it seems that the Cloud Native Foundation, you're starting to becoming
+
+656
+00:45:50,800 --> 00:46:01,040
+relatively serious, like design slash RFC organization, like even if it's not super
+
+657
+00:46:01,040 --> 00:46:06,719
+official or semi-official, right? There are pages about those standards that then different vendors
+
+658
+00:46:06,719 --> 00:46:12,079
+agree on, and there's maybe a larger open source project adopting that standard.
+
+659
+00:46:12,079 --> 00:46:18,880
+And there's maybe a smaller one for us plebs so that we can also maybe have distributed storage,
+
+660
+00:46:18,880 --> 00:46:24,000
+but with not such much complexity, it seems that that's a really important role nowadays.
+
+661
+00:46:24,000 --> 00:46:29,439
+I absolutely, I think that there's, and we have lots of reports to help show that too.
+
+662
+00:46:29,439 --> 00:46:33,760
+Cause that's been our hypothesis for a while as well as a foundation is like,
+
+663
+00:46:33,760 --> 00:46:40,079
+if we have this set, does it become easier as an end user or vendor? You can get that
+
+664
+00:46:40,079 --> 00:46:44,880
+implementation or that spec built at home too. And you can build against it and be like, okay,
+
+665
+00:46:44,880 --> 00:46:49,839
+one day I could make a product that'll integrate with this specific workflow, or I can shift over
+
+666
+00:46:49,839 --> 00:46:55,359
+and you're not locked into a specific vendor. That's, I think the real benefit and treasure
+
+667
+00:46:55,359 --> 00:46:59,520
+of having the community, keep everybody honest to and in a vendor neutral way.
+
+668
+00:47:00,160 --> 00:47:07,439
+One thing like right now, I want to see, I'd love it if we had, like if OpenAI were open to donating
+
+669
+00:47:07,439 --> 00:47:13,119
+their model spec to a foundation so that it could be vendor neutral. Everyone kind of utilizes
+
+670
+00:47:13,119 --> 00:47:18,800
+OpenAI's API structure and their model spec and everything right now, but there's, it's still
+
+671
+00:47:18,800 --> 00:47:24,479
+kind of owned by one vendor. And so you see people shaping to that rather than thinking critically,
+
+672
+00:47:24,479 --> 00:47:30,079
+I would say about how, you know, it works, this is great, but it'd be nice to be able to have
+
+673
+00:47:30,079 --> 00:47:36,239
+something like, you know, WC3 or those kinds of bodies managing a specification and then bringing
+
+674
+00:47:36,239 --> 00:47:42,400
+in the right people to be able to interact with that. I was sort of thinking like, you said that
+
+675
+00:47:42,400 --> 00:47:51,439
+you're with Cloud Native Foundation for two, almost three years now. This whole AI wave hype
+
+676
+00:47:51,439 --> 00:47:57,839
+explosion, this like, it kind of like shook the circle. Yeah. It's like, wait, what?
+
+677
+00:47:57,839 --> 00:48:04,800
+Whatever you were doing now, there's like a GPU in the mix and the workflows are different and people
+
+678
+00:48:04,800 --> 00:48:10,880
+have now these beastie machines and everything needs to be, you know. Cool lights.
+
+679
+00:48:12,319 --> 00:48:19,599
+Yeah. Demos are becoming insane, you know. I'm not sure if I'll have a job next week, but,
+
+680
+00:48:19,599 --> 00:48:27,439
+you know, this has probably rapidly changed things for you as well. How do you guys
+
+681
+00:48:27,439 --> 00:48:30,719
+tackle these challenges? I guess it's a different environment now.
+
+682
+00:48:31,359 --> 00:48:35,280
+It's, it's been really interesting. It's like the, that's my, that's my soundbite.
+
+683
+00:48:35,280 --> 00:48:36,239
+It's really interesting.
+
+684
+00:48:36,239 --> 00:48:43,680
+But it's, Kubernetes is great. Kubernetes is a great platform to build platforms. And so
+
+685
+00:48:43,680 --> 00:48:49,199
+there's a lot that it already did. And so we would have folks from the press and media come
+
+686
+00:48:49,199 --> 00:48:52,160
+out and ask like, Hey, what's going on with this? When's it going to be ready? And we're like,
+
+687
+00:48:52,160 --> 00:48:54,719
+oh, it is already. They're like, wait, what? Yeah.
+
+688
+00:48:55,839 --> 00:49:00,000
+And so as you deal with batch workloads and stats and things like that, like, yes,
+
+689
+00:49:00,000 --> 00:49:04,479
+that's already there. When it comes to some of the other inference things or being able to,
+
+690
+00:49:04,479 --> 00:49:10,800
+like you can't right now in Kubernetes tap into a GPU and say, I want 1.5 GPUs, right? You don't
+
+691
+00:49:10,800 --> 00:49:15,359
+have that kind of experience. And that's why NVIDIA bought run AI is because that's really
+
+692
+00:49:15,359 --> 00:49:18,719
+what they're looking to do is how do we virtualize this and make it make sense.
+
+693
+00:49:19,839 --> 00:49:23,520
+That's what the Kubernetes community is working on both NVIDIA, Intel, and several others
+
+694
+00:49:24,319 --> 00:49:29,599
+in that dynamic resource allocation feature. So that you can actually schedule things more
+
+695
+00:49:29,599 --> 00:49:35,839
+effectively and then even existing CPUs and, and other kinds of devices that you're plugging in,
+
+696
+00:49:35,839 --> 00:49:40,239
+you have more control over it. They've in testing that, I think that they said that
+
+697
+00:49:40,239 --> 00:49:44,719
+they were able to raise some data centers where they're testing from like 60% efficiency to like
+
+698
+00:49:44,719 --> 00:49:49,040
+90%. So like they're seeing some wild things happen when you're just able to better schedule
+
+699
+00:49:49,040 --> 00:49:55,359
+things and then more quickly make changes. Orchestration's crazy and difficult on that
+
+700
+00:49:55,359 --> 00:49:58,640
+front. So that's one of the ways in which we're shaping and changing things.
+
+701
+00:50:00,000 --> 00:50:04,760
+Organizations I've spoken to, a couple of different archetypes for that.
+
+702
+00:50:05,040 --> 00:50:07,360
+Some are like, AI, let's go.
+
+703
+00:50:07,480 --> 00:50:10,680
+And then you jump in and they throw a bunch of stuff out and they realize, oh,
+
+704
+00:50:10,760 --> 00:50:15,320
+no, we still need about 70% at least of what we're doing already.
+
+705
+00:50:15,640 --> 00:50:17,040
+This is just going to augment it.
+
+706
+00:50:17,719 --> 00:50:21,120
+And then you have other groups that I think are thinking more effectively
+
+707
+00:50:21,120 --> 00:50:25,120
+about it, where they're taking a look at like how they route those kinds of requests.
+
+708
+00:50:25,440 --> 00:50:28,760
+Hey, this has personally identifiable information in it.
+
+709
+00:50:28,840 --> 00:50:29,120
+Nope.
+
+710
+00:50:29,120 --> 00:50:30,360
+Don't even send it out of the app.
+
+711
+00:50:30,400 --> 00:50:30,799
+Yeah.
+
+712
+00:50:30,879 --> 00:50:35,919
+Um, or let's send it to a small language model or our own trained LLM rather than
+
+713
+00:50:35,919 --> 00:50:40,200
+to the vendor that's going to cost like 30 times what we want to pay for this.
+
+714
+00:50:40,759 --> 00:50:44,840
+Um, and then others like Adobe that completely got rid of all of their
+
+715
+00:50:44,840 --> 00:50:48,320
+closed source stuff, um, behind the scenes for their, for a couple of their
+
+716
+00:50:48,320 --> 00:50:53,439
+platforms and, uh, are utilizing open source now to interact with that.
+
+717
+00:50:53,439 --> 00:50:56,040
+So really cool stories that we're starting to see come out.
+
+718
+00:50:56,439 --> 00:51:01,200
+And then I think, again, you know, if you know your fundamentals well, uh, you're
+
+719
+00:51:01,200 --> 00:51:03,799
+not going to be throwing away as much of the application as you need.
+
+720
+00:51:04,080 --> 00:51:07,120
+Again, a lot of it, you know, does it need AI or can you actually do this with
+
+721
+00:51:07,120 --> 00:51:09,800
+stats is, is a reasonable question to ask.
+
+722
+00:51:09,800 --> 00:51:10,720
+I know not a fun one.
+
+723
+00:51:10,720 --> 00:51:16,559
+Cause you're like, no, but my AI project, but you know, it's, um, you take a look
+
+724
+00:51:16,559 --> 00:51:18,599
+at it's, it's, what do you want to do?
+
+725
+00:51:18,639 --> 00:51:20,760
+And AI is great for like reasoning.
+
+726
+00:51:20,760 --> 00:51:25,160
+So if you've a crazy, if then else case statement kind of thing going on.
+
+727
+00:51:25,400 --> 00:51:25,839
+Sure.
+
+728
+00:51:25,839 --> 00:51:27,919
+Maybe that's something that can help on that front.
+
+729
+00:51:28,400 --> 00:51:31,320
+Um, data classification is a big one.
+
+730
+00:51:31,440 --> 00:51:34,160
+And then a lot of organizations aren't ready on that front either.
+
+731
+00:51:34,199 --> 00:51:37,800
+They don't have the right taxonomy and they need to go before they even train
+
+732
+00:51:37,800 --> 00:51:42,279
+their data or work with it in that kind of vectorized way, they, they have
+
+733
+00:51:42,279 --> 00:51:43,559
+to get their data in order.
+
+734
+00:51:43,639 --> 00:51:46,800
+And so that's also something where you can use AI to help out a little bit
+
+735
+00:51:46,800 --> 00:51:50,480
+with that too, but not a lot of people want to jump in and a lot of
+
+736
+00:51:50,599 --> 00:51:54,440
+borderlines are still the same in that regards, in terms of data.
+
+737
+00:51:54,599 --> 00:51:58,839
+And I would say like, okay, we have vectors now on vector databases and all
+
+738
+00:51:58,839 --> 00:52:06,440
+that stuff, but, um, but there's like still at what point we won't need to
+
+739
+00:52:06,440 --> 00:52:11,960
+write YAML files that you guys really love or Jinja templates that you love
+
+740
+00:52:11,960 --> 00:52:13,240
+even more there, right?
+
+741
+00:52:13,520 --> 00:52:19,720
+The best decision is you take a templating language for HTML and start
+
+742
+00:52:19,720 --> 00:52:21,639
+writing YAML in it, that's the best.
+
+743
+00:52:21,639 --> 00:52:21,960
+Right.
+
+744
+00:52:22,000 --> 00:52:25,800
+And then you miss one minus on a tech and yeah.
+
+745
+00:52:26,160 --> 00:52:27,399
+That's what I'm using AI for.
+
+746
+00:52:27,479 --> 00:52:28,679
+It's like, it's my YAML palette.
+
+747
+00:52:30,399 --> 00:52:35,639
+But yeah, in terms of like, uh, defining these, uh, specs for, for Kubernetes
+
+748
+00:52:35,639 --> 00:52:39,800
+and things like that, will a lot of these things kind of be offloaded
+
+749
+00:52:39,800 --> 00:52:42,559
+to this modern tools as well?
+
+750
+00:52:42,639 --> 00:52:47,039
+Do you see changes there as well to be made so that you don't have to have
+
+751
+00:52:47,039 --> 00:52:50,960
+human that defines all these things and misses or like, do you see these
+
+752
+00:52:50,960 --> 00:52:52,600
+things change there as well?
+
+753
+00:52:53,399 --> 00:52:58,639
+I've seen, I've seen a lot, a lot of focus on, um, internal development
+
+754
+00:52:58,639 --> 00:53:03,520
+platforms, um, not just backstage, but even being able to like, okay, what
+
+755
+00:53:03,520 --> 00:53:05,000
+does the developer experience look like?
+
+756
+00:53:05,320 --> 00:53:07,520
+Like Intuit's an incredible job with this.
+
+757
+00:53:07,520 --> 00:53:09,080
+They'll have their dev team come in.
+
+758
+00:53:09,440 --> 00:53:11,880
+They'll kind of have a sense for like, okay, this is going to be either an
+
+759
+00:53:11,880 --> 00:53:15,279
+Angular app or Java or kind of like a sense for what tools they're using.
+
+760
+00:53:15,679 --> 00:53:17,720
+They'll check some boxes and they'll say, okay, here are the
+
+761
+00:53:17,720 --> 00:53:19,399
+things I want to use and go.
+
+762
+00:53:19,520 --> 00:53:24,000
+And then those, uh, teams, the infrastructure team, security team,
+
+763
+00:53:24,000 --> 00:53:27,199
+all of these teams can have come together to create these templates
+
+764
+00:53:27,199 --> 00:53:29,399
+and then regularly keep them updated.
+
+765
+00:53:29,399 --> 00:53:32,759
+So as the dev teams are working, they just kind of understand already
+
+766
+00:53:32,759 --> 00:53:33,440
+what they're going to use.
+
+767
+00:53:33,440 --> 00:53:35,759
+They're like, Hey, I need this kind of storage or that kind of thing.
+
+768
+00:53:36,080 --> 00:53:39,880
+They're able to self-service, add that in, and they have a great platform to
+
+769
+00:53:39,880 --> 00:53:42,000
+work with that is going to stay updated.
+
+770
+00:53:42,399 --> 00:53:45,679
+If things are breaking, they have really good telemetry and,
+
+771
+00:53:46,000 --> 00:53:47,960
+and tracing on what went wrong.
+
+772
+00:53:48,279 --> 00:53:51,240
+And then they're starting to take a look and they've open sourced a couple of
+
+773
+00:53:51,240 --> 00:53:55,000
+things that are not in the CNCF yet that are like AI ops.
+
+774
+00:53:55,039 --> 00:53:57,080
+And so actually like this is an outage.
+
+775
+00:53:57,119 --> 00:54:01,279
+It learns from that and then is able to, you know, tell it what, what you fixed,
+
+776
+00:54:01,279 --> 00:54:04,080
+if you need to manually intervene.
+
+777
+00:54:04,559 --> 00:54:07,199
+And then it's able to go and take that knowledge and go to apply that
+
+778
+00:54:07,199 --> 00:54:08,320
+to stuff, which is really cool.
+
+779
+00:54:08,360 --> 00:54:12,759
+So no more panicky Prometheus querying and then figuring out which tags are
+
+780
+00:54:12,759 --> 00:54:14,520
+okay to not query a bit too much.
+
+781
+00:54:14,559 --> 00:54:14,880
+Okay.
+
+782
+00:54:15,160 --> 00:54:15,479
+Yeah.
+
+783
+00:54:15,759 --> 00:54:18,559
+And you know, the goal, no more 3am calls, please let me sleep.
+
+784
+00:54:19,640 --> 00:54:23,519
+Then we could do code and kind of like orchestrate what's coming out of all
+
+785
+00:54:23,519 --> 00:54:24,559
+of these tools that we have.
+
+786
+00:54:24,559 --> 00:54:25,799
+More beer and more pizza.
+
+787
+00:54:25,959 --> 00:54:26,279
+Yeah.
+
+788
+00:54:27,239 --> 00:54:27,679
+That's all we need.
+
+789
+00:54:27,679 --> 00:54:29,559
+First day, I then escalate to human.
+
+790
+00:54:29,600 --> 00:54:31,880
+Oh, I love the future.
+
+791
+00:54:31,959 --> 00:54:33,239
+I love the future is now.
+
+792
+00:54:33,399 --> 00:54:33,640
+Yeah.
+
+793
+00:54:35,040 --> 00:54:37,040
+I guess I also, okay.
+
+794
+00:54:37,040 --> 00:54:41,559
+AI is shaping, I don't want to go into more because we do have this AI fatigue
+
+795
+00:54:41,559 --> 00:54:44,600
+that's creeping in, but that's not my.
+
+796
+00:54:44,880 --> 00:54:50,200
+Uh, probably there's, I think that's, that's my one, like, if I have a one
+
+797
+00:54:50,200 --> 00:54:54,760
+nugget of wisdom to share on that topic, it's, um, AI isn't the product.
+
+798
+00:54:54,760 --> 00:54:55,839
+It's a feature.
+
+799
+00:54:55,959 --> 00:54:56,239
+Yeah.
+
+800
+00:54:56,279 --> 00:54:58,799
+It's the, it's the feature that helps you enable that.
+
+801
+00:54:58,839 --> 00:55:01,559
+Please don't make it the product that's wrong.
+
+802
+00:55:01,559 --> 00:55:02,040
+Product fit.
+
+803
+00:55:02,799 --> 00:55:03,320
+Beautiful.
+
+804
+00:55:03,359 --> 00:55:09,239
+Uh, I had like a, another, I saw another, let's say movement kind of a thing going
+
+805
+00:55:09,239 --> 00:55:15,279
+on, uh, where development environment is also changing in sense that, you know,
+
+806
+00:55:15,959 --> 00:55:19,959
+if you used to have like your development machine and you run everything in there.
+
+807
+00:55:20,279 --> 00:55:20,760
+Okay.
+
+808
+00:55:20,760 --> 00:55:24,119
+If your infrastructure is so simple, you have like one node cluster on your
+
+809
+00:55:24,119 --> 00:55:25,640
+machine, you do things like that.
+
+810
+00:55:26,040 --> 00:55:31,839
+But I also sense that a lot of these things is moving to like environments
+
+811
+00:55:31,839 --> 00:55:37,239
+that are in the cloud or semi in the cloud or pre provision for your development.
+
+812
+00:55:37,559 --> 00:55:41,839
+Do you also sense that things are changing there where engineers kind
+
+813
+00:55:41,839 --> 00:55:43,559
+of like have sandboxes or what?
+
+814
+00:55:43,720 --> 00:55:45,679
+Can you tell me a bit more on that as well?
+
+815
+00:55:45,679 --> 00:55:46,480
+Do you sense this?
+
+816
+00:55:47,079 --> 00:55:47,880
+Absolutely.
+
+817
+00:55:47,959 --> 00:55:53,000
+I think even when, like, uh, I've been a big fan of visual studio code for a long
+
+818
+00:55:53,000 --> 00:55:56,279
+time, and then I just recently got introduced to like cursor, that's really
+
+819
+00:55:56,279 --> 00:56:01,160
+cool, but you know, like I'm also flying a lot and getting to travel a lot more.
+
+820
+00:56:01,160 --> 00:56:02,600
+So I'm like, ah, okay.
+
+821
+00:56:02,679 --> 00:56:06,320
+The plane wifi is not going to cut it when I want to do development or try things out.
+
+822
+00:56:06,679 --> 00:56:09,799
+Um, I can't host an LLM and work on this at the same time.
+
+823
+00:56:09,799 --> 00:56:12,239
+And it's, it, that fatigues me to no end.
+
+824
+00:56:12,799 --> 00:56:18,239
+Um, it's a lot easier for organizations to justify, uh, their spend for folks,
+
+825
+00:56:18,239 --> 00:56:21,359
+as well as get them the access that they need when we're kind of going back to
+
+826
+00:56:21,359 --> 00:56:25,079
+this, like dumb terminal or simple terminal, and then a mainframe kind of
+
+827
+00:56:25,079 --> 00:56:30,440
+setup where you can plug into the cloud, um, and have your GPUs, all these things
+
+828
+00:56:30,440 --> 00:56:34,839
+that, or run times, all these things available to you, there's a lot more
+
+829
+00:56:34,839 --> 00:56:36,119
+certainty around that too.
+
+830
+00:56:36,119 --> 00:56:40,760
+So like with GitHub code spaces or get pod, there's a whole bunch of things
+
+831
+00:56:40,760 --> 00:56:41,799
+available on that front.
+
+832
+00:56:42,200 --> 00:56:47,119
+Um, that are, they'll make it easier for developers in that sense of standards
+
+833
+00:56:47,119 --> 00:56:51,679
+and being able to give feedback, you know, across your team, like, um, works
+
+834
+00:56:51,679 --> 00:56:54,239
+in my machine, doesn't work on yours within our setup, even though we're
+
+835
+00:56:54,239 --> 00:56:55,760
+containerized, what's going on here.
+
+836
+00:56:56,239 --> 00:56:58,600
+Um, it helps eliminate a lot of those problems.
+
+837
+00:56:59,760 --> 00:57:04,600
+Like this, like development with live environments and things tooling around
+
+838
+00:57:04,720 --> 00:57:09,079
+that, like, uh, what is telepresence or things like, we see a lot of movement in
+
+839
+00:57:09,079 --> 00:57:09,640
+that direction.
+
+840
+00:57:09,640 --> 00:57:10,559
+At least that's my feeling.
+
+841
+00:57:10,600 --> 00:57:13,200
+It might be again, my bubble there as well.
+
+842
+00:57:13,359 --> 00:57:15,760
+It's no, it's, it's huge from what I've seen.
+
+843
+00:57:15,760 --> 00:57:19,480
+And anecdotally talking to so many community members, that's, that's favored
+
+844
+00:57:19,480 --> 00:57:22,200
+because it's, this is what is going into production.
+
+845
+00:57:22,200 --> 00:57:24,119
+It's not, I'm, you're guessing less.
+
+846
+00:57:24,200 --> 00:57:24,559
+Yeah.
+
+847
+00:57:24,559 --> 00:57:25,640
+You're less guessing this.
+
+848
+00:57:25,640 --> 00:57:25,799
+Yeah.
+
+849
+00:57:26,359 --> 00:57:26,559
+Yeah.
+
+850
+00:57:27,040 --> 00:57:27,679
+Uh, yeah.
+
+851
+00:57:27,799 --> 00:57:30,239
+The era of jump boxes are over.
+
+852
+00:57:30,239 --> 00:57:35,079
+What you probably want is submit the request, get it approved, and then jump
+
+853
+00:57:35,079 --> 00:57:39,079
+in with the privilege that you need to debug something if tracing is not enough.
+
+854
+00:57:39,119 --> 00:57:45,640
+So, yeah, I think, uh, yeah, there's a lot of work on that front and, uh, our
+
+855
+00:57:45,640 --> 00:57:48,760
+lives are getting better at least from the operational perspective.
+
+856
+00:57:49,640 --> 00:57:53,320
+Uh, uh, when I go, um, I had another question.
+
+857
+00:57:53,679 --> 00:57:59,079
+It's not related really to this one, but, um, there is Argo CD, right.
+
+858
+00:57:59,079 --> 00:58:04,040
+For the continuous delivery and deployment, um, in my bubble, that's
+
+859
+00:58:04,040 --> 00:58:07,239
+kind of like the way to go if you want to deploy these things these days, but
+
+860
+00:58:07,239 --> 00:58:12,200
+there's also Flux and I think you still might have clients on Flux, but both of
+
+861
+00:58:12,200 --> 00:58:15,679
+these projects are cloud native projects, I think, right?
+
+862
+00:58:16,279 --> 00:58:19,200
+So they're in a sense competing with each other, right?
+
+863
+00:58:19,559 --> 00:58:21,760
+How does that happen or work?
+
+864
+00:58:21,760 --> 00:58:24,839
+It's like, I think it's good because competition is good, but
+
+865
+00:58:24,880 --> 00:58:26,679
+they're like in a similar space.
+
+866
+00:58:26,720 --> 00:58:29,000
+You have a lot of these overlaps in there as well.
+
+867
+00:58:29,359 --> 00:58:29,640
+Yeah.
+
+868
+00:58:29,679 --> 00:58:30,839
+It just happens naturally.
+
+869
+00:58:31,200 --> 00:58:31,440
+Yeah.
+
+870
+00:58:31,440 --> 00:58:32,520
+It'll happen naturally.
+
+871
+00:58:32,559 --> 00:58:37,159
+And you'll, I think that that's really good because you've had standout projects
+
+872
+00:58:37,159 --> 00:58:41,080
+where they don't have a competing project or anything even remotely close to it.
+
+873
+00:58:41,080 --> 00:58:43,599
+And they're constantly asking like, are we hitting the mark?
+
+874
+00:58:43,599 --> 00:58:44,359
+Is this okay?
+
+875
+00:58:44,400 --> 00:58:48,080
+Is it, it, it, it leaves a lot of question, not that it's wrong, but it's
+
+876
+00:58:48,080 --> 00:58:52,799
+just a lot more difficult to bounce off something and get that sense of what
+
+877
+00:58:52,799 --> 00:58:55,559
+you're, if, if what you're working on makes sense to the community.
+
+878
+00:58:56,119 --> 00:59:00,679
+Yeah, that's, that's entirely, that's around our whole concept of no, we don't
+
+879
+00:59:00,679 --> 00:59:02,400
+want to be a kingmaker or pick the winners.
+
+880
+00:59:02,599 --> 00:59:06,840
+We'll establish this really nice atmosphere for both Flux and
+
+881
+00:59:06,840 --> 00:59:08,320
+Argo to be able to exist.
+
+882
+00:59:09,000 --> 00:59:13,159
+And then I think they'd even tried to like make the GitOps toolkit and then
+
+883
+00:59:13,159 --> 00:59:16,479
+they decided that wasn't the right direction forward as far as like
+
+884
+00:59:16,479 --> 00:59:18,760
+combining the projects, which are like, oh, these are pretty similar.
+
+885
+00:59:18,760 --> 00:59:20,640
+Can we, can we mix it together?
+
+886
+00:59:20,640 --> 00:59:21,239
+No, we can't.
+
+887
+00:59:21,840 --> 00:59:23,919
+And then, but this project's kind of went forward.
+
+888
+00:59:23,919 --> 00:59:28,119
+I think anecdotally, I've seen more developers favor Argo and things like that.
+
+889
+00:59:28,119 --> 00:59:30,960
+And then the UI, I think that was like the standout thing.
+
+890
+00:59:30,960 --> 00:59:32,359
+They're like, yes, this is what we want.
+
+891
+00:59:32,359 --> 00:59:32,640
+Yeah.
+
+892
+00:59:33,080 --> 00:59:37,080
+And then Flux, it would typically be, that's, that's mostly what I used earlier
+
+893
+00:59:37,080 --> 00:59:43,320
+on was, it's not, not standing up more, but Flux was really nice.
+
+894
+00:59:43,320 --> 00:59:47,039
+And that pairs well with like SREs and that kind of mindset too, just
+
+895
+00:59:47,039 --> 00:59:48,640
+fits into that workflow really well.
+
+896
+00:59:49,039 --> 00:59:52,200
+And I like that because it allows you to solve problems in different ways.
+
+897
+00:59:52,200 --> 00:59:55,559
+It's like, okay, I like this brand of whatever I'm trying to do.
+
+898
+00:59:55,799 --> 00:59:57,200
+I like that it allows for that.
+
+899
+00:59:58,200 --> 01:00:06,280
+The ecosystem is, so all this new wave of tooling, especially for Kubernetes,
+
+900
+01:00:07,799 --> 01:00:09,520
+it's now old news, right?
+
+901
+01:00:09,760 --> 01:00:11,640
+So it's getting more mature.
+
+902
+01:00:12,039 --> 01:00:16,440
+And with that, it also happens that some project might not, let's say, survive.
+
+903
+01:00:16,440 --> 01:00:20,520
+So that the active maintainers have, maybe they've just started
+
+904
+01:00:20,799 --> 01:00:25,479
+duck farm or something else, like growing hops, if you go back to beer.
+
+905
+01:00:25,479 --> 01:00:32,679
+Is there like, if you promote some projects to, I don't know, mature or
+
+906
+01:00:32,679 --> 01:00:37,520
+will also there be like a flag, retired or?
+
+907
+01:00:38,080 --> 01:00:38,320
+Yeah.
+
+908
+01:00:38,320 --> 01:00:42,080
+Well, we have like a archived, and so people will signal like, Hey, is this
+
+909
+01:00:42,080 --> 01:00:46,679
+project alive or check into this or kind of see if it's abiding by the code of
+
+910
+01:00:46,679 --> 01:00:49,080
+conduct or whatever the governance or the structure is.
+
+911
+01:00:49,080 --> 01:00:52,520
+And then if it's the TOC, we'll take a look at that and I'll say, you know,
+
+912
+01:00:52,520 --> 01:00:56,000
+like, no, this is, everything is above board here, or they're going to say,
+
+913
+01:00:56,039 --> 01:00:57,280
+nope, yep, this is valid.
+
+914
+01:00:57,320 --> 01:00:58,919
+This is worth archiving.
+
+915
+01:00:59,840 --> 01:01:04,119
+And so we've seen, I think nine projects archived so far and it's, it will
+
+916
+01:01:04,119 --> 01:01:05,679
+continue to grow over the years.
+
+917
+01:01:05,840 --> 01:01:09,520
+But it's, yeah, it's, it, it'll happen at some point in time.
+
+918
+01:01:09,520 --> 01:01:12,400
+It'll be really interesting when Kubernetes gets to that frame, you know,
+
+919
+01:01:12,400 --> 01:01:16,440
+like, or what that kind of evolves into, if it'll split off into like,
+
+920
+01:01:16,679 --> 01:01:20,520
+I like what you said to around like stability and like it's, it's becoming
+
+921
+01:01:20,520 --> 01:01:23,239
+that boring thing, dependable thing in production.
+
+922
+01:01:23,799 --> 01:01:29,719
+And we've even seen, there was a couple of years ago and it's in a night just
+
+923
+01:01:29,719 --> 01:01:33,880
+like this and, and San Francisco where a bunch of venture capitalists were
+
+924
+01:01:33,880 --> 01:01:37,000
+looking at the contributions to the Kubernetes project and they saw for the
+
+925
+01:01:37,000 --> 01:01:40,440
+first time ever, it had like crusted and it was starting to go down and they
+
+926
+01:01:40,440 --> 01:01:41,760
+went, Oh, that's cool.
+
+927
+01:01:41,760 --> 01:01:42,520
+That's really cool.
+
+928
+01:01:42,520 --> 01:01:46,119
+And then, but if you zoom out, you'd go back and you click on dev stats, you go
+
+929
+01:01:46,119 --> 01:01:48,400
+all CNCF, it's still hockey stick up to the right.
+
+930
+01:01:48,479 --> 01:01:53,320
+And so rather than think critically, someone freaked out and said, Oh,
+
+931
+01:01:53,320 --> 01:01:54,280
+Kubernetes is going down.
+
+932
+01:01:54,760 --> 01:01:56,760
+And it's like, yeah, but that's a good thing.
+
+933
+01:01:57,359 --> 01:01:59,719
+Um, that's because people are focused on Argo.
+
+934
+01:01:59,760 --> 01:02:01,840
+They're focused on open telemetry backstage.
+
+935
+01:02:02,119 --> 01:02:03,599
+They're solving other problems now.
+
+936
+01:02:03,919 --> 01:02:07,000
+They have, they can, they feel safe enough to be able to divert their
+
+937
+01:02:07,000 --> 01:02:08,440
+attention onto other things.
+
+938
+01:02:08,440 --> 01:02:09,599
+That's, I think that's really cool.
+
+939
+01:02:09,599 --> 01:02:13,000
+And so if we continue to do that and think critically, like, okay, this is good
+
+940
+01:02:13,000 --> 01:02:14,919
+enough, or what can we take out of this?
+
+941
+01:02:14,919 --> 01:02:17,359
+What's extra, what do we actually need here?
+
+942
+01:02:17,799 --> 01:02:19,400
+Then what's the problem we're trying to solve?
+
+943
+01:02:19,479 --> 01:02:21,000
+Then you're going to have amazing things happen.
+
+944
+01:02:21,039 --> 01:02:25,960
+But, uh, but I also think like engineers have like now learned what kind of
+
+945
+01:02:25,960 --> 01:02:31,559
+workloads do you need, like for what kind of workloads Kubernetes is the way to go.
+
+946
+01:02:31,719 --> 01:02:36,479
+Whereas like you can now do a lot with, I don't know, Docker swarm or Docker
+
+947
+01:02:36,479 --> 01:02:37,960
+compose or things like that.
+
+948
+01:02:37,960 --> 01:02:39,320
+You can get pretty far with that.
+
+949
+01:02:39,799 --> 01:02:46,080
+Um, this week we attended a Microsoft conference or NT conference here in
+
+950
+01:02:46,080 --> 01:02:50,159
+Slovenia, and there was like a one senior Microsoft engineer and he explained
+
+951
+01:02:50,159 --> 01:02:54,239
+there's like four ways how you can run containers on Azure, right?
+
+952
+01:02:54,239 --> 01:02:59,000
+And this goes from like, very simple, like you can run containers on Azure,
+
+953
+01:02:59,000 --> 01:03:04,599
+and then it goes like, you can use their managed Kubernetes and there's like a lot
+
+954
+01:03:04,599 --> 01:03:08,200
+of options, I don't even remember now, but there's like four options, how you can
+
+955
+01:03:08,200 --> 01:03:14,239
+run it and you can like tune into which, like where your organization is, to what
+
+956
+01:03:14,239 --> 01:03:17,039
+side do you actually want to have to deal with these things where you want
+
+957
+01:03:17,039 --> 01:03:18,799
+to offload this to third parties.
+
+958
+01:03:19,239 --> 01:03:24,320
+So I think like people now, they don't just say Kubernetes is the way to go.
+
+959
+01:03:24,479 --> 01:03:30,000
+So I think like people now, they don't just say Kubernetes is the way to go, go for it.
+
+960
+01:03:30,000 --> 01:03:32,640
+There's a lot of options in a lot of directions.
+
+961
+01:03:32,960 --> 01:03:36,359
+Uh, even like you said, Docker, you don't have to use Docker daemon.
+
+962
+01:03:36,359 --> 01:03:38,400
+You can use these, uh, what is it called?
+
+963
+01:03:38,400 --> 01:03:41,239
+Uh, container deal, whatever to run these things.
+
+964
+01:03:41,559 --> 01:03:46,760
+So, um, yeah, there's a lot more options, but, uh, yeah, ecosystem
+
+965
+01:03:46,760 --> 01:03:48,440
+round is becoming mature, mature.
+
+966
+01:03:48,799 --> 01:03:51,440
+Um, which brings me to my next question.
+
+967
+01:03:51,559 --> 01:03:58,159
+Um, and, uh, I, I, I, I thought I'm going to rephrase it differently, but I have
+
+968
+01:03:58,159 --> 01:04:03,640
+this like a really interesting quote and it says, go is the PHP for zoomers.
+
+969
+01:04:06,520 --> 01:04:13,280
+So my question is this to you guys, like, uh, a lot of these tools, majority
+
+970
+01:04:13,280 --> 01:04:15,039
+of these tools is written in go.
+
+971
+01:04:15,559 --> 01:04:21,159
+And, uh, does that scare you guys, or is this the way to go?
+
+972
+01:04:21,159 --> 01:04:26,840
+Because I see in his face, like when he comes in, he tries to explain that he is
+
+973
+01:04:26,840 --> 01:04:33,080
+SRI and he has a really mature ecosystem and then he shares the stack traces from
+
+974
+01:04:33,080 --> 01:04:34,719
+go and it's like all fire and shit.
+
+975
+01:04:35,159 --> 01:04:39,520
+So the question I have for you, I guess for both of you guys, do you think that
+
+976
+01:04:40,359 --> 01:04:43,479
+the go is right decision for these things?
+
+977
+01:04:43,479 --> 01:04:46,919
+I know that it doesn't make sense to rewrite all of these things into something
+
+978
+01:04:46,919 --> 01:04:51,000
+else because it's so mature and so big and complicated, but still, like, do you
+
+979
+01:04:51,000 --> 01:04:54,840
+still think that the go is the right tool for these things?
+
+980
+01:04:54,840 --> 01:05:01,000
+So I know this is a personal opinions and all, but still like, uh, PHP for zoomers.
+
+981
+01:05:01,039 --> 01:05:01,640
+Do you use it?
+
+982
+01:05:03,239 --> 01:05:03,880
+That's funny.
+
+983
+01:05:03,919 --> 01:05:07,479
+I think that that's always something that's, that's kind of going
+
+984
+01:05:07,479 --> 01:05:09,000
+on underneath the surface, right?
+
+985
+01:05:09,000 --> 01:05:13,840
+Like if you are trying to squeeze that performance faster than C or C plus plus,
+
+986
+01:05:13,840 --> 01:05:17,960
+it's going to be really hard, but there's, there's not a glut of people
+
+987
+01:05:18,200 --> 01:05:19,840
+really writing in that anymore.
+
+988
+01:05:20,239 --> 01:05:22,799
+Um, Rust has been something that's been really interesting.
+
+989
+01:05:22,799 --> 01:05:23,280
+That's come up.
+
+990
+01:05:23,280 --> 01:05:27,039
+That's like finally starting to like energy efficiency and then performance
+
+991
+01:05:27,039 --> 01:05:30,640
+like, Oh wow, it got up there, but it's really difficult to learn with all the
+
+992
+01:05:30,640 --> 01:05:34,640
+constructs of borrow checking and everything else and components, et cetera.
+
+993
+01:05:35,080 --> 01:05:39,039
+Um, I'm seeing more Rust projects come into the ecosystem.
+
+994
+01:05:39,080 --> 01:05:42,520
+I'm also seeing a lot more Python because of AI and that ecosystem as well.
+
+995
+01:05:43,039 --> 01:05:48,000
+Um, when anecdotally I've taken a look at, there's some nice, um, like code
+
+996
+01:05:48,000 --> 01:05:51,000
+quality tools that you can use to check open source repositories.
+
+997
+01:05:51,039 --> 01:05:55,840
+And, um, and typically what I've seen is like, when you're looking at TypeScript
+
+998
+01:05:55,840 --> 01:06:00,280
+and Python, usually the code quality is a lot lower, um, with known problems
+
+999
+01:06:00,280 --> 01:06:06,559
+and just ways that you write code and that vernacular, that, um, uh, idiomatic
+
+1000
+01:06:06,919 --> 01:06:07,880
+language concept.
+
+1001
+01:06:08,520 --> 01:06:12,239
+Um, but with Go things have been really solid on that front.
+
+1002
+01:06:12,239 --> 01:06:14,840
+Rust, you see some good competency there too.
+
+1003
+01:06:15,239 --> 01:06:16,640
+I think it's good for right now.
+
+1004
+01:06:16,679 --> 01:06:19,880
+It's, it's really down to readability and does this work the way it should.
+
+1005
+01:06:20,200 --> 01:06:23,000
+If there's a big performance thing or something like that, then that
+
+1006
+01:06:23,000 --> 01:06:24,359
+would, that would freak me out.
+
+1007
+01:06:24,400 --> 01:06:28,039
+But that if you're using too many dependencies and not really watching
+
+1008
+01:06:28,080 --> 01:06:31,280
+that, and that balloons up, you know, same kind of thing with node.
+
+1009
+01:06:31,359 --> 01:06:32,799
+Uh, that's also scares me.
+
+1010
+01:06:32,799 --> 01:06:34,000
+And I'm like, how many packages?
+
+1011
+01:06:34,039 --> 01:06:34,719
+Oh my gosh.
+
+1012
+01:06:35,039 --> 01:06:38,159
+You know, it takes 30 minutes just to do your MPM install.
+
+1013
+01:06:38,679 --> 01:06:41,840
+Um, but, uh, I, I think good for now.
+
+1014
+01:06:41,880 --> 01:06:46,760
+I am curious to see what shifts over to, I, I've been big in like Ruby, Go, PHP,
+
+1015
+01:06:46,760 --> 01:06:51,080
+and then Visual Basics, so clearly I've picked winners and it's like, I never
+
+1016
+01:06:51,080 --> 01:06:57,880
+had a hard day in my life, but, um, uh, like Elixir's cool.
+
+1017
+01:06:57,880 --> 01:07:03,039
+Like you start to see some things, but it's kind of, uh, choosing the right
+
+1018
+01:07:03,039 --> 01:07:06,000
+programming language when it has its day in the sun, when you have the community
+
+1019
+01:07:06,000 --> 01:07:09,280
+there, I think it's magic when you have that, you have a lot of the cloud
+
+1020
+01:07:09,280 --> 01:07:10,959
+native community there right now.
+
+1021
+01:07:11,040 --> 01:07:15,359
+Uh, but I do think it'll shift a little bit into Rust and, and I'm curious to
+
+1022
+01:07:15,359 --> 01:07:17,239
+see what else comes out of that mix too.
+
+1023
+01:07:17,239 --> 01:07:19,000
+You have like Mojo on top of Python.
+
+1024
+01:07:19,199 --> 01:07:23,280
+Maybe that will up-level the language a little bit, but so yeah, all that very
+
+1025
+01:07:23,280 --> 01:07:25,880
+long roundabout way to say like, yeah, I think it's meant to be like that.
+
+1026
+01:07:26,880 --> 01:07:28,319
+Please let, let it go.
+
+1027
+01:07:28,439 --> 01:07:28,800
+Yeah.
+
+1028
+01:07:28,800 --> 01:07:29,160
+Yeah.
+
+1029
+01:07:29,839 --> 01:07:31,760
+Like just like the sun.
+
+1030
+01:07:34,680 --> 01:07:41,439
+Um, I think that we are now at the point where you cannot just use the tools
+
+1031
+01:07:41,760 --> 01:07:50,000
+that at least at my level, I know, well, I tried to learn Go a few times and it's
+
+1032
+01:07:50,000 --> 01:07:52,560
+a simple language, but it's not easy.
+
+1033
+01:07:52,680 --> 01:07:53,160
+Right.
+
+1034
+01:07:53,359 --> 01:07:59,319
+Because yeah, the, the, the constructs and all the stuff that it has in, it's not
+
+1035
+01:07:59,319 --> 01:08:05,959
+really hard, but when you go to real, if you open up, I don't know, something
+
+1036
+01:08:06,400 --> 01:08:11,920
+code available or open source and just start reading stuff, um, then it, it
+
+1037
+01:08:11,920 --> 01:08:16,959
+gets a bit tricky, so, um, I think that, yeah, it's, if we want to grow, we need
+
+1038
+01:08:16,959 --> 01:08:21,800
+to learn, um, the tools that we are using and also the languages that they're
+
+1039
+01:08:21,800 --> 01:08:22,479
+written in.
+
+1040
+01:08:23,199 --> 01:08:27,560
+Um, so yeah, I'm now on, on that path.
+
+1041
+01:08:27,880 --> 01:08:34,280
+Uh, so yeah, probably I will, I will have to, uh, get someone to help me out
+
+1042
+01:08:34,280 --> 01:08:37,839
+because you, you get the basics, but then there are patterns that are not that
+
+1043
+01:08:37,839 --> 01:08:38,319
+simple.
+
+1044
+01:08:38,319 --> 01:08:38,800
+Right.
+
+1045
+01:08:39,319 --> 01:08:40,920
+Um, so yeah.
+
+1046
+01:08:41,000 --> 01:08:47,119
+Um, and I think Go is a good language, especially for this underlying tooling.
+
+1047
+01:08:47,400 --> 01:08:52,359
+If we are talking at the projects in the Cloud Native Foundation, I think it's
+
+1048
+01:08:52,359 --> 01:08:54,040
+probably a really good choice.
+
+1049
+01:08:54,479 --> 01:09:01,280
+Um, I'm getting maybe a bit skeptical if that's, if you, if your app needs to be
+
+1050
+01:09:01,280 --> 01:09:07,520
+written in Go, when you start, if you're not like, uh, the 20% of big companies
+
+1051
+01:09:07,520 --> 01:09:12,160
+in the world that will scale and be distributed, then maybe you can do
+
+1052
+01:09:12,280 --> 01:09:20,439
+backend templating and some Django, Elixir, Phoenix, Ruby, and you can support
+
+1053
+01:09:20,439 --> 01:09:22,959
+your local business by local.
+
+1054
+01:09:22,959 --> 01:09:25,880
+I mean, 2 million Slovenian big company, right?
+
+1055
+01:09:26,280 --> 01:09:32,079
+Because we have different standards and you might not want to break your head
+
+1056
+01:09:32,079 --> 01:09:37,040
+with ptrace and tracing and how garbage collection in Go and why we are memory
+
+1057
+01:09:37,040 --> 01:09:37,839
+leaking, right?
+
+1058
+01:09:38,680 --> 01:09:40,119
+Um, yeah.
+
+1059
+01:09:40,160 --> 01:09:44,680
+Uh, but we, and Otto, we work together.
+
+1060
+01:09:44,680 --> 01:09:47,800
+So, uh, Otto was my, uh, yeah, manager.
+
+1061
+01:09:47,839 --> 01:09:51,479
+And sometimes I ask him, should I do this or should I do that?
+
+1062
+01:09:51,640 --> 01:09:57,560
+Um, because I was a bit, well, of course, unsure and you want to have people's
+
+1063
+01:09:57,560 --> 01:09:59,680
+opinions and he had said yes.
+
+1064
+01:10:00,160 --> 01:10:03,920
+So probably you, I think it's a must.
+
+1065
+01:10:03,920 --> 01:10:05,199
+You need to know some Python.
+
+1066
+01:10:05,199 --> 01:10:06,319
+You need to know some Go.
+
+1067
+01:10:06,319 --> 01:10:12,000
+Even if you are not working, even if you are using Java, if you use Kubernetes,
+
+1068
+01:10:12,000 --> 01:10:17,560
+look, if there is a simple operator, you might want to skim through the code and
+
+1069
+01:10:17,560 --> 01:10:19,599
+have a basic understanding what it does.
+
+1070
+01:10:20,000 --> 01:10:23,800
+And then you see some, that there are some queue length that is parsing some
+
+1071
+01:10:23,800 --> 01:10:26,199
+YAML and maybe that's also useful for you.
+
+1072
+01:10:26,199 --> 01:10:28,280
+So I would say, yeah, so learn.
+
+1073
+01:10:28,880 --> 01:10:35,160
+And when we come, when we do like a smooth transition to learning, uh,
+
+1074
+01:10:35,239 --> 01:10:39,040
+Cloud Native Foundation also have certifications, right?
+
+1075
+01:10:39,079 --> 01:10:40,920
+What's, what are the most popular ones?
+
+1076
+01:10:40,920 --> 01:10:42,079
+What do you offer?
+
+1077
+01:10:42,520 --> 01:10:46,280
+I think KCA, KCAD, I think it's KSA.
+
+1078
+01:10:46,319 --> 01:10:47,760
+That's not a secret organization.
+
+1079
+01:10:47,760 --> 01:10:49,239
+It's Kubernetes Security Administration.
+
+1080
+01:10:49,760 --> 01:10:55,359
+Um, it's not like NSA, uh, but, um, those are the most popular right now just
+
+1081
+01:10:55,359 --> 01:10:59,119
+because they're, it's Kubernetes and it culminates a lot of things, whether
+
+1082
+01:10:59,119 --> 01:11:02,880
+you're developing on top of it as a developer, whether you just want to be
+
+1083
+01:11:02,880 --> 01:11:05,880
+more infrastructure minded and work on that side of things.
+
+1084
+01:11:06,280 --> 01:11:09,959
+Um, we have a kubestronaut program where if you have all, if you get all the
+
+1085
+01:11:09,959 --> 01:11:14,160
+five existing certifications right now, we send you a jacket and we put a
+
+1086
+01:11:14,160 --> 01:11:16,680
+spotlight on you, you get in a blog post and like, I think there's
+
+1087
+01:11:16,680 --> 01:11:18,719
+over 500 kubestronauts so far.
+
+1088
+01:11:18,719 --> 01:11:22,400
+It's been a fun way to gamify, um, the training inserts.
+
+1089
+01:11:22,479 --> 01:11:27,160
+We had one discussion with, uh, uh, Andraž and he was like, this guy is kubestronaut.
+
+1090
+01:11:27,160 --> 01:11:27,959
+And I was like, what?
+
+1091
+01:11:28,680 --> 01:11:29,040
+Yeah.
+
+1092
+01:11:29,119 --> 01:11:31,680
+And he was like, no, no, no, no, no, no, no, no, no, no.
+
+1093
+01:11:31,680 --> 01:11:33,160
+He was like, this is elite.
+
+1094
+01:11:33,199 --> 01:11:33,560
+Yeah.
+
+1095
+01:11:33,560 --> 01:11:34,359
+He's like elite.
+
+1096
+01:11:34,359 --> 01:11:37,199
+There's like two guys, uh, something four or four.
+
+1097
+01:11:38,000 --> 01:11:39,520
+He's like, he's elite.
+
+1098
+01:11:39,520 --> 01:11:41,000
+I'm like, we are a big community.
+
+1099
+01:11:41,000 --> 01:11:41,239
+Yeah.
+
+1100
+01:11:41,920 --> 01:11:44,680
+We know everyone we've, we've been, we've been talking about
+
+1101
+01:11:44,680 --> 01:11:45,880
+potentially doing a helmet too.
+
+1102
+01:11:45,880 --> 01:11:47,239
+So you may see that happen.
+
+1103
+01:11:47,239 --> 01:11:49,760
+I'm not in charge of that, but you need to have five certificates
+
+1104
+01:11:49,760 --> 01:11:51,520
+to, to be kubestronaut, right?
+
+1105
+01:11:51,599 --> 01:11:51,880
+Yeah.
+
+1106
+01:11:51,920 --> 01:11:52,400
+Okay.
+
+1107
+01:11:52,599 --> 01:11:55,800
+They're hard to get, like, what, what do you, what do you test for?
+
+1108
+01:11:55,880 --> 01:11:57,680
+Like, how does it, I'd say so.
+
+1109
+01:11:58,079 --> 01:12:01,319
+There's like the security one I'd say is like, that's pretty hard, you know, with
+
+1110
+01:12:01,319 --> 01:12:05,000
+anything, if you know the answer, it's easy, like, of course, but I know that,
+
+1111
+01:12:05,000 --> 01:12:07,040
+um, I'd say that was pretty intense.
+
+1112
+01:12:07,040 --> 01:12:11,920
+I'd say the KCA, um, I'd say that for me personally, it was a little bit easier
+
+1113
+01:12:11,920 --> 01:12:13,719
+just cause I knew Kubernetes from that side.
+
+1114
+01:12:14,040 --> 01:12:18,239
+Um, the developer, uh, one was the one that was, that had me thinking,
+
+1115
+01:12:18,239 --> 01:12:21,520
+cause you were delving deeper into and working on things like pizza controllers
+
+1116
+01:12:21,520 --> 01:12:25,959
+and, you know, those APIs and what that looked like, but, um, yeah, security's
+
+1117
+01:12:26,040 --> 01:12:27,359
+always going to be a pretty hard one.
+
+1118
+01:12:27,400 --> 01:12:32,560
+And then we just changed the, uh, uh, lifetime of those certifications
+
+1119
+01:12:32,560 --> 01:12:35,319
+too, from three years to two, just because so much changes
+
+1120
+01:12:35,319 --> 01:12:36,520
+within that time period too.
+
+1121
+01:12:36,800 --> 01:12:37,839
+It's not a good measure.
+
+1122
+01:12:37,839 --> 01:12:43,079
+If it's like three years aged out, that's like what, 12 Kubernetes,
+
+1123
+01:12:43,119 --> 01:12:45,079
+you know, releases, that's a lot.
+
+1124
+01:12:45,520 --> 01:12:53,040
+Um, but, uh, or nine, nine now, but, um, yeah, it's, I really like the, I do
+
+1125
+01:12:53,040 --> 01:12:55,880
+like that focus on education, then seeing where all of these people
+
+1126
+01:12:55,880 --> 01:12:57,439
+are learning across the CNCF.
+
+1127
+01:12:58,359 --> 01:12:58,560
+Yeah.
+
+1128
+01:12:59,040 --> 01:13:03,280
+I may, may I please like, uh, have the final question then?
+
+1129
+01:13:03,880 --> 01:13:04,560
+Are you fine with that?
+
+1130
+01:13:04,920 --> 01:13:06,439
+And then we have some pizza and some beer.
+
+1131
+01:13:08,359 --> 01:13:10,680
+Um, okay.
+
+1132
+01:13:10,680 --> 01:13:14,599
+We know that if you want to become a senior in this space, you become
+
+1133
+01:13:14,599 --> 01:13:17,760
+QB astronaut and that's kind of like a certification, you should do it.
+
+1134
+01:13:18,239 --> 01:13:20,880
+But I have a question for both of you guys.
+
+1135
+01:13:21,000 --> 01:13:27,199
+Um, what would be a good advice for somebody that has seen some of these
+
+1136
+01:13:27,199 --> 01:13:34,359
+things, wants to go into ops, uh, SRI, uh, wants to work with Kubernetes,
+
+1137
+01:13:34,359 --> 01:13:37,560
+wants to explore the stuff, wants to become more familiar with the stuff,
+
+1138
+01:13:37,599 --> 01:13:39,319
+but it's a complete junior.
+
+1139
+01:13:39,400 --> 01:13:46,439
+Uh, so, you know, can you give some advice to like very, very beginners
+
+1140
+01:13:46,439 --> 01:13:49,680
+or let's say like that, can you give me some, something there, please?
+
+1141
+01:13:49,680 --> 01:13:53,359
+So that's, let that be a kind of like a.
+
+1142
+01:13:54,479 --> 01:13:54,839
+Yeah.
+
+1143
+01:13:54,880 --> 01:14:01,760
+My advice would be like, try and learn everything that is popular
+
+1144
+01:14:01,760 --> 01:14:04,239
+or that you find useful, right?
+
+1145
+01:14:04,239 --> 01:14:10,520
+So build it in your Dell clusters or in your free time, or even try to ask
+
+1146
+01:14:10,520 --> 01:14:16,359
+your manager if you can play around with some technology that you're, you might
+
+1147
+01:14:16,359 --> 01:14:20,719
+not even adopt just to explore a bit because as Tyler mentioned, you
+
+1148
+01:14:20,719 --> 01:14:22,239
+will get some foundations, right?
+
+1149
+01:14:22,239 --> 01:14:23,680
+There are patterns that repeat.
+
+1150
+01:14:23,800 --> 01:14:30,359
+Um, but then especially if you're folk, if you're folk in the past, if you're
+
+1151
+01:14:30,359 --> 01:14:35,760
+building features or shipping a lot of code and adding value for customers
+
+1152
+01:14:35,760 --> 01:14:42,479
+with creating new things, um, all also, if you move to ops or SRE, try to be
+
+1153
+01:14:42,479 --> 01:14:49,599
+humble, um, the most important thing is to provide value stability, um, and not
+
+1154
+01:14:49,599 --> 01:14:52,920
+to write a lot of custom things, custom code, right?
+
+1155
+01:14:53,359 --> 01:15:00,040
+Um, because sometimes me, we maybe do too much of, I don't know.
+
+1156
+01:15:00,000 --> 01:15:06,720
+bash? Well, you can't escape bash, right? And you should probably be really good at it, but
+
+1157
+01:15:06,720 --> 01:15:12,400
+you don't maybe want to write like a simple Go CLI that takes some templating and then does
+
+1158
+01:15:12,400 --> 01:15:17,840
+something so another system that is commonly available can pick it up. I would suggest that
+
+1159
+01:15:18,879 --> 01:15:27,280
+try to write as minimal amount of code as possible to achieve the majority of things, because, well,
+
+1160
+01:15:27,280 --> 01:15:34,160
+if you're working especially for, I don't know, international customers or growing customers,
+
+1161
+01:15:34,160 --> 01:15:42,880
+you need to understand that teams will grow. You will be at the company for a longer time,
+
+1162
+01:15:42,880 --> 01:15:47,200
+but the new folks that will come in, they will know the basic stuff or
+
+1163
+01:15:47,200 --> 01:15:58,320
+stuff that is six months old or older, and there is constantly new stuff coming in from
+
+1164
+01:15:58,320 --> 01:16:05,040
+the community, and maybe you want to avoid your custom stuff, right? And always focus on the
+
+1165
+01:16:05,040 --> 01:16:11,919
+customer, right? The most important thing is to provide value and to make everyone happy and
+
+1166
+01:16:11,919 --> 01:16:17,599
+provide them a good experience, and, yeah, you can hack then at hackathons and stuff,
+
+1167
+01:16:17,599 --> 01:16:24,160
+especially if you're coming from a role where you are the featured guy, and then when you
+
+1168
+01:16:24,160 --> 01:16:28,959
+move to ops, it's a bit of a different story, but don't worry, it's still fun and exciting.
+
+1169
+01:16:30,559 --> 01:16:36,480
+I really like that, and you kind of said that too with your answer about Go. It's reminding me of,
+
+1170
+01:16:36,480 --> 01:16:42,239
+there's, who is it? I think it's PragProg, the publisher. They have seven languages in seven
+
+1171
+01:16:42,239 --> 01:16:47,360
+days and those kinds of things, and I really do urge people to go and think outside the box.
+
+1172
+01:16:48,879 --> 01:16:53,760
+Learning shouldn't necessarily be easy. Think about physically when you're working out,
+
+1173
+01:16:53,760 --> 01:16:57,760
+you're sweating. If you're not doing that and you're just going through exercises,
+
+1174
+01:16:57,760 --> 01:17:03,279
+whether it be exorcism or code kata or something like that, if it's not sticking and there's not
+
+1175
+01:17:03,279 --> 01:17:07,440
+a lot of effort there, it's going to be a lot harder to remember that, right? You don't remember
+
+1176
+01:17:07,440 --> 01:17:14,000
+the easy things, you remember the hard things, for better or for worse. That's good learning,
+
+1177
+01:17:14,000 --> 01:17:18,800
+and so that's something to take with you as you go through when you're choosing what you want to
+
+1178
+01:17:18,800 --> 01:17:23,440
+get into, you're just beginning. I work with a lot of people and they say, oh, I want to do
+
+1179
+01:17:23,440 --> 01:17:28,320
+open source. I'm like, cool. Let's get more specific. What do you like? Do you like security?
+
+1180
+01:17:28,880 --> 01:17:33,600
+Do you like a specific project? Do you like the community? What are the aspects that are driving
+
+1181
+01:17:33,600 --> 01:17:38,800
+you towards? You just said open source. Is that something you heard from a community that you're
+
+1182
+01:17:38,800 --> 01:17:44,479
+in? Really understanding the intent and the motivation behind that is incredibly important.
+
+1183
+01:17:45,520 --> 01:17:50,479
+Sitting there and kind of working through that yourself will help you. It'll save you years of
+
+1184
+01:17:50,479 --> 01:17:56,240
+time. I can guarantee that. What do you want to be when you grow up? Think about that. I'm still
+
+1185
+01:17:56,240 --> 01:18:02,720
+doing that. And that really helps illuminate, like, okay, cool. I like security things or I like
+
+1186
+01:18:03,600 --> 01:18:09,039
+working with scaling applications or containerizing them, or you just get a better sense about the
+
+1187
+01:18:09,039 --> 01:18:13,520
+ecosystem on that front. That is where the landscape is helpful, because then you can
+
+1188
+01:18:13,520 --> 01:18:18,320
+take a look and say, okay, I like these things. We do have a textual representation of the landscape,
+
+1189
+01:18:18,320 --> 01:18:24,639
+too, the landscape guide, and then you can read through what each of those sections looks like
+
+1190
+01:18:24,639 --> 01:18:27,759
+for people that are struggling or trying to make sense of what's going on.
+
+1191
+01:18:29,440 --> 01:18:35,279
+And then, like was said, too, I think it's great to dive into what's popular, take a look at some
+
+1192
+01:18:35,279 --> 01:18:40,880
+tutorials and things like that. You'll be surprised at the amount of tools that are at your disposal,
+
+1193
+01:18:40,880 --> 01:18:46,399
+as well. You don't need to run a multi-billion dollar corporation or something like that. You
+
+1194
+01:18:46,399 --> 01:18:52,479
+can load test it locally with tools like Hay and everything else, too, and simulate what some of
+
+1195
+01:18:52,479 --> 01:18:56,479
+these things look like if you want that kind of experience, too. So, there's a lot of creative
+
+1196
+01:18:56,479 --> 01:19:02,960
+ways to think about how to get started and then situations that you put yourself in. But I'd say
+
+1197
+01:19:02,960 --> 01:19:08,000
+make it something that's fun. Don't just go through the motions. Try to make a real-world
+
+1198
+01:19:08,000 --> 01:19:12,160
+project, too, if you can, if you're just getting started with something. There's nothing more
+
+1199
+01:19:12,160 --> 01:19:16,959
+magical than writing that first CLI that pulls from an API and you're like, oh, the weather is
+
+1200
+01:19:16,959 --> 01:19:22,399
+22 degrees. There's a magic in that and being able to iterate and try new things, too. So,
+
+1201
+01:19:22,399 --> 01:19:26,320
+make it magic and make it something that you really feel passionately about.
+
+1202
+01:19:27,040 --> 01:19:33,839
+Beautiful. I guess let's wrap on that, I guess. I would like to thank you, Taylor, again for taking
+
+1203
+01:19:33,839 --> 01:19:39,200
+the time. I'm looking forward to seeing your demo, as well. Andras, thank you for your time, as well.
+
+1204
+01:19:40,399 --> 01:19:46,079
+I would like to encourage everybody to like and subscribe. Sharing this stuff helps a lot
+
+1205
+01:19:46,079 --> 01:19:51,760
+with the promotion. And I would like to thank our sponsors, Kaldi 3FS and Human Frog for
+
+1206
+01:19:51,760 --> 01:19:56,720
+supporting us. And thank you for Patreons and everybody who has taken the time to listen to
+
+1207
+01:19:56,720 --> 01:20:05,920
+this. Until next time. Thank you. Thank you. Enjoy.

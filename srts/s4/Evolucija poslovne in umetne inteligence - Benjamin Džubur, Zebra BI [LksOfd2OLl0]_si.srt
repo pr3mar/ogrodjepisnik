@@ -1,0 +1,1619 @@
+1
+00:00:00,000 --> 00:00:16,920
+Nič, pa začnemo z novo epizodo ogrodja. Danes imam pred sabo in
+
+2
+00:00:17,120 --> 00:00:23,360
+pred mikrofonjem Benjamina Džuburja iz Zebra BI. To je slovensko
+
+3
+00:00:23,559 --> 00:00:29,719
+podjetje, ki se ukvarja z razvojem produktu za biznis inteleženst.
+
+4
+00:00:29,719 --> 00:00:35,720
+Smo nekaj, ki je slovenski izraz za to. Benjamin bo danes po snemanju
+
+5
+00:00:35,919 --> 00:00:42,119
+tega podcasta hitro odtekl na kongresni trk, kjer bo imel v celi tri
+
+6
+00:00:42,320 --> 00:00:49,520
+predavanje pri Sloveniji AI Meetupu in bo govoril o agentih.
+
+7
+00:00:49,720 --> 00:00:55,720
+Poreden boš pobegnul tja, bom ti popravljal 20 minut, da malo razložiš,
+
+8
+00:00:55,720 --> 00:01:02,040
+s čim se ukvarjaš in kaj je tako zanimivega pred tvojem delu. Benjamin,
+
+9
+00:01:02,240 --> 00:01:09,199
+dobrodošel. Hvala. Dej mi tipove, kaj počne je Zebra BI?
+
+10
+00:01:09,400 --> 00:01:21,199
+Zebra BI je podjetje, ki se je začel z razvojem SAS rešitev za
+
+11
+00:01:21,279 --> 00:01:26,080
+vizualizacijo biznis podatkov za BI. To je področje biznis inteleženca,
+
+12
+00:01:26,279 --> 00:01:30,400
+slovensko vreten poslovna inteligenca.
+
+13
+00:01:30,599 --> 00:01:38,199
+V bistvu smo začeli, razvili smo nek plugin za Microsoft Excel, kjer se lahko
+
+14
+00:01:38,400 --> 00:01:45,000
+svoje podatke vizualizirajo, edin je bil, ko si kliknul gor, si dobil čart in je
+
+15
+00:01:45,000 --> 00:01:51,440
+bil super, v bistvu je sledil nekim standardom, kako je fajn v bistvu te podatke
+
+16
+00:01:51,639 --> 00:01:56,040
+predstaviti, zato da potem tej stakeholderji, kjer jim predstavljaš
+
+17
+00:01:56,239 --> 00:02:02,279
+insajte, lažje, hitreje razumejo, v čem jo štos in se lahko hitreje tudi
+
+18
+00:02:02,480 --> 00:02:05,959
+odločajo v bistvu na podlagi teh vizualizacij.
+
+19
+00:02:06,160 --> 00:02:10,800
+To produkt sem jaz odlično preč videl v Excelu, mislim našem času,
+
+20
+00:02:10,800 --> 00:02:14,839
+da je bilo res fascinantno,
+
+21
+00:02:15,039 --> 00:02:20,880
+itak mi je že fascinantno, kaj ljudje delajo z Excelom, in potem sem videl ta plugin in bil tako wow,
+
+22
+00:02:21,080 --> 00:02:22,559
+v bistvu,
+
+23
+00:02:22,759 --> 00:02:27,399
+ampak kaj je ta plugin, ne naredi sam tako čart, da bi bil nek
+
+24
+00:02:27,600 --> 00:02:32,960
+pie čart ali nekaj, pač to je dejansko, so notri termini, ki sploh ne razumem,
+
+25
+00:02:33,160 --> 00:02:39,320
+in to je zelo tako, na nek način specjalno urode, na nek način nispecjalno.
+
+26
+00:02:39,440 --> 00:02:44,479
+Zelo specifično urodje, zelo tako napredno urodje,
+
+27
+00:02:44,679 --> 00:02:49,440
+v bistvu smo nekak ta boom pa šele zaživel z
+
+28
+00:02:49,639 --> 00:02:54,119
+Power BI-jem, ko ga je Microsoft introdusil, sem jaz zdaj
+
+29
+00:02:54,320 --> 00:02:59,759
+2014, 2015, ne vem točno, zdaj čist kaj leta, ampak
+
+30
+00:02:59,960 --> 00:03:04,559
+takrat smo bili eni izmed prvih, ki smo se nekako za to zagrebeli,
+
+31
+00:03:04,800 --> 00:03:13,039
+smo nekak videli potencijal v tem urodju in tudi nekak se je ta BI področje takrat res
+
+32
+00:03:13,240 --> 00:03:18,679
+začel razvijati, doživel nek boom in smo v bistvu potem to prepisali,
+
+33
+00:03:18,880 --> 00:03:25,839
+to našo vizualizacijo v Power BI, je pa to v bistvu začelo pač kot relativno
+
+34
+00:03:26,039 --> 00:03:30,880
+proprosta vizualizacija oziroma dva različna plugina, ki smo jih pa pal
+
+35
+00:03:31,080 --> 00:03:38,919
+vedno bolj nadgrejal, razvijal in je zdaj v bistvu to neko fulji interaktiv
+
+36
+00:03:39,119 --> 00:03:44,199
+vizualizacija, v kateri lahko tudi direktno pripravljaš razne, ne vem,
+
+37
+00:03:44,399 --> 00:03:49,639
+kalkulacije, nove stopce dodajoš direktno pre QI-ja, je zelo taka
+
+38
+00:03:49,839 --> 00:03:55,360
+responsive in v bistvu je glavni point je, da nekak čim bolj
+
+39
+00:03:55,520 --> 00:04:02,320
+čim bolje nekak vizualiziramo te insajte in nekak smo z tega pa dosegli uspeh
+
+40
+00:04:02,520 --> 00:04:06,240
+skupaj z Power BI in kaj pa pač.
+
+41
+00:04:06,440 --> 00:04:14,440
+To urodje pač, ok, Excel, če ga je zdaj odprema, stolbci pa vrstice,
+
+42
+00:04:14,639 --> 00:04:17,839
+če hočeš uporabljati te
+
+43
+00:04:18,040 --> 00:04:22,200
+to urodje v Excelu ali pa tudi v Power BI,
+
+44
+00:04:22,359 --> 00:04:27,160
+a moraš ti svoje podatke prej pripraviti na tak način, da to deluje,
+
+45
+00:04:27,359 --> 00:04:29,920
+je ful čarobno, ampak.
+
+46
+00:04:30,119 --> 00:04:33,440
+Dobro vprašanje, ja, dejansko
+
+47
+00:04:33,640 --> 00:04:40,239
+to je, to je ful dobro vprašanje, zato ker v trenutni verzi oziroma teh
+
+48
+00:04:40,440 --> 00:04:44,880
+prejšnjih verzijah produktov je odgovor, ja, pač določena oblika podatkov je
+
+49
+00:04:45,079 --> 00:04:52,119
+potrebna za to, da lahko pač ti to lepo uporabljaš in tudi mi smo v bistvu nekak
+
+50
+00:04:52,720 --> 00:04:59,160
+naše stranke učili, kako svoje podatke pripravljati in to je pa zdaj zelo zanimiva
+
+51
+00:04:59,359 --> 00:05:05,160
+tema, ker ravno z AI-jem, z napredkom tehnologije, je to nekaj, kar postane zelo zanimiv,
+
+52
+00:05:05,359 --> 00:05:12,760
+ker lahko nekak ta bottleneck tudi mogoče odpravljaš z AI agenti, no, tako da, ja.
+
+53
+00:05:12,959 --> 00:05:19,519
+Zdaj vidim tako, tudi če greš na product page od zebra, ne, je pač
+
+54
+00:05:19,799 --> 00:05:26,519
+Power BI, ne, spravim, zebra za office in lahko ta vidžet uporabljaš, oziroma,
+
+55
+00:05:26,720 --> 00:05:30,679
+bom rekel vidžet, ker ga vidim vizualno, ampak ta produkt lahko uporabljaš v
+
+56
+00:05:30,880 --> 00:05:35,959
+PowerPoint, lahko ga uporabljaš v Excelu, potem je drug segmenti Power BI,
+
+57
+00:05:36,160 --> 00:05:40,640
+kjer pač ga uporabljaš kot nekaj saj storitev vnotri in zdaj ste odprli v bistvu
+
+58
+00:05:40,839 --> 00:05:46,679
+še tretje vertikalo, predstavljam, da ti delaš najbolj na tej vertikali,
+
+59
+00:05:46,839 --> 00:05:52,600
+kje pa vi pravite, da je zebra AI, ne, in to je pa zdaj v bistvu visual tool
+
+60
+00:05:52,799 --> 00:05:59,160
+in jaz sem pač dobil pogled v to slajde, ki boš danes imel in pač sem poskrojil vnotri,
+
+61
+00:05:59,359 --> 00:06:05,000
+OK, OK, in potem bi bil vnotri YouTube tega demota tega vašega zebra AI produkta
+
+62
+00:06:05,200 --> 00:06:12,200
+in v demoto, vredno ti, izbere podatke iz nekega Excela in jih drag and drop
+
+63
+00:06:12,359 --> 00:06:21,640
+anotr v UI od zebra AI in bum, bum, bum, bom vidim čarte, ono, drugo, tretje,
+
+64
+00:06:21,839 --> 00:06:28,679
+prodaja, gor, pač vse, dodatno spodem imam še input, da lahko propišem in je res ono,
+
+65
+00:06:28,880 --> 00:06:35,119
+wow, res tak kvantni preskok sem jaz zdaj vse tako vizualno.
+
+66
+00:06:35,320 --> 00:06:39,359
+Zdaj, OK, ne vem, a so to res bi sintetični podatki ali so bili realni podatki,
+
+67
+00:06:39,440 --> 00:06:42,839
+ampak se mi zdi, da je res kot tako konkretno,
+
+68
+00:06:43,040 --> 00:06:46,559
+čutiš, da nek res preskok s to tehnologijo.
+
+69
+00:06:46,760 --> 00:06:51,519
+Vem, kako ti doživeš to, zelo eksajting more biti v vašem področju.
+
+70
+00:06:51,720 --> 00:06:57,160
+Zelo eksajting, tudi v bistvu to idejo, da bi nekako
+
+71
+00:06:57,359 --> 00:07:03,399
+avtomatizirali ta cel proces, pomembno že nekako od sanjega začetka podjetja,
+
+72
+00:07:03,600 --> 00:07:07,760
+ampak tega v bistvu nismo mogli zarez uresničiti,
+
+73
+00:07:07,959 --> 00:07:11,239
+nekako to si lahko dosegu, mogoče z
+
+74
+00:07:11,440 --> 00:07:17,559
+veliko količino kode, algoritmov, nekih pogojev, kako naj se pač orodje
+
+75
+00:07:17,760 --> 00:07:21,799
+obnaša v določenih situacijah,
+
+76
+00:07:22,000 --> 00:07:27,720
+ampak je to bilo ful enega eforta, pa tudi te klasični data science pristopi,
+
+77
+00:07:27,920 --> 00:07:33,399
+ki so lahko recimo ti iz podatkov, iz teh rov podatkov, ki jih dobiš,
+
+78
+00:07:33,600 --> 00:07:40,239
+nekako ugotovil, recimo naredil se en košček naloga, torej posamezni stolbci,
+
+79
+00:07:40,440 --> 00:07:44,679
+kaj predstavljajo, pomen stolbcev, zato da si lahko na podlagi tega potem
+
+80
+00:07:44,880 --> 00:07:51,239
+nekaj odločitve sprejemu, so bili tako zelo mehni in težko nekako
+
+81
+00:07:51,440 --> 00:07:57,119
+prilagodljivi na to domeno podatkov, za katero smo pač mi nekako
+
+82
+00:07:57,320 --> 00:08:02,040
+specializirani, to so pač prodaja, finance in taki biznis podatki.
+
+83
+00:08:02,200 --> 00:08:08,359
+In potem, ko je prišlo ven 4GPT, to je bilo novembra 22,
+
+84
+00:08:08,559 --> 00:08:13,279
+je že to bilo nekako impresivno in smo videli nekako potencijal v temu in potem
+
+85
+00:08:13,480 --> 00:08:16,720
+začetek naslednjega leta, ko smo videli
+
+86
+00:08:16,920 --> 00:08:20,880
+tudi, ne vem, te koncepte tool-ov pa agent-ov,
+
+87
+00:08:21,079 --> 00:08:24,760
+se nam je zdel pač, wow, to je pa res da je en breakthrough in smo dobili
+
+88
+00:08:24,959 --> 00:08:29,440
+tako ideje, kako bi lahko recimo zgradili se z tem, kaj bi se lahko,
+
+89
+00:08:29,640 --> 00:08:35,880
+bi bil dospet fleksibilen, ne bi rabil toliko ene logike kode odzadi, da bi pokrivil vse te
+
+90
+00:08:36,080 --> 00:08:40,559
+kese, ampak bi nekako sam razumel podatke in sprejel določene odločitve
+
+91
+00:08:40,760 --> 00:08:46,080
+in smo nekako potem iz tega začeli razvijati zebra AI, naredili smo nek
+
+92
+00:08:46,280 --> 00:08:51,239
+proof of concept, bili smo nekako vsi šokirani, očarani, čisto se spominam tega
+
+93
+00:08:51,440 --> 00:08:56,640
+momenta in potem smo rekli, ok, gremo, gremo to razvijati naprej
+
+94
+00:08:56,840 --> 00:09:03,200
+in potem sem se jaz, v bistvu takrat sem bil sam na temu, sem se pač lotel to
+
+95
+00:09:03,400 --> 00:09:07,719
+naprej razvijati in potem smo s časoma širili ekipo, tako da ja.
+
+96
+00:09:07,919 --> 00:09:11,559
+Zdaj, prej me gremo malo globlje.
+
+97
+00:09:11,760 --> 00:09:18,200
+Dej mi povej, kaj je to BI, business intelligence, dej malo piš,
+
+98
+00:09:18,400 --> 00:09:24,840
+kako vlogo imajo business intelligence v neki podjetju, dej malo povej za to, da bomo vedeli, kakšne probleme rešujemo.
+
+99
+00:09:25,000 --> 00:09:30,520
+Ok, business intelligence je kot neko področje, bi rekel,
+
+100
+00:09:30,719 --> 00:09:34,080
+ki se ukvarja z večjanimi zadevami.
+
+101
+00:09:34,280 --> 00:09:44,080
+Ponavadi so to predvsem neki business analisti, torej ukvarjajo se z analizo poslovnih podatkov,
+
+102
+00:09:44,280 --> 00:09:48,719
+torej predvsem internih podatkov firme, recimo kako posluje in tako dalje,
+
+103
+00:09:48,919 --> 00:09:54,200
+in potem pač morajo imeti neke skillse analistov,
+
+104
+00:09:54,239 --> 00:10:04,640
+torej SQL, ETL, skilse uporabljajo ta urodja, da podatke od nekak na začetku transformirajo, počistijo,
+
+105
+00:10:04,840 --> 00:10:11,520
+potem pa naprej grejo modelirati, razumeti podatke, jih povezovati, raziskovati,
+
+106
+00:10:11,719 --> 00:10:16,119
+pripravljati nekak insajte, buildati te vizualizacije, dashboarde in t.d.
+
+107
+00:10:16,320 --> 00:10:21,520
+in pripravljati poročila za te stakeholderje in potem tudi dodajati rekomendacije.
+
+108
+00:10:21,760 --> 00:10:27,359
+Tako da v bistvu nekako vse to skupi z obvijema business intelligence.
+
+109
+00:10:27,559 --> 00:10:33,840
+Se pravi, ni dovolj, da ti veš samo SQL pisati,
+
+110
+00:10:34,039 --> 00:10:42,400
+moraš tudi vedjeti dejansko neke poslovne aspekte in procese in pomeni tega podatka,
+
+111
+00:10:42,599 --> 00:10:45,039
+ker moraš vedjeti, da so pravilni ali ne.
+
+112
+00:10:45,239 --> 00:10:47,760
+Ja, definitivno moraš dobro poznati področje,
+
+113
+00:10:47,919 --> 00:10:53,440
+pa pa tudi, odvisno zdaj, koliko daleč greš s tem zadnjim korakom nekih priporočil
+
+114
+00:10:53,640 --> 00:11:00,000
+za vodstvo in t.d. tudi do neke mere moraš vedeti, kaj je nekako pomen tih rezultatov.
+
+115
+00:11:00,200 --> 00:11:04,960
+Zdaj, ta neka mantra, da hoče spremati
+
+116
+00:11:05,159 --> 00:11:11,400
+data-driven decision, da podjetje želijo spremati, ali če se napodagi podatko,
+
+117
+00:11:11,599 --> 00:11:13,799
+to v resnici pomeni, da
+
+118
+00:11:13,960 --> 00:11:19,640
+je veliko dela za BI oziroma za tule, ki ti,
+
+119
+00:11:19,840 --> 00:11:27,039
+če so dobri, ti bodo pomagali pripraviti te podatke, ti bodo napodagi teh podatkov pomagali tudi neke
+
+120
+00:11:27,239 --> 00:11:30,200
+high-level odločitve spremati, ali kaj.
+
+121
+00:11:30,400 --> 00:11:38,599
+Tako da je vedno bolj pomembno, da so te segmenti nekih zdravih sodobnih firm zelo zdravi, ali kaj.
+
+122
+00:11:38,799 --> 00:11:41,679
+Pa da so te podatke vrjetno tudi ažurni.
+
+123
+00:11:41,840 --> 00:11:46,239
+Ja, veliko krat to temu ni tako.
+
+124
+00:11:46,440 --> 00:11:48,840
+Ja, v resnici.
+
+125
+00:11:49,039 --> 00:11:54,320
+Podatke, res, predvsem recimo pri manjših ali pa srednjevelkih podjetjih nimajo tako
+
+126
+00:11:54,520 --> 00:11:58,359
+ureng, ali pa spohaj recimo nimajo neke ekipe ljudi, ki bi se okvarjala s tem.
+
+127
+00:11:58,559 --> 00:12:02,559
+In ravno to je ta segment, kaj je
+
+128
+00:12:02,760 --> 00:12:08,119
+ravno najbolj zanimiv za nas, z neke perspektive, to so tiste ljudje, ki iščejo neke
+
+129
+00:12:08,359 --> 00:12:16,080
+odločitve, vidijo to tehnologijo AI-ja in vidijo nek promisel temu, vau, to nam bo pa zdaj rešil to situacijo.
+
+130
+00:12:16,280 --> 00:12:20,719
+Mogoče ne bom rabil zaposliti nekoga iz BIA-ja, ampak bom lahko s tem nekim
+
+131
+00:12:20,919 --> 00:12:25,280
+pametnim urodjem preskočil nekaj te korake in bom dobil neke insajte,
+
+132
+00:12:25,479 --> 00:12:28,359
+ki mi bojo pomagali delati odločitve.
+
+133
+00:12:28,559 --> 00:12:29,440
+Ja.
+
+134
+00:12:29,640 --> 00:12:32,239
+Jaz upam, da ljudje to tudi razumejo.
+
+135
+00:12:33,239 --> 00:12:38,359
+OK, gremo zdaj malo bolj na te agente.
+
+136
+00:12:38,559 --> 00:12:46,159
+Se pravi, da je razlož malo, kaj v resnici pomenijo za te agenti v sklopu tega nekega,
+
+137
+00:12:46,359 --> 00:12:50,000
+recimo tema AI-valeno, kaj so to agenti?
+
+138
+00:12:50,200 --> 00:12:57,799
+Agenti so za me, v bistvu se spomnim, takoj nekak področja strojnega učenja pa reinforcement learninga,
+
+139
+00:12:57,840 --> 00:13:04,799
+kjer imamo agente, ki nekak komunicirajo z okoljem in potem iz okolja dobijo neko
+
+140
+00:13:05,000 --> 00:13:08,559
+povratno informacijo in delajo v neki povratni zamki.
+
+141
+00:13:08,760 --> 00:13:13,880
+In recimo v tem vidiku imamo
+
+142
+00:13:14,080 --> 00:13:22,000
+LLM-e, ki jih lahko nekak porabimo za nekak jedro za možganje tega agenta,
+
+143
+00:13:22,200 --> 00:13:26,080
+ki pa pač ima dostop do nekega okolja.
+
+144
+00:13:26,239 --> 00:13:33,080
+To je po navadi neka dodatna vrolja, neki dodatni tooli, recimo
+
+145
+00:13:33,280 --> 00:13:39,520
+tipičen primer je pisanje in izvajanje kode na podlagi, recimo to je najbolj zanimivo za nas,
+
+146
+00:13:39,719 --> 00:13:47,880
+na podlagi podatkov, zato ker lahko agent napiše neko še kode, da odgovori na neko vprašanje uporabnika,
+
+147
+00:13:48,080 --> 00:13:53,679
+dobi rezultate in potem nekak vid, aha, ok, to sem pravilno naredil, ali pa tukaj pa šlo do napake,
+
+148
+00:13:53,679 --> 00:13:59,840
+bom probil to še enkrat, ali pa se odloči, da bo recimo nazaj uporabnik odgovoril
+
+149
+00:14:00,039 --> 00:14:04,479
+in tako v tem smislu, to je po mene definicija nekega agenta.
+
+150
+00:14:04,679 --> 00:14:10,640
+Se pravi, da si to predstavljamo kot možgani tega nekega robota,
+
+151
+00:14:10,840 --> 00:14:17,440
+so large language model, ki ima potem okrog neke procese,
+
+152
+00:14:17,440 --> 00:14:23,799
+mehanizme, toolinge, da ima interakcijo s svetom, potem ima neko percepcijo sveta,
+
+153
+00:14:24,000 --> 00:14:33,599
+ima možnost interakcije z svetom, pa potem verjetno se tudi uči, ali je to stvar dogovorov?
+
+154
+00:14:33,799 --> 00:14:39,400
+Lahko se tudi sproti uči, definitivno se uči vsaj iz tega konteksta,
+
+155
+00:14:39,599 --> 00:14:45,400
+kjer je nekak s temi interakcijami si določene stvari zapomnili v tem shorter memory-u,
+
+156
+00:14:45,559 --> 00:14:52,559
+pa so tudi razne arhitekture, kjer lahko to nadgradiš, da si na tak ali drgačen način zapomne,
+
+157
+00:14:52,760 --> 00:15:02,960
+recimo RAG ali pa neko online učenje posodbitelj teh vtežij, recimo LLM.
+
+158
+00:15:03,159 --> 00:15:09,440
+Ja, ampak ne vem, po mojem, to ni potreben pogolj za agenta,
+
+159
+00:15:09,640 --> 00:15:13,880
+bolje nekak ta interakcijo z okoljem in pa neka avtonomnost.
+
+160
+00:15:14,039 --> 00:15:21,840
+Dostkrat ljudje povezujejo agente z avtonomnostjo, torej nekako, da to teče v nekam lupu in lahko…
+
+161
+00:15:22,039 --> 00:15:23,559
+Ampak v neki…
+
+162
+00:15:23,760 --> 00:15:28,520
+Agent lahko si v bistvu predstavljamo tudi kot nek tako workflow v končni implementaciji,
+
+163
+00:15:28,719 --> 00:15:32,679
+se pravi, naredi, da boš to, pa doba to, ime boš neke lupe, dla časa boš teko,
+
+164
+00:15:32,880 --> 00:15:35,200
+lahko se suspendaš, lahko se dvigneš ali kaj.
+
+165
+00:15:35,479 --> 00:15:38,159
+In kje potem recimo,
+
+166
+00:15:38,359 --> 00:15:43,799
+kje potem recimo nek ta, v tem vašem zebra, zebra AI,
+
+167
+00:15:44,000 --> 00:15:48,719
+kako zgleda nek ta agenta pa nek proces, ki je rešen s tem konceptom?
+
+168
+00:15:48,919 --> 00:15:54,159
+V bistvu, super, super, dobro vprašanje, če lahko, če ni en dje.
+
+169
+00:15:54,359 --> 00:15:58,359
+Ja, bom to malo razmislil, kako lahko povem, ampak, ampak,
+
+170
+00:15:58,559 --> 00:16:04,280
+ja, dejansko agente uporabljamo tako v vseh teh fazah, kaj sem jih naštel, od nekak
+
+171
+00:16:04,520 --> 00:16:08,840
+čiščenja podatkov, ravno to smo recimo dodali v neki zadnji verzi, da
+
+172
+00:16:09,039 --> 00:16:14,119
+proba agentu gotoviti, koliko so podatki, ki so priletel na to sistem,
+
+173
+00:16:14,320 --> 00:16:21,159
+čisti, koliko so skladni z nekimi zahtevami, ki jih imamo mi, za to, da preostanek
+
+174
+00:16:21,359 --> 00:16:26,239
+pač delati, koliko mora delati, a ne, in jih je sposoben tudi v neki,
+
+175
+00:16:26,440 --> 00:16:33,520
+v nekem lupu počistiti, izboljšati, za to, da se to pol pošle v naslednji korak,
+
+176
+00:16:33,679 --> 00:16:36,960
+kaj je pa nekak semantično modeliranje.
+
+177
+00:16:37,159 --> 00:16:41,239
+Tukaj gre predvsem za razumevanje, dobro razumevanje podatkov,
+
+178
+00:16:41,440 --> 00:16:45,880
+torej, če imaš ti neko SQL bazo na inputu,
+
+179
+00:16:46,080 --> 00:16:52,840
+hočeš res dober razumeti, kaj predstavljajo določeni stolbci, katere vrednosti
+
+180
+00:16:53,039 --> 00:16:58,840
+pač so prisotne tam in kaj te vrednosti tudi pomenijo za določene kombinacije,
+
+181
+00:16:58,840 --> 00:17:04,079
+za določene procese naprej, torej pa za analizo in t.d.
+
+182
+00:17:04,280 --> 00:17:10,040
+In tukaj se da res velik narest, tukaj lahko ugrediš razne grafe,
+
+183
+00:17:10,239 --> 00:17:14,000
+torej neke mreže, kjer pač potem definiraš te relationship-e.
+
+184
+00:17:14,199 --> 00:17:15,199
+Pomeni odvisnosti.
+
+185
+00:17:15,400 --> 00:17:18,760
+Odvisnosti, odvisnosti, ja.
+
+186
+00:17:18,959 --> 00:17:23,800
+In potem naslednji korak je pa pol ta explorativ analiza,
+
+187
+00:17:23,959 --> 00:17:27,760
+kjer imamo spet agente, ki se nekako odločajo
+
+188
+00:17:27,959 --> 00:17:31,599
+na podlagi nekih smernic pa na podlagi nekih toolov,
+
+189
+00:17:31,800 --> 00:17:36,839
+kaj v bistvu iti raziskovati v teh podatkih,
+
+190
+00:17:37,040 --> 00:17:43,319
+kjer lahko pač naredijo neki extensive search določene, določenega
+
+191
+00:17:43,520 --> 00:17:49,199
+kosa teh podatkov in iščejo neke patterne, neke outlierje, razne zanimivosti, takšne pa
+
+192
+00:17:49,199 --> 00:17:53,599
+drugačne, in jih potem predajo spet naprej v naslednjo fazo,
+
+193
+00:17:53,800 --> 00:17:59,079
+kaj je pa pol vizualizacija teh zanimivih rezultatov.
+
+194
+00:17:59,280 --> 00:18:03,160
+In potem tukaj pa recimo smo zintegrirali spet z agenti,
+
+195
+00:18:03,359 --> 00:18:08,239
+smo jim nekako prikazali, naredili neki interfejs s temi našimi vizualizacijami
+
+196
+00:18:08,439 --> 00:18:12,719
+za to, da lahko potem te podatke, te rezultate pravilno prikažejo
+
+197
+00:18:12,920 --> 00:18:15,520
+in zbildajo nek dejansko dashboard.
+
+198
+00:18:15,680 --> 00:18:22,079
+Torej, spet se tukaj agent odloča, katere dimenzije bo prikazal, katere filtre bo recimo
+
+199
+00:18:22,280 --> 00:18:25,479
+apliciral, za to, da se bo zbiljno dejansko…
+
+200
+00:18:25,680 --> 00:18:30,959
+No, pa moraš nekako tudi omejiti potem, da nima nevojeno kreativnosti.
+
+201
+00:18:31,160 --> 00:18:38,640
+Definitivno omejiš ga s temi tool-i in omejiš ga z preverjanjem njegovega outputa.
+
+202
+00:18:38,839 --> 00:18:44,079
+Zahtevaš, da je output v točno ločni strukturirani obliki, recimo JSON in potem
+
+203
+00:18:44,079 --> 00:18:50,400
+preverjaš tudi to vsebino, če je skladna z tem, kaj je na voljo v samih podatkih.
+
+204
+00:18:50,599 --> 00:18:53,680
+Potem lahko dosežeš to, da
+
+205
+00:18:53,880 --> 00:18:57,839
+nekako to sparsiš in zgradeš dashboard.
+
+206
+00:18:58,040 --> 00:19:04,800
+In potem tudi zadnji korak je pa še nek summarizacij, tako tako klasičen use case LLM je,
+
+207
+00:19:05,000 --> 00:19:06,880
+kjer potem… Naredi povzetek.
+
+208
+00:19:07,079 --> 00:19:11,520
+Naredi povzetek in tudi ti lahko proba v kakšnih primerjih, kaj tudi priporočati,
+
+209
+00:19:11,520 --> 00:19:18,079
+kaj je zanimiv za pogled za naprej, ti pač da pozornosti, osredotoč na neke insajte.
+
+210
+00:19:18,280 --> 00:19:20,199
+Moj…
+
+211
+00:19:20,400 --> 00:19:21,920
+Odlično.
+
+212
+00:19:23,199 --> 00:19:27,079
+Moj experience mali je bil tam,
+
+213
+00:19:27,280 --> 00:19:33,520
+zdaj ogrod je ni ravno enterprise firma Fortune 100, ampak
+
+214
+00:19:33,719 --> 00:19:37,119
+imamo pa en Excel tabelo s temi financami in
+
+215
+00:19:37,319 --> 00:19:42,079
+jaz sem to drag in drop, jaz sem vrgel svoje Excel tabelo vnotri.
+
+216
+00:19:42,280 --> 00:19:45,680
+In prvi korak je bil ravno to, ko si rekel, da je…
+
+217
+00:19:45,880 --> 00:19:51,680
+In me je ful impresioniral, je rekel, zaznav sem, da so taki pa taki podatki
+
+218
+00:19:51,880 --> 00:19:58,680
+in jim je napisano en 3-4 warninge, da podatki niso vredo in da sicer lahko nadaljuje,
+
+219
+00:19:58,880 --> 00:20:04,359
+lahko nadaljujemo z analizo, lahko nadaljujemo z importom, ampak me že zdaj upozarja, da ne bomo mogli biti
+
+220
+00:20:04,359 --> 00:20:07,560
+tako končinkoviti in da predlaga, da la, la, la, la,
+
+221
+00:20:07,760 --> 00:20:11,760
+valjda sem kliknul next, ampak
+
+222
+00:20:11,959 --> 00:20:14,319
+se je dejansko
+
+223
+00:20:14,520 --> 00:20:20,760
+pač ta korak, ko si prej rekel, da ste pomagali oblikovati obliko podatkov, da so lahko boljše analizane,
+
+224
+00:20:20,959 --> 00:20:26,119
+dejansko se je zdaj že začenja zelo konkretno reševati ta problema.
+
+225
+00:20:26,319 --> 00:20:32,680
+In bil sem presenečen, da kljub temu, da pač niso bili podatki v strezni obliki, da so bili v resnici
+
+226
+00:20:32,680 --> 00:20:39,640
+zelo trivialni neki exeli, in vseeno je uspel narediti par čartov, je uspel ugotoviti, da smo
+
+227
+00:20:39,839 --> 00:20:48,079
+ampak, tako da moram reči, da to, kar govoriš, legit deluje in upam, da boste še to izboljšali.
+
+228
+00:20:48,280 --> 00:20:55,400
+Zelo me je bilo fascinantno, ko sem videl tudi v bistvu te widgete, so bili pač dovesedno isti kot v Power BI-o, kaj to reuzete,
+
+229
+00:20:55,599 --> 00:20:58,439
+tako da zgleda zelo napredno.
+
+230
+00:20:58,599 --> 00:21:02,079
+Šeč me je bilo tudi potem na koncu, da je pod temi čarti,
+
+231
+00:21:02,280 --> 00:21:10,280
+dejansko pač chat input, in sem ga potem lahko vprašal neki stvari in jim je dejansko rekel, pač lej, zalansko leto, lalala, tako da
+
+232
+00:21:10,479 --> 00:21:24,880
+šeč mi je, da dejansko razume podatke, vse tako občutek dobiš, ne vem, boš me popravil, ampak imel sem občutek, da ve, kake podatke ima, ve, kaj lahko pove, ve, kaj ne more povedati, ne vem.
+
+233
+00:21:25,040 --> 00:21:27,359
+A to se tudi s tem ukvarjate?
+
+234
+00:21:27,560 --> 00:21:28,920
+Ja.
+
+235
+00:21:29,119 --> 00:21:32,000
+To je zdaj postalo naslednji veliki cilj, ali kaj?
+
+236
+00:21:32,199 --> 00:21:35,920
+Ja, mislim, to je vse nekak posledica
+
+237
+00:21:36,119 --> 00:21:46,439
+tega, da celo čas iteriramo na teh promptih, agentih, probamo jih izboljšati in celega tega workflowa, ki sem ga opisal malo prej,
+
+238
+00:21:46,640 --> 00:21:51,719
+tako da ja, probamo, potrudimo se v bistvu nekak dati tako,
+
+239
+00:21:51,920 --> 00:21:58,959
+dosež tako učinek, da v bistvu sistem res razume, kaj dela
+
+240
+00:21:59,160 --> 00:22:00,239
+in ja, in
+
+241
+00:22:00,439 --> 00:22:06,280
+zahvala agentov, nam to nekak ratuje in upamo, da se bo sam še izboljšvalno.
+
+242
+00:22:06,479 --> 00:22:13,239
+Zdaj, zdaj, izrečeno, že to vprašanje sem že tudi prej postavljal, ampak
+
+243
+00:22:13,439 --> 00:22:17,199
+pa ne vem, ali se mi lahko popraviš. Eto, sploh dobro vprašanje,
+
+244
+00:22:17,439 --> 00:22:21,119
+ali uporabljate tukaj potem, ne vem, chat GPT,
+
+245
+00:22:21,319 --> 00:22:28,319
+ali uporabljate te open source modele, ali uporabljate kombinacijo modelov, ali uporabljate Gemini, a je to sploh
+
+246
+00:22:28,520 --> 00:22:34,719
+relevantno vprašanje, ali so ti modeli zdaj že toliko, da so vsi približno isto dobri, ali
+
+247
+00:22:34,920 --> 00:22:39,439
+ne vem, a je to sploh smiselno vprašanje na te točki?
+
+248
+00:22:39,640 --> 00:22:44,040
+V določeni meri je, definitivno za določene agente
+
+249
+00:22:44,239 --> 00:22:47,079
+moraš imeti bolj sposobne
+
+250
+00:22:47,280 --> 00:22:54,839
+pač te modele, zato da ti nekako bolj natančno odgovorijo ali pa dajo neke rezultate,
+
+251
+00:22:55,040 --> 00:23:01,400
+zato ker je potem preostanek pipeline-a tudi odvisen od teh prejšnjih rezultatov.
+
+252
+00:23:01,599 --> 00:23:05,800
+Tukaj imamo neko kombinacijo raznih teh enclosed source.
+
+253
+00:23:06,000 --> 00:23:08,640
+Zdaj, iz open source smo tudi že nekaj eksperimentiral.
+
+254
+00:23:08,839 --> 00:23:14,800
+Na zadnje, ko smo, je bilo to nekaj mestov nazaj in takrat še niso bili, takrat še ni bilo recimo
+
+255
+00:23:15,000 --> 00:23:23,359
+DeepSeek R1 in niso bili rezultati on par s temi enclosed source modeli, tako da
+
+256
+00:23:23,560 --> 00:23:29,920
+definitivno je to nekaj, kar naprej celo čas spremljamo, raziskujemo in
+
+257
+00:23:30,119 --> 00:23:34,239
+pač ko bojo tudi te open source modeli on par,
+
+258
+00:23:34,439 --> 00:23:40,839
+nam to odklene tudi neke dodatne stvari, tudi iz stališča security recimo.
+
+259
+00:23:41,040 --> 00:23:43,839
+Obstajajo neki modeli, ki so
+
+260
+00:23:44,520 --> 00:23:49,560
+zpraj, large language modeli, ki so specializirani za, imam rekel temu, finance,
+
+261
+00:23:49,760 --> 00:23:55,040
+da bi znali boljše delati s finančnimi podatki, a je to nekaj niša?
+
+262
+00:23:55,239 --> 00:23:59,520
+A smo že tam, da se splače nekomu to delati ali pa, ne vem, ga destilirati samo za
+
+263
+00:23:59,719 --> 00:24:03,640
+finančno industrijo, finančne podatke ali pa neko vizualizacijo?
+
+264
+00:24:03,839 --> 00:24:12,199
+Mogoče se splača destilirati, ampak v osnovi se ne splača vzeti nekih manjših
+
+265
+00:24:12,400 --> 00:24:16,839
+pa res specializiranih modelov, tudi če bi obstajali recimo za financ, nek
+
+266
+00:24:17,040 --> 00:24:21,880
+70 biljonov velik LLM, napram nekemu
+
+267
+00:24:22,079 --> 00:24:29,079
+CGPT v O3 z reasoningom pa ne vem kolik milijard parametrov več,
+
+268
+00:24:29,319 --> 00:24:35,000
+zato ker je v bistvu te taske, ki jih rešujo te agenti,
+
+269
+00:24:35,199 --> 00:24:42,599
+so zelo, v bistvu zahtevajo velik nekega reasoninga in ta splošen reasoning je tisto,
+
+270
+00:24:42,800 --> 00:24:48,119
+kar nam daje dobre rezultate in je boljši pr teh recimo večjih modelih vsaj zaenkratno.
+
+271
+00:24:48,319 --> 00:24:55,599
+Se pravi proces reasoninga je v bistvu izboljša njegov ta one shot pristopa ali kaj.
+
+272
+00:24:55,599 --> 00:25:00,040
+Da si samo pogovarji doker ne boš confident, da je to boljše odgovor.
+
+273
+00:25:00,000 --> 00:25:02,000
+Kaj, to je nek mantra?
+
+274
+00:25:02,000 --> 00:25:07,000
+Ja, nekako premisli zadevo, da si nek čas, da razmisel cel task.
+
+275
+00:25:07,000 --> 00:25:13,000
+Tudi neki taski niso recimo specifično coding taski,
+
+276
+00:25:13,000 --> 00:25:19,000
+ampak so taki, dej pogled to strukturo, dej ta seta in mi označ,
+
+277
+00:25:19,000 --> 00:25:23,000
+kateri stopci so taki, kjeri so taki, kaj misliš ti,
+
+278
+00:25:23,000 --> 00:25:29,000
+kako boš modeliral te stopce naprej, označ neke lasnosti teh stopcev.
+
+279
+00:25:29,000 --> 00:25:35,000
+Tako da, v bistvu, za take namene so dost boljši v naših skušnjah,
+
+280
+00:25:35,000 --> 00:25:37,000
+pa če ste ta večji model.
+
+281
+00:25:37,000 --> 00:25:40,000
+Naredi požirek vode, zelo pa naredil malo reklame.
+
+282
+00:25:40,000 --> 00:25:45,000
+Spravi, v Grodi je mogoče zaradi zelo zvestih Patreonov,
+
+283
+00:25:45,000 --> 00:25:49,000
+hvala vam, in možno je tudi zaradi podjetij VisionEch, Caldi,
+
+284
+00:25:49,000 --> 00:25:54,000
+HumanFrog in Koforki nam daje storage. Hvala, ker ste z nami.
+
+285
+00:25:54,000 --> 00:25:57,000
+Zdaj imamo še zadnjih pet minut.
+
+286
+00:25:58,000 --> 00:26:02,000
+Bolj me zanima to, obstaja zdaj,
+
+287
+00:26:03,000 --> 00:26:09,000
+recimo, da je bil par let nazaj ful boom z različnimi tem,
+
+288
+00:26:09,000 --> 00:26:13,000
+z OpenAI-o in pa 4GPT, in da sta pač ta ful naredila,
+
+289
+00:26:13,000 --> 00:26:16,000
+Preskok, potem Lama, pa to.
+
+290
+00:26:16,000 --> 00:26:22,000
+A prihajamo zdaj v obdobje, ko se ta ekosistem,
+
+291
+00:26:22,000 --> 00:26:25,000
+ne bom reči standardizira, ampak,
+
+292
+00:26:25,000 --> 00:26:28,000
+a smo na točki, ko so te zadeve interchangeable,
+
+293
+00:26:28,000 --> 00:26:31,000
+pa se že oblikujejo neki standardi.
+
+294
+00:26:31,000 --> 00:26:36,000
+Zdaj konkretno, zadnjem par tedno upažam,
+
+295
+00:26:36,000 --> 00:26:41,000
+da je ta MCP postal ful, nek tak de facto standard
+
+296
+00:26:41,000 --> 00:26:44,000
+za neke razširitve delati.
+
+297
+00:26:45,000 --> 00:26:48,000
+Pa on sam, na končal misl, pa pa ti mu da.
+
+298
+00:26:48,000 --> 00:26:51,000
+Spravi, MCP je ta Model Context Protocol,
+
+299
+00:26:51,000 --> 00:26:58,000
+in ideja je, da lahko preko klajenta, ki ganja tvoj LLM model,
+
+300
+00:26:58,000 --> 00:27:02,000
+ali pa agenta, recimo, po nekem standardnem protokolo
+
+301
+00:27:02,000 --> 00:27:07,000
+kličeš tule, oziroma capability-e, ki so lahko na nekem serverju,
+
+302
+00:27:07,000 --> 00:27:10,000
+kar pomeni, da lahko imaš, ne vem, weather tool,
+
+303
+00:27:10,000 --> 00:27:13,000
+pa bo rekel, zanima me, kakšno je vremenj,
+
+304
+00:27:13,000 --> 00:27:16,000
+bo znal model, poklicat ta tool in ti povedat vremenje.
+
+305
+00:27:16,000 --> 00:27:18,000
+To je tak plastičen primer.
+
+306
+00:27:18,000 --> 00:27:20,000
+Lahko mu bo rečeš, ne vem, pošlim email,
+
+307
+00:27:20,000 --> 00:27:22,000
+pa bo znal s toolom poslati mail.
+
+308
+00:27:22,000 --> 00:27:24,000
+A si tudi že kaj s tem igral,
+
+309
+00:27:24,000 --> 00:27:26,000
+ali mogoče lahko tudi kaj o tem povedaš?
+
+310
+00:27:26,000 --> 00:27:29,000
+Ker vidim, da postaja tako zelo hot tema
+
+311
+00:27:29,000 --> 00:27:32,000
+in neka naslednja faza integracije modelov.
+
+312
+00:27:32,000 --> 00:27:34,000
+Ja, ja.
+
+313
+00:27:34,000 --> 00:27:36,000
+Se strinjam, je tudi meni priletel
+
+314
+00:27:36,000 --> 00:27:39,000
+vsak dan nekaj preveram.
+
+315
+00:27:39,000 --> 00:27:42,000
+Vsaj v prejšnjem temu sem, recimo.
+
+316
+00:27:42,000 --> 00:27:45,000
+Ja, mislim, definitivno je to super,
+
+317
+00:27:46,000 --> 00:27:49,000
+da se nekak standardizira to dostopanje
+
+318
+00:27:49,000 --> 00:27:52,000
+do raznih toolov itd.
+
+319
+00:27:52,000 --> 00:27:55,000
+Trenutno se mi zdi, da vsaj,
+
+320
+00:27:55,000 --> 00:27:58,000
+mislim, to je introduce on Tropica, ne?
+
+321
+00:27:58,000 --> 00:28:02,000
+OpenAI ima še vedno svoj način uporabe,
+
+322
+00:28:02,000 --> 00:28:06,000
+recimo teh toolov, če uporabljaš njihove lmje,
+
+323
+00:28:06,000 --> 00:28:10,000
+ti nekak ekspozajo svoj najboljši način,
+
+324
+00:28:10,000 --> 00:28:12,000
+kako ekspozati te toole.
+
+325
+00:28:12,000 --> 00:28:15,000
+To pa izhaja po moje tudi zaradi tega,
+
+326
+00:28:15,000 --> 00:28:18,000
+iz tega, kako so navčeni te lmje,
+
+327
+00:28:18,000 --> 00:28:21,000
+v kakšnem formatu najboljši ekspozati tole.
+
+328
+00:28:21,000 --> 00:28:23,000
+Tako da jaz, meni je bilo super,
+
+329
+00:28:23,000 --> 00:28:25,000
+če bi se ta standard nekaj,
+
+330
+00:28:25,000 --> 00:28:28,000
+kar se bo v prihodnosti za neke nove modele,
+
+331
+00:28:28,000 --> 00:28:31,000
+začel uporabljati in bo tako učinkovit,
+
+332
+00:28:31,000 --> 00:28:36,000
+in ga bojo vsi nekak modeli znali dobro uporabljati.
+
+333
+00:28:36,000 --> 00:28:41,000
+Ampak trenutno, ja, nismo še čisto tam.
+
+334
+00:28:42,000 --> 00:28:46,000
+Brav sem ta bolj spek tega MCPA, pa to.
+
+335
+00:28:46,000 --> 00:28:50,000
+Zdaj, osnovi gre za JSON RPC,
+
+336
+00:28:50,000 --> 00:28:53,000
+zapravi, moraš ti ekspozati,
+
+337
+00:28:53,000 --> 00:28:56,000
+ne tem račejo capability ali pa toole,
+
+338
+00:28:56,000 --> 00:28:59,000
+se pravi, naredi request, pa rače, kjer je toole imaš,
+
+339
+00:28:59,000 --> 00:29:02,000
+in potem tudi metode, znak lica, se pravi,
+
+340
+00:29:02,000 --> 00:29:04,000
+argumente in to on zna.
+
+341
+00:29:04,000 --> 00:29:08,000
+Kar je zelo zanimivo je, recimo, mogoče nekaj ta streaming,
+
+342
+00:29:08,000 --> 00:29:10,000
+se pravi, njenujeno, da, ko on dobi request,
+
+343
+00:29:10,000 --> 00:29:13,000
+da bo zdaj takoj odgovoril, lahko ti kasneje odgovarja
+
+344
+00:29:13,000 --> 00:29:16,000
+na zajmu delu, kar so čisto neke nove capability,
+
+345
+00:29:16,000 --> 00:29:19,000
+pa tudi malo, recimo, na nek način, da, v bistvu,
+
+346
+00:29:19,000 --> 00:29:22,000
+ko nekje notification je pošiljao nazaj, ne.
+
+347
+00:29:22,000 --> 00:29:28,000
+Se pravi, je zelo tako, zelo zanimive načine integracije
+
+348
+00:29:28,000 --> 00:29:31,000
+bo očitno možno s temi zadevami narediti,
+
+349
+00:29:31,000 --> 00:29:34,000
+tako da vidim, da je zelo tako, vidim sicer,
+
+350
+00:29:34,000 --> 00:29:36,000
+da je še vse skupaj še vedno malo v poboju,
+
+351
+00:29:36,000 --> 00:29:39,000
+ampak je zelo očitno neka smera, v kateri vidim,
+
+352
+00:29:39,000 --> 00:29:42,000
+da bo zanimivo razmišljati.
+
+353
+00:29:42,000 --> 00:29:45,000
+In nič, mogoče zadnje, zadnje vprašanje,
+
+354
+00:29:45,000 --> 00:29:48,000
+pa pa ti res spustim.
+
+355
+00:29:49,000 --> 00:29:51,000
+Kaj misliš,
+
+356
+00:29:51,000 --> 00:29:53,000
+kaj misliš,
+
+357
+00:29:56,000 --> 00:29:58,000
+a bomo,
+
+358
+00:29:58,000 --> 00:30:01,000
+a bomo rabili še več teh analistov v prihodnosti,
+
+359
+00:30:01,000 --> 00:30:04,000
+a bomo samo rabili več
+
+360
+00:30:04,000 --> 00:30:07,000
+boljše large language modele,
+
+361
+00:30:07,000 --> 00:30:11,000
+boljši proces, ali kaj misliš.
+
+362
+00:30:11,000 --> 00:30:13,000
+A misliš, da,
+
+363
+00:30:13,000 --> 00:30:17,000
+ker isto vprašanje tudi imamo zdaj tudi z programerjem,
+
+364
+00:30:17,000 --> 00:30:20,000
+zdaj, ko so ti siti,
+
+365
+00:30:20,000 --> 00:30:24,000
+wipe coding in ta tooling,
+
+366
+00:30:24,000 --> 00:30:27,000
+ljudje mislijo, a, zdaj pa ne bomo več rabili programerja.
+
+367
+00:30:27,000 --> 00:30:30,000
+A misliš, da se bodo podobno tudi začeli vprašati ljudi,
+
+368
+00:30:30,000 --> 00:30:32,000
+no ter vbijajo.
+
+369
+00:30:32,000 --> 00:30:35,000
+Ne vem, a upaš, kaj bo tega več.
+
+370
+00:30:35,000 --> 00:30:36,000
+Nehva ležno so.
+
+371
+00:30:36,000 --> 00:30:39,000
+Definitivno se mi zdi zelo sorodno, recimo,
+
+372
+00:30:39,000 --> 00:30:42,000
+tega, kar v programerji nekako doživljamo,
+
+373
+00:30:42,000 --> 00:30:45,000
+in po moje je tudi odgovor nekako zelo sorodno,
+
+374
+00:30:45,000 --> 00:30:48,000
+ker tudi, mislim, vbijajo se tudi,
+
+375
+00:30:48,000 --> 00:30:51,000
+kdaj poslužujejo recimo pisanje kašne kode, ne,
+
+376
+00:30:51,000 --> 00:30:54,000
+kašnih teh querijov, za to, da pač pridobijo, ne.
+
+377
+00:30:56,000 --> 00:30:59,000
+Težko reči, mislim, vsaj,
+
+378
+00:30:59,000 --> 00:31:02,000
+zdaj se mi zdi, da za neke take lažje teske,
+
+379
+00:31:02,000 --> 00:31:07,000
+pač so agenti že sposobni veliko narediti,
+
+380
+00:31:07,000 --> 00:31:10,000
+in že skor nekako, tudi ne vem,
+
+381
+00:31:10,000 --> 00:31:13,000
+te neki rešitve, kot so Devin ali pa te
+
+382
+00:31:13,000 --> 00:31:16,000
+avtomatski programerji, ki bi ti kar vse naredili,
+
+383
+00:31:16,000 --> 00:31:19,000
+so kar že impresivni, lahko naredijo dost enih zadev,
+
+384
+00:31:19,000 --> 00:31:23,000
+ampak se pa tudi zatikajo, in vedno več,
+
+385
+00:31:23,000 --> 00:31:26,000
+vedno odlega, ko so prepuščeni sami sebi,
+
+386
+00:31:27,000 --> 00:31:32,000
+vedno več napakal, pa pač nekih neoptimalnosti naredijo,
+
+387
+00:31:32,000 --> 00:31:35,000
+in jih je treba cel čas usmerjati,
+
+388
+00:31:35,000 --> 00:31:38,000
+tako da jaz mislim, da prv kot prv bo to še
+
+389
+00:31:38,000 --> 00:31:41,000
+zelo dolgo časa trajalo, da bomo tudi
+
+390
+00:31:41,000 --> 00:31:45,000
+za neke take, ne toliko senior ljudi,
+
+391
+00:31:45,000 --> 00:31:48,000
+da jih ne bomo več rabili, ampak pa pa še posebej
+
+392
+00:31:48,000 --> 00:31:51,000
+za te seniori, nekako, ki bojo nadziral AI,
+
+393
+00:31:51,000 --> 00:31:54,000
+po moje, bo še nekaj časa trajalo,
+
+394
+00:31:54,000 --> 00:31:57,000
+da se jih bomo čisto ne bili, in zato tudi po tem
+
+395
+00:31:57,000 --> 00:32:00,000
+v BI-ju se mi zdi, da bomo analiste še
+
+396
+00:32:00,000 --> 00:32:03,000
+tako dlje časa rabili, zato ker recimo v BI-ju
+
+397
+00:32:03,000 --> 00:32:06,000
+se mi zdi pa, da je ta adoption AI-ja
+
+398
+00:32:06,000 --> 00:32:09,000
+še malo bolj umirjen, počasen,
+
+399
+00:32:09,000 --> 00:32:12,000
+lahko zato, ker je to področje, ki se ukvarja
+
+400
+00:32:12,000 --> 00:32:15,000
+z občutljivimi podatki, in se ljudje pač bojijo,
+
+401
+00:32:15,000 --> 00:32:18,000
+še AI-ja ga ne razumejo toliko, kot pa mogoče
+
+402
+00:32:18,000 --> 00:32:20,000
+že programeri bolj.
+
+403
+00:32:20,000 --> 00:32:23,000
+Dobro, odlično. Benjamin, hvala za tvoj čas,
+
+404
+00:32:23,000 --> 00:32:26,000
+in veliko sreče danes pri predavanju.
+
+405
+00:32:26,000 --> 00:32:27,000
+Hvala.

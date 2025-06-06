@@ -1,0 +1,11523 @@
+1
+00:00:00,000 --> 00:00:23,000
+Welcome to the third season, the third episode in Grodje, it's a little different, I kept it a little longer, it's still in Grodje,
+
+2
+00:00:23,000 --> 00:00:30,000
+but today there's no car here, today there's a car in the back, where are you car? We can't see you.
+
+3
+00:00:31,000 --> 00:00:33,000
+He's drinking beer.
+
+4
+00:00:34,000 --> 00:00:44,000
+That's why we have such an interesting guest with me today in this conversation, I hope we'll have a lot of conversations,
+
+5
+00:00:45,000 --> 00:00:48,000
+with me Ivan Popelnjak, Jan Žorš.
+
+6
+00:00:49,000 --> 00:00:55,000
+I've had a lot of trouble with how to introduce myself here, but if I say so, Siva Eminence.
+
+7
+00:00:56,000 --> 00:00:57,000
+Old fart.
+
+8
+00:00:58,000 --> 00:01:02,000
+Yes, here I think sometimes old, but overcast, experienced.
+
+9
+00:01:03,000 --> 00:01:04,000
+I'm old.
+
+10
+00:01:05,000 --> 00:01:06,000
+Poisoned.
+
+11
+00:01:07,000 --> 00:01:08,000
+Before retirement.
+
+12
+00:01:09,000 --> 00:01:10,000
+I wouldn't say that.
+
+13
+00:01:11,000 --> 00:01:13,000
+Poisoned producers.
+
+14
+00:01:14,000 --> 00:01:20,000
+Let's put it another way, Poisoned from Čes, and then we'll talk about what you're most poisoned with.
+
+15
+00:01:21,000 --> 00:01:24,000
+I'll try to introduce you quickly, and then you can add something.
+
+16
+00:01:25,000 --> 00:01:32,000
+Ivan, as a blogger, podcaster, creator, architect, what else did I forget?
+
+17
+00:01:33,000 --> 00:01:34,000
+Alright.
+
+18
+00:01:35,000 --> 00:01:37,000
+That's what you've been talking about lately.
+
+19
+00:01:38,000 --> 00:01:39,000
+Lately I've been a programmer.
+
+20
+00:01:39,000 --> 00:01:41,000
+That's right, we'll get to that.
+
+21
+00:01:42,000 --> 00:01:44,000
+Jan, as a...
+
+22
+00:01:45,000 --> 00:01:46,000
+Jan, yes.
+
+23
+00:01:47,000 --> 00:01:48,000
+Almost an evangelist.
+
+24
+00:01:49,000 --> 00:01:50,000
+A speaker.
+
+25
+00:01:51,000 --> 00:01:58,000
+I don't know, in Slovenia, the ones that know you the most are the ones that push IPv6.
+
+26
+00:01:58,000 --> 00:02:01,000
+I'd like to add a personal note here.
+
+27
+00:02:02,000 --> 00:02:08,000
+I can say that I deserve that all operators get together and talk.
+
+28
+00:02:09,000 --> 00:02:17,000
+Because I think that 15 or 20 years ago, there was no synergy between operators.
+
+29
+00:02:18,000 --> 00:02:20,000
+This culture has changed a lot.
+
+30
+00:02:21,000 --> 00:02:22,000
+Back then we did...
+
+31
+00:02:23,000 --> 00:02:24,000
+When was that?
+
+32
+00:02:25,000 --> 00:02:26,000
+We did it in 2006.
+
+33
+00:02:26,000 --> 00:02:32,000
+We did an IPv6 community, where operators came from all over the world.
+
+34
+00:02:33,000 --> 00:02:37,000
+I remember the first meetings we had.
+
+35
+00:02:38,000 --> 00:02:41,000
+They looked at each other, everyone was in their own corner.
+
+36
+00:02:42,000 --> 00:02:44,000
+Usually they talked to each other as guests.
+
+37
+00:02:45,000 --> 00:02:50,000
+Then it became a community, an internet community,
+
+38
+00:02:50,000 --> 00:02:57,000
+which later transformed into SINOK, the Slovenian Network Operators Group.
+
+39
+00:02:58,000 --> 00:03:03,000
+I think that now operators communicate with each other.
+
+40
+00:03:04,000 --> 00:03:05,000
+They've become friends.
+
+41
+00:03:06,000 --> 00:03:07,000
+I like it the most at meetings.
+
+42
+00:03:08,000 --> 00:03:10,000
+When I listen to that, I feel relaxed.
+
+43
+00:03:11,000 --> 00:03:14,000
+There were no rushes at the beginning.
+
+44
+00:03:15,000 --> 00:03:18,000
+I think the culture has changed a lot.
+
+45
+00:03:18,000 --> 00:03:21,000
+At the beginning, every country has its own knowledge,
+
+46
+00:03:22,000 --> 00:03:23,000
+but now they share it.
+
+47
+00:03:24,000 --> 00:03:26,000
+I'm glad that I can help here.
+
+48
+00:03:27,000 --> 00:03:28,000
+Cool.
+
+49
+00:03:29,000 --> 00:03:30,000
+Let's move on.
+
+50
+00:03:31,000 --> 00:03:39,000
+Today, I thought we would talk more about the depths of network engineering.
+
+51
+00:03:40,000 --> 00:03:43,000
+Is that the right term for this?
+
+52
+00:03:43,000 --> 00:03:48,000
+Everything that is connected to the internet,
+
+53
+00:03:49,000 --> 00:03:51,000
+and I don't mean the human network,
+
+54
+00:03:52,000 --> 00:03:54,000
+but the connection between devices,
+
+55
+00:03:55,000 --> 00:03:59,000
+can be seen as someone who created it all,
+
+56
+00:04:00,000 --> 00:04:01,000
+if I can call it that.
+
+57
+00:04:02,000 --> 00:04:03,000
+The internet is what it is today.
+
+58
+00:04:04,000 --> 00:04:06,000
+If you don't listen to it, express it,
+
+59
+00:04:07,000 --> 00:04:09,000
+talk to vendors...
+
+60
+00:04:10,000 --> 00:04:13,000
+It's something like that.
+
+61
+00:04:14,000 --> 00:04:16,000
+How do you call it? Internet guides?
+
+62
+00:04:17,000 --> 00:04:19,000
+Ideally, we are that.
+
+63
+00:04:20,000 --> 00:04:23,000
+I mean, complete networking, not just the internet.
+
+64
+00:04:24,000 --> 00:04:27,000
+It's an infrastructure that is like a guide and an electrician.
+
+65
+00:04:28,000 --> 00:04:30,000
+If you know that there is some kind of food.
+
+66
+00:04:31,000 --> 00:04:32,000
+Yes, exactly.
+
+67
+00:04:33,000 --> 00:04:36,000
+The other problem is that no one knows about it yet.
+
+68
+00:04:36,000 --> 00:04:42,000
+First of all, they thought that the laws of physics don't apply to them.
+
+69
+00:04:43,000 --> 00:04:45,000
+They live in a matrix and so on.
+
+70
+00:04:46,000 --> 00:04:53,000
+The second thing is that you have an electrical faculty.
+
+71
+00:04:54,000 --> 00:04:55,000
+We are talking about an electrical faculty.
+
+72
+00:04:56,000 --> 00:04:57,000
+Five years.
+
+73
+00:04:58,000 --> 00:05:01,000
+You have a fast current and a strong current.
+
+74
+00:05:02,000 --> 00:05:04,000
+In the past, you had both automatic and all the rest.
+
+75
+00:05:04,000 --> 00:05:07,000
+And there is a person who has been studying for five years
+
+76
+00:05:08,000 --> 00:05:12,000
+how to drive a huge amount of electricity.
+
+77
+00:05:13,000 --> 00:05:17,000
+At the Faculty of Computer Science, you have one year of networking.
+
+78
+00:05:18,000 --> 00:05:19,000
+Yes.
+
+79
+00:05:20,000 --> 00:05:23,000
+And people who go to the station to buy a fan
+
+80
+00:05:24,000 --> 00:05:25,000
+and plug it in at home,
+
+81
+00:05:26,000 --> 00:05:28,000
+they don't ask how the electricity came to them, right?
+
+82
+00:05:29,000 --> 00:05:30,000
+Of course not.
+
+83
+00:05:30,000 --> 00:05:32,000
+Even a person who goes to the station to buy a fan
+
+84
+00:05:33,000 --> 00:05:35,000
+doesn't have to ask how the electricity came to him.
+
+85
+00:05:36,000 --> 00:05:37,000
+But I want to say something.
+
+86
+00:05:38,000 --> 00:05:40,000
+For a technology that is 200 years old,
+
+87
+00:05:41,000 --> 00:05:44,000
+graduates are represented in a special way
+
+88
+00:05:45,000 --> 00:05:48,000
+at the Faculty of Electrical Engineering.
+
+89
+00:05:49,000 --> 00:05:52,000
+But for a technology that is really only 40 or 50 years old,
+
+90
+00:05:53,000 --> 00:05:58,000
+we have one year of one subject at the Faculty of Computer Science.
+
+91
+00:05:59,000 --> 00:06:03,000
+Both technologies are equally important for today's life.
+
+92
+00:06:04,000 --> 00:06:06,000
+Because if it's not for electricity, networking won't work.
+
+93
+00:06:07,000 --> 00:06:09,000
+If it's not for networking, then you know what will work.
+
+94
+00:06:10,000 --> 00:06:11,000
+Yes, little or nothing.
+
+95
+00:06:12,000 --> 00:06:13,000
+Nothing.
+
+96
+00:06:14,000 --> 00:06:16,000
+Games don't exist because you have to connect to a server
+
+97
+00:06:17,000 --> 00:06:18,000
+so that you can start playing straight away.
+
+98
+00:06:19,000 --> 00:06:20,000
+Something like that.
+
+99
+00:06:21,000 --> 00:06:23,000
+Well, that's a good conclusion.
+
+100
+00:06:23,000 --> 00:06:24,000
+Well, that's a good conclusion.
+
+101
+00:06:25,000 --> 00:06:27,000
+But how did the two of you get in here?
+
+102
+00:06:28,000 --> 00:06:34,000
+What would you say is the most interesting thing in your career
+
+103
+00:06:35,000 --> 00:06:37,000
+and how did you start working with it?
+
+104
+00:06:38,000 --> 00:06:39,000
+You started it.
+
+105
+00:06:40,000 --> 00:06:42,000
+I've been in front of you for 10 years now.
+
+106
+00:06:44,000 --> 00:06:46,000
+Not 10, not 8 for sure.
+
+107
+00:06:47,000 --> 00:06:49,000
+You know what's crazy and interesting?
+
+108
+00:06:49,000 --> 00:06:51,000
+It was around the time of 8-bit processors.
+
+109
+00:06:52,000 --> 00:06:54,000
+Delta Partners, if anyone remembers.
+
+110
+00:06:55,000 --> 00:06:58,000
+And they had serial ports in the back.
+
+111
+00:06:59,000 --> 00:07:02,000
+It's like USB-C mobile for those who are a bit younger.
+
+112
+00:07:03,000 --> 00:07:04,000
+What's USB-C got today?
+
+113
+00:07:05,000 --> 00:07:06,000
+A lot.
+
+114
+00:07:07,000 --> 00:07:08,000
+We don't know.
+
+115
+00:07:09,000 --> 00:07:12,000
+Well, that's how we managed through our 30,000 bits per second.
+
+116
+00:07:14,000 --> 00:07:16,000
+And then someone came up with a brilliant idea.
+
+117
+00:07:16,000 --> 00:07:23,000
+If we now fake a standard, which always happens in networking,
+
+118
+00:07:24,000 --> 00:07:27,000
+and we connect a receiver and a transmitter to a diode,
+
+119
+00:07:28,000 --> 00:07:30,000
+we actually have a part of the base on which we can have more computers.
+
+120
+00:07:31,000 --> 00:07:33,000
+And then he had this brilliant idea.
+
+121
+00:07:34,000 --> 00:07:36,000
+Once he tried it, he found me and said,
+
+122
+00:07:37,000 --> 00:07:38,000
+now we need to do something.
+
+123
+00:07:39,000 --> 00:07:42,000
+And that's how the network between partners was created.
+
+124
+00:07:42,000 --> 00:07:44,000
+They made it into a nice product,
+
+125
+00:07:45,000 --> 00:07:47,000
+with higher speed and a better interface.
+
+126
+00:07:48,000 --> 00:07:51,000
+So in the end it worked like a dream come true.
+
+127
+00:07:53,000 --> 00:07:55,000
+But what is it that drives you?
+
+128
+00:07:56,000 --> 00:07:59,000
+The technology is what drives you, but still...
+
+129
+00:08:01,000 --> 00:08:02,000
+You know what's interesting?
+
+130
+00:08:03,000 --> 00:08:08,000
+That you manage to communicate with each other through different physical means.
+
+131
+00:08:09,000 --> 00:08:11,000
+You know, the main book is the main book.
+
+132
+00:08:12,000 --> 00:08:14,000
+It doesn't run on a computer for a long time.
+
+133
+00:08:16,000 --> 00:08:18,000
+How do machines communicate with each other?
+
+134
+00:08:19,000 --> 00:08:22,000
+For example, I remember back in the days of VAX,
+
+135
+00:08:23,000 --> 00:08:25,000
+maybe it was in 2002-2003,
+
+136
+00:08:26,000 --> 00:08:28,000
+when TCP stack was implemented.
+
+137
+00:08:29,000 --> 00:08:30,000
+1992-1993.
+
+138
+00:08:31,000 --> 00:08:33,000
+You had Multinet and Deco stack.
+
+139
+00:08:34,000 --> 00:08:38,000
+Those VAXs that had Multinet could communicate with Linux machines,
+
+140
+00:08:39,000 --> 00:08:41,000
+Deco stack could communicate with Linux machines,
+
+141
+00:08:42,000 --> 00:08:44,000
+but they couldn't communicate with each other.
+
+142
+00:08:45,000 --> 00:08:47,000
+Those were interesting times.
+
+143
+00:08:48,000 --> 00:08:50,000
+I know that this was with IBM's AX,
+
+144
+00:08:51,000 --> 00:08:55,000
+because it used a different encapsulation on the Ethernet.
+
+145
+00:08:56,000 --> 00:08:58,000
+I haven't heard about those two yet.
+
+146
+00:08:59,000 --> 00:09:00,000
+I thought it was with them.
+
+147
+00:09:00,000 --> 00:09:03,000
+Was the TCP stack on VMS or on Ultrex?
+
+148
+00:09:04,000 --> 00:09:05,000
+On VMS.
+
+149
+00:09:06,000 --> 00:09:08,000
+I mean, I know that Multinet sold it.
+
+150
+00:09:09,000 --> 00:09:10,000
+I believe so.
+
+151
+00:09:11,000 --> 00:09:12,000
+We sold a lot of them.
+
+152
+00:09:13,000 --> 00:09:14,000
+Yes.
+
+153
+00:09:15,000 --> 00:09:16,000
+But...
+
+154
+00:09:17,000 --> 00:09:19,000
+Let's go back in time.
+
+155
+00:09:20,000 --> 00:09:22,000
+If we take...
+
+156
+00:09:23,000 --> 00:09:27,000
+How do you see the Internet or the era
+
+157
+00:09:27,000 --> 00:09:29,000
+for today and in the future?
+
+158
+00:09:30,000 --> 00:09:34,000
+Where do you see the biggest revolutions that happened here?
+
+159
+00:09:35,000 --> 00:09:37,000
+I mean, today we have a different planet.
+
+160
+00:09:38,000 --> 00:09:40,000
+But the basis is still the same.
+
+161
+00:09:41,000 --> 00:09:43,000
+Wait, I didn't mean that.
+
+162
+00:09:46,000 --> 00:09:48,000
+There were no revolutions.
+
+163
+00:09:49,000 --> 00:09:52,000
+Today we use the same protocols as we used 50 years ago.
+
+164
+00:09:53,000 --> 00:09:54,000
+Exactly.
+
+165
+00:09:54,000 --> 00:09:56,000
+The Ethernet framing is old.
+
+166
+00:09:57,000 --> 00:09:58,000
+I think 50 years.
+
+167
+00:09:59,000 --> 00:10:03,000
+It went from 10 megabits to 400 gigabits.
+
+168
+00:10:04,000 --> 00:10:05,000
+800 at least.
+
+169
+00:10:06,000 --> 00:10:07,000
+800, 1600.
+
+170
+00:10:08,000 --> 00:10:10,000
+But I think 400 gigabits is already standardized.
+
+171
+00:10:11,000 --> 00:10:13,000
+Yes, it's already being sold in traffic.
+
+172
+00:10:14,000 --> 00:10:15,000
+That's right.
+
+173
+00:10:16,000 --> 00:10:20,000
+TCP, IP, where did the first RFCs for IP and TCP come from?
+
+174
+00:10:20,000 --> 00:10:23,000
+TCP hasn't really changed.
+
+175
+00:10:24,000 --> 00:10:26,000
+Yes, TCP got a few new bits.
+
+176
+00:10:27,000 --> 00:10:29,000
+Congestion avoidance is better now.
+
+177
+00:10:30,000 --> 00:10:32,000
+There are fewer bugs.
+
+178
+00:10:33,000 --> 00:10:34,000
+And IP...
+
+179
+00:10:35,000 --> 00:10:36,000
+IPv6 came instead.
+
+180
+00:10:37,000 --> 00:10:38,000
+It changed certain bugs.
+
+181
+00:10:39,000 --> 00:10:41,000
+Yes, it went further into the words.
+
+182
+00:10:42,000 --> 00:10:43,000
+It made certain things more complicated.
+
+183
+00:10:44,000 --> 00:10:45,000
+No, I don't think so.
+
+184
+00:10:46,000 --> 00:10:50,000
+Every programmer would have to go back to The Mythical Man-Month.
+
+185
+00:10:51,000 --> 00:10:58,000
+It's a book written by a man who was a project manager for the IBM 370 operating system.
+
+186
+00:10:59,000 --> 00:11:00,000
+It was for work.
+
+187
+00:11:01,000 --> 00:11:02,000
+It was crazy boring.
+
+188
+00:11:03,000 --> 00:11:05,000
+The scores were canceled, but then it got a bit more exciting.
+
+189
+00:11:06,000 --> 00:11:12,000
+And he explains to others that the first system you're going to make will always be for nothing.
+
+190
+00:11:12,000 --> 00:11:16,000
+It's just a question of whether you can add it to the website or not.
+
+191
+00:11:17,000 --> 00:11:20,000
+We added the website to the website, and the consequences are here.
+
+192
+00:11:21,000 --> 00:11:23,000
+We're still holding on to that today.
+
+193
+00:11:24,000 --> 00:11:26,000
+Yes, and we're still fighting spam.
+
+194
+00:11:27,000 --> 00:11:29,000
+Just because some idiots said,
+
+195
+00:11:30,000 --> 00:11:34,000
+we're all friends and we won't account for e-mails and all that nonsense.
+
+196
+00:11:35,000 --> 00:11:38,000
+And we're still fighting spam because we have to pay our employees.
+
+197
+00:11:39,000 --> 00:11:47,000
+I mean, it all comes from the premise that we were all the best people on the internet in the beginning.
+
+198
+00:11:48,000 --> 00:11:57,000
+It all comes from the fact that although the transport network was created as a result of a project,
+
+199
+00:11:58,000 --> 00:12:00,000
+the application was written on Berkeley.
+
+200
+00:12:01,000 --> 00:12:02,000
+Let's say.
+
+201
+00:12:03,000 --> 00:12:06,000
+And then you get this mythical man-month, right?
+
+202
+00:12:07,000 --> 00:12:10,000
+And then you finally get the budget to write this system anew.
+
+203
+00:12:11,000 --> 00:12:14,000
+And then comes the second system effect.
+
+204
+00:12:15,000 --> 00:12:19,000
+Because you've learned what you've done before, and now you're going to fix everything and it's going to be different.
+
+205
+00:12:20,000 --> 00:12:22,000
+And the second system is even worse than the first.
+
+206
+00:12:23,000 --> 00:12:24,000
+This is IPv6.
+
+207
+00:12:25,000 --> 00:12:26,000
+And IETF.
+
+208
+00:12:27,000 --> 00:12:28,000
+Yes, IETF is...
+
+209
+00:12:28,000 --> 00:12:32,000
+And then you have how to switch from IPv4 to IPv6.
+
+210
+00:12:33,000 --> 00:12:35,000
+You have transition mechanisms.
+
+211
+00:12:36,000 --> 00:12:38,000
+And then you realize that you have 50 of them.
+
+212
+00:12:39,000 --> 00:12:40,000
+Transition mechanisms.
+
+213
+00:12:41,000 --> 00:12:44,000
+And then someone comes and remembers that this is not right.
+
+214
+00:12:45,000 --> 00:12:48,000
+Let's make a transition mechanism that will fit all 50 of them.
+
+215
+00:12:49,000 --> 00:12:51,000
+And then we have 51 transition mechanisms.
+
+216
+00:12:52,000 --> 00:12:54,000
+Which is much better than all the other 50.
+
+217
+00:12:55,000 --> 00:12:56,000
+Exactly.
+
+218
+00:12:56,000 --> 00:12:58,000
+And look at the XKCD standards.
+
+219
+00:12:59,000 --> 00:13:00,000
+Right.
+
+220
+00:13:01,000 --> 00:13:03,000
+Now, I used to mess around with roses.
+
+221
+00:13:04,000 --> 00:13:06,000
+And then you realize that there are
+
+222
+00:13:07,000 --> 00:13:09,000
+10 different types,
+
+223
+00:13:10,000 --> 00:13:12,000
+and subtypes of roses,
+
+224
+00:13:13,000 --> 00:13:15,000
+which practically no one has ever seen before.
+
+225
+00:13:16,000 --> 00:13:17,000
+Because they are so similar.
+
+226
+00:13:18,000 --> 00:13:20,000
+And in the end, you come to the conclusion that
+
+227
+00:13:21,000 --> 00:13:24,000
+some kind of a species was created because someone needed a proof of origin.
+
+228
+00:13:24,000 --> 00:13:27,000
+And some kind of technology in the Internet and IETF
+
+229
+00:13:28,000 --> 00:13:31,000
+was created because someone needed a patent or an IETF draft.
+
+230
+00:13:32,000 --> 00:13:34,000
+No, in fact, it's still good for now.
+
+231
+00:13:35,000 --> 00:13:38,000
+They are figuring out a problem so that they can solve it.
+
+232
+00:13:39,000 --> 00:13:40,000
+Yes.
+
+233
+00:13:41,000 --> 00:13:42,000
+Now we will...
+
+234
+00:13:43,000 --> 00:13:45,000
+We lost some listener.
+
+235
+00:13:46,000 --> 00:13:48,000
+We could take a step back and explain it.
+
+236
+00:13:49,000 --> 00:13:51,000
+Do you want to go two kilometers back?
+
+237
+00:13:51,000 --> 00:13:53,000
+What is IETF, what does it represent?
+
+238
+00:13:54,000 --> 00:13:55,000
+Or...
+
+239
+00:13:56,000 --> 00:13:58,000
+Let's put it another way.
+
+240
+00:13:59,000 --> 00:14:01,000
+If we are talking about this child,
+
+241
+00:14:02,000 --> 00:14:04,000
+if we are talking about the Internet today,
+
+242
+00:14:05,000 --> 00:14:07,000
+who decides what?
+
+243
+00:14:08,000 --> 00:14:10,000
+Who decides what?
+
+244
+00:14:11,000 --> 00:14:13,000
+What are the rules?
+
+245
+00:14:14,000 --> 00:14:16,000
+This is the beauty of the Internet.
+
+246
+00:14:17,000 --> 00:14:18,000
+First of all,
+
+247
+00:14:18,000 --> 00:14:19,000
+first of all,
+
+248
+00:14:20,000 --> 00:14:22,000
+no one has their hands crossed.
+
+249
+00:14:23,000 --> 00:14:25,000
+Okay, DNA, SKIS, and so on.
+
+250
+00:14:26,000 --> 00:14:27,000
+But let's leave it at that.
+
+251
+00:14:28,000 --> 00:14:29,000
+But in fact,
+
+252
+00:14:30,000 --> 00:14:33,000
+Internet technologies are one of the rare standards
+
+253
+00:14:34,000 --> 00:14:37,000
+where the standard is created in the public.
+
+254
+00:14:38,000 --> 00:14:40,000
+Because we think it's good.
+
+255
+00:14:41,000 --> 00:14:42,000
+That's great.
+
+256
+00:14:43,000 --> 00:14:44,000
+That's the only truth.
+
+257
+00:14:44,000 --> 00:14:47,000
+In fact, all other standard organizations
+
+258
+00:14:48,000 --> 00:14:50,000
+dealing with telecommunications
+
+259
+00:14:51,000 --> 00:14:53,000
+live off the sale of paper.
+
+260
+00:14:56,000 --> 00:14:57,000
+And you have ITU,
+
+261
+00:14:58,000 --> 00:15:00,000
+which is a representative of the state.
+
+262
+00:15:01,000 --> 00:15:03,000
+And there, representatives of the state
+
+263
+00:15:04,000 --> 00:15:05,000
+vote on anything.
+
+264
+00:15:06,000 --> 00:15:07,000
+I think it's wonderful.
+
+265
+00:15:08,000 --> 00:15:10,000
+And how do they know about telecommunications?
+
+266
+00:15:11,000 --> 00:15:12,000
+They send their employees.
+
+267
+00:15:12,000 --> 00:15:13,000
+Telephone companies, really.
+
+268
+00:15:14,000 --> 00:15:15,000
+And X25.
+
+269
+00:15:16,000 --> 00:15:17,000
+And X400.
+
+270
+00:15:19,000 --> 00:15:21,000
+All of this is no longer for good reasons,
+
+271
+00:15:22,000 --> 00:15:24,000
+just for those of you who don't know what we're talking about.
+
+272
+00:15:25,000 --> 00:15:27,000
+There is evidence of what they are capable of doing.
+
+273
+00:15:28,000 --> 00:15:30,000
+I think the last cry they managed to make was ASDN,
+
+274
+00:15:31,000 --> 00:15:32,000
+and then it died over time.
+
+275
+00:15:33,000 --> 00:15:34,000
+It won't heal over time.
+
+276
+00:15:35,000 --> 00:15:36,000
+Now they will standardize the Internet.
+
+277
+00:15:37,000 --> 00:15:38,000
+Next generation Internet.
+
+278
+00:15:39,000 --> 00:15:40,000
+Because it's not good.
+
+279
+00:15:40,000 --> 00:15:42,000
+Let's all get together,
+
+280
+00:15:43,000 --> 00:15:44,000
+and make something new.
+
+281
+00:15:45,000 --> 00:15:46,000
+Something similar to telecommunications.
+
+282
+00:15:47,000 --> 00:15:48,000
+Should we get together,
+
+283
+00:15:49,000 --> 00:15:50,000
+or should we just launch something new,
+
+284
+00:15:51,000 --> 00:15:52,000
+and hope that everyone will migrate to something new?
+
+285
+00:15:53,000 --> 00:15:55,000
+I'll tell you a story from 2012.
+
+286
+00:15:56,000 --> 00:15:58,000
+I started working at the Internet Society,
+
+287
+00:15:59,000 --> 00:16:02,000
+and there was a plenipotentiary meeting in Dubai,
+
+288
+00:16:03,000 --> 00:16:04,000
+from ITU.
+
+289
+00:16:05,000 --> 00:16:06,000
+And I got lessons,
+
+290
+00:16:06,000 --> 00:16:08,000
+some proposals from some countries.
+
+291
+00:16:09,000 --> 00:16:11,000
+And I was looking at the flyer,
+
+292
+00:16:12,000 --> 00:16:14,000
+I think it was in Los Angeles,
+
+293
+00:16:15,000 --> 00:16:16,000
+and I burst into laughter.
+
+294
+00:16:17,000 --> 00:16:18,000
+And I think Algeria,
+
+295
+00:16:19,000 --> 00:16:20,000
+one of those countries,
+
+296
+00:16:21,000 --> 00:16:22,000
+proposed it.
+
+297
+00:16:23,000 --> 00:16:25,000
+And we all saw how the IPv4 languages
+
+298
+00:16:26,000 --> 00:16:27,000
+were divided,
+
+299
+00:16:28,000 --> 00:16:29,000
+that underdeveloped countries
+
+300
+00:16:30,000 --> 00:16:32,000
+don't have enough IPv4 languages
+
+301
+00:16:33,000 --> 00:16:34,000
+to build the Internet,
+
+302
+00:16:34,000 --> 00:16:35,000
+because they all took away
+
+303
+00:16:36,000 --> 00:16:37,000
+those proud developments.
+
+304
+00:16:38,000 --> 00:16:39,000
+Their decision was
+
+305
+00:16:40,000 --> 00:16:41,000
+to reclaim,
+
+306
+00:16:42,000 --> 00:16:44,000
+to take all IPv4 languages back
+
+307
+00:16:45,000 --> 00:16:46,000
+to one big pool.
+
+308
+00:16:47,000 --> 00:16:49,000
+That means everyone has to go back,
+
+309
+00:16:50,000 --> 00:16:51,000
+and deconfigure.
+
+310
+00:16:52,000 --> 00:16:54,000
+And then they will divide them again,
+
+311
+00:16:55,000 --> 00:16:56,000
+according to the country,
+
+312
+00:16:57,000 --> 00:16:58,000
+not according to BGP,
+
+313
+00:16:59,000 --> 00:17:00,000
+but according to BDP,
+
+314
+00:17:01,000 --> 00:17:02,000
+and according to the population,
+
+315
+00:17:02,000 --> 00:17:03,000
+and so on.
+
+316
+00:17:04,000 --> 00:17:06,000
+That's how I started thinking about
+
+317
+00:17:07,000 --> 00:17:08,000
+how it will work.
+
+318
+00:17:09,000 --> 00:17:10,000
+And then I realized
+
+319
+00:17:11,000 --> 00:17:12,000
+that it's a great idea.
+
+320
+00:17:13,000 --> 00:17:14,000
+It's a beautiful idea.
+
+321
+00:17:15,000 --> 00:17:16,000
+And I really hoped
+
+322
+00:17:17,000 --> 00:17:18,000
+that it would happen.
+
+323
+00:17:19,000 --> 00:17:20,000
+Do you know how fast
+
+324
+00:17:21,000 --> 00:17:22,000
+IPv6 would be implemented?
+
+325
+00:17:23,000 --> 00:17:24,000
+At the moment,
+
+326
+00:17:25,000 --> 00:17:26,000
+the whole world would be on IPv6.
+
+327
+00:17:27,000 --> 00:17:28,000
+In a few months, I think.
+
+328
+00:17:29,000 --> 00:17:31,000
+That's probably the part of engineering
+
+329
+00:17:32,000 --> 00:17:33,000
+where the deployment is very simple.
+
+330
+00:17:34,000 --> 00:17:35,000
+Yes.
+
+331
+00:17:36,000 --> 00:17:37,000
+It's not very simple,
+
+332
+00:17:38,000 --> 00:17:39,000
+but it's manageable.
+
+333
+00:17:40,000 --> 00:17:41,000
+As long as you're starting
+
+334
+00:17:42,000 --> 00:17:43,000
+something new,
+
+335
+00:17:44,000 --> 00:17:45,000
+it's fine.
+
+336
+00:17:46,000 --> 00:17:47,000
+It's manageable.
+
+337
+00:17:48,000 --> 00:17:49,000
+It's a migration management.
+
+338
+00:17:50,000 --> 00:17:51,000
+My next question is
+
+339
+00:17:52,000 --> 00:17:53,000
+is near zero time
+
+340
+00:17:54,000 --> 00:17:55,000
+the migration done
+
+341
+00:17:56,000 --> 00:17:57,000
+to divide it?
+
+342
+00:17:58,000 --> 00:17:59,000
+Because if it's near zero time,
+
+343
+00:17:59,000 --> 00:18:00,000
+does that mean
+
+344
+00:18:01,000 --> 00:18:02,000
+that we can do it
+
+345
+00:18:03,000 --> 00:18:04,000
+in a year's time?
+
+346
+00:18:05,000 --> 00:18:06,000
+No, no.
+
+347
+00:18:07,000 --> 00:18:08,000
+They have to go back
+
+348
+00:18:09,000 --> 00:18:10,000
+and do a study
+
+349
+00:18:11,000 --> 00:18:12,000
+on how to divide it.
+
+350
+00:18:13,000 --> 00:18:14,000
+That's how it works
+
+351
+00:18:15,000 --> 00:18:16,000
+in the end.
+
+352
+00:18:17,000 --> 00:18:18,000
+Yes.
+
+353
+00:18:19,000 --> 00:18:20,000
+In general,
+
+354
+00:18:21,000 --> 00:18:22,000
+ITU proved
+
+355
+00:18:23,000 --> 00:18:24,000
+how good they are.
+
+356
+00:18:25,000 --> 00:18:26,000
+Then we have ISO.
+
+357
+00:18:26,000 --> 00:18:27,000
+They did ISO 9001,
+
+358
+00:18:28,000 --> 00:18:29,000
+then 14001,
+
+359
+00:18:30,000 --> 00:18:31,000
+then 12001,
+
+360
+00:18:32,000 --> 00:18:33,000
+and so on.
+
+361
+00:18:34,000 --> 00:18:35,000
+They're not bad standards.
+
+362
+00:18:36,000 --> 00:18:37,000
+They're just implemented
+
+363
+00:18:38,000 --> 00:18:39,000
+as they are,
+
+364
+00:18:40,000 --> 00:18:41,000
+but that's another topic.
+
+365
+00:18:42,000 --> 00:18:43,000
+The problem is
+
+366
+00:18:44,000 --> 00:18:45,000
+that people document
+
+367
+00:18:46,000 --> 00:18:47,000
+the existence of the DREC
+
+368
+00:18:48,000 --> 00:18:49,000
+and then they're compliant.
+
+369
+00:18:50,000 --> 00:18:51,000
+Because they know
+
+370
+00:18:52,000 --> 00:18:53,000
+what they're doing.
+
+371
+00:18:54,000 --> 00:18:55,000
+They're doing the same DREC
+
+372
+00:18:56,000 --> 00:18:57,000
+as they did in 2001.
+
+373
+00:18:58,000 --> 00:18:59,000
+Again,
+
+374
+00:19:00,000 --> 00:19:01,000
+it's very opaque
+
+375
+00:19:02,000 --> 00:19:03,000
+in Slovenian.
+
+376
+00:19:04,000 --> 00:19:05,000
+It's a closed organization
+
+377
+00:19:06,000 --> 00:19:07,000
+that gives out some standards
+
+378
+00:19:08,000 --> 00:19:09,000
+that you can't get,
+
+379
+00:19:10,000 --> 00:19:11,000
+but you can buy.
+
+380
+00:19:12,000 --> 00:19:13,000
+And they change
+
+381
+00:19:14,000 --> 00:19:15,000
+as they change.
+
+382
+00:19:16,000 --> 00:19:17,000
+The results are what they are.
+
+383
+00:19:18,000 --> 00:19:19,000
+The whole industry
+
+384
+00:19:20,000 --> 00:19:21,000
+lives from it.
+
+385
+00:19:22,000 --> 00:19:23,000
+And thank God
+
+386
+00:19:24,000 --> 00:19:25,000
+that the Internet
+
+387
+00:19:26,000 --> 00:19:27,000
+is on the side
+
+388
+00:19:28,000 --> 00:19:29,000
+of any of their standards.
+
+389
+00:19:30,000 --> 00:19:31,000
+At least 10,000,
+
+390
+00:19:32,000 --> 00:19:33,000
+I don't know.
+
+391
+00:19:34,000 --> 00:19:35,000
+No, no, no, no,
+
+392
+00:19:36,000 --> 00:19:37,000
+less than 100.
+
+393
+00:19:38,000 --> 00:19:39,000
+Really?
+
+394
+00:19:40,000 --> 00:19:41,000
+Yes.
+
+395
+00:19:42,000 --> 00:19:43,000
+The whole ISO 9001 standard
+
+396
+00:19:44,000 --> 00:19:45,000
+was changed,
+
+397
+00:19:46,000 --> 00:19:47,000
+but it wasn't long.
+
+398
+00:19:48,000 --> 00:19:49,000
+Really?
+
+399
+00:19:50,000 --> 00:19:51,000
+Yes.
+
+400
+00:19:52,000 --> 00:19:53,000
+You know,
+
+401
+00:19:53,000 --> 00:19:54,000
+the people who cover this,
+
+402
+00:19:55,000 --> 00:19:56,000
+write what you're doing.
+
+403
+00:19:57,000 --> 00:19:58,000
+That's the standard.
+
+404
+00:19:59,000 --> 00:20:00,000
+And then the persuaders,
+
+405
+00:20:01,000 --> 00:20:02,000
+the Enlighteners,
+
+406
+00:20:03,000 --> 00:20:04,000
+the Wise Men,
+
+407
+00:20:05,000 --> 00:20:06,000
+they do it differently.
+
+408
+00:20:07,000 --> 00:20:08,000
+Then we have IEEE,
+
+409
+00:20:09,000 --> 00:20:10,000
+those are the gentlemen
+
+410
+00:20:11,000 --> 00:20:12,000
+who power the Internet,
+
+411
+00:20:13,000 --> 00:20:14,000
+the Token Ring,
+
+412
+00:20:15,000 --> 00:20:16,000
+the FTDI,
+
+413
+00:20:17,000 --> 00:20:18,000
+and all those little things.
+
+414
+00:20:19,000 --> 00:20:20,000
+And again,
+
+415
+00:20:20,000 --> 00:20:21,000
+the whole industry
+
+416
+00:20:22,000 --> 00:20:23,000
+is on the side
+
+417
+00:20:24,000 --> 00:20:25,000
+of the public,
+
+418
+00:20:26,000 --> 00:20:27,000
+and then someone comes out
+
+419
+00:20:28,000 --> 00:20:29,000
+and says,
+
+420
+00:20:30,000 --> 00:20:31,000
+that's it,
+
+421
+00:20:32,000 --> 00:20:33,000
+be happy we did something.
+
+422
+00:20:34,000 --> 00:20:35,000
+Then you have 3GPP.
+
+423
+00:20:36,000 --> 00:20:37,000
+The same,
+
+424
+00:20:38,000 --> 00:20:39,000
+just different manufacturers.
+
+425
+00:20:40,000 --> 00:20:41,000
+Those are for mobile networks.
+
+426
+00:20:42,000 --> 00:20:43,000
+Or ETCs.
+
+427
+00:20:44,000 --> 00:20:45,000
+Then you have more ETCs.
+
+428
+00:20:46,000 --> 00:20:47,000
+Which are ISO,
+
+429
+00:20:48,000 --> 00:20:49,000
+but European.
+
+430
+00:20:50,000 --> 00:20:51,000
+And then you talk to them
+
+431
+00:20:52,000 --> 00:20:53,000
+and prove it to them,
+
+432
+00:20:54,000 --> 00:20:55,000
+and you have a complete history
+
+433
+00:20:56,000 --> 00:20:57,000
+of all the scammers
+
+434
+00:20:58,000 --> 00:20:59,000
+you've ever told the public.
+
+435
+00:21:00,000 --> 00:21:01,000
+And there you can go to a meeting,
+
+436
+00:21:02,000 --> 00:21:03,000
+go to the microphone,
+
+437
+00:21:04,000 --> 00:21:05,000
+and say what you think
+
+438
+00:21:06,000 --> 00:21:07,000
+about everything they do there.
+
+439
+00:21:08,000 --> 00:21:09,000
+Then they give you a yo-yo
+
+440
+00:21:10,000 --> 00:21:11,000
+and send you out.
+
+441
+00:21:12,000 --> 00:21:13,000
+Most of them there
+
+442
+00:21:14,000 --> 00:21:15,000
+have long white beards.
+
+443
+00:21:16,000 --> 00:21:17,000
+But in the end,
+
+444
+00:21:18,000 --> 00:21:19,000
+are there enough
+
+445
+00:21:20,000 --> 00:21:21,000
+motivation?
+
+446
+00:21:22,000 --> 00:21:23,000
+Because I won't go
+
+447
+00:21:24,000 --> 00:21:25,000
+to an IETF meeting,
+
+448
+00:21:26,000 --> 00:21:27,000
+because it happens.
+
+449
+00:21:28,000 --> 00:21:29,000
+Besides,
+
+450
+00:21:30,000 --> 00:21:31,000
+I have a life,
+
+451
+00:21:32,000 --> 00:21:33,000
+and I don't know why
+
+452
+00:21:34,000 --> 00:21:35,000
+I would mess with it.
+
+453
+00:21:36,000 --> 00:21:37,000
+There you have
+
+454
+00:21:38,000 --> 00:21:39,000
+in one working group
+
+455
+00:21:40,000 --> 00:21:41,000
+100 people,
+
+456
+00:21:42,000 --> 00:21:43,000
+of which 98 are paid
+
+457
+00:21:44,000 --> 00:21:45,000
+by the manufacturers,
+
+458
+00:21:46,000 --> 00:21:47,000
+because they drive through
+
+459
+00:21:48,000 --> 00:21:49,000
+what is in the manufacturer's
+
+460
+00:21:50,000 --> 00:21:51,000
+complexity,
+
+461
+00:21:52,000 --> 00:21:53,000
+because the complexity is sold.
+
+462
+00:21:54,000 --> 00:21:55,000
+Since the 80s.
+
+463
+00:21:56,000 --> 00:21:57,000
+You know,
+
+464
+00:21:58,000 --> 00:21:59,000
+if we do something so simple
+
+465
+00:22:00,000 --> 00:22:01,000
+that everyone knows how to implement it,
+
+466
+00:22:02,000 --> 00:22:03,000
+and everyone knows how to install it,
+
+467
+00:22:04,000 --> 00:22:05,000
+and everyone knows how to do it
+
+468
+00:22:06,000 --> 00:22:07,000
+and sell it,
+
+469
+00:22:08,000 --> 00:22:09,000
+then we've shot ourselves in the foot.
+
+470
+00:22:10,000 --> 00:22:11,000
+Yes,
+
+471
+00:22:12,000 --> 00:22:13,000
+I was at some IETF meetings
+
+472
+00:22:14,000 --> 00:22:15,000
+when I worked
+
+473
+00:22:16,000 --> 00:22:17,000
+for the Internet Society.
+
+474
+00:22:18,000 --> 00:22:19,000
+You asked
+
+475
+00:22:20,000 --> 00:22:21,000
+a very smart question.
+
+476
+00:22:22,000 --> 00:22:23,000
+At the IETF,
+
+477
+00:22:24,000 --> 00:22:25,000
+there are very smart
+
+478
+00:22:26,000 --> 00:22:27,000
+and intelligent people.
+
+479
+00:22:28,000 --> 00:22:29,000
+The flower of intelligence
+
+480
+00:22:30,000 --> 00:22:31,000
+would be overshadowed there.
+
+481
+00:22:32,000 --> 00:22:33,000
+Now,
+
+482
+00:22:34,000 --> 00:22:35,000
+what kind of motives
+
+483
+00:22:36,000 --> 00:22:37,000
+do they have?
+
+484
+00:22:38,000 --> 00:22:39,000
+How much academic knowledge
+
+485
+00:22:40,000 --> 00:22:41,000
+do they have?
+
+486
+00:22:42,000 --> 00:22:43,000
+That's huge.
+
+487
+00:22:44,000 --> 00:22:45,000
+How much operational knowledge
+
+488
+00:22:46,000 --> 00:22:47,000
+do they have?
+
+489
+00:22:47,000 --> 00:22:48,000
+That's a different question.
+
+490
+00:22:49,000 --> 00:22:50,000
+You know,
+
+491
+00:22:51,000 --> 00:22:52,000
+they have a lot,
+
+492
+00:22:53,000 --> 00:22:54,000
+but it's outdated.
+
+493
+00:22:55,000 --> 00:22:56,000
+There was someone
+
+494
+00:22:57,000 --> 00:22:58,000
+from the people who were there
+
+495
+00:22:59,000 --> 00:23:00,000
+in their previous life,
+
+496
+00:23:01,000 --> 00:23:02,000
+Operations.
+
+497
+00:23:03,000 --> 00:23:04,000
+Then he went to Vendoria,
+
+498
+00:23:05,000 --> 00:23:06,000
+where he spent 15 years.
+
+499
+00:23:07,000 --> 00:23:08,000
+Then he became a Distinguished Engineer.
+
+500
+00:23:09,000 --> 00:23:10,000
+Then he was allowed
+
+501
+00:23:11,000 --> 00:23:12,000
+to speak at the IETF meeting.
+
+502
+00:23:13,000 --> 00:23:14,000
+And the operational knowledge
+
+503
+00:23:15,000 --> 00:23:16,000
+he had
+
+504
+00:23:17,000 --> 00:23:18,000
+was overshadowed.
+
+505
+00:23:19,000 --> 00:23:20,000
+As much as mine.
+
+506
+00:23:21,000 --> 00:23:22,000
+Thank God,
+
+507
+00:23:23,000 --> 00:23:24,000
+I don't have to install a production box
+
+508
+00:23:25,000 --> 00:23:26,000
+for the next 25 years.
+
+509
+00:23:29,000 --> 00:23:30,000
+OK.
+
+510
+00:23:32,000 --> 00:23:33,000
+Let's go back
+
+511
+00:23:35,000 --> 00:23:36,000
+to
+
+512
+00:23:37,000 --> 00:23:38,000
+what you said,
+
+513
+00:23:39,000 --> 00:23:40,000
+to the beginning of the war.
+
+514
+00:23:42,000 --> 00:23:43,000
+Do you still
+
+515
+00:23:44,000 --> 00:23:45,000
+have
+
+516
+00:23:45,000 --> 00:23:46,000
+the knowledge
+
+517
+00:23:47,000 --> 00:23:48,000
+of a network engineer?
+
+518
+00:23:49,000 --> 00:23:50,000
+Do we still need it?
+
+519
+00:23:51,000 --> 00:23:52,000
+Do you need the one
+
+520
+00:23:53,000 --> 00:23:54,000
+who studies so hard?
+
+521
+00:23:55,000 --> 00:23:56,000
+You need three years.
+
+522
+00:23:57,000 --> 00:23:58,000
+But you need a curse.
+
+523
+00:23:59,000 --> 00:24:00,000
+I would say
+
+524
+00:24:01,000 --> 00:24:02,000
+it's like those good systems.
+
+525
+00:24:03,000 --> 00:24:04,000
+If everything works,
+
+526
+00:24:05,000 --> 00:24:06,000
+you don't need it.
+
+527
+00:24:07,000 --> 00:24:08,000
+If it doesn't work,
+
+528
+00:24:09,000 --> 00:24:10,000
+where do you get it?
+
+529
+00:24:11,000 --> 00:24:12,000
+Why don't you have three?
+
+530
+00:24:13,000 --> 00:24:14,000
+I remember
+
+531
+00:24:15,000 --> 00:24:16,000
+when Sreta and I were there.
+
+532
+00:24:17,000 --> 00:24:18,000
+We installed all the empty tables.
+
+533
+00:24:19,000 --> 00:24:20,000
+There was Tom,
+
+534
+00:24:21,000 --> 00:24:22,000
+Tomas,
+
+535
+00:24:23,000 --> 00:24:24,000
+and everyone else.
+
+536
+00:24:25,000 --> 00:24:26,000
+I remember when Sreta pulled me
+
+537
+00:24:27,000 --> 00:24:28,000
+from Novi Gorica,
+
+538
+00:24:29,000 --> 00:24:30,000
+from Telekom.
+
+539
+00:24:31,000 --> 00:24:32,000
+He said
+
+540
+00:24:33,000 --> 00:24:34,000
+that the first thing I see
+
+541
+00:24:35,000 --> 00:24:36,000
+when I look through the window
+
+542
+00:24:37,000 --> 00:24:38,000
+of my office
+
+543
+00:24:39,000 --> 00:24:40,000
+is that you are in a café
+
+544
+00:24:41,000 --> 00:24:42,000
+and you are drinking beer.
+
+545
+00:24:43,000 --> 00:24:44,000
+Because everything works.
+
+546
+00:24:45,000 --> 00:24:46,000
+You are the one
+
+547
+00:24:47,000 --> 00:24:48,000
+who drinks the most beer
+
+548
+00:24:49,000 --> 00:24:50,000
+in the café.
+
+549
+00:24:51,000 --> 00:24:52,000
+Wait a minute.
+
+550
+00:24:53,000 --> 00:24:54,000
+This is an operations man
+
+551
+00:24:55,000 --> 00:24:56,000
+who is drunk.
+
+552
+00:24:57,000 --> 00:24:58,000
+That's right.
+
+553
+00:24:59,000 --> 00:25:00,000
+It would be better
+
+554
+00:25:01,000 --> 00:25:02,000
+if he wasn't drunk.
+
+555
+00:25:00,000 --> 00:25:06,000
+Yes, that's why we automate things, so that we are consistently on the page.
+
+556
+00:25:06,000 --> 00:25:09,000
+I will quote you again.
+
+557
+00:25:09,000 --> 00:25:10,000
+Yes, yes.
+
+558
+00:25:10,000 --> 00:25:11,000
+That was interesting.
+
+559
+00:25:11,000 --> 00:25:17,000
+Pipi was at the IPv6 Summit a few years ago.
+
+560
+00:25:17,000 --> 00:25:21,000
+He said he came to talk about automation.
+
+561
+00:25:21,000 --> 00:25:25,000
+It was one of the first times when there was a big hype for automation.
+
+562
+00:25:25,000 --> 00:25:27,000
+Software-defined networking.
+
+563
+00:25:27,000 --> 00:25:33,000
+Yes, and Pipi came and said, you know, automation is basically
+
+564
+00:25:33,000 --> 00:25:40,000
+that we can consistently standardize our attacks across the entire network.
+
+565
+00:25:40,000 --> 00:25:48,000
+So, I remembered that and with that ...
+
+566
+00:25:48,000 --> 00:25:53,000
+I think I still have a tweet, a screenshot, somewhere in the conversation.
+
+567
+00:25:53,000 --> 00:25:54,000
+Yes, yes, yes.
+
+568
+00:25:54,000 --> 00:25:56,000
+He said, to err is human.
+
+569
+00:25:56,000 --> 00:25:59,000
+To deploy the error on 10,000 servers is DevOps.
+
+570
+00:25:59,000 --> 00:26:01,000
+Something like that, yes.
+
+571
+00:26:07,000 --> 00:26:13,000
+So, we need these people, but how many people actually decide to do it?
+
+572
+00:26:13,000 --> 00:26:16,000
+Or, let's ask another person.
+
+573
+00:26:16,000 --> 00:26:20,000
+What do you see in this person?
+
+574
+00:26:20,000 --> 00:26:23,000
+What are the skills this person must have?
+
+575
+00:26:23,000 --> 00:26:28,000
+Look, first of all, when we started developing the IPv6 community,
+
+576
+00:26:28,000 --> 00:26:35,000
+which then grew, I noticed from the very beginning
+
+577
+00:26:35,000 --> 00:26:42,000
+that we are missing a few generations.
+
+578
+00:26:42,000 --> 00:26:46,000
+We have a few generations of gaps in the city.
+
+579
+00:26:46,000 --> 00:26:51,000
+We were the old school.
+
+580
+00:26:51,000 --> 00:26:55,000
+Then you have a few generations of gaps that are not necessary.
+
+581
+00:26:55,000 --> 00:27:00,000
+These are the generations for whom the internet is clicked on Facebook and Google.
+
+582
+00:27:00,000 --> 00:27:02,000
+No, but you know what?
+
+583
+00:27:02,000 --> 00:27:09,000
+In Slovenia, for example,
+
+584
+00:27:09,000 --> 00:27:15,000
+the market size for these people is relatively fixed.
+
+585
+00:27:16,000 --> 00:27:21,000
+If you look at it, the Slovenian economy is not growing much.
+
+586
+00:27:21,000 --> 00:27:28,000
+Of course, we have the GDP growth rate of 3-5% every year.
+
+587
+00:27:28,000 --> 00:27:34,000
+But the population of Slovenia is 2 million, and it is relatively constant.
+
+588
+00:27:34,000 --> 00:27:39,000
+The company in Slovenia is what it is, and it is relatively constant.
+
+589
+00:27:40,000 --> 00:27:47,000
+If you want X inhabitants of Slovenia, you need a farmer,
+
+590
+00:27:47,000 --> 00:27:51,000
+and if you want X inhabitants of Slovenia, you need a networking engineer.
+
+591
+00:27:51,000 --> 00:27:57,000
+But what about the fact that we have been eating strawberries for the last 100 plus years,
+
+592
+00:27:57,000 --> 00:28:01,000
+and it has spread well?
+
+593
+00:28:01,000 --> 00:28:04,000
+While we two, Jan and everyone else,
+
+594
+00:28:04,000 --> 00:28:08,000
+fell into networking at about the same time,
+
+595
+00:28:08,000 --> 00:28:11,000
+and there are still some people who are doing something.
+
+596
+00:28:11,000 --> 00:28:13,000
+Some of us went a little on our own,
+
+597
+00:28:13,000 --> 00:28:16,000
+a little on half-pension, and a little somewhere else.
+
+598
+00:28:16,000 --> 00:28:22,000
+But probably 80% of the current generation is still doing something
+
+599
+00:28:22,000 --> 00:28:26,000
+on some kind of joint work in the city.
+
+600
+00:28:26,000 --> 00:28:32,000
+Which means that the next generation simply did not need
+
+601
+00:28:32,000 --> 00:28:36,000
+so many people that they would need excessively,
+
+602
+00:28:37,000 --> 00:28:40,000
+because we will not die.
+
+603
+00:28:40,000 --> 00:28:42,000
+That's how it is.
+
+604
+00:28:42,000 --> 00:28:45,000
+If you look at the Synagogue,
+
+605
+00:28:45,000 --> 00:28:50,000
+there are between 100 and 120 people who come to every meeting.
+
+606
+00:28:50,000 --> 00:28:54,000
+Which is a lot for 2 million people in Slovenia.
+
+607
+00:28:54,000 --> 00:28:58,000
+And they are always the same.
+
+608
+00:28:58,000 --> 00:29:01,000
+We are getting older.
+
+609
+00:29:02,000 --> 00:29:04,000
+And then it's like that,
+
+610
+00:29:04,000 --> 00:29:06,000
+this thing is not sexy enough,
+
+611
+00:29:06,000 --> 00:29:08,000
+not too much, not too little.
+
+612
+00:29:08,000 --> 00:29:10,000
+And is diving sexy?
+
+613
+00:29:10,000 --> 00:29:11,000
+Well, but,
+
+614
+00:29:11,000 --> 00:29:13,000
+someone might say,
+
+615
+00:29:13,000 --> 00:29:16,000
+and maybe the people are always diving.
+
+616
+00:29:16,000 --> 00:29:18,000
+Yes, everything is something like that.
+
+617
+00:29:18,000 --> 00:29:20,000
+You asked if it's sexy,
+
+618
+00:29:20,000 --> 00:29:22,000
+not profitable.
+
+619
+00:29:22,000 --> 00:29:24,000
+But wait, for some,
+
+620
+00:29:24,000 --> 00:29:26,000
+I said today,
+
+621
+00:29:26,000 --> 00:29:28,000
+a man, a student,
+
+622
+00:29:28,000 --> 00:29:30,000
+a student who is graduating,
+
+623
+00:29:30,000 --> 00:29:32,000
+what did we say,
+
+624
+00:29:32,000 --> 00:29:34,000
+in computer science,
+
+625
+00:29:34,000 --> 00:29:36,000
+the question is,
+
+626
+00:29:36,000 --> 00:29:38,000
+will I make money with it?
+
+627
+00:29:38,000 --> 00:29:40,000
+Yes, you will.
+
+628
+00:29:40,000 --> 00:29:42,000
+But, let's say,
+
+629
+00:29:42,000 --> 00:29:44,000
+an anecdote,
+
+630
+00:29:44,000 --> 00:29:46,000
+years ago,
+
+631
+00:29:46,000 --> 00:29:48,000
+I was at the Synagogue,
+
+632
+00:29:48,000 --> 00:29:50,000
+everyone comes,
+
+633
+00:29:50,000 --> 00:29:52,000
+students, young people,
+
+634
+00:29:52,000 --> 00:29:56,000
+a new generation of networkers has appeared.
+
+635
+00:29:56,000 --> 00:29:59,000
+You go to the application,
+
+636
+00:29:59,000 --> 00:30:01,000
+you click on point A,
+
+637
+00:30:01,000 --> 00:30:04,000
+and then you click on point B,
+
+638
+00:30:04,000 --> 00:30:06,000
+and then something happens,
+
+639
+00:30:06,000 --> 00:30:08,000
+and these two points are connected.
+
+640
+00:30:08,000 --> 00:30:10,000
+Someone has, my friend,
+
+641
+00:30:10,000 --> 00:30:12,000
+I go to the datacenter,
+
+642
+00:30:12,000 --> 00:30:14,000
+I see that someone has to put a router in,
+
+643
+00:30:14,000 --> 00:30:16,000
+then a switch, then a cable,
+
+644
+00:30:16,000 --> 00:30:18,000
+then configure everything,
+
+645
+00:30:18,000 --> 00:30:20,000
+and so on.
+
+646
+00:30:20,000 --> 00:30:22,000
+And now,
+
+647
+00:30:22,000 --> 00:30:24,000
+if we celebrate young people,
+
+648
+00:30:24,000 --> 00:30:27,000
+or this new generation of network engineers,
+
+649
+00:30:27,000 --> 00:30:30,000
+and we say that they are connected to the fact
+
+650
+00:30:30,000 --> 00:30:32,000
+that they don't know,
+
+651
+00:30:32,000 --> 00:30:34,000
+I would say,
+
+652
+00:30:34,000 --> 00:30:37,000
+the history of those builders in the network,
+
+653
+00:30:37,000 --> 00:30:40,000
+to the extent that they would face them physically,
+
+654
+00:30:40,000 --> 00:30:43,000
+I mean, they would be more likely to hide it
+
+655
+00:30:43,000 --> 00:30:45,000
+through some SD-WAN,
+
+656
+00:30:45,000 --> 00:30:47,000
+something that clicks on the Internet,
+
+657
+00:30:47,000 --> 00:30:49,000
+or on the interface,
+
+658
+00:30:49,000 --> 00:30:51,000
+and then something happens,
+
+659
+00:30:51,000 --> 00:30:53,000
+or something else?
+
+660
+00:30:53,000 --> 00:30:56,000
+And the fact that they are really, really interested in it,
+
+661
+00:30:56,000 --> 00:30:58,000
+and that things are flying,
+
+662
+00:30:58,000 --> 00:31:00,000
+as they say, hands-on,
+
+663
+00:31:00,000 --> 00:31:02,000
+these guys know,
+
+664
+00:31:02,000 --> 00:31:04,000
+and if they don't know,
+
+665
+00:31:04,000 --> 00:31:06,000
+they ask, they come to SYNOK,
+
+666
+00:31:06,000 --> 00:31:09,000
+we welcome them there with open arms and hearts,
+
+667
+00:31:09,000 --> 00:31:11,000
+and we share our knowledge with them.
+
+668
+00:31:11,000 --> 00:31:14,000
+Now, if you want to be a network engineer,
+
+669
+00:31:14,000 --> 00:31:16,000
+as they say,
+
+670
+00:31:16,000 --> 00:31:18,000
+on the easy way,
+
+671
+00:31:18,000 --> 00:31:21,000
+to get through as easily as possible,
+
+672
+00:31:21,000 --> 00:31:23,000
+and you know it all,
+
+673
+00:31:23,000 --> 00:31:26,000
+and you follow a line of the lowest resistance,
+
+674
+00:31:26,000 --> 00:31:29,000
+then you have a lot to learn.
+
+675
+00:31:29,000 --> 00:31:32,000
+You know, it's the same as mechanics.
+
+676
+00:31:32,000 --> 00:31:34,000
+You have those mechanics
+
+677
+00:31:34,000 --> 00:31:36,000
+who really know how the engine works,
+
+678
+00:31:36,000 --> 00:31:38,000
+and you have those mechanics
+
+679
+00:31:38,000 --> 00:31:40,000
+who copy the tester from the manufacturer
+
+680
+00:31:40,000 --> 00:31:42,000
+and burn the test,
+
+681
+00:31:42,000 --> 00:31:44,000
+go for a beer,
+
+682
+00:31:44,000 --> 00:31:46,000
+and then do what the tester tells them.
+
+683
+00:31:46,000 --> 00:31:48,000
+For example,
+
+684
+00:31:48,000 --> 00:31:50,000
+on a car,
+
+685
+00:31:50,000 --> 00:31:52,000
+the tester,
+
+686
+00:31:52,000 --> 00:31:54,000
+as they say,
+
+687
+00:31:54,000 --> 00:31:56,000
+my mechanic was lost,
+
+688
+00:31:56,000 --> 00:31:59,000
+the Renault service center was lost,
+
+689
+00:31:59,000 --> 00:32:01,000
+the computer was replaced twice,
+
+690
+00:32:01,000 --> 00:32:03,000
+because it had to be a computer,
+
+691
+00:32:03,000 --> 00:32:05,000
+because if the tester says it,
+
+692
+00:32:05,000 --> 00:32:07,000
+no one else will get it.
+
+693
+00:32:07,000 --> 00:32:09,000
+In the end, my mechanic went
+
+694
+00:32:09,000 --> 00:32:11,000
+and with that tester,
+
+695
+00:32:11,000 --> 00:32:14,000
+but with a diagnostic user interface,
+
+696
+00:32:14,000 --> 00:32:17,000
+he looked at the engine
+
+697
+00:32:17,000 --> 00:32:19,000
+and said,
+
+698
+00:32:19,000 --> 00:32:21,000
+wait a minute,
+
+699
+00:32:21,000 --> 00:32:23,000
+this pressure is a bit low.
+
+700
+00:32:23,000 --> 00:32:25,000
+And in the end,
+
+701
+00:32:25,000 --> 00:32:27,000
+the whole thing,
+
+702
+00:32:27,000 --> 00:32:29,000
+from the turbocharger to the engine,
+
+703
+00:32:29,000 --> 00:32:31,000
+had a hole.
+
+704
+00:32:31,000 --> 00:32:33,000
+And that was the first time
+
+705
+00:32:33,000 --> 00:32:35,000
+Renault had that in Slovenia,
+
+706
+00:32:35,000 --> 00:32:37,000
+and it was such a rare occurrence
+
+707
+00:32:37,000 --> 00:32:40,000
+that Renault didn't have a tester for that.
+
+708
+00:32:40,000 --> 00:32:42,000
+But if you don't understand
+
+709
+00:32:42,000 --> 00:32:44,000
+what Mr. Tester is,
+
+710
+00:32:44,000 --> 00:32:46,000
+you'll never find it.
+
+711
+00:32:46,000 --> 00:32:48,000
+But that brings us to the topic
+
+712
+00:32:48,000 --> 00:32:50,000
+of troubleshooting.
+
+713
+00:32:50,000 --> 00:32:52,000
+But before we go there,
+
+714
+00:32:52,000 --> 00:32:54,000
+you have those
+
+715
+00:32:54,000 --> 00:32:56,000
+hardcore network engineers,
+
+716
+00:32:56,000 --> 00:32:58,000
+we need a few of them.
+
+717
+00:32:58,000 --> 00:33:00,000
+Then you have
+
+718
+00:33:00,000 --> 00:33:02,000
+installers.
+
+719
+00:33:02,000 --> 00:33:04,000
+Someone has to patch your wireless,
+
+720
+00:33:04,000 --> 00:33:06,000
+someone has to know which lights
+
+721
+00:33:06,000 --> 00:33:08,000
+have to be lit,
+
+722
+00:33:08,000 --> 00:33:10,000
+someone has to describe...
+
+723
+00:33:10,000 --> 00:33:12,000
+Yes.
+
+724
+00:33:12,000 --> 00:33:14,000
+Yes.
+
+725
+00:33:14,000 --> 00:33:16,000
+Of course, we need that.
+
+726
+00:33:16,000 --> 00:33:18,000
+Now they only have different connectors.
+
+727
+00:33:18,000 --> 00:33:20,000
+You know, we need that.
+
+728
+00:33:20,000 --> 00:33:22,000
+That's the thing.
+
+729
+00:33:22,000 --> 00:33:24,000
+But that's a middle school thing.
+
+730
+00:33:24,000 --> 00:33:26,000
+Then,
+
+731
+00:33:26,000 --> 00:33:28,000
+everyone who touches networking
+
+732
+00:33:28,000 --> 00:33:30,000
+for professional purposes,
+
+733
+00:33:30,000 --> 00:33:32,000
+all developers,
+
+734
+00:33:32,000 --> 00:33:34,000
+have to know
+
+735
+00:33:34,000 --> 00:33:36,000
+what are the properties
+
+736
+00:33:36,000 --> 00:33:38,000
+of what they're dealing with.
+
+737
+00:33:38,000 --> 00:33:40,000
+You know, it's like
+
+738
+00:33:40,000 --> 00:33:42,000
+when you try to design a car,
+
+739
+00:33:42,000 --> 00:33:44,000
+but you don't know what's the friction
+
+740
+00:33:44,000 --> 00:33:46,000
+and the tires.
+
+741
+00:33:46,000 --> 00:33:48,000
+In the first corner,
+
+742
+00:33:48,000 --> 00:33:50,000
+you go out and the road is wrong.
+
+743
+00:33:50,000 --> 00:33:52,000
+And he designed the road.
+
+744
+00:33:52,000 --> 00:33:54,000
+Everyone who wants to write
+
+745
+00:33:54,000 --> 00:33:56,000
+a web application
+
+746
+00:33:56,000 --> 00:33:58,000
+should have that knowledge.
+
+747
+00:33:58,000 --> 00:34:00,000
+Because every web application
+
+748
+00:34:00,000 --> 00:34:02,000
+is a distributed system,
+
+749
+00:34:02,000 --> 00:34:04,000
+and for every web application
+
+750
+00:34:04,000 --> 00:34:06,000
+you have a network.
+
+751
+00:34:06,000 --> 00:34:08,000
+So, programmers
+
+752
+00:34:08,000 --> 00:34:10,000
+who are not motivated
+
+753
+00:34:10,000 --> 00:34:12,000
+by the results of their work,
+
+754
+00:34:12,000 --> 00:34:14,000
+but by the time spent
+
+755
+00:34:14,000 --> 00:34:16,000
+in the workplace,
+
+756
+00:34:16,000 --> 00:34:18,000
+have the results I would expect.
+
+757
+00:34:18,000 --> 00:34:20,000
+They made a call to API, right?
+
+758
+00:34:20,000 --> 00:34:22,000
+Yes.
+
+759
+00:34:22,000 --> 00:34:24,000
+And everything works on Loopback.
+
+760
+00:34:24,000 --> 00:34:26,000
+Yes, absolutely.
+
+761
+00:34:26,000 --> 00:34:28,000
+I think the biggest thing is
+
+762
+00:34:28,000 --> 00:34:30,000
+that it's not just about
+
+763
+00:34:30,000 --> 00:34:32,000
+downloading DNS,
+
+764
+00:34:32,000 --> 00:34:34,000
+and then everything falls.
+
+765
+00:34:34,000 --> 00:34:36,000
+No, but you know what the problem is?
+
+766
+00:34:36,000 --> 00:34:38,000
+The problem is that they're testing on Loopback,
+
+767
+00:34:38,000 --> 00:34:40,000
+or they're testing on a local network.
+
+768
+00:34:40,000 --> 00:34:42,000
+And again, this is a problem
+
+769
+00:34:42,000 --> 00:34:44,000
+of the development environment,
+
+770
+00:34:44,000 --> 00:34:46,000
+not a problem of the programmer himself.
+
+771
+00:34:46,000 --> 00:34:48,000
+I mean, again, we have programmers,
+
+772
+00:34:48,000 --> 00:34:50,000
+but we also have software engineers.
+
+773
+00:34:50,000 --> 00:34:52,000
+A software engineer
+
+774
+00:34:52,000 --> 00:34:54,000
+would have to know
+
+775
+00:34:54,000 --> 00:34:56,000
+what a distributed system is.
+
+776
+00:34:56,000 --> 00:34:58,000
+Programmers don't care.
+
+777
+00:34:58,000 --> 00:35:00,000
+They get specifications,
+
+778
+00:35:00,000 --> 00:35:02,000
+and they make their own.
+
+779
+00:35:02,000 --> 00:35:04,000
+But a software engineer
+
+780
+00:35:04,000 --> 00:35:06,000
+would have to know.
+
+781
+00:35:06,000 --> 00:35:08,000
+For a programmer,
+
+782
+00:35:08,000 --> 00:35:10,000
+a thousand lines of code is this much.
+
+783
+00:35:10,000 --> 00:35:12,000
+That's right.
+
+784
+00:35:12,000 --> 00:35:14,000
+But the problem is that
+
+785
+00:35:14,000 --> 00:35:16,000
+no one ever tests
+
+786
+00:35:16,000 --> 00:35:18,000
+this master product
+
+787
+00:35:18,000 --> 00:35:20,000
+in a way that would be
+
+788
+00:35:20,000 --> 00:35:22,000
+similar to the real environment.
+
+789
+00:35:22,000 --> 00:35:24,000
+With real bandwidth
+
+790
+00:35:24,000 --> 00:35:26,000
+and real latency.
+
+791
+00:35:26,000 --> 00:35:28,000
+That's all you need.
+
+792
+00:35:28,000 --> 00:35:30,000
+You know,
+
+793
+00:35:30,000 --> 00:35:32,000
+as long as you don't test the car in the yard,
+
+794
+00:35:32,000 --> 00:35:34,000
+you can put it on the road.
+
+795
+00:35:34,000 --> 00:35:36,000
+But what if this other extreme happens,
+
+796
+00:35:36,000 --> 00:35:38,000
+where everything is connected to the cloud,
+
+797
+00:35:38,000 --> 00:35:40,000
+and then it's put into the situation?
+
+798
+00:35:40,000 --> 00:35:42,000
+Can I tell you a story about the cloud?
+
+799
+00:35:42,000 --> 00:35:44,000
+We're not there yet,
+
+800
+00:35:44,000 --> 00:35:46,000
+but we can.
+
+801
+00:35:46,000 --> 00:35:48,000
+Yes, something...
+
+802
+00:35:48,000 --> 00:35:50,000
+I mean, we just changed the latency.
+
+803
+00:35:50,000 --> 00:35:52,000
+We put everything into the cloud,
+
+804
+00:35:52,000 --> 00:35:54,000
+and that's it.
+
+805
+00:35:54,000 --> 00:35:56,000
+A multinational company decided
+
+806
+00:35:56,000 --> 00:35:58,000
+that the workload should be moved
+
+807
+00:35:58,000 --> 00:36:00,000
+to the cloud.
+
+808
+00:36:00,000 --> 00:36:02,000
+And private.
+
+809
+00:36:02,000 --> 00:36:04,000
+All right.
+
+810
+00:36:04,000 --> 00:36:06,000
+Very well done migration.
+
+811
+00:36:06,000 --> 00:36:08,000
+Everything went as planned.
+
+812
+00:36:08,000 --> 00:36:10,000
+Everything went as it should.
+
+813
+00:36:10,000 --> 00:36:12,000
+Applications were working more slowly.
+
+814
+00:36:12,000 --> 00:36:14,000
+Everything was running in the cloud.
+
+815
+00:36:14,000 --> 00:36:16,000
+Only the clients were local.
+
+816
+00:36:16,000 --> 00:36:18,000
+They had a database.
+
+817
+00:36:18,000 --> 00:36:20,000
+But what's wrong?
+
+818
+00:36:20,000 --> 00:36:22,000
+What has changed since the 5th of April?
+
+819
+00:36:22,000 --> 00:36:24,000
+The network, right?
+
+820
+00:36:24,000 --> 00:36:26,000
+Must be the network.
+
+821
+00:36:26,000 --> 00:36:28,000
+Where was the cloud?
+
+822
+00:36:28,000 --> 00:36:30,000
+At the other end of the world?
+
+823
+00:36:30,000 --> 00:36:32,000
+How do you know?
+
+824
+00:36:32,000 --> 00:36:34,000
+In a country
+
+825
+00:36:34,000 --> 00:36:36,000
+that is geographically
+
+826
+00:36:36,000 --> 00:36:38,000
+very close,
+
+827
+00:36:38,000 --> 00:36:40,000
+but outside of the EU.
+
+828
+00:36:40,000 --> 00:36:42,000
+That's an important information.
+
+829
+00:36:42,000 --> 00:36:44,000
+And the packages go through China?
+
+830
+00:36:44,000 --> 00:36:46,000
+No.
+
+831
+00:36:46,000 --> 00:36:48,000
+Of course, the network engineer knows the subject.
+
+832
+00:36:48,000 --> 00:36:50,000
+So the mean time to innocence
+
+833
+00:36:50,000 --> 00:36:52,000
+was a few weeks.
+
+834
+00:36:52,000 --> 00:36:54,000
+Here it's necessary to prove
+
+835
+00:36:54,000 --> 00:36:56,000
+that it's not the network.
+
+836
+00:36:56,000 --> 00:36:58,000
+Then they finally started to look
+
+837
+00:36:58,000 --> 00:37:00,000
+what the database is doing.
+
+838
+00:37:00,000 --> 00:37:02,000
+And they realized that the complete database
+
+839
+00:37:02,000 --> 00:37:04,000
+in the cloud,
+
+840
+00:37:04,000 --> 00:37:06,000
+which was 10 milliseconds away from the client,
+
+841
+00:37:06,000 --> 00:37:08,000
+username and password
+
+842
+00:37:08,000 --> 00:37:10,000
+and authentication
+
+843
+00:37:10,000 --> 00:37:12,000
+is called locally because GDPR.
+
+844
+00:37:14,000 --> 00:37:16,000
+Well done.
+
+845
+00:37:16,000 --> 00:37:18,000
+And every request
+
+846
+00:37:18,000 --> 00:37:20,000
+that you made on the database
+
+847
+00:37:20,000 --> 00:37:22,000
+in the country X
+
+848
+00:37:22,000 --> 00:37:24,000
+was sent back another request
+
+849
+00:37:24,000 --> 00:37:26,000
+to ask if the user
+
+850
+00:37:26,000 --> 00:37:28,000
+can make that request on the database X.
+
+851
+00:37:30,000 --> 00:37:32,000
+So latency can be important.
+
+852
+00:37:32,000 --> 00:37:34,000
+You know how I like to talk about the cloud.
+
+853
+00:37:34,000 --> 00:37:36,000
+I adore cloud storage.
+
+854
+00:37:36,000 --> 00:37:38,000
+I adore it from the bottom of my heart.
+
+855
+00:37:38,000 --> 00:37:40,000
+So far, the cloud is on my disks,
+
+856
+00:37:40,000 --> 00:37:42,000
+on my servers,
+
+857
+00:37:42,000 --> 00:37:44,000
+in my datacenter.
+
+858
+00:37:44,000 --> 00:37:46,000
+Well, I've been living on the cloud
+
+859
+00:37:46,000 --> 00:37:48,000
+for years and years
+
+860
+00:37:48,000 --> 00:37:50,000
+and everything is good
+
+861
+00:37:50,000 --> 00:37:52,000
+in the cloud.
+
+862
+00:37:52,000 --> 00:37:54,000
+I mean,
+
+863
+00:37:54,000 --> 00:37:56,000
+thank God I don't have to deal
+
+864
+00:37:56,000 --> 00:37:58,000
+with those eggs anymore
+
+865
+00:37:58,000 --> 00:38:00,000
+and that someone else starts it.
+
+866
+00:38:00,000 --> 00:38:02,000
+There are no real problems.
+
+867
+00:38:02,000 --> 00:38:04,000
+There must be some,
+
+868
+00:38:04,000 --> 00:38:06,000
+but it's good that they don't sell more things
+
+869
+00:38:06,000 --> 00:38:08,000
+than everything.
+
+870
+00:38:08,000 --> 00:38:10,000
+I mean, every environment
+
+871
+00:38:10,000 --> 00:38:12,000
+or you can say
+
+872
+00:38:12,000 --> 00:38:14,000
+every developer
+
+873
+00:38:14,000 --> 00:38:16,000
+gives you some constraints.
+
+874
+00:38:16,000 --> 00:38:18,000
+If you go beyond that
+
+875
+00:38:18,000 --> 00:38:20,000
+and you don't care about it...
+
+876
+00:38:20,000 --> 00:38:22,000
+That's the problem.
+
+877
+00:38:22,000 --> 00:38:24,000
+Because, let's say,
+
+878
+00:38:24,000 --> 00:38:26,000
+US East 1
+
+879
+00:38:26,000 --> 00:38:28,000
+fell on Amazon
+
+880
+00:38:28,000 --> 00:38:30,000
+and 80%
+
+881
+00:38:30,000 --> 00:38:32,000
+of web stories went to the cloud.
+
+882
+00:38:32,000 --> 00:38:34,000
+The problem is
+
+883
+00:38:34,000 --> 00:38:36,000
+that Amazon made it very clear
+
+884
+00:38:36,000 --> 00:38:38,000
+that we never
+
+885
+00:38:38,000 --> 00:38:40,000
+want the whole region
+
+886
+00:38:40,000 --> 00:38:42,000
+to go to the cloud.
+
+887
+00:38:42,000 --> 00:38:44,000
+And if you have a mission critical application,
+
+888
+00:38:44,000 --> 00:38:46,000
+you must have an application
+
+889
+00:38:46,000 --> 00:38:48,000
+in at least two regions.
+
+890
+00:38:48,000 --> 00:38:50,000
+And we have the tools to do that.
+
+891
+00:38:50,000 --> 00:38:52,000
+We have that load balancer,
+
+892
+00:38:52,000 --> 00:38:54,000
+load balancer 3, load balancer DNA.
+
+893
+00:38:54,000 --> 00:38:56,000
+We have Anycast, for example.
+
+894
+00:38:56,000 --> 00:38:58,000
+Even Amazon has Anycast.
+
+895
+00:38:58,000 --> 00:39:00,000
+Yes, it lasted.
+
+896
+00:39:00,000 --> 00:39:02,000
+Yes.
+
+897
+00:39:02,000 --> 00:39:04,000
+Before they buried the whole region.
+
+898
+00:39:04,000 --> 00:39:06,000
+No, you know what?
+
+899
+00:39:06,000 --> 00:39:08,000
+You don't need Anycast
+
+900
+00:39:08,000 --> 00:39:10,000
+if you have a good enough DNA
+
+901
+00:39:10,000 --> 00:39:12,000
+and an application
+
+902
+00:39:12,000 --> 00:39:14,000
+that works in the browser.
+
+903
+00:39:14,000 --> 00:39:16,000
+You need Anycast
+
+904
+00:39:16,000 --> 00:39:18,000
+for things that don't need
+
+905
+00:39:18,000 --> 00:39:20,000
+DNA.
+
+906
+00:39:20,000 --> 00:39:22,000
+I just built
+
+907
+00:39:22,000 --> 00:39:24,000
+one
+
+908
+00:39:24,000 --> 00:39:26,000
+this year.
+
+909
+00:39:26,000 --> 00:39:28,000
+Global Anycast Network.
+
+910
+00:39:28,000 --> 00:39:30,000
+It will finally be streamed.
+
+911
+00:39:30,000 --> 00:39:32,000
+And it is...
+
+912
+00:39:32,000 --> 00:39:34,000
+I have to admit something.
+
+913
+00:39:34,000 --> 00:39:36,000
+Now that I've built
+
+914
+00:39:36,000 --> 00:39:38,000
+Global Anycast Network,
+
+915
+00:39:38,000 --> 00:39:40,000
+I've learned more about BGPU
+
+916
+00:39:40,000 --> 00:39:42,000
+than in the last 10 years.
+
+917
+00:39:42,000 --> 00:39:44,000
+You've finally learned about BGPU.
+
+918
+00:39:44,000 --> 00:39:46,000
+Now I'm going to interrupt you.
+
+919
+00:39:46,000 --> 00:39:48,000
+You know,
+
+920
+00:39:48,000 --> 00:39:50,000
+we've gone deep
+
+921
+00:39:50,000 --> 00:39:52,000
+into the technology.
+
+922
+00:39:52,000 --> 00:39:54,000
+What are the basics?
+
+923
+00:39:54,000 --> 00:39:56,000
+Just a little bit about what Anycast is.
+
+924
+00:39:56,000 --> 00:39:58,000
+What is Anycast?
+
+925
+00:39:58,000 --> 00:40:00,000
+Unicast, right?
+
+926
+00:40:00,000 --> 00:40:02,000
+That's what most people use.
+
+927
+00:40:02,000 --> 00:40:04,000
+No, let's start with DNA.
+
+928
+00:40:04,000 --> 00:40:06,000
+Oh boy. No, DNA will be your name.
+
+929
+00:40:06,000 --> 00:40:08,000
+OK. You have a server on two locations.
+
+930
+00:40:08,000 --> 00:40:10,000
+And now the Americans
+
+931
+00:40:10,000 --> 00:40:12,000
+choose a location,
+
+932
+00:40:12,000 --> 00:40:14,000
+and the Europeans choose another location.
+
+933
+00:40:14,000 --> 00:40:16,000
+The first way to do that
+
+934
+00:40:16,000 --> 00:40:18,000
+is to have those two locations
+
+935
+00:40:18,000 --> 00:40:20,000
+with different names.
+
+936
+00:40:20,000 --> 00:40:22,000
+And the DNS server will find you
+
+937
+00:40:22,000 --> 00:40:24,000
+and give you one or the other name.
+
+938
+00:40:24,000 --> 00:40:26,000
+That's classic.
+
+939
+00:40:26,000 --> 00:40:28,000
+But watch out.
+
+940
+00:40:28,000 --> 00:40:30,000
+That breaks the DNS-RFC.
+
+941
+00:40:30,000 --> 00:40:32,000
+Because the DNS
+
+942
+00:40:32,000 --> 00:40:34,000
+in the beginning would always
+
+943
+00:40:34,000 --> 00:40:36,000
+have to be the same.
+
+944
+00:40:36,000 --> 00:40:38,000
+I'm not going there.
+
+945
+00:40:38,000 --> 00:40:40,000
+And it breaks the DNSSEC.
+
+946
+00:40:44,000 --> 00:40:46,000
+Unless you disassemble
+
+947
+00:40:46,000 --> 00:40:48,000
+all the keys and sign them.
+
+948
+00:40:48,000 --> 00:40:50,000
+But yes, in the beginning
+
+949
+00:40:50,000 --> 00:40:52,000
+it breaks fundamentally.
+
+950
+00:40:52,000 --> 00:40:54,000
+That's pure high availability.
+
+951
+00:40:56,000 --> 00:40:58,000
+Now let's talk about
+
+952
+00:40:58,000 --> 00:41:00,000
+how much
+
+953
+00:41:00,000 --> 00:41:02,000
+the GeoDNS feature
+
+954
+00:41:02,000 --> 00:41:04,000
+uses DNSSEC.
+
+955
+00:41:04,000 --> 00:41:06,000
+I didn't do anything to it, did I?
+
+956
+00:41:08,000 --> 00:41:10,000
+Wait a minute.
+
+957
+00:41:10,000 --> 00:41:12,000
+You don't have to sign both records.
+
+958
+00:41:12,000 --> 00:41:14,000
+Yes, but then you have to disassemble
+
+959
+00:41:14,000 --> 00:41:16,000
+all the keys.
+
+960
+00:41:16,000 --> 00:41:18,000
+No, wait a minute.
+
+961
+00:41:18,000 --> 00:41:20,000
+You have a private key,
+
+962
+00:41:20,000 --> 00:41:22,000
+and you sign the answer with the private key.
+
+963
+00:41:22,000 --> 00:41:24,000
+The client can check it
+
+964
+00:41:24,000 --> 00:41:26,000
+with the public key.
+
+965
+00:41:26,000 --> 00:41:28,000
+The truth is that you can have
+
+966
+00:41:28,000 --> 00:41:30,000
+different zones
+
+967
+00:41:30,000 --> 00:41:32,000
+with different identities,
+
+968
+00:41:32,000 --> 00:41:34,000
+but you don't have to sign
+
+969
+00:41:34,000 --> 00:41:36,000
+with your private key.
+
+970
+00:41:36,000 --> 00:41:38,000
+Yes, and it quickly becomes complex.
+
+971
+00:41:38,000 --> 00:41:40,000
+No, but you have to have
+
+972
+00:41:40,000 --> 00:41:42,000
+the same private key
+
+973
+00:41:42,000 --> 00:41:44,000
+at all locations.
+
+974
+00:41:44,000 --> 00:41:46,000
+Yes, and you don't want
+
+975
+00:41:46,000 --> 00:41:48,000
+your private key,
+
+976
+00:41:48,000 --> 00:41:50,000
+no matter how serious it is,
+
+977
+00:41:50,000 --> 00:41:52,000
+to have it at a secure location.
+
+978
+00:41:52,000 --> 00:41:54,000
+No, look, you can still have
+
+979
+00:41:54,000 --> 00:41:56,000
+the NDNS server.
+
+980
+00:41:56,000 --> 00:41:58,000
+Yes, and you sign more different zones,
+
+981
+00:41:58,000 --> 00:42:00,000
+and then you disassemble them.
+
+982
+00:42:00,000 --> 00:42:02,000
+Yes, and then it becomes complex very quickly.
+
+983
+00:42:02,000 --> 00:42:04,000
+You know what the problem is?
+
+984
+00:42:04,000 --> 00:42:06,000
+It's the debate we had before,
+
+985
+00:42:06,000 --> 00:42:08,000
+that the Socket API is broken.
+
+986
+00:42:08,000 --> 00:42:10,000
+Yes.
+
+987
+00:42:10,000 --> 00:42:12,000
+Because the application,
+
+988
+00:42:12,000 --> 00:42:14,000
+if you look at how,
+
+989
+00:42:14,000 --> 00:42:16,000
+not how a high-level API is written
+
+990
+00:42:16,000 --> 00:42:18,000
+for, I don't know, JavaScript,
+
+991
+00:42:18,000 --> 00:42:20,000
+but if you look at what
+
+992
+00:42:20,000 --> 00:42:22,000
+really happens in a library,
+
+993
+00:42:22,000 --> 00:42:24,000
+which is actually a bundle
+
+994
+00:42:24,000 --> 00:42:26,000
+with its own binary,
+
+995
+00:42:26,000 --> 00:42:28,000
+or a shared library on Linux,
+
+996
+00:42:28,000 --> 00:42:30,000
+or Windows, or whatever.
+
+997
+00:42:30,000 --> 00:42:32,000
+I think Apple is the only one.
+
+998
+00:42:32,000 --> 00:42:34,000
+The application
+
+999
+00:42:34,000 --> 00:42:36,000
+asks the operating system
+
+1000
+00:42:36,000 --> 00:42:38,000
+how to map
+
+1001
+00:42:38,000 --> 00:42:40,000
+this name to this title.
+
+1002
+00:42:40,000 --> 00:42:42,000
+And then the application
+
+1003
+00:42:42,000 --> 00:42:44,000
+says,
+
+1004
+00:42:44,000 --> 00:42:46,000
+please give me a link
+
+1005
+00:42:46,000 --> 00:42:48,000
+to this title.
+
+1006
+00:42:48,000 --> 00:42:50,000
+And now,
+
+1007
+00:42:50,000 --> 00:42:52,000
+in a normal world,
+
+1008
+00:42:52,000 --> 00:42:54,000
+the application would say,
+
+1009
+00:42:54,000 --> 00:42:56,000
+I need a link
+
+1010
+00:42:56,000 --> 00:42:58,000
+to this title,
+
+1011
+00:42:58,000 --> 00:43:00,000
+and the operating system would do the rest.
+
+1012
+00:43:00,000 --> 00:43:02,000
+What we have today
+
+1013
+00:43:02,000 --> 00:43:04,000
+is that the DNS returns
+
+1014
+00:43:04,000 --> 00:43:06,000
+not one response, but
+
+1015
+00:43:06,000 --> 00:43:08,000
+2, 4, 8,
+
+1016
+00:43:08,000 --> 00:43:10,000
+16, however many words,
+
+1017
+00:43:10,000 --> 00:43:12,000
+half of which is IPv4,
+
+1018
+00:43:12,000 --> 00:43:14,000
+half of which is IPv6.
+
+1019
+00:43:14,000 --> 00:43:16,000
+And then, of course,
+
+1020
+00:43:16,000 --> 00:43:18,000
+the rules are made.
+
+1021
+00:43:18,000 --> 00:43:20,000
+First, try IPv6
+
+1022
+00:43:20,000 --> 00:43:22,000
+words, and then IPv4 words.
+
+1023
+00:43:22,000 --> 00:43:24,000
+And in the entire operating system,
+
+1024
+00:43:24,000 --> 00:43:26,000
+this is also implemented,
+
+1025
+00:43:26,000 --> 00:43:28,000
+or pre-sorted, because we can't
+
+1026
+00:43:28,000 --> 00:43:30,000
+believe that the programmer
+
+1027
+00:43:30,000 --> 00:43:32,000
+will do it correctly.
+
+1028
+00:43:32,000 --> 00:43:34,000
+So you have Happy Eyeballs, right?
+
+1029
+00:43:34,000 --> 00:43:36,000
+No, Happy Eyeballs is implemented
+
+1030
+00:43:36,000 --> 00:43:38,000
+in the application.
+
+1031
+00:43:38,000 --> 00:43:40,000
+No, it's not on the operating system either.
+
+1032
+00:43:40,000 --> 00:43:42,000
+On Apple.
+
+1033
+00:43:42,000 --> 00:43:44,000
+On Apple, not on Linux.
+
+1034
+00:43:44,000 --> 00:43:46,000
+Happy Eyeballs is,
+
+1035
+00:43:46,000 --> 00:43:48,000
+for example,
+
+1036
+00:43:48,000 --> 00:43:50,000
+implemented in macOS
+
+1037
+00:43:50,000 --> 00:43:52,000
+at the operating system level,
+
+1038
+00:43:52,000 --> 00:43:54,000
+but with another API.
+
+1039
+00:43:56,000 --> 00:43:58,000
+For those of you who don't follow
+
+1040
+00:43:58,000 --> 00:44:00,000
+Happy Eyeballs,
+
+1041
+00:44:00,000 --> 00:44:02,000
+that is, that data set
+
+1042
+00:44:02,000 --> 00:44:04,000
+over 6 that you get, which is identical...
+
+1043
+00:44:04,000 --> 00:44:06,000
+No, no, no.
+
+1044
+00:44:06,000 --> 00:44:08,000
+You send requests
+
+1045
+00:44:08,000 --> 00:44:10,000
+for IPv4 and IPv6.
+
+1046
+00:44:10,000 --> 00:44:12,000
+You try both of them right away.
+
+1047
+00:44:12,000 --> 00:44:14,000
+Right away.
+
+1048
+00:44:14,000 --> 00:44:16,000
+A little later.
+
+1049
+00:44:16,000 --> 00:44:18,000
+Yes, depending on the implementation.
+
+1050
+00:44:18,000 --> 00:44:20,000
+And then, according to the same protocol
+
+1051
+00:44:20,000 --> 00:44:22,000
+you take it
+
+1052
+00:44:22,000 --> 00:44:24,000
+as the primary protocol
+
+1053
+00:44:24,000 --> 00:44:26,000
+and use it for the destination.
+
+1054
+00:44:26,000 --> 00:44:28,000
+The problem is, of course,
+
+1055
+00:44:28,000 --> 00:44:30,000
+that you can get it back,
+
+1056
+00:44:30,000 --> 00:44:32,000
+it's still installed, but then the data
+
+1057
+00:44:32,000 --> 00:44:34,000
+doesn't go through.
+
+1058
+00:44:34,000 --> 00:44:36,000
+If I had understood
+
+1059
+00:44:36,000 --> 00:44:38,000
+Happy Eyeballs, I would have solved that part too.
+
+1060
+00:44:38,000 --> 00:44:40,000
+You know what, Happy Eyeballs
+
+1061
+00:44:40,000 --> 00:44:42,000
+is what we lack, for example.
+
+1062
+00:44:42,000 --> 00:44:44,000
+I don't.
+
+1063
+00:44:44,000 --> 00:44:46,000
+Look, the first problem
+
+1064
+00:44:46,000 --> 00:44:48,000
+is that the operating system
+
+1065
+00:44:48,000 --> 00:44:50,000
+doesn't connect the data API
+
+1066
+00:44:50,000 --> 00:44:52,000
+to the device.
+
+1067
+00:44:52,000 --> 00:44:54,000
+It's like if I wanted
+
+1068
+00:44:54,000 --> 00:44:56,000
+to talk to you,
+
+1069
+00:44:56,000 --> 00:44:58,000
+and then someone would say to me,
+
+1070
+00:44:58,000 --> 00:45:00,000
+go to 12.5.
+
+1071
+00:45:00,000 --> 00:45:02,000
+I'd be like, I don't want to.
+
+1072
+00:45:02,000 --> 00:45:04,000
+No, no, 12.5.
+
+1073
+00:45:04,000 --> 00:45:06,000
+And then I come, I say,
+
+1074
+00:45:06,000 --> 00:45:08,000
+I went out.
+
+1075
+00:45:08,000 --> 00:45:10,000
+No,
+
+1076
+00:45:10,000 --> 00:45:12,000
+you can't.
+
+1077
+00:45:12,000 --> 00:45:14,000
+Try another word.
+
+1078
+00:45:14,000 --> 00:45:16,000
+Now, you get back
+
+1079
+00:45:16,000 --> 00:45:18,000
+to X word, and then
+
+1080
+00:45:18,000 --> 00:45:20,000
+it depends on how smart you are as a programmer,
+
+1081
+00:45:20,000 --> 00:45:22,000
+if you don't use some books.
+
+1082
+00:45:22,000 --> 00:45:24,000
+What's wrong with those books?
+
+1083
+00:45:24,000 --> 00:45:26,000
+You don't know. That's the next problem.
+
+1084
+00:45:26,000 --> 00:45:28,000
+Because in time,
+
+1085
+00:45:28,000 --> 00:45:30,000
+you went through that list of words,
+
+1086
+00:45:30,000 --> 00:45:32,000
+you tried, you wrote it
+
+1087
+00:45:32,000 --> 00:45:34,000
+with the device, and every time you waited
+
+1088
+00:45:34,000 --> 00:45:36,000
+three minutes.
+
+1089
+00:45:36,000 --> 00:45:38,000
+Yes, the timeout was fantastic.
+
+1090
+00:45:38,000 --> 00:45:40,000
+Yes, and that's how
+
+1091
+00:45:40,000 --> 00:45:42,000
+IPv6
+
+1092
+00:45:42,000 --> 00:45:44,000
+worked on, for example, Windows
+
+1093
+00:45:44,000 --> 00:45:46,000
+and Linux, and because of that,
+
+1094
+00:45:46,000 --> 00:45:48,000
+nothing started to crash.
+
+1095
+00:45:48,000 --> 00:45:50,000
+IPv6 was before IPv4.
+
+1096
+00:45:50,000 --> 00:45:52,000
+If IPv6 was broken,
+
+1097
+00:45:52,000 --> 00:45:54,000
+it didn't do anything, because every time
+
+1098
+00:45:54,000 --> 00:45:56,000
+it waited three minutes before the timeout.
+
+1099
+00:45:56,000 --> 00:45:58,000
+And that's why they made
+
+1100
+00:45:58,000 --> 00:46:00,000
+Happy Eyeballs, but Happy Eyeballs
+
+1101
+00:46:00,000 --> 00:46:02,000
+is implemented in the browser.
+
+1102
+00:46:02,000 --> 00:46:04,000
+Yes.
+
+1103
+00:46:04,000 --> 00:46:06,000
+In the application.
+
+1104
+00:46:06,000 --> 00:46:08,000
+Every application that
+
+1105
+00:46:08,000 --> 00:46:10,000
+wants to behave similarly,
+
+1106
+00:46:10,000 --> 00:46:12,000
+has to implement the same code,
+
+1107
+00:46:12,000 --> 00:46:14,000
+in the same way.
+
+1108
+00:46:14,000 --> 00:46:16,000
+Yes, Happy Eyeballs solved
+
+1109
+00:46:16,000 --> 00:46:18,000
+the fear of operators.
+
+1110
+00:46:18,000 --> 00:46:20,000
+Do you know that I was in
+
+1111
+00:46:20,000 --> 00:46:22,000
+a design group in Prague
+
+1112
+00:46:22,000 --> 00:46:24,000
+when we designed
+
+1113
+00:46:24,000 --> 00:46:26,000
+Happy Eyeballs with
+
+1114
+00:46:26,000 --> 00:46:28,000
+Endro Jurčenko and Dan.
+
+1115
+00:46:28,000 --> 00:46:30,000
+The first one.
+
+1116
+00:46:30,000 --> 00:46:32,000
+Yes, but
+
+1117
+00:46:32,000 --> 00:46:34,000
+it turned out that
+
+1118
+00:46:34,000 --> 00:46:36,000
+just as Happy Eyeballs
+
+1119
+00:46:36,000 --> 00:46:38,000
+is good and useful
+
+1120
+00:46:38,000 --> 00:46:40,000
+and nice and lovely
+
+1121
+00:46:40,000 --> 00:46:42,000
+and everything,
+
+1122
+00:46:42,000 --> 00:46:44,000
+it's hard for those
+
+1123
+00:46:44,000 --> 00:46:46,000
+who would like to disable
+
+1124
+00:46:46,000 --> 00:46:48,000
+IPv4.
+
+1125
+00:46:48,000 --> 00:46:50,000
+Because Happy Eyeballs
+
+1126
+00:46:50,000 --> 00:46:52,000
+masks all the problems
+
+1127
+00:46:52,000 --> 00:46:54,000
+on the IPv6 protocol in the network.
+
+1128
+00:46:54,000 --> 00:46:56,000
+It's the MWD syndrome.
+
+1129
+00:46:56,000 --> 00:46:58,000
+Everything works for me.
+
+1130
+00:46:58,000 --> 00:47:00,000
+And then,
+
+1131
+00:47:00,000 --> 00:47:02,000
+if someone gets on Facebook
+
+1132
+00:47:02,000 --> 00:47:04,000
+or Google or whatever,
+
+1133
+00:47:04,000 --> 00:47:06,000
+the user is not interested
+
+1134
+00:47:06,000 --> 00:47:08,000
+in IPv4 or IPv6.
+
+1135
+00:47:08,000 --> 00:47:10,000
+He doesn't care
+
+1136
+00:47:10,000 --> 00:47:12,000
+where the electricity
+
+1137
+00:47:12,000 --> 00:47:14,000
+comes from.
+
+1138
+00:47:14,000 --> 00:47:16,000
+Mine is from the nuclear power plant.
+
+1139
+00:47:16,000 --> 00:47:18,000
+That's what it says on my account.
+
+1140
+00:47:18,000 --> 00:47:20,000
+If you trust the operators
+
+1141
+00:47:20,000 --> 00:47:22,000
+or the distributors.
+
+1142
+00:47:22,000 --> 00:47:24,000
+It's not like
+
+1143
+00:47:24,000 --> 00:47:26,000
+the electronics can decide
+
+1144
+00:47:26,000 --> 00:47:28,000
+and paint them.
+
+1145
+00:47:28,000 --> 00:47:30,000
+On a network level,
+
+1146
+00:47:30,000 --> 00:47:32,000
+it's possible.
+
+1147
+00:47:32,000 --> 00:47:34,000
+Network vendors
+
+1148
+00:47:34,000 --> 00:47:36,000
+do it because
+
+1149
+00:47:36,000 --> 00:47:38,000
+they take the complexity into account.
+
+1150
+00:47:38,000 --> 00:47:40,000
+It's called 5G network slicing.
+
+1151
+00:47:40,000 --> 00:47:42,000
+Yep.
+
+1152
+00:47:42,000 --> 00:47:44,000
+OK, sorry.
+
+1153
+00:47:44,000 --> 00:47:46,000
+Anyway,
+
+1154
+00:47:46,000 --> 00:47:48,000
+it masks a lot of problems
+
+1155
+00:47:48,000 --> 00:47:50,000
+and prevents
+
+1156
+00:47:50,000 --> 00:47:52,000
+people from actively
+
+1157
+00:47:52,000 --> 00:47:54,000
+troubleshooting
+
+1158
+00:47:54,000 --> 00:47:56,000
+their IPv6 network.
+
+1159
+00:47:56,000 --> 00:47:58,000
+Now we have the same problem
+
+1160
+00:47:58,000 --> 00:48:00,000
+with QUIC.
+
+1161
+00:48:00,000 --> 00:48:02,000
+TCP versus QUIC.
+
+1162
+00:48:02,000 --> 00:48:04,000
+One is TCP, the other is UDP.
+
+1163
+00:48:04,000 --> 00:48:06,000
+Again,
+
+1164
+00:48:06,000 --> 00:48:08,000
+the implementations
+
+1165
+00:48:08,000 --> 00:48:10,000
+try to make both
+
+1166
+00:48:10,000 --> 00:48:12,000
+short.
+
+1167
+00:48:12,000 --> 00:48:14,000
+So,
+
+1168
+00:48:14,000 --> 00:48:16,000
+if you go to a website,
+
+1169
+00:48:16,000 --> 00:48:18,000
+you try to make it 4-series.
+
+1170
+00:48:18,000 --> 00:48:20,000
+Oh, now we're working
+
+1171
+00:48:20,000 --> 00:48:22,000
+on DNS over QUIC.
+
+1172
+00:48:22,000 --> 00:48:24,000
+That'll be fun.
+
+1173
+00:48:24,000 --> 00:48:26,000
+That'll be fun.
+
+1174
+00:48:26,000 --> 00:48:28,000
+I can enable it
+
+1175
+00:48:28,000 --> 00:48:30,000
+in the lab
+
+1176
+00:48:30,000 --> 00:48:32,000
+later.
+
+1177
+00:48:32,000 --> 00:48:34,000
+When we go
+
+1178
+00:48:34,000 --> 00:48:36,000
+step by step,
+
+1179
+00:48:36,000 --> 00:48:38,000
+we like encapsulation
+
+1180
+00:48:38,000 --> 00:48:40,000
+more.
+
+1181
+00:48:40,000 --> 00:48:42,000
+Anyone who touches
+
+1182
+00:48:42,000 --> 00:48:44,000
+networking should
+
+1183
+00:48:44,000 --> 00:48:46,000
+switch to RFC1925.
+
+1184
+00:48:46,000 --> 00:48:48,000
+Yep.
+
+1185
+00:48:48,000 --> 00:48:50,000
+What does it say?
+
+1186
+00:48:50,000 --> 00:48:52,000
+It's about 12 rules
+
+1187
+00:48:52,000 --> 00:48:54,000
+of networking.
+
+1188
+00:48:54,000 --> 00:48:56,000
+One of them is
+
+1189
+00:48:56,000 --> 00:48:58,000
+it's always something.
+
+1190
+00:48:58,000 --> 00:49:00,000
+Yeah, it's always something.
+
+1191
+00:49:00,000 --> 00:49:02,000
+One of them is
+
+1192
+00:49:02,000 --> 00:49:04,000
+every old idea
+
+1193
+00:49:04,000 --> 00:49:06,000
+will be propagated
+
+1194
+00:49:06,000 --> 00:49:08,000
+in a new form.
+
+1195
+00:49:08,000 --> 00:49:10,000
+With a new buzzword
+
+1196
+00:49:10,000 --> 00:49:12,000
+in marketing.
+
+1197
+00:49:12,000 --> 00:49:14,000
+And the other one,
+
+1198
+00:49:14,000 --> 00:49:16,000
+what did I mean?
+
+1199
+00:49:16,000 --> 00:49:18,000
+You can always add
+
+1200
+00:49:18,000 --> 00:49:20,000
+another level of indirection.
+
+1201
+00:49:20,000 --> 00:49:22,000
+And complexity.
+
+1202
+00:49:22,000 --> 00:49:24,000
+I like the first one.
+
+1203
+00:49:24,000 --> 00:49:26,000
+It should work.
+
+1204
+00:49:26,000 --> 00:49:28,000
+That's the first rule of networking.
+
+1205
+00:49:28,000 --> 00:49:30,000
+The other one is...
+
+1206
+00:49:30,000 --> 00:49:32,000
+With sufficient trust,
+
+1207
+00:49:32,000 --> 00:49:34,000
+pigs fly just fine.
+
+1208
+00:49:34,000 --> 00:49:36,000
+Yeah.
+
+1209
+00:49:36,000 --> 00:49:38,000
+If we have enough drive...
+
+1210
+00:49:38,000 --> 00:49:40,000
+They fly well.
+
+1211
+00:49:40,000 --> 00:49:42,000
+But maybe I'm wrong.
+
+1212
+00:49:42,000 --> 00:49:44,000
+In a way, you want to say
+
+1213
+00:49:44,000 --> 00:49:46,000
+that,
+
+1214
+00:49:46,000 --> 00:49:48,000
+considering how these things stand,
+
+1215
+00:49:48,000 --> 00:49:50,000
+every developer
+
+1216
+00:49:50,000 --> 00:49:52,000
+would solve
+
+1217
+00:49:52,000 --> 00:49:54,000
+the problem
+
+1218
+00:49:54,000 --> 00:49:56,000
+on an application level.
+
+1219
+00:49:56,000 --> 00:49:58,000
+No, that's a mistake.
+
+1220
+00:49:58,000 --> 00:50:00,000
+No.
+
+1221
+00:50:00,000 --> 00:50:01,000
+Let's say that...
+
+1222
+00:50:01,000 --> 00:50:02,000
+Let's use libraries.
+
+1223
+00:50:02,000 --> 00:50:03,000
+Yes, but...
+
+1224
+00:50:03,000 --> 00:50:06,000
+That it will be solved on the operating system,
+
+1225
+00:50:06,000 --> 00:50:08,000
+that the apps will be able to call...
+
+1226
+00:50:08,000 --> 00:50:12,000
+Yes, but you have to know that laws of physics exist.
+
+1227
+00:50:13,000 --> 00:50:18,000
+You're offloading this problem to a good library, thank God.
+
+1228
+00:50:18,000 --> 00:50:20,000
+Because if we all use the same library,
+
+1229
+00:50:20,000 --> 00:50:23,000
+then like OpenSSN,
+
+1230
+00:50:24,000 --> 00:50:27,000
+we will all end up on the same bug at the same time,
+
+1231
+00:50:27,000 --> 00:50:29,000
+and someone will come and screw it up.
+
+1232
+00:50:29,000 --> 00:50:31,000
+And now we have 3-4 libraries on the same...
+
+1233
+00:50:31,000 --> 00:50:32,000
+It's all the same.
+
+1234
+00:50:32,000 --> 00:50:35,000
+The problem is that you have someone who doesn't use a library.
+
+1235
+00:50:36,000 --> 00:50:39,000
+You take a 15-year-old book,
+
+1236
+00:50:40,000 --> 00:50:42,000
+Python for beginners,
+
+1237
+00:50:43,000 --> 00:50:45,000
+copy the code from there and let's go.
+
+1238
+00:50:45,000 --> 00:50:46,000
+Yes.
+
+1239
+00:50:46,000 --> 00:50:47,000
+That's the problem.
+
+1240
+00:50:47,000 --> 00:50:48,000
+Copy-paste, with IP, right?
+
+1241
+00:50:48,000 --> 00:50:49,000
+Yes, yes.
+
+1242
+00:50:49,000 --> 00:50:50,000
+With IP, yes.
+
+1243
+00:50:50,000 --> 00:50:51,000
+With old code.
+
+1244
+00:50:51,000 --> 00:50:53,000
+No, I mean, that's next.
+
+1245
+00:50:53,000 --> 00:50:54,000
+I had...
+
+1246
+00:50:54,000 --> 00:50:57,000
+Once I had a problem with a programmer,
+
+1247
+00:50:57,000 --> 00:50:59,000
+who didn't do anything,
+
+1248
+00:50:59,000 --> 00:51:01,000
+he decided it was a DNS problem,
+
+1249
+00:51:01,000 --> 00:51:03,000
+and he did a resolve,
+
+1250
+00:51:03,000 --> 00:51:06,000
+he resolved the name of the server in the IP address,
+
+1251
+00:51:06,000 --> 00:51:08,000
+and the IP address in the source code.
+
+1252
+00:51:08,000 --> 00:51:09,000
+Beautiful.
+
+1253
+00:51:09,000 --> 00:51:11,000
+He didn't put it in the configuration file.
+
+1254
+00:51:11,000 --> 00:51:12,000
+No.
+
+1255
+00:51:12,000 --> 00:51:13,000
+It's always DNS.
+
+1256
+00:51:13,000 --> 00:51:15,000
+No, the assumption that
+
+1257
+00:51:15,000 --> 00:51:20,000
+whenever you start with the IP address inside,
+
+1258
+00:51:20,000 --> 00:51:22,000
+even if it's more dynamic,
+
+1259
+00:51:22,000 --> 00:51:24,000
+that you go with that assumption,
+
+1260
+00:51:24,000 --> 00:51:25,000
+it can also be 6.
+
+1261
+00:51:25,000 --> 00:51:26,000
+Yes.
+
+1262
+00:51:26,000 --> 00:51:28,000
+You never expect anything.
+
+1263
+00:51:28,000 --> 00:51:29,000
+Yes.
+
+1264
+00:51:29,000 --> 00:51:31,000
+And you know what?
+
+1265
+00:51:31,000 --> 00:51:35,000
+In the 90s, a gentleman who worked on Sun,
+
+1266
+00:51:35,000 --> 00:51:37,000
+because Sun had this remote procedure,
+
+1267
+00:51:37,000 --> 00:51:39,000
+which was already very developed,
+
+1268
+00:51:39,000 --> 00:51:41,000
+he wrote some networking,
+
+1269
+00:51:41,000 --> 00:51:43,000
+I mean distributed systems,
+
+1270
+00:51:43,000 --> 00:51:45,000
+not even fallacies.
+
+1271
+00:51:45,000 --> 00:51:50,000
+And every programmer would have to go and think about it.
+
+1272
+00:51:50,000 --> 00:51:52,000
+Because, for example,
+
+1273
+00:51:52,000 --> 00:51:54,000
+bandwidth is infinite,
+
+1274
+00:51:54,000 --> 00:51:56,000
+latency is zero,
+
+1275
+00:51:56,000 --> 00:51:58,000
+the network is secure,
+
+1276
+00:51:58,000 --> 00:52:01,000
+there is a single administrator.
+
+1277
+00:52:02,000 --> 00:52:04,000
+And three more like that.
+
+1278
+00:52:04,000 --> 00:52:06,000
+Latency, you have zero to localhost.
+
+1279
+00:52:06,000 --> 00:52:08,000
+To loopback, yes.
+
+1280
+00:52:08,000 --> 00:52:09,000
+Yes.
+
+1281
+00:52:09,000 --> 00:52:10,000
+Yes.
+
+1282
+00:52:10,000 --> 00:52:13,000
+Hey, but if, for example,
+
+1283
+00:52:13,000 --> 00:52:15,000
+now I'm a bit monotonous,
+
+1284
+00:52:15,000 --> 00:52:16,000
+and I say,
+
+1285
+00:52:16,000 --> 00:52:18,000
+and now you,
+
+1286
+00:52:18,000 --> 00:52:20,000
+someone asks you,
+
+1287
+00:52:20,000 --> 00:52:22,000
+and we go to the same...
+
+1288
+00:52:23,000 --> 00:52:24,000
+No, no, no.
+
+1289
+00:52:24,000 --> 00:52:26,000
+That's a great idea.
+
+1290
+00:52:26,000 --> 00:52:27,000
+It's great.
+
+1291
+00:52:27,000 --> 00:52:29,000
+Try it now.
+
+1292
+00:52:33,000 --> 00:52:38,000
+What do you see as Don's biggest problems,
+
+1293
+00:52:38,000 --> 00:52:40,000
+with which, for example,
+
+1294
+00:52:40,000 --> 00:52:42,000
+I don't know,
+
+1295
+00:52:42,000 --> 00:52:44,000
+we started with cloud,
+
+1296
+00:52:44,000 --> 00:52:46,000
+let's say that cloud providers
+
+1297
+00:52:46,000 --> 00:52:50,000
+are the biggest consumers of the network,
+
+1298
+00:52:50,000 --> 00:52:52,000
+on the one hand,
+
+1299
+00:52:52,000 --> 00:52:55,000
+and you probably have the biggest administration.
+
+1300
+00:52:55,000 --> 00:52:58,000
+What do you see as their biggest challenges,
+
+1301
+00:52:58,000 --> 00:53:00,000
+with which they are dealing today?
+
+1302
+00:53:00,000 --> 00:53:02,000
+And I'll tell you the opposite,
+
+1303
+00:53:02,000 --> 00:53:04,000
+because you probably have more access
+
+1304
+00:53:04,000 --> 00:53:06,000
+to work for operators.
+
+1305
+00:53:06,000 --> 00:53:08,000
+What are Don's biggest challenges for operators?
+
+1306
+00:53:08,000 --> 00:53:09,000
+Because, for example,
+
+1307
+00:53:09,000 --> 00:53:10,000
+I don't know,
+
+1308
+00:53:10,000 --> 00:53:11,000
+20 years ago,
+
+1309
+00:53:11,000 --> 00:53:12,000
+there were,
+
+1310
+00:53:12,000 --> 00:53:13,000
+I don't know,
+
+1311
+00:53:13,000 --> 00:53:15,000
+how to have a large enough uplink,
+
+1312
+00:53:15,000 --> 00:53:18,000
+and how to get the bandwidth to the end user.
+
+1313
+00:53:18,000 --> 00:53:20,000
+What are Don's challenges,
+
+1314
+00:53:20,000 --> 00:53:21,000
+with which...
+
+1315
+00:53:21,000 --> 00:53:23,000
+You know how it is,
+
+1316
+00:53:23,000 --> 00:53:26,000
+what are the challenges of cloud providers?
+
+1317
+00:53:26,000 --> 00:53:29,000
+We don't even know the answer to that.
+
+1318
+00:53:29,000 --> 00:53:32,000
+Even that secret sauce.
+
+1319
+00:53:32,000 --> 00:53:34,000
+Because, in fact,
+
+1320
+00:53:34,000 --> 00:53:36,000
+everything they do is a secret sauce,
+
+1321
+00:53:36,000 --> 00:53:39,000
+and everything they do is a recruitment drive.
+
+1322
+00:53:39,000 --> 00:53:41,000
+Every time you have someone
+
+1323
+00:53:41,000 --> 00:53:43,000
+from Google at a RIPE meeting
+
+1324
+00:53:43,000 --> 00:53:46,000
+who says how phenomenal Google OSDN is,
+
+1325
+00:53:46,000 --> 00:53:49,000
+or how phenomenal their datacenter Fabric is,
+
+1326
+00:53:49,000 --> 00:53:52,000
+it's purely a recruitment drive.
+
+1327
+00:53:52,000 --> 00:53:54,000
+Because you never...
+
+1328
+00:53:54,000 --> 00:53:55,000
+For example,
+
+1329
+00:53:55,000 --> 00:53:57,000
+there's a crazy difference
+
+1330
+00:53:57,000 --> 00:54:00,000
+between Cloudflare on one side,
+
+1331
+00:54:00,000 --> 00:54:03,000
+and Google and Amazon on the other.
+
+1332
+00:54:03,000 --> 00:54:05,000
+Amazon shouldn't be there.
+
+1333
+00:54:05,000 --> 00:54:06,000
+Fair.
+
+1334
+00:54:06,000 --> 00:54:07,000
+Yes.
+
+1335
+00:54:07,000 --> 00:54:10,000
+They do their own thing.
+
+1336
+00:54:10,000 --> 00:54:12,000
+Every now and then,
+
+1337
+00:54:12,000 --> 00:54:14,000
+they tell you a little bit
+
+1338
+00:54:14,000 --> 00:54:16,000
+about what's going on
+
+1339
+00:54:16,000 --> 00:54:18,000
+at one level under the API,
+
+1340
+00:54:18,000 --> 00:54:20,000
+so that you understand
+
+1341
+00:54:20,000 --> 00:54:23,000
+how to properly use the API.
+
+1342
+00:54:23,000 --> 00:54:26,000
+They tell you the same details as...
+
+1343
+00:54:26,000 --> 00:54:27,000
+Here.
+
+1344
+00:54:27,000 --> 00:54:29,000
+The region has more zones,
+
+1345
+00:54:29,000 --> 00:54:31,000
+the zone is a failure domain,
+
+1346
+00:54:31,000 --> 00:54:33,000
+the zones are...
+
+1347
+00:54:33,000 --> 00:54:35,000
+We guarantee that these two zones
+
+1348
+00:54:35,000 --> 00:54:37,000
+are two different datacenters,
+
+1349
+00:54:37,000 --> 00:54:39,000
+but if you want redundancy,
+
+1350
+00:54:39,000 --> 00:54:41,000
+there are two regions,
+
+1351
+00:54:41,000 --> 00:54:43,000
+but what's inside?
+
+1352
+00:54:43,000 --> 00:54:45,000
+An awkward silence,
+
+1353
+00:54:45,000 --> 00:54:49,000
+and Amazon is madly silent.
+
+1354
+00:54:49,000 --> 00:54:50,000
+As you said,
+
+1355
+00:54:50,000 --> 00:54:52,000
+my friend works at Amazon,
+
+1356
+00:54:52,000 --> 00:54:54,000
+he falls into a black hole,
+
+1357
+00:54:54,000 --> 00:54:55,000
+dies for Event Horizon,
+
+1358
+00:54:55,000 --> 00:54:58,000
+and you don't hear his silence anymore.
+
+1359
+00:54:58,000 --> 00:55:02,000
+Google only boasts.
+
+1360
+00:55:02,000 --> 00:55:03,000
+At conferences,
+
+1361
+00:55:03,000 --> 00:55:05,000
+they boast how good they are,
+
+1362
+00:55:05,000 --> 00:55:06,000
+and smart,
+
+1363
+00:55:06,000 --> 00:55:07,000
+and omnipotent,
+
+1364
+00:55:07,000 --> 00:55:09,000
+and I don't know what,
+
+1365
+00:55:09,000 --> 00:55:12,000
+but when you look at their article,
+
+1366
+00:55:12,000 --> 00:55:16,000
+there's always that interesting 10% deficit.
+
+1367
+00:55:16,000 --> 00:55:18,000
+And then everyone falls for it.
+
+1368
+00:55:18,000 --> 00:55:19,000
+Google does it,
+
+1369
+00:55:19,000 --> 00:55:21,000
+we have to do it too.
+
+1370
+00:55:21,000 --> 00:55:22,000
+Then there's GIPHY,
+
+1371
+00:55:22,000 --> 00:55:24,000
+or Google Infrastructure for Everyone Else,
+
+1372
+00:55:24,000 --> 00:55:25,000
+and that's the biggest tech
+
+1373
+00:55:25,000 --> 00:55:26,000
+we've seen in the world,
+
+1374
+00:55:26,000 --> 00:55:29,000
+including Kubernetes.
+
+1375
+00:55:29,000 --> 00:55:32,000
+Then you have smaller players,
+
+1376
+00:55:32,000 --> 00:55:34,000
+like Cloudflare,
+
+1377
+00:55:34,000 --> 00:55:37,000
+where I actually choose their engineering blog
+
+1378
+00:55:37,000 --> 00:55:38,000
+with great pleasure,
+
+1379
+00:55:38,000 --> 00:55:40,000
+because they dive into details
+
+1380
+00:55:40,000 --> 00:55:43,000
+I've never dived into in my life.
+
+1381
+00:55:43,000 --> 00:55:44,000
+For example,
+
+1382
+00:55:44,000 --> 00:55:47,000
+how does a patch in Linux Kernel
+
+1383
+00:55:47,000 --> 00:55:51,000
+cause your latency to inevitably increase by X,
+
+1384
+00:55:51,000 --> 00:55:53,000
+and split to zero?
+
+1385
+00:55:53,000 --> 00:55:54,000
+At the end,
+
+1386
+00:55:54,000 --> 00:55:55,000
+they always write,
+
+1387
+00:55:55,000 --> 00:55:57,000
+guys, if you're interested in such problems,
+
+1388
+00:55:57,000 --> 00:55:59,000
+are you interested in WeAreHiring?
+
+1389
+00:55:59,000 --> 00:56:00,000
+Look, that's fair.
+
+1390
+00:56:00,000 --> 00:56:01,000
+Classic, yeah.
+
+1391
+00:56:01,000 --> 00:56:02,000
+That's fair.
+
+1392
+00:56:02,000 --> 00:56:03,000
+You gave something from yourself,
+
+1393
+00:56:03,000 --> 00:56:04,000
+of course,
+
+1394
+00:56:04,000 --> 00:56:05,000
+you'll say you'll take something back
+
+1395
+00:56:05,000 --> 00:56:07,000
+if someone is interested.
+
+1396
+00:56:07,000 --> 00:56:08,000
+Cool.
+
+1397
+00:56:08,000 --> 00:56:09,000
+I asked nicely.
+
+1398
+00:56:09,000 --> 00:56:10,000
+More of that.
+
+1399
+00:56:10,000 --> 00:56:13,000
+But what kind of problems do these people have?
+
+1400
+00:56:13,000 --> 00:56:14,000
+We have no idea.
+
+1401
+00:56:14,000 --> 00:56:16,000
+Because it's like,
+
+1402
+00:56:16,000 --> 00:56:17,000
+I don't know,
+
+1403
+00:56:17,000 --> 00:56:19,000
+the three of us are working on this bicycle,
+
+1404
+00:56:19,000 --> 00:56:21,000
+and we're talking about what kind of problems
+
+1405
+00:56:21,000 --> 00:56:24,000
+Falcon has with the mask.
+
+1406
+00:56:24,000 --> 00:56:26,000
+Or that we have unmodelled rockets,
+
+1407
+00:56:26,000 --> 00:56:28,000
+you know.
+
+1408
+00:56:28,000 --> 00:56:32,000
+It's just another planet.
+
+1409
+00:56:32,000 --> 00:56:34,000
+In terms of their speed,
+
+1410
+00:56:34,000 --> 00:56:35,000
+in terms of their size,
+
+1411
+00:56:35,000 --> 00:56:39,000
+in terms of how quickly they change,
+
+1412
+00:56:39,000 --> 00:56:41,000
+it's another planet.
+
+1413
+00:56:41,000 --> 00:56:43,000
+And you probably don't have anything
+
+1414
+00:56:43,000 --> 00:56:44,000
+that would have an overview,
+
+1415
+00:56:44,000 --> 00:56:46,000
+because there are so many employees,
+
+1416
+00:56:46,000 --> 00:56:48,000
+that everything is really small.
+
+1417
+00:56:48,000 --> 00:56:49,000
+Well, that too,
+
+1418
+00:56:49,000 --> 00:56:50,000
+but nothing comes out.
+
+1419
+00:56:50,000 --> 00:56:54,000
+My assumption is,
+
+1420
+00:56:54,000 --> 00:56:57,000
+with some kind of engineering,
+
+1421
+00:56:57,000 --> 00:56:59,000
+they've come up with their proprietary protocol,
+
+1422
+00:56:59,000 --> 00:57:00,000
+which they solve.
+
+1423
+00:57:00,000 --> 00:57:01,000
+Everyone has it.
+
+1424
+00:57:01,000 --> 00:57:02,000
+Everyone has it.
+
+1425
+00:57:02,000 --> 00:57:04,000
+And their proprietary hardware,
+
+1426
+00:57:04,000 --> 00:57:06,000
+do they solve some problems?
+
+1427
+00:57:06,000 --> 00:57:08,000
+Or keep it simple,
+
+1428
+00:57:08,000 --> 00:57:09,000
+and let's just...
+
+1429
+00:57:09,000 --> 00:57:10,000
+No.
+
+1430
+00:57:10,000 --> 00:57:12,000
+You know what the problem is?
+
+1431
+00:57:12,000 --> 00:57:13,000
+First of all,
+
+1432
+00:57:13,000 --> 00:57:15,000
+they have problems that no one else has.
+
+1433
+00:57:15,000 --> 00:57:16,000
+Definitely.
+
+1434
+00:57:16,000 --> 00:57:17,000
+Because of the size.
+
+1435
+00:57:17,000 --> 00:57:18,000
+And because of that,
+
+1436
+00:57:18,000 --> 00:57:20,000
+you don't get hardware
+
+1437
+00:57:20,000 --> 00:57:22,000
+that would solve their problems.
+
+1438
+00:57:22,000 --> 00:57:23,000
+On the other hand,
+
+1439
+00:57:23,000 --> 00:57:26,000
+if you look at it,
+
+1440
+00:57:26,000 --> 00:57:27,000
+the big cloud providers
+
+1441
+00:57:27,000 --> 00:57:31,000
+are probably 20-30% of the networking market.
+
+1442
+00:57:31,000 --> 00:57:33,000
+Yes.
+
+1443
+00:57:33,000 --> 00:57:34,000
+In fact,
+
+1444
+00:57:34,000 --> 00:57:37,000
+Whitebox switches were the second largest vendor
+
+1445
+00:57:37,000 --> 00:57:38,000
+for Cisco,
+
+1446
+00:57:38,000 --> 00:57:41,000
+and I don't know who the third one is.
+
+1447
+00:57:41,000 --> 00:57:44,000
+And that goes to the big cloud providers.
+
+1448
+00:57:44,000 --> 00:57:47,000
+And you know what I have a feeling about cloud providers?
+
+1449
+00:57:47,000 --> 00:57:49,000
+Every time they solve their problem,
+
+1450
+00:57:49,000 --> 00:57:53,000
+they try to solve it with their proprietary hardware,
+
+1451
+00:57:53,000 --> 00:57:57,000
+they generate 5-6 new ones.
+
+1452
+00:57:57,000 --> 00:57:58,000
+And then,
+
+1453
+00:57:58,000 --> 00:58:00,000
+at the same size,
+
+1454
+00:58:00,000 --> 00:58:02,000
+and with how fast they run,
+
+1455
+00:58:02,000 --> 00:58:04,000
+and how much bandwidth they have.
+
+1456
+00:58:04,000 --> 00:58:06,000
+But those are proprietary solutions.
+
+1457
+00:58:06,000 --> 00:58:07,000
+Yes.
+
+1458
+00:58:07,000 --> 00:58:08,000
+But look,
+
+1459
+00:58:08,000 --> 00:58:11,000
+no one else in the world,
+
+1460
+00:58:11,000 --> 00:58:13,000
+not only is not interested in it,
+
+1461
+00:58:13,000 --> 00:58:15,000
+but you know how much work you have to do
+
+1462
+00:58:15,000 --> 00:58:18,000
+if you want to give something that you have developed
+
+1463
+00:58:18,000 --> 00:58:22,000
+in a state that will still be usable for someone else?
+
+1464
+00:58:22,000 --> 00:58:23,000
+Oh,
+
+1465
+00:58:23,000 --> 00:58:24,000
+that's huge.
+
+1466
+00:58:24,000 --> 00:58:25,000
+Yes.
+
+1467
+00:58:25,000 --> 00:58:26,000
+That's why we now have Kubernetes
+
+1468
+00:58:26,000 --> 00:58:28,000
+in the state it is in.
+
+1469
+00:58:28,000 --> 00:58:29,000
+Well,
+
+1470
+00:58:29,000 --> 00:58:32,000
+Kubernetes is Google's attack,
+
+1471
+00:58:32,000 --> 00:58:36,000
+because if I manage to make sure
+
+1472
+00:58:36,000 --> 00:58:39,000
+that this API is correct,
+
+1473
+00:58:39,000 --> 00:58:42,000
+then I will be able to sell my cloud
+
+1474
+00:58:42,000 --> 00:58:43,000
+because I don't have to sell anything
+
+1475
+00:58:43,000 --> 00:58:45,000
+because I don't have a support.
+
+1476
+00:58:45,000 --> 00:58:46,000
+No,
+
+1477
+00:58:46,000 --> 00:58:48,000
+I see that this is the silver bullet
+
+1478
+00:58:48,000 --> 00:58:50,000
+with which we will solve all the problems.
+
+1479
+00:58:50,000 --> 00:58:51,000
+Yes,
+
+1480
+00:58:51,000 --> 00:58:52,000
+OpenStack was there too.
+
+1481
+00:58:52,000 --> 00:58:53,000
+Yes,
+
+1482
+00:58:53,000 --> 00:58:54,000
+but it didn't sell that well.
+
+1483
+00:58:54,000 --> 00:58:55,000
+Yes,
+
+1484
+00:58:55,000 --> 00:58:57,000
+because it was sold by networking vendors,
+
+1485
+00:58:57,000 --> 00:58:58,000
+not by Google.
+
+1486
+00:58:58,000 --> 00:58:59,000
+No.
+
+1487
+00:58:59,000 --> 00:59:02,000
+But when I developed OpenStack,
+
+1488
+00:59:02,000 --> 00:59:04,000
+the last version I developed
+
+1489
+00:59:04,000 --> 00:59:06,000
+was a beta version.
+
+1490
+00:59:06,000 --> 00:59:08,000
+I was a beta version too, right?
+
+1491
+00:59:08,000 --> 00:59:09,000
+No.
+
+1492
+00:59:09,000 --> 00:59:10,000
+I mean,
+
+1493
+00:59:10,000 --> 00:59:12,000
+now it was practically unusable.
+
+1494
+00:59:12,000 --> 00:59:13,000
+I mean,
+
+1495
+00:59:13,000 --> 00:59:16,000
+OpenStack was
+
+1496
+00:59:16,000 --> 00:59:18,000
+the way networking,
+
+1497
+00:59:18,000 --> 00:59:19,000
+I mean,
+
+1498
+00:59:19,000 --> 00:59:22,000
+networking compute storage vendors
+
+1499
+00:59:22,000 --> 00:59:25,000
+made their complexity into a market.
+
+1500
+00:59:25,000 --> 00:59:26,000
+Yes,
+
+1501
+00:59:26,000 --> 00:59:27,000
+and this is as close as possible
+
+1502
+00:59:27,000 --> 00:59:29,000
+to the API of Amazon.
+
+1503
+00:59:29,000 --> 00:59:30,000
+Yes,
+
+1504
+00:59:30,000 --> 00:59:33,000
+I tried to install OpenStack.
+
+1505
+00:59:33,000 --> 00:59:35,000
+I wanted to install it,
+
+1506
+00:59:35,000 --> 00:59:39,000
+but if I wanted to get something useful out of it,
+
+1507
+00:59:39,000 --> 00:59:43,000
+I think I would need to study it for a year,
+
+1508
+00:59:43,000 --> 00:59:45,000
+what they had in mind there,
+
+1509
+00:59:45,000 --> 00:59:49,000
+completely against some logic
+
+1510
+00:59:49,000 --> 00:59:52,000
+that we have been following for 20-30 years.
+
+1511
+00:59:52,000 --> 00:59:53,000
+Yes.
+
+1512
+00:59:53,000 --> 00:59:56,000
+But you can still upgrade Kubernetes.
+
+1513
+00:59:56,000 --> 00:59:58,000
+Kubernetes is nothing better, right?
+
+1514
+00:59:58,000 --> 00:59:59,000
+Yes.
+
+1515
+00:59:59,000 --> 01:00:00,000
+It's nothing better.
+
+1516
+01:00:00,000 --> 01:00:01,000
+Yes.
+
+1517
+01:00:01,000 --> 01:00:02,000
+Well,
+
+1518
+01:00:02,000 --> 01:00:03,000
+in general,
+
+1519
+01:00:03,000 --> 01:00:05,000
+we don't know what problems they have.
+
+1520
+01:00:05,000 --> 01:00:06,000
+What we know,
+
+1521
+01:00:06,000 --> 01:00:07,000
+what we see,
+
+1522
+01:00:07,000 --> 01:00:09,000
+is what kind of chips
+
+1523
+01:00:09,000 --> 01:00:11,000
+Broadcom puts on the market.
+
+1524
+01:00:11,000 --> 01:00:13,000
+Because Broadcom puts chips on the market
+
+1525
+01:00:13,000 --> 01:00:15,000
+that will be bought by cloud providers.
+
+1526
+01:00:15,000 --> 01:00:17,000
+And now Broadcom bought VMware,
+
+1527
+01:00:17,000 --> 01:00:18,000
+and we all won.
+
+1528
+01:00:18,000 --> 01:00:19,000
+Oh,
+
+1529
+01:00:19,000 --> 01:00:20,000
+you are...
+
+1530
+01:00:20,000 --> 01:00:22,000
+Do you remember CIA?
+
+1531
+01:00:22,000 --> 01:00:23,000
+Where?
+
+1532
+01:00:23,000 --> 01:00:24,000
+Computer Associates.
+
+1533
+01:00:24,000 --> 01:00:25,000
+Yes.
+
+1534
+01:00:25,000 --> 01:00:28,000
+Where the old software goes to die.
+
+1535
+01:00:28,000 --> 01:00:29,000
+Yes.
+
+1536
+01:00:29,000 --> 01:00:30,000
+Broadcom is the same.
+
+1537
+01:00:30,000 --> 01:00:31,000
+Yes.
+
+1538
+01:00:31,000 --> 01:00:32,000
+For Broadcom,
+
+1539
+01:00:32,000 --> 01:00:35,000
+VMware is just cash,
+
+1540
+01:00:35,000 --> 01:00:36,000
+like they will...
+
+1541
+01:00:36,000 --> 01:00:38,000
+Didn't they buy Brocade in their time?
+
+1542
+01:00:38,000 --> 01:00:39,000
+I think so, yes.
+
+1543
+01:00:39,000 --> 01:00:40,000
+You know,
+
+1544
+01:00:40,000 --> 01:00:41,000
+they bought Brocade
+
+1545
+01:00:41,000 --> 01:00:43,000
+because of the installed
+
+1546
+01:00:43,000 --> 01:00:45,000
+Fibre Channel base,
+
+1547
+01:00:45,000 --> 01:00:48,000
+and then they took the cow from it
+
+1548
+01:00:48,000 --> 01:00:50,000
+while it was dying of old age,
+
+1549
+01:00:50,000 --> 01:00:52,000
+and now they bought the next cow
+
+1550
+01:00:52,000 --> 01:00:53,000
+which they will milk
+
+1551
+01:00:53,000 --> 01:00:55,000
+until it dies of old age.
+
+1552
+01:00:55,000 --> 01:00:56,000
+I heard from Brocade
+
+1553
+01:00:56,000 --> 01:00:57,000
+that they were
+
+1554
+01:00:57,000 --> 01:00:58,000
+highly dependent on
+
+1555
+01:00:58,000 --> 01:01:00,000
+those high frequency traders
+
+1556
+01:01:00,000 --> 01:01:02,000
+on the stock market.
+
+1557
+01:01:02,000 --> 01:01:03,000
+No.
+
+1558
+01:01:03,000 --> 01:01:04,000
+They still work there.
+
+1559
+01:01:04,000 --> 01:01:05,000
+Not for long.
+
+1560
+01:01:05,000 --> 01:01:06,000
+What did they replace?
+
+1561
+01:01:06,000 --> 01:01:07,000
+Well,
+
+1562
+01:01:07,000 --> 01:01:08,000
+they did everything
+
+1563
+01:01:08,000 --> 01:01:10,000
+just for a microsecond.
+
+1564
+01:01:10,000 --> 01:01:11,000
+You know,
+
+1565
+01:01:11,000 --> 01:01:12,000
+there was,
+
+1566
+01:01:12,000 --> 01:01:13,000
+I don't know,
+
+1567
+01:01:13,000 --> 01:01:14,000
+16 GB
+
+1568
+01:01:16,000 --> 01:01:17,000
+Fibre Channel,
+
+1569
+01:01:17,000 --> 01:01:18,000
+and on the other side
+
+1570
+01:01:18,000 --> 01:01:19,000
+100 or 200 GB
+
+1571
+01:01:19,000 --> 01:01:20,000
+Ethernet.
+
+1572
+01:01:21,000 --> 01:01:22,000
+Yes.
+
+1573
+01:01:22,000 --> 01:01:23,000
+The end.
+
+1574
+01:01:23,000 --> 01:01:24,000
+Goodbye.
+
+1575
+01:01:26,000 --> 01:01:27,000
+They...
+
+1576
+01:01:27,000 --> 01:01:29,000
+They work for nanoseconds.
+
+1577
+01:01:29,000 --> 01:01:30,000
+Yes, yes.
+
+1578
+01:01:31,000 --> 01:01:32,000
+ISP.
+
+1579
+01:01:32,000 --> 01:01:33,000
+ISP.
+
+1580
+01:01:33,000 --> 01:01:34,000
+With which...
+
+1581
+01:01:34,000 --> 01:01:37,000
+What are their biggest challenges?
+
+1582
+01:01:37,000 --> 01:01:38,000
+Well,
+
+1583
+01:01:38,000 --> 01:01:40,000
+as we said at the beginning...
+
+1584
+01:01:40,000 --> 01:01:41,000
+ARPU.
+
+1585
+01:01:43,000 --> 01:01:45,000
+The base hasn't changed
+
+1586
+01:01:45,000 --> 01:01:47,000
+since the 90s.
+
+1587
+01:01:47,000 --> 01:01:48,000
+Still,
+
+1588
+01:01:48,000 --> 01:01:50,000
+instead of these two
+
+1589
+01:01:50,000 --> 01:01:52,000
+we have Optico.
+
+1590
+01:01:53,000 --> 01:01:55,000
+The main operator is BGP.
+
+1591
+01:01:55,000 --> 01:01:57,000
+Now there is RPKI.
+
+1592
+01:01:58,000 --> 01:01:59,000
+They play a little
+
+1593
+01:01:59,000 --> 01:02:01,000
+with the BGP community.
+
+1594
+01:02:04,000 --> 01:02:05,000
+DNS is still
+
+1595
+01:02:05,000 --> 01:02:06,000
+more or less the same
+
+1596
+01:02:06,000 --> 01:02:07,000
+as it used to be
+
+1597
+01:02:07,000 --> 01:02:08,000
+with DNSSEC.
+
+1598
+01:02:09,000 --> 01:02:10,000
+We are not all good
+
+1599
+01:02:10,000 --> 01:02:11,000
+at the Internet,
+
+1600
+01:02:11,000 --> 01:02:12,000
+but you also have
+
+1601
+01:02:12,000 --> 01:02:14,000
+different players.
+
+1602
+01:02:15,000 --> 01:02:16,000
+So,
+
+1603
+01:02:16,000 --> 01:02:17,000
+practically...
+
+1604
+01:02:17,000 --> 01:02:18,000
+You have an estimation
+
+1605
+01:02:18,000 --> 01:02:19,000
+of how much DNSSEC
+
+1606
+01:02:19,000 --> 01:02:20,000
+is used now.
+
+1607
+01:02:23,000 --> 01:02:24,000
+For all of you
+
+1608
+01:02:24,000 --> 01:02:25,000
+who are listening,
+
+1609
+01:02:25,000 --> 01:02:26,000
+what does it mean
+
+1610
+01:02:26,000 --> 01:02:27,000
+that requests
+
+1611
+01:02:27,000 --> 01:02:28,000
+and those
+
+1612
+01:02:28,000 --> 01:02:29,000
+that go to DNSSEC
+
+1613
+01:02:29,000 --> 01:02:30,000
+are signed,
+
+1614
+01:02:30,000 --> 01:02:31,000
+so that you can say
+
+1615
+01:02:31,000 --> 01:02:32,000
+that...
+
+1616
+01:02:32,000 --> 01:02:33,000
+Not only answers
+
+1617
+01:02:33,000 --> 01:02:34,000
+are signed.
+
+1618
+01:02:34,000 --> 01:02:35,000
+Answers are signed.
+
+1619
+01:02:35,000 --> 01:02:36,000
+Requests are not signed.
+
+1620
+01:02:36,000 --> 01:02:37,000
+Of course.
+
+1621
+01:02:37,000 --> 01:02:38,000
+Answers are signed
+
+1622
+01:02:38,000 --> 01:02:39,000
+so that you believe
+
+1623
+01:02:39,000 --> 01:02:40,000
+that those
+
+1624
+01:02:40,000 --> 01:02:41,000
+that went back
+
+1625
+01:02:41,000 --> 01:02:42,000
+are used.
+
+1626
+01:02:42,000 --> 01:02:43,000
+Yes.
+
+1627
+01:02:43,000 --> 01:02:44,000
+You can check
+
+1628
+01:02:44,000 --> 01:02:45,000
+on the VEA website.
+
+1629
+01:02:45,000 --> 01:02:46,000
+Now,
+
+1630
+01:02:46,000 --> 01:02:47,000
+the problem
+
+1631
+01:02:47,000 --> 01:02:48,000
+of the operators
+
+1632
+01:02:48,000 --> 01:02:49,000
+that are currently
+
+1633
+01:02:49,000 --> 01:02:50,000
+there
+
+1634
+01:02:50,000 --> 01:02:51,000
+is that
+
+1635
+01:02:51,000 --> 01:02:52,000
+the amount
+
+1636
+01:02:52,000 --> 01:02:53,000
+of traffic
+
+1637
+01:02:53,000 --> 01:02:54,000
+that flows
+
+1638
+01:02:54,000 --> 01:02:55,000
+through their network
+
+1639
+01:02:55,000 --> 01:02:56,000
+started to increase
+
+1640
+01:02:56,000 --> 01:02:57,000
+exponentially
+
+1641
+01:02:57,000 --> 01:02:58,000
+because of
+
+1642
+01:02:58,000 --> 01:02:59,000
+those over-the-top
+
+1643
+01:02:59,000 --> 01:03:00,000
+servers
+
+1644
+01:03:00,000 --> 01:03:01,000
+that were offered
+
+1645
+01:03:01,000 --> 01:03:02,000
+by various
+
+1646
+01:03:02,000 --> 01:03:03,000
+Google
+
+1647
+01:03:03,000 --> 01:03:04,000
+and other
+
+1648
+01:03:04,000 --> 01:03:05,000
+companies.
+
+1649
+01:03:05,000 --> 01:03:06,000
+So,
+
+1650
+01:03:06,000 --> 01:03:07,000
+there are
+
+1651
+01:03:07,000 --> 01:03:08,000
+a lot of
+
+1652
+01:03:08,000 --> 01:03:09,000
+servers
+
+1653
+01:03:09,000 --> 01:03:10,000
+that are
+
+1654
+01:03:10,000 --> 01:03:11,000
+running
+
+1655
+01:03:11,000 --> 01:03:12,000
+on Netflix
+
+1656
+01:03:12,000 --> 01:03:13,000
+and other
+
+1657
+01:03:13,000 --> 01:03:14,000
+Google
+
+1658
+01:03:14,000 --> 01:03:15,000
+and so on.
+
+1659
+01:03:15,000 --> 01:03:16,000
+Netflix.
+
+1660
+01:03:16,000 --> 01:03:17,000
+Let's say
+
+1661
+01:03:17,000 --> 01:03:18,000
+Netflix.
+
+1662
+01:03:18,000 --> 01:03:19,000
+Netflix,
+
+1663
+01:03:19,000 --> 01:03:20,000
+yes.
+
+1664
+01:03:20,000 --> 01:03:21,000
+And so on.
+
+1665
+01:03:21,000 --> 01:03:22,000
+Then,
+
+1666
+01:03:22,000 --> 01:03:23,000
+there was
+
+1667
+01:03:23,000 --> 01:03:24,000
+an idea
+
+1668
+01:03:24,000 --> 01:03:25,000
+at the level
+
+1669
+01:03:25,000 --> 01:03:26,000
+of some
+
+1670
+01:03:26,000 --> 01:03:27,000
+European
+
+1671
+01:03:27,000 --> 01:03:28,000
+association
+
+1672
+01:03:28,000 --> 01:03:29,000
+that
+
+1673
+01:03:29,000 --> 01:03:30,000
+the operators
+
+1674
+01:03:30,000 --> 01:03:31,000
+would start
+
+1675
+01:03:31,000 --> 01:03:32,000
+to charge
+
+1676
+01:03:32,000 --> 01:03:33,000
+those
+
+1677
+01:03:33,000 --> 01:03:34,000
+people
+
+1678
+01:03:34,000 --> 01:03:35,000
+for their
+
+1679
+01:03:35,000 --> 01:03:36,000
+services
+
+1680
+01:03:36,000 --> 01:03:37,000
+and the
+
+1681
+01:03:37,000 --> 01:03:38,000
+traffic
+
+1682
+01:03:38,000 --> 01:03:39,000
+that flows
+
+1683
+01:03:39,000 --> 01:03:40,000
+through their
+
+1684
+01:03:40,000 --> 01:03:41,000
+network.
+
+1685
+01:03:41,000 --> 01:03:42,000
+So,
+
+1686
+01:03:42,000 --> 01:03:43,000
+the first
+
+1687
+01:03:43,000 --> 01:03:44,000
+question
+
+1688
+01:03:44,000 --> 01:03:45,000
+that
+
+1689
+01:03:45,000 --> 01:03:46,000
+the operators
+
+1690
+01:03:46,000 --> 01:03:47,000
+would ask
+
+1691
+01:03:47,000 --> 01:03:48,000
+was
+
+1692
+01:03:48,000 --> 01:03:49,000
+whether
+
+1693
+01:03:49,000 --> 01:03:50,000
+they should
+
+1694
+01:03:50,000 --> 01:03:51,000
+charge
+
+1695
+01:03:51,000 --> 01:03:52,000
+their users
+
+1696
+01:03:52,000 --> 01:03:53,000
+for that bandwidth.
+
+1697
+01:03:53,000 --> 01:03:54,000
+If you
+
+1698
+01:03:54,000 --> 01:03:55,000
+offer
+
+1699
+01:03:55,000 --> 01:03:56,000
+1 gigabit
+
+1700
+01:03:56,000 --> 01:03:57,000
+per second
+
+1701
+01:03:57,000 --> 01:03:58,000
+for optics
+
+1702
+01:03:58,000 --> 01:03:59,000
+for me
+
+1703
+01:03:59,000 --> 01:04:00,000
+at home,
+
+1704
+01:04:00,000 --> 01:04:01,000
+I somehow
+
+1705
+01:04:01,000 --> 01:04:02,000
+pay for it.
+
+1706
+01:04:02,000 --> 01:04:03,000
+Why would
+
+1707
+01:04:03,000 --> 01:04:04,000
+I have to
+
+1708
+01:04:04,000 --> 01:04:05,000
+pay for
+
+1709
+01:04:05,000 --> 01:04:06,000
+the other
+
+1710
+01:04:06,000 --> 01:04:07,000
+one for you?
+
+1711
+01:04:07,000 --> 01:04:08,000
+But,
+
+1712
+01:04:08,000 --> 01:04:09,000
+look,
+
+1713
+01:04:09,000 --> 01:04:10,000
+this is
+
+1714
+01:04:10,000 --> 01:04:11,000
+a different
+
+1715
+01:04:11,000 --> 01:04:12,000
+problem
+
+1716
+01:04:12,000 --> 01:04:13,000
+when it comes
+
+1717
+01:04:13,000 --> 01:04:14,000
+to China.
+
+1718
+01:04:14,000 --> 01:04:15,000
+Yes.
+
+1719
+01:04:15,000 --> 01:04:16,000
+Maybe
+
+1720
+01:04:16,000 --> 01:04:17,000
+Google
+
+1721
+01:04:17,000 --> 01:04:18,000
+deserves
+
+1722
+01:04:18,000 --> 01:04:19,000
+1 euro
+
+1723
+01:04:19,000 --> 01:04:20,000
+per month
+
+1724
+01:04:20,000 --> 01:04:21,000
+for you.
+
+1725
+01:04:21,000 --> 01:04:22,000
+Almost
+
+1726
+01:04:22,000 --> 01:04:23,000
+80%
+
+1727
+01:04:23,000 --> 01:04:24,000
+of your
+
+1728
+01:04:24,000 --> 01:04:25,000
+bandwidth.
+
+1729
+01:04:25,000 --> 01:04:26,000
+Telekom
+
+1730
+01:04:26,000 --> 01:04:27,000
+or
+
+1731
+01:04:27,000 --> 01:04:28,000
+even
+
+1732
+01:04:28,000 --> 01:04:29,000
+Slovenia
+
+1733
+01:04:29,000 --> 01:04:30,000
+deserves
+
+1734
+01:04:30,000 --> 01:04:31,000
+30-50
+
+1735
+01:04:31,000 --> 01:04:32,000
+euros
+
+1736
+01:04:32,000 --> 01:04:33,000
+per month
+
+1737
+01:04:33,000 --> 01:04:34,000
+for you.
+
+1738
+01:04:34,000 --> 01:04:35,000
+What will
+
+1739
+01:04:35,000 --> 01:04:36,000
+20%
+
+1740
+01:04:36,000 --> 01:04:37,000
+of that
+
+1741
+01:04:37,000 --> 01:04:38,000
+1 euro
+
+1742
+01:04:38,000 --> 01:04:39,000
+be?
+
+1743
+01:04:39,000 --> 01:04:40,000
+It will
+
+1744
+01:04:40,000 --> 01:04:41,000
+be
+
+1745
+01:04:41,000 --> 01:04:42,000
+a
+
+1746
+01:04:42,000 --> 01:04:43,000
+bit
+
+1747
+01:04:43,000 --> 01:04:44,000
+more
+
+1748
+01:04:44,000 --> 01:04:45,000
+expensive
+
+1749
+01:04:45,000 --> 01:04:46,000
+than
+
+1750
+01:04:46,000 --> 01:04:47,000
+a
+
+1751
+01:04:47,000 --> 01:04:48,000
+brick
+
+1752
+01:04:48,000 --> 01:04:49,000
+house.
+
+1753
+01:04:49,000 --> 01:04:50,000
+Yes,
+
+1754
+01:04:50,000 --> 01:04:51,000
+yes,
+
+1755
+01:04:51,000 --> 01:04:52,000
+yes,
+
+1756
+01:04:52,000 --> 01:04:53,000
+yes.
+
+1757
+01:04:53,000 --> 01:04:54,000
+The Germans
+
+1758
+01:04:54,000 --> 01:04:55,000
+are already
+
+1759
+01:04:55,000 --> 01:04:56,000
+sanding
+
+1760
+01:04:56,000 --> 01:04:57,000
+their business
+
+1761
+01:04:57,000 --> 01:04:58,000
+into the ground.
+
+1762
+01:04:58,000 --> 01:04:59,000
+The difficulty
+
+1763
+01:04:59,000 --> 01:05:00,000
+in the
+
+1764
+01:05:00,000 --> 01:05:01,000
+operators,
+
+1765
+01:05:01,000 --> 01:05:02,000
+I'm not
+
+1766
+01:05:02,000 --> 01:05:03,000
+talking about
+
+1767
+01:05:03,000 --> 01:05:04,000
+Slovenians
+
+1768
+01:05:04,000 --> 01:05:05,000
+only,
+
+1769
+01:05:05,000 --> 01:05:06,000
+but when
+
+1770
+01:05:06,000 --> 01:05:07,000
+they started
+
+1771
+01:05:07,000 --> 01:05:08,000
+to
+
+1772
+01:05:08,000 --> 01:05:09,000
+make
+
+1773
+01:05:09,000 --> 01:05:10,000
+connections
+
+1774
+01:05:10,000 --> 01:05:11,000
+to the
+
+1775
+01:05:11,000 --> 01:05:12,000
+internet,
+
+1776
+01:05:12,000 --> 01:05:13,000
+but
+
+1777
+01:05:13,000 --> 01:05:14,000
+then the
+
+1778
+01:05:14,000 --> 01:05:15,000
+TV came,
+
+1779
+01:05:15,000 --> 01:05:16,000
+the internet,
+
+1780
+01:05:16,000 --> 01:05:17,000
+the telephone.
+
+1781
+01:05:17,000 --> 01:05:18,000
+No,
+
+1782
+01:05:18,000 --> 01:05:19,000
+no,
+
+1783
+01:05:19,000 --> 01:05:20,000
+give me
+
+1784
+01:05:20,000 --> 01:05:21,000
+some
+
+1785
+01:05:21,000 --> 01:05:22,000
+understanding.
+
+1786
+01:05:22,000 --> 01:05:23,000
+All
+
+1787
+01:05:23,000 --> 01:05:24,000
+European
+
+1788
+01:05:24,000 --> 01:05:25,000
+operators
+
+1789
+01:05:25,000 --> 01:05:26,000
+started
+
+1790
+01:05:26,000 --> 01:05:27,000
+as
+
+1791
+01:05:27,000 --> 01:05:28,000
+state
+
+1792
+01:05:28,000 --> 01:05:29,000
+monopolists.
+
+1793
+01:05:29,000 --> 01:05:30,000
+And
+
+1794
+01:05:30,000 --> 01:05:31,000
+those were
+
+1795
+01:05:31,000 --> 01:05:32,000
+the golden
+
+1796
+01:05:32,000 --> 01:05:33,000
+years
+
+1797
+01:05:33,000 --> 01:05:34,000
+when they
+
+1798
+01:05:34,000 --> 01:05:35,000
+made
+
+1799
+01:05:35,000 --> 01:05:36,000
+telephones,
+
+1800
+01:05:36,000 --> 01:05:37,000
+they
+
+1801
+01:05:37,000 --> 01:05:38,000
+made
+
+1802
+01:05:38,000 --> 01:05:39,000
+them
+
+1803
+01:05:39,000 --> 01:05:40,000
+in
+
+1804
+01:05:40,000 --> 01:05:41,000
+some
+
+1805
+01:05:41,000 --> 01:05:42,000
+road
+
+1806
+01:05:42,000 --> 01:05:43,000
+stations,
+
+1807
+01:05:43,000 --> 01:05:44,000
+it's
+
+1808
+01:05:44,000 --> 01:05:45,000
+expensive
+
+1809
+01:05:45,000 --> 01:05:46,000
+as
+
+1810
+01:05:46,000 --> 01:05:47,000
+pork.
+
+1811
+01:05:47,000 --> 01:05:48,000
+And
+
+1812
+01:05:48,000 --> 01:05:49,000
+three times
+
+1813
+01:05:49,000 --> 01:05:50,000
+before the
+
+1814
+01:05:50,000 --> 01:05:51,000
+telephone
+
+1815
+01:05:51,000 --> 01:05:52,000
+they
+
+1816
+01:05:52,000 --> 01:05:53,000
+took us
+
+1817
+01:05:53,000 --> 01:05:54,000
+away
+
+1818
+01:05:54,000 --> 01:05:55,000
+with that
+
+1819
+01:05:55,000 --> 01:05:56,000
+and lived
+
+1820
+01:05:56,000 --> 01:05:57,000
+well
+
+1821
+01:05:57,000 --> 01:05:58,000
+from that
+
+1822
+01:05:58,000 --> 01:05:59,000
+and had
+
+1823
+01:05:59,000 --> 01:06:00,000
+high
+
+1824
+01:06:00,000 --> 01:06:01,000
+profits
+
+1825
+01:06:01,000 --> 01:06:02,000
+and three
+
+1826
+01:06:02,000 --> 01:06:03,000
+times
+
+1827
+01:06:03,000 --> 01:06:04,000
+more
+
+1828
+01:06:04,000 --> 01:06:05,000
+profits
+
+1829
+01:06:05,000 --> 01:06:06,000
+than
+
+1830
+01:06:06,000 --> 01:06:07,000
+they
+
+1831
+01:06:07,000 --> 01:06:08,000
+had
+
+1832
+01:06:08,000 --> 01:06:09,000
+in
+
+1833
+01:06:09,000 --> 01:06:10,000
+the
+
+1834
+01:06:10,000 --> 01:06:11,000
+internet.
+
+1835
+01:06:11,000 --> 01:06:12,000
+And
+
+1836
+01:06:12,000 --> 01:06:13,000
+all of
+
+1837
+01:06:13,000 --> 01:06:14,000
+them
+
+1838
+01:06:14,000 --> 01:06:15,000
+knew
+
+1839
+01:06:15,000 --> 01:06:16,000
+that
+
+1840
+01:06:16,000 --> 01:06:17,000
+they
+
+1841
+01:06:17,000 --> 01:06:18,000
+had
+
+1842
+01:06:18,000 --> 01:06:19,000
+to go
+
+1843
+01:06:19,000 --> 01:06:20,000
+there
+
+1844
+01:06:20,000 --> 01:06:21,000
+and
+
+1845
+01:06:21,000 --> 01:06:22,000
+they
+
+1846
+01:06:22,000 --> 01:06:23,000
+jumped
+
+1847
+01:06:23,000 --> 01:06:24,000
+on the
+
+1848
+01:06:24,000 --> 01:06:25,000
+internet,
+
+1849
+01:06:25,000 --> 01:06:26,000
+but
+
+1850
+01:06:26,000 --> 01:06:27,000
+here
+
+1851
+01:06:27,000 --> 01:06:28,000
+you only
+
+1852
+01:06:28,000 --> 01:06:29,000
+compete
+
+1853
+01:06:29,000 --> 01:06:30,000
+with the
+
+1854
+01:06:30,000 --> 01:06:31,000
+price.
+
+1855
+01:06:31,000 --> 01:06:32,000
+The
+
+1856
+01:06:32,000 --> 01:06:33,000
+only
+
+1857
+01:06:33,000 --> 01:06:34,000
+thing
+
+1858
+01:06:34,000 --> 01:06:35,000
+that
+
+1859
+01:06:35,000 --> 01:06:36,000
+you
+
+1860
+01:06:36,000 --> 01:06:37,000
+can
+
+1861
+01:06:37,000 --> 01:06:38,000
+do
+
+1862
+01:06:38,000 --> 01:06:39,000
+with
+
+1863
+01:06:39,000 --> 01:06:40,000
+the
+
+1864
+01:06:40,000 --> 01:06:41,000
+internet
+
+1865
+01:06:41,000 --> 01:06:42,000
+is
+
+1866
+01:06:42,000 --> 01:06:43,000
+that
+
+1867
+01:06:43,000 --> 01:06:44,000
+you
+
+1868
+01:06:44,000 --> 01:06:45,000
+can
+
+1869
+01:06:45,000 --> 01:06:46,000
+use
+
+1870
+01:06:46,000 --> 01:06:47,000
+the
+
+1871
+01:06:47,000 --> 01:06:48,000
+internet
+
+1872
+01:06:48,000 --> 01:06:49,000
+as
+
+1873
+01:06:49,000 --> 01:06:50,000
+much
+
+1874
+01:06:50,000 --> 01:06:51,000
+as
+
+1875
+01:06:51,000 --> 01:06:52,000
+you
+
+1876
+01:06:52,000 --> 01:06:53,000
+can
+
+1877
+01:06:53,000 --> 01:06:54,000
+use
+
+1878
+01:06:54,000 --> 01:06:55,000
+the
+
+1879
+01:06:55,000 --> 01:06:56,000
+internet
+
+1880
+01:06:56,000 --> 01:06:57,000
+as
+
+1881
+01:06:57,000 --> 01:06:58,000
+much
+
+1882
+01:06:58,000 --> 01:06:59,000
+as
+
+1883
+01:06:59,000 --> 01:07:00,000
+you
+
+1884
+01:07:00,000 --> 01:07:01,000
+can
+
+1885
+01:07:01,000 --> 01:07:02,000
+use
+
+1886
+01:07:02,000 --> 01:07:03,000
+the
+
+1887
+01:07:03,000 --> 01:07:04,000
+internet
+
+1888
+01:07:04,000 --> 01:07:05,000
+as
+
+1889
+01:07:05,000 --> 01:07:06,000
+much
+
+1890
+01:07:06,000 --> 01:07:07,000
+as
+
+1891
+01:07:07,000 --> 01:07:08,000
+you
+
+1892
+01:07:08,000 --> 01:07:09,000
+can
+
+1893
+01:07:09,000 --> 01:07:10,000
+use
+
+1894
+01:07:10,000 --> 01:07:11,000
+the
+
+1895
+01:07:11,000 --> 01:07:12,000
+internet
+
+1896
+01:07:12,000 --> 01:07:13,000
+as
+
+1897
+01:07:13,000 --> 01:07:14,000
+much
+
+1898
+01:07:14,000 --> 01:07:15,000
+as
+
+1899
+01:07:15,000 --> 01:07:16,000
+you
+
+1900
+01:07:16,000 --> 01:07:17,000
+can
+
+1901
+01:07:17,000 --> 01:07:18,000
+use
+
+1902
+01:07:18,000 --> 01:07:19,000
+the
+
+1903
+01:07:19,000 --> 01:07:20,000
+internet
+
+1904
+01:07:20,000 --> 01:07:21,000
+as
+
+1905
+01:07:21,000 --> 01:07:22,000
+much
+
+1906
+01:07:22,000 --> 01:07:23,000
+as
+
+1907
+01:07:23,000 --> 01:07:24,000
+you
+
+1908
+01:07:24,000 --> 01:07:25,000
+can
+
+1909
+01:07:25,000 --> 01:07:26,000
+use
+
+1910
+01:07:26,000 --> 01:07:27,000
+the
+
+1911
+01:07:27,000 --> 01:07:28,000
+internet
+
+1912
+01:07:28,000 --> 01:07:29,000
+as
+
+1913
+01:07:29,000 --> 01:07:30,000
+much
+
+1914
+01:07:30,000 --> 01:07:31,000
+as
+
+1915
+01:07:31,000 --> 01:07:32,000
+you
+
+1916
+01:07:32,000 --> 01:07:33,000
+can
+
+1917
+01:07:33,000 --> 01:07:34,000
+use
+
+1918
+01:07:34,000 --> 01:07:35,000
+the
+
+1919
+01:07:35,000 --> 01:07:36,000
+internet
+
+1920
+01:07:36,000 --> 01:07:37,000
+so
+
+1921
+01:07:37,000 --> 01:07:38,000
+much
+
+1922
+01:07:38,000 --> 01:07:39,000
+more
+
+1923
+01:07:39,000 --> 01:07:40,000
+as
+
+1924
+01:07:40,000 --> 01:07:41,000
+long
+
+1925
+01:07:41,000 --> 01:07:42,000
+as
+
+1926
+01:07:42,000 --> 01:07:43,000
+you
+
+1927
+01:07:43,000 --> 01:07:44,000
+can
+
+1928
+01:07:44,000 --> 01:07:45,000
+use
+
+1929
+01:07:45,000 --> 01:07:46,000
+the
+
+1930
+01:07:46,000 --> 01:07:47,000
+internet
+
+1931
+01:07:47,000 --> 01:07:48,000
+as
+
+1932
+01:07:48,000 --> 01:07:49,000
+much
+
+1933
+01:07:49,000 --> 01:07:50,000
+as
+
+1934
+01:07:50,000 --> 01:07:51,000
+you
+
+1935
+01:07:51,000 --> 01:07:52,000
+can
+
+1936
+01:07:52,000 --> 01:07:53,000
+use
+
+1937
+01:07:53,000 --> 01:07:54,000
+the
+
+1938
+01:07:54,000 --> 01:07:55,000
+internet
+
+1939
+01:07:55,000 --> 01:07:56,000
+as
+
+1940
+01:07:56,000 --> 01:07:57,000
+much
+
+1941
+01:07:57,000 --> 01:07:58,000
+as
+
+1942
+01:07:58,000 --> 01:07:59,000
+you
+
+1943
+01:07:59,000 --> 01:08:00,000
+can
+
+1944
+01:08:00,000 --> 01:08:01,000
+use
+
+1945
+01:08:01,000 --> 01:08:02,000
+the
+
+1946
+01:08:02,000 --> 01:08:03,000
+internet
+
+1947
+01:08:03,000 --> 01:08:04,000
+as
+
+1948
+01:08:04,000 --> 01:08:05,000
+much
+
+1949
+01:08:05,000 --> 01:08:06,000
+as
+
+1950
+01:08:06,000 --> 01:08:07,000
+you
+
+1951
+01:08:07,000 --> 01:08:08,000
+can
+
+1952
+01:08:08,000 --> 01:08:09,000
+use
+
+1953
+01:08:09,000 --> 01:08:10,000
+it
+
+1954
+01:08:10,000 --> 01:08:11,000
+as
+
+1955
+01:08:11,000 --> 01:08:12,000
+much
+
+1956
+01:08:12,000 --> 01:08:13,000
+as
+
+1957
+01:08:13,000 --> 01:08:14,000
+you
+
+1958
+01:08:14,000 --> 01:08:15,000
+can
+
+1959
+01:08:15,000 --> 01:08:16,000
+use
+
+1960
+01:08:16,000 --> 01:08:17,000
+the
+
+1961
+01:08:17,000 --> 01:08:18,000
+internet
+
+1962
+01:08:18,000 --> 01:08:19,000
+as
+
+1963
+01:08:19,000 --> 01:08:20,000
+much
+
+1964
+01:08:20,000 --> 01:08:21,000
+as
+
+1965
+01:08:21,000 --> 01:08:22,000
+you
+
+1966
+01:08:22,000 --> 01:08:23,000
+can
+
+1967
+01:08:23,000 --> 01:08:24,000
+use
+
+1968
+01:08:24,000 --> 01:08:25,000
+it
+
+1969
+01:08:25,000 --> 01:08:26,000
+as
+
+1970
+01:08:26,000 --> 01:08:27,000
+much
+
+1971
+01:08:27,000 --> 01:08:28,000
+as
+
+1972
+01:08:28,000 --> 01:08:30,000
+you
+
+1973
+01:08:30,000 --> 01:08:31,000
+can
+
+1974
+01:08:31,000 --> 01:08:32,000
+use
+
+1975
+01:08:32,000 --> 01:08:33,000
+it
+
+1976
+01:08:33,000 --> 01:08:34,000
+as
+
+1977
+01:08:34,000 --> 01:08:35,000
+much
+
+1978
+01:08:35,000 --> 01:08:36,000
+as
+
+1979
+01:08:36,000 --> 01:08:37,000
+you
+
+1980
+01:08:37,000 --> 01:08:38,000
+can
+
+1981
+01:08:38,000 --> 01:08:39,000
+use
+
+1982
+01:08:39,000 --> 01:08:40,000
+it
+
+1983
+01:08:40,000 --> 01:08:41,000
+as much
+
+1984
+01:08:41,000 --> 01:08:42,000
+as
+
+1985
+01:08:42,000 --> 01:08:43,000
+you
+
+1986
+01:08:43,000 --> 01:08:44,000
+can
+
+1987
+01:08:44,000 --> 01:08:45,000
+use
+
+1988
+01:08:45,000 --> 01:08:46,000
+the
+
+1989
+01:08:46,000 --> 01:08:47,000
+internet
+
+1990
+01:08:47,000 --> 01:08:48,000
+as much
+
+1991
+01:08:48,000 --> 01:08:49,000
+as
+
+1992
+01:08:49,000 --> 01:08:50,000
+you
+
+1993
+01:08:50,000 --> 01:08:51,000
+can
+
+1994
+01:08:51,000 --> 01:08:52,000
+use
+
+1995
+01:08:52,000 --> 01:08:53,000
+it
+
+1996
+01:08:53,000 --> 01:08:54,000
+as much
+
+1997
+01:08:54,000 --> 01:08:55,000
+as
+
+1998
+01:08:55,000 --> 01:08:56,000
+you
+
+1999
+01:08:56,000 --> 01:08:57,000
+can
+
+2000
+01:08:57,000 --> 01:08:58,000
+use
+
+2001
+01:08:58,000 --> 01:08:59,000
+it
+
+2002
+01:08:59,000 --> 01:09:00,000
+as
+
+2003
+01:09:00,000 --> 01:09:01,000
+much
+
+2004
+01:09:01,000 --> 01:09:02,000
+as
+
+2005
+01:09:02,000 --> 01:09:03,000
+you
+
+2006
+01:09:03,000 --> 01:09:04,000
+can
+
+2007
+01:09:04,000 --> 01:09:05,000
+use
+
+2008
+01:09:05,000 --> 01:09:06,000
+it
+
+2009
+01:09:06,000 --> 01:09:07,000
+as
+
+2010
+01:09:07,000 --> 01:09:08,000
+much
+
+2011
+01:09:08,000 --> 01:09:09,000
+as
+
+2012
+01:09:09,000 --> 01:09:10,000
+you
+
+2013
+01:09:10,000 --> 01:09:11,000
+can
+
+2014
+01:09:11,000 --> 01:09:12,000
+use
+
+2015
+01:09:12,000 --> 01:09:13,000
+it
+
+2016
+01:09:13,000 --> 01:09:14,000
+as much
+
+2017
+01:09:14,000 --> 01:09:15,000
+as
+
+2018
+01:09:15,000 --> 01:09:16,000
+you
+
+2019
+01:09:16,000 --> 01:09:17,000
+can
+
+2020
+01:09:17,000 --> 01:09:18,000
+use
+
+2021
+01:09:18,000 --> 01:09:19,000
+it
+
+2022
+01:09:19,000 --> 01:09:20,000
+as much
+
+2023
+01:09:20,000 --> 01:09:21,000
+as
+
+2024
+01:09:21,000 --> 01:09:22,000
+you
+
+2025
+01:09:22,000 --> 01:09:23,000
+can
+
+2026
+01:09:23,000 --> 01:09:24,000
+use
+
+2027
+01:09:24,000 --> 01:09:25,000
+it
+
+2028
+01:09:25,000 --> 01:09:26,000
+as
+
+2029
+01:09:26,000 --> 01:09:27,000
+much
+
+2030
+01:09:27,000 --> 01:09:28,000
+as
+
+2031
+01:09:28,000 --> 01:09:29,000
+you
+
+2032
+01:09:29,000 --> 01:09:30,000
+can
+
+2033
+01:09:30,000 --> 01:09:31,000
+need
+
+2034
+01:09:31,000 --> 01:09:37,000
+it
+
+2035
+01:12:08,000 --> 01:12:09,000
+to
+
+2036
+01:12:09,000 --> 01:12:10,000
+be
+
+2037
+01:12:10,000 --> 01:12:11,000
+useful
+
+2038
+01:12:11,000 --> 01:12:12,000
+to
+
+2039
+01:12:12,000 --> 01:12:13,000
+you
+
+2040
+01:12:13,000 --> 01:12:14,000
+and
+
+2041
+01:12:14,000 --> 01:12:15,000
+to
+
+2042
+01:12:15,000 --> 01:12:16,000
+others.
+
+2043
+01:12:17,000 --> 01:12:18,000
+This
+
+2044
+01:12:18,000 --> 01:12:19,000
+is
+
+2045
+01:12:19,000 --> 01:12:20,000
+our
+
+2046
+01:12:20,000 --> 01:12:21,000
+goal.
+
+2047
+01:12:21,000 --> 01:12:22,000
+We
+
+2048
+01:12:22,000 --> 01:12:23,000
+want to
+
+2049
+01:12:23,000 --> 01:12:24,000
+make
+
+2050
+01:12:24,000 --> 01:12:25,000
+this
+
+2051
+01:12:25,000 --> 01:12:26,000
+happen.
+
+2052
+01:12:26,000 --> 01:12:27,000
+We
+
+2053
+01:12:27,000 --> 01:12:28,000
+want to
+
+2054
+01:12:28,000 --> 01:12:29,000
+do
+
+2055
+01:12:29,000 --> 01:12:30,000
+everything
+
+2056
+01:12:30,000 --> 01:12:31,000
+we can
+
+2057
+01:12:31,000 --> 01:12:32,000
+to make
+
+2058
+01:12:32,000 --> 01:12:33,000
+this
+
+2059
+01:12:33,000 --> 01:12:34,000
+possible.
+
+2060
+01:12:34,000 --> 01:12:35,000
+We
+
+2061
+01:12:35,000 --> 01:12:36,000
+want to
+
+2062
+01:12:36,000 --> 01:12:37,000
+make
+
+2063
+01:12:37,000 --> 01:12:38,000
+this
+
+2064
+01:12:38,000 --> 01:12:39,000
+possible.
+
+2065
+01:12:39,000 --> 01:12:40,000
+We
+
+2066
+01:12:40,000 --> 01:12:41,000
+want to
+
+2067
+01:12:41,000 --> 01:12:42,000
+make
+
+2068
+01:12:42,000 --> 01:12:43,000
+this
+
+2069
+01:12:43,000 --> 01:12:44,000
+possible.
+
+2070
+01:12:44,000 --> 01:12:45,000
+This
+
+2071
+01:12:45,000 --> 01:12:46,000
+is
+
+2072
+01:12:46,000 --> 01:12:47,000
+our
+
+2073
+01:12:47,000 --> 01:12:48,000
+goal.
+
+2074
+01:12:48,000 --> 01:12:49,000
+We
+
+2075
+01:12:49,000 --> 01:12:50,000
+want to
+
+2076
+01:12:50,000 --> 01:12:51,000
+make
+
+2077
+01:12:51,000 --> 01:12:52,000
+this
+
+2078
+01:12:52,000 --> 01:12:53,000
+possible.
+
+2079
+01:12:53,000 --> 01:12:54,000
+This
+
+2080
+01:12:54,000 --> 01:12:55,000
+is our
+
+2081
+01:12:55,000 --> 01:12:56,000
+goal.
+
+2082
+01:12:56,000 --> 01:12:58,000
+With
+
+2083
+01:12:58,000 --> 01:12:59,000
+this
+
+2084
+01:12:59,000 --> 01:13:00,000
+goal,
+
+2085
+01:13:00,000 --> 01:13:01,000
+we
+
+2086
+01:13:01,000 --> 01:13:02,000
+can
+
+2087
+01:13:02,000 --> 01:13:03,000
+do
+
+2088
+01:13:03,000 --> 01:13:05,000
+everything
+
+2089
+01:13:05,000 --> 01:13:06,000
+possible
+
+2090
+01:13:06,000 --> 01:13:07,000
+right now.
+
+2091
+01:13:07,000 --> 01:13:08,000
+We
+
+2092
+01:13:08,000 --> 01:13:09,000
+want to
+
+2093
+01:13:09,000 --> 01:13:10,000
+make
+
+2094
+01:13:10,000 --> 01:13:11,000
+this
+
+2095
+01:13:11,000 --> 01:13:12,000
+possible.
+
+2096
+01:13:12,000 --> 01:13:13,000
+Let
+
+2097
+01:13:13,000 --> 01:13:14,000
+us
+
+2098
+01:13:14,000 --> 01:13:16,000
+start
+
+2099
+01:13:16,000 --> 01:13:17,000
+with
+
+2100
+01:13:17,000 --> 01:13:18,000
+our
+
+2101
+01:13:18,000 --> 01:13:19,000
+goal.
+
+2102
+01:13:19,000 --> 01:13:20,000
+We
+
+2103
+01:13:20,000 --> 01:13:21,000
+want to
+
+2104
+01:13:21,000 --> 01:13:22,000
+make
+
+2105
+01:13:22,000 --> 01:13:23,000
+this
+
+2106
+01:13:23,000 --> 01:13:24,000
+possible.
+
+2107
+01:13:24,000 --> 01:13:25,000
+We
+
+2108
+01:13:25,000 --> 01:13:26,000
+want to
+
+2109
+01:13:26,000 --> 01:13:27,000
+make
+
+2110
+01:13:27,000 --> 01:13:28,000
+this
+
+2111
+01:13:28,000 --> 01:13:29,000
+possible.
+
+2112
+01:13:29,000 --> 01:13:30,000
+Let
+
+2113
+01:13:30,000 --> 01:13:31,000
+us
+
+2114
+01:13:31,000 --> 01:13:32,000
+start
+
+2115
+01:13:32,000 --> 01:13:33,000
+with
+
+2116
+01:13:33,000 --> 01:13:34,000
+our
+
+2117
+01:13:34,000 --> 01:13:35,000
+goal.
+
+2118
+01:13:35,000 --> 01:13:36,000
+We
+
+2119
+01:13:36,000 --> 01:13:37,000
+want to
+
+2120
+01:13:37,000 --> 01:13:38,000
+make
+
+2121
+01:13:38,000 --> 01:13:39,000
+this
+
+2122
+01:13:39,000 --> 01:13:40,000
+possible.
+
+2123
+01:13:40,000 --> 01:13:41,000
+Let
+
+2124
+01:13:41,000 --> 01:13:42,000
+us
+
+2125
+01:13:42,000 --> 01:13:43,000
+start
+
+2126
+01:13:43,000 --> 01:13:44,000
+with
+
+2127
+01:13:44,000 --> 01:13:45,000
+our
+
+2128
+01:13:45,000 --> 01:13:46,000
+goal.
+
+2129
+01:13:46,000 --> 01:13:47,000
+We
+
+2130
+01:13:47,000 --> 01:13:48,000
+want to
+
+2131
+01:13:48,000 --> 01:13:49,000
+make
+
+2132
+01:13:49,000 --> 01:13:50,000
+this
+
+2133
+01:13:50,000 --> 01:13:51,000
+possible.
+
+2134
+01:13:51,000 --> 01:13:52,000
+Let
+
+2135
+01:13:52,000 --> 01:13:53,000
+us
+
+2136
+01:13:53,000 --> 01:13:54,000
+start
+
+2137
+01:13:54,000 --> 01:13:55,000
+with
+
+2138
+01:13:55,000 --> 01:13:56,000
+our
+
+2139
+01:13:56,000 --> 01:13:57,000
+goal.
+
+2140
+01:13:57,000 --> 01:13:58,000
+We
+
+2141
+01:13:58,000 --> 01:13:59,000
+want to
+
+2142
+01:13:59,000 --> 01:14:00,000
+make
+
+2143
+01:14:00,000 --> 01:14:01,000
+this
+
+2144
+01:14:01,000 --> 01:14:02,000
+possible.
+
+2145
+01:14:02,000 --> 01:14:03,000
+Let
+
+2146
+01:14:03,000 --> 01:14:04,000
+us
+
+2147
+01:14:04,000 --> 01:14:05,000
+start
+
+2148
+01:14:05,000 --> 01:14:06,000
+with
+
+2149
+01:14:06,000 --> 01:14:07,000
+our
+
+2150
+01:14:07,000 --> 01:14:08,000
+goal.
+
+2151
+01:14:08,000 --> 01:14:09,000
+Let
+
+2152
+01:14:09,000 --> 01:14:10,000
+us
+
+2153
+01:14:10,000 --> 01:14:11,000
+start
+
+2154
+01:14:11,000 --> 01:14:12,000
+with
+
+2155
+01:14:12,000 --> 01:14:13,000
+our
+
+2156
+01:14:13,000 --> 01:14:14,000
+goal.
+
+2157
+01:14:14,000 --> 01:14:15,000
+We
+
+2158
+01:14:15,000 --> 01:14:16,000
+want to
+
+2159
+01:14:16,000 --> 01:14:17,000
+make
+
+2160
+01:14:17,000 --> 01:14:18,000
+this
+
+2161
+01:14:18,000 --> 01:14:19,000
+possible.
+
+2162
+01:14:19,000 --> 01:14:20,000
+Let
+
+2163
+01:14:20,000 --> 01:14:21,000
+us
+
+2164
+01:14:21,000 --> 01:14:22,000
+start
+
+2165
+01:14:22,000 --> 01:14:23,000
+with
+
+2166
+01:14:23,000 --> 01:14:24,000
+our
+
+2167
+01:14:24,000 --> 01:14:25,000
+goal.
+
+2168
+01:14:25,000 --> 01:14:26,000
+Let
+
+2169
+01:14:26,000 --> 01:14:27,000
+us
+
+2170
+01:14:27,000 --> 01:14:28,000
+start
+
+2171
+01:14:28,000 --> 01:14:29,000
+with
+
+2172
+01:14:29,000 --> 01:14:30,000
+our
+
+2173
+01:14:30,000 --> 01:14:31,000
+goal.
+
+2174
+01:14:31,000 --> 01:14:32,000
+Let
+
+2175
+01:14:32,000 --> 01:14:33,000
+us
+
+2176
+01:14:33,000 --> 01:14:34,000
+start
+
+2177
+01:14:34,000 --> 01:14:35,000
+with
+
+2178
+01:14:35,000 --> 01:14:36,000
+our
+
+2179
+01:14:36,000 --> 01:14:37,000
+goal.
+
+2180
+01:14:37,000 --> 01:14:38,000
+Let
+
+2181
+01:14:38,000 --> 01:14:39,000
+us
+
+2182
+01:14:39,000 --> 01:14:40,000
+start
+
+2183
+01:14:40,000 --> 01:14:41,000
+with
+
+2184
+01:14:41,000 --> 01:14:44,000
+our
+
+2185
+01:14:44,000 --> 01:14:45,000
+goal.
+
+2186
+01:14:45,000 --> 01:14:46,000
+Let
+
+2187
+01:14:46,000 --> 01:14:47,000
+us
+
+2188
+01:14:47,000 --> 01:14:48,000
+start
+
+2189
+01:14:48,000 --> 01:14:50,000
+with
+
+2190
+01:14:50,000 --> 01:14:51,000
+our
+
+2191
+01:14:51,000 --> 01:14:52,000
+goal.
+
+2192
+01:14:52,000 --> 01:14:53,000
+Let
+
+2193
+01:14:53,000 --> 01:14:54,000
+us
+
+2194
+01:14:54,000 --> 01:14:55,000
+start
+
+2195
+01:14:55,000 --> 01:14:57,000
+with
+
+2196
+01:14:57,000 --> 01:14:58,000
+our
+
+2197
+01:14:58,000 --> 01:14:59,000
+goal.
+
+2198
+01:14:59,000 --> 01:15:00,000
+Let
+
+2199
+01:15:00,000 --> 01:15:01,000
+us
+
+2200
+01:15:01,000 --> 01:15:02,000
+start
+
+2201
+01:15:02,000 --> 01:15:03,000
+with
+
+2202
+01:15:03,000 --> 01:15:04,000
+our
+
+2203
+01:15:04,000 --> 01:15:05,000
+goal.
+
+2204
+01:15:05,000 --> 01:15:06,000
+Let
+
+2205
+01:15:06,000 --> 01:15:07,000
+us
+
+2206
+01:15:07,000 --> 01:15:08,000
+start
+
+2207
+01:15:08,000 --> 01:15:09,000
+with
+
+2208
+01:15:09,000 --> 01:15:10,000
+our
+
+2209
+01:15:00,000 --> 01:15:04,400
+I asked them if it is possible to change it, if they have something in mind,
+
+2210
+01:15:04,400 --> 01:15:06,400
+and they said that they have something in mind.
+
+2211
+01:15:09,400 --> 01:15:17,400
+No, I don't know, I only know how they built the local copper fence.
+
+2212
+01:15:18,400 --> 01:15:22,400
+And that, if you look at it from the side, it was honoured,
+
+2213
+01:15:22,400 --> 01:15:29,400
+because the copper network in Slovenia was built during the time of the monopolists,
+
+2214
+01:15:29,799 --> 01:15:30,799
+from my ass.
+
+2215
+01:15:31,799 --> 01:15:34,799
+You didn't have a competitive copper network?
+
+2216
+01:15:35,799 --> 01:15:36,799
+No, but for good reason.
+
+2217
+01:15:36,799 --> 01:15:38,799
+Yes, yes, yes, you were right.
+
+2218
+01:15:39,799 --> 01:15:43,799
+Now it seems that they also developed optics.
+
+2219
+01:15:44,799 --> 01:15:49,799
+Yes, I asked the director if I could have a beer,
+
+2220
+01:15:49,799 --> 01:15:52,799
+and I said to him, what would you do?
+
+2221
+01:15:53,799 --> 01:15:54,799
+That's better.
+
+2222
+01:15:55,200 --> 01:15:58,200
+I said, why would you try to separate these two,
+
+2223
+01:15:58,200 --> 01:16:01,200
+first of all, they are not state-owned,
+
+2224
+01:16:01,200 --> 01:16:04,199
+and second of all, we realized that for them,
+
+2225
+01:16:04,199 --> 01:16:08,199
+as it was before, the mines are owned by one person,
+
+2226
+01:16:08,199 --> 01:16:10,199
+the cables are owned by another person,
+
+2227
+01:16:10,199 --> 01:16:12,199
+the connectors are owned by a third person,
+
+2228
+01:16:12,199 --> 01:16:14,199
+the rivers are owned by a fourth person.
+
+2229
+01:16:14,199 --> 01:16:17,199
+They forgot that they are a bit too low-dug,
+
+2230
+01:16:17,199 --> 01:16:20,199
+and because of that, their cables are not drawn on the wall,
+
+2231
+01:16:20,199 --> 01:16:22,199
+because they shouldn't be.
+
+2232
+01:16:22,599 --> 01:16:27,599
+Oh, do you want to hear an anecdote from Rwanda,
+
+2233
+01:16:27,599 --> 01:16:31,599
+where it was said that the mines are too low-dug?
+
+2234
+01:16:31,599 --> 01:16:35,599
+There, in rural Rwanda, they put an optical cable
+
+2235
+01:16:35,599 --> 01:16:39,599
+through the connection to another country,
+
+2236
+01:16:39,599 --> 01:16:42,599
+and they didn't dig deep enough.
+
+2237
+01:16:42,599 --> 01:16:45,599
+The result was that the locals went there,
+
+2238
+01:16:45,599 --> 01:16:48,599
+took that cable out, and cut it off.
+
+2239
+01:16:48,599 --> 01:16:51,599
+First, they thought it was optics,
+
+2240
+01:16:52,000 --> 01:16:54,000
+and then they cut it off a few times.
+
+2241
+01:16:54,000 --> 01:16:56,000
+I have the same story from South Africa.
+
+2242
+01:16:56,000 --> 01:16:58,000
+Wait, wait.
+
+2243
+01:16:58,000 --> 01:17:01,000
+This reminds me of Liquid Telecom,
+
+2244
+01:17:01,000 --> 01:17:03,000
+when they started it.
+
+2245
+01:17:03,000 --> 01:17:05,000
+They hired a security service
+
+2246
+01:17:05,000 --> 01:17:07,000
+to keep an eye on that cable,
+
+2247
+01:17:07,000 --> 01:17:09,000
+to see if it was leaking.
+
+2248
+01:17:09,000 --> 01:17:11,000
+And it didn't go very well,
+
+2249
+01:17:11,000 --> 01:17:14,000
+because they still cut that cable.
+
+2250
+01:17:14,000 --> 01:17:16,000
+And then one of them remembered,
+
+2251
+01:17:16,000 --> 01:17:19,000
+and said, let's call a local shaman.
+
+2252
+01:17:19,399 --> 01:17:21,399
+They gave him $100,
+
+2253
+01:17:21,399 --> 01:17:23,399
+and he cut the cable,
+
+2254
+01:17:23,399 --> 01:17:27,399
+and put those symbols on the cable.
+
+2255
+01:17:30,399 --> 01:17:35,399
+However, the shaman didn't touch that cable anymore.
+
+2256
+01:17:35,399 --> 01:17:39,399
+But now they have other problems.
+
+2257
+01:17:39,399 --> 01:17:42,399
+They go to the parties and say,
+
+2258
+01:17:42,399 --> 01:17:44,399
+can you please not send our product
+
+2259
+01:17:44,399 --> 01:17:46,399
+through the cable?
+
+2260
+01:17:46,800 --> 01:17:49,800
+So, with too little digging,
+
+2261
+01:17:49,800 --> 01:17:52,800
+such things can be solved quickly.
+
+2262
+01:17:52,800 --> 01:17:55,800
+But we don't have shamans here.
+
+2263
+01:17:55,800 --> 01:17:58,800
+No, you know what the problem is?
+
+2264
+01:17:58,800 --> 01:18:01,800
+As Baba Chula Baba said,
+
+2265
+01:18:01,800 --> 01:18:04,800
+the problem is that other people
+
+2266
+01:18:04,800 --> 01:18:07,800
+who dig don't know that those cables
+
+2267
+01:18:07,800 --> 01:18:10,800
+are there because they are not torn.
+
+2268
+01:18:10,800 --> 01:18:13,800
+And then they take the cable out,
+
+2269
+01:18:14,199 --> 01:18:18,199
+and look for the cable in the middle of the tunnel.
+
+2270
+01:18:18,199 --> 01:18:21,199
+We are still waiting for that here.
+
+2271
+01:18:21,199 --> 01:18:23,199
+Once it burned here,
+
+2272
+01:18:23,199 --> 01:18:25,199
+now we are waiting for the other one.
+
+2273
+01:18:25,199 --> 01:18:27,199
+You can say that here is the railway bridge
+
+2274
+01:18:27,199 --> 01:18:29,199
+over the Danube.
+
+2275
+01:18:29,199 --> 01:18:31,199
+Do you know why a real network engineer
+
+2276
+01:18:31,199 --> 01:18:33,199
+likes to go to the mountains?
+
+2277
+01:18:33,199 --> 01:18:36,199
+Do you have an optical patch cable with you?
+
+2278
+01:18:36,199 --> 01:18:38,199
+No.
+
+2279
+01:18:38,199 --> 01:18:40,199
+You can always have a couple of meters
+
+2280
+01:18:40,199 --> 01:18:42,199
+of optical cable with you.
+
+2281
+01:18:42,600 --> 01:18:44,600
+If you kill the cable,
+
+2282
+01:18:44,600 --> 01:18:46,600
+you bury it in the ground
+
+2283
+01:18:46,600 --> 01:18:48,600
+and before you know it,
+
+2284
+01:18:48,600 --> 01:18:51,600
+a bugger will come and plug it in.
+
+2285
+01:18:51,600 --> 01:18:54,600
+A life-saving device.
+
+2286
+01:18:56,600 --> 01:18:59,600
+Let's go back to Slovenian operators.
+
+2287
+01:18:59,600 --> 01:19:02,600
+Congratulations to all of them.
+
+2288
+01:19:02,600 --> 01:19:05,600
+The internet we have in Slovenia
+
+2289
+01:19:05,600 --> 01:19:07,600
+is in accordance with the law
+
+2290
+01:19:07,600 --> 01:19:10,600
+of the most developed world.
+
+2291
+01:19:11,000 --> 01:19:13,000
+I didn't even realize
+
+2292
+01:19:13,000 --> 01:19:15,000
+that I was on IPv6.
+
+2293
+01:19:17,000 --> 01:19:20,000
+Let's summarize.
+
+2294
+01:19:22,000 --> 01:19:24,000
+IPv6.
+
+2295
+01:19:24,000 --> 01:19:27,000
+Don's is a new organization.
+
+2296
+01:19:28,000 --> 01:19:31,000
+If they want their own PI space,
+
+2297
+01:19:31,000 --> 01:19:34,000
+they only have IPv6.
+
+2298
+01:19:34,000 --> 01:19:36,000
+Everything else they have to buy
+
+2299
+01:19:36,000 --> 01:19:39,000
+at the white market, black market.
+
+2300
+01:19:39,399 --> 01:19:42,399
+Last week I was in Montenegro.
+
+2301
+01:19:43,399 --> 01:19:46,399
+I helped to establish their leg.
+
+2302
+01:19:46,399 --> 01:19:48,399
+Montenegro is not the only country
+
+2303
+01:19:48,399 --> 01:19:51,399
+in the Balkans that has a network operator.
+
+2304
+01:19:51,399 --> 01:19:53,399
+Congratulations Montenegrins.
+
+2305
+01:19:53,399 --> 01:19:55,399
+Why are there so many cows?
+
+2306
+01:19:55,399 --> 01:19:57,399
+Montenegro.
+
+2307
+01:19:58,399 --> 01:20:00,399
+It was great.
+
+2308
+01:20:00,399 --> 01:20:02,399
+We had a great time.
+
+2309
+01:20:04,399 --> 01:20:07,399
+A friend from Karsolinka came with me.
+
+2310
+01:20:07,799 --> 01:20:10,799
+Karsolinka is an operator
+
+2311
+01:20:10,799 --> 01:20:13,799
+that was established in 2018-2019.
+
+2312
+01:20:15,799 --> 01:20:18,799
+It was after IPv4.
+
+2313
+01:20:19,799 --> 01:20:22,799
+It was a car company.
+
+2314
+01:20:22,799 --> 01:20:25,799
+He told me about his experience
+
+2315
+01:20:25,799 --> 01:20:28,799
+of how to become an ISP
+
+2316
+01:20:28,799 --> 01:20:31,799
+after your question.
+
+2317
+01:20:33,799 --> 01:20:36,799
+They hired 2-4 ISPs
+
+2318
+01:20:37,200 --> 01:20:40,200
+for IPv4.
+
+2319
+01:20:41,200 --> 01:20:44,200
+Then they got into the queue
+
+2320
+01:20:44,200 --> 01:20:47,200
+at the top of the queue.
+
+2321
+01:20:47,200 --> 01:20:50,200
+Was there a shortage of ISPs?
+
+2322
+01:20:52,200 --> 01:20:55,200
+There were 22.
+
+2323
+01:20:55,200 --> 01:20:58,200
+Now you get 24.
+
+2324
+01:20:58,200 --> 01:21:01,200
+You have to queue up.
+
+2325
+01:21:01,200 --> 01:21:04,200
+There was a shortage of ISPs.
+
+2326
+01:21:04,600 --> 01:21:07,600
+If you become an ISP today,
+
+2327
+01:21:07,600 --> 01:21:10,600
+you get ISN and IPv6 resources.
+
+2328
+01:21:10,600 --> 01:21:13,600
+How often do you queue up?
+
+2329
+01:21:13,600 --> 01:21:16,600
+You have to queue up.
+
+2330
+01:21:16,600 --> 01:21:19,600
+At the last RIPE meeting,
+
+2331
+01:21:19,600 --> 01:21:22,600
+Sander, Gerd and I went to queue up.
+
+2332
+01:21:22,600 --> 01:21:25,600
+It was not a boundary.
+
+2333
+01:21:25,600 --> 01:21:28,600
+It is easier to queue up.
+
+2334
+01:21:28,600 --> 01:21:31,600
+They started with IPv4.
+
+2335
+01:21:32,000 --> 01:21:35,000
+They soon realized
+
+2336
+01:21:35,000 --> 01:21:38,000
+that there is no point in queueing up.
+
+2337
+01:21:38,000 --> 01:21:41,000
+They started thinking about IPv6
+
+2338
+01:21:41,000 --> 01:21:44,000
+and how to implement it.
+
+2339
+01:21:44,000 --> 01:21:47,000
+Now they have IPv6 enabled network
+
+2340
+01:21:47,000 --> 01:21:50,000
+and queue it up to all parties.
+
+2341
+01:21:50,000 --> 01:21:53,000
+They are very concerned
+
+2342
+01:21:53,000 --> 01:21:56,000
+that parties would not enable it on their side.
+
+2343
+01:21:56,000 --> 01:21:59,000
+In Italy, the law is a bit different.
+
+2344
+01:21:59,399 --> 01:22:02,399
+It is not that everyone should bring
+
+2345
+01:22:02,399 --> 01:22:05,399
+all sorts of routers that are available.
+
+2346
+01:22:05,399 --> 01:22:08,399
+In our case,
+
+2347
+01:22:08,399 --> 01:22:11,399
+all the IPv6 resources are provided
+
+2348
+01:22:11,399 --> 01:22:14,399
+by the operator.
+
+2349
+01:22:14,399 --> 01:22:17,399
+You mean the one that terminates
+
+2350
+01:22:17,399 --> 01:22:20,399
+on the Ethernet.
+
+2351
+01:22:20,399 --> 01:22:23,399
+I have a router connected to my PC
+
+2352
+01:22:23,399 --> 01:22:26,399
+and I still have PPP OSI
+
+2353
+01:22:26,799 --> 01:22:29,799
+connected to my brother's CIO.
+
+2354
+01:22:29,799 --> 01:22:32,799
+I work with Mikrotik.
+
+2355
+01:22:32,799 --> 01:22:35,799
+Their CPE
+
+2356
+01:22:35,799 --> 01:22:38,799
+is used as a media converter.
+
+2357
+01:22:38,799 --> 01:22:41,799
+They realized
+
+2358
+01:22:41,799 --> 01:22:44,799
+that you can't develop
+
+2359
+01:22:44,799 --> 01:22:47,799
+your business
+
+2360
+01:22:47,799 --> 01:22:50,799
+only on IPv4.
+
+2361
+01:22:50,799 --> 01:22:53,799
+If the whole world is on IPv6,
+
+2362
+01:22:54,200 --> 01:22:57,200
+why wouldn't they go?
+
+2363
+01:22:57,200 --> 01:23:00,200
+The network is not that big yet.
+
+2364
+01:23:00,200 --> 01:23:03,200
+What stops us?
+
+2365
+01:23:03,200 --> 01:23:06,200
+What stops us?
+
+2366
+01:23:06,200 --> 01:23:09,200
+First of all,
+
+2367
+01:23:09,200 --> 01:23:12,200
+we are stopped by people
+
+2368
+01:23:12,200 --> 01:23:15,200
+who are too old
+
+2369
+01:23:15,200 --> 01:23:18,200
+to understand IPv4.
+
+2370
+01:23:18,200 --> 01:23:21,200
+They don't want to think about IPv6.
+
+2371
+01:23:21,600 --> 01:23:24,600
+What stops us is
+
+2372
+01:23:24,600 --> 01:23:27,600
+that it is not a business case for IPv6.
+
+2373
+01:23:27,600 --> 01:23:30,600
+For example,
+
+2374
+01:23:30,600 --> 01:23:33,599
+I don't know what NLB has.
+
+2375
+01:23:33,599 --> 01:23:36,599
+I'm sorry, XLB.
+
+2376
+01:23:36,599 --> 01:23:39,599
+XLB has a million problems.
+
+2377
+01:23:39,599 --> 01:23:42,599
+IPv6 is not one of them.
+
+2378
+01:23:42,599 --> 01:23:45,599
+They have 10 internally.
+
+2379
+01:23:45,599 --> 01:23:48,599
+All people are connected.
+
+2380
+01:23:49,000 --> 01:23:52,000
+On Zuni
+
+2381
+01:23:52,000 --> 01:23:55,000
+they have a website on IPv4.
+
+2382
+01:23:55,000 --> 01:23:58,000
+No operator can guarantee
+
+2383
+01:23:58,000 --> 01:24:01,000
+that IPv4 won't support them.
+
+2384
+01:24:01,000 --> 01:24:04,000
+You don't have to do anything for them.
+
+2385
+01:24:04,000 --> 01:24:07,000
+Everything works a little better,
+
+2386
+01:24:07,000 --> 01:24:10,000
+but if you look at the replications
+
+2387
+01:24:10,000 --> 01:24:13,000
+they give you on mobile phones...
+
+2388
+01:24:13,000 --> 01:24:16,000
+For example,
+
+2389
+01:24:16,400 --> 01:24:19,400
+I was asked
+
+2390
+01:24:19,400 --> 01:24:22,400
+if I could make a presentation on IPv6.
+
+2391
+01:24:22,400 --> 01:24:25,400
+I said no,
+
+2392
+01:24:25,400 --> 01:24:28,400
+it's an old topic.
+
+2393
+01:24:28,400 --> 01:24:31,400
+I made a new presentation
+
+2394
+01:24:31,400 --> 01:24:34,400
+on a slightly higher level.
+
+2395
+01:24:34,400 --> 01:24:37,400
+I simply gave the operators an idea
+
+2396
+01:24:37,400 --> 01:24:40,400
+of what content providers do.
+
+2397
+01:24:40,400 --> 01:24:43,400
+The big ones go to the IPv6 only data center.
+
+2398
+01:24:43,799 --> 01:24:46,799
+Then you have an IPv4 translator on the edge.
+
+2399
+01:24:46,799 --> 01:24:49,799
+You don't.
+
+2400
+01:24:49,799 --> 01:24:52,799
+All the big content providers
+
+2401
+01:24:52,799 --> 01:24:55,799
+have a web server on the edge.
+
+2402
+01:24:55,799 --> 01:24:58,799
+You have a Zunani interface,
+
+2403
+01:24:58,799 --> 01:25:01,799
+dual-stack.
+
+2404
+01:25:01,799 --> 01:25:04,799
+They all have a proxy server.
+
+2405
+01:25:04,799 --> 01:25:07,799
+Yes, they use SIIT,
+
+2406
+01:25:07,799 --> 01:25:10,799
+and in the other direction something else.
+
+2407
+01:25:11,200 --> 01:25:14,200
+But the point is...
+
+2408
+01:25:14,200 --> 01:25:17,200
+Aha, you mean you don't have a dual-stack.
+
+2409
+01:25:17,200 --> 01:25:20,200
+Yes, I've talked about it a lot
+
+2410
+01:25:20,200 --> 01:25:23,200
+on Facebook, Google, etc.
+
+2411
+01:25:23,200 --> 01:25:26,200
+When a meeting ends...
+
+2412
+01:25:26,200 --> 01:25:29,200
+At a beer.
+
+2413
+01:25:29,200 --> 01:25:32,200
+I told them how things work.
+
+2414
+01:25:32,200 --> 01:25:35,200
+Then I said,
+
+2415
+01:25:35,200 --> 01:25:38,200
+this is a modern content provider.
+
+2416
+01:25:38,599 --> 01:25:41,599
+And a translator on the edge.
+
+2417
+01:25:41,599 --> 01:25:44,599
+If we look at the other side
+
+2418
+01:25:44,599 --> 01:25:47,599
+of an operator,
+
+2419
+01:25:47,599 --> 01:25:50,599
+where you have IPv4, CGN,
+
+2420
+01:25:50,599 --> 01:25:53,599
+and NAT on CPI,
+
+2421
+01:25:53,599 --> 01:25:56,599
+let's put it all together.
+
+2422
+01:25:56,599 --> 01:25:59,599
+You have NNAT, CGN,
+
+2423
+01:25:59,599 --> 01:26:02,599
+and a translator on the content provider
+
+2424
+01:26:02,599 --> 01:26:05,599
+before you get to the person.
+
+2425
+01:26:06,000 --> 01:26:09,000
+Now let's put IPv6.
+
+2426
+01:26:09,000 --> 01:26:12,000
+If you implement IPv6,
+
+2427
+01:26:12,000 --> 01:26:15,000
+it goes directly,
+
+2428
+01:26:15,000 --> 01:26:18,000
+without any additional points,
+
+2429
+01:26:18,000 --> 01:26:21,000
+without any additional translations, etc.
+
+2430
+01:26:21,000 --> 01:26:24,000
+Do you know what was the response of the operators?
+
+2431
+01:26:24,000 --> 01:26:27,000
+Wow, we've never thought about it like that.
+
+2432
+01:26:27,000 --> 01:26:30,000
+Of course, because they think about their own money.
+
+2433
+01:26:30,000 --> 01:26:33,000
+You know what else?
+
+2434
+01:26:33,400 --> 01:26:36,400
+With their dual-stack,
+
+2435
+01:26:36,400 --> 01:26:39,400
+all video traffic goes to IPv6.
+
+2436
+01:26:39,400 --> 01:26:42,400
+Do you know how much you save on CGN licenses?
+
+2437
+01:26:42,400 --> 01:26:45,400
+You only save on licenses.
+
+2438
+01:26:45,400 --> 01:26:48,400
+If you only have CGN,
+
+2439
+01:26:48,400 --> 01:26:51,400
+you don't have an exit strategy.
+
+2440
+01:26:51,400 --> 01:26:54,400
+More and more traffic will go to CGN.
+
+2441
+01:26:54,400 --> 01:26:57,400
+CGN is a carrier-grade NAT.
+
+2442
+01:26:57,400 --> 01:27:00,400
+If we say NAT is evil,
+
+2443
+01:27:00,799 --> 01:27:03,799
+it's a carrier-grade evil.
+
+2444
+01:27:03,799 --> 01:27:06,799
+The operators built it,
+
+2445
+01:27:06,799 --> 01:27:09,799
+because they didn't have enough IPv6 space.
+
+2446
+01:27:09,799 --> 01:27:12,799
+They made an additional translation,
+
+2447
+01:27:12,799 --> 01:27:15,799
+because they used internal IPs.
+
+2448
+01:27:15,799 --> 01:27:18,799
+Internal IPs between their cores,
+
+2449
+01:27:18,799 --> 01:27:21,799
+and between your CPUs,
+
+2450
+01:27:21,799 --> 01:27:24,799
+when it changes to another internal IP,
+
+2451
+01:27:24,799 --> 01:27:27,799
+or the same one.
+
+2452
+01:27:28,200 --> 01:27:31,200
+Then you have a problem.
+
+2453
+01:27:31,200 --> 01:27:34,200
+Like you said,
+
+2454
+01:27:34,200 --> 01:27:37,200
+the operator gives me one word,
+
+2455
+01:27:37,200 --> 01:27:40,200
+while I have 30 computers at home,
+
+2456
+01:27:40,200 --> 01:27:43,200
+and I'm fighting for that one word.
+
+2457
+01:27:43,200 --> 01:27:46,200
+But because the operator was too late,
+
+2458
+01:27:46,200 --> 01:27:49,200
+and doesn't have one word for me,
+
+2459
+01:27:49,200 --> 01:27:52,200
+there's one more layer of shit
+
+2460
+01:27:52,200 --> 01:27:55,200
+before we get to global internet.
+
+2461
+01:27:55,599 --> 01:27:58,599
+Then you have people
+
+2462
+01:27:58,599 --> 01:28:01,599
+who are network engineers,
+
+2463
+01:28:01,599 --> 01:28:04,599
+or network architects.
+
+2464
+01:28:04,599 --> 01:28:07,599
+The first idea is,
+
+2465
+01:28:07,599 --> 01:28:10,599
+as long as it works,
+
+2466
+01:28:10,599 --> 01:28:13,599
+as long as it doesn't extend anywhere.
+
+2467
+01:28:13,599 --> 01:28:16,599
+No, I have a lot of other work.
+
+2468
+01:28:16,599 --> 01:28:19,599
+Yes.
+
+2469
+01:28:19,599 --> 01:28:22,599
+But the difficulty is,
+
+2470
+01:28:23,000 --> 01:28:26,000
+because the world is changing,
+
+2471
+01:28:26,000 --> 01:28:29,000
+and the other end, the operator,
+
+2472
+01:28:29,000 --> 01:28:32,000
+is one end of the communication.
+
+2473
+01:28:32,000 --> 01:28:35,000
+For every communication,
+
+2474
+01:28:35,000 --> 01:28:38,000
+you need two ends.
+
+2475
+01:28:38,000 --> 01:28:41,000
+And the other end changes,
+
+2476
+01:28:41,000 --> 01:28:44,000
+because it's cheaper to use IPv6.
+
+2477
+01:28:44,000 --> 01:28:47,000
+No, the other end changes,
+
+2478
+01:28:47,000 --> 01:28:50,000
+when most of the content is on IPv6.
+
+2479
+01:28:50,000 --> 01:28:53,000
+And most of the content is on IPv6.
+
+2480
+01:28:53,000 --> 01:28:56,000
+Yes.
+
+2481
+01:28:56,000 --> 01:28:59,000
+Then you have the long tail of everyone else.
+
+2482
+01:28:59,000 --> 01:29:02,000
+99.99% of the domains in the world
+
+2483
+01:29:02,000 --> 01:29:05,000
+are on IPv4,
+
+2484
+01:29:05,000 --> 01:29:08,000
+because no one cares that they're only on IPv4.
+
+2485
+01:29:08,000 --> 01:29:11,000
+Unless you're on Cloudflare,
+
+2486
+01:29:11,000 --> 01:29:14,000
+then you're automatically on IPv6.
+
+2487
+01:29:14,000 --> 01:29:17,000
+I think Amazon is already calculating IPv4,
+
+2488
+01:29:17,000 --> 01:29:20,000
+so it's IPv4 for service.
+
+2489
+01:29:20,000 --> 01:29:23,000
+Yes, of course.
+
+2490
+01:29:23,000 --> 01:29:26,000
+You know what the problem is?
+
+2491
+01:29:26,000 --> 01:29:29,000
+Amazon will collect the next $2 billion,
+
+2492
+01:29:29,000 --> 01:29:32,000
+I'll get $12 or $15 a year.
+
+2493
+01:29:32,000 --> 01:29:35,000
+I'll get $12 or $15 a year.
+
+2494
+01:29:35,000 --> 01:29:38,000
+I'm sorry, but I'm not going to configure IPv6 for that.
+
+2495
+01:29:38,000 --> 01:29:41,000
+Yes.
+
+2496
+01:29:41,000 --> 01:29:44,000
+Where's the pain point?
+
+2497
+01:29:44,000 --> 01:29:47,000
+I'm sorry, but I'm not going to configure IPv6 for that.
+
+2498
+01:29:47,000 --> 01:29:50,000
+All I need is for you to sign up
+
+2499
+01:29:50,000 --> 01:29:53,000
+so that you can start signing up there.
+
+2500
+01:29:53,000 --> 01:29:56,000
+No, you know what?
+
+2501
+01:29:56,000 --> 01:29:59,000
+Then I have to change it on Cloudflare,
+
+2502
+01:29:59,000 --> 01:30:02,000
+then I have to change the access list.
+
+2503
+01:30:02,000 --> 01:30:05,000
+We're a bit lazy.
+
+2504
+01:30:05,000 --> 01:30:08,000
+No, not for $15 a year.
+
+2505
+01:30:08,000 --> 01:30:11,000
+At some point, they'll tell you
+
+2506
+01:30:11,000 --> 01:30:14,000
+No, they're not going to tell you,
+
+2507
+01:30:14,000 --> 01:30:17,000
+they're calculating the pain.
+
+2508
+01:30:17,000 --> 01:30:20,000
+But look, real experience,
+
+2509
+01:30:20,000 --> 01:30:23,000
+I've talked to a lot of small operators,
+
+2510
+01:30:23,000 --> 01:30:26,000
+who implemented dual stack,
+
+2511
+01:30:26,000 --> 01:30:29,000
+today, at the moment,
+
+2512
+01:30:29,000 --> 01:30:32,000
+if you're not an IPv6 user,
+
+2513
+01:30:32,000 --> 01:30:35,000
+on dual stack,
+
+2514
+01:30:35,000 --> 01:30:38,000
+about 50-60% of IPv6 traffic goes like this.
+
+2515
+01:30:38,000 --> 01:30:41,000
+That's for fixed IPv6 traffic.
+
+2516
+01:30:41,000 --> 01:30:44,000
+For mobile IPv6 traffic,
+
+2517
+01:30:44,000 --> 01:30:47,000
+it's 80-90%,
+
+2518
+01:30:47,000 --> 01:30:50,000
+because there's only Google and Facebook.
+
+2519
+01:30:50,000 --> 01:30:53,000
+I don't know if it's still the same for mobile IPv6 traffic.
+
+2520
+01:30:53,000 --> 01:30:56,000
+For dual stack, you need 2 SI.
+
+2521
+01:30:56,000 --> 01:30:59,000
+Yes, PDPv6 and PDPv4.
+
+2522
+01:30:59,000 --> 01:31:02,000
+No, you also have dual stack PDP.
+
+2523
+01:31:02,000 --> 01:31:05,000
+Yes, but you need newer software
+
+2524
+01:31:05,000 --> 01:31:08,000
+for the whole network,
+
+2525
+01:31:08,000 --> 01:31:11,000
+which almost no one has.
+
+2526
+01:31:11,000 --> 01:31:14,000
+And you have to pay a license for one user,
+
+2527
+01:31:14,000 --> 01:31:17,000
+for two users, because you have 2 SI.
+
+2528
+01:31:17,000 --> 01:31:20,000
+That's why T-Mobile USA went to IPv6 only.
+
+2529
+01:31:20,000 --> 01:31:23,000
+And that's why Lorenzo added Android.
+
+2530
+01:31:23,000 --> 01:31:26,000
+And what else?
+
+2531
+01:31:26,000 --> 01:31:29,000
+464XLAT.
+
+2532
+01:31:29,000 --> 01:31:32,000
+The first representative of 464XLAT
+
+2533
+01:31:32,000 --> 01:31:35,000
+was in Paris,
+
+2534
+01:31:35,000 --> 01:31:38,000
+where I gave Lorenzo a Slovenian SIM card
+
+2535
+01:31:38,000 --> 01:31:41,000
+that had IPv6 only.
+
+2536
+01:31:41,000 --> 01:31:44,000
+And I gave him 15 minutes of my slot,
+
+2537
+01:31:44,000 --> 01:31:47,000
+so that Lorenzo came to Oder
+
+2538
+01:31:47,000 --> 01:31:50,000
+and we showed 464XLAT on Android for the first time.
+
+2539
+01:31:50,000 --> 01:31:53,000
+IPv6 came from France to Slovenia
+
+2540
+01:31:53,000 --> 01:31:56,000
+and then to the rest of the world.
+
+2541
+01:31:56,000 --> 01:31:59,000
+That was interesting.
+
+2542
+01:31:59,000 --> 01:32:02,000
+What does IPv6 mean in the end?
+
+2543
+01:32:02,000 --> 01:32:05,000
+If, for example,
+
+2544
+01:32:05,000 --> 01:32:08,000
+the ideal conditions in the apartment
+
+2545
+01:32:08,000 --> 01:32:11,000
+were to switch to IPv6 only,
+
+2546
+01:32:11,000 --> 01:32:14,000
+what would fail?
+
+2547
+01:32:14,000 --> 01:32:17,000
+Where would our current use of the Internet fail?
+
+2548
+01:32:17,000 --> 01:32:20,000
+One of the best approaches
+
+2549
+01:32:20,000 --> 01:32:23,000
+to implementing IPv6,
+
+2550
+01:32:23,000 --> 01:32:26,000
+as I saw them, was Telekom Slovenija.
+
+2551
+01:32:26,000 --> 01:32:29,000
+They implemented IPv6 on all dual-stack devices,
+
+2552
+01:32:29,000 --> 01:32:32,000
+and instead of enabling it
+
+2553
+01:32:32,000 --> 01:32:35,000
+on all users at once,
+
+2554
+01:32:35,000 --> 01:32:38,000
+they went like this.
+
+2555
+01:32:38,000 --> 01:32:41,000
+No, first they had close users.
+
+2556
+01:32:41,000 --> 01:32:44,000
+And when we fixed that,
+
+2557
+01:32:44,000 --> 01:32:47,000
+they went like this.
+
+2558
+01:32:47,000 --> 01:32:50,000
+Today, if you enable all users
+
+2559
+01:32:50,000 --> 01:32:53,000
+and you get 60% traffic on IPv6,
+
+2560
+01:32:53,000 --> 01:32:56,000
+you have no experience with troubleshooting.
+
+2561
+01:32:56,000 --> 01:32:59,000
+The learning curve is very slow.
+
+2562
+01:32:59,000 --> 01:33:02,000
+They went like this.
+
+2563
+01:33:02,000 --> 01:33:05,000
+From now on, every new user gets IPv6 by default.
+
+2564
+01:33:05,000 --> 01:33:08,000
+Anyone who changes something
+
+2565
+01:33:08,000 --> 01:33:11,000
+in the self-care portal
+
+2566
+01:33:11,000 --> 01:33:14,000
+and goes through the same procedure
+
+2567
+01:33:14,000 --> 01:33:17,000
+to install something,
+
+2568
+01:33:17,000 --> 01:33:20,000
+automatically gets IPv6.
+
+2569
+01:33:20,000 --> 01:33:23,000
+Or if you go to the portal
+
+2570
+01:33:23,000 --> 01:33:26,000
+and you want to have IPv6,
+
+2571
+01:33:26,000 --> 01:33:29,000
+the learning curve was somewhat positive.
+
+2572
+01:33:29,000 --> 01:33:32,000
+And above all,
+
+2573
+01:33:32,000 --> 01:33:35,000
+it was manageable.
+
+2574
+01:33:35,000 --> 01:33:38,000
+At the same time,
+
+2575
+01:33:38,000 --> 01:33:41,000
+we wrote the RIPE document
+
+2576
+01:33:41,000 --> 01:33:44,000
+called IPv6 Troubleshooting
+
+2577
+01:33:44,000 --> 01:33:47,000
+for Residential Help Desk.
+
+2578
+01:33:47,000 --> 01:33:50,000
+We did complete procedures
+
+2579
+01:33:50,000 --> 01:33:53,000
+on how help desks test IPv6,
+
+2580
+01:33:53,000 --> 01:33:56,000
+do a dual stack,
+
+2581
+01:33:56,000 --> 01:33:59,000
+what to do if the user calls
+
+2582
+01:33:59,000 --> 01:34:02,000
+and has problems with any of the protocols.
+
+2583
+01:34:02,000 --> 01:34:05,000
+My question was,
+
+2584
+01:34:05,000 --> 01:34:08,000
+what would be the biggest problem
+
+2585
+01:34:08,000 --> 01:34:11,000
+if we were to block IPv6 right now?
+
+2586
+01:34:11,000 --> 01:34:14,000
+If you're talking about blocking IPv4
+
+2587
+01:34:14,000 --> 01:34:17,000
+there are still a lot of problems
+
+2588
+01:34:17,000 --> 01:34:20,000
+with IPv4.
+
+2589
+01:34:20,000 --> 01:34:23,000
+Either you won't get to those problems,
+
+2590
+01:34:23,000 --> 01:34:26,000
+or someone will have to do a translation.
+
+2591
+01:34:26,000 --> 01:34:29,000
+What about some applications?
+
+2592
+01:34:29,000 --> 01:34:32,000
+In the beginning, Skype 6 was a pain.
+
+2593
+01:34:32,000 --> 01:34:35,000
+It's still a pain.
+
+2594
+01:34:35,000 --> 01:34:38,000
+I mean, it's still working.
+
+2595
+01:34:38,000 --> 01:34:41,000
+Skype is still working.
+
+2596
+01:34:41,000 --> 01:34:44,000
+The hack is,
+
+2597
+01:34:44,000 --> 01:34:47,000
+that you have a fake IPv4 interface
+
+2598
+01:34:47,000 --> 01:34:50,000
+on every host.
+
+2599
+01:34:50,000 --> 01:34:53,000
+That's why Skype connects to it.
+
+2600
+01:34:53,000 --> 01:34:56,000
+But because it's a local TCP stack,
+
+2601
+01:34:56,000 --> 01:34:59,000
+you can change the TCP size
+
+2602
+01:34:59,000 --> 01:35:02,000
+to 6.
+
+2603
+01:35:02,000 --> 01:35:05,000
+On the other hand,
+
+2604
+01:35:05,000 --> 01:35:08,000
+you have a translator that changes it back to 4.
+
+2605
+01:35:09,000 --> 01:35:12,000
+Why couldn't T-Mobile
+
+2606
+01:35:12,000 --> 01:35:15,000
+fit a 6-only network?
+
+2607
+01:35:15,000 --> 01:35:18,000
+It was exactly because of Skype.
+
+2608
+01:35:18,000 --> 01:35:21,000
+Because everything else was working.
+
+2609
+01:35:21,000 --> 01:35:24,000
+Until 4.6.4.x came out.
+
+2610
+01:35:24,000 --> 01:35:27,000
+After 4.6.4.x came out on Android,
+
+2611
+01:35:27,000 --> 01:35:30,000
+they were able to fit a 6-only network.
+
+2612
+01:35:30,000 --> 01:35:33,000
+I think there were 26 million users
+
+2613
+01:35:33,000 --> 01:35:36,000
+on IPv6 only.
+
+2614
+01:35:36,000 --> 01:35:39,000
+They called me and said
+
+2615
+01:35:39,000 --> 01:35:42,000
+that they had more calls
+
+2616
+01:35:42,000 --> 01:35:45,000
+that people wanted to order pizza
+
+2617
+01:35:45,000 --> 01:35:48,000
+than IPv6 calls.
+
+2618
+01:35:48,000 --> 01:35:51,000
+Things are still working.
+
+2619
+01:35:51,000 --> 01:35:54,000
+Now it's great that Apple
+
+2620
+01:35:54,000 --> 01:35:57,000
+finally laid the groundwork
+
+2621
+01:35:57,000 --> 01:36:00,000
+and said,
+
+2622
+01:36:00,000 --> 01:36:03,000
+that you won't come to the App Store
+
+2623
+01:36:03,000 --> 01:36:06,000
+if you don't work on a 6-only network.
+
+2624
+01:36:06,000 --> 01:36:09,000
+That's awesome.
+
+2625
+01:36:09,000 --> 01:36:12,000
+And now,
+
+2626
+01:36:12,000 --> 01:36:15,000
+all the big content providers
+
+2627
+01:36:15,000 --> 01:36:18,000
+that have an IPv6-only network
+
+2628
+01:36:18,000 --> 01:36:21,000
+and data centers,
+
+2629
+01:36:21,000 --> 01:36:24,000
+have found that the happy eyeballs
+
+2630
+01:36:24,000 --> 01:36:27,000
+were the best during the week.
+
+2631
+01:36:27,000 --> 01:36:30,000
+And to make it even better,
+
+2632
+01:36:30,000 --> 01:36:33,000
+they decided that more traffic
+
+2633
+01:36:33,000 --> 01:36:36,000
+would go through IPv6.
+
+2634
+01:36:36,000 --> 01:36:39,000
+And they started adding jitters
+
+2635
+01:36:39,000 --> 01:36:42,000
+and delays to IPv4 translators
+
+2636
+01:36:42,000 --> 01:36:45,000
+on their Edge.
+
+2637
+01:36:45,000 --> 01:36:48,000
+Now, if you're an IPv4-only user
+
+2638
+01:36:48,000 --> 01:36:51,000
+and you have a 6-only ISP,
+
+2639
+01:36:51,000 --> 01:36:54,000
+your user experience will always be worse.
+
+2640
+01:36:54,000 --> 01:36:57,000
+But they don't care.
+
+2641
+01:36:57,000 --> 01:37:00,000
+They would rather have a network.
+
+2642
+01:37:03,000 --> 01:37:06,000
+And those operators
+
+2643
+01:37:06,000 --> 01:37:09,000
+that don't think about IPv6 implementation,
+
+2644
+01:37:09,000 --> 01:37:12,000
+it would be easier to do it 10 years ago,
+
+2645
+01:37:12,000 --> 01:37:15,000
+when there was no content yet.
+
+2646
+01:37:15,000 --> 01:37:18,000
+At that time,
+
+2647
+01:37:18,000 --> 01:37:21,000
+the flow of everything would be
+
+2648
+01:37:21,000 --> 01:37:24,000
+somewhat balanced
+
+2649
+01:37:24,000 --> 01:37:27,000
+and all the difficulties would be solved.
+
+2650
+01:37:27,000 --> 01:37:30,000
+If you're not an IPv6-only user today,
+
+2651
+01:37:30,000 --> 01:37:33,000
+you can get into a disaster.
+
+2652
+01:37:33,000 --> 01:37:36,000
+You need people who have already started it
+
+2653
+01:37:36,000 --> 01:37:39,000
+and have experience in doing it.
+
+2654
+01:37:39,000 --> 01:37:42,000
+Then it's not a problem.
+
+2655
+01:37:42,000 --> 01:37:45,000
+In fact, we are on the right track.
+
+2656
+01:37:45,000 --> 01:37:48,000
+Operators are covering it well enough.
+
+2657
+01:37:48,000 --> 01:37:51,000
+Yes.
+
+2658
+01:37:51,000 --> 01:37:54,000
+According to global statistics,
+
+2659
+01:37:54,000 --> 01:37:57,000
+in certain countries,
+
+2660
+01:37:57,000 --> 01:38:00,000
+IPv6 traffic is more than half.
+
+2661
+01:38:00,000 --> 01:38:03,000
+Google measures traffic
+
+2662
+01:38:03,000 --> 01:38:06,000
+on all their devices.
+
+2663
+01:38:06,000 --> 01:38:09,000
+And I think that we are now
+
+2664
+01:38:09,000 --> 01:38:12,000
+about 50% of traffic on Google
+
+2665
+01:38:12,000 --> 01:38:15,000
+comes through IPv6.
+
+2666
+01:38:15,000 --> 01:38:18,000
+So it's not a joke anymore.
+
+2667
+01:38:18,000 --> 01:38:21,000
+Without practice and experience
+
+2668
+01:38:21,000 --> 01:38:24,000
+from the world of enterprise
+
+2669
+01:38:24,000 --> 01:38:27,000
+and security,
+
+2670
+01:38:27,000 --> 01:38:30,000
+IPv6 will disappear.
+
+2671
+01:38:30,000 --> 01:38:33,000
+If I'm honest and direct,
+
+2672
+01:38:33,000 --> 01:38:36,000
+a certain generation will be able
+
+2673
+01:38:36,000 --> 01:38:39,000
+to get a pension
+
+2674
+01:38:39,000 --> 01:38:42,000
+before we can implement IPv6.
+
+2675
+01:38:42,000 --> 01:38:45,000
+It's the same.
+
+2676
+01:38:45,000 --> 01:38:48,000
+In theory, one step forward at a time.
+
+2677
+01:38:48,000 --> 01:38:51,000
+Yes, exactly.
+
+2678
+01:38:51,000 --> 01:38:54,000
+Let's wrap it up.
+
+2679
+01:38:54,000 --> 01:38:57,000
+We have the last 10 minutes.
+
+2680
+01:38:57,000 --> 01:39:00,000
+How much time do we have?
+
+2681
+01:39:00,000 --> 01:39:03,000
+We are already past 90 minutes.
+
+2682
+01:39:03,000 --> 01:39:06,000
+I thought we had 20 minutes.
+
+2683
+01:39:06,000 --> 01:39:09,000
+You've lost 5 hours.
+
+2684
+01:39:09,000 --> 01:39:12,000
+They've limited us.
+
+2685
+01:39:12,000 --> 01:39:15,000
+Let's try to understand
+
+2686
+01:39:15,000 --> 01:39:18,000
+what kind of future
+
+2687
+01:39:18,000 --> 01:39:21,000
+is waiting for us.
+
+2688
+01:39:21,000 --> 01:39:24,000
+What can we see?
+
+2689
+01:39:24,000 --> 01:39:27,000
+It's a very broad question.
+
+2690
+01:39:27,000 --> 01:39:30,000
+Is it true that
+
+2691
+01:39:30,000 --> 01:39:33,000
+IoT, Smart City,
+
+2692
+01:39:33,000 --> 01:39:36,000
+will all get their IPs
+
+2693
+01:39:36,000 --> 01:39:39,000
+and we will be left with a clusterfuck?
+
+2694
+01:39:40,000 --> 01:39:43,000
+That's already a meme.
+
+2695
+01:39:43,000 --> 01:39:46,000
+Next hype.
+
+2696
+01:39:46,000 --> 01:39:49,000
+The problem was that
+
+2697
+01:39:49,000 --> 01:39:52,000
+when they hyped 5G,
+
+2698
+01:39:52,000 --> 01:39:55,000
+they had to find a hype application
+
+2699
+01:39:55,000 --> 01:39:58,000
+to convince all operators
+
+2700
+01:39:58,000 --> 01:40:01,000
+why they need 5G.
+
+2701
+01:40:01,000 --> 01:40:04,000
+IoT!
+
+2702
+01:40:00,000 --> 01:40:02,000
+Self-driving cars.
+
+2703
+01:40:02,000 --> 01:40:04,000
+Wait, wasn't it the same for all four?
+
+2704
+01:40:04,000 --> 01:40:06,000
+Same, of course it was.
+
+2705
+01:40:06,000 --> 01:40:08,000
+What did we say before?
+
+2706
+01:40:08,000 --> 01:40:10,000
+Every crash will happen again.
+
+2707
+01:40:10,000 --> 01:40:12,000
+You need a new frequency,
+
+2708
+01:40:12,000 --> 01:40:14,000
+you have to pay for it.
+
+2709
+01:40:14,000 --> 01:40:16,000
+You need a new equipment,
+
+2710
+01:40:16,000 --> 01:40:18,000
+that's really it.
+
+2711
+01:40:18,000 --> 01:40:20,000
+The state chooses frequencies,
+
+2712
+01:40:20,000 --> 01:40:22,000
+that's fringe benefits.
+
+2713
+01:40:22,000 --> 01:40:24,000
+It's not interesting to vendors,
+
+2714
+01:40:24,000 --> 01:40:26,000
+vendors live on new equipment.
+
+2715
+01:40:26,000 --> 01:40:28,000
+If you look at it,
+
+2716
+01:40:28,000 --> 01:40:30,000
+until the augmented reality,
+
+2717
+01:40:30,000 --> 01:40:32,000
+or virtual reality,
+
+2718
+01:40:32,000 --> 01:40:34,000
+really comes to life.
+
+2719
+01:40:34,000 --> 01:40:36,000
+Everything will always go faster,
+
+2720
+01:40:36,000 --> 01:40:38,000
+always more, always this,
+
+2721
+01:40:38,000 --> 01:40:40,000
+always that.
+
+2722
+01:40:40,000 --> 01:40:42,000
+But I've had the same speed
+
+2723
+01:40:42,000 --> 01:40:44,000
+of an internet connection
+
+2724
+01:40:44,000 --> 01:40:46,000
+at home for 10 years.
+
+2725
+01:40:46,000 --> 01:40:48,000
+And I don't need anything more.
+
+2726
+01:40:48,000 --> 01:40:50,000
+And I don't need anything more.
+
+2727
+01:40:50,000 --> 01:40:52,000
+I went to look at the statistics,
+
+2728
+01:40:52,000 --> 01:40:54,000
+how much I use,
+
+2729
+01:40:54,000 --> 01:40:56,000
+and it's sad altogether.
+
+2730
+01:40:56,000 --> 01:40:58,000
+Yes, I have 100 megabytes,
+
+2731
+01:40:58,000 --> 01:41:00,000
+and I don't need more.
+
+2732
+01:41:00,000 --> 01:41:02,000
+I mean, I wanted to sell 100 megabytes
+
+2733
+01:41:02,000 --> 01:41:04,000
+symmetrically, and I said,
+
+2734
+01:41:04,000 --> 01:41:06,000
+I don't need more, thank you.
+
+2735
+01:41:06,000 --> 01:41:08,000
+It's a traceable thing,
+
+2736
+01:41:08,000 --> 01:41:10,000
+you have a bluetooth toothbrush,
+
+2737
+01:41:10,000 --> 01:41:12,000
+that generates a lot of traffic.
+
+2738
+01:41:12,000 --> 01:41:14,000
+You were better, you were a liar.
+
+2739
+01:41:14,000 --> 01:41:16,000
+Wait, I don't understand,
+
+2740
+01:41:16,000 --> 01:41:18,000
+why would I need 1 gigabit per second
+
+2741
+01:41:18,000 --> 01:41:20,000
+symmetrically on my phone?
+
+2742
+01:41:22,000 --> 01:41:24,000
+No, that would be a problem
+
+2743
+01:41:24,000 --> 01:41:26,000
+for the phone.
+
+2744
+01:41:26,000 --> 01:41:28,000
+Another problem,
+
+2745
+01:41:28,000 --> 01:41:30,000
+I don't want to say it,
+
+2746
+01:41:30,000 --> 01:41:32,000
+but we all know it,
+
+2747
+01:41:34,000 --> 01:41:36,000
+the phone works by air.
+
+2748
+01:41:38,000 --> 01:41:40,000
+And air is a shared spectrum.
+
+2749
+01:41:40,000 --> 01:41:42,000
+And you won't get
+
+2750
+01:41:42,000 --> 01:41:44,000
+1 gigabit on your phone
+
+2751
+01:41:44,000 --> 01:41:46,000
+until you stand alone
+
+2752
+01:41:46,000 --> 01:41:48,000
+under a tree,
+
+2753
+01:41:48,000 --> 01:41:50,000
+so that the zombies and everything else
+
+2754
+01:41:50,000 --> 01:41:52,000
+will eat you,
+
+2755
+01:41:52,000 --> 01:41:54,000
+and the operator is still alive
+
+2756
+01:41:54,000 --> 01:41:56,000
+because the internet is still working.
+
+2757
+01:41:56,000 --> 01:41:58,000
+I remember, we were in Serbia
+
+2758
+01:41:58,000 --> 01:42:00,000
+a year ago, the IGF meeting,
+
+2759
+01:42:00,000 --> 01:42:02,000
+the Internet Governance Forum,
+
+2760
+01:42:02,000 --> 01:42:04,000
+and there were debates about the development
+
+2761
+01:42:04,000 --> 01:42:06,000
+of the internet, and there was
+
+2762
+01:42:06,000 --> 01:42:08,000
+a woman from the European Commission
+
+2763
+01:42:08,000 --> 01:42:10,000
+who came down and said
+
+2764
+01:42:10,000 --> 01:42:12,000
+wireless, wireless, wireless,
+
+2765
+01:42:12,000 --> 01:42:14,000
+R, R, R.
+
+2766
+01:42:14,000 --> 01:42:16,000
+And I said,
+
+2767
+01:42:16,000 --> 01:42:18,000
+air has its own physical laws,
+
+2768
+01:42:18,000 --> 01:42:20,000
+it's a shared media.
+
+2769
+01:42:20,000 --> 01:42:22,000
+We won't be able to
+
+2770
+01:42:22,000 --> 01:42:24,000
+push it forward,
+
+2771
+01:42:24,000 --> 01:42:26,000
+and blow it up,
+
+2772
+01:42:26,000 --> 01:42:28,000
+and smoke it,
+
+2773
+01:42:28,000 --> 01:42:30,000
+and you know what I said?
+
+2774
+01:42:30,000 --> 01:42:32,000
+Look, the solution is
+
+2775
+01:42:32,000 --> 01:42:34,000
+to take Bulgaria and start digging.
+
+2776
+01:42:34,000 --> 01:42:36,000
+And she looked at me in a strange way.
+
+2777
+01:42:36,000 --> 01:42:38,000
+Yes, but the direction of the European Union
+
+2778
+01:42:38,000 --> 01:42:40,000
+is, as soon as
+
+2779
+01:42:40,000 --> 01:42:42,000
+Bulgaria is in our hands,
+
+2780
+01:42:42,000 --> 01:42:44,000
+Bulgaria,
+
+2781
+01:42:44,000 --> 01:42:46,000
+and if you are in the country,
+
+2782
+01:42:46,000 --> 01:42:48,000
+then optically.
+
+2783
+01:42:48,000 --> 01:42:50,000
+Because in the current optics,
+
+2784
+01:42:50,000 --> 01:42:52,000
+sometimes you do it this way,
+
+2785
+01:42:52,000 --> 01:42:54,000
+with air, but sometimes you can't do it anymore,
+
+2786
+01:42:54,000 --> 01:42:56,000
+because you need a higher frequency,
+
+2787
+01:42:56,000 --> 01:42:58,000
+and a higher frequency doesn't go through the window,
+
+2788
+01:42:58,000 --> 01:43:00,000
+doesn't go around the wall.
+
+2789
+01:43:00,000 --> 01:43:02,000
+How much more will we want to blow up people?
+
+2790
+01:43:02,000 --> 01:43:04,000
+Well, it's not a problem to blow it up,
+
+2791
+01:43:04,000 --> 01:43:06,000
+it's a matter of
+
+2792
+01:43:06,000 --> 01:43:08,000
+keeping the power relatively low.
+
+2793
+01:43:08,000 --> 01:43:10,000
+Not at once.
+
+2794
+01:43:10,000 --> 01:43:12,000
+The problem is that it's a line of sight.
+
+2795
+01:43:12,000 --> 01:43:14,000
+The problem is that high frequencies
+
+2796
+01:43:14,000 --> 01:43:16,000
+can't go into the eye anymore.
+
+2797
+01:43:16,000 --> 01:43:18,000
+Oh, run, run.
+
+2798
+01:43:20,000 --> 01:43:22,000
+Look, they're giving it to you.
+
+2799
+01:43:22,000 --> 01:43:24,000
+We have a radio material.
+
+2800
+01:43:24,000 --> 01:43:26,000
+We will present this
+
+2801
+01:43:26,000 --> 01:43:28,000
+for a beer later.
+
+2802
+01:43:30,000 --> 01:43:32,000
+Do you have any final thoughts?
+
+2803
+01:43:34,000 --> 01:43:36,000
+Yes, I would say
+
+2804
+01:43:36,000 --> 01:43:38,000
+about the development of the Internet,
+
+2805
+01:43:38,000 --> 01:43:40,000
+as far as operators are concerned,
+
+2806
+01:43:40,000 --> 01:43:42,000
+I would say
+
+2807
+01:43:42,000 --> 01:43:44,000
+that we should let them
+
+2808
+01:43:44,000 --> 01:43:46,000
+deal with new complexities
+
+2809
+01:43:46,000 --> 01:43:48,000
+that are intensified by
+
+2810
+01:43:48,000 --> 01:43:50,000
+suppliers of equipment and vendors,
+
+2811
+01:43:50,000 --> 01:43:52,000
+such as SRV6 and so on.
+
+2812
+01:43:54,000 --> 01:43:56,000
+Don't curse them.
+
+2813
+01:43:56,000 --> 01:43:58,000
+Yes, sorry.
+
+2814
+01:43:58,000 --> 01:44:00,000
+I have to say it once.
+
+2815
+01:44:00,000 --> 01:44:02,000
+SRV6, okay.
+
+2816
+01:44:02,000 --> 01:44:04,000
+Twice.
+
+2817
+01:44:06,000 --> 01:44:08,000
+And to actively devote
+
+2818
+01:44:08,000 --> 01:44:10,000
+to the implementation
+
+2819
+01:44:10,000 --> 01:44:12,000
+of IPv6
+
+2820
+01:44:12,000 --> 01:44:14,000
+and the development
+
+2821
+01:44:16,000 --> 01:44:18,000
+of transport routes
+
+2822
+01:44:18,000 --> 01:44:20,000
+and capacity.
+
+2823
+01:44:20,000 --> 01:44:22,000
+So that they are connected.
+
+2824
+01:44:22,000 --> 01:44:24,000
+Automation, right?
+
+2825
+01:44:24,000 --> 01:44:26,000
+Yes.
+
+2826
+01:44:26,000 --> 01:44:28,000
+Actually, what I wanted to mention
+
+2827
+01:44:28,000 --> 01:44:30,000
+on this topic before,
+
+2828
+01:44:30,000 --> 01:44:32,000
+when Deutsche Telekom launched
+
+2829
+01:44:32,000 --> 01:44:34,000
+its project called TerraStream.
+
+2830
+01:44:34,000 --> 01:44:36,000
+TerraStream, yes.
+
+2831
+01:44:36,000 --> 01:44:38,000
+Actually, at all the local
+
+2832
+01:44:38,000 --> 01:44:40,000
+RIPE meetings,
+
+2833
+01:44:40,000 --> 01:44:42,000
+they did a business analysis
+
+2834
+01:44:42,000 --> 01:44:44,000
+and concluded that in a few years
+
+2835
+01:44:44,000 --> 01:44:46,000
+all their equipment will be lost.
+
+2836
+01:44:48,000 --> 01:44:50,000
+Meaning, no more cows.
+
+2837
+01:44:50,000 --> 01:44:52,000
+Have you heard about Peter Lodberg?
+
+2838
+01:44:52,000 --> 01:44:54,000
+No.
+
+2839
+01:44:54,000 --> 01:44:56,000
+No, another one.
+
+2840
+01:44:56,000 --> 01:44:58,000
+Peter Lodberg was the father of the project.
+
+2841
+01:44:58,000 --> 01:45:00,000
+It was his grandson, I think.
+
+2842
+01:45:00,000 --> 01:45:02,000
+Yes, and probably he was in Sweden.
+
+2843
+01:45:02,000 --> 01:45:04,000
+In English.
+
+2844
+01:45:04,000 --> 01:45:06,000
+Anyway.
+
+2845
+01:45:06,000 --> 01:45:08,000
+The main point is that the margin is not more.
+
+2846
+01:45:08,000 --> 01:45:10,000
+Focus on how you will
+
+2847
+01:45:10,000 --> 01:45:12,000
+reduce the cost of the equipment.
+
+2848
+01:45:12,000 --> 01:45:14,000
+Because only then will you survive.
+
+2849
+01:45:14,000 --> 01:45:16,000
+If you don't reduce the cost of the equipment,
+
+2850
+01:45:16,000 --> 01:45:18,000
+there will be another one.
+
+2851
+01:45:18,000 --> 01:45:20,000
+Cool.
+
+2852
+01:45:20,000 --> 01:45:22,000
+The second point for developers is
+
+2853
+01:45:22,000 --> 01:45:24,000
+that the laws of physics remain unchanged.
+
+2854
+01:45:24,000 --> 01:45:26,000
+Latency is not a book.
+
+2855
+01:45:26,000 --> 01:45:28,000
+Bandwidth is not infinite.
+
+2856
+01:45:28,000 --> 01:45:30,000
+Even if it's a simple file,
+
+2857
+01:45:30,000 --> 01:45:32,000
+you think that's it.
+
+2858
+01:45:32,000 --> 01:45:34,000
+We referred to the RFC,
+
+2859
+01:45:34,000 --> 01:45:36,000
+and we'll talk about it later.
+
+2860
+01:45:36,000 --> 01:45:38,000
+If not, we'll talk about physics.
+
+2861
+01:45:38,000 --> 01:45:40,000
+We'll talk about SD cards.
+
+2862
+01:45:40,000 --> 01:45:42,000
+Laws of physics also work for us.
+
+2863
+01:45:42,000 --> 01:45:44,000
+If I add,
+
+2864
+01:45:44,000 --> 01:45:46,000
+as I said before,
+
+2865
+01:45:46,000 --> 01:45:48,000
+for developers,
+
+2866
+01:45:48,000 --> 01:45:50,000
+the beating will continue
+
+2867
+01:45:50,000 --> 01:45:52,000
+until the morale improves.
+
+2868
+01:45:54,000 --> 01:45:56,000
+So, you watched and listened
+
+2869
+01:45:56,000 --> 01:45:58,000
+to Ogrodje.
+
+2870
+01:45:58,000 --> 01:46:00,000
+With me, Jan Žorš,
+
+2871
+01:46:00,000 --> 01:46:02,000
+Ivan Poplnjak.
+
+2872
+01:46:02,000 --> 01:46:04,000
+Thank you very much.
+
+2873
+01:46:04,000 --> 01:46:06,000
+Did I say anything smart?
+
+2874
+01:46:06,000 --> 01:46:08,000
+No.
+
+2875
+01:46:08,000 --> 01:46:10,000
+Maybe we should repeat it more often.
+
+2876
+01:46:10,000 --> 01:46:12,000
+I would also like to thank the team
+
+2877
+01:46:12,000 --> 01:46:14,000
+behind the camera,
+
+2878
+01:46:14,000 --> 01:46:16,000
+Patreon,
+
+2879
+01:46:16,000 --> 01:46:18,000
+3FSA, Human Frog,
+
+2880
+01:46:18,000 --> 01:46:20,000
+and
+
+2881
+01:46:20,000 --> 01:46:22,000
+see you next time.

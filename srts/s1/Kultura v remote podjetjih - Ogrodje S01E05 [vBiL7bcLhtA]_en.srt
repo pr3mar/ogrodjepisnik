@@ -1,0 +1,4571 @@
+1
+00:00:00,000 --> 00:00:14,000
+Welcome to the podcast of Grodje, this is the 5th episode, today you are with me Jure Čohaljev and Brodur, I am Oto Brgles.
+
+2
+00:00:14,000 --> 00:00:36,000
+Today we don't have any specific agenda, but Jure will try to ask us how we see the future without traditional setups and how we will develop the software in the future.
+
+3
+00:00:38,000 --> 00:00:40,000
+Great, let's start.
+
+4
+00:00:40,000 --> 00:01:00,000
+Oto is a long-time remote worker, Andraž, I assume, I know that he already works from the office, recently he is also working remotely, sometimes at home, sometimes at his office.
+
+5
+00:01:00,000 --> 00:01:20,000
+Now, in the light of the debate about working 4 days a week, there was an interesting part of the IT firm that said, let's work remotely, but in return we will hire a 4-day worker.
+
+6
+00:01:20,000 --> 00:01:39,000
+And now the question is, are you ready to replace your remote work with a 4-day worker under the condition that you work 4 days a week, and that there is financial compensation and a reasonable salary.
+
+7
+00:01:39,000 --> 00:01:41,000
+But you still pay 5 days.
+
+8
+00:01:41,000 --> 00:01:47,000
+You pay 5 days, but you can't work remotely, you can work 4 days a week.
+
+9
+00:01:50,000 --> 00:01:52,000
+Do you work remotely?
+
+10
+00:01:52,000 --> 00:02:00,000
+I work a lot at home, but I still use our co-working space.
+
+11
+00:02:00,000 --> 00:02:18,000
+It's hard for me to sell my local businesses and their challenges. I mean, let's say that I will move to a company in London or Berlin, and I will live in Berlin and work 4 days a week.
+
+12
+00:02:22,000 --> 00:02:25,000
+It's hard for me to sell that.
+
+13
+00:02:26,000 --> 00:02:35,000
+So, you are remote as a child, and remote as an adult.
+
+14
+00:02:36,000 --> 00:02:52,000
+I think that it's enough for me to choose how much I want to be a writer, under the conditions that suit my team, that suit my co-workers, and with some compromise.
+
+15
+00:02:52,000 --> 00:02:55,000
+I wouldn't say, you have to be a writer 4 days a week.
+
+16
+00:02:55,000 --> 00:02:58,000
+I don't know. I think you have to survive there.
+
+17
+00:02:58,000 --> 00:03:04,000
+If you want to work remotely, I don't know.
+
+18
+00:03:07,000 --> 00:03:13,000
+I also work 5 days a week, and I also work in my co-working space.
+
+19
+00:03:13,000 --> 00:03:16,000
+I think that working in a co-working space is very difficult.
+
+20
+00:03:16,000 --> 00:03:22,000
+You have to solve architectural and strategic problems, and you have to sync with people.
+
+21
+00:03:22,000 --> 00:03:31,000
+If you need focus as an executor, to be able to code something, then the question is again, does it really have an advantage, and can it be a writer?
+
+22
+00:03:32,000 --> 00:03:40,000
+If you are a classic developer, maybe a little less, but if you are an engineering enablement, devops, and so on, I don't know.
+
+23
+00:03:40,000 --> 00:03:48,000
+I just can't imagine that I would be taught something about things, because it's hard to do some of those things.
+
+24
+00:03:48,000 --> 00:03:51,000
+It depends a lot on the culture.
+
+25
+00:03:52,000 --> 00:04:01,000
+I've been thinking a lot about the fact that people have handball in their desks.
+
+26
+00:04:01,000 --> 00:04:14,000
+If I'm always a person who doesn't play handball, but has less technical, longer, and better architecture,
+
+27
+00:04:14,000 --> 00:04:20,000
+then it's like I play a lot of handball, and then you do the tickets faster.
+
+28
+00:04:20,000 --> 00:04:23,000
+It's always weird for me.
+
+29
+00:04:23,000 --> 00:04:27,000
+If I'm not in the office, then I do what I do.
+
+30
+00:04:28,000 --> 00:04:31,000
+I see it a little differently.
+
+31
+00:04:31,000 --> 00:04:34,000
+Why would you have a 4-hour worker?
+
+32
+00:04:34,000 --> 00:04:37,000
+Why would you have a worker like that?
+
+33
+00:04:38,000 --> 00:04:45,000
+I understand that you have some points where you have to sync with people, where you have to do something together,
+
+34
+00:04:45,000 --> 00:04:49,000
+but why would you hire people all the time?
+
+35
+00:04:49,000 --> 00:04:55,000
+If you have people who do extra things at midnight or 11 p.m.,
+
+36
+00:04:55,000 --> 00:05:04,000
+why would you hire such a creative and capable person to go to work in the morning?
+
+37
+00:05:04,000 --> 00:05:10,000
+I understand that you want to see what he does as a manager, as a leader,
+
+38
+00:05:10,000 --> 00:05:14,000
+and that you want some kind of collaboration.
+
+39
+00:05:14,000 --> 00:05:16,000
+I get that.
+
+40
+00:05:16,000 --> 00:05:22,000
+But if people are better performed than they are at work, then we have to listen to them.
+
+41
+00:05:22,000 --> 00:05:25,000
+How do you meet some expectations?
+
+42
+00:05:25,000 --> 00:05:29,000
+A company doesn't run out of tickets,
+
+43
+00:05:29,000 --> 00:05:34,000
+a business wants more, a sales team sold out, a fiction.
+
+44
+00:05:34,000 --> 00:05:38,000
+If you can't say, hey, you've done so much in 8 hours,
+
+45
+00:05:38,000 --> 00:05:42,000
+go home and stay in the office.
+
+46
+00:05:42,000 --> 00:05:50,000
+I think that a big trick today is what you measure exactly.
+
+47
+00:05:50,000 --> 00:05:55,000
+Do you measure the time that people will spend on a ticket,
+
+48
+00:05:55,000 --> 00:05:58,000
+or do you measure their output?
+
+49
+00:05:58,000 --> 00:06:01,000
+Do you measure how capable they are to deliver value,
+
+50
+00:06:01,000 --> 00:06:05,000
+how capable they are to deliver a product?
+
+51
+00:06:05,000 --> 00:06:11,000
+If you start to focus on the results, not on how you will perform today,
+
+52
+00:06:11,000 --> 00:06:15,000
+then it becomes a trivial question.
+
+53
+00:06:15,000 --> 00:06:19,000
+You don't need to measure time, if you know that some things will be done,
+
+54
+00:06:19,000 --> 00:06:23,000
+if you know that some things will be done in certain hours.
+
+55
+00:06:23,000 --> 00:06:27,000
+I think that these are fundamental questions and shifts that happen
+
+56
+00:06:27,000 --> 00:06:32,000
+if you look at the remote first environment and culture.
+
+57
+00:06:37,000 --> 00:06:40,000
+The question is, if you go 4 days a week,
+
+58
+00:06:40,000 --> 00:06:43,000
+how will they evaluate your time during that time,
+
+59
+00:06:43,000 --> 00:06:46,000
+what is the output?
+
+60
+00:06:46,000 --> 00:06:51,000
+If I ask my brother how much time will be spent on an upgrade,
+
+61
+00:06:51,000 --> 00:06:54,000
+will he give me an estimate that is relatively negligible,
+
+62
+00:06:54,000 --> 00:06:57,000
+will he do it in a quality way,
+
+63
+00:06:57,000 --> 00:07:00,000
+will he do it with all his abilities,
+
+64
+00:07:00,000 --> 00:07:03,000
+will I be able to do it with another stakeholder,
+
+65
+00:07:03,000 --> 00:07:06,000
+will I be able to do it, because that is the most I can wish for.
+
+66
+00:07:06,000 --> 00:07:09,000
+I don't need my brother to be an expert in his field,
+
+67
+00:07:09,000 --> 00:07:14,000
+to constantly look at every micro-decision that he makes.
+
+68
+00:07:14,000 --> 00:07:17,000
+But we'll see.
+
+69
+00:07:17,000 --> 00:07:20,000
+For me it is very interesting,
+
+70
+00:07:20,000 --> 00:07:23,000
+because it is one thing.
+
+71
+00:07:23,000 --> 00:07:26,000
+Just before the comparison with the annual budget,
+
+72
+00:07:26,000 --> 00:07:29,000
+for me it is the 5th day.
+
+73
+00:07:29,000 --> 00:07:32,000
+I am happy to work 5 days a week,
+
+74
+00:07:32,000 --> 00:07:35,000
+but if someone tells me that on the 5th day
+
+75
+00:07:35,000 --> 00:07:42,000
+I don't need to work on an ultra-product-focused feature,
+
+76
+00:07:42,000 --> 00:07:45,000
+but I can start thinking about other things,
+
+77
+00:07:45,000 --> 00:07:48,000
+then I start working on it,
+
+78
+00:07:48,000 --> 00:07:51,000
+because you can start thinking about other things
+
+79
+00:07:51,000 --> 00:07:54,000
+in a couple of years, if you don't work on it.
+
+80
+00:07:54,000 --> 00:07:57,000
+So I am happy to work 4 more hours,
+
+81
+00:07:57,000 --> 00:08:00,000
+and the 5th day is for free, if that makes sense.
+
+82
+00:08:00,000 --> 00:08:06,000
+Then the fact that you have these stakeholders,
+
+83
+00:08:06,000 --> 00:08:09,000
+this is a contract between the whole population,
+
+84
+00:08:09,000 --> 00:08:14,000
+that people have a common time,
+
+85
+00:08:14,000 --> 00:08:17,000
+and I think that our industry is growing,
+
+86
+00:08:17,000 --> 00:08:20,000
+we have been thinking a lot about workflow for a long time,
+
+87
+00:08:20,000 --> 00:08:23,000
+very boutique,
+
+88
+00:08:23,000 --> 00:08:26,000
+because we are these artists in these super boutique cake shops,
+
+89
+00:08:26,000 --> 00:08:29,000
+where we make these beautiful cakes,
+
+90
+00:08:29,000 --> 00:08:32,000
+and our industry is growing so much,
+
+91
+00:08:32,000 --> 00:08:35,000
+that we will need a couple of industrial companies.
+
+92
+00:08:35,000 --> 00:08:38,000
+Maybe everyone doesn't agree with that,
+
+93
+00:08:38,000 --> 00:08:41,000
+but I think that is what it is.
+
+94
+00:08:41,000 --> 00:08:44,000
+I don't have the same routine,
+
+95
+00:08:44,000 --> 00:08:47,000
+that I have with other artists.
+
+96
+00:08:47,000 --> 00:08:50,000
+I haven't had any Slovenian holidays,
+
+97
+00:08:50,000 --> 00:08:53,000
+I have had holidays from customers,
+
+98
+00:08:53,000 --> 00:08:56,000
+and business partners,
+
+99
+00:08:56,000 --> 00:08:59,000
+and now I am doing the opposite,
+
+100
+00:08:59,000 --> 00:09:02,000
+I am having Slovenian holidays,
+
+101
+00:09:02,000 --> 00:09:05,000
+because I have studied,
+
+102
+00:09:05,000 --> 00:09:08,000
+that if I optimize for customers,
+
+103
+00:09:08,000 --> 00:09:11,000
+then they are free,
+
+104
+00:09:11,000 --> 00:09:14,000
+and in Slovenia I don't have anything like that,
+
+105
+00:09:14,000 --> 00:09:17,000
+and vice versa,
+
+106
+00:09:17,000 --> 00:09:20,000
+because everyone is free,
+
+107
+00:09:20,000 --> 00:09:23,000
+and I am not free,
+
+108
+00:09:23,000 --> 00:09:26,000
+I am so busy.
+
+109
+00:09:26,000 --> 00:09:29,000
+So I look at these things like that.
+
+110
+00:09:29,000 --> 00:09:32,000
+So four days working week,
+
+111
+00:09:32,000 --> 00:09:35,000
+and then you have a rest day,
+
+112
+00:09:35,000 --> 00:09:38,000
+I know, it is tricky,
+
+113
+00:09:38,000 --> 00:09:41,000
+very tricky,
+
+114
+00:09:41,000 --> 00:09:44,000
+but I am learning.
+
+115
+00:09:44,000 --> 00:09:47,000
+That is the problem,
+
+116
+00:09:47,000 --> 00:09:50,000
+when you work in software engineering,
+
+117
+00:09:50,000 --> 00:09:53,000
+or in development,
+
+118
+00:09:53,000 --> 00:09:56,000
+where you have this balance,
+
+119
+00:09:56,000 --> 00:09:59,000
+to do something good,
+
+120
+00:09:59,000 --> 00:10:02,000
+and to do something perfect.
+
+121
+00:10:02,000 --> 00:10:05,000
+Not to be good enough,
+
+122
+00:10:05,000 --> 00:10:08,000
+and not to be perfect,
+
+123
+00:10:08,000 --> 00:10:11,000
+but to be able to do something,
+
+124
+00:10:11,000 --> 00:10:14,000
+because I have so many experiences,
+
+125
+00:10:14,000 --> 00:10:17,000
+I am not playing handball a lot,
+
+126
+00:10:17,000 --> 00:10:20,000
+I would be happy to work five more days,
+
+127
+00:10:20,000 --> 00:10:23,000
+that is not such a problem.
+
+128
+00:10:23,000 --> 00:10:26,000
+It depends on what these four days mean,
+
+129
+00:10:26,000 --> 00:10:29,000
+if someone says,
+
+130
+00:10:29,000 --> 00:10:32,000
+I can work five more days,
+
+131
+00:10:32,000 --> 00:10:35,000
+then I can work five more days.
+
+132
+00:10:35,000 --> 00:10:38,000
+Is there a factor,
+
+133
+00:10:38,000 --> 00:10:41,000
+where in the world is a schedule,
+
+134
+00:10:41,000 --> 00:10:44,000
+if in America, Asia, or England,
+
+135
+00:10:44,000 --> 00:10:47,000
+do you evaluate this factor?
+
+136
+00:10:47,000 --> 00:10:50,000
+It is very important to me,
+
+137
+00:10:50,000 --> 00:10:53,000
+that there is a schedule,
+
+138
+00:10:53,000 --> 00:10:56,000
+plus two hours of my time zone,
+
+139
+00:10:56,000 --> 00:10:59,000
+when you have meetings,
+
+140
+00:10:59,000 --> 00:11:02,000
+if you work with someone,
+
+141
+00:11:02,000 --> 00:11:05,000
+who is not in your schedule,
+
+142
+00:11:05,000 --> 00:11:08,000
+then you have the most meetings,
+
+143
+00:11:08,000 --> 00:11:11,000
+I have a very good performance in meetings,
+
+144
+00:11:11,000 --> 00:11:14,000
+so it is very important to me,
+
+145
+00:11:14,000 --> 00:11:17,000
+that we are in the same time zones.
+
+146
+00:11:17,000 --> 00:11:20,000
+The only exception would be,
+
+147
+00:11:20,000 --> 00:11:23,000
+if the company was so remote first,
+
+148
+00:11:23,000 --> 00:11:26,000
+that a large part of the population of engineers,
+
+149
+00:11:26,000 --> 00:11:29,000
+was scattered in time zones,
+
+150
+00:11:29,000 --> 00:11:32,000
+because then the culture adheres,
+
+151
+00:11:32,000 --> 00:11:35,000
+but if there is a base,
+
+152
+00:11:35,000 --> 00:11:38,000
+then only a third of the people are somewhere else,
+
+153
+00:11:38,000 --> 00:11:41,000
+and then through my experience,
+
+154
+00:11:41,000 --> 00:11:44,000
+you start to get to know the expectations of the market.
+
+155
+00:11:44,000 --> 00:11:47,000
+I don't know how it is for you,
+
+156
+00:11:47,000 --> 00:11:50,000
+but I try to avoid that,
+
+157
+00:11:51,000 --> 00:11:54,000
+I used to work a lot in the USA,
+
+158
+00:11:54,000 --> 00:11:57,000
+there I had all the meetings,
+
+159
+00:11:57,000 --> 00:12:00,000
+all the collaborations,
+
+160
+00:12:00,000 --> 00:12:03,000
+mostly in the afternoon,
+
+161
+00:12:03,000 --> 00:12:06,000
+and in the evening.
+
+162
+00:12:06,000 --> 00:12:09,000
+What was a challenge for me at that time,
+
+163
+00:12:09,000 --> 00:12:12,000
+because the company was based,
+
+164
+00:12:12,000 --> 00:12:15,000
+and because my routine was in the morning,
+
+165
+00:12:15,000 --> 00:12:18,000
+I had to work until the evening,
+
+166
+00:12:18,000 --> 00:12:21,000
+and I had to work all day,
+
+167
+00:12:21,000 --> 00:12:24,000
+so I started in the morning,
+
+168
+00:12:24,000 --> 00:12:27,000
+in a traditional routine,
+
+169
+00:12:27,000 --> 00:12:30,000
+because your relatives go to college,
+
+170
+00:12:30,000 --> 00:12:33,000
+and then to work,
+
+171
+00:12:33,000 --> 00:12:36,000
+and then you work,
+
+172
+00:12:36,000 --> 00:12:39,000
+and then you finish,
+
+173
+00:12:39,000 --> 00:12:42,000
+and then the Americans wake up,
+
+174
+00:12:42,000 --> 00:12:45,000
+and start with the collaboration,
+
+175
+00:12:45,000 --> 00:12:48,000
+and then you feel like you are stretching all day,
+
+176
+00:12:48,000 --> 00:12:51,000
+and that didn't happen to me,
+
+177
+00:12:51,000 --> 00:12:54,000
+I had a lot of difficulties,
+
+178
+00:12:54,000 --> 00:12:57,000
+and that was a challenge,
+
+179
+00:12:57,000 --> 00:13:00,000
+and now, as you said,
+
+180
+00:13:00,000 --> 00:13:03,000
+I work mostly for some English people,
+
+181
+00:13:03,000 --> 00:13:06,000
+and there, one hour plus or minus,
+
+182
+00:13:06,000 --> 00:13:09,000
+is not a problem,
+
+183
+00:13:09,000 --> 00:13:12,000
+you can still adjust,
+
+184
+00:13:12,000 --> 00:13:15,000
+and that happened to me,
+
+185
+00:13:15,000 --> 00:13:18,000
+especially when I have children,
+
+186
+00:13:18,000 --> 00:13:21,000
+and I have to take care of them,
+
+187
+00:13:21,000 --> 00:13:24,000
+so I try to use that,
+
+188
+00:13:24,000 --> 00:13:27,000
+and today,
+
+189
+00:13:27,000 --> 00:13:30,000
+in my circle,
+
+190
+00:13:30,000 --> 00:13:33,000
+Slack is a communication platform,
+
+191
+00:13:33,000 --> 00:13:36,000
+where you are present,
+
+192
+00:13:36,000 --> 00:13:39,000
+sometimes you are not present,
+
+193
+00:13:39,000 --> 00:13:42,000
+and you can talk as much as you can,
+
+194
+00:13:42,000 --> 00:13:45,000
+or when you are healthy,
+
+195
+00:13:45,000 --> 00:13:48,000
+I think that has become a modern way
+
+196
+00:13:48,000 --> 00:13:51,000
+to work with remote companies,
+
+197
+00:13:51,000 --> 00:13:54,000
+so that you are always on the other side,
+
+198
+00:13:54,000 --> 00:13:57,000
+if you ping someone,
+
+199
+00:13:57,000 --> 00:14:00,000
+that they are not calculative,
+
+200
+00:14:00,000 --> 00:14:03,000
+and vice versa,
+
+201
+00:14:03,000 --> 00:14:06,000
+so we tried to set up regular meetings,
+
+202
+00:14:06,000 --> 00:14:09,000
+where they are scheduled,
+
+203
+00:14:09,000 --> 00:14:12,000
+and you are expected to be there,
+
+204
+00:14:12,000 --> 00:14:15,000
+and the rest is how it is organized.
+
+205
+00:14:15,000 --> 00:14:18,000
+I tried to organize it in a way
+
+206
+00:14:18,000 --> 00:14:21,000
+that you have an overlap,
+
+207
+00:14:21,000 --> 00:14:24,000
+with whom you have to have contact,
+
+208
+00:14:24,000 --> 00:14:27,000
+and then there are handovers,
+
+209
+00:14:27,000 --> 00:14:30,000
+and so on, if you have a daily monitoring,
+
+210
+00:14:30,000 --> 00:14:33,000
+what do you prefer?
+
+211
+00:14:33,000 --> 00:14:36,000
+I can quote,
+
+212
+00:14:36,000 --> 00:14:39,000
+as much as you want.
+
+213
+00:14:39,000 --> 00:14:42,000
+You are now in a time of new remote engagement.
+
+214
+00:14:42,000 --> 00:14:45,000
+I have been working with different American partners
+
+215
+00:14:45,000 --> 00:14:48,000
+of my company for 10 years,
+
+216
+00:14:48,000 --> 00:14:51,000
+and I really like it,
+
+217
+00:14:51,000 --> 00:14:54,000
+I like the fact that
+
+218
+00:14:54,000 --> 00:14:57,000
+I have a lot of freedom,
+
+219
+00:14:57,000 --> 00:15:00,000
+if I want to work, I work,
+
+220
+00:15:00,000 --> 00:15:03,000
+if I want to go for a walk,
+
+221
+00:15:03,000 --> 00:15:06,000
+I go for a walk,
+
+222
+00:15:06,000 --> 00:15:09,000
+I cut my hair.
+
+223
+00:15:09,000 --> 00:15:12,000
+Onboarding to such a company
+
+224
+00:15:12,000 --> 00:15:15,000
+is a lot of pressure,
+
+225
+00:15:15,000 --> 00:15:18,000
+because you have a lot of meetings,
+
+226
+00:15:18,000 --> 00:15:21,000
+a lot of meetings,
+
+227
+00:15:21,000 --> 00:15:24,000
+and my experience is that
+
+228
+00:15:24,000 --> 00:15:27,000
+if the company has a good leadership,
+
+229
+00:15:27,000 --> 00:15:30,000
+leadership and culture,
+
+230
+00:15:30,000 --> 00:15:33,000
+it is a good starting point,
+
+231
+00:15:33,000 --> 00:15:36,000
+even if you have a 6-hour meeting,
+
+232
+00:15:36,000 --> 00:15:39,000
+it is not like having a 6-hour meeting in football,
+
+233
+00:15:39,000 --> 00:15:42,000
+sometimes it is not,
+
+234
+00:15:42,000 --> 00:15:45,000
+and you change social things
+
+235
+00:15:45,000 --> 00:15:48,000
+either in the 7th or in the 4th.
+
+236
+00:15:48,000 --> 00:15:51,000
+Another thing I saw with the Americans
+
+237
+00:15:51,000 --> 00:15:54,000
+is that they fully understand
+
+238
+00:15:54,000 --> 00:15:57,000
+that the topic is about you,
+
+239
+00:15:57,000 --> 00:16:00,000
+that it is about you in the evening.
+
+240
+00:16:00,000 --> 00:16:03,000
+I don't know why,
+
+241
+00:16:03,000 --> 00:16:06,000
+but they predict that if you say
+
+242
+00:16:06,000 --> 00:16:09,000
+that it is about you in the evening,
+
+243
+00:16:09,000 --> 00:16:12,000
+they hear that it is about you at 10 am
+
+244
+00:16:12,000 --> 00:16:15,000
+and that you are already there by 7 am.
+
+245
+00:16:15,000 --> 00:16:18,000
+I have never had a problem with that.
+
+246
+00:16:18,000 --> 00:16:21,000
+The bigger the company is,
+
+247
+00:16:21,000 --> 00:16:24,000
+the more communication it needs
+
+248
+00:16:24,000 --> 00:16:27,000
+and the things move more slowly.
+
+249
+00:16:27,000 --> 00:16:30,000
+I have worked with very small teams
+
+250
+00:16:30,000 --> 00:16:33,000
+where you can do everything at one meeting,
+
+251
+00:16:33,000 --> 00:16:36,000
+to bigger teams where you can write a document
+
+252
+00:16:36,000 --> 00:16:39,000
+and then people watch it every week
+
+253
+00:16:39,000 --> 00:16:42,000
+and write comments,
+
+254
+00:16:42,000 --> 00:16:45,000
+and this synchronicity and rhythm
+
+255
+00:16:45,000 --> 00:16:48,000
+removes a lot of these problems
+
+256
+00:16:48,000 --> 00:16:51,000
+of evening communication from our perspective.
+
+257
+00:16:51,000 --> 00:16:54,000
+I am a software engineer,
+
+258
+00:16:54,000 --> 00:16:57,000
+so I deal with products,
+
+259
+00:16:57,000 --> 00:17:00,000
+I am not like Brodl
+
+260
+00:17:00,000 --> 00:17:03,000
+where things burn and click.
+
+261
+00:17:03,000 --> 00:17:06,000
+For me to click,
+
+262
+00:17:06,000 --> 00:17:09,000
+I have to fix some things.
+
+263
+00:17:09,000 --> 00:17:12,000
+I have had these situations,
+
+264
+00:17:12,000 --> 00:17:15,000
+but I have also had them in Slovenia.
+
+265
+00:17:15,000 --> 00:17:18,000
+What I have learned is that
+
+266
+00:17:18,000 --> 00:17:21,000
+if I put things in a new way,
+
+267
+00:17:21,000 --> 00:17:24,000
+if I work with smaller computers
+
+268
+00:17:24,000 --> 00:17:27,000
+and more personal capacities,
+
+269
+00:17:27,000 --> 00:17:30,000
+I will be able to better define those SLIs.
+
+270
+00:17:30,000 --> 00:17:33,000
+How often can the front page not be accessible?
+
+271
+00:17:33,000 --> 00:17:36,000
+Who is being called? How do I go to the office?
+
+272
+00:17:36,000 --> 00:17:39,000
+What happens if there are holidays?
+
+273
+00:17:39,000 --> 00:17:42,000
+What happens if I am somewhere else?
+
+274
+00:17:42,000 --> 00:17:45,000
+I will give you a tip.
+
+275
+00:17:45,000 --> 00:17:48,000
+Do you have Slack installed on your phone?
+
+276
+00:17:48,000 --> 00:17:51,000
+And email?
+
+277
+00:17:51,000 --> 00:17:54,000
+Do you use it in your spare time?
+
+278
+00:17:54,000 --> 00:17:57,000
+Yes.
+
+279
+00:17:57,000 --> 00:18:00,000
+If you get a ping from the page
+
+280
+00:18:00,000 --> 00:18:03,000
+at 8pm, you will reply, right?
+
+281
+00:18:03,000 --> 00:18:06,000
+A message will come to you on Slack.
+
+282
+00:18:06,000 --> 00:18:09,000
+Will you engage on Slack?
+
+283
+00:18:09,000 --> 00:18:12,000
+When you wake up in the morning,
+
+284
+00:18:12,000 --> 00:18:15,000
+you probably turn on social media.
+
+285
+00:18:15,000 --> 00:18:18,000
+The world wakes up overnight.
+
+286
+00:18:18,000 --> 00:18:21,000
+I have the same feeling.
+
+287
+00:18:21,000 --> 00:18:24,000
+I wake up in the morning,
+
+288
+00:18:24,000 --> 00:18:27,000
+turn on Slack and look at what GigaTron recorded
+
+289
+00:18:27,000 --> 00:18:30,000
+at 2am and wrote some random things.
+
+290
+00:18:30,000 --> 00:18:33,000
+These are my messages
+
+291
+00:18:33,000 --> 00:18:36,000
+that I wrote on Slack in the middle of the night.
+
+292
+00:18:36,000 --> 00:18:39,000
+Do you do this when you want to
+
+293
+00:18:39,000 --> 00:18:42,000
+or when you get notifications?
+
+294
+00:18:42,000 --> 00:18:45,000
+Do you have notifications installed?
+
+295
+00:18:45,000 --> 00:18:48,000
+Only if it is a direct message.
+
+296
+00:18:48,000 --> 00:18:51,000
+If it is a private message.
+
+297
+00:18:51,000 --> 00:18:54,000
+Working hours are installed
+
+298
+00:18:54,000 --> 00:18:57,000
+and notifications.
+
+299
+00:18:57,000 --> 00:19:00,000
+The whole phone will be in disturb mode
+
+300
+00:19:00,000 --> 00:19:03,000
+until 7am.
+
+301
+00:19:03,000 --> 00:19:06,000
+It doesn't bother me.
+
+302
+00:19:06,000 --> 00:19:09,000
+I prefer to be idle on the phone.
+
+303
+00:19:13,000 --> 00:19:16,000
+You have a more important job than me.
+
+304
+00:19:16,000 --> 00:19:19,000
+It is a very interesting question
+
+305
+00:19:19,000 --> 00:19:22,000
+because it depends on the messenger.
+
+306
+00:19:22,000 --> 00:19:25,000
+I don't work most of the time
+
+307
+00:19:25,000 --> 00:19:28,000
+and I don't know
+
+308
+00:19:28,000 --> 00:19:31,000
+if I could work more.
+
+309
+00:19:31,000 --> 00:19:34,000
+The messenger has very fixed
+
+310
+00:19:34,000 --> 00:19:37,000
+business hours.
+
+311
+00:19:37,000 --> 00:19:40,000
+It is financial.
+
+312
+00:19:40,000 --> 00:19:43,000
+When there is a market,
+
+313
+00:19:43,000 --> 00:19:46,000
+there is a market.
+
+314
+00:19:46,000 --> 00:19:49,000
+I don't work much.
+
+315
+00:19:49,000 --> 00:19:52,000
+I don't have availability.
+
+316
+00:19:59,000 --> 00:20:02,000
+It depends.
+
+317
+00:20:02,000 --> 00:20:05,000
+I agree that managing of expectations
+
+318
+00:20:05,000 --> 00:20:08,000
+is very important.
+
+319
+00:20:08,000 --> 00:20:11,000
+I don't have a classic role
+
+320
+00:20:11,000 --> 00:20:14,000
+that would be on call
+
+321
+00:20:14,000 --> 00:20:17,000
+or consulting.
+
+322
+00:20:17,000 --> 00:20:20,000
+If I have a question,
+
+323
+00:20:20,000 --> 00:20:23,000
+I will answer it.
+
+324
+00:20:23,000 --> 00:20:26,000
+I could do something,
+
+325
+00:20:26,000 --> 00:20:29,000
+but I am lazy.
+
+326
+00:20:29,000 --> 00:20:32,000
+Or I read something out of my head.
+
+327
+00:20:37,000 --> 00:20:40,000
+The main problem
+
+328
+00:20:40,000 --> 00:20:43,000
+that I had with this job
+
+329
+00:20:43,000 --> 00:20:46,000
+is that we all want
+
+330
+00:20:46,000 --> 00:20:49,000
+to work.
+
+331
+00:20:49,000 --> 00:20:52,000
+Everything is necessary.
+
+332
+00:20:52,000 --> 00:20:55,000
+Yes, everything is necessary.
+
+333
+00:20:55,000 --> 00:20:58,000
+I have a different approach
+
+334
+00:20:58,000 --> 00:21:01,000
+when I try to explain
+
+335
+00:21:01,000 --> 00:21:04,000
+to people that
+
+336
+00:21:04,000 --> 00:21:07,000
+if it is a small business
+
+337
+00:21:07,000 --> 00:21:10,000
+like a platform engineer,
+
+338
+00:21:10,000 --> 00:21:13,000
+you explain to people
+
+339
+00:21:13,000 --> 00:21:16,000
+that you are alone
+
+340
+00:21:16,000 --> 00:21:19,000
+and that you are very busy.
+
+341
+00:21:19,000 --> 00:21:22,000
+You can't have a warm production
+
+342
+00:21:22,000 --> 00:21:25,000
+if you are fully automated.
+
+343
+00:21:25,000 --> 00:21:28,000
+I would go to the cinema on Friday
+
+344
+00:21:28,000 --> 00:21:31,000
+to drink a beer and eat cookies.
+
+345
+00:21:31,000 --> 00:21:34,000
+It is very difficult for me
+
+346
+00:21:34,000 --> 00:21:37,000
+to help in the cinema.
+
+347
+00:21:37,000 --> 00:21:40,000
+This is a small probability.
+
+348
+00:21:40,000 --> 00:21:43,000
+This is a solution to the problem.
+
+349
+00:21:43,000 --> 00:21:46,000
+You look at the switch
+
+350
+00:21:46,000 --> 00:21:49,000
+and say that we need manpower
+
+351
+00:21:49,000 --> 00:21:52,000
+and an organization
+
+352
+00:21:52,000 --> 00:21:55,000
+like a professional team.
+
+353
+00:21:55,000 --> 00:21:58,000
+If I work for a startup,
+
+354
+00:21:58,000 --> 00:22:01,000
+one of the strategies is
+
+355
+00:22:01,000 --> 00:22:04,000
+to have more platform engineers
+
+356
+00:22:04,000 --> 00:22:07,000
+in all time zones.
+
+357
+00:22:08,000 --> 00:22:11,000
+A lot of people
+
+358
+00:22:11,000 --> 00:22:14,000
+fall into the business hours.
+
+359
+00:22:14,000 --> 00:22:17,000
+They cover a spectrum
+
+360
+00:22:17,000 --> 00:22:20,000
+and get a lot of time.
+
+361
+00:22:20,000 --> 00:22:23,000
+Now that I work
+
+362
+00:22:23,000 --> 00:22:26,000
+for a more serious side,
+
+363
+00:22:26,000 --> 00:22:29,000
+things are more defined.
+
+364
+00:22:29,000 --> 00:22:32,000
+There is a culture
+
+365
+00:22:32,000 --> 00:22:35,000
+in smaller companies.
+
+366
+00:22:36,000 --> 00:22:39,000
+You set yourself expectations
+
+367
+00:22:39,000 --> 00:22:42,000
+for a short time.
+
+368
+00:22:42,000 --> 00:22:45,000
+There is one interesting thing
+
+369
+00:22:45,000 --> 00:22:48,000
+about the image and culture.
+
+370
+00:22:48,000 --> 00:22:51,000
+When you work
+
+371
+00:22:51,000 --> 00:22:54,000
+in a small team,
+
+372
+00:22:54,000 --> 00:22:57,000
+typical people read
+
+373
+00:22:57,000 --> 00:23:00,000
+in front of the world of work.
+
+374
+00:23:00,000 --> 00:23:03,000
+These organizations
+
+375
+00:23:03,000 --> 00:23:06,000
+are more open
+
+376
+00:23:06,000 --> 00:23:09,000
+to all channels.
+
+377
+00:23:09,000 --> 00:23:12,000
+You can tell
+
+378
+00:23:12,000 --> 00:23:15,000
+that people are talking.
+
+379
+00:23:15,000 --> 00:23:18,000
+But when you walk
+
+380
+00:23:18,000 --> 00:23:21,000
+through the office
+
+381
+00:23:21,000 --> 00:23:24,000
+and go to a meeting,
+
+382
+00:23:24,000 --> 00:23:27,000
+it doesn't mean
+
+383
+00:23:27,000 --> 00:23:30,000
+that you can program
+
+384
+00:23:30,000 --> 00:23:33,000
+a meeting.
+
+385
+00:23:33,000 --> 00:23:36,000
+It means that when you are
+
+386
+00:23:36,000 --> 00:23:39,000
+on a follow-up channel,
+
+387
+00:23:39,000 --> 00:23:42,000
+people should ask
+
+388
+00:23:42,000 --> 00:23:45,000
+about the process.
+
+389
+00:23:45,000 --> 00:23:48,000
+If the product and sales
+
+390
+00:23:48,000 --> 00:23:51,000
+talk to each other,
+
+391
+00:23:51,000 --> 00:23:54,000
+it is your place
+
+392
+00:23:54,000 --> 00:23:57,000
+to tell them
+
+393
+00:23:57,000 --> 00:24:00,000
+about the process.
+
+394
+00:24:00,000 --> 00:24:03,000
+We can say that
+
+395
+00:24:03,000 --> 00:24:06,000
+there is a culture
+
+396
+00:24:06,000 --> 00:24:09,000
+in these topics.
+
+397
+00:24:09,000 --> 00:24:12,000
+One of the things
+
+398
+00:24:12,000 --> 00:24:15,000
+is that people
+
+399
+00:24:15,000 --> 00:24:18,000
+don't write things
+
+400
+00:24:18,000 --> 00:24:21,000
+that are discussed
+
+401
+00:24:21,000 --> 00:24:24,000
+in a coffee or a beer.
+
+402
+00:24:24,000 --> 00:24:27,000
+It is hard to understand
+
+403
+00:24:27,000 --> 00:24:30,000
+what is going on
+
+404
+00:24:30,000 --> 00:24:33,000
+in a company,
+
+405
+00:24:33,000 --> 00:24:36,000
+what is the vibe in a company.
+
+406
+00:24:36,000 --> 00:24:39,000
+It is hard to understand
+
+407
+00:24:39,000 --> 00:24:42,000
+these things
+
+408
+00:24:42,000 --> 00:24:45,000
+from the communication channels.
+
+409
+00:24:45,000 --> 00:24:48,000
+If you are in a management position,
+
+410
+00:24:48,000 --> 00:24:51,000
+you should know that
+
+411
+00:24:51,000 --> 00:24:54,000
+there are pros and cons.
+
+412
+00:24:54,000 --> 00:24:57,000
+I think that is a big flaw.
+
+413
+00:25:00,000 --> 00:25:06,000
+what is important and what is not, and if something is written or not.
+
+414
+00:25:06,000 --> 00:25:14,000
+I think it is important that one part of the management works properly from another place.
+
+415
+00:25:14,000 --> 00:25:20,000
+So if your sales manager or your technical director is in another place,
+
+416
+00:25:20,000 --> 00:25:26,000
+then remote work and culture will come from above and down.
+
+417
+00:25:26,000 --> 00:25:32,000
+What happened to us, for example, when the COVID-19 pandemic happened,
+
+418
+00:25:32,000 --> 00:25:37,000
+we went to remote work, because not everyone could do remote work in Denmark.
+
+419
+00:25:37,000 --> 00:25:40,000
+Then a product manager came to me and said,
+
+420
+00:25:40,000 --> 00:25:46,000
+I admire you guys, that in Denmark you work with such information,
+
+421
+00:25:46,000 --> 00:25:52,000
+and it's easy for you to be acknowledged, that they give too little information from themselves.
+
+422
+00:25:52,000 --> 00:25:58,000
+When you put yourself in this position, what do people really need to be able to work?
+
+423
+00:25:58,000 --> 00:26:03,000
+Where is the lack of information? What do I have to tell them? What do I have to prepare?
+
+424
+00:26:03,000 --> 00:26:09,000
+How much must they have in view of business decisions, so that we can react to them?
+
+425
+00:26:09,000 --> 00:26:15,000
+Because then people also have a different approach to solving problems, a priority one.
+
+426
+00:26:16,000 --> 00:26:25,000
+I think, as I said a few hours ago, it's a bit like you go to a walker,
+
+427
+00:26:25,000 --> 00:26:28,000
+you go past the NSA office and you listen to MDF.
+
+428
+00:26:28,000 --> 00:26:32,000
+I mean, you listen to the NSA, you have to react to everything.
+
+429
+00:26:32,000 --> 00:26:36,000
+But one thing that I do in front of everyone,
+
+430
+00:26:36,000 --> 00:26:45,000
+is that I try to over-communicate on these async things.
+
+431
+00:26:45,000 --> 00:26:49,000
+I don't think that I write a lot on private forums,
+
+432
+00:26:49,000 --> 00:26:51,000
+I send hundreds of messages and then I trigger them.
+
+433
+00:26:51,000 --> 00:26:57,000
+But on these public channels, I do my best.
+
+434
+00:26:57,000 --> 00:27:00,000
+I don't just write one sentence at a time,
+
+435
+00:27:00,000 --> 00:27:04,000
+then I add some white space, then I add some details.
+
+436
+00:27:04,000 --> 00:27:07,000
+I think that people really appreciate that.
+
+437
+00:27:07,000 --> 00:27:11,000
+For me, it's more of a specific thing, but I don't know.
+
+438
+00:27:11,000 --> 00:27:14,000
+If I have a holding window where I can say,
+
+439
+00:27:14,000 --> 00:27:18,000
+in five minutes it will start, now it will start, now it will close.
+
+440
+00:27:18,000 --> 00:27:20,000
+Then everything is written there.
+
+441
+00:27:20,000 --> 00:27:22,000
+It's written there when it will start and end.
+
+442
+00:27:22,000 --> 00:27:28,000
+These are just some small gestures that help a lot,
+
+443
+00:27:28,000 --> 00:27:31,000
+then people just ignore what you need.
+
+444
+00:27:32,000 --> 00:27:35,000
+In the past, I used to write like this,
+
+445
+00:27:35,000 --> 00:27:37,000
+when I would write a message to a colleague,
+
+446
+00:27:37,000 --> 00:27:39,000
+three sentences and then I would send it.
+
+447
+00:27:39,000 --> 00:27:42,000
+Now, when I send it, I write three sentences,
+
+448
+00:27:42,000 --> 00:27:48,000
+or one sentence, and then I add more details,
+
+449
+00:27:48,000 --> 00:27:52,000
+so that people don't get lost in the communication.
+
+450
+00:27:52,000 --> 00:27:55,000
+If I'm debating with some VIP,
+
+451
+00:27:55,000 --> 00:28:00,000
+or with this person, or this position,
+
+452
+00:28:00,000 --> 00:28:03,000
+these are people who are really busy.
+
+453
+00:28:03,000 --> 00:28:07,000
+These are people who don't have time to catch up
+
+454
+00:28:07,000 --> 00:28:10,000
+on asynchronous things.
+
+455
+00:28:10,000 --> 00:28:14,000
+Then you get a feeling of how people consume information.
+
+456
+00:28:14,000 --> 00:28:19,000
+I think that's a very important part of the job.
+
+457
+00:28:19,000 --> 00:28:23,000
+Just to stop and think about how you're going to communicate.
+
+458
+00:28:23,000 --> 00:28:28,000
+I often joke that when we go out to eat together,
+
+459
+00:28:28,000 --> 00:28:33,000
+you can look at a state machine,
+
+460
+00:28:33,000 --> 00:28:37,000
+and you can tell it exactly what to order in three sentences.
+
+461
+00:28:37,000 --> 00:28:40,000
+You can order with it for 15 minutes,
+
+462
+00:28:40,000 --> 00:28:42,000
+but because you don't understand,
+
+463
+00:28:42,000 --> 00:28:44,000
+I would buy pork, or I would buy bacon,
+
+464
+00:28:44,000 --> 00:28:46,000
+or I would buy a hamburger with pork.
+
+465
+00:28:46,000 --> 00:28:49,000
+If you order Coca-Cola Zero,
+
+466
+00:28:50,000 --> 00:28:53,000
+or a specific hamburger and one coffee,
+
+467
+00:28:53,000 --> 00:28:56,000
+the state machine will come and fix the situation.
+
+468
+00:28:56,000 --> 00:29:01,000
+Then you ask, if you have a lot of time before the restoration,
+
+469
+00:29:01,000 --> 00:29:03,000
+it's not that important,
+
+470
+00:29:03,000 --> 00:29:05,000
+but when you communicate day-to-day,
+
+471
+00:29:05,000 --> 00:29:08,000
+you ask yourself what is the best way to get your point across,
+
+472
+00:29:08,000 --> 00:29:11,000
+so that people don't have too much work to do.
+
+473
+00:29:11,000 --> 00:29:13,000
+Will you do it?
+
+474
+00:29:13,000 --> 00:29:15,000
+I have a question here,
+
+475
+00:29:15,000 --> 00:29:17,000
+and I'm going to take this hack.
+
+476
+00:29:17,000 --> 00:29:19,000
+What I'm going to do is,
+
+477
+00:29:19,000 --> 00:29:21,000
+I'm going to write two sentences,
+
+478
+00:29:21,000 --> 00:29:23,000
+and then I'm going to write details and thread,
+
+479
+00:29:23,000 --> 00:29:26,000
+and then you're going to get an emoji from the thread.
+
+480
+00:29:26,000 --> 00:29:28,000
+And then people, just like an email thread,
+
+481
+00:29:28,000 --> 00:29:30,000
+they're going to self-select.
+
+482
+00:29:30,000 --> 00:29:32,000
+Which is crazy,
+
+483
+00:29:32,000 --> 00:29:34,000
+because it gives you a written record,
+
+484
+00:29:34,000 --> 00:29:36,000
+according to your image,
+
+485
+00:29:36,000 --> 00:29:38,000
+that in a year, when someone searches,
+
+486
+00:29:38,000 --> 00:29:40,000
+they're going to find that sentence,
+
+487
+00:29:40,000 --> 00:29:42,000
+or in time,
+
+488
+00:29:42,000 --> 00:29:44,000
+and then people are going to troubleshoot,
+
+489
+00:29:44,000 --> 00:29:46,000
+and then we're going to thread.
+
+490
+00:29:46,000 --> 00:29:48,000
+That's the first thing.
+
+491
+00:29:48,000 --> 00:29:50,000
+The second thing,
+
+492
+00:29:50,000 --> 00:29:52,000
+and I'm interested in your opinion,
+
+493
+00:29:52,000 --> 00:29:54,000
+about how some RFC,
+
+494
+00:29:54,000 --> 00:29:56,000
+how some architectural changes
+
+495
+00:29:56,000 --> 00:29:58,000
+are happening in such an environment.
+
+496
+00:29:58,000 --> 00:30:00,000
+My experience is,
+
+497
+00:30:00,000 --> 00:30:02,000
+that if I write a document,
+
+498
+00:30:02,000 --> 00:30:04,000
+and I don't have it on one channel,
+
+499
+00:30:04,000 --> 00:30:06,000
+people are going to ignore it,
+
+500
+00:30:06,000 --> 00:30:08,000
+but they're going to allow me to make those changes.
+
+501
+00:30:08,000 --> 00:30:10,000
+I don't know if they're going to ignore it.
+
+502
+00:30:10,000 --> 00:30:12,000
+Why do you make changes,
+
+503
+00:30:12,000 --> 00:30:14,000
+and then later that document appears,
+
+504
+00:30:14,000 --> 00:30:16,000
+and then it's a battle?
+
+505
+00:30:16,000 --> 00:30:18,000
+And now, how do you opt-in,
+
+506
+00:30:18,000 --> 00:30:20,000
+how do you get people to select it?
+
+507
+00:30:22,000 --> 00:30:24,000
+What I mean by that,
+
+508
+00:30:24,000 --> 00:30:26,000
+is that,
+
+509
+00:30:26,000 --> 00:30:28,000
+we at RFC,
+
+510
+00:30:28,000 --> 00:30:30,000
+we said that,
+
+511
+00:30:30,000 --> 00:30:32,000
+everything is possible.
+
+512
+00:30:32,000 --> 00:30:34,000
+A document is written,
+
+513
+00:30:34,000 --> 00:30:36,000
+and then there's a product,
+
+514
+00:30:36,000 --> 00:30:38,000
+and then there's a requirement
+
+515
+00:30:38,000 --> 00:30:40,000
+and then every feature,
+
+516
+00:30:40,000 --> 00:30:42,000
+that the team is going to work on,
+
+517
+00:30:42,000 --> 00:30:44,000
+has to have its own document.
+
+518
+00:30:44,000 --> 00:30:46,000
+There has to be some paperwork,
+
+519
+00:30:46,000 --> 00:30:48,000
+and the scope of that document
+
+520
+00:30:48,000 --> 00:30:50,000
+is specified exactly,
+
+521
+00:30:50,000 --> 00:30:52,000
+what needs to be done.
+
+522
+00:30:52,000 --> 00:30:54,000
+From high-level overview,
+
+523
+00:30:54,000 --> 00:30:56,000
+to security aspect,
+
+524
+00:30:56,000 --> 00:30:58,000
+to data integrity,
+
+525
+00:30:58,000 --> 00:31:00,000
+to privacy,
+
+526
+00:31:00,000 --> 00:31:02,000
+everything has to be done
+
+527
+00:31:02,000 --> 00:31:04,000
+according to a template,
+
+528
+00:31:04,000 --> 00:31:06,000
+which we made with Lidia and my management,
+
+529
+00:31:06,000 --> 00:31:08,000
+and then,
+
+530
+00:31:08,000 --> 00:31:10,000
+the task of the architect,
+
+531
+00:31:10,000 --> 00:31:12,000
+or the manager,
+
+532
+00:31:12,000 --> 00:31:14,000
+is to prepare the draft,
+
+533
+00:31:14,000 --> 00:31:16,000
+so that the document is written,
+
+534
+00:31:16,000 --> 00:31:18,000
+and then,
+
+535
+00:31:18,000 --> 00:31:20,000
+the basic core,
+
+536
+00:31:20,000 --> 00:31:22,000
+business aspect,
+
+537
+00:31:22,000 --> 00:31:24,000
+is written together with the product.
+
+538
+00:31:24,000 --> 00:31:26,000
+That means,
+
+539
+00:31:26,000 --> 00:31:28,000
+that practically,
+
+540
+00:31:28,000 --> 00:31:30,000
+we all talk about the same expectations,
+
+541
+00:31:30,000 --> 00:31:32,000
+the same results.
+
+542
+00:31:32,000 --> 00:31:34,000
+Then,
+
+543
+00:31:34,000 --> 00:31:36,000
+there's a smaller group of people,
+
+544
+00:31:36,000 --> 00:31:38,000
+that takes it over,
+
+545
+00:31:38,000 --> 00:31:40,000
+and then writes,
+
+546
+00:31:40,000 --> 00:31:42,000
+this will be the API,
+
+547
+00:31:42,000 --> 00:31:44,000
+this will be the implementation detail
+
+548
+00:31:44,000 --> 00:31:46,000
+on the back-end,
+
+549
+00:31:46,000 --> 00:31:48,000
+this will be the implementation detail
+
+550
+00:31:48,000 --> 00:31:50,000
+on the front-end,
+
+551
+00:31:50,000 --> 00:31:52,000
+and then,
+
+552
+00:31:52,000 --> 00:31:54,000
+the smaller group of people,
+
+553
+00:31:54,000 --> 00:31:56,000
+technically,
+
+554
+00:31:56,000 --> 00:31:58,000
+takes over the task.
+
+555
+00:31:58,000 --> 00:32:00,000
+Then,
+
+556
+00:32:00,000 --> 00:32:02,000
+it's presented,
+
+557
+00:32:02,000 --> 00:32:04,000
+and then,
+
+558
+00:32:04,000 --> 00:32:06,000
+there's a time estimation,
+
+559
+00:32:06,000 --> 00:32:08,000
+which you have to give to the product management,
+
+560
+00:32:08,000 --> 00:32:10,000
+and that's,
+
+561
+00:32:10,000 --> 00:32:12,000
+basically,
+
+562
+00:32:12,000 --> 00:32:14,000
+all the actors,
+
+563
+00:32:14,000 --> 00:32:16,000
+from the product, business, design,
+
+564
+00:32:16,000 --> 00:32:18,000
+to the technical implementers,
+
+565
+00:32:18,000 --> 00:32:20,000
+are aware of this document,
+
+566
+00:32:20,000 --> 00:32:22,000
+and know what's going on,
+
+567
+00:32:22,000 --> 00:32:24,000
+what's going on in the implementation.
+
+568
+00:32:24,000 --> 00:32:26,000
+Then,
+
+569
+00:32:26,000 --> 00:32:28,000
+you try to link
+
+570
+00:32:28,000 --> 00:32:30,000
+the previous part,
+
+571
+00:32:30,000 --> 00:32:32,000
+the previous feature,
+
+572
+00:32:32,000 --> 00:32:34,000
+and then create some novelties,
+
+573
+00:32:34,000 --> 00:32:36,000
+that will be referenced,
+
+574
+00:32:36,000 --> 00:32:38,000
+so that you have a cluster,
+
+575
+00:32:38,000 --> 00:32:40,000
+that you work on,
+
+576
+00:32:40,000 --> 00:32:42,000
+grouped.
+
+577
+00:32:42,000 --> 00:32:44,000
+In my opinion,
+
+578
+00:32:44,000 --> 00:32:46,000
+it's like that,
+
+579
+00:32:46,000 --> 00:32:48,000
+but we came to the point,
+
+580
+00:32:48,000 --> 00:32:50,000
+that we explicitly demand,
+
+581
+00:32:50,000 --> 00:32:52,000
+that these documents must be written.
+
+582
+00:32:52,000 --> 00:32:54,000
+The whole document is then classified,
+
+583
+00:32:54,000 --> 00:32:56,000
+goes to the OPEX, CAPEX,
+
+584
+00:32:56,000 --> 00:32:58,000
+it's some kind of operational expense,
+
+585
+00:32:58,000 --> 00:33:00,000
+or something that will be added by the company,
+
+586
+00:33:00,000 --> 00:33:02,000
+and everything must be
+
+587
+00:33:02,000 --> 00:33:04,000
+related to this document.
+
+588
+00:33:04,000 --> 00:33:06,000
+If you go to the engineer,
+
+589
+00:33:06,000 --> 00:33:08,000
+to do something that doesn't have a paper,
+
+590
+00:33:08,000 --> 00:33:10,000
+you're basically on your own.
+
+591
+00:33:10,000 --> 00:33:12,000
+Of course,
+
+592
+00:33:12,000 --> 00:33:14,000
+there's some
+
+593
+00:33:16,000 --> 00:33:18,000
+amount of work,
+
+594
+00:33:18,000 --> 00:33:20,000
+that you do,
+
+595
+00:33:20,000 --> 00:33:22,000
+but in the beginning,
+
+596
+00:33:22,000 --> 00:33:24,000
+this work could also be linked.
+
+597
+00:33:24,000 --> 00:33:26,000
+I would also say,
+
+598
+00:33:26,000 --> 00:33:28,000
+if you want to have feedback,
+
+599
+00:33:28,000 --> 00:33:30,000
+you want to have feedback
+
+600
+00:33:30,000 --> 00:33:32,000
+from relevant people,
+
+601
+00:33:32,000 --> 00:33:34,000
+you want to have
+
+602
+00:33:34,000 --> 00:33:36,000
+deep enough feedback,
+
+603
+00:33:36,000 --> 00:33:38,000
+and you never go to the office,
+
+604
+00:33:38,000 --> 00:33:40,000
+if you ask relevant people,
+
+605
+00:33:40,000 --> 00:33:42,000
+do you have feedback,
+
+606
+00:33:42,000 --> 00:33:44,000
+did you change this,
+
+607
+00:33:44,000 --> 00:33:46,000
+what do you think about the details,
+
+608
+00:33:46,000 --> 00:33:48,000
+or in some way,
+
+609
+00:33:48,000 --> 00:33:50,000
+you call people,
+
+610
+00:33:50,000 --> 00:33:52,000
+to give you,
+
+611
+00:33:52,000 --> 00:33:54,000
+so that they change it,
+
+612
+00:33:54,000 --> 00:33:56,000
+or in some way,
+
+613
+00:33:56,000 --> 00:33:58,000
+you give them a response,
+
+614
+00:33:58,000 --> 00:34:00,000
+and then you also
+
+615
+00:34:00,000 --> 00:34:02,000
+agree with what I wrote in the document,
+
+616
+00:34:02,000 --> 00:34:04,000
+and then it becomes a response,
+
+617
+00:34:04,000 --> 00:34:06,000
+in some way.
+
+618
+00:34:06,000 --> 00:34:08,000
+Now, if I write a document,
+
+619
+00:34:08,000 --> 00:34:10,000
+and I just hang it up,
+
+620
+00:34:10,000 --> 00:34:12,000
+no one will change it.
+
+621
+00:34:12,000 --> 00:34:14,000
+How can you try,
+
+622
+00:34:14,000 --> 00:34:16,000
+if people take it,
+
+623
+00:34:16,000 --> 00:34:18,000
+to write a bad e-mail,
+
+624
+00:34:18,000 --> 00:34:20,000
+or write a comment,
+
+625
+00:34:20,000 --> 00:34:22,000
+or write an e-mail,
+
+626
+00:34:22,000 --> 00:34:24,000
+and no one will change it.
+
+627
+00:34:24,000 --> 00:34:26,000
+I don't know.
+
+628
+00:34:26,000 --> 00:34:28,000
+You are even better at it,
+
+629
+00:34:28,000 --> 00:34:30,000
+you know how to write a document,
+
+630
+00:34:30,000 --> 00:34:32,000
+you are a miracle.
+
+631
+00:34:32,000 --> 00:34:34,000
+Thank you.
+
+632
+00:34:38,000 --> 00:34:40,000
+I,
+
+633
+00:34:40,000 --> 00:34:42,000
+writing a document,
+
+634
+00:34:42,000 --> 00:34:44,000
+or reading a text,
+
+635
+00:34:44,000 --> 00:34:46,000
+I never understood,
+
+636
+00:34:46,000 --> 00:34:48,000
+why in high school,
+
+637
+00:34:48,000 --> 00:34:50,000
+when I was a kid,
+
+638
+00:34:50,000 --> 00:34:52,000
+I read a book,
+
+639
+00:34:52,000 --> 00:34:54,000
+and when I got older,
+
+640
+00:34:54,000 --> 00:34:56,000
+in engineering,
+
+641
+00:34:56,000 --> 00:34:58,000
+I understood better,
+
+642
+00:34:58,000 --> 00:35:00,000
+why I was doing it.
+
+643
+00:35:00,000 --> 00:35:02,000
+The point is,
+
+644
+00:35:02,000 --> 00:35:04,000
+that in your brain,
+
+645
+00:35:04,000 --> 00:35:06,000
+there is an arithmetic unit,
+
+646
+00:35:06,000 --> 00:35:08,000
+and an accumulator,
+
+647
+00:35:08,000 --> 00:35:10,000
+and when you think about
+
+648
+00:35:10,000 --> 00:35:12,000
+very difficult engineering problems,
+
+649
+00:35:12,000 --> 00:35:14,000
+and maybe you are just at work,
+
+650
+00:35:14,000 --> 00:35:16,000
+and you work overtime,
+
+651
+00:35:16,000 --> 00:35:18,000
+your brain has a problem,
+
+652
+00:35:18,000 --> 00:35:20,000
+because you are always
+
+653
+00:35:20,000 --> 00:35:22,000
+on the go,
+
+654
+00:35:22,000 --> 00:35:24,000
+maybe you are doing
+
+655
+00:35:24,000 --> 00:35:26,000
+Instagram scrolling,
+
+656
+00:35:26,000 --> 00:35:28,000
+and it is very difficult
+
+657
+00:35:28,000 --> 00:35:30,000
+to create a state in your brain,
+
+658
+00:35:30,000 --> 00:35:32,000
+and I like to use paper,
+
+659
+00:35:32,000 --> 00:35:34,000
+or whatever,
+
+660
+00:35:34,000 --> 00:35:36,000
+markdown file,
+
+661
+00:35:36,000 --> 00:35:38,000
+or confluence page,
+
+662
+00:35:38,000 --> 00:35:40,000
+or whatever,
+
+663
+00:35:40,000 --> 00:35:42,000
+as a tool,
+
+664
+00:35:42,000 --> 00:35:44,000
+to write better,
+
+665
+00:35:44,000 --> 00:35:46,000
+with a more coherent strategy,
+
+666
+00:35:48,000 --> 00:35:50,000
+regarding a problem,
+
+667
+00:35:50,000 --> 00:35:52,000
+or whatever,
+
+668
+00:35:52,000 --> 00:35:54,000
+or a philosophical thinking,
+
+669
+00:35:54,000 --> 00:35:56,000
+I know it is a high level style,
+
+670
+00:35:56,000 --> 00:35:58,000
+but it really helps me,
+
+671
+00:35:58,000 --> 00:36:00,000
+to organize my thoughts,
+
+672
+00:36:00,000 --> 00:36:02,000
+so I can write.
+
+673
+00:36:02,000 --> 00:36:04,000
+That is the first point.
+
+674
+00:36:04,000 --> 00:36:06,000
+When you work at home,
+
+675
+00:36:06,000 --> 00:36:08,000
+if I have time,
+
+676
+00:36:08,000 --> 00:36:10,000
+I have a lot of work,
+
+677
+00:36:10,000 --> 00:36:12,000
+I have to jump to a lot of people,
+
+678
+00:36:12,000 --> 00:36:14,000
+who have a legacy,
+
+679
+00:36:14,000 --> 00:36:16,000
+or whatever,
+
+680
+00:36:16,000 --> 00:36:18,000
+and they are not like,
+
+681
+00:36:18,000 --> 00:36:20,000
+this is a new feature,
+
+682
+00:36:20,000 --> 00:36:22,000
+it is 6 years in production,
+
+683
+00:36:22,000 --> 00:36:24,000
+and now it does not work,
+
+684
+00:36:24,000 --> 00:36:26,000
+I need 7 more employees,
+
+685
+00:36:26,000 --> 00:36:28,000
+who will help you solve it.
+
+686
+00:36:28,000 --> 00:36:30,000
+And if I know,
+
+687
+00:36:30,000 --> 00:36:32,000
+that I will talk to a lot of people,
+
+688
+00:36:32,000 --> 00:36:34,000
+then I make a document,
+
+689
+00:36:34,000 --> 00:36:36,000
+I write things,
+
+690
+00:36:36,000 --> 00:36:38,000
+and by reference,
+
+691
+00:36:38,000 --> 00:36:40,000
+I copy it forward,
+
+692
+00:36:40,000 --> 00:36:42,000
+and I give it to people,
+
+693
+00:36:42,000 --> 00:36:44,000
+before the meeting.
+
+694
+00:36:44,000 --> 00:36:46,000
+One thing I have learned,
+
+695
+00:36:46,000 --> 00:36:48,000
+is to always have a better document,
+
+696
+00:36:48,000 --> 00:36:50,000
+so no one can copy it,
+
+697
+00:36:50,000 --> 00:36:52,000
+because sometimes it happens,
+
+698
+00:36:52,000 --> 00:36:54,000
+that I write a document,
+
+699
+00:36:54,000 --> 00:36:56,000
+and I give it before the meeting,
+
+700
+00:36:56,000 --> 00:36:58,000
+so no one can copy it,
+
+701
+00:36:58,000 --> 00:37:00,000
+and then I write in an invite,
+
+702
+00:37:00,000 --> 00:37:02,000
+for a short meeting,
+
+703
+00:37:02,000 --> 00:37:04,000
+hey, we just went through this document,
+
+704
+00:37:04,000 --> 00:37:06,000
+and then I open it on share,
+
+705
+00:37:06,000 --> 00:37:08,000
+and I share points.
+
+706
+00:37:08,000 --> 00:37:10,000
+It depends on the culture,
+
+707
+00:37:10,000 --> 00:37:12,000
+some people will tell you,
+
+708
+00:37:12,000 --> 00:37:14,000
+hey, we just went through this,
+
+709
+00:37:14,000 --> 00:37:16,000
+it does not matter,
+
+710
+00:37:16,000 --> 00:37:18,000
+some people will say,
+
+711
+00:37:18,000 --> 00:37:20,000
+thank you, because you gave me time,
+
+712
+00:37:20,000 --> 00:37:22,000
+and I will look at it.
+
+713
+00:37:22,000 --> 00:37:24,000
+People I work with,
+
+714
+00:37:24,000 --> 00:37:26,000
+they have 9 hours,
+
+715
+00:37:26,000 --> 00:37:28,000
+and they have 15 minutes,
+
+716
+00:37:28,000 --> 00:37:30,000
+and you have to give them time,
+
+717
+00:37:30,000 --> 00:37:32,000
+so they will take time for it.
+
+718
+00:37:32,000 --> 00:37:34,000
+That is one thing,
+
+719
+00:37:34,000 --> 00:37:36,000
+and the other thing,
+
+720
+00:37:36,000 --> 00:37:38,000
+that I have learned,
+
+721
+00:37:38,000 --> 00:37:40,000
+it depends on the site,
+
+722
+00:37:40,000 --> 00:37:42,000
+for example,
+
+723
+00:37:42,000 --> 00:37:44,000
+it is good to say,
+
+724
+00:37:44,000 --> 00:37:46,000
+ok, we will write a RFC,
+
+725
+00:37:46,000 --> 00:37:48,000
+with a new feature,
+
+726
+00:37:48,000 --> 00:37:50,000
+but when we work with SAS,
+
+727
+00:37:50,000 --> 00:37:52,000
+we will think about the architecture,
+
+728
+00:37:52,000 --> 00:37:54,000
+and do it,
+
+729
+00:37:54,000 --> 00:37:56,000
+and then I say, cool,
+
+730
+00:37:56,000 --> 00:37:58,000
+and then think,
+
+731
+00:37:58,000 --> 00:38:00,000
+you are not SAS,
+
+732
+00:38:00,000 --> 00:38:02,000
+and you have Omprem,
+
+733
+00:38:02,000 --> 00:38:04,000
+and you have hundreds of sites,
+
+734
+00:38:04,000 --> 00:38:06,000
+and you have to find a way
+
+735
+00:38:06,000 --> 00:38:08,000
+to deploy the product,
+
+736
+00:38:08,000 --> 00:38:10,000
+and you do not have 5 documents,
+
+737
+00:38:10,000 --> 00:38:12,000
+with different versions,
+
+738
+00:38:12,000 --> 00:38:14,000
+where you can,
+
+739
+00:38:14,000 --> 00:38:16,000
+I like to make tricks,
+
+740
+00:38:16,000 --> 00:38:18,000
+it is so hard to understand,
+
+741
+00:38:18,000 --> 00:38:20,000
+how to work with a specific product,
+
+742
+00:38:20,000 --> 00:38:22,000
+if we say,
+
+743
+00:38:22,000 --> 00:38:24,000
+Deutsche Bank has this version,
+
+744
+00:38:24,000 --> 00:38:26,000
+you can take a document,
+
+745
+00:38:26,000 --> 00:38:28,000
+and if you are a startup,
+
+746
+00:38:28,000 --> 00:38:30,000
+and you will make an MVP,
+
+747
+00:38:30,000 --> 00:38:32,000
+and you are looking for a feed,
+
+748
+00:38:32,000 --> 00:38:34,000
+and you need it,
+
+749
+00:38:34,000 --> 00:38:36,000
+and you do not know,
+
+750
+00:38:36,000 --> 00:38:38,000
+if there are 3,
+
+751
+00:38:38,000 --> 00:38:40,000
+so it depends,
+
+752
+00:38:40,000 --> 00:38:42,000
+case by case,
+
+753
+00:38:42,000 --> 00:38:44,000
+what you want to document,
+
+754
+00:38:44,000 --> 00:38:46,000
+and it is important,
+
+755
+00:38:46,000 --> 00:38:48,000
+that things are crisp,
+
+756
+00:38:48,000 --> 00:38:50,000
+and that,
+
+757
+00:38:50,000 --> 00:38:52,000
+I like to choose a user manual,
+
+758
+00:38:52,000 --> 00:38:54,000
+and nobody chooses it,
+
+759
+00:38:54,000 --> 00:38:56,000
+I see people opening a box,
+
+760
+00:38:56,000 --> 00:38:58,000
+and throwing it aside,
+
+761
+00:38:58,000 --> 00:39:00,000
+and you as an engineer,
+
+762
+00:39:00,000 --> 00:39:02,000
+you have to choose a user manual,
+
+763
+00:39:02,000 --> 00:39:04,000
+and when you are a person,
+
+764
+00:39:04,000 --> 00:39:06,000
+who will be able to communicate,
+
+765
+00:39:06,000 --> 00:39:08,000
+with normal people,
+
+766
+00:39:08,000 --> 00:39:10,000
+with their brilliance,
+
+767
+00:39:10,000 --> 00:39:12,000
+it is a big challenge,
+
+768
+00:39:12,000 --> 00:39:14,000
+and people can choose more codes,
+
+769
+00:39:14,000 --> 00:39:16,000
+than open source,
+
+770
+00:39:16,000 --> 00:39:18,000
+and more user manuals,
+
+771
+00:39:18,000 --> 00:39:20,000
+so when you open a product,
+
+772
+00:39:20,000 --> 00:39:22,000
+and you take it in English,
+
+773
+00:39:22,000 --> 00:39:24,000
+ok, safety instructions,
+
+774
+00:39:24,000 --> 00:39:26,000
+copy and paste,
+
+775
+00:39:26,000 --> 00:39:28,000
+but choose a little,
+
+776
+00:39:28,000 --> 00:39:30,000
+and at some point,
+
+777
+00:39:30,000 --> 00:39:32,000
+if you are a software engineer,
+
+778
+00:39:32,000 --> 00:39:34,000
+it will happen to you,
+
+779
+00:39:34,000 --> 00:39:36,000
+that someone will tell you,
+
+780
+00:39:36,000 --> 00:39:38,000
+that you need to write an instruction,
+
+781
+00:39:38,000 --> 00:39:40,000
+for a software engineer,
+
+782
+00:39:40,000 --> 00:39:42,000
+or for an end user manual.
+
+783
+00:39:42,000 --> 00:39:44,000
+I would choose two more,
+
+784
+00:39:44,000 --> 00:39:46,000
+very good experiences,
+
+785
+00:39:46,000 --> 00:39:48,000
+you told me two things,
+
+786
+00:39:48,000 --> 00:39:50,000
+very good,
+
+787
+00:39:50,000 --> 00:39:52,000
+one of the best things,
+
+788
+00:39:52,000 --> 00:39:54,000
+that I found on Mac,
+
+789
+00:39:54,000 --> 00:39:56,000
+is that I bought OmniGraph,
+
+790
+00:39:56,000 --> 00:39:58,000
+for Microsoft Visio,
+
+791
+00:39:58,000 --> 00:40:00,000
+and it still exists,
+
+792
+00:40:00,000 --> 00:40:02,000
+there is also Draw.io,
+
+793
+00:40:02,000 --> 00:40:04,000
+which is a tool,
+
+794
+00:40:04,000 --> 00:40:06,000
+for drawing sketches,
+
+795
+00:40:06,000 --> 00:40:08,000
+I use Desktop,
+
+796
+00:40:08,000 --> 00:40:10,000
+but when you have,
+
+797
+00:40:10,000 --> 00:40:12,000
+a remote team,
+
+798
+00:40:12,000 --> 00:40:14,000
+it is like a tool,
+
+799
+00:40:14,000 --> 00:40:16,000
+for quick sketching,
+
+800
+00:40:16,000 --> 00:40:18,000
+or to quickly present,
+
+801
+00:40:18,000 --> 00:40:20,000
+an idea,
+
+802
+00:40:20,000 --> 00:40:22,000
+it is much more effective,
+
+803
+00:40:22,000 --> 00:40:24,000
+than a book,
+
+804
+00:40:24,000 --> 00:40:26,000
+or a manual,
+
+805
+00:40:26,000 --> 00:40:28,000
+so OmniGraph,
+
+806
+00:40:28,000 --> 00:40:30,000
+and this system,
+
+807
+00:40:30,000 --> 00:40:32,000
+for archiving,
+
+808
+00:40:32,000 --> 00:40:34,000
+all the technical sketches,
+
+809
+00:40:34,000 --> 00:40:36,000
+I found very useful,
+
+810
+00:40:36,000 --> 00:40:38,000
+and now I have a large database,
+
+811
+00:40:38,000 --> 00:40:40,000
+of all the sketches,
+
+812
+00:40:40,000 --> 00:40:42,000
+and when I onboard some people,
+
+813
+00:40:42,000 --> 00:40:44,000
+I know exactly,
+
+814
+00:40:44,000 --> 00:40:46,000
+where the sketches are,
+
+815
+00:40:46,000 --> 00:40:48,000
+I show them,
+
+816
+00:40:48,000 --> 00:40:50,000
+and it is much easier,
+
+817
+00:40:50,000 --> 00:40:52,000
+to communicate,
+
+818
+00:40:52,000 --> 00:40:54,000
+and I try to resonate,
+
+819
+00:40:54,000 --> 00:40:56,000
+some of the sketches,
+
+820
+00:40:56,000 --> 00:40:58,000
+so I have an overview,
+
+821
+00:40:58,000 --> 00:41:00,000
+of what happened,
+
+822
+00:41:00,000 --> 00:41:02,000
+it turned out,
+
+823
+00:41:02,000 --> 00:41:04,000
+to be very useful,
+
+824
+00:41:04,000 --> 00:41:06,000
+for conveying information,
+
+825
+00:41:06,000 --> 00:41:08,000
+today I also learned,
+
+826
+00:41:08,000 --> 00:41:10,000
+how to use this tool,
+
+827
+00:41:10,000 --> 00:41:12,000
+so I can quickly sketch,
+
+828
+00:41:12,000 --> 00:41:14,000
+if we have an online session,
+
+829
+00:41:14,000 --> 00:41:16,000
+and transfer those things,
+
+830
+00:41:16,000 --> 00:41:18,000
+the second tool,
+
+831
+00:41:18,000 --> 00:41:20,000
+is KosoCity,
+
+832
+00:41:20,000 --> 00:41:22,000
+with KosoCity,
+
+833
+00:41:22,000 --> 00:41:24,000
+we try to make,
+
+834
+00:41:24,000 --> 00:41:26,000
+demos,
+
+835
+00:41:26,000 --> 00:41:28,000
+and it is a session,
+
+836
+00:41:28,000 --> 00:41:30,000
+where developers,
+
+837
+00:41:30,000 --> 00:41:32,000
+engineers, designers,
+
+838
+00:41:32,000 --> 00:41:34,000
+sales people,
+
+839
+00:41:34,000 --> 00:41:36,000
+constantly show their results,
+
+840
+00:41:36,000 --> 00:41:38,000
+and I try,
+
+841
+00:41:38,000 --> 00:41:40,000
+to record,
+
+842
+00:41:40,000 --> 00:41:42,000
+all those product features,
+
+843
+00:41:42,000 --> 00:41:44,000
+and then I have,
+
+844
+00:41:44,000 --> 00:41:46,000
+on YouTube,
+
+845
+00:41:46,000 --> 00:41:48,000
+an archive,
+
+846
+00:41:48,000 --> 00:41:50,000
+of the product,
+
+847
+00:41:50,000 --> 00:41:52,000
+demo,
+
+848
+00:41:52,000 --> 00:41:54,000
+and KosoCity,
+
+849
+00:41:54,000 --> 00:41:56,000
+and when someone comes,
+
+850
+00:41:56,000 --> 00:41:58,000
+and asks,
+
+851
+00:41:58,000 --> 00:42:00,000
+why did you do this,
+
+852
+00:42:00,000 --> 00:42:02,000
+we had this idea,
+
+853
+00:42:02,000 --> 00:42:04,000
+and this video,
+
+854
+00:42:04,000 --> 00:42:06,000
+is still archived,
+
+855
+00:42:06,000 --> 00:42:08,000
+I won't say,
+
+856
+00:42:08,000 --> 00:42:10,000
+it is like a meeting,
+
+857
+00:42:10,000 --> 00:42:12,000
+but this is how,
+
+858
+00:42:12,000 --> 00:42:14,000
+the product looked,
+
+859
+00:42:14,000 --> 00:42:16,000
+this time,
+
+860
+00:42:16,000 --> 00:42:18,000
+and today,
+
+861
+00:42:18,000 --> 00:42:20,000
+as you can see,
+
+862
+00:42:20,000 --> 00:42:22,000
+I have a whole collection,
+
+863
+00:42:22,000 --> 00:42:24,000
+of those videos,
+
+864
+00:42:24,000 --> 00:42:26,000
+so one is the sketch,
+
+865
+00:42:26,000 --> 00:42:28,000
+and then the video.
+
+866
+00:42:28,000 --> 00:42:30,000
+One culture,
+
+867
+00:42:30,000 --> 00:42:32,000
+on this forum,
+
+868
+00:42:32,000 --> 00:42:34,000
+is Loom,
+
+869
+00:42:34,000 --> 00:42:36,000
+Loom.com gives you an app,
+
+870
+00:42:36,000 --> 00:42:38,000
+and when you,
+
+871
+00:42:38,000 --> 00:42:40,000
+scroll up in the toolbar,
+
+872
+00:42:40,000 --> 00:42:42,000
+you click it,
+
+873
+00:42:42,000 --> 00:42:44,000
+and you can record for 5 minutes,
+
+874
+00:42:44,000 --> 00:42:46,000
+from the screen recording,
+
+875
+00:42:46,000 --> 00:42:48,000
+and the whole hack is,
+
+876
+00:42:48,000 --> 00:42:50,000
+to say,
+
+877
+00:42:50,000 --> 00:42:52,000
+I will record this Loom,
+
+878
+00:42:52,000 --> 00:42:54,000
+and spread it on the screen.
+
+879
+00:42:54,000 --> 00:42:56,000
+And also the sound?
+
+880
+00:42:56,000 --> 00:42:58,000
+Yes, the sound,
+
+881
+00:42:58,000 --> 00:43:00,000
+and it gives you a circle,
+
+882
+00:43:00,000 --> 00:43:02,000
+your face if you want,
+
+883
+00:43:02,000 --> 00:43:04,000
+and it tells you how many clicks,
+
+884
+00:43:04,000 --> 00:43:06,000
+how much progress,
+
+885
+00:43:06,000 --> 00:43:08,000
+and then,
+
+886
+00:43:08,000 --> 00:43:10,000
+unlike YouTube,
+
+887
+00:43:10,000 --> 00:43:12,000
+where those problems are solved,
+
+888
+00:43:12,000 --> 00:43:14,000
+it is sold as a SaaS product,
+
+889
+00:43:14,000 --> 00:43:16,000
+and it is nice,
+
+890
+00:43:16,000 --> 00:43:18,000
+because it is nice,
+
+891
+00:43:18,000 --> 00:43:20,000
+because you can teach people support,
+
+892
+00:43:20,000 --> 00:43:22,000
+so they produce a bug,
+
+893
+00:43:22,000 --> 00:43:24,000
+and Loom records it,
+
+894
+00:43:24,000 --> 00:43:26,000
+QA people,
+
+895
+00:43:26,000 --> 00:43:28,000
+and you don't get a single zoom meeting,
+
+896
+00:43:28,000 --> 00:43:30,000
+because people send you a 2 minute video.
+
+897
+00:43:30,000 --> 00:43:32,000
+So this was,
+
+898
+00:43:32,000 --> 00:43:34,000
+a very interesting forum,
+
+899
+00:43:34,000 --> 00:43:36,000
+if you would like to have some previous companies,
+
+900
+00:43:36,000 --> 00:43:38,000
+but they didn't exist yet.
+
+901
+00:43:38,000 --> 00:43:40,000
+Another thing I saw,
+
+902
+00:43:40,000 --> 00:43:42,000
+for writing documents,
+
+903
+00:43:42,000 --> 00:43:44,000
+it is often nice,
+
+904
+00:43:44,000 --> 00:43:46,000
+people have a strong opinion,
+
+905
+00:43:46,000 --> 00:43:48,000
+but they have to explain it,
+
+906
+00:43:48,000 --> 00:43:50,000
+as if I would write it.
+
+907
+00:43:50,000 --> 00:43:52,000
+And then it is good to have a zoom session,
+
+908
+00:43:52,000 --> 00:43:54,000
+open a document,
+
+909
+00:43:54,000 --> 00:43:56,000
+on your screen,
+
+910
+00:43:56,000 --> 00:43:58,000
+and then write bullets,
+
+911
+00:43:58,000 --> 00:44:00,000
+for them.
+
+912
+00:44:00,000 --> 00:44:02,000
+And they look at it,
+
+913
+00:44:02,000 --> 00:44:04,000
+and correct you,
+
+914
+00:44:04,000 --> 00:44:06,000
+and you type for them.
+
+915
+00:44:06,000 --> 00:44:08,000
+And when you conclude those main thoughts,
+
+916
+00:44:08,000 --> 00:44:10,000
+you are in peace,
+
+917
+00:44:10,000 --> 00:44:12,000
+and you do editorial process,
+
+918
+00:44:12,000 --> 00:44:14,000
+where you make those notes,
+
+919
+00:44:14,000 --> 00:44:16,000
+and they work on a clean paper.
+
+920
+00:44:16,000 --> 00:44:18,000
+And then,
+
+921
+00:44:18,000 --> 00:44:20,000
+when you are done,
+
+922
+00:44:20,000 --> 00:44:22,000
+after you have written those things,
+
+923
+00:44:22,000 --> 00:44:24,000
+you can move on,
+
+924
+00:44:24,000 --> 00:44:26,000
+to a phase of feedback,
+
+925
+00:44:26,000 --> 00:44:28,000
+and execution,
+
+926
+00:44:28,000 --> 00:44:30,000
+and you move people from the loop,
+
+927
+00:44:30,000 --> 00:44:32,000
+which can take a long time.
+
+928
+00:44:32,000 --> 00:44:34,000
+Yesterday,
+
+929
+00:44:34,000 --> 00:44:36,000
+we were talking with Jure,
+
+930
+00:44:36,000 --> 00:44:38,000
+and he told me,
+
+931
+00:44:38,000 --> 00:44:40,000
+that there is a hack,
+
+932
+00:44:40,000 --> 00:44:42,000
+where you can write,
+
+933
+00:44:42,000 --> 00:44:44,000
+if you don't know,
+
+934
+00:44:44,000 --> 00:44:46,000
+you can write fake information,
+
+935
+00:44:46,000 --> 00:44:48,000
+and if you are on a call,
+
+936
+00:44:48,000 --> 00:44:50,000
+people will be triggered,
+
+937
+00:44:50,000 --> 00:44:52,000
+and they will correct you.
+
+938
+00:44:52,000 --> 00:44:54,000
+I noticed that,
+
+939
+00:44:54,000 --> 00:44:56,000
+and it is really nice,
+
+940
+00:44:56,000 --> 00:44:58,000
+because you engage people.
+
+941
+00:44:58,000 --> 00:45:00,000
+So that people understand,
+
+942
+00:45:00,000 --> 00:45:02,000
+and...
+
+943
+00:45:02,000 --> 00:45:04,000
+Like when I was at Filofax,
+
+944
+00:45:04,000 --> 00:45:06,000
+and I know Slovenian very well,
+
+945
+00:45:06,000 --> 00:45:08,000
+if I started to write something on a board,
+
+946
+00:45:08,000 --> 00:45:10,000
+people would run to me,
+
+947
+00:45:10,000 --> 00:45:12,000
+and correct me.
+
+948
+00:45:12,000 --> 00:45:14,000
+But in the end,
+
+949
+00:45:14,000 --> 00:45:16,000
+you get a quality product.
+
+950
+00:45:16,000 --> 00:45:18,000
+It is a...
+
+951
+00:45:18,000 --> 00:45:20,000
+How to engage with the crowd?
+
+952
+00:45:22,000 --> 00:45:24,000
+I would go back to that,
+
+953
+00:45:24,000 --> 00:45:26,000
+and I will talk about it later,
+
+954
+00:45:26,000 --> 00:45:28,000
+but have you ever been
+
+955
+00:45:28,000 --> 00:45:30,000
+in a collective on Slack,
+
+956
+00:45:30,000 --> 00:45:32,000
+where someone writes
+
+957
+00:45:32,000 --> 00:45:34,000
+a really funny joke,
+
+958
+00:45:34,000 --> 00:45:36,000
+or a meme,
+
+959
+00:45:36,000 --> 00:45:38,000
+or a picture,
+
+960
+00:45:38,000 --> 00:45:40,000
+and then HR gets triggered,
+
+961
+00:45:40,000 --> 00:45:42,000
+and Slack dies,
+
+962
+00:45:42,000 --> 00:45:44,000
+and then...
+
+963
+00:45:44,000 --> 00:45:46,000
+The culture of jokes
+
+964
+00:45:46,000 --> 00:45:48,000
+can be very different,
+
+965
+00:45:48,000 --> 00:45:50,000
+from team to team,
+
+966
+00:45:50,000 --> 00:45:52,000
+you can have
+
+967
+00:45:52,000 --> 00:45:54,000
+local culture,
+
+968
+00:45:54,000 --> 00:45:56,000
+that influences Slack,
+
+969
+00:45:56,000 --> 00:45:58,000
+and remote culture,
+
+970
+00:45:58,000 --> 00:46:00,000
+and things that are very funny,
+
+971
+00:46:00,000 --> 00:46:02,000
+or very unproductive,
+
+972
+00:46:02,000 --> 00:46:04,000
+or can be just a joke.
+
+973
+00:46:06,000 --> 00:46:08,000
+But on the other hand,
+
+974
+00:46:08,000 --> 00:46:10,000
+this simplicity
+
+975
+00:46:10,000 --> 00:46:12,000
+also dictates the culture
+
+976
+00:46:12,000 --> 00:46:14,000
+that you try to have,
+
+977
+00:46:14,000 --> 00:46:16,000
+or to have.
+
+978
+00:46:16,000 --> 00:46:18,000
+I think,
+
+979
+00:46:18,000 --> 00:46:20,000
+from my perspective,
+
+980
+00:46:20,000 --> 00:46:22,000
+as a local participant,
+
+981
+00:46:24,000 --> 00:46:26,000
+if you are employed,
+
+982
+00:46:26,000 --> 00:46:28,000
+you are in a better position
+
+983
+00:46:28,000 --> 00:46:30,000
+as an employee,
+
+984
+00:46:30,000 --> 00:46:32,000
+than on a project.
+
+985
+00:46:32,000 --> 00:46:34,000
+From my perspective,
+
+986
+00:46:36,000 --> 00:46:38,000
+you can be very friendly
+
+987
+00:46:38,000 --> 00:46:40,000
+with people,
+
+988
+00:46:40,000 --> 00:46:42,000
+and you can definitely
+
+989
+00:46:42,000 --> 00:46:44,000
+have more professionalism.
+
+990
+00:46:44,000 --> 00:46:46,000
+You can be more professional,
+
+991
+00:46:46,000 --> 00:46:48,000
+when they are
+
+992
+00:46:48,000 --> 00:46:50,000
+on a good day,
+
+993
+00:46:50,000 --> 00:46:52,000
+and you can be on your bad day.
+
+994
+00:46:52,000 --> 00:46:54,000
+That means,
+
+995
+00:46:54,000 --> 00:46:56,000
+no memes,
+
+996
+00:46:56,000 --> 00:46:58,000
+only three smilies,
+
+997
+00:46:58,000 --> 00:47:00,000
+and maybe one
+
+998
+00:47:00,000 --> 00:47:02,000
+held set smiley.
+
+999
+00:47:02,000 --> 00:47:04,000
+Everything else,
+
+1000
+00:47:04,000 --> 00:47:06,000
+in my opinion,
+
+1001
+00:47:06,000 --> 00:47:08,000
+will be understood.
+
+1002
+00:47:08,000 --> 00:47:10,000
+Yes, I agree.
+
+1003
+00:47:10,000 --> 00:47:12,000
+And vice versa,
+
+1004
+00:47:12,000 --> 00:47:14,000
+when they make another joke,
+
+1005
+00:47:14,000 --> 00:47:16,000
+and you don't understand it.
+
+1006
+00:47:16,000 --> 00:47:18,000
+Or culturally.
+
+1007
+00:47:18,000 --> 00:47:20,000
+I don't know.
+
+1008
+00:47:20,000 --> 00:47:22,000
+I'm much more predictable
+
+1009
+00:47:22,000 --> 00:47:24,000
+about these things.
+
+1010
+00:47:24,000 --> 00:47:26,000
+Even on this podcast.
+
+1011
+00:47:26,000 --> 00:47:28,000
+This podcast is very relaxed.
+
+1012
+00:47:28,000 --> 00:47:30,000
+Nobody who listens to it
+
+1013
+00:47:30,000 --> 00:47:32,000
+from one office,
+
+1014
+00:47:32,000 --> 00:47:34,000
+doesn't understand the dynamics
+
+1015
+00:47:34,000 --> 00:47:36,000
+of this office.
+
+1016
+00:47:36,000 --> 00:47:38,000
+When you know it for five years,
+
+1017
+00:47:38,000 --> 00:47:40,000
+an insider's joke
+
+1018
+00:47:40,000 --> 00:47:42,000
+will be very inappropriate,
+
+1019
+00:47:42,000 --> 00:47:44,000
+especially for R.
+
+1020
+00:47:44,000 --> 00:47:46,000
+You have to be very careful.
+
+1021
+00:47:50,000 --> 00:47:52,000
+I don't know.
+
+1022
+00:47:52,000 --> 00:47:54,000
+About some collectives,
+
+1023
+00:47:54,000 --> 00:47:56,000
+where you get to know people better,
+
+1024
+00:47:56,000 --> 00:47:58,000
+and you want to make some jokes.
+
+1025
+00:47:58,000 --> 00:48:00,000
+Or you can change
+
+1026
+00:48:00,000 --> 00:48:02,000
+a communication channel,
+
+1027
+00:48:02,000 --> 00:48:04,000
+if you really can't help.
+
+1028
+00:48:04,000 --> 00:48:06,000
+You can make a telegram
+
+1029
+00:48:06,000 --> 00:48:08,000
+with half a smiley.
+
+1030
+00:48:08,000 --> 00:48:10,000
+Yes.
+
+1031
+00:48:12,000 --> 00:48:14,000
+If you really can't help.
+
+1032
+00:48:14,000 --> 00:48:16,000
+I don't know.
+
+1033
+00:48:16,000 --> 00:48:18,000
+If there is less R on the topic.
+
+1034
+00:48:18,000 --> 00:48:20,000
+But you will have a different platform.
+
+1035
+00:48:20,000 --> 00:48:22,000
+I don't have a private channel.
+
+1036
+00:48:22,000 --> 00:48:24,000
+There are a lot of platforms.
+
+1037
+00:48:26,000 --> 00:48:28,000
+I think it's a good assumption,
+
+1038
+00:48:28,000 --> 00:48:30,000
+that whatever you write
+
+1039
+00:48:30,000 --> 00:48:32,000
+in a computer,
+
+1040
+00:48:32,000 --> 00:48:34,000
+which is controlled
+
+1041
+00:48:34,000 --> 00:48:36,000
+by your phone,
+
+1042
+00:48:36,000 --> 00:48:38,000
+or in an app,
+
+1043
+00:48:38,000 --> 00:48:40,000
+which is controlled by your phone,
+
+1044
+00:48:40,000 --> 00:48:42,000
+it's logged forever.
+
+1045
+00:48:42,000 --> 00:48:44,000
+Let's be hackers.
+
+1046
+00:48:44,000 --> 00:48:46,000
+I'm going to write an app,
+
+1047
+00:48:46,000 --> 00:48:48,000
+and I'm going to be paranoid.
+
+1048
+00:48:48,000 --> 00:48:50,000
+I'm going to be paranoid.
+
+1049
+00:48:50,000 --> 00:48:52,000
+It's like hacking something
+
+1050
+00:48:52,000 --> 00:48:54,000
+in black or grey,
+
+1051
+00:48:54,000 --> 00:48:56,000
+if you want to post a meme.
+
+1052
+00:48:56,000 --> 00:48:58,000
+I don't know.
+
+1053
+00:48:58,000 --> 00:49:00,000
+I'm very predictable.
+
+1054
+00:49:00,000 --> 00:49:02,000
+It comes to some
+
+1055
+00:49:02,000 --> 00:49:04,000
+incomprehensible things.
+
+1056
+00:49:06,000 --> 00:49:08,000
+I have another question.
+
+1057
+00:49:08,000 --> 00:49:10,000
+It's probably relevant,
+
+1058
+00:49:10,000 --> 00:49:12,000
+or not.
+
+1059
+00:49:12,000 --> 00:49:14,000
+It's probably a podcast
+
+1060
+00:49:14,000 --> 00:49:16,000
+between HR managers,
+
+1061
+00:49:16,000 --> 00:49:18,000
+who recruit people
+
+1062
+00:49:18,000 --> 00:49:20,000
+from all over the world.
+
+1063
+00:49:22,000 --> 00:49:24,000
+Do you think
+
+1064
+00:49:24,000 --> 00:49:26,000
+that the remote way of work,
+
+1065
+00:49:26,000 --> 00:49:28,000
+or the remote development way of work,
+
+1066
+00:49:28,000 --> 00:49:30,000
+is for everyone?
+
+1067
+00:49:30,000 --> 00:49:32,000
+Who would be interested in the remote way of work?
+
+1068
+00:49:32,000 --> 00:49:34,000
+Do you have to be...
+
+1069
+00:49:34,000 --> 00:49:36,000
+A junior.
+
+1070
+00:49:36,000 --> 00:49:38,000
+I have less than 5 years of work experience.
+
+1071
+00:49:40,000 --> 00:49:42,000
+Explain what you mean.
+
+1072
+00:49:42,000 --> 00:49:44,000
+It's hard
+
+1073
+00:49:44,000 --> 00:49:46,000
+to find some cultures
+
+1074
+00:49:46,000 --> 00:49:48,000
+and conversations
+
+1075
+00:49:48,000 --> 00:49:50,000
+if you're a junior.
+
+1076
+00:49:50,000 --> 00:49:52,000
+I think that
+
+1077
+00:49:52,000 --> 00:49:54,000
+this office had a lot of experience
+
+1078
+00:49:54,000 --> 00:49:56,000
+through Cyber People,
+
+1079
+00:49:56,000 --> 00:49:58,000
+as well as through
+
+1080
+00:49:58,000 --> 00:50:00,000
+office work in offices.
+
+1081
+00:50:00,000 --> 00:50:05,000
+and the discussions that took place both in the gym and in the cafe
+
+1082
+00:50:05,000 --> 00:50:08,000
+you can't get them if you work from home.
+
+1083
+00:50:08,000 --> 00:50:12,000
+Which means that you might be able to accept some discords,
+
+1084
+00:50:12,000 --> 00:50:15,000
+you might find some slacks, but
+
+1085
+00:50:15,000 --> 00:50:19,000
+you don't get relevant hands-on experience and feedback
+
+1086
+00:50:19,000 --> 00:50:22,000
+from your managers.
+
+1087
+00:50:23,000 --> 00:50:25,000
+So here
+
+1088
+00:50:25,000 --> 00:50:28,000
+I haven't talked about how on-board juniors
+
+1089
+00:50:28,000 --> 00:50:31,000
+would be in a very remote culture.
+
+1090
+00:50:33,000 --> 00:50:35,000
+I would agree.
+
+1091
+00:50:35,000 --> 00:50:39,000
+And it's even more bizarre because we are now in GigaTrons.io
+
+1092
+00:50:39,000 --> 00:50:42,000
+and we are all co-workers.
+
+1093
+00:50:42,000 --> 00:50:43,000
+How do you say that?
+
+1094
+00:50:43,000 --> 00:50:44,000
+Cimri.
+
+1095
+00:50:44,000 --> 00:50:45,000
+Cimri, yes.
+
+1096
+00:50:45,000 --> 00:50:48,000
+And the good reason is that we are here,
+
+1097
+00:50:48,000 --> 00:50:50,000
+but we are not at home.
+
+1098
+00:50:50,000 --> 00:50:52,000
+And for me, one reason is that
+
+1099
+00:50:52,000 --> 00:50:55,000
+we are all working on different projects,
+
+1100
+00:50:55,000 --> 00:50:58,000
+but for me it's very valuable to have a chitchat
+
+1101
+00:50:58,000 --> 00:51:01,000
+that we have in our circles.
+
+1102
+00:51:01,000 --> 00:51:04,000
+If I have a networking story,
+
+1103
+00:51:04,000 --> 00:51:07,000
+I can always go to Andraž and ask him,
+
+1104
+00:51:07,000 --> 00:51:08,000
+I don't know,
+
+1105
+00:51:08,000 --> 00:51:11,000
+Hey, I haven't worked in a location for a long time,
+
+1106
+00:51:11,000 --> 00:51:14,000
+in a big network, can you help me with that?
+
+1107
+00:51:14,000 --> 00:51:16,000
+So I know it's a bit random,
+
+1108
+00:51:16,000 --> 00:51:18,000
+but I also think that...
+
+1109
+00:51:18,000 --> 00:51:21,000
+It worries me that if I worked alone at home,
+
+1110
+00:51:21,000 --> 00:51:23,000
+remotely,
+
+1111
+00:51:23,000 --> 00:51:28,000
+then my bubble would be all over the place.
+
+1112
+00:51:28,000 --> 00:51:31,000
+Also technologically, culturally, and everything.
+
+1113
+00:51:31,000 --> 00:51:35,000
+If you are still in a collective with someone,
+
+1114
+00:51:35,000 --> 00:51:37,000
+it helps me a lot.
+
+1115
+00:51:37,000 --> 00:51:41,000
+So I work remotely, but I don't work from home,
+
+1116
+00:51:41,000 --> 00:51:44,000
+because that's the bizarreness.
+
+1117
+00:51:44,000 --> 00:51:46,000
+Yes, I agree.
+
+1118
+00:51:46,000 --> 00:51:50,000
+I always try to look for people
+
+1119
+00:51:50,000 --> 00:51:54,000
+who are more experienced and independent.
+
+1120
+00:51:54,000 --> 00:51:57,000
+I wouldn't say junior, mid, whatever,
+
+1121
+00:51:57,000 --> 00:52:00,000
+but independent in the sense that
+
+1122
+00:52:00,000 --> 00:52:02,000
+whatever the problem is,
+
+1123
+00:52:02,000 --> 00:52:05,000
+people will be able to formulate it,
+
+1124
+00:52:05,000 --> 00:52:07,000
+to ask questions,
+
+1125
+00:52:07,000 --> 00:52:11,000
+or to deal with it more comprehensively and broadly.
+
+1126
+00:52:11,000 --> 00:52:15,000
+That's why you need a certain amount of experience,
+
+1127
+00:52:15,000 --> 00:52:18,000
+as you said, I agree.
+
+1128
+00:52:18,000 --> 00:52:21,000
+So yes, it's hard to offer mentorship
+
+1129
+00:52:21,000 --> 00:52:23,000
+on remote arrangements,
+
+1130
+00:52:23,000 --> 00:52:26,000
+if you have to work very explicitly with it.
+
+1131
+00:52:26,000 --> 00:52:30,000
+But yes, especially if it's a set of challenges.
+
+1132
+00:52:30,000 --> 00:52:32,000
+Okay.
+
+1133
+00:52:32,000 --> 00:52:34,000
+I'll miss the map.
+
+1134
+00:52:34,000 --> 00:52:36,000
+Don't worry.
+
+1135
+00:52:36,000 --> 00:52:38,000
+Okay, then we'll wrap up,
+
+1136
+00:52:38,000 --> 00:52:41,000
+and I would like to thank our guests,
+
+1137
+00:52:41,000 --> 00:52:44,000
+our listeners, if they have any suggestions,
+
+1138
+00:52:44,000 --> 00:52:46,000
+comments, feedback,
+
+1139
+00:52:46,000 --> 00:52:48,000
+contact us,
+
+1140
+00:52:48,000 --> 00:52:51,000
+so we can continue with these sessions.
+
+1141
+00:52:51,000 --> 00:52:53,000
+Brodo, Jure, thank you.
+
+1142
+00:52:53,000 --> 00:52:55,000
+Thank you, too.
+
+1143
+00:52:55,000 --> 00:52:57,000
+Bye.

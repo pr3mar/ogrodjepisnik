@@ -1,0 +1,6131 @@
+1
+00:00:00,000 --> 00:00:20,000
+I have to say at the beginning that we have Full Fancy Jingle, which we bought, and people are already listening to it, and probably that's why they already know us through the jingle.
+
+2
+00:00:20,000 --> 00:00:37,000
+At the beginning it was always 10 seconds for the intro, but now it's done, and now I have to first introduce the guest, and then we will go to the core of Sibyl.
+
+3
+00:00:37,000 --> 00:00:47,000
+Greetings to both guests, greetings to everyone who is watching us on our podcast, either on YouTube or through the podcasting platform.
+
+4
+00:00:47,000 --> 00:00:53,000
+Today we will try to make a simple conversation about the programming language Rust.
+
+5
+00:00:53,000 --> 00:01:01,000
+We tried to talk about what this language has brought to the fun ecosystem of programming and solving problems.
+
+6
+00:01:01,000 --> 00:01:09,000
+We will try to find out what are the advantages, why we use it, why we don't use it, who uses it, and so on.
+
+7
+00:01:09,000 --> 00:01:19,000
+I have two super special guests with me today. Simon Žlender is sitting next to me, hello Simon, and Petr Keše.
+
+8
+00:01:19,000 --> 00:01:24,000
+I will introduce you first, and then you can correct me if I have forgotten something.
+
+9
+00:01:24,000 --> 00:01:29,000
+Simon Žlender is a senior software engineering manager.
+
+10
+00:01:29,000 --> 00:01:32,000
+Not a senior, but me.
+
+11
+00:01:32,000 --> 00:01:39,000
+You wrote software engineering manager, but in terms of skill set you are definitely one of the top seniors I know.
+
+12
+00:01:39,000 --> 00:01:45,000
+What company do you work for, I can't say, because that would make me uncomfortable.
+
+13
+00:01:45,000 --> 00:01:53,000
+NDA, nothing special. I don't work for CIA, I don't work for KGB.
+
+14
+00:01:53,000 --> 00:01:55,000
+The financial industry is down.
+
+15
+00:01:55,000 --> 00:01:59,000
+Yes, the financial industry is very paranoid when it comes to work.
+
+16
+00:01:59,000 --> 00:02:01,000
+Ok, that could be enough.
+
+17
+00:02:01,000 --> 00:02:08,000
+Next to me is Petr Keše, who is currently working at HTTPool.
+
+18
+00:02:08,000 --> 00:02:16,000
+If I am correct, you are a hybrid data scientist and a senior engineer architect, right?
+
+19
+00:02:16,000 --> 00:02:21,000
+Yes, I actually led the work for data science at HTTPool.
+
+20
+00:02:22,000 --> 00:02:25,000
+That's right, I am Voto Börgläs.
+
+21
+00:02:25,000 --> 00:02:32,000
+I invited you both because you have already worked with Rastom, you work with Rastom,
+
+22
+00:02:32,000 --> 00:02:35,000
+and you are fans of the language.
+
+23
+00:02:35,000 --> 00:02:39,000
+As many of you as possible from our audience.
+
+24
+00:02:39,000 --> 00:02:47,000
+We will try to keep the level of how to approach the language high,
+
+25
+00:02:47,000 --> 00:02:50,000
+and maybe talk a little more about the advantages.
+
+26
+00:02:50,000 --> 00:02:55,000
+So, if you are an ultra expert for Rast, as we said at the beginning of the interview,
+
+27
+00:02:55,000 --> 00:02:59,000
+let us know, and then you can correct us and we will add something.
+
+28
+00:02:59,000 --> 00:03:03,000
+So, that would be the intro.
+
+29
+00:03:03,000 --> 00:03:05,000
+Maybe a little more about Simon.
+
+30
+00:03:05,000 --> 00:03:11,000
+I wrote here that you used to work at The Labs, because you worked a lot with Ruby.
+
+31
+00:03:11,000 --> 00:03:17,000
+So, people in the Ruby space in Slovenia know you.
+
+32
+00:03:17,000 --> 00:03:21,000
+Although for a diploma, I later found out that you worked with Elixir,
+
+33
+00:03:21,000 --> 00:03:24,000
+and I think you also worked on some projects with Elixir.
+
+34
+00:03:24,000 --> 00:03:29,000
+I worked with Elixir on Nightwatch for two and a half years.
+
+35
+00:03:29,000 --> 00:03:38,000
+It was a company that scrapes those search engines like Google, Bing, etc.,
+
+36
+00:03:38,000 --> 00:03:45,000
+and then shows how well your page ranks on those search engines,
+
+37
+00:03:45,000 --> 00:03:49,000
+and then recommends you some tasks to optimize,
+
+38
+00:03:49,000 --> 00:03:54,000
+and we wrote the process and pipeline in Elixir.
+
+39
+00:03:54,000 --> 00:03:57,000
+Any special reason?
+
+40
+00:03:57,000 --> 00:04:02,000
+I mean, the system I had before had a lot of problems,
+
+41
+00:04:02,000 --> 00:04:09,000
+which I probably won't remember now, but it was a good reason.
+
+42
+00:04:09,000 --> 00:04:13,000
+I still understand how much the alpha was affecting it.
+
+43
+00:04:13,000 --> 00:04:20,000
+I think that besides Rust, you also use Kotlin a lot in Java.
+
+44
+00:04:20,000 --> 00:04:25,000
+Kotlin, yes, I started using Kotlin on the company I am now,
+
+45
+00:04:25,000 --> 00:04:31,000
+because a large part of the stack is on JVM, so Java, Kotlin.
+
+46
+00:04:31,000 --> 00:04:37,000
+However, due to performance reasons and latency,
+
+47
+00:04:37,000 --> 00:04:42,000
+the components started to overwrite the tasks in Rust.
+
+48
+00:04:42,000 --> 00:04:48,000
+So, I also had to replace the tasks.
+
+49
+00:04:48,000 --> 00:04:51,000
+So, you mix those two languages.
+
+50
+00:04:51,000 --> 00:04:54,000
+Yes, half and half.
+
+51
+00:04:54,000 --> 00:04:59,000
+The main threading engine, which runs all the tasks,
+
+52
+00:04:59,000 --> 00:05:04,000
+is written in Kotlin, and the rest of the microservices around it are in Rust.
+
+53
+00:05:04,000 --> 00:05:09,000
+There is also a plan to rewrite the threading engine,
+
+54
+00:05:09,000 --> 00:05:14,000
+but it's a long-term process.
+
+55
+00:05:14,000 --> 00:05:20,000
+Peter, can you tell us about your experience with Rust?
+
+56
+00:05:20,000 --> 00:05:22,000
+Where did you learn it?
+
+57
+00:05:22,000 --> 00:05:26,000
+Then I will ask Simon a bit more about the story.
+
+58
+00:05:26,000 --> 00:05:32,000
+I don't have any direct experience with Rust.
+
+59
+00:05:32,000 --> 00:05:39,000
+The programming language I used the most to write code was C++.
+
+60
+00:05:39,000 --> 00:05:46,000
+When Rust appeared, I started preparing for it in great detail.
+
+61
+00:05:46,000 --> 00:05:54,000
+About 10 years ago, I made a few mailing lists,
+
+62
+00:05:54,000 --> 00:05:58,000
+prepared the releases, and so on.
+
+63
+00:05:58,000 --> 00:06:00,000
+Something like that.
+
+64
+00:06:00,000 --> 00:06:07,000
+After that, I didn't really need the project to use Rust.
+
+65
+00:06:07,000 --> 00:06:15,000
+I mostly worked with back-end software,
+
+66
+00:06:15,000 --> 00:06:24,000
+because I didn't have to go for every byte or every microsecond of response.
+
+67
+00:06:24,000 --> 00:06:34,000
+Simon, can you tell us where Rust came from?
+
+68
+00:06:34,000 --> 00:06:37,000
+Let's do a soft intro.
+
+69
+00:06:37,000 --> 00:06:39,000
+Where did Rust come from?
+
+70
+00:06:39,000 --> 00:06:43,000
+I don't know if I remember all the details.
+
+71
+00:06:43,000 --> 00:06:48,000
+I think it started with Gredon Hoare,
+
+72
+00:06:48,000 --> 00:06:52,000
+as a personal project of his.
+
+73
+00:06:52,000 --> 00:06:55,000
+I don't know how long he developed it.
+
+74
+00:06:55,000 --> 00:06:57,000
+He used to work with Public.
+
+75
+00:06:57,000 --> 00:06:59,000
+I don't know when exactly.
+
+76
+00:06:59,000 --> 00:07:07,000
+I started preparing the scene around 2012-2013.
+
+77
+00:07:07,000 --> 00:07:10,000
+I was still at Fax.
+
+78
+00:07:10,000 --> 00:07:14,000
+I was preparing the mailing lists,
+
+79
+00:07:14,000 --> 00:07:18,000
+looking at how the language was developing.
+
+80
+00:07:18,000 --> 00:07:21,000
+It really attracted me,
+
+81
+00:07:21,000 --> 00:07:27,000
+because it was an innovation on the scene.
+
+82
+00:07:27,000 --> 00:07:37,000
+You have languages like Java, Python,
+
+83
+00:07:37,000 --> 00:07:40,000
+Interpreter, Virtual Machine,
+
+84
+00:07:40,000 --> 00:07:43,000
+static compiled languages.
+
+85
+00:07:43,000 --> 00:07:45,000
+You have two categories.
+
+86
+00:07:45,000 --> 00:07:50,000
+You have languages that are fully managed.
+
+87
+00:07:50,000 --> 00:07:52,000
+They have a garbage collector,
+
+88
+00:07:52,000 --> 00:07:54,000
+memory storage, etc.
+
+89
+00:07:54,000 --> 00:07:56,000
+You don't need to deal with that.
+
+90
+00:07:56,000 --> 00:07:59,000
+There aren't many languages like that.
+
+91
+00:07:59,000 --> 00:08:01,000
+They don't have JVM,
+
+92
+00:08:01,000 --> 00:08:03,000
+they aren't interpreted,
+
+93
+00:08:03,000 --> 00:08:05,000
+they are static compiled,
+
+94
+00:08:05,000 --> 00:08:07,000
+and they have a garbage collector.
+
+95
+00:08:07,000 --> 00:08:10,000
+The only ones that come to mind are OCaml, Haskell.
+
+96
+00:08:10,000 --> 00:08:13,000
+These are functional languages by nature.
+
+97
+00:08:14,000 --> 00:08:16,000
+On the other hand,
+
+98
+00:08:16,000 --> 00:08:19,000
+you have the unmanaged languages,
+
+99
+00:08:19,000 --> 00:08:21,000
+like C and C++,
+
+100
+00:08:21,000 --> 00:08:25,000
+where you have to deal with the memory.
+
+101
+00:08:25,000 --> 00:08:27,000
+It's a lot safer.
+
+102
+00:08:27,000 --> 00:08:29,000
+You can do whatever you want.
+
+103
+00:08:29,000 --> 00:08:31,000
+You can pick up the memory
+
+104
+00:08:31,000 --> 00:08:33,000
+that isn't allocated anymore.
+
+105
+00:08:33,000 --> 00:08:35,000
+You can deallocate it twice,
+
+106
+00:08:35,000 --> 00:08:38,000
+and everything can happen inside.
+
+107
+00:08:38,000 --> 00:08:41,000
+You have a middle ground.
+
+108
+00:08:42,000 --> 00:08:44,000
+There is a rule
+
+109
+00:08:44,000 --> 00:08:47,000
+that allows you to write programs
+
+110
+00:08:47,000 --> 00:08:50,000
+that are safe,
+
+111
+00:08:50,000 --> 00:08:54,000
+and you don't need a garbage collector.
+
+112
+00:08:56,000 --> 00:08:59,000
+It only works with those rules.
+
+113
+00:08:59,000 --> 00:09:02,000
+Of course, you can't do everything.
+
+114
+00:09:02,000 --> 00:09:04,000
+It's not that expressive.
+
+115
+00:09:04,000 --> 00:09:06,000
+It's not really expressive,
+
+116
+00:09:06,000 --> 00:09:09,000
+but you can't do everything
+
+117
+00:09:09,000 --> 00:09:12,000
+with the unmanaged languages.
+
+118
+00:09:12,000 --> 00:09:14,000
+It has an unsafe keyword.
+
+119
+00:09:14,000 --> 00:09:18,000
+You can't do everything at the same level.
+
+120
+00:09:18,000 --> 00:09:20,000
+That was the innovation
+
+121
+00:09:20,000 --> 00:09:22,000
+that attracted me
+
+122
+00:09:22,000 --> 00:09:26,000
+when I started looking into it.
+
+123
+00:09:27,000 --> 00:09:31,000
+It still has the performance
+
+124
+00:09:31,000 --> 00:09:35,000
+of a low-level C and C++,
+
+125
+00:09:36,000 --> 00:09:38,000
+plus the compiler.
+
+126
+00:09:38,000 --> 00:09:40,000
+At the compiler level,
+
+127
+00:09:40,000 --> 00:09:42,000
+you can buy some errors
+
+128
+00:09:42,000 --> 00:09:44,000
+and potential problems,
+
+129
+00:09:44,000 --> 00:09:46,000
+detect them, prevent them,
+
+130
+00:09:46,000 --> 00:09:48,000
+and remove them.
+
+131
+00:09:48,000 --> 00:09:50,000
+I'll just continue
+
+132
+00:09:50,000 --> 00:09:52,000
+with my first question.
+
+133
+00:09:52,000 --> 00:09:56,000
+Graydon, I hope I pronounced it right,
+
+134
+00:09:56,000 --> 00:09:58,000
+started this project
+
+135
+00:09:58,000 --> 00:10:01,000
+as part of the Mozilla Research.
+
+136
+00:10:01,000 --> 00:10:03,000
+I don't know if it was
+
+137
+00:10:03,000 --> 00:10:05,000
+a Mozilla project,
+
+138
+00:10:05,000 --> 00:10:07,000
+but Mozilla was looking
+
+139
+00:10:07,000 --> 00:10:09,000
+for new technologies
+
+140
+00:10:09,000 --> 00:10:11,000
+that would eliminate
+
+141
+00:10:11,000 --> 00:10:13,000
+a lot of the bugs
+
+142
+00:10:13,000 --> 00:10:16,000
+they had in their browser stack.
+
+143
+00:10:16,000 --> 00:10:19,000
+Most of the problems came
+
+144
+00:10:19,000 --> 00:10:21,000
+from, as you said,
+
+145
+00:10:21,000 --> 00:10:23,000
+preventing some memory,
+
+146
+00:10:23,000 --> 00:10:25,000
+crashing because of pointers,
+
+147
+00:10:25,000 --> 00:10:27,000
+and so on.
+
+148
+00:10:27,000 --> 00:10:29,000
+It was necessary
+
+149
+00:10:29,000 --> 00:10:32,000
+to develop a new language.
+
+150
+00:10:32,000 --> 00:10:34,000
+Yes, especially in browsers.
+
+151
+00:10:34,000 --> 00:10:36,000
+It's a big problem
+
+152
+00:10:36,000 --> 00:10:38,000
+when you expose
+
+153
+00:10:38,000 --> 00:10:40,000
+the runtime of the world.
+
+154
+00:10:40,000 --> 00:10:42,000
+JavaScript is being
+
+155
+00:10:42,000 --> 00:10:44,000
+distributed on local machines.
+
+156
+00:10:44,000 --> 00:10:46,000
+You come to the site,
+
+157
+00:10:46,000 --> 00:10:48,000
+download the code,
+
+158
+00:10:48,000 --> 00:10:50,000
+and it's being distributed.
+
+159
+00:10:50,000 --> 00:10:52,000
+It's really important
+
+160
+00:10:52,000 --> 00:10:54,000
+that the environment
+
+161
+00:10:54,000 --> 00:10:56,000
+is well protected.
+
+162
+00:10:56,000 --> 00:10:58,000
+When I was preparing
+
+163
+00:10:58,000 --> 00:11:00,000
+for this episode,
+
+164
+00:11:00,000 --> 00:11:02,000
+Microsoft Security Response Center
+
+165
+00:11:02,000 --> 00:11:04,000
+and the Chromium Browser Project
+
+166
+00:11:04,000 --> 00:11:06,000
+suggest that 70% of the
+
+167
+00:11:06,000 --> 00:11:08,000
+serious vulnerability
+
+168
+00:11:08,000 --> 00:11:10,000
+of crashes and the like
+
+169
+00:11:10,000 --> 00:11:12,000
+comes from invalid access
+
+170
+00:11:12,000 --> 00:11:14,000
+to memory because of
+
+171
+00:11:14,000 --> 00:11:16,000
+these languages.
+
+172
+00:11:16,000 --> 00:11:18,000
+That's a bullet point
+
+173
+00:11:18,000 --> 00:11:20,000
+that expresses the need
+
+174
+00:11:20,000 --> 00:11:22,000
+for these new technologies.
+
+175
+00:11:22,000 --> 00:11:24,000
+I think it's important
+
+176
+00:11:24,000 --> 00:11:26,000
+that we have
+
+177
+00:11:26,000 --> 00:11:28,000
+a better understanding
+
+178
+00:11:28,000 --> 00:11:30,000
+of the need for these
+
+179
+00:11:30,000 --> 00:11:32,000
+technologies.
+
+180
+00:11:32,000 --> 00:11:34,000
+It also says
+
+181
+00:11:34,000 --> 00:11:36,000
+that Rust would eliminate
+
+182
+00:11:36,000 --> 00:11:38,000
+a whole class of bugs
+
+183
+00:11:38,000 --> 00:11:40,000
+related to
+
+184
+00:11:40,000 --> 00:11:42,000
+this type of
+
+185
+00:11:42,000 --> 00:11:44,000
+vulnerabilities.
+
+186
+00:11:46,000 --> 00:11:48,000
+Let's take a closer look
+
+187
+00:11:48,000 --> 00:11:50,000
+at the difference
+
+188
+00:11:50,000 --> 00:11:52,000
+between
+
+189
+00:11:52,000 --> 00:11:54,000
+Python,
+
+190
+00:11:54,000 --> 00:11:56,000
+Ruby,
+
+191
+00:11:56,000 --> 00:11:58,000
+and dynamic languages.
+
+192
+00:12:02,000 --> 00:12:04,000
+These languages have
+
+193
+00:12:04,000 --> 00:12:06,000
+a bunch of mechanisms
+
+194
+00:12:06,000 --> 00:12:08,000
+that prevent you
+
+195
+00:12:08,000 --> 00:12:10,000
+from doing certain things
+
+196
+00:12:10,000 --> 00:12:12,000
+and give you more
+
+197
+00:12:12,000 --> 00:12:14,000
+safety.
+
+198
+00:12:14,000 --> 00:12:16,000
+Other languages have
+
+199
+00:12:16,000 --> 00:12:18,000
+full control, like C, C++,
+
+200
+00:12:18,000 --> 00:12:20,000
+Assembler, and low-level.
+
+201
+00:12:20,000 --> 00:12:22,000
+Let's take a closer look
+
+202
+00:12:22,000 --> 00:12:24,000
+at why these languages
+
+203
+00:12:24,000 --> 00:12:26,000
+exist,
+
+204
+00:12:26,000 --> 00:12:28,000
+so that we can
+
+205
+00:12:28,000 --> 00:12:30,000
+sort it out.
+
+206
+00:12:30,000 --> 00:12:32,000
+Maybe I should start
+
+207
+00:12:32,000 --> 00:12:34,000
+at the beginning.
+
+208
+00:12:34,000 --> 00:12:36,000
+We're lucky to be
+
+209
+00:12:36,000 --> 00:12:38,000
+among the youngest
+
+210
+00:12:38,000 --> 00:12:40,000
+scientists in the world.
+
+211
+00:12:40,000 --> 00:12:42,000
+Computers started developing
+
+212
+00:12:42,000 --> 00:12:44,000
+in the 30s and 40s,
+
+213
+00:12:44,000 --> 00:12:46,000
+not even centuries ago.
+
+214
+00:12:50,000 --> 00:12:52,000
+In a way,
+
+215
+00:12:52,000 --> 00:12:54,000
+programming languages
+
+216
+00:12:54,000 --> 00:12:56,000
+are somewhat
+
+217
+00:12:56,000 --> 00:12:58,000
+subject to
+
+218
+00:12:58,000 --> 00:13:00,000
+mathematical or
+
+219
+00:13:00,000 --> 00:13:02,000
+computer science
+
+220
+00:13:02,000 --> 00:13:04,000
+discoveries of
+
+221
+00:13:04,000 --> 00:13:06,000
+certain patterns.
+
+222
+00:13:08,000 --> 00:13:10,000
+In the beginning,
+
+223
+00:13:10,000 --> 00:13:12,000
+this was published
+
+224
+00:13:12,000 --> 00:13:14,000
+in a journal.
+
+225
+00:13:14,000 --> 00:13:16,000
+Most of the computer science
+
+226
+00:13:16,000 --> 00:13:18,000
+that we have today
+
+227
+00:13:18,000 --> 00:13:20,000
+was discovered
+
+228
+00:13:20,000 --> 00:13:22,000
+in the 70s.
+
+229
+00:13:22,000 --> 00:13:24,000
+The last ones were
+
+230
+00:13:24,000 --> 00:13:26,000
+in the 70s.
+
+231
+00:13:26,000 --> 00:13:28,000
+But when these things
+
+232
+00:13:28,000 --> 00:13:30,000
+are discovered,
+
+233
+00:13:30,000 --> 00:13:32,000
+it seems to me that
+
+234
+00:13:32,000 --> 00:13:34,000
+the programming languages
+
+235
+00:13:34,000 --> 00:13:36,000
+that we use are
+
+236
+00:13:36,000 --> 00:13:38,000
+gradually disappearing.
+
+237
+00:13:38,000 --> 00:13:40,000
+It's been a long time
+
+238
+00:13:40,000 --> 00:13:42,000
+since I started programming
+
+239
+00:13:42,000 --> 00:13:44,000
+in BASIC and BASIC had GOTO.
+
+240
+00:13:44,000 --> 00:13:46,000
+I programmed it
+
+241
+00:13:46,000 --> 00:13:48,000
+in the 80s,
+
+242
+00:13:48,000 --> 00:13:50,000
+and in 1978,
+
+243
+00:13:50,000 --> 00:13:52,000
+Dijkstra wrote
+
+244
+00:13:52,000 --> 00:13:54,000
+the article GOTO Considered Harmful.
+
+245
+00:13:58,000 --> 00:14:00,000
+We then moved
+
+246
+00:14:00,000 --> 00:14:02,000
+from BASIC to Pascal,
+
+247
+00:14:02,000 --> 00:14:04,000
+which had structured programming
+
+248
+00:14:04,000 --> 00:14:06,000
+and didn't have GOTO,
+
+249
+00:14:06,000 --> 00:14:08,000
+and we saw that without GOTO,
+
+250
+00:14:08,000 --> 00:14:10,000
+it's a very dangerous code.
+
+251
+00:14:12,000 --> 00:14:14,000
+Then came the garbage collectors.
+
+252
+00:14:14,000 --> 00:14:16,000
+Java was the
+
+253
+00:14:16,000 --> 00:14:18,000
+first language
+
+254
+00:14:18,000 --> 00:14:20,000
+that was popular.
+
+255
+00:14:20,000 --> 00:14:22,000
+The first language that
+
+256
+00:14:22,000 --> 00:14:24,000
+had a garbage collector
+
+257
+00:14:24,000 --> 00:14:26,000
+was Lisp in 1958.
+
+258
+00:14:26,000 --> 00:14:28,000
+But it took another
+
+259
+00:14:28,000 --> 00:14:30,000
+30-40 years
+
+260
+00:14:30,000 --> 00:14:32,000
+for people
+
+261
+00:14:32,000 --> 00:14:34,000
+to accept it.
+
+262
+00:14:40,000 --> 00:14:42,000
+Two such discoveries
+
+263
+00:14:42,000 --> 00:14:44,000
+were made.
+
+264
+00:14:48,000 --> 00:14:50,000
+Most of the languages
+
+265
+00:14:50,000 --> 00:14:52,000
+that are still used
+
+266
+00:14:52,000 --> 00:14:54,000
+are the
+
+267
+00:14:54,000 --> 00:14:56,000
+Cary-Howard
+
+268
+00:14:56,000 --> 00:14:58,000
+isomorphic correspondence,
+
+269
+00:14:58,000 --> 00:15:00,000
+also called
+
+270
+00:15:00,000 --> 00:15:02,000
+Hindley-Milner
+
+271
+00:15:02,000 --> 00:15:04,000
+system types,
+
+272
+00:15:04,000 --> 00:15:06,000
+which enable
+
+273
+00:15:06,000 --> 00:15:08,000
+in some way
+
+274
+00:15:08,000 --> 00:15:10,000
+to express
+
+275
+00:15:10,000 --> 00:15:12,000
+the strongly typed
+
+276
+00:15:12,000 --> 00:15:14,000
+and dynamic languages.
+
+277
+00:15:16,000 --> 00:15:18,000
+But you also need
+
+278
+00:15:18,000 --> 00:15:20,000
+to understand that
+
+279
+00:15:20,000 --> 00:15:22,000
+the goal is not
+
+280
+00:15:22,000 --> 00:15:24,000
+strongly typed.
+
+281
+00:15:24,000 --> 00:15:26,000
+You need to write
+
+282
+00:15:26,000 --> 00:15:28,000
+a variable type,
+
+283
+00:15:28,000 --> 00:15:30,000
+but the domain
+
+284
+00:15:30,000 --> 00:15:32,000
+complexity does not allow
+
+285
+00:15:32,000 --> 00:15:34,000
+to express everything in types.
+
+286
+00:15:34,000 --> 00:15:36,000
+And these types,
+
+287
+00:15:36,000 --> 00:15:38,000
+these mathematical
+
+288
+00:15:38,000 --> 00:15:40,000
+and computational discoveries,
+
+289
+00:15:40,000 --> 00:15:42,000
+if possible,
+
+290
+00:15:42,000 --> 00:15:44,000
+when we write a code,
+
+291
+00:15:44,000 --> 00:15:46,000
+the compiler can
+
+292
+00:15:46,000 --> 00:15:48,000
+provide us with mathematical
+
+293
+00:15:48,000 --> 00:15:50,000
+proof that the code is correct.
+
+294
+00:15:52,000 --> 00:15:54,000
+A nice example
+
+295
+00:15:54,000 --> 00:15:56,000
+of a problem that can be solved,
+
+296
+00:15:56,000 --> 00:15:58,000
+which has already been
+
+297
+00:15:58,000 --> 00:16:00,000
+expressed in the last century,
+
+298
+00:16:00,000 --> 00:16:02,000
+is
+
+299
+00:16:02,000 --> 00:16:04,000
+the work of
+
+300
+00:16:04,000 --> 00:16:06,000
+Tony Hoare,
+
+301
+00:16:06,000 --> 00:16:08,000
+the author of
+
+302
+00:16:10,000 --> 00:16:12,000
+I've already forgotten
+
+303
+00:16:12,000 --> 00:16:14,000
+the name of the language.
+
+304
+00:16:14,000 --> 00:16:16,000
+He said that
+
+305
+00:16:16,000 --> 00:16:18,000
+when they wrote the language,
+
+306
+00:16:18,000 --> 00:16:20,000
+they put in the null pointer,
+
+307
+00:16:20,000 --> 00:16:22,000
+or null in Pascal.
+
+308
+00:16:22,000 --> 00:16:24,000
+This was the biggest mistake
+
+309
+00:16:24,000 --> 00:16:26,000
+that we made.
+
+310
+00:16:26,000 --> 00:16:28,000
+He said a multi-billion dollar
+
+311
+00:16:28,000 --> 00:16:30,000
+mistake, but the user
+
+312
+00:16:30,000 --> 00:16:32,000
+was a multi-billion dollar mistake.
+
+313
+00:16:32,000 --> 00:16:34,000
+It's still growing.
+
+314
+00:16:34,000 --> 00:16:36,000
+Yes, it's still growing.
+
+315
+00:16:38,000 --> 00:16:40,000
+And now,
+
+316
+00:16:40,000 --> 00:16:42,000
+after the year 2000,
+
+317
+00:16:42,000 --> 00:16:44,000
+I would say all the
+
+318
+00:16:44,000 --> 00:16:46,000
+published languages that came out
+
+319
+00:16:46,000 --> 00:16:48,000
+after the year 2000
+
+320
+00:16:48,000 --> 00:16:50,000
+are ignoring the progress
+
+321
+00:16:50,000 --> 00:16:52,000
+of type theory
+
+322
+00:16:52,000 --> 00:16:54,000
+and so on.
+
+323
+00:16:54,000 --> 00:16:56,000
+They are ignoring it,
+
+324
+00:16:56,000 --> 00:16:58,000
+and the types that are safe
+
+325
+00:16:58,000 --> 00:17:00,000
+are the null pointer exceptions.
+
+326
+00:17:00,000 --> 00:17:02,000
+If you take, for example,
+
+327
+00:17:02,000 --> 00:17:04,000
+a language that was written before,
+
+328
+00:17:04,000 --> 00:17:06,000
+Java script, Python,
+
+329
+00:17:06,000 --> 00:17:08,000
+and so on,
+
+330
+00:17:08,000 --> 00:17:10,000
+they still have
+
+331
+00:17:10,000 --> 00:17:12,000
+these difficulties with null pointers.
+
+332
+00:17:12,000 --> 00:17:14,000
+But practically everything
+
+333
+00:17:14,000 --> 00:17:16,000
+that came out
+
+334
+00:17:16,000 --> 00:17:18,000
+after the year 2000,
+
+335
+00:17:20,000 --> 00:17:22,000
+here we are talking about
+
+336
+00:17:22,000 --> 00:17:24,000
+Rust, Swift,
+
+337
+00:17:24,000 --> 00:17:26,000
+Nim,
+
+338
+00:17:26,000 --> 00:17:28,000
+Scala,
+
+339
+00:17:28,000 --> 00:17:30,000
+Fsharp, and so on,
+
+340
+00:17:30,000 --> 00:17:32,000
+are languages that
+
+341
+00:17:32,000 --> 00:17:34,000
+have a problem with null pointers.
+
+342
+00:17:34,000 --> 00:17:36,000
+The only
+
+343
+00:17:36,000 --> 00:17:38,000
+exception,
+
+344
+00:17:38,000 --> 00:17:40,000
+the only language that
+
+345
+00:17:40,000 --> 00:17:42,000
+managed to
+
+346
+00:17:42,000 --> 00:17:44,000
+ignore the 20 years of development
+
+347
+00:17:44,000 --> 00:17:46,000
+of these types is Golang.
+
+348
+00:17:46,000 --> 00:17:48,000
+Golang is still
+
+349
+00:17:48,000 --> 00:17:50,000
+the one that
+
+350
+00:17:50,000 --> 00:17:52,000
+ignored it.
+
+351
+00:17:52,000 --> 00:17:54,000
+Intentionally.
+
+352
+00:17:54,000 --> 00:17:56,000
+I will continue.
+
+353
+00:17:56,000 --> 00:17:58,000
+I see that you are working with Kotlin and Java.
+
+354
+00:17:58,000 --> 00:18:00,000
+Petar mentioned
+
+355
+00:18:00,000 --> 00:18:02,000
+Garbage Collection.
+
+356
+00:18:02,000 --> 00:18:04,000
+Can you tell us
+
+357
+00:18:04,000 --> 00:18:06,000
+what is Garbage Collection?
+
+358
+00:18:06,000 --> 00:18:08,000
+Garbage Collection,
+
+359
+00:18:08,000 --> 00:18:10,000
+what is it for?
+
+360
+00:18:10,000 --> 00:18:12,000
+Why is it used?
+
+361
+00:18:12,000 --> 00:18:14,000
+Why
+
+362
+00:18:14,000 --> 00:18:16,000
+do we have to get rid of it?
+
+363
+00:18:16,000 --> 00:18:18,000
+Basically,
+
+364
+00:18:18,000 --> 00:18:20,000
+you have a stack and a heap.
+
+365
+00:18:20,000 --> 00:18:22,000
+The stack is used
+
+366
+00:18:22,000 --> 00:18:24,000
+when you call programs.
+
+367
+00:18:24,000 --> 00:18:26,000
+I don't know how to explain it.
+
+368
+00:18:26,000 --> 00:18:28,000
+But
+
+369
+00:18:28,000 --> 00:18:30,000
+in practice, it's not a big deal
+
+370
+00:18:30,000 --> 00:18:32,000
+when you have to dynamically allocate
+
+371
+00:18:32,000 --> 00:18:34,000
+what size it is.
+
+372
+00:18:34,000 --> 00:18:36,000
+If it goes through an interface
+
+373
+00:18:36,000 --> 00:18:38,000
+or whatever, you have to put it on a heap.
+
+374
+00:18:40,000 --> 00:18:42,000
+And
+
+375
+00:18:42,000 --> 00:18:44,000
+basically,
+
+376
+00:18:44,000 --> 00:18:46,000
+as long as
+
+377
+00:18:46,000 --> 00:18:48,000
+you are a unique owner,
+
+378
+00:18:48,000 --> 00:18:50,000
+when you have this pointer on a heap,
+
+379
+00:18:50,000 --> 00:18:52,000
+out of scope,
+
+380
+00:18:52,000 --> 00:18:54,000
+you know that you can allocate it.
+
+381
+00:18:54,000 --> 00:18:56,000
+Compiler can
+
+382
+00:18:56,000 --> 00:18:58,000
+generate the allocations
+
+383
+00:18:58,000 --> 00:19:00,000
+in the stack, which is necessary.
+
+384
+00:19:00,000 --> 00:19:02,000
+Great.
+
+385
+00:19:02,000 --> 00:19:04,000
+Problems arise
+
+386
+00:19:04,000 --> 00:19:06,000
+when you start making
+
+387
+00:19:06,000 --> 00:19:08,000
+copies, you have more references,
+
+388
+00:19:08,000 --> 00:19:10,000
+you send them between threads,
+
+389
+00:19:10,000 --> 00:19:12,000
+you store them in some structures.
+
+390
+00:19:12,000 --> 00:19:14,000
+Then, basically,
+
+391
+00:19:14,000 --> 00:19:16,000
+you have to get rid of it.
+
+392
+00:19:16,000 --> 00:19:18,000
+But there is still a reference
+
+393
+00:19:18,000 --> 00:19:20,000
+to the object.
+
+394
+00:19:20,000 --> 00:19:22,000
+The garbage collector comes in
+
+395
+00:19:22,000 --> 00:19:24,000
+and you have
+
+396
+00:19:24,000 --> 00:19:26,000
+more implementation of it.
+
+397
+00:19:26,000 --> 00:19:28,000
+The most popular
+
+398
+00:19:28,000 --> 00:19:30,000
+is this variant
+
+399
+00:19:30,000 --> 00:19:32,000
+where you scan the heap.
+
+400
+00:19:32,000 --> 00:19:34,000
+So, every so often, you go through the heap
+
+401
+00:19:34,000 --> 00:19:36,000
+and check if there are any more references
+
+402
+00:19:36,000 --> 00:19:38,000
+to it,
+
+403
+00:19:38,000 --> 00:19:40,000
+and if there aren't, you clean them.
+
+404
+00:19:40,000 --> 00:19:42,000
+The problem is
+
+405
+00:19:42,000 --> 00:19:44,000
+and
+
+406
+00:19:44,000 --> 00:19:46,000
+I think it's more of a niche problem
+
+407
+00:19:46,000 --> 00:19:48,000
+to some extent,
+
+408
+00:19:48,000 --> 00:19:50,000
+because I think that 90% of the software
+
+409
+00:19:50,000 --> 00:19:52,000
+won't have a problem with it.
+
+410
+00:19:52,000 --> 00:19:54,000
+It's this flyer.
+
+411
+00:19:54,000 --> 00:19:56,000
+Garbage collector can fly anywhere,
+
+412
+00:19:56,000 --> 00:19:58,000
+interrupt the development of the program
+
+413
+00:19:58,000 --> 00:20:00,000
+and manage the housekeeping.
+
+414
+00:20:00,000 --> 00:20:02,000
+Does it block
+
+415
+00:20:02,000 --> 00:20:04,000
+execution or what?
+
+416
+00:20:04,000 --> 00:20:06,000
+In the beginning, yes.
+
+417
+00:20:06,000 --> 00:20:08,000
+You have a lot of different implementations
+
+418
+00:20:08,000 --> 00:20:10,000
+that have different advantages
+
+419
+00:20:10,000 --> 00:20:12,000
+and disadvantages.
+
+420
+00:20:12,000 --> 00:20:14,000
+But in the beginning,
+
+421
+00:20:14,000 --> 00:20:16,000
+you risk performance.
+
+422
+00:20:16,000 --> 00:20:18,000
+If you have a garbage collection,
+
+423
+00:20:18,000 --> 00:20:20,000
+it will cause
+
+424
+00:20:20,000 --> 00:20:22,000
+a delay or latency.
+
+425
+00:20:22,000 --> 00:20:24,000
+You say,
+
+426
+00:20:24,000 --> 00:20:26,000
+okay, I will rarely run a garbage collection,
+
+427
+00:20:26,000 --> 00:20:28,000
+but if I do,
+
+428
+00:20:28,000 --> 00:20:30,000
+there will be a lot of latency
+
+429
+00:20:30,000 --> 00:20:32,000
+for a request that will be blocked
+
+430
+00:20:32,000 --> 00:20:34,000
+for a long time.
+
+431
+00:20:34,000 --> 00:20:36,000
+And then there are
+
+432
+00:20:36,000 --> 00:20:38,000
+different hacks
+
+433
+00:20:38,000 --> 00:20:40,000
+on how to optimize it.
+
+434
+00:20:40,000 --> 00:20:42,000
+I know that Java has
+
+435
+00:20:42,000 --> 00:20:44,000
+different implementations of garbage collectors.
+
+436
+00:20:44,000 --> 00:20:46,000
+You have a lot of parameters
+
+437
+00:20:46,000 --> 00:20:48,000
+that you can tune.
+
+438
+00:20:48,000 --> 00:20:50,000
+Go also has
+
+439
+00:20:50,000 --> 00:20:52,000
+parameters that you can tune
+
+440
+00:20:52,000 --> 00:20:54,000
+when it takes a long time to return
+
+441
+00:20:54,000 --> 00:20:56,000
+the idea.
+
+442
+00:20:56,000 --> 00:20:58,000
+Garbage collector
+
+443
+00:20:58,000 --> 00:21:00,000
+is universal,
+
+444
+00:21:00,000 --> 00:21:02,000
+but it's not like that.
+
+445
+00:21:02,000 --> 00:21:04,000
+Garbage collection,
+
+446
+00:21:04,000 --> 00:21:06,000
+when you're doing software
+
+447
+00:21:06,000 --> 00:21:08,000
+at such a level that it's a daily problem,
+
+448
+00:21:08,000 --> 00:21:10,000
+you have to tune it
+
+449
+00:21:10,000 --> 00:21:12,000
+in a proxy.
+
+450
+00:21:12,000 --> 00:21:14,000
+We've already mentioned Go twice.
+
+451
+00:21:14,000 --> 00:21:16,000
+Maybe everyone can answer
+
+452
+00:21:16,000 --> 00:21:18,000
+this question.
+
+453
+00:21:18,000 --> 00:21:20,000
+The main difference
+
+454
+00:21:20,000 --> 00:21:22,000
+between Rust and Go
+
+455
+00:21:22,000 --> 00:21:24,000
+is the
+
+456
+00:21:24,000 --> 00:21:26,000
+runtime that Go has.
+
+457
+00:21:26,000 --> 00:21:28,000
+Okay, let's leave
+
+458
+00:21:28,000 --> 00:21:30,000
+syntax aside, but
+
+459
+00:21:30,000 --> 00:21:32,000
+does it make it the biggest...
+
+460
+00:21:32,000 --> 00:21:34,000
+That's definitely one difference
+
+461
+00:21:34,000 --> 00:21:36,000
+that Go has
+
+462
+00:21:36,000 --> 00:21:38,000
+runtime.
+
+463
+00:21:38,000 --> 00:21:40,000
+In runtime,
+
+464
+00:21:40,000 --> 00:21:42,000
+you can still have garbage collection.
+
+465
+00:21:42,000 --> 00:21:44,000
+Go also has
+
+466
+00:21:44,000 --> 00:21:46,000
+a thing called
+
+467
+00:21:46,000 --> 00:21:48,000
+Go routines,
+
+468
+00:21:48,000 --> 00:21:50,000
+which are
+
+469
+00:21:50,000 --> 00:21:52,000
+lightweight threads.
+
+470
+00:21:52,000 --> 00:21:54,000
+Threads
+
+471
+00:21:54,000 --> 00:21:56,000
+that are not
+
+472
+00:21:56,000 --> 00:21:58,000
+system threads, but
+
+473
+00:21:58,000 --> 00:22:00,000
+Go runtime system manages them.
+
+474
+00:22:00,000 --> 00:22:02,000
+It says, okay, for this, then switch to the other.
+
+475
+00:22:02,000 --> 00:22:04,000
+Those things.
+
+476
+00:22:04,000 --> 00:22:06,000
+I guess
+
+477
+00:22:06,000 --> 00:22:08,000
+the biggest difference is
+
+478
+00:22:08,000 --> 00:22:10,000
+that
+
+479
+00:22:10,000 --> 00:22:12,000
+Go is
+
+480
+00:22:12,000 --> 00:22:14,000
+a very minimal language,
+
+481
+00:22:14,000 --> 00:22:16,000
+which I understand.
+
+482
+00:22:16,000 --> 00:22:18,000
+It's just a legit requirement.
+
+483
+00:22:18,000 --> 00:22:20,000
+The advantage of that is
+
+484
+00:22:20,000 --> 00:22:22,000
+that you can learn Go
+
+485
+00:22:22,000 --> 00:22:24,000
+in a few days.
+
+486
+00:22:24,000 --> 00:22:26,000
+So
+
+487
+00:22:26,000 --> 00:22:28,000
+that's why the type system is
+
+488
+00:22:28,000 --> 00:22:30,000
+very simple.
+
+489
+00:22:30,000 --> 00:22:32,000
+While Rust
+
+490
+00:22:32,000 --> 00:22:34,000
+is still
+
+491
+00:22:34,000 --> 00:22:36,000
+very complex.
+
+492
+00:22:36,000 --> 00:22:38,000
+We will have, I don't know,
+
+493
+00:22:38,000 --> 00:22:40,000
+generics, everything.
+
+494
+00:22:40,000 --> 00:22:42,000
+It really is a complex language.
+
+495
+00:22:42,000 --> 00:22:44,000
+It's not as complex as C++.
+
+496
+00:22:44,000 --> 00:22:46,000
+C++ is, I don't know how much
+
+497
+00:22:46,000 --> 00:22:48,000
+legacy it steals inside.
+
+498
+00:22:48,000 --> 00:22:50,000
+I don't know how much
+
+499
+00:22:50,000 --> 00:22:52,000
+it negotiates with the committee
+
+500
+00:22:52,000 --> 00:22:54,000
+how it will be developed.
+
+501
+00:22:54,000 --> 00:22:56,000
+Every party has
+
+502
+00:22:56,000 --> 00:22:58,000
+some kind of requirement
+
+503
+00:22:58,000 --> 00:23:00,000
+that they want to make inside and then get out.
+
+504
+00:23:00,000 --> 00:23:02,000
+That
+
+505
+00:23:02,000 --> 00:23:04,000
+is the monstrosity of C++.
+
+506
+00:23:04,000 --> 00:23:06,000
+Okay, let's leave it at that.
+
+507
+00:23:08,000 --> 00:23:10,000
+Okay.
+
+508
+00:23:10,000 --> 00:23:12,000
+If there was a next question,
+
+509
+00:23:12,000 --> 00:23:14,000
+what is the biggest difference between Rust
+
+510
+00:23:14,000 --> 00:23:16,000
+and C++,
+
+511
+00:23:16,000 --> 00:23:18,000
+it would probably be that
+
+512
+00:23:18,000 --> 00:23:20,000
+it seems that Rust
+
+513
+00:23:20,000 --> 00:23:22,000
+started with
+
+514
+00:23:22,000 --> 00:23:24,000
+better
+
+515
+00:23:24,000 --> 00:23:26,000
+ergonomic
+
+516
+00:23:26,000 --> 00:23:28,000
+toolsets.
+
+517
+00:23:28,000 --> 00:23:30,000
+It seems that
+
+518
+00:23:30,000 --> 00:23:32,000
+they took some
+
+519
+00:23:32,000 --> 00:23:34,000
+knowledge from the industry
+
+520
+00:23:34,000 --> 00:23:36,000
+and said, let's start from here,
+
+521
+00:23:36,000 --> 00:23:38,000
+we won't bring things back.
+
+522
+00:23:38,000 --> 00:23:40,000
+I still see that C++
+
+523
+00:23:40,000 --> 00:23:42,000
+is developing,
+
+524
+00:23:42,000 --> 00:23:44,000
+it's standard, it's nice,
+
+525
+00:23:44,000 --> 00:23:46,000
+but I still think
+
+526
+00:23:46,000 --> 00:23:48,000
+it's a clean slate.
+
+527
+00:23:48,000 --> 00:23:50,000
+It's not just...
+
+528
+00:23:50,000 --> 00:23:52,000
+It's a clean slate, yes.
+
+529
+00:23:52,000 --> 00:23:54,000
+A big part of the C++ problem
+
+530
+00:23:54,000 --> 00:23:56,000
+is that it inherits a lot of things
+
+531
+00:23:56,000 --> 00:23:58,000
+from C.
+
+532
+00:23:58,000 --> 00:24:00,000
+It seems to me that if they designed
+
+533
+00:24:00,000 --> 00:24:02,000
+C++ anew, they would copy
+
+534
+00:24:02,000 --> 00:24:04,000
+a lot of things from C++.
+
+535
+00:24:04,000 --> 00:24:06,000
+I don't have
+
+536
+00:24:06,000 --> 00:24:08,000
+enough experience to be able
+
+537
+00:24:08,000 --> 00:24:10,000
+to say how C++ developed,
+
+538
+00:24:10,000 --> 00:24:12,000
+but you probably have
+
+539
+00:24:12,000 --> 00:24:14,000
+more. I don't know where they started
+
+540
+00:24:14,000 --> 00:24:16,000
+adding
+
+541
+00:24:16,000 --> 00:24:18,000
+unique pointers, shared pointers
+
+542
+00:24:18,000 --> 00:24:20,000
+and things like that.
+
+543
+00:24:20,000 --> 00:24:22,000
+A small mention of the things that Rust has.
+
+544
+00:24:22,000 --> 00:24:24,000
+Everything is later
+
+545
+00:24:24,000 --> 00:24:26,000
+than C++.
+
+546
+00:24:26,000 --> 00:24:28,000
+I think it would be a good example
+
+547
+00:24:28,000 --> 00:24:30,000
+if they started inheriting
+
+548
+00:24:30,000 --> 00:24:32,000
+a lot of things from C.
+
+549
+00:24:32,000 --> 00:24:34,000
+I would say
+
+550
+00:24:34,000 --> 00:24:36,000
+that
+
+551
+00:24:36,000 --> 00:24:38,000
+the old languages
+
+552
+00:24:38,000 --> 00:24:40,000
+have a big problem
+
+553
+00:24:40,000 --> 00:24:42,000
+that when new concepts
+
+554
+00:24:42,000 --> 00:24:44,000
+appear, they want
+
+555
+00:24:44,000 --> 00:24:46,000
+to screw new concepts
+
+556
+00:24:46,000 --> 00:24:48,000
+on top of that.
+
+557
+00:24:48,000 --> 00:24:50,000
+And then you have a lot of ways
+
+558
+00:24:50,000 --> 00:24:52,000
+to do the same thing.
+
+559
+00:24:52,000 --> 00:24:54,000
+For example,
+
+560
+00:24:54,000 --> 00:24:56,000
+C++
+
+561
+00:24:56,000 --> 00:24:58,000
+has a lot of
+
+562
+00:24:58,000 --> 00:25:00,000
+difficulties with that.
+
+563
+00:25:00,000 --> 00:25:09,000
+It went through a different geological period, the Triassic period, and now every time something has stopped.
+
+564
+00:25:09,000 --> 00:25:16,000
+And that's why I forgot, before we talked about how it came about, as far as I understand,
+
+565
+00:25:16,000 --> 00:25:20,000
+Gordon Hoare first wrote C++ Compiler.
+
+566
+00:25:20,000 --> 00:25:23,000
+And he said, that's the stuff.
+
+567
+00:25:23,000 --> 00:25:27,000
+Today we know how to make a programming language that is much better.
+
+568
+00:25:27,000 --> 00:25:35,000
+And many of these modern, clean, beautiful programming languages were created in this way.
+
+569
+00:25:35,000 --> 00:25:42,000
+For example...
+
+570
+00:25:42,000 --> 00:25:45,000
+For him, if you want to know.
+
+571
+00:25:45,000 --> 00:25:49,000
+I don't know about him, but for example...
+
+572
+00:25:49,000 --> 00:25:52,000
+Wait, let me try.
+
+573
+00:25:52,000 --> 00:25:54,000
+You wrote it.
+
+574
+00:25:54,000 --> 00:25:57,000
+For example, Scala.
+
+575
+00:25:57,000 --> 00:26:04,000
+Martin Odersky first wrote a similar language for Java Runtime, called Pizza.
+
+576
+00:26:04,000 --> 00:26:12,000
+Before that, he wrote a system of generics for Java, which later became Java Generics.
+
+577
+00:26:12,000 --> 00:26:16,000
+And then he saw, that Java can be added to C++.
+
+578
+00:26:16,000 --> 00:26:27,000
+And if he took these things from the ground up, he could write a much smaller and more complex language.
+
+579
+00:26:27,000 --> 00:26:30,000
+And that's how Scala came about.
+
+580
+00:26:30,000 --> 00:26:33,000
+For example, I like F Sharp.
+
+581
+00:26:33,000 --> 00:26:40,000
+Don Syme, the author of F Sharp, was the first person to write generics for C Sharp.
+
+582
+00:26:41,000 --> 00:26:50,000
+And so he says, that people who understand these systems of types in programming languages,
+
+583
+00:26:50,000 --> 00:26:55,000
+who know what to do with types, can write good languages.
+
+584
+00:26:55,000 --> 00:27:01,000
+But it's harder to take a programming language, which already exists, and then add types to it.
+
+585
+00:27:01,000 --> 00:27:04,000
+Which is very popular now.
+
+586
+00:27:04,000 --> 00:27:07,000
+TypeScript, Rust, Ruby.
+
+587
+00:27:07,000 --> 00:27:09,000
+And also Go.
+
+588
+00:27:09,000 --> 00:27:12,000
+They added it to generics.
+
+589
+00:27:12,000 --> 00:27:13,000
+Yes.
+
+590
+00:27:13,000 --> 00:27:16,000
+Now, some people only get types.
+
+591
+00:27:16,000 --> 00:27:22,000
+For example, PHP gets types, but then they quickly realize that they need something from generics.
+
+592
+00:27:22,000 --> 00:27:25,000
+And then you ask yourself, where are we going?
+
+593
+00:27:25,000 --> 00:27:28,000
+Are we going to make High-Kinded Types?
+
+594
+00:27:28,000 --> 00:27:30,000
+On PHP?
+
+595
+00:27:30,000 --> 00:27:32,000
+On PHP, yes.
+
+596
+00:27:32,000 --> 00:27:37,000
+Maybe I'm wrong here.
+
+597
+00:27:37,000 --> 00:27:42,000
+I think these languages are as good as they are.
+
+598
+00:27:42,000 --> 00:27:45,000
+You have to decide where to go.
+
+599
+00:27:45,000 --> 00:27:49,000
+Here I have some goals for Rust.
+
+600
+00:27:49,000 --> 00:27:53,000
+First, we have safety.
+
+601
+00:27:53,000 --> 00:27:56,000
+Then we have productivity.
+
+602
+00:27:56,000 --> 00:27:58,000
+This is also one of the goals of this language.
+
+603
+00:27:58,000 --> 00:27:59,000
+Then control.
+
+604
+00:27:59,000 --> 00:28:02,000
+We talked a little about where to control.
+
+605
+00:28:02,000 --> 00:28:04,000
+Then we have these big features.
+
+606
+00:28:04,000 --> 00:28:06,000
+Now, if we go a little more to safety.
+
+607
+00:28:06,000 --> 00:28:08,000
+We talked a little about dangling pointers.
+
+608
+00:28:08,000 --> 00:28:13,000
+And in GCC, for example, it's a little bit connected.
+
+609
+00:28:13,000 --> 00:28:16,000
+Then a little more about data races.
+
+610
+00:28:16,000 --> 00:28:19,000
+Can you maybe explain to us, Simon,
+
+611
+00:28:19,000 --> 00:28:25,000
+how does Rust handle these data races?
+
+612
+00:28:25,000 --> 00:28:27,000
+Can you describe it to us?
+
+613
+00:28:27,000 --> 00:28:29,000
+Yes.
+
+614
+00:28:29,000 --> 00:28:32,000
+Let's leave the type safety for now.
+
+615
+00:28:32,000 --> 00:28:36,000
+Let's just go to memory safety.
+
+616
+00:28:36,000 --> 00:28:40,000
+How Rust handles it is really interesting.
+
+617
+00:28:40,000 --> 00:28:46,000
+The main advantage of Rust is that you always have one owner.
+
+618
+00:28:46,000 --> 00:28:48,000
+Some changes.
+
+619
+00:28:48,000 --> 00:28:53,000
+It turns out that if you have it, it's much easier to know what's going on around it.
+
+620
+00:28:53,000 --> 00:28:56,000
+Then you have something called borrowing.
+
+621
+00:28:56,000 --> 00:29:00,000
+It's similar to C++, where you have references.
+
+622
+00:29:00,000 --> 00:29:05,000
+It's just that in the compiler, it's more about borrowing.
+
+623
+00:29:05,000 --> 00:29:12,000
+You can borrow a variable called shared borrow.
+
+624
+00:29:12,000 --> 00:29:13,000
+What does it mean?
+
+625
+00:29:13,000 --> 00:29:17,000
+If it's shared borrow, you can have one or two views
+
+626
+00:29:17,000 --> 00:29:19,000
+of how much you want to look at that variable.
+
+627
+00:29:19,000 --> 00:29:22,000
+But you don't have to mutate it.
+
+628
+00:29:23,000 --> 00:29:27,000
+Then you have mutable borrow, where you can only have one borrow.
+
+629
+00:29:27,000 --> 00:29:31,000
+If you have one mutable borrow, you can't have any shared borrow.
+
+630
+00:29:31,000 --> 00:29:34,000
+It's the only borrow you can have.
+
+631
+00:29:37,000 --> 00:29:45,000
+With these rules, you can solve a variety of problems.
+
+632
+00:29:45,000 --> 00:29:49,000
+Even the data race problem as it's called.
+
+633
+00:29:50,000 --> 00:29:57,000
+If you only have one view that you can write in the compiler,
+
+634
+00:29:57,000 --> 00:30:00,000
+and you know that no one else can look at it,
+
+635
+00:30:00,000 --> 00:30:03,000
+you have mutex.
+
+636
+00:30:03,000 --> 00:30:05,000
+Muteministic.
+
+637
+00:30:05,000 --> 00:30:11,000
+The best example, if you look at the shared borrowing,
+
+638
+00:30:11,000 --> 00:30:15,000
+mutable borrowing, it's like a read-write lock.
+
+639
+00:30:15,000 --> 00:30:18,000
+You can have more readers, but only one writer.
+
+640
+00:30:21,000 --> 00:30:26,000
+It's really interesting how this problem of single-threading,
+
+641
+00:30:26,000 --> 00:30:29,000
+when you say you want to borrow,
+
+642
+00:30:29,000 --> 00:30:34,000
+how it's easy to deallocate a part of one thread
+
+643
+00:30:34,000 --> 00:30:37,000
+into multiple threads.
+
+644
+00:30:39,000 --> 00:30:43,000
+What you change, the compiler tells you.
+
+645
+00:30:43,000 --> 00:30:46,000
+If you want to use the compiler, do you have to borrow,
+
+646
+00:30:46,000 --> 00:30:49,000
+or do you have to define a scope?
+
+647
+00:30:49,000 --> 00:30:52,000
+The compiler tells you.
+
+648
+00:30:52,000 --> 00:31:00,000
+Similar to C++, you can't copy from the compiler.
+
+649
+00:31:00,000 --> 00:31:03,000
+You can only have references.
+
+650
+00:31:03,000 --> 00:31:06,000
+You can't copy, you can't delete.
+
+651
+00:31:06,000 --> 00:31:09,000
+You just want to have a reference on it.
+
+652
+00:31:09,000 --> 00:31:12,000
+Then you have to annotate,
+
+653
+00:31:14,000 --> 00:31:17,000
+for example, if you have a function that prepares,
+
+654
+00:31:17,000 --> 00:31:19,000
+which you write, and someone prepares a loop,
+
+655
+00:31:19,000 --> 00:31:22,000
+you have to know that this parameter goes through a shared reference,
+
+656
+00:31:22,000 --> 00:31:25,000
+or a mutable reference.
+
+657
+00:31:25,000 --> 00:31:28,000
+That's how you would annotate it.
+
+658
+00:31:28,000 --> 00:31:34,000
+I know for those who don't come from C++ world,
+
+659
+00:31:34,000 --> 00:31:39,000
+and if they haven't watched this podcast yet,
+
+660
+00:31:39,000 --> 00:31:46,000
+I would say that if everything you hear now is very advanced,
+
+661
+00:31:46,000 --> 00:31:49,000
+maybe if you don't have that background,
+
+662
+00:31:49,000 --> 00:31:52,000
+maybe it's a little scary,
+
+663
+00:31:52,000 --> 00:31:55,000
+but the compiler is very friendly,
+
+664
+00:31:55,000 --> 00:31:59,000
+it tells you ergonomically what you're doing,
+
+665
+00:31:59,000 --> 00:32:02,000
+and that's the true power of all of this.
+
+666
+00:32:02,000 --> 00:32:07,000
+A lot of people have invested in this developer experience.
+
+667
+00:32:07,000 --> 00:32:10,000
+When you have a problem with a bar,
+
+668
+00:32:10,000 --> 00:32:13,000
+it shows you exactly what is here,
+
+669
+00:32:13,000 --> 00:32:16,000
+you barred it here, you barred it here,
+
+670
+00:32:16,000 --> 00:32:18,000
+you can't do it here.
+
+671
+00:32:18,000 --> 00:32:20,000
+It won't tell you what to fix,
+
+672
+00:32:20,000 --> 00:32:23,000
+because it depends on what you want to do,
+
+673
+00:32:23,000 --> 00:32:26,000
+but it's very clear to you where the problem is.
+
+674
+00:32:26,000 --> 00:32:29,000
+I would also ask you,
+
+675
+00:32:29,000 --> 00:32:33,000
+under safety it says buffer overflow,
+
+676
+00:32:33,000 --> 00:32:36,000
+iterator invalidation,
+
+677
+00:32:36,000 --> 00:32:41,000
+are those things that can be fixed
+
+678
+00:32:41,000 --> 00:32:44,000
+because of a good track?
+
+679
+00:32:44,000 --> 00:32:47,000
+Yes, especially iterator invalidation,
+
+680
+00:32:47,000 --> 00:32:51,000
+because you can fix it with the exclusivity,
+
+681
+00:32:51,000 --> 00:32:54,000
+mutable bar or shared bar,
+
+682
+00:32:54,000 --> 00:32:57,000
+but if you change the array,
+
+683
+00:32:57,000 --> 00:32:59,000
+when you iterate,
+
+684
+00:32:59,000 --> 00:33:01,000
+then I think it's all right,
+
+685
+00:33:01,000 --> 00:33:03,000
+you don't have to do it alone,
+
+686
+00:33:03,000 --> 00:33:05,000
+you have three arrays,
+
+687
+00:33:05,000 --> 00:33:10,000
+but if you don't follow the rules,
+
+688
+00:33:10,000 --> 00:33:15,000
+then the compiler will turn itself around.
+
+689
+00:33:15,000 --> 00:33:18,000
+Okay, I think it's good to understand,
+
+690
+00:33:18,000 --> 00:33:21,000
+do you have anything else to add?
+
+691
+00:33:22,000 --> 00:33:27,000
+I will try to say this at a very high level.
+
+692
+00:33:27,000 --> 00:33:30,000
+People have a typical difficulty
+
+693
+00:33:30,000 --> 00:33:33,000
+in thinking about situations
+
+694
+00:33:33,000 --> 00:33:37,000
+where a lot of things happen at once.
+
+695
+00:33:37,000 --> 00:33:40,000
+That's why this parallel code is so difficult.
+
+696
+00:33:40,000 --> 00:33:44,000
+Functional language typically solves this
+
+697
+00:33:44,000 --> 00:33:47,000
+in such a way that it tries to have
+
+698
+00:33:47,000 --> 00:33:51,000
+immutable data structures,
+
+699
+00:33:51,000 --> 00:33:54,000
+but it turns out that this is not
+
+700
+00:33:54,000 --> 00:33:57,000
+the best for performance.
+
+701
+00:33:57,000 --> 00:34:00,000
+It takes a little more time,
+
+702
+00:34:00,000 --> 00:34:02,000
+the program flows,
+
+703
+00:34:02,000 --> 00:34:05,000
+grows, and then it can be 20% faster,
+
+704
+00:34:05,000 --> 00:34:07,000
+or 30%.
+
+705
+00:34:07,000 --> 00:34:09,000
+Most languages,
+
+706
+00:34:09,000 --> 00:34:12,000
+if they don't deal with this problem,
+
+707
+00:34:12,000 --> 00:34:14,000
+give you a mutex,
+
+708
+00:34:15,000 --> 00:34:18,000
+a functional language that tries
+
+709
+00:34:18,000 --> 00:34:21,000
+to give you immutable data structures.
+
+710
+00:34:21,000 --> 00:34:23,000
+A language like Rust grows
+
+711
+00:34:23,000 --> 00:34:26,000
+because the compiler wants to know it
+
+712
+00:34:26,000 --> 00:34:28,000
+instead of you,
+
+713
+00:34:28,000 --> 00:34:30,000
+or in all parts.
+
+714
+00:34:30,000 --> 00:34:33,000
+Sometimes it's difficult to understand
+
+715
+00:34:33,000 --> 00:34:35,000
+the whole semantics,
+
+716
+00:34:35,000 --> 00:34:37,000
+the compiler can't,
+
+717
+00:34:37,000 --> 00:34:39,000
+but it comes very close,
+
+718
+00:34:39,000 --> 00:34:42,000
+so you can write code without all the
+
+719
+00:34:42,000 --> 00:34:44,000
+problems that arise.
+
+720
+00:34:44,000 --> 00:34:47,000
+One thing that we mentioned
+
+721
+00:34:47,000 --> 00:34:50,000
+when we were talking about Rust and C++,
+
+722
+00:34:50,000 --> 00:34:52,000
+is that when I said that
+
+723
+00:34:52,000 --> 00:34:55,000
+functional languages arise in layers,
+
+724
+00:34:55,000 --> 00:34:57,000
+C++ also happens later,
+
+725
+00:34:57,000 --> 00:34:59,000
+in the generics,
+
+726
+00:34:59,000 --> 00:35:02,000
+when Golang gets them.
+
+727
+00:35:02,000 --> 00:35:05,000
+And then it turned out that
+
+728
+00:35:05,000 --> 00:35:09,000
+you also want to have some mathematical
+
+729
+00:35:10,000 --> 00:35:14,000
+rule, so that it happens algebraically.
+
+730
+00:35:14,000 --> 00:35:16,000
+And then, through C++,
+
+731
+00:35:16,000 --> 00:35:19,000
+an additional programming language
+
+732
+00:35:19,000 --> 00:35:21,000
+was created,
+
+733
+00:35:21,000 --> 00:35:23,000
+which is Turing Complete,
+
+734
+00:35:23,000 --> 00:35:26,000
+where you can write call software
+
+735
+00:35:26,000 --> 00:35:28,000
+in the C++ generics.
+
+736
+00:35:28,000 --> 00:35:30,000
+But then you learn C,
+
+737
+00:35:30,000 --> 00:35:32,000
+and then C++,
+
+738
+00:35:32,000 --> 00:35:34,000
+and then C++,
+
+739
+00:35:34,000 --> 00:35:36,000
+and then C++.
+
+740
+00:35:36,000 --> 00:35:38,000
+Then you learn C++,
+
+741
+00:35:38,000 --> 00:35:40,000
+and then you learn
+
+742
+00:35:40,000 --> 00:35:42,000
+another additional language,
+
+743
+00:35:42,000 --> 00:35:44,000
+so that you can write
+
+744
+00:35:44,000 --> 00:35:46,000
+generics in C++.
+
+745
+00:35:46,000 --> 00:35:49,000
+This is extremely powerful,
+
+746
+00:35:49,000 --> 00:35:52,000
+but Rust, which came later,
+
+747
+00:35:52,000 --> 00:35:55,000
+tried very hard to make
+
+748
+00:35:55,000 --> 00:35:58,000
+the language in which generics
+
+749
+00:35:58,000 --> 00:36:00,000
+are described,
+
+750
+00:36:00,000 --> 00:36:03,000
+or all the metaprogramming,
+
+751
+00:36:04,000 --> 00:36:07,000
+that it's the same syntax as Rust,
+
+752
+00:36:07,000 --> 00:36:10,000
+so that the amount of new things
+
+753
+00:36:10,000 --> 00:36:14,000
+and concepts that you need to understand
+
+754
+00:36:14,000 --> 00:36:17,000
+if you want to learn Rust,
+
+755
+00:36:17,000 --> 00:36:20,000
+is less than for C++.
+
+756
+00:36:20,000 --> 00:36:25,000
+Both of these languages are complex.
+
+757
+00:36:25,000 --> 00:36:28,000
+I have a question for you.
+
+758
+00:36:28,000 --> 00:36:32,000
+Rust compiler depends on LLVM,
+
+759
+00:36:32,000 --> 00:36:35,000
+can you explain that a bit?
+
+760
+00:36:35,000 --> 00:36:38,000
+Compiler, contact, depends on
+
+761
+00:36:38,000 --> 00:36:40,000
+another compiler.
+
+762
+00:36:40,000 --> 00:36:43,000
+Can you explain that a bit?
+
+763
+00:36:43,000 --> 00:36:46,000
+It's a very important question.
+
+764
+00:36:46,000 --> 00:36:49,000
+Yes, it's a very important question,
+
+765
+00:36:49,000 --> 00:36:52,000
+but I can explain it quickly.
+
+766
+00:36:52,000 --> 00:36:55,000
+I don't know if it's true,
+
+767
+00:36:55,000 --> 00:36:58,000
+but LLVM is a backend,
+
+768
+00:36:58,000 --> 00:37:01,000
+and Rust compiler generates
+
+769
+00:37:01,000 --> 00:37:04,000
+LLVM bytecode.
+
+770
+00:37:04,000 --> 00:37:07,000
+LLVM is defined as a bytecode language,
+
+771
+00:37:07,000 --> 00:37:10,000
+which it then transforms
+
+772
+00:37:10,000 --> 00:37:13,000
+into machine code.
+
+773
+00:37:13,000 --> 00:37:16,000
+Why would you want that?
+
+774
+00:37:16,000 --> 00:37:19,000
+It's very useful,
+
+775
+00:37:19,000 --> 00:37:22,000
+because you can generate local code
+
+776
+00:37:22,000 --> 00:37:25,000
+which is much easier than
+
+777
+00:37:25,000 --> 00:37:28,000
+high-level assembler code.
+
+778
+00:37:28,000 --> 00:37:31,000
+If you have LLVM,
+
+779
+00:37:31,000 --> 00:37:34,000
+you can find all the optimizations
+
+780
+00:37:34,000 --> 00:37:37,000
+on LLVM, and you can program
+
+781
+00:37:37,000 --> 00:37:40,000
+more languages that only target LLVM,
+
+782
+00:37:40,000 --> 00:37:43,000
+and then skip all the optimizations,
+
+783
+00:37:43,000 --> 00:37:46,000
+or if you want to target other platforms
+
+784
+00:37:46,000 --> 00:37:49,000
+like ARM or other architectures,
+
+785
+00:37:49,000 --> 00:37:52,000
+basically, it will handle all of that.
+
+786
+00:37:52,000 --> 00:37:55,000
+So you can compile Rust code,
+
+787
+00:37:55,000 --> 00:37:58,000
+from microcontrollers,
+
+788
+00:37:58,000 --> 00:38:01,000
+to WebAssembly,
+
+789
+00:38:01,000 --> 00:38:04,000
+that power comes from LLVM?
+
+790
+00:38:04,000 --> 00:38:07,000
+Yes, and something that Rust can implement.
+
+791
+00:38:07,000 --> 00:38:10,000
+Why is it so powerful?
+
+792
+00:38:10,000 --> 00:38:13,000
+LLVM, as we call it,
+
+793
+00:38:13,000 --> 00:38:16,000
+is a dotnet,
+
+794
+00:38:16,000 --> 00:38:19,000
+it has its own bytecode machine.
+
+795
+00:38:19,000 --> 00:38:22,000
+LLVM was created in the mid-90s,
+
+796
+00:38:22,000 --> 00:38:25,000
+I think it was a graduate work
+
+797
+00:38:25,000 --> 00:38:28,000
+by Chris Lettner,
+
+798
+00:38:28,000 --> 00:38:31,000
+a man who later wrote Swift,
+
+799
+00:38:31,000 --> 00:38:34,000
+and now writes Mojo,
+
+800
+00:38:34,000 --> 00:38:37,000
+a runtime for Python.
+
+801
+00:38:37,000 --> 00:38:40,000
+The difference is that the semantics,
+
+802
+00:38:40,000 --> 00:38:43,000
+how the code for LLVM is written,
+
+803
+00:38:43,000 --> 00:38:46,000
+is a bit more complex,
+
+804
+00:38:46,000 --> 00:38:49,000
+compared to Java, C-Sharp,
+
+805
+00:38:49,000 --> 00:38:52,000
+and other stacks,
+
+806
+00:38:52,000 --> 00:38:55,000
+or just-in-time machines.
+
+807
+00:38:55,000 --> 00:38:58,000
+But because of that,
+
+808
+00:38:58,000 --> 00:39:01,000
+you can generate code
+
+809
+00:39:01,000 --> 00:39:04,000
+that translates better to the hardware.
+
+810
+00:39:09,000 --> 00:39:12,000
+At the beginning,
+
+811
+00:39:12,000 --> 00:39:15,000
+LLVM was a custom project,
+
+812
+00:39:15,000 --> 00:39:18,000
+with just-in-time machines
+
+813
+00:39:18,000 --> 00:39:21,000
+and compiler interfaces.
+
+814
+00:39:21,000 --> 00:39:24,000
+Later on,
+
+815
+00:39:24,000 --> 00:39:27,000
+it became C++ frontend,
+
+816
+00:39:27,000 --> 00:39:30,000
+and now it's extremely popular
+
+817
+00:39:30,000 --> 00:39:33,000
+for frontend.
+
+818
+00:39:33,000 --> 00:39:36,000
+I think that now Rust can be compiled
+
+819
+00:39:36,000 --> 00:39:39,000
+for GCC,
+
+820
+00:39:39,000 --> 00:39:42,000
+Rust frontend for GCC.
+
+821
+00:39:43,000 --> 00:39:46,000
+As a language feature,
+
+822
+00:39:46,000 --> 00:39:49,000
+I wrote a pattern matching,
+
+823
+00:39:49,000 --> 00:39:52,000
+and it was very interesting to me,
+
+824
+00:39:52,000 --> 00:39:55,000
+because you have maps,
+
+825
+00:39:55,000 --> 00:39:58,000
+filtering,
+
+826
+00:39:58,000 --> 00:40:01,000
+some of the higher-order functions
+
+827
+00:40:01,000 --> 00:40:04,000
+that you use in a language
+
+828
+00:40:04,000 --> 00:40:07,000
+that is so low-level,
+
+829
+00:40:07,000 --> 00:40:10,000
+which is something
+
+830
+00:40:10,000 --> 00:40:13,000
+that is unusual,
+
+831
+00:40:13,000 --> 00:40:16,000
+because in old-school C++
+
+832
+00:40:16,000 --> 00:40:19,000
+there was no such thing.
+
+833
+00:40:19,000 --> 00:40:22,000
+But if you use Go,
+
+834
+00:40:22,000 --> 00:40:25,000
+you have to type in Zanko,
+
+835
+00:40:25,000 --> 00:40:28,000
+and it's all very high-productive.
+
+836
+00:40:28,000 --> 00:40:31,000
+Maybe you could describe
+
+837
+00:40:31,000 --> 00:40:34,000
+those features a bit.
+
+838
+00:40:34,000 --> 00:40:37,000
+That's exactly one of the things
+
+839
+00:40:37,000 --> 00:40:40,000
+that I love about Rust.
+
+840
+00:40:40,000 --> 00:40:43,000
+I used to work a lot with Ruby,
+
+841
+00:40:43,000 --> 00:40:46,000
+and it's a holy grail for me.
+
+842
+00:40:46,000 --> 00:40:49,000
+You can get data,
+
+843
+00:40:49,000 --> 00:40:52,000
+create a map,
+
+844
+00:40:52,000 --> 00:40:55,000
+chain methods,
+
+845
+00:40:55,000 --> 00:40:58,000
+and process them.
+
+846
+00:40:58,000 --> 00:41:01,000
+It's such a productivity boost.
+
+847
+00:41:01,000 --> 00:41:04,000
+I was really mind-blown
+
+848
+00:41:04,000 --> 00:41:07,000
+when I saw that Zanko
+
+849
+00:41:07,000 --> 00:41:10,000
+was able to write four loops
+
+850
+00:41:10,000 --> 00:41:13,000
+and put them in the same stack.
+
+851
+00:41:13,000 --> 00:41:16,000
+That was really impressive.
+
+852
+00:41:16,000 --> 00:41:19,000
+I saw one more thing.
+
+853
+00:41:19,000 --> 00:41:22,000
+In Scala,
+
+854
+00:41:22,000 --> 00:41:25,000
+if you want to extend languages,
+
+855
+00:41:25,000 --> 00:41:28,000
+you have different macros.
+
+856
+00:41:28,000 --> 00:41:31,000
+Macros are a code that you have in Scala,
+
+857
+00:41:31,000 --> 00:41:34,000
+and you have to extract the code
+
+858
+00:41:34,000 --> 00:41:37,000
+from the previous compiler,
+
+859
+00:41:37,000 --> 00:41:40,000
+and then compile it all together.
+
+860
+00:41:40,000 --> 00:41:43,000
+In Scala 2 and Scala 3,
+
+861
+00:41:43,000 --> 00:41:46,000
+languages have changed,
+
+862
+00:41:46,000 --> 00:41:49,000
+and you can rewrite them if you want.
+
+863
+00:41:49,000 --> 00:41:52,000
+In Scala, you can't use macros.
+
+864
+00:41:52,000 --> 00:41:55,000
+It's better to know what you're using them for.
+
+865
+00:41:55,000 --> 00:41:58,000
+With Rust,
+
+866
+00:41:58,000 --> 00:42:01,000
+when you come across a problem
+
+867
+00:42:01,000 --> 00:42:04,000
+that's a bit out of place,
+
+868
+00:42:04,000 --> 00:42:07,000
+you can write your own macros.
+
+869
+00:42:07,000 --> 00:42:10,000
+Especially if you go to a library,
+
+870
+00:42:10,000 --> 00:42:13,000
+it's easier to use macros.
+
+871
+00:42:13,000 --> 00:42:16,000
+There are a lot of macros used in libraries.
+
+872
+00:42:16,000 --> 00:42:19,000
+For example, print.
+
+873
+00:42:19,000 --> 00:42:22,000
+Print is a macro.
+
+874
+00:42:22,000 --> 00:42:25,000
+There are a lot of macros in standard libraries.
+
+875
+00:42:25,000 --> 00:42:28,000
+There are a lot of macros used in standard libraries.
+
+876
+00:42:28,000 --> 00:42:31,000
+First of all,
+
+877
+00:42:31,000 --> 00:42:34,000
+I think the implementation of macros
+
+878
+00:42:34,000 --> 00:42:37,000
+in Rust is pretty weak.
+
+879
+00:42:37,000 --> 00:42:40,000
+As long as you use them,
+
+880
+00:42:40,000 --> 00:42:43,000
+everything is great.
+
+881
+00:42:43,000 --> 00:42:46,000
+The people who wrote them
+
+882
+00:42:46,000 --> 00:42:49,000
+made sure that the implementation details
+
+883
+00:42:49,000 --> 00:42:52,000
+are hidden.
+
+884
+00:42:52,000 --> 00:42:55,000
+If you implement any variables
+
+885
+00:42:55,000 --> 00:42:58,000
+in the macro,
+
+886
+00:42:58,000 --> 00:43:01,000
+the code you use in the macro
+
+887
+00:43:01,000 --> 00:43:04,000
+will be accessible.
+
+888
+00:43:04,000 --> 00:43:07,000
+You really have to make sure
+
+889
+00:43:07,000 --> 00:43:10,000
+that all the details are hidden.
+
+890
+00:43:10,000 --> 00:43:13,000
+You have to be careful
+
+891
+00:43:13,000 --> 00:43:16,000
+if you're using
+
+892
+00:43:16,000 --> 00:43:19,000
+a print function
+
+893
+00:43:19,000 --> 00:43:22,000
+or something else.
+
+894
+00:43:22,000 --> 00:43:25,000
+If you use a macro in one scope,
+
+895
+00:43:25,000 --> 00:43:28,000
+it will be used in the print function.
+
+896
+00:43:28,000 --> 00:43:31,000
+You have to prefix all functions
+
+897
+00:43:31,000 --> 00:43:34,000
+or extracts from the macro
+
+898
+00:43:34,000 --> 00:43:37,000
+with a name space
+
+899
+00:43:37,000 --> 00:43:40,000
+so that it comes from the root.
+
+900
+00:43:40,000 --> 00:43:43,000
+Basically, it's so powerful.
+
+901
+00:43:43,000 --> 00:43:46,000
+It's so reliable.
+
+902
+00:43:46,000 --> 00:43:49,000
+As long as you know the code
+
+903
+00:43:49,000 --> 00:43:52,000
+and how the macro works,
+
+904
+00:43:52,000 --> 00:43:55,000
+you're good to go.
+
+905
+00:43:55,000 --> 00:43:58,000
+It's a very basic macro.
+
+906
+00:43:58,000 --> 00:44:01,000
+It's called macro rules.
+
+907
+00:44:01,000 --> 00:44:04,000
+It's very fast to create a macro.
+
+908
+00:44:04,000 --> 00:44:07,000
+It's like a disclaimer.
+
+909
+00:44:07,000 --> 00:44:10,000
+It's getting better and better
+
+910
+00:44:10,000 --> 00:44:13,000
+as a macro language in C.
+
+911
+00:44:13,000 --> 00:44:16,000
+It's not a high standard.
+
+912
+00:44:16,000 --> 00:44:19,000
+C is just a sticker
+
+913
+00:44:19,000 --> 00:44:22,000
+inside the code you wrote.
+
+914
+00:44:22,000 --> 00:44:25,000
+One important thing
+
+915
+00:44:25,000 --> 00:44:28,000
+that I think is growing
+
+916
+00:44:28,000 --> 00:44:31,000
+and developing is the
+
+917
+00:44:31,000 --> 00:44:34,000
+zero-cost abstraction.
+
+918
+00:44:34,000 --> 00:44:37,000
+You can write a code...
+
+919
+00:44:37,000 --> 00:44:40,000
+The next question will be
+
+920
+00:44:40,000 --> 00:44:43,000
+if it's possible.
+
+921
+00:44:43,000 --> 00:44:46,000
+What is zero-cost abstraction
+
+922
+00:44:46,000 --> 00:44:49,000
+philosophy that you're talking about?
+
+923
+00:44:49,000 --> 00:44:52,000
+How much does it cost?
+
+924
+00:44:52,000 --> 00:44:55,000
+How much does it cost?
+
+925
+00:44:55,000 --> 00:44:58,000
+First of all,
+
+926
+00:44:58,000 --> 00:45:01,000
+what is abstraction?
+
+927
+00:45:01,000 --> 00:45:04,000
+Abstraction is when you
+
+928
+00:45:04,000 --> 00:45:07,000
+write primitive codes
+
+929
+00:45:07,000 --> 00:45:10,000
+or your own keywords
+
+930
+00:45:10,000 --> 00:45:13,000
+that have a meaning.
+
+931
+00:45:13,000 --> 00:45:16,000
+When you call them,
+
+932
+00:45:16,000 --> 00:45:19,000
+the whole function happens.
+
+933
+00:45:19,000 --> 00:45:22,000
+In normal languages,
+
+934
+00:45:22,000 --> 00:45:25,000
+the whole function happens.
+
+935
+00:45:25,000 --> 00:45:28,000
+For example,
+
+936
+00:45:28,000 --> 00:45:31,000
+the keyword macro
+
+937
+00:45:31,000 --> 00:45:34,000
+can be pushed into a code
+
+938
+00:45:35,000 --> 00:45:38,000
+and because the macro language
+
+939
+00:45:38,000 --> 00:45:41,000
+is growing more and more powerful,
+
+940
+00:45:41,000 --> 00:45:44,000
+it can be pushed into the code
+
+941
+00:45:44,000 --> 00:45:47,000
+that the macro is writing.
+
+942
+00:45:47,000 --> 00:45:50,000
+For a lot of semantics,
+
+943
+00:45:50,000 --> 00:45:53,000
+for a lot of information,
+
+944
+00:45:53,000 --> 00:45:56,000
+the compiler optimizes
+
+945
+00:45:56,000 --> 00:45:59,000
+what is unnecessary.
+
+946
+00:45:59,000 --> 00:46:02,000
+Because of this,
+
+947
+00:46:02,000 --> 00:46:05,000
+writing abstract codes
+
+948
+00:46:05,000 --> 00:46:08,000
+is growing.
+
+949
+00:46:08,000 --> 00:46:11,000
+This type of code is typically
+
+950
+00:46:11,000 --> 00:46:14,000
+translated into much faster code
+
+951
+00:46:14,000 --> 00:46:17,000
+than C++.
+
+952
+00:46:17,000 --> 00:46:20,000
+One more interesting thought.
+
+953
+00:46:20,000 --> 00:46:23,000
+One part of abstraction
+
+954
+00:46:23,000 --> 00:46:26,000
+is that you can define
+
+955
+00:46:26,000 --> 00:46:29,000
+your operators.
+
+956
+00:46:29,000 --> 00:46:32,000
+For example,
+
+957
+00:46:32,000 --> 00:46:35,000
+you want to define your type
+
+958
+00:46:35,000 --> 00:46:38,000
+called a complex number
+
+959
+00:46:38,000 --> 00:46:41,000
+that has a real and imaginary part.
+
+960
+00:46:41,000 --> 00:46:44,000
+You want the whole math to work
+
+961
+00:46:44,000 --> 00:46:47,000
+on this complex number.
+
+962
+00:46:47,000 --> 00:46:50,000
+You can redefine plus, minus,
+
+963
+00:46:50,000 --> 00:46:53,000
+multiplication, etc.
+
+964
+00:46:53,000 --> 00:46:56,000
+Different languages have
+
+965
+00:46:56,000 --> 00:46:59,000
+tried to redefine
+
+966
+00:46:59,000 --> 00:47:02,000
+all these operators,
+
+967
+00:47:02,000 --> 00:47:05,000
+but they didn't have
+
+968
+00:47:05,000 --> 00:47:08,000
+a very good checking,
+
+969
+00:47:08,000 --> 00:47:11,000
+what goes in and what goes out.
+
+970
+00:47:11,000 --> 00:47:14,000
+This happened very implicitly
+
+971
+00:47:14,000 --> 00:47:17,000
+and could lead to a lot
+
+972
+00:47:17,000 --> 00:47:20,000
+of bugs.
+
+973
+00:47:20,000 --> 00:47:23,000
+Someone wrote
+
+974
+00:47:23,000 --> 00:47:26,000
+an overloading operator,
+
+975
+00:47:26,000 --> 00:47:29,000
+someone else wrote a code
+
+976
+00:47:29,000 --> 00:47:32,000
+that was rewritten because
+
+977
+00:47:32,000 --> 00:47:35,000
+it didn't work.
+
+978
+00:47:35,000 --> 00:47:38,000
+Then Java appeared.
+
+979
+00:47:38,000 --> 00:47:41,000
+It was supposed to be a language
+
+980
+00:47:41,000 --> 00:47:44,000
+for non-programmers,
+
+981
+00:47:44,000 --> 00:47:47,000
+like for, for example,
+
+982
+00:47:47,000 --> 00:47:50,000
+Google.
+
+983
+00:47:50,000 --> 00:47:53,000
+The price of learning Java
+
+984
+00:47:53,000 --> 00:47:56,000
+was one tenth of the price
+
+985
+00:47:56,000 --> 00:47:59,000
+of learning C++.
+
+986
+00:47:59,000 --> 00:48:02,000
+There were fewer bugs,
+
+987
+00:48:02,000 --> 00:48:05,000
+and now Google is sold
+
+988
+00:48:05,000 --> 00:48:08,000
+in a similar way.
+
+989
+00:48:08,000 --> 00:48:11,000
+Google is something you can
+
+990
+00:48:11,000 --> 00:48:14,000
+learn over the weekend.
+
+991
+00:48:14,000 --> 00:48:17,000
+The philosophy of these languages
+
+992
+00:48:17,000 --> 00:48:20,000
+is to write some abstractions.
+
+993
+00:48:20,000 --> 00:48:23,000
+We will try to write
+
+994
+00:48:23,000 --> 00:48:26,000
+as low-level code as possible.
+
+995
+00:48:26,000 --> 00:48:29,000
+Everything has to be done
+
+996
+00:48:29,000 --> 00:48:32,000
+forcefully.
+
+997
+00:48:32,000 --> 00:48:35,000
+Everything has to be rewritten
+
+998
+00:48:35,000 --> 00:48:38,000
+and copy-pasted.
+
+999
+00:48:38,000 --> 00:48:41,000
+The fact that the majority of
+
+1000
+00:48:41,000 --> 00:48:44,000
+these languages, Java, Go,
+
+1001
+00:48:44,000 --> 00:48:47,000
+Python, are overloaded
+
+1002
+00:48:47,000 --> 00:48:50,000
+seems to be too complicated
+
+1003
+00:48:50,000 --> 00:48:53,000
+for people to understand.
+
+1004
+00:48:53,000 --> 00:48:56,000
+On the other hand,
+
+1005
+00:48:56,000 --> 00:48:59,000
+Python, which has a complete
+
+1006
+00:48:59,000 --> 00:49:02,000
+overloading operator,
+
+1007
+00:49:02,000 --> 00:49:05,000
+doesn't seem to be
+
+1008
+00:49:05,000 --> 00:49:08,000
+too complex for people
+
+1009
+00:49:08,000 --> 00:49:11,000
+to read or write.
+
+1010
+00:49:11,000 --> 00:49:14,000
+You can't say for which
+
+1011
+00:49:14,000 --> 00:49:17,000
+examples it is used,
+
+1012
+00:49:17,000 --> 00:49:20,000
+or when it can be
+
+1013
+00:49:20,000 --> 00:49:23,000
+implicitly used,
+
+1014
+00:49:23,000 --> 00:49:26,000
+and when not.
+
+1015
+00:49:26,000 --> 00:49:29,000
+From this perspective,
+
+1016
+00:49:29,000 --> 00:49:32,000
+if a language is designed
+
+1017
+00:49:32,000 --> 00:49:35,000
+very well,
+
+1018
+00:49:35,000 --> 00:49:38,000
+then these abstractions,
+
+1019
+00:49:38,000 --> 00:49:41,000
+and the ability to write
+
+1020
+00:49:41,000 --> 00:49:44,000
+some structures of the language
+
+1021
+00:49:44,000 --> 00:49:47,000
+on your own,
+
+1022
+00:49:47,000 --> 00:49:50,000
+which allows you to write
+
+1023
+00:49:50,000 --> 00:49:53,000
+100 types of code per month,
+
+1024
+00:49:53,000 --> 00:49:56,000
+is extremely powerful.
+
+1025
+00:50:00,000 --> 00:50:05,000
+zero-cost, or a good example of zero-cost abstraction in growth.
+
+1026
+00:50:05,000 --> 00:50:10,000
+I think it's the whole async-await system, as it's been described.
+
+1027
+00:50:10,000 --> 00:50:15,000
+Which is quite a heavy burden of criticism,
+
+1028
+00:50:15,000 --> 00:50:19,000
+because on the one hand you have Go, which has these
+
+1029
+00:50:19,000 --> 00:50:23,000
+goroutines and ZDVs, and everything that is asynchronous there is,
+
+1030
+00:50:23,000 --> 00:50:26,000
+I mean, there is no such thing as asynchronous-synchronous sharing,
+
+1031
+00:50:26,000 --> 00:50:29,000
+everything is asynchronous, you just have these lightweight threads
+
+1032
+00:50:29,000 --> 00:50:31,000
+that are happening.
+
+1033
+00:50:31,000 --> 00:50:36,000
+Growth, well, the very first growth also had these lightweight threads,
+
+1034
+00:50:36,000 --> 00:50:41,000
+but they realized that it wasn't exactly a zero-cost abstraction.
+
+1035
+00:50:41,000 --> 00:50:45,000
+And the whole async-await system was built so that,
+
+1036
+00:50:45,000 --> 00:50:50,000
+as a compiler, all these await points,
+
+1037
+00:50:50,000 --> 00:50:55,000
+were compiled into one structure, which is,
+
+1038
+00:50:55,000 --> 00:50:59,000
+how do you call it, an automaton.
+
+1039
+00:50:59,000 --> 00:51:00,000
+What do you call it?
+
+1040
+00:51:00,000 --> 00:51:01,000
+State machine.
+
+1041
+00:51:01,000 --> 00:51:02,000
+State machine, basically, yes.
+
+1042
+00:51:02,000 --> 00:51:05,000
+A state machine that makes one allocation,
+
+1043
+00:51:05,000 --> 00:51:08,000
+when you start the ZDV, and at that time,
+
+1044
+00:51:08,000 --> 00:51:10,000
+you don't need any more allocations, basically,
+
+1045
+00:51:10,000 --> 00:51:13,000
+you just allocate it.
+
+1046
+00:51:13,000 --> 00:51:17,000
+Whereas, for example, in Go, when you have goroutines,
+
+1047
+00:51:17,000 --> 00:51:19,000
+which are great abstractions, in my opinion,
+
+1048
+00:51:19,000 --> 00:51:21,000
+but they're not zero-cost,
+
+1049
+00:51:21,000 --> 00:51:24,000
+there you have a problem that the program doesn't know
+
+1050
+00:51:24,000 --> 00:51:27,000
+exactly how big a stack these goroutines need.
+
+1051
+00:51:27,000 --> 00:51:30,000
+So at some point, if it grows and grows,
+
+1052
+00:51:30,000 --> 00:51:32,000
+it has to pause for a while,
+
+1053
+00:51:32,000 --> 00:51:35,000
+copy somewhere else where it's free,
+
+1054
+00:51:35,000 --> 00:51:39,000
+and then continue the execution.
+
+1055
+00:51:39,000 --> 00:51:41,000
+Yes, I think that's a good example.
+
+1056
+00:51:41,000 --> 00:51:44,000
+Great.
+
+1057
+00:51:44,000 --> 00:51:47,000
+At this point,
+
+1058
+00:51:47,000 --> 00:51:50,000
+if you can drink some water,
+
+1059
+00:51:50,000 --> 00:51:53,000
+I'll say thank you to the supporters.
+
+1060
+00:51:53,000 --> 00:51:57,000
+At this point, I would like to thank
+
+1061
+00:51:57,000 --> 00:52:01,000
+all our Patreon supporters who are listening.
+
+1062
+00:52:01,000 --> 00:52:04,000
+If you listen and subscribe to Patreon,
+
+1063
+00:52:04,000 --> 00:52:06,000
+you get these special features,
+
+1064
+00:52:06,000 --> 00:52:08,000
+which I'm announcing today, this premium feature,
+
+1065
+00:52:08,000 --> 00:52:12,000
+and we also have an additional bonus for these supporters.
+
+1066
+00:52:12,000 --> 00:52:15,000
+At this point, we also have to thank
+
+1067
+00:52:15,000 --> 00:52:19,000
+3FS for the support,
+
+1068
+00:52:19,000 --> 00:52:22,000
+and HumanFrog for supporting us now,
+
+1069
+00:52:22,000 --> 00:52:24,000
+and also you who are listening.
+
+1070
+00:52:24,000 --> 00:52:28,000
+OK, let's move on.
+
+1071
+00:52:28,000 --> 00:52:31,000
+At the beginning, there was a pitch, Rasta,
+
+1072
+00:52:31,000 --> 00:52:33,000
+that it's a system programming language
+
+1073
+00:52:33,000 --> 00:52:36,000
+that flows fast,
+
+1074
+00:52:36,000 --> 00:52:39,000
+and...
+
+1075
+00:52:39,000 --> 00:52:41,000
+Rasta is a system programming language
+
+1076
+00:52:41,000 --> 00:52:43,000
+that flows insanely fast,
+
+1077
+00:52:43,000 --> 00:52:45,000
+and predicts segmentation errors,
+
+1078
+00:52:45,000 --> 00:52:48,000
+crashes, and guarantees threat safety.
+
+1079
+00:52:48,000 --> 00:52:50,000
+Then in mid-2018,
+
+1080
+00:52:50,000 --> 00:52:53,000
+they changed the mission statement of the language,
+
+1081
+00:52:53,000 --> 00:52:54,000
+and said,
+
+1082
+00:52:54,000 --> 00:52:57,000
+empowering everyone to build reliable and efficient software.
+
+1083
+00:52:57,000 --> 00:52:59,000
+Something like that.
+
+1084
+00:52:59,000 --> 00:53:05,000
+They changed the ethos of how Rasta is positioned.
+
+1085
+00:53:05,000 --> 00:53:08,000
+Now, I'll give you some examples of how to use it,
+
+1086
+00:53:08,000 --> 00:53:11,000
+and we can still criticize each other,
+
+1087
+00:53:11,000 --> 00:53:14,000
+but the best way to use it is for a CLI tool,
+
+1088
+00:53:14,000 --> 00:53:17,000
+then we also use it for data processing,
+
+1089
+00:53:17,000 --> 00:53:22,000
+we use it as a language for extending applications,
+
+1090
+00:53:22,000 --> 00:53:25,000
+we use it, for example,
+
+1091
+00:53:25,000 --> 00:53:28,000
+if you like a programming language,
+
+1092
+00:53:28,000 --> 00:53:31,000
+and you have a certain functionality in Rasta,
+
+1093
+00:53:31,000 --> 00:53:33,000
+you write it, and from your favorite language,
+
+1094
+00:53:33,000 --> 00:53:35,000
+you call Rasta, for example, a code.
+
+1095
+00:53:35,000 --> 00:53:38,000
+Then we use it in environments where there are
+
+1096
+00:53:38,000 --> 00:53:40,000
+resource-constrained environments,
+
+1097
+00:53:40,000 --> 00:53:42,000
+so, for example,
+
+1098
+00:53:42,000 --> 00:53:44,000
+you want to use a really minimal memory footprint
+
+1099
+00:53:44,000 --> 00:53:46,000
+for an application,
+
+1100
+00:53:46,000 --> 00:53:48,000
+or if the boot time is very important, and so on.
+
+1101
+00:53:48,000 --> 00:53:50,000
+Service applications, desktop applications,
+
+1102
+00:53:50,000 --> 00:53:52,000
+mobile applications,
+
+1103
+00:53:52,000 --> 00:53:55,000
+and also for system programming.
+
+1104
+00:53:55,000 --> 00:53:58,000
+Now, what else did you put in there?
+
+1105
+00:53:58,000 --> 00:54:00,000
+Practically everything.
+
+1106
+00:54:00,000 --> 00:54:02,000
+Practically everything.
+
+1107
+00:54:02,000 --> 00:54:04,000
+What else did I forget?
+
+1108
+00:54:04,000 --> 00:54:09,000
+Then you also wrote two interesting news,
+
+1109
+00:54:09,000 --> 00:54:11,000
+or who uses Rasta.
+
+1110
+00:54:11,000 --> 00:54:15,000
+Rasta for Linux is a very interesting project,
+
+1111
+00:54:15,000 --> 00:54:17,000
+maybe the audience will know more about it,
+
+1112
+00:54:17,000 --> 00:54:20,000
+and in 2020,
+
+1113
+00:54:20,000 --> 00:54:23,000
+on the Linux Kernel mailing list,
+
+1114
+00:54:23,000 --> 00:54:27,000
+they said that Rasta will be one of the languages
+
+1115
+00:54:27,000 --> 00:54:31,000
+that will be written by Linux Kernel,
+
+1116
+00:54:31,000 --> 00:54:33,000
+or its modules,
+
+1117
+00:54:33,000 --> 00:54:37,000
+and it also started with writing drivers
+
+1118
+00:54:37,000 --> 00:54:39,000
+from Linux 5.20,
+
+1119
+00:54:39,000 --> 00:54:41,000
+or later 6,
+
+1120
+00:54:41,000 --> 00:54:45,000
+because Rasta is one of the languages in Linux Kernel.
+
+1121
+00:54:45,000 --> 00:54:47,000
+I really liked it.
+
+1122
+00:54:47,000 --> 00:54:50,000
+So, will it also be in Windows?
+
+1123
+00:54:50,000 --> 00:54:52,000
+That's my next bullet point.
+
+1124
+00:54:52,000 --> 00:54:55,000
+You already have a lot of questions.
+
+1125
+00:54:55,000 --> 00:54:57,000
+Yes, then,
+
+1126
+00:54:57,000 --> 00:55:00,000
+on your Microsoft Tech blog,
+
+1127
+00:55:00,000 --> 00:55:02,000
+there was also a blog post titled
+
+1128
+00:55:02,000 --> 00:55:04,000
+In Rust We Trust,
+
+1129
+00:55:04,000 --> 00:55:09,000
+and Microsoft Azure CTO said that C and C++
+
+1130
+00:55:09,000 --> 00:55:14,000
+will replace long-term with Rasta as such,
+
+1131
+00:55:14,000 --> 00:55:19,000
+and also in newer versions of Windows,
+
+1132
+00:55:19,000 --> 00:55:24,000
+some core services have already been replaced with Rust,
+
+1133
+00:55:24,000 --> 00:55:28,000
+and a few libraries will be already written in Rust.
+
+1134
+00:55:28,000 --> 00:55:30,000
+I mentioned all of that,
+
+1135
+00:55:30,000 --> 00:55:33,000
+because they are PR and marketing articles,
+
+1136
+00:55:33,000 --> 00:55:34,000
+so all in all,
+
+1137
+00:55:34,000 --> 00:55:35,000
+it's a bit of a reserve,
+
+1138
+00:55:35,000 --> 00:55:37,000
+but you can check it out and google it.
+
+1139
+00:55:37,000 --> 00:55:39,000
+But I want to say that today,
+
+1140
+00:55:39,000 --> 00:55:41,000
+if Linus Torvalds says
+
+1141
+00:55:41,000 --> 00:55:44,000
+that Rust will be available in Linux Kernel,
+
+1142
+00:55:44,000 --> 00:55:47,000
+I think that's a big step.
+
+1143
+00:55:47,000 --> 00:55:48,000
+Especially Linus,
+
+1144
+00:55:48,000 --> 00:55:50,000
+because he was extremely opposed to
+
+1145
+00:55:50,000 --> 00:55:53,000
+putting C++ in there.
+
+1146
+00:55:53,000 --> 00:55:55,000
+I understand him.
+
+1147
+00:55:55,000 --> 00:55:58,000
+But it's true that today we've jumped
+
+1148
+00:55:58,000 --> 00:56:04,000
+from C++ to Rust in Linux Kernel.
+
+1149
+00:56:04,000 --> 00:56:09,000
+I'm watching this on iOS,
+
+1150
+00:56:09,000 --> 00:56:16,000
+and there was also the Apple ecosystem.
+
+1151
+00:56:16,000 --> 00:56:17,000
+Mobile ecosystem.
+
+1152
+00:56:17,000 --> 00:56:18,000
+Not just mobile,
+
+1153
+00:56:18,000 --> 00:56:19,000
+but also the desktop.
+
+1154
+00:56:19,000 --> 00:56:23,000
+It was originally written for Objective-C,
+
+1155
+00:56:23,000 --> 00:56:26,000
+and then Swift appeared,
+
+1156
+00:56:26,000 --> 00:56:29,000
+which was a big step forward
+
+1157
+00:56:29,000 --> 00:56:31,000
+towards Objective-C.
+
+1158
+00:56:31,000 --> 00:56:33,000
+And the whole ecosystem
+
+1159
+00:56:34,000 --> 00:56:39,000
+migrated to Swift in a very nice way.
+
+1160
+00:56:39,000 --> 00:56:44,000
+And it's getting better.
+
+1161
+00:56:44,000 --> 00:56:47,000
+It seems that Rust is becoming
+
+1162
+00:56:47,000 --> 00:56:52,000
+quite compatible with the rest of the infrastructure.
+
+1163
+00:56:52,000 --> 00:56:54,000
+For example,
+
+1164
+00:56:54,000 --> 00:56:57,000
+all existing C codes for C++
+
+1165
+00:56:57,000 --> 00:57:00,000
+can be used in Rust.
+
+1166
+00:57:00,000 --> 00:57:05,000
+I think there are so many benefits.
+
+1167
+00:57:05,000 --> 00:57:07,000
+The advantages of Rust.
+
+1168
+00:57:07,000 --> 00:57:11,000
+It's only logical that the world of
+
+1169
+00:57:11,000 --> 00:57:16,000
+system programming has moved to it.
+
+1170
+00:57:16,000 --> 00:57:17,000
+And probably,
+
+1171
+00:57:17,000 --> 00:57:20,000
+looking at the expressiveness of Rust,
+
+1172
+00:57:20,000 --> 00:57:22,000
+not just system programming,
+
+1173
+00:57:22,000 --> 00:57:26,000
+but everything you can do with time
+
+1174
+00:57:26,000 --> 00:57:29,000
+and with the right memory.
+
+1175
+00:57:29,000 --> 00:57:30,000
+It's interesting.
+
+1176
+00:57:30,000 --> 00:57:31,000
+Specifically,
+
+1177
+00:57:31,000 --> 00:57:32,000
+in Linux Kernel,
+
+1178
+00:57:32,000 --> 00:57:33,000
+I think that Rust,
+
+1179
+00:57:33,000 --> 00:57:36,000
+I don't know how exactly it will behave,
+
+1180
+00:57:36,000 --> 00:57:40,000
+because there is this impedance mismatch,
+
+1181
+00:57:40,000 --> 00:57:43,000
+because Rust is fully working on safety,
+
+1182
+00:57:43,000 --> 00:57:44,000
+or whatever.
+
+1183
+00:57:44,000 --> 00:57:46,000
+There are some things
+
+1184
+00:57:46,000 --> 00:57:49,000
+that you can't do statically today,
+
+1185
+00:57:49,000 --> 00:57:52,000
+and the only way to overcome the damage
+
+1186
+00:57:52,000 --> 00:57:54,000
+is to abort,
+
+1187
+00:57:54,000 --> 00:57:55,000
+to panic.
+
+1188
+00:57:55,000 --> 00:57:56,000
+But in Linux Kernel,
+
+1189
+00:57:56,000 --> 00:57:58,000
+you can't do that.
+
+1190
+00:57:58,000 --> 00:58:01,000
+And Torvald told me that.
+
+1191
+00:58:01,000 --> 00:58:04,000
+And the reason for that is that
+
+1192
+00:58:04,000 --> 00:58:06,000
+when it comes to bugs,
+
+1193
+00:58:06,000 --> 00:58:09,000
+you want the bug to be reported,
+
+1194
+00:58:09,000 --> 00:58:11,000
+to be logged,
+
+1195
+00:58:11,000 --> 00:58:14,000
+and it has to go through several drivers,
+
+1196
+00:58:14,000 --> 00:58:17,000
+and it has to be saved on disk.
+
+1197
+00:58:17,000 --> 00:58:19,000
+And you panic,
+
+1198
+00:58:19,000 --> 00:58:20,000
+Kernel,
+
+1199
+00:58:20,000 --> 00:58:22,000
+when are you going to save it?
+
+1200
+00:58:22,000 --> 00:58:24,000
+And there is a little mismatch.
+
+1201
+00:58:24,000 --> 00:58:26,000
+I don't know exactly how they solve it,
+
+1202
+00:58:26,000 --> 00:58:29,000
+but it seems to be an interesting problem.
+
+1203
+00:58:29,000 --> 00:58:30,000
+Now,
+
+1204
+00:58:30,000 --> 00:58:31,000
+in Rust,
+
+1205
+00:58:31,000 --> 00:58:34,000
+there is something like a joke,
+
+1206
+00:58:34,000 --> 00:58:36,000
+that if something is slow,
+
+1207
+00:58:36,000 --> 00:58:38,000
+try rewriting it in Rust.
+
+1208
+00:58:38,000 --> 00:58:41,000
+It's a meme, but it's a joke.
+
+1209
+00:58:41,000 --> 00:58:44,000
+I would definitely call it.
+
+1210
+00:58:44,000 --> 00:58:47,000
+Can you tell us a few downsides
+
+1211
+00:58:47,000 --> 00:58:50,000
+that you see in Rust?
+
+1212
+00:58:50,000 --> 00:58:51,000
+First of all,
+
+1213
+00:58:51,000 --> 00:58:53,000
+I think that everything you rewrite
+
+1214
+00:58:53,000 --> 00:58:55,000
+is faster in another language.
+
+1215
+00:58:55,000 --> 00:58:58,000
+It's faster in the same language.
+
+1216
+00:58:58,000 --> 00:58:59,000
+Okay.
+
+1217
+00:58:59,000 --> 00:59:01,000
+Fair enough.
+
+1218
+00:59:01,000 --> 00:59:02,000
+Yeah, okay.
+
+1219
+00:59:02,000 --> 00:59:04,000
+What are the downsides?
+
+1220
+00:59:04,000 --> 00:59:07,000
+Definitely,
+
+1221
+00:59:07,000 --> 00:59:10,000
+I don't know if it was written for me before,
+
+1222
+00:59:10,000 --> 00:59:12,000
+but Rust is not,
+
+1223
+00:59:12,000 --> 00:59:14,000
+it's a high-level language,
+
+1224
+00:59:14,000 --> 00:59:16,000
+but it's not as productive
+
+1225
+00:59:16,000 --> 00:59:18,000
+as if you took,
+
+1226
+00:59:18,000 --> 00:59:19,000
+I don't know,
+
+1227
+00:59:19,000 --> 00:59:21,000
+a more modern language like Scala,
+
+1228
+00:59:21,000 --> 00:59:22,000
+or I don't know,
+
+1229
+00:59:22,000 --> 00:59:25,000
+if I'm not mistaken.
+
+1230
+00:59:25,000 --> 00:59:26,000
+But yeah,
+
+1231
+00:59:26,000 --> 00:59:29,000
+if you have to fight through it,
+
+1232
+00:59:29,000 --> 00:59:31,000
+at least expect it,
+
+1233
+00:59:31,000 --> 00:59:33,000
+how you deal with changes,
+
+1234
+00:59:33,000 --> 00:59:35,000
+all those problems.
+
+1235
+00:59:35,000 --> 00:59:40,000
+And the learning curve is quite big.
+
+1236
+00:59:40,000 --> 00:59:42,000
+I was the type of person
+
+1237
+00:59:42,000 --> 00:59:44,000
+who doesn't go through a book,
+
+1238
+00:59:44,000 --> 00:59:46,000
+but goes to program,
+
+1239
+00:59:46,000 --> 00:59:48,000
+and I learn when I have to.
+
+1240
+00:59:48,000 --> 00:59:49,000
+First of all,
+
+1241
+00:59:49,000 --> 00:59:51,000
+Minerata is the best for that.
+
+1242
+00:59:53,000 --> 00:59:55,000
+But I think that,
+
+1243
+00:59:55,000 --> 00:59:57,000
+in my experience,
+
+1244
+00:59:57,000 --> 01:00:01,000
+I can still do some things
+
+1245
+01:00:01,000 --> 01:00:03,000
+with Fighters Compiler,
+
+1246
+01:00:03,000 --> 01:00:05,000
+but still,
+
+1247
+01:00:05,000 --> 01:00:08,000
+as an experienced programmer,
+
+1248
+01:00:08,000 --> 01:00:09,000
+but not in Rust,
+
+1249
+01:00:09,000 --> 01:00:11,000
+you can still do something.
+
+1250
+01:00:11,000 --> 01:00:13,000
+I have a feeling that I can still,
+
+1251
+01:00:13,000 --> 01:00:15,000
+even if you say it won't be nice,
+
+1252
+01:00:15,000 --> 01:00:17,000
+and elegant,
+
+1253
+01:00:18,000 --> 01:00:20,000
+you can still solve a lot of things,
+
+1254
+01:00:20,000 --> 01:00:22,000
+so at least expect it to fuck me up,
+
+1255
+01:00:22,000 --> 01:00:24,000
+I'll make a copy of it.
+
+1256
+01:00:24,000 --> 01:00:26,000
+It won't be the fastest,
+
+1257
+01:00:26,000 --> 01:00:27,000
+it's not nice,
+
+1258
+01:00:27,000 --> 01:00:28,000
+but it's possible.
+
+1259
+01:00:28,000 --> 01:00:32,000
+A lot of problems are quite simple,
+
+1260
+01:00:32,000 --> 01:00:33,000
+for example,
+
+1261
+01:00:33,000 --> 01:00:35,000
+if you write an entire tool,
+
+1262
+01:00:35,000 --> 01:00:37,000
+you probably only have one thread.
+
+1263
+01:00:37,000 --> 01:00:39,000
+So if you only have one thread,
+
+1264
+01:00:39,000 --> 01:00:41,000
+it's much easier for you in Rust.
+
+1265
+01:00:41,000 --> 01:00:43,000
+Or for example,
+
+1266
+01:00:43,000 --> 01:00:45,000
+HTTP requests coming in,
+
+1267
+01:00:45,000 --> 01:00:47,000
+you only have one thread,
+
+1268
+01:00:47,000 --> 01:00:52,000
+so you don't have to worry so much about it.
+
+1269
+01:00:52,000 --> 01:00:54,000
+It can get quite complicated,
+
+1270
+01:00:54,000 --> 01:00:56,000
+if you have more threads,
+
+1271
+01:00:56,000 --> 01:00:58,000
+or you have to feed a state,
+
+1272
+01:00:58,000 --> 01:01:00,000
+because you have to think about
+
+1273
+01:01:00,000 --> 01:01:01,000
+who owns it,
+
+1274
+01:01:01,000 --> 01:01:03,000
+and if you have to own two threads
+
+1275
+01:01:03,000 --> 01:01:05,000
+for one thing,
+
+1276
+01:01:05,000 --> 01:01:07,000
+then who owns it.
+
+1277
+01:01:07,000 --> 01:01:09,000
+Then you have some sub-structures
+
+1278
+01:01:09,000 --> 01:01:11,000
+that make it easier,
+
+1279
+01:01:11,000 --> 01:01:14,000
+or some reference counting types,
+
+1280
+01:01:14,000 --> 01:01:16,000
+which is a type that,
+
+1281
+01:01:16,000 --> 01:01:18,000
+every time you save a thread,
+
+1282
+01:01:18,000 --> 01:01:20,000
+there's a counter inside
+
+1283
+01:01:20,000 --> 01:01:22,000
+that counts to plus one,
+
+1284
+01:01:22,000 --> 01:01:24,000
+and when it goes out of scope,
+
+1285
+01:01:24,000 --> 01:01:26,000
+it counts to one,
+
+1286
+01:01:26,000 --> 01:01:28,000
+and when it comes back to zero,
+
+1287
+01:01:28,000 --> 01:01:30,000
+it's easier to deallocate.
+
+1288
+01:01:32,000 --> 01:01:34,000
+When I played with Rust,
+
+1289
+01:01:34,000 --> 01:01:36,000
+they sent you examples,
+
+1290
+01:01:36,000 --> 01:01:38,000
+I asked for reviews,
+
+1291
+01:01:38,000 --> 01:01:40,000
+so thank you for that.
+
+1292
+01:01:40,000 --> 01:01:42,000
+But there you sent me
+
+1293
+01:01:42,000 --> 01:01:44,000
+a blog post,
+
+1294
+01:01:44,000 --> 01:01:46,000
+or a book.
+
+1295
+01:01:46,000 --> 01:01:48,000
+In Python, there's a book
+
+1296
+01:01:48,000 --> 01:01:50,000
+Learn Python the Hard Way.
+
+1297
+01:01:50,000 --> 01:01:52,000
+In Rust, there's a blog post,
+
+1298
+01:01:52,000 --> 01:01:54,000
+or a book,
+
+1299
+01:01:54,000 --> 01:01:56,000
+which is about how to implement
+
+1300
+01:01:56,000 --> 01:01:58,000
+your double linked list.
+
+1301
+01:02:00,000 --> 01:02:02,000
+That's one of the memes
+
+1302
+01:02:02,000 --> 01:02:04,000
+that Rust communicates.
+
+1303
+01:02:04,000 --> 01:02:06,000
+Because a lot of C++ programmers
+
+1304
+01:02:06,000 --> 01:02:08,000
+when they come to Rust,
+
+1305
+01:02:08,000 --> 01:02:10,000
+you know,
+
+1306
+01:02:10,000 --> 01:02:12,000
+a lot of times you have to
+
+1307
+01:02:12,000 --> 01:02:14,000
+implement your own structure,
+
+1308
+01:02:14,000 --> 01:02:16,000
+because the tooling,
+
+1309
+01:02:16,000 --> 01:02:18,000
+how you bring libraries
+
+1310
+01:02:18,000 --> 01:02:20,000
+into C++,
+
+1311
+01:02:20,000 --> 01:02:22,000
+is really weak.
+
+1312
+01:02:22,000 --> 01:02:24,000
+So a lot of times people
+
+1313
+01:02:24,000 --> 01:02:26,000
+write their own structure,
+
+1314
+01:02:26,000 --> 01:02:28,000
+or copy code, or whatever,
+
+1315
+01:02:28,000 --> 01:02:30,000
+and when people come to Rust,
+
+1316
+01:02:30,000 --> 01:02:32,000
+they do the same.
+
+1317
+01:02:32,000 --> 01:02:34,000
+And in Rust, it's really hard.
+
+1318
+01:02:34,000 --> 01:02:36,000
+All the structures that are,
+
+1319
+01:02:36,000 --> 01:02:38,000
+how should I put it,
+
+1320
+01:02:38,000 --> 01:02:40,000
+recursive.
+
+1321
+01:02:40,000 --> 01:02:42,000
+So you have a double linked list,
+
+1322
+01:02:42,000 --> 01:02:44,000
+one node that links to the other,
+
+1323
+01:02:44,000 --> 01:02:46,000
+and then back to the first one.
+
+1324
+01:02:46,000 --> 01:02:48,000
+And the way you have those cycles
+
+1325
+01:02:48,000 --> 01:02:50,000
+becomes really complicated.
+
+1326
+01:02:50,000 --> 01:02:52,000
+And yeah, it's easy to do
+
+1327
+01:02:52,000 --> 01:02:54,000
+reference countering,
+
+1328
+01:02:54,000 --> 01:02:56,000
+and all that,
+
+1329
+01:02:56,000 --> 01:02:58,000
+but in the end,
+
+1330
+01:02:58,000 --> 01:03:00,000
+if you want to solve it
+
+1331
+01:03:00,000 --> 01:03:02,000
+in a performance way,
+
+1332
+01:03:02,000 --> 01:03:04,000
+in an unsafe world,
+
+1333
+01:03:04,000 --> 01:03:06,000
+in Rust it's possible that
+
+1334
+01:03:06,000 --> 01:03:08,000
+it's unsafe.
+
+1335
+01:03:08,000 --> 01:03:10,000
+And that unsafe block,
+
+1336
+01:03:10,000 --> 01:03:12,000
+okay,
+
+1337
+01:03:12,000 --> 01:03:14,000
+you have an unsafe keyboard,
+
+1338
+01:03:14,000 --> 01:03:16,000
+and everything inside that unsafe block
+
+1339
+01:03:16,000 --> 01:03:18,000
+you can practically do anything with it.
+
+1340
+01:03:18,000 --> 01:03:20,000
+I think that's a basic rule.
+
+1341
+01:03:20,000 --> 01:03:22,000
+On your own risk.
+
+1342
+01:03:22,000 --> 01:03:24,000
+But I like it because
+
+1343
+01:03:24,000 --> 01:03:26,000
+you
+
+1344
+01:03:28,000 --> 01:03:30,000
+pack that unsafe part
+
+1345
+01:03:30,000 --> 01:03:32,000
+into that block,
+
+1346
+01:03:32,000 --> 01:03:34,000
+and then you know that everything outside of it is okay.
+
+1347
+01:03:34,000 --> 01:03:36,000
+In C++ that's
+
+1348
+01:03:36,000 --> 01:03:38,000
+trash.
+
+1349
+01:03:38,000 --> 01:03:40,000
+Anything can
+
+1350
+01:03:40,000 --> 01:03:42,000
+look unsafe.
+
+1351
+01:03:44,000 --> 01:03:46,000
+Since we're wrapping up,
+
+1352
+01:03:46,000 --> 01:03:48,000
+I'll ask you
+
+1353
+01:03:50,000 --> 01:03:52,000
+one big advantage
+
+1354
+01:03:52,000 --> 01:03:54,000
+of JVM,
+
+1355
+01:03:54,000 --> 01:03:56,000
+or languages that are
+
+1356
+01:03:56,000 --> 01:03:58,000
+dependent on JVM,
+
+1357
+01:03:58,000 --> 01:04:00,000
+is that you have access to a huge number
+
+1358
+01:04:00,000 --> 01:04:02,000
+of libraries that are made
+
+1359
+01:04:02,000 --> 01:04:04,000
+by Sky or by Closure.
+
+1360
+01:04:04,000 --> 01:04:06,000
+You can use all the Java libraries.
+
+1361
+01:04:06,000 --> 01:04:08,000
+And that's a big
+
+1362
+01:04:08,000 --> 01:04:10,000
+advantage as well.
+
+1363
+01:04:10,000 --> 01:04:12,000
+Now, Rust
+
+1364
+01:04:12,000 --> 01:04:14,000
+has a section called Cargo,
+
+1365
+01:04:14,000 --> 01:04:16,000
+from which you manage
+
+1366
+01:04:16,000 --> 01:04:18,000
+a project,
+
+1367
+01:04:18,000 --> 01:04:20,000
+you add a builder
+
+1368
+01:04:20,000 --> 01:04:22,000
+with it, or through it you
+
+1369
+01:04:22,000 --> 01:04:24,000
+create a compiler,
+
+1370
+01:04:24,000 --> 01:04:26,000
+you start a project, update it,
+
+1371
+01:04:26,000 --> 01:04:28,000
+Cargo is the main tool
+
+1372
+01:04:28,000 --> 01:04:30,000
+you need to work with Rust.
+
+1373
+01:04:30,000 --> 01:04:32,000
+And the modules
+
+1374
+01:04:32,000 --> 01:04:34,000
+you install, which you didn't
+
+1375
+01:04:34,000 --> 01:04:36,000
+write yourself, you add
+
+1376
+01:04:36,000 --> 01:04:38,000
+to the project through Cargo,
+
+1377
+01:04:38,000 --> 01:04:40,000
+and those modules are called crates.
+
+1378
+01:04:40,000 --> 01:04:42,000
+And my question to you
+
+1379
+01:04:42,000 --> 01:04:44,000
+is,
+
+1380
+01:04:44,000 --> 01:04:46,000
+if you have
+
+1381
+01:04:46,000 --> 01:04:48,000
+the best crates you use,
+
+1382
+01:04:50,000 --> 01:04:52,000
+maybe you can introduce them to me.
+
+1383
+01:04:54,000 --> 01:04:56,000
+For me, definitely,
+
+1384
+01:04:56,000 --> 01:04:58,000
+we'll get to that on the list.
+
+1385
+01:04:58,000 --> 01:05:00,000
+We'll get to the same conclusion,
+
+1386
+01:05:00,000 --> 01:05:02,000
+but my favorite is definitely
+
+1387
+01:05:02,000 --> 01:05:04,000
+Clap, which is a library
+
+1388
+01:05:04,000 --> 01:05:06,000
+that helps you
+
+1389
+01:05:06,000 --> 01:05:08,000
+write entire programs.
+
+1390
+01:05:08,000 --> 01:05:10,000
+You can define
+
+1391
+01:05:10,000 --> 01:05:12,000
+a struct, so you know
+
+1392
+01:05:12,000 --> 01:05:14,000
+which parameters you expect
+
+1393
+01:05:14,000 --> 01:05:16,000
+to be added to the program,
+
+1394
+01:05:16,000 --> 01:05:18,000
+and then you annotate that struct,
+
+1395
+01:05:18,000 --> 01:05:20,000
+for example,
+
+1396
+01:05:20,000 --> 01:05:22,000
+this field X, I expect it to have
+
+1397
+01:05:22,000 --> 01:05:24,000
+such a long name, such a short name,
+
+1398
+01:05:24,000 --> 01:05:26,000
+of this type,
+
+1399
+01:05:26,000 --> 01:05:28,000
+you can easily
+
+1400
+01:05:28,000 --> 01:05:30,000
+define a description,
+
+1401
+01:05:30,000 --> 01:05:32,000
+all these description fields,
+
+1402
+01:05:32,000 --> 01:05:34,000
+and it generates a help
+
+1403
+01:05:34,000 --> 01:05:36,000
+indicator, so you know
+
+1404
+01:05:36,000 --> 01:05:38,000
+what all is possible today.
+
+1405
+01:05:38,000 --> 01:05:40,000
+You can easily
+
+1406
+01:05:40,000 --> 01:05:42,000
+choose an environmental variable,
+
+1407
+01:05:42,000 --> 01:05:44,000
+so you can say,
+
+1408
+01:05:44,000 --> 01:05:46,000
+this argument also has
+
+1409
+01:05:46,000 --> 01:05:48,000
+mvar.
+
+1410
+01:05:48,000 --> 01:05:50,000
+It's really very powerful,
+
+1411
+01:05:50,000 --> 01:05:52,000
+and sometimes
+
+1412
+01:05:52,000 --> 01:05:54,000
+it's just
+
+1413
+01:05:54,000 --> 01:05:56,000
+such a big convenience
+
+1414
+01:05:56,000 --> 01:05:58,000
+to have this tool,
+
+1415
+01:05:58,000 --> 01:06:00,000
+so I don't have to write a script
+
+1416
+01:06:00,000 --> 01:06:02,000
+like I would
+
+1417
+01:06:02,000 --> 01:06:04,000
+take a Ruby or whatever.
+
+1418
+01:06:04,000 --> 01:06:06,000
+Because you don't have to worry about
+
+1419
+01:06:06,000 --> 01:06:08,000
+all those boilerplates.
+
+1420
+01:06:08,000 --> 01:06:10,000
+The same question for you.
+
+1421
+01:06:10,000 --> 01:06:12,000
+Do you know any libraries
+
+1422
+01:06:12,000 --> 01:06:14,000
+that you've used?
+
+1423
+01:06:14,000 --> 01:06:16,000
+I haven't worked with Rust, so...
+
+1424
+01:06:16,000 --> 01:06:18,000
+Or you can tell me later.
+
+1425
+01:06:18,000 --> 01:06:20,000
+The best feature or something.
+
+1426
+01:06:20,000 --> 01:06:22,000
+I can connect with Clap,
+
+1427
+01:06:22,000 --> 01:06:24,000
+it's the same,
+
+1428
+01:06:24,000 --> 01:06:26,000
+it's not argu, and you can
+
+1429
+01:06:26,000 --> 01:06:28,000
+write a tip,
+
+1430
+01:06:28,000 --> 01:06:30,000
+where you want to have
+
+1431
+01:06:30,000 --> 01:06:32,000
+common line parameters,
+
+1432
+01:06:32,000 --> 01:06:34,000
+it makes a parser and helps you.
+
+1433
+01:06:34,000 --> 01:06:36,000
+I have another library
+
+1434
+01:06:36,000 --> 01:06:38,000
+that I think is one of the top
+
+1435
+01:06:38,000 --> 01:06:40,000
+of those, it's Serde.
+
+1436
+01:06:40,000 --> 01:06:42,000
+I'm asking you to describe it
+
+1437
+01:06:42,000 --> 01:06:44,000
+because I think people will be
+
+1438
+01:06:44,000 --> 01:06:46,000
+very happy with it.
+
+1439
+01:06:46,000 --> 01:06:48,000
+Serde is a library for
+
+1440
+01:06:48,000 --> 01:06:50,000
+serialization, deserialization,
+
+1441
+01:06:50,000 --> 01:06:52,000
+so the structure
+
+1442
+01:06:52,000 --> 01:06:54,000
+grows in
+
+1443
+01:06:54,000 --> 01:06:56,000
+different formats.
+
+1444
+01:06:56,000 --> 01:06:58,000
+It's generic, it doesn't know
+
+1445
+01:06:58,000 --> 01:07:00,000
+the format you're going to generate,
+
+1446
+01:07:00,000 --> 01:07:02,000
+but then you have
+
+1447
+01:07:02,000 --> 01:07:04,000
+crates,
+
+1448
+01:07:04,000 --> 01:07:06,000
+which are connected to Serde and
+
+1449
+01:07:06,000 --> 01:07:08,000
+generate JSON, YAML, TOML,
+
+1450
+01:07:08,000 --> 01:07:10,000
+you have some
+
+1451
+01:07:10,000 --> 01:07:12,000
+binary formats,
+
+1452
+01:07:12,000 --> 01:07:14,000
+and everything.
+
+1453
+01:07:14,000 --> 01:07:16,000
+It's very powerful,
+
+1454
+01:07:16,000 --> 01:07:18,000
+you can
+
+1455
+01:07:18,000 --> 01:07:20,000
+have
+
+1456
+01:07:20,000 --> 01:07:22,000
+a lot of interesting features.
+
+1457
+01:07:22,000 --> 01:07:24,000
+For example, you can change,
+
+1458
+01:07:24,000 --> 01:07:26,000
+that's a big problem if you work with frontends,
+
+1459
+01:07:26,000 --> 01:07:28,000
+you can change everything,
+
+1460
+01:07:28,000 --> 01:07:30,000
+CamelCase or Underscore,
+
+1461
+01:07:30,000 --> 01:07:32,000
+you can also
+
+1462
+01:07:32,000 --> 01:07:34,000
+have
+
+1463
+01:07:34,000 --> 01:07:36,000
+...
+
+1464
+01:07:36,000 --> 01:07:38,000
+Not only for JSON?
+
+1465
+01:07:38,000 --> 01:07:40,000
+Not only for JSON,
+
+1466
+01:07:40,000 --> 01:07:42,000
+practically anything.
+
+1467
+01:07:42,000 --> 01:07:44,000
+OK.
+
+1468
+01:07:44,000 --> 01:07:46,000
+I also wrote Tokio,
+
+1469
+01:07:46,000 --> 01:07:48,000
+it's also one of the
+
+1470
+01:07:48,000 --> 01:07:50,000
+ultra-popular ones,
+
+1471
+01:07:50,000 --> 01:07:52,000
+it's more like a concurrency
+
+1472
+01:07:52,000 --> 01:07:54,000
+framework library,
+
+1473
+01:07:54,000 --> 01:07:56,000
+with actors and everything.
+
+1474
+01:07:56,000 --> 01:07:58,000
+No, there are no actors.
+
+1475
+01:07:58,000 --> 01:08:00,000
+In fact, Tokio is,
+
+1476
+01:08:00,000 --> 01:08:02,000
+first of all,
+
+1477
+01:08:02,000 --> 01:08:04,000
+Rust has this
+
+1478
+01:08:04,000 --> 01:08:06,000
+asynchronous ecosystem
+
+1479
+01:08:06,000 --> 01:08:08,000
+for asynchronous processing,
+
+1480
+01:08:08,000 --> 01:08:10,000
+but today it doesn't have runtime.
+
+1481
+01:08:10,000 --> 01:08:12,000
+It only has those interfaces
+
+1482
+01:08:12,000 --> 01:08:14,000
+that define,
+
+1483
+01:08:14,000 --> 01:08:16,000
+those compilers,
+
+1484
+01:08:16,000 --> 01:08:18,000
+when it's compiled.
+
+1485
+01:08:18,000 --> 01:08:20,000
+It doesn't have runtime,
+
+1486
+01:08:20,000 --> 01:08:22,000
+and today you can put your own runtime
+
+1487
+01:08:22,000 --> 01:08:24,000
+if you want to use it,
+
+1488
+01:08:24,000 --> 01:08:26,000
+and the most popular one is Tokio.
+
+1489
+01:08:26,000 --> 01:08:28,000
+Why doesn't Rust
+
+1490
+01:08:28,000 --> 01:08:30,000
+have its own runtime?
+
+1491
+01:08:30,000 --> 01:08:32,000
+Primarily because
+
+1492
+01:08:32,000 --> 01:08:34,000
+it's not yet safe enough
+
+1493
+01:08:34,000 --> 01:08:36,000
+to do it
+
+1494
+01:08:36,000 --> 01:08:38,000
+the way they want.
+
+1495
+01:08:38,000 --> 01:08:40,000
+Secondarily,
+
+1496
+01:08:40,000 --> 01:08:42,000
+there are so many different ways
+
+1497
+01:08:42,000 --> 01:08:44,000
+to do it,
+
+1498
+01:08:44,000 --> 01:08:46,000
+and again,
+
+1499
+01:08:46,000 --> 01:08:48,000
+it's a zero-cost
+
+1500
+01:08:48,000 --> 01:08:50,000
+philosophy.
+
+1501
+01:08:50,000 --> 01:08:52,000
+For example,
+
+1502
+01:08:52,000 --> 01:08:54,000
+you have very different requirements
+
+1503
+01:08:54,000 --> 01:08:56,000
+if you want asynchronous processing
+
+1504
+01:08:56,000 --> 01:08:58,000
+on microprocessors,
+
+1505
+01:08:58,000 --> 01:09:00,000
+or if you're working for someone
+
+1506
+01:09:00,000 --> 01:09:02,000
+on the web.
+
+1507
+01:09:02,000 --> 01:09:04,000
+Or on Linux Kernel.
+
+1508
+01:09:04,000 --> 01:09:06,000
+For example,
+
+1509
+01:09:06,000 --> 01:09:08,000
+you want to implement it
+
+1510
+01:09:08,000 --> 01:09:10,000
+in another library.
+
+1511
+01:09:10,000 --> 01:09:12,000
+Fanta,
+
+1512
+01:09:12,000 --> 01:09:14,000
+we will
+
+1513
+01:09:14,000 --> 01:09:16,000
+wrap up now.
+
+1514
+01:09:16,000 --> 01:09:18,000
+After this nice
+
+1515
+01:09:18,000 --> 01:09:20,000
+debate,
+
+1516
+01:09:20,000 --> 01:09:22,000
+which is off the record.
+
+1517
+01:09:22,000 --> 01:09:24,000
+Let's end
+
+1518
+01:09:24,000 --> 01:09:26,000
+here.
+
+1519
+01:09:26,000 --> 01:09:28,000
+Thank you for your time.
+
+1520
+01:09:28,000 --> 01:09:30,000
+Thank you for coming.
+
+1521
+01:09:30,000 --> 01:09:32,000
+Thank you to all the viewers,
+
+1522
+01:09:32,000 --> 01:09:34,000
+listeners, supporters.
+
+1523
+01:09:34,000 --> 01:09:36,000
+Thank you to the team.
+
+1524
+01:09:36,000 --> 01:09:38,000
+Thank you again.
+
+1525
+01:09:38,000 --> 01:09:40,000
+The link is in the description.
+
+1526
+01:09:40,000 --> 01:09:42,000
+We also want to thank
+
+1527
+01:09:42,000 --> 01:09:44,000
+our sponsors.
+
+1528
+01:09:44,000 --> 01:09:46,000
+Thank you again,
+
+1529
+01:09:46,000 --> 01:09:48,000
+3FSU and Humanpholog
+
+1530
+01:09:48,000 --> 01:09:50,000
+for sponsoring this episode.
+
+1531
+01:09:50,000 --> 01:09:52,000
+Thank you again, Peter
+
+1532
+01:09:52,000 --> 01:09:54,000
+and Simon.
+
+1533
+01:09:54,000 --> 01:09:56,000
+Thank you.

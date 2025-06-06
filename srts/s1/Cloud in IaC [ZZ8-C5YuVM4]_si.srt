@@ -1,0 +1,6475 @@
+1
+00:00:00,000 --> 00:00:23,000
+Zdaj, lahko začnemo z čisto svežo epizodo Grodja, ki jo bomo danes posvetili eni čist vremenopremerni temi.
+
+2
+00:00:23,000 --> 00:00:46,000
+Bomo danes se pogovarjali v oblakih, pogovarjali se bomo v infrastrukturi, pogovarjali se bomo malo o skajlanju, pa vse skupaj bomo poskušali danes osmeriti v Infrastructure as a Code in se pogovarjati okoli tega.
+
+3
+00:00:46,000 --> 00:01:07,000
+Današnja epizoda bo precej bolj tehnična mogoče kot vse ostale, ki so bile okoli te epizode in pa danes smo sama z Andražom Brodolom Brodnikom in bomo zvihali okrave in bomo šli globoko v Jarek.
+
+4
+00:01:08,000 --> 00:01:12,000
+Teda naj bo to dovolj, da je pozdravljeni najprej.
+
+5
+00:01:13,000 --> 00:01:19,000
+Prej sem razmišljal, kaj če sem sam skozi ti, kaj biš naredil, pa lahko mi boksneš v ramo.
+
+6
+00:01:21,000 --> 00:01:22,000
+Zdravo vsi.
+
+7
+00:01:22,000 --> 00:01:23,000
+Zdravo vsi.
+
+8
+00:01:25,000 --> 00:01:35,000
+Zdaj bomo to zadevo poskušali, najprej nekako dva takšne vsebinskih sklopov moramo narediti, da se bomo lahko o tem pogovarjali.
+
+9
+00:01:36,000 --> 00:01:42,000
+Najprej se je pogovarjali malo o cloudu, pa kaj se dogaja s tem cloudom, zakaj je cloud pa to.
+
+10
+00:01:42,000 --> 00:01:44,000
+Pa bomo pa šli bolj v IOC.
+
+11
+00:01:45,000 --> 00:01:55,000
+Zdaj okoli samega clouda, same infrastrukture, operatorje, orchestratorje in tega zadeva lahko imamo še druge epizode, pa bomo šli bolj v to.
+
+12
+00:01:56,000 --> 00:02:04,000
+Medite malo potrebožljivosti glede tega, ampak fokusirali smo na IOC danes.
+
+13
+00:02:05,000 --> 00:02:07,000
+To je to, Andraž lepo kima.
+
+14
+00:02:08,000 --> 00:02:12,000
+In zdaj, jaz sem ful razmišljal, ko sem se pripravljal na to epizodo.
+
+15
+00:02:13,000 --> 00:02:22,000
+V bistvu, če bomo te teme odpirali, je zelo pomembno, da na začetek vzpostavimo neko kredibilnost, neko zaupajenje, da ljudem sploh povema,
+
+16
+00:02:23,000 --> 00:02:32,000
+zakaj smo mi dva tista, ko bi lahko zdaj sulila pamet o tem, oziroma kje smo mi danes otrojali te izgodbi.
+
+17
+00:02:32,000 --> 00:02:45,000
+Mogoče en izmed teh lažjih načinov je, da najprej greš zelo nazaj v svoje začetke, pa da malo poveš, kaj si ti počel na začetku,
+
+18
+00:02:46,000 --> 00:02:54,000
+kako si sploh začel z infrastrukturo, kako si se začel z Linuxom ukvarjati, kako si svoj prvi server postavil,
+
+19
+00:02:55,000 --> 00:02:59,000
+pa da potem iz tega v bistvu naredimo neko paralelo, kako se je svet spremenil.
+
+20
+00:02:59,000 --> 00:03:09,000
+In mogoče to, če se malo vrnemo nazaj v čas, bomo lahko opisali, kako je bilo stanje takrat, kako so bile takrat zahteve in kako je sploh svet bil.
+
+21
+00:03:10,000 --> 00:03:23,000
+In dajmo začeti mogoče tam. In moje prvo vprašanje glede tega sklopa je, kje si ti začel z Deops, oziroma s sistemskim inženiringom,
+
+22
+00:03:24,000 --> 00:03:28,000
+kje je tvoj začetek v tem prostoru, pa bomo potem probali se tam izpeljati.
+
+23
+00:03:29,000 --> 00:03:42,000
+To je bolj dobro vprašanje. V zgodnih 2000-ih je prišel v Slovenijo široko pesem in internet, oziroma je bil dosudljiv za končnega potrošnika.
+
+24
+00:03:43,000 --> 00:03:50,000
+In takrat sem se jaz odločil, da on router, ki smo ga imeli, ni več tako dober, kot kar.
+
+25
+00:03:51,000 --> 00:03:59,000
+Oziroma, hodil sem malo razumet, kako deluje networking in to je potem sledil do tega, da sem kupil za,
+
+26
+00:04:02,000 --> 00:04:11,000
+a so bili takrat še dolari, za 10.000 dolarev en narabljen del Pentium 3, 4, ne vem, zelo staro,
+
+27
+00:04:12,000 --> 00:04:20,000
+pa eno dodatno mrežno kartico in potem sem sledil vodičo, se spomnim, iz Joker foruma na mnenjalniku,
+
+28
+00:04:21,000 --> 00:04:25,000
+kako naredim iz stare kište router, nekaj v tem smislu je bilo.
+
+29
+00:04:26,000 --> 00:04:37,000
+In potem sem dummy kopiral okaze v Windows puti prek SSH-ja in skonfiguriral v bistvu.
+
+30
+00:04:37,000 --> 00:04:42,000
+Ampak server si pa kaj, iz CD-ja si že posnel, ali še z diskete?
+
+31
+00:04:43,000 --> 00:04:47,000
+Ne, ne, so bile že, je bil že CD. Uuu, je že bil CD.
+
+32
+00:04:48,000 --> 00:04:55,000
+Ja, na jaz se je, ta kišta je imela že neko CD-no, to vem pa, da so mogo bilo s updated pa še z disketo,
+
+33
+00:04:56,000 --> 00:05:03,000
+ker so bili neki problemi z dodanjem te pci mrežne.
+
+34
+00:05:04,000 --> 00:05:11,000
+Tako da moj prvi domači strežnik je bil nekaj 386, 486.
+
+35
+00:05:12,000 --> 00:05:14,000
+Ne, je bil je Pentium 3, Pentium 4.
+
+36
+00:05:15,000 --> 00:05:16,000
+A, to je že bolj bolj.
+
+37
+00:05:17,000 --> 00:05:21,000
+Ja, ja, po moje je bilo dva, četiri kernelje, je bil že takrat pa ležeč, vem, da je bil ležeč,
+
+38
+00:05:22,000 --> 00:05:26,000
+te stop mašina ful stara in gor sem imel še katodni monitor.
+
+39
+00:05:27,000 --> 00:05:28,000
+Aha, ok.
+
+40
+00:05:29,000 --> 00:05:31,000
+Takrat so bili še LCD, si tako, mislim.
+
+41
+00:05:31,000 --> 00:05:36,000
+Ja, ne, lahko si ga že dobil, ampak je bilo to tako drago, da pač nisem imel tako kakšne zaloge, tako kaj jih imamo zdaj,
+
+42
+00:05:37,000 --> 00:05:40,000
+pa ne veš kam boš tiste dve samanče zmonteril.
+
+43
+00:05:41,000 --> 00:05:46,000
+Tako da, ja, tako sem začel, kako sem pa ti začel?
+
+44
+00:05:47,000 --> 00:05:51,000
+To so, prej ne so tudi, spravi, router si postavil, isto si sistem začel najprej.
+
+45
+00:05:52,000 --> 00:05:58,000
+Ja, ja, v bistvu, ja, pač za IP tables-a, ne vem kaj tam točno bilo.
+
+46
+00:05:58,000 --> 00:06:01,000
+Ampak nisi imel namena postaviti na njegov web server?
+
+47
+00:06:02,000 --> 00:06:09,000
+Ne, ne, mene je v bistvu takrat najbolj zanimalo, ok, mene je zanimalo, kako funkcionira IPv4, pač,
+
+48
+00:06:10,000 --> 00:06:15,000
+mislim, bil sem tako, ok, to je najbrž tako dost simple, pa pa se lahko malo igram,
+
+49
+00:06:16,000 --> 00:06:19,000
+pa se skaže, da v bistvu so neki koncepti tako ful težko že razumeti,
+
+50
+00:06:20,000 --> 00:06:24,000
+ker se moram še zdaj dostkrat pomisliti, pa sem to že stokrat delal, samo kako završam jaz,
+
+51
+00:06:24,000 --> 00:06:30,000
+završam jaz, kako delati na to, oziroma to je v bistvu itak pad, pa sem, pa tja, pa gor, pa dol, pa,
+
+52
+00:06:31,000 --> 00:06:35,000
+pa mene je bilo takrat tudi strah, terminala, vse to mi je bilo še pol dolg, še v bistvu,
+
+53
+00:06:36,000 --> 00:06:40,000
+tudi, ker sem se kiber popičano, ker ti se tako črnov, pa ti nekaj noter pišeš, mislim tako je,
+
+54
+00:06:41,000 --> 00:06:50,000
+Ampak zanimivo je, da si rekel, da si se s putjem, spravi, z Windows boxom si se povezoval na tal mašino, ki si jo postavil ali kaj.
+
+55
+00:06:50,000 --> 00:06:52,000
+Ja, to pa, ker sem že malo naštudiral.
+
+56
+00:06:52,000 --> 00:06:54,000
+Zgoberi si direkt studeral?
+
+57
+00:06:54,000 --> 00:06:59,000
+Aja, sem, sem, najprej sem bil na tleh, na mrzlih ploščicah, samo to ni tako bilo odobno,
+
+58
+00:06:59,000 --> 00:07:07,000
+pa z neko staro tepkovnico, pa gledal uncerta, pa po enih, po enem mesecu, po moje, sem poštudiral, da putje obstaja,
+
+59
+00:07:07,000 --> 00:07:15,000
+pa to je tako trajal, pač, to je bilo tako, pač, izklopster router, ki je bil ta GL, pa to hacky, pač,
+
+60
+00:07:15,000 --> 00:07:23,000
+ki so ostali gledali televizijo, televizija včasih je bila še analogen satelit, pa terestrialna, to spravo nisi rabil interneta za to,
+
+61
+00:07:23,000 --> 00:07:33,000
+in pol, pač, pol sem spet nazavse preklopil, ker ni delal, pa sem tako časa to prčko, da ni začel delati in trajali tako zihne in šeste, no.
+
+62
+00:07:33,000 --> 00:07:51,000
+A si, za začetnike v tem času, pa se tudi verjetno še danes je isto, a splošno recimo v tem Linux prostoru, ljudje se poistovetijo z distribucijami, se spolniš distribucije?
+
+63
+00:07:51,000 --> 00:07:58,000
+Ja, ja, tebi je ne bil, sam, ko si tak nug, ni imaš strong feelings about things, pač.
+
+64
+00:07:58,000 --> 00:08:02,000
+In kaj si naredil, ko si recimo zjebel sistem, si šel formatirati se?
+
+65
+00:08:02,000 --> 00:08:12,000
+Ne, ne, se nisi ga mogel tako unič, ti si v bistvu samo, vsaj, kar se je zgodil, je, da si tako zaštrikal firewall, da si pač vse vso konfiguracijo vključnil.
+
+66
+00:08:12,000 --> 00:08:14,000
+Da si se odklenil, zaklenil si se.
+
+67
+00:08:14,000 --> 00:08:16,000
+Ja, ampak to ni bil problem, sem se pač podmizel, ampak.
+
+68
+00:08:16,000 --> 00:08:17,000
+Ja.
+
+69
+00:08:17,000 --> 00:08:27,000
+Za me je bil domena, ki se mi je lahko maksimalno uničal, je bila pač nastavitev firewall-a, pa neke stvari nisem takrat zgodil, da bi tako skrojil sistem.
+
+70
+00:08:28,000 --> 00:08:33,000
+Da ne bi delal, to je pale prišlo v začetki faksa, ker sem že in tako upajal pa te novnosti.
+
+71
+00:08:35,000 --> 00:08:36,000
+No, kako smo ti začel?
+
+72
+00:08:37,000 --> 00:08:44,000
+Zdaj, jaz sem si pripravlj, mar, sem šel malo raziskovat, kdaj je bilo tisto, ker sem se sam igral s temi stvarmi,
+
+73
+00:08:44,000 --> 00:08:52,000
+a sem se začel igrat s temi stvarmi, in to je bilo tudi tam v krok pred prelomom na 2000, pa v krok 2000.
+
+74
+00:08:53,000 --> 00:09:01,000
+In za ilustracijo takrat se je uporablilo PHP 4.0, recimo je bilo takrat zunaj.
+
+75
+00:09:02,000 --> 00:09:10,000
+In to je tudi tisto neko prelomno leto, pa v krok tistega leta je prišlo tudi Apache 2.x ven, ne.
+
+76
+00:09:11,000 --> 00:09:15,000
+In takrat so te major verzije teh dveh softwarev prišli ven.
+
+77
+00:09:16,000 --> 00:09:20,000
+Jaz sem se v bistvu veliko igral z Linux slackware-om.
+
+78
+00:09:21,000 --> 00:09:28,000
+Ta je bil tak, ok, debjanje so paketi, to je že vse naredilo, kaj je pa bolj hardcore od tega.
+
+79
+00:09:29,000 --> 00:09:30,000
+Poslednjič smo se z tem slackware-om igrali.
+
+80
+00:09:31,000 --> 00:09:42,000
+In slackware je takrat, se mislim, da še vedno ta distribucija obstaja, ampak to je tak res Linux kernel, pa pač nekaj tega osnovnega bash-a, pa toolinga.
+
+81
+00:09:42,000 --> 00:09:47,000
+Mislim, da je tudi kompajler zdravjen, nisem pa čisto pripričan, a je getCB zdravjen.
+
+82
+00:09:48,000 --> 00:09:56,000
+Ampak ta zadeva je zdelovala tak, da si potegno z interneta dol source code od Apache-a, source code od PHP-a,
+
+83
+00:09:57,000 --> 00:10:04,000
+potem si mogo, ali pa tudi če si MySQL, mi je vse še mogo MySQL dol potegnati, ampak to je bil nek tak najbolj popularen kombo.
+
+84
+00:10:04,000 --> 00:10:15,000
+Potem si pa mogo najprej skompajljati, mislim, da PHP, pa potem si mogo skompajljati Apache extension ali nekaj glavnega, to je kompajljalo vse.
+
+85
+00:10:16,000 --> 00:10:18,000
+In to se je kompajljalo par ur.
+
+86
+00:10:19,000 --> 00:10:25,000
+In če si kak flag pozabil, pa si lahko šlo še enkrat skompajljati in potem si je dobil pač te binari.
+
+87
+00:10:25,000 --> 00:10:33,000
+Jaz sem bolj bil v tem prej, prej, da sem ogotovil, da lej, daj pa paketi, pa RPM paketi in vse skupaj.
+
+88
+00:10:34,000 --> 00:10:49,000
+To so bile nekaj te poskusij. Nekaj bom obdobil, sem poskusil od Fedore do Red Hat Linux-a, do SUSE Linux-a, do takrat še Ubuntu-a, mislim, da sploh bloni.
+
+89
+00:10:50,000 --> 00:11:00,000
+V glavnem ful sem poskušal vseh teh različnih distribucij. V mečinu sem jih dol potegl, potem sem igral in ko sem zašuštral, sem dobosedno pobrisal vse skupaj, pa sem polovno postavil.
+
+90
+00:11:01,000 --> 00:11:08,000
+In poskušal sem tudi te BSD, NetBSD, OpenBSD, FreeBSD, to sem vse poskušal.
+
+91
+00:11:09,000 --> 00:11:12,000
+Teda sem se ful igral s temi sistemi.
+
+92
+00:11:13,000 --> 00:11:25,000
+Moje tako, to sem čisto delal v nekem desktopu pa to, potem pa sem v bistvu, ko sem znal pač malo več tega PHP-a, pa to sem delal v veliko spletnih stranih.
+
+93
+00:11:26,000 --> 00:11:38,000
+In kot sloveno šolec slajšt dijak sem potem v bistvu preko tega dijačkega dela zaslužil nekaj cash-a, da sem pol v bistvu dveh letih kupil pa svoj prvi server.
+
+94
+00:11:39,000 --> 00:11:42,000
+In je bil nek del SC ne vem kaj.
+
+95
+00:11:43,000 --> 00:11:47,000
+In isto sem potem spet dobil playground za experimentation.
+
+96
+00:11:48,000 --> 00:11:52,000
+In sem pač delal page in sem potem jih ali sam hostal, ali pa sem jih pač druge.
+
+97
+00:11:52,000 --> 00:11:57,000
+In to in kje so te moje začetki z infrastrukturo.
+
+98
+00:11:58,000 --> 00:12:04,000
+Dojemo se mi pa že takrat v bistvu, da če hočem neke page delati nekje morajo živeti.
+
+99
+00:12:05,000 --> 00:12:09,000
+In več ko se vedo kako ti layer iz spodi delala, lajže je bilo.
+
+100
+00:12:10,000 --> 00:12:15,000
+Nisem se sizre zanimil o to, ko si ti rekel neki natip o Firewall-i, s tem se nisem nikoli tako zafrkaval.
+
+101
+00:12:16,000 --> 00:12:20,000
+Pozostavljal sem pa nam FTP-server, pa IRT-server pa te zadeve, to sem se pa igral.
+
+102
+00:12:21,000 --> 00:12:25,000
+Zdaj, tu bom vdal kontekst, jaz sem šel še malo pogledati številka.
+
+103
+00:12:26,000 --> 00:12:37,000
+Zdaj, ko se pogovarjamo zdaj v 2022, v teh zadevah mogoče internet 22 let nazaj je na prelomu.
+
+104
+00:12:38,000 --> 00:12:44,000
+Takrat je bilo okoli 300-350 milijonov uporabnikov interneta.
+
+105
+00:12:45,000 --> 00:12:53,000
+Za primerjavo leta 2022 je skoraj 5 milijard uporabnikov interneta.
+
+106
+00:12:54,000 --> 00:13:02,000
+In 62% populacije na zemlji ima dostop do interneta.
+
+107
+00:13:03,000 --> 00:13:12,000
+Takrat svet, v katerem smo mi dva začeljala, je bil tak, da če je sosedov Muld že videl tvoj page, je že bilo velika.
+
+108
+00:13:13,000 --> 00:13:16,000
+In tudi ljudje niso vedeli, kaj početi s tem.
+
+109
+00:13:17,000 --> 00:13:19,000
+Plus te geografske umetve.
+
+110
+00:13:21,000 --> 00:13:27,000
+In zdaj, fast forward, danes so pričakovanja več, več userje je in vse skupaj.
+
+111
+00:13:29,000 --> 00:13:35,000
+In na njih način smo oba mislila, da je bila to srečo, da je takrat bilo toliko uporabnikov in da si se lahko je igral.
+
+112
+00:13:36,000 --> 00:13:41,000
+In pač ni bilo nekih pričakovanj tudi v strani ljudi, ki so te page gledali, da bo vse snapi in vse skupaj.
+
+113
+00:13:43,000 --> 00:13:47,000
+Jaz ga nazaj pogledam, so še nekaj tri stvari, ki se jih zelo dobro spomnim.
+
+114
+00:13:48,000 --> 00:13:52,000
+Spomnim se onega samoforčka, ki si ti MySQL štarto na Windowsu.
+
+115
+00:13:53,000 --> 00:13:57,000
+Je bil potem od spodi v vrstici, je bil res tak samofor.
+
+116
+00:13:58,000 --> 00:14:01,000
+Ardeč pomenel, da ni delal, ar pomenel, da se je buto za njega, da je delal.
+
+117
+00:14:02,000 --> 00:14:05,000
+In potem, ko si postavil PHP, BB forum, si bil presrečen, ki je to delal.
+
+118
+00:14:06,000 --> 00:14:09,000
+Pa si ti je zdel tako, ok, pač jaz sem zdaj največji car na svetu.
+
+119
+00:14:10,000 --> 00:14:14,000
+To je nekaj tak spomin, ki mi je bil zelo zabavan.
+
+120
+00:14:15,000 --> 00:14:19,000
+Potem se spomnim, ki sem se prijavil v Cyber People na študentsko delo za dva evra in pol.
+
+121
+00:14:20,000 --> 00:14:24,000
+Pač petnaest let nazaj, sem bil glih osemnaest.
+
+122
+00:14:28,000 --> 00:14:34,000
+Ki sem prišel tja, a, sem bil v dežuren, b, sem mogel zelo hitro skrbeti za vse one računalnike,
+
+123
+00:14:35,000 --> 00:14:40,000
+ki so bili v enem takmo kodku, ki so se v bistvu zbutali iz lana.
+
+124
+00:14:41,000 --> 00:14:43,000
+Aha, ovo, to je že fancy.
+
+125
+00:14:44,000 --> 00:14:48,000
+Ja, ja, ampak takrat ni bilo še tako, mislim, smartoni so takrat glih vam prišli.
+
+126
+00:14:49,000 --> 00:14:51,000
+Pa je bilo še tako, čist neka druga doba.
+
+127
+00:14:52,000 --> 00:14:55,000
+Folk je dejansko prišel v Cyber Cafe, delal ka malo posrfo.
+
+128
+00:14:56,000 --> 00:14:58,000
+To je bilo tako, pač to mi je bilo zelo zabavno.
+
+129
+00:14:58,000 --> 00:15:02,000
+A ti si dovolj, ko si se na to študentsko delo prijavil, si se prijavil
+
+130
+00:15:03,000 --> 00:15:06,000
+randomli ali si se zlo znamenil, da boš delal?
+
+131
+00:15:07,000 --> 00:15:11,000
+Ful randomli. Jaz sem samo hotel nekaj delati, ki je povezan z tehnologijo.
+
+132
+00:15:12,000 --> 00:15:13,000
+Ja.
+
+133
+00:15:14,000 --> 00:15:20,000
+In pol je, ker je to pač bil zavod, je bila tko urna postavka že takrat ful nizka, pač bila je resko dva pa pol.
+
+134
+00:15:21,000 --> 00:15:30,000
+Pa pol me je, v bistvu, Klemen Robnik, sem imel z njim razgovor, pa je rekel, ej, pač ti si uspelnil ta vprašalnik.
+
+135
+00:15:31,000 --> 00:15:37,000
+Spravo uspelnil sem, da eno vprašanje je bilo ful najboljši vprašanjnik za delo ever.
+
+136
+00:15:38,000 --> 00:15:42,000
+Eno vprašanje je bilo tako, bili so pri vseh vprašanjih predeterminirane odgovori.
+
+137
+00:15:43,000 --> 00:15:47,000
+Ampak eno je bilo čist na robe, v smislu, nek špil še ni vem prišel.
+
+138
+00:15:47,000 --> 00:15:53,000
+In pa vse mogo pač, karkoli si obkrožil na robi, in jaz sem pač ti vse pričetil, pa sem rekel, ej, to še tako ni vem prišlo.
+
+139
+00:15:54,000 --> 00:16:00,000
+Pa bila so vprašanja, ne vem, a si vsegda je inštaliral distribucijo presebi doma ali pa presosedo ali bi, to je pač tako vprašanja.
+
+140
+00:16:03,000 --> 00:16:14,000
+Ja, pa takrat, vse eni izmed razlogov, da sem v te infrastrukturi bolj pristal, kot kar v building things, je po mojem glih za to, ker sem toliko let tam pač maintainal ful veliki stvari.
+
+141
+00:16:15,000 --> 00:16:25,000
+Pa, no, vsej, še ta zadnji spomin, je pa v bistvu, spomnem se, ker sem imel enkrat krvave roke, ker sem toliko peč kablo na roke nakrimpl.
+
+142
+00:16:26,000 --> 00:16:39,000
+Pač, že takrat si ti, če si imel kapital ali pa cash, si pač šel v trgovino, pa si kupil peč kratke Ethernet kable, da si prepečel sviče v router oziroma sviče med sabo.
+
+143
+00:16:39,000 --> 00:16:54,000
+Valjda tudi tega casha takrat nismo imeli, jaz se spomnem, da sem nakrimpl vse 60 kablov, kar pomeni, da je to 120 robov kabla in potem, kaj ti ta bakar v bistvu rovnaš, da gre lepo notri v konektor, ga moraš tako...
+
+144
+00:16:54,000 --> 00:16:55,000
+Rovnaš.
+
+145
+00:16:55,000 --> 00:17:00,000
+Ja, malo ga moraš vigljati, ga moraš sempati ja, vedem, da sem imel prav krvave roke nesleden dan.
+
+146
+00:17:01,000 --> 00:17:04,000
+To me je tudi tako spomenil, ker se mi je zdel ful zabavno.
+
+147
+00:17:05,000 --> 00:17:07,000
+Zelo, da ti vorata, če svojo kri puščeš.
+
+148
+00:17:11,000 --> 00:17:14,000
+No, ok, to je bil trip down the memory lane.
+
+149
+00:17:16,000 --> 00:17:32,000
+Meni se tu, če še grem na ta začetek, meni je bilo, zakaj sem bila šel bolj v ta building, meni je bilo ful šeč, ker ko si te sistemi, ko so delovali, pa se so lahko ljudje dostopali do teh sistemov,
+
+150
+00:17:32,000 --> 00:17:47,000
+do teh pejžov, do tega medija in so lahko ljudje videli, kaj delaš in lahko si dobil orodje, da pomagaš ljudem ali pa da, a veš, veliko ljudi si lahko reče s temi tehnologijami in to je meni bilo ful zabavno.
+
+151
+00:17:48,000 --> 00:17:54,000
+Ta, ta, ta feeling, olej, naredil sem nek webpejč, nek webapp, mislim, da ljudje nekaj delajo s tem, je bilo tako nevrjetno.
+
+152
+00:17:54,000 --> 00:17:57,000
+Ome, bok, en človek z nove gorice in skrce.
+
+153
+00:17:58,000 --> 00:18:03,000
+A ne, in to je bilo tako, okej, to je to znova.
+
+154
+00:18:04,000 --> 00:18:12,000
+Zdaj, podkrepila bomo, pa zdaj še to, ti si certified Google Cloud Engineer, je tako?
+
+155
+00:18:13,000 --> 00:18:22,000
+Ja, Cloud Architect. Zdaj mi je sicer potekal, zdaj me pomaga pač podaljšal, ampak ja, pač to certificacijo sem naredil.
+
+156
+00:18:22,000 --> 00:18:29,000
+Ja, in če pravi razumem, imaš tudi z AVS-o oziroma delaš tudi z AVS-o, oziroma ti ne moremko veliko, da imaš tudi...
+
+157
+00:18:29,000 --> 00:18:34,000
+Ne, za AVS-o bi po mojem, pa sam mogel biti pisat, pa bom tudi po moje šel.
+
+158
+00:18:35,000 --> 00:18:44,000
+Malo je pred teh certifikacijah, jaz sem včasih rekel si, te certifikacije so brez veze, po drugi strani so pa v bistvu,
+
+159
+00:18:45,000 --> 00:18:57,000
+pol, ko sem šel delati, sem govoril, da so full useful, predvsem zato, kar ti enih stvari si ti enkoli ne bi prebral, če ti ne bi nekdo silil z kurikolom in da jih moraš pogledat.
+
+160
+00:18:57,000 --> 00:19:03,000
+In ja, ene stvari so mogoče malo bolj brezvezne, ampak dosta stvari pa pač ni, pa si tako, o, to sloh nisem vedel, da obstaja.
+
+161
+00:19:04,000 --> 00:19:20,000
+Ne vem, predtem bi to naredil custom. Zdaj mi je pa v bistvu tudi tako, da full so mi všeč te, rečem slov za AVS-o, full so mi všeč vsi te tečaji spletni,
+
+162
+00:19:20,000 --> 00:19:31,000
+ki ti se zato učiš, pa pa hočeš to ukroniti čez certifikacijo, pač stvar, a zdaj greš pa, a ne.
+
+163
+00:19:31,000 --> 00:19:45,000
+A je tudi, če narediš certifikat za Google Cloud ali pa za AVS, a se ti zdi, da če enega narediš, da je potem lažje narediti cross za drugi, a se samo razlike preučiš, pa pol, ali?
+
+164
+00:19:45,000 --> 00:19:49,000
+Ja, in po moje je predvsej lažje.
+
+165
+00:19:49,000 --> 00:19:58,000
+Zdaj, kaj enkrat ustanoviš osnove, kaj networkinga, clouda, deplovanja kontenerjev, potem se dife, bursnici naučiš ali kaj?
+
+166
+00:19:58,000 --> 00:20:08,000
+Mislim malo je tako po eni strani, kot ker če znaš italijansko, a te lažje vse naučiš špansko, ja, ampak moraš biti bolj pozoren, da ne boš nekaj besed zamišljal, če hočeš res dobro znat.
+
+167
+00:20:09,000 --> 00:20:16,000
+Ampak ne vem kako, ful je fajn, tudi če so stvari drugačne, imaš potem nek reference point, a ne?
+
+168
+00:20:16,000 --> 00:20:25,000
+Če rečeš, a, networking v Google Cloudu je malo bolj lusi-gusi, pa pal, ker greš v, če držiš pa bolj v AVS-o, kaj sem v bistvu imel ta vrst narediti.
+
+169
+00:20:25,000 --> 00:20:36,000
+Preveč pa pa je sto uporabljal, ami koli nisi ful v tem razmišljal, pa če rečiš na nekem tem strokovnem nivoju, si pa lahko ta emičkan bolj strikna.
+
+170
+00:20:36,000 --> 00:20:53,000
+Pogovarjati na tem, kako ti separiraš, da si podjedi tika dva projekta, kako boš naredil separacijo tega v Google Cloudu, pa v AVS-o, je precej različno, ampak kaj veš kako, rečemo Google,
+
+171
+00:20:53,000 --> 00:21:09,000
+dela to dost enostavno, pa po mojo je dober, pač v AVS-o moraš bolj že razmišljati, ampak bo to ločen AVS-o, ampak obstavljata GitHub Organizations, pa cel kupenih rolov lahko pravzameš kot tiko to uporablje,
+
+172
+00:21:09,000 --> 00:21:31,000
+pač so tako stvari malo drugačne, ampak ful ti pomaga, no, kaj imaš nek reference point, pa rečeš, aha, to je drugac, to delto, je še zmer lažje, kot kar, da pač nečega tega nimaš, tako da po mojo je pol dost hiter, mislim, ni ultra trivialno, da bi ti kar zdaj rekel, ok, naredil sem GCP, pa en mesec, pa bomo še kar AVS-o, to ne je, ampak ti pa vsem pač lažje.
+
+173
+00:21:31,000 --> 00:21:55,000
+Za menedžeri, ki poslušajo ali pa podjetnike, ki imajo programmerje, a bi so tovali, da naj pošljajo svoje sistemce, da je ops inženirja ali pa inženirja na te zadeve, a bi se ti zdi, da če znajo inženiri več klauda ali pa če grejo enkrat čez ta certificiranje ali pa čez te korse,
+
+174
+00:21:55,000 --> 00:22:02,000
+a si ti zdi, da bo boljš izkorisli te klaudo offeringe?
+
+175
+00:22:02,000 --> 00:22:09,000
+Bo zred tega manj reinventanja, bo boljša izraba teh resursov ali kaj bi rekel?
+
+176
+00:22:09,000 --> 00:22:27,000
+Res bom, nič kaj drugače bom začel, pa bom rekel, meni se zdi ful pomembno, da če si ti bolj, v začetku karjera je to pomembno, ker se boš ful naučil, zdaj, ker pa že itak tako nimaš veliko znanja, pa če imaš en vod on kurikulom, ti bo ful pomagal.
+
+177
+00:22:27,000 --> 00:22:46,000
+Pa konc konce vse enkaj vzamaš, vzamaš kjerkolikor klaud provajder, to ni tako bistveno. Če si zaposlen, pa ti dejansko vse delo, to še pač rada se vzeti čez, če te nekdo to krije, tudi ful priporočam, zato ker ene stvari so ful lažje, rečmo tako zelo tipičen primer je,
+
+178
+00:22:46,000 --> 00:23:15,000
+da ti hočeš pisat v nek object storage, naprimer v S3, imaš pa v neko virtualko na AVS-u in kaj ljudi doskrat delajo, ker niso nič studiral, je dobijo ključ, naredijo service account, dobijo ta ključ, ga dajo notro v aplikacijo, pa se konektajo pač na S3, po drugi strani pa v bistvu cos toh ne rabeš menj, zato ker ti lahko v virtualki sami daš rolo, da ima permission, da se nekaj skonekta
+
+179
+00:23:16,000 --> 00:23:31,000
+ali te tvoje knjižnice v backgroundu skontaktira metaserver in ti ni treba ono ključe okolj podajati, kar je kar annoying, pač lahko to drugač rešiš in zato ne boš vedel, če pač nisi delal tega čez ali pa, a ne, ker ono prvo dela sam ni toliko elegantno.
+
+180
+00:23:31,000 --> 00:23:47,000
+Iz telišča menedžerjev je pa, kaj jaz tu pažam, jaz sem delal zdaj za zelo velika podjetja, spravo delal sem za podjetje, ki je Mid Cap Index, to je S&P 400, to so pač kar velika podjetja, pač valjda public companies.
+
+181
+00:23:47,000 --> 00:24:13,000
+Tam je pa razmišljeni mič, kar drugač, pa tega še nisem videl v Sloveniji, pa je bilo predvseh brihno, tam pa v bistvu delaš tako, rečeš, aha, inženjeri so hard to find, mi smo naredili risk evaluacijo, da avasej the thing, pač fully low risk, zato ka avasej literally to big to fail, pač ne boš kar bankrupt, kar to je, to jim uničeš v bistvu Ameriške ekonomije, če gre avaso bankrupt.
+
+182
+00:24:13,000 --> 00:24:41,000
+In rečeš, mi bomo delali zdaj stvari nič kar bolj cloud native, in potem nam je pač fullušno, zato kar vse, kar bomo delali, mi moramo vse divizije tih inženjerjev v bistvu samo dati če sta training kurs, pač kolikor vojske, pač najprej narediš avasa developer, pa si pa šedrija, potem pač, če moraš bolj security focus, to je vse, to je pač rešen zate, ti imaš ljudi, ki so v bistvu tipizirani, konc koncov.
+
+183
+00:24:41,000 --> 00:24:59,000
+Pri hiringu ti je v bistvu tudi lažje, ali pa tudi, kaj enega hiraš, go pol uprašeja, bi ti pol naredil še te tri kurse, plus to domensko znanje, pač izobraževanje za domensko znanje, potem dobiš že kar intermediate, solid inženjerja, če spravljaš, če ima prej nek background, da je delansko nekaj naredil, da je builder.
+
+184
+00:25:00,000 --> 00:25:07,000
+Je že tako kar obusno in je ta premisa ful pomembna. To je ful pomembno sloh izven tehnoloških firam.
+
+185
+00:25:07,000 --> 00:25:18,000
+Če si ti navaden komers, pa hočeš imeti, mislim, kaj je nabor ljudi, ki jih ti rabiš, težji brez tega.
+
+186
+00:25:18,000 --> 00:25:30,000
+Daj še to povej z ljudi, ki mogoče ne vejo. A govorim o entry-level certificiranju, inženir certificiranja, korsi.
+
+187
+00:25:30,000 --> 00:25:38,000
+A ta zadeva kosta, ne vem, 20 tisoč evrov, 100 tisoč evrov? Kak je price range teh certifikatov?
+
+188
+00:25:38,000 --> 00:25:48,000
+To je predvsej dobro vprašanje. Za Google ima deal s korsero, in potem za izobraževanje plačaš okol 45 evrov na mesec.
+
+189
+00:25:48,000 --> 00:25:59,000
+In so ti navoljijo v bistvu vsaj te Google izobraževanje vsebine. Oni so se to predvsej dobro znajdeli.
+
+190
+00:25:59,000 --> 00:26:10,000
+Certifikacija se mi zdi, da je bila okol 200 evrov. To greš pisati v izpitni center v Ljubljani, so nekaj trije, lahko tekrat si tudi online.
+
+191
+00:26:10,000 --> 00:26:19,000
+Pač, ker je bila korona, to pač se malo spremljenja. Tipično greš nekam to pisati, omenjaš čas.
+
+192
+00:26:19,000 --> 00:26:36,000
+Za AVS je pa nič, kam drugač. V Sloveniji so ponudniki dejansko treninga, obstajajo tudi spletni ponudniki, kjer ti imaš priprave za nek certifikat, kjer te gajdajo čez stvari.
+
+193
+00:26:36,000 --> 00:26:41,000
+In je tudi ful dobro, oni ti povejo, lej to in to in to, ampak v bistvu tukaj je dokumentacija, daj se preberj.
+
+194
+00:26:41,000 --> 00:26:47,000
+To je reč mi meni ful všeč, ker tebe bo naravno, ene stvari te bodo bolj zanimale, druge te bodo pa malo manj.
+
+195
+00:26:47,000 --> 00:26:53,000
+In pač okaj tisto bazo pokrivaš, pa pomenem, da te pa res zanima, si pa tudi čeprav tako malo ekstra preberaš.
+
+196
+00:26:53,000 --> 00:26:56,000
+Se to ne delaš zato, ker ti je nekdo rekel, da moraš delati.
+
+197
+00:26:57,000 --> 00:26:58,000
+Tako je.
+
+198
+00:26:59,000 --> 00:27:02,000
+Se ne gre delati v psilo odprtne dokumentacije.
+
+199
+00:27:27,000 --> 00:27:29,000
+... da je to samo v gruntam.
+
+200
+00:27:30,000 --> 00:27:35,000
+Tako da pa na AVS so pa tudi nekaj te podobne cene, 200 EUR od tem nekje.
+
+201
+00:27:35,000 --> 00:27:48,000
+Kar je pa za nekoga, ki je, če si ti študent, je pač to relativno drago, ampak če si pa podjetje, pač je nekdo, ki hoče to res delati.
+
+202
+00:27:48,000 --> 00:27:50,000
+To pa ni tako drago, se meni se ne zdi.
+
+203
+00:27:50,000 --> 00:28:01,000
+Zdaj mi do teh pogovorji bomo zelo biased, ampak tu zadi imamo še tudi Azure Cloud, pa tudi Oracle Cloud, pa potem imamo manjše ponudnike,
+
+204
+00:28:01,000 --> 00:28:05,000
+tudi cloud tehnologiji, pa tudi hosting prirajdele.
+
+205
+00:28:05,000 --> 00:28:12,000
+Jaz bom rekel, da tam so podobne zadeve, nimam pa toliko točnih informacij, zato imam težko,
+
+206
+00:28:12,000 --> 00:28:17,000
+zato imam težko, čez celo tole epizodo, tudi popolno malo ravnovečena.
+
+207
+00:28:18,000 --> 00:28:25,000
+Ampak tudi mislim, da je zelo podobna zadeva, tudi dobiš neke badge, pa certifikate tudi za Azure.
+
+208
+00:28:25,000 --> 00:28:29,000
+Tudi ima zelo dobre korse, pa vse je tudi seveda dobitno.
+
+209
+00:28:29,000 --> 00:28:35,000
+Eno vprašanje še imam, samo da iz tega sklopa, ki sem videl, da je zanimiva, ni.
+
+210
+00:28:35,000 --> 00:28:43,000
+Kdo plača v bistvu za ta hosting, ko ga boš rabil, da se lahko s tem igraš?
+
+211
+00:28:43,000 --> 00:28:54,000
+Kdo ti plača kredit za vse? Odkje denar za to, da poldejansko po teh klaudih se igraš, pa da si nek lep narediš?
+
+212
+00:28:54,000 --> 00:29:00,000
+To je super vprašanje, pa so različne strategije.
+
+213
+00:29:00,000 --> 00:29:07,000
+Google Cloud ti bo, ko narediš akaunt, v prvih dvanestih mesecih dav 300 evrov badžeta,
+
+214
+00:29:07,000 --> 00:29:11,000
+ki ga ti lahko spendaš in ti to samo odbijajo stran.
+
+215
+00:29:11,000 --> 00:29:23,000
+Večinoma za samo izobraževanje so te stroški dejansko infrastrukture predvsej nizki.
+
+216
+00:29:23,000 --> 00:29:29,000
+Tako da, ne vem, jaz to vse kar sem delal, sem poldel na svojo kreditno,
+
+217
+00:29:29,000 --> 00:29:33,000
+in to pa na konc prijetri evre, da ti narediš un lep.
+
+218
+00:29:33,000 --> 00:29:40,000
+Pol je pa v bistvu dostih izobraževan, ima tako nareden, da obstajo specializirani ponudniki,
+
+219
+00:29:40,000 --> 00:29:48,000
+ki imajo nek kontrakt z klaud provajderji, in oni ti na konc tečajo, da biš lep.
+
+220
+00:29:48,000 --> 00:29:53,000
+To se pravi, je neko laboratorijsko okolje in to je on them.
+
+221
+00:29:53,000 --> 00:29:56,000
+Ti se zdogeraš, oni ti dajo username in password.
+
+222
+00:29:56,000 --> 00:30:03,000
+Literalno se je pri Google in pri AWS v oba dva ima podobno.
+
+223
+00:30:03,000 --> 00:30:09,000
+Ti dejansko dobiš to okolje in pač klikaš tam, in potem lep ima v bistvu tudi čekaj odzadi,
+
+224
+00:30:09,000 --> 00:30:11,000
+če si ti pravilno to naklika.
+
+225
+00:30:11,000 --> 00:30:15,000
+Kaj se pravi, ko ti da analogo, ti poklikaš in potem verificira, če si prav.
+
+226
+00:30:15,000 --> 00:30:21,000
+Verificira, ja. Če so resursi tam ali pa pač to imaš.
+
+227
+00:30:21,000 --> 00:30:26,000
+Tako da večinoma je to pač vse kar vključen v sama ta izobraževanja,
+
+228
+00:30:26,000 --> 00:30:29,000
+pa ti ni treba to ekstra vključivati.
+
+229
+00:30:30,000 --> 00:30:33,000
+Ok, smo se zagreli. Ti je odobno?
+
+230
+00:30:33,000 --> 00:30:35,000
+Topno, ful fajn.
+
+231
+00:30:36,000 --> 00:30:43,000
+Ok, dejmo potem zdaj malo več se pogovarjati o tem,
+
+232
+00:30:44,000 --> 00:30:49,000
+kako smo prišli v resnici sploh do teh klaudov.
+
+233
+00:30:49,000 --> 00:30:51,000
+Kaj je to dobro vprašanje?
+
+234
+00:30:51,000 --> 00:30:55,000
+Spravljujoči smo se, ne vem, 20 let, 22 let nazaj, smo rekli, da si kupil server,
+
+235
+00:30:55,000 --> 00:31:00,000
+pa si ga poštimo, pa je bil tvoj box, pa je bil n-box.
+
+236
+00:31:01,000 --> 00:31:05,000
+Zakaj smo prišli do klaudov oziroma kak je ta pot,
+
+237
+00:31:06,000 --> 00:31:10,000
+da smo danes pa ful v klaudih in zakaj rabimo te klaude?
+
+238
+00:31:10,000 --> 00:31:14,000
+In dej mi to razgovarj, zakaj misliš, da obstaja potreba po takem,
+
+239
+00:31:14,000 --> 00:31:18,000
+kot kot potreba, po drugačem načinu hostanja recimo?
+
+240
+00:31:19,000 --> 00:31:23,000
+Jaz bi rekel, da je to neka naravna evolucija se zgodila.
+
+241
+00:31:23,000 --> 00:31:26,000
+Niso vse firme technology first firme,
+
+242
+00:31:26,000 --> 00:31:30,000
+kar pomeni, da če si ti hotel imeti neko strežniško stvar,
+
+243
+00:31:30,000 --> 00:31:34,000
+ni bilo več smiselno, pa če si ti ful mali, ni smiselno,
+
+244
+00:31:34,000 --> 00:31:39,000
+da imaš ti zdaj kr server, nekje sredpisarne pred nogah na tleh.
+
+245
+00:31:39,000 --> 00:31:43,000
+Rečemo, da se je ne primičninski posrednik.
+
+246
+00:31:44,000 --> 00:31:48,000
+Na neki točki so sred 2000 se mi zdi, da so vsi pač nekje rabil,
+
+247
+00:31:49,000 --> 00:31:53,000
+teh klaud prišitev takrat če ni bilo in pa so vsi pač mogli
+
+248
+00:31:54,000 --> 00:31:58,000
+nekje imeti, neko opremo in seveda pa so se naredili ponudniki,
+
+249
+00:31:58,000 --> 00:32:02,000
+ko so kupili strežnike, jih nekam dal, amortizirali in taj
+
+250
+00:32:03,000 --> 00:32:06,000
+ponudali to kot neko mesečno pličilo.
+
+251
+00:32:06,000 --> 00:32:10,000
+Večinoma tako zgleda, da si ti dobil neko virtualizacijo,
+
+252
+00:32:10,000 --> 00:32:13,000
+si poklicil dejansko firmo po telefonu ali pa po mailu, pa se rekel,
+
+253
+00:32:13,000 --> 00:32:17,000
+mi bi prvost najel to virtualko ali pa dedikajte strežnik
+
+254
+00:32:18,000 --> 00:32:24,000
+z takimi in takimi speki, tok pa tok diska in potem je nekdo
+
+255
+00:32:25,000 --> 00:32:31,000
+imel več ali pa eno omaro, ki je imel not nas pa dejansko strežnike
+
+256
+00:32:32,000 --> 00:32:36,000
+in poračunal, da amortizacijsko to gre čez ali pa tudi ne,
+
+257
+00:32:37,000 --> 00:32:42,000
+ko karkoli, pa ti si to najel in zdaj, ok, ljudi klicat pa pošiljat
+
+258
+00:32:43,000 --> 00:32:48,000
+imele, je pač tečno in je prišel pač web, si enostavno imel
+
+259
+00:32:49,000 --> 00:32:53,000
+spletne portale, kjer si ti lahko pač to naklikal in so naročila
+
+260
+00:32:54,000 --> 00:32:57,000
+not prišla in jajem to potredil in ti dol to pač nazaj,
+
+261
+00:32:57,000 --> 00:33:01,000
+pač najbolj tipično, ne vem, ok, hočeš imeti hosting,
+
+262
+00:33:02,000 --> 00:33:06,000
+ki ima lokal alfa PHP, pa ima eno majsi kolbazo, ok, kuj,
+
+263
+00:33:07,000 --> 00:33:10,000
+imaš to, potem na neki točki se je pa začelo dogajati,
+
+264
+00:33:11,000 --> 00:33:15,000
+da v bistvu nad tem zgradiš še, kaj pa če ljudi hočejo to
+
+265
+00:33:16,000 --> 00:33:21,000
+prek API-ja dostopati, to se pravi, da pač imaš, a je zdaj
+
+266
+00:33:22,000 --> 00:33:24,000
+restful ali ne, zdaj je vsaj restful, ampak včasih tudi
+
+267
+00:33:24,000 --> 00:33:27,000
+ni bilo restful, si pač SOAP ali pa Remote Procedure Call
+
+268
+00:33:28,000 --> 00:33:32,000
+v xmljaju poslov, pa vsaj srežnik postavo in pač tako so začeli
+
+269
+00:33:33,000 --> 00:33:38,000
+v bistvu, ko imaš enkrat API, da lahko proviženaš infrastrukturo,
+
+270
+00:33:39,000 --> 00:33:45,000
+v bistvu so ratajo zametki klauda. Zdaj pač to je ta domača
+
+271
+00:33:46,000 --> 00:33:49,000
+varijanta, kako smo se v tega odmikali. V praksi bolj tako,
+
+272
+00:33:50,000 --> 00:33:53,000
+ne vem, AWS je v bistvu začel z SQS-om, kaj je bilo za njih
+
+273
+00:33:54,000 --> 00:33:56,000
+resno, pa so potem to začeli ponujati kot storito, pa so še lepo
+
+274
+00:33:57,000 --> 00:34:01,000
+nad tem dodali Compute Engine, Google je pa začel tako, da je
+
+275
+00:34:02,000 --> 00:34:06,000
+najprej… Zdaj te bom ustalo. Prej. Prehitro si že ovo.
+
+276
+00:34:07,000 --> 00:34:11,000
+Sej je, sej cool, ampak gremo še malo nazaj. Zakaj nočiš kot
+
+277
+00:34:12,000 --> 00:34:16,000
+firma med svojega hardware-a? Mislim, lahko ga imaš, pa ni
+
+278
+00:34:17,000 --> 00:34:21,000
+to univrezalnega odgovora, ni. Zakaj bi, ali pa zakaj hočeš,
+
+279
+00:34:21,000 --> 00:34:24,000
+ok, nočiš ali pa hočeš, zakaj hočeš firma med danes svoj
+
+280
+00:34:25,000 --> 00:34:28,000
+hardware? Kaj so dobri razlogi, da še kupiš svoje servere,
+
+281
+00:34:29,000 --> 00:34:35,000
+da še postaviš svoj data center, da… Dobri razlogi so, če ti
+
+282
+00:34:36,000 --> 00:34:40,000
+res regulacija, ne da te se zdi, da moraš ti imeti to zaradi
+
+283
+00:34:41,000 --> 00:34:44,000
+regulacije, ampak da ti res nekdo predpiše, da moraš imeti
+
+284
+00:34:45,000 --> 00:34:48,000
+presep hardware, to je ena varijanta. Druga varijanta je, ne vem,
+
+285
+00:34:48,000 --> 00:34:55,000
+ti res velike količine podatkov obdeluješ, pa… pa rabeš nizko
+
+286
+00:34:56,000 --> 00:34:59,000
+letencov, ne vem, če ti delaš nek video editing, pa če to pač,
+
+287
+00:35:00,000 --> 00:35:05,000
+ne vem, razrez ali pa, a ne, pač te stvari, če še ti pač
+
+288
+00:35:06,000 --> 00:35:08,000
+neka video produkcijska firma, pa le je to pomembno, da imaš
+
+289
+00:35:09,000 --> 00:35:17,000
+presep. Po eni strani, ne vem, jaz bi rekel, da je to
+
+290
+00:35:18,000 --> 00:35:22,000
+to, to smo že skor pač tem, ene pač, ok, ful je pol nekih z teh
+
+291
+00:35:23,000 --> 00:35:25,000
+specialnih stvari, ne, zakaj pač… Če imaš nek svoj specifičen
+
+292
+00:35:26,000 --> 00:35:29,000
+hardware ali pa… Ja, ali pa ti imaš neke infrastru… mislim,
+
+293
+00:35:30,000 --> 00:35:34,000
+ti si industrija, pa pač naučaš unga, če neko krmilje, nek peljice
+
+294
+00:35:35,000 --> 00:35:37,000
+ima nek Java app, spremljeni, to ne boš me pač naklaudoval,
+
+295
+00:35:38,000 --> 00:35:41,000
+ne, to je pač, to pač je kišta, kar pač imaš dve isti kište
+
+296
+00:35:42,000 --> 00:35:43,000
+in pa jih prklopaš gor. Zdaj so pač ful neke industrijske
+
+297
+00:35:43,000 --> 00:35:47,000
+specialne stvari, takrat pač to res naučaš imeti, ne.
+
+298
+00:35:48,000 --> 00:35:51,000
+Al pa ne vem, če del… Ja, audio produkcija je isto,
+
+299
+00:35:52,000 --> 00:35:55,000
+en pač, te letence so ful, ful pomembne. Zdaj, zakaj ga pa
+
+300
+00:35:56,000 --> 00:36:01,000
+naučaš imeti, je pa… A je, ti rabiš imeti bolj ali manj
+
+301
+00:36:02,000 --> 00:36:05,000
+primerno okolje, pač strežniki ropotajo, če se ponovno
+
+302
+00:36:06,000 --> 00:36:09,000
+za žene ropotajo še bolj. Pol je rata polet vroče, pa
+
+303
+00:36:09,000 --> 00:36:12,000
+rabiš klimo, pol gotoviš, da rabiš več tih omar, pa rata
+
+304
+00:36:13,000 --> 00:36:17,000
+problem elektrika, pol moraš vse to amortizirati, ne, pač
+
+305
+00:36:18,000 --> 00:36:22,000
+ti zdaj to kupiš, pa imaš preseb, pa… Internet moraš
+
+306
+00:36:23,000 --> 00:36:25,000
+priplaviti do tega. Internet moraš priplaviti do tega,
+
+307
+00:36:26,000 --> 00:36:29,000
+pol na neki točki gotoviš, da ta oprema je računovodsko
+
+308
+00:36:30,000 --> 00:36:33,000
+amortizirana, pak pol na neki točki tudi pogruntaš, da žre
+
+309
+00:36:34,000 --> 00:36:36,000
+več elektrike, kukar da od sebe compute power, ja.
+
+310
+00:36:36,000 --> 00:36:39,000
+To moraš pač vse pol tehtati in razmišljati, ne, kaj
+
+311
+00:36:40,000 --> 00:36:42,000
+zdaj točno hočeš pač imeti. Življenjsko dobo ima?
+
+312
+00:36:43,000 --> 00:36:46,000
+Življenjsko dobo ima. Tipično boš imel problem že, da je
+
+313
+00:36:47,000 --> 00:36:52,000
+inefficient pred to življenjsko dobo. Po pač, če si pa
+
+314
+00:36:53,000 --> 00:36:56,000
+spet ekstremno velik, če si zelo veliko podjetje,
+
+315
+00:36:57,000 --> 00:37:03,000
+kaj bomo, kaj še naš poslušalcev v te publiki, pa v bistvu
+
+316
+00:37:03,000 --> 00:37:06,000
+pol iz klauda dol jemljaš, predvsem prva stvar, ko jemljaš
+
+317
+00:37:07,000 --> 00:37:10,000
+dol so baze pa podatke, zato kjer jih nočeš imeti pač gor,
+
+318
+00:37:11,000 --> 00:37:13,000
+ampak computing pa postiš tipično gor. Vok to so že zelo
+
+319
+00:37:14,000 --> 00:37:19,000
+take preveč advanced stvari. Hrati pa dobiš če iz klasične
+
+320
+00:37:20,000 --> 00:37:23,000
+stvari, ki so itak skos, se v njih pojavlja e, fleksibilnost,
+
+321
+00:37:24,000 --> 00:37:27,000
+jih lahko postaveš en dodatni strežnik relativno hiter,
+
+322
+00:37:28,000 --> 00:37:30,000
+nimaš teh problemov, da kličaš ponudnika, pa ti rečejo,
+
+323
+00:37:30,000 --> 00:37:33,000
+je naš datacenter, nima več prostora za diske, nima več
+
+324
+00:37:34,000 --> 00:37:40,000
+slotov za ram, pač mogoče to zdi nekdo, ki je pač že zdaj
+
+325
+00:37:41,000 --> 00:37:45,000
+dela z estrijem bizarno, ker pač tamaš ti lahko je unlimited.
+
+326
+00:37:46,000 --> 00:37:50,000
+Včasih si ti poklico in so ti povedali, ej, mi imamo ta nas,
+
+327
+00:37:51,000 --> 00:37:53,000
+ta nas ima 24 diskov in so vsi polni, mi vam ne moremo
+
+328
+00:37:54,000 --> 00:37:56,000
+dati več diskov, zdaj pa pač kaj boš pol naredil, a ne?
+
+329
+00:37:57,000 --> 00:38:02,000
+Težko je, ali pa druge bizarnosti, rečmo praktične, so take,
+
+330
+00:38:03,000 --> 00:38:07,000
+ti imaš, si e-kommerc platforma, pa imaš 100 stran, ki imajo 100
+
+331
+00:38:08,000 --> 00:38:11,000
+domen, ki so jih na različnih providerih registrirani in pa se ti
+
+332
+00:38:12,000 --> 00:38:14,000
+odločiš, da si ful brihtan in boš prasepnev DNS-a strežnik.
+
+333
+00:38:15,000 --> 00:38:19,000
+Kar pomeni, da pri registraciji ona gospa, ki pač ne ve dost
+
+334
+00:38:20,000 --> 00:38:22,000
+veliko v internetu razum, da hoče prodajati kislo mleko,
+
+335
+00:38:22,000 --> 00:38:26,000
+napiše noter on tvoj IP, kjer je tvoj DNS-a strežnik na neki lokaciji.
+
+336
+00:38:27,000 --> 00:38:30,000
+In kaj pal, kaj se to spremeni, kako boš ti teh 100 ljudi, ki niso
+
+337
+00:38:31,000 --> 00:38:34,000
+tehnološki, jih spreševali, ki so oni registrirali domeno, da lahko
+
+338
+00:38:35,000 --> 00:38:39,000
+spremenijo pač ta, ta lokacijo, ne vem, strežnika, a ne?
+
+339
+00:38:40,000 --> 00:38:42,000
+Tako da, ja, velike enih stvari, no.
+
+340
+00:38:43,000 --> 00:38:47,000
+Še eno se tega si pozabil. Če imaš hardware presep, tu
+
+341
+00:38:48,000 --> 00:38:50,000
+treba biš pol neki ljudi, ki bojo fizično šli do tega
+
+342
+00:38:50,000 --> 00:38:56,000
+hardware-a, pa mogoče kako disk zamenjali, pa mogoče kaj upgrade-ali,
+
+343
+00:38:57,000 --> 00:38:58,000
+kaj patch-ali.
+
+344
+00:38:59,000 --> 00:39:03,000
+Reč me, v Sloveniji ti crkne en disk vpetak, ob dveh popovdne.
+
+345
+00:39:04,000 --> 00:39:06,000
+Kdaj boš lahko kupal nov disk je vprašanje.
+
+346
+00:39:07,000 --> 00:39:10,000
+Skaže se, da najboljšo tork, ker pač, good luck.
+
+347
+00:39:11,000 --> 00:39:14,000
+Mislim, ti moraš meniti tako, tudi vendorje in logiste moraš tako
+
+348
+00:39:14,000 --> 00:39:19,000
+osebno poznat, da boš disk zamenoval. Res je veliko, ki je nekih bizarnosti,
+
+349
+00:39:20,000 --> 00:39:24,000
+ko sem se z njimi strečal, pa so ful pač tečne.
+
+350
+00:39:25,000 --> 00:39:27,000
+Do stvari, ki so, ne vem,
+
+351
+00:39:28,000 --> 00:39:30,000
+ki so stvarno bolj še ekstra tečne.
+
+352
+00:39:31,000 --> 00:39:34,000
+Se mi zdi, da ta... Če pa govorimo o glede, compliance je pa tako,
+
+353
+00:39:35,000 --> 00:39:38,000
+če moraš ti ustrezati, prav, da imaš ti data v Sloveniji,
+
+354
+00:39:39,000 --> 00:39:42,000
+pol imaš lahko presep stvari, ali pa pri slovenskem podnodniku.
+
+355
+00:39:42,000 --> 00:39:45,000
+Pa prosim, imajte stvari tudi pri slovenskih podnodnikih,
+
+356
+00:39:46,000 --> 00:39:49,000
+zato, če pričekujete dobro podporo, ki bo boljša, kot če boste
+
+357
+00:39:50,000 --> 00:39:53,000
+probili dobiti preavesejo nekoga na telefon.
+
+358
+00:39:55,000 --> 00:39:58,000
+Ampak, ko pač nek compliance zahteva,
+
+359
+00:39:59,000 --> 00:40:02,000
+ej, a je ta objekt 24h varovan za fizično osebo,
+
+360
+00:40:03,000 --> 00:40:06,000
+to pa pal že ti, to se ti pa pal spet ne splača.
+
+361
+00:40:07,000 --> 00:40:09,000
+Tako, da jaz doskrat slišam, ja, mi tega ne smemo imeti,
+
+362
+00:40:09,000 --> 00:40:12,000
+pač so nekaj regulative, pa se jaz tako lej, pač
+
+363
+00:40:13,000 --> 00:40:16,000
+ful bi bilo lažje, da bi vi ta risk predal nekomu tretmu,
+
+364
+00:40:17,000 --> 00:40:22,000
+pa da vam on izpolne za, ne vem, ISO 27000X,
+
+365
+00:40:23,000 --> 00:40:27,000
+ali pa SOC 2, ali pa pač, a ne, ne morem,
+
+366
+00:40:28,000 --> 00:40:30,000
+mislim, za ful razen, da morajo biti registrov,
+
+367
+00:40:31,000 --> 00:40:33,000
+da morajo biti nekaj podatki, ful nima smisla tudi,
+
+368
+00:40:34,000 --> 00:40:36,000
+pa na nekaj tej točki. Če hočeš to res imeti,
+
+369
+00:40:36,000 --> 00:40:39,000
+ne je samo na papirju, ampak prav prezrihtan se spet ne splača imeti.
+
+370
+00:40:41,000 --> 00:40:43,000
+Ali sem še kaj pozabil, tega je to, da pa vse poško.
+
+371
+00:40:44,000 --> 00:40:47,000
+Ne, hotov se velikrat slišim, močno je zdaj malo manj,
+
+372
+00:40:48,000 --> 00:40:55,000
+ampak zanesljivost, a ne, spravi ta nek reliability, ne,
+
+373
+00:40:58,000 --> 00:41:04,000
+a jaz, mislim, kaj je to zdaj, pravilno vprašam,
+
+374
+00:41:04,000 --> 00:41:08,000
+tudi oblaki niso silver bullet, pa so stoprocentno zanesljivi,
+
+375
+00:41:09,000 --> 00:41:13,000
+pa ne vem kaj, tudi to je lokalni data center, ni stoprocentno reliable,
+
+376
+00:41:14,000 --> 00:41:18,000
+pa zanesljivo, ne, vbeno od teh rešitev ni stoprocentno,
+
+377
+00:41:19,000 --> 00:41:23,000
+pa silver bullet, ne, tudi S3 je pač,
+
+378
+00:41:24,000 --> 00:41:26,000
+saj smo rekli, on je kovaj, neskončen in ne vem kaj,
+
+379
+00:41:27,000 --> 00:41:32,000
+ampak tudi ni stoprocentno reliable, ma tudi nekaj 999,
+
+380
+00:41:33,000 --> 00:41:39,000
+ne vem kaj, reliability, a ne, a imaš tudi kaj upogleda,
+
+381
+00:41:40,000 --> 00:41:42,000
+pa kaj na sveta, pa lahko tudi stokerje,
+
+382
+00:41:43,000 --> 00:41:44,000
+lahko tudi kaj upametno rečemo.
+
+383
+00:41:45,000 --> 00:41:47,000
+Ja, mislim, to je, reliability je tako bolj kompleksna stvar,
+
+384
+00:41:48,000 --> 00:41:52,000
+ampak najbolj basic način je, če si ti v telekomunikaciji,
+
+385
+00:41:53,000 --> 00:41:55,000
+lahko so te devetke, ali pa v energetiki, fulj, fulj pomembne,
+
+386
+00:41:56,000 --> 00:41:58,000
+ker je pač kritična infrastruktura za,
+
+387
+00:41:59,000 --> 00:42:02,000
+je lahko pa tudi, ko poenostaveš in tvoj strežnik,
+
+388
+00:42:03,000 --> 00:42:06,000
+kaj ga imaš v pisarnji in v notate crtu,
+
+389
+00:42:07,000 --> 00:42:12,000
+v centru lahko crkne in ta event se lahko zgodi.
+
+390
+00:42:13,000 --> 00:42:17,000
+Zdaj pa, pol je pa po moje predvsem bolj odvisna
+
+391
+00:42:18,000 --> 00:42:20,000
+od tvojega biznismodela, a hočeš to pokrivati ali ne.
+
+392
+00:42:21,000 --> 00:42:23,000
+V obeh primerih. Če si ti skrepi start-up,
+
+393
+00:42:24,000 --> 00:42:25,000
+čisto vse namaš v klaudo ali lokalno,
+
+394
+00:42:26,000 --> 00:42:27,000
+v vsakem primeru ne boš imel backupa.
+
+395
+00:42:28,000 --> 00:42:37,000
+Če si pa proper firma, je pa pač večja verjetnost,
+
+396
+00:42:38,000 --> 00:42:40,000
+da boš to imel, ampak imel še spet v obeh primerih.
+
+397
+00:42:41,000 --> 00:42:44,000
+Imaš pa pol neke specialne use cases,
+
+398
+00:42:45,000 --> 00:42:48,000
+ki so produkti, ki relajo hodo na infrastrukturo,
+
+399
+00:42:49,000 --> 00:42:50,000
+tam boš pa pol dejansko mičkan te procente gledal,
+
+400
+00:42:51,000 --> 00:42:54,000
+pa mičkan po računu, koliko ima zdaj teoretičnega izpada,
+
+401
+00:42:55,000 --> 00:42:59,000
+pa boš vedel razliko, a je devetka na petem mestu
+
+402
+00:43:00,000 --> 00:43:01,000
+ali kje je druge na sedmem.
+
+403
+00:43:03,000 --> 00:43:11,000
+Tako da, jaz bi rekel, da čist praktično je pač klaud
+
+404
+00:43:12,000 --> 00:43:14,000
+v večinu primerov bolj relajabil.
+
+405
+00:43:15,000 --> 00:43:16,000
+Se mi pa manjže tudi zgodili, da so VM-i,
+
+406
+00:43:17,000 --> 00:43:19,000
+pač dobiš dejansko event o logih, ki jih ful teško najdeš,
+
+407
+00:43:20,000 --> 00:43:22,000
+ker pač ti reče, to je pač sanjš log.
+
+408
+00:43:22,000 --> 00:43:23,000
+It's gone.
+
+409
+00:43:25,000 --> 00:43:28,000
+Ampak to ni tako problem, pa meni se je v celi karjeri
+
+410
+00:43:29,000 --> 00:43:30,000
+to zgodilo enkrat.
+
+411
+00:43:33,000 --> 00:43:36,000
+Zdaj ne bom šel bolj rovoko v to smer,
+
+412
+00:43:37,000 --> 00:43:40,000
+ker pa bomo še zgodili mače na to.
+
+413
+00:43:43,000 --> 00:43:46,000
+Da mi malo razložiš ti neki komputacion tipi
+
+414
+00:43:47,000 --> 00:43:50,000
+oziroma tipi workloadov, komputacijno znotraj
+
+415
+00:43:51,000 --> 00:43:52,000
+teh oblakov.
+
+416
+00:43:53,000 --> 00:43:56,000
+A lahko razložiš ti tri razlike, tri modele?
+
+417
+00:43:58,000 --> 00:44:00,000
+Štoritev ali pa nek grobo divizion.
+
+418
+00:44:03,000 --> 00:44:04,000
+A ti jaz znam prvega.
+
+419
+00:44:05,000 --> 00:44:07,000
+Ne, daj mi tip razloži.
+
+420
+00:44:09,000 --> 00:44:11,000
+No, Andra, daj me začeti s temi komput tipi.
+
+421
+00:44:12,000 --> 00:44:15,000
+Razloži mi kaj pomeni kretica IAAS,
+
+422
+00:44:16,000 --> 00:44:18,000
+Infrastructure as a Service.
+
+423
+00:44:18,000 --> 00:44:20,000
+Lahko to začnemo mogoče.
+
+424
+00:44:21,000 --> 00:44:22,000
+No, kaj je to?
+
+425
+00:44:23,000 --> 00:44:24,000
+No, da se najprej indeks naredimo.
+
+426
+00:44:25,000 --> 00:44:27,000
+IAC je I za Infrastructure,
+
+427
+00:44:28,000 --> 00:44:30,000
+pa imamo PA, Platform as a Service,
+
+428
+00:44:31,000 --> 00:44:33,000
+PAS, kaj P pomeni Platform,
+
+429
+00:44:34,000 --> 00:44:36,000
+pa imamo pa SAS, kaj S pomeni Service.
+
+430
+00:44:37,000 --> 00:44:40,000
+Se pravi, infrastruktura, platforma,
+
+431
+00:44:41,000 --> 00:44:42,000
+pa storitve.
+
+432
+00:44:43,000 --> 00:44:45,000
+Najprej je infrastruktura.
+
+433
+00:44:45,000 --> 00:44:47,000
+In infrastruktura je tipičen način,
+
+434
+00:44:48,000 --> 00:44:52,000
+kako še zdaj mogoče male ekipe konzumijo v Sloveniji,
+
+435
+00:44:53,000 --> 00:44:55,000
+cloud, pa če ti greš na AWS,
+
+436
+00:44:56,000 --> 00:44:57,000
+tam je nek tako velik dashboard,
+
+437
+00:44:58,000 --> 00:45:00,000
+kad te ful prestraši in potem nekako naklikaš
+
+438
+00:45:01,000 --> 00:45:04,000
+šter virtualke, pa tok pa tok diskov,
+
+439
+00:45:05,000 --> 00:45:07,000
+pa implicitno dobiš v bistvu tudi še pač
+
+440
+00:45:08,000 --> 00:45:11,000
+default networking in si ful srečen
+
+441
+00:45:12,000 --> 00:45:13,000
+in te to spominja na tiste čase,
+
+442
+00:45:13,000 --> 00:45:15,000
+ko si marja na klico, da rabeš malo več rama
+
+443
+00:45:16,000 --> 00:45:18,000
+v svojem VMR virtualki.
+
+444
+00:45:20,000 --> 00:45:22,000
+Zdaj točno, ki je tukaj so lučnice,
+
+445
+00:45:23,000 --> 00:45:25,000
+je dost kompleksno, ampak tipično
+
+446
+00:45:26,000 --> 00:45:27,000
+lahko razmišljaš tako diskov je,
+
+447
+00:45:28,000 --> 00:45:31,000
+networking, pa virtualke.
+
+448
+00:45:32,000 --> 00:45:34,000
+To so nam je bil tako tipični predstavniki.
+
+449
+00:45:35,000 --> 00:45:37,000
+In ko rabim, imam štir bokse,
+
+450
+00:45:38,000 --> 00:45:39,000
+pa rabim petega, naredim kaj?
+
+451
+00:45:39,000 --> 00:45:40,000
+Pa še odame nekaj.
+
+452
+00:45:41,000 --> 00:45:43,000
+Maš grobo tri varijante.
+
+453
+00:45:44,000 --> 00:45:46,000
+Greš na dashboard, naklikaš, dobiš enega,
+
+454
+00:45:47,000 --> 00:45:49,000
+narediš res klic, pa dobiš enega,
+
+455
+00:45:50,000 --> 00:45:52,000
+ali pa uporabljaš specializiran tool,
+
+456
+00:45:53,000 --> 00:45:56,000
+kar rečeš sam, če tam jih ni pet,
+
+457
+00:45:57,000 --> 00:45:59,000
+naredi, da jih bo pet, oziroma če jih je šest,
+
+458
+00:46:00,000 --> 00:46:01,000
+pa če bo en manj.
+
+459
+00:46:02,000 --> 00:46:04,000
+Zdaj platforme za servis?
+
+460
+00:46:05,000 --> 00:46:06,000
+Platforme za servis je pa tako.
+
+461
+00:46:06,000 --> 00:46:08,000
+Ti si developer in tebi čist vse en,
+
+462
+00:46:09,000 --> 00:46:10,000
+kako se ta stvar zgodi.
+
+463
+00:46:11,000 --> 00:46:13,000
+Ti samo veš, da imaš PHP,
+
+464
+00:46:14,000 --> 00:46:17,000
+pa da rabeš eno MySQL bazo,
+
+465
+00:46:18,000 --> 00:46:21,000
+in potem uporabljaš pač nek framework,
+
+466
+00:46:22,000 --> 00:46:24,000
+rečemo WordPress, in potem napišeš en file,
+
+467
+00:46:25,000 --> 00:46:26,000
+kar rečeš, to je PHP,
+
+468
+00:46:27,000 --> 00:46:29,000
+entry point, to se pravi,
+
+469
+00:46:30,000 --> 00:46:32,000
+to je odvisno od implementacije,
+
+470
+00:46:33,000 --> 00:46:34,000
+ali pa od jezika je odvisno,
+
+471
+00:46:34,000 --> 00:46:36,000
+kako je implementiran, je pač tukaj,
+
+472
+00:46:37,000 --> 00:46:38,000
+to se pravi, pokliči index,
+
+473
+00:46:39,000 --> 00:46:40,000
+pač odvisno je, ali pa je konvenčen,
+
+474
+00:46:41,000 --> 00:46:42,000
+ali moraš napisati,
+
+475
+00:46:43,000 --> 00:46:44,000
+pa on si s tem pal tudi reče,
+
+476
+00:46:45,000 --> 00:46:48,000
+aha, da ti bomo šli neko bazico zraven,
+
+477
+00:46:49,000 --> 00:46:51,000
+in ti to pal daš od sebe, rečeš deploy,
+
+478
+00:46:52,000 --> 00:46:53,000
+in stvari se tam pač magično zgodijo.
+
+479
+00:46:54,000 --> 00:46:57,000
+In zdaj to je lohka za Python,
+
+480
+00:46:58,000 --> 00:47:01,000
+tam so, tvoj ponudnik podpira določene jezike,
+
+481
+00:47:02,000 --> 00:47:05,000
+in ti poveš, v kateri bakat, kaj je tvoj jezik,
+
+482
+00:47:06,000 --> 00:47:08,000
+in potem pa se stvar skupi sestav,
+
+483
+00:47:09,000 --> 00:47:11,000
+in dobiš dashboard, kjer tvoja aplikacija teče,
+
+484
+00:47:12,000 --> 00:47:13,000
+tam maš neki logo,
+
+485
+00:47:14,000 --> 00:47:16,000
+pa lahko reštartaš aplikacijo,
+
+486
+00:47:17,000 --> 00:47:19,000
+potem pa pač odvisno, ne vem,
+
+487
+00:47:20,000 --> 00:47:21,000
+lahko se je to tudi izklopo, ne,
+
+488
+00:47:22,000 --> 00:47:23,000
+dejalnosti, če pač nimaš paketa,
+
+489
+00:47:24,000 --> 00:47:25,000
+kar bo to skoz app.
+
+490
+00:47:26,000 --> 00:47:29,000
+In zdaj taki tipični predstavniki so Heroku,
+
+491
+00:47:30,000 --> 00:47:31,000
+pa Google engine.
+
+492
+00:47:34,000 --> 00:47:35,000
+Google app engine.
+
+493
+00:47:36,000 --> 00:47:37,000
+Google app engine,
+
+494
+00:47:38,000 --> 00:47:39,000
+pa a vsega Beanstalk.
+
+495
+00:47:41,000 --> 00:47:43,000
+In to je rečemo super, če si začetnik,
+
+496
+00:47:44,000 --> 00:47:46,000
+pa hoče samo nekaj izdeplojat,
+
+497
+00:47:47,000 --> 00:47:48,000
+si mičkam preberješ v Heroku,
+
+498
+00:47:49,000 --> 00:47:51,000
+in potem pač napišeš Python flask app,
+
+499
+00:47:52,000 --> 00:47:53,000
+pa ga nekaj izdeplojaš,
+
+500
+00:47:54,000 --> 00:47:55,000
+ali pa nekaj express, pa se to izdeploja.
+
+501
+00:47:56,000 --> 00:47:58,000
+Ampak kot programer, kot uporabnik,
+
+502
+00:47:59,000 --> 00:48:01,000
+pa se ne ukvarjaš z številom virtualik,
+
+503
+00:48:02,000 --> 00:48:03,000
+ne ukvarjaš se z networkingom,
+
+504
+00:48:04,000 --> 00:48:05,000
+ne ukvarjaš se s firewall-i,
+
+505
+00:48:06,000 --> 00:48:07,000
+black-up-i, ja.
+
+506
+00:48:08,000 --> 00:48:10,000
+Ti dobiš na koncu ampak nek IP,
+
+507
+00:48:11,000 --> 00:48:14,000
+in zato, ka so te stvari abstrahirane stran od tebe,
+
+508
+00:48:15,000 --> 00:48:17,000
+ti lahko te ponudniki dajo v bistvu tudi določene
+
+509
+00:48:18,000 --> 00:48:19,000
+cool bonbončke v smislu,
+
+510
+00:48:20,000 --> 00:48:22,000
+aha, hočeš revertat na drug deploy,
+
+511
+00:48:24,000 --> 00:48:26,000
+ali pa hočeš imeti dva deploy-a,
+
+512
+00:48:26,000 --> 00:48:28,000
+pa 99% prometa meči na starem,
+
+513
+00:48:29,000 --> 00:48:31,000
+pa 1% na novem, pa malo pa zvod.
+
+514
+00:48:32,000 --> 00:48:34,000
+Aha, se pravi, da ti pomaga tudi pri tem,
+
+515
+00:48:35,000 --> 00:48:36,000
+kako boš novo verzijo spravil.
+
+516
+00:48:37,000 --> 00:48:39,000
+Ja, na primer, temu se reče pač Canary,
+
+517
+00:48:40,000 --> 00:48:43,000
+pač da imaš del trafika na nekem novem,
+
+518
+00:48:44,000 --> 00:48:48,000
+in izkaže se, če to hočeš pač narediti na IAC-o,
+
+519
+00:48:49,000 --> 00:48:50,000
+da imaš ti virtualke,
+
+520
+00:48:51,000 --> 00:48:53,000
+to ni toliko nujno enostavno,
+
+521
+00:48:53,000 --> 00:48:55,000
+pač je lahko kompleksno.
+
+522
+00:48:56,000 --> 00:49:00,000
+In daj mi še porazloži potem software za servis,
+
+523
+00:49:01,000 --> 00:49:04,000
+se pravi ta tretji layer abstrakcije še na tem,
+
+524
+00:49:05,000 --> 00:49:06,000
+kaj pa je to?
+
+525
+00:49:07,000 --> 00:49:09,000
+Ja, to se mi zdi pa, da se je
+
+526
+00:49:10,000 --> 00:49:12,000
+kolej ratalj popularno
+
+527
+00:49:15,000 --> 00:49:18,000
+bolj izstališča, zdaj ne vem v bistvu,
+
+528
+00:49:19,000 --> 00:49:20,000
+a baze vpadajo,
+
+529
+00:49:20,000 --> 00:49:22,000
+točno po to, ampak po moje vpadajo,
+
+530
+00:49:23,000 --> 00:49:24,000
+pač ti samo rečeš, lej,
+
+531
+00:49:25,000 --> 00:49:26,000
+jaz bi tam kliknul,
+
+532
+00:49:28,000 --> 00:49:30,000
+in imel bi pač neko storitev,
+
+533
+00:49:31,000 --> 00:49:32,000
+in zdaj,
+
+534
+00:49:33,000 --> 00:49:35,000
+a me lahko stanem tam v bazo,
+
+535
+00:49:36,000 --> 00:49:38,000
+in dobiš nazaj jaz ta port,
+
+536
+00:49:39,000 --> 00:49:40,000
+pardon, ta IP,
+
+537
+00:49:41,000 --> 00:49:42,000
+to je username,
+
+538
+00:49:43,000 --> 00:49:44,000
+in je tam pač baza,
+
+539
+00:49:45,000 --> 00:49:46,000
+in je to ena stvar.
+
+540
+00:49:47,000 --> 00:49:48,000
+A hočeš imeti
+
+541
+00:49:49,000 --> 00:49:50,000
+mejl storitev,
+
+542
+00:49:51,000 --> 00:49:52,000
+mejl storitev, da pošle mejle,
+
+543
+00:49:53,000 --> 00:49:55,000
+pač namesto, da ti zdaj se rečeš,
+
+544
+00:49:56,000 --> 00:49:57,000
+hu, rabim mejl server,
+
+545
+00:49:58,000 --> 00:49:59,000
+pa open,
+
+546
+00:50:00,000 --> 00:50:15,000
+TheGIMP, SPF, pač vsaj teh stvari certifikate, pa da ne gre v spam, ne, pač ti sam, tam je nek API, ti pokličeš API in je to to.
+
+547
+00:50:15,000 --> 00:50:21,000
+Hočeš poklicati človeka na telefon ali pa bomo popisali SMS, pač imaš tam nek API,
+
+548
+00:50:21,000 --> 00:50:31,000
+ki pač za vsake SMS plačaš in je to podnujen kot storitvov, pač pošleš na vem, post request, arrest ali pa kar holi drugega.
+
+549
+00:50:31,000 --> 00:50:36,000
+In pač tega je potem ogromno, ogromno veliko.
+
+550
+00:50:36,000 --> 00:50:55,000
+Za old school, old school inženire, ki so recimo bili, ki so šli, tako smo zdaj te kratice omenjali, pa se, če gremo nazaj na te postavljenje svojih serverjev v svojem reku in to, ne,
+
+551
+00:50:55,000 --> 00:51:13,000
+če se sprohodiš od tega infrastrukture, platforme, sasa, pa do na koncu ultimativno LAMB in podobno, ne, en ful velik argument je tukaj, da vsak level, ko greš je bolj vendor locking, pa vedno maj in imaš v bistvu kontrole, da je to bolje še, kako to vidiš.
+
+552
+00:51:13,000 --> 00:51:24,000
+Ker vsak ta level v abstrakciji je vprašanje, če lahko kaj veliko posegaš notri v drobovje, pa tune-aš, pa, no daj to povem.
+
+553
+00:51:24,000 --> 00:51:26,000
+No, pa zdaj ta odgovor.
+
+554
+00:51:28,000 --> 00:51:40,000
+Enkrat mi je kolega rekel, da, kaj ti voleš na državnih volitvah ali pa lokalnih volitvah, a ne, znači za unkaj, kaj volet gleda, to je tako, kakor autobus, ki te prpelje iz centra pa iz centra.
+
+555
+00:51:40,000 --> 00:51:59,000
+Ti pač v bistvu imaš nek projekt in na unijo točke se pač odločeš, kaj boš pač izbral in pač s tem greš. Zdaj to ne pomeni, da si ti do konca življenja poročen z tem vendorjem. To nisi pač Apple user ali pa Linux user ali pa Windows user, ker tam je to malo težje zamenjati.
+
+556
+00:51:59,000 --> 00:52:14,000
+In pa v bistvu, če daži zaradi perspektivo biznisa, se moraš pač tudi vprašati, a je to res za res tak problem. In mene je v bistvu fulj smešno, da v našem prostoru mi fulj o tem razmišljamo,
+
+557
+00:52:14,000 --> 00:52:35,000
+kaj dela z zelo, zelo velike firme, ki niso zdaj direktno tehnološki konkurent AVSA-jo. Vsi pač ljudje naredijo risk analisis, s tem pač ekipe, ki so zato zaposlene, pa Liga ali pa vse. Oni so samo tako, mi pač imamo zdaj AVSA.
+
+558
+00:52:36,000 --> 00:52:52,000
+Verjetnost, da bo AVSA propavdovala je pač fulj mala, pač kod je šita, kod da bomo že te inženirje pač, bo dože to njihov problem, bo dože pač to samo pač jašli, ali pa je ne fiti, ki jih pač dobimo pač od tehtajo, ker to ni naš kor biznisa.
+
+559
+00:52:53,000 --> 00:53:10,000
+A se zgodijo te neki točki, da rečeš, šit, ta sastori, to postanejo predrage, bomo šli pol nazaj, bomo šli level nižje? Kolik je teg zgodb?
+
+560
+00:53:10,000 --> 00:53:25,000
+To se prej je zgodilo v naših prostorih, pa dost krat se dogaja, da ljudje ne znajo računati stroškov ali opreme ali pa ljudi in pa v bistvu se mi zdi, da dost krat ...
+
+561
+00:53:25,000 --> 00:53:52,000
+Naprimer rečemo, da imamo mi dva podjetja, pa je fulj uspešno, pa jih roko najo 100 tisoč evrov, pa najo pa staneš 4 tisoč evrov, pa rečeš, u, to je pa res tako velik, bomo šli mi nazaj na to, da bomo, ne vem, na hesnerju najeli strežnike, pa pal bomo dobili enega džunjor deopsa, da bo to rihto, zato, ker to se nam zdaj fulj splača, ker 4 tisoč evrov je pa res velik.
+
+562
+00:53:53,000 --> 00:54:19,000
+Ja, to mogoče funkcionira za naš babel, ko pa smo v neki tehnologiji, pa rečeš, ok, zdaj pa če tega džunjorja, moram ga pač splačati, ne vem, vse dva tisoč bruto-bruto, pa potem amortizacija, ne, dej, rečemo, da se splača še nekako, ampak na konc, na konc se mi zdi, da to se predvsem dogaja zaradi tega, ker ljudje ne znajo dober računat stroškov, no.
+
+563
+00:54:19,000 --> 00:54:37,000
+To jaz toliko upažam, ne. Kupaš nov traktor, stane 5 milijonov, pa tudi če koli ne boš zaslužil 5 milijonov nazaj, ne. In to se nam tudi v IT jo fulj dogaja, se mi zdi, da smo tako dost nepodjetniški ali pa ne računovodje, da bi znali malo to poračunati.
+
+564
+00:54:37,000 --> 00:55:06,000
+Zdaj, če je nekaj res obskurno, pač na konci cost-benefita, ne, če je nekaj res obskurno drugo, rečeš, aha, to je toliko drugo, mi bomo migrirali drugem, druge je cena taka, cena migracija je taka, ali bomo to lahko naredili znotraj hiše, a rabimo pač zunani strokovnjaki, ki bodo pomagali pri migraciji, riski, ki jih bomo imeli, če vstavljamo tle, so taki, riski z migracijo so taki, riski, da bo novo vendor, ki je zdaj cenejši, to povečjo fulj visoko ceno, je pač tak.
+
+565
+00:55:07,000 --> 00:55:35,000
+To je tudi v pažem, ljudje zbirajo, rečemo, Sloveniji radi cloud prunudnik, ki glede na ceno, to je fulj slaba strategija, Google je bil včasih samo ena četrtina cene AWS-a, pač to je bil njihov selling point, pač jaz, ko sem začel uporabljati Google Cloud, ki je dovoljen Compute Engine, oni so bili, mi smo samo 25 cene AWS-a, super, sam, mogoče čez dva meseca ne boš več 25 cene AWS-a,
+
+566
+00:55:35,000 --> 00:55:47,000
+in Google je zdaj, po moje, ena podruk, koker AWS-a, pa ima stvari nič, kam bolj nahojla, dri na ren, kar je v koncu koncu tudi dober, če si malo manjša ekipa, ampak ni pa ne cenejši, mogoče zelo kje draži.
+
+567
+00:55:47,000 --> 00:56:15,000
+Tako da moraš pač primisljati, nikoli ne reči nikoli, mogoče se splača, ampak pač, a ne, a zdaj res rabeš svoj Štrajfiks, da enkrat na leto avto opereš, ali boš šel v pralnico, da ti ga nekdo drug opere, mislim, če te zelo veseli, da imaš ti svoj dragši Štrajfiks, pa za to ljudi plačuješ, da ga imaš, je tudi fajn, mislim, vse je stvar posamezniko.
+
+568
+00:56:15,000 --> 00:56:41,000
+Prej mi ti rečem, da poskušamo malo segmentirati te providerje, a bi lahko tako na high level ali pa na business level ali pa tek iz vrha, a bi lahko v grobem primerju Azure, AWS pa Google Cloud platformo.
+
+569
+00:56:41,000 --> 00:56:55,000
+Opažaš neke razlike, komo so recimo te platforme namenjene, na kak način se začnejo ponovati uporabljati, a lahko to namaz tako rišiš, kako se glavno neke high level razlike, mogoče.
+
+570
+00:56:55,000 --> 00:57:17,000
+Pač tem trenjem pravimo tudi veliki trije, in jaz iskreno imam veliko izkušenj z AWS-em in pa z Google Cloudom. Z Azure-om menj, ampak sem pa pač videl, firme, za katere sem ga delal, so ga tudi uporabljali, samo jaz nisem direktno delal z njim, da imam tako reč, ker so to velike sistemi.
+
+571
+00:57:17,000 --> 00:57:35,000
+In bi rekel tako, AWS je v bistvu precej star cloud in so marske orale ledino, in potem se malo vidi ta legacy, kako se lepo vleče.
+
+572
+00:57:35,000 --> 00:57:54,000
+Pač stvari so zelo dober narejene, zelo proper narejene, ampak ti če hočeš nekaj usposobiti, doskrat krkšen jason, ker ne razumeš čisto točno, zakaj tam je, skupiraš nekam o en permission, zato ka oni njim je res zelo pomemben, a imaš ti dostop do nečesa.
+
+573
+00:57:54,000 --> 00:58:06,000
+Zelo v nulo lahko pa inkiujem, a ta servis lahko dela to, ali ta uporablnik lahko dela to, a ta virtualka lahko dela to, a ta lambda funkcija zdaj lahko dotega dostopa.
+
+574
+00:58:06,000 --> 00:58:25,000
+Kar za seboj potegne tako, konc konco je že krkomalka, da je nekaj stare xml-e editero in grunto, zdaj zakaj je točno tam nekaj, je pa na trgu enormni market sharma.
+
+575
+00:58:25,000 --> 00:58:37,000
+Google ga ne lovi, niti Azure ga ne lovita, to se pravi, če se naučiš en cloud, pa hočeš biti res profesionalen na veliki firmah, AWS je the way to go.
+
+576
+00:58:37,000 --> 00:58:50,000
+In to z razlogom, ker ima, to je res kompleksivno v stroju in je, lahko, to je tvoja kariera, AWS je zdaj tvoja kariera.
+
+577
+00:58:51,000 --> 00:59:11,000
+Google je, po moje, ful luškan, zato ker je malo bolj ta hipsterish, ima določene prednosti, na primer, če imaš ti več projektov, pa več okoli, ko imaš staging production, pa dva projekta, to ti v Google ful simple posegmentiraš, to je definitivno ena stvar.
+
+578
+00:59:12,000 --> 00:59:27,000
+Primišljim, kako neki dostop so bolj lusi gusi, network primišlji so bolj lusi gusi, pač vse je tako, ni tako strikno ekstremno, pač ti, če hočeš govoriti ven iz svojega VPC, ti govori svojiz venga VPC, ni problem.
+
+579
+00:59:27,000 --> 00:59:43,000
+In imaš tam, ti stvari bolj je reasonable, lahko nastaviš varnost, ni tako, da ni varnost, ampak ni to nek ekstremen nivo, pa so določene stvari, ker se mi zdi, da Google še zmer predvsem prednjači predvsem pri data analysisu,
+
+580
+00:59:43,000 --> 01:00:02,000
+oni so zdaj kupili Looker, ki je neka platforma, ki ti lahko gledaš podatke, pa njihov big query je fulmočen in so segmenti v industriji, kjer Google prednjači, marsi kje drugje, je pa isto, kaj vse ali pa kaj zelo zavstaja.
+
+581
+01:00:03,000 --> 01:00:15,000
+Jaz sem se igral z njihovimi Cloud Functions, ti si se tudi igral z njihovimi Cloud Functions, ta dokumentacija ima vse je smislo, samo, da hočeš skupi stvari sestaviti, potem je nekaj čudne stvari palijo.
+
+582
+01:00:16,000 --> 01:00:21,000
+Če hočeš v tem imeti IPv6 v Google Cloud, to ne gre, reload balancerjo se konča.
+
+583
+01:00:22,000 --> 01:00:31,000
+In cilj kup nekaj takih, kaj rečeš, pa dober, to nima veze, pa če ste pred tem, to dober nima veze, pa če dajte ga probati. Če pa ima to veze, pa če ne, ga probi.
+
+584
+01:00:32,000 --> 01:00:47,000
+Mislim, najbrž ni najboljše izbira. Azure je pa ful nice, zato kako razježdiš pa hkrati narediš srečne vse ljudi, ki so na Microsoft stacku,
+
+585
+01:00:47,000 --> 01:01:05,000
+polnenostavno začneš vkinjati strežniške izdaje omprem strežnikov in začneš ful pušati Azure in rečeš Active Directory, ki ste ga zdaj v Percept menedžiral, to je tako težko,
+
+586
+01:01:05,000 --> 01:01:17,000
+pa mi to vam ponudimo kot storitev in je vse ful laži in vam cilj kup nekaj teh bombončkov, ker so to tako težke stvari, pa marskirujejo organizaciji in je to pač cost.
+
+587
+01:01:17,000 --> 01:01:19,000
+Itak že imaš Microsoft Teams.
+
+588
+01:01:19,000 --> 01:01:42,000
+Točno to in pač vzameš še ta mali cloud pri njih in to se mi zdi, da je tudi ful vredu, zato ker meni se definitivno, če ti že vse to imaš, pa rabeš nekaj malega narediti, pol je čisto brezveze, da ti greš še na AWS, pol je pač komitan v ta bapeta in to se mi tudi zdaj vredu.
+
+589
+01:01:42,000 --> 01:02:10,000
+Pazi, to je mojo hipotezo, pa je lahko vržaš ali potrdiš, jaz imam ful občutek, da pri Google razvoju clouda gre ful iz tega zornega kota, da te stvari najprej na nek način za svoje potrebe razvijajo primarno in potem te stvari, ki jih oni že uporabljajo, potem grejo v neke transformacije in prekateri transformaciji pridejo pol do tega njihovega, kaj to, public clouda ali kaj.
+
+590
+01:02:10,000 --> 01:02:27,000
+Med tem, ko pri Microsoftu pa pri Azureju, imam pa ful občutek, da njihov main customer so enterprises že od začetka in jaz imam ful občutek, da pri Azureju se tudi opaze, da so stvari bistveno bolj pa lepše povezane.
+
+591
+01:02:27,000 --> 01:02:44,000
+A veš, tam rečeš, naredi mi bazo, ti že predlaga uporabljiš in synaps, pa synaps narediš, mislim zelo bolj koherentno povezane kocki te so, ko pa pri Google, tako se mi zdi in ta eni izhajajo iz sebe, pa dajo stvari ven, drugi pa dajo stvari ven, zaradi ene treba.
+
+592
+01:02:44,000 --> 01:02:52,000
+Mogoče se motim, moj feeling je bil tako, da ste mi tuli. Ali je to hipoteza?
+
+593
+01:02:52,000 --> 01:03:02,000
+Jaz iz določenih verov vem, da Google definitivno tako ne dela, Google ne uporablja clouda, čeprav inženirja, tam silijo, da uporabljajo njihov cloud.
+
+594
+01:03:02,000 --> 01:03:04,000
+Kako uporabljajo? Jesus Christ.
+
+595
+01:03:04,000 --> 01:03:12,000
+Google pač, ne vem, oni še zmer uporabljajo Borg, to je čist ločeno se, oni niso konzumeri, tudi koncepti so čist drugi.
+
+596
+01:03:12,000 --> 01:03:14,000
+Oni so ne uporabljajo bitcoinja za svoje.
+
+597
+01:03:14,000 --> 01:03:27,000
+Ok, mogoče, ampak to je res taka nišna stvar. Oni bi mogoče pojeli samo, kaj rečeš, eat your own dog food, oni bi mogoče pojeli kašen briket tu pa tam, kaj pač res veliko.
+
+598
+01:03:28,000 --> 01:03:43,000
+On, vidi se, da ima z Google Cloud kar doskrat probleme, se mi zdi, da njihov produktni segment projekta, to se pravi njihov produkt, tim predvsem gleda okolj in potem se trudijo to zaimplementirati.
+
+599
+01:03:43,000 --> 01:03:58,000
+Tako da pač mečjo, cash note, tu pa tam stvari šepajo. Zdaj, to ne upaziš, to pač res upažiš, če se zelo na to spet, to pač jaz upazim.
+
+600
+01:03:58,000 --> 01:04:00,000
+Pač uporabljaš cutting edge.
+
+601
+01:04:00,000 --> 01:04:02,000
+Ja, pač, a ne.
+
+602
+01:04:03,000 --> 01:04:20,000
+Ok, recimo smo te big, tukaj igral sem se tudi, ko rečem, da sem se igral, pomeni, da sem jo uporabljal, nisem jo uporabljal za stranke produktivske, igral sem se tudi z IBM ovim tem cloudom, pa igral sem se tudi z Oracle ovim cloudom.
+
+603
+01:04:21,000 --> 01:04:40,000
+Tudi ta dva, tudi ta dva, jaz bom tako rekel, če gremo čez vsi te gratice, ko smo jih prej imeli, ko rečeš, hočem samo najti kompjut, vse in mi je za vse ostalo, jaz samo hočem najti pet virtualek, pa disk, pa ne vem kaj, ni neke blazne razlike.
+
+604
+01:04:40,000 --> 01:04:48,000
+Dobiš tiste bokse, ko jih ne rabiš, jih se spendaš, dobiš nove, ni razlike. Razlika se mi zdi, da se polo stvarja više, ko greš po staj, ko rečeš, ne vem.
+
+605
+01:04:48,000 --> 01:04:57,000
+Zdaj pa rabim Oracle-ov autonomous database, pa hočem, da je sam se menedžira, pa sam clean-up-a, scale-a, pa to, tam pa pol se ful ostaje razlika.
+
+606
+01:04:57,000 --> 01:05:05,000
+In potem, ko greš v še više abstrakcijske nivoje, ko greš v, ne vem, Lambda, ko greš v te specifike, tam je pa ful razlika.
+
+607
+01:05:05,000 --> 01:05:09,000
+In tam tudi ni neke, to vidim, razlike.
+
+608
+01:05:09,000 --> 01:05:19,000
+Dragače pa tako si sam rekel, se mi zdi, da včasih te boksi kot taki, ali pa neki servisi, ki jih ponujejo, sami delujejo odlično.
+
+609
+01:05:19,000 --> 01:05:25,000
+Včasih pa vidim problemi so, ko moraš ti bokse skupaj povezati.
+
+610
+01:05:25,000 --> 01:05:33,000
+Recimo pre Google-o sem upazil, ne vem, Google Cloud Run, je pač ta Knative runner za kontejnere, ki je fulj manažed.
+
+611
+01:05:33,000 --> 01:05:42,000
+Kako ta Cloud Run deluje z ostalimi servisi, pa VPC, pa caching, pa Redis, pa vse, da to zadevo čist povežeš.
+
+612
+01:05:42,000 --> 01:05:45,000
+Eno je, kako to narediš, drugo je, kakšne dokumentacije.
+
+613
+01:05:45,000 --> 01:05:52,000
+Ampak to bi fer, ta zadeva je relativno nova, se še ful razvija, verjetno bo jutri čist drugače, kot pa je bilo par mesece nazaj.
+
+614
+01:05:53,000 --> 01:05:59,000
+Ampak tu vidim tudi te razlike, kako se stvari skupaj sestavljajo, pa kje v resnici imaš zdaj trenutno,
+
+615
+01:05:59,000 --> 01:06:08,000
+že zadeva, imaš to neki hibridni cloud ali nehibridni cloud, imaš neke zastarele načine aplikacije, imaš Knative in to.
+
+616
+01:06:08,000 --> 01:06:16,000
+Ampak na koncu, če si ti slovensko podjetje ali pa nekdo, ki deluje v Sloveniji,
+
+617
+01:06:16,000 --> 01:06:23,000
+je mogoče bolj pomembno, da če ti že uporabljaš Google Workspaces, imaš ti že vse juzere noter,
+
+618
+01:06:23,000 --> 01:06:25,000
+zakaj pa pač ne bi uporabljali še Google Cloud.
+
+619
+01:06:25,000 --> 01:06:33,000
+In je to po moje čist legit reason za to, da uporabljaš pač Google Cloud.
+
+620
+01:06:33,000 --> 01:06:41,000
+Pač ne je tvoja ta over-optimizacija, pač ne splača se.
+
+621
+01:06:41,000 --> 01:06:46,000
+Se mi zdi, da ljudje pa tako ful razmišljajo, a moj bog, mi smo zdaj boli to in pa se čisto zalupajo v to.
+
+622
+01:06:47,000 --> 01:06:50,000
+Mogla bom ajti na našlednjo tema.
+
+623
+01:06:54,000 --> 01:07:03,000
+Zdaj, dajmo tu zdaj govoriti v tem sedem veliki topiku, ko je, če smo prej rekli en server, potem smo več serverja imeli,
+
+624
+01:07:03,000 --> 01:07:09,000
+potem si zdvigli telefon, pa se rekel dejte mi novo disk, dejte mi to skonfigurirati, pa si pošili omejle,
+
+625
+01:07:09,000 --> 01:07:24,000
+v tem smo imeli API, pa to. Zdaj, kje je tu noter v celem tem goruči nekih tehnologij, pa urodi, kje je tu noter prostor za avtomatizacijo,
+
+626
+01:07:24,000 --> 01:07:29,000
+pa zakaj kot inženjeri rabimo avtomatizacijo znotraj tega prostora.
+
+627
+01:07:29,000 --> 01:07:34,000
+Zdaj, mogoče mi to kot nek tako uvod ve, da ta sklop razloži.
+
+628
+01:07:34,000 --> 01:07:40,000
+Ful je veliko enih use case-ov.
+
+629
+01:07:40,000 --> 01:07:53,000
+En izmed use case-ov je, da vsi ti dashboardi so relativno kompleksni in potem v bistvu s časom, ko ti klikaš te resurse v cloudu,
+
+630
+01:07:54,000 --> 01:08:00,000
+rada to problematično, zato ker ti sloh ne veš kaj si čistočno poklikal.
+
+631
+01:08:00,000 --> 01:08:09,000
+In potem bi bilo v bistvu ful bolj smotrno, da bi ti imel sam list papirja, ki bi rekel, mi pač to rabimo, a imamo to lahko pač zdaj v cloudu.
+
+632
+01:08:09,000 --> 01:08:21,000
+In zdaj, če imaš, ne vem, do 20 strežnikov, pa navporavljaš veliko stvari, pa imaš več ljudi, ki vejo kaj ta noter je naklikan,
+
+633
+01:08:21,000 --> 01:08:27,000
+potem, ok, bo to šlo. Drugače pa rada to v bistvu kar hitro kompleksno.
+
+634
+01:08:27,000 --> 01:08:43,000
+Potem so stvari, kjer ti rabaš večjo dinamiko, v smislu tak dober primer je, ti delaš ankete za predsedniške volitve in imaš nek obrazec,
+
+635
+01:08:44,000 --> 01:08:53,000
+in zdaj, ko ti ljudem pošleš na e-mail, ej, dejte narediti reč to anketo, bo v prvih minutih ful ljudi začeli to klikati.
+
+636
+01:08:53,000 --> 01:09:01,000
+Kar pomeni, da tradicionalno, rečemo, tudi če ti lahko naklikaš auto-scaling, bo prehladen, to se pravi ne bo dovolj ugret,
+
+637
+01:09:01,000 --> 01:09:08,000
+in ljudem to ne bo delal, dokler ta auto-scaling ne bo rekel, ok, mi imamo ful requestov, zdaj pač to bom zaštartal,
+
+638
+01:09:08,000 --> 01:09:14,000
+ampak ti si zgubil ful trackš na teh uporabnikov, ki so odprli ta e-mail, zato, ker je res taka špica.
+
+639
+01:09:14,000 --> 01:09:21,000
+To je zdaj malo teoretično, mejle lahko ti razporeš čez čas, ampak mogoče si ti splače na primer predugreti ta sistem,
+
+640
+01:09:21,000 --> 01:09:29,000
+to se pravi, da takrat najameš 4x več strežnikov in potem pošleš mejle in kako boš zdaj to naredil, to lahko naredi z avtomatizacijo.
+
+641
+01:09:30,000 --> 01:09:32,000
+To je tak useful thing.
+
+642
+01:09:32,000 --> 01:09:48,000
+Se pravi, da v bistvu dobiš hitreje, lahko reagiraš na potrebe, boljši tooling imaš za avtomatizirano povečevanje,
+
+643
+01:09:48,000 --> 01:09:54,000
+pa elastičnost cele svoje infrastrukture, pa lažje se odzoveš na te pike.
+
+644
+01:09:55,000 --> 01:10:07,000
+Doskrat imajo klaud provajderi neke autoscaling stori, ki bodo v bistvu sami ti gledena uporabo pomnilnika ali pa procesorski moči,
+
+645
+01:10:07,000 --> 01:10:13,000
+ti bodo sami v bistvu pač to razstegvali pa skrčvali.
+
+646
+01:10:13,000 --> 01:10:22,000
+Doskrat trebaš pa v bistvu tudi webasto v avto, ko ti predgreje avto, prednostopaš ven z hiše, to pa v bistvu pa lahko, rečmo, s tem delaš.
+
+647
+01:10:22,000 --> 01:10:32,000
+Ali pa dober primer je tudi, imamo dva mikroservisa in tradicionalno je en klico drugega prek HTTP-a,
+
+648
+01:10:32,000 --> 01:10:36,000
+ampak kaj pač drugi pado dol, je tudi prvi pado dol.
+
+649
+01:10:36,000 --> 01:10:38,000
+Tako kot štiri muške teoriji, vsi za enega, en za vse.
+
+650
+01:10:38,000 --> 01:10:41,000
+Smo štiri, ampak če en pade dol, smo vsi dol padli.
+
+651
+01:10:41,000 --> 01:10:49,000
+In potem rečemo, aha, da bomo vomeni znali tako queue ali pa nek pub-sub sistem,
+
+652
+01:10:49,000 --> 01:10:51,000
+kjer bomo odlogovali te meseče.
+
+653
+01:10:51,000 --> 01:10:55,000
+In to je dober dela, če en pade dol, stvari stojijo na queue in je to super.
+
+654
+01:10:55,000 --> 01:11:02,000
+Kaj pa pol nastane problem je pa, kaj imaš ti teh mikroservisov ali pa sistemov ogromno,
+
+655
+01:11:02,000 --> 01:11:08,000
+je teh queuejo ogromno, pa na neke točke nisi čisto zihera, imaš ti vse te queueje sploh v klaudo
+
+656
+01:11:08,000 --> 01:11:16,000
+in pa lahko v bistvu ti, rečmo, že znotraj svoje kode rečeš, ej, ta servis odlaga na ta queue in pa imaš nek drug proces,
+
+657
+01:11:16,000 --> 01:11:23,000
+mislim, pa imaš nek program, ki pogleda vse te servise, pogleda, kjer je queue mora obstajati in pol pač vedno kot garancijo
+
+658
+01:11:23,000 --> 01:11:29,000
+tudi potrdi, da obstajajo, kot storitev na klaudo, a ne.
+
+659
+01:11:29,000 --> 01:11:34,000
+Ok, se pravi, če gremo zdaj malo dve stvari nekako ločiti.
+
+660
+01:11:34,000 --> 01:11:44,000
+Koncepti grejo v ta deklarativni upis, kaj ti imaš oziroma kaj hočeš med
+
+661
+01:11:44,000 --> 01:11:53,000
+in namesto, da to napišemo v seznamno list, ga napišemo v nek jaml, v nek format, file, json, jaml, whatever
+
+662
+01:11:53,000 --> 01:12:02,000
+ali pa uporabimo tudi nek programski jezik, da to naredimo, ampak upišemo, kaj želimo med
+
+663
+01:12:02,000 --> 01:12:08,000
+in potem nek tooling bo v bistvu ugotovil, kaj je že nareto, kaj ni nareto
+
+664
+01:12:08,000 --> 01:12:16,000
+pa bo naredil, ugotovil, katere spremembe mora narediti in bo potem skomuniciral z klaudom oziroma z nekim toolingom
+
+665
+01:12:16,000 --> 01:12:21,000
+kako naj to naredi in kako naj to naredi bo potem to izvedel.
+
+666
+01:12:21,000 --> 01:12:30,000
+In temu bi jaz rekel infrastructure as code, oziroma infrastructure as a code, tj. dva a in ena.
+
+667
+01:12:30,000 --> 01:12:35,000
+Obstaja pa tudi še neka stvar, kaj pa se reče bolj configuration management
+
+668
+01:12:35,000 --> 01:12:42,000
+in te stvari se tudi malo prekljivajo. Se gre pa bolj zato, jaz že imam nek strežnik
+
+669
+01:12:42,000 --> 01:12:52,000
+in imam pet strank in tam v Nginx ali pa Apache-u imam virtualne domene oziroma strežnike
+
+670
+01:12:52,000 --> 01:13:03,000
+kjer rečem, če pride človek z domeno nom.si, ga pač mu pokaži to z spletna stran, če pa pride z neko drugo domeno
+
+671
+01:13:03,000 --> 01:13:11,000
+pa pač naj gre nekam drugam. In zdaj, ko dodam jaz, če imam pet strank, pa dodam šesto stranko,
+
+672
+01:13:11,000 --> 01:13:18,000
+pa moram jaz to konfiguracijo spremeniti in zato, da to ne delam ročno, imaš pa v bistvu bolj te configuration management sisteme.
+
+673
+01:13:18,000 --> 01:13:27,000
+To so pa sistemi, ki so bolj specializirani na to, da, na primer, Ansible bo tako funkcioniral, da
+
+674
+01:13:28,000 --> 01:13:36,000
+ti pri sebi dodaš pač novo domeno, on se v ozadju prek SSH-a poveže na ta strežnik, zamenja ta fajl,
+
+675
+01:13:36,000 --> 01:13:46,000
+poskrbi, da se te Nginx zreloada oziroma reštarta pač v detajli in je to to.
+
+676
+01:13:46,000 --> 01:13:56,000
+Lahko pa Ansible ima tudi drug modul, ki bi ti pa rekel, ki jim remotira, če še želim, da obstaja ta dvaje virtualke
+
+677
+01:13:56,000 --> 01:14:03,000
+z tok pa tok rama in bo tudi za to poskrbel. Ni pa nujno bolj specializiran za configuration management,
+
+678
+01:14:03,000 --> 01:14:09,000
+ampak je infrastructure as code, da skrbi prost za dvigovanje infrastrukturo in je pa tudi del Ansible.
+
+679
+01:14:10,000 --> 01:14:18,000
+Prej gremo še bolj v te specifične toolinge. Vsi, ki mogoče to lepo slušajo, pa so, ne vem,
+
+680
+01:14:18,000 --> 01:14:24,000
+se SSH-a na serveri je pa na roke delajo ali pa so vsi skripte napisali, da to delajo.
+
+681
+01:14:26,000 --> 01:14:32,000
+Zakaj se bi splačalo imeti te toolinge, o katerih bom ga govorila, rejeta toolingo porabljati versus,
+
+682
+01:14:32,000 --> 01:14:38,000
+da sam kopiraš via FTP ali pa se SSH-aš pa potem to ročno delaš? Kaj je prednost?
+
+683
+01:14:38,000 --> 01:14:45,000
+Ja, na neki točki se ti težko skelaš, to je prva stvar. Na drugi točki si lahko zmotaš,
+
+684
+01:14:45,000 --> 01:14:51,000
+če ročno kopiraš, pa si pa rečeš, aha, bo to lahko rešen z shell skripto, bez skripto.
+
+685
+01:14:53,000 --> 01:14:59,000
+Bejš je pa tudi tak zabavn jezik, če mu lahko tako rečemo, karkoli.
+
+686
+01:15:00,000 --> 01:15:05,000
+to error prone, pa težko so zametenjati te skripte in potem si ti v bistvu,
+
+687
+01:15:05,000 --> 01:15:09,000
+aha, pa še ena stvar in ti moraš potem v bistvu implementirati tudi dosti krat
+
+688
+01:15:09,000 --> 01:15:15,000
+indepotenco, to se pravi, da ko ti pokličaš nekaj, pa to že obstaja, je v redu,
+
+689
+01:15:15,000 --> 01:15:20,000
+če pa ne obstaja, narediš, ne smeti pa prijeti v napake, da hoče stvar narediti,
+
+690
+01:15:20,000 --> 01:15:25,000
+pa že obstaja, to se pravi, da lahko to mnogo krat pokličaš, pa bo vedno v redu,
+
+691
+01:15:25,000 --> 01:15:32,000
+in zato pa pride v bistvu te tooli, pa še en mogoče zanimljiv je,
+
+692
+01:15:32,000 --> 01:15:37,000
+nočiš biti tisti človek, ki je napisal skripte, ki morajo potem drugi ljudje
+
+693
+01:15:37,000 --> 01:15:39,000
+mentenjati, ko te ni več v firmi.
+
+694
+01:15:39,000 --> 01:15:47,000
+To pribeje še v skloh velja, zato ker je, kaj je pravilna način pisanja tega jezika,
+
+695
+01:15:47,000 --> 01:15:51,000
+je zelo, da je koda mentenjabel, je zelo v bistvu triki, pa če se mičkam,
+
+696
+01:15:51,000 --> 01:15:57,000
+tako detajl težko je. Ne poznavamo vsi tega jezika tako dobro. Malo je tako,
+
+697
+01:15:57,000 --> 01:16:01,000
+kot JavaScript, samo da ni tako popularno, da bi ga vsi res tako dobro poznali.
+
+698
+01:16:01,000 --> 01:16:07,000
+Ok, to smo zdaj upisali, čisto ta osnovni koncept.
+
+699
+01:16:07,000 --> 01:16:13,000
+Previsioning, configuration. Previsioning pomeni, da serveri dvigneš,
+
+700
+01:16:13,000 --> 01:16:17,000
+da nastaviš networking, da nastaviš load balancerje.
+
+701
+01:16:17,000 --> 01:16:23,000
+Configuration pa se pravi, da postaviš neke pakete, zagotviš, da so zdeplojeni,
+
+702
+01:16:23,000 --> 01:16:27,000
+da je konfiguracija specifična za servise in podobno.
+
+703
+01:16:27,000 --> 01:16:35,000
+Potem pride pač ta deploy nekega workloada oziroma tačnik workload gor,
+
+704
+01:16:35,000 --> 01:16:43,000
+ki ga je tudi treba skonfigurirati oziroma tudi zapakirati oziroma potem stvari izplozačne teč.
+
+705
+01:16:44,000 --> 01:16:49,000
+Nekako v osnovi imamo pa pol ta dva staža.
+
+706
+01:16:49,000 --> 01:16:54,000
+En je ta staž, initial setup infrastrukture, pa pol menedžiranje infrastrukture,
+
+707
+01:16:54,000 --> 01:17:00,000
+pa potem drug staž je inicializacija appa, pa potem menedžanje appa.
+
+708
+01:17:00,000 --> 01:17:04,000
+Se pravi, to so ta nekaj taj dva sloja, ki jih vidimo v tem celem speso.
+
+709
+01:17:04,000 --> 01:17:11,000
+Zdaj bomo šli malo bolj govoriti v te druge plajere, ki so vnoter pomagajo.
+
+710
+01:17:11,000 --> 01:17:16,000
+Bomo govorili malo o šefu, popetu, en si bilo pa v terraformu.
+
+711
+01:17:16,000 --> 01:17:17,000
+Ok?
+
+712
+01:17:17,000 --> 01:17:18,000
+Ok.
+
+713
+01:17:18,000 --> 01:17:19,000
+A bi?
+
+714
+01:17:19,000 --> 01:17:20,000
+Ja, ja, ja.
+
+715
+01:17:20,000 --> 01:17:21,000
+Ok.
+
+716
+01:17:21,000 --> 01:17:22,000
+Mešana solata.
+
+717
+01:17:22,000 --> 01:17:23,000
+Mešana solata.
+
+718
+01:17:28,000 --> 01:17:33,000
+Dej malo tako samih po svojih razloži malo kaj so ti te štiri tuli.
+
+719
+01:17:33,000 --> 01:17:36,000
+Kaj taj pomeni, kaj taj pomeni ti tuli recimo?
+
+720
+01:17:36,000 --> 01:17:39,000
+Kaj ti šef pomeni, pa kaj ti popet pomeni?
+
+721
+01:17:39,000 --> 01:17:45,000
+Ja, jaz bom še bom kar zignoriral, da bomo na tri, ker je pa v bistvu lažje.
+
+722
+01:17:45,000 --> 01:17:46,000
+Ok.
+
+723
+01:17:46,000 --> 01:17:51,000
+Pa v bistvu zadnja leta se mi zdi, da so stvari strašansko konvergerale.
+
+724
+01:17:51,000 --> 01:17:54,000
+Pač o, en si bil, popet ni tako popularen.
+
+725
+01:17:54,000 --> 01:18:05,000
+Ampak popet, pa en si bil sta vbada, bila bolj, co se pravo, sta bolj konfigurešen managment tula.
+
+726
+01:18:05,000 --> 01:18:09,000
+Za popet sloh ne vem, če ti lahko proviže na infrastrukturo.
+
+727
+01:18:09,000 --> 01:18:12,000
+Od vsega, ko sem ga jaz na zadnje uporabljal, pač to ni šlo.
+
+728
+01:18:12,000 --> 01:18:20,000
+Razlika med tema dvema je bila, da en si bolj se bo povezal prek SSH-ja na strežnike.
+
+729
+01:18:20,000 --> 01:18:24,000
+Al pa konc konc so tudi cviče, če podpira SSH.
+
+730
+01:18:24,000 --> 01:18:26,000
+Jaz sem ga uporabljal za Raspberry Pi, eto recimo.
+
+731
+01:18:26,000 --> 01:18:27,000
+No.
+
+732
+01:18:27,000 --> 01:18:28,000
+Ja, ok.
+
+733
+01:18:28,000 --> 01:18:30,000
+In bo pač naredil neke spremenbe.
+
+734
+01:18:31,000 --> 01:18:33,000
+Ti tam gor ne rabiš imeti klajenta.
+
+735
+01:18:33,000 --> 01:18:38,000
+Mislim, mori biti SSH-strežnik, ampak to rečemo, da v večini je.
+
+736
+01:18:38,000 --> 01:18:41,000
+In to je model, ki se mora reči pušč.
+
+737
+01:18:41,000 --> 01:18:43,000
+Pač en se bolj puščne neke stvari.
+
+738
+01:18:43,000 --> 01:18:48,000
+Popet, pa rečemo, solstek, funkcionira pa kontra.
+
+739
+01:18:48,000 --> 01:18:50,000
+Ti imaš pač strežnika in popet master.
+
+740
+01:18:50,000 --> 01:18:55,000
+In potem imaš ti več napravlj, ki se poveže o tega gor in reče,
+
+741
+01:18:55,000 --> 01:18:57,000
+v kakšnem stanju moram jaz biti.
+
+742
+01:18:57,000 --> 01:18:59,000
+Jaz sem ta pa ta, kakšno je moje stanje.
+
+743
+01:18:59,000 --> 01:19:06,000
+In potem podpulajo pač dol in spremenijo svojo konfiguracijo tako,
+
+744
+01:19:06,000 --> 01:19:08,000
+kaj pač morajo imeti.
+
+745
+01:19:08,000 --> 01:19:10,000
+Zakaj to useful je?
+
+746
+01:19:10,000 --> 01:19:15,000
+Naprimer, da imamo mi kalne avtomate, ki so smart,
+
+747
+01:19:15,000 --> 01:19:18,000
+ki so razškropljeni po celi Sloveniji in so za nekim NAT-om
+
+748
+01:19:18,000 --> 01:19:22,000
+in ti do njih težko pač penetreraš po networkingu.
+
+749
+01:19:22,000 --> 01:19:25,000
+Oni pa tebe simple kontaktirajo.
+
+750
+01:19:26,000 --> 01:19:33,000
+Al pa naprimer, če imaš neko konferenco in pa imaš pet razberi pajo,
+
+751
+01:19:33,000 --> 01:19:37,000
+ki morajo sponzorske slajde predvajati, je tudi lažje.
+
+752
+01:19:37,000 --> 01:19:40,000
+Ti jih tam razkropiš, dokler jih enot napišeš,
+
+753
+01:19:40,000 --> 01:19:44,000
+bodo pač že tam, lahko rebootaš enega, drugega,
+
+754
+01:19:44,000 --> 01:19:46,000
+on je vse na zahte pregistrirano.
+
+755
+01:19:46,000 --> 01:19:48,000
+Zanimljivo, da si se za konferenco odločil in si rekel na primer
+
+756
+01:19:48,000 --> 01:19:50,000
+o avtonomnih vozil.
+
+757
+01:19:50,000 --> 01:19:53,000
+Ja, konference sem že organiziral,
+
+758
+01:19:53,000 --> 01:19:55,000
+avtonomno vozil pa še ne.
+
+759
+01:19:57,000 --> 01:19:59,000
+To je čist praktična stvar.
+
+760
+01:19:59,000 --> 01:20:02,000
+Na B-sajcu smo rečmo tako uporabljali.
+
+761
+01:20:04,000 --> 01:20:09,000
+Pa pač zdaj odleti mičkan stran iz tega provižene infrastrukture,
+
+762
+01:20:09,000 --> 01:20:12,000
+zato ki nima smisla, da klient dobi neko kasnaj
+
+763
+01:20:12,000 --> 01:20:15,000
+s provižena infrastrukturo nekje.
+
+764
+01:20:15,000 --> 01:20:17,000
+Prej ensi je bilo pa drugač.
+
+765
+01:20:17,000 --> 01:20:20,000
+Ti imaš korake, ki se začnejo, prej ensi je bilo tako.
+
+766
+01:20:20,000 --> 01:20:26,000
+Naredi mi virtualko na kjerkolik, pač na AVSO, Linodo, kjerkoli,
+
+767
+01:20:26,000 --> 01:20:28,000
+počaka, da je to narejen,
+
+768
+01:20:28,000 --> 01:20:30,000
+pol se pa gor poveze s SHM,
+
+769
+01:20:30,000 --> 01:20:33,000
+pa purin gor dokar kontener, pa ga štarti.
+
+770
+01:20:33,000 --> 01:20:35,000
+To je ta hibriden model.
+
+771
+01:20:35,000 --> 01:20:38,000
+Ti v prvi fazi infrastrukturo proviženaš,
+
+772
+01:20:38,000 --> 01:20:44,000
+v drugi pa pač konfiguriraš to.
+
+773
+01:20:44,000 --> 01:20:46,000
+Terraform?
+
+774
+01:20:47,000 --> 01:20:51,000
+Sicer v robu ma lahko oddelaš ti stvari,
+
+775
+01:20:51,000 --> 01:20:53,000
+ampak ni zato narejen,
+
+776
+01:20:53,000 --> 01:20:55,000
+da bi ti zdaj nekaj ful modificiral.
+
+777
+01:20:55,000 --> 01:20:58,000
+Terraform je res narejen.
+
+778
+01:20:58,000 --> 01:21:01,000
+Terraform, pišeš neki jezik,
+
+779
+01:21:01,000 --> 01:21:05,000
+ki je zelo preprost, pač stršansko preprost,
+
+780
+01:21:05,000 --> 01:21:08,000
+imaš različne providerje, to se pravi provider
+
+781
+01:21:08,000 --> 01:21:11,000
+ti da interfejs za nek cloud,
+
+782
+01:21:11,000 --> 01:21:14,000
+naprimer če upravljaš AVSO, boš imel AVSO providerja.
+
+783
+01:21:14,000 --> 01:21:17,000
+Tam pa ti nota res naštepaš.
+
+784
+01:21:17,000 --> 01:21:23,000
+Arhitekturo, hočem imeti VPC,
+
+785
+01:21:23,000 --> 01:21:28,000
+to se pravi networking,
+
+786
+01:21:28,000 --> 01:21:30,000
+pa lahko hočem imeti te strežnike,
+
+787
+01:21:30,000 --> 01:21:32,000
+tako kot Burnetas, te userje,
+
+788
+01:21:32,000 --> 01:21:35,000
+te service akante, te custom role,
+
+789
+01:21:35,000 --> 01:21:39,000
+te bindinge custom rolev na te userje.
+
+790
+01:21:39,000 --> 01:21:42,000
+In to ta nota napišeš in ki ti spoženaš,
+
+791
+01:21:43,000 --> 01:21:46,000
+tam se zgradi infrastruktura.
+
+792
+01:21:46,000 --> 01:21:49,000
+Terraform ima lokalno reprezentacijo,
+
+793
+01:21:49,000 --> 01:21:52,000
+kaj je zdaj na cloudu.
+
+794
+01:21:52,000 --> 01:21:54,000
+To je pa zelo deklarativno,
+
+795
+01:21:54,000 --> 01:21:56,000
+ko boš ti odstranil en objekt,
+
+796
+01:21:56,000 --> 01:21:59,000
+bo on pogledal svoj lokalen state
+
+797
+01:21:59,000 --> 01:22:01,000
+in bo rekel, je mu pobrisil ta resurs,
+
+798
+01:22:01,000 --> 01:22:03,000
+tako pa li funkcionira.
+
+799
+01:22:03,000 --> 01:22:06,000
+Tukaj pri Terraformu, kaj se zgodi,
+
+800
+01:22:06,000 --> 01:22:08,000
+če nekdo iz ekipe gre,
+
+801
+01:22:08,000 --> 01:22:11,000
+potem se en poklika po cloudu,
+
+802
+01:22:11,000 --> 01:22:14,000
+pa ni bilo preko Terraforma.
+
+803
+01:22:14,000 --> 01:22:16,000
+Super vprašanje.
+
+804
+01:22:16,000 --> 01:22:17,000
+Kaj se zgodi?
+
+805
+01:22:17,000 --> 01:22:18,000
+Nič.
+
+806
+01:22:18,000 --> 01:22:20,000
+Zato ker Terraform tako funkcionira,
+
+807
+01:22:20,000 --> 01:22:23,000
+da kaj darkoli nekaj naredi,
+
+808
+01:22:23,000 --> 01:22:25,000
+si zapiše nekam,
+
+809
+01:22:25,000 --> 01:22:27,000
+ali lokalno ali pa skupaj,
+
+810
+01:22:27,000 --> 01:22:30,000
+da lahko z ekipo šeraš neko state dejansko,
+
+811
+01:22:30,000 --> 01:22:33,000
+si zapiše vrednost.
+
+812
+01:22:33,000 --> 01:22:36,000
+Reče, jaz to menedžeram.
+
+813
+01:22:37,000 --> 01:22:40,000
+Pač nek file, kateri menedžeram.
+
+814
+01:22:40,000 --> 01:22:43,000
+File je in so taki values.
+
+815
+01:22:43,000 --> 01:22:46,000
+In si zapiše, jaz to menedžeram.
+
+816
+01:22:46,000 --> 01:22:49,000
+In ti dodaš en objekt v Terraform file
+
+817
+01:22:49,000 --> 01:22:51,000
+in ga bo zgeneriral.
+
+818
+01:22:51,000 --> 01:22:53,000
+In pazi to, ker ti to zdaj pobrišaš
+
+819
+01:22:53,000 --> 01:22:55,000
+in nimaš nobenega objekta v Terraformu,
+
+820
+01:22:55,000 --> 01:22:57,000
+kako on ve, da mora nekaj pobrisati?
+
+821
+01:22:57,000 --> 01:22:59,000
+On naredi delto med statom
+
+822
+01:22:59,000 --> 01:23:02,000
+in reče, v moji kodi je to zginal,
+
+823
+01:23:02,000 --> 01:23:04,000
+en mi je pobrisal to ven,
+
+824
+01:23:04,000 --> 01:23:06,000
+pač on samo ve,
+
+825
+01:23:06,000 --> 01:23:09,000
+da te reference na ta objekt ni več.
+
+826
+01:23:09,000 --> 01:23:11,000
+V state-u imam, pa na cloud-u je.
+
+827
+01:23:11,000 --> 01:23:13,000
+To se pravi, moja delta,
+
+828
+01:23:13,000 --> 01:23:15,000
+moja akcija, ki so, je,
+
+829
+01:23:15,000 --> 01:23:17,000
+jaz bom ta objekt pobrisal.
+
+830
+01:23:17,000 --> 01:23:20,000
+Če pa grem jaz zdaj kot navadno uporabnik na cloud,
+
+831
+01:23:20,000 --> 01:23:22,000
+pa tam naredim eno virtualko,
+
+832
+01:23:22,000 --> 01:23:24,000
+to Terraformu čisto sen,
+
+833
+01:23:24,000 --> 01:23:27,000
+zato kar on v state-u nima,
+
+834
+01:23:27,000 --> 01:23:30,000
+v kodi ga tudi ni in je to to.
+
+835
+01:23:30,000 --> 01:23:32,000
+Zakaj je to tako narejen je,
+
+836
+01:23:32,000 --> 01:23:34,000
+da se karkoli ti klikneš na cloud-u,
+
+837
+01:23:34,000 --> 01:23:36,000
+se cel kup enih resursov lahko
+
+838
+01:23:36,000 --> 01:23:38,000
+domatsko še kaskatno zgodi,
+
+839
+01:23:38,000 --> 01:23:40,000
+in pač ti ne moraš poklicati cloud,
+
+840
+01:23:40,000 --> 01:23:42,000
+pa reči, dej mi vse resurse,
+
+841
+01:23:42,000 --> 01:23:44,000
+ki so obstaja odnoter,
+
+842
+01:23:44,000 --> 01:23:46,000
+ko pač ne obstaja.
+
+843
+01:23:46,000 --> 01:23:48,000
+In pač bi bilo tudi
+
+844
+01:23:48,000 --> 01:23:50,000
+totalno nepregledno.
+
+845
+01:23:50,000 --> 01:23:54,000
+To ti bom prašal, kaj je Terraform plan naredi?
+
+846
+01:23:54,000 --> 01:23:58,000
+Terraform plan naredi sledeče,
+
+847
+01:23:58,000 --> 01:24:00,000
+prebere najprej kodo,
+
+848
+01:24:00,000 --> 01:24:02,000
+ki jo ima lokalno,
+
+849
+01:24:02,000 --> 01:24:04,000
+primerja jo z state-om,
+
+850
+01:24:04,000 --> 01:24:06,000
+in izračuna div.
+
+851
+01:24:06,000 --> 01:24:08,000
+Ali moram narediti objekte,
+
+852
+01:24:08,000 --> 01:24:10,000
+ali se nič ne spremeni,
+
+853
+01:24:10,000 --> 01:24:14,000
+ali pa moram pobrisati stvari.
+
+854
+01:24:14,000 --> 01:24:16,000
+Implicitno v bistvu kaj naredi,
+
+855
+01:24:16,000 --> 01:24:18,000
+še preden to naredi,
+
+856
+01:24:18,000 --> 01:24:20,000
+tudi pokliče cloud,
+
+857
+01:24:20,000 --> 01:24:22,000
+pa po update-a te objekte,
+
+858
+01:24:22,000 --> 01:24:24,000
+ki so v stanju.
+
+859
+01:24:24,000 --> 01:24:26,000
+To znači, če jaz
+
+860
+01:24:26,000 --> 01:24:28,000
+dvignem,
+
+861
+01:24:28,000 --> 01:24:30,000
+dodam nek label,
+
+862
+01:24:30,000 --> 01:24:32,000
+bo v bistvu rekel,
+
+863
+01:24:32,000 --> 01:24:34,000
+da se moram še enkrat.
+
+864
+01:24:34,000 --> 01:24:36,000
+Prebere kodo,
+
+865
+01:24:36,000 --> 01:24:40,000
+pogleda objekte, ki jih ima v state-u,
+
+866
+01:24:40,000 --> 01:24:42,000
+gre za vse objekte,
+
+867
+01:24:42,000 --> 01:24:44,000
+ki jih ima v state-u na cloud,
+
+868
+01:24:44,000 --> 01:24:46,000
+potegne zadno stanje,
+
+869
+01:24:48,000 --> 01:24:50,000
+in potem samo primerja,
+
+870
+01:24:50,000 --> 01:24:52,000
+a se ta lokalen state,
+
+871
+01:24:52,000 --> 01:24:54,000
+pa ta koda ujemata.
+
+872
+01:24:54,000 --> 01:24:56,000
+Če odstranjaš objekt v kodo,
+
+873
+01:24:56,000 --> 01:24:58,000
+bo dodal objekt.
+
+874
+01:24:58,000 --> 01:25:00,000
+Če odstranjaš objekt v kodi,
+
+875
+01:25:00,000 --> 01:25:02,000
+bo rekel, en objekt bom pobrisal.
+
+876
+01:25:02,000 --> 01:25:04,000
+Če ti sločajno cloud provider
+
+877
+01:25:04,000 --> 01:25:06,000
+za nekaj razloga nek label dodal,
+
+878
+01:25:06,000 --> 01:25:08,000
+pa ti nisi nič spremenil.
+
+879
+01:25:08,000 --> 01:25:10,000
+Ti bo pa tudi rekel,
+
+880
+01:25:10,000 --> 01:25:12,000
+ej, tukaj je div,
+
+881
+01:25:12,000 --> 01:25:14,000
+en label je nič kot drugačen.
+
+882
+01:25:14,000 --> 01:25:16,000
+Zakaj to razlagam?
+
+883
+01:25:16,000 --> 01:25:18,000
+To ima doskolj implikacije,
+
+884
+01:25:18,000 --> 01:25:20,000
+tudi iz stališča,
+
+885
+01:25:20,000 --> 01:25:22,000
+če te nekdo poheka zaradi varnosti,
+
+886
+01:25:22,000 --> 01:25:24,000
+ti lahko v bistvu,
+
+887
+01:25:24,000 --> 01:25:26,000
+če imaš v IAC jo neko stvar,
+
+888
+01:25:26,000 --> 01:25:28,000
+ti lahko konološko
+
+889
+01:25:28,000 --> 01:25:30,000
+ta plan laufaš, pa vidiš,
+
+890
+01:25:30,000 --> 01:25:32,000
+če je bila tam sprememba,
+
+891
+01:25:32,000 --> 01:25:34,000
+ki ti imaš stane v cloudu,
+
+892
+01:25:34,000 --> 01:25:36,000
+pa stanje, ki jo ti je upisano.
+
+893
+01:25:36,000 --> 01:25:38,000
+Če neenkrat neka delta nastane
+
+894
+01:25:38,000 --> 01:25:40,000
+na teh objekti, ki so proviženi,
+
+895
+01:25:40,000 --> 01:25:42,000
+pa je cool, da ve sok,
+
+896
+01:25:42,000 --> 01:25:44,000
+pa security,
+
+897
+01:25:44,000 --> 01:25:46,000
+ekipa, pa vreče,
+
+898
+01:25:46,000 --> 01:25:48,000
+aha, ne, to je,
+
+899
+01:25:48,000 --> 01:25:50,000
+ko vrnete se, auto je obgredil,
+
+900
+01:25:50,000 --> 01:25:52,000
+pa, uh, pa,
+
+901
+01:25:52,000 --> 01:25:54,000
+what the hell is this payload?
+
+902
+01:25:54,000 --> 01:25:56,000
+Naredi požirek vode, potem pa bom jaz došel
+
+903
+01:25:56,000 --> 01:25:58,000
+na slednje vprašanje.
+
+904
+01:26:00,000 --> 01:26:02,000
+Zdaj, tam upam, da zdaj
+
+905
+01:26:02,000 --> 01:26:04,000
+so ljudje še vedno poslušali,
+
+906
+01:26:04,000 --> 01:26:06,000
+tako da se nam bo vse ljudje poslušalo.
+
+907
+01:26:06,000 --> 01:26:08,000
+Naslednje vprašanje je zdaj trikija.
+
+908
+01:26:08,000 --> 01:26:10,000
+Ok.
+
+909
+01:26:10,000 --> 01:26:12,000
+Ej, Andraž, mi že imamo postavljeno
+
+910
+01:26:12,000 --> 01:26:14,000
+vse na AVSL pa Azure,
+
+911
+01:26:14,000 --> 01:26:16,000
+recimo, da imamo na Azure
+
+912
+01:26:16,000 --> 01:26:18,000
+že vse postavljeno, deluje super,
+
+913
+01:26:18,000 --> 01:26:20,000
+zdaj,
+
+914
+01:26:20,000 --> 01:26:22,000
+to je našo produkcijsko okolje,
+
+915
+01:26:22,000 --> 01:26:24,000
+zdaj pa bi imeli,
+
+916
+01:26:24,000 --> 01:26:26,000
+zdaj bi imeli še en okolje,
+
+917
+01:26:26,000 --> 01:26:28,000
+staging okolje,
+
+918
+01:26:28,000 --> 01:26:30,000
+kaj lahko s Terraformom takrat naredim? Kaj moram najprej narediti?
+
+919
+01:26:30,000 --> 01:26:32,000
+O, to je,
+
+920
+01:26:32,000 --> 01:26:34,000
+to je super vprašanje,
+
+921
+01:26:34,000 --> 01:26:36,000
+pa, pač fulj praktično, ne.
+
+922
+01:26:36,000 --> 01:26:38,000
+Ja.
+
+923
+01:26:40,000 --> 01:26:42,000
+Velik teh toolov,
+
+924
+01:26:42,000 --> 01:26:44,000
+vključno s Terraformom, podpera nekaj,
+
+925
+01:26:44,000 --> 01:26:46,000
+ki se reče importiranje,
+
+926
+01:26:46,000 --> 01:26:48,000
+to spravo, ti vvozaš stvari
+
+927
+01:26:48,000 --> 01:26:50,000
+in to ne dela tako avtomatsko,
+
+928
+01:26:50,000 --> 01:26:52,000
+kot si mogoče kdo predstavlja,
+
+929
+01:26:52,000 --> 01:26:54,000
+ampak v osnovi
+
+930
+01:26:54,000 --> 01:26:56,000
+naredi sledeče.
+
+931
+01:26:58,000 --> 01:27:00,000
+Rečeš, jaz bi
+
+932
+01:27:00,000 --> 01:27:02,000
+redo vvozo virtualko,
+
+933
+01:27:02,000 --> 01:27:04,000
+unique identifier za virtualko
+
+934
+01:27:04,000 --> 01:27:06,000
+je tak, pa tak, in od
+
+935
+01:27:06,000 --> 01:27:08,000
+usajskega objekta bo to odvisno,
+
+936
+01:27:08,000 --> 01:27:10,000
+to je pa čisto specifično, nek
+
+937
+01:27:10,000 --> 01:27:12,000
+ID objekta, ki je v cloudu.
+
+938
+01:27:12,000 --> 01:27:14,000
+In kaj v bistvu Terraform naredi,
+
+939
+01:27:14,000 --> 01:27:16,000
+je, on pogleda
+
+940
+01:27:16,000 --> 01:27:18,000
+cloud in to vvoz
+
+941
+01:27:18,000 --> 01:27:20,000
+v svoj state,
+
+942
+01:27:20,000 --> 01:27:22,000
+in potem reče,
+
+943
+01:27:22,000 --> 01:27:24,000
+in potem, kad boš ti naslednjič plan pognal,
+
+944
+01:27:24,000 --> 01:27:26,000
+bo on rekel, jaz
+
+945
+01:27:26,000 --> 01:27:28,000
+sem jim to virtualko pobrisal, zato, ker
+
+946
+01:27:28,000 --> 01:27:30,000
+v kodi jo nimaš, jaz jo pa v state-u
+
+947
+01:27:30,000 --> 01:27:32,000
+imam. O, najs. In pale v bistvu, kaj narediš,
+
+948
+01:27:32,000 --> 01:27:34,000
+je, tisto del to daš
+
+949
+01:27:34,000 --> 01:27:36,000
+tudi v kodo in tako se dogaja import.
+
+950
+01:27:36,000 --> 01:27:38,000
+In pale, ko še enkrat to poženeš, če
+
+951
+01:27:38,000 --> 01:27:40,000
+se je uredil, zmanj to
+
+952
+01:27:40,000 --> 01:27:42,000
+v kodi, v state-u
+
+953
+01:27:42,000 --> 01:27:44,000
+in to noter je, ampak kaj si ti
+
+954
+01:27:44,000 --> 01:27:46,000
+v bistvu ga presileš, da
+
+955
+01:27:46,000 --> 01:27:48,000
+on pokliče
+
+956
+01:27:48,000 --> 01:27:50,000
+cloud API, pa vvozi v svoje stanje.
+
+957
+01:27:50,000 --> 01:27:52,000
+Se pravi, obstaja
+
+958
+01:27:52,000 --> 01:27:54,000
+import za Terraform,
+
+959
+01:27:54,000 --> 01:27:56,000
+se pravi, če si imaš
+
+960
+01:27:56,000 --> 01:27:58,000
+produktivsko okolje v Azure-ju,
+
+961
+01:27:58,000 --> 01:28:00,000
+pozameš
+
+962
+01:28:00,000 --> 01:28:02,000
+Azure Terraform Provider,
+
+963
+01:28:02,000 --> 01:28:04,000
+poženeš Terraform import,
+
+964
+01:28:04,000 --> 01:28:06,000
+dobil boš nek state,
+
+965
+01:28:06,000 --> 01:28:08,000
+videl boš jamel, v bistvu,
+
+966
+01:28:08,000 --> 01:28:10,000
+in potem, v bistvu, je odstavna prej,
+
+967
+01:28:10,000 --> 01:28:12,000
+kaj se s Terraformom upravljaš naprej.
+
+968
+01:28:12,000 --> 01:28:14,000
+Se pravi, ta use case je čist normalen.
+
+969
+01:28:14,000 --> 01:28:16,000
+To je čist normalen, ja.
+
+970
+01:28:16,000 --> 01:28:18,000
+In to je tudi realen use case, zato kaj
+
+971
+01:28:18,000 --> 01:28:20,000
+tipično,
+
+972
+01:28:20,000 --> 01:28:22,000
+če gledamo iz engineering manager
+
+973
+01:28:22,000 --> 01:28:24,000
+perspektive, ti
+
+974
+01:28:24,000 --> 01:28:26,000
+amoš ljudi zobraževati
+
+975
+01:28:26,000 --> 01:28:28,000
+in potem na neki točki rečeš, od zdaj
+
+976
+01:28:28,000 --> 01:28:30,000
+naprej vse stvari, ki ji delamo,
+
+977
+01:28:30,000 --> 01:28:32,000
+bodo pač upisane v IAC tool-u,
+
+978
+01:28:32,000 --> 01:28:34,000
+naprimer Terraformu,
+
+979
+01:28:34,000 --> 01:28:36,000
+in
+
+980
+01:28:36,000 --> 01:28:38,000
+nekaj cajta to furaš,
+
+981
+01:28:38,000 --> 01:28:40,000
+ki mi bi pa zdaj formalizirali tudi
+
+982
+01:28:40,000 --> 01:28:42,000
+stvari, ki so tam,
+
+983
+01:28:42,000 --> 01:28:44,000
+v Terraform,
+
+984
+01:28:44,000 --> 01:28:46,000
+in zdaj, kaj te to pač da,
+
+985
+01:28:46,000 --> 01:28:48,000
+da ti pa mogoče lažiš in
+
+986
+01:28:48,000 --> 01:28:50,000
+spin upaš kompleksne nove enviromente.
+
+987
+01:28:50,000 --> 01:28:52,000
+Rečemo, da imaš produkcijo pa staging,
+
+988
+01:28:52,000 --> 01:28:54,000
+pa je to vredo, ampak kako tu viš, da imaš enostavno
+
+989
+01:28:54,000 --> 01:28:56,000
+tolk ljudi na ekipi,
+
+990
+01:28:56,000 --> 01:28:58,000
+da rabeš mogoče en enviroment
+
+991
+01:28:58,000 --> 01:29:00,000
+več, zato ker tolk ljudi
+
+992
+01:29:00,000 --> 01:29:02,000
+dependa na staging,
+
+993
+01:29:02,000 --> 01:29:04,000
+da po drugi strani pa tega
+
+994
+01:29:04,000 --> 01:29:06,000
+tolk ljudi brejka, zato ker pač
+
+995
+01:29:06,000 --> 01:29:08,000
+delajo stvari,
+
+996
+01:29:08,000 --> 01:29:10,000
+pa le rečeš, ok, mogoče moramo primisljati,
+
+997
+01:29:10,000 --> 01:29:12,000
+a hočemo imeti two-tier
+
+998
+01:29:12,000 --> 01:29:14,000
+enviroment, setup, a
+
+999
+01:29:14,000 --> 01:29:16,000
+rabimo kaj drugega, ne. To so
+
+1000
+01:29:16,000 --> 01:29:18,000
+pač nekaj te stvari.
+
+1001
+01:29:18,000 --> 01:29:20,000
+Viš, kaj me zato povej,
+
+1002
+01:29:20,000 --> 01:29:22,000
+vprak v
+
+1003
+01:29:22,000 --> 01:29:24,000
+ekipah, ki
+
+1004
+01:29:24,000 --> 01:29:26,000
+uporabljajo IAC, ampak
+
+1005
+01:29:26,000 --> 01:29:28,000
+mogoče tudi Terraform,
+
+1006
+01:29:28,000 --> 01:29:30,000
+za to vprašanje ni tok relevantno,
+
+1007
+01:29:30,000 --> 01:29:32,000
+a bi moglo biti
+
+1008
+01:29:32,000 --> 01:29:34,000
+responsibile ti
+
+1009
+01:29:34,000 --> 01:29:36,000
+inženirijo, da piše
+
+1010
+01:29:36,000 --> 01:29:38,000
+Terraform, definišene, ali bi to
+
+1011
+01:29:38,000 --> 01:29:40,000
+mogo biti responsibile ti
+
+1012
+01:29:40,000 --> 01:29:42,000
+DevOps, se pravi, kakšen
+
+1013
+01:29:42,000 --> 01:29:44,000
+mogoče, ali lahko tukaj kakšen tip daš,
+
+1014
+01:29:44,000 --> 01:29:46,000
+ali se ti zdi,
+
+1015
+01:29:46,000 --> 01:29:48,000
+na koga bi najta Terraform padel,
+
+1016
+01:29:48,000 --> 01:29:50,000
+se pravi,
+
+1017
+01:29:50,000 --> 01:29:52,000
+kdo najta Terraform piše, ali se ti zdi,
+
+1018
+01:29:52,000 --> 01:29:54,000
+da bi mogli čim več inženirijo uporabljati
+
+1019
+01:29:54,000 --> 01:29:56,000
+Terraform, pa potem DevOps bi mogoče
+
+1020
+01:29:56,000 --> 01:29:58,000
+sopravižnjati, se pravi, kak
+
+1021
+01:29:58,000 --> 01:30:00,000
+organizacijsko vključiti
+
+1022
+01:30:00,000 --> 01:30:02,000
+Terraform v stack?
+
+1023
+01:30:02,000 --> 01:30:04,000
+Zdaj imam čist eno ličnega odgovora,
+
+1024
+01:30:04,000 --> 01:30:06,000
+ki je veliko odvisno, kako imaš ti splitane
+
+1025
+01:30:06,000 --> 01:30:08,000
+ekipe v organizaciji,
+
+1026
+01:30:08,000 --> 01:30:10,000
+marski je tudi, v bistvu,
+
+1027
+01:30:10,000 --> 01:30:12,000
+ne smeš to del, ne bi mogoče
+
+1028
+01:30:12,000 --> 01:30:14,000
+inženir to delati, se vem, da to ni DevOps, ampak
+
+1029
+01:30:14,000 --> 01:30:16,000
+imaš pač regulacije,
+
+1030
+01:30:16,000 --> 01:30:18,000
+ki ti rečejo, ne, pač infrastruktur,
+
+1031
+01:30:18,000 --> 01:30:20,000
+ljudje so drugi ljudje kot razvijalci.
+
+1032
+01:30:20,000 --> 01:30:22,000
+Ok.
+
+1033
+01:30:22,000 --> 01:30:24,000
+Jaz bi,
+
+1034
+01:30:24,000 --> 01:30:26,000
+če si pač male ekipa,
+
+1035
+01:30:26,000 --> 01:30:28,000
+ej, dej si pač poglej,
+
+1036
+01:30:28,000 --> 01:30:30,000
+pa pač, če ti to pomaga,
+
+1037
+01:30:30,000 --> 01:30:32,000
+dej uporablji.
+
+1038
+01:30:32,000 --> 01:30:34,000
+V bistvu bom tako začel.
+
+1039
+01:30:34,000 --> 01:30:36,000
+Če si ti junior DevOps,
+
+1040
+01:30:36,000 --> 01:30:38,000
+ki se uči stvari, pa nima ekipe,
+
+1041
+01:30:38,000 --> 01:30:40,000
+dej to uporablji. In razlog je ta.
+
+1042
+01:30:40,000 --> 01:30:42,000
+Ti napišeš nek
+
+1043
+01:30:42,000 --> 01:30:44,000
+Terraform, pa rečeš
+
+1044
+01:30:44,000 --> 01:30:46,000
+Terraform deploy, ali pa kjerkoli tool,
+
+1045
+01:30:46,000 --> 01:30:48,000
+pač Pulumi deploy, vsi malo so
+
+1046
+01:30:48,000 --> 01:30:50,000
+drugi izrazi. In potem
+
+1047
+01:30:50,000 --> 01:30:52,000
+prvim greš na kusilo, kaj te to
+
+1048
+01:30:52,000 --> 01:30:54,000
+denarnice boli, kaj pač
+
+1049
+01:30:54,000 --> 01:30:56,000
+nimaš cash-a.
+
+1050
+01:30:56,000 --> 01:30:58,000
+Ja, no, če žbrnat, pač enostavno
+
+1051
+01:30:58,000 --> 01:31:00,000
+rečeš destroy, pa greš na kusilo, kad je
+
+1052
+01:31:00,000 --> 01:31:02,000
+zdestroyal se ponajem v dvesetih sekundah,
+
+1053
+01:31:02,000 --> 01:31:04,000
+in ko priješ z kusila, rečeš
+
+1054
+01:31:04,000 --> 01:31:06,000
+deploy in se bo postavil nazaj v
+
+1055
+01:31:06,000 --> 01:31:08,000
+eni minuti, pa deset
+
+1056
+01:31:08,000 --> 01:31:10,000
+sekund. Ti enkoli tako hitno ne boš naklikal
+
+1057
+01:31:10,000 --> 01:31:12,000
+vseh teh stvari, kolikor jih lahko
+
+1058
+01:31:12,000 --> 01:31:14,000
+ta sistem pa cam poaplaja.
+
+1059
+01:31:14,000 --> 01:31:16,000
+A pa potem imaš na
+
+1060
+01:31:16,000 --> 01:31:18,000
+na računu...
+
+1061
+01:31:18,000 --> 01:31:20,000
+U, ja. Jaz dobivam
+
+1062
+01:31:20,000 --> 01:31:22,000
+odlinov, da račune, ki so na
+
+1063
+01:31:22,000 --> 01:31:24,000
+63 strane,
+
+1064
+01:31:24,000 --> 01:31:26,000
+totalna vrednost
+
+1065
+01:31:26,000 --> 01:31:28,000
+računa je tri evre,
+
+1066
+01:31:28,000 --> 01:31:30,000
+in vsaka postavka je
+
+1067
+01:31:30,000 --> 01:31:32,000
+en cent. Zato, ker
+
+1068
+01:31:32,000 --> 01:31:34,000
+večino teh ponudnikov ma
+
+1069
+01:31:34,000 --> 01:31:36,000
+pay-as-you-go, sicer je nek minimalen
+
+1070
+01:31:36,000 --> 01:31:38,000
+ta time frame,
+
+1071
+01:31:38,000 --> 01:31:40,000
+ampak večino maš
+
+1072
+01:31:40,000 --> 01:31:42,000
+tako bizarne
+
+1073
+01:31:42,000 --> 01:31:44,000
+račune, a ne.
+
+1074
+01:31:44,000 --> 01:31:46,000
+In to meni omogoč, da ne vem.
+
+1075
+01:31:46,000 --> 01:31:48,000
+Ko hočem imeti Minecraft
+
+1076
+01:31:48,000 --> 01:31:50,000
+v server, pač
+
+1077
+01:31:50,000 --> 01:31:52,000
+jaz poženem terraform in se potem to iz
+
+1078
+01:31:52,000 --> 01:31:54,000
+enega S3 bucketa state note
+
+1079
+01:31:54,000 --> 01:31:56,000
+užijem in potem ga destrojem.
+
+1080
+01:31:56,000 --> 01:31:58,000
+In trajajo to, pač,
+
+1081
+01:31:58,000 --> 01:32:00,000
+mislim, pa malo stenovanje
+
+1082
+01:32:00,000 --> 01:32:02,000
+enih glih, da grem do hladimnika, no, ampak
+
+1083
+01:32:02,000 --> 01:32:04,000
+pač, definitivno
+
+1084
+01:32:04,000 --> 01:32:06,000
+pa lahko bijo odpadke, ne, samo pa je stvari
+
+1085
+01:32:06,000 --> 01:32:08,000
+že dela, a ne.
+
+1086
+01:32:08,000 --> 01:32:10,000
+Pa ni treba za to plačvat.
+
+1087
+01:32:14,000 --> 01:32:16,000
+Kaj ga nazaj...
+
+1088
+01:32:16,000 --> 01:32:18,000
+Kako naj se z tega izvijem, a?
+
+1089
+01:32:18,000 --> 01:32:20,000
+Kaj?
+
+1090
+01:32:20,000 --> 01:32:22,000
+Ne, ne, veš kaj,
+
+1091
+01:32:22,000 --> 01:32:24,000
+to je še, mislim,
+
+1092
+01:32:24,000 --> 01:32:26,000
+jaz upam, da ljudi vključno zanimajo
+
+1093
+01:32:26,000 --> 01:32:28,000
+in da so še zvedno z nami,
+
+1094
+01:32:28,000 --> 01:32:30,000
+tako da hvala za to. Ne, hotev sem te
+
+1095
+01:32:30,000 --> 01:32:32,000
+vprašat, a je bolj še ta terraform
+
+1096
+01:32:32,000 --> 01:32:34,000
+med enega človeka v ekipi,
+
+1097
+01:32:34,000 --> 01:32:36,000
+ki pač to zadevo
+
+1098
+01:32:36,000 --> 01:32:38,000
+sam poganja, ali je pol to praksat,
+
+1099
+01:32:38,000 --> 01:32:40,000
+da je to del CI pipeline-a,
+
+1100
+01:32:40,000 --> 01:32:42,000
+nekaj.
+
+1101
+01:32:42,000 --> 01:32:44,000
+To še, mogoče še ta del
+
+1102
+01:32:44,000 --> 01:32:46,000
+se pravi, kako
+
+1103
+01:32:46,000 --> 01:32:48,000
+iz tega deklaracije,
+
+1104
+01:32:48,000 --> 01:32:50,000
+kje se da izvede dejansko ta terraform
+
+1105
+01:32:50,000 --> 01:32:52,000
+apply, recimo, ali pa...
+
+1106
+01:32:52,000 --> 01:32:54,000
+To je tudi super vprašanje.
+
+1107
+01:32:56,000 --> 01:32:58,000
+Ko si sam...
+
+1108
+01:33:02,000 --> 01:33:04,000
+Pač boš to lahko iz
+
+1109
+01:33:04,000 --> 01:33:06,000
+svojega kompa in v bistvu tudi to
+
+1110
+01:33:06,000 --> 01:33:08,000
+stanje bo
+
+1111
+01:33:08,000 --> 01:33:10,000
+preteplokalno.
+
+1112
+01:33:10,000 --> 01:33:12,000
+V to stanje se, rečemo, tudi locking zgodi,
+
+1113
+01:33:12,000 --> 01:33:14,000
+to se pravi, če nekaj poženam
+
+1114
+01:33:14,000 --> 01:33:16,000
+s temi tool-i, je v bistvu pol global lock,
+
+1115
+01:33:16,000 --> 01:33:18,000
+kar pomeni, da noben drug
+
+1116
+01:33:18,000 --> 01:33:20,000
+ne more isto to pognat.
+
+1117
+01:33:20,000 --> 01:33:22,000
+Kosta dva človeka,
+
+1118
+01:33:22,000 --> 01:33:24,000
+lahko v bistvu ta state file daš
+
+1119
+01:33:24,000 --> 01:33:26,000
+na nekaj, kaj S3
+
+1120
+01:33:26,000 --> 01:33:28,000
+compatible, pa se bo tam
+
+1121
+01:33:28,000 --> 01:33:30,000
+vse to dogajalo in pač,
+
+1122
+01:33:30,000 --> 01:33:32,000
+če si ekipa dveh del, pa se
+
+1123
+01:33:32,000 --> 01:33:34,000
+malo nesinkroniziraš
+
+1124
+01:33:34,000 --> 01:33:36,000
+in ti lokalno lockaš. In lokalno imaš
+
+1125
+01:33:36,000 --> 01:33:38,000
+v načelama vse premišljene, da lahko te objekte
+
+1126
+01:33:38,000 --> 01:33:40,000
+krijeraš, kar pomeni, da bo to vse dobro delalo.
+
+1127
+01:33:40,000 --> 01:33:42,000
+Ampak
+
+1128
+01:33:42,000 --> 01:33:44,000
+na konc je to kar tečno,
+
+1129
+01:33:44,000 --> 01:33:46,000
+v bistvu, čim se že
+
+1130
+01:33:46,000 --> 01:33:48,000
+dva rata jo te stvari tečne.
+
+1131
+01:33:48,000 --> 01:33:50,000
+Zdaj specifično rečmo
+
+1132
+01:33:50,000 --> 01:33:52,000
+za Terraform je tako,
+
+1133
+01:33:52,000 --> 01:33:54,000
+da imaš Terraform Cloud,
+
+1134
+01:33:54,000 --> 01:33:56,000
+pa imaš
+
+1135
+01:33:56,000 --> 01:33:58,000
+nw0,
+
+1136
+01:33:58,000 --> 01:34:00,000
+oziroma zero nw,
+
+1137
+01:34:00,000 --> 01:34:02,000
+ki
+
+1138
+01:34:04,000 --> 01:34:06,000
+a, shranta
+
+1139
+01:34:06,000 --> 01:34:08,000
+to stanje,
+
+1140
+01:34:08,000 --> 01:34:10,000
+skrbite za to stanje, pa locking,
+
+1141
+01:34:10,000 --> 01:34:12,000
+pa tudi izvajate v bistvu
+
+1142
+01:34:12,000 --> 01:34:14,000
+vse te stvari. Kaj to pomeni, da
+
+1143
+01:34:14,000 --> 01:34:16,000
+jaz v Terraform Cloud
+
+1144
+01:34:16,000 --> 01:34:18,000
+pošljem ta definišen in
+
+1145
+01:34:18,000 --> 01:34:20,000
+potem bov naredil samo se. V bistvu je
+
+1146
+01:34:20,000 --> 01:34:22,000
+še bolj seksi, ti
+
+1147
+01:34:22,000 --> 01:34:24,000
+imaš nek repo,
+
+1148
+01:34:24,000 --> 01:34:26,000
+in odpraviš pull request
+
+1149
+01:34:26,000 --> 01:34:28,000
+z nekimi Terraform spremembami
+
+1150
+01:34:28,000 --> 01:34:30,000
+na tvojo repo in bo pršel
+
+1151
+01:34:30,000 --> 01:34:32,000
+Terraform Cloud
+
+1152
+01:34:32,000 --> 01:34:34,000
+nw0 in ti bo rekel,
+
+1153
+01:34:34,000 --> 01:34:36,000
+bot ti bo rekel,
+
+1154
+01:34:36,000 --> 01:34:38,000
+e, delta,
+
+1155
+01:34:38,000 --> 01:34:40,000
+je pač naredil, bom
+
+1156
+01:34:40,000 --> 01:34:42,000
+en virtualen
+
+1157
+01:34:42,000 --> 01:34:44,000
+strežnik,
+
+1158
+01:34:44,000 --> 01:34:46,000
+write, apply,
+
+1159
+01:34:46,000 --> 01:34:48,000
+to apply, in,
+
+1160
+01:34:48,000 --> 01:34:50,000
+če si ti zadovoljen s to delto,
+
+1161
+01:34:50,000 --> 01:34:52,000
+ta delta je tudi
+
+1162
+01:34:52,000 --> 01:34:54,000
+pa lokan, ni tako, da se bo spremenila,
+
+1163
+01:34:54,000 --> 01:34:56,000
+to so pal še neke njanse,
+
+1164
+01:34:56,000 --> 01:34:58,000
+in kaj ti napišeš apply, se bo to
+
+1165
+01:34:58,000 --> 01:35:00,000
+zgodil in pa ti reče, bot to je zdaj
+
+1166
+01:35:00,000 --> 01:35:02,000
+applian in pa sanj zmrčaš.
+
+1167
+01:35:02,000 --> 01:35:04,000
+Kar v bistvu pa le nejbla tudi
+
+1168
+01:35:04,000 --> 01:35:06,000
+ostalo ekipo, da
+
+1169
+01:35:06,000 --> 01:35:08,000
+ti lahko pomaga,
+
+1170
+01:35:08,000 --> 01:35:10,000
+ker lahko narediš tako, da
+
+1171
+01:35:10,000 --> 01:35:12,000
+ti lahko delajo te changejo, pa odpeljajo
+
+1172
+01:35:12,000 --> 01:35:14,000
+pull request, ampak samo določeni
+
+1173
+01:35:14,000 --> 01:35:16,000
+ljudje pa lahko potem bo to nazaj
+
+1174
+01:35:16,000 --> 01:35:18,000
+rečeo, ej, da je to dejansko apply,
+
+1175
+01:35:18,000 --> 01:35:20,000
+pa pal zmrčaš.
+
+1176
+01:35:20,000 --> 01:35:22,000
+Hrati to pomeni tudi, da so vsi
+
+1177
+01:35:22,000 --> 01:35:24,000
+te tolkni za dostop do
+
+1178
+01:35:24,000 --> 01:35:26,000
+API-jev teh cloudov v bistvu pred
+
+1179
+01:35:26,000 --> 01:35:28,000
+tem vendorju,
+
+1180
+01:35:28,000 --> 01:35:30,000
+in te vendorji so tudi pal tako,
+
+1181
+01:35:30,000 --> 01:35:32,000
+pač so compliant, bla, bla, bla,
+
+1182
+01:35:32,000 --> 01:35:34,000
+pač to imaš pal vse narejen.
+
+1183
+01:35:34,000 --> 01:35:36,000
+Dobra stvar je,
+
+1184
+01:35:36,000 --> 01:35:38,000
+da, rečemo vse,
+
+1185
+01:35:38,000 --> 01:35:40,000
+enava zero je
+
+1186
+01:35:40,000 --> 01:35:42,000
+zero enava, pač zmerjno, zmerjno
+
+1187
+01:35:42,000 --> 01:35:44,000
+pozabim, a je out zero, pa je tudi
+
+1188
+01:35:44,000 --> 01:35:46,000
+enava zero, ja.
+
+1189
+01:35:46,000 --> 01:35:48,000
+Ima tudi free tier, to znači,
+
+1190
+01:35:48,000 --> 01:35:50,000
+da se ti hočeš igrat, pač
+
+1191
+01:35:50,000 --> 01:35:52,000
+je za,
+
+1192
+01:35:52,000 --> 01:35:54,000
+ne vem, za vse naše postošalce
+
+1193
+01:35:54,000 --> 01:35:56,000
+čist džabe, pač ti samo tam se registriraš
+
+1194
+01:35:56,000 --> 01:35:58,000
+in se lahko dviguješ in spuščaš
+
+1195
+01:35:58,000 --> 01:36:00,000
+lino od strežnike in se s tem špilaš.
+
+1196
+01:36:00,000 --> 01:36:02,000
+Ja. Zdaj te bom
+
+1197
+01:36:02,000 --> 01:36:04,000
+preden te povabim na večerjo,
+
+1198
+01:36:04,000 --> 01:36:06,000
+pa gremo še kaj spiti.
+
+1199
+01:36:06,000 --> 01:36:08,000
+Bo.
+
+1200
+01:36:08,000 --> 01:36:10,000
+Bo ma šla še
+
+1201
+01:36:10,000 --> 01:36:12,000
+malen saj, pa bi te prosil,
+
+1202
+01:36:12,000 --> 01:36:14,000
+da razložiš še,
+
+1203
+01:36:14,000 --> 01:36:16,000
+kje tu notri pride
+
+1204
+01:36:16,000 --> 01:36:18,000
+potem polumni.
+
+1205
+01:36:18,000 --> 01:36:20,000
+Ja. A lahko še to razložiš?
+
+1206
+01:36:20,000 --> 01:36:22,000
+Zdaj smo kaj veliko
+
+1207
+01:36:22,000 --> 01:36:24,000
+v terraformu govorili, da.
+
+1208
+01:36:24,000 --> 01:36:26,000
+Pa en si bila, smo pa šest.
+
+1209
+01:36:26,000 --> 01:36:28,000
+Polumni še mi razložiš.
+
+1210
+01:36:28,000 --> 01:36:30,000
+Te tooli, ki so fokusirani
+
+1211
+01:36:30,000 --> 01:36:32,000
+na infrastructure as code,
+
+1212
+01:36:32,000 --> 01:36:34,000
+imaš taki, ki so čist statični,
+
+1213
+01:36:34,000 --> 01:36:36,000
+kot je CloudFormation, ki ti saj napišeš nek jaml
+
+1214
+01:36:36,000 --> 01:36:38,000
+in se aplaja, imaš tam neke template,
+
+1215
+01:36:38,000 --> 01:36:40,000
+imaš nič kaj dinamike.
+
+1216
+01:36:40,000 --> 01:36:42,000
+Potem imaš terraform,
+
+1217
+01:36:42,000 --> 01:36:44,000
+uporablja jezik, ki je
+
+1218
+01:36:44,000 --> 01:36:46,000
+Hashi Configuration Language,
+
+1219
+01:36:46,000 --> 01:36:48,000
+je zelo preprost jezik. To je tako.
+
+1220
+01:36:48,000 --> 01:36:50,000
+A bolj nastoln, ko jaml?
+
+1221
+01:36:50,000 --> 01:36:52,000
+Ja, dejansko, ja.
+
+1222
+01:36:52,000 --> 01:36:54,000
+A bolj varn, ko jaml?
+
+1223
+01:36:54,000 --> 01:36:56,000
+Tudi se mi zdi, da dejansko.
+
+1224
+01:36:56,000 --> 01:36:58,000
+Ne rabi vsej palcer, ja.
+
+1225
+01:36:58,000 --> 01:37:00,000
+To pa nisem še obrat, pa upam, da ni.
+
+1226
+01:37:00,000 --> 01:37:02,000
+To bo zmer moji izjava.
+
+1227
+01:37:02,000 --> 01:37:04,000
+A pa gre se za to,
+
+1228
+01:37:04,000 --> 01:37:06,000
+ti imaš čist simple objekte, pa lahko
+
+1229
+01:37:06,000 --> 01:37:08,000
+narediš preproste lupe,
+
+1230
+01:37:08,000 --> 01:37:10,000
+pa malo string go manipulira,
+
+1231
+01:37:10,000 --> 01:37:12,000
+zato, ker je to dost krat pomembno,
+
+1232
+01:37:12,000 --> 01:37:14,000
+bo se tudi končalo. Tako, da je zelo simple se ga naučiti.
+
+1233
+01:37:14,000 --> 01:37:16,000
+Zadnja stvar je pa,
+
+1234
+01:37:16,000 --> 01:37:18,000
+reče si,
+
+1235
+01:37:18,000 --> 01:37:20,000
+jaz trebam svoj mod svetaz,
+
+1236
+01:37:20,000 --> 01:37:22,000
+zato, ker sem tako pametan in hočem
+
+1237
+01:37:22,000 --> 01:37:24,000
+deklarativne opise infrastrukture
+
+1238
+01:37:24,000 --> 01:37:26,000
+delati z general purpose language-om,
+
+1239
+01:37:26,000 --> 01:37:28,000
+kot kar je
+
+1240
+01:37:28,000 --> 01:37:30,000
+JavaScript Go, whatever.
+
+1241
+01:37:30,000 --> 01:37:32,000
+Zdaj ima tudi,
+
+1242
+01:37:32,000 --> 01:37:34,000
+v Pulumi je bil prvi, imaš
+
+1243
+01:37:34,000 --> 01:37:36,000
+druge provajde, Terraforma, zdaj je tudi to.
+
+1244
+01:37:36,000 --> 01:37:38,000
+Če želiš in se rečeš,
+
+1245
+01:37:38,000 --> 01:37:40,000
+jaz zaupam sam vas,
+
+1246
+01:37:40,000 --> 01:37:42,000
+da bom naredil for loop,
+
+1247
+01:37:42,000 --> 01:37:44,000
+ki bo naredil 12
+
+1248
+01:37:44,000 --> 01:37:46,000
+tih virtualk,
+
+1249
+01:37:46,000 --> 01:37:48,000
+boh ne del, da se zmotaš, ko pa nek na fali,
+
+1250
+01:37:48,000 --> 01:37:50,000
+ali pa jih je ful preveč.
+
+1251
+01:37:50,000 --> 01:37:52,000
+In lahko tudi to v bistvu delaš.
+
+1252
+01:37:52,000 --> 01:37:54,000
+Se pravi, to pomeni,
+
+1253
+01:37:54,000 --> 01:37:56,000
+da jaz v Pulumnijo
+
+1254
+01:37:56,000 --> 01:37:58,000
+napišem dobesedno zanko,
+
+1255
+01:37:58,000 --> 01:38:00,000
+pa rečem 12 krat
+
+1256
+01:38:00,000 --> 01:38:02,000
+mi naredite zadeve
+
+1257
+01:38:02,000 --> 01:38:04,000
+in Pulumni bo naredil potem
+
+1258
+01:38:04,000 --> 01:38:06,000
+kaj z to kodo. On bo to
+
+1259
+01:38:06,000 --> 01:38:08,000
+vzadi naredil neke definitione,
+
+1260
+01:38:08,000 --> 01:38:10,000
+pa bo tisto izvedel, ali bo dejansko
+
+1261
+01:38:10,000 --> 01:38:12,000
+za vsako vrstico poklical.
+
+1262
+01:38:12,000 --> 01:38:14,000
+V bistvu tako funkcionira,
+
+1263
+01:38:14,000 --> 01:38:16,000
+da ti imaš
+
+1264
+01:38:16,000 --> 01:38:18,000
+nek programski fajl,
+
+1265
+01:38:18,000 --> 01:38:20,000
+in Pulumni zgenerira nek
+
+1266
+01:38:20,000 --> 01:38:22,000
+objekt, ki je kontekst,
+
+1267
+01:38:22,000 --> 01:38:24,000
+in ta kontekst objekt
+
+1268
+01:38:24,000 --> 01:38:26,000
+potuje skozi tvojo kodo
+
+1269
+01:38:26,000 --> 01:38:28,000
+in se pol inserta noter v funkcije.
+
+1270
+01:38:30,000 --> 01:38:32,000
+In same te funkcije
+
+1271
+01:38:32,000 --> 01:38:34,000
+so po bistvu
+
+1272
+01:38:34,000 --> 01:38:36,000
+virtualalka,
+
+1273
+01:38:36,000 --> 01:38:38,000
+novo virtualka,
+
+1274
+01:38:38,000 --> 01:38:40,000
+gre kontekst, ime, virtualke,
+
+1275
+01:38:40,000 --> 01:38:42,000
+in zdaj to lahko gre v loop,
+
+1276
+01:38:42,000 --> 01:38:44,000
+ti tisto ime pač tudi spreminjaš
+
+1277
+01:38:44,000 --> 01:38:46,000
+z vsakim loopom,
+
+1278
+01:38:46,000 --> 01:38:48,000
+in to leti čez kodo,
+
+1279
+01:38:48,000 --> 01:38:50,000
+in pol na koncu ti vrneš ta kontekst.
+
+1280
+01:38:50,000 --> 01:38:52,000
+In pač v bistvu
+
+1281
+01:38:52,000 --> 01:38:54,000
+ran taj mod Pulumnija
+
+1282
+01:38:54,000 --> 01:38:56,000
+pač to izvede specifično
+
+1283
+01:38:56,000 --> 01:38:58,000
+za tvoj jezik, na koncu dobi ta kontekst,
+
+1284
+01:38:58,000 --> 01:39:00,000
+objekt, domljujem, da se gor v bistvu
+
+1285
+01:39:02,000 --> 01:39:04,000
+pač najahajo si te resursi,
+
+1286
+01:39:04,000 --> 01:39:06,000
+in pol je spet
+
+1287
+01:39:06,000 --> 01:39:08,000
+isti špil. On v zamet
+
+1288
+01:39:08,000 --> 01:39:10,000
+te resurse preverja, isto je spet
+
+1289
+01:39:10,000 --> 01:39:12,000
+stanje, temo stanju ne moraš
+
+1290
+01:39:12,000 --> 01:39:14,000
+pobegnati, to je simple,
+
+1291
+01:39:14,000 --> 01:39:16,000
+in se spet
+
+1292
+01:39:16,000 --> 01:39:18,000
+zgodi v bistvu ta računanje
+
+1293
+01:39:18,000 --> 01:39:20,000
+te delte, kaj se točno zgodi.
+
+1294
+01:39:20,000 --> 01:39:22,000
+Isto je ukaz, to se pravi,
+
+1295
+01:39:22,000 --> 01:39:24,000
+da ukaz je
+
+1296
+01:39:24,000 --> 01:39:26,000
+div ali preview,
+
+1297
+01:39:26,000 --> 01:39:28,000
+da ti povej kaj bo naredil,
+
+1298
+01:39:28,000 --> 01:39:30,000
+da vidiš div,
+
+1299
+01:39:30,000 --> 01:39:32,000
+da se tudi javnsko
+
+1300
+01:39:32,000 --> 01:39:34,000
+aplaja na sistem.
+
+1301
+01:39:36,000 --> 01:39:38,000
+Ej, kje bo potem pridel,
+
+1302
+01:39:38,000 --> 01:39:40,000
+pa, ka misliš, da bo ljudetek
+
+1303
+01:39:40,000 --> 01:39:42,000
+dolgo poslušali to za del?
+
+1304
+01:39:42,000 --> 01:39:44,000
+Ne.
+
+1305
+01:39:44,000 --> 01:39:46,000
+Glej, a veš,
+
+1306
+01:39:48,000 --> 01:39:50,000
+jaz tudi nisem strokovnjak za
+
+1307
+01:39:50,000 --> 01:39:52,000
+te kusti v enih jamah od ljudi,
+
+1308
+01:39:52,000 --> 01:39:54,000
+ko so jih najdel, pa tolj še zmer gledam
+
+1309
+01:39:54,000 --> 01:39:56,000
+v dokumentarce, kajče bila.
+
+1310
+01:39:56,000 --> 01:39:58,000
+Damage. Mislim, čutim,
+
+1311
+01:39:58,000 --> 01:40:00,000
+da moramo počasi ist...
+
+1312
+01:40:00,000 --> 01:40:02,580
+Čutim, da moram počasi priplaviti do konca, če druga nekaj.
+
+1313
+01:40:02,580 --> 01:40:04,580
+Pa zaključi, kaj rečiš.
+
+1314
+01:40:04,580 --> 01:40:06,580
+In so že vedno še tisoč ljudi.
+
+1315
+01:40:06,580 --> 01:40:11,580
+Dej mi še razlož, kaj so to CDK, Cloud Development Kit-i?
+
+1316
+01:40:13,580 --> 01:40:15,580
+A še lahko to omogočim?
+
+1317
+01:40:15,580 --> 01:40:17,580
+Evo, dej še to.
+
+1318
+01:40:17,580 --> 01:40:23,580
+Pulumi podpira ful jezikov, pa ima isti sistem provajderjev, lahko dela z večjimi cloud-i.
+
+1319
+01:40:24,160 --> 01:40:30,160
+Seveda ti bodo pa sami AVS-e, ti bo pa tudi CDK in ti bo rekel,
+
+1320
+01:40:30,160 --> 01:40:34,160
+ej, AVS-e lahko tudi ti pišem zdaj v JavaScript-u.
+
+1321
+01:40:34,160 --> 01:40:38,160
+Brez pulumnija, brez šterefo, lahko sam v kodi definiraš.
+
+1322
+01:40:38,160 --> 01:40:42,160
+Finta je samo, da ti lahko dejansko definira samo AVS-e,
+
+1323
+01:40:42,160 --> 01:40:44,160
+ker je pa čudav vsega stvar.
+
+1324
+01:40:45,160 --> 01:40:48,160
+Rečemo, da tebi cloud formation ni dovolj.
+
+1325
+01:40:48,740 --> 01:40:53,740
+In hočeš več dinamike in potem je to skoraj zadnja stopna,
+
+1326
+01:40:53,740 --> 01:40:55,740
+ko si jo lahko greš.
+
+1327
+01:40:55,740 --> 01:41:02,740
+A bi ta dinamika ti bila potrebna, recimo, da si platforma,
+
+1328
+01:41:02,740 --> 01:41:08,739
+ki generira ful šopov ali nekaj dinamično,
+
+1329
+01:41:08,739 --> 01:41:13,739
+in potem hočeš konfiguracijo zgenerirati iz nekega settings-a
+
+1330
+01:41:14,320 --> 01:41:18,320
+in takrat moraš lupati če je vse to in zgenerirati te definišene,
+
+1331
+01:41:18,320 --> 01:41:20,320
+da jih potem applajaš.
+
+1332
+01:41:20,320 --> 01:41:21,320
+Točno to.
+
+1333
+01:41:21,320 --> 01:41:24,320
+Če moraš delati s nekim large-scale deployment.
+
+1334
+01:41:24,320 --> 01:41:27,320
+Ja, na primer, mi imamo custom e-commerce platformo,
+
+1335
+01:41:27,320 --> 01:41:30,320
+smo mi dva razvila, je single tenant, to pomeni,
+
+1336
+01:41:30,320 --> 01:41:34,320
+da en naročnik lahko je v, mislim, sistem je bil razvit
+
+1337
+01:41:34,320 --> 01:41:37,320
+samo za enega naročnika, ampak zdaj imamo milijon.
+
+1338
+01:41:37,320 --> 01:41:41,320
+In zdaj najen prodajni inžener ali pač dorkoli ima tam
+
+1339
+01:41:41,900 --> 01:41:46,900
+neko spletni obrazac, ki reče, super, mi imamo novega customerja,
+
+1340
+01:41:46,900 --> 01:41:50,900
+ima ta plan, to je njegova domena in pa če ti stisneš,
+
+1341
+01:41:50,900 --> 01:41:51,900
+kaj se zgodi?
+
+1342
+01:41:51,900 --> 01:41:55,900
+Rečemo, da je to ful požrešna stvar, mogoče dvigne svoj strežnik
+
+1343
+01:41:55,900 --> 01:41:57,900
+ali pa se zdeploja, ampak ena izmed stvari,
+
+1344
+01:41:57,900 --> 01:42:02,900
+ki je tudi mora, ne vem, pridati do vnosa, do DNS rekorda
+
+1345
+01:42:02,900 --> 01:42:05,900
+v Cloudflare-u, na primer, da hočeš tam imeti še eno vrstico,
+
+1346
+01:42:05,900 --> 01:42:09,899
+ki je njegova domena, pa mora pasati napravo IP,
+
+1347
+01:42:10,479 --> 01:42:14,479
+pa pol, ko se vse to zgodi, ti ali temu prodajnem inženerju povedaš,
+
+1348
+01:42:14,479 --> 01:42:17,479
+kaj narediti ali pa konc koncov stranki pošleš nek feedback,
+
+1349
+01:42:17,479 --> 01:42:19,479
+pa če to lahko, na primer, s tem narediš.
+
+1350
+01:42:19,479 --> 01:42:24,479
+Ali pa drug primer je, mi dva imamo kompleksen sistem,
+
+1351
+01:42:24,479 --> 01:42:28,479
+ki ima 60 mikroservisov, funkcionira tako, da so vsi ti mikroservisi
+
+1352
+01:42:28,479 --> 01:42:33,479
+med sabo pogovarjali s PubSubom, pa so topiki subskrypčni
+
+1353
+01:42:33,479 --> 01:42:37,479
+in zdaj kako boš ti enšuru, da je ta kompleksna metrika
+
+1354
+01:42:38,059 --> 01:42:42,059
+teh PubSubov, pa subskrypčno, djansko, sprovižena na Google Cloud,
+
+1355
+01:42:42,059 --> 01:42:46,059
+na primer. Ja, težko je. In potem v bistvu rečeš, ej,
+
+1356
+01:42:46,059 --> 01:42:50,059
+tle je en file od mikroservisa in rečeš, ta mikroservis
+
+1357
+01:42:50,059 --> 01:42:54,059
+dependa na ta mikroservis in posluša na tem subskrypčno
+
+1358
+01:42:54,059 --> 01:42:58,059
+in pošilja meseče po ta topik. In potem v bistvu to preberaš
+
+1359
+01:42:58,059 --> 01:43:02,059
+in potem veš, kaj zgenerirati. In je to lahko del tvoje knjižnice
+
+1360
+01:43:02,059 --> 01:43:06,059
+in lahko delaš, imaš en mikroservis ali pa jih imaš sto.
+
+1361
+01:43:06,639 --> 01:43:10,639
+Naprimer, to je tudi nek tak use case. V praksi je pa tako,
+
+1362
+01:43:10,639 --> 01:43:14,639
+če si ti, to je ful dober tool, da si ti cloud učiš,
+
+1363
+01:43:14,639 --> 01:43:18,639
+če mene vprašaš. Zato, ker težko je, da ti trevrsaš
+
+1364
+01:43:18,639 --> 01:43:22,639
+po spletnem umestniku od AWS-a in nekaj testiraš.
+
+1365
+01:43:22,639 --> 01:43:26,639
+To je tako, ful časa ti pobere. Jaz bi se trikrat počasnej
+
+1366
+01:43:26,639 --> 01:43:30,639
+učil cloud in testiral neke fičerje od ponudnikov.
+
+1367
+01:43:30,639 --> 01:43:34,639
+Če ne bi teh toolov uporabil, tako pa čečem, aha,
+
+1368
+01:43:35,220 --> 01:43:39,220
+mene zanima linout, pa poznam linout providerja,
+
+1369
+01:43:39,220 --> 01:43:43,220
+pa rečem, kaj bom to skombiniral z cloudflare, pa poznam cloudflare providerja,
+
+1370
+01:43:43,220 --> 01:43:47,220
+pa skozi isti interfejs. Mogoče kakšno ime malo drugačno,
+
+1371
+01:43:47,220 --> 01:43:51,220
+ker mičkam drugačen produkt, ampak to je vse isto.
+
+1372
+01:43:51,220 --> 01:43:55,220
+Ni mi treba unot pred, pa klikati, pa gor, pa dol.
+
+1373
+01:43:55,220 --> 01:43:59,220
+A veš, daj ti na cloudflare unes 12 DNS-ov.
+
+1374
+01:43:59,220 --> 01:44:03,220
+Sej gre, ampak pa jih ne boš pobriso,
+
+1375
+01:44:03,220 --> 01:44:07,220
+ampak jaz jih pa natipkam, pa rečem apply, pa pa jih pač pobrišem,
+
+1376
+01:44:07,220 --> 01:44:11,220
+ker se nekaj špilam. Lahko imate to čisto tako.
+
+1377
+01:44:11,220 --> 01:44:15,220
+Ena zadeva, ki je mogoče, moram eksplicitno še vse enkrat povejati.
+
+1378
+01:44:15,220 --> 01:44:19,220
+Ti zdaj govoriš o teh providerjih, ki jih izbereš,
+
+1379
+01:44:19,220 --> 01:44:25,220
+in za plovni, in za terraform. Če obstajajo te recepti,
+
+1380
+01:44:25,220 --> 01:44:31,220
+ki jih ali ljudje sami delajo, ali pa jih firme delajo,
+
+1381
+01:44:31,220 --> 01:44:39,220
+in primer, če bi hotel sam postaviti kafko z terraformom,
+
+1382
+01:44:39,220 --> 01:44:43,220
+to je slabi zaempel, ali pa z plovnim, ali pa kar kole,
+
+1383
+01:44:43,220 --> 01:44:47,220
+te recepte lahko ti vzameš, pa uporabiš, pa ne rabiš sam tega delati.
+
+1384
+01:44:47,220 --> 01:44:53,220
+Dej še to povej, koliko so ti recepti stable, official?
+
+1385
+01:44:53,220 --> 01:44:56,220
+Firme same delajo.
+
+1386
+01:44:56,220 --> 01:44:59,220
+Firme same podpirajo providerje za te tule.
+
+1387
+01:44:59,220 --> 01:45:03,220
+To se pravi v Googlu, ali pa na avsojekipa, ki skrbi,
+
+1388
+01:45:03,220 --> 01:45:08,220
+da je ta provider, ki je to v bistvu samo otečni plugin,
+
+1389
+01:45:08,220 --> 01:45:12,220
+da je skozi up-to-date, in to se tudi avtomatsko generira,
+
+1390
+01:45:12,220 --> 01:45:15,220
+to ne kuca ena roko, ko pač je too much services.
+
+1391
+01:45:15,220 --> 01:45:19,220
+Zato, ker njim je v interesu tebi dati interfejs,
+
+1392
+01:45:19,220 --> 01:45:22,220
+da ti lahko cash-ten zapravljaš, pač to je ful pomembno.
+
+1393
+01:45:22,220 --> 01:45:28,220
+In pač rečemo terraform, pa polumi, imajo tam katalogue,
+
+1394
+01:45:29,220 --> 01:45:33,220
+vseh teh providerjev, neki so official, pa so večinoma
+
+1395
+01:45:33,220 --> 01:45:39,220
+korporacija polumija plus providerja, neki so unofficial,
+
+1396
+01:45:39,220 --> 01:45:43,220
+ki jih providerji dajo, neki so community-based,
+
+1397
+01:45:43,220 --> 01:45:45,220
+ampak tega je res tako ogromno.
+
+1398
+01:45:45,220 --> 01:45:48,220
+In je pa tudi standardizirana dokumentacija,
+
+1399
+01:45:48,220 --> 01:45:53,220
+in po moje lažji je pogledat od providerje dokumentacijo,
+
+1400
+01:45:53,220 --> 01:45:55,220
+pa nekaj postavit.
+
+1401
+01:45:55,220 --> 01:45:59,220
+Kako je to klikati tam, čez oni dashboarde, ki se spinajo.
+
+1402
+01:45:59,220 --> 01:46:02,220
+Ful ne moreš v dashboardu, vidim.
+
+1403
+01:46:02,220 --> 01:46:06,220
+Veš kaj je problem? Ti narediš WPC, pa klikneš
+
+1404
+01:46:06,220 --> 01:46:10,220
+jazbi WPC, ali pa projekt, pa ono spina, ki je asinkrono,
+
+1405
+01:46:10,220 --> 01:46:13,220
+pa jaz nekaj drugega delam, pa vidim, u, to je ready,
+
+1406
+01:46:13,220 --> 01:46:15,220
+pa je minil že pet minut.
+
+1407
+01:46:15,220 --> 01:46:18,220
+In pa rečem, zdaj bi imel pa Kubernetes, pa kliknem jazbi
+
+1408
+01:46:18,220 --> 01:46:21,220
+imam Kubernetes cluster, pa spina.
+
+1409
+01:46:21,220 --> 01:46:24,220
+Če uporabljam pač ta urode, pač asinkrono ono ve,
+
+1410
+01:46:24,220 --> 01:46:27,220
+to je moj dependency, zdaj je narejen, ok, naslednjo, čop.
+
+1411
+01:46:27,220 --> 01:46:31,220
+On zračuna tudi drevov vsega tega in je to to.
+
+1412
+01:46:31,220 --> 01:46:35,220
+Eno scary miso še tukaj pre teh toolingih.
+
+1413
+01:46:35,220 --> 01:46:38,220
+Vse lahko pobrišaš.
+
+1414
+01:46:38,220 --> 01:46:43,220
+Hotem se pravi, ko greš z tisto, z CDK-om, z Terraformom,
+
+1415
+01:46:43,220 --> 01:46:46,220
+kajkoli, ko greš čez, plilupaš čez nekaj, ali pa čez nekaj
+
+1416
+01:46:46,220 --> 01:46:51,220
+resursije, primer, če si nekaj tokene zajebal, pa kajkoli.
+
+1417
+01:46:51,220 --> 01:46:54,220
+To zdaj pa ni transakcionalno.
+
+1418
+01:46:54,220 --> 01:46:57,220
+Ne moraš nič reči.
+
+1419
+01:46:57,220 --> 01:47:00,220
+Let's go back in time.
+
+1420
+01:47:00,220 --> 01:47:04,220
+Lahko ti reče, sorry, mogoče trenutno nisem imel na kreditni kartici
+
+1421
+01:47:04,220 --> 01:47:09,220
+dovolj kredita, pa te bo odrezal, pa si je nekaj access permission
+
+1422
+01:47:09,220 --> 01:47:14,220
+nazebal. Tudi nato res so še neki taki izzivi, ki jih te toolingi nimajo.
+
+1423
+01:47:14,220 --> 01:47:18,220
+Ne reče ti, to je checkpoint in time, zdaj bom jaz to zalokal,
+
+1424
+01:47:18,220 --> 01:47:21,220
+pa kaj, to je še to.
+
+1425
+01:47:21,220 --> 01:47:24,220
+To je definitivno. Ti lahko dobiš plan, mi bomo te stvari naredili,
+
+1426
+01:47:24,220 --> 01:47:29,220
+pa pa v bistvu ugotoviš, da ko si delal 23 virtualkov, si hitil kvoto
+
+1427
+01:47:29,220 --> 01:47:33,220
+za virtualke in moraš pa posleti v njim mail oziroma v izpolna
+
+1428
+01:47:33,220 --> 01:47:37,220
+platforma, da ti poveča kvoto in pa se to tipično resolva
+
+1429
+01:47:37,220 --> 01:47:40,220
+avtomatsko, doskrat pa tudi, ne, pa čepel, kaj se veči, a ne.
+
+1430
+01:47:40,220 --> 01:47:45,220
+Tako da niso te, to ti res samo tehnološke probleme.
+
+1431
+01:47:45,220 --> 01:47:48,220
+Ne reči ti pa ono, kar ti pač ne more konc koncov reči, ne.
+
+1432
+01:47:48,220 --> 01:47:52,220
+Ena navarnost je tudi, da zelo moraš biti previden,
+
+1433
+01:47:52,220 --> 01:47:56,220
+gledati te dife, te delte, kaj se bo zgodil,
+
+1434
+01:47:56,220 --> 01:48:00,220
+kad ti lahko dejansko pobrišaš nekaj, pa konc konco je tudi,
+
+1435
+01:48:00,220 --> 01:48:05,220
+če ti pobrišaš, rečemo, staging, če je tudi tir infrastruktura,
+
+1436
+01:48:05,220 --> 01:48:09,220
+si mogoče s tem blokirujo vse kolege, ki delajo na front-endu,
+
+1437
+01:48:09,220 --> 01:48:13,220
+pač, kaj ne, a veš, hiter ima to impact za velocity.
+
+1438
+01:48:13,220 --> 01:48:17,220
+Ja, treba biti mičkan. To je definitivno taka stvar, ki nisi tako,
+
+1439
+01:48:17,220 --> 01:48:20,220
+lej bomo mi malo to probali na stagingu. Ne, ne, ne, lej.
+
+1440
+01:48:20,220 --> 01:48:24,220
+Ti to malo doma, doma se špilji. Če hočeš na E20
+
+1441
+01:48:24,220 --> 01:48:28,220
+stariš neko kamano GPU-je, dej naredi to z terraformom.
+
+1442
+01:48:28,220 --> 01:48:30,220
+Pa enka raj prej.
+
+1443
+01:48:30,220 --> 01:48:34,219
+Ne, mislim, čepel, ko pokličaš za stroj, jih pač ne bo več,
+
+1444
+01:48:34,219 --> 01:48:38,219
+a ne, in boš zato plačal, ne vem, 50 centov,
+
+1445
+01:48:38,219 --> 01:48:42,219
+pa lahko greš palo mesec igrati z otroci, pa prideš nazaj pa spet.
+
+1446
+01:48:42,219 --> 01:48:46,219
+Tako so, to so nekaj tako ljubske esike, ki jih lahko ima zato.
+
+1447
+01:48:46,219 --> 01:48:52,219
+Tu notriš en tool, ne, sreče terraform,
+
+1448
+01:48:52,219 --> 01:48:54,219
+ne, Atlantis.
+
+1449
+01:48:54,219 --> 01:48:59,219
+Ha, Atlantis je odprto kodna verzija terraform klauda,
+
+1450
+01:48:59,219 --> 01:49:03,219
+pa ene vzirova. Ja. To je pomeni, da ti lahko na svojemu,
+
+1451
+01:49:03,219 --> 01:49:08,219
+na svojemu strežniku, daš notro vključe, pa bo onda jelo te evaluacije,
+
+1452
+01:49:08,219 --> 01:49:12,219
+in je v bistvu tudi GitHub bot, in ti, kaj ti, to so pravi,
+
+1453
+01:49:12,219 --> 01:49:15,219
+isti, ista stvar je, ti, on pogleda repozitorij,
+
+1454
+01:49:15,219 --> 01:49:19,219
+ko gotovi, da kdo dela terraform change v zamici s to kodo z računa,
+
+1455
+01:49:19,219 --> 01:49:23,219
+to div pa del to, in ti pol v GitHub
+
+1456
+01:49:23,219 --> 01:49:25,219
+Tolmači. Meseč notri, ja.
+
+1457
+01:49:25,219 --> 01:49:27,219
+Raz tolmačiti, kaj se bo spremenilo.
+
+1458
+01:49:27,219 --> 01:49:32,219
+Finta je ta, da to je pol self-hosted varijanta,
+
+1459
+01:49:32,219 --> 01:49:34,219
+in pač, ne vem, dela dobro.
+
+1460
+01:49:34,219 --> 01:49:38,219
+Je pa sicer taj terraform specifičen se u na dvasto tudi.
+
+1461
+01:49:38,219 --> 01:49:43,219
+Gli je zdaj gruntam, kako polu mi rečemo umestiti notr v
+
+1462
+01:49:43,219 --> 01:49:47,219
+polu rekveste, pa to. Vse je dokumentacija na to temo.
+
+1463
+01:49:47,219 --> 01:49:52,219
+Samo pač, ja, pač mora treba researchat, pa stesterat.
+
+1464
+01:49:52,219 --> 01:49:55,219
+Ahle, še ni dve ure, tudi da šlahko.
+
+1465
+01:49:55,219 --> 01:50:00,219
+Tukaj so, tukaj, tukaj je, ponavadi nimava tog priprav,
+
+1466
+01:50:00,219 --> 01:50:03,219
+ko smo jih dala v to epizodo, ampak bom vse enšte zdej.
+
+1467
+01:50:03,219 --> 01:50:07,219
+To si tako povedal. Pač eno uro, deset, smo se slišali,
+
+1468
+01:50:07,219 --> 01:50:10,219
+pa vmes pa ne vem, kaj še govorila druga eno uro.
+
+1469
+01:50:10,219 --> 01:50:14,219
+Ja, to je zato, kako živiš s temi zadevami.
+
+1470
+01:50:14,219 --> 01:50:20,219
+Dej še ta, to mi še razložim, pa bomo pol potegnali načrto
+
+1471
+01:50:20,219 --> 01:50:25,219
+za tog oblakih. Kaj crossplane?
+
+1472
+01:50:25,219 --> 01:50:29,219
+Sam si ga napisal na koncu, ampak je tok seksi zadev,
+
+1473
+01:50:29,219 --> 01:50:33,219
+pa tok sci-fi, da ta ščit moraš razložiti.
+
+1474
+01:50:33,219 --> 01:50:36,219
+Ampak bom na dolgo razložil.
+
+1475
+01:50:36,219 --> 01:50:39,219
+Na razlož, na dolgo, pa res moram gluhati.
+
+1476
+01:50:39,219 --> 01:50:44,219
+No, nekaj, enkrat smo bili na...
+
+1477
+01:50:44,219 --> 01:50:47,219
+Kaj so bili IBM mainframe-i?
+
+1478
+01:50:47,219 --> 01:50:50,219
+So se aplikacije tako deplovali, da...
+
+1479
+01:50:50,219 --> 01:50:54,219
+To je bilo ful podobno v bistvu tem modernim orkestratorjem,
+
+1480
+01:50:54,219 --> 01:50:58,219
+kukor je Kubernetes. Ti si rekel, to je app,
+
+1481
+01:50:58,219 --> 01:51:02,219
+to so parametri appa, tam je bil dashboard, ti si not na kucu vstav,
+
+1482
+01:51:02,219 --> 01:51:05,219
+in potem mainframe rekel, aha, to je app.
+
+1483
+01:51:05,219 --> 01:51:08,219
+To je zdaj izdeplovan, pa...
+
+1484
+01:51:08,219 --> 01:51:11,219
+Mogoče ima tudi high availability, to ne zdaj ne vem,
+
+1485
+01:51:11,219 --> 01:51:14,219
+jaz s tem nisem delal, ko pač, obvjas je to drgo,
+
+1486
+01:51:14,219 --> 01:51:17,219
+takrat to ni nekaj, kaj imaš doma.
+
+1487
+01:51:17,219 --> 01:51:20,219
+Ampak kakr sem delal research, je to to.
+
+1488
+01:51:20,219 --> 01:51:23,219
+In kako Kubernetes funkcionira? V bistvu tako funkcionira.
+
+1489
+01:51:23,219 --> 01:51:26,219
+Ti imaš Kubernetes, ki je...
+
+1490
+01:51:26,219 --> 01:51:29,219
+Telehostat je v klaudu, je managed.
+
+1491
+01:51:29,219 --> 01:51:32,219
+In ti gor pošleš nekaj, ki ti...
+
+1492
+01:51:32,219 --> 01:51:35,219
+Napišeš kubectl apply, to je, da pač hočeš...
+
+1493
+01:51:35,219 --> 01:51:38,219
+Z Kubernetesom delati, ja?
+
+1494
+01:51:38,219 --> 01:51:41,219
+Da hočeš imeti nekaj, ne vem, kontejner, kaj laufa.
+
+1495
+01:51:41,219 --> 01:51:45,219
+Vse, kar se zgodi, se pošle nekje JSON na Kubernetes api.
+
+1496
+01:51:45,219 --> 01:51:50,219
+Kubernetes si pa to vzhrani v svoj stor.
+
+1497
+01:51:50,219 --> 01:51:54,219
+Pogleda ta objekt, to je preprosto objekt,
+
+1498
+01:51:55,219 --> 01:51:58,219
+ima verzijo, tip objekta, parametre.
+
+1499
+01:51:58,219 --> 01:52:01,219
+In potem on sam zračuna, kako bo make it happen.
+
+1500
+01:52:01,219 --> 01:52:04,219
+Pač bo naredil en pod, basically.
+
+1501
+01:52:04,219 --> 01:52:07,219
+In odlafati kontejner in super, neki enginix lafati.
+
+1502
+01:52:07,219 --> 01:52:10,219
+Ok, odlično.
+
+1503
+01:52:10,219 --> 01:52:13,219
+In potem, kaj so ljudje naredili?
+
+1504
+01:52:13,219 --> 01:52:16,219
+Ti imaš lahko...
+
+1505
+01:52:16,219 --> 01:52:19,219
+So verzije in tipi v Kubernetesu,
+
+1506
+01:52:19,219 --> 01:52:22,219
+kakr so pod, service, deployment,
+
+1507
+01:52:22,219 --> 01:52:25,219
+stateful set, daemon set, to so built-in objekti.
+
+1508
+01:52:25,219 --> 01:52:28,219
+Pač schema je built-in.
+
+1509
+01:52:28,219 --> 01:52:31,219
+In pač vsako Kubernetes to ima.
+
+1510
+01:52:31,219 --> 01:52:34,219
+Kaj pa ti lahko pa narediš, je pa narediš nekaj,
+
+1511
+01:52:34,219 --> 01:52:37,219
+kar se reče custom definition teh resourcev.
+
+1512
+01:52:37,219 --> 01:52:42,219
+In lahko imaš tudi, ne vem, oto nekaj, nekaj,
+
+1513
+01:52:42,219 --> 01:52:47,219
+veržen en objekt, tipa, ne vem, nekaj.
+
+1514
+01:52:47,219 --> 01:52:50,219
+Epizoda podkasta.
+
+1515
+01:52:51,219 --> 01:52:54,219
+In kaj ti, kaj daš ti to noter,
+
+1516
+01:52:54,219 --> 01:52:57,219
+Kubernetes sam ne ve v bistvu, kaj s tem dela,
+
+1517
+01:52:57,219 --> 01:53:01,219
+zato, ker nima nobene, noben program,
+
+1518
+01:53:01,219 --> 01:53:04,219
+ni nareden, da, ko pride ta objekt v Kubernetes,
+
+1519
+01:53:04,219 --> 01:53:07,219
+da on to prebere in nekaj naredi.
+
+1520
+01:53:07,219 --> 01:53:09,219
+In če pa to hočeš, pa napišeš nekaj,
+
+1521
+01:53:09,219 --> 01:53:11,219
+kar se reče operator.
+
+1522
+01:53:11,219 --> 01:53:14,219
+Operatorji so pa sam, se konc koncov poslušajo
+
+1523
+01:53:14,219 --> 01:53:17,219
+na spremembe določenih tipov objektov.
+
+1524
+01:53:17,219 --> 01:53:20,219
+In lahko napišeš pač ta oto operator,
+
+1525
+01:53:20,219 --> 01:53:22,219
+in ka ti daš noter podkast,
+
+1526
+01:53:22,219 --> 01:53:24,219
+potem on ta objekt prebere,
+
+1527
+01:53:24,219 --> 01:53:27,219
+in potem pač nekaj začne iz onih stvari pač mlet,
+
+1528
+01:53:27,219 --> 01:53:30,219
+kreirati objekte na Kubernetesu.
+
+1529
+01:53:30,219 --> 01:53:33,219
+Ali pa kar koli delati, naroči julči pico ful,
+
+1530
+01:53:33,219 --> 01:53:36,219
+odvisno od priličnov, ki jih ima operator.
+
+1531
+01:53:36,219 --> 01:53:39,219
+Kaj je, kako je zdaj to prije na zajna crossplane?
+
+1532
+01:53:39,219 --> 01:53:41,219
+Je pa, ti imaš Kubernetes cluster,
+
+1533
+01:53:41,219 --> 01:53:44,219
+gori inšteljiraš crossplane operator,
+
+1534
+01:53:45,219 --> 01:53:48,219
+noter rečeš, mi hočemo imeti AVS provider,
+
+1535
+01:53:50,219 --> 01:53:53,219
+to so ključi, da lahko provider deluje.
+
+1536
+01:53:53,219 --> 01:53:56,219
+In potem ti v bistvu lahko javno napišeš,
+
+1537
+01:53:56,219 --> 01:53:59,219
+jaz hočem imeti naprimer EC2 instancijo,
+
+1538
+01:53:59,219 --> 01:54:01,219
+to se pravi virtualko,
+
+1539
+01:54:01,219 --> 01:54:03,219
+ki reče Kubernetes apply,
+
+1540
+01:54:03,219 --> 01:54:06,219
+pa gre ta objekt gor na Kubernetes.
+
+1541
+01:54:06,219 --> 01:54:09,219
+Zato kar je tam crossplane operator,
+
+1542
+01:54:09,219 --> 01:54:12,219
+je dobil vestilo, ej, spremenil se en objekt,
+
+1543
+01:54:13,219 --> 01:54:16,219
+ki se tebe tiče, on ti spogleda in reče,
+
+1544
+01:54:16,219 --> 01:54:19,219
+uh, ja, nekdo zdaj hoče imeti, da vem,
+
+1545
+01:54:19,219 --> 01:54:22,219
+EC2 virtualko ali pa nekaj spremenbe na enmu
+
+1546
+01:54:23,219 --> 01:54:26,219
+izmed servisov, ki jih AVS ponuja.
+
+1547
+01:54:28,219 --> 01:54:31,219
+In potem sam kot program dobi sikrete,
+
+1548
+01:54:32,219 --> 01:54:35,219
+ki si jih tudi dovpač gori iz konfiguracije
+
+1549
+01:54:35,219 --> 01:54:38,219
+in ostvar to v tismo clusterju.
+
+1550
+01:54:38,219 --> 01:54:41,219
+To se pravi, ti lahko s Kubernetes objekti
+
+1551
+01:54:42,219 --> 01:54:45,219
+proviženaš vse, kar je, vse provideri,
+
+1552
+01:54:45,219 --> 01:54:48,219
+ki so vez cloud, ki ga imaš.
+
+1553
+01:54:48,219 --> 01:54:51,219
+Ampak ni toliko, mogoče sliši se kot malo
+
+1554
+01:54:52,219 --> 01:54:55,219
+farfetched idea ali pa nekaj.
+
+1555
+01:54:55,219 --> 01:54:58,219
+To je samo slim layer na tehnologija,
+
+1556
+01:54:58,219 --> 01:55:00,219
+ki smo jih prej opisvali.
+
+1557
+01:55:00,219 --> 01:55:03,219
+Ampak na zelo podobno zadelo deluje recimo,
+
+1558
+01:55:03,219 --> 01:55:06,219
+če kafko lahko imaš, imaš ta kafka strimzi,
+
+1559
+01:55:06,219 --> 01:55:09,219
+in je v bistvu kafka operator za Kubernetes
+
+1560
+01:55:09,219 --> 01:55:12,219
+in najprej inšteljiraš tega operatorja.
+
+1561
+01:55:12,219 --> 01:55:15,219
+Potem pa rečeš, Kubernetes hoče imeti
+
+1562
+01:55:15,219 --> 01:55:18,219
+nov kafka topic, hoče imeti nov kafka broker
+
+1563
+01:55:18,219 --> 01:55:21,219
+in potem bo ta operator znotraj Kubernetesa
+
+1564
+01:55:21,219 --> 01:55:23,219
+ti naredil te objekte.
+
+1565
+01:55:23,219 --> 01:55:26,219
+In če deluje to za menedžiranje kafke
+
+1566
+01:55:26,219 --> 01:55:29,219
+ali pa kasandre ali česar kol, bo delovala
+
+1567
+01:55:29,219 --> 01:55:32,219
+isti koncept tudi za menedžiranje teh cloud
+
+1568
+01:55:32,219 --> 01:55:35,219
+in tu je v bistvu ta overlap, kako Crossplane poskrbijo.
+
+1569
+01:55:35,219 --> 01:55:38,219
+Moment je, ka ti vržeš velik cache-a
+
+1570
+01:55:38,219 --> 01:55:41,219
+taj izobražeš ekipo v Kubernetes-o,
+
+1571
+01:55:41,219 --> 01:55:44,219
+ker je to dost kompleksen sistem,
+
+1572
+01:55:44,219 --> 01:55:47,219
+potem je v bistvu logično, da še to prikolco zraven,
+
+1573
+01:55:47,219 --> 01:55:50,219
+da v bistvu lahko še to dela s tem.
+
+1574
+01:55:50,219 --> 01:55:53,219
+Meni se zdi ful zanimiv koncept,
+
+1575
+01:55:53,219 --> 01:55:56,219
+pač nisem ni ti testeru,
+
+1576
+01:55:56,219 --> 01:55:59,219
+pač gledal sem ful enih teh demo,
+
+1577
+01:55:59,219 --> 01:56:02,219
+pa pač razumem kako od zadev v nulo to funkcionera,
+
+1578
+01:56:02,219 --> 01:56:05,219
+pač za neke slim layerje obstojičega toolinga,
+
+1579
+01:56:05,219 --> 01:56:08,219
+ampak ja, to je res ta sci-fi stuff.
+
+1580
+01:56:08,219 --> 01:56:11,219
+Andraž, zadnje misli.
+
+1581
+01:56:11,219 --> 01:56:14,219
+Zadnje misli.
+
+1582
+01:56:14,219 --> 01:56:17,219
+A ste vedeli, da obstaja AWS Snowmobile?
+
+1583
+01:56:17,219 --> 01:56:20,219
+To je, da ti AWS pošlje tovrnak diskov,
+
+1584
+01:56:20,219 --> 01:56:23,219
+da lahko pač uploadate dato na S3?
+
+1585
+01:56:23,219 --> 01:56:26,219
+To je neka taka stvar.
+
+1586
+01:56:26,219 --> 01:56:29,219
+Pa tama je tudi AWS Ground Station,
+
+1587
+01:56:30,219 --> 01:56:33,219
+za svoje satelite.
+
+1588
+01:56:33,219 --> 01:56:36,219
+AWS ima to.
+
+1589
+01:56:36,219 --> 01:56:39,219
+Maš satelajci pa Robotics.
+
+1590
+01:56:39,219 --> 01:56:42,219
+To so res te bizarni zadnje misli.
+
+1591
+01:56:42,219 --> 01:56:45,219
+Kaj misliš na to zadnje mislo?
+
+1592
+01:56:45,219 --> 01:56:48,219
+Hvala, ker niste danes šli z nami zelo globoko v tehnologijo,
+
+1593
+01:56:48,219 --> 01:56:51,219
+ampak ste šli zelo visoko v plake.
+
+1594
+01:56:51,219 --> 01:56:54,219
+To je dobro.
+
+1595
+01:56:54,219 --> 01:56:57,219
+Naj se bodo sprobali teh stvari,
+
+1596
+01:56:58,219 --> 01:57:01,219
+vsi, ki ste, ki va zanima infrastruktura,
+
+1597
+01:57:01,219 --> 01:57:04,219
+dejte si in naredite akant na Linu do Vulterju,
+
+1598
+01:57:06,219 --> 01:57:09,219
+Digital Oceanu, pa se malo poigrejte
+
+1599
+01:57:09,219 --> 01:57:12,219
+ali za plumijem, terraformom,
+
+1600
+01:57:12,219 --> 01:57:15,219
+pač stvarni bau bau, nekaj čist novega.
+
+1601
+01:57:15,219 --> 01:57:18,219
+Play around with it.
+
+1602
+01:57:18,219 --> 01:57:21,219
+Definitivno je to nekaj,
+
+1603
+01:57:21,219 --> 01:57:24,219
+ki vam bo sploh v tujini zelo, zelo prav prišlo.
+
+1604
+01:57:25,219 --> 01:57:28,219
+Pa mogoče tudi pri vašem projektu v službi.
+
+1605
+01:57:28,219 --> 01:57:31,219
+To je odlično.
+
+1606
+01:57:31,219 --> 01:57:34,219
+Andraž, zelo dobrobrodnik,
+
+1607
+01:57:34,219 --> 01:57:37,219
+stokrat ti hvala, da si si vzal čas,
+
+1608
+01:57:37,219 --> 01:57:40,219
+pa da smo ljudem odprli čakre.
+
+1609
+01:57:40,219 --> 01:57:43,219
+Zelo, zelo bomo veseli,
+
+1610
+01:57:43,219 --> 01:57:46,219
+če nam date feedback na tole epizodo,
+
+1611
+01:57:46,219 --> 01:57:49,219
+če nam povedete, kaj smo pozabili povedati,
+
+1612
+01:57:49,219 --> 01:57:52,219
+če nam povedete, na kakšen način
+
+1613
+01:57:52,219 --> 01:57:55,219
+za Boga naj nadoljujemo to zadevo.
+
+1614
+01:57:55,219 --> 01:57:58,219
+Pripričan sem, da je še en kup nekih tem,
+
+1615
+01:57:58,219 --> 01:58:01,219
+ki so sorodne in povezane, pa jih mogoče danes nismo odprli.
+
+1616
+01:58:01,219 --> 01:58:04,219
+Vsak feedback je zelo dobrodošel.
+
+1617
+01:58:04,219 --> 01:58:07,219
+Delite s svojimi kolegi in prijatelji,
+
+1618
+01:58:07,219 --> 01:58:10,219
+posumite do prihodnič, pa hvala še enkrat.
+
+1619
+01:58:10,219 --> 01:58:13,219
+Hvala vam, bo to fajn.

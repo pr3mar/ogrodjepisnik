@@ -1,0 +1,8259 @@
+1
+00:00:00,000 --> 00:00:03,000
+Zdaj imamo novo SD kartico, ki je bilo dovolj nam deniral danes.
+
+2
+00:00:03,000 --> 00:00:05,000
+Tako da imamo koliko piše gor?
+
+3
+00:00:05,000 --> 00:00:09,000
+46 ure lahko danes se pogovarjamo o Javascriptu,
+
+4
+00:00:09,000 --> 00:00:13,000
+v najširšem smislu do najbolj specialnega smisla.
+
+5
+00:00:13,000 --> 00:00:16,000
+Lahko predebutiramo back-end, front-end, vse lahko, da damo čest.
+
+6
+00:00:16,000 --> 00:00:18,000
+Lahko se približamo o začetnikov,
+
+7
+00:00:18,000 --> 00:00:20,000
+lahko se približamo o začetnikov,
+
+8
+00:00:20,000 --> 00:00:22,000
+lahko se približamo o začetnikov,
+
+9
+00:00:22,000 --> 00:00:24,000
+lahko se približamo o začetnikov,
+
+10
+00:00:24,000 --> 00:00:26,000
+lahko se približamo o začetnikov,
+
+11
+00:00:26,000 --> 00:00:28,000
+lahko se približamo o začetnikov,
+
+12
+00:00:28,000 --> 00:00:30,000
+lahko se pribižamo o začetnikom,
+
+13
+00:00:30,000 --> 00:00:38,000
+lahko gremo o executive decisions, ki investejo milijone v Javascript.
+
+14
+00:00:40,000 --> 00:00:46,000
+Danes so z nami Klemen Kugovšek in Andraž Brodnik.
+
+15
+00:00:46,000 --> 00:00:49,000
+Danes bi se pogovarjali o Javascriptu.
+
+16
+00:00:49,000 --> 00:00:52,000
+Zdaj boš se na prvo lahko predstavil?
+
+17
+00:00:52,000 --> 00:00:54,000
+Boš me pa vedel, kaj počneš?
+
+18
+00:00:54,000 --> 00:00:55,000
+Lahko probam.
+
+19
+00:00:55,000 --> 00:00:57,000
+Da bodo jih dobili ta feeling.
+
+20
+00:00:57,000 --> 00:00:58,000
+Ja.
+
+21
+00:00:58,000 --> 00:01:00,000
+Sprave sem Klemen.
+
+22
+00:01:00,000 --> 00:01:03,000
+Delam pri podjetju 1437.
+
+23
+00:01:03,000 --> 00:01:08,000
+Delam z vsem, kar poganja Javascript,
+
+24
+00:01:08,000 --> 00:01:12,000
+pa v vseh okoljih, kjer Javascript teče.
+
+25
+00:01:12,000 --> 00:01:17,000
+Tako da moja rešitev se ponovat gibla v tem spajsu.
+
+26
+00:01:17,000 --> 00:01:21,000
+Probam tudi, kaj druga, če podpela Javascript.
+
+27
+00:01:21,000 --> 00:01:24,000
+Pomeni, da se ne identificiraš kot front-end developer ali back-end developer?
+
+28
+00:01:24,000 --> 00:01:25,000
+Ne, ne.
+
+29
+00:01:25,000 --> 00:01:28,000
+Spravi, da se identificiraš kot Javascript developer?
+
+30
+00:01:28,000 --> 00:01:30,000
+Ja, tako bi lahko rekel.
+
+31
+00:01:30,000 --> 00:01:33,000
+Full-stack zdaj pa je zelo problematičen izraz,
+
+32
+00:01:33,000 --> 00:01:36,000
+kjer ljudje začnejo asumovati, da delaš tudi z hardwarom,
+
+33
+00:01:36,000 --> 00:01:38,000
+a zvaja čipe, tako da.
+
+34
+00:01:38,000 --> 00:01:40,000
+Tema bi se mogoče izolnil.
+
+35
+00:01:40,000 --> 00:01:42,000
+Amazing.
+
+36
+00:01:42,000 --> 00:01:47,000
+Jaz sem si razmislil, kako sploh ukviriti debato
+
+37
+00:01:47,000 --> 00:01:52,000
+v neki zadevi kot Javascript, ko vsi poznajo,
+
+38
+00:01:52,000 --> 00:01:55,000
+vsi so se srečali s tem.
+
+39
+00:01:55,000 --> 00:01:58,000
+Mislim, težko danes ne veš, kaj je Javascript,
+
+40
+00:01:58,000 --> 00:02:01,000
+če karkoli delaš, tako se jaz predstavljam.
+
+41
+00:02:01,000 --> 00:02:05,000
+Tako da bomo poskušali to debato v neke ukvire dati,
+
+42
+00:02:05,000 --> 00:02:08,000
+bomo probali na začetki,
+
+43
+00:02:08,000 --> 00:02:11,000
+bomo pa slimali front-end in back-end,
+
+44
+00:02:11,000 --> 00:02:13,000
+pomaloli bomo skakali to v mes.
+
+45
+00:02:13,000 --> 00:02:17,000
+In potem bomo za vsakega našli nekaj zanimivih tem.
+
+46
+00:02:17,000 --> 00:02:19,000
+Jaz sem razmislil, kaj bi bilo tisto vprašanje,
+
+47
+00:02:19,000 --> 00:02:21,000
+s katerim lahko to pravimo.
+
+48
+00:02:21,000 --> 00:02:23,000
+Moje vprašanje je, a je Javascript,
+
+49
+00:02:23,000 --> 00:02:26,000
+če bi Javascript bil religion,
+
+50
+00:02:26,000 --> 00:02:29,000
+kak religion bi bil Javascript zavajal?
+
+51
+00:02:29,000 --> 00:02:32,000
+Po moje, čez vesolna zumbicrkov.
+
+52
+00:02:32,000 --> 00:02:34,000
+Čez vesolna zumbicrkov.
+
+53
+00:02:34,000 --> 00:02:36,000
+A je prijazen?
+
+54
+00:02:37,000 --> 00:02:39,000
+A je?
+
+55
+00:02:39,000 --> 00:02:42,000
+A ni Javascript, saj je malo boljši C?
+
+56
+00:02:42,000 --> 00:02:43,000
+Uf.
+
+57
+00:02:43,000 --> 00:02:44,000
+A je?
+
+58
+00:02:44,000 --> 00:02:46,000
+Ja, jaz sem naš pointer.
+
+59
+00:02:46,000 --> 00:02:47,000
+V ziščine stvari je pointer, tako da ...
+
+60
+00:02:47,000 --> 00:02:49,000
+Vsi tako se je tako.
+
+61
+00:02:49,000 --> 00:02:50,000
+Vsi tako se je prijazen.
+
+62
+00:02:50,000 --> 00:02:52,000
+Pa na mikrokrmilnik jih zdej teče.
+
+63
+00:02:52,000 --> 00:02:55,000
+Ja, jaz sem danes govoril doma,
+
+64
+00:02:55,000 --> 00:02:57,000
+kaj uprogramiram z Javascriptom,
+
+65
+00:02:57,000 --> 00:03:00,000
+in z razviko od ostalih mikrokontrolerjev,
+
+66
+00:03:00,000 --> 00:03:02,000
+ki sem jih uporablil,
+
+67
+00:03:02,000 --> 00:03:04,000
+lahko tukaj prek Bluetooth-a gor
+
+68
+00:03:04,000 --> 00:03:06,000
+z vsega škoda iz vsega browzera.
+
+69
+00:03:06,000 --> 00:03:08,000
+Tako da z razviko od nekaj HVR-a,
+
+70
+00:03:08,000 --> 00:03:09,000
+jo ne moreš več.
+
+71
+00:03:09,000 --> 00:03:12,000
+SPI, konektorčko, adapter, jo.
+
+72
+00:03:12,000 --> 00:03:14,000
+Vsega tega.
+
+73
+00:03:14,000 --> 00:03:17,000
+Ej, a gremo mogoče čez ...
+
+74
+00:03:17,000 --> 00:03:19,000
+Ta vprašanje je bilo slabo zdaj.
+
+75
+00:03:19,000 --> 00:03:21,000
+Gremo nazaj.
+
+76
+00:03:21,000 --> 00:03:24,000
+Odkud si prišel v ta Javascript?
+
+77
+00:03:24,000 --> 00:03:25,000
+Zakaj?
+
+78
+00:03:25,000 --> 00:03:26,000
+Zakaj Javascript?
+
+79
+00:03:26,000 --> 00:03:27,000
+Zakaj?
+
+80
+00:03:27,000 --> 00:03:28,000
+A veš ...
+
+81
+00:03:28,000 --> 00:03:29,000
+How?
+
+82
+00:03:29,000 --> 00:03:30,000
+Why?
+
+83
+00:03:30,000 --> 00:03:33,000
+Po moje, začel sem čez druge.
+
+84
+00:03:33,000 --> 00:03:36,000
+Začel sem, recimo, z .NET-om,
+
+85
+00:03:36,000 --> 00:03:38,000
+PHP-om, tudi C-om.
+
+86
+00:03:38,000 --> 00:03:41,000
+In potem Javascript je bila tista stvar,
+
+87
+00:03:41,000 --> 00:03:44,000
+ki me je takrat dala prva plačo.
+
+88
+00:03:44,000 --> 00:03:45,000
+Ok.
+
+89
+00:03:45,000 --> 00:03:46,000
+Iskreno.
+
+90
+00:03:46,000 --> 00:03:48,000
+Ampak kasnej sem pa videl,
+
+91
+00:03:48,000 --> 00:03:51,000
+da je v bistvu lahko zelo dober tool.
+
+92
+00:03:51,000 --> 00:03:53,000
+Z nekimi prednostmi.
+
+93
+00:03:53,000 --> 00:03:55,000
+Sploh pač v nekem browser space-u
+
+94
+00:03:55,000 --> 00:03:57,000
+je bilo to eden redkih načinov,
+
+95
+00:03:57,000 --> 00:04:01,000
+da si lahko aplikacijo hitro prenesi do juzera.
+
+96
+00:04:01,000 --> 00:04:05,000
+In se je rabilo čakati proviženja tosega tega
+
+97
+00:04:05,000 --> 00:04:07,000
+na tisoč računalnikov.
+
+98
+00:04:07,000 --> 00:04:09,000
+Ampak se je stisnil nek update,
+
+99
+00:04:09,000 --> 00:04:11,000
+a pa upload-o file-e na FTP.
+
+100
+00:04:11,000 --> 00:04:14,000
+In se je jih imel čez sekundo,
+
+101
+00:04:14,000 --> 00:04:16,000
+dosah, klajendih.
+
+102
+00:04:16,000 --> 00:04:21,000
+Če govorim, gremo najprej malo o samem jeziku.
+
+103
+00:04:21,000 --> 00:04:25,000
+Javascript, če se identificiraš kot Javascript developer,
+
+104
+00:04:25,000 --> 00:04:28,000
+to bi potem pomenilo, da imaš neko širino.
+
+105
+00:04:28,000 --> 00:04:31,000
+Potem na Javascript ne zgledaš skredno skozi browser,
+
+106
+00:04:31,000 --> 00:04:33,000
+kot front-end developer.
+
+107
+00:04:33,000 --> 00:04:36,000
+Vse si rekel, skozi uro pa to.
+
+108
+00:04:36,000 --> 00:04:41,000
+A je Javascript, a si ga spremu razlagati kot tak
+
+109
+00:04:41,000 --> 00:04:43,000
+general purpose script njezik,
+
+110
+00:04:43,000 --> 00:04:47,000
+ki skaterim boš implementiral neko logiko ali kaj.
+
+111
+00:04:47,000 --> 00:04:51,000
+Pa je browser samo VM ali pa neko ogrodje,
+
+112
+00:04:51,000 --> 00:04:53,000
+kjer tudi z Javascript teče.
+
+113
+00:04:53,000 --> 00:04:56,000
+Pa se mi zdi, da je bil v uršnici izumljen,
+
+114
+00:04:56,000 --> 00:04:58,000
+za to je bil v osnovi nared.
+
+115
+00:04:58,000 --> 00:05:02,000
+To so neki origini tega tehnologije.
+
+116
+00:05:02,000 --> 00:05:07,000
+Pa se mi zdi, da je nekako priraslo to zadevo ali kaj.
+
+117
+00:05:07,000 --> 00:05:12,000
+Danes, ko zdaj vidimo, da Javascript postaje lepilo za vse.
+
+118
+00:05:12,000 --> 00:05:16,000
+Zdi se mi, da je poleg Pythona najbolj proščirena
+
+119
+00:05:16,000 --> 00:05:19,000
+pa najbolj pogosto tehnologija ali kaj.
+
+120
+00:05:19,000 --> 00:05:21,000
+Ja, po moje točno tako kot si rekel.
+
+121
+00:05:21,000 --> 00:05:23,000
+Ta primerava s Pythonom me je ful všeč,
+
+122
+00:05:23,000 --> 00:05:27,000
+zato, ker dolgo časa sem razmišljal o tem.
+
+123
+00:05:27,000 --> 00:05:30,000
+In na neki točki je, saj znao, če jaz sem,
+
+124
+00:05:30,000 --> 00:05:35,000
+da je to Javascript nekaj, kjer lahko zelo hitro
+
+125
+00:05:35,000 --> 00:05:39,000
+integrira še vse jezike noter pač meta native API,
+
+126
+00:05:39,000 --> 00:05:42,000
+tako da se lahko konekta z vsemi stvarmi,
+
+127
+00:05:42,000 --> 00:05:44,000
+ki znajo hitro računati.
+
+128
+00:05:44,000 --> 00:05:47,000
+Vkrati pa ni tako težko napisati vse umestne logike
+
+129
+00:05:47,000 --> 00:05:51,000
+pa pač povezati petih drugih jezikov ali produktov skupaj.
+
+130
+00:05:51,000 --> 00:05:53,000
+Um...
+
+131
+00:05:55,000 --> 00:05:58,000
+Ti si strag by...
+
+132
+00:05:59,000 --> 00:06:00,000
+Ja, no.
+
+133
+00:06:00,000 --> 00:06:02,000
+Pač meni je ful...
+
+134
+00:06:02,000 --> 00:06:04,000
+Izberi, kot da
+
+135
+00:06:04,000 --> 00:06:08,000
+to, da imam browser in Javascript noter kot interpreter,
+
+136
+00:06:08,000 --> 00:06:10,000
+je
+
+137
+00:06:12,000 --> 00:06:15,000
+ful pomembno.
+
+138
+00:06:15,000 --> 00:06:17,000
+Pač je definitivno en velik del
+
+139
+00:06:17,000 --> 00:06:20,000
+in poleg normalno ratal, da je to ratal server-side.
+
+140
+00:06:21,000 --> 00:06:26,000
+In meni je ful bizarno, kaj moj prvi programski jezik je bil Javascript.
+
+141
+00:06:26,000 --> 00:06:29,000
+Zdolj, kaj ti hodaš na elektrotehniko,
+
+142
+00:06:29,000 --> 00:06:34,000
+je Javascript sintaktično bil zelo podoben cejo, pač for looper.
+
+143
+00:06:34,000 --> 00:06:37,000
+To je cejoski for loop, to nima veze z, mislim, jalo.
+
+144
+00:06:37,000 --> 00:06:39,000
+Pač to je cejoski for loop.
+
+145
+00:06:39,000 --> 00:06:44,000
+V Javascriptu bil nekaj 15 let nazaj, pač je zgledal tako kot cejo.
+
+146
+00:06:44,000 --> 00:06:47,000
+In pal te v bistvu malo pripravijo pač na to,
+
+147
+00:06:47,000 --> 00:06:50,000
+kar boš delal v drugem semestru, kot dejansko C.
+
+148
+00:06:51,000 --> 00:06:54,000
+In zakaj so čisto pedagoško to zbrali,
+
+149
+00:06:54,000 --> 00:06:56,000
+pač ni narabeš kompleksnega ideja.
+
+150
+00:06:56,000 --> 00:06:58,000
+Mi smo pač odprli Firefox,
+
+151
+00:06:58,000 --> 00:07:01,000
+pa v podskodi si pač ganjil tisti Javascript,
+
+152
+00:07:01,000 --> 00:07:03,000
+pa sprintal se, pa me vsi repel,
+
+153
+00:07:03,000 --> 00:07:06,000
+pa se je lahko pač uporablil.
+
+154
+00:07:07,000 --> 00:07:08,000
+In pa
+
+155
+00:07:10,000 --> 00:07:13,000
+je nekaj normalno, da je to ratal še,
+
+156
+00:07:13,000 --> 00:07:16,000
+pač se so se naredili back-endji še v nodu,
+
+157
+00:07:16,000 --> 00:07:18,000
+kot to dela na back-endu.
+
+158
+00:07:18,000 --> 00:07:22,000
+Pač Javascript ima kar okej konkurencij model,
+
+159
+00:07:23,000 --> 00:07:27,000
+kar je naprimer pri Pythonu bilo večji problem.
+
+160
+00:07:28,000 --> 00:07:30,000
+Tako da, ja ne vem.
+
+161
+00:07:30,000 --> 00:07:33,000
+Zanimivo me je v bistvu, kako je ta jezik pač zrastel,
+
+162
+00:07:33,000 --> 00:07:34,000
+to kar je ratal.
+
+163
+00:07:34,000 --> 00:07:36,000
+Mislim, da je tudi,
+
+164
+00:07:36,000 --> 00:07:38,000
+jaz imam tudi odčutek, da je
+
+165
+00:07:38,000 --> 00:07:41,000
+veliko manj stvari moraš vedjeti,
+
+166
+00:07:41,000 --> 00:07:43,000
+da lahko nekaj narediš v njemu.
+
+167
+00:07:43,000 --> 00:07:46,000
+A veš, imamo to, nekaj dinamične tipe,
+
+168
+00:07:47,000 --> 00:07:49,000
+ni kompajlerja vzali,
+
+169
+00:07:49,000 --> 00:07:52,000
+ni nekega tega toolinga, ki ga v nekih drugih jezikih narediš,
+
+170
+00:07:52,000 --> 00:07:55,000
+kar pomeni, da je zelo enostavno bilo nekaj začet.
+
+171
+00:07:55,000 --> 00:07:57,000
+Zelo enostavno je vedet, kaj se dogaja,
+
+172
+00:07:57,000 --> 00:07:59,000
+zelo enostavno je prizrat,
+
+173
+00:07:59,000 --> 00:08:02,000
+zelo enostavno je biti projektevno, se strenja v sistem.
+
+174
+00:08:03,000 --> 00:08:05,000
+Pa tudi ta zadeva,
+
+175
+00:08:05,000 --> 00:08:07,000
+pač šipanje v vseh browserih.
+
+176
+00:08:07,000 --> 00:08:09,000
+In to je full powerful,
+
+177
+00:08:09,000 --> 00:08:11,000
+in očitno je konvergeralo v svet,
+
+178
+00:08:11,000 --> 00:08:13,000
+ko imamo pač javascript na browseru,
+
+179
+00:08:13,000 --> 00:08:15,000
+in vsi se ga preko tega očijo.
+
+180
+00:08:17,000 --> 00:08:19,000
+Bi šli potem malo mogoče juz se pogovarjati
+
+181
+00:08:19,000 --> 00:08:23,000
+o svojem teme teh predpostav,
+
+182
+00:08:23,000 --> 00:08:26,000
+da javascript je pač single-threaded
+
+183
+00:08:26,000 --> 00:08:29,000
+in pač kaj so limitationi zrad tega.
+
+184
+00:08:29,000 --> 00:08:32,000
+Pa mogoče je to nekaj taka kritika,
+
+185
+00:08:32,000 --> 00:08:35,000
+ko je prvič, ko se pogovarja s ljudmi,
+
+186
+00:08:35,000 --> 00:08:37,000
+ki nekaj slišijo o javascriptu,
+
+187
+00:08:37,000 --> 00:08:41,000
+za kaj bi mi uporabljali single-threaded model
+
+188
+00:08:41,000 --> 00:08:43,000
+na back-endu recimo,
+
+189
+00:08:43,000 --> 00:08:46,000
+ali pa za kaj je za Boga javascript samo en thread
+
+190
+00:08:46,000 --> 00:08:48,000
+v browserju, ko renderira stvari.
+
+191
+00:08:48,000 --> 00:08:50,000
+A lahko to malo bolj razložiti,
+
+192
+00:08:50,000 --> 00:08:52,000
+da bi ljudje malo bilo dobri.
+
+193
+00:08:52,000 --> 00:08:54,000
+A je to res tak problem,
+
+194
+00:08:54,000 --> 00:08:56,000
+da bi mogli ljudje odgovoriti na to?
+
+195
+00:08:56,000 --> 00:08:58,000
+Ja, mislim, to je ena stvar,
+
+196
+00:08:58,000 --> 00:09:00,000
+ki je zelo hitro sreča,
+
+197
+00:09:00,000 --> 00:09:02,000
+až pa malo, ko začneš s navdom.
+
+198
+00:09:02,000 --> 00:09:04,000
+Liht pred, kot je Andraž rekel,
+
+199
+00:09:04,000 --> 00:09:06,000
+s konkurencijami pa Pythonom
+
+200
+00:09:06,000 --> 00:09:08,000
+če hočeš napisati samo skripto.
+
+201
+00:09:08,000 --> 00:09:11,000
+Zato, ker vse nekak operacije,
+
+202
+00:09:11,000 --> 00:09:13,000
+ki jih šipajo enženi,
+
+203
+00:09:13,000 --> 00:09:15,000
+tako kot al browser ali notepi,
+
+204
+00:09:15,000 --> 00:09:18,000
+so po defoltu vsi asinkroni.
+
+205
+00:09:18,000 --> 00:09:21,000
+To pomeni, da moraš pač daj nek task,
+
+206
+00:09:21,000 --> 00:09:23,000
+ki se bo izdala nekaj druge,
+
+207
+00:09:23,000 --> 00:09:25,000
+in kasneji dobiš nazaj.
+
+208
+00:09:25,000 --> 00:09:27,000
+Hej, opravil sem, gremo naprej.
+
+209
+00:09:27,000 --> 00:09:29,000
+Medtem ti pa vse ostale stvari dela.
+
+210
+00:09:29,000 --> 00:09:33,000
+In jaz sem nekak na to stvar zmeril
+
+211
+00:09:34,000 --> 00:09:36,000
+iz pozitivne strani.
+
+212
+00:09:38,000 --> 00:09:40,000
+Ker naenkrat si ti v enem tredu,
+
+213
+00:09:40,000 --> 00:09:42,000
+ker upravljaš z vso logiko,
+
+214
+00:09:42,000 --> 00:09:44,000
+z vsemi stvarmi, ki se dogaja,
+
+215
+00:09:44,000 --> 00:09:46,000
+hkrati pa veš, da v temu tredu
+
+216
+00:09:46,000 --> 00:09:48,000
+nikoli nimaš pač nekih race conditions,
+
+217
+00:09:48,000 --> 00:09:50,000
+če si jih sam ne postaviš.
+
+218
+00:09:50,000 --> 00:09:53,000
+Ampak zmeraj veš, da če je tukaj ena vrstica,
+
+219
+00:09:53,000 --> 00:09:55,000
+ki nek objekt spreminja,
+
+220
+00:09:55,000 --> 00:09:57,000
+ga ne bo ena, druga stvar ne bo.
+
+221
+00:09:57,000 --> 00:09:59,000
+V bistven čas je eno,
+
+222
+00:09:59,000 --> 00:10:01,000
+ker naenkrat pozabeš na ogromo enih stvari.
+
+223
+00:10:01,000 --> 00:10:03,000
+Ker če bi bil v eziku,
+
+224
+00:10:03,000 --> 00:10:05,000
+primarno dela s tredi,
+
+225
+00:10:05,000 --> 00:10:07,000
+mogoče niso toliko res.
+
+226
+00:10:07,000 --> 00:10:09,000
+Če bi ljudje bolj se suvali,
+
+227
+00:10:09,000 --> 00:10:11,000
+browser experience,
+
+228
+00:10:11,000 --> 00:10:14,000
+če bi multitrading bil v javascriptu,
+
+229
+00:10:14,000 --> 00:10:16,000
+v nek first level season,
+
+230
+00:10:16,000 --> 00:10:18,000
+bi imeli več težav zaradi tega.
+
+231
+00:10:18,000 --> 00:10:20,000
+Ja, po moje.
+
+232
+00:10:20,000 --> 00:10:22,000
+Zato ker je vse ena stvar,
+
+233
+00:10:22,000 --> 00:10:24,000
+ko se mora zavedati,
+
+234
+00:10:24,000 --> 00:10:26,000
+pa to mogoče ni nekaj,
+
+235
+00:10:26,000 --> 00:10:28,000
+če so vse začetniki.
+
+236
+00:10:28,000 --> 00:10:30,000
+Na začetku sploh ukvarajo s tem.
+
+237
+00:10:31,000 --> 00:10:33,000
+Je bila zelo pozitivna.
+
+238
+00:10:33,000 --> 00:10:35,000
+Po drugi strani pa sem videl tudi primere,
+
+239
+00:10:35,000 --> 00:10:37,000
+kjer pa pač je lihto povzročili težave,
+
+240
+00:10:37,000 --> 00:10:41,000
+kjer sem imel neke state-a,
+
+241
+00:10:41,000 --> 00:10:43,000
+pa neke framework-e recimo,
+
+242
+00:10:43,000 --> 00:10:45,000
+ki so se zanašali na spremembe.
+
+243
+00:10:45,000 --> 00:10:47,000
+In so ljudje delali z asinkronno kodo,
+
+244
+00:10:47,000 --> 00:10:49,000
+kot da je sinkronno.
+
+245
+00:10:49,000 --> 00:10:51,000
+In pač sploh niso vedeli,
+
+246
+00:10:51,000 --> 00:10:53,000
+da to tako dela.
+
+247
+00:10:53,000 --> 00:10:55,000
+Da razložiš to malo bolj.
+
+248
+00:10:55,000 --> 00:10:58,000
+Recimo, če imaš ti
+
+249
+00:10:59,000 --> 00:11:01,000
+Angular sploh JS,
+
+250
+00:11:01,000 --> 00:11:03,000
+ki je bil prvo mogoče tako večji framework,
+
+251
+00:11:03,000 --> 00:11:05,000
+ki se je uporabljal,
+
+252
+00:11:05,000 --> 00:11:07,000
+je imel neke svoje načine,
+
+253
+00:11:07,000 --> 00:11:09,000
+da je sledil spremembe,
+
+254
+00:11:09,000 --> 00:11:11,000
+kjer se ti v bistvu mogo
+
+255
+00:11:11,000 --> 00:11:13,000
+vse spremembe
+
+256
+00:11:13,000 --> 00:11:15,000
+sporočiti Angularju,
+
+257
+00:11:15,000 --> 00:11:17,000
+oziroma, da je to nek kontekst,
+
+258
+00:11:17,000 --> 00:11:19,000
+ki ga je Angular preveril.
+
+259
+00:11:19,000 --> 00:11:21,000
+Kaj je to pomenil?
+
+260
+00:11:21,000 --> 00:11:23,000
+Ko si spremenil nek objekt
+
+261
+00:11:23,000 --> 00:11:25,000
+v tej Angularjivi funkciji,
+
+262
+00:11:25,000 --> 00:11:27,000
+pa ki se je ta funkcija do konca izvedla,
+
+263
+00:11:27,000 --> 00:11:29,000
+pa ki je Angular pobral,
+
+264
+00:11:29,000 --> 00:11:31,000
+šel čez vselo drvo,
+
+265
+00:11:31,000 --> 00:11:33,000
+pa čez vse state in update v stvari.
+
+266
+00:11:33,000 --> 00:11:35,000
+Med tem so se lahko,
+
+267
+00:11:35,000 --> 00:11:37,000
+recimo, že neke komponente
+
+268
+00:11:37,000 --> 00:11:39,000
+ali pa moduli,
+
+269
+00:11:39,000 --> 00:11:41,000
+so dobili tiste vrednosti.
+
+270
+00:11:41,000 --> 00:11:43,000
+Kasnej si popravil v istom
+
+271
+00:11:43,000 --> 00:11:45,000
+nekem flavo še en klic,
+
+272
+00:11:45,000 --> 00:11:47,000
+spet updatev te spremembe.
+
+273
+00:11:47,000 --> 00:11:49,000
+Vmes, ka si pa pogledal
+
+274
+00:11:49,000 --> 00:11:51,000
+na nekakšen konzolok,
+
+275
+00:11:51,000 --> 00:11:53,000
+pa si hotel debugat,
+
+276
+00:11:53,000 --> 00:11:55,000
+si dobil različne vrednosti.
+
+277
+00:11:55,000 --> 00:11:57,000
+Konzol je nekaj, kar je bilo tako čisto redo.
+
+278
+00:11:57,000 --> 00:11:59,000
+Med tem, ka si pogledal,
+
+279
+00:11:59,000 --> 00:12:01,000
+zakaj se ti pač se seba,
+
+280
+00:12:01,000 --> 00:12:03,000
+si pa pač nekak zgubil.
+
+281
+00:12:03,000 --> 00:12:05,000
+To ni to mesto.
+
+282
+00:12:07,000 --> 00:12:09,000
+Šoke.
+
+283
+00:12:09,000 --> 00:12:11,000
+Vmes ne vem, kaj vidva delat,
+
+284
+00:12:11,000 --> 00:12:13,000
+ampak jaz kjerkoliv JavaScript framework
+
+285
+00:12:13,000 --> 00:12:15,000
+pogledam, skipnam vse
+
+286
+00:12:15,000 --> 00:12:17,000
+one bonbončke, ki jih prodajajo,
+
+287
+00:12:17,000 --> 00:12:19,000
+pa edina stvar, ko jo pogledam, je tako,
+
+288
+00:12:19,000 --> 00:12:21,000
+ej, life cycle, kako deluje
+
+289
+00:12:21,000 --> 00:12:23,000
+life cycle? Lizera tega,
+
+290
+00:12:23,000 --> 00:12:25,000
+pač če nekaj ne dela,
+
+291
+00:12:25,000 --> 00:12:27,000
+če ti ne razumeš, kaj se dogaja,
+
+292
+00:12:27,000 --> 00:12:29,000
+ali life cycle komponente,
+
+293
+00:12:29,000 --> 00:12:31,000
+ali pač česarkoli,
+
+294
+00:12:31,000 --> 00:12:33,000
+pač pa imaš
+
+295
+00:12:33,000 --> 00:12:35,000
+ful velik problem, kar naenkrat.
+
+296
+00:12:35,000 --> 00:12:37,000
+Jaz bi
+
+297
+00:12:37,000 --> 00:12:39,000
+preden gremo v JavaScript,
+
+298
+00:12:39,000 --> 00:12:41,000
+v
+
+299
+00:12:41,000 --> 00:12:43,000
+framework wars.
+
+300
+00:12:45,000 --> 00:12:47,000
+Še gremo malo bolj v back-end,
+
+301
+00:12:47,000 --> 00:12:49,000
+v back-end.
+
+302
+00:12:49,000 --> 00:12:51,000
+Še gorimo nas plošno, malo jeziko,
+
+303
+00:12:51,000 --> 00:12:53,000
+pa gremo pol v framework wars.
+
+304
+00:12:53,000 --> 00:12:55,000
+Zgotovo bomo mogli
+
+305
+00:12:55,000 --> 00:12:57,000
+izogniti.
+
+306
+00:12:57,000 --> 00:12:59,000
+Pa bom
+
+307
+00:12:59,000 --> 00:13:01,000
+temu tako vprašal,
+
+308
+00:13:01,000 --> 00:13:03,000
+že nekaj časa
+
+309
+00:13:03,000 --> 00:13:05,000
+delaš v JavaScriptu, pač jaz mislim, da
+
+310
+00:13:05,000 --> 00:13:07,000
+deset let saj, še več.
+
+311
+00:13:07,000 --> 00:13:09,000
+In to pomeni, da si že šel čez
+
+312
+00:13:09,000 --> 00:13:11,000
+neke iteracije JavaScripta.
+
+313
+00:13:11,000 --> 00:13:13,000
+In kot
+
+314
+00:13:13,000 --> 00:13:15,000
+language, a imaš občutek,
+
+315
+00:13:15,000 --> 00:13:17,000
+da se ta
+
+316
+00:13:17,000 --> 00:13:19,000
+language hitreje spreminja, se spreminja
+
+317
+00:13:19,000 --> 00:13:21,000
+na boljše.
+
+318
+00:13:21,000 --> 00:13:23,000
+Mislim, me se zdi, da je
+
+319
+00:13:23,000 --> 00:13:25,000
+danes ta jezik postaja
+
+320
+00:13:25,000 --> 00:13:27,000
+vedno bolj tak feature
+
+321
+00:13:27,000 --> 00:13:29,000
+complete, se mi zdi, se mi zdi, da je postaja
+
+322
+00:13:29,000 --> 00:13:31,000
+vedno bolj sodoben, se mi zdi, da je
+
+323
+00:13:31,000 --> 00:13:33,000
+vedno bolj hitreje
+
+324
+00:13:33,000 --> 00:13:35,000
+se spreminja. Če je čas jih leta trajal,
+
+325
+00:13:35,000 --> 00:13:37,000
+da so se določene funkcionalnosti razvile, se mi zdi, da je
+
+326
+00:13:37,000 --> 00:13:39,000
+zdaj kar hitro se stvari spreminjajo.
+
+327
+00:13:39,000 --> 00:13:41,000
+Tudi zaradi tega, ker imamo
+
+328
+00:13:41,000 --> 00:13:43,000
+manj teh browser,
+
+329
+00:13:43,000 --> 00:13:45,000
+eno run-down
+
+330
+00:13:45,000 --> 00:13:47,000
+engine-o za JavaScript.
+
+331
+00:13:47,000 --> 00:13:49,000
+A kaj pa to gledaš?
+
+332
+00:13:49,000 --> 00:13:51,000
+Mogoče še to prej prej namo se
+
+333
+00:13:51,000 --> 00:13:53,000
+prozi. Z 90-ih letih se je
+
+334
+00:13:53,000 --> 00:13:55,000
+ogromno spreminjalo. Največji korak je
+
+335
+00:13:55,000 --> 00:13:57,000
+bil, se mi zdi, z S6.
+
+336
+00:13:57,000 --> 00:13:59,000
+Takrat, to je bilo ne vem koliko,
+
+337
+00:13:59,000 --> 00:14:01,000
+nekaj šest,
+
+338
+00:14:01,000 --> 00:14:03,000
+osem let nazaj, takrat se je
+
+339
+00:14:03,000 --> 00:14:05,000
+naredil, pa moja, tako ogromen
+
+340
+00:14:05,000 --> 00:14:07,000
+preskok v samem
+
+341
+00:14:07,000 --> 00:14:09,000
+komunitiju, pa tudi delvalje, kada se
+
+342
+00:14:09,000 --> 00:14:11,000
+nekak zbudu tisto odbor,
+
+343
+00:14:11,000 --> 00:14:13,000
+ko upravlja zapravo ta
+
+344
+00:14:13,000 --> 00:14:15,000
+committee, ko upravlja z
+
+345
+00:14:15,000 --> 00:14:17,000
+JavaScript standardom.
+
+346
+00:14:17,000 --> 00:14:19,000
+In od takrat
+
+347
+00:14:19,000 --> 00:14:21,000
+se mi zdi, pač vsako leto pride
+
+348
+00:14:21,000 --> 00:14:23,000
+new release, kjer dobiš nove
+
+349
+00:14:23,000 --> 00:14:25,000
+featureje, vkrati pa
+
+350
+00:14:25,000 --> 00:14:27,000
+nekak črpajo inspiracijo,
+
+351
+00:14:27,000 --> 00:14:29,000
+ali pa pač ideje za to
+
+352
+00:14:29,000 --> 00:14:31,000
+iz ogromen različnih
+
+353
+00:14:31,000 --> 00:14:33,000
+jezikov. Zapravo, feeling,
+
+354
+00:14:33,000 --> 00:14:35,000
+ko ga imam, je, da poberajo
+
+355
+00:14:35,000 --> 00:14:37,000
+najboljše od vsega.
+
+356
+00:14:37,000 --> 00:14:39,000
+Maš pa tudi bolj kritiko,
+
+357
+00:14:39,000 --> 00:14:41,000
+kaj sploh je
+
+358
+00:14:41,000 --> 00:14:43,000
+ta jezik, če zdaj vse
+
+359
+00:14:43,000 --> 00:14:45,000
+je to sploh še,
+
+360
+00:14:45,000 --> 00:14:47,000
+a ne bo tega preveč in bo pač
+
+361
+00:14:47,000 --> 00:14:49,000
+prosto uplotat
+
+362
+00:14:49,000 --> 00:14:51,000
+in pa ne uporabljeno. Ampak trenutno se
+
+363
+00:14:51,000 --> 00:14:53,000
+mi zdi, da se v razviju
+
+364
+00:14:53,000 --> 00:14:55,000
+kar upravo smer. Eno od dobrih
+
+365
+00:14:55,000 --> 00:14:57,000
+stvari je pa, da se backward
+
+366
+00:14:57,000 --> 00:14:59,000
+compatible, zapravo različnik
+
+367
+00:14:59,000 --> 00:15:01,000
+jih prav zarapijo, sam jezik pač
+
+368
+00:15:01,000 --> 00:15:03,000
+je stabilen. Še zmeri lahko
+
+369
+00:15:03,000 --> 00:15:05,000
+zelo staro kodo
+
+370
+00:15:05,000 --> 00:15:07,000
+zalafaš na trenutno
+
+371
+00:15:07,000 --> 00:15:09,000
+engine-u in bo se delal.
+
+372
+00:15:09,000 --> 00:15:11,000
+To je bilo tudi
+
+373
+00:15:11,000 --> 00:15:13,000
+tista stvar, ki je mogoče
+
+374
+00:15:13,000 --> 00:15:15,000
+prispevala teg popularnosti,
+
+375
+00:15:15,000 --> 00:15:17,000
+ker nisi rabil kar neenkrat.
+
+376
+00:15:17,000 --> 00:15:19,000
+A zdaj imamo pa nov
+
+377
+00:15:19,000 --> 00:15:21,000
+spec jezika, zdaj se bomo pa kregali,
+
+378
+00:15:21,000 --> 00:15:23,000
+bomo migrerali ali bomo kar
+
+379
+00:15:23,000 --> 00:15:25,000
+ostali na zadnjem menedžerju.
+
+380
+00:15:25,000 --> 00:15:27,000
+In je pa tudi
+
+381
+00:15:27,000 --> 00:15:29,000
+lažje nekako za začetnike, ker
+
+382
+00:15:29,000 --> 00:15:31,000
+tiste tutoriali, čeprav so
+
+383
+00:15:31,000 --> 00:15:33,000
+mogoče zastareli, še zmeri
+
+384
+00:15:33,000 --> 00:15:35,000
+delujo, nikoli ne pridaš.
+
+385
+00:15:35,000 --> 00:15:37,000
+Saj v
+
+386
+00:15:37,000 --> 00:15:39,000
+osnovnih delih jezika
+
+387
+00:15:39,000 --> 00:15:41,000
+dostvori, ki ti zdaj ne bi več lahkala,
+
+388
+00:15:41,000 --> 00:15:43,000
+pa je pet let nazaj lahkala.
+
+389
+00:15:43,000 --> 00:15:45,000
+Zato je mogoče za začetnike
+
+390
+00:15:45,000 --> 00:15:47,000
+iz tega tudi lažje.
+
+391
+00:15:47,000 --> 00:15:49,000
+Eno polovalo
+
+392
+00:15:49,000 --> 00:15:51,000
+vprašanje,
+
+393
+00:15:51,000 --> 00:15:53,000
+zdaj, ker se je toliko stvari
+
+394
+00:15:53,000 --> 00:15:55,000
+spremenil, pač
+
+395
+00:15:55,000 --> 00:15:57,000
+jaz sem znal JavaScript,
+
+396
+00:15:57,000 --> 00:15:59,000
+in potem ga dam na CV, in potem ga
+
+397
+00:15:59,000 --> 00:16:01,000
+odstranjam iz CV-ja, in ga dodam na CV,
+
+398
+00:16:01,000 --> 00:16:03,000
+in ga odstranjam iz CV-ja.
+
+399
+00:16:03,000 --> 00:16:05,000
+Kaj se pač najnosebno se,
+
+400
+00:16:05,000 --> 00:16:07,000
+če se ne spremeni samo kor jezika,
+
+401
+00:16:07,000 --> 00:16:09,000
+da se spremeni, kako
+
+402
+00:16:09,000 --> 00:16:11,000
+programeramo v njem?
+
+403
+00:16:11,000 --> 00:16:13,000
+In pač moje vprašanje bi bilo,
+
+404
+00:16:13,000 --> 00:16:15,000
+se vem, da je malo čudno vprašanje, ampak,
+
+405
+00:16:15,000 --> 00:16:17,000
+a rab JavaScript ko?
+
+406
+00:16:17,000 --> 00:16:19,000
+Strict mode 2,
+
+407
+00:16:19,000 --> 00:16:21,000
+da pač ti rečeš, ok,
+
+408
+00:16:23,000 --> 00:16:25,000
+mi ne delamo več, tako, ne itereramo
+
+409
+00:16:25,000 --> 00:16:27,000
+več, čez, ne vem, areje na ta način,
+
+410
+00:16:27,000 --> 00:16:29,000
+pač
+
+411
+00:16:29,000 --> 00:16:31,000
+zdaj imamo ta strict mode 2, in če
+
+412
+00:16:31,000 --> 00:16:33,000
+daš odskori you strict mode 2
+
+413
+00:16:33,000 --> 00:16:35,000
+podpičje, pač boš
+
+414
+00:16:35,000 --> 00:16:37,000
+dobil pač warninke, ali pa pač
+
+415
+00:16:37,000 --> 00:16:39,000
+direkt error, če boš uporabljal te stvari,
+
+416
+00:16:39,000 --> 00:16:41,000
+oziroma,
+
+417
+00:16:41,000 --> 00:16:43,000
+v bistvu vprašanje je,
+
+418
+00:16:43,000 --> 00:16:45,000
+a bo pa ta strict mode 2
+
+419
+00:16:45,000 --> 00:16:47,000
+nek limited
+
+420
+00:16:47,000 --> 00:16:49,000
+typescript, kaj se bo lahko že kar
+
+421
+00:16:49,000 --> 00:16:51,000
+v browserih, ali pač kaj se bo
+
+422
+00:16:51,000 --> 00:16:53,000
+točno dogajal?
+
+423
+00:16:53,000 --> 00:16:55,000
+Ja,
+
+424
+00:16:55,000 --> 00:16:57,000
+zdaj,
+
+425
+00:16:57,000 --> 00:16:59,000
+ta stvar z backward
+
+426
+00:16:59,000 --> 00:17:01,000
+compatibilitem, te stvari,
+
+427
+00:17:01,000 --> 00:17:03,000
+je ne breaker,
+
+428
+00:17:03,000 --> 00:17:05,000
+je lahko samo mogoče nek progression,
+
+429
+00:17:05,000 --> 00:17:07,000
+ker se pač odstranjujejo
+
+430
+00:17:07,000 --> 00:17:09,000
+mogoče slabše del jezika,
+
+431
+00:17:09,000 --> 00:17:11,000
+pa del jezika, ki
+
+432
+00:17:11,000 --> 00:17:13,000
+ne mogoče engine-om dobiti hitri.
+
+433
+00:17:13,000 --> 00:17:15,000
+Tako da, če to pomeni, da ne boš
+
+434
+00:17:15,000 --> 00:17:17,000
+mogu nekih globalnih spremenljivk, brez
+
+435
+00:17:17,000 --> 00:17:19,000
+da jih nekjer inicializiraš, a pa
+
+436
+00:17:19,000 --> 00:17:21,000
+deferiraš, uporabljat
+
+437
+00:17:21,000 --> 00:17:23,000
+je ta stvar, kaj popačla.
+
+438
+00:17:23,000 --> 00:17:25,000
+Metem, kar sam stile, pa pa
+
+439
+00:17:25,000 --> 00:17:27,000
+nekaj, ker se mi zdi, da se ekipe,
+
+440
+00:17:27,000 --> 00:17:29,000
+a pa podjetje odločajo,
+
+441
+00:17:29,000 --> 00:17:31,000
+kontrola, kaj imajo.
+
+442
+00:17:31,000 --> 00:17:33,000
+Ja, jaz mislim, da še vedno lahko
+
+443
+00:17:33,000 --> 00:17:35,000
+postoji štalo skript v CV-ja.
+
+444
+00:17:35,000 --> 00:17:37,000
+A se ti zdi?
+
+445
+00:17:37,000 --> 00:17:39,000
+Meni se pa ne zdi.
+
+446
+00:17:39,000 --> 00:17:41,000
+Jaz mislim, da, da.
+
+447
+00:17:41,000 --> 00:17:43,000
+Moram jaz za jezik vsake
+
+448
+00:17:43,000 --> 00:17:45,000
+par let
+
+449
+00:17:45,000 --> 00:17:47,000
+pogledat, kako
+
+450
+00:17:47,000 --> 00:17:49,000
+pač osnovne stvari, kako pač
+
+451
+00:17:49,000 --> 00:17:51,000
+nekaj lupat.
+
+452
+00:17:51,000 --> 00:17:53,000
+Ampak se, mislim, da
+
+453
+00:17:53,000 --> 00:17:55,000
+koncept lupanja,
+
+454
+00:17:55,000 --> 00:17:57,000
+sprehajanja po nekem
+
+455
+00:17:57,000 --> 00:17:59,000
+setu, česa,
+
+456
+00:17:59,000 --> 00:18:01,000
+še vedno deluje in
+
+457
+00:18:01,000 --> 00:18:03,000
+stavlja v novi načini.
+
+458
+00:18:03,000 --> 00:18:05,000
+Meni se zdi tako, da je to res tako
+
+459
+00:18:05,000 --> 00:18:07,000
+jezik, ki ga jaz ful pozabljam.
+
+460
+00:18:07,000 --> 00:18:09,000
+Mogoče zato, ker
+
+461
+00:18:09,000 --> 00:18:11,000
+nekaj je sam jezik,
+
+462
+00:18:11,000 --> 00:18:13,000
+nekaj pa boljše vse ostalo, to, kaj pač
+
+463
+00:18:13,000 --> 00:18:15,000
+Klemen rekel, kaj pride ta
+
+464
+00:18:15,000 --> 00:18:17,000
+browser del.
+
+465
+00:18:17,000 --> 00:18:19,000
+Ne vem, pač stvari so
+
+466
+00:18:19,000 --> 00:18:21,000
+se tako res ful
+
+467
+00:18:21,000 --> 00:18:23,000
+spreminjajo.
+
+468
+00:18:23,000 --> 00:18:25,000
+Da vama ne bomo odpelo
+
+469
+00:18:25,000 --> 00:18:27,000
+konversacije na framework, ampak ne vem.
+
+470
+00:18:27,000 --> 00:18:29,000
+Pač jaz sem prvi app,
+
+471
+00:18:29,000 --> 00:18:31,000
+kaj sem napisal v React, to je bil
+
+472
+00:18:31,000 --> 00:18:33,000
+2014, to je,
+
+473
+00:18:33,000 --> 00:18:35,000
+kaj je prišel React 1,
+
+474
+00:18:35,000 --> 00:18:37,000
+kaj jaz zdaj pogledam v React hooke,
+
+475
+00:18:37,000 --> 00:18:39,000
+sem tako, zakaj je to
+
+476
+00:18:39,000 --> 00:18:41,000
+dobra ideja?
+
+477
+00:18:41,000 --> 00:18:43,000
+Ne sej razumem, da je pač
+
+478
+00:18:43,000 --> 00:18:45,000
+powerful koncept, ampak
+
+479
+00:18:45,000 --> 00:18:47,000
+moje znanje nima pač veze.
+
+480
+00:18:47,000 --> 00:18:49,000
+Pač, ok, ja, znam
+
+481
+00:18:49,000 --> 00:18:51,000
+JSX, o, pa znam, ampak
+
+482
+00:18:51,000 --> 00:18:53,000
+lifecycle.
+
+483
+00:18:53,000 --> 00:18:55,000
+Ampak, ne vem, no.
+
+484
+00:18:55,000 --> 00:18:57,000
+Ne vem, če bi imel to napisan,
+
+485
+00:18:57,000 --> 00:18:59,000
+kaj bi si videl.
+
+486
+00:18:59,000 --> 00:19:01,000
+Meni se zdi, da te osnovne koncepti
+
+487
+00:19:01,000 --> 00:19:03,000
+so še zmer isti, mogoče kdaj
+
+488
+00:19:03,000 --> 00:19:05,000
+kakšna stvar drgačne pišeš,
+
+489
+00:19:05,000 --> 00:19:07,000
+ampak krajše, ampak nekako
+
+490
+00:19:07,000 --> 00:19:09,000
+te mentalne modeli,
+
+491
+00:19:09,000 --> 00:19:11,000
+ko si jih sestaveš o jeziku,
+
+492
+00:19:11,000 --> 00:19:13,000
+še zmer je apply-o približen isto, še zmer je
+
+493
+00:19:13,000 --> 00:19:15,000
+vse nekak objekt,
+
+494
+00:19:15,000 --> 00:19:17,000
+funkcije so še zmer
+
+495
+00:19:17,000 --> 00:19:19,000
+lahko spremenljivke.
+
+496
+00:19:19,000 --> 00:19:21,000
+Pač kaj, async, call je še zmer
+
+497
+00:19:21,000 --> 00:19:23,000
+samo promise?
+
+498
+00:19:23,000 --> 00:19:25,000
+Ja, ja, async pa promise,
+
+499
+00:19:25,000 --> 00:19:27,000
+to je isa stvar, to je bil tako tudi preskok,
+
+500
+00:19:27,000 --> 00:19:29,000
+v bistvu iz callbackov
+
+501
+00:19:29,000 --> 00:19:31,000
+na async je bila pač
+
+502
+00:19:31,000 --> 00:19:33,000
+ogromna stvar. Zroma na promise
+
+503
+00:19:33,000 --> 00:19:35,000
+pa pal kasneji na async, ker so
+
+504
+00:19:35,000 --> 00:19:37,000
+gotovili, da
+
+505
+00:19:37,000 --> 00:19:39,000
+z problem, ko so ga rešvali
+
+506
+00:19:39,000 --> 00:19:41,000
+z promise
+
+507
+00:19:41,000 --> 00:19:43,000
+iz callbackov
+
+508
+00:19:43,000 --> 00:19:45,000
+je ostal čist isti,
+
+509
+00:19:45,000 --> 00:19:47,000
+samo drgače napisal in pal
+
+510
+00:19:47,000 --> 00:19:49,000
+async je pa dejansko spremenil
+
+511
+00:19:49,000 --> 00:19:51,000
+to, kako lahko pa to mogoče
+
+512
+00:19:51,000 --> 00:19:53,000
+drgače formirati,
+
+513
+00:19:53,000 --> 00:19:55,000
+da je to bolj pregledno.
+
+514
+00:19:55,000 --> 00:19:57,000
+Ja, te lahko tu meni sprašam,
+
+515
+00:19:57,000 --> 00:19:59,000
+kako se bo, če je tak
+
+516
+00:19:59,000 --> 00:20:01,000
+razpon znanja
+
+517
+00:20:01,000 --> 00:20:03,000
+pa tudi starosti
+
+518
+00:20:03,000 --> 00:20:05,000
+tehnologije, kako prepoznaš
+
+519
+00:20:05,000 --> 00:20:07,000
+junior javascript developer
+
+520
+00:20:07,000 --> 00:20:09,000
+pa senior javascript developer
+
+521
+00:20:09,000 --> 00:20:11,000
+pa mid, mislim, kje
+
+522
+00:20:11,000 --> 00:20:13,000
+kje ti pa postaviš,
+
+523
+00:20:13,000 --> 00:20:15,000
+oh, ta pa je res dober.
+
+524
+00:20:15,000 --> 00:20:17,000
+A to pomeni, da gledaš, recimo ne vem,
+
+525
+00:20:17,000 --> 00:20:19,000
+nivo stil kode,
+
+526
+00:20:19,000 --> 00:20:21,000
+znanje API-o ali
+
+527
+00:20:21,000 --> 00:20:23,000
+če je jezik.
+
+528
+00:20:23,000 --> 00:20:25,000
+Velikrat vprašanja, ki jih postavlja,
+
+529
+00:20:25,000 --> 00:20:27,000
+to nekako
+
+530
+00:20:27,000 --> 00:20:29,000
+pokaže, na kaj vse so že
+
+531
+00:20:29,000 --> 00:20:31,000
+v preteklosti naleteli, pa nekako,
+
+532
+00:20:31,000 --> 00:20:33,000
+če so se bojijo.
+
+533
+00:20:33,000 --> 00:20:35,000
+Tukaj, v prihodnosti je zveoma, na kaj so
+
+534
+00:20:35,000 --> 00:20:37,000
+pozorni.
+
+535
+00:20:37,000 --> 00:20:39,000
+Vkrati bi rekel, da
+
+536
+00:20:39,000 --> 00:20:41,000
+to, da poznaš
+
+537
+00:20:41,000 --> 00:20:43,000
+nek trenuten status jezika
+
+538
+00:20:43,000 --> 00:20:45,000
+tudi odraža to, koliko
+
+539
+00:20:45,000 --> 00:20:47,000
+te jezike zanima,
+
+540
+00:20:47,000 --> 00:20:49,000
+to, kar delaš, nekako zanima.
+
+541
+00:20:49,000 --> 00:20:51,000
+In večina ljudi, ki so,
+
+542
+00:20:51,000 --> 00:20:53,000
+recimo si naredko, kaj si rekel,
+
+543
+00:20:53,000 --> 00:20:55,000
+so
+
+544
+00:20:55,000 --> 00:20:57,000
+stali v tem spajsu, kjer jih vse to
+
+545
+00:20:57,000 --> 00:20:59,000
+še zmeri zanima. Če jih ne bi
+
+546
+00:20:59,000 --> 00:21:01,000
+zanima, bi verjetno počeli
+
+547
+00:21:01,000 --> 00:21:03,000
+že nekaj drugega.
+
+548
+00:21:03,000 --> 00:21:05,000
+Tako da to je.
+
+549
+00:21:05,000 --> 00:21:07,000
+Ampak je to zanimivo tudi na
+
+550
+00:21:07,000 --> 00:21:09,000
+intervjujih prezačetnikih,
+
+551
+00:21:09,000 --> 00:21:11,000
+a pa v džunjarjih
+
+552
+00:21:11,000 --> 00:21:13,000
+zelo vidiš vplev
+
+553
+00:21:13,000 --> 00:21:15,000
+nekako njihova podjetja pa
+
+554
+00:21:15,000 --> 00:21:17,000
+ekipev, kjer jih so delali. Vsi,
+
+555
+00:21:17,000 --> 00:21:19,000
+večina teh stilov pisanja
+
+556
+00:21:19,000 --> 00:21:21,000
+pride iz ekipe,
+
+557
+00:21:21,000 --> 00:21:23,000
+kjer so bili.
+
+558
+00:21:23,000 --> 00:21:25,000
+In pa ena stvar, ki
+
+559
+00:21:25,000 --> 00:21:27,000
+je mogoče verjetno intervjuj, naredim.
+
+560
+00:21:27,000 --> 00:21:29,000
+Če imamo nek kodexercise,
+
+561
+00:21:29,000 --> 00:21:31,000
+pa nekdo napiše neke,
+
+562
+00:21:31,000 --> 00:21:33,000
+kar bi mogoče lahko kretero kot strnačen.
+
+563
+00:21:35,000 --> 00:21:37,000
+Prosim
+
+564
+00:21:37,000 --> 00:21:39,000
+pa če sebe na drugi strani, da
+
+565
+00:21:39,000 --> 00:21:41,000
+mogoče pogledam dokumentacijo,
+
+566
+00:21:41,000 --> 00:21:43,000
+pa vem, jaz bi pa to rešil s to funkcijo,
+
+567
+00:21:43,000 --> 00:21:45,000
+da lahko
+
+568
+00:21:45,000 --> 00:21:47,000
+prav bez to funkcijo rešiti uporab Google,
+
+569
+00:21:47,000 --> 00:21:49,000
+ker to je ena stvar,
+
+570
+00:21:49,000 --> 00:21:51,000
+ki se mi je zelo pomembno na intervjujih,
+
+571
+00:21:51,000 --> 00:21:53,000
+je, da ne preprečaš
+
+572
+00:21:53,000 --> 00:21:55,000
+človeka uporabe Google.
+
+573
+00:21:55,000 --> 00:21:57,000
+Ker pa,
+
+574
+00:21:57,000 --> 00:21:59,000
+če to uporabljaš tudi vsak dan.
+
+575
+00:21:59,000 --> 00:22:01,000
+In velikrat je ta skill Googlenja
+
+576
+00:22:01,000 --> 00:22:03,000
+lahko še več
+
+577
+00:22:03,000 --> 00:22:05,000
+vredam, kar pač nekaj trenutno znane.
+
+578
+00:22:05,000 --> 00:22:07,000
+Tako da pa vidiš
+
+579
+00:22:07,000 --> 00:22:09,000
+v bistvu, če nekdo zna prevrati
+
+580
+00:22:09,000 --> 00:22:11,000
+dokumentacijo,
+
+581
+00:22:11,000 --> 00:22:13,000
+pa nekaj narediti iz tega,
+
+582
+00:22:13,000 --> 00:22:15,000
+koliko hitro si tudi zna formirati pač
+
+583
+00:22:15,000 --> 00:22:17,000
+nek model tega,
+
+584
+00:22:17,000 --> 00:22:19,000
+ki ga uporabljaš.
+
+585
+00:22:19,000 --> 00:22:21,000
+Eno tako zadevo se mi zdi,
+
+586
+00:22:21,000 --> 00:22:23,000
+predvsem je zanimivo s JavaScriptom,
+
+587
+00:22:23,000 --> 00:22:25,000
+je, da, če premerjamo
+
+588
+00:22:25,000 --> 00:22:27,000
+z nekim drugim jezikim,
+
+589
+00:22:27,000 --> 00:22:29,000
+ma zelo
+
+590
+00:22:29,000 --> 00:22:31,000
+ni mali, ali pa zelo
+
+591
+00:22:31,000 --> 00:22:33,000
+enostavno, ali pa zelo pletvi
+
+592
+00:22:33,000 --> 00:22:35,000
+ta standardni
+
+593
+00:22:35,000 --> 00:22:37,000
+library, standardni
+
+594
+00:22:37,000 --> 00:22:39,000
+nabor funkcij, ki pridejo
+
+595
+00:22:39,000 --> 00:22:41,000
+na jezika samega.
+
+596
+00:22:41,000 --> 00:22:43,000
+Gorimo o jeziko spet.
+
+597
+00:22:43,000 --> 00:22:45,000
+Če pogledamo, Python ima ful velik
+
+598
+00:22:45,000 --> 00:22:47,000
+standard library, Ruby ima ful velik standard library,
+
+599
+00:22:47,000 --> 00:22:49,000
+JavaScript pa tega nima.
+
+600
+00:22:49,000 --> 00:22:51,000
+In se mi zdi, da zaradi tega
+
+601
+00:22:51,000 --> 00:22:53,000
+smo videli v preteklosti zelo velik
+
+602
+00:22:53,000 --> 00:22:55,000
+library, v kjer so vrstnici
+
+603
+00:22:55,000 --> 00:22:57,000
+dopolnali ta standard set.
+
+604
+00:22:59,000 --> 00:23:01,000
+Kako to viš? Zdi, da je to
+
+605
+00:23:01,000 --> 00:23:03,000
+bilo dobro za sam jezik ali slabo?
+
+606
+00:23:03,000 --> 00:23:05,000
+Jaz bi rekel, da je
+
+607
+00:23:05,000 --> 00:23:07,000
+bilo dobro.
+
+608
+00:23:07,000 --> 00:23:09,000
+Že v osnovi,
+
+609
+00:23:09,000 --> 00:23:11,000
+zakaj je dobro, da je majhen
+
+610
+00:23:11,000 --> 00:23:13,000
+standard, je to, da
+
+611
+00:23:13,000 --> 00:23:15,000
+lahko zaradi tega teče
+
+612
+00:23:15,000 --> 00:23:17,000
+v veliko različnih okolji
+
+613
+00:23:17,000 --> 00:23:19,000
+in pa to novo okolje
+
+614
+00:23:19,000 --> 00:23:21,000
+ne more postaviti,
+
+615
+00:23:21,000 --> 00:23:23,000
+a pa pokriti ogromnega dela
+
+616
+00:23:23,000 --> 00:23:25,000
+standardnega library, ampak lahko ostane
+
+617
+00:23:25,000 --> 00:23:27,000
+v zelo majhnem delu in pa glede na namen,
+
+618
+00:23:27,000 --> 00:23:29,000
+kaj ga ima to okolje, lahko dodaješ.
+
+619
+00:23:29,000 --> 00:23:31,000
+Recimo, če bi imel v
+
+620
+00:23:31,000 --> 00:23:33,000
+standardu vse stvari, kaj jih
+
+621
+00:23:33,000 --> 00:23:35,000
+browser doda, bi to
+
+622
+00:23:35,000 --> 00:23:37,000
+pomenel, da
+
+623
+00:23:37,000 --> 00:23:39,000
+bi ta jezik na back-endu
+
+624
+00:23:39,000 --> 00:23:41,000
+mogoče ali drugač zgledal,
+
+625
+00:23:41,000 --> 00:23:43,000
+ali pa drugač delal
+
+626
+00:23:43,000 --> 00:23:45,000
+ljudem. Zelo težko
+
+627
+00:23:45,000 --> 00:23:47,000
+bi bilo šipati, recimo.
+
+628
+00:23:47,000 --> 00:23:49,000
+Potem to pravo razloga, da zaradi tega,
+
+629
+00:23:49,000 --> 00:23:51,000
+kjer so želeli to jadro narediti zelo
+
+630
+00:23:51,000 --> 00:23:53,000
+prenosljivo, je zaradi tega ni nekega
+
+631
+00:23:53,000 --> 00:23:55,000
+večjega standardnega library.
+
+632
+00:23:55,000 --> 00:23:57,000
+Je to pravo.
+
+633
+00:23:57,000 --> 00:23:59,000
+Jaz sem to pravo pozel.
+
+634
+00:23:59,000 --> 00:24:01,000
+Mogoče, ja. Jaz bi rekel, da
+
+635
+00:24:01,000 --> 00:24:03,000
+...
+
+636
+00:24:03,000 --> 00:24:05,000
+Začetki ...
+
+637
+00:24:05,000 --> 00:24:07,000
+Mislim, JavaScript je zelo
+
+638
+00:24:07,000 --> 00:24:09,000
+jezik, ki ima standard,
+
+639
+00:24:09,000 --> 00:24:11,000
+pa ki ga potem implementiraš.
+
+640
+00:24:11,000 --> 00:24:13,000
+In potem se mi zdi, da je tam premislek
+
+641
+00:24:13,000 --> 00:24:15,000
+predvsej drugačen, kukor
+
+642
+00:24:15,000 --> 00:24:17,000
+recimo Python je jezik, ki je definiran
+
+643
+00:24:17,000 --> 00:24:19,000
+svojo implementacijo,
+
+644
+00:24:19,000 --> 00:24:21,000
+zato je pač tak problem
+
+645
+00:24:21,000 --> 00:24:23,000
+napisati kakr še enkoli drug
+
+646
+00:24:23,000 --> 00:24:25,000
+interpreter, ki ni si Python.
+
+647
+00:24:25,000 --> 00:24:27,000
+In potem v bistvu se nazaj štuka,
+
+648
+00:24:27,000 --> 00:24:29,000
+da se bere implementacijo, pa se
+
+649
+00:24:29,000 --> 00:24:31,000
+proba usmiseliti to.
+
+650
+00:24:31,000 --> 00:24:33,000
+In potem imaš pač
+
+651
+00:24:33,000 --> 00:24:35,000
+vsaj drugi tred opiso.
+
+652
+00:24:35,000 --> 00:24:37,000
+In ...
+
+653
+00:24:37,000 --> 00:24:39,000
+Ja. Po mojem je to dejansko
+
+654
+00:24:39,000 --> 00:24:41,000
+dober razlog. Če hočeš pač imeti
+
+655
+00:24:41,000 --> 00:24:43,000
+več neodvisnih interpreterjev,
+
+656
+00:24:43,000 --> 00:24:45,000
+pa engine-ov, pač potem hočeš imeti
+
+657
+00:24:45,000 --> 00:24:47,000
+jezik, ki je
+
+658
+00:24:47,000 --> 00:24:49,000
+dobro definiran, kar JavaScript je.
+
+659
+00:24:49,000 --> 00:24:51,000
+Ene stvari so ful čudne
+
+660
+00:24:51,000 --> 00:24:53,000
+noter v definicijah,
+
+661
+00:24:53,000 --> 00:24:55,000
+razne komperije so nekaj večje,
+
+662
+00:24:55,000 --> 00:24:57,000
+manjše.
+
+663
+00:24:57,000 --> 00:24:59,000
+Ampak ...
+
+664
+00:24:59,000 --> 00:25:01,000
+Ja.
+
+665
+00:25:00,000 --> 00:25:10,000
+Je pa deterministično. Če bi zdaj implementiral cel jezik ali pa subset standarda, pa bi to lahko naredil dost simpel.
+
+666
+00:25:11,000 --> 00:25:20,000
+Todišnje, ko vidimo včasih, ko folk šteja, se šteje skupaj. String plus nič pa false pa true.
+
+667
+00:25:20,000 --> 00:25:31,000
+Vidiš polno teh, ne bi rekel puzzlev, ampak tih, kaj so to, nekih snippetik, ko ljudje hoče... Mindblowers. Mindblowers, ja.
+
+668
+00:25:32,000 --> 00:25:41,000
+Kaj bi to argumentiral? Za kaj to vidimo? Ljudje se mi zdi, da to šajrajo, pa delajo te egzemple, zato ker hočejo pokazati, wow, shit jezik.
+
+669
+00:25:41,000 --> 00:25:57,000
+To ali pa komičen aspekt. Kaj misliš? Zdaj se mi zdi, da so to taki brobni premere, a to dejansko se ti zdi, da vidiš to v nekih produkcijskih kodih, ker jaz nimam počutka, da...
+
+670
+00:25:58,000 --> 00:26:09,000
+Tako je težave, ko vidiš v produkcijskih kodih, če je vsega zelo nova jezika, po drugi strani pa to, da obstaja tip, da povih nekih drugih plusov,
+
+671
+00:26:09,000 --> 00:26:19,000
+ki so to, da lahko v IV daš nek objekt in bo ta stvar zdaj veda, je to null ali je ta undefined ali pa to dejanska neka truti vrednost.
+
+672
+00:26:19,000 --> 00:26:29,000
+In zdaj, če bi gledal kjerkoli drug jezik, a pa večino njih ponavatne primerjaš, stringa pa številke, oziroma dobiš kompajler error,
+
+673
+00:26:29,000 --> 00:26:39,000
+tukaj pa namesto kompajler errora dobiš pač neko zelo osicerno povedano pa deterministično stanje, samo mogoče se ga ne zavedaš ali pa ni tako očitno.
+
+674
+00:26:39,000 --> 00:26:50,000
+A misliš, da te kajsi, ki jo vidimo, da je sploh namen, da je to odpraviti? Mislim, pač taki je jezik, tako bo ostalo.
+
+675
+00:26:50,000 --> 00:26:51,000
+Tako je v speklu.
+
+676
+00:26:51,000 --> 00:26:52,000
+Tako je v speklu, ja.
+
+677
+00:26:52,000 --> 00:27:03,000
+Dejansko je ful natančno determineran, kaj se zgodi, če ti različne quotes, tipe med sabo komperaš.
+
+678
+00:27:03,000 --> 00:27:14,000
+V speklu noti piše, če imaš ti prazen objekt, a je to večje od nana. To ne piše noto standardov. Dejansko je to determineran.
+
+679
+00:27:14,000 --> 00:27:30,000
+Zdaj, men, jaz imam s tem ful velike probleme, ko sem quote opisal. Če slučajno dobiš drug tip, ki ga misliš, pač stvar ne eksplodira v večini in pa imaš lahko neke čudne stvari.
+
+680
+00:27:30,000 --> 00:27:37,000
+Ali pa greš v drug kajs, pa vidiš premere, ko ljudje vedno čekirajo. Dodatni gardi, dodasne poverjanja.
+
+681
+00:27:37,000 --> 00:27:38,000
+To je pa druga stvar.
+
+682
+00:27:38,000 --> 00:27:39,000
+To je po drugih stremah.
+
+683
+00:27:39,000 --> 00:27:47,000
+Ful imaš tega, se pale tudi teh celkop helper knjižnic ti pomaga, kaj ti reče, ej, a to res ni to.
+
+684
+00:27:48,000 --> 00:27:59,000
+In potem imaš v enemu jih pogoju, če hočeš pač pogledat, če nekaj, bi mogoče v drugem jeziku bil to en conditional.
+
+685
+00:27:59,000 --> 00:28:03,000
+V JavaScriptu imaš pa doskrat, pač, jih net malo več, da pokrijaš tisto, kar res hočeš.
+
+686
+00:28:03,000 --> 00:28:12,000
+In potem, če si tako porabnik jezika, kot kar sem jaz, pač nisem sto procentno v JavaScript, pač meni to precej težko.
+
+687
+00:28:12,000 --> 00:28:19,000
+In potem na projektih bom rabil, ne vem, mesec, dva, pač pa par krati.
+
+688
+00:28:19,000 --> 00:28:23,000
+Mislim, jaz vem, da ta risk obstaja, a pa bom lahko to handlal.
+
+689
+00:28:23,000 --> 00:28:29,000
+Ampak še zmer bom rekel vsegdaj, pač to frustracijo, ki jo ljudje imajo.
+
+690
+00:28:29,000 --> 00:28:34,000
+Čeprav, zdaj pale vprašanja, je to problem jezika ali problem ljudi dnes,
+
+691
+00:28:34,000 --> 00:28:41,000
+ki jemljamo to tako, kaj en izmed jezikov, ki je pač celko popola.
+
+692
+00:28:41,000 --> 00:28:48,000
+Smo zdaj že na tisti točki, kar lahko vprašam nekaj v TypeScript, ali še ne.
+
+693
+00:28:48,000 --> 00:28:54,000
+Kaj, a je tu notri TypeScript nekaj, ki bo pomagal na to? Ljubi na malo izboljšati?
+
+694
+00:28:54,000 --> 00:29:05,000
+Ja, pa ne. Zdaj za en del, ja, ker saj v svoji kodi, pa podatkeh, kajh imaš ti hardkoderane,
+
+695
+00:29:05,000 --> 00:29:09,000
+lahko pa nekako slediš vsem tem tipom, pa ti bo tudi ena stvar rekla,
+
+696
+00:29:09,000 --> 00:29:14,000
+ej, tle si pa naredil nekaj čudnega, pa si zdaj lahko pozoram v to stvar.
+
+697
+00:29:14,000 --> 00:29:20,000
+Po drugi strani pa še zmeri, koliko je JavaScript uporabljen,
+
+698
+00:29:20,000 --> 00:29:25,000
+velikrat pridajo podatke iz neke, se sparsajo, dobiš pa zdaj nek nabar tipov.
+
+699
+00:29:25,000 --> 00:29:36,000
+In če ta del zelo dober zaščitaš, pa narediš razne konverzije, pa preveljno sparsaš,
+
+700
+00:29:36,000 --> 00:29:40,000
+pa se lahko večini teh problemov izognaš.
+
+701
+00:29:40,000 --> 00:29:45,000
+Ko smo prej vse pogovarjali, je, da si se rekel, da se ne direktiraš po JavaScriptu,
+
+702
+00:29:45,000 --> 00:29:50,000
+nič nešto, super termi. Uporabljaš tudi TypeScript?
+
+703
+00:29:50,000 --> 00:29:53,000
+A to pomeni, da pišeš tudi TypeScript, ali ne toliko?
+
+704
+00:29:53,000 --> 00:29:57,000
+Ja, ampak moj rezultat je na konči zmeri JavaScript.
+
+705
+00:29:57,000 --> 00:29:58,000
+Pa se tega zavedaš.
+
+706
+00:29:58,000 --> 00:29:59,000
+Pa se tega zavedaš.
+
+707
+00:29:59,000 --> 00:30:04,000
+To je ful pomembno, pač to bi Klem ne rekel. TypeScript je viš ful typing, se temu reče.
+
+708
+00:30:04,000 --> 00:30:06,000
+Pač dost ljudi bo to uporabljali.
+
+709
+00:30:06,000 --> 00:30:13,000
+Ti si že upozorjen na notacijo v TypeScriptu, ampak nimaš pa dekoderov,
+
+710
+00:30:13,000 --> 00:30:19,000
+pokaj pač v kakšnih drugih jezikih, katedijansko, v runtime-u bi rekel,
+
+711
+00:30:19,000 --> 00:30:26,000
+ej, pač v TypeScriptu nimaš na robih avtomatskih validatorjev za type,
+
+712
+00:30:26,000 --> 00:30:29,000
+ki so definirani. So neki projekti, jaz sem jih malo gledal,
+
+713
+00:30:29,000 --> 00:30:33,000
+samo to je tako, ni to nek standard, kaj bi bil.
+
+714
+00:30:33,000 --> 00:30:36,000
+Veliko ljudi še zmer ne uporablja tega.
+
+715
+00:30:36,000 --> 00:30:41,000
+Nimaš pa recimo kakšni kulturi so, ki je lahko, kar vržeš nekaj JSON notar,
+
+716
+00:30:41,000 --> 00:30:46,000
+bo ta stvar zgenerirala type zate, plus vse te guard mehanizme.
+
+717
+00:30:46,000 --> 00:30:50,000
+Se pravi vse funkcije in ti si tako, a kaj zdaj imam pa ta objekt, je prišel do mene,
+
+718
+00:30:50,000 --> 00:30:56,000
+kaj bom poslal čez to stvar, nezaj bo prišel s tipi, pa pač vrgo bo error,
+
+719
+00:30:56,000 --> 00:30:58,000
+če je vse skupino ustrezal.
+
+720
+00:30:58,000 --> 00:31:02,000
+Zdaj samo bom rekel na tej točki, bomo dali na koncu linke v description itd.
+
+721
+00:31:02,000 --> 00:31:05,000
+Saj to boš na koncu mi dal, pa onda ometri.
+
+722
+00:31:07,000 --> 00:31:12,000
+Dajmo vsem biti prijazni do začetnika, kaj je TypeScript,
+
+723
+00:31:12,000 --> 00:31:15,000
+zato da bomo vsi na istem pejžu glede tega.
+
+724
+00:31:15,000 --> 00:31:21,000
+Ja, TypeScript je zdaj projekt, ki traje že nekaj let,
+
+725
+00:31:21,000 --> 00:31:27,000
+sem mislil, da za res je bil predstavljen nek na širšem komunitiju z Angular 2.
+
+726
+00:31:28,000 --> 00:31:34,000
+Ideja TypeScripta je, da ti pomaga pisati bolj varno javascript koda,
+
+727
+00:31:34,000 --> 00:31:40,000
+s tem, da pač noter doda tipe, doda static type checking,
+
+728
+00:31:40,000 --> 00:31:48,000
+kjer lahko dansko predvideš, kako bo koda zdaj za temi tvojimi tipi delvala.
+
+729
+00:31:48,000 --> 00:31:52,000
+Metem, kar sam rezultat TypeScript koda je pa še zmer javascript koda,
+
+730
+00:31:52,000 --> 00:31:55,000
+kaj manjka so znake za tipe.
+
+731
+00:31:55,000 --> 00:32:01,000
+Ambo je nek dodaten performance penalty, če uporabljam TypeScript?
+
+732
+00:32:03,000 --> 00:32:06,000
+Performance v runtime-u ne.
+
+733
+00:32:06,000 --> 00:32:11,000
+Je pa dodaten, mogoče vzame nekaj časa prerazvoju,
+
+734
+00:32:11,000 --> 00:32:14,000
+hkrati pa lahko tudi prešpareš nekaj časa,
+
+735
+00:32:14,000 --> 00:32:17,000
+ko pa ne rabiš iskati nekih čudnih pagov.
+
+736
+00:32:17,000 --> 00:32:20,000
+Je pa sam TypeScript projekt.
+
+737
+00:32:20,000 --> 00:32:25,000
+Pač ti vse, tudi med developanjem, doda pač za preverjanje tega,
+
+738
+00:32:25,000 --> 00:32:28,000
+ker se, kot kaj imamo pač auto-refresh,
+
+739
+00:32:28,000 --> 00:32:31,000
+tudi automatsko skozi preverja tipe.
+
+740
+00:32:31,000 --> 00:32:35,000
+In zdaj, ta problem je na velikih projektih prišel prato tako velik,
+
+741
+00:32:35,000 --> 00:32:39,000
+da se pojavljajo neki kompetitori,
+
+742
+00:32:39,000 --> 00:32:42,000
+ki vzamejo TypeScript, če zmer specifikacijo,
+
+743
+00:32:42,000 --> 00:32:48,000
+pa jo mogoče v nekem drugem, kitrejšem jeziku napiše vsta checking,
+
+744
+00:32:48,000 --> 00:32:52,000
+pa zamenaš v bistvu tool, čeprav še zmeri pišeš TypeScript,
+
+745
+00:32:52,000 --> 00:32:55,000
+uporablja sam pač drug tool za preverjanje vsakega tega.
+
+746
+00:32:55,000 --> 00:32:58,000
+Aha, se pravi type checker je napisano v razplavniku.
+
+747
+00:32:58,000 --> 00:33:01,000
+Ja, ampak je še zmeri TypeScript compliant.
+
+748
+00:33:01,000 --> 00:33:05,000
+Pa ne dodaja pač, ne proba dodati nekih svojih tipov,
+
+749
+00:33:05,000 --> 00:33:08,000
+sam proba optimizirati vse, kar že imaš.
+
+750
+00:33:08,000 --> 00:33:15,000
+A misliš, da bo daj ta definicija ali pa ta type checking,
+
+751
+00:33:15,000 --> 00:33:18,000
+ki ga dela zdaj TypeScript kot svoj projekt,
+
+752
+00:33:18,000 --> 00:33:21,000
+pa bomo kdaj dobili, ne vem, tako si ti vme naprej strict mode,
+
+753
+00:33:21,000 --> 00:33:24,000
+da bomo dobili, da bo to del JavaScript ekosistema,
+
+754
+00:33:24,000 --> 00:33:27,000
+ali pa nekaj anotacij, ki bi, a veš, lahka funkcija označa,
+
+755
+00:33:27,000 --> 00:33:30,000
+ta funkcija je pa, ne vem, lahka tudi nul, ali nekaj.
+
+756
+00:33:30,000 --> 00:33:32,000
+Misliš, da bomo kdaj prišli do tega?
+
+757
+00:33:32,000 --> 00:33:35,000
+Dejansko je trenutno en proposal za to na ECMAScriptu,
+
+758
+00:33:35,000 --> 00:33:38,000
+ki je zdaj stage one, ker pomeni, da poleg tega,
+
+759
+00:33:38,000 --> 00:33:42,000
+da ga je nekdo spisal, se že resno tudi pogovarja o njemu,
+
+760
+00:33:42,000 --> 00:33:45,000
+imajo avtore iz različnih podjetij, trenutno se mi zdi,
+
+761
+00:33:45,000 --> 00:33:48,000
+da fulj drajvata Microsoft pa Bloomberg,
+
+762
+00:33:48,000 --> 00:33:51,000
+še eno podjetje, ki se ga ne spomnem,
+
+763
+00:33:51,000 --> 00:33:54,000
+ampak njihova ideja tukaj je bila,
+
+764
+00:33:54,000 --> 00:33:57,000
+da jimo ne vzeti TypeScripta, pa reči,
+
+765
+00:33:57,000 --> 00:34:00,000
+to bo zdaj v brauzuru, pa bomo vse optimizirali za to,
+
+766
+00:34:00,000 --> 00:34:03,000
+ampak da jimo pustiti developerje in pa communityjo,
+
+767
+00:34:03,000 --> 00:34:06,000
+da si sami zberajo, mi bomo pa v standard dodali
+
+768
+00:34:06,000 --> 00:34:09,000
+nekaj anotacij oziroma nek grammar,
+
+769
+00:34:10,000 --> 00:34:13,000
+ki bo mogoče vpisanje tipov,
+
+770
+00:34:13,000 --> 00:34:16,000
+ki bo pa še zmeri na koncu mogoče,
+
+771
+00:34:16,000 --> 00:34:19,000
+da si ti lahko spomni svojega type jezika,
+
+772
+00:34:19,000 --> 00:34:22,000
+če je zjava script.
+
+773
+00:34:22,000 --> 00:34:25,000
+Da v praksi mi zdaj to razloži,
+
+774
+00:34:25,000 --> 00:34:28,000
+to pomeni, da lahko praktično razloži nek primer.
+
+775
+00:34:28,000 --> 00:34:31,000
+Ja, primer tega, ker se ga tudi oni spostavljali,
+
+776
+00:34:31,000 --> 00:34:35,000
+pa je zelo pogosto sploh, mogoče pred začetnikih je,
+
+777
+00:34:35,000 --> 00:34:38,000
+da imaš skozi vse četiri lahko uporabljajo type script.
+
+778
+00:34:38,000 --> 00:34:41,000
+Zdaj, jaz, kar se učim java script,
+
+779
+00:34:41,000 --> 00:34:44,000
+pa type script bi vzel to,
+
+780
+00:34:44,000 --> 00:34:47,000
+probil za lahko v brauzurju, ampak v nodu,
+
+781
+00:34:47,000 --> 00:34:50,000
+pa bi dobil error, da imaš pa tukaj neko sintaktično napako.
+
+782
+00:34:50,000 --> 00:34:54,000
+To je zaradi tega, ker java script engine
+
+783
+00:34:54,000 --> 00:34:57,000
+še zmeri pač ne razume teh tipov,
+
+784
+00:34:57,000 --> 00:35:00,000
+ne razume, kako so napisani,
+
+785
+00:35:00,000 --> 00:35:03,000
+pa nekako brega to pravila,
+
+786
+00:35:03,000 --> 00:35:06,000
+kako je jezik napisan.
+
+787
+00:35:06,000 --> 00:35:09,000
+In zdaj, ker so se oni odločili,
+
+788
+00:35:09,000 --> 00:35:12,000
+mi vam bomo dal tukaj neko sintakso,
+
+789
+00:35:12,000 --> 00:35:15,000
+ki je primerljiva s komentarji,
+
+790
+00:35:15,000 --> 00:35:18,000
+ki bomo sami ignorirali.
+
+791
+00:35:18,000 --> 00:35:21,000
+In jo bomo pač stram vrgali.
+
+792
+00:35:21,000 --> 00:35:24,000
+Če boš hotel narediti svoj type system,
+
+793
+00:35:24,000 --> 00:35:27,000
+boš pač sledil tih standardom.
+
+794
+00:35:27,000 --> 00:35:30,000
+Če boš hotel, da to lahka tudi brez nekega kompajlanja.
+
+795
+00:35:30,000 --> 00:35:33,000
+Vsa pravila pa ima nek kompajler,
+
+796
+00:35:33,000 --> 00:35:36,000
+ki ti bo to pametno izločil.
+
+797
+00:35:36,000 --> 00:35:39,000
+S tem, ker so pa v propozal,
+
+798
+00:35:39,000 --> 00:35:42,000
+da bo pomogočal, da lahka pišeš v kjerenkoli jeziku,
+
+799
+00:35:42,000 --> 00:35:45,000
+ko je komplajent s tem.
+
+800
+00:35:45,000 --> 00:35:48,000
+In bo še zmeri veljali vsak engine,
+
+801
+00:35:48,000 --> 00:35:51,000
+ki bodo pač implementirali ta standard.
+
+802
+00:35:51,000 --> 00:35:54,000
+Vsem začetnikom, ki ne poznajo typescripta recimo,
+
+803
+00:35:54,000 --> 00:35:57,000
+ali posem, ki se želijo v front-end development poglobiti,
+
+804
+00:35:57,000 --> 00:36:00,000
+pa se želijo tega učiti.
+
+805
+00:36:00,000 --> 00:36:03,000
+Kaj im se tudi žele tega?
+
+806
+00:36:03,000 --> 00:36:06,000
+A se naj učijo najprej javascript, pa potem typescript?
+
+807
+00:36:06,000 --> 00:36:09,000
+A se naj učijo typescript v začetku?
+
+808
+00:36:09,000 --> 00:36:12,000
+Ali naj poskušajo angular tutorial narediti?
+
+809
+00:36:12,000 --> 00:36:15,000
+Kaj vidiš? A razumeš, kaj je to vprašanje?
+
+810
+00:36:15,000 --> 00:36:18,000
+Po moje mislim, to je zelo kompleksno vprašanje.
+
+811
+00:36:18,000 --> 00:36:21,000
+Tudi je zelo odvisno od tega,
+
+812
+00:36:21,000 --> 00:36:24,000
+kako si človek to predstavlja,
+
+813
+00:36:24,000 --> 00:36:27,000
+pa kako vidi to se skupaj.
+
+814
+00:36:27,000 --> 00:36:30,000
+Zdaj, moj pogled na to je,
+
+815
+00:36:30,000 --> 00:36:33,000
+kar se tiče job marketa,
+
+816
+00:36:33,000 --> 00:36:36,000
+skozi več firm uporablja typescript.
+
+817
+00:36:36,000 --> 00:36:39,000
+Izčesar se ga je praktično naučiti.
+
+818
+00:36:39,000 --> 00:36:42,000
+Hkrati pa typescript je implementiran
+
+819
+00:36:42,000 --> 00:36:45,000
+v vseh teh nekih major editorih,
+
+820
+00:36:45,000 --> 00:36:48,000
+a pa idejih.
+
+821
+00:36:48,000 --> 00:36:51,000
+In ti dobro boš veliko benefitev iz tega.
+
+822
+00:36:51,000 --> 00:36:54,000
+Že predvem boš dejansko rabil,
+
+823
+00:36:54,000 --> 00:36:57,000
+kakšen tip napisati.
+
+824
+00:36:57,000 --> 00:37:00,000
+Vse knjižnice, ki dejajo zraven svoje type,
+
+825
+00:37:00,000 --> 00:37:03,000
+ti bojo pač v auto kompletu,
+
+826
+00:37:03,000 --> 00:37:06,000
+note ali pa browzer, uholja,
+
+827
+00:37:06,000 --> 00:37:09,000
+pač imaš vse te stvari že napisane.
+
+828
+00:37:09,000 --> 00:37:12,000
+Tako da za samo učenje se mi zdi,
+
+829
+00:37:12,000 --> 00:37:15,000
+da skor predstavlja še malo več napora to,
+
+830
+00:37:15,000 --> 00:37:18,000
+da skozi razmišljaš o tipih, pa jih pišaš.
+
+831
+00:37:18,000 --> 00:37:21,000
+Po drugi strani pač obstajate drug domljenje,
+
+832
+00:37:21,000 --> 00:37:24,000
+da se tipi super, pa da bih mogel vso to porabljati.
+
+833
+00:37:24,000 --> 00:37:27,000
+Ej, je typescript še zmer
+
+834
+00:37:27,000 --> 00:37:30,000
+super set JavaScripta?
+
+835
+00:37:30,000 --> 00:37:33,000
+Jaz sem pravko vedel, to spravo,
+
+836
+00:37:33,000 --> 00:37:36,000
+če jaz to typescripto noter napišem,
+
+837
+00:37:36,000 --> 00:37:39,000
+sanj JavaScript bo to delal?
+
+838
+00:37:39,000 --> 00:37:42,000
+Ja, verjetno boš dobil z defolt konfiguracijo neke erorje.
+
+839
+00:37:42,000 --> 00:37:45,000
+Na začetku, ko bojo tako, ej, tle pa nimaš tega,
+
+840
+00:37:45,000 --> 00:37:48,000
+pač lahko imaš typescript file,
+
+841
+00:37:48,000 --> 00:37:51,000
+če imaš urejdu konfiguracijo, lahko pišeš JavaScript,
+
+842
+00:37:51,000 --> 00:37:54,000
+pa se bo mogoče kaj rdečka pobarvala v meso.
+
+843
+00:37:54,000 --> 00:37:57,000
+Mogoče za začetnik je to tudi ena stvar,
+
+844
+00:37:57,000 --> 00:38:00,000
+ki mi znaš.
+
+845
+00:38:00,000 --> 00:38:03,000
+Ja, definitivno.
+
+846
+00:38:03,000 --> 00:38:06,000
+A pa typescript je tudi, ima ta strictness,
+
+847
+00:38:06,000 --> 00:38:09,000
+je nekaj, kar lahko definiraš in nastavljaš,
+
+848
+00:38:09,000 --> 00:38:12,000
+je nekaj stvari, ki nastaviš, ki meni,
+
+849
+00:38:12,000 --> 00:38:15,000
+pa lahko začeneš z zelo loosely defined tipi,
+
+850
+00:38:15,000 --> 00:38:18,000
+in potem, mogoče, ko sem pa bolj strokovnjako,
+
+851
+00:38:18,000 --> 00:38:21,000
+ko se bolj spoznam, pa lahko tudi
+
+852
+00:38:21,000 --> 00:38:24,000
+pojačam nimoč, pravim se,
+
+853
+00:38:24,000 --> 00:38:27,000
+ampak lahko potem bolj striktno zadeve naredim.
+
+854
+00:38:27,000 --> 00:38:30,000
+Tako da je mogoče tudi to nek tak hint ljudem,
+
+855
+00:38:30,000 --> 00:38:33,000
+ki še ne poznajo te zadeve,
+
+856
+00:38:33,000 --> 00:38:36,000
+da lahko zelo loosely začeneš z obstoječnim znanjem.
+
+857
+00:38:36,000 --> 00:38:39,000
+Bom še na te točke eno tako, potem do vprašanja,
+
+858
+00:38:40,000 --> 00:38:43,000
+če smo za džunjorje, pa mi,
+
+859
+00:38:43,000 --> 00:38:46,000
+pa kaj bi pa tem executive level
+
+860
+00:38:46,000 --> 00:38:49,000
+s tvojim typescriptom, je to nekaj, kar se splača,
+
+861
+00:38:49,000 --> 00:38:52,000
+da je zagotovo investirati firmam več resursov počasa
+
+862
+00:38:52,000 --> 00:38:55,000
+v modernizaciju njihovega, ne vem,
+
+863
+00:38:55,000 --> 00:38:58,000
+obstoječega JavaScript stacka s typescriptoma, ali ne?
+
+864
+00:38:58,000 --> 00:39:01,000
+Ja. Če to executive decision,
+
+865
+00:39:01,000 --> 00:39:04,000
+executive decision, kaj bi naredil?
+
+866
+00:39:04,000 --> 00:39:07,000
+Je zelo, zelo if-i stvar,
+
+867
+00:39:08,000 --> 00:39:11,000
+po eni strani lahko ustaviš razvoj za nekaj meseca,
+
+868
+00:39:11,000 --> 00:39:14,000
+da se vsi ljudje adaptajo na to,
+
+869
+00:39:14,000 --> 00:39:17,000
+po drugi strani pa, koliko je prevelik projekt,
+
+870
+00:39:17,000 --> 00:39:20,000
+jih lahko začneš namehno,
+
+871
+00:39:20,000 --> 00:39:23,000
+potem boš mogoče začne ena ekipa,
+
+872
+00:39:23,000 --> 00:39:26,000
+ali pa samo v novih failih nekaj dodajati, ne pa zdaj reči.
+
+873
+00:39:26,000 --> 00:39:29,000
+Zdaj bomo pa vse prepisali na nekaj novega.
+
+874
+00:39:29,000 --> 00:39:32,000
+Lahko incrementalno introduseš taj smer projekta.
+
+875
+00:39:32,000 --> 00:39:35,000
+In če zdaj gledaš, ne vem, iz nekaj executive,
+
+876
+00:39:36,000 --> 00:39:39,000
+pogleda bi rekel, da je dobro to tudi pomerjati.
+
+877
+00:39:39,000 --> 00:39:42,000
+A so zdaj ljudje bolj zadovoljni?
+
+878
+00:39:42,000 --> 00:39:45,000
+A so bolj pritožujejo?
+
+879
+00:39:45,000 --> 00:39:48,000
+A so videli, da je mogoče nekaj hitrejši?
+
+880
+00:39:48,000 --> 00:39:51,000
+Ali da imaš manj bugov, ko pridejo nazaj do developmenta?
+
+881
+00:39:51,000 --> 00:39:54,000
+Nekakor spremljati.
+
+882
+00:39:54,000 --> 00:39:57,000
+Kaj je zdaj ta sprememba povzročila?
+
+883
+00:39:57,000 --> 00:40:00,000
+A lahko rečeš, da če bo podjetje
+
+884
+00:40:00,000 --> 00:40:03,000
+postopoma introduselo typescript,
+
+885
+00:40:03,000 --> 00:40:06,000
+da naj bi zaradi tega bilo manj bugov?
+
+886
+00:40:06,000 --> 00:40:09,000
+A bi lahko to pogumno rekel?
+
+887
+00:40:09,000 --> 00:40:12,000
+Albo sam developer experience boljši?
+
+888
+00:40:12,000 --> 00:40:15,000
+Za nač ne bi upogumno
+
+889
+00:40:15,000 --> 00:40:18,000
+pogumno red, zato ker
+
+890
+00:40:18,000 --> 00:40:21,000
+je vse zelo odvisno od ekipa,
+
+891
+00:40:21,000 --> 00:40:24,000
+ki ga adaptuje, ampak se mi zdi, da
+
+892
+00:40:24,000 --> 00:40:27,000
+developer experience lahko je zelo poprav.
+
+893
+00:40:27,000 --> 00:40:30,000
+Majš tudi, ne vem, izmeri probam pol na takih projektih gledati
+
+894
+00:40:31,000 --> 00:40:34,000
+na nek kordel, ki se deli, pa nek user-len del,
+
+895
+00:40:34,000 --> 00:40:37,000
+kjer danes pa pač imaš
+
+896
+00:40:37,000 --> 00:40:40,000
+neke implementacije biznis-rulev.
+
+897
+00:40:40,000 --> 00:40:43,000
+In zdaj, tudi če ti narediš ful dober
+
+898
+00:40:43,000 --> 00:40:46,000
+ta kordel, pa ga narediš s tipi,
+
+899
+00:40:46,000 --> 00:40:49,000
+si s tem dobu ful dober experience za developerja,
+
+900
+00:40:49,000 --> 00:40:52,000
+še zmer se pa ne rabe na vsakej vrstici kode,
+
+901
+00:40:52,000 --> 00:40:55,000
+ki se bo samo enkrat ponovila, pa samo enkrat v eno primero uporablja
+
+902
+00:40:55,000 --> 00:40:58,000
+it do konca s tipi.
+
+903
+00:40:59,000 --> 00:41:02,000
+Jaz sem hotel zdaj na te točki,
+
+904
+00:41:02,000 --> 00:41:05,000
+različno, da sem zadnjič bral, da je
+
+905
+00:41:05,000 --> 00:41:08,000
+TypeScript-ov type sistem Turing complete,
+
+906
+00:41:08,000 --> 00:41:11,000
+pa sem potem hotel tudi s tem
+
+907
+00:41:11,000 --> 00:41:14,000
+novim zdanjem Andraža blazno navdušiti.
+
+908
+00:41:14,000 --> 00:41:17,000
+Tako stroka.
+
+909
+00:41:17,000 --> 00:41:20,000
+Ampak konstantno letim na ta zid z Andražom,
+
+910
+00:41:20,000 --> 00:41:23,000
+to odkimavanim zdaj mogu.
+
+911
+00:41:23,000 --> 00:41:26,000
+Se predstavljaš, da bi bil JSON Turing complete, pa bi folkigr
+
+912
+00:41:26,000 --> 00:41:29,000
+JSON-o pisol, kaj jame lje.
+
+913
+00:41:29,000 --> 00:41:32,000
+Meni se zdi to...
+
+914
+00:41:32,000 --> 00:41:35,000
+Ful mi je,
+
+915
+00:41:35,000 --> 00:41:38,000
+ful mi je všeč, kaj dosti krat kot developerji razmišljamo tako,
+
+916
+00:41:38,000 --> 00:41:41,000
+da smo bogovi, pa da rabimo prej stul,
+
+917
+00:41:41,000 --> 00:41:44,000
+kaj zna tako narediti.
+
+918
+00:41:44,000 --> 00:41:47,000
+Če ni Turing complete, pa je že skoraj brezveze.
+
+919
+00:41:47,000 --> 00:41:50,000
+Jaz sem pa pač ta človek,
+
+920
+00:41:50,000 --> 00:41:53,000
+kaj imam ful v redu meji dve,
+
+921
+00:41:53,000 --> 00:41:56,000
+pač, kaj se jih postavljam. Zato, da jaz nadelam na umnosti,
+
+922
+00:41:56,000 --> 00:41:59,000
+pa pol, kaj tvoj projekt raste, pa imaš čim več developerjev,
+
+923
+00:41:59,000 --> 00:42:02,000
+da jim pač razlagaš.
+
+924
+00:42:02,000 --> 00:42:05,000
+A lahko, prosim, ne med
+
+925
+00:42:05,000 --> 00:42:08,000
+compile time-om narišamo ta template,
+
+926
+00:42:08,000 --> 00:42:11,000
+ali ne vem.
+
+927
+00:42:11,000 --> 00:42:14,000
+Ampak, mislim,
+
+928
+00:42:14,000 --> 00:42:17,000
+mogoče sem z tem hotel tudi malo namenil tato, da je ekstremno
+
+929
+00:42:17,000 --> 00:42:20,000
+powerful postavil. Če je bil na začetku TypeScript-o,
+
+930
+00:42:20,000 --> 00:42:23,000
+s tem rudimentarno basic,
+
+931
+00:42:23,000 --> 00:42:26,000
+zdaj je postavil zelo, zelo powerful.
+
+932
+00:42:26,000 --> 00:42:29,000
+In res, marsi, kaj se damo trenutno narediti.
+
+933
+00:42:29,000 --> 00:42:32,000
+A si ti zdi, da je to bolj
+
+934
+00:42:32,000 --> 00:42:35,000
+neke feature-e, ki bi
+
+935
+00:42:35,000 --> 00:42:38,000
+bolj v svetovoljnem library developerjem?
+
+936
+00:42:38,000 --> 00:42:41,000
+Ja.
+
+937
+00:42:41,000 --> 00:42:44,000
+Ja, prvič sem se srečel s tem
+
+938
+00:42:44,000 --> 00:42:47,000
+Turing completno samo v TypeScriptu, kaj sem videl, da je nekdo
+
+939
+00:42:47,000 --> 00:42:50,000
+napisal bubble sort o tem. Sem bil tako, ok, to postaje
+
+940
+00:42:50,000 --> 00:42:53,000
+zanimivo. Pol naslednjič,
+
+941
+00:42:53,000 --> 00:42:56,000
+je pa nekdo napisal, ne vem, baza
+
+942
+00:42:56,000 --> 00:42:59,000
+v TypeScriptu. Zapravo, ja, tako,
+
+943
+00:42:59,000 --> 00:43:02,000
+thread runtime-o in že v samem type-checkingu imaš lahko baza,
+
+944
+00:43:02,000 --> 00:43:05,000
+v kjer dodajaš elemente, jih je z nej ber, spreminjaš.
+
+945
+00:43:05,000 --> 00:43:08,000
+Na koncu sem videl implementacijo, kaj je nekdo
+
+946
+00:43:08,000 --> 00:43:11,000
+TypeScript implementiral v TypeScriptu.
+
+947
+00:43:11,000 --> 00:43:14,000
+Kaj je tako ful, tako dober fun fact, nekaj, ki bi mogoče uprašal
+
+948
+00:43:14,000 --> 00:43:17,000
+nekaj na miljonarju v praksi, pa pride
+
+949
+00:43:17,000 --> 00:43:20,000
+so primeri z lahko pač
+
+950
+00:43:20,000 --> 00:43:23,000
+library, kjer to ful prav pride, pa
+
+951
+00:43:23,000 --> 00:43:26,000
+mogoče nekdo, ki ima library, ki je zelo popularen, pa ga uporabljala,
+
+952
+00:43:26,000 --> 00:43:29,000
+ne vem. Miljon developerjev po svetu
+
+953
+00:43:29,000 --> 00:43:32,000
+je mogoče dober doložiti nekaj časa od to, da to naredi,
+
+954
+00:43:32,000 --> 00:43:35,000
+pa res prijazno, pa musim developerjev.
+
+955
+00:43:35,000 --> 00:43:38,000
+In to je tudi mogoče nekaj, kar v tem trenutku
+
+956
+00:43:38,000 --> 00:43:41,000
+lahko mejka ali pa brejka library.
+
+957
+00:43:41,000 --> 00:43:44,000
+Svem ta pač developer experience, kaj ga imajo.
+
+958
+00:43:44,000 --> 00:43:47,000
+Zaradi TypeScripta pa zaradi pomaganja TypeScripta.
+
+959
+00:43:47,000 --> 00:43:50,000
+A ma TypeScript tudi kakaj makro tega, pa anotacije
+
+960
+00:43:50,000 --> 00:43:53,000
+in podobnega? Anotacije ima?
+
+961
+00:43:53,000 --> 00:43:56,000
+Ja, nisem sto procentov zihar,
+
+962
+00:43:56,000 --> 00:43:59,000
+zato kaj nisem šel zelo delati
+
+963
+00:43:59,000 --> 00:44:02,000
+s TypeScriptom. Videl sem veliko stvari, ampak na nekaj točki
+
+964
+00:44:02,000 --> 00:44:05,000
+to postane tudi zelo kompleksno in zdaj,
+
+965
+00:44:05,000 --> 00:44:08,000
+če boš ti to uporabljal v nekih
+
+966
+00:44:08,000 --> 00:44:11,000
+normalnih projektih, pa naredi ogromen stvari
+
+967
+00:44:11,000 --> 00:44:14,000
+za generiki,
+
+968
+00:44:14,000 --> 00:44:17,000
+bo ta koda super delala kot
+
+969
+00:44:17,000 --> 00:44:20,000
+za nekega konzumerja. Če pa nekdo hata
+
+970
+00:44:20,000 --> 00:44:23,000
+vnotri nekaj popraviti, pa bo to
+
+971
+00:44:23,000 --> 00:44:26,000
+spremenili type, pa lahko to povzroči,
+
+972
+00:44:26,000 --> 00:44:29,000
+pa če en teden glavo bala.
+
+973
+00:44:29,000 --> 00:44:32,000
+Pa pač dodata kar vočenja, zdaj še typev,
+
+974
+00:44:32,000 --> 00:44:35,000
+zato boš lahko nekaj nekaj spremenbo naredil.
+
+975
+00:44:35,000 --> 00:44:38,000
+Ampak zagotovo, ne vem,
+
+976
+00:44:38,000 --> 00:44:41,000
+ti zdi, da frameworki kot je React in Angular postanejo bolj dostopni,
+
+977
+00:44:41,000 --> 00:44:44,000
+pa zrad TypeScripta
+
+978
+00:44:44,000 --> 00:44:47,000
+na nek način lažje je navigirati?
+
+979
+00:44:47,000 --> 00:44:50,000
+Ja, v bistvu framework in pa sam
+
+980
+00:44:50,000 --> 00:44:53,000
+codebase. Če pač uporabljaš TypeScript,
+
+981
+00:44:53,000 --> 00:44:56,000
+če ti neka stvar zna povedati,
+
+982
+00:44:56,000 --> 00:44:59,000
+kakšne propertije moraš pesati, a so to, ne vem,
+
+983
+00:44:59,000 --> 00:45:02,000
+če so magic stringi, jih imaš v nekem enomu,
+
+984
+00:45:02,000 --> 00:45:05,000
+pa pač neki unijen typev, je to pa lažje,
+
+985
+00:45:05,000 --> 00:45:08,000
+ker zdaj editori znajo to že prebrati in izkoristati.
+
+986
+00:45:08,000 --> 00:45:11,000
+Ok.
+
+987
+00:45:11,000 --> 00:45:14,000
+Zdaj pa mislim, da je čas, da narediš en pložirek naše
+
+988
+00:45:14,000 --> 00:45:17,000
+kokele, potem pa gremo na framework.
+
+989
+00:45:17,000 --> 00:45:20,000
+Ti kaj mi čakaš?
+
+990
+00:45:20,000 --> 00:45:23,000
+Ja, jaz čakam debat o Backbone.js.
+
+991
+00:45:23,000 --> 00:45:26,000
+Backbone.js?
+
+992
+00:45:26,000 --> 00:45:29,000
+Zanjič sem bral, da en še vedno najbolj popularen
+
+993
+00:45:29,000 --> 00:45:32,000
+framework, oziroma library na svetu je
+
+994
+00:45:32,000 --> 00:45:35,000
+jQuery, tako, ki ga narabeš več skor.
+
+995
+00:45:35,000 --> 00:45:38,000
+Ti ga narabeš več skor, ampak še vedno mislim, da bo
+
+996
+00:45:38,000 --> 00:45:41,000
+70% webpejža, ono ga trenutno še vedno ima.
+
+997
+00:45:41,000 --> 00:45:44,000
+Ja, tudi v kombinaciji z modernimi frameworkji
+
+998
+00:45:44,000 --> 00:45:47,000
+še kdaj ne letiš na jQuery. Ampak zakaj ga
+
+999
+00:45:47,000 --> 00:45:50,000
+rabimo, če imamo pa vse ostalo?
+
+1000
+00:45:50,000 --> 00:45:53,000
+Jaz bi rekel, da ga nerabimo, ampak obstaje
+
+1001
+00:45:53,000 --> 00:45:56,000
+odgovor, obstaje ogromno odgovorov na stackoverflavu,
+
+1002
+00:45:56,000 --> 00:45:59,000
+ko porabijo jQuery in ker developeri radi
+
+1003
+00:45:59,000 --> 00:46:02,000
+kopiramo kodo, to pomeni, da dam to kodo,
+
+1004
+00:46:02,000 --> 00:46:05,000
+o, ne dela, zakaj, nimam jQuery, da dam jQuery.
+
+1005
+00:46:05,000 --> 00:46:08,000
+Se ne vprašam, kaj ta jQuery je, videl sem ga
+
+1006
+00:46:08,000 --> 00:46:11,000
+velikrat iz dolarček.
+
+1007
+00:46:11,000 --> 00:46:14,000
+Ljudje so navajeni na denar, dolar,
+
+1008
+00:46:14,000 --> 00:46:17,000
+dolar more biti.
+
+1009
+00:46:17,000 --> 00:46:20,000
+Ej, jaz, ko sem čisti začetnik, kaj je to jQuery?
+
+1010
+00:46:20,000 --> 00:46:23,000
+jQuery je knjižnica v JavaScriptu,
+
+1011
+00:46:23,000 --> 00:46:26,000
+kaj je zelo dolg časa pomagala
+
+1012
+00:46:26,000 --> 00:46:29,000
+spreminjati dom,
+
+1013
+00:46:29,000 --> 00:46:32,000
+a pa hrdo melo. Iz JavaScripta,
+
+1014
+00:46:32,000 --> 00:46:35,000
+to je bilo predanje JavaScriptov, a pa browser,
+
+1015
+00:46:35,000 --> 00:46:38,000
+pač API predan so, podpirali vse
+
+1016
+00:46:38,000 --> 00:46:41,000
+stvari, kot so dodaj samples, odstranga,
+
+1017
+00:46:41,000 --> 00:46:44,000
+toglejga in pač ogromno drugih
+
+1018
+00:46:44,000 --> 00:46:47,000
+stvari skupaj z Ajaxom.
+
+1019
+00:46:47,000 --> 00:46:50,000
+Je pač obstajal jQuery, kaj je rešil
+
+1020
+00:46:50,000 --> 00:46:53,000
+vse te probleme, ki so jih predaj imel,
+
+1021
+00:46:53,000 --> 00:46:56,000
+in pa so hmal browser ogotovil, da
+
+1022
+00:46:56,000 --> 00:46:59,000
+mogoče pa njihov API ni pač
+
+1023
+00:46:59,000 --> 00:47:02,000
+prišel dost delač, pa ga lahko dopolnja. In s tem,
+
+1024
+00:47:02,000 --> 00:47:05,000
+ka so pač dodajali vse te stvari v browserje, je pač
+
+1025
+00:47:05,000 --> 00:47:08,000
+odzginila potreba po jQueryu.
+
+1026
+00:47:08,000 --> 00:47:11,000
+Ampak še danes, mislim, jQuery je še vedno se razvija,
+
+1027
+00:47:11,000 --> 00:47:14,000
+še vedno prihajajo nove verzije.
+
+1028
+00:47:14,000 --> 00:47:17,000
+Jaz sem zdi, par mesec je nazaj,
+
+1029
+00:47:17,000 --> 00:47:20,000
+in se je igral nekaj s tem,
+
+1030
+00:47:20,000 --> 00:47:23,000
+in pač še vedno se spremenja.
+
+1031
+00:47:23,000 --> 00:47:26,000
+Res je, da pač ni tako kode za nek
+
+1032
+00:47:26,000 --> 00:47:29,000
+backwards compatibility, pač če računuješ, da pač
+
+1033
+00:47:29,000 --> 00:47:32,000
+starejše browser je imel, potem ga pač računuješ
+
+1034
+00:47:32,000 --> 00:47:35,000
+na njega, ampak še vedno se razvija,
+
+1035
+00:47:35,000 --> 00:47:38,000
+še vedno je čist valid text, se mi zdi.
+
+1036
+00:47:38,000 --> 00:47:41,000
+Ampak tudi ti API, ki so mogoče takrat
+
+1037
+00:47:41,000 --> 00:47:44,000
+bili na malo zasnovani,
+
+1038
+00:47:44,000 --> 00:47:47,000
+še vedno so isti, še vedno delajo.
+
+1039
+00:47:47,000 --> 00:47:50,000
+JQuery danes je še vedno delal na zelo isti način.
+
+1040
+00:47:50,000 --> 00:47:53,000
+Zelo backwards compatible.
+
+1041
+00:47:55,000 --> 00:47:58,000
+Jaz, ko sem včasih začel projekt,
+
+1042
+00:47:58,000 --> 00:48:01,000
+sem pol zmer
+
+1043
+00:48:01,000 --> 00:48:04,000
+prva knjižnica, ko sem jo dodal projektom,
+
+1044
+00:48:04,000 --> 00:48:07,000
+je bil v bistvu low-dash.
+
+1045
+00:48:07,000 --> 00:48:10,000
+Zdrav neke te funkcije,
+
+1046
+00:48:10,000 --> 00:48:13,000
+ki so funkcijski helperi, ali pa glih to.
+
+1047
+00:48:14,000 --> 00:48:17,000
+A se to še zdaj dodajo v projekte?
+
+1048
+00:48:17,000 --> 00:48:20,000
+Ja, jaz bi rekel, da nisem videl sega še skoraj v vsakem projektu,
+
+1049
+00:48:20,000 --> 00:48:23,000
+kar sem bil. Low-dash je v bistvu
+
+1050
+00:48:23,000 --> 00:48:26,000
+spet en library, ki je bil narejen
+
+1051
+00:48:26,000 --> 00:48:29,000
+zato, da je olajšal delo
+
+1052
+00:48:29,000 --> 00:48:32,000
+z arej in objekti,
+
+1053
+00:48:32,000 --> 00:48:35,000
+da ti je pač neko groma nabar funkcij,
+
+1054
+00:48:35,000 --> 00:48:38,000
+ki si jih lahko uporabil.
+
+1055
+00:48:39,000 --> 00:48:42,000
+Lahko zlepiš skupaj dva objekta.
+
+1056
+00:48:42,000 --> 00:48:45,000
+To je nek merge ali pa
+
+1057
+00:48:45,000 --> 00:48:48,000
+nek concatenate med arej.
+
+1058
+00:48:48,000 --> 00:48:51,000
+Vse stvari, ki bi jih mogel sam drugače narediti.
+
+1059
+00:48:51,000 --> 00:48:54,000
+Hkrati, je bil v bistvu low-dash pa underscore.
+
+1060
+00:48:54,000 --> 00:48:57,000
+Za underscore sem začel, pa je prišel low-dash,
+
+1061
+00:48:57,000 --> 00:49:00,000
+ki je še vedel, kako se
+
+1062
+00:49:00,000 --> 00:49:03,000
+browzeri obnašajo in je delal
+
+1063
+00:49:03,000 --> 00:49:06,000
+vzadi malo bolj optimalno kodo,
+
+1064
+00:49:06,000 --> 00:49:09,000
+da je to hitrejši delal. Sploh, da imaš več arej,
+
+1065
+00:49:09,000 --> 00:49:12,000
+kar naenkrat postane ful pomembno,
+
+1066
+00:49:12,000 --> 00:49:15,000
+kako jih iteriraš. Pa pač obstajal so,
+
+1067
+00:49:15,000 --> 00:49:18,000
+to zdaj se nize ne obstaja več, ampak na neki točki
+
+1068
+00:49:18,000 --> 00:49:21,000
+je imel prejšen Chrome of Engine
+
+1069
+00:49:21,000 --> 00:49:24,000
+browz, tako nek ogromen set
+
+1070
+00:49:24,000 --> 00:49:27,000
+nekih čudnih previl, da
+
+1071
+00:49:27,000 --> 00:49:30,000
+če pač delaš predkremente, pa while,
+
+1072
+00:49:30,000 --> 00:49:33,000
+je ful boljši, ko uporablja tvor
+
+1073
+00:49:33,000 --> 00:49:36,000
+pač to, kako se lahko optimizira JavaScript.
+
+1074
+00:49:36,000 --> 00:49:39,000
+In kaj? Zdaj
+
+1075
+00:49:39,000 --> 00:49:42,000
+ogromen teh stvari, ki so bile zelo uporabljene tam,
+
+1076
+00:49:42,000 --> 00:49:45,000
+so predstavljali v Eknoscript standard,
+
+1077
+00:49:45,000 --> 00:49:48,000
+pač v JavaScript language, ko so
+
+1078
+00:49:48,000 --> 00:49:51,000
+prišli vse te filter, mislim,
+
+1079
+00:49:51,000 --> 00:49:54,000
+vse arej metode, še zmerima pa
+
+1080
+00:49:54,000 --> 00:49:57,000
+povkem takih malih uporabljnih stvari, ki pa
+
+1081
+00:49:57,000 --> 00:50:00,000
+pridejo prav, tako da tudi ogromen ljudi,
+
+1082
+00:50:00,000 --> 00:50:06,000
+To je že del časa uporabljale, pa pač poznali te funkcije in so ...
+
+1083
+00:50:06,000 --> 00:50:11,000
+Pol, ko se pogovarjam o jQueryu pa Low Dash, potem se mi zdi, da ...
+
+1084
+00:50:11,000 --> 00:50:13,000
+Pol sem star.
+
+1085
+00:50:13,000 --> 00:50:19,000
+Ker se spomnim, še kar nekaj časa preden smo začeli jQuery uporabljati.
+
+1086
+00:50:19,000 --> 00:50:25,000
+Še nekaj časa preden je Low Dash bil, pa potem sam poskušaš
+
+1087
+00:50:25,000 --> 00:50:30,000
+v različnih brozerih probati kodo, pa viš, da v različnih brozerih se različno odnašajo.
+
+1088
+00:50:30,000 --> 00:50:36,000
+Ampak to so bili zagotoveni ... Ti projekti, ki smo zdel meni, so zagotovo
+
+1089
+00:50:36,000 --> 00:50:43,000
+ful poenostavili pač web development kot tako in zaradi tega tudi ful ekspandija.
+
+1090
+00:50:43,000 --> 00:50:46,000
+Kudos tem projektom, absolutno.
+
+1091
+00:50:46,000 --> 00:50:50,000
+Ok, kaj bi bil potem slednji framework?
+
+1092
+00:50:50,000 --> 00:50:57,000
+Moje vprašanje je, me nekaj so glih odtajali skrinje, pa mislim, da so uporabljali Backbone.js pa Marijune.js.
+
+1093
+00:50:57,000 --> 00:51:06,000
+Kaj so zdaj najbolj establirani framework-i, pa kaj so ta super nov obroček v stanje za jesen?
+
+1094
+00:51:06,000 --> 00:51:14,000
+Zdaj najbolj establirani, trenutno, se mi zdaj vsaj glede industrije, so React, Vue pa Angular.
+
+1095
+00:51:15,000 --> 00:51:19,000
+Najbolj so podporo svojih treh velikih korporacij zadaj.
+
+1096
+00:51:21,000 --> 00:51:23,000
+Potem kaj novi ...
+
+1097
+00:51:24,000 --> 00:51:27,000
+Dejmo počasi.
+
+1098
+00:51:28,000 --> 00:51:34,000
+Če smo zdaj mi, gremo executive level, advice start, ok.
+
+1099
+00:51:34,000 --> 00:51:41,000
+Če smo mi neko podjetje, ki ima že nekaj inženirijo in začnemo delati, kaj bomo delali?
+
+1100
+00:51:42,000 --> 00:51:46,000
+Spotify za narodno zabavno glasbo.
+
+1101
+00:51:46,000 --> 00:51:50,000
+Spotify za narodno zabavno glasbo v Balkanski regiji.
+
+1102
+00:51:50,000 --> 00:51:54,000
+Spravi, nekaj denarja imamo in muzike vsi poslušajo, ok.
+
+1103
+00:51:55,000 --> 00:51:58,000
+In se moramo odločiti, kaj framework bomo vzeli.
+
+1104
+00:51:58,000 --> 00:52:02,000
+Naizbiro je Vue.js, React pa Angular.
+
+1105
+00:52:03,000 --> 00:52:07,000
+Kaj bi se to loto?
+
+1106
+00:52:08,000 --> 00:52:12,000
+To je zelo dobro vprašanje, zelo zahteveno vprašanje.
+
+1107
+00:52:13,000 --> 00:52:16,000
+Jaz bi rekel, da je vsem, kaj izgledaš.
+
+1108
+00:52:17,000 --> 00:52:26,000
+Ma pa tvojo odločitev neke posledice, ma pa hkrati tudi neke stvari, ki te pa lahko tipe v enega ali drugega.
+
+1109
+00:52:26,000 --> 00:52:35,000
+Ena ključnega stvari se mi zdi, da je dober imeti, ko sestavljaš ekipo že, nekoga, ki pozna nek framework.
+
+1110
+00:52:35,000 --> 00:52:40,000
+Zdaj, če ti imaš nekoga, ki je ekspert v Angularju, pa ga boš vrgel v React.
+
+1111
+00:52:40,000 --> 00:52:44,000
+Glej, imamo tri inženirje, seniori, pa vsake eksperte od svoje.
+
+1112
+00:52:44,000 --> 00:52:46,000
+Nimaš treh inženirjev.
+
+1113
+00:52:48,000 --> 00:52:49,000
+No?
+
+1114
+00:52:49,000 --> 00:52:51,000
+Ja, to je slaba advajza.
+
+1115
+00:52:51,000 --> 00:52:55,000
+Nimaš treh inženirjev, ki znajo tri različne frameworke.
+
+1116
+00:52:55,000 --> 00:52:58,000
+Jaz lahko rečem, da preferiram React.
+
+1117
+00:52:59,000 --> 00:53:04,000
+Ampak vse ostale, pač, vse ostali primeri so isto lelo.
+
+1118
+00:53:04,000 --> 00:53:08,000
+To je tako zgled mojega nekaj kozmetična preferenca.
+
+1119
+00:53:08,000 --> 00:53:16,000
+A se ti zdi, da bi mogla biti neka distinkcija, ali boš delal webpage ali boš delal single page web app?
+
+1120
+00:53:16,000 --> 00:53:20,000
+A se ti zdi, da bi mogel, da je to recimo tudi krajen tako pomemben faktor?
+
+1121
+00:53:20,000 --> 00:53:25,000
+Kajče delam, jaz ne vem, page, potem verjetno moram drugačen pristop imeti.
+
+1122
+00:53:25,000 --> 00:53:32,000
+Ja, tukaj mogoče, če bi delal sam webpage, bi se jaz osebno bolj usmeril v Vue ali React.
+
+1123
+00:53:32,000 --> 00:53:37,000
+Ampak ne zaradi samega frameworka, toliko kot zaradi supporta, ki ga imaš iz komunite,
+
+1124
+00:53:37,000 --> 00:53:44,000
+pa nekih platform, ki obstajajo zato, da ti nastavijo pač slučajno ta use case nekih landing page,
+
+1125
+00:53:44,000 --> 00:53:47,000
+ali pa pač navadnih komerčnih projektnih strani.
+
+1126
+00:53:47,000 --> 00:53:51,000
+Tukaj pa ali pa server side rendering, kako se delajo s tem,
+
+1127
+00:53:51,000 --> 00:53:58,000
+pa tudi neki pre-rendering, kako gostovanje vpliva na to, kaj imaš lahko na sidi eno,
+
+1128
+00:53:58,000 --> 00:54:05,000
+in pali tudi kot hiter pač lahko neko stran zgradiš za frameworkom.
+
+1129
+00:54:05,000 --> 00:54:12,000
+Pri Vue sem jaz zdi, da sem opazil to možsko pravo za React, ker je Reacta nisem nikoli tako uporabljal.
+
+1130
+00:54:12,000 --> 00:54:21,000
+Pri Vue, imam ful občutek, da Vue poskuša biti tist nek duhovni naslednik jQuerya,
+
+1131
+00:54:21,000 --> 00:54:27,000
+kjer ga daš noter, začneš zelo postopoma, par vrstic zainkljuješ,
+
+1132
+00:54:27,000 --> 00:54:31,000
+in potem začneš ga uporabljati bolj in bolj v bolj kompleksne zadeve,
+
+1133
+00:54:31,000 --> 00:54:35,000
+do tega, da ljudje ga zgradijo v cele page. Se ti zdi, da je to nek tak?
+
+1134
+00:54:35,000 --> 00:54:41,000
+To sem fulkrat slišal od ful ljudi, pa nisem čisto zihar izkej je to prišlo.
+
+1135
+00:54:41,000 --> 00:54:47,000
+Zato, ker tudi, če pogledaš, saj z Reactom lahko je primeren, z Angular ne vem,
+
+1136
+00:54:47,000 --> 00:54:51,000
+ampak tudi v Reactu imaš možnost, ko ga previjuješ, rečeš,
+
+1137
+00:54:51,000 --> 00:54:59,000
+mounti mi mojo aplikacijo v nata nekih otomalih elementov in se potem noter odpede.
+
+1138
+00:54:59,000 --> 00:55:04,000
+Mogoče je bila previjuju prednost, pa zrače se je toliko ta status,
+
+1139
+00:55:04,000 --> 00:55:09,000
+to, da na začetku nisi rabil nekaj transpilanja ali kompilanja,
+
+1140
+00:55:09,000 --> 00:55:14,000
+ker je pač uporablil JavaScript, pa nekaj pač v stringu si imel template,
+
+1141
+00:55:14,000 --> 00:55:17,000
+in je potem vse skupaj lahko naredil v runtime,
+
+1142
+00:55:17,000 --> 00:55:21,000
+in zato nisi rabil več, zato si ga lahko kar prepelil noter,
+
+1143
+00:55:21,000 --> 00:55:24,000
+pa odprl CSS file, pa začel to pisat.
+
+1144
+00:55:24,000 --> 00:55:31,000
+Zdaj, s časom se je to spremenilo, ker je Vue pač obil Vue file,
+
+1145
+00:55:31,000 --> 00:55:36,000
+ki so pač združili moj CSS template pa JavaScript skupaj.
+
+1146
+00:55:36,000 --> 00:55:40,000
+Tam je pač tako, da ni bilo več to, kar je CSS.
+
+1147
+00:55:40,000 --> 00:55:43,000
+Prav, nisi mogel Vue file narediti v projektu in ga mountati.
+
+1148
+00:55:43,000 --> 00:55:47,000
+Zdaj, če si pa dodal transpiler ali nekaj webpacka ali kajkoli,
+
+1149
+00:55:47,000 --> 00:55:51,000
+ker je to omogočil, pa je pač v CSS omogočil tudi reaktor.
+
+1150
+00:55:51,000 --> 00:55:55,000
+Ampak nekaj ta miselnost in nekaj takih izjavov pa prihajaš
+
+1151
+00:55:55,000 --> 00:56:00,000
+istokrat, ker je Vue pač imel ta drugačen način.
+
+1152
+00:56:01,000 --> 00:56:06,000
+Ja, Angular je dodal par let nazaj to delo, ka aplikacijo daš na element.
+
+1153
+00:56:06,000 --> 00:56:09,000
+Na začetku pa tega ni bilo.
+
+1154
+00:56:09,000 --> 00:56:13,000
+Tu bom ostali še vsaj na tem nivoju primerjave.
+
+1155
+00:56:13,000 --> 00:56:22,000
+Daj mi še mogoče razložiš ta Angular framework, react in library.
+
+1156
+00:56:22,000 --> 00:56:26,000
+Da se to vedno drži, pa lahko razliko razložiš.
+
+1157
+00:56:26,000 --> 00:56:34,000
+Bi rekel, da skozi manj drži, zakaj Angular je od začetka šipov vsaj skupaj.
+
+1158
+00:56:34,000 --> 00:56:41,000
+Se pravi, dajo ti je tudi lahko nekaj renderov, dajo ti je način za fečanje podatkov,
+
+1159
+00:56:41,000 --> 00:56:46,000
+dajo ti je način za delovni root, dajo ti je način za state management uporabljati.
+
+1160
+00:56:46,000 --> 00:56:52,000
+Metem, ker je react samo posebno ni način tega zares definiral.
+
+1161
+00:56:53,000 --> 00:56:59,000
+In ti v bistvu da rendering engine vsaj na začetku z nekim minimalnim lokalnim state-om
+
+1162
+00:56:59,000 --> 00:57:03,000
+pa načinom za prenašanje informacij po tem drevesu.
+
+1163
+00:57:03,000 --> 00:57:11,000
+Zdaj je react nekaj let nazaj, spokoj, ki je dodal ta state management veliko bolj resno.
+
+1164
+00:57:11,000 --> 00:57:21,000
+Še zmeraj ni to nekaj, ki bo vse rešil, ampak pa že da je vsaj ta state management rešitev zraven.
+
+1165
+00:57:21,000 --> 00:57:23,000
+Oziroma nek način, da to dosežeš.
+
+1166
+00:57:23,000 --> 00:57:28,000
+Zdaj še zmer cel state management pa načine, kako ga boš uporabljal, se sanj zmisljaš,
+
+1167
+00:57:28,000 --> 00:57:33,000
+ampak mogoče to je ta glavna razlika med framework in library,
+
+1168
+00:57:33,000 --> 00:57:36,000
+je to, da v zemlji dobiš vse.
+
+1169
+00:57:36,000 --> 00:57:41,000
+Ampak router, če delaš single page, to ni, da je v reaktor.
+
+1170
+00:57:41,000 --> 00:57:48,000
+Ne, to je nek library, penotno se pa maje dva, ki se uporabljata, pa eden prevladuje.
+
+1171
+00:57:49,000 --> 00:57:53,000
+Lahko pa se odloči, da si svajga spišljaš, ampak da sploh nimaš routerja.
+
+1172
+00:57:53,000 --> 00:58:01,000
+Zdaj, če narabiš dostop do nekega URL-a specifičnega, pa je z resnimi nekaj potrebe po routerju.
+
+1173
+00:58:01,000 --> 00:58:13,000
+Bi uporabljali to vprašanje, razlike med, kako rešiš ti framework in rešiš komunikacijo med komponentami,
+
+1174
+00:58:13,000 --> 00:58:17,000
+ampak to mogoče še malo pogledamo, lahko to malo poveš.
+
+1175
+00:58:17,000 --> 00:58:27,000
+Kako so neke prakse pri komunikaciji. Se mi zdi, da kako odpreš neke tutoriale v reaktor, pa to je komponenta,
+
+1176
+00:58:27,000 --> 00:58:34,000
+vsi rečejo, da je komponente, malo je izoliran bejoček, dela neko funkcionalnost, funkcionalnost razdelimo,
+
+1177
+00:58:34,000 --> 00:58:44,000
+glede na vizualno podobo ali pa neke interakcije, ampak ti komponente morajo nekako komunicirati, lahko to malo nam razložiš.
+
+1178
+00:58:45,000 --> 00:58:46,000
+Zdaj.
+
+1179
+00:58:46,000 --> 00:58:47,000
+Abo razliko med.
+
+1180
+00:58:47,000 --> 00:58:56,000
+Ja, ne vem, kako bom lahko še oddela z razliko, ampak v reaktor imaš pač, a pa način, kar sem skupen je to,
+
+1181
+00:58:56,000 --> 00:59:05,000
+da lahko zmeri podreveso pošiljaš dal, zapravo svojim otrokom, lahko pošiljaš podatke, lahko jim pošiljaš tudi funkce s tem
+
+1182
+00:59:05,000 --> 00:59:15,000
+in pa taj funkce ti lahko kasneje pokličaš, pa ti nekaj više gor spremenijo to stvar in so se skupaj updata.
+
+1183
+00:59:15,000 --> 00:59:26,000
+Zdaj za Angular 2 težko vračam, ker nisem nikoli nič napisal resnega o tem, ampak v enki si imel, recimo,
+
+1184
+00:59:27,000 --> 00:59:35,000
+a ne so to, ti jim rekel, servise ali pa na tem so bili factory, kjer je bil en singleton, kamor si ti pisu podatke
+
+1185
+00:59:35,000 --> 00:59:48,000
+in tudi ves lokalen state pa vse je Angular nekak računal na to, da ko si ti nekaj spremembe naredil v njihovem okolju ali pa v njihovem kontekstu,
+
+1186
+00:59:48,000 --> 00:59:55,000
+je pa vam to ugotovil in je pač vse preveril, če se je kaj spremenil, pa kaj se je spremenil pa na novo naristil.
+
+1187
+00:59:55,000 --> 01:00:06,000
+Zdaj reakt je bil tukaj mogoče že od začetka bolj pametan, kjer je zmeri, kjerkolj v drevesa pač pa so to vse je bilo drevo.
+
+1188
+01:00:06,000 --> 01:00:16,000
+In kakršnokolj spremembo si naredil, si jo mogel postaviti nekam v to drevo. Zdaj lahko je na vrh drevesa, pa je pomenil, da se bo vse narisal.
+
+1189
+01:00:17,000 --> 01:00:26,000
+Lahko je bilo pa nekaj omest, pa si je dobil v bistvu sam nek subsed, kaj se updajeta. V VIO se mi zdi, da je tudi podobno, ampak oni dodajo malo več.
+
+1190
+01:00:26,000 --> 01:00:39,000
+Se mu rečem magic, kjer ti pišiš, nekako se ti zdi, da pišiš normalen javascript, ampak oni vzadi vse tvoje podatke spremiljajo, grejo čez dreveso, nastavijo proakseje,
+
+1191
+01:00:39,000 --> 01:00:46,000
+pa nekaj lisa naredna, spremembe in te v bistvu često ugotavljajo, kaj se je spremenil in kaj je treba zdaj popraviti.
+
+1192
+01:00:48,000 --> 01:00:55,000
+Mislim, da tam pre Angleru si se fokusiral na Angler 1. Angler 2 je popravljal par adresov.
+
+1193
+01:00:55,000 --> 01:01:00,000
+Je drug framework, v bistvu ni več, ostal je samimi.
+
+1194
+01:01:01,000 --> 01:01:11,000
+Tam je drugače, mislim, da je zelo bolj podobno reaktov, pa tudi v Angleru imaš zdaj ta NGN-RX, kaj je v bistvu nek state oziroma nek spor.
+
+1195
+01:01:11,000 --> 01:01:16,000
+In preko tega se spremembe upravljajo in komende to.
+
+1196
+01:01:19,000 --> 01:01:22,000
+Kaj še lahko od teh klasičnih guys jih povemo?
+
+1197
+01:01:22,000 --> 01:01:30,000
+Ena stvar še pre state managmenta samim, ki je mogoče zanimiva, je, da večina tega se ponavad dogaja izvanj frameworka.
+
+1198
+01:01:30,000 --> 01:01:41,000
+Oziroma, staj v reaktov je mogoče ta nevečja razlika, da so to vse stvari, ki so v nekem ljudšem namjeva skriptu, kaj jih pa predstavaš v reaktov.
+
+1199
+01:01:41,000 --> 01:01:45,000
+Oziroma, se v reaktov dodaje nekaj lese na reaktov.
+
+1200
+01:01:45,000 --> 01:01:50,000
+Samo nekaj state, kaj bi bil Redux ali pa kaj drugačega.
+
+1201
+01:01:50,000 --> 01:01:59,000
+So to vse stvari, kjer imaš neko glavno logiko spremembe izmeri spisano izvanj reakta samega.
+
+1202
+01:01:59,000 --> 01:02:02,000
+In imaš pa sam nek adaptor k reaktu.
+
+1203
+01:02:02,000 --> 01:02:06,000
+Tako, da tudi veliko nekih teh frameworkov si pa lahko šipa v Vue ali pa v Angler.
+
+1204
+01:02:06,000 --> 01:02:12,000
+Zato, ker sama neka korida je bila izmeri spisana neodvisno od frameworka.
+
+1205
+01:02:16,000 --> 01:02:19,000
+Ja, jaz imam eno vprašanje.
+
+1206
+01:02:19,000 --> 01:02:22,000
+Kako bistvo preče za vse te frameworke?
+
+1207
+01:02:22,000 --> 01:02:25,000
+Prej se je omenil server-side rendering.
+
+1208
+01:02:25,000 --> 01:02:31,000
+Pač, je to nekaj, ki bi moraš uporabljati zdaj?
+
+1209
+01:02:31,000 --> 01:02:33,000
+Pač, pa je to nekaj nov standard?
+
+1210
+01:02:33,000 --> 01:02:36,000
+Je to nekaj, ki ti pride pravda uporabljaš?
+
+1211
+01:02:36,000 --> 01:02:38,000
+Samo ne vem, pri ful velikih app-ih?
+
+1212
+01:02:38,000 --> 01:02:40,000
+Pa konc koncov, kaj je to?
+
+1213
+01:02:40,000 --> 01:02:42,000
+Dovem, zakaj je to uporabljalo.
+
+1214
+01:02:43,000 --> 01:02:47,000
+Server-side rendering, to je ena stvar, ki je ustavila že skos.
+
+1215
+01:02:49,000 --> 01:02:50,000
+PHP.
+
+1216
+01:02:50,000 --> 01:02:53,000
+Ja, recimo PHP je bil dober primer tega.
+
+1217
+01:02:53,000 --> 01:02:58,000
+In pa so šli vsi na klient, zato, ker si neenkrat lahko stvari v browzeru naredil.
+
+1218
+01:02:58,000 --> 01:03:04,000
+In zdaj prihaja to nazaj, zato, ker pa so ugotovili, da če šipaš cel Amazonov app,
+
+1219
+01:03:04,000 --> 01:03:07,000
+ne pretraja nekaj ceta, da ga naloudaš.
+
+1220
+01:03:07,000 --> 01:03:09,000
+Pa pa loudaš še podatke.
+
+1221
+01:03:09,000 --> 01:03:11,000
+Pa pa lahko nekaj pokažeš.
+
+1222
+01:03:11,000 --> 01:03:16,000
+In sploh v e-commerce-ih, tam se mi zdi, da se je začelo nazaj vračati
+
+1223
+01:03:16,000 --> 01:03:18,000
+server-side renderingov.
+
+1224
+01:03:19,000 --> 01:03:24,000
+Je bilo to, da ti z vsako milisekundo zgubljaš deločen procent juzerov.
+
+1225
+01:03:24,000 --> 01:03:28,000
+Zdaj ima manjša pač manjša svoje profite,
+
+1226
+01:03:28,000 --> 01:03:32,000
+ali pa to, da bo nekdo pač, šansa, da bo nekdo kupil zdaj zdelj,
+
+1227
+01:03:32,000 --> 01:03:34,000
+ki bo mogel tam eno, dve sekunde čakati.
+
+1228
+01:03:34,000 --> 01:03:40,000
+Zdaj so taj časi zdaj nekje pod 200 milisekund mogoče celo.
+
+1229
+01:03:42,000 --> 01:03:45,000
+In, ja, zdaj server-side rendering
+
+1230
+01:03:47,000 --> 01:03:50,000
+ni ena stvar, kjer bi,
+
+1231
+01:03:50,000 --> 01:03:53,000
+ker zdaj to pomeni, da je kar vse server-side rendered,
+
+1232
+01:03:53,000 --> 01:03:56,000
+ampak je ponovato sam tvoj prvi frame.
+
+1233
+01:03:56,000 --> 01:04:01,000
+Se pravi, kot ti pokliče stran, boš dobil že hrto melo noter
+
+1234
+01:04:01,000 --> 01:04:05,000
+za sliko, za vsemi teksti, sceno, ki ga rabaš.
+
+1235
+01:04:05,000 --> 01:04:07,000
+In na sam tem pa se ti bo pameten,
+
+1236
+01:04:07,000 --> 01:04:11,000
+kar pač ti čakaš tisto eno sekundo, da tvoj možgan izprocesira,
+
+1237
+01:04:11,000 --> 01:04:13,000
+da se je nekaj pokazal.
+
+1238
+01:04:13,000 --> 01:04:15,000
+Zdaj bo pozadji nalodil še framework,
+
+1239
+01:04:15,000 --> 01:04:18,000
+pa dodal vsa ta interaktivnost, ki se je navajal.
+
+1240
+01:04:18,000 --> 01:04:26,000
+Se pravi, če si, če te v nek ta time to first frame,
+
+1241
+01:04:26,000 --> 01:04:30,000
+kaj je ta čas, da hitro prikažeš, da je ovo res pomemben,
+
+1242
+01:04:30,000 --> 01:04:35,000
+potem se ti splače in ta ekstra step investirati v server-side rendering.
+
+1243
+01:04:35,000 --> 01:04:39,000
+A pa še mogoče korak naprej in narediti še pre-rendering,
+
+1244
+01:04:39,000 --> 01:04:46,000
+kar je pa, v bistvu je zgeneriraš, namesto, da zrenderaš aplikacijo,
+
+1245
+01:04:46,000 --> 01:04:49,000
+a pa skrin, takrat, kaj ga juzer zahteva,
+
+1246
+01:04:49,000 --> 01:04:51,000
+pripraveš že vse možne skrine,
+
+1247
+01:04:51,000 --> 01:04:54,000
+kaj se jih lahko spomneš, a pa so ti pomembni naprej,
+
+1248
+01:04:54,000 --> 01:04:58,000
+jih lahko statično serveraš, to pomeni, da ne rabeš noč procesirati,
+
+1249
+01:04:58,000 --> 01:05:01,000
+pol pa spet naprej delav framework.
+
+1250
+01:05:01,000 --> 01:05:03,000
+To naj boš tudi za sejo dober.
+
+1251
+01:05:03,000 --> 01:05:09,000
+Ja, pa za sejo mogoče naredi razliko v timingu.
+
+1252
+01:05:09,000 --> 01:05:18,000
+Metem, kar sam rezultat je na koncu pre-renderja, pre-renderja server-side.
+
+1253
+01:05:18,000 --> 01:05:23,000
+To se pravi, server-side rendering je PHP z Ajaxom samo na glavo.
+
+1254
+01:05:25,000 --> 01:05:29,000
+Ja, ampak zakomplicira pa cel setup, pa cel pipeline,
+
+1255
+01:05:29,000 --> 01:05:37,000
+pa veliko investicijo je postaviti to, pa prepraviti to,
+
+1256
+01:05:37,000 --> 01:05:41,000
+pa narediti na tak način, da boš vse to lahko…
+
+1257
+01:05:41,000 --> 01:05:47,000
+Ja, pa ne, zdaj vsi te major frameworkji so dobili pal svoje frameworkje še čez,
+
+1258
+01:05:47,000 --> 01:05:50,000
+ker bi to fulj dober optimizirali, ponavad je zdraven,
+
+1259
+01:05:50,000 --> 01:05:54,000
+bi bil preprečekar njihov cloud provisioning.
+
+1260
+01:05:54,000 --> 01:05:57,000
+Zdaj, recimo dober primer je Vercel,
+
+1261
+01:05:57,000 --> 01:05:59,000
+ki so naredili Next za React.
+
+1262
+01:05:59,000 --> 01:06:03,000
+Oni so v bistvu začeli s tem, da si dom kontejnerčko deplojajo,
+
+1263
+01:06:03,000 --> 01:06:10,000
+pa so pa naredili Next, ki je bil fulj dober za delanje pač pelj statičnih pejčev,
+
+1264
+01:06:10,000 --> 01:06:14,000
+pa so pa postavili z vsejo infrastrukturo, ki so jo imeli,
+
+1265
+01:06:14,000 --> 01:06:17,000
+to, da lahko ti napišeš nek zelo…
+
+1266
+01:06:17,000 --> 01:06:21,000
+na zelo prepras način lahko napišeš website z Reactom.
+
+1267
+01:06:22,000 --> 01:06:27,000
+Oni ti pa poskrbijo, da gre to na CDN-e, da imajo pač edge node-e,
+
+1268
+01:06:27,000 --> 01:06:32,000
+ki znajo to server-side rendrat, in se ti skore narediš več ukvarjati s tem,
+
+1269
+01:06:32,000 --> 01:06:37,000
+razen tega, da na neki točki pa veš, lej tle so podatki, ko jih fečaš.
+
+1270
+01:06:37,000 --> 01:06:42,000
+A lahko še ta… malo še nam več povej o tem edge node-ih.
+
+1271
+01:06:42,000 --> 01:06:43,000
+Ja.
+
+1272
+01:06:43,000 --> 01:06:47,000
+Zato vidim, da v zadnji čas je fulj nek trend tudi za oni, kajže,
+
+1273
+01:06:47,000 --> 01:06:50,000
+cloudflare-o, javascript na edge node-ih.
+
+1274
+01:06:50,000 --> 01:06:51,000
+Ja.
+
+1275
+01:06:51,000 --> 01:06:53,000
+Kje za boga ta javascript živi?
+
+1276
+01:06:53,000 --> 01:06:55,000
+Na edge node-ih.
+
+1277
+01:06:55,000 --> 01:06:56,000
+Na edge node-ih, no, razloži se to.
+
+1278
+01:06:56,000 --> 01:07:01,000
+Zato, ja, ne vem, koliko široko ne grem, ampak začne se s tem,
+
+1279
+01:07:01,000 --> 01:07:07,000
+da imaš ti pač nek server, a pa tvoj računalnik, ki servera to sveto.
+
+1280
+01:07:07,000 --> 01:07:11,000
+Zdaj, kdorkoli upiše URL, pride na ta računalnik, pa ti da…
+
+1281
+01:07:11,000 --> 01:07:14,000
+pa ti da nazaj pač nek odgovor.
+
+1282
+01:07:14,000 --> 01:07:15,000
+Seveda, ja.
+
+1283
+01:07:15,000 --> 01:07:20,000
+In pal so ugotovili, da kar naenkrat, če imaš pa ti poradnike iz celega sveta,
+
+1284
+01:07:20,000 --> 01:07:23,000
+pa veliko prometa, aparata fulj se nej pa hitrej,
+
+1285
+01:07:23,000 --> 01:07:27,000
+če ti postaveš nek mogoče na vsaki, na vsakem kontinentu,
+
+1286
+01:07:28,000 --> 01:07:31,000
+en pač server če, kaj ne pa ima vsi iste file,
+
+1287
+01:07:32,000 --> 01:07:34,000
+pa smo pal prišli tudi do CDN-o,
+
+1288
+01:07:36,000 --> 01:07:39,000
+kjer pač imaš nekak bolj lokalen dostop.
+
+1289
+01:07:39,000 --> 01:07:42,000
+In pal so se taj CDN-i začeli ugotovljati,
+
+1290
+01:07:42,000 --> 01:07:46,000
+da mogoče pa bolj postavljati če več manjših serverčkov,
+
+1291
+01:07:46,000 --> 01:07:49,000
+ponašnjem enega v Ljubljani, enega v Maribor, enega v Kopru,
+
+1292
+01:07:49,000 --> 01:07:54,000
+da nekdo ne rab čakati, da pač paketi pridajo iz Kopra do Ljubljane,
+
+1293
+01:07:54,000 --> 01:07:56,000
+če jih lahko dobijo v Ljubljani.
+
+1294
+01:07:56,000 --> 01:07:59,000
+In pal so videli, da je to v bistvu fulj dober,
+
+1295
+01:08:00,000 --> 01:08:04,000
+pa so strani pač hitrejši, zaradi tega pa ni to keforta treba,
+
+1296
+01:08:04,000 --> 01:08:07,000
+caching lahko nekak normalno rešiš.
+
+1297
+01:08:09,000 --> 01:08:13,000
+In so v bistvu zakaj pa ne bi zdaj uporabljali še tih serverjev,
+
+1298
+01:08:13,000 --> 01:08:18,000
+ki jih že imamo, povsod, za to, da nekaj sprecesirajo na hiter.
+
+1299
+01:08:18,000 --> 01:08:21,000
+In tako so zdaj v bistvu v tej Ljubljani so …
+
+1300
+01:08:21,000 --> 01:08:24,000
+Se pravi, ti CDN-i niso več v raznici serverje,
+
+1301
+01:08:24,000 --> 01:08:29,000
+ki statično osibino servirajo, ampak dejansko neko logiko lahko tudi izvaje.
+
+1302
+01:08:29,000 --> 01:08:30,000
+Ja, ja.
+
+1303
+01:08:30,000 --> 01:08:33,000
+Ponavad je to malo manjše, pa malo več stane,
+
+1304
+01:08:33,000 --> 01:08:35,000
+če pač imaš veliko procesiranja tam,
+
+1305
+01:08:35,000 --> 01:08:39,000
+pa je to ni več pocen, imajo pa tudi pač nek subset.
+
+1306
+01:08:39,000 --> 01:08:41,000
+Ta ne bo še zmer ne pomenil to,
+
+1307
+01:08:41,000 --> 01:08:45,000
+da boš pa ti zdaj cel svoj server dal na ta edge node,
+
+1308
+01:08:45,000 --> 01:08:52,000
+zato ker boš še zmeri, boš nekak v 200 milisekundah,
+
+1309
+01:08:52,000 --> 01:08:55,000
+kaj jih imaš, ne vem, da greš do baze, pa nazaj,
+
+1310
+01:08:55,000 --> 01:08:59,000
+pa nekaj sprecesiraš, se ti teh par milisekund,
+
+1311
+01:08:59,000 --> 01:09:02,000
+ki jih edge nodi ponujajo, ne bo toliko poznal.
+
+1312
+01:09:03,000 --> 01:09:06,000
+Med tem, da če imaš pa samo nekaj manjše operacije,
+
+1313
+01:09:06,000 --> 01:09:09,000
+je pa to lahko pa bolj dobro.
+
+1314
+01:09:11,000 --> 01:09:13,000
+Tukaj bi lahko zdaj pol šel v server,
+
+1315
+01:09:13,000 --> 01:09:17,000
+ali pa bom še malo pustil to debato za krasnej.
+
+1316
+01:09:17,000 --> 01:09:20,000
+Pa še gremo malo nazaj na framework,
+
+1317
+01:09:20,000 --> 01:09:23,000
+je ok, zdaj smo dali naš single page app,
+
+1318
+01:09:23,000 --> 01:09:28,000
+smo ga izbildali v Reactu, Angulary ali pa v Vue celo,
+
+1319
+01:09:28,000 --> 01:09:30,000
+smo se odločili gled tega.
+
+1320
+01:09:33,000 --> 01:09:35,000
+Kaj bi še znotraj dali?
+
+1321
+01:09:35,000 --> 01:09:39,000
+Dej mi še mogoče razlož, kaj je ta shadow DOM?
+
+1322
+01:09:39,000 --> 01:09:42,000
+Nešo je to razlož, ker se mi zdi, da je to nekaj zadeva,
+
+1323
+01:09:42,000 --> 01:09:45,000
+da je naletio, pa mogoče niti ne vejo, da obstaja,
+
+1324
+01:09:45,000 --> 01:09:48,000
+pa zakaj za Boga se je to popravljalo?
+
+1325
+01:09:48,000 --> 01:09:51,000
+Zato, ki sta dva izraza, kaj pa na te dve različne stvari,
+
+1326
+01:09:51,000 --> 01:09:54,000
+imaš shadow DOM, pa imaš virtual DOM.
+
+1327
+01:09:54,000 --> 01:09:58,000
+Mogoče shadow DOM prhaja iz web komponentov,
+
+1328
+01:09:58,000 --> 01:10:01,000
+ki je v bistvu eden od poskusov bil, da
+
+1329
+01:10:01,000 --> 01:10:04,000
+mogoče ne bi rabil frameworkov kot so React,
+
+1330
+01:10:04,000 --> 01:10:07,000
+da bi v bistvu browseri že sami vse to podpirali.
+
+1331
+01:10:07,000 --> 01:10:10,000
+In tome je, da imaš tudi neko komponento,
+
+1332
+01:10:10,000 --> 01:10:14,000
+ki bo postavila mila nove elemente noter,
+
+1333
+01:10:14,000 --> 01:10:17,000
+ampak v nekem tem HTML-u,
+
+1334
+01:10:17,000 --> 01:10:20,000
+drve so bo to še zmerila ena komponenta
+
+1335
+01:10:20,000 --> 01:10:22,000
+in shadow DOM bi bil vse,
+
+1336
+01:10:22,000 --> 01:10:25,000
+kar ta komponenta pod sabo sproducira.
+
+1337
+01:10:25,000 --> 01:10:28,000
+In to tudi ni nekaj druga stvar,
+
+1338
+01:10:28,000 --> 01:10:32,000
+kar targeta normalno tako kot navadno DOM.
+
+1339
+01:10:32,000 --> 01:10:35,000
+Zdaj, virtual DOM je bil pa, je bila pa neka rešitev,
+
+1340
+01:10:35,000 --> 01:10:38,000
+ki so se, mislim, spomnili pa o Reactu,
+
+1341
+01:10:38,000 --> 01:10:43,000
+je pa, da ti zgradiš neko HTML-o reprezentacijo,
+
+1342
+01:10:43,000 --> 01:10:48,000
+ki se pa aplaja na danski HTML-o,
+
+1343
+01:10:48,000 --> 01:10:50,000
+ki je v tvojem browseru.
+
+1344
+01:10:50,000 --> 01:10:52,000
+Se pravi to, kar vidiš.
+
+1345
+01:10:53,000 --> 01:10:56,000
+Ja, v bistvu, ne mislim, da bi,
+
+1346
+01:10:56,000 --> 01:10:58,000
+ker browseri so bili zelo počasni s tem,
+
+1347
+01:10:58,000 --> 01:10:59,000
+da bi jim ti zamenjil.
+
+1348
+01:10:59,000 --> 01:11:01,000
+Zdaj imaš pa zdaj vse nove elemente,
+
+1349
+01:11:01,000 --> 01:11:04,000
+samo pa vos vse, pa pač aplajita no state,
+
+1350
+01:11:04,000 --> 01:11:07,000
+so pač z virtual DOM on dosegel to,
+
+1351
+01:11:07,000 --> 01:11:11,000
+da si ga ti pač iz Reakta outputov,
+
+1352
+01:11:11,000 --> 01:11:13,000
+pač za virtual DOM,
+
+1353
+01:11:13,000 --> 01:11:15,000
+in za pola oni pametno ugotovili,
+
+1354
+01:11:15,000 --> 01:11:16,000
+kaj je treba popravljati,
+
+1355
+01:11:16,000 --> 01:11:17,000
+zato da je čimo spremem,
+
+1356
+01:11:17,000 --> 01:11:18,000
+da čime stvari skačajo,
+
+1357
+01:11:18,000 --> 01:11:21,000
+da ne zgubljaš njegove state na inputu,
+
+1358
+01:11:22,000 --> 01:11:24,000
+ampak tako je storit.
+
+1359
+01:11:25,000 --> 01:11:27,000
+Lahko za server vse sprašujem.
+
+1360
+01:11:27,000 --> 01:11:29,000
+Se bi še rad malo pogovarjal
+
+1361
+01:11:29,000 --> 01:11:32,000
+v bolj ekzotičnih frameworkjih.
+
+1362
+01:11:32,000 --> 01:11:34,000
+Jaz bi backends sprašal.
+
+1363
+01:11:34,000 --> 01:11:35,000
+Backends?
+
+1364
+01:11:35,000 --> 01:11:36,000
+Čist malo.
+
+1365
+01:11:36,000 --> 01:11:37,000
+Malega demo.
+
+1366
+01:11:37,000 --> 01:11:38,000
+Demo ga.
+
+1367
+01:11:38,000 --> 01:11:40,000
+Pač jaz sem zdaj podjetnik,
+
+1368
+01:11:40,000 --> 01:11:43,000
+ki pač je napisal v Reakto frontend,
+
+1369
+01:11:43,000 --> 01:11:45,000
+pa bi rad zamenjil moj backend,
+
+1370
+01:11:45,000 --> 01:11:46,000
+ki je v Pascalu,
+
+1371
+01:11:46,000 --> 01:11:47,000
+pa z JavaScriptom,
+
+1372
+01:11:47,000 --> 01:11:49,000
+ko že imam tri developerje.
+
+1373
+01:11:49,000 --> 01:11:50,000
+Sem malo prebral,
+
+1374
+01:11:50,000 --> 01:11:52,000
+da postajajo ta mikroframework Express,
+
+1375
+01:11:52,000 --> 01:11:54,000
+pa plokaten storitelaž.
+
+1376
+01:11:55,000 --> 01:11:57,000
+Pa postajajo tako še nekaj drug...
+
+1377
+01:11:57,000 --> 01:11:59,000
+Pa postajajo tako framework,
+
+1378
+01:11:59,000 --> 01:12:01,000
+ki imajo mogoče boljše admin page,
+
+1379
+01:12:01,000 --> 01:12:02,000
+pa modele.
+
+1380
+01:12:02,000 --> 01:12:04,000
+A to je vsega tako postaja.
+
+1381
+01:12:04,000 --> 01:12:06,000
+A kaj se zdaj uporablja na backendu?
+
+1382
+01:12:06,000 --> 01:12:07,000
+Zdaj sem čist malo...
+
+1383
+01:12:07,000 --> 01:12:08,000
+Ja.
+
+1384
+01:12:08,000 --> 01:12:09,000
+Express je po manjšem zmerju
+
+1385
+01:12:09,000 --> 01:12:10,000
+bolj popularen,
+
+1386
+01:12:10,000 --> 01:12:11,000
+samo zaradi tega,
+
+1387
+01:12:11,000 --> 01:12:12,000
+kjer je bil...
+
+1388
+01:12:12,000 --> 01:12:13,000
+Kjer je bil prvi.
+
+1389
+01:12:13,000 --> 01:12:14,000
+Ja, kjer je bil prvi.
+
+1390
+01:12:14,000 --> 01:12:16,000
+Je tuk tutorial okoli tega
+
+1391
+01:12:16,000 --> 01:12:17,000
+in gre v CK.
+
+1392
+01:12:17,000 --> 01:12:18,000
+Trenutno se mi zdi,
+
+1393
+01:12:18,000 --> 01:12:19,000
+da še zmer ne potopira
+
+1394
+01:12:19,000 --> 01:12:21,000
+zaradi sasenjka vajtov.
+
+1395
+01:12:22,000 --> 01:12:24,000
+Oziroma, če pišeš sasenjka vajt,
+
+1396
+01:12:24,000 --> 01:12:25,000
+moraš vedeti,
+
+1397
+01:12:25,000 --> 01:12:28,000
+kako Express dela zares
+
+1398
+01:12:28,000 --> 01:12:30,000
+in kako hendla pa svoje
+
+1399
+01:12:30,000 --> 01:12:31,000
+request-response.
+
+1400
+01:12:31,000 --> 01:12:32,000
+Dragače se zelo hitro zgodi,
+
+1401
+01:12:32,000 --> 01:12:33,000
+da lahko nekaj likaš.
+
+1402
+01:12:33,000 --> 01:12:34,000
+Kot odgovor temu
+
+1403
+01:12:34,000 --> 01:12:35,000
+je prišel pal ploken
+
+1404
+01:12:35,000 --> 01:12:36,000
+podobnih frameworkov,
+
+1405
+01:12:36,000 --> 01:12:37,000
+ki so imeli mogoče
+
+1406
+01:12:37,000 --> 01:12:39,000
+ali podoben API.
+
+1407
+01:12:39,000 --> 01:12:40,000
+Pa ne.
+
+1408
+01:12:40,000 --> 01:12:42,000
+Ampak trenutno se mi zdi,
+
+1409
+01:12:42,000 --> 01:12:44,000
+najbolj varen choice
+
+1410
+01:12:44,000 --> 01:12:46,000
+bi bil Fastify,
+
+1411
+01:12:46,000 --> 01:12:48,000
+ki je v bistvu
+
+1412
+01:12:48,000 --> 01:12:50,000
+podoben kot Express,
+
+1413
+01:12:50,000 --> 01:12:52,000
+s tem, da ti doda
+
+1414
+01:12:52,000 --> 01:12:54,000
+nek kontekst globalen,
+
+1415
+01:12:54,000 --> 01:12:56,000
+v kjer lahko ti hendla stvari,
+
+1416
+01:12:56,000 --> 01:12:58,000
+ki so dibi connection-i,
+
+1417
+01:12:58,000 --> 01:13:00,000
+da ni to neka stvar,
+
+1418
+01:13:00,000 --> 01:13:02,000
+ki je tako prepuščena čisto,
+
+1419
+01:13:02,000 --> 01:13:04,000
+ampak imaš neke adaptore,
+
+1420
+01:13:04,000 --> 01:13:05,000
+ki ti skrbijo zato,
+
+1421
+01:13:05,000 --> 01:13:06,000
+da imaš zmerten connection,
+
+1422
+01:13:06,000 --> 01:13:07,000
+ko ga rabeš.
+
+1423
+01:13:07,000 --> 01:13:09,000
+Dodajo ti,
+
+1424
+01:13:09,000 --> 01:13:11,000
+že po sami posebki
+
+1425
+01:13:11,000 --> 01:13:13,000
+dodajo v bistvu validacijo,
+
+1426
+01:13:13,000 --> 01:13:15,000
+da lahko valideraš podatke
+
+1427
+01:13:15,000 --> 01:13:16,000
+s JSON-schemo,
+
+1428
+01:13:16,000 --> 01:13:17,000
+ki grejo noter,
+
+1429
+01:13:17,000 --> 01:13:19,000
+prihajajo, ki grejo ven,
+
+1430
+01:13:19,000 --> 01:13:21,000
+ker pa ti v bistvu
+
+1431
+01:13:21,000 --> 01:13:23,000
+daš JSON-schemo naprej,
+
+1432
+01:13:23,000 --> 01:13:24,000
+lahko oni to vzamejo,
+
+1433
+01:13:24,000 --> 01:13:25,000
+je ful pametno,
+
+1434
+01:13:25,000 --> 01:13:27,000
+sparsajo in začnejo.
+
+1435
+01:13:27,000 --> 01:13:28,000
+V bistvu medtem,
+
+1436
+01:13:28,000 --> 01:13:30,000
+kar se streamajo podatki,
+
+1437
+01:13:30,000 --> 01:13:32,000
+ali noter ali ven,
+
+1438
+01:13:32,000 --> 01:13:34,000
+v bistvu lahko
+
+1439
+01:13:34,000 --> 01:13:36,000
+na pol hardhodejo
+
+1440
+01:13:36,000 --> 01:13:38,000
+to, kako se generirajo
+
+1441
+01:13:38,000 --> 01:13:39,000
+ali JSON-i,
+
+1442
+01:13:39,000 --> 01:13:41,000
+ali pa kako se parsajo.
+
+1443
+01:13:41,000 --> 01:13:42,000
+In namesto uporabljaš JSON-parse,
+
+1444
+01:13:42,000 --> 01:13:44,000
+JSON-stringify,
+
+1445
+01:13:44,000 --> 01:13:46,000
+in oni to naredijo na bolj pameten način
+
+1446
+01:13:46,000 --> 01:13:48,000
+v streamu,
+
+1447
+01:13:48,000 --> 01:13:50,000
+ker ti je pospešil na neki točki,
+
+1448
+01:13:50,000 --> 01:13:52,000
+ne vem,
+
+1449
+01:13:52,000 --> 01:13:54,000
+mogoče,
+
+1450
+01:13:54,000 --> 01:13:56,000
+zato desetkrat do stokrat.
+
+1451
+01:13:56,000 --> 01:13:58,000
+To, kakšen truput,
+
+1452
+01:13:58,000 --> 01:13:59,000
+truput našto ne se generijo.
+
+1453
+01:13:59,000 --> 01:14:00,000
+Ampak to je še vedno nek
+
+1454
+01:14:00,000 --> 01:14:02,000
+express-like framework,
+
+1455
+01:14:02,000 --> 01:14:04,000
+ali je to Django,
+
+1456
+01:14:04,000 --> 01:14:05,000
+kjer imaš Django admin,
+
+1457
+01:14:05,000 --> 01:14:07,000
+pa imaš ta neki
+
+1458
+01:14:07,000 --> 01:14:08,000
+CRUD interface.
+
+1459
+01:14:08,000 --> 01:14:09,000
+Ja, še zmerj, še zmerj,
+
+1460
+01:14:09,000 --> 01:14:11,000
+je to sam nek rest framework.
+
+1461
+01:14:11,000 --> 01:14:13,000
+Ampak vredno,
+
+1462
+01:14:13,000 --> 01:14:15,000
+ja, a mogoče zdaj obstaja že kaj,
+
+1463
+01:14:15,000 --> 01:14:17,000
+pa se vem, da so to, pač,
+
+1464
+01:14:17,000 --> 01:14:19,000
+kako znaš to tehnologijo, imaš
+
+1465
+01:14:19,000 --> 01:14:21,000
+ful različna pričakovanja, ne, pač nekje so,
+
+1466
+01:14:21,000 --> 01:14:23,000
+v kakšnih svetovih so v stvari
+
+1467
+01:14:23,000 --> 01:14:25,000
+samo umel, ne,
+
+1468
+01:14:25,000 --> 01:14:27,000
+ampak, ja, ne vem, obstaja kaj taškega.
+
+1469
+01:14:27,000 --> 01:14:29,000
+Ja, po moje so nekaj poskusitega,
+
+1470
+01:14:29,000 --> 01:14:31,000
+sem mislil, da je Nest.
+
+1471
+01:14:31,000 --> 01:14:33,000
+Obstaja,
+
+1472
+01:14:33,000 --> 01:14:35,000
+kjer pač dobiš
+
+1473
+01:14:35,000 --> 01:14:37,000
+mogoče več tek bonbončkov zraven,
+
+1474
+01:14:37,000 --> 01:14:39,000
+hkrati ti pa pač
+
+1475
+01:14:39,000 --> 01:14:41,000
+dajo ful nekih konstrentov, ne,
+
+1476
+01:14:41,000 --> 01:14:43,000
+pač ti nekaj prilagoditi temu,
+
+1477
+01:14:43,000 --> 01:14:45,000
+kako so vsi oni to zamislili,
+
+1478
+01:14:45,000 --> 01:14:47,000
+kako so vsi mogoče slov folder
+
+1479
+01:14:47,000 --> 01:14:49,000
+strukturo zamislili, pač različno
+
+1480
+01:14:49,000 --> 01:14:51,000
+te umijo, pač ne vem,
+
+1481
+01:14:51,000 --> 01:14:53,000
+pač če je nekje, če obstaja
+
+1482
+01:14:53,000 --> 01:14:55,000
+nekaj ta zgod, kot džango, kaj potkotuj pa
+
+1483
+01:14:55,000 --> 01:14:57,000
+ta stvar, kaj uporabo
+
+1484
+01:14:57,000 --> 01:14:59,000
+za to.
+
+1485
+01:14:59,000 --> 01:15:01,000
+Nekak zmerj,
+
+1486
+01:15:00,000 --> 01:15:05,000
+včakuje, da imaš neke druge toole, s katerimi lahko upravljaš te servere.
+
+1487
+01:15:06,000 --> 01:15:11,000
+In kaj pa če nočiš serveje umetiti, ker serveri izkoštajo?
+
+1488
+01:15:12,000 --> 01:15:17,000
+To je tudi ena zadeva, ki je zodne čase vedno bolj popularna postaja.
+
+1489
+01:15:17,000 --> 01:15:23,000
+Ok, šli smo čez to, ko se hoče folk biljati svoje CMS-e, kot Evolucija.
+
+1490
+01:15:23,000 --> 01:15:28,000
+Šli smo v to, da so framework-i postali, ki ti krad operacije pomagajo.
+
+1491
+01:15:30,000 --> 01:15:38,000
+Zdaj pa smo se umestno naučili, da moderacija sistemov pa vse skupaj ni tako trivialna.
+
+1492
+01:15:38,000 --> 01:15:43,000
+Ugotovili smo, da on-premise je pred vsej dragi, pa ti serveri zastarajo.
+
+1493
+01:15:43,000 --> 01:15:48,000
+In gremo zdaj v neko nasledno generacijo Evolucije.
+
+1494
+01:15:48,000 --> 01:15:52,000
+Pa vidimo, da pač cloud pa serverless.
+
+1495
+01:15:52,000 --> 01:15:59,000
+To so dve zadeve, ki jaz vidim JavaScript kot go-to lepilo za lepiti te stvari skupaj.
+
+1496
+01:15:59,000 --> 01:16:05,000
+Kaj ti to zadevo vidiš? Kaj te stvari vidiš? Kaj je tunotra vloga JavaScripta recimo?
+
+1497
+01:16:05,000 --> 01:16:11,000
+Vloga JavaScripta je pa moja bila ta, da je rato back-end dostopen ljudem.
+
+1498
+01:16:11,000 --> 01:16:16,000
+To je lahko vsak napisal nek back-end, ga nekaj deplojal.
+
+1499
+01:16:16,000 --> 01:16:20,000
+In potem, ko so se stvari začele skajlati, se je to poznalo na računu.
+
+1500
+01:16:20,000 --> 01:16:26,000
+Zato, ker se je lahko zelo hitro napisal nekaj, ki ni bilo dost hitro.
+
+1501
+01:16:26,000 --> 01:16:30,000
+Ali pa je imel različne težave, pa se je nekaj deplojal.
+
+1502
+01:16:30,000 --> 01:16:36,000
+Pa so lahko še malo auto-skajlali, ker so rekli, a kaj, če mi pa tle zdaj zmanjkuje na temu serveru resursov,
+
+1503
+01:16:36,000 --> 01:16:38,000
+da bomo še dodajet.
+
+1504
+01:16:38,000 --> 01:16:45,000
+In potem, tu bi so ogroman ekip se zelo usmerili v to, da pač deliverajo featureje.
+
+1505
+01:16:45,000 --> 01:16:50,000
+Pa se naslednjo je pogroman nek tehničen depth v pad sami infrastrukturi.
+
+1506
+01:16:50,000 --> 01:16:54,000
+In tudi, mogoče nisem imel dostopa do ljudi, ki so poznali vse to.
+
+1507
+01:16:54,000 --> 01:16:58,000
+Kaj si pa ljudi, ki so se znali na bazo povezati, pa nekaj variant iz tega.
+
+1508
+01:16:58,000 --> 01:17:06,000
+In sem že Netflix je bil tukaj eden izmed prvih, ki so prišli s konceptom teh function as a service,
+
+1509
+01:17:06,000 --> 01:17:08,000
+to, kar rečemo zdaj serverless.
+
+1510
+01:17:08,000 --> 01:17:13,000
+In so si dansko na AVS-o napisali svojo platformo za to.
+
+1511
+01:17:13,000 --> 01:17:19,000
+Ideja je pa, da ti, mogoče function as a service je malo na pačen izraslo.
+
+1512
+01:17:20,000 --> 01:17:26,000
+Ideja je pa, da ti napišeš sam neko biznis logiko in se ne ukvarja s tem,
+
+1513
+01:17:26,000 --> 01:17:32,000
+kako to paše v cel neko ogroman codebase, kako so pač vsi neki lajeri,
+
+1514
+01:17:32,000 --> 01:17:38,000
+ki jih pač rabeš, da se je to zalavfa na nekem strežniku.
+
+1515
+01:17:38,000 --> 01:17:43,000
+Ti napišeš pač samo to funkcijo in zdaj ena stvar je tam zate, kaj te bo zalavfala.
+
+1516
+01:17:44,000 --> 01:17:50,000
+Se pravi, bolj smo se približali s tem, da se serverless developerja pa pač developerji,
+
+1517
+01:17:50,000 --> 01:17:56,000
+ki s teh tehnologijami delajo, se bolj ukvarjajo z logiko pa z podatki recimo temu,
+
+1518
+01:17:56,000 --> 01:18:03,000
+sprogramujem biznis logike, vse ostalo pa na nek način je najbi ta serverless tehnologija
+
+1519
+01:18:03,000 --> 01:18:06,000
+plus cloud na nek način rešila.
+
+1520
+01:18:06,000 --> 01:18:11,000
+Veliko napaktjev zame stran, oziroma veliko stvari, ki bi jih lahko na robi naredil,
+
+1521
+01:18:11,000 --> 01:18:14,000
+sploh nisem eksplodovan temu.
+
+1522
+01:18:14,000 --> 01:18:21,000
+Če ti tudi dam ta executive question, ste lambda funkciji serverless platforme,
+
+1523
+01:18:21,000 --> 01:18:32,000
+niso poceni, ampak a se ti zdi, da je še vse, a so drage, a so poceni,
+
+1524
+01:18:32,000 --> 01:18:35,000
+ali je majen moderacij, majen ops?
+
+1525
+01:18:35,000 --> 01:18:41,000
+Če ima server, ki ga obišče en človek na dan, je lambda,
+
+1526
+01:18:41,000 --> 01:18:44,000
+ampak serverless funkcije so za sto praktično.
+
+1527
+01:18:44,000 --> 01:18:50,000
+Začne se poznati, če imaš konstanten ogromen pritisk na server,
+
+1528
+01:18:50,000 --> 01:18:56,000
+takrat mogoče to urata malo bolj prici, pa bi uporabljali pač dnevske serverje,
+
+1529
+01:18:56,000 --> 01:18:58,000
+pa pač neke kontejnerje.
+
+1530
+01:18:58,000 --> 01:19:05,000
+Z neke zelo nepredvidljive love, kjer imaš veliko časa nad zanarediti,
+
+1531
+01:19:05,000 --> 01:19:10,000
+so pa lahko take lambda zelo veliko prešparaš,
+
+1532
+01:19:10,000 --> 01:19:15,000
+plus ne rebeš se ukvarjati veliko za ten, kako boš to skajal.
+
+1533
+01:19:15,000 --> 01:19:18,000
+V recimo na en premisli pač limita na tem, da ti server ne zagori,
+
+1534
+01:19:19,000 --> 01:19:23,000
+med tem, kat pač nastaveš nek price limit.
+
+1535
+01:19:23,000 --> 01:19:28,000
+Gdaj pač moraš to odklopati, ker pač ne boš mogel plačati računa.
+
+1536
+01:19:28,000 --> 01:19:34,000
+Kako greš na razne konference, kjer so big guys izraven,
+
+1537
+01:19:34,000 --> 01:19:40,000
+pa ali se prodajajo, pač saj konference pa so odprodajajo.
+
+1538
+01:19:40,000 --> 01:19:45,000
+Znam, da jim tudi ostali prevedi, ampak se mi zdi,
+
+1539
+01:19:45,000 --> 01:19:49,000
+da je vse en esterik zraven, ki ga je treba tukaj povedati.
+
+1540
+01:19:49,000 --> 01:19:54,000
+Lambda funkcije pa taja arhitektura, jih tudi niso silili bolj.
+
+1541
+01:19:54,000 --> 01:19:56,000
+Niso, definitivno.
+
+1542
+01:19:56,000 --> 01:19:59,000
+Imajo nekaj omejitev, se pravi so omejene.
+
+1543
+01:19:59,000 --> 01:20:05,000
+Omejen si na to, da nima zres vpliva na to, kako podatki noter pridejo,
+
+1544
+01:20:05,000 --> 01:20:09,000
+pač si omejen na infrastrukturo, ki jo cloud ponuja.
+
+1545
+01:20:09,000 --> 01:20:11,000
+To so lahko neki adapteri.
+
+1546
+01:20:11,000 --> 01:20:13,000
+Rečeš, imam tukaj funkcijo,
+
+1547
+01:20:13,000 --> 01:20:17,000
+pa ta funkcija lahko je poklicana ali čez hodoto po endpoint,
+
+1548
+01:20:17,000 --> 01:20:21,000
+ali pride z nekaj websocket-a ali ta funkcija trigger-odbaze.
+
+1549
+01:20:21,000 --> 01:20:28,000
+Se pravi, nimaš dejansko tazga dostopa, ki bi imel,
+
+1550
+01:20:28,000 --> 01:20:30,000
+če imaš server na nekem svojem Linuxu,
+
+1551
+01:20:30,000 --> 01:20:32,000
+ko se lahko noter povežeš, pa potvikaš nekaj.
+
+1552
+01:20:32,000 --> 01:20:36,000
+Se pravi, ti vzameš runtime, kaj ti ga oni ponujejo,
+
+1553
+01:20:36,000 --> 01:20:41,000
+ponavad tudi mogoče malo zaostajejo za nekim latest release.
+
+1554
+01:20:42,000 --> 01:20:45,000
+Ampak je pa ta zadeva mišljena za stateful?
+
+1555
+01:20:45,000 --> 01:20:48,000
+Ne. Ideja je, da je stateless.
+
+1556
+01:20:48,000 --> 01:20:52,000
+Sicer s tem nekako lažejo, zato ker stvar je še zmeri stateful.
+
+1557
+01:20:52,000 --> 01:20:54,000
+In če bi jo vzel kot stateless,
+
+1558
+01:20:54,000 --> 01:20:57,000
+da smo imeli en primer, ki smo se povezvali na bazo
+
+1559
+01:20:57,000 --> 01:21:00,000
+in si na vsakem kolu ustvarjali svoj connection,
+
+1560
+01:21:00,000 --> 01:21:04,000
+ga zaprali in na neki točki smo pač prebil,
+
+1561
+01:21:04,000 --> 01:21:06,000
+to kot naš lahko connection odprti.
+
+1562
+01:21:07,000 --> 01:21:11,000
+Ampak jaz v bistvu imam, da se samo delajo, da so stateless.
+
+1563
+01:21:13,000 --> 01:21:15,000
+Kako našuješ ta problem?
+
+1564
+01:21:15,000 --> 01:21:18,000
+V globalnem kontekstu se povežeš na bazo
+
+1565
+01:21:18,000 --> 01:21:20,000
+in potem skozi uporabljaš isto na bazo.
+
+1566
+01:21:20,000 --> 01:21:22,000
+Tudi imam, da ne živi tako dolgo časa,
+
+1567
+01:21:22,000 --> 01:21:25,000
+ko se pač connection gasne.
+
+1568
+01:21:25,000 --> 01:21:28,000
+Imajo še to, pač imajo nek limit,
+
+1569
+01:21:28,000 --> 01:21:32,000
+v katerem času morajo sprecesirati reply?
+
+1570
+01:21:33,000 --> 01:21:35,000
+Ja, to ga nekako sam nastavljaš,
+
+1571
+01:21:35,000 --> 01:21:37,000
+ampak rečeš to.
+
+1572
+01:21:37,000 --> 01:21:40,000
+Druga stvar, ki je lahko problematična, je cold start.
+
+1573
+01:21:40,000 --> 01:21:45,000
+To pomeni, da ker se zdaj ta stvar postavlja,
+
+1574
+01:21:45,000 --> 01:21:47,000
+server zažene še leto krat,
+
+1575
+01:21:47,000 --> 01:21:49,000
+ki pride call notar,
+
+1576
+01:21:49,000 --> 01:21:52,000
+pomeni, da vsakič, ko se bo mogla nova lambda priti,
+
+1577
+01:21:52,000 --> 01:21:54,000
+ker ne pomeni na vsak request,
+
+1578
+01:21:54,000 --> 01:21:56,000
+boš pač porabil še pol sekunde,
+
+1579
+01:21:56,000 --> 01:21:58,000
+da se ti ist engine zažene.
+
+1580
+01:21:58,000 --> 01:22:01,000
+To zdaj pa v različni načine.
+
+1581
+01:22:02,000 --> 01:22:05,000
+Je kompajlan jezik, ki je lahko žizlo,
+
+1582
+01:22:05,000 --> 01:22:07,000
+pač, ki je samo za lauf,
+
+1583
+01:22:07,000 --> 01:22:10,000
+a ne moraš še sprecesirati JavaScript-o.
+
+1584
+01:22:10,000 --> 01:22:13,000
+Se pravimo za to debato o JavaScript-o,
+
+1585
+01:22:13,000 --> 01:22:15,000
+pa ni nujno, da so te lambda funkcije
+
+1586
+01:22:15,000 --> 01:22:17,000
+implementirane v JavaScript-o.
+
+1587
+01:22:17,000 --> 01:22:19,000
+Lahko so v čem?
+
+1588
+01:22:19,000 --> 01:22:24,000
+Python, tudi Scala verjetno, Java, .NET.
+
+1589
+01:22:24,000 --> 01:22:26,000
+Odvisno od provajdera.
+
+1590
+01:22:26,000 --> 01:22:29,000
+V bistvu vsak provajder se samo odloči.
+
+1591
+01:22:29,000 --> 01:22:31,000
+Kaj bo potperil?
+
+1592
+01:22:31,000 --> 01:22:34,000
+Eni ti cilje omogočajo, da si postaveš nek svoj lahko limit,
+
+1593
+01:22:34,000 --> 01:22:36,000
+in ga daš, pa rečeš,
+
+1594
+01:22:36,000 --> 01:22:38,000
+moja lambda v tem zdaj lahko je.
+
+1595
+01:22:38,000 --> 01:22:42,000
+Boš ti vprašal, če našel me eno vprašanje?
+
+1596
+01:22:42,000 --> 01:22:44,000
+Moje vprašanje je,
+
+1597
+01:22:44,000 --> 01:22:47,000
+in to bi ljudje vprašali tudi,
+
+1598
+01:22:47,000 --> 01:22:53,000
+če mi zdaj buildamo z lambda-architekturami,
+
+1599
+01:22:53,000 --> 01:22:58,000
+z funkcijami v naš nov produkt, sistem,
+
+1600
+01:22:58,000 --> 01:23:01,000
+kako so te funkcije bolj prenosljive,
+
+1601
+01:23:01,000 --> 01:23:03,000
+če bi pa zdaj rekli,
+
+1602
+01:23:03,000 --> 01:23:05,000
+jih trebamo pa na GCP,
+
+1603
+01:23:05,000 --> 01:23:07,000
+jih trebamo pa na nekam drugam.
+
+1604
+01:23:07,000 --> 01:23:10,000
+Ali so ful vendor spesifik?
+
+1605
+01:23:10,000 --> 01:23:12,000
+Kukar se jih narediš, bi rekel.
+
+1606
+01:23:12,000 --> 01:23:15,000
+Takoj, kaj veš, da boš imel potrebo,
+
+1607
+01:23:15,000 --> 01:23:17,000
+potem, da boš na več klaudih,
+
+1608
+01:23:17,000 --> 01:23:19,000
+se moraš tega začeti zavedati,
+
+1609
+01:23:19,000 --> 01:23:21,000
+pa pač narediti neke lejere.
+
+1610
+01:23:21,000 --> 01:23:23,000
+Lahko je to pač lejer za dostav do podatkov,
+
+1611
+01:23:23,000 --> 01:23:26,000
+kaknega file storage-a pa block storage-a.
+
+1612
+01:23:26,000 --> 01:23:28,000
+Lejer to pač nekih baz,
+
+1613
+01:23:28,000 --> 01:23:30,000
+pa pač lejer tudi pre hendl-eve.
+
+1614
+01:23:30,000 --> 01:23:32,000
+Zato, kar mogoče te vsak,
+
+1615
+01:23:32,000 --> 01:23:34,000
+še zmeri pač poslot eksporta,
+
+1616
+01:23:34,000 --> 01:23:36,000
+še eno funkcijo, ki se pokliče,
+
+1617
+01:23:36,000 --> 01:23:39,000
+ampak mogoče ti jo vsak drgač
+
+1618
+01:23:39,000 --> 01:23:41,000
+pač pesa notri neke parametre,
+
+1619
+01:23:41,000 --> 01:23:43,000
+pa pričakuje drgače napod.
+
+1620
+01:23:43,000 --> 01:23:45,000
+Imaš pa neke framework-e,
+
+1621
+01:23:45,000 --> 01:23:47,000
+recimo eden, dost popularen,
+
+1622
+01:23:47,000 --> 01:23:49,000
+dolg časa je bil, pa verjetno še zmeri,
+
+1623
+01:23:49,000 --> 01:23:51,000
+prav serverless framework,
+
+1624
+01:23:51,000 --> 01:23:54,000
+ki naj biti omogočil, da je to lažje,
+
+1625
+01:23:54,000 --> 01:23:56,000
+ampak ni za res.
+
+1626
+01:23:56,000 --> 01:23:59,000
+To je lažje, ki bi se predstavljali z opisa.
+
+1627
+01:24:01,000 --> 01:24:04,000
+Šuši ti v serverless?
+
+1628
+01:24:04,000 --> 01:24:06,000
+Ja, pač.
+
+1629
+01:24:06,000 --> 01:24:08,000
+Ej, če bo serverless full adopted,
+
+1630
+01:24:08,000 --> 01:24:10,000
+pa bodo jo obsi brez džaba?
+
+1631
+01:24:10,000 --> 01:24:12,000
+Ja, upam, upam.
+
+1632
+01:24:12,000 --> 01:24:14,000
+In pa bom lahko pisal samo frontend,
+
+1633
+01:24:14,000 --> 01:24:17,000
+pa bo moje srce igralo.
+
+1634
+01:24:17,000 --> 01:24:19,000
+Full nice.
+
+1635
+01:24:19,000 --> 01:24:22,000
+Sicer na vršu elmo upadom.
+
+1636
+01:24:22,000 --> 01:24:24,000
+Ja, ne, pač.
+
+1637
+01:24:24,000 --> 01:24:27,000
+Ej, kam pa pol so od te sisteme,
+
+1638
+01:24:27,000 --> 01:24:29,000
+ki so Firebase?
+
+1639
+01:24:31,000 --> 01:24:33,000
+To je SaaS.
+
+1640
+01:24:33,000 --> 01:24:35,000
+To je SaaS, a ne?
+
+1641
+01:24:35,000 --> 01:24:37,000
+SaaS, ki ima tudi serverless.
+
+1642
+01:24:37,000 --> 01:24:39,000
+Ja, to je ena od featurev, ki te ga ponuje.
+
+1643
+01:24:39,000 --> 01:24:41,000
+Firebase je v bistvu sama ena taka
+
+1644
+01:24:41,000 --> 01:24:43,000
+ful lepa maska, čez GCP,
+
+1645
+01:24:43,000 --> 01:24:45,000
+za njihova konzola.
+
+1646
+01:24:45,000 --> 01:24:47,000
+Sestem pa, čez sajo to cloud konzola,
+
+1647
+01:24:47,000 --> 01:24:49,000
+ko odpreš, je ful.
+
+1648
+01:24:49,000 --> 01:24:51,000
+Težko razumeti, kaj se je.
+
+1649
+01:24:51,000 --> 01:24:53,000
+Ja, si malo AWS bias.
+
+1650
+01:24:53,000 --> 01:24:56,000
+Ampak AWS je še slabši, mislim,
+
+1651
+01:24:56,000 --> 01:24:58,000
+kar se tega tiče.
+
+1652
+01:25:00,000 --> 01:25:02,000
+Ampak Firebase je v bistvu,
+
+1653
+01:25:02,000 --> 01:25:04,000
+zdaj Firebase kot baza je
+
+1654
+01:25:04,000 --> 01:25:07,000
+samo en produkt, kot ga Google daje.
+
+1655
+01:25:07,000 --> 01:25:09,000
+Je neka baza, ki skrbi
+
+1656
+01:25:09,000 --> 01:25:11,000
+za podstavljati antikacijo.
+
+1657
+01:25:11,000 --> 01:25:13,000
+Ti lahko ful easy
+
+1658
+01:25:13,000 --> 01:25:15,000
+notar speri pišeš in imaš
+
+1659
+01:25:15,000 --> 01:25:17,000
+naprej ene skeme, ki bi se v rabo držali.
+
+1660
+01:25:17,000 --> 01:25:19,000
+Oni ti dajo realtime,
+
+1661
+01:25:19,000 --> 01:25:21,000
+ti dajo še neke client library,
+
+1662
+01:25:21,000 --> 01:25:23,000
+ki ti omogočajo offline,
+
+1663
+01:25:23,000 --> 01:25:25,000
+pa pač neke
+
+1664
+01:25:25,000 --> 01:25:27,000
+sinker.
+
+1665
+01:25:27,000 --> 01:25:29,000
+Ne vem, jaz sem igral,
+
+1666
+01:25:29,000 --> 01:25:31,000
+mi smo eksperimentirali z Firebase-om,
+
+1667
+01:25:31,000 --> 01:25:33,000
+pač
+
+1668
+01:25:33,000 --> 01:25:35,000
+jaz ga dejansko
+
+1669
+01:25:35,000 --> 01:25:37,000
+je neka nasledna,
+
+1670
+01:25:37,000 --> 01:25:39,000
+jaz vidim to kot neka nasledna evolucija,
+
+1671
+01:25:39,000 --> 01:25:41,000
+naslednji korak v evoluciji
+
+1672
+01:25:41,000 --> 01:25:43,000
+tehnologije.
+
+1673
+01:25:43,000 --> 01:25:45,000
+Kjer v bistvu
+
+1674
+01:25:45,000 --> 01:25:47,000
+se spet developerji,
+
+1675
+01:25:47,000 --> 01:25:49,000
+ali pa inženiri kot taki vkvarjajo
+
+1676
+01:25:49,000 --> 01:25:51,000
+z biznislogi, ko vse, kar se pa vzadi
+
+1677
+01:25:51,000 --> 01:25:53,000
+dogaja, pa dejansko
+
+1678
+01:25:53,000 --> 01:25:55,000
+offloadeš na tega
+
+1679
+01:25:55,000 --> 01:25:57,000
+svojega izbranega cloud-providera.
+
+1680
+01:25:57,000 --> 01:25:59,000
+To se ful vidi pred tej tehnologiji.
+
+1681
+01:25:59,000 --> 01:26:01,000
+Dajo ti vzadi en kup
+
+1682
+01:26:01,000 --> 01:26:03,000
+nekih stvari, ki mogoče od začetka
+
+1683
+01:26:03,000 --> 01:26:05,000
+ni ti ne razmišljaš o njih, pač
+
+1684
+01:26:05,000 --> 01:26:07,000
+to app offline,
+
+1685
+01:26:07,000 --> 01:26:09,000
+online, kak boš change-el
+
+1686
+01:26:09,000 --> 01:26:11,000
+po virus, spremenil
+
+1687
+01:26:11,000 --> 01:26:13,000
+authentication, kot si že ti omenil.
+
+1688
+01:26:13,000 --> 01:26:15,000
+In
+
+1689
+01:26:15,000 --> 01:26:17,000
+postaja zelo zanimiva
+
+1690
+01:26:17,000 --> 01:26:19,000
+zadeva, ker ta
+
+1691
+01:26:19,000 --> 01:26:21,000
+time-to-market je zelo hiter,
+
+1692
+01:26:21,000 --> 01:26:23,000
+je pa res na nek vendor-lock-in
+
+1693
+01:26:23,000 --> 01:26:25,000
+priden, ampak
+
+1694
+01:26:25,000 --> 01:26:27,000
+ko se z ljudmi pogovarjam
+
+1695
+01:26:27,000 --> 01:26:29,000
+v sameti zadevi, pač
+
+1696
+01:26:29,000 --> 01:26:31,000
+tudi velikrat mi ljudje rečejo,
+
+1697
+01:26:31,000 --> 01:26:33,000
+a je to vendor-lock-in
+
+1698
+01:26:33,000 --> 01:26:35,000
+res tako pomembno?
+
+1699
+01:26:35,000 --> 01:26:37,000
+Vziroma, od vseh
+
+1700
+01:26:37,000 --> 01:26:39,000
+tehničnih vprašanj, s katerimi se kot
+
+1701
+01:26:39,000 --> 01:26:41,000
+tehnični decision-maker vkvarjaš,
+
+1702
+01:26:41,000 --> 01:26:43,000
+pač to samo še eno
+
+1703
+01:26:43,000 --> 01:26:45,000
+izjiva, ampak v resnici
+
+1704
+01:26:45,000 --> 01:26:47,000
+zelo malo tudi vidimo, da bi ljudje
+
+1705
+01:26:47,000 --> 01:26:49,000
+danes kot cloud-provideri šli
+
+1706
+01:26:49,000 --> 01:26:51,000
+mene v vate. To pa je vprašanje
+
+1707
+01:26:51,000 --> 01:26:53,000
+za C-level. Ja.
+
+1708
+01:26:53,000 --> 01:26:55,000
+Tak da,
+
+1709
+01:26:55,000 --> 01:26:57,000
+to upazujem.
+
+1710
+01:26:57,000 --> 01:26:59,000
+Ja,
+
+1711
+01:26:59,000 --> 01:27:01,000
+zelo zanimiva je Firebase,
+
+1712
+01:27:01,000 --> 01:27:03,000
+mi je tudi zato, ker lahko, pač
+
+1713
+01:27:03,000 --> 01:27:05,000
+imaš client-library, potem tudi za
+
+1714
+01:27:05,000 --> 01:27:07,000
+mobile, pa za
+
+1715
+01:27:07,000 --> 01:27:09,000
+danes kot lahko desktop-app-e
+
+1716
+01:27:09,000 --> 01:27:11,000
+delaš. Načeloma
+
+1717
+01:27:11,000 --> 01:27:13,000
+sam ta Firebase
+
+1718
+01:27:13,000 --> 01:27:15,000
+v browzerju, pa ko imaš
+
+1719
+01:27:15,000 --> 01:27:17,000
+kolekčene, se pravi predstavljaj si,
+
+1720
+01:27:17,000 --> 01:27:19,000
+da imaš nek arej, delaj
+
+1721
+01:27:19,000 --> 01:27:21,000
+z nekim arejem, dajaš elemente noteri
+
+1722
+01:27:21,000 --> 01:27:23,000
+in ta Firebase potem vzadju sposinka to
+
+1723
+01:27:23,000 --> 01:27:25,000
+s tvojim zelenjem. Ko pa
+
+1724
+01:27:25,000 --> 01:27:27,000
+potrebuješ bolj napredno
+
+1725
+01:27:27,000 --> 01:27:29,000
+back-end, bolj napredno
+
+1726
+01:27:29,000 --> 01:27:31,000
+back-end procesiranje, pa priješ lahko
+
+1727
+01:27:31,000 --> 01:27:33,000
+na to neko lambda funkcijo ali pa nek
+
+1728
+01:27:33,000 --> 01:27:35,000
+pipeline in vzadem narediš.
+
+1729
+01:27:35,000 --> 01:27:37,000
+Ampak ti
+
+1730
+01:27:37,000 --> 01:27:39,000
+sporedel si pa zelo hitro
+
+1731
+01:27:39,000 --> 01:27:41,000
+lahko narediš.
+
+1732
+01:27:41,000 --> 01:27:43,000
+To je ta prednost, ki imaš, ker lahko
+
+1733
+01:27:43,000 --> 01:27:45,000
+danes skoro v enem dnevu pridu
+
+1734
+01:27:45,000 --> 01:27:47,000
+za nekaj, ne samo
+
+1735
+01:27:47,000 --> 01:27:49,000
+proof of concept-ov, ampak
+
+1736
+01:27:49,000 --> 01:27:51,000
+danes skoro za nekim
+
+1737
+01:27:51,000 --> 01:27:53,000
+MVP-ov
+
+1738
+01:27:53,000 --> 01:27:55,000
+ven, ki ga lahko
+
+1739
+01:27:55,000 --> 01:27:57,000
+ljudje začnejo v isti dan uporabljati.
+
+1740
+01:27:57,000 --> 01:27:59,000
+In če te to zdi
+
+1741
+01:27:59,000 --> 01:28:01,000
+prešparal pol leta razvoja,
+
+1742
+01:28:01,000 --> 01:28:03,000
+predem, bi ti to dosegel, se lahko
+
+1743
+01:28:03,000 --> 01:28:05,000
+pač, lahko rečeš, da si veliko
+
+1744
+01:28:05,000 --> 01:28:07,000
+prešparal, pa se lahko začneš očiti od
+
+1745
+01:28:07,000 --> 01:28:09,000
+juzorjev, pa kakšne
+
+1746
+01:28:09,000 --> 01:28:11,000
+napake si naredil v
+
+1747
+01:28:11,000 --> 01:28:13,000
+konceptu, ampak pač, kako si se zmotel, da bo
+
+1748
+01:28:13,000 --> 01:28:15,000
+juzorjev uporabljali. In zdaj,
+
+1749
+01:28:15,000 --> 01:28:17,000
+tukaj dobiš ta del,
+
+1750
+01:28:17,000 --> 01:28:19,000
+dajo ti pa pal ful
+
+1751
+01:28:19,000 --> 01:28:21,000
+constraintov. Pač, poleg tega, da si lahko
+
+1752
+01:28:21,000 --> 01:28:23,000
+in na noter, predsemo, prv, na primeru
+
+1753
+01:28:23,000 --> 01:28:25,000
+Firebase-a, je ful
+
+1754
+01:28:25,000 --> 01:28:27,000
+težko delati analitiko
+
+1755
+01:28:27,000 --> 01:28:29,000
+in ponovat, kar ljudje pal naredijo,
+
+1756
+01:28:29,000 --> 01:28:31,000
+težko delati analitiko.
+
+1757
+01:28:31,000 --> 01:28:33,000
+Na kak, misliš?
+
+1758
+01:28:33,000 --> 01:28:35,000
+Te neki advanced
+
+1759
+01:28:35,000 --> 01:28:37,000
+kvarjev, tem nimaš?
+
+1760
+01:28:37,000 --> 01:28:39,000
+Aja, misliš, recimo, znotraj
+
+1761
+01:28:39,000 --> 01:28:41,000
+teh koleksij.
+
+1762
+01:28:41,000 --> 01:28:43,000
+To pomeni, da jih mora spodoma pač sam
+
+1763
+01:28:43,000 --> 01:28:45,000
+popravljati vse te stvari, ali pač na nekih
+
+1764
+01:28:45,000 --> 01:28:47,000
+triggerih delati stvari, ali pa
+
+1765
+01:28:47,000 --> 01:28:49,000
+dam pa Firebase v neko
+
+1766
+01:28:49,000 --> 01:28:51,000
+resno bazo, pa pal
+
+1767
+01:28:51,000 --> 01:28:53,000
+procesirati to.
+
+1768
+01:28:53,000 --> 01:28:55,000
+Mislim, spet, pač,
+
+1769
+01:28:55,000 --> 01:28:57,000
+kot inženiri, boljkrat delamo
+
+1770
+01:28:57,000 --> 01:28:59,000
+z nekimi trade-offi, ali pa bomo šli v eno
+
+1771
+01:28:59,000 --> 01:29:01,000
+smer, ali v drugo smer, pač
+
+1772
+01:29:01,000 --> 01:29:03,000
+nisi verbuljet, to je treba vejet.
+
+1773
+01:29:03,000 --> 01:29:05,000
+Pa droben tisk na vseh teh
+
+1774
+01:29:05,000 --> 01:29:07,000
+pageh se zelo splača prebrat.
+
+1775
+01:29:07,000 --> 01:29:09,000
+Sploh pricing.
+
+1776
+01:29:09,000 --> 01:29:11,000
+Pricing.
+
+1777
+01:29:11,000 --> 01:29:13,000
+Najhitrajiče, kar vrasto vse napišeš?
+
+1778
+01:29:15,000 --> 01:29:17,000
+Kaj bi šel?
+
+1779
+01:29:17,000 --> 01:29:19,000
+Seveda seveda
+
+1780
+01:29:19,000 --> 01:29:21,000
+meni treba tega odgovarjati.
+
+1781
+01:29:23,000 --> 01:29:25,000
+Mislim, še bolj čudno vprašanje.
+
+1782
+01:29:25,000 --> 01:29:27,000
+Če server lez,
+
+1783
+01:29:27,000 --> 01:29:29,000
+imaš ti še kaj normalnega.
+
+1784
+01:29:29,000 --> 01:29:31,000
+Shameless plug, tukaj ne.
+
+1785
+01:29:31,000 --> 01:29:33,000
+Ampak na Amazonu,
+
+1786
+01:29:33,000 --> 01:29:35,000
+na AWSu, imaš nekaj podobnega
+
+1787
+01:29:35,000 --> 01:29:37,000
+kot Firebase.
+
+1788
+01:29:37,000 --> 01:29:39,000
+Z tem, da oni temu rečejo
+
+1789
+01:29:39,000 --> 01:29:41,000
+AppSync.
+
+1790
+01:29:41,000 --> 01:29:43,000
+In zarazliko od nekega svojega
+
+1791
+01:29:43,000 --> 01:29:45,000
+standarda, ki ga Firebase tukaj ima,
+
+1792
+01:29:45,000 --> 01:29:47,000
+pa pač v client library,
+
+1793
+01:29:47,000 --> 01:29:49,000
+imajo oni GraphQL.
+
+1794
+01:29:49,000 --> 01:29:51,000
+In zdaj,
+
+1795
+01:29:51,000 --> 01:29:53,000
+kar to zate pomeni, da prideš na
+
+1796
+01:29:53,000 --> 01:29:55,000
+tisto UI rečeš, pa tle to tabelico,
+
+1797
+01:29:55,000 --> 01:29:57,000
+ki ima notri te stvari, s temi tipi,
+
+1798
+01:29:57,000 --> 01:29:59,000
+imajo ti kar pozadi, pač
+
+1799
+01:29:59,000 --> 01:30:01,000
+zgenerirajo DynamoDB tabele,
+
+1800
+01:30:01,000 --> 01:30:03,000
+postavljajo indekse.
+
+1801
+01:30:05,000 --> 01:30:07,000
+Vn dobiš pač, na koncu pišeš jezmer
+
+1802
+01:30:07,000 --> 01:30:09,000
+GraphQL skemov, ki pač prenosliva
+
+1803
+01:30:09,000 --> 01:30:11,000
+vsem jeziki.
+
+1804
+01:30:11,000 --> 01:30:13,000
+Dobiš subskript na noter,
+
+1805
+01:30:13,000 --> 01:30:15,000
+dobiš pač analitične querye,
+
+1806
+01:30:15,000 --> 01:30:17,000
+in imaš danesko
+
+1807
+01:30:17,000 --> 01:30:19,000
+spisan,
+
+1808
+01:30:19,000 --> 01:30:21,000
+zrema spisan, pač definiranik.
+
+1809
+01:30:21,000 --> 01:30:23,000
+Če poznaš pač svojo podatkovno
+
+1810
+01:30:23,000 --> 01:30:25,000
+strukturo, imaš lahko back-end
+
+1811
+01:30:25,000 --> 01:30:27,000
+nareden za pač uri,
+
+1812
+01:30:27,000 --> 01:30:29,000
+ki bo skajlo
+
+1813
+01:30:29,000 --> 01:30:31,000
+bolj, ki v večine storikih lahko
+
+1814
+01:30:31,000 --> 01:30:33,000
+sam kadrko napišeš.
+
+1815
+01:30:33,000 --> 01:30:35,000
+Tako da, mogoče je
+
+1816
+01:30:35,000 --> 01:30:37,000
+ena zelo zanimiva opce.
+
+1817
+01:30:37,000 --> 01:30:39,000
+Zdaj,
+
+1818
+01:30:41,000 --> 01:30:43,000
+shodlo smo še
+
+1819
+01:30:43,000 --> 01:30:45,000
+to nekako se pogovarjati, če
+
+1820
+01:30:45,000 --> 01:30:47,000
+mogoče gremo malo nazaj
+
+1821
+01:30:47,000 --> 01:30:49,000
+na front-end, pa
+
+1822
+01:30:49,000 --> 01:30:51,000
+bi še mogoče tam
+
+1823
+01:30:51,000 --> 01:30:53,000
+besedo dve rekli o teh
+
+1824
+01:30:53,000 --> 01:30:55,000
+novih,
+
+1825
+01:30:55,000 --> 01:30:57,000
+kakaj je prihodnost
+
+1826
+01:30:57,000 --> 01:30:59,000
+front-enda, recimo.
+
+1827
+01:30:59,000 --> 01:31:01,000
+Pa me še to
+
+1828
+01:31:01,000 --> 01:31:03,000
+mogoče zanima, če nam lahko poveš,
+
+1829
+01:31:03,000 --> 01:31:05,000
+ok, mi smo jQuery, potem smo se pogovarjali
+
+1830
+01:31:05,000 --> 01:31:07,000
+o Reactu, Angularu, pa Vue.
+
+1831
+01:31:07,000 --> 01:31:09,000
+Kaj pa so novi playeri, ki
+
+1832
+01:31:09,000 --> 01:31:11,000
+prihajajo, kaj je pa tist
+
+1833
+01:31:11,000 --> 01:31:13,000
+cutting edge,
+
+1834
+01:31:13,000 --> 01:31:15,000
+ki vidimo neki nove patterne,
+
+1835
+01:31:15,000 --> 01:31:17,000
+nekaj res radikalno novemi library,
+
+1836
+01:31:17,000 --> 01:31:19,000
+ali pa frameworki, ki prihajamo, lahko
+
+1837
+01:31:19,000 --> 01:31:21,000
+kaj o tem še mogoče poveš.
+
+1838
+01:31:21,000 --> 01:31:23,000
+Kaj je prihodnost?
+
+1839
+01:31:51,000 --> 01:31:53,000
+Kaj pa so že, kar v redu rešuje?
+
+1840
+01:31:53,000 --> 01:31:55,000
+Ni Polymer.
+
+1841
+01:31:55,000 --> 01:31:57,000
+Lid, ja.
+
+1842
+01:31:57,000 --> 01:31:59,000
+So tudi naslednik tega
+
+1843
+01:31:59,000 --> 01:32:01,000
+Polymera, ki ga je Google
+
+1844
+01:32:01,000 --> 01:32:03,000
+začel črčati.
+
+1845
+01:32:03,000 --> 01:32:05,000
+Pa
+
+1846
+01:32:05,000 --> 01:32:07,000
+neka druga v optimizaciji
+
+1847
+01:32:07,000 --> 01:32:09,000
+je, da se ne bom
+
+1848
+01:32:09,000 --> 01:32:11,000
+spomnil imena, ampak ide
+
+1849
+01:32:11,000 --> 01:32:13,000
+je, da vzameš
+
+1850
+01:32:13,000 --> 01:32:15,000
+framework ven iz nekega
+
+1851
+01:32:15,000 --> 01:32:17,000
+končnega builda, se pravi,
+
+1852
+01:32:17,000 --> 01:32:19,000
+kaj da bi napisal React, in pa
+
+1853
+01:32:19,000 --> 01:32:21,000
+pa lahko tu prebrati, pa od strane
+
+1854
+01:32:21,000 --> 01:32:23,000
+taranta in od Reacta.
+
+1855
+01:32:23,000 --> 01:32:25,000
+Pa sam uporabiti pač malo
+
+1856
+01:32:25,000 --> 01:32:27,000
+kodo,
+
+1857
+01:32:27,000 --> 01:32:29,000
+ki smo jih spisali.
+
+1858
+01:32:31,000 --> 01:32:33,000
+Zdaj, to
+
+1859
+01:32:33,000 --> 01:32:35,000
+je lahko v veliko super način
+
+1860
+01:32:35,000 --> 01:32:37,000
+implementacija, veliko ljudi
+
+1861
+01:32:37,000 --> 01:32:39,000
+so pa za takne presen taksi,
+
+1862
+01:32:39,000 --> 01:32:41,000
+ampak še zmejer je...
+
+1863
+01:32:41,000 --> 01:32:43,000
+Se pravi, to govorimo zdaj v tehnologijah, ki ne bodo
+
+1864
+01:32:43,000 --> 01:32:45,000
+več pazirali v rastnici na JavaScript,
+
+1865
+01:32:45,000 --> 01:32:47,000
+ali kaj?
+
+1866
+01:32:47,000 --> 01:32:49,000
+Se ne bodo pazirali na ten, da še pa
+
+1867
+01:32:49,000 --> 01:32:51,000
+jaz ravnem svoj rantam. Zdaj, ko pa
+
+1868
+01:32:51,000 --> 01:32:53,000
+Reacta enkrat revijujejo, ima zmejernik
+
+1869
+01:32:53,000 --> 01:32:55,000
+njihov core, ki mora pridoti v browser,
+
+1870
+01:32:55,000 --> 01:32:57,000
+tam bo pa core od strane
+
+1871
+01:32:57,000 --> 01:32:59,000
+med tem, kaj se builda.
+
+1872
+01:32:59,000 --> 01:33:01,000
+In bo pa, kaj da bi si napisal
+
+1873
+01:33:01,000 --> 01:33:03,000
+ful optimalno JavaScript kodo,
+
+1874
+01:33:03,000 --> 01:33:05,000
+ki bo znala pač, kaj to imela pisati,
+
+1875
+01:33:05,000 --> 01:33:07,000
+pa se pogovarjati med sabo o komponente,
+
+1876
+01:33:07,000 --> 01:33:09,000
+sam, da bo
+
+1877
+01:33:09,000 --> 01:33:11,000
+to delal pač brez...
+
+1878
+01:33:11,000 --> 01:33:13,000
+Misliš, da je to bolj realen
+
+1879
+01:33:13,000 --> 01:33:15,000
+future kot pa
+
+1880
+01:33:15,000 --> 01:33:17,000
+application WebAssembly-a?
+
+1881
+01:33:17,000 --> 01:33:19,000
+WebAssembly-a?
+
+1882
+01:33:19,000 --> 01:33:21,000
+Ja, tehnologija WebAssembly.
+
+1883
+01:33:21,000 --> 01:33:23,000
+Ne, pa moja
+
+1884
+01:33:23,000 --> 01:33:25,000
+je, da tukaj dva
+
+1885
+01:33:25,000 --> 01:33:27,000
+tako različne iskaj so.
+
+1886
+01:33:27,000 --> 01:33:29,000
+Misliš, da ne bomo še
+
+1887
+01:33:29,000 --> 01:33:31,000
+bolj v to, da bomo imeli
+
+1888
+01:33:31,000 --> 01:33:33,000
+WebAssembly, boš se spisal v kjerenkoli
+
+1889
+01:33:33,000 --> 01:33:35,000
+jeziku, boš nek binary imel in bo to...
+
+1890
+01:33:35,000 --> 01:33:37,000
+Misliš, da bomo še vedno
+
+1891
+01:33:37,000 --> 01:33:39,000
+stali v teh web tehnologijah kot takih?
+
+1892
+01:33:39,000 --> 01:33:41,000
+Mislim, ja, mislim,
+
+1893
+01:33:41,000 --> 01:33:43,000
+da še nekaj bomo imeli to.
+
+1894
+01:33:43,000 --> 01:33:45,000
+To WebAssembly se cenutno
+
+1895
+01:33:45,000 --> 01:33:47,000
+ful uporablja za nek
+
+1896
+01:33:47,000 --> 01:33:49,000
+procesiranje,
+
+1897
+01:33:49,000 --> 01:33:51,000
+se pravi, ko hočeš image manipulation
+
+1898
+01:33:51,000 --> 01:33:53,000
+delat,
+
+1899
+01:33:53,000 --> 01:33:55,000
+ali pa pač nekaj bolj kompleksne
+
+1900
+01:33:55,000 --> 01:33:57,000
+algoritme menit. Boljši canvas.
+
+1901
+01:33:57,000 --> 01:33:59,000
+Ja, v bistvu hitrejši canvas, zato ker delaš
+
+1902
+01:33:59,000 --> 01:34:01,000
+pa časaj računaš v
+
+1903
+01:34:01,000 --> 01:34:03,000
+nekem binary jeziku.
+
+1904
+01:34:03,000 --> 01:34:05,000
+Še zmer je WebAssembly
+
+1905
+01:34:05,000 --> 01:34:07,000
+v bistvu tako zelo majhen
+
+1906
+01:34:07,000 --> 01:34:09,000
+subset JavaScripta, tako nekih
+
+1907
+01:34:09,000 --> 01:34:11,000
+par metod imaš,
+
+1908
+01:34:11,000 --> 01:34:13,000
+ampak vsak jezik skor
+
+1909
+01:34:13,000 --> 01:34:15,000
+se lahko pa to kompajla.
+
+1910
+01:34:15,000 --> 01:34:17,000
+In ta del je
+
+1911
+01:34:17,000 --> 01:34:19,000
+tudi zelo optimiziran v engineh, tako da
+
+1912
+01:34:19,000 --> 01:34:21,000
+pa pa tako odara v skor
+
+1913
+01:34:21,000 --> 01:34:23,000
+to filter, kaj ne tega.
+
+1914
+01:34:23,000 --> 01:34:25,000
+Zato lahko pal Doom igramo.
+
+1915
+01:34:25,000 --> 01:34:27,000
+Ja, to se ga lahko
+
+1916
+01:34:27,000 --> 01:34:29,000
+malo že čakarja.
+
+1917
+01:34:29,000 --> 01:34:31,000
+Ja, prijem čas, to že nič.
+
+1918
+01:34:31,000 --> 01:34:33,000
+Zdej z WebAssembly
+
+1919
+01:34:33,000 --> 01:34:35,000
+ne vem, eden takih primerov,
+
+1920
+01:34:35,000 --> 01:34:37,000
+kaj ga ful developerjo, a pa frontend developerjo
+
+1921
+01:34:37,000 --> 01:34:39,000
+poznaje Figma,
+
+1922
+01:34:39,000 --> 01:34:41,000
+pa se je mogoče videl, da imajo ful
+
+1923
+01:34:41,000 --> 01:34:43,000
+pač ne morejo deseštega performansa
+
+1924
+01:34:43,000 --> 01:34:45,000
+z
+
+1925
+01:34:45,000 --> 01:34:47,000
+pač samim
+
+1926
+01:34:47,000 --> 01:34:49,000
+Domom, pa prednikanim
+
+1927
+01:34:49,000 --> 01:34:51,000
+HTML element, a pa se v ogrevanj pa so pal
+
+1928
+01:34:51,000 --> 01:34:53,000
+nekkor
+
+1929
+01:34:53,000 --> 01:34:55,000
+prestavil, kaj?
+
+1930
+01:34:55,000 --> 01:34:57,000
+Kajšne igre, se tudi venda
+
+1931
+01:34:57,000 --> 01:34:59,000
+eni ljudje so portali svoje desktop app,
+
+1932
+01:34:59,000 --> 01:35:01,000
+pa so pač kar zelo vso logiko,
+
+1933
+01:35:01,000 --> 01:35:03,000
+ki so imeli, pa jo skompajlali
+
+1934
+01:35:03,000 --> 01:35:05,000
+v WebAssembly, pa pal so malo glukove
+
+1935
+01:35:05,000 --> 01:35:07,000
+spisali, še več če jaz sem,
+
+1936
+01:35:07,000 --> 01:35:09,000
+pa so pač
+
+1937
+01:35:09,000 --> 01:35:11,000
+predstavljali lahko večino,
+
+1938
+01:35:11,000 --> 01:35:13,000
+se pravi, v nek subinterface
+
+1939
+01:35:13,000 --> 01:35:15,000
+desktop bomo ga imeli v WebAssembly,
+
+1940
+01:35:15,000 --> 01:35:17,000
+pa so pač ročnovotki
+
+1941
+01:35:17,000 --> 01:35:19,000
+ne opravljali.
+
+1942
+01:35:19,000 --> 01:35:21,000
+Basko skompajlali, pa je sam remote procedure
+
+1943
+01:35:21,000 --> 01:35:23,000
+koli pa JavaScript napisali.
+
+1944
+01:35:23,000 --> 01:35:25,000
+Zdaj imaš tudi Photoshop, SolidWorks,
+
+1945
+01:35:25,000 --> 01:35:27,000
+pač imajo neke svoje webverze,
+
+1946
+01:35:27,000 --> 01:35:29,000
+Photoshop danesko
+
+1947
+01:35:29,000 --> 01:35:31,000
+pa so mi zdaj vmislili všipati, resno
+
+1948
+01:35:31,000 --> 01:35:33,000
+SolidWorks je za enkrat sam,
+
+1949
+01:35:33,000 --> 01:35:35,000
+ampak še zmer lahko gledaš, pač še na 3D
+
+1950
+01:35:35,000 --> 01:35:37,000
+vidimo tega. Ampak to bomo
+
+1951
+01:35:37,000 --> 01:35:39,000
+vedli, če pravi razumem,
+
+1952
+01:35:39,000 --> 01:35:41,000
+resimo Figma opravljajo
+
+1953
+01:35:41,000 --> 01:35:43,000
+danesko v WebAssembly za to, da ta
+
+1954
+01:35:43,000 --> 01:35:45,000
+boljši canvas na nek način naredijo,
+
+1955
+01:35:45,000 --> 01:35:47,000
+med tem, ko vse te ostale
+
+1956
+01:35:47,000 --> 01:35:49,000
+elemente, ki jih vidimo, neke
+
+1957
+01:35:49,000 --> 01:35:51,000
+UI elemente so še pa vedno klasično,
+
+1958
+01:35:51,000 --> 01:35:53,000
+kaj to imate. Ja, tudi dobro je zaradi
+
+1959
+01:35:53,000 --> 01:35:55,000
+tega, ka so
+
+1960
+01:35:55,000 --> 01:35:57,000
+nekako accessible. Se pravi,
+
+1961
+01:35:57,000 --> 01:35:59,000
+ne rabiš povedati na novi zoom-ači to,
+
+1962
+01:35:59,000 --> 01:36:01,000
+kako to narediti dostopno,
+
+1963
+01:36:01,000 --> 01:36:03,000
+pač vedem, kaj imajo, pač se žal, z vidom,
+
+1964
+01:36:03,000 --> 01:36:05,000
+sluha.
+
+1965
+01:36:05,000 --> 01:36:07,000
+Misli ti to tako advanced stuff?
+
+1966
+01:36:07,000 --> 01:36:09,000
+Tako, kot da bi bili
+
+1967
+01:36:09,000 --> 01:36:11,000
+biologi, pa bi se
+
+1968
+01:36:11,000 --> 01:36:13,000
+pogovarjali o nekih strujih mikologije,
+
+1969
+01:36:13,000 --> 01:36:15,000
+pa v gobi, tako.
+
+1970
+01:36:15,000 --> 01:36:17,000
+Misli ti to tako surajno?
+
+1971
+01:36:17,000 --> 01:36:19,000
+Vse vedno me vema,
+
+1972
+01:36:19,000 --> 01:36:21,000
+ti narečem, da moraš med JavaScript, da si vi,
+
+1973
+01:36:21,000 --> 01:36:23,000
+ali ne?
+
+1974
+01:36:23,000 --> 01:36:25,000
+Da, vedno.
+
+1975
+01:36:25,000 --> 01:36:27,000
+No, še usklemno, onda pivo prekrat,
+
+1976
+01:36:27,000 --> 01:36:29,000
+pa pa laži.
+
+1977
+01:36:29,000 --> 01:36:31,000
+Zdaj,
+
+1978
+01:36:31,000 --> 01:36:33,000
+mogoče zdaj počasi to
+
+1979
+01:36:33,000 --> 01:36:35,000
+zapakiramo to,
+
+1980
+01:36:35,000 --> 01:36:37,000
+v smislu.
+
+1981
+01:36:37,000 --> 01:36:39,000
+Zdaj,
+
+1982
+01:36:39,000 --> 01:36:41,000
+mogoče še poveš malo,
+
+1983
+01:36:41,000 --> 01:36:43,000
+kje si,
+
+1984
+01:36:43,000 --> 01:36:45,000
+oziroma kje se igraš
+
+1985
+01:36:45,000 --> 01:36:47,000
+s takimi tehnologijami, daj še malo to povej.
+
+1986
+01:36:47,000 --> 01:36:49,000
+Kaj delate, kjer firmi si, pa kaj počnete,
+
+1987
+01:36:49,000 --> 01:36:51,000
+daj še to malo povej.
+
+1988
+01:36:51,000 --> 01:36:53,000
+Da bi ljudje veli to kredibilno,
+
+1989
+01:36:53,000 --> 01:36:55,000
+da bi razumeli,
+
+1990
+01:36:55,000 --> 01:36:57,000
+kje se igraš s temi stvarami.
+
+1991
+01:36:57,000 --> 01:36:59,000
+Delam z
+
+1992
+01:36:59,000 --> 01:37:01,000
+podjetjo 37&30.
+
+1993
+01:37:01,000 --> 01:37:03,000
+Mi smo v bistvu
+
+1994
+01:37:03,000 --> 01:37:05,000
+konzaltanti podjetja.
+
+1995
+01:37:07,000 --> 01:37:09,000
+Delamo na različnih
+
+1996
+01:37:09,000 --> 01:37:11,000
+projektih. Nimamo
+
+1997
+01:37:11,000 --> 01:37:13,000
+recimo trnki solučno,
+
+1998
+01:37:13,000 --> 01:37:15,000
+imamo pa mogoče ekipe,
+
+1999
+01:37:15,000 --> 01:37:17,000
+ki jih
+
+2000
+01:37:17,000 --> 01:37:19,000
+posodimo strankam,
+
+2001
+01:37:19,000 --> 01:37:21,000
+ali pa pač posameznike.
+
+2002
+01:37:21,000 --> 01:37:23,000
+Zdaj, naš trk
+
+2003
+01:37:23,000 --> 01:37:25,000
+je skandinavski,
+
+2004
+01:37:25,000 --> 01:37:27,000
+oziroma pač poziramo
+
+2005
+01:37:27,000 --> 01:37:29,000
+podjetje samo iz Švedsko.
+
+2006
+01:37:29,000 --> 01:37:31,000
+Naše stranke
+
+2007
+01:37:31,000 --> 01:37:33,000
+pozirajo po švedskem,
+
+2008
+01:37:33,000 --> 01:37:35,000
+to so vsi večji,
+
+2009
+01:37:35,000 --> 01:37:37,000
+vsa večja
+
+2010
+01:37:37,000 --> 01:37:39,000
+pač švedska podjetja.
+
+2011
+01:37:39,000 --> 01:37:41,000
+Ki delajo po Hišto.
+
+2012
+01:37:41,000 --> 01:37:43,000
+Ki delajo lahko po Hišto,
+
+2013
+01:37:43,000 --> 01:37:45,000
+lahko delam Volvo,
+
+2014
+01:37:45,000 --> 01:37:47,000
+Polestar.
+
+2015
+01:37:47,000 --> 01:37:49,000
+Delal smo z
+
+2016
+01:37:49,000 --> 01:37:51,000
+njihom music playerjem,
+
+2017
+01:37:51,000 --> 01:37:53,000
+Klarno,
+
+2018
+01:37:53,000 --> 01:37:55,000
+ogromno pač
+
+2019
+01:37:55,000 --> 01:37:57,000
+večjih podjetij, tudi Tetrapak.
+
+2020
+01:37:57,000 --> 01:37:59,000
+Tako da,
+
+2021
+01:37:59,000 --> 01:38:01,000
+če pijate nekjer
+
+2022
+01:38:01,000 --> 01:38:03,000
+mleko ali pa krkoli
+
+2023
+01:38:03,000 --> 01:38:05,000
+z Tetrapaka, pa se nekaj
+
+2024
+01:38:05,000 --> 01:38:07,000
+polije, smo mogoče mi krivi.
+
+2025
+01:38:07,000 --> 01:38:09,000
+Mogoče ne.
+
+2026
+01:38:09,000 --> 01:38:11,000
+Delam Tetrapak.
+
+2027
+01:38:11,000 --> 01:38:13,000
+Ok, upal.
+
+2028
+01:38:13,000 --> 01:38:15,000
+Nič,
+
+2029
+01:38:15,000 --> 01:38:17,000
+jaz bi predlagal vsem poslušalcem,
+
+2030
+01:38:17,000 --> 01:38:19,000
+da pogledajo linke, ki jih bomo dali
+
+2031
+01:38:19,000 --> 01:38:21,000
+spodaj. Zagotovo bi
+
+2032
+01:38:21,000 --> 01:38:23,000
+ful predlagal, da če imate Twitter,
+
+2033
+01:38:23,000 --> 01:38:25,000
+da klem na
+
+2034
+01:38:25,000 --> 01:38:27,000
+pofollowate, ker ima konstanten
+
+2035
+01:38:27,000 --> 01:38:29,000
+stream zelo dobrih sebin.
+
+2036
+01:38:29,000 --> 01:38:31,000
+GitHub tudi,
+
+2037
+01:38:31,000 --> 01:38:33,000
+si zelo aktiven, teda tudi to predlegam.
+
+2038
+01:38:33,000 --> 01:38:35,000
+Pa ja, če boš
+
+2039
+01:38:35,000 --> 01:38:37,000
+nekaj povedal drugače.
+
+2040
+01:38:37,000 --> 01:38:39,000
+Ful je bilo kul, Rizano.
+
+2041
+01:38:39,000 --> 01:38:41,000
+Hvala.
+
+2042
+01:38:41,000 --> 01:38:43,000
+Pa, ja,
+
+2043
+01:38:43,000 --> 01:38:45,000
+ostane kul,
+
+2044
+01:38:45,000 --> 01:38:47,000
+pa upam, da bo na svojem JavaScript
+
+2045
+01:38:47,000 --> 01:38:49,000
+meet-up na tvojem
+
+2046
+01:38:49,000 --> 01:38:51,000
+teritoriju.
+
+2047
+01:38:51,000 --> 01:38:53,000
+Upam, da vsi, ki
+
+2048
+01:38:53,000 --> 01:38:55,000
+jih zelo skrip zanima, da predagam
+
+2049
+01:38:55,000 --> 01:38:57,000
+v svojem JavaScript meet-up.
+
+2050
+01:38:57,000 --> 01:38:59,000
+Pejte na te meet-upe,
+
+2051
+01:38:59,000 --> 01:39:01,000
+če jih ljudje že organizirajo.
+
+2052
+01:39:01,000 --> 01:39:03,000
+Pejte tja,
+
+2053
+01:39:03,000 --> 01:39:05,000
+zastonje pivo.
+
+2054
+01:39:05,000 --> 01:39:07,000
+Ljudje so isto šajkevi,
+
+2055
+01:39:07,000 --> 01:39:09,000
+tako da noben ves ne bo
+
+2056
+01:39:09,000 --> 01:39:11,000
+v grizbo.
+
+2057
+01:39:11,000 --> 01:39:13,000
+Službo lahko najdeš.
+
+2058
+01:39:13,000 --> 01:39:15,000
+Ja, so navarnosti tudi.
+
+2059
+01:39:15,000 --> 01:39:17,000
+Pa poslušalcem bi se
+
+2060
+01:39:17,000 --> 01:39:19,000
+še na tej točki zahvaljili
+
+2061
+01:39:19,000 --> 01:39:21,000
+za njihovo pozornost, čas,
+
+2062
+01:39:21,000 --> 01:39:23,000
+feedback. Če bodo to delili
+
+2063
+01:39:23,000 --> 01:39:25,000
+s svojimi prijatelji, bomo zelo veseli.
+
+2064
+01:39:25,000 --> 01:39:27,000
+Tako da, ja, klemen, Andraž,
+
+2065
+01:39:27,000 --> 01:39:29,000
+hvala lepa. Hvala.

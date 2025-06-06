@@ -1,0 +1,3867 @@
+1
+00:00:00,000 --> 00:00:26,000
+En lep dober dan vsem skupaj in dobrodošli v 5. epizodi 3. sezone podkasta Ogrodje v Zagonu in sicer se danes pogovarjamo o plačah in o drugih vrstih kompenzacije v tek sektorju v Sloveniji.
+
+2
+00:00:26,000 --> 00:00:29,000
+Z vami se danes Nika Anžel in Miha Medven, dobrodošla.
+
+3
+00:00:29,000 --> 00:00:31,000
+Zdravo.
+
+4
+00:00:59,000 --> 00:01:17,000
+V naslednjih epizodah se tega malo dotikali, ampak danes bi se res malo bolj pogovarjali o plačah konkretno in sicer se bomo sredotočili predvsem na tehnični prostor v Sloveniji, ampak se veda tudi malo primerjava z mednarodnim prostorom.
+
+5
+00:01:18,000 --> 00:01:36,000
+Za kaj sem danes povabljena Niko in Miho, Nika Anžel že zadnjih 5 let pomaga v kopici slovenskih in tudi tujih podjetij pri iskanju kadra in sicer predvsem tudi tehničnega kadra.
+
+6
+00:01:36,000 --> 00:01:42,000
+MPH je iz agencije oziroma iz podjetja za iskanje in selekcija kadra IT Class.
+
+7
+00:01:44,000 --> 00:01:47,000
+Dobrodošla Nika, mogoče bi še kaj dodala?
+
+8
+00:01:48,000 --> 00:02:03,000
+V bistvu ne bi, se je vse povedala dejansko. Zadnjih pet let odnezira me nekako šterino predvsem na teh pozicijah, odkar se je ta rekla IT trk pr. n. kr. s koronov precej odprl.
+
+9
+00:02:06,000 --> 00:02:11,000
+To je to, nekaj smo delali tatuine, predvsem pa za slovenska podjetja iščemo.
+
+10
+00:02:12,000 --> 00:02:32,000
+Miha, ti si zelo viden šanj slovenske tehnične skupnosti, nočeš prideš mimo tvojega imela ali na slovenskih developerjih ali preko tvojega kontenta na YouTube za freelancerje, ki je tudi zelo veliko doprinesel temu delu slovenske in tehnične skupnosti.
+
+11
+00:02:33,000 --> 00:02:43,000
+Veliko si delal v start-upih, zdaj pa si tudi v prvem malo dosti večjem podjetju, mednarodnem, trenutno vključen tam.
+
+12
+00:02:45,000 --> 00:02:52,000
+Bi še ti kaj dodal, oziroma še to moram dodati in seveda najbolj znani, zakaj si tudi danes tukaj, ker je tvoje enkete oplačah.
+
+13
+00:02:53,000 --> 00:03:08,000
+Hvala ti v imenu cele Slovenije za tvoj čas in da si vsako leto res ozameš čas za to. Mislim, da vsi vidimo zelo veliko dodano vrednost tega, ampak seveda bomo tudi v tem še malo kasneje govorili.
+
+14
+00:03:10,000 --> 00:03:14,000
+Jaz bi mogoče začela, mogoče res na tvoji strani.
+
+15
+00:03:14,000 --> 00:03:35,000
+Post covid čas je bil zelo zanimiv, oziroma covid čas je bil zelo zanimiv, je mislim, da je zelo veliko spremenil tehnično, celotno industrijo, ampak v tek sektorju in nasplošno se mi zdi, da je res se zgodil velik premik.
+
+16
+00:03:36,000 --> 00:03:46,000
+Zdaj smo štiri leta kasneje, kako si ti doživljal, ti po eni strani doživljal ta čas, ampak tudi nasplošno, kakšne trende si opazil v teh časih?
+
+17
+00:03:49,000 --> 00:04:01,000
+Jaz mislim, da ena stvar, ki je, da razmišljamo o trendih in o trenutni situaciji, seveda kot oseba vračaš, kdaj si ti začel svojo poklicno pot in potem baziraš vse te svoje izkušnje na podlagi tega.
+
+18
+00:04:02,000 --> 00:04:14,000
+Jaz sem začel dvadeset, dve leti po veliki finačni krizi in takrat je bilo zelo, zelo, zelo hudo. Karkoli pod tem je zelo dobro.
+
+19
+00:04:15,000 --> 00:04:37,000
+Torej, ljudje, ki so začeli v času korone pa po korone v IT sektorju, so najbrž doživeli največji bom v naših življenjih, ker je bilo tako ogreto trg delovne sile IT sektorja, da smo skoro vsak mesec imeli za 500 evrov do 1000 evrov više badžete za ista delovna mesta.
+
+20
+00:04:37,000 --> 00:04:54,000
+In to je bilo po eni strani zelo fino zavidet, po drugi strani sem pa pričakoval, zdaj se pa počas to vzadeva v hlaja, se vrača na neke normalne tirnice in imamo občutek, da je največja stagnacija in recesija in kako je hudo.
+
+21
+00:04:54,000 --> 00:05:11,000
+Kljub temu, da danes naš poklit še vedno zelo dobro živi, plače so še vedno zelo visoke, veliko podjetij se zelo trudi za nas. Res, da ni vsak dan deset novih vglasov za službe, ampak je samo eden.
+
+22
+00:05:11,000 --> 00:05:32,000
+Je se malo to ohledilo po koronsko, pač se je bilo logično, da ne more to biti vzdržno. Tako, da jaz zdaj vidim, kako je neko tako zdravo, omirjeno okolje. Trendi so malo sej omirili oziroma počase se nazaj vračajo v neke dvige.
+
+23
+00:05:33,000 --> 00:05:52,000
+Jaz mislim, da upam, da smo večino layoffov dal čez, nikoli ne veš, ampak saj za enkratno mesto občuto, da se je malo to omirjelo. Moram pa videti, kaj bo čez pol leta. Kar sem se naučil v zadnjih treh letih je, da naslednjih 14 dni je ključnih, zadeve se zelo hitro spremiljajo.
+
+24
+00:05:53,000 --> 00:06:12,000
+Tako, da to je nekako moj povzetek v zadnjih četirih letih. Zgubil sem veliko glas, malo gubice so se mi naredile, ampak je bilo fajno. Tudi v anketah se zelo dobro vidi vse te trendi, kako smo šli iz neremote družbe v zelo remote družbo, plače so šle gor, veliko premikov je bilo tudi menjav služb in podobno.
+
+25
+00:06:13,000 --> 00:06:35,000
+Nikamita, sva se znala glih tam nekje štiri leta nazaj, ko si sam že v vodu malo povedala, v enem trenutku je eksplodiral poproševanje po inženirjih in takrat se je tudi pri vas lotil malo večji skanjanje inženirjev. Kako ti vidiš te zadnje štiri leta? Sem videla, da si kivala, sem pa videla tudi, da si malo odkivala.
+
+26
+00:06:36,000 --> 00:06:47,000
+Res je, res je. Korona, jaz mislim, da je celo korono nekaj je reslo, noro poproševanje, premalo kadrov, vsi so se preusmerjali v IT.
+
+27
+00:06:48,000 --> 00:07:02,000
+Pol so pa tako jaz nekako od poletja, konca poletja 2022 pa do danes zaznavam layoffe. Začeli so se itak zaradi tistih googlovih, facebook layoffih v Ameriki, ameriška podjetja v Sloveniji so začele s tem.
+
+28
+00:07:02,000 --> 00:07:17,000
+Veliko podjetji je šlo v layoffe zato, ker so ali zgubljali projekte, velikih je pa šlo zato tudi, ker so se malo bali, kakšna bo gospodarska situacija in so rekli, zdaj pa pa mi ful smo srasteli, ful smo nenormalno hajrali, zdaj pa pa mi malo uhladili.
+
+29
+00:07:17,000 --> 00:07:26,000
+Pač tiste kadre, ki mogoče nismo bili zaskopi ali pa ne performajo dobro, so dal strani in so tako v bistvu se prepravljali na neko krizo, ki je do danes v bistvu ni prišla.
+
+30
+00:07:27,000 --> 00:07:28,000
+Še, upam.
+
+31
+00:07:29,000 --> 00:07:48,000
+Zdaj, to, da se je zaostavil, lej, lih prejšnjega meseca je ena taka zgodba, no, sicer manjše podjetje, ker so jo 40% ljudi mogoče layoffati zaradi pomankane podjetje, tako da ne vem, koliko se je zaostavil, no, jaz v bistvu še vedno spremem te zgodbe na vsake tok časa.
+
+32
+00:07:49,000 --> 00:07:59,000
+Je pa res, no, da še vedno, tako kot je Miha rekel, trk v bistvu vse inženirje še vedno posrka, ne, še vedno nek primanklaj oziroma pozicije so, mogoče več ne toliko.
+
+33
+00:08:00,000 --> 00:08:19,000
+Kar se tiče plač, bi jaz rekla, da rastejo, ne tako nenormalno kot so včasih, je pa res, da so podjetje fulj bolj zahtevna, glede kandidatov, ne dajo, ker vsak mu fulj dobre plače, ker predvsej zbirajo, koga bojo vzela.
+
+34
+00:08:20,000 --> 00:08:41,000
+A je v nekem čisto običajnem profilu res to poglednokršna velika razlika? Jaz se spomenem pač štiri leta nazaj, res si plasiral neke džunjerje za neke zneske, ki si se res vprašal, a res ste pripravili toliko plačati za takšen kader?
+
+35
+00:08:41,000 --> 00:08:54,000
+A se je to malo obrnilo? A so podjetje bolj zahtevna postala? Ja, tudi nas v bistvu več ne najemajo za džunjerje. Zdaj v bistvu res iščemo specialiste, to pomenta mid do senior oziroma seniorje.
+
+36
+00:08:55,000 --> 00:09:09,000
+In se mi zdi, da se je tudi malo naučila podjetja to, da ni dober samo nekoga vzeti, zato, ker ga rabeš, a moraš gledati in na vseben fit in na to, da pač ta človek nekaj doprenese, k podjetju za ta denar, kamo ti daš.
+
+37
+00:09:09,000 --> 00:09:19,000
+To jaz fulj upažam, razliko danes ali pa en let nazaj je bilo to drgače. Danes se mi pa zdi, da je tako malo bolj razumen ratotrk.
+
+38
+00:09:19,000 --> 00:09:28,000
+Tudi ponudbe džunjerje je veliko več zdaj. Traja mogoče leto, leto pa pol, da so ljudje nekako dovolj znane, da z to lahko začnejo džunjersko pozicijo.
+
+39
+00:09:28,000 --> 00:09:38,000
+In ogroman ljudi je po koroni oziroma za začetko korone se začeli ukvarjati z IT poklicom in zdaj imamo ogroman džunjerjev, pa ni služb za njih.
+
+40
+00:09:39,000 --> 00:09:55,000
+In saj jaz imam občutek, da je veliko teže delo najdati prve službe, prve zaposlitve, ker so kriteriji veliko več. Veliko več moraš pokazati, boljše reference, portfolijo, kot kar mogoče pred koronov oziroma bed koronov.
+
+41
+00:09:55,000 --> 00:10:00,000
+Tako da je tudi na strani ponudbe cyber džunjerih veliko večje.
+
+42
+00:10:01,000 --> 00:10:09,000
+Kot džunjer, a ne, a se danes lahko oplači spohpogajem?
+
+43
+00:10:09,000 --> 00:10:27,000
+A je danes takšen trk, da pač hvala, služba, prišla si, ali je pač takšen trk, ko se tudi kot džunjer oplači in se vključiš tudi v ta del službenega življenja?
+
+44
+00:10:27,000 --> 00:10:35,000
+Jaz mislim, da se moraš vedno pogajati. Zdaj tako seveda, koliko imaš ti nemočno pozicijo kot džunjer je zelo, zelo majhna pozicija.
+
+45
+00:10:35,000 --> 00:10:46,000
+Je pa to še vedno kompenzacija. To je še vedno stvar debate in vedno je besedica pogajanja, ampak je dialoga med delodojalcem in delojamalcem.
+
+46
+00:10:46,000 --> 00:10:55,000
+Če nač drugega poveš svoje želje, da hočeš večer imeti del ali kar kol podobnega, to ti tudi kot džunjer, saj jaz jih želim, da povejo svoje želje.
+
+47
+00:10:55,000 --> 00:11:06,000
+Ne vem, obiskovanje konferenc, education budget, podobne zadeve, to tudi kot džunjer, mislim, da ne bo noben zameril, če se te zadeve začnemo pogajati v narkovajih.
+
+48
+00:11:06,000 --> 00:11:13,000
+Glede plače, najboljš pa ni veliko prostora, so pa druge zadeve, tako saj moja mnenja.
+
+49
+00:11:13,000 --> 00:11:21,000
+Ja, mislim, tudi odvisno veš, kako lahko pokažeš kot džunjer. Lahko si džunjer sveši iz faksa, nikoli nisi nač drugega delala kot to, kar je bilo treba na faksu.
+
+50
+00:11:21,000 --> 00:11:32,000
+Lahko si pa džunjer, pa si imaš ful nekih privatnih projektov, ful te stvari zanima, deluj si recimo študentska dela in če lahko ti kaj pokažeš, jaz mislim, da se lahko vedno pogajaš.
+
+51
+00:11:33,000 --> 00:11:44,000
+A se je ta entry-level plača in ta entry-level profil, opaža takošno razliko? Tudi mogoče izvedika vešine kompenzacije?
+
+52
+00:11:44,000 --> 00:11:50,000
+Mogoče, če zarepaš to, Miha, tudi še z ostalimi podatki mogoče oplači?
+
+53
+00:11:51,000 --> 00:12:01,000
+Jaz mislim, da vse narašča, tako da ne vem, če kakšen ful večji premig bi bil za ta entry-level. Vedno gre vsako leto gre gor.
+
+54
+00:12:01,000 --> 00:12:12,000
+Ko gre gor, je seveda odvisno od leta, pa od profila, ampak narašča. Tako, ko imamo vsako leto više minimalno in poprečno plačo, tudi te plače s tem naraščajo.
+
+55
+00:12:12,000 --> 00:12:17,000
+Jaz mislim, da ni nekaj takrat drastičnega razlika, če si leto začel ali pa lansko leto, da mogoče občutaš.
+
+56
+00:12:19,000 --> 00:12:32,000
+Je pa to, kriteriji se spreminjajo. Zdaj mora junior kar več pokazati, kot mogoče dve leti. Če si imel samo željo po programeranju, pa še nisem zelo programerat, pa si že lahko načel imeti skoraj dobu službo,
+
+57
+00:12:32,000 --> 00:12:39,000
+dan s temu ni več tako. Tako da, ja, plače so najbrž šiste, se pa več zahteva.
+
+58
+00:12:39,000 --> 00:12:53,000
+Ja, mogoče replika, nasploh je, mi veliko delamo tudi z mladimi, ker imamo proposeben program za izobraževanje mladih in nasploh plače v, bom rekla, nekih strokovnih profilov, poslovnih.
+
+59
+00:12:53,000 --> 00:13:13,000
+V podetjih so predvsej narasli za entry level, ne samo za inženirje oziroma programerje. Venestavno je inflacija, včasih so bili mladi ful brezposelni, danes so si dobili službo, tako da, po mojem, je tudi z tem povezano bilo.
+
+60
+00:13:14,000 --> 00:13:18,000
+Mislim, ja, ker pač bomerjo vprašaš, nobeno če delati, ne, še vedno, tako da.
+
+61
+00:13:18,000 --> 00:13:19,000
+Ja, ja.
+
+62
+00:13:19,000 --> 00:13:20,000
+Se mi obenja, da bi delal.
+
+63
+00:13:20,000 --> 00:13:21,000
+Ja, ja.
+
+64
+00:13:21,000 --> 00:13:22,000
+Mislim, res je.
+
+65
+00:13:22,000 --> 00:13:37,000
+Jaz lahko vem, jaz, ko sem začela tle delati z mladimi, smo imeli entry level, pa ne govorim o IT, no, so bile pa čez tisot, tisot, tisot bruto, ne, ti, ki si prišel iz faksa, brezizkušen, danes, tisot, osamstot, do dva tisot. Go.
+
+66
+00:13:37,000 --> 00:13:49,000
+Seveda, tudi, ko greš po neko varnem središču, pa imaš trgovine, iščejo prodajalce, jaz se tega ne spomnim, kadar koli, ker je premalo ljudi, ki bi delali nasploh, imamo, kaj, rekordno nizko brezposelnost.
+
+67
+00:13:49,000 --> 00:13:50,000
+Ja.
+
+68
+00:13:50,000 --> 00:14:04,000
+Okej, ja, in je pač pritisk iz te stranine, ker nekdo mora pa še vedno to delo upravljati, ne, če tudi, mogoče, ne rabiš to, koliko je včasih korone, je pa še vedno, ne, ljudje grejo v pokoj, spreminjajo poklice.
+
+69
+00:14:04,000 --> 00:14:33,000
+Apsolutno, je covid po polnoma pretresu, kaj nam je pomembno, vrednote, se mi zdi, da tudi, konic koncu, pomago pri malo, malenko, se no, malo bolj decentralizaciji iz Ljubljane tudi, zaradi, če prav vidim, da je pač, seveda, ta call back to office, tudi v slovenskih podjetjih, ne, ker no, le se je le eno uro z avtom, ne, valjda se boš pripeljal enkrat na teden ali pa dvakrat v pisarno, ne, ampak se mi zdi,
+
+70
+00:14:33,000 --> 00:14:58,000
+da to je itak, da, mislim, res malo še v nas kot družbo, seveda, ne, tudi pretreslo. Mogoče bi najprej razčisli samo nekaj osnovnih pojmov in potem bi se res mogoče malo bolj vse razvrstočil še na enkjeto, ker že nekaj časa spremljaš te podatke, ampak preden začnemo govoriti o zneskih in o plačah,
+
+71
+00:14:59,000 --> 00:15:17,000
+dajmo razčistiti to bruto, ne to, bruto, bruto debato, o čemu se pogovarjamo, o bruto plači, o bruto, bruto plači, o ne to plači, kaj je v nekem najboljšemu interesu nekaj kandidata, ko se pogovarja o zneskih.
+
+72
+00:15:19,000 --> 00:15:21,000
+Če jaz rečem, ali boš ti začela?
+
+73
+00:15:22,000 --> 00:15:26,000
+Ja, jaz imam ful strogo meni, ampak, ne, sej, gledaj, nečasga.
+
+74
+00:15:27,000 --> 00:15:42,000
+Gledaj, malo bruto imamo ne to, jaz mislim, da če se hočeš ti kot kandidat zaščita, da ti bod podeti res tako ponudlo kot pričakuješ, se dobro pozanimi najprej kakšna je razlika, imaš na netu ful kalkulatorjev, tako da ni to, ker nastavno pač te stvari pogledati,
+
+75
+00:15:43,000 --> 00:15:51,000
+vedno se pa o bruto plači pogovarja in poskrbi za to, da rečeš bruto plača, plus delavna doba na to, tako.
+
+76
+00:15:52,000 --> 00:16:07,000
+Zelo dodatni bonus, ja. Jaz bi tukaj mogoče samo razširil, mogoče to je specifika slovenskega trga, kar se pogovarjamo o plačah, ne pogovarjamo se o kompenzaciji enesploh, ker so tu regresi noter in povračilo takšnih in drugačnih stroškov,
+
+77
+00:16:08,000 --> 00:16:25,000
+ki lahko nanese kar dober del zneska, ki ti na koncu meseca ostane na bančnem računu. Jaz mislim, da smo še predvsej daleč od tega, da razumemo bruto plačo, kaj še da bi razumeli bruto kompenzacijo, ki je v tujini mogoče veliko bolj razširjena,
+
+78
+00:16:25,000 --> 00:16:51,000
+ker je plača mogoče dve tretjini zneska, vsi vstali bonusi, delnice in ne vem kaj še vse, pa dodatni zelo velik delač. Bruto plačo je tisto, kar je od sazga specifičnega človeka raznoliko, torej v združenem členju, odaljenost od podjetja,
+
+79
+00:16:51,000 --> 00:17:19,000
+to vse nanese na koncu meseca drugačen znesek na bančnem računu, ampak na koncu se pogovarjamo o bruto plači. To je bil tudi en razlogov, zakaj sem šel delati to anketo, zato da sem lahko začel govoriti, ne to plača in ne je pomembno, gremo se pogovarjati o bruto plači in kaj bomo to usvojili, gremo naprej na kompenzacijo, tako da jaz upam, da čez nekaj let bomo imeli kompenzacijo.
+
+80
+00:17:19,000 --> 00:17:31,000
+Ampak Miha, bene ne briga, kaj podjetja plača, bene samo zanima, kaj na mojem teroraju, zakaj se ne pogovarjamo o nej, o plači.
+
+81
+00:17:31,000 --> 00:17:45,000
+In potem SP-oci, kaj potem njihova bruto je bruto-bruto ali je bruto ali ni to. Če je davčni zavezenc ali če ni davčni zavezenc in ne vem kaj še vse, tej debat imam velik, tako da sem kar malo trigert.
+
+82
+00:17:45,000 --> 00:18:06,000
+Jaz mislim, da moraš le res, da je to tako neka osnova, da malo poguglaš, naščuderaš, da veš kaj še ni s tem. Lahko pa vedno ti, kaj dobiš ponudbo od podjetja, ti lahko vedno zapravo sodaj temi pripraviti prvo kalkulacijo plača, primer, tako da pal tudi vidiš, a si prav si sam zračunal, kako bo to prišlo.
+
+83
+00:18:06,000 --> 00:18:19,000
+Jaz mislim, da se zdi tukaj predvsem ključno ena takih zgodb, ki sem jih dosti kar slišala, je bilo, jaz sem se zmenil za nekaj plača, potem sem šel pa en mesec na bolniško, potem pa je ujel pa na drevo. To so take.
+
+84
+00:18:19,000 --> 00:18:21,000
+A dopusti so zabavni.
+
+85
+00:18:21,000 --> 00:18:30,000
+Dopusti, pa tako kot si ti, si si že lepo rekel, zdrževan druženski član, potem pa pač dobiš otroka, pa kar naenkrat, malo več na TRR-ju, pa nisi mogoče niti pričakoval.
+
+86
+00:18:30,000 --> 00:18:32,000
+Pa delavna doba.
+
+87
+00:18:32,000 --> 00:18:43,000
+Delavna doba, ne. Zato se mi zdi vseeno, ne, pač bruto plača je tista, ker si lažje, smo bolj na enakem nivoju, se pogovarjamo o isti stvari.
+
+88
+00:18:43,000 --> 00:18:45,000
+Zato, zaradi primerjave, ne.
+
+89
+00:18:45,000 --> 00:18:59,000
+Ker je potem, tako kot si je rekel, res od vsakega posameznika odvisno, ne. Tako da, čeprav je nam kot posameznikom lepo, da dobimo nek dar na TRR-u, nam bodo delodajalci v resnici naredili uslugo s tem, ko za nas plačajo te prispevke.
+
+90
+00:18:59,000 --> 00:19:09,000
+In v bistvu bi bi mogli dobiti bruto plačo na TRR-u in to sami plačata, ne. In če bi se pač, to potem bi bilo mogoče bolj jasno, ne, ampak bruto plača je tista osnovna plača.
+
+91
+00:19:09,000 --> 00:19:20,000
+Se mi zdi, da vse nas postavi na enaki manjvalic, kot delodajalca. Kakšne pa so potem bruto plače v zadnjih letih?
+
+92
+00:19:20,000 --> 00:19:21,000
+Naraščajo.
+
+93
+00:19:21,000 --> 00:19:22,000
+Naraščajo?
+
+94
+00:19:22,000 --> 00:19:23,000
+Naraščajo.
+
+95
+00:19:23,000 --> 00:19:24,000
+Zato, to je dobro.
+
+96
+00:19:24,000 --> 00:19:39,000
+Jaz imam zelo en velik problem, ki se pogovarjam o bruto plačah. Večino debat je o poprečni plači. In poprečna plača je izredno zmotna, ne. Če imamo midva juri, pa ti deset jurijev, je poprečna plača šteri, ne.
+
+97
+00:19:39,000 --> 00:19:55,000
+In midva bova predvsej razočarjena glede tega. Tako da, jaz vedno probam govoriti o medijani. Kar pomeni, da 50 odstotkov ljudi ima tako plačo ali menj. In v Sloveniji, saj po zadnji enketi, je to med 3000 in 3500 bruto.
+
+98
+00:19:55,000 --> 00:20:13,000
+Kar pomeni, da več kot 50 odstotkov ljudi zasluži manj kot to. In potem imaš nekaj razdalitev. Tako da, če ste nad tem zneskom med elito, če lahko tako rečem, če zaslužite več kot 6000 brutov, ste že skor top 10%.
+
+99
+00:20:13,000 --> 00:20:30,000
+Lih pred kratkem sem prebral eno statistiko. Če imate ne to plačo, torej, da vam dobite na račun 4000 evrov, ste top 1% zaslužkar v Sloveniji. Kar je, po eni strani, zelo velika številka, po drugi strani, sem pa jaz upel, da so to saj milioni.
+
+100
+00:20:31,000 --> 00:20:57,000
+In to so taki zneski, ki pa ti da nekaj drugačen pogled, ker v bistvu gledamo bruto plačo bolj v distribuciji. Nekoliko ljudi ima nek znesek, o kar kaj je poprečna plača. Jaz govorim o medijani, 3000, 3500 evrov. Če zaslužite manj kot to, veste, kje ste. Če zaslužite več kot to, tudi načeloma, veste, kje ste. Se pa to vsake dve lete za ene 500 evrov.
+
+101
+00:20:57,000 --> 00:21:13,000
+Se spomneš prve medijane? Ja, 2500. Prva anketa je šest let nazaj, nisem šel danes gledati. 2500, tako je sprememba? Tako je, 1000 evrov v šestih letih. Torej, to jaz govorim vedno o rasponjih, ne moja anketa je na menoma točna, ampak ne natančna.
+
+102
+00:21:13,000 --> 00:21:27,000
+Kar pomeni, da pogovarjamo se o rasponjih, ker ljudje točno ne vejo kaj je. In rečem, na 500 evrov natančno probam biti in sem pogledal, ja, 2000 do 2500 evrov je bila medijana 2018.
+
+103
+00:21:28,000 --> 00:21:50,000
+Varjetno vseeno velik preskok, ali greš za slovensko podjetje, ali greš za tujo podjetje? To je že takrat je bilo, pa tudi dons je. Načeloma je tako, v Sloveniji imamo ta fenomen SPV in SPVci načeloma imajo više prihodke, če jih enačimo z poslenimi.
+
+104
+00:21:51,000 --> 00:22:05,000
+In največja karakteristika, najbolj upazna lasnost je, da večina dela za podjetja, ki so na tujem trgu. Torej, slovenski zaposlen je načeloma zaposlen za slovensko podjetje, ki dela na slovenskem trgu.
+
+105
+00:22:05,000 --> 00:22:26,000
+Kar pomeni, da če že delaš za podjetje, ki dela na tujem trgu, če tudi je slovensko, boš imel više plače. Torej, kot temu rečem, če imamo velike slovenske imena našega gospodarstva, imajo lokacijo v Sloveniji, delajo za Evropo in Ameriko, imajo više plače.
+
+106
+00:22:27,000 --> 00:22:30,000
+Lilo je poprčan enako kot drugo.
+
+107
+00:22:31,000 --> 00:22:54,000
+A veš, mislim, a je res, ne? Zdaj, to je tisto, kar mogoče je še en stereotip, ki se tudi drži plače. Ena največjih stereotipov in rezervacij, ki se jih jaz rečujem pri slovenskih developerjih je, ampak če me človek trikrat več plača, kaj bom jaz mogu delati za ta denar? A je res isto?
+
+108
+00:22:54,000 --> 00:22:56,000
+Isto je. No, hvala.
+
+109
+00:22:56,000 --> 00:23:10,000
+Finno je to. Jaz to vedno razlagam. Mi imamo slovenska podjetja, ki imajo zaposlene slovence oziroma iz širše Balkanske regije in njih plačujejo tri, pet tisoč evrov, kukar že, ker je dobra slovenska plača.
+
+110
+00:23:10,000 --> 00:23:29,000
+Prodajo jih pa kot agencija, kot delavna sila ameriškim podjetjem, britanskim podjetjem za trikrat več denarja. A oni delajo boku v boku z svojimi ameriškimi kolegi. Isto stvar. Če greš čez lužo, se ti v AVSA-ju ali pa v dokumentaciji ne odprejo nove rubrike, zdaj se moraš pa še to naučiti.
+
+111
+00:23:29,000 --> 00:23:45,000
+Samo problemi so malo drugačni, pa tisto delo, ki ga ti upraveš, se lahko bolj uplemeniti. Če narediš 10% razlike za slovensko podjetje, si zasluži v 100 jurjev, če narediš 10% razlike za ameriško, si naredi v 10 milijonov. Kaj pa je tisto milijon za njih?
+
+112
+00:23:46,000 --> 00:24:10,000
+Jaz mislim, da je to ena razlika. Sem delal z googlovcmi, z aplovci in ne vem kaj še vse. Poprečen programer je isti poslot. Elita je mogoče drugačna, ker imajo drugačne dostope do problemov, ki jih lahko rešujejo. V Sloveniji je zelo malo podjetij, ki ima nek skel, kot ga ima Google, tako da nekaj specifično znanje seveda obstaja.
+
+113
+00:24:11,000 --> 00:24:31,000
+Ampak tudi v Sloveniji je zelo, zelo malo ljudi, ki te zadeve zna, kar pomeni, da je to še vedno nekaj elita. Vzroma krem dela, krem IT-a, tako kot v Ameriki in tudi v Sloveniji. Drgače je isto. Jaz nisem videl nobene razlike. Delamo iste napake, zabijamo se z glavo zaradi tistih problemov. Iste probleme imamo.
+
+114
+00:24:32,000 --> 00:24:38,000
+Jaz vem, da ti si veliko na slovenskem trgu, nekaj tudi malo v Balkani. Je kakšna razlika to pogledno?
+
+115
+00:24:40,000 --> 00:24:41,000
+Kar se diče? Višji ne plače.
+
+116
+00:24:41,000 --> 00:24:45,000
+Višji ne plače, ampak tudi konec konca zahtev ne ste delala v nekaj mesta, se strinjaš taj.
+
+117
+00:24:46,000 --> 00:24:58,000
+Ja, jaz bi rekla, da je v bistvu zelo, zelo vse podobno rateljno. Mogoče kakšni trgi, kot so recimo Srbija ali pa Makedonija, ker vstopa zelo veliko ameriških podjetij, da so tam zahteve kandidatov više.
+
+118
+00:24:58,000 --> 00:25:00,000
+Zato tudi mogoče kakšni trgi.
+
+119
+00:25:00,000 --> 00:25:04,560
+temu rečem rockstar kandidate, tam za to biti,
+
+120
+00:25:04,560 --> 00:25:08,600
+ker enostavno lahko so delali v velikih sistemih
+
+121
+00:25:08,600 --> 00:25:12,920
+z scalability-ami in tako, ampak jaz mislim,
+
+122
+00:25:12,920 --> 00:25:15,880
+da razlik več ni, zelo redko. Kdaj najdeš razlike,
+
+123
+00:25:15,880 --> 00:25:19,240
+ali pa če že najdeš razlike, je to bolj zakašnje manjše
+
+124
+00:25:19,240 --> 00:25:22,600
+podetja oziroma produkte.
+
+125
+00:25:22,600 --> 00:25:26,639
+Se bom navezala in bom to povezala malo še z SP-jem,
+
+126
+00:25:26,639 --> 00:25:31,879
+ker si tudi SP-vce umenila. Začela si z 2010,
+
+127
+00:25:31,879 --> 00:25:37,880
+jaz se spomnim tega časa, 2008 se spomnim in potem ta post 2008,
+
+128
+00:25:37,880 --> 00:25:41,080
+ko kar naenkrat ni bilo več vrednih služb. Vsi inženiri
+
+129
+00:25:41,080 --> 00:25:44,880
+so pač mogli biti SP-je, dobil si jo mogoče eno leto
+
+130
+00:25:44,880 --> 00:25:49,840
+za določen čas, ampak več ali manj vse je pač šlo na SP-je
+
+131
+00:25:49,840 --> 00:25:53,080
+in potem v enem trenutku seveda se je zakonodaje spremenila
+
+132
+00:25:53,080 --> 00:25:55,959
+in potem pa kar naenkrat se je zadeva obrnila.
+
+133
+00:25:56,000 --> 00:26:00,200
+Vsi SP-oči so začeli, ampak če Fridum k tebi v službo,
+
+134
+00:26:00,200 --> 00:26:02,959
+to pa to mi pač v bistvu zmanjka.
+
+135
+00:26:02,959 --> 00:26:10,959
+A se je mažmo gočeve oba dva, to je za oba vprašanje,
+
+136
+00:26:10,959 --> 00:26:15,959
+tudi vidoval, kaj upažite glede SP-jo, a je to danes potem
+
+137
+00:26:15,959 --> 00:26:18,959
+predvsem, kot si je rekel, stredstvo za dela za to jino
+
+138
+00:26:18,959 --> 00:26:22,959
+in konec konca, kako potem slovenske podetje lahko konkurirajo
+
+139
+00:26:22,959 --> 00:26:29,959
+temu broken SP-ju zredno zaposletijo, ki pač de facto
+
+140
+00:26:29,959 --> 00:26:32,959
+ima dosti više da okreje in da jato je.
+
+141
+00:26:32,959 --> 00:26:35,959
+Boš tudi začela, da ja začnem?
+
+142
+00:26:35,959 --> 00:26:40,959
+Ja, jaz mislim, da tudi določena slovenska podetja se poslužuje
+
+143
+00:26:40,959 --> 00:26:43,959
+te prakse, čeprav uradno.
+
+144
+00:26:43,959 --> 00:26:46,959
+Ne govorimo o njih.
+
+145
+00:26:46,959 --> 00:26:52,959
+Ja, bom rekla, veliko se jih vtepa, te prakse, tudi v bistvu zaradi
+
+146
+00:26:52,959 --> 00:26:57,959
+neke stabilnosti, ki si jo želijo, če se nekdo zaposli.
+
+147
+00:26:57,959 --> 00:27:01,959
+Jaz pa tudi upažam, da v zadnjem cajtu zelo velikim ljudem
+
+148
+00:27:01,959 --> 00:27:06,959
+pomeni ta redna zaposlitev in možnost kredita in tako neko posebno
+
+149
+00:27:06,959 --> 00:27:09,960
+varnost sploh v teh nestabilnih časih. In se je mogoče tudi
+
+150
+00:27:09,960 --> 00:27:13,960
+upekl prekakšni mednarodni zgodbi, da so bili na SP-ju,
+
+151
+00:27:13,960 --> 00:27:18,960
+ali da je projekt se ugasnil. Tako da ne bom rekla, da zdaj gre
+
+152
+00:27:18,960 --> 00:27:23,960
+treniti iz SP-ja v redno zaposlitev, ampak malo pa neki signalov
+
+153
+00:27:23,960 --> 00:27:26,960
+na trgu vedevam.
+
+154
+00:27:26,960 --> 00:27:30,960
+Jaz bi tukaj sanj dodel, ker veliko se pogovarjam o SP-jih
+
+155
+00:27:30,960 --> 00:27:33,960
+in v mojem kjetiji imam jaz to vprašanje, a delaš na SP ali ne,
+
+156
+00:27:33,960 --> 00:27:37,960
+in v resnicih je 15 ali 17 odstotkov samo SP-jovcev.
+
+157
+00:27:37,960 --> 00:27:42,960
+Vsi ostali, torej 75, je redno zaposlenih in 10% teh redno zaposlenih
+
+158
+00:27:42,960 --> 00:27:46,960
+ima tudi še po podanski SP. Kar pomeni, da je to mejkne delaš.
+
+159
+00:27:46,960 --> 00:27:51,960
+Kar se sam meni zdi, da je to delaš, ki dela za tojino in je na neki
+
+160
+00:27:51,960 --> 00:27:55,960
+višji ravni in se o njih več govori, ker so tudi del teh nekih
+
+161
+00:27:55,960 --> 00:27:58,960
+skupnosti in vseh teh gostiniških debat, ki jih imamo,
+
+162
+00:27:58,960 --> 00:28:01,960
+on je na Facebooku, je to potem mogoče tudi mali skriljeno,
+
+163
+00:28:01,960 --> 00:28:05,960
+kakor da je cela Slovenija na SP jih. Pa ni.
+
+164
+00:28:05,960 --> 00:28:11,960
+Že 4-5 let to preučujem in manj kot 20% je SP-jovcov.
+
+165
+00:28:11,960 --> 00:28:15,960
+Seveda zaslužijo ti SP-jovci več denarja, če gledamo na prihodek ne,
+
+166
+00:28:15,960 --> 00:28:21,960
+ampak jaz mislim, da je to tudi neka zelo fajn tema,
+
+167
+00:28:21,960 --> 00:28:25,960
+ki se lahko njej mali skrigamo, ker je malo optimizacija davka
+
+168
+00:28:25,960 --> 00:28:30,960
+in vseh teh zadev. Je pa finta v tem, da ko se je globalen trk odprl
+
+169
+00:28:30,960 --> 00:28:37,960
+tudi Sloveniji, je za manjša podjetja SP dobra alternativa,
+
+170
+00:28:37,960 --> 00:28:43,960
+da so konkurenčni v plači, ker ti lahko večje podjetje ponudi
+
+171
+00:28:43,960 --> 00:28:48,960
+tak neto preko zaposlitve, kot lahko neko manjšo zakonsko podjetje
+
+172
+00:28:48,960 --> 00:28:53,960
+preko SP. In saj jaz le vidim neko dodano vrednost,
+
+173
+00:28:53,960 --> 00:28:56,960
+da se te slovenske startupne to mogoče malo bolj splača,
+
+174
+00:28:56,960 --> 00:29:01,960
+ker je optimizacija na obih stranih, ker na koncu večinoma ljudi
+
+175
+00:29:01,960 --> 00:29:04,960
+gledamo, kako dobimo na koncu na bančni račun neko,
+
+176
+00:29:04,960 --> 00:29:12,960
+ki je šlo v celotno malho. Veliko se govori o SP in ne vem,
+
+177
+00:29:12,960 --> 00:29:15,960
+kako so v resnici res problemne.
+
+178
+00:29:15,960 --> 00:29:20,959
+Se mogoče niti ne gre toliko kot problem, bolje vprašanje,
+
+179
+00:29:20,959 --> 00:29:24,959
+a pa čisto čisto druga liga, pa se njimi ne ukvarjamo,
+
+180
+00:29:24,959 --> 00:29:29,959
+ali pač dejansko na našem trgu potem zmakuje, oziroma so
+
+181
+00:29:29,959 --> 00:29:36,959
+slovenske podjetje zgubijo konkurenčnost zaradi nekega SP.
+
+182
+00:29:36,959 --> 00:29:42,959
+Po drugi strani pač, če delaš kot kontraktor z ameriško firmo,
+
+183
+00:29:42,959 --> 00:29:47,959
+a res je tvoja alternativa neko lokalno slovensko podjetje?
+
+184
+00:29:47,959 --> 00:29:52,959
+Ni. Vsi v drugem trgu, vsi na drugem nivoju. Jaz mislim,
+
+185
+00:29:52,959 --> 00:29:57,959
+da SP dela slovenski trg bolj konkurenčen, z pravzga razloga,
+
+186
+00:29:57,959 --> 00:30:02,959
+zato ker si zmanjša stroške. Brez tega bi bilo mogoče veliko
+
+187
+00:30:02,959 --> 00:30:05,959
+slovenskim podjetjem težje, tem mejhnim. Te velike so večinoma
+
+188
+00:30:05,959 --> 00:30:08,959
+itak na zaposlitvah, razen tiste, ki se malo belj upajo,
+
+189
+00:30:08,959 --> 00:30:12,959
+pa imajo dobre pravne in ročnovodske službe.
+
+190
+00:30:12,959 --> 00:30:19,959
+Tako da ne vem, pač to so take zadeve, ki ne vem, če od skupnosti
+
+191
+00:30:19,959 --> 00:30:22,959
+ali pa od programerjev ali pa od družbe je tako odvisno,
+
+192
+00:30:22,959 --> 00:30:26,959
+kaj hočemo narediti. Ker jaz se spomnim tega, ko so ti SPji prišli,
+
+193
+00:30:26,959 --> 00:30:31,959
+ker niso hoteli imeti brezposebnih ljudi, so rekli, da tukaj imaš SP,
+
+194
+00:30:31,959 --> 00:30:36,959
+damo ti 5 tisoč evrov za dve leti, naredi z njih podjetje in večinoma
+
+195
+00:30:36,959 --> 00:30:41,959
+smo pal naredili one-man bende in deset let kasneje jih še vedno imamo
+
+196
+00:30:41,959 --> 00:30:45,959
+in smo podjetniki v malem. In to se jaz prav spomnim.
+
+197
+00:30:45,959 --> 00:30:50,959
+Sem že pozabil na to, fur se del, ne 5 tisoč evrov, nekaj tazga del.
+
+198
+00:30:50,959 --> 00:30:54,959
+In smo šli vsi na SP. Če si počakal še eno leto brezposebno,
+
+199
+00:30:54,959 --> 00:30:58,959
+si dobil še dodatne ugodnosti. Tako da je bil ful, vsi gremo na SP
+
+200
+00:30:58,959 --> 00:31:02,959
+samo zato, da nimamo brezposebnih ljudi, deset let kasneje pa zdaj
+
+201
+00:31:02,959 --> 00:31:07,959
+imamo mal situacijo. Tako dobro vprašanje je, bolj zgodovinsko.
+
+202
+00:31:08,959 --> 00:31:22,959
+Mogoče v Sloveniji podjetja zaposljuje na SP oziroma lahko se doluješ
+
+203
+00:31:22,959 --> 00:31:26,959
+preko SP-ja, te lahko redno zaposlijo. Obstajajo pa tudi še kakšne
+
+204
+00:31:26,959 --> 00:31:31,959
+druge rešitve, kako te lahko podjetje zaposlijo. Recimo podjetje
+
+205
+00:31:32,959 --> 00:31:36,959
+v Tojini, obstajajo tudi employer of records, oziroma pa štegencije
+
+206
+00:31:36,959 --> 00:31:42,959
+za posredovanje dela. A se tega tudi dosti poslužujejo našo podjetje
+
+207
+00:31:42,959 --> 00:31:45,959
+na trgu ali kaj opaziš, proglede oblike zaposlitve?
+
+208
+00:31:45,959 --> 00:31:49,959
+Zdaj tako, če našo podjetje, recimo govorimo o slovenskih
+
+209
+00:31:49,959 --> 00:31:54,959
+podjetjih, ki bi zaposlovali tujce, mi smo zelo velikrat predlagali
+
+210
+00:31:54,959 --> 00:31:58,959
+to obliko, employee of records, ampak nekako niso dozetna.
+
+211
+00:31:58,959 --> 00:32:03,959
+V bistvu, mogoče ne poznava še to, mogoče tudi še ni dost razvito.
+
+212
+00:32:03,959 --> 00:32:07,959
+Tako da ponavadi potem želijo B2B kontrakt, kar pomeni, da ne vem,
+
+213
+00:32:07,959 --> 00:32:11,959
+če se en tujc zaposlijo za slovensko podjetje, pa če to slovensko
+
+214
+00:32:11,959 --> 00:32:14,959
+podjetje, ne vem, ponavadi imajo takošno podjetje, dost podružijo
+
+215
+00:32:14,959 --> 00:32:17,959
+se na Balkanu, pa se lahko prek tega zaposlijo. Ampak v osnovi
+
+216
+00:32:17,959 --> 00:32:23,959
+res želijo, da ti odpreš kot nek SP oziroma DOO, karkoli pač
+
+217
+00:32:23,959 --> 00:32:28,959
+obstajajo v tisti državi in podpišeš pol kot kontraktor B2B,
+
+218
+00:32:28,959 --> 00:32:33,959
+pogodbo o sodelovanju in se njihovo, no. Mi smo ful predlagali
+
+219
+00:32:33,959 --> 00:32:38,959
+različne te servise, ampak ne vem, mislim, da tudi slovenska
+
+220
+00:32:38,959 --> 00:32:43,959
+davčna zakonodaja, ni to še nekaj tako, zelo je taka siva co, no.
+
+221
+00:32:43,959 --> 00:32:48,959
+In se podjetje malo bojijo, no. Tako kot si rekla, nimajo še pravno
+
+222
+00:32:48,959 --> 00:32:54,959
+to pošlihtano in potem enostavno im je najlažje, da pač rečejo
+
+223
+00:32:54,959 --> 00:32:58,959
+kandidatu, da odpri podjetje, bomo podpisali B2B stavo.
+
+224
+00:32:58,959 --> 00:33:05,959
+A lahko mogoče samo malo razložiš, kaj je EOR za tisti, ki ne vejo.
+
+225
+00:33:05,959 --> 00:33:12,959
+To pomeni, da si ti zaposlen pri podjetju, ki ima registrirane,
+
+226
+00:33:12,959 --> 00:33:19,959
+ki so, ok, ne smem zdaj govoriti o imejnih firm, ampak obstaja
+
+227
+00:33:19,959 --> 00:33:25,959
+podjetje, ki se specializira s tem, da zaposluje ljudi in jih potem
+
+228
+00:33:25,959 --> 00:33:31,959
+tebi daje na voljo preko pogodba. Oni so zaposleni v podjetju,
+
+229
+00:33:31,959 --> 00:33:35,960
+ki se je ostanovilo v Sloveniji, samo z namenom, da bojo lahko
+
+230
+00:33:35,960 --> 00:33:39,960
+druge firme najemali njihove delavce, čeprav ni najemno.
+
+231
+00:33:40,960 --> 00:33:46,960
+In to podjetje potem za te delavce ureja vse davčne stvari in je tako,
+
+232
+00:33:46,960 --> 00:33:51,960
+kot da bi bili zaposleni v svoji državi, posluje jih pa nekako
+
+233
+00:33:51,960 --> 00:33:55,960
+recimo temu tebi. Ti pa potem v tem podjetju plačuješ račun
+
+234
+00:33:55,960 --> 00:33:59,960
+vsako mesečni, plačuješ nek določen fi, odvisno pač pri komu to
+
+235
+00:33:59,960 --> 00:34:04,960
+vzamaš. Oni pa pokrijo res vse socialne prispevke in vse pač stvari,
+
+236
+00:34:04,960 --> 00:34:14,960
+ki so administracijo in davčne stvari. Tako da ti si zaposlen v podjetju
+
+237
+00:34:14,960 --> 00:34:18,960
+v tvoji državi, delaš pa za nekaj drugo podjetje.
+
+238
+00:34:18,960 --> 00:34:22,960
+Kar pomeni, da imaš tudi vse boditete in zakone te vrujejo
+
+239
+00:34:22,960 --> 00:34:26,960
+v lasne države in ne v države, v kateri delaš. Finta je v tem,
+
+240
+00:34:26,960 --> 00:34:32,960
+kar sem mislil, je to, da samo ena oblika zaposlitve, pogodba v zaposlitvi
+
+241
+00:34:32,960 --> 00:34:36,960
+pač v Sloveniji oziroma v EU-ju in v slovenski zakondaji imaš
+
+242
+00:34:36,960 --> 00:34:40,960
+regrese, imaš vse te zadeve in če tvoje podjetje, ki te zaposli
+
+243
+00:34:40,960 --> 00:34:44,960
+temu, ne sledi, je v nekem pravnem prekršku. Velikim podjetjem
+
+244
+00:34:44,960 --> 00:34:48,960
+se ne da odpirati podružnice v Sloveniji, ker se pač ti ne splača
+
+245
+00:34:48,960 --> 00:34:52,960
+pa ne poznaš vseh hakalcev. Tako da sem tudi že slišal,
+
+246
+00:34:52,960 --> 00:34:58,960
+da bolj zaposleni želijo preko tega se zaposlit, kot sami delodojavci.
+
+247
+00:34:58,960 --> 00:35:04,960
+Zaposleni hočejo imeti to varno zaposlitve, da te amerikovih držav,
+
+248
+00:35:04,960 --> 00:35:11,960
+ampak širša družba nekako varuje. Imaš brezposlenost in najbolje
+
+249
+00:35:11,960 --> 00:35:14,960
+bolniška. Na SP-ju nimaš bolniške.
+
+250
+00:35:14,960 --> 00:35:18,960
+Ja, oziroma pač vsej optimiziramo za različne stvari v življenju.
+
+251
+00:35:18,960 --> 00:35:23,960
+Kako si rekla, kdaj pač rabiš kredit. In pač pogodba za določen čas,
+
+252
+00:35:23,960 --> 00:35:28,960
+ki v posemu zgleda drugače v takem obdobju življenja, kot pa neka pogodba,
+
+253
+00:35:28,960 --> 00:35:32,960
+ki ima notri napisan dvotedenski odpovedni rok.
+
+254
+00:35:32,960 --> 00:35:37,960
+Lahko pa povejmo, ful zanimivo, nas je par tih podetij lani kontaktirali,
+
+255
+00:35:37,960 --> 00:35:42,960
+ki imajo ta servis Employee of Record, da bi jim pomagali mi kot partnerji
+
+256
+00:35:42,960 --> 00:35:47,960
+v Sloveniji odpriti vdržnico. Tako da zgleda, da jim je zanimiv trk,
+
+257
+00:35:48,960 --> 00:35:53,960
+da jim je potencijalen trk, da bi so odpirali ta servis pri nas.
+
+258
+00:35:53,960 --> 00:35:58,960
+Moja izkušnja je bolj iz vedika podjetja, bolj to, da pač EOR,
+
+259
+00:35:58,960 --> 00:36:02,960
+če si pač zbereš dobrega providerja, ki ima podružnice po celem svetu,
+
+260
+00:36:02,960 --> 00:36:06,960
+pomeni, da ti v vdržnici imaš entitete po celem svetu in lahko kjer kolje
+
+261
+00:36:06,960 --> 00:36:10,960
+zaposliš. Fii so po navadi različni, potem glede na lokacijo,
+
+262
+00:36:10,960 --> 00:36:15,960
+kako je zakomplicirano zakonodaja tam in nekaj še na druge stvari.
+
+263
+00:36:15,960 --> 00:36:20,960
+Ampak to je vsekakor, če si neko remote podjetja, te vsekakor omogoči,
+
+264
+00:36:20,960 --> 00:36:26,960
+da lahko najemaš potem veliko ljudi, so pa tudi gospodje v oblehkah
+
+265
+00:36:26,960 --> 00:36:33,960
+zadovoljni, da je po compliance vse štima, ne pa, da imaš kontraktorje.
+
+266
+00:36:33,960 --> 00:36:38,960
+Kako pa kandidati to sprejmejo? Izražajo bolj želje, da bi bili kontraktorji,
+
+267
+00:36:38,960 --> 00:36:41,960
+ali jim je to odgovarja?
+
+268
+00:36:42,960 --> 00:36:47,960
+Recimo, ker moja izkušnja se res remote trka in zaradi tega,
+
+269
+00:36:47,960 --> 00:36:52,960
+ker ponovem dejansko ne delamo več s kontraktorji, to pomeni,
+
+270
+00:36:52,960 --> 00:36:57,960
+da smo popolnoma nekonkorenčni v vzhodni Evropi.
+
+271
+00:36:57,960 --> 00:37:01,960
+Celo vzhodna Evropa in Balkan, ko pač imamo te svoje SPJ-e,
+
+272
+00:37:01,960 --> 00:37:05,960
+smo potem dosti bolj konzervativni sploh za neko tako remote podjetje,
+
+273
+00:37:05,960 --> 00:37:08,960
+ki ti pač lahko da neko res mednarodno konkorenčno plačo,
+
+274
+00:37:09,960 --> 00:37:12,960
+ker to pomeni, da ti res pol bo vzela država.
+
+275
+00:37:12,960 --> 00:37:15,960
+Potem, če si ti že na tem nivoju, igraš v tej ligi,
+
+276
+00:37:15,960 --> 00:37:20,960
+si 100 ali pa 200 jurjev inženir, nimaš glih interesa potem,
+
+277
+00:37:20,960 --> 00:37:24,960
+kar nekrat biti, ne vem, 70 jurjev na leto na račun,
+
+278
+00:37:24,960 --> 00:37:27,960
+zaradi nekaka compliance.
+
+279
+00:37:27,960 --> 00:37:33,960
+Tako da to je največji learning bil, največji learning je bil to,
+
+280
+00:37:33,960 --> 00:37:40,960
+da enostavno kljub z nekim globalnim nivojem kompenzacije
+
+281
+00:37:40,960 --> 00:37:45,960
+nisi potem več konkorenčen, ker bi mogli ljudje iti na pogodbe.
+
+282
+00:37:45,960 --> 00:37:51,960
+SPJ ni slovenska stvar, je tudi Poljska, Češka, Hrvaška,
+
+283
+00:37:51,960 --> 00:37:56,960
+Srbija, res cela vzhodna Evropa, Bulgarija, Romunija.
+
+284
+00:37:56,960 --> 00:38:01,960
+Nim je vsem lažje biti na SPJ kot zaposlenina.
+
+285
+00:38:02,960 --> 00:38:08,960
+Omenila sem 100 ali 200 jurjev inženirja na leto.
+
+286
+00:38:08,960 --> 00:38:13,960
+Eno vprašanje je prišlo zelo zanimivo, kakšna je razlika med
+
+287
+00:38:13,960 --> 00:38:19,960
+100-ka in 200-ka inženirjem. To so sicer res pomembno povedati,
+
+288
+00:38:19,960 --> 00:38:23,960
+globalne kompenzacije, ne slovenske. V slovenski bi govorili
+
+289
+00:38:23,960 --> 00:38:29,960
+o malo manjših zneskih, a to je res elita inženir, koliko jih imamo
+
+290
+00:38:29,960 --> 00:38:33,960
+v Sloveniji. Kakšna je razlika, kako praviš takšen inženir?
+
+291
+00:38:33,960 --> 00:38:38,960
+Kako sem rekel, če gledamo, en procent za sluškarje v gospodarstvu
+
+292
+00:38:38,960 --> 00:38:45,960
+ima 4000 netov, torej rečemo 8000 brutov. Odoka je to 100 jurjev
+
+293
+00:38:45,960 --> 00:38:51,960
+na mesec. Kar pomeni, da največ so to ljudje, ki so zelo, zelo,
+
+294
+00:38:51,960 --> 00:38:56,960
+zelo redki. Kar pomeni, da jih najbrž 10 poznamo.
+
+295
+00:38:57,960 --> 00:39:01,960
+Slovenija je res majhen trg, tako da najbrž vemo, kjer so,
+
+296
+00:39:01,960 --> 00:39:07,960
+kdo so te ljudje. Največ kritico, da njihov IT impact ni
+
+297
+00:39:07,960 --> 00:39:12,960
+programiranje, ampak je poslovni impact. Takrat se te razlike
+
+298
+00:39:12,960 --> 00:39:18,960
+lahko veliko naredijo. Bom pa rekel, da če si zaposlen, je dost težko
+
+299
+00:39:18,960 --> 00:39:22,960
+prijeti do te cifre, če si SP freelancer oziroma ne tako,
+
+300
+00:39:22,960 --> 00:39:27,960
+da izegravaš zakonodajo, ampak imaš več naročnikov, pa ta znesek
+
+301
+00:39:27,960 --> 00:39:31,960
+ni več tako nedosegljiv. Ampak potem si podjetnik in imaš
+
+302
+00:39:31,960 --> 00:39:36,960
+naročnike in si čez čas najbrž agencija in tako naprej.
+
+303
+00:39:36,960 --> 00:39:41,960
+Tako da jaz imam vedno velikrat debate, jaz sem bil vedno SP-vc,
+
+304
+00:39:41,960 --> 00:39:46,960
+freelancer, ampak sem imel po pet, deset naročnikov in kar
+
+305
+00:39:46,960 --> 00:39:49,960
+ničesar nisem mogel narediti, sem jaz najel nekoga drugega,
+
+306
+00:39:49,960 --> 00:39:53,960
+da je to delo v pravu in kar naenkrat ni več plača, ampak je prihodok
+
+307
+00:39:53,960 --> 00:39:58,960
+podjetja in sto jurjev na leto za prihodok podjetja pa zopet ni neka
+
+308
+00:39:58,960 --> 00:40:02,960
+taka velika številka, če je šter, pet, šest ljudi zaposlenih.
+
+309
+00:40:02,960 --> 00:40:05,960
+Tako da jaz pa vedno rečem, dajte razmišljati bolj o podjetništvu,
+
+310
+00:40:05,960 --> 00:40:09,960
+ko kar v plačah, če hočete imeti te zneske, ker preko plače
+
+311
+00:40:09,960 --> 00:40:14,960
+boste težko prišli do tem. Znam, tako. Budimo odkriti.
+
+312
+00:40:15,960 --> 00:40:17,960
+Za Slovenijo govorim.
+
+313
+00:40:17,960 --> 00:40:20,960
+A ste spasirali kajšnega inženirja za to, Jure, v Sloveniji?
+
+314
+00:40:20,960 --> 00:40:25,960
+V Sloveniji ne. Če govorimo o developerju, pa ne govorimo o nekem
+
+315
+00:40:25,960 --> 00:40:28,960
+vlažnem CTO-ju. Ne, ne govorimo o VIP-u, VIP-u, o inženirji,
+
+316
+00:40:28,960 --> 00:40:32,960
+pa če govorimo v osnovnem kadru, govorimo o individual contributor,
+
+317
+00:40:32,960 --> 00:40:35,960
+programerju, ki piše kodo. Ne, v Sloveniji ne.
+
+318
+00:40:37,960 --> 00:40:43,960
+A imaš stop mogoče v glavi? A lahko šeraš kakšno tako?
+
+319
+00:40:44,960 --> 00:40:46,960
+Taka bi bil kul.
+
+320
+00:40:46,960 --> 00:40:49,960
+Deset jurjev na mesec kompenzacije brutto SP.
+
+321
+00:40:49,960 --> 00:40:52,960
+Deset jurjev na mesec kompenzacije brutto SP.
+
+322
+00:40:52,960 --> 00:40:56,960
+Deset tisoč jurjev. Bila je pa zadeva takšna, da gre za operativno
+
+323
+00:40:56,960 --> 00:41:01,960
+vlogo, kih je samo 50 v Sloveniji. In to podjetje je bilo eno
+
+324
+00:41:01,960 --> 00:41:05,960
+od podjetij, ki je to delalo. In je bilo vredno s neprogramiranje,
+
+325
+00:41:05,960 --> 00:41:09,960
+ampak tudi lahko zagotavljalo to storitev svojim naročnikom.
+
+326
+00:41:09,960 --> 00:41:11,960
+Zato je bila taka plača.
+
+327
+00:41:11,960 --> 00:41:15,960
+Ne spamo na podoben znesek, ampak je bilo tako, da smo tujca
+
+328
+00:41:15,960 --> 00:41:19,960
+za neko slovensko podjetje, ampak ni sploh slovensko jasno,
+
+329
+00:41:19,960 --> 00:41:24,960
+tako da ne moram reči, da smo v Sloveniji splesirali.
+
+330
+00:41:25,960 --> 00:41:29,960
+Ampak jaz bi rada vse eno malo to razdelala, ker jaz imam en
+
+331
+00:41:29,960 --> 00:41:34,960
+takšen osebni, full proof way, ki je, mislim, da te naredi
+
+332
+00:41:34,960 --> 00:41:40,960
+100k inženirja. Ampak, ker se pogovarjam o plačah in o karjerah,
+
+333
+00:41:41,960 --> 00:41:47,960
+kakšen nasvet za nekoga, kako prideti do takega nivoja,
+
+334
+00:41:47,960 --> 00:41:53,960
+kako začeti in tukaj smo dosti povezani tudi z tem
+
+335
+00:41:53,960 --> 00:42:00,960
+stay and learn or move and earn debato. Kako optimizirati karjerno,
+
+336
+00:42:00,960 --> 00:42:04,959
+da lahko prideš do takih kompenzacij?
+
+337
+00:42:04,959 --> 00:42:09,959
+Če govorimo o Sloveniji, pa da si samo programmer,
+
+338
+00:42:09,959 --> 00:42:13,959
+pač moramo počakati, da bo tukaj inflacija, da prijemo do 100 euro,
+
+339
+00:42:13,959 --> 00:42:16,959
+ker se mi zdi, da čisto iskreno povedano, da se ne da.
+
+340
+00:42:16,959 --> 00:42:20,959
+Če pa se povežemo, tako da niso tvoje veščine samo povezane
+
+341
+00:42:20,959 --> 00:42:25,959
+s programiranjem, ampak s podjetništvom, lansiranjem novih produktov
+
+342
+00:42:25,959 --> 00:42:29,959
+ali pa odperanjem nekih vertikal, horizontal za večje podjetje,
+
+343
+00:42:29,959 --> 00:42:33,959
+so pa te zneski laže dosegljivi. Ampak potem nisi več samo
+
+344
+00:42:33,959 --> 00:42:37,959
+programmer, ampak si neki več, neki drugač. Mogoče vodstven kadar,
+
+345
+00:42:37,959 --> 00:42:43,959
+bolj produktno osmerjan in zdaj tako, pač kaj zame karjera je to,
+
+346
+00:42:43,959 --> 00:42:46,959
+da najprej moraš razviti skillset, potem ga moraš se pa naučiti
+
+347
+00:42:46,959 --> 00:42:52,959
+dobro prodati. Na začetku karjere probaš optimizirati skillset,
+
+348
+00:42:52,959 --> 00:42:56,959
+v drugi polovici svoje karjere probaš ta skillset čim bolj prodati.
+
+349
+00:42:56,959 --> 00:43:00,959
+Kako to zgleda? Pri meni je to vzgledalo kot freelancerstvo,
+
+350
+00:43:00,959 --> 00:43:04,959
+za nekatere to zgleda, da na leto minjajo službe, imajo svoje
+
+351
+00:43:04,959 --> 00:43:08,959
+start-up projekte, so na meet-upih in tako naprej, hodijo na konference.
+
+352
+00:43:08,959 --> 00:43:13,959
+To je pa grand. Vsak nov naročnik pa vsaka nova služba mora biti
+
+353
+00:43:13,959 --> 00:43:18,959
+20% gor, kot že pravim, ali 30% gor. Če jih 10 zamenaš,
+
+354
+00:43:18,959 --> 00:43:20,959
+pa si naredi v tri, kratički.
+
+355
+00:43:20,959 --> 00:43:28,959
+30 dni, no. 30 dni. Mogoče, ker tujni, ali pa res vodstvene kadre.
+
+356
+00:43:28,959 --> 00:43:35,959
+Po vprejčju bi jaz rekla, da je tam inženjerji, programerji med 12 in 20%
+
+357
+00:43:35,959 --> 00:43:42,959
+razlika v plači, kot meni je. S tem, da višji procenti so za bolj
+
+358
+00:43:42,959 --> 00:43:45,959
+odgovorne oziroma vodstvene pozicije.
+
+359
+00:43:45,959 --> 00:43:51,959
+Kaj pa ta premik? Nisem bil na trgu 10 let, potem pa pač premik,
+
+360
+00:43:51,959 --> 00:43:58,959
+a so taki kadri dejansko in potem uspe prideti na neko tržno kompenzacijo,
+
+361
+00:43:58,959 --> 00:44:05,959
+ker skor zelo težko si 10 let v venji službi in si še vedno na tržni.
+
+362
+00:44:05,959 --> 00:44:09,959
+Ja, vskaj glih smo imeli zdaj ene take case in se je pokazalo,
+
+363
+00:44:09,959 --> 00:44:16,959
+da je ful manjka znanja. In da v bistvu z manjka znanja.
+
+364
+00:44:16,959 --> 00:44:21,959
+A veš, lahko si ful obar v tem, kar delaš pa 10 let, si pa tudi menjaš stvari,
+
+365
+00:44:21,959 --> 00:44:26,959
+ampak pa priješ v neko drugo firmo, pa nisi pomanj tako fleksibilen
+
+366
+00:44:26,959 --> 00:44:31,959
+glede tehnologij, glede produktov in ni bilo doste.
+
+367
+00:44:31,959 --> 00:44:36,959
+Kulturno si pa zelo naravna na eno podjetje po 10 letih.
+
+368
+00:44:36,959 --> 00:44:41,959
+Najboljše je desetkrat po ena kot enkrat po deset, če gledamo za ta
+
+369
+00:44:41,959 --> 00:44:46,959
+druga pozon odprte glave. Seveda so druge kriterije.
+
+370
+00:44:46,959 --> 00:44:49,959
+Je boljši biti let časa, ampak ...
+
+371
+00:44:49,959 --> 00:44:55,959
+To je dobro, ker meni izvedi, da tukaj je vedno tako,
+
+372
+00:44:55,959 --> 00:45:00,959
+gradiš ekipo ali kot rekruter. To so vedno po tem malo razlike.
+
+373
+00:45:00,959 --> 00:45:04,959
+Kliv po vsemu je razlika med sedem let izkušenja in sedemkrat
+
+374
+00:45:04,959 --> 00:45:07,959
+eno leto izkušenje. Se popolnoma stvarno.
+
+375
+00:45:07,959 --> 00:45:12,959
+Je pa lahko sedemkrat po eno leto izkušenje gledaj tudi boljše kot
+
+376
+00:45:12,959 --> 00:45:16,959
+sedem let izkušenje. Res je malo zvisno v kontekstu.
+
+377
+00:45:16,959 --> 00:45:21,959
+Jaz sam mislim, da to je res ekstremno. Eno leto krat deset.
+
+378
+00:45:21,959 --> 00:45:25,959
+Ampak jaz mislim, da tega v slovenski prostor ne razume.
+
+379
+00:45:25,959 --> 00:45:29,959
+Podjetja ne razumejo tega. To je ponovati znak.
+
+380
+00:45:29,959 --> 00:45:33,959
+Saj, kako res slišam od mojih kontaktov v podjetju,
+
+381
+00:45:33,959 --> 00:45:36,959
+da je s kandidatom nekaj narobe.
+
+382
+00:45:36,959 --> 00:45:39,959
+Zanjutno bom rekla, da ta job hopping,
+
+383
+00:45:39,959 --> 00:45:46,959
+jaz ga lahko ful razumem v nekem candidate-driven marketu,
+
+384
+00:45:46,959 --> 00:45:51,959
+ko si pač ti pač res zanimi v skillset, pa ti res dobiš
+
+385
+00:45:51,959 --> 00:45:56,959
+novo ponudbo za službo vsak teden v inboxa, pa najdeš boljši projekt.
+
+386
+00:45:56,959 --> 00:46:03,959
+Samo po sebi pač to ni narobe. Ampak na drugi strani nekaj puščaš
+
+387
+00:46:03,959 --> 00:46:08,959
+na mizi. Če pač optimiziraš samo za višjo plačo, je to super način.
+
+388
+00:46:08,959 --> 00:46:12,959
+Če optimiziraš zaradi expert, pač težko rataš, če si samo po eno leto.
+
+389
+00:46:12,959 --> 00:46:17,959
+Jaz bi tukaj percepcijo malo spremenil. Jaz sem v desetih letih
+
+390
+00:46:17,959 --> 00:46:25,959
+delu za 60-70 različnih podjetij. In ko se jaz prijavljam za redno službo,
+
+391
+00:46:25,959 --> 00:46:29,959
+rečem, da sem bil freelancer, pa imel svojo agencijo in več naročnikov,
+
+392
+00:46:29,959 --> 00:46:35,959
+ki imam. Več je moja vrednost. In rečem, da sem bil zaposlen za te podjetja,
+
+393
+00:46:35,959 --> 00:46:40,959
+ker pa pa pade moja vrednost. Jaz sem pač FDV, odznam nakladat,
+
+394
+00:46:40,959 --> 00:46:46,959
+probam to mojo situacijo spremeniti na tako, kako boš dobu raznolik nabor
+
+395
+00:46:46,959 --> 00:46:51,959
+izkušen, zato ker sem na te izkušnje. Če pa jaz napišem tam, pač v službi
+
+396
+00:46:51,959 --> 00:46:55,959
+sem bil pol leta tukaj, pa tri mesece tukaj, pa tukaj se prekriva,
+
+397
+00:46:55,959 --> 00:47:00,959
+ki projekte krati delu, so pa vse tako, hm, tale Miha pa ni glih najbolj
+
+398
+00:47:00,959 --> 00:47:06,959
+stabilna osebnost. Jaz mislim, da je tudi veliko v tem, da pač na koncu
+
+399
+00:47:06,959 --> 00:47:12,959
+IT je zelo obrtniška zadeva, kjer imaš nek portfolio pa neke reference
+
+400
+00:47:12,959 --> 00:47:18,959
+in saj tisti, ki so mogoče malo bolj na vrhu ogromno teh referenc,
+
+401
+00:47:18,959 --> 00:47:23,959
+ne je povezano s službo. Tur majo neke startupe, majo neke hobby projekte,
+
+402
+00:47:23,959 --> 00:47:30,959
+ki se lahko razvijo ali pa ne razvijo. In saj bomo izkušnih podjetje,
+
+403
+00:47:30,959 --> 00:47:37,959
+ki cenijo inženiranje in ime to v plusu. V tem smislu, da nisi one trick pony.
+
+404
+00:47:37,959 --> 00:47:45,959
+Ne, absolutno. Mislim tako. Zdaj, glede na profile, tukaj bov vsem rekruter
+
+405
+00:47:45,959 --> 00:47:50,959
+videl v stotine in stotine. Življenj je pisal tedensko, tukaj tudi nevno,
+
+406
+00:47:50,959 --> 00:47:58,959
+ampak tedensko in neki vzorci so. In vidiš, da taki inženiri, ki so mogoče
+
+407
+00:47:58,959 --> 00:48:04,959
+najbolj uspešni, pa res je ta razlika med 100 pa 200k in inženirja,
+
+408
+00:48:04,959 --> 00:48:09,959
+je res ta raznolikost, pač to, da vidiš zelo veliko različnih stvari,
+
+409
+00:48:09,959 --> 00:48:15,959
+ampak to ne samo različna podjetja, ampak res različne industrije,
+
+410
+00:48:15,959 --> 00:48:22,959
+različni steki, različni produkti, konsaltanci, agencije in produktna podjetja,
+
+411
+00:48:22,959 --> 00:48:28,959
+start-upi in velika legasi podjetja in v bistvu več različnih stvari,
+
+412
+00:48:28,959 --> 00:48:34,959
+kot vidiš, bolj si pač resnično T-shaped-a. In zato meni se vsekako
+
+413
+00:48:34,959 --> 00:48:38,959
+zdi, da na začetku karijere, prvih nekih deset let, je smotrno,
+
+414
+00:48:38,959 --> 00:48:43,959
+da menjuješ in vidiš čim več stvari, zato ker te to pač naredi.
+
+415
+00:48:44,959 --> 00:48:48,959
+Jaz mislim, da vsaj kar imam jaz izkušen z mentoriranjem pa z ljudmi,
+
+416
+00:48:48,959 --> 00:48:54,959
+ki se ustopajo, kar probaš iskati je sploh organizacijo ali pookolje,
+
+417
+00:48:54,959 --> 00:48:59,959
+v katerim lahko rastaš, ker teh ni veliko. In jaz sem mnenja,
+
+418
+00:48:59,959 --> 00:49:03,959
+da pač na začetku dejte potrpet slabo plačo, če imate občutek,
+
+419
+00:49:03,959 --> 00:49:08,959
+da se razvijate, ker ta razvoj se vam bo prostoval čez neki časa,
+
+420
+00:49:09,959 --> 00:49:12,959
+ker alternativa je pa, da padete v neko podjetje, ki lahko,
+
+421
+00:49:12,959 --> 00:49:17,959
+da je dobro plačo, ampak potem stagnerate leta in kar boste takrat
+
+422
+00:49:17,959 --> 00:49:21,959
+menjali službo, ne boste bili konkurenčni zato, ker se niste nič
+
+423
+00:49:21,959 --> 00:49:25,959
+uporabnega naučili, uporabno v narkovajih za širši trk,
+
+424
+00:49:25,959 --> 00:49:27,959
+kot samo za tisto podjetje.
+
+425
+00:49:27,959 --> 00:49:30,959
+Ja, ker to je tisto, radaš ekspert v tistem svojem sistemu.
+
+426
+00:49:30,959 --> 00:49:34,959
+Jaz sem imel eno situacijo, se je prijavil z front-end developerja
+
+427
+00:49:35,959 --> 00:49:41,959
+in ni znal javascripta in mi je rekel, da ta oseba je imela 4 jure bruto,
+
+428
+00:49:41,959 --> 00:49:45,959
+tri leta nazaj pred korono, kar je zelo visokak znesek,
+
+429
+00:49:45,959 --> 00:49:49,959
+ampak je bila edina osoba v Sloveniji, ki je nekaj custom CMS,
+
+430
+00:49:49,959 --> 00:49:52,959
+ki ga je neka agencija razvila znov richtet.
+
+431
+00:49:52,959 --> 00:49:56,959
+Sem rekel, ostani tukaj, ker nobena druga podjetja ti ne bo dala
+
+432
+00:49:56,959 --> 00:49:59,959
+od tega denarja za front-end developerja, ker ne znam,
+
+433
+00:50:00,000 --> 00:50:03,000
+in to je eden od pogojev.
+
+434
+00:50:03,200 --> 00:50:06,200
+In sem pač rekel, lej, ride it out,
+
+435
+00:50:06,400 --> 00:50:09,400
+ampak vedi, da boš naslednjič iskal službo,
+
+436
+00:50:09,600 --> 00:50:12,600
+boš imel izive, če tega ne boš znal.
+
+437
+00:50:12,800 --> 00:50:15,800
+In na koncu je še vedno mil dobro oplačal,
+
+438
+00:50:16,000 --> 00:50:19,000
+bil je na nekem nivoju, ampak konec službe
+
+439
+00:50:19,200 --> 00:50:22,200
+bo pa malo bolj bolečen.
+
+440
+00:50:22,400 --> 00:50:25,400
+Tukaj je malo to.
+
+441
+00:50:25,600 --> 00:50:28,600
+Eno je menjuj, ampak tako kot si rekel,
+
+442
+00:50:29,400 --> 00:50:32,400
+če pa najdeš dobro inženiranje in kulturo,
+
+443
+00:50:32,599 --> 00:50:35,599
+pa se ti spača ostati 2-3 leta.
+
+444
+00:50:35,799 --> 00:50:38,799
+Zato ker greš lahko tam potem deep.
+
+445
+00:50:39,000 --> 00:50:42,000
+Ampak jaz fulkrat se soočam tudi s tem vprašanjem,
+
+446
+00:50:42,200 --> 00:50:45,200
+kaj je dobro podjetje, kaj je dobra inženiranska kultura.
+
+447
+00:50:45,400 --> 00:50:48,400
+Jaz imam dva stavka recept.
+
+448
+00:50:48,599 --> 00:50:51,599
+Zdaj ne vem, če se boste strenili z tem ali ne,
+
+449
+00:50:51,799 --> 00:50:54,799
+ampak jaz mislim, da je pravda, vedno, vedno optimiziraš,
+
+450
+00:50:55,000 --> 00:50:58,000
+oziroma če že zbiraš in imaš veliko izbire,
+
+451
+00:50:58,000 --> 00:51:01,000
+ki živijo od tega, da prodajajo svoj softver.
+
+452
+00:51:01,200 --> 00:51:04,199
+To pomeni, da njihov glavni vir dobička je softver
+
+453
+00:51:04,400 --> 00:51:07,400
+in ne benzen ali pa nekaj tretje, ampak dejansko softver.
+
+454
+00:51:07,599 --> 00:51:10,599
+Ker potem moreš pristopati do bildanja produkta
+
+455
+00:51:10,800 --> 00:51:13,800
+na zelo drugačen način.
+
+456
+00:51:14,000 --> 00:51:17,000
+A je Inženerink profit centar ali cost centar?
+
+457
+00:51:17,199 --> 00:51:20,199
+Tako, tako.
+
+458
+00:51:20,400 --> 00:51:23,400
+Za moj nasvet je pač malo tako,
+
+459
+00:51:23,599 --> 00:51:26,599
+službe pa partnerstva,
+
+460
+00:51:27,400 --> 00:51:30,400
+službe pa partnerje, večjih moraš sprobati, da veš kaj ti paše.
+
+461
+00:51:30,599 --> 00:51:33,599
+In jaz nekako sledim temu na svetu,
+
+462
+00:51:33,800 --> 00:51:36,800
+da vsej ne veš kaj v resnici,
+
+463
+00:51:37,000 --> 00:51:40,000
+dobra služba pa slaba služba, če si imel eno.
+
+464
+00:51:40,199 --> 00:51:43,199
+In v velikeh se mi že menj zgodil,
+
+465
+00:51:43,400 --> 00:51:46,400
+sem mislil, da je to nekaj najboljšega,
+
+466
+00:51:46,599 --> 00:51:49,599
+potem sem zamenil in dve leti kasneje ogotavljam,
+
+467
+00:51:49,800 --> 00:51:52,800
+pišem, da je bilo toksično, v bistvu si ne zadovel
+
+468
+00:51:53,000 --> 00:51:56,000
+in ne vem kva še vse, ampak kaj si v tistom notri,
+
+469
+00:51:56,000 --> 00:51:59,000
+imaš drugačen pogled za to, kar si mlad pa ne uma.
+
+470
+00:51:59,199 --> 00:52:02,199
+Zdaj po desetih letih pa šestih letih
+
+471
+00:52:02,400 --> 00:52:05,400
+sem dal skoz, zdaj imam že malo tršo kožo,
+
+472
+00:52:05,599 --> 00:52:08,600
+zdaj sem z nekoma, sem bolj plešen, malo imam več gubic,
+
+473
+00:52:08,800 --> 00:52:11,800
+malo bolj podočnjake pa ne prespam
+
+474
+00:52:12,000 --> 00:52:15,000
+in dobiš neko percepcijo,
+
+475
+00:52:15,199 --> 00:52:18,199
+kaj te mogoče nazavede pozlačene zadeve,
+
+476
+00:52:18,399 --> 00:52:21,399
+ki potem ugotoviš, da delajo ljudje po 10-12 tur
+
+477
+00:52:21,600 --> 00:52:24,600
+in so ponostni na to, da to delajo in ti je tako,
+
+478
+00:52:24,600 --> 00:52:27,600
+da si všeč, da si všeč, da si všeč.
+
+479
+00:52:27,800 --> 00:52:30,800
+Sem šel že često pot in vem, kako se konča.
+
+480
+00:52:31,000 --> 00:52:34,000
+Tle je definitivno enoje stres po organizaciji delin,
+
+481
+00:52:34,199 --> 00:52:37,199
+ampak se mi zdi, da je zelo preko palca.
+
+482
+00:52:37,399 --> 00:52:40,399
+Inženirska kultura oziroma proces razvoja,
+
+483
+00:52:40,600 --> 00:52:43,600
+kjer je software development life cycle
+
+484
+00:52:43,800 --> 00:52:46,800
+as transparent, kot se da, da res lako vidiš
+
+485
+00:52:47,000 --> 00:52:50,000
+stvari, kako se začnejo in kako potem se pušajo
+
+486
+00:52:50,199 --> 00:52:53,199
+v production in kaj se zgodi kasneje tudi.
+
+487
+00:52:54,000 --> 00:52:57,000
+To je en ta, da je software development life cycle
+
+488
+00:52:57,199 --> 00:53:00,199
+transparenten in da cenijo tvoje možganje in tvoje roke.
+
+489
+00:53:00,399 --> 00:53:03,399
+To je pa najbolj.
+
+490
+00:53:03,600 --> 00:53:06,600
+Jaz sem še vedno malo skeptična.
+
+491
+00:53:06,800 --> 00:53:09,800
+A eno leto? Res ne eno leto?
+
+492
+00:53:10,000 --> 00:53:13,000
+Ne, ne, ne.
+
+493
+00:53:13,199 --> 00:53:16,199
+Slovenske podjetja nimajo tako dobrih onboarding sistemov,
+
+494
+00:53:16,399 --> 00:53:19,399
+da bi ti lahko res pršel in začel delati.
+
+495
+00:53:19,600 --> 00:53:22,600
+Ni se pripravljena Slovenska podjetja na to,
+
+496
+00:53:22,600 --> 00:53:25,600
+da bi se zamenjali in eno leto res performali napolno.
+
+497
+00:53:25,800 --> 00:53:28,800
+Jaz mislim, da vsa en tukaj ...
+
+498
+00:53:29,000 --> 00:53:32,000
+Se popolnoma strenjam. Če si junior tri leta,
+
+499
+00:53:32,199 --> 00:53:35,199
+če si senior mogoče leto popol,
+
+500
+00:53:35,399 --> 00:53:38,399
+a pa leto, če si res izjeman.
+
+501
+00:53:38,600 --> 00:53:41,600
+Jaz bi rekla, da če je slaba inženirska kultura,
+
+502
+00:53:41,800 --> 00:53:44,800
+zamenji po enem letu, če najdeš boljšo.
+
+503
+00:53:45,000 --> 00:53:48,000
+Če je dobra, ostani dve do tri leta, absolutno.
+
+504
+00:53:48,199 --> 00:53:51,199
+Meni mi se zdi, da je boljša taka prekopalca.
+
+505
+00:53:52,000 --> 00:53:55,000
+Približno nekaj takega.
+
+506
+00:53:55,199 --> 00:53:58,199
+Če si redno zaposlen.
+
+507
+00:53:58,399 --> 00:54:01,399
+Če si zamenjal pet podjetij v desetih letih,
+
+508
+00:54:01,600 --> 00:54:04,600
+je res malo tako red fleka.
+
+509
+00:54:04,800 --> 00:54:07,800
+Možno je dober argument, zakaj si to naredil.
+
+510
+00:54:08,000 --> 00:54:11,000
+Ker te bodo vprašali.
+
+511
+00:54:11,199 --> 00:54:14,199
+Res nisem ful proti. Če ti ni dober,
+
+512
+00:54:14,399 --> 00:54:17,399
+če se ne naučiš nač novega, itak zameni.
+
+513
+00:54:17,600 --> 00:54:20,600
+Ampak jaz mislim, da je pokazatelj.
+
+514
+00:54:20,600 --> 00:54:23,600
+To je v ustrajnosti.
+
+515
+00:54:23,799 --> 00:54:26,799
+Ful si to dobro izpostavila.
+
+516
+00:54:27,000 --> 00:54:30,000
+Mogoče bi še malo razdelili ta onboarding.
+
+517
+00:54:30,200 --> 00:54:33,200
+Ker se mi zdi, da tukaj slovenska podjetja
+
+518
+00:54:33,399 --> 00:54:36,399
+imajo predvsej možnosti za izboljšavo.
+
+519
+00:54:36,600 --> 00:54:39,600
+Sploh, ko se pogovarjamo na tem zelo senior nivoju.
+
+520
+00:54:39,799 --> 00:54:42,799
+Želiš si nekega samuroga
+
+521
+00:54:43,000 --> 00:54:46,000
+in nekoga, ki bo res spremenil stvari v podjetju.
+
+522
+00:54:46,200 --> 00:54:49,200
+Potem pa tja pride.
+
+523
+00:54:50,000 --> 00:54:53,000
+Pa mu odrežeš rok.
+
+524
+00:54:53,200 --> 00:54:56,200
+Odrežeš rok, tol pa rečeš.
+
+525
+00:54:56,399 --> 00:54:59,399
+Tukaj je najprej eno leto onboarding,
+
+526
+00:54:59,600 --> 00:55:02,600
+da se ti malo spoznaš z vsemi stvarmi.
+
+527
+00:55:02,799 --> 00:55:05,799
+Potem pa še le pride to zaupanje.
+
+528
+00:55:06,000 --> 00:55:09,000
+Da mogoče pa vse noveš, kaj delaš.
+
+529
+00:55:09,200 --> 00:55:12,200
+Da si si v prviču najviš plač v podjetju.
+
+530
+00:55:12,399 --> 00:55:15,399
+Se mi zdi, da tuji podjetje znajo hitreje razumeti,
+
+531
+00:55:15,600 --> 00:55:18,600
+kaj je tvoj superpower.
+
+532
+00:55:18,600 --> 00:55:21,600
+Svoj superpower njim tudi.
+
+533
+00:55:21,799 --> 00:55:24,799
+Čim hitreje, kot se da.
+
+534
+00:55:25,000 --> 00:55:28,000
+A je to samo stereotip?
+
+535
+00:55:28,200 --> 00:55:31,200
+Mislim, da imamo v Sloveniji sploh ta kultura,
+
+536
+00:55:31,399 --> 00:55:34,399
+ko pridemo na neko bolj vodstveno pozicijo.
+
+537
+00:55:34,600 --> 00:55:37,600
+Pač onboarding in rekrutiranje.
+
+538
+00:55:37,799 --> 00:55:40,799
+Že za junior je pa za mi, da je slab.
+
+539
+00:55:41,000 --> 00:55:44,000
+Za vodstven kadar je pa še bolj porazen.
+
+540
+00:55:44,200 --> 00:55:47,200
+Zato, ker jih je veliko manj priložnosti.
+
+541
+00:55:47,200 --> 00:55:50,200
+Če je usvoljivo sploh pridobiti to znanje.
+
+542
+00:55:50,399 --> 00:55:53,399
+In jaz bi mu rekel, da kaj prije vodstven kadar
+
+543
+00:55:53,600 --> 00:55:56,600
+v neko firmo, največkrat pride, kaj krizno.
+
+544
+00:55:56,799 --> 00:55:59,799
+In so posod požari in je treba nekaj narezati.
+
+545
+00:56:00,000 --> 00:56:03,000
+Zato te zaposlijo.
+
+546
+00:56:03,200 --> 00:56:06,200
+Kar pomenem, da ti si tako čuj ziorav na adventure game.
+
+547
+00:56:06,399 --> 00:56:09,399
+Saj po mojih izkušnjah.
+
+548
+00:56:09,600 --> 00:56:12,600
+Jaz mislim, da je to težava slabe vodstvene kulture nasplošno.
+
+549
+00:56:12,799 --> 00:56:15,799
+Zato, ker se pramalo v teh zadevah pogovarjamo.
+
+550
+00:56:16,600 --> 00:56:19,600
+Ker imamo tako malo možnosti.
+
+551
+00:56:19,799 --> 00:56:22,799
+Sploh, kako organizacija se postavlja.
+
+552
+00:56:23,000 --> 00:56:26,000
+Kako se organizira, kako so strukturirane ekipe.
+
+553
+00:56:26,200 --> 00:56:29,200
+V teh zadevah se ne pogovarjamo.
+
+554
+00:56:29,399 --> 00:56:32,399
+A imaš inženirje v ekipi, produktno ekipo, kakšna je sestava.
+
+555
+00:56:32,600 --> 00:56:35,600
+In to veliko pliva celotno na onboarding.
+
+556
+00:56:35,799 --> 00:56:38,799
+Ker če eno leto rabiš, zato da ukotoviš
+
+557
+00:56:39,000 --> 00:56:42,000
+kakšne vse rane organizacijske sotom.
+
+558
+00:56:42,200 --> 00:56:45,200
+Ni problem v onboardingu.
+
+559
+00:56:45,200 --> 00:56:48,200
+Ni problem v hranah.
+
+560
+00:56:48,399 --> 00:56:51,399
+Po moje izkušnje, jaz mislim,
+
+561
+00:56:51,600 --> 00:56:54,600
+da za vodstveno kadro onboarding v Sloveniji ...
+
+562
+00:56:54,799 --> 00:56:57,799
+Vse firme bodo rekli, da so, da obstaja.
+
+563
+00:56:58,000 --> 00:57:01,000
+In da imajo vse zadeve pošlih.
+
+564
+00:57:01,200 --> 00:57:04,200
+Pa greš čez to, da tre dan se držiš za glavo in ne veš, kje začeti.
+
+565
+00:57:04,399 --> 00:57:07,399
+To so moje izkušnje. Malce sem trigger.
+
+566
+00:57:07,600 --> 00:57:10,600
+Mogoče se vidi, da sem šel že čez ena par takih zgod.
+
+567
+00:57:10,799 --> 00:57:13,799
+Nika, jaz se spomnim, da vi ste se predsej
+
+568
+00:57:13,799 --> 00:57:16,799
+tudi to pogledno ukvarjate s podjetji z onboardingom.
+
+569
+00:57:17,000 --> 00:57:20,000
+Zaradi tega, ker je tam nek fi, oziroma nek garancija,
+
+570
+00:57:20,200 --> 00:57:23,200
+ki jo date vi, da zamenjate kandidata,
+
+571
+00:57:23,399 --> 00:57:26,399
+če slučajno gre enje. Potem seveda ste investiti v to,
+
+572
+00:57:26,600 --> 00:57:29,600
+da je onboarding tudi dober. Kakšni so trendi
+
+573
+00:57:29,799 --> 00:57:32,799
+iz svojega vidika?
+
+574
+00:57:33,000 --> 00:57:36,000
+Res je. Mi smo v bistvu ugotovila.
+
+575
+00:57:36,200 --> 00:57:39,200
+Ko se pogovarjamo za sodelovanje s kašnimi podjetji,
+
+576
+00:57:39,399 --> 00:57:42,399
+ki imajo ful slabi izkušnje. Oni pritveljajo folk.
+
+577
+00:57:42,399 --> 00:57:45,399
+S rekrutama, ki so v zadnjih dveh letih zaposlili deset ljudi.
+
+578
+00:57:45,600 --> 00:57:48,600
+Od teh desetih ljudih se je po dveh letih eno obdržilo.
+
+579
+00:57:48,799 --> 00:57:54,799
+Mi smo dobili šter pozicij in smo začeli sprešvati,
+
+580
+00:57:55,000 --> 00:58:00,000
+kaj se dogaja, kaj je problema.
+
+581
+00:58:00,200 --> 00:58:03,200
+Je problem v ljudih, ki so jih zaposlili,
+
+582
+00:58:03,399 --> 00:58:06,399
+da niso bili ta pravi, a je problem mogoče tudi v temu,
+
+583
+00:58:06,600 --> 00:58:09,600
+kako ste jih vijovajali. In smo ugotovili,
+
+584
+00:58:09,600 --> 00:58:14,600
+da niso predelali za rekruterji. Ker so dost nepoznani
+
+585
+00:58:14,799 --> 00:58:17,799
+v slovenskem okolju, čeprav so super mednarodno podetje,
+
+586
+00:58:18,000 --> 00:58:21,000
+so dobivali precej slabe prijave in so vzeli tisto,
+
+587
+00:58:21,200 --> 00:58:25,200
+kar so mogli vzeti. Mi smo pa šli im najti ustrezene ljudi,
+
+588
+00:58:25,399 --> 00:58:28,399
+ampak vse eno smo se malo zbali, kaj pa zdaj jih kaj spustimo.
+
+589
+00:58:28,600 --> 00:58:31,600
+In smo se odločili, da je bilo tako pozicijeno,
+
+590
+00:58:31,799 --> 00:58:35,799
+da gremo skupaj tudi v zasnovo onboarding oziroma mentorskega programa.
+
+591
+00:58:36,799 --> 00:58:39,799
+Smo v bistvu tih ljude malo izobraževali, kaj to pomeni,
+
+592
+00:58:40,000 --> 00:58:44,000
+dali smo jim nekaj urodja. Saj tako, da so prvih šest mesecev
+
+593
+00:58:44,200 --> 00:58:49,200
+bili primorani delati z ljudmi, ker itak je v vsakem podetju tako,
+
+594
+00:58:49,400 --> 00:58:53,400
+nekdo naopride, ti si na projektih, imaš svoje prioritete,
+
+595
+00:58:53,599 --> 00:58:55,599
+kolko imaš pa zdaj cajta. Tudi, če si mentor,
+
+596
+00:58:55,799 --> 00:58:58,799
+koliko imaš časa za njega, ful mala. In te ljudje tudi,
+
+597
+00:58:59,000 --> 00:59:02,000
+juniori na začetku, se ne upajo sprašvati.
+
+598
+00:59:03,000 --> 00:59:08,000
+Tako da dajansko smo gotovili, da so podetje, ki imajo to ful dobro ureje,
+
+599
+00:59:08,200 --> 00:59:11,200
+in so pa tudi pošno podetje, ki prideš in ne tako padeš v vodo,
+
+600
+00:59:11,400 --> 00:59:14,799
+ali splavaš ali pa ne. Nam je itak v interesu,
+
+601
+00:59:15,000 --> 00:59:17,599
+če mi prepeljamo enega kandidata, da se obdrži na dolgi rok,
+
+602
+00:59:17,799 --> 00:59:21,799
+ne samo pač v času tiste garancije, ki je toliko in toliko mesecev.
+
+603
+00:59:22,000 --> 00:59:27,000
+Tako da spoznavamo, da je ful različno. Pošno podetje,
+
+604
+00:59:27,000 --> 00:59:32,000
+sploh večja podetja, imajo to predvsej dobro urejeno,
+
+605
+00:59:32,200 --> 00:59:35,200
+premajših podetjih pa kar zmanjka. Predvsem zmanjka zato,
+
+606
+00:59:35,400 --> 00:59:39,400
+ker nimajo časa se s tem ukvarjati, pa tudi mogoče nimajo
+
+607
+00:59:39,599 --> 00:59:43,599
+nekih urodi, ki bi jim predtem pomagali.
+
+608
+00:59:45,799 --> 00:59:51,799
+Enkrat, ko si v podetju, onboarding je šel skozi,
+
+609
+00:59:52,000 --> 00:59:56,599
+tam se lepo dve leti, prvo leto je šlo mimo, honeymoon period,
+
+610
+00:59:56,599 --> 01:00:00,599
+vse je super, tam si drugo leto in potem pride mimo eno bolj
+
+611
+01:00:00,799 --> 01:00:05,799
+seksi podetje in pogledaš malo v svojo netoplačilno listo,
+
+612
+01:00:06,000 --> 01:00:12,000
+ki jo dobiš, svoj netoznesek, kdaj se najlažje pogajati o plači
+
+613
+01:00:12,200 --> 01:00:21,200
+in kako ohraniti pozicijo podetje, ampak si zavišati plačo,
+
+614
+01:00:21,400 --> 01:00:25,599
+da ostaneš konkurenčen na trgu. A imamo kaj še na svet
+
+615
+01:00:25,599 --> 01:00:29,599
+za vse te, ki ne bi radi mogoče zamenjali za to, da več zasložijo,
+
+616
+01:00:29,799 --> 01:00:34,400
+ampak kakšne so možnosti za pogajanje, za višjo plača,
+
+617
+01:00:34,599 --> 01:00:36,599
+enkrat, ko delaš v podetju?
+
+618
+01:00:36,799 --> 01:00:41,200
+Takrat, kar si naredil domačo nalogo, kar pomeni, da preden ti
+
+619
+01:00:41,400 --> 01:00:44,799
+vprašaš za višjo plačo ali pa za povišico, si že šest mesecev
+
+620
+01:00:45,000 --> 01:00:48,599
+prej vprašal, ej, hipotetično, če bi nekdo za poslednji
+
+621
+01:00:48,799 --> 01:00:52,400
+hotel višjo plačo, kaj bi mogel narest, poveš svojemu nadrijenemu,
+
+622
+01:00:52,400 --> 01:00:57,200
+se pogovarjaš o nekih ciljih in potem šest mesecev delaš,
+
+623
+01:00:57,400 --> 01:01:02,000
+da te cilje nekako zadovoliš, a je to dobiti nove kompetence
+
+624
+01:01:02,200 --> 01:01:07,200
+ali to karkoli in potem postaviš svoje nadrijeno preddejstvo
+
+625
+01:01:07,400 --> 01:01:13,000
+in ugotoviš, kje si. To je to. Velikrat se zgodi, da
+
+626
+01:01:13,200 --> 01:01:18,200
+vsaj v mojih izkušnjah, zakaj ne dajo povišice ljudem,
+
+627
+01:01:18,400 --> 01:01:21,200
+ki so že zaposleni, a zato kar ne vprašajo.
+
+628
+01:01:21,200 --> 01:01:27,000
+Ne, pač. Just that simple, pač vprašaj. Vprašaj, ne.
+
+629
+01:01:27,200 --> 01:01:31,000
+Ok, prvi korak, vprašaj. Vprašaj, ne, in potem ti reče nadrijeni,
+
+630
+01:01:31,200 --> 01:01:35,200
+ne, ja, ni badžeta in če ni badžeta, tudi novih ljudi z višjo plačo
+
+631
+01:01:35,400 --> 01:01:41,799
+ne bo. In potem, veš, pričem si. Če je badžet, pa te ga nočjo
+
+632
+01:01:42,000 --> 01:01:45,599
+dat, zopet, veš, kje si in je drugačne vrste pogovor, ampak
+
+633
+01:01:45,799 --> 01:01:50,400
+vedno moraš vprašati, kaj je s tem, kakšni so želje, kakšni so cilji,
+
+634
+01:01:50,400 --> 01:01:55,200
+večje firme imajo načelo mozkljovanje enkrat na leto ali pa dvakrat
+
+635
+01:01:55,400 --> 01:01:58,599
+na leto, ali bomo mozkljovali na inflacijo, ali bomo mozkljovali na tisto,
+
+636
+01:01:58,799 --> 01:02:03,599
+to so zadeve, ki jih moraš z nadrijenim biti precej sproščen in vse
+
+637
+01:02:03,799 --> 01:02:06,200
+teh zadevah moraš pogovorjati. To ne sme biti tabo tema. Tvoja
+
+638
+01:02:06,400 --> 01:02:10,000
+kompenzacija je del tvojega dela in če te je strah vprašati,
+
+639
+01:02:10,200 --> 01:02:16,200
+jaz bi se v tem malo zamislil, ker če naš obraša, naš dobo.
+
+640
+01:02:17,200 --> 01:02:21,000
+Ne vem, če je kaj bolj zapletenega, kaj to. To ne pomeni, da voždovo,
+
+641
+01:02:21,200 --> 01:02:23,599
+ampak je pa saj korak.
+
+642
+01:02:23,799 --> 01:02:27,799
+A ti upažaš veliko kandidatov, ki vas mogoče na nek način uporabijo
+
+643
+01:02:28,000 --> 01:02:31,000
+zato, da dobijo večjo plačo v svojem podjetju?
+
+644
+01:02:31,200 --> 01:02:37,599
+To se ful redno dogaja. Mislim, recimo mi im najdemo boljšo
+
+645
+01:02:37,799 --> 01:02:41,400
+priložnost, boljšo plačo ali pa pa zisto plačo, ne so nezadovoljni,
+
+646
+01:02:41,400 --> 01:02:47,799
+ki pa enkrat reče, da gre, se vsi vemo, kako zadrži za poslednjega,
+
+647
+01:02:48,000 --> 01:02:51,799
+malo mu pihaš na dušo, ker ga itak dobro poznaš, drugo je pa pač,
+
+648
+01:02:52,000 --> 01:02:56,400
+da ga zadržiš z plačo. Tako, da poravajate takrat, ko za poslednji
+
+649
+01:02:56,599 --> 01:02:59,400
+reče, da gre, podjetje v bistvu ugotovi pravo vrednost.
+
+650
+01:02:59,599 --> 01:03:05,799
+Tako, da jaz bi rekla, če te res, če si nekje zadovoljen,
+
+651
+01:03:06,000 --> 01:03:10,400
+pa te samo plača matra, eno je, da vprašaš, drugo je pa,
+
+652
+01:03:10,400 --> 01:03:14,400
+pa se lahko rečeš, lej jaz sem dobil to in to ponudbo, malo razmišljam,
+
+653
+01:03:14,599 --> 01:03:17,599
+meni se zdi, da imam tukaj nizko plačo, malo razmišljam, da bi sprejel
+
+654
+01:03:17,799 --> 01:03:22,400
+in ponavadi je že to dovolj, če se ti podjetje pomembno, da ti …
+
+655
+01:03:22,599 --> 01:03:24,400
+Možno prav domačo nalogo. Tako.
+
+656
+01:03:24,599 --> 01:03:30,200
+In domača naloga je, da če tudi si srečen, dej še vedno malo glej okol,
+
+657
+01:03:30,400 --> 01:03:33,799
+pa probi dobiti vrednost in strkat. Ni nujno, da boš na njo reageral,
+
+658
+01:03:34,000 --> 01:03:38,000
+ampak to je ease of mind. Tudi služba za naredovanje,
+
+659
+01:03:38,400 --> 01:03:44,400
+ne določen čas, enkrat konča. Ne boš biti pripravljen z nekimi opcijami.
+
+660
+01:03:44,599 --> 01:03:51,400
+Je pa to, pač jaz mislim, da najtežji je pogovarjati se,
+
+661
+01:03:51,599 --> 01:03:58,400
+kontekst treba še vejati. In vem, da hodimo po ponudbe hrekruterjem
+
+662
+01:03:58,599 --> 01:04:01,799
+in potem greš … V resnici nisi hotev sploh druge službe, ampak
+
+663
+01:04:02,000 --> 01:04:06,400
+hrabo si šefu povejati, lej malo bolj resno je, kako bo se pogovarjali.
+
+664
+01:04:06,799 --> 01:04:10,799
+Pa, fajn je, tako kot si ti omenil, da se moraš tudi vedno dobro prodati.
+
+665
+01:04:11,000 --> 01:04:14,599
+Fajn je, da si pripravljen tudi zgodbo. Za kaj si pa ti zdaj danes
+
+666
+01:04:14,799 --> 01:04:17,599
+zaslužiš večjo plačo? Kaj si pa ti naredil? Kaj si se novga naučil?
+
+667
+01:04:17,799 --> 01:04:22,599
+Kaj si doprenesel? Ker samo to, da rečeš, jaz pa mislim,
+
+668
+01:04:22,799 --> 01:04:25,599
+da imam nizko plačo, pa da bi si zaslužil večjo. Al pa on ima večjo.
+
+669
+01:04:25,799 --> 01:04:27,599
+Vem, da ste jim ga vzel, pa ima večjo.
+
+670
+01:04:29,599 --> 01:04:33,599
+A si moraš paziti, kaj si želiš? Si preveč želiš?
+
+671
+01:04:33,799 --> 01:04:37,799
+A je kajšno podjetje, ki tudi potegne črto in reče,
+
+672
+01:04:38,000 --> 01:04:41,799
+ne, ne, v tej ligi pa ne igramo. Za tako kompenzacijo
+
+673
+01:04:42,000 --> 01:04:43,799
+ste pa vseh pogovarjali, v tem ne bomo.
+
+674
+01:04:44,799 --> 01:04:47,799
+Seveda, načeloma imaš tako manj kulturfit.
+
+675
+01:04:50,000 --> 01:04:52,799
+Zadeva je takšna, da je lahko zaskrbljenost, da če ti ne moraš
+
+676
+01:04:53,000 --> 01:04:56,799
+nekemu kandidatu ponuditi te kompenzacije, da veš,
+
+677
+01:04:57,000 --> 01:05:04,000
+ok, to je zdaj začasno, zapustitev za to osebo,
+
+678
+01:05:04,200 --> 01:05:07,000
+ker bo iskala više kompenzacijo, v dveh letih mi ne moremo
+
+679
+01:05:07,200 --> 01:05:11,000
+to kompenzacijo dvigati na to željeno, a smo pripravljeni
+
+680
+01:05:11,200 --> 01:05:14,000
+investirati in riskirati tih dveh letih, ker je zelo velika
+
+681
+01:05:14,200 --> 01:05:16,000
+vrednost, da je ta oseba flight risk.
+
+682
+01:05:17,200 --> 01:05:21,000
+In to je vezano na nek kulturfit, kjer se pač probaš ogotoviti,
+
+683
+01:05:21,200 --> 01:05:25,000
+zakaj ta oseba išče službo. Že šest mesecov brez poselna,
+
+684
+01:05:27,200 --> 01:05:31,000
+despret je, ni zadovoljna z našo kompenzacijo, ampak bo ozela,
+
+685
+01:05:31,200 --> 01:05:34,000
+torej tri mesece bo par nas, ko bo konc preizkušnje dobe,
+
+686
+01:05:34,200 --> 01:05:38,000
+bo najbrž že nekaj drugi. Zdaj, jaz to tako gledam,
+
+687
+01:05:38,200 --> 01:05:44,000
+vedno probite svoje pričakovanja uskladiti tam, kjer iščete.
+
+688
+01:05:44,200 --> 01:05:48,000
+So neki nivoji, pa so neki budžeti in če ste off,
+
+689
+01:05:49,200 --> 01:05:52,000
+ne vem, hiring manager malo gredo lahko pogleda.
+
+690
+01:05:52,200 --> 01:05:54,000
+Ja, ker moramo meniti kripto.
+
+691
+01:05:54,400 --> 01:05:56,200
+Moramo meniti kripto babel.
+
+692
+01:05:56,400 --> 01:05:58,200
+Spesen trigger, te veš.
+
+693
+01:05:58,400 --> 01:06:04,000
+Ker pač dejstvo je, da so inženiri, ki pač si ne uspjeli
+
+694
+01:06:04,200 --> 01:06:07,799
+dosežiti neke kompenzacije, ki so bile enostavno nepredstavljive,
+
+695
+01:06:08,000 --> 01:06:11,200
+zaradi tega, ker je bil pač a lot of free crypto money.
+
+696
+01:06:12,400 --> 01:06:15,799
+In potem se mi zdi, da je bilo ful veliko razočarjanje,
+
+697
+01:06:16,000 --> 01:06:18,200
+ko je bilo treba iti strano z takih pandetij.
+
+698
+01:06:18,400 --> 01:06:20,799
+Seveda, jaz sem v eno situacijo, kdo prišel, bo rekel,
+
+699
+01:06:20,799 --> 01:06:22,799
+kaj je skoče med 7 tisoč brutov na mesec.
+
+700
+01:06:23,000 --> 01:06:24,400
+In je bilo vprašanje, zakaj?
+
+701
+01:06:24,599 --> 01:06:26,799
+Ja, ker prihajam iz Velke Britanije, tam se začne.
+
+702
+01:06:27,000 --> 01:06:30,000
+Ja, pa pejti nazaj v Velko Britanijo, mi ti tega ne moramo ponuditi.
+
+703
+01:06:30,200 --> 01:06:31,599
+In nisto je v kripto to.
+
+704
+01:06:31,799 --> 01:06:35,599
+Ej, once in a lifetime opportunity, ful sem vesel, da ti je ratal,
+
+705
+01:06:35,799 --> 01:06:41,599
+ampak, ne, realnost, 99% vseh ostalih podetji,
+
+706
+01:06:42,599 --> 01:06:44,400
+ne pogovarjamo se o teh cifrah.
+
+707
+01:06:44,599 --> 01:06:46,599
+In zdaj pač je to ono britko spoznanje,
+
+708
+01:06:46,799 --> 01:06:50,000
+ali boš nazaj v kripto šel, pa probod zopet zajahkat,
+
+709
+01:06:50,000 --> 01:06:54,799
+ali pa se soočati s tem, da, ne, če zaslužeš 4 tisoč brut,
+
+710
+01:06:55,000 --> 01:06:58,200
+ne to, a ne, si top 1% zaslužkar, ne, kar je.
+
+711
+01:06:59,400 --> 01:07:01,599
+To je realnost, ne vem, kaj narečemo, ne.
+
+712
+01:07:06,000 --> 01:07:08,400
+Če ti prvi poveš plačen razgovor,
+
+713
+01:07:08,599 --> 01:07:12,800
+in je to tako visoko, da održeneš priložnost stran,
+
+714
+01:07:13,000 --> 01:07:17,000
+a je boljše, da počakaš, da ti podjetje povej, kakšen je range.
+
+715
+01:07:17,199 --> 01:07:20,199
+Tlele, sem videla, to je bilo kar nekaj vprašanja na to temo,
+
+716
+01:07:20,400 --> 01:07:23,800
+in mi je v bistvu zanimivo, to so vseeno neke osnove pogajanja,
+
+717
+01:07:24,000 --> 01:07:27,599
+ampak, je ta nek stereotip, da to je ful pomembno,
+
+718
+01:07:27,800 --> 01:07:30,400
+kdo prvi da številko in ju enkrat, a je ali ni?
+
+719
+01:07:30,599 --> 01:07:33,000
+Kako vidva to vidite, kakšen je nasvet tukaj
+
+720
+01:07:33,199 --> 01:07:35,000
+za prvo pogajanje v plače?
+
+721
+01:07:38,800 --> 01:07:43,800
+Moj problem je to, da velikat prebijam z gorem del badžeta,
+
+722
+01:07:44,000 --> 01:07:48,000
+in ne bom še s intervjujo imel pa šteri mesece in rečem,
+
+723
+01:07:48,199 --> 01:07:51,599
+lej, tlele se začne, a se saj vidimo in rečem, ne, hvala,
+
+724
+01:07:51,800 --> 01:07:53,800
+in pa se nas tako win-win.
+
+725
+01:07:55,000 --> 01:07:58,000
+Ampak, če pa ne prebijate tih badžetov,
+
+726
+01:07:58,199 --> 01:08:02,199
+je pa fajn, da imate dobro premišljeno,
+
+727
+01:08:02,400 --> 01:08:05,400
+kjero izhodišče imate, morate te zadeve vedeti.
+
+728
+01:08:05,599 --> 01:08:07,800
+Ni nujno, da ga poveste, ampak morate vedeti,
+
+729
+01:08:08,000 --> 01:08:10,800
+kaj so vaše pričakovanje, in če nimate pričakovanje,
+
+730
+01:08:10,800 --> 01:08:14,800
+nejte na pogajanji, ker spohaj ne boste mogli vedeti,
+
+731
+01:08:15,000 --> 01:08:19,000
+kaj si spohaj želite, tako da je pa to od konteksta odvisno.
+
+732
+01:08:19,199 --> 01:08:21,800
+Ful je odvisno, jaz tudi mislim, da glih za to ful spodbujam,
+
+733
+01:08:22,000 --> 01:08:26,000
+da se v glasih piše, razpon glih, ker je odvisno od podetja,
+
+734
+01:08:26,199 --> 01:08:29,800
+od senjoretja, od česarkoli, in če imaš ti, recimo,
+
+735
+01:08:30,000 --> 01:08:33,000
+že vnaprej veš, kaj se greš pogajati, malo se tudi umestiš,
+
+736
+01:08:33,199 --> 01:08:37,199
+glede na rolo, tamnotar ful lažej tudi pa napreduješ.
+
+737
+01:08:38,199 --> 01:08:44,199
+Če pa ni tega, pa jaz mislim, da najboljš biti realen.
+
+738
+01:08:44,400 --> 01:08:48,400
+Realno ne boš dobil 30% više plače.
+
+739
+01:08:48,599 --> 01:08:51,199
+Ok, radim, če se boš znal ful obr prodat, ampak tako,
+
+740
+01:08:51,400 --> 01:08:56,400
+možnosti so majh. Boti realen, ne vem, povej,
+
+741
+01:08:56,599 --> 01:09:00,000
+kakšne so tvoje pričakovanja, zdaj en princip je tako,
+
+742
+01:09:00,199 --> 01:09:03,199
+da poveš, kakšno plača imaš zdaj, in da pričakuješ,
+
+743
+01:09:03,199 --> 01:09:10,199
+seveda vsaj toliko več. En princip je tudi, glih zanj sem dobila
+
+744
+01:09:10,400 --> 01:09:15,400
+na svetu od enega profesorja, ful zanimivo predvidovamo,
+
+745
+01:09:15,599 --> 01:09:19,599
+NBA delam, Competitive Intelligence, kako se pogajajo za plačo.
+
+746
+01:09:19,800 --> 01:09:25,199
+Rečeš ko? Prvo stvar, ja, rečeš veliko, visoko cifro,
+
+747
+01:09:25,400 --> 01:09:28,400
+to pomeni, da rečeš, ne vem, zato pozicijo predvedevam,
+
+748
+01:09:28,599 --> 01:09:31,800
+da glede na trg ponujete maksimalno tolk in tolk.
+
+749
+01:09:31,800 --> 01:09:36,800
+Tolk, da v bistvu rečeš čistko psihološko eno ful visoko številko.
+
+750
+01:09:37,000 --> 01:09:43,000
+Pol pa nadaljuje s tem, da ok, zdaj jaz glede na svoje iskušnje
+
+751
+01:09:43,199 --> 01:09:48,199
+in senioriti prečekujem vsaj tolk. Tako da popostave svojo
+
+752
+01:09:48,400 --> 01:09:52,400
+minimalno mejo, kot maksimalno številko, je pa v bistvu tista plača,
+
+753
+01:09:52,599 --> 01:09:55,599
+ki ni tvoja maksimalna mogoče, ampak je kao za to pozicijo.
+
+754
+01:09:55,800 --> 01:09:59,800
+Tako da v bistvu ti od njih nekako psihološko im daš misel,
+
+755
+01:09:59,800 --> 01:10:03,800
+da ti dajo več, kot ti odvajajo minimalno zahtevano.
+
+756
+01:10:04,000 --> 01:10:06,000
+Na svet, ne vem.
+
+757
+01:10:06,199 --> 01:10:08,199
+Vedno moraš narediti domačo nalogo.
+
+758
+01:10:08,400 --> 01:10:10,400
+Ja, to itak.
+
+759
+01:10:10,599 --> 01:10:14,599
+Vsako podjetje za isto nalogo bo imelo različne badžete in razpone.
+
+760
+01:10:14,800 --> 01:10:18,800
+Če boš z isto številko pršel dvema različnoma podjetjama,
+
+761
+01:10:19,000 --> 01:10:22,000
+nisi naredili domače naloge. Moraš se pozanimati.
+
+762
+01:10:22,199 --> 01:10:26,199
+Ali preko glasa, kaj so badžeti, ali pa probaš ugotoviti
+
+763
+01:10:26,800 --> 01:10:29,800
+preko LinkedIn-a za poslanje ali pa kotkar kol že.
+
+764
+01:10:30,000 --> 01:10:33,000
+Načelom, kljub temu, da se v plačah ne pogovarjamo,
+
+765
+01:10:33,199 --> 01:10:35,199
+se v plačah pogovarjamo.
+
+766
+01:10:35,400 --> 01:10:39,400
+In to so neke take zadeve, ki so na neki sodelovski
+
+767
+01:10:39,599 --> 01:10:41,599
+ali pa na inženir z inženirjom.
+
+768
+01:10:41,800 --> 01:10:44,800
+Ni neka tabu tema, če ni nekje zapisano, a ne zapisano,
+
+769
+01:10:45,000 --> 01:10:47,000
+a posneto.
+
+770
+01:10:47,199 --> 01:10:50,199
+Tako da, dejte narediti domačo nalogo.
+
+771
+01:10:50,400 --> 01:10:53,400
+Jaz nimam izkušen, da če je range objavljen,
+
+772
+01:10:54,199 --> 01:10:57,199
+če je spon objavljen, da vsi pridejo pa hočejo
+
+773
+01:10:57,400 --> 01:10:59,400
+najviše oštevilko tam.
+
+774
+01:10:59,599 --> 01:11:02,599
+Jaz mislim, da je prav, da mogoče to tudi razbijemo,
+
+775
+01:11:02,800 --> 01:11:04,800
+ta stereotip, ki ga imajo podjetja.
+
+776
+01:11:05,000 --> 01:11:08,000
+Če bom pa napisal, pa bojo vsi hočeli najviše,
+
+777
+01:11:08,199 --> 01:11:11,199
+pa še moji zaposleni bojo prišli po najviše oštevilko.
+
+778
+01:11:11,400 --> 01:11:13,400
+Jaz nimam takih izkušen.
+
+779
+01:11:13,599 --> 01:11:17,599
+Po drugi strani, pa tudi imam izkušenje, da ponavadi,
+
+780
+01:11:17,800 --> 01:11:20,800
+je vedno še range po range.
+
+781
+01:11:21,400 --> 01:11:23,400
+Tako kot si ti rekel.
+
+782
+01:11:23,599 --> 01:11:26,599
+Vse ti zgodi tudi, da če prav je range,
+
+783
+01:11:26,800 --> 01:11:29,800
+za pravi skillset ga tudi ni.
+
+784
+01:11:30,000 --> 01:11:33,000
+Kar se velikrat zgodi, da prideš na neko delovno mesto
+
+785
+01:11:33,199 --> 01:11:36,199
+za navadnega inženirja in gotovijo.
+
+786
+01:11:36,400 --> 01:11:39,400
+Ti bi pa mogoče bolj za nekaj drugega,
+
+787
+01:11:39,599 --> 01:11:41,599
+kar še nimamo odprt.
+
+788
+01:11:41,800 --> 01:11:44,800
+Tam se pa drugače lahko pogovarjamo.
+
+789
+01:11:45,000 --> 01:11:48,000
+Tam so potem tudi drugačni intervjui.
+
+790
+01:11:48,400 --> 01:11:51,400
+Tam je pa zopet čist novo delovno mesto
+
+791
+01:11:51,599 --> 01:11:54,599
+in se velikrat tudi za to pravo kadro odpre novo delovno mesto,
+
+792
+01:11:54,800 --> 01:11:57,800
+ker če dobiš nekega superstarja,
+
+793
+01:11:58,000 --> 01:12:01,000
+ga ne boš dov, ne vem, čist od stranišča.
+
+794
+01:12:01,199 --> 01:12:03,199
+Ne vem, kako rečem.
+
+795
+01:12:03,400 --> 01:12:06,400
+Velikrat se je zgodilo v podjetjih,
+
+796
+01:12:06,599 --> 01:12:09,599
+ko je prišel to pravo osebo,
+
+797
+01:12:09,800 --> 01:12:12,800
+se je zadeva ena štupničko više premakalna
+
+798
+01:12:13,000 --> 01:12:16,000
+in so se potem vodje malo drugače zmenili.
+
+799
+01:12:16,000 --> 01:12:19,000
+Ne smemo pač reči, da je to zdaj neko pravilo.
+
+800
+01:12:19,199 --> 01:12:22,199
+Ker vse enkašna podjetja ima ful strogo politiko,
+
+801
+01:12:22,400 --> 01:12:25,400
+glede plača, glede na obstoječe za posledne noče,
+
+802
+01:12:25,599 --> 01:12:28,599
+oddera ta razlik pred drugih podjetjih je drugačno.
+
+803
+01:12:28,800 --> 01:12:31,800
+A je veliko teh javnih renčev,
+
+804
+01:12:32,000 --> 01:12:35,000
+pa tako, da so si vsi v podjetju na čistem,
+
+805
+01:12:35,199 --> 01:12:38,199
+kakšni so razponje za vsake delovne mesto,
+
+806
+01:12:38,400 --> 01:12:40,400
+a je tega veliko?
+
+807
+01:12:40,599 --> 01:12:43,599
+Jaz bi rekla, da to ni prakse.
+
+808
+01:12:43,599 --> 01:12:45,599
+Ker se vsaki spogaja.
+
+809
+01:12:45,800 --> 01:12:47,800
+Tukaj rečeš.
+
+810
+01:12:48,000 --> 01:12:51,000
+Bolj par, ki so, ampak ni tako javno.
+
+811
+01:12:51,199 --> 01:12:54,199
+Za neke role so ranži, pa gre težko izven tega.
+
+812
+01:12:54,400 --> 01:12:57,400
+Ampak ni tako, da bi bilo tudi javno znano.
+
+813
+01:12:57,599 --> 01:13:00,599
+Ne poznam podjetje, ki bi se ful otkrito pogovarjali
+
+814
+01:13:00,800 --> 01:13:03,800
+kakšne so plače. Sploh v IT-u,
+
+815
+01:13:04,000 --> 01:13:07,000
+če je kakšno res ...
+
+816
+01:13:07,199 --> 01:13:10,199
+Prebrojno podjetje je trikratnik.
+
+817
+01:13:11,000 --> 01:13:14,000
+Tako, ampak produktno podjetje,
+
+818
+01:13:14,199 --> 01:13:17,199
+ki so inženirje ali osnovne poslovne pozicije,
+
+819
+01:13:17,400 --> 01:13:20,400
+predsejšnje razlike lahko nastanejo v plačah.
+
+820
+01:13:20,599 --> 01:13:23,599
+Simo med salesom, pa med IT-om.
+
+821
+01:13:23,800 --> 01:13:26,800
+Sales ima poprečno plačo zelo nizko,
+
+822
+01:13:27,000 --> 01:13:30,000
+ker je velikat vezan na kompenzacijo.
+
+823
+01:13:30,199 --> 01:13:33,199
+Potem se gredo, gleda moj, gleda jo, ali kakorkoli že.
+
+824
+01:13:33,400 --> 01:13:36,400
+Pa mogoče še sales ne je to,
+
+825
+01:13:36,400 --> 01:13:39,400
+ker je sales lahko z performancom dobiti ...
+
+826
+01:13:39,599 --> 01:13:42,599
+Mislim, bom rekla, zelo dobro kompenzacijo,
+
+827
+01:13:42,800 --> 01:13:45,800
+ampak kakšne podporne funkcije, računovodstvo,
+
+828
+01:13:46,000 --> 01:13:49,000
+marketing, kakorkoli.
+
+829
+01:13:49,199 --> 01:13:52,199
+Astomer support.
+
+830
+01:13:52,400 --> 01:13:55,400
+Astomer support so standardi naravni.
+
+831
+01:13:55,599 --> 01:13:58,599
+Vse moramo videti, da inženirjske plače so vse nadpovprečne.
+
+832
+01:13:58,800 --> 01:14:01,800
+Absolutno.
+
+833
+01:14:02,000 --> 01:14:05,000
+To pa je tudi malo moja izkušnja,
+
+834
+01:14:05,800 --> 01:14:08,800
+da so slovenski inženiri kdaj malo bolj konzervativni.
+
+835
+01:14:09,000 --> 01:14:12,000
+Tako kot sem že prej rekla, kaj pa,
+
+836
+01:14:12,199 --> 01:14:15,199
+za trekrat višjo plačo moram delati,
+
+837
+01:14:15,400 --> 01:14:18,400
+predvsem tudi zatem, ker se premirjajo z ostalimi v njihovem okolju.
+
+838
+01:14:18,599 --> 01:14:21,599
+Inženirjske plače so kljub vsemu nadpovprečne.
+
+839
+01:14:21,800 --> 01:14:24,800
+To si lahko nalujimo čistega vida.
+
+840
+01:14:25,000 --> 01:14:28,000
+Jaz vedno pravim, nam je tako lušten,
+
+841
+01:14:28,199 --> 01:14:31,199
+da je zelo redko poklican v Sloveniji tok lušten,
+
+842
+01:14:31,400 --> 01:14:34,400
+kot kar je mogoče programerjama.
+
+843
+01:14:34,400 --> 01:14:37,400
+Z raznimi bonitetami in bonusi.
+
+844
+01:14:37,599 --> 01:14:40,599
+Skoraj da ne odpira dobra plače,
+
+845
+01:14:40,800 --> 01:14:43,800
+imamo cenjo naše možgane in osebnost.
+
+846
+01:14:44,000 --> 01:14:47,000
+Ne štamplamo se, v bistvu ni boljšega.
+
+847
+01:14:47,199 --> 01:14:50,199
+Je pa finta v tem, da če se je delilo kakrekoli druge poklice,
+
+848
+01:14:50,400 --> 01:14:53,400
+kjer so pravila igre malo drugačna,
+
+849
+01:14:53,599 --> 01:14:56,599
+če tega ni se je delilo, malo pozabiš,
+
+850
+01:14:56,800 --> 01:14:59,800
+da smo privilegirani.
+
+851
+01:15:00,000 --> 01:15:05,000
+Smo vsi privilegirani, ne samo IT-ovci, ampak je treba neko relativnost držati.
+
+852
+01:15:06,000 --> 01:15:10,000
+Se približujemo koncu, tako da bom ... Samo še eno zadnje vprašanje.
+
+853
+01:15:10,000 --> 01:15:16,000
+Secer je veliko, ampak bo več tudi kot vod potem za naslednje epizode,
+
+854
+01:15:16,000 --> 01:15:21,000
+ampak malo se se ti tega že dotaknilo, pa mogoče, če zakličimo s tem.
+
+855
+01:15:21,000 --> 01:15:27,000
+Poleg plače, mogoče ni prostor, ni badžeta za više plačo,
+
+856
+01:15:27,000 --> 01:15:33,000
+mogoče to ni doseglivo. Kaj so še druge stvari poleg plače,
+
+857
+01:15:33,000 --> 01:15:37,000
+kjer pa smo mogoče lahko bolj uspešni oziroma tudi često se poslužujajo
+
+858
+01:15:37,000 --> 01:15:43,000
+podjetja za potem ta, kot si ti prej rekel, kompenzacijo, ne samo plačo.
+
+859
+01:15:43,000 --> 01:15:47,000
+Ena stvar, ki jo veliko pozabljamo, so dnevi dopusta.
+
+860
+01:15:47,000 --> 01:15:52,000
+To je, mislim, vedno lahko rečeš še pet dodatnih dnij.
+
+861
+01:15:52,000 --> 01:15:58,000
+Če to je še vedno tvoja kompenzacija, če rečeš za 20 dodatnih dnij je dodatni mesec,
+
+862
+01:15:58,000 --> 01:16:05,000
+kar je skoraj danes 10% više plača, pa seveda kakšne zadeve, ki niso vezane
+
+863
+01:16:05,000 --> 01:16:10,000
+na finančno, torej hibridno delo, kakršnekoli take ugodnosti, ki ti
+
+864
+01:16:10,000 --> 01:16:15,000
+ne vem, služba na avto ali karkoli podobenga, ki je bolj kontekstualno,
+
+865
+01:16:15,000 --> 01:16:20,000
+so zadeve, ki si lahko o njih pogovarjaš in za podjetje mogoče lažje,
+
+866
+01:16:20,000 --> 01:16:26,000
+ker majo badžet za plačo, tiste zadeve pa prihajajo iz nekih drugih badžetov,
+
+867
+01:16:26,000 --> 01:16:30,000
+edukacion badžet in nekaj še vse majo in se tam tudi lahko kaj zminti.
+
+868
+01:16:30,000 --> 01:16:36,000
+Morate vedno vprašati, morate se pogovoriti, vprašanje je,
+
+869
+01:16:36,000 --> 01:16:41,000
+kaj obstaja in ti oni pač povejo in se potem na podlagi tega vprašajo,
+
+870
+01:16:41,000 --> 01:16:45,000
+kok je miniverskega prostora in nekatera podjetja ti grejo nasprot,
+
+871
+01:16:45,000 --> 01:16:48,000
+nekatera ti ne grejo. To so vsaj moje izkušnje.
+
+872
+01:16:48,000 --> 01:16:55,000
+Pole pač tih nekih bonusov in delnic, ampak to je v Sloveniji ne tako razšireno.
+
+873
+01:16:55,000 --> 01:16:59,000
+Po mojemu mnenju. Sem kaj pozabil?
+
+874
+01:16:59,000 --> 01:17:03,000
+Ja, mogoče to, da včasih ni nojena, da bo visoka plača, ampak recimo
+
+875
+01:17:03,000 --> 01:17:08,000
+podjetje ponuja 13, 14 plača, nagrada za uspešnost, a veš pa imaš ti plan na koncu,
+
+876
+01:17:08,000 --> 01:17:12,000
+ne vem, pet plač lahko več, ampak če ne vprašaš, ne boš vedel.
+
+877
+01:17:12,000 --> 01:17:16,000
+Tako da je tudi to fajna, da mogoče začneš pogajanje za plačo.
+
+878
+01:17:16,000 --> 01:17:20,000
+Predvem poveš ti Bilko, kaj pa so ostale ogodnosti?
+
+879
+01:17:20,000 --> 01:17:25,000
+A vidiš veliko tega v slovenskem trgu, da se podjetje poskušajo biti
+
+880
+01:17:25,000 --> 01:17:29,000
+bolj konkurenčno s temi drugimi stvarmi, prki, benefiti,
+
+881
+01:17:29,000 --> 01:17:35,000
+bolj kot dejansko samo za bruto, pa se kandidat dejansko,
+
+882
+01:17:35,000 --> 01:17:39,000
+mislim, a je kdo ga daj zamenil v službo zaradi ping ponga,
+
+883
+01:17:39,000 --> 01:17:43,000
+pa dobre pisarne, ali niti ne.
+
+884
+01:17:43,000 --> 01:17:45,000
+Odvisno, kako je bil nezadovoljen.
+
+885
+01:17:45,000 --> 01:17:50,000
+A veš, veliko kandidatov, ki je ful nezadovoljnih, bo tudi šlo za men,
+
+886
+01:17:50,000 --> 01:17:53,000
+mislim, da je zato fulni prakse, ampak bo šlo tudi za malo men,
+
+887
+01:17:53,000 --> 01:17:57,000
+pa mogoče za malo men stres na službo ali pa zaradi boljših odnosov,
+
+888
+01:17:57,000 --> 01:18:01,000
+boljšega podjetja, benefitov, ki jih bo imel.
+
+889
+01:18:01,000 --> 01:18:03,000
+Tako da tudi te stvari se dogajajo.
+
+890
+01:18:03,000 --> 01:18:06,000
+Sploh mislim, da veliko inženirjev, prograverjev je takih,
+
+891
+01:18:06,000 --> 01:18:10,000
+da pride na nekaj raven, da jim pač 500 evrov več ali men,
+
+892
+01:18:10,000 --> 01:18:14,000
+ni več tako pomembno kot to, kakšen imajo izjiv, kakšno imajo ekipo,
+
+893
+01:18:14,000 --> 01:18:17,000
+kako se lahko razvijo naprej.
+
+894
+01:18:17,000 --> 01:18:20,000
+Tako da različne stvari se dogajajo.
+
+895
+01:18:20,000 --> 01:18:24,000
+Tudi dober indikator teh benefitev je kultura podjetja.
+
+896
+01:18:24,000 --> 01:18:29,000
+Kaj da vrednost. Če dobiš še kartu za fitness, pa za badminton,
+
+897
+01:18:29,000 --> 01:18:34,000
+sej ni badminton, ampak ta karta tista, ki naredi to razliko,
+
+898
+01:18:34,000 --> 01:18:38,000
+ampak ti da občutek, je oni te cenijo kot človeka,
+
+899
+01:18:38,000 --> 01:18:42,000
+tako v glavi kot v telesnem smislu.
+
+900
+01:18:42,000 --> 01:18:48,000
+Saj jaz sem imel občutek, da velika podjetja, ki ne morejo konkurirati
+
+901
+01:18:48,000 --> 01:18:52,000
+s plačo, konkurirajo s to kulturo. Holistično.
+
+902
+01:18:52,000 --> 01:18:59,000
+Mamo, ne vem, božička je že mogoče tudi...
+
+903
+01:18:59,000 --> 01:19:03,000
+Kako se smešam slišiš, podjetja, ki imajo božička, ti dajo veda,
+
+904
+01:19:03,000 --> 01:19:06,000
+da so to bolj družinska podjetja in če imaš otroke ti na čeloma,
+
+905
+01:19:06,000 --> 01:19:11,000
+ne bo to hodo. In tisti, ki imajo otroke, je letni božiček en indikator,
+
+906
+01:19:11,000 --> 01:19:15,000
+da ok, tukaj se bo mogoče boljši počutil, ker če mi bo otrok zbolil,
+
+907
+01:19:15,000 --> 01:19:19,000
+mi nobaj ne bo težil, zato ker je pa v firme, ima otroke in razume.
+
+908
+01:19:19,000 --> 01:19:24,000
+Tako da jaz bi to bolj rekel, to so indikatorji, da imajo kulturo,
+
+909
+01:19:24,000 --> 01:19:28,000
+pa vrednost in mogoče nekaj drugego, ker samo od 8 do 4 delaš,
+
+910
+01:19:28,000 --> 01:19:32,000
+čim več, nared, make money, make money, ampak so do druge zadeve.
+
+911
+01:19:33,000 --> 01:19:37,000
+Oziroma pač čas, vedno, to je pač dober shout-out, se mi zdi,
+
+912
+01:19:37,000 --> 01:19:44,000
+da čas na koncu, tisti, ki je tudi ekstremno veliko in zelo veliko inženirjev,
+
+913
+01:19:44,000 --> 01:19:48,000
+iz mojih izkušenj so pripravljeni delati za dosti manj,
+
+914
+01:19:48,000 --> 01:19:54,000
+če to pomeniš tudi na teden, recimo. In sploh so nekaj drugi potem,
+
+915
+01:19:54,000 --> 01:20:01,000
+kot samo ta blata na koncu, ampak a smo tam že v Sloveniji,
+
+916
+01:20:01,000 --> 01:20:07,000
+a smo to posvojili, a imamo lepa konkurenčna benefite in prke tudi
+
+917
+01:20:07,000 --> 01:20:14,000
+v slovenskih podjetjih ali je tukaj še malo povezano tudi mogoče s kulturo?
+
+918
+01:20:14,000 --> 01:20:17,000
+Jaz mislim, da je vedno več tega. Ko je korona prišla,
+
+919
+01:20:17,000 --> 01:20:20,000
+naenkrat smo imeli konkurencov tuja podjetja, ki to imajo
+
+920
+01:20:20,000 --> 01:20:27,000
+in lej, v enem letu se ogroman firam. Vreščki niso več redki,
+
+921
+01:20:27,000 --> 01:20:31,000
+ampak vsi imamo zdaj vreščke. Tako da meni je bil ta pritis,
+
+922
+01:20:31,000 --> 01:20:36,000
+ki je prišel od zuni za slovenski kadar, je kar nekatera slovenska podjetja
+
+923
+01:20:36,000 --> 01:20:40,000
+malo počgal. Tako da ne pravim, da je to zdaj zelo dobro,
+
+924
+01:20:40,000 --> 01:20:44,000
+pa da so vsi to, ampak saj jaz osebno vidim zelo velik napredek
+
+925
+01:20:44,000 --> 01:20:48,000
+v zadnjih dveh, treh letih. Tudi nekaj smo se štemplati,
+
+926
+01:20:48,000 --> 01:20:52,000
+da se zakonodaja spremenila. To je zelo velik indikator,
+
+927
+01:20:52,000 --> 01:20:57,000
+da ni pomembna tvoja prisotnost, tvoj output oziroma outcome je pomemben
+
+928
+01:20:57,000 --> 01:21:02,000
+in to je zelo velik šift v mentaliteti, ki je mogoče, ne vem,
+
+929
+01:21:02,000 --> 01:21:05,000
+pet, deset let ni bil še tako razširjen, kot je mogoče dons.
+
+930
+01:21:05,000 --> 01:21:08,000
+Tako je pač, to je moja mnenja. Jaz sem kar vesel dones.
+
+931
+01:21:08,000 --> 01:21:11,000
+Saj sem bil tudi šte leta nazaj, ampak dones sem malo bilo vesel.
+
+932
+01:21:11,000 --> 01:21:17,000
+Jaz mislim, da sploh, kaj smo govorili, kako se je povečala
+
+933
+01:21:17,000 --> 01:21:20,000
+potreba po IT kadrih. Vse podetje so se mogle malo prilagoditi.
+
+934
+01:21:20,000 --> 01:21:25,000
+Tudi delati na employer brandingu, da se sploh sliši zgodbe,
+
+935
+01:21:25,000 --> 01:21:29,000
+kako dobro skrbijo in imamo tudi kakšna zelo mehna podetja,
+
+936
+01:21:29,000 --> 01:21:32,000
+nišna, pa jih nobeno ne poznam, ampak skrbijo pa za zaposlene.
+
+937
+01:21:32,000 --> 01:21:36,000
+Še enkrat bolj lahko rečem, kot ta zvenečna imena,
+
+938
+01:21:36,000 --> 01:21:40,000
+ki se promovirajo s tem. Tako da dejansko so podetje
+
+939
+01:21:40,000 --> 01:21:42,000
+veliko dala na to.
+
+940
+01:21:43,000 --> 01:21:49,000
+Hvala. To se mi zdi, da je bil res super pogovor.
+
+941
+01:21:49,000 --> 01:21:54,000
+Vam dam še malo časa za sklepne misli, sklepne stavke,
+
+942
+01:21:54,000 --> 01:21:59,000
+če si želita. Miha, mogoče, začnemo s teboj.
+
+943
+01:21:59,000 --> 01:22:03,000
+Vidno smo premalj plačeni. Če pa zaposlujete,
+
+944
+01:22:03,000 --> 01:22:08,000
+vidno preveč plačate. Dejte se pogajati.
+
+945
+01:22:08,000 --> 01:22:14,000
+Naj ne bo plačat tabu tema, ampak dejte jo obronavati
+
+946
+01:22:14,000 --> 01:22:18,000
+z nekim kontekstom in zlovednjo, ker je predvsej nabita beseda
+
+947
+01:22:18,000 --> 01:22:23,000
+še posebej v slovenskem prostoru. Vedno se pogovarjamo
+
+948
+01:22:23,000 --> 01:22:25,000
+o bruto plači.
+
+949
+01:22:27,000 --> 01:22:30,000
+Še mogoče ena replika iz moje strani, ne za spadno.
+
+950
+01:22:30,000 --> 01:22:36,000
+Ne bi 10 let v enem podetju. Glejte tuk, da se boste lahko
+
+951
+01:22:36,000 --> 01:22:41,000
+razvijali naprej. Povejte tisto, kar vam ne odgovarja.
+
+952
+01:22:41,000 --> 01:22:45,000
+Če mislite, da imate premehno plačo, pejte se pogovarjati
+
+953
+01:22:45,000 --> 01:22:50,000
+predno. Grete do rekruterja, ne hičem se, komu se lahko
+
+954
+01:22:50,000 --> 01:22:54,000
+nas obrnete. Vam bomo povedali svetovarno.
+
+955
+01:22:54,000 --> 01:22:59,000
+Definitivno, ne za spadno. Vsak posameznik je v resnici
+
+956
+01:22:59,000 --> 01:23:03,000
+zadolžen za svojo kariero. Če to prepustiš drugim in se ujameš
+
+957
+01:23:03,000 --> 01:23:07,000
+v nek karjer, framework in nisi zadolžen za svojo karjero,
+
+958
+01:23:07,000 --> 01:23:12,000
+takrat se najbolj zakvačkamo. Pripeljali smo to do konca.
+
+959
+01:23:12,000 --> 01:23:18,000
+Hvala, da ste se mi pridružila. Z vse naše poslušalce za službo
+
+960
+01:23:18,000 --> 01:23:21,000
+se lahko prijavite tudi na kaldi humanfrog.riv.se, ki ji
+
+961
+01:23:21,000 --> 01:23:29,000
+sponsorirajo ta podcast, ki so tudi v kopici slovenskih
+
+962
+01:23:29,000 --> 01:23:35,000
+podjetji v IT prostoru. Vama res najlepša hvala.
+
+963
+01:23:35,000 --> 01:23:40,000
+No, še enkrat za ta pogovor. In pa seveda vabljeni še enkrat
+
+964
+01:23:40,000 --> 01:23:44,000
+vsi gledalci in poslušalci, da nam postite kakšne odzive,
+
+965
+01:23:44,000 --> 01:23:48,000
+follow-up vprašanja in se potrudimo to tudi v naslednjih
+
+966
+01:23:48,000 --> 01:23:55,000
+epizodah zagorna odgovoriti. Eko, še en PB pod vlaka
+
+967
+01:23:55,000 --> 01:23:59,000
+za zaključje in lep večer se naprej.

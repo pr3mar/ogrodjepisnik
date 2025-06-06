@@ -1,0 +1,4834 @@
+1
+00:00:00,000 --> 00:00:20,320
+So, the timer is on, we can start this episode of Ogródie in our subsection or our special
+
+2
+00:00:20,320 --> 00:00:29,680
+section of our show dedicated to English-speaking guests and English-speaking audiences.
+
+3
+00:00:29,680 --> 00:00:36,119
+This branch of our episode is designed so that we can get the best experts in the field
+
+4
+00:00:36,119 --> 00:00:40,840
+and they still can be shared among our audience.
+
+5
+00:00:40,840 --> 00:00:43,320
+So welcome to our episode.
+
+6
+00:00:43,320 --> 00:00:52,560
+Today we have a very special guest with us, Mr. Gunnar Mörling and my host, András Brodnik
+
+7
+00:00:52,560 --> 00:00:55,400
+and myself, Otto.
+
+8
+00:00:55,400 --> 00:01:00,799
+Today we are attending a Make-It conference in Portoro, Slovenia.
+
+9
+00:01:00,799 --> 00:01:05,879
+So this is a coastline of Slovenia that you might see behind us.
+
+10
+00:01:05,879 --> 00:01:09,080
+But sadly not listened to.
+
+11
+00:01:09,080 --> 00:01:19,360
+And yeah, when we were deciding the agenda for the Make-It conference, we really wanted
+
+12
+00:01:19,360 --> 00:01:26,760
+to have you in this conference as well, because in a while there was this excitement in Java
+
+13
+00:01:26,760 --> 00:01:32,480
+world where people were trying to solve this really interesting challenge that you designed
+
+14
+00:01:32,480 --> 00:01:37,080
+and people have gone crazy about it.
+
+15
+00:01:37,080 --> 00:01:42,000
+I managed to meet a few of these crazy people that actually solved your challenge and I
+
+16
+00:01:42,000 --> 00:01:43,440
+hope that we'll talk about it.
+
+17
+00:01:43,440 --> 00:01:48,800
+So, welcome to the show and if you can introduce yourself to the audience, that would be great.
+
+18
+00:01:49,239 --> 00:01:50,239
+Yes, of course.
+
+19
+00:01:50,239 --> 00:01:51,239
+So thank you so much for having me.
+
+20
+00:01:51,239 --> 00:01:52,760
+Really excited to be here.
+
+21
+00:01:52,760 --> 00:01:55,680
+Really excited to be at the conference.
+
+22
+00:01:55,680 --> 00:02:00,160
+And yes, my name is Gunnar Mörling, I work as a software engineer at a company called
+
+23
+00:02:00,160 --> 00:02:01,160
+Decodable.
+
+24
+00:02:01,160 --> 00:02:05,040
+We built a managed platform for stream processing there.
+
+25
+00:02:05,040 --> 00:02:09,520
+And yes, this challenge, the One Billion Road Challenge, actually was like a side thing,
+
+26
+00:02:09,520 --> 00:02:14,960
+which I started, you know, after Christmas and it ran for January, it really took off.
+
+27
+00:02:14,960 --> 00:02:18,279
+Thankfully, Decodable also sponsored it in the end.
+
+28
+00:02:18,279 --> 00:02:20,559
+But yeah, so that's the story.
+
+29
+00:02:20,559 --> 00:02:21,559
+Sweet.
+
+30
+00:02:21,559 --> 00:02:23,160
+Sweet and short.
+
+31
+00:02:23,160 --> 00:02:29,440
+I would like you to tell us, like, what is the definition, what's the challenge about?
+
+32
+00:02:29,440 --> 00:02:30,440
+Right.
+
+33
+00:02:30,440 --> 00:02:31,440
+Let's start, let's go directly to it.
+
+34
+00:02:31,440 --> 00:02:32,440
+Absolutely.
+
+35
+00:02:32,440 --> 00:02:33,440
+What's it all about?
+
+36
+00:02:33,440 --> 00:02:34,440
+Right.
+
+37
+00:02:34,440 --> 00:02:35,440
+Yeah, I mean, it's pretty much in the name already, right?
+
+38
+00:02:35,440 --> 00:02:42,160
+So it was, it was a challenge and the task was to process a file which has one billion
+
+39
+00:02:42,160 --> 00:02:44,600
+rows of temperature measurements.
+
+40
+00:02:44,600 --> 00:02:47,199
+So it's essentially like a simple CSV file.
+
+41
+00:02:47,199 --> 00:02:53,479
+Well, not quite because the delimiter is not a semicolon, not a comma, but it's a semicolon,
+
+42
+00:02:53,479 --> 00:02:54,759
+but it's like a CSV file.
+
+43
+00:02:54,759 --> 00:02:57,839
+And there's essentially rows of temperature measurements.
+
+44
+00:02:57,839 --> 00:03:04,320
+There's a station name like Hamburg or Portorosch, and then a values associated to that.
+
+45
+00:03:04,320 --> 00:03:06,119
+And the task was very simple.
+
+46
+00:03:06,119 --> 00:03:11,720
+You needed to calculate the min value, the max value and the average value per station.
+
+47
+00:03:11,839 --> 00:03:16,240
+The only caveat was, well, as the challenge name says, it's like one billion rows, which
+
+48
+00:03:16,240 --> 00:03:21,199
+means with this file, a bit depending on the names and how long they are, it was about
+
+49
+00:03:21,199 --> 00:03:25,880
+like 13 gigabytes of size and you had to process that file as fast as possible.
+
+50
+00:03:25,880 --> 00:03:31,039
+So very simple task, I would say, very simple to explain and still people spend like one
+
+51
+00:03:31,039 --> 00:03:36,000
+month and I guess hadn't we, you know, cut it off on January 21st, people would still
+
+52
+00:03:36,000 --> 00:03:38,160
+be working on it probably.
+
+53
+00:03:38,160 --> 00:03:40,520
+I like that there was a deadline to it.
+
+54
+00:03:40,520 --> 00:03:41,520
+Yes.
+
+55
+00:03:42,320 --> 00:03:45,279
+But you just had to put an end to the madness.
+
+56
+00:03:45,279 --> 00:03:51,279
+We'll go deeper, but just like for people that listen to this, try it out.
+
+57
+00:03:51,279 --> 00:03:55,880
+It's still a really lovely challenge, although you cannot submit your solution at the moment,
+
+58
+00:03:55,880 --> 00:03:56,880
+you still can challenge yourself.
+
+59
+00:03:56,880 --> 00:03:57,880
+Absolutely right.
+
+60
+00:03:57,880 --> 00:03:58,880
+And you can go there.
+
+61
+00:03:58,880 --> 00:04:02,679
+I mean, all the implementations are there, so you can check them out.
+
+62
+00:04:02,679 --> 00:04:06,440
+But I also would recommend people, you know, try it out first by yourself without looking
+
+63
+00:04:06,440 --> 00:04:10,360
+at what others did, you know, to get some ideas, then of course take inspiration.
+
+64
+00:04:10,360 --> 00:04:14,520
+But this was part also of the challenge to, you know, so people shouldn't work on it like
+
+65
+00:04:14,520 --> 00:04:19,720
+secretly and not see what others do, but they could take inspiration and be inspired and
+
+66
+00:04:19,720 --> 00:04:21,959
+learn from what others did.
+
+67
+00:04:21,959 --> 00:04:22,959
+Yeah.
+
+68
+00:04:22,959 --> 00:04:28,920
+I meet a lot of people in December where there's this Advent of Code challenge, right?
+
+69
+00:04:28,920 --> 00:04:34,880
+And yeah, it's Christmas themed, but look, you don't need to grind every day for the
+
+70
+00:04:34,880 --> 00:04:40,200
+new to solve all the stars to all the challenges, but you can learn also through the year.
+
+71
+00:04:41,040 --> 00:04:44,040
+The challenge is given, just explore what other people do.
+
+72
+00:04:44,040 --> 00:04:46,320
+And I think that's a really important point.
+
+73
+00:04:46,320 --> 00:04:51,119
+It's not like, yeah, if you don't have children or a lot of free time, then yeah, you can
+
+74
+00:04:51,119 --> 00:04:55,559
+do it in a specific timeframe, but like you can learn your whole life.
+
+75
+00:04:55,559 --> 00:04:56,559
+Yes.
+
+76
+00:04:56,559 --> 00:05:01,239
+And I mean, I was thinking to do it during Advent of Code, but I decided against it because
+
+77
+00:05:01,239 --> 00:05:02,239
+I felt.
+
+78
+00:05:02,239 --> 00:05:03,239
+That would be too much.
+
+79
+00:05:03,239 --> 00:05:04,239
+Yeah.
+
+80
+00:05:04,239 --> 00:05:05,239
+It would be too much.
+
+81
+00:05:05,239 --> 00:05:06,239
+Exactly.
+
+82
+00:05:06,239 --> 00:05:07,239
+And also it would just be nice.
+
+83
+00:05:07,239 --> 00:05:12,119
+It's a bit slow and maybe people are looking for something interesting to do.
+
+84
+00:05:12,119 --> 00:05:16,679
+And also, you know, I just had some time myself after Christmas to, you know, define the challenge
+
+85
+00:05:16,679 --> 00:05:21,000
+and that's why I said, okay, let's do it during January and see what people do with it.
+
+86
+00:05:21,000 --> 00:05:24,600
+I want to go now talk a bit about rules, right?
+
+87
+00:05:24,600 --> 00:05:27,160
+You wrote these rules.
+
+88
+00:05:27,160 --> 00:05:29,519
+And first rule, there might be more.
+
+89
+00:05:29,519 --> 00:05:35,160
+I think I wrote out three of them, but there might be a few like technical details.
+
+90
+00:05:35,160 --> 00:05:36,839
+First one is no external libraries.
+
+91
+00:05:37,440 --> 00:05:38,440
+Yes, exactly.
+
+92
+00:05:38,440 --> 00:05:39,440
+Why is that?
+
+93
+00:05:39,440 --> 00:05:40,720
+Mostly, well, for two reasons, really.
+
+94
+00:05:40,720 --> 00:05:45,880
+So one of, I mean, the goal of that was, well, to, you know, provide people and also myself,
+
+95
+00:05:45,880 --> 00:05:53,119
+frankly speaking with the means to learn something new and find out about new APIs in Java, you
+
+96
+00:05:53,119 --> 00:05:59,000
+know, the new possibilities like foreign memory and foreign function API, vector API.
+
+97
+00:05:59,000 --> 00:06:00,000
+So learn about those things.
+
+98
+00:06:00,000 --> 00:06:04,320
+And if you were just to use an external library, I mean, there would not be that much learning.
+
+99
+00:06:04,600 --> 00:06:08,720
+I mean, you would learn about that library maybe, but I think, you know, it makes more
+
+100
+00:06:08,720 --> 00:06:12,799
+sense to do it yourself and like really dig into that and like finding out about all the
+
+101
+00:06:12,799 --> 00:06:14,119
+possible optimizations.
+
+102
+00:06:14,119 --> 00:06:15,440
+So that was the one reason.
+
+103
+00:06:15,440 --> 00:06:19,600
+And then the other reason, well, just for me, I wanted to, you know, keep things manageable
+
+104
+00:06:19,600 --> 00:06:21,600
+in terms of evaluating this.
+
+105
+00:06:21,600 --> 00:06:25,440
+So I felt, okay, if it's just like a thing, so this was another precondition, a single
+
+106
+00:06:25,440 --> 00:06:29,920
+source file, so I can look at it, the entire code is there, you know, so nobody is running
+
+107
+00:06:29,920 --> 00:06:32,480
+their Bitcoin miner in the library on my environment.
+
+108
+00:06:32,720 --> 00:06:34,160
+Also was a reason to do that.
+
+109
+00:06:34,160 --> 00:06:41,760
+And one rule perhaps that kind of like stands out, I guess a bit is this, it needs to be
+
+110
+00:06:41,760 --> 00:06:42,959
+done in application time.
+
+111
+00:06:42,959 --> 00:06:46,959
+So nothing extreme in compilation time or anything like that.
+
+112
+00:06:46,959 --> 00:06:50,079
+So everything needs to happen in runtime and runtime only, right?
+
+113
+00:06:50,079 --> 00:06:50,559
+Yes.
+
+114
+00:06:50,559 --> 00:06:51,119
+Right.
+
+115
+00:06:51,119 --> 00:06:55,119
+So, and this was there because, I mean, how would you draw the line otherwise, right?
+
+116
+00:06:55,119 --> 00:07:02,959
+Because let's say, then I could just go solve the task once, store the result in a file,
+
+117
+00:07:02,959 --> 00:07:07,200
+and then my actual measured run would just load that file and like print out the numbers
+
+118
+00:07:07,200 --> 00:07:07,600
+from that.
+
+119
+00:07:07,600 --> 00:07:08,799
+That would be kind of pointless, right?
+
+120
+00:07:08,799 --> 00:07:10,640
+That's why I said, like, you cannot keep state.
+
+121
+00:07:11,519 --> 00:07:13,119
+It needs all to happen at runtime.
+
+122
+00:07:14,160 --> 00:07:15,440
+And that's what it was.
+
+123
+00:07:15,440 --> 00:07:18,399
+And we're still talking a bit about rules.
+
+124
+00:07:19,040 --> 00:07:26,959
+The, you can get the sample data, you can generate the sample data, but in the like
+
+125
+00:07:26,959 --> 00:07:32,079
+test runs or benchmarking runs that you actually do, do they run on the same sample data or
+
+126
+00:07:32,079 --> 00:07:33,920
+how does the sampling of the data works?
+
+127
+00:07:33,920 --> 00:07:34,239
+Right.
+
+128
+00:07:34,239 --> 00:07:38,480
+So this is actually a very interesting question because people did something which I did not
+
+129
+00:07:38,480 --> 00:07:41,440
+expect, which just goes to show my own naivete when it comes to that.
+
+130
+00:07:42,000 --> 00:07:47,119
+But so, yes, I had this data generator and this was there for practical reasons, because
+
+131
+00:07:47,119 --> 00:07:50,640
+I felt I cannot distribute a 30 gigabytes file.
+
+132
+00:07:51,200 --> 00:07:54,559
+I guess I could have done a bit more or whatever, but so I thought, okay, people should just
+
+133
+00:07:54,559 --> 00:07:55,839
+generate themselves.
+
+134
+00:07:55,839 --> 00:07:58,720
+And then I don't have this distribution problem.
+
+135
+00:07:58,720 --> 00:08:03,600
+Now, the challenge was that this used a very specific key set.
+
+136
+00:08:03,600 --> 00:08:11,200
+So I went to Wikipedia, I dug out like 400 something different weather station names
+
+137
+00:08:11,200 --> 00:08:15,760
+and like the average temperature, which actually exists at this location.
+
+138
+00:08:15,760 --> 00:08:20,640
+And then the generator would create like a normal distribution of random values.
+
+139
+00:08:20,640 --> 00:08:23,760
+You did actually put more effort into making it realistic.
+
+140
+00:08:23,760 --> 00:08:24,079
+Exactly.
+
+141
+00:08:24,079 --> 00:08:25,519
+So it's somewhat realistic.
+
+142
+00:08:26,880 --> 00:08:30,239
+And now people optimize a lot for that specific key set.
+
+143
+00:08:31,040 --> 00:08:35,599
+So, you know, they, and I assumed, okay, this, those are just examples.
+
+144
+00:08:35,599 --> 00:08:40,320
+You shouldn't like make any assumptions about these station names, but people optimized
+
+145
+00:08:40,320 --> 00:08:44,559
+a lot by, you know, choosing specific hash functions, which are collision free for those
+
+146
+00:08:45,280 --> 00:08:47,200
+names and this kind of stuff.
+
+147
+00:08:47,200 --> 00:08:52,239
+And so, which is then in the end, we had like another evaluation where we actually ran against
+
+148
+00:08:52,239 --> 00:08:55,760
+like 10 K different stations, also like longer names and so on.
+
+149
+00:08:55,760 --> 00:08:59,599
+And then actually the leaderboard also was a bit looking different between those guys
+
+150
+00:08:59,599 --> 00:09:05,359
+who, you know, very much optimized for the specific key set versus those guys who tried
+
+151
+00:09:05,359 --> 00:09:08,320
+to solve it in a generic way, as good as possible.
+
+152
+00:09:08,320 --> 00:09:12,159
+And then there are a bit, okay, these are like rules, but then there you have like,
+
+153
+00:09:12,159 --> 00:09:14,159
+you have like few hints in there.
+
+154
+00:09:14,159 --> 00:09:19,039
+So it's UTF-8 and there's only 10,000 cities.
+
+155
+00:09:19,039 --> 00:09:19,280
+Yes.
+
+156
+00:09:19,919 --> 00:09:20,080
+Right.
+
+157
+00:09:21,520 --> 00:09:22,080
+Right.
+
+158
+00:09:22,080 --> 00:09:23,760
+And people ask for that.
+
+159
+00:09:23,760 --> 00:09:25,919
+So to be honest, this didn't exist initially.
+
+160
+00:09:26,719 --> 00:09:29,760
+I wasn't really thinking that much, but then people asked me, yes.
+
+161
+00:09:29,760 --> 00:09:30,960
+How many stations can there be?
+
+162
+00:09:30,960 --> 00:09:35,119
+Because they wanted to know how large the table is, table B and stuff like that.
+
+163
+00:09:35,119 --> 00:09:36,479
+How long can those names be?
+
+164
+00:09:37,359 --> 00:09:41,599
+What's, you know, very specific questions around like encoding and so on.
+
+165
+00:09:41,599 --> 00:09:45,599
+And then I tried to, you know, put some rules into place.
+
+166
+00:09:45,599 --> 00:09:50,880
+And the challenge then was, of course, people had already submitted entries at this point.
+
+167
+00:09:50,880 --> 00:09:55,520
+And so I also didn't want to create a frustration for those who already had entered,
+
+168
+00:09:56,159 --> 00:09:57,760
+like by invalidating them.
+
+169
+00:09:57,760 --> 00:09:59,840
+So it was a bit of a balance to, yes.
+
+170
+00:09:59,840 --> 00:10:00,080
+Okay.
+
+171
+00:10:00,080 --> 00:10:06,400
+We want to make it more specific without invalidating existing entries too much.
+
+172
+00:10:06,400 --> 00:10:07,599
+I mean, there was a little bit of that.
+
+173
+00:10:07,599 --> 00:10:07,760
+Yeah.
+
+174
+00:10:07,760 --> 00:10:09,919
+You're kind of like, you're modeling the rules.
+
+175
+00:10:10,799 --> 00:10:15,039
+It was a bit like, you know, building out the plane while you already are flying.
+
+176
+00:10:15,039 --> 00:10:15,280
+Yeah.
+
+177
+00:10:15,280 --> 00:10:17,679
+Common problems when inventing a new sport.
+
+178
+00:10:18,640 --> 00:10:21,280
+What about AO?
+
+179
+00:10:22,320 --> 00:10:26,080
+So the, the, the disk performance and stuff like that.
+
+180
+00:10:26,080 --> 00:10:26,239
+Yes.
+
+181
+00:10:26,239 --> 00:10:26,960
+So IO, right?
+
+182
+00:10:28,799 --> 00:10:29,119
+Yes.
+
+183
+00:10:29,119 --> 00:10:32,960
+So this is a very purposefully, not a part of the challenge.
+
+184
+00:10:32,960 --> 00:10:38,400
+So the way it is designed is, so initially I said, okay, I want to do like five or runs
+
+185
+00:10:38,400 --> 00:10:43,359
+of each entry and I will discard the slowest and the fastest run.
+
+186
+00:10:43,359 --> 00:10:47,760
+And I will then, you know, from the remaining three runs, the meantime, that's, that's the
+
+187
+00:10:47,760 --> 00:10:48,880
+measured time.
+
+188
+00:10:48,880 --> 00:10:53,919
+And the idea is that the slowest run would load the file into the page cache of the machine.
+
+189
+00:10:54,799 --> 00:10:58,719
+And from there, it's always served from REM so that IO isn't part of the equation.
+
+190
+00:10:58,719 --> 00:11:03,440
+And later on, I actually made it even more explicit and I just retrieved the file from
+
+191
+00:11:03,440 --> 00:11:04,320
+REM disk.
+
+192
+00:11:04,320 --> 00:11:06,559
+So it's always guaranteed to come from memory.
+
+193
+00:11:06,559 --> 00:11:10,080
+The reason being, I just felt, okay, IO is harder to measure.
+
+194
+00:11:10,080 --> 00:11:15,359
+And I also wanted to be, this is a CPU bound problem and people should spend their time
+
+195
+00:11:15,359 --> 00:11:18,960
+to, you know, CPU optimize and not the IO path.
+
+196
+00:11:18,960 --> 00:11:22,239
+But maybe there could be a challenge also geared towards that.
+
+197
+00:11:22,239 --> 00:11:24,799
+But then I think it's also a bit more complex to run.
+
+198
+00:11:24,799 --> 00:11:26,400
+So that's why I decided against it this time.
+
+199
+00:11:27,200 --> 00:11:27,440
+Yeah.
+
+200
+00:11:27,440 --> 00:11:30,239
+Probably there is a problem with controlling the environment.
+
+201
+00:11:30,239 --> 00:11:32,960
+Did you have, have you had any like problems with that?
+
+202
+00:11:33,520 --> 00:11:33,840
+Yes.
+
+203
+00:11:33,840 --> 00:11:34,640
+Funny you should ask.
+
+204
+00:11:34,640 --> 00:11:36,320
+I, I, I certainly did.
+
+205
+00:11:36,320 --> 00:11:43,119
+So what happened is I, you know, I was trying to be cheap because I paid initially for it
+
+206
+00:11:43,119 --> 00:11:43,840
+out of my own pocket.
+
+207
+00:11:43,840 --> 00:11:48,479
+So what I ended up doing is I got a virtual environment on Hetzner cloud.
+
+208
+00:11:48,479 --> 00:11:52,640
+It's a German cloud provider, like really, you know, fairly priced.
+
+209
+00:11:53,359 --> 00:11:56,559
+And I thought, okay, I want to have exclusive CPU calls, right?
+
+210
+00:11:56,559 --> 00:11:59,520
+I don't want to have like noise neighbor issues and like competing workloads.
+
+211
+00:11:59,520 --> 00:12:04,559
+So let me do dedicated CPU cores, but then I should be fine with this virtual environment.
+
+212
+00:12:04,559 --> 00:12:10,559
+Also, I thought, because what happened is at some point I woke up the next day, like,
+
+213
+00:12:10,559 --> 00:12:14,880
+you know, 40 more PRs or whatever waiting for review.
+
+214
+00:12:14,880 --> 00:12:18,880
+And I ran the evaluation scripts and like, I realized, oh, all those times are off.
+
+215
+00:12:18,880 --> 00:12:21,679
+Like everything is like suddenly twice as fast as before.
+
+216
+00:12:21,679 --> 00:12:25,359
+So I ran like an existing entry and it wasn't running in half of the time.
+
+217
+00:12:25,359 --> 00:12:27,200
+And I was going, well, what's, what's going on?
+
+218
+00:12:27,919 --> 00:12:29,039
+What's happening here?
+
+219
+00:12:29,039 --> 00:12:31,440
+And actually I filed even a support ticket with them.
+
+220
+00:12:31,760 --> 00:12:35,440
+And yeah, they told me, so they moved this workload to a different host.
+
+221
+00:12:36,000 --> 00:12:41,280
+So even with my dedicated course, they were just better course, like from one day to another.
+
+222
+00:12:41,919 --> 00:12:45,359
+And then all my measurements were off and I had to redo it.
+
+223
+00:12:45,359 --> 00:12:49,200
+And at that point, well, I decided, okay, I need to get like a dedicated box, which,
+
+224
+00:12:49,200 --> 00:12:53,119
+you know, I really manage or which I can manage together with the community.
+
+225
+00:12:53,119 --> 00:12:54,880
+So nothing can happen to that.
+
+226
+00:12:55,840 --> 00:12:56,640
+So that's what we did.
+
+227
+00:12:56,640 --> 00:12:59,760
+And of course it was a bit of a challenge to A, just get it.
+
+228
+00:12:59,760 --> 00:13:03,679
+It's more expensive, of course, thankfully Decodable helped to sponsor it.
+
+229
+00:13:03,679 --> 00:13:07,039
+And then also I just needed to get help with managing it because for instance,
+
+230
+00:13:07,039 --> 00:13:09,280
+I wanted to turn off the turbo boost.
+
+231
+00:13:09,280 --> 00:13:13,280
+I wanted to disable hyper-threading to make it more comparable.
+
+232
+00:13:13,280 --> 00:13:16,640
+And people from the community came and helped with it.
+
+233
+00:13:16,640 --> 00:13:21,359
+So at some point I asked on Twitter, so hey, can, is there anybody who can help me with it?
+
+234
+00:13:21,359 --> 00:13:26,320
+And Rene, who I didn't know before he reached out and he said, yeah, I can help you.
+
+235
+00:13:26,320 --> 00:13:32,320
+So we made a phone call and we, you know, I told about the things I needed to get done
+
+236
+00:13:32,320 --> 00:13:34,159
+and he was saying, yeah, I can do all that.
+
+237
+00:13:34,159 --> 00:13:36,799
+And so he sent me his SSH key.
+
+238
+00:13:36,799 --> 00:13:38,960
+I uploaded his SSH key to the environment.
+
+239
+00:13:38,960 --> 00:13:41,280
+We had never before, never met before.
+
+240
+00:13:41,280 --> 00:13:45,039
+So I gave him the key to the kingdom and, you know, he just did the right thing.
+
+241
+00:13:45,039 --> 00:13:49,200
+And it was just great to see how it can work with the community.
+
+242
+00:13:49,200 --> 00:13:52,559
+Can you tell us a bit more about how you evaluate these things?
+
+243
+00:13:52,559 --> 00:13:56,559
+Do you run them like sequentially, daily, like?
+
+244
+00:13:57,760 --> 00:13:58,000
+Yeah.
+
+245
+00:13:58,640 --> 00:14:04,080
+So what happened is I ran them when a new entry came in or when an entry was updated.
+
+246
+00:14:04,080 --> 00:14:05,919
+So it would do a GitHub pull request.
+
+247
+00:14:06,479 --> 00:14:13,119
+And at this point in time, I would create the, I would run this entry.
+
+248
+00:14:13,119 --> 00:14:13,760
+Okay.
+
+249
+00:14:13,760 --> 00:14:18,880
+And I had some shell scripting for that, you know, which made sure like the environment
+
+250
+00:14:18,880 --> 00:14:24,000
+is configured correctly, which made sure like the correct number of CPU cores is used,
+
+251
+00:14:24,880 --> 00:14:27,119
+which ran the test suite, which we had at some point.
+
+252
+00:14:27,119 --> 00:14:29,440
+So it was like invoking a single shell script,
+
+253
+00:14:30,080 --> 00:14:34,320
+which again folks from the community built to make this as easy as possible.
+
+254
+00:14:34,320 --> 00:14:38,559
+Are you using any kind of like benchmarking tools or is just like start time, end time?
+
+255
+00:14:38,559 --> 00:14:40,239
+No, there was a benchmark tool.
+
+256
+00:14:40,239 --> 00:14:41,919
+Now I'm blanking on the name.
+
+257
+00:14:42,559 --> 00:14:43,599
+I really should know.
+
+258
+00:14:43,599 --> 00:14:45,760
+But it's like a Java specific.
+
+259
+00:14:45,760 --> 00:14:52,479
+No generic Linux tool for just like running, you know, process a couple of times and then,
+
+260
+00:14:54,239 --> 00:14:56,960
+you know, calculating like the average value and stuff.
+
+261
+00:14:57,919 --> 00:14:58,239
+Okay.
+
+262
+00:15:00,880 --> 00:15:04,080
+I got some technical hints, but I'm not sure what he wants to tell me.
+
+263
+00:15:07,280 --> 00:15:08,080
+When you are...
+
+264
+00:15:10,559 --> 00:15:14,559
+I think he's like, can you please not touch microphone like you are doing it right now?
+
+265
+00:15:15,440 --> 00:15:15,919
+Don't do that.
+
+266
+00:15:17,039 --> 00:15:19,039
+Problem is it's sliding slightly.
+
+267
+00:15:19,599 --> 00:15:19,919
+Okay.
+
+268
+00:15:21,280 --> 00:15:25,440
+I would like to move like from benchmarking perspective.
+
+269
+00:15:27,039 --> 00:15:36,479
+Like if you should like re-evaluate all the solutions or only by submissions, like if you
+
+270
+00:15:36,479 --> 00:15:42,559
+change the underlying system that runs it, like is there a time when you rerun all of them or
+
+271
+00:15:42,559 --> 00:15:45,599
+like I do nightly runs or things like that?
+
+272
+00:15:45,599 --> 00:15:45,760
+Right.
+
+273
+00:15:45,760 --> 00:15:46,880
+So I could do that.
+
+274
+00:15:46,880 --> 00:15:52,719
+So actually the scripting infrastructure allowed to rerun any number of entries or
+
+275
+00:15:52,719 --> 00:15:53,840
+all of them if I wanted to.
+
+276
+00:15:55,200 --> 00:15:57,359
+And I did it typically.
+
+277
+00:15:58,000 --> 00:16:02,479
+I mean, so the thing is, I wasn't initially, I wasn't really interested that much in this
+
+278
+00:16:02,479 --> 00:16:04,559
+leaderboard and like, who is the fastest?
+
+279
+00:16:04,559 --> 00:16:08,640
+For me, it was more, Hey, let's learn about this stuff and find out something.
+
+280
+00:16:08,640 --> 00:16:11,280
+But then people are, I want to be the fastest one, right?
+
+281
+00:16:11,280 --> 00:16:13,599
+So they care a lot about the leaderboard.
+
+282
+00:16:13,599 --> 00:16:18,719
+And so that's why at some point I rerun, let's say the top 25 entries or so with
+
+283
+00:16:18,719 --> 00:16:20,159
+different configurations.
+
+284
+00:16:20,159 --> 00:16:25,599
+For instance, I wanted to run with all the 32 CPU cores with hyper-threading and so on.
+
+285
+00:16:26,239 --> 00:16:30,799
+And so I did that at some point and then, you know, the scripting allowed to rerun those
+
+286
+00:16:30,799 --> 00:16:34,799
+25 or whatever entries with a specific configuration.
+
+287
+00:16:36,239 --> 00:16:39,440
+We'd really love to now jump more to submissions.
+
+288
+00:16:39,440 --> 00:16:39,919
+Yes.
+
+289
+00:16:39,919 --> 00:16:40,799
+Can we do that?
+
+290
+00:16:40,880 --> 00:16:41,599
+Sure.
+
+291
+00:16:41,599 --> 00:16:48,000
+So obviously when I explained first time this challenge to Andras, he said, well, you guy.
+
+292
+00:16:48,000 --> 00:16:54,320
+The funny part was like, I was like, I'm doing that for a customer without actually.
+
+293
+00:16:54,320 --> 00:16:54,820
+Okay.
+
+294
+00:16:55,520 --> 00:16:57,919
+Well, it's not the same.
+
+295
+00:16:57,919 --> 00:17:00,320
+I think there is a bit of a less of data.
+
+296
+00:17:00,320 --> 00:17:03,760
+Explain the customer case, perhaps just so we have like a.
+
+297
+00:17:03,760 --> 00:17:09,599
+We get all the permits from the US, so building permits because there are public data.
+
+298
+00:17:09,599 --> 00:17:13,040
+And then, of course, you get that raw data and you need to normalize it.
+
+299
+00:17:14,640 --> 00:17:22,319
+And the catch is we do not seek for SAP one minute, whatever, right?
+
+300
+00:17:22,319 --> 00:17:28,319
+It just needs to be relatively simple to understand for a senior.
+
+301
+00:17:29,439 --> 00:17:30,640
+We don't want to write.
+
+302
+00:17:31,439 --> 00:17:37,439
+So every line of custom code or regs that I write or whatever complicated, it's not
+
+303
+00:17:37,439 --> 00:17:38,079
+a benefit.
+
+304
+00:17:38,079 --> 00:17:38,880
+It's a curse, right?
+
+305
+00:17:39,680 --> 00:17:40,160
+Yeah.
+
+306
+00:17:40,160 --> 00:17:44,719
+And for so I wasn't the author of the solution.
+
+307
+00:17:45,359 --> 00:17:51,359
+There was a funny, funny detail, which is you just basically install out in a Docker
+
+308
+00:17:51,359 --> 00:17:51,920
+container.
+
+309
+00:17:51,920 --> 00:17:55,760
+And then I think it was like not that complicated code.
+
+310
+00:17:55,760 --> 00:17:56,640
+It's something similar.
+
+311
+00:17:56,640 --> 00:17:59,359
+We split the different states.
+
+312
+00:18:00,959 --> 00:18:02,239
+And yeah, I do it that way.
+
+313
+00:18:02,239 --> 00:18:03,280
+And it runs.
+
+314
+00:18:03,280 --> 00:18:04,079
+I don't know.
+
+315
+00:18:04,079 --> 00:18:05,439
+I don't know the data set.
+
+316
+00:18:05,439 --> 00:18:06,959
+It changes, of course, all the time.
+
+317
+00:18:06,959 --> 00:18:09,359
+Maybe it runs half an hour, but it's OK.
+
+318
+00:18:10,000 --> 00:18:11,119
+It's streaming, right?
+
+319
+00:18:11,119 --> 00:18:13,839
+Because Unix pipelines are basically streams.
+
+320
+00:18:14,880 --> 00:18:16,319
+There is a funny detail.
+
+321
+00:18:16,319 --> 00:18:21,920
+It stopped working when I was moving that to another environment because I was using
+
+322
+00:18:21,920 --> 00:18:29,760
+so that the colleague who wrote it was using GNU, of course, and I don't know what the
+
+323
+00:18:29,760 --> 00:18:35,839
+default installation on a different system was was not working with a silent error, like
+
+324
+00:18:35,839 --> 00:18:39,599
+exiting with zero, not outputting any anything.
+
+325
+00:18:41,280 --> 00:18:43,920
+So, yeah, when I heard of this challenge, I was like, because.
+
+326
+00:18:45,920 --> 00:18:46,880
+I tend to.
+
+327
+00:18:48,880 --> 00:18:52,800
+I understand that you have this challenge, the catch is to learn something new, to optimize
+
+328
+00:18:52,800 --> 00:18:56,079
+really fast, and but I usually look at problems.
+
+329
+00:18:56,719 --> 00:18:58,479
+I'm like, OK, I have this challenge.
+
+330
+00:18:58,479 --> 00:19:02,400
+How can I make it so people will understand it for the next 10 years?
+
+331
+00:19:03,520 --> 00:19:04,239
+Absolutely.
+
+332
+00:19:04,239 --> 00:19:09,760
+And what I observed there in the challenges, I mean, I did a very simple baseline
+
+333
+00:19:09,760 --> 00:19:13,520
+implementation and this one ran like in approximately five minutes.
+
+334
+00:19:13,520 --> 00:19:15,680
+Pretty canonical Java code, I would say.
+
+335
+00:19:15,680 --> 00:19:19,119
+And then like improving all of that by one order of magnitude.
+
+336
+00:19:19,119 --> 00:19:23,359
+So taking it to 20 or 30 seconds, you can do this quite easily.
+
+337
+00:19:23,359 --> 00:19:25,520
+And the code will be still very well readable.
+
+338
+00:19:25,520 --> 00:19:29,280
+So it's code I would write like, you know, every Java programmer would write.
+
+339
+00:19:29,280 --> 00:19:33,439
+And it's easy to understand, easy to maintain.
+
+340
+00:19:33,439 --> 00:19:36,800
+But then if you want to go another order of magnitude, so you want to go down to like
+
+341
+00:19:36,800 --> 00:19:40,800
+one point five seconds, like, you know, top of the level, then it's getting like really
+
+342
+00:19:40,800 --> 00:19:41,599
+crazy.
+
+343
+00:19:41,599 --> 00:19:43,599
+And this is like super dense code.
+
+344
+00:19:43,599 --> 00:19:48,319
+You need like three lines of comments for each line of code to make sense out of it.
+
+345
+00:19:48,959 --> 00:19:52,800
+And I wouldn't recommend people to go there like in their usual day job, I guess.
+
+346
+00:19:52,800 --> 00:19:54,719
+I want to slow you down just a bit.
+
+347
+00:19:54,719 --> 00:19:54,959
+Right.
+
+348
+00:19:54,959 --> 00:19:55,199
+OK.
+
+349
+00:19:55,839 --> 00:19:58,160
+I broke this down to like three levels.
+
+350
+00:19:58,160 --> 00:19:58,400
+OK.
+
+351
+00:19:59,439 --> 00:20:03,359
+So let's take it slowly because we want to go deep on these.
+
+352
+00:20:03,920 --> 00:20:08,479
+Level one would, let's say, be an AOC solution.
+
+353
+00:20:08,479 --> 00:20:08,800
+Right.
+
+354
+00:20:08,800 --> 00:20:11,839
+Or in your case, baseline, you're a Java professional.
+
+355
+00:20:11,839 --> 00:20:13,040
+So obviously five minutes.
+
+356
+00:20:13,040 --> 00:20:19,359
+That's kind of like five minutes, 10 minutes is like average or perhaps more senior engineer
+
+357
+00:20:19,359 --> 00:20:22,160
+would take it like that or do an AOC solution.
+
+358
+00:20:22,160 --> 00:20:30,560
+And that's, we said 12 or 13 gigabytes of file, a billion rows to process.
+
+359
+00:20:31,760 --> 00:20:32,800
+And that's like a baseline.
+
+360
+00:20:33,520 --> 00:20:38,640
+How far on the list of top submissions would that get you?
+
+361
+00:20:38,640 --> 00:20:40,959
+Would that get you in the top 25 even or?
+
+362
+00:20:42,000 --> 00:20:42,239
+No.
+
+363
+00:20:42,239 --> 00:20:44,800
+As is today, no.
+
+364
+00:20:44,800 --> 00:20:47,439
+You would be very much at the end.
+
+365
+00:20:47,439 --> 00:20:48,319
+At the end of it.
+
+366
+00:20:48,319 --> 00:20:49,280
+Sort of socialized.
+
+367
+00:20:49,280 --> 00:20:55,119
+I don't know, to be at the top 20 or so or maybe top 30 would have to be below 10 seconds.
+
+368
+00:20:55,119 --> 00:20:56,479
+Below 10 seconds.
+
+369
+00:20:56,479 --> 00:20:56,800
+OK.
+
+370
+00:20:57,439 --> 00:20:57,760
+OK.
+
+371
+00:20:58,719 --> 00:21:03,920
+We spoke in this conference with three engineers that did take the challenge.
+
+372
+00:21:04,959 --> 00:21:07,199
+We spoke with two senior engineers.
+
+373
+00:21:07,760 --> 00:21:10,000
+Best times we have is around a minute.
+
+374
+00:21:10,000 --> 00:21:10,560
+OK.
+
+375
+00:21:10,560 --> 00:21:13,680
+And 74 seconds.
+
+376
+00:21:13,680 --> 00:21:15,359
+So these are like Slovenian times.
+
+377
+00:21:15,359 --> 00:21:15,599
+OK.
+
+378
+00:21:17,520 --> 00:21:18,400
+It's impressive.
+
+379
+00:21:18,400 --> 00:21:20,479
+I mean, my own implementation was like five minutes.
+
+380
+00:21:20,479 --> 00:21:21,680
+I'm at the end of the leaderboard.
+
+381
+00:21:22,479 --> 00:21:24,000
+I was always the slowest one.
+
+382
+00:21:24,160 --> 00:21:32,160
+And both of these solutions that are like still very good in the leaderboards.
+
+383
+00:21:32,160 --> 00:21:36,160
+Both of these solutions are, as you said, readable.
+
+384
+00:21:36,160 --> 00:21:36,400
+Right.
+
+385
+00:21:36,400 --> 00:21:38,000
+So people can understand them.
+
+386
+00:21:38,000 --> 00:21:41,040
+They're like still single file, standard APIs.
+
+387
+00:21:41,680 --> 00:21:45,280
+You can maintain them and it's good, good modern Java code.
+
+388
+00:21:45,280 --> 00:21:48,560
+I think it uses GraalVM as well in both cases, but it's cool.
+
+389
+00:21:48,560 --> 00:21:50,880
+So if you write like that, you're good.
+
+390
+00:21:51,760 --> 00:21:52,880
+Yeah, totally.
+
+391
+00:21:52,959 --> 00:21:54,479
+It totally depends on what you want to do.
+
+392
+00:21:54,479 --> 00:21:54,640
+Right.
+
+393
+00:21:54,640 --> 00:21:58,640
+So if you need to run this like once per week or whatever, it's perfectly fine.
+
+394
+00:21:58,640 --> 00:22:02,959
+If you want to win a coffee mug in a challenge, you probably need to do some more.
+
+395
+00:22:04,479 --> 00:22:05,280
+OK.
+
+396
+00:22:05,280 --> 00:22:08,319
+But now let's go to level below.
+
+397
+00:22:08,319 --> 00:22:08,479
+Right.
+
+398
+00:22:08,479 --> 00:22:08,800
+OK.
+
+399
+00:22:09,439 --> 00:22:12,560
+We also spoke with Peter Levert.
+
+400
+00:22:13,199 --> 00:22:15,040
+He's a Slovenian guy.
+
+401
+00:22:15,040 --> 00:22:15,439
+OK.
+
+402
+00:22:15,439 --> 00:22:17,280
+He's the best Slovenian guy.
+
+403
+00:22:17,280 --> 00:22:18,000
+Oh, nice.
+
+404
+00:22:18,000 --> 00:22:21,520
+His time is four seconds and 209 milliseconds.
+
+405
+00:22:21,520 --> 00:22:22,800
+That's really good.
+
+406
+00:22:23,760 --> 00:22:29,199
+Yesterday we had a pleasure of talking to him and he guides us through the whole solution.
+
+407
+00:22:29,199 --> 00:22:29,359
+Right.
+
+408
+00:22:29,359 --> 00:22:29,920
+That he wrote.
+
+409
+00:22:31,199 --> 00:22:34,079
+I will not pretend that I understand all of this.
+
+410
+00:22:34,079 --> 00:22:35,119
+It's really dense code.
+
+411
+00:22:35,119 --> 00:22:38,319
+So for four seconds, it has to be like really, really tough.
+
+412
+00:22:38,319 --> 00:22:43,680
+What was really surprising was that he aimed to build a solution of his,
+
+413
+00:22:43,680 --> 00:22:45,199
+and I'll link all this stuff there below.
+
+414
+00:22:46,479 --> 00:22:49,520
+He tried to aim to not use unsafe.
+
+415
+00:22:49,520 --> 00:22:51,760
+So he still uses Java APIs.
+
+416
+00:22:53,760 --> 00:22:59,280
+But we can perhaps break down his solution just a bit, or at least what I called,
+
+417
+00:22:59,280 --> 00:23:01,040
+but you can expand it.
+
+418
+00:23:01,040 --> 00:23:05,119
+So first thing is like memory mapping.
+
+419
+00:23:05,119 --> 00:23:05,439
+Right.
+
+420
+00:23:05,439 --> 00:23:09,520
+That's something that I think it gets common when you go below these numbers.
+
+421
+00:23:10,160 --> 00:23:14,880
+And the idea there is that what you read a file and you map it into a memory.
+
+422
+00:23:14,880 --> 00:23:15,280
+Right.
+
+423
+00:23:15,280 --> 00:23:17,359
+And then you start walking around.
+
+424
+00:23:17,359 --> 00:23:17,599
+Right.
+
+425
+00:23:17,599 --> 00:23:18,400
+What was the idea there?
+
+426
+00:23:18,400 --> 00:23:20,319
+Can you tell us more about that?
+
+427
+00:23:20,400 --> 00:23:24,319
+So, I mean, what pretty much most people did at the top of the leaderboard was yes,
+
+428
+00:23:24,319 --> 00:23:28,959
+to memory map the file and it will be mapped into off heap memory,
+
+429
+00:23:28,959 --> 00:23:34,239
+which means that there is no garbage collection, you know, interfering with that.
+
+430
+00:23:34,239 --> 00:23:39,199
+You are just in control of managing that by yourself.
+
+431
+00:23:39,199 --> 00:23:46,479
+There's a new Java API, the foreign function and memory API, which people used,
+
+432
+00:23:46,479 --> 00:23:53,839
+which allows it amongst other things to map this entire 13 gig file into one memory segment.
+
+433
+00:23:53,839 --> 00:23:59,280
+So before you also could do memory map files with Java, but you were limited to two gigabytes
+
+434
+00:23:59,280 --> 00:24:01,599
+with the direct byte buffer in the past.
+
+435
+00:24:01,599 --> 00:24:04,560
+And nowadays you can, you know, map the entire thing all at once.
+
+436
+00:24:04,560 --> 00:24:05,760
+No garbage collection.
+
+437
+00:24:05,760 --> 00:24:08,719
+And yes, that's what people did.
+
+438
+00:24:09,680 --> 00:24:12,479
+From which version of Java do you get these things?
+
+439
+00:24:13,040 --> 00:24:19,280
+Uh, it's, I'm not sure when it got promoted to stable, but recently, maybe like 20 or 21,
+
+440
+00:24:19,280 --> 00:24:22,800
+it got promoted a lot of incubator into the stable one.
+
+441
+00:24:22,800 --> 00:24:27,839
+Uh, we also met the vector APIs here at this stage, right?
+
+442
+00:24:27,839 --> 00:24:28,239
+Right.
+
+443
+00:24:28,239 --> 00:24:30,400
+Can you tell us a bit more what that is?
+
+444
+00:24:30,400 --> 00:24:30,719
+Right.
+
+445
+00:24:30,719 --> 00:24:32,719
+So it's not to be confused with collections.
+
+446
+00:24:32,719 --> 00:24:33,920
+Oh yes, exactly.
+
+447
+00:24:36,880 --> 00:24:40,880
+And this actually was one of the things I was really hoping that people would use because
+
+448
+00:24:40,880 --> 00:24:43,839
+personally, I'm just super interested in it and people did use it.
+
+449
+00:24:43,839 --> 00:24:44,319
+Yes.
+
+450
+00:24:44,319 --> 00:24:50,560
+So the idea there is that your CPUs, they have extensions to the instruction sets,
+
+451
+00:24:50,560 --> 00:24:56,640
+which allow to apply the same operation to multiple operands at once.
+
+452
+00:24:56,640 --> 00:24:59,760
+So you can do the same thing for multiple values.
+
+453
+00:25:00,000 --> 00:25:03,540
+in parallel, and you know, if you apply the same operation,
+
+454
+00:25:03,540 --> 00:25:07,600
+like a comparison or whatever, to eight operands at once,
+
+455
+00:25:07,600 --> 00:25:09,880
+you know, this might be eight times faster in theory.
+
+456
+00:25:09,880 --> 00:25:11,600
+And this is called SIMD,
+
+457
+00:25:11,600 --> 00:25:14,280
+so single instruction, multiple data.
+
+458
+00:25:14,280 --> 00:25:18,200
+And so, you know, things like Intel CPUs,
+
+459
+00:25:18,200 --> 00:25:23,200
+they have AVX2 with AVX512 instruction set extensions,
+
+460
+00:25:23,280 --> 00:25:27,680
+which provide a wide range of those vectorized operations.
+
+461
+00:25:27,680 --> 00:25:32,639
+And the thing is, in Java, until recently,
+
+462
+00:25:32,639 --> 00:25:36,200
+you couldn't really use those extensions,
+
+463
+00:25:36,200 --> 00:25:37,919
+not directly as a Java developer.
+
+464
+00:25:37,919 --> 00:25:42,080
+So the Java compiler would auto-vectorize code
+
+465
+00:25:42,080 --> 00:25:44,080
+in specific situations.
+
+466
+00:25:44,080 --> 00:25:45,799
+If it, you know, you had like a loop,
+
+467
+00:25:45,799 --> 00:25:47,919
+and the compiler would detect specific patterns,
+
+468
+00:25:47,919 --> 00:25:50,720
+then it might be able to emit vectorized code,
+
+469
+00:25:50,720 --> 00:25:52,759
+which make use of those SIMD instructions.
+
+470
+00:25:52,759 --> 00:25:56,480
+But you, as a application developer, you couldn't use that.
+
+471
+00:25:56,480 --> 00:25:59,040
+And this is changing now with this vector API,
+
+472
+00:25:59,040 --> 00:26:00,279
+and it's still in incubating state,
+
+473
+00:26:00,279 --> 00:26:03,720
+I think like the eighth or ninth incubating release.
+
+474
+00:26:03,720 --> 00:26:05,199
+So it's, you know, baking for some time,
+
+475
+00:26:05,199 --> 00:26:07,879
+but you can use it already as a preview feature.
+
+476
+00:26:07,879 --> 00:26:09,919
+And the interesting thing there is,
+
+477
+00:26:09,919 --> 00:26:12,000
+you can now do those things.
+
+478
+00:26:12,000 --> 00:26:14,279
+You can say, okay, I want to, you know,
+
+479
+00:26:14,279 --> 00:26:16,760
+I want to look for a line-ending byte
+
+480
+00:26:16,760 --> 00:26:21,519
+in eight or 16 bytes at once.
+
+481
+00:26:21,519 --> 00:26:25,879
+And the nice thing about this is, this is a Java API,
+
+482
+00:26:25,879 --> 00:26:28,959
+so it's portable because with other languages,
+
+483
+00:26:28,959 --> 00:26:32,559
+let's say Rust or C, you also can use those instructions,
+
+484
+00:26:32,559 --> 00:26:35,040
+but you would go down essentially to assembly level,
+
+485
+00:26:35,040 --> 00:26:38,199
+and you would be specific to the architecture
+
+486
+00:26:38,199 --> 00:26:40,919
+you're running on, and your program wouldn't be portable.
+
+487
+00:26:40,919 --> 00:26:43,279
+Whereas with the Java API, it actually is portable
+
+488
+00:26:43,279 --> 00:26:45,599
+because the JVM takes care of, you know,
+
+489
+00:26:45,599 --> 00:26:47,440
+compiling this to Intel instructions
+
+490
+00:26:47,440 --> 00:26:50,360
+or Neon instructions on ARM.
+
+491
+00:26:50,360 --> 00:26:52,800
+And now I feel like we, as Java developers,
+
+492
+00:26:52,800 --> 00:26:54,519
+actually are at an advantage
+
+493
+00:26:54,519 --> 00:26:57,239
+because we can use vectorized APIs
+
+494
+00:26:57,239 --> 00:26:59,800
+and still we are portable across platforms.
+
+495
+00:26:59,800 --> 00:27:00,639
+Beautiful.
+
+496
+00:27:00,639 --> 00:27:03,519
+Would you say that that's like readable?
+
+497
+00:27:03,519 --> 00:27:04,680
+Oh yeah, I think it's-
+
+498
+00:27:04,680 --> 00:27:06,559
+Like for the level of-
+
+499
+00:27:06,559 --> 00:27:07,760
+Right, I mean, you need to get
+
+500
+00:27:07,760 --> 00:27:08,960
+a little bit of hang of it, right?
+
+501
+00:27:08,960 --> 00:27:11,520
+To understand, okay, I want to, you know,
+
+502
+00:27:11,520 --> 00:27:14,440
+work on multiple elements of an array at the same time.
+
+503
+00:27:14,440 --> 00:27:16,839
+Then there's also this thing like,
+
+504
+00:27:16,839 --> 00:27:18,960
+you always have like a remainder of your data.
+
+505
+00:27:18,960 --> 00:27:20,520
+So let's say for the sake of the example,
+
+506
+00:27:20,520 --> 00:27:23,919
+you work on an array, which is like 20 bytes long,
+
+507
+00:27:23,919 --> 00:27:25,839
+and you can process eight bytes
+
+508
+00:27:25,839 --> 00:27:27,199
+with vectorized instructions.
+
+509
+00:27:27,199 --> 00:27:29,320
+So you can do this twice, like first eight,
+
+510
+00:27:29,320 --> 00:27:31,880
+second eight, and then you have like four bytes left.
+
+511
+00:27:31,880 --> 00:27:34,199
+And then you typically have to do this
+
+512
+00:27:34,199 --> 00:27:38,000
+like in a scalar way, you know, for the remainder.
+
+513
+00:27:38,000 --> 00:27:41,279
+So there's, you know, things you need to understand
+
+514
+00:27:41,279 --> 00:27:43,399
+and make you like learn about.
+
+515
+00:27:43,399 --> 00:27:44,919
+But overall, I feel it's code,
+
+516
+00:27:44,919 --> 00:27:46,759
+which still is fairly readable, yes.
+
+517
+00:27:46,759 --> 00:27:47,600
+Awesome.
+
+518
+00:27:48,639 --> 00:27:52,600
+The other thing next to memory mapping vectorization
+
+519
+00:27:52,600 --> 00:27:54,639
+is usage of parallelism.
+
+520
+00:27:54,639 --> 00:27:57,880
+So parallelize as much as computation as possible.
+
+521
+00:27:57,880 --> 00:27:58,720
+Right.
+
+522
+00:27:58,720 --> 00:28:01,479
+That is also, plays a big role in this optimization.
+
+523
+00:28:01,479 --> 00:28:03,039
+At least that's my impression.
+
+524
+00:28:03,039 --> 00:28:03,880
+Yes, absolutely.
+
+525
+00:28:03,880 --> 00:28:08,320
+So you want to make use of all the CPU resources you have.
+
+526
+00:28:09,240 --> 00:28:12,320
+And so coming back to like readable
+
+527
+00:28:12,320 --> 00:28:14,919
+and, you know, maintainable solutions,
+
+528
+00:28:14,919 --> 00:28:16,559
+if you use the Java Streams API,
+
+529
+00:28:16,559 --> 00:28:19,759
+it could be as simple as adding a parallel method call,
+
+530
+00:28:19,759 --> 00:28:21,559
+like, you know, calling this method parallel.
+
+531
+00:28:21,600 --> 00:28:24,520
+And it would be parallelized to those eight cores
+
+532
+00:28:24,520 --> 00:28:27,160
+and gives you a nice speed up.
+
+533
+00:28:27,160 --> 00:28:29,960
+But what's happening there is, well,
+
+534
+00:28:29,960 --> 00:28:33,279
+so the computation would be happening in parallel,
+
+535
+00:28:33,279 --> 00:28:35,080
+but reading the file,
+
+536
+00:28:35,080 --> 00:28:36,919
+that would still be a sequential thing.
+
+537
+00:28:36,919 --> 00:28:40,039
+And this is where it goes back then to the memory map file.
+
+538
+00:28:40,039 --> 00:28:42,399
+So this is something which you need to parallelize yourselves
+
+539
+00:28:42,399 --> 00:28:45,600
+by using like threads and, you know,
+
+540
+00:28:45,600 --> 00:28:48,199
+making sure you process different chunks
+
+541
+00:28:48,199 --> 00:28:50,919
+of that memory segment with different threads
+
+542
+00:28:50,960 --> 00:28:52,800
+and people absolutely did this.
+
+543
+00:28:52,800 --> 00:28:57,039
+I think that, I think you mentioned this from your talk,
+
+544
+00:28:57,039 --> 00:29:00,199
+that your baseline, you can correct me on this,
+
+545
+00:29:00,199 --> 00:29:01,559
+your baseline was five minutes,
+
+546
+00:29:01,559 --> 00:29:04,679
+but with usage of parallel APIs,
+
+547
+00:29:04,679 --> 00:29:07,240
+you managed to get down to one minute with it or?
+
+548
+00:29:07,240 --> 00:29:09,800
+Yeah, so it gets, I forgot to say numbers,
+
+549
+00:29:09,800 --> 00:29:11,119
+but it gets like four times faster.
+
+550
+00:29:11,119 --> 00:29:12,440
+It doesn't get eight times faster
+
+551
+00:29:12,440 --> 00:29:15,000
+because the file reading is not parallelized that way.
+
+552
+00:29:15,000 --> 00:29:17,640
+But still it's a nice payout
+
+553
+00:29:17,640 --> 00:29:19,320
+for like a simple method call, right?
+
+554
+00:29:19,320 --> 00:29:20,160
+Yeah, it's amazing.
+
+555
+00:29:20,160 --> 00:29:22,760
+You basically added just like a dot parallel.
+
+556
+00:29:22,760 --> 00:29:23,600
+Exactly.
+
+557
+00:29:23,600 --> 00:29:24,440
+That was it.
+
+558
+00:29:24,440 --> 00:29:26,519
+And implicitly it is kind of a map reduce,
+
+559
+00:29:26,519 --> 00:29:31,519
+kind of like Wiggly and it's like an insane boost.
+
+560
+00:29:31,559 --> 00:29:32,399
+Yes, exactly.
+
+561
+00:29:32,399 --> 00:29:35,320
+If you compare maybe with other languages,
+
+562
+00:29:35,320 --> 00:29:36,959
+then it would be much more trickier.
+
+563
+00:29:36,959 --> 00:29:37,799
+Right, yeah.
+
+564
+00:29:37,799 --> 00:29:39,799
+So good value for the money, I have to say.
+
+565
+00:29:39,799 --> 00:29:43,799
+Before we jump more into like unsafe world.
+
+566
+00:29:43,799 --> 00:29:44,640
+Oh, yeah.
+
+567
+00:29:45,559 --> 00:29:46,920
+I do want to mention hacks.
+
+568
+00:29:46,920 --> 00:29:49,600
+And like one of the hacks that you,
+
+569
+00:29:50,000 --> 00:29:51,040
+I'm calling it hacks,
+
+570
+00:29:51,040 --> 00:29:55,480
+but, or clever approaches to solving this thing was like,
+
+571
+00:29:55,480 --> 00:29:58,480
+one was where you mentioned that you took names
+
+572
+00:29:58,480 --> 00:30:01,399
+and people consider to the collision, like keys, et cetera.
+
+573
+00:30:02,359 --> 00:30:06,959
+One thing that we, I think was also in Levert's solution
+
+574
+00:30:06,959 --> 00:30:11,239
+was that taking the names of cities
+
+575
+00:30:11,239 --> 00:30:13,239
+was not like very efficient.
+
+576
+00:30:13,239 --> 00:30:14,079
+Right.
+
+577
+00:30:14,079 --> 00:30:15,440
+So he got smart, for example,
+
+578
+00:30:15,440 --> 00:30:17,839
+and he just took like a first character of the name
+
+579
+00:30:17,839 --> 00:30:19,480
+and last character of the name.
+
+580
+00:30:20,239 --> 00:30:21,079
+And use that as a key.
+
+581
+00:30:21,079 --> 00:30:21,920
+Because for example,
+
+582
+00:30:21,920 --> 00:30:23,679
+he found that that's going to consume less memory.
+
+583
+00:30:23,679 --> 00:30:24,640
+It's going to be faster.
+
+584
+00:30:24,640 --> 00:30:27,119
+And it's still kind of like less collision.
+
+585
+00:30:27,119 --> 00:30:32,119
+So people find like these insane optimizations of some kind.
+
+586
+00:30:32,200 --> 00:30:33,959
+And then there's of course the risk
+
+587
+00:30:33,959 --> 00:30:37,040
+that you make assumptions about the specific key set, right?
+
+588
+00:30:37,040 --> 00:30:41,239
+So this might be fine for a specific key set,
+
+589
+00:30:41,239 --> 00:30:43,839
+but a solution was considered only valid
+
+590
+00:30:43,839 --> 00:30:46,079
+if it worked for all possible keys.
+
+591
+00:30:46,079 --> 00:30:47,440
+So doing something like that,
+
+592
+00:30:47,480 --> 00:30:49,519
+you would still have to do like the fallback
+
+593
+00:30:49,519 --> 00:30:52,359
+to comparing the full name.
+
+594
+00:30:52,359 --> 00:30:55,640
+You know, if there's equality in the short version.
+
+595
+00:30:55,640 --> 00:30:58,880
+Yeah, I see like, I'm not sure how like,
+
+596
+00:30:59,799 --> 00:31:02,160
+they're very, these are like extreme optimizations
+
+597
+00:31:02,160 --> 00:31:03,000
+to a degree.
+
+598
+00:31:03,000 --> 00:31:04,600
+So like changing the file format,
+
+599
+00:31:04,600 --> 00:31:07,959
+obviously all this stuff, you wouldn't benefit for it.
+
+600
+00:31:07,959 --> 00:31:09,359
+Changing the values too much.
+
+601
+00:31:09,359 --> 00:31:10,760
+Like all these things,
+
+602
+00:31:10,760 --> 00:31:12,679
+probably the solutions are not that generic.
+
+603
+00:31:12,679 --> 00:31:14,679
+It's like small cheating is like
+
+604
+00:31:14,679 --> 00:31:18,119
+not implementing the whole hash map inside of it,
+
+605
+00:31:18,119 --> 00:31:19,399
+but like doing.
+
+606
+00:31:19,399 --> 00:31:21,920
+Right, I mean, so many people did custom hash maps,
+
+607
+00:31:21,920 --> 00:31:23,359
+custom maps, I should say.
+
+608
+00:31:23,359 --> 00:31:26,000
+And so what happens there is essentially
+
+609
+00:31:26,000 --> 00:31:28,160
+you store the values in an array.
+
+610
+00:31:28,160 --> 00:31:31,239
+You take the hash code of the key
+
+611
+00:31:31,239 --> 00:31:33,399
+to find the index in the array.
+
+612
+00:31:33,399 --> 00:31:35,480
+And then of course you need to handle collisions.
+
+613
+00:31:35,480 --> 00:31:37,279
+So you need to, if you, you know,
+
+614
+00:31:37,279 --> 00:31:39,760
+you go to this array bucket or to this element
+
+615
+00:31:39,760 --> 00:31:41,519
+and there's a value there already,
+
+616
+00:31:41,519 --> 00:31:43,239
+you need to compare, you know, the name.
+
+617
+00:31:43,239 --> 00:31:45,720
+Is this the bucket I want to add to or not?
+
+618
+00:31:45,720 --> 00:31:46,559
+And if it's not,
+
+619
+00:31:46,559 --> 00:31:49,160
+you want to go to the next free slot in the array.
+
+620
+00:31:49,160 --> 00:31:51,399
+And this created a bit of a nightmare for myself
+
+621
+00:31:51,399 --> 00:31:54,279
+because you cannot test for that in an automated way.
+
+622
+00:31:54,279 --> 00:31:57,880
+You cannot prove the absence of hash collisions in a test
+
+623
+00:31:57,880 --> 00:32:01,119
+because people could use arbitrary hash functions,
+
+624
+00:32:01,119 --> 00:32:02,559
+arbitrary seed values.
+
+625
+00:32:02,559 --> 00:32:05,239
+So I always had to review for that.
+
+626
+00:32:05,239 --> 00:32:07,200
+And it was like, you know,
+
+627
+00:32:07,200 --> 00:32:10,000
+quite a bit of effort to understand.
+
+628
+00:32:10,000 --> 00:32:12,720
+So actually in the pull request template at some point,
+
+629
+00:32:12,720 --> 00:32:14,359
+I made a comment.
+
+630
+00:32:14,359 --> 00:32:17,480
+So if you have custom HashMap implementations,
+
+631
+00:32:17,480 --> 00:32:20,480
+point me to the place where you deal with collisions
+
+632
+00:32:20,480 --> 00:32:22,359
+so that I could understand about it.
+
+633
+00:32:22,359 --> 00:32:27,200
+I wonder if you would have like a team that would help you
+
+634
+00:32:27,200 --> 00:32:30,799
+and you could delegate it and then like,
+
+635
+00:32:31,799 --> 00:32:33,480
+like have a pre-review.
+
+636
+00:32:33,480 --> 00:32:34,320
+Right, yeah.
+
+637
+00:32:34,320 --> 00:32:37,200
+But I was thinking like, would that even help you
+
+638
+00:32:37,200 --> 00:32:41,920
+or it would just like taint your view on the code
+
+639
+00:32:41,959 --> 00:32:43,079
+if you know what I mean.
+
+640
+00:32:43,079 --> 00:32:44,079
+Because then it's tricky.
+
+641
+00:32:44,079 --> 00:32:45,679
+You may skip something else.
+
+642
+00:32:45,679 --> 00:32:46,519
+Right, yeah.
+
+643
+00:32:46,519 --> 00:32:47,359
+That's a good question.
+
+644
+00:32:47,359 --> 00:32:48,399
+I didn't think about it.
+
+645
+00:32:48,399 --> 00:32:51,239
+But I mean, actually people helped a lot already.
+
+646
+00:32:51,239 --> 00:32:54,600
+People built this test suite, which initially
+
+647
+00:32:54,600 --> 00:32:55,839
+I didn't have any tests.
+
+648
+00:32:55,839 --> 00:32:57,279
+I wasn't really thinking of that.
+
+649
+00:32:57,279 --> 00:33:01,279
+But people built this TCK, you know,
+
+650
+00:33:01,279 --> 00:33:04,959
+test compatibility kit, which you had to pass.
+
+651
+00:33:04,959 --> 00:33:05,799
+People did that.
+
+652
+00:33:05,799 --> 00:33:07,880
+They helped with the environment, as I mentioned.
+
+653
+00:33:07,880 --> 00:33:10,519
+They helped with just all the infrastructure
+
+654
+00:33:10,519 --> 00:33:11,359
+for evaluations.
+
+655
+00:33:11,799 --> 00:33:14,000
+And there was a guy, James Nockland,
+
+656
+00:33:14,000 --> 00:33:16,839
+who wrote like amazing shell scripts
+
+657
+00:33:16,839 --> 00:33:19,760
+for making sure the environment is configured correctly.
+
+658
+00:33:19,760 --> 00:33:22,640
+And then for, you know, running the benchmarks
+
+659
+00:33:22,640 --> 00:33:24,359
+and with like colored outputs.
+
+660
+00:33:24,359 --> 00:33:25,920
+So for me, it was just like a lesson.
+
+661
+00:33:25,920 --> 00:33:28,279
+How do you write excellent shell scripts?
+
+662
+00:33:28,279 --> 00:33:30,799
+This was a nice takeaway for me.
+
+663
+00:33:30,799 --> 00:33:33,599
+Before I ask you how to go below,
+
+664
+00:33:33,599 --> 00:33:36,440
+to get to the top or to below two seconds,
+
+665
+00:33:37,440 --> 00:33:41,599
+you, I think that this challenge,
+
+666
+00:33:41,599 --> 00:33:44,119
+I'm not sure if you published it on Hacker News
+
+667
+00:33:44,119 --> 00:33:45,880
+or it somehow got into Hacker News.
+
+668
+00:33:45,880 --> 00:33:46,719
+Right.
+
+669
+00:33:46,719 --> 00:33:49,599
+What did that thing do to this challenger?
+
+670
+00:33:49,599 --> 00:33:50,440
+Oh, yeah.
+
+671
+00:33:50,440 --> 00:33:54,039
+No, actually, it could have been that I put it there,
+
+672
+00:33:54,039 --> 00:33:55,280
+but somebody else also put it there.
+
+673
+00:33:55,280 --> 00:33:56,840
+But yes, at some point it was actually
+
+674
+00:33:56,840 --> 00:33:59,280
+on first place on Hacker News, which was great.
+
+675
+00:33:59,280 --> 00:34:01,479
+Beautiful, congratulations.
+
+676
+00:34:01,479 --> 00:34:02,640
+Thank you.
+
+677
+00:34:02,640 --> 00:34:04,679
+You know, first time that I had that.
+
+678
+00:34:04,840 --> 00:34:08,479
+And it definitely helped with, you know, popularity.
+
+679
+00:34:08,479 --> 00:34:10,200
+People, more people learned about it,
+
+680
+00:34:10,200 --> 00:34:11,559
+more people contribute.
+
+681
+00:34:11,559 --> 00:34:13,599
+And then of course you also have like
+
+682
+00:34:13,599 --> 00:34:16,159
+the typical Hacker News guy, right?
+
+683
+00:34:16,159 --> 00:34:17,239
+Commenting there.
+
+684
+00:34:17,239 --> 00:34:18,880
+And there was like the one comment,
+
+685
+00:34:18,880 --> 00:34:22,200
+actually, I had it in the keynote earlier this morning.
+
+686
+00:34:22,200 --> 00:34:23,039
+Yeah.
+
+687
+00:34:23,039 --> 00:34:24,440
+How hard, this is not a hard problem.
+
+688
+00:34:24,440 --> 00:34:25,359
+It's a trivial problem.
+
+689
+00:34:25,359 --> 00:34:27,280
+Like everybody who can program a little bit,
+
+690
+00:34:27,280 --> 00:34:29,400
+they can solve this in like half an hour.
+
+691
+00:34:29,400 --> 00:34:30,679
+And then, yeah, sure.
+
+692
+00:34:30,679 --> 00:34:33,840
+Like guys like Thomas Wurtinger and Alexey Shipilev
+
+693
+00:34:33,840 --> 00:34:36,200
+and Cliff Click and all the other big hitters,
+
+694
+00:34:36,200 --> 00:34:37,799
+they spent like an entire month
+
+695
+00:34:37,799 --> 00:34:41,159
+to optimize this, right?
+
+696
+00:34:41,159 --> 00:34:43,719
+And like going down to the instruction level.
+
+697
+00:34:43,719 --> 00:34:45,599
+And then you have like the Hacker News guy,
+
+698
+00:34:45,599 --> 00:34:46,440
+how hard can it be?
+
+699
+00:34:46,440 --> 00:34:47,679
+I do it like in 30 minutes.
+
+700
+00:34:50,159 --> 00:34:52,159
+It's always like that, but it's funny.
+
+701
+00:34:52,159 --> 00:34:53,640
+Again, you get, it gets the,
+
+702
+00:34:53,640 --> 00:34:55,679
+on the surface it looks easy,
+
+703
+00:34:55,679 --> 00:34:57,159
+for such a challenge it's really nice
+
+704
+00:34:57,159 --> 00:34:59,239
+because it appeals to people.
+
+705
+00:34:59,239 --> 00:35:00,799
+Right, you can explain it easily.
+
+706
+00:35:00,799 --> 00:35:03,239
+Easier to explain, rules are simple.
+
+707
+00:35:03,239 --> 00:35:05,159
+Data is there, results are,
+
+708
+00:35:05,159 --> 00:35:07,000
+you either have the results or you don't.
+
+709
+00:35:07,000 --> 00:35:08,239
+So it's like indisputable.
+
+710
+00:35:08,239 --> 00:35:09,440
+Yes.
+
+711
+00:35:09,440 --> 00:35:10,280
+Yeah, it's challenging.
+
+712
+00:35:10,280 --> 00:35:11,119
+I love it.
+
+713
+00:35:11,119 --> 00:35:13,359
+And I also think this will be,
+
+714
+00:35:13,359 --> 00:35:15,679
+you know, the biggest challenge next year
+
+715
+00:35:15,679 --> 00:35:17,280
+if you wanted to do it again,
+
+716
+00:35:17,280 --> 00:35:19,039
+to find another problem which is like that.
+
+717
+00:35:19,039 --> 00:35:21,000
+So you can explain it easily
+
+718
+00:35:21,000 --> 00:35:22,520
+and still it has lots of potential
+
+719
+00:35:22,520 --> 00:35:24,520
+because I think you could find things,
+
+720
+00:35:24,520 --> 00:35:26,400
+you know, which are also very tough
+
+721
+00:35:26,400 --> 00:35:29,280
+and which give you enough substance
+
+722
+00:35:29,280 --> 00:35:31,239
+to work on for an entire month.
+
+723
+00:35:31,239 --> 00:35:32,799
+But it would also take you half an hour
+
+724
+00:35:32,799 --> 00:35:33,719
+to explain it.
+
+725
+00:35:33,719 --> 00:35:34,880
+And that would make it, I think,
+
+726
+00:35:34,880 --> 00:35:36,479
+much less appealing, as you say.
+
+727
+00:35:37,919 --> 00:35:41,039
+Like, from the outside world,
+
+728
+00:35:41,039 --> 00:35:43,960
+like people ask, why would you do this stuff?
+
+729
+00:35:43,960 --> 00:35:45,479
+And I keep telling them, like,
+
+730
+00:35:45,479 --> 00:35:47,000
+that's completely wrong question.
+
+731
+00:35:47,000 --> 00:35:48,719
+That's, you should never ask that.
+
+732
+00:35:48,719 --> 00:35:50,479
+Right, because we can, right?
+
+733
+00:35:50,479 --> 00:35:52,239
+Not because you can, but equal,
+
+734
+00:35:52,239 --> 00:35:53,559
+like you wouldn't understand the answer
+
+735
+00:35:53,559 --> 00:35:55,960
+to that question even if I provided one.
+
+736
+00:35:55,960 --> 00:35:58,320
+To be honest, like, I think that this challenge
+
+737
+00:35:58,320 --> 00:36:00,719
+is one of super useful.
+
+738
+00:36:00,719 --> 00:36:03,960
+Like, it's pretty commonly that you get,
+
+739
+00:36:03,960 --> 00:36:06,919
+like, large files of text
+
+740
+00:36:06,919 --> 00:36:09,760
+that you need to do some transformation on them
+
+741
+00:36:09,760 --> 00:36:13,359
+and then maybe save them as a parquet file or whatever.
+
+742
+00:36:13,359 --> 00:36:15,679
+So I think that this one is really realistic,
+
+743
+00:36:15,679 --> 00:36:18,520
+especially now in these golden data science,
+
+744
+00:36:18,520 --> 00:36:21,640
+AI learning days.
+
+745
+00:36:21,640 --> 00:36:24,679
+And I think that this one is really the most applicable
+
+746
+00:36:24,679 --> 00:36:26,559
+I've seen so far, if you ask me.
+
+747
+00:36:26,559 --> 00:36:29,599
+Yeah, I mean, it has been in my mind for a while
+
+748
+00:36:29,599 --> 00:36:32,119
+to do something with a billion rows.
+
+749
+00:36:32,119 --> 00:36:35,080
+Yeah, and then at some point I thought, okay, let's do it.
+
+750
+00:36:35,080 --> 00:36:36,760
+And I think it's particularly interesting, of course,
+
+751
+00:36:36,760 --> 00:36:38,799
+if you work on tooling around it, right?
+
+752
+00:36:38,799 --> 00:36:41,559
+So if you were to create a database
+
+753
+00:36:41,559 --> 00:36:43,960
+or work on tools like Org, I guess,
+
+754
+00:36:43,960 --> 00:36:46,880
+then of course you would imply all those techniques.
+
+755
+00:36:47,840 --> 00:36:50,919
+Okay, question, how do you go below two seconds?
+
+756
+00:36:50,919 --> 00:36:55,919
+Yeah, I mean, perhaps like, if not a Java developer,
+
+757
+00:36:56,919 --> 00:37:00,320
+Java has this kind of like, I don't wanna say bad reputation,
+
+758
+00:37:00,320 --> 00:37:05,159
+but like people say, you know, it's not performant anymore.
+
+759
+00:37:05,159 --> 00:37:08,080
+It's not suitable because of the garbage collection
+
+760
+00:37:08,080 --> 00:37:12,039
+and you should just reuse Rust and things will be magical.
+
+761
+00:37:13,320 --> 00:37:16,520
+But like the leaderboard speaks for itself.
+
+762
+00:37:16,520 --> 00:37:20,359
+I mean, obviously the top implementation there
+
+763
+00:37:20,359 --> 00:37:23,280
+are crazy optimized people doing insane stuff.
+
+764
+00:37:23,280 --> 00:37:27,039
+But like these times are still acceptable,
+
+765
+00:37:27,039 --> 00:37:29,320
+reasonable for the given challenge.
+
+766
+00:37:29,320 --> 00:37:33,919
+So Java is still very, very much relevant in this space,
+
+767
+00:37:33,919 --> 00:37:37,080
+even in big data, all these things, it's there.
+
+768
+00:37:37,080 --> 00:37:39,080
+And this was also exactly one of the things
+
+769
+00:37:39,080 --> 00:37:40,799
+which I wanted to get out of this challenge,
+
+770
+00:37:40,799 --> 00:37:45,640
+to make this case and to help debunk this misconception.
+
+771
+00:37:45,640 --> 00:37:48,080
+And I think people definitely learned about it.
+
+772
+00:37:48,080 --> 00:37:51,760
+Okay, so my understanding of what it takes
+
+773
+00:37:51,840 --> 00:37:53,159
+to go under two seconds.
+
+774
+00:37:53,159 --> 00:37:55,799
+I'll try to summarize it, but you'll expand this.
+
+775
+00:37:55,799 --> 00:38:00,799
+Okay, so different distributions of JVM,
+
+776
+00:38:03,200 --> 00:38:05,640
+that kind of helps.
+
+777
+00:38:05,640 --> 00:38:10,640
+With GraalVM, we get this ability to do like,
+
+778
+00:38:12,320 --> 00:38:14,799
+do the more binary way of things,
+
+779
+00:38:14,799 --> 00:38:17,520
+compile stuff into binary, run that.
+
+780
+00:38:17,520 --> 00:38:21,080
+I think that is kind of like where a lot of these solutions
+
+781
+00:38:21,080 --> 00:38:22,479
+build upon that.
+
+782
+00:38:22,479 --> 00:38:23,479
+You wanna explain that perhaps?
+
+783
+00:38:23,479 --> 00:38:25,520
+Yes, I mean, a few thoughts on GraalVM.
+
+784
+00:38:25,520 --> 00:38:27,799
+So first of all, I mean, it also can be used
+
+785
+00:38:27,799 --> 00:38:30,440
+as a JIT compiler, just-in-time compiler, right?
+
+786
+00:38:30,440 --> 00:38:34,200
+As a replacement of the C2 compiler in your JVM.
+
+787
+00:38:34,200 --> 00:38:37,559
+And even doing that, actually for this particular workload,
+
+788
+00:38:37,559 --> 00:38:39,719
+gave a nice improvement of a few percent.
+
+789
+00:38:39,719 --> 00:38:42,200
+And this is, I think, also an interesting takeaway.
+
+790
+00:38:42,200 --> 00:38:45,880
+Just try GraalVM as your JVM,
+
+791
+00:38:47,000 --> 00:38:49,320
+not thinking about native compilation or whatever.
+
+792
+00:38:49,320 --> 00:38:51,919
+It might give you an improvement
+
+793
+00:38:51,919 --> 00:38:53,960
+in terms of throughput and latency,
+
+794
+00:38:53,960 --> 00:38:55,719
+essentially for free, right?
+
+795
+00:38:55,719 --> 00:38:56,640
+So that's one thing.
+
+796
+00:38:56,640 --> 00:38:58,599
+But then yes, of course, people like GraalVM
+
+797
+00:38:58,599 --> 00:39:01,919
+also because it does the ahead-of-time compilation.
+
+798
+00:39:01,919 --> 00:39:05,799
+And now I did not expect the times to go into
+
+799
+00:39:05,799 --> 00:39:08,479
+that low range where this would make a difference,
+
+800
+00:39:08,479 --> 00:39:10,280
+but actually people ended up going there, right?
+
+801
+00:39:10,280 --> 00:39:15,280
+And because now what happens is all the compilation happens,
+
+802
+00:39:15,559 --> 00:39:17,039
+well, it builds time,
+
+803
+00:39:17,039 --> 00:39:19,080
+so we don't have to just time compiler.
+
+804
+00:39:19,840 --> 00:39:21,119
+There's no interpreted phase.
+
+805
+00:39:21,119 --> 00:39:22,520
+The compiler doesn't need to warm up,
+
+806
+00:39:22,520 --> 00:39:23,559
+all this kind of stuff,
+
+807
+00:39:23,559 --> 00:39:27,039
+which means we have peak performance right early on,
+
+808
+00:39:27,039 --> 00:39:30,159
+and your process is to start up faster.
+
+809
+00:39:30,159 --> 00:39:34,200
+And now, well, if you look at those times,
+
+810
+00:39:34,200 --> 00:39:38,000
+like 1.5 seconds at the top of the leaderboard,
+
+811
+00:39:38,000 --> 00:39:41,000
+if you are faster to start up by 200 milliseconds,
+
+812
+00:39:41,000 --> 00:39:43,960
+that's a significant difference in that range, right?
+
+813
+00:39:43,960 --> 00:39:45,080
+And that's why, yes,
+
+814
+00:39:45,080 --> 00:39:46,880
+people at the very top of the leaderboard,
+
+815
+00:39:46,880 --> 00:39:50,000
+they decided to use GraalVM native binaries,
+
+816
+00:39:50,000 --> 00:39:52,239
+which for me made life actually a bit harder
+
+817
+00:39:52,239 --> 00:39:54,359
+because the compilation takes a little bit longer.
+
+818
+00:39:54,359 --> 00:39:56,000
+So whenever I ran those entries,
+
+819
+00:39:56,000 --> 00:39:57,960
+then I had to spend some more time
+
+820
+00:39:57,960 --> 00:39:59,400
+for building those binaries.
+
+821
+00:39:59,400 --> 00:40:01,359
+Well, even like in production setups,
+
+822
+00:40:02,239 --> 00:40:04,200
+if you do ahead-of-time compilation,
+
+823
+00:40:04,200 --> 00:40:06,799
+you're willing to sacrifice more time and build time
+
+824
+00:40:06,799 --> 00:40:10,320
+because you get speed up in the runtime, right?
+
+825
+00:40:11,200 --> 00:40:12,440
+Okay, that's one.
+
+826
+00:40:12,440 --> 00:40:14,440
+And then the unsafe world.
+
+827
+00:40:14,440 --> 00:40:15,280
+Right.
+
+828
+00:40:15,280 --> 00:40:16,119
+That's a big thing.
+
+829
+00:40:16,159 --> 00:40:17,000
+Right, there's unsafe.
+
+830
+00:40:17,000 --> 00:40:17,840
+Yes, exactly.
+
+831
+00:40:17,840 --> 00:40:22,320
+So essentially, it bypasses all those boundary checks
+
+832
+00:40:22,320 --> 00:40:27,320
+and it allows you to directly work on this memory data.
+
+833
+00:40:27,359 --> 00:40:30,799
+So it's again, a bit faster.
+
+834
+00:40:30,799 --> 00:40:33,559
+Also, of course, like, well, unsafe, literally.
+
+835
+00:40:33,559 --> 00:40:35,679
+So I remember Roy van Rijn,
+
+836
+00:40:35,679 --> 00:40:36,880
+one of the top contenders,
+
+837
+00:40:36,880 --> 00:40:40,239
+when he played around with unsafe,
+
+838
+00:40:41,640 --> 00:40:42,479
+he did it wrong.
+
+839
+00:40:42,479 --> 00:40:43,919
+I mean, you get stuff wrong, right?
+
+840
+00:40:43,919 --> 00:40:44,880
+It's just natural.
+
+841
+00:40:44,880 --> 00:40:48,239
+And then, well, in that case, the JVM just crashes.
+
+842
+00:40:48,239 --> 00:40:53,239
+And so he shared a screenshot of his 30 JVM crash logs.
+
+843
+00:40:53,359 --> 00:40:56,799
+So it's a bit more frustrating, I guess,
+
+844
+00:40:56,799 --> 00:40:58,919
+in terms of a developer experience to do that.
+
+845
+00:40:58,919 --> 00:41:00,919
+But yes, so that's one thing.
+
+846
+00:41:00,919 --> 00:41:02,440
+And what I also found interesting,
+
+847
+00:41:02,440 --> 00:41:05,280
+you can disable garbage collection altogether
+
+848
+00:41:05,280 --> 00:41:07,119
+if you implement it the right way.
+
+849
+00:41:07,119 --> 00:41:10,559
+Because if you don't allocate any objects
+
+850
+00:41:10,559 --> 00:41:12,760
+in your inner processing loop,
+
+851
+00:41:12,760 --> 00:41:14,000
+you don't need garbage collection,
+
+852
+00:41:14,000 --> 00:41:17,919
+which means you can spend those CPU cycles then
+
+853
+00:41:17,919 --> 00:41:20,400
+for working on your actual computations.
+
+854
+00:41:20,400 --> 00:41:22,119
+And again, it's just a bit faster.
+
+855
+00:41:22,119 --> 00:41:24,320
+So that's what some people did.
+
+856
+00:41:24,320 --> 00:41:27,479
+And I think that's also very applicable to other problems.
+
+857
+00:41:27,479 --> 00:41:29,679
+So let's say you were to use Java for,
+
+858
+00:41:29,679 --> 00:41:33,320
+let's say, a CLI tool, a very short-lived process.
+
+859
+00:41:33,320 --> 00:41:35,880
+Maybe you just can disable garbage collection altogether
+
+860
+00:41:35,880 --> 00:41:37,599
+and it will be a bit faster.
+
+861
+00:41:37,599 --> 00:41:40,880
+Well, one thing there is that my understanding was
+
+862
+00:41:40,919 --> 00:41:45,479
+that top solutions also don't use a lot of objects as well.
+
+863
+00:41:45,479 --> 00:41:47,960
+They try to use as little objects as possible
+
+864
+00:41:47,960 --> 00:41:49,799
+and try to optimize that as well, not much.
+
+865
+00:41:49,799 --> 00:41:50,640
+Yes, absolutely.
+
+866
+00:41:50,640 --> 00:41:53,960
+So they would work with the byte arrays directly
+
+867
+00:41:53,960 --> 00:41:57,559
+or maybe making a string object point
+
+868
+00:41:57,559 --> 00:42:01,119
+to a specific section of the memory segment.
+
+869
+00:42:01,119 --> 00:42:03,400
+Yes, all that to avoid allocating objects
+
+870
+00:42:03,400 --> 00:42:04,400
+as much as possible.
+
+871
+00:42:05,400 --> 00:42:10,400
+One thing that I also learned by talking to Levert
+
+872
+00:42:14,359 --> 00:42:16,680
+in his four-second solution,
+
+873
+00:42:16,680 --> 00:42:21,520
+that he spent a lot of time running the compilation
+
+874
+00:42:21,520 --> 00:42:24,719
+with some additional flags so that he actually sees
+
+875
+00:42:24,719 --> 00:42:26,640
+a lot of how the compilation happens,
+
+876
+00:42:26,640 --> 00:42:28,599
+how the inlining happens, all that.
+
+877
+00:42:28,599 --> 00:42:32,199
+That is also kind of like what helps you in a way.
+
+878
+00:42:32,280 --> 00:42:36,000
+I think it can make a difference at the very top.
+
+879
+00:42:36,000 --> 00:42:39,640
+So I remember Thomas Wurtiger here specified
+
+880
+00:42:39,640 --> 00:42:43,319
+lots of compiler flags and options
+
+881
+00:42:43,319 --> 00:42:47,479
+to get out the last few percents.
+
+882
+00:42:47,479 --> 00:42:51,119
+I suppose it's something which you do really at the end.
+
+883
+00:42:51,119 --> 00:42:53,520
+Once you have sorted out all the other stuff,
+
+884
+00:42:53,520 --> 00:42:54,880
+you have done all your profiling
+
+885
+00:42:54,880 --> 00:42:58,479
+and you avoid all the unnecessary allocations and whatnot,
+
+886
+00:42:58,479 --> 00:43:01,640
+then I guess you can get the last little bit
+
+887
+00:43:02,079 --> 00:43:02,920
+with those kinds of things.
+
+888
+00:43:02,920 --> 00:43:06,400
+Trying to see how a compiler actually gets stuff.
+
+889
+00:43:06,400 --> 00:43:07,479
+Yes.
+
+890
+00:43:07,479 --> 00:43:10,640
+And also it's getting then machine-specific, right?
+
+891
+00:43:10,640 --> 00:43:12,280
+So this also was very interesting.
+
+892
+00:43:12,280 --> 00:43:14,400
+So Roy, at some point,
+
+893
+00:43:14,400 --> 00:43:18,479
+so he was working on his ARM MacBook, like M1 MacBook,
+
+894
+00:43:18,479 --> 00:43:23,479
+and the evaluation machine was an Intel AMD EPYC server.
+
+895
+00:43:23,479 --> 00:43:27,359
+And now he got to a point where he did optimizations,
+
+896
+00:43:27,359 --> 00:43:30,040
+so it was faster on his local laptop,
+
+897
+00:43:30,040 --> 00:43:30,880
+but he submitted it,
+
+898
+00:43:30,880 --> 00:43:33,319
+then it was actually slower on the evaluation machine
+
+899
+00:43:33,319 --> 00:43:34,959
+because it had different lengths
+
+900
+00:43:34,959 --> 00:43:38,520
+of SIMD instruction sets and so on.
+
+901
+00:43:38,520 --> 00:43:41,920
+So he dug out an old Intel MacBook he had somewhere
+
+902
+00:43:41,920 --> 00:43:44,800
+to have better odds to come up with changes,
+
+903
+00:43:44,800 --> 00:43:48,199
+which also proved beneficial on the official environment.
+
+904
+00:43:48,199 --> 00:43:50,520
+As I'm listening to this,
+
+905
+00:43:50,520 --> 00:43:54,599
+did you thought that disabling a garbage collector
+
+906
+00:43:54,599 --> 00:43:57,280
+would be crazy for production code
+
+907
+00:43:57,280 --> 00:43:58,560
+before you had this challenge?
+
+908
+00:43:58,560 --> 00:44:00,719
+And now you think it's more understandable?
+
+909
+00:44:00,719 --> 00:44:03,560
+Did it change some views when it comes to...
+
+910
+00:44:03,560 --> 00:44:07,319
+Because after I'm listening,
+
+911
+00:44:07,319 --> 00:44:08,800
+what you are saying is like,
+
+912
+00:44:08,800 --> 00:44:10,319
+yeah, if it's a short-lived task
+
+913
+00:44:10,319 --> 00:44:12,160
+and you just have the objects,
+
+914
+00:44:12,160 --> 00:44:13,560
+they're not collected,
+
+915
+00:44:13,560 --> 00:44:15,199
+who does really care, right?
+
+916
+00:44:15,199 --> 00:44:17,760
+So I had heard about it before.
+
+917
+00:44:17,760 --> 00:44:19,400
+So I think it's actually common
+
+918
+00:44:19,400 --> 00:44:21,400
+in high-frequency trading and so on.
+
+919
+00:44:21,400 --> 00:44:26,400
+So what they do there is they try to avoid
+
+920
+00:44:27,400 --> 00:44:28,680
+or don't do any allocations
+
+921
+00:44:28,680 --> 00:44:30,359
+in the steady state of the application.
+
+922
+00:44:30,359 --> 00:44:32,680
+And then they keep it running for a day
+
+923
+00:44:32,680 --> 00:44:34,319
+and it doesn't need to do any garbage collection.
+
+924
+00:44:34,319 --> 00:44:36,160
+And then they, or maybe, you know,
+
+925
+00:44:36,160 --> 00:44:39,439
+it just does so low allocations.
+
+926
+00:44:39,439 --> 00:44:42,000
+And if they start a process with enough memory,
+
+927
+00:44:42,000 --> 00:44:44,560
+it is enough to keep running for an entire day.
+
+928
+00:44:44,560 --> 00:44:47,239
+They would kill it off after the day and like restart it.
+
+929
+00:44:47,239 --> 00:44:48,920
+So I had heard about it before.
+
+930
+00:44:48,920 --> 00:44:51,560
+I personally haven't done it before,
+
+931
+00:44:51,560 --> 00:44:52,959
+but yeah, I guess I would,
+
+932
+00:44:52,959 --> 00:44:56,119
+in particular for CLI tools, I guess I would...
+
+933
+00:44:56,719 --> 00:44:57,560
+Nothing crazy, right?
+
+934
+00:44:57,560 --> 00:44:58,400
+Consider it well enough.
+
+935
+00:44:58,400 --> 00:45:00,239
+Yeah, yeah, totally.
+
+936
+00:45:01,800 --> 00:45:03,800
+We're on that point in our episode
+
+937
+00:45:03,800 --> 00:45:07,599
+that I have to ask everybody to like and subscribe.
+
+938
+00:45:07,599 --> 00:45:09,359
+Oh yes, of course, like and subscribe.
+
+939
+00:45:09,359 --> 00:45:10,560
+Like and subscribe.
+
+940
+00:45:10,560 --> 00:45:11,479
+We appreciate that.
+
+941
+00:45:11,479 --> 00:45:12,560
+More followers we have,
+
+942
+00:45:12,560 --> 00:45:14,479
+the easier it is to make these things.
+
+943
+00:45:14,479 --> 00:45:16,280
+And I should also mention
+
+944
+00:45:16,280 --> 00:45:18,400
+that we are very grateful for our Patreons
+
+945
+00:45:18,400 --> 00:45:21,199
+that supports us and our partners
+
+946
+00:45:21,199 --> 00:45:24,920
+who are 3FS, Kaldi, and HumanFrog.
+
+947
+00:45:24,920 --> 00:45:28,920
+These are like web or tech related companies in Slovenia
+
+948
+00:45:28,920 --> 00:45:30,560
+and they support us and it means a lot.
+
+949
+00:45:30,560 --> 00:45:32,800
+So thank everybody for the support
+
+950
+00:45:32,800 --> 00:45:35,800
+and make it for also hosting us.
+
+951
+00:45:35,800 --> 00:45:37,439
+Okay, that's a PR part.
+
+952
+00:45:37,439 --> 00:45:38,560
+Right.
+
+953
+00:45:38,560 --> 00:45:39,640
+Super important to be sustainable.
+
+954
+00:45:39,640 --> 00:45:40,640
+Super important.
+
+955
+00:45:42,439 --> 00:45:45,760
+Do you wanna talk more perhaps about these two seconds
+
+956
+00:45:45,760 --> 00:45:47,439
+because otherwise I'm gonna move more
+
+957
+00:45:47,439 --> 00:45:48,880
+towards a few other things.
+
+958
+00:45:48,880 --> 00:45:49,719
+Right.
+
+959
+00:45:49,719 --> 00:45:52,800
+No, I think we got it covered mostly.
+
+960
+00:45:52,800 --> 00:45:54,280
+Oh, actually there's one thing which I will like.
+
+961
+00:45:54,640 --> 00:45:56,680
+This was my most favorite thing, I think.
+
+962
+00:45:56,680 --> 00:45:59,119
+So in Thomas Vertigo's implementation,
+
+963
+00:45:59,119 --> 00:46:00,719
+there's an interesting detail.
+
+964
+00:46:00,719 --> 00:46:04,160
+So you see essentially his inner processing loop.
+
+965
+00:46:04,160 --> 00:46:05,479
+He has it like duplicated.
+
+966
+00:46:05,479 --> 00:46:07,479
+It's like there in the source code, like three times.
+
+967
+00:46:07,479 --> 00:46:10,520
+So he has, you know, scanner objects
+
+968
+00:46:10,520 --> 00:46:12,800
+which process different lines of the file.
+
+969
+00:46:12,800 --> 00:46:15,160
+And he has the same loop with different scanners
+
+970
+00:46:15,160 --> 00:46:16,000
+like three times.
+
+971
+00:46:16,000 --> 00:46:18,680
+And so you look at his code and it's written there
+
+972
+00:46:18,680 --> 00:46:21,640
+and you would say it's like sequentially executed.
+
+973
+00:46:21,680 --> 00:46:24,800
+The thing is what happens, the compiler figures,
+
+974
+00:46:24,800 --> 00:46:28,319
+there's no data dependency between those different chunks.
+
+975
+00:46:28,319 --> 00:46:31,040
+And as CPUs have like multiple execution units,
+
+976
+00:46:31,040 --> 00:46:33,719
+it actually gets executed in parallel.
+
+977
+00:46:33,719 --> 00:46:34,680
+It runs concurrently.
+
+978
+00:46:34,680 --> 00:46:37,359
+So you look at the code sequentially,
+
+979
+00:46:37,359 --> 00:46:39,800
+but it actually gets executed concurrently.
+
+980
+00:46:39,800 --> 00:46:41,920
+So it saves time.
+
+981
+00:46:41,920 --> 00:46:45,719
+And how he arrived at three, so it was like heuristically.
+
+982
+00:46:45,719 --> 00:46:48,160
+So he tried it with two copies of the loop
+
+983
+00:46:48,160 --> 00:46:49,599
+with four copies of the loop.
+
+984
+00:46:49,599 --> 00:46:51,000
+Three was the fastest.
+
+985
+00:46:51,599 --> 00:46:52,719
+I had no idea about this.
+
+986
+00:46:52,719 --> 00:46:53,719
+I found it super interesting.
+
+987
+00:46:53,719 --> 00:46:56,479
+And of course, this also gets into this question
+
+988
+00:46:56,479 --> 00:46:57,920
+like how maintainable is this code, right?
+
+989
+00:46:57,920 --> 00:47:00,880
+Because imagine like the new guy comes onto the team.
+
+990
+00:47:00,880 --> 00:47:02,599
+He's like, oh, there's like the same code,
+
+991
+00:47:02,599 --> 00:47:03,439
+like three times.
+
+992
+00:47:03,439 --> 00:47:04,280
+Let me clean it up.
+
+993
+00:47:04,280 --> 00:47:05,959
+I want to like refactor it, make one loop
+
+994
+00:47:05,959 --> 00:47:07,680
+and boom, your optimization is away, right?
+
+995
+00:47:07,680 --> 00:47:10,520
+So I guess he would want to put a comment there.
+
+996
+00:47:10,520 --> 00:47:15,119
+Perhaps a few words about like the top guys.
+
+997
+00:47:15,119 --> 00:47:17,680
+My understanding is that the top solution,
+
+998
+00:47:17,680 --> 00:47:19,880
+it's not written by one guy.
+
+999
+00:47:19,880 --> 00:47:20,719
+I think three-
+
+1000
+00:47:21,439 --> 00:47:22,640
+It's a team effort.
+
+1001
+00:47:22,640 --> 00:47:25,520
+And these are guys that are actually working on GraalVM
+
+1002
+00:47:25,520 --> 00:47:28,400
+with Oracle, Oracle Labs, is that correct?
+
+1003
+00:47:28,400 --> 00:47:29,239
+Yeah.
+
+1004
+00:47:29,239 --> 00:47:30,920
+Do you know the guys or?
+
+1005
+00:47:30,920 --> 00:47:33,160
+Yes, I knew Thomas before we had met before.
+
+1006
+00:47:33,160 --> 00:47:34,800
+They're scary a bit.
+
+1007
+00:47:34,800 --> 00:47:35,640
+Say again?
+
+1008
+00:47:35,640 --> 00:47:36,479
+They are scary guys.
+
+1009
+00:47:36,479 --> 00:47:37,680
+Oh, I don't know.
+
+1010
+00:47:37,680 --> 00:47:39,760
+I think they are nice guys.
+
+1011
+00:47:39,760 --> 00:47:41,800
+And actually this was exactly also in the spirit
+
+1012
+00:47:41,800 --> 00:47:44,920
+of the challenge to learn and inspire each other.
+
+1013
+00:47:44,920 --> 00:47:49,239
+So at some point Thomas saw an interesting optimization
+
+1014
+00:47:49,359 --> 00:47:52,319
+in the solution from Mary Kitty.
+
+1015
+00:47:52,319 --> 00:47:56,119
+I forgot his actual name, but he goes as Mary Kitty online.
+
+1016
+00:47:56,119 --> 00:47:57,400
+So he had a very nice trick.
+
+1017
+00:47:57,400 --> 00:47:59,000
+And so Thomas incorporated that.
+
+1018
+00:47:59,000 --> 00:48:00,479
+And then they said, okay, let's team up
+
+1019
+00:48:00,479 --> 00:48:04,239
+and make it official, which then proved to be a problem
+
+1020
+00:48:04,239 --> 00:48:06,839
+for my little certificates at the end,
+
+1021
+00:48:06,839 --> 00:48:10,439
+because I gave like a PDF to everybody with their time.
+
+1022
+00:48:10,439 --> 00:48:13,640
+So I learned how to do mail merge
+
+1023
+00:48:13,640 --> 00:48:17,520
+and create individual PDFs for 160 people.
+
+1024
+00:48:17,719 --> 00:48:19,760
+But they're listed on one page, okay.
+
+1025
+00:48:19,760 --> 00:48:20,599
+Yes, exactly.
+
+1026
+00:48:20,599 --> 00:48:23,599
+And the problem was, so they had like three names.
+
+1027
+00:48:23,599 --> 00:48:25,319
+So for them, my template wouldn't fit.
+
+1028
+00:48:25,319 --> 00:48:28,520
+And I had like to do it like a bespoke one just for them.
+
+1029
+00:48:28,520 --> 00:48:30,079
+Do you think that like these,
+
+1030
+00:48:31,000 --> 00:48:33,160
+the side effects of these challenge,
+
+1031
+00:48:33,160 --> 00:48:38,160
+like we did some challenge two years ago, much smaller,
+
+1032
+00:48:41,319 --> 00:48:44,199
+but, and the challenge that was,
+
+1033
+00:48:44,199 --> 00:48:47,439
+I'm gonna post link below as well.
+
+1034
+00:48:48,359 --> 00:48:52,479
+But that challenge was so intrigued to some people,
+
+1035
+00:48:52,479 --> 00:48:54,719
+we didn't limit languages.
+
+1036
+00:48:54,719 --> 00:48:56,199
+So one of the guys decided
+
+1037
+00:48:56,199 --> 00:48:57,839
+to write his own programming language.
+
+1038
+00:48:57,839 --> 00:48:58,680
+Oh, wow.
+
+1039
+00:48:58,680 --> 00:49:01,359
+So yeah, Janko, if you're listening, cheers.
+
+1040
+00:49:01,359 --> 00:49:04,319
+And, but the side effect was he learned
+
+1041
+00:49:04,319 --> 00:49:06,359
+that he can make his language better
+
+1042
+00:49:06,359 --> 00:49:08,239
+because of like trying to do,
+
+1043
+00:49:08,239 --> 00:49:09,839
+trying to understand these challenges,
+
+1044
+00:49:09,839 --> 00:49:13,439
+kind of like solid problems in his implementation.
+
+1045
+00:49:13,439 --> 00:49:15,760
+And he proved like, do you think that something similar
+
+1046
+00:49:15,760 --> 00:49:19,040
+might happen from this challenge or lessons like that?
+
+1047
+00:49:19,040 --> 00:49:19,880
+Right.
+
+1048
+00:49:19,880 --> 00:49:21,079
+So I don't think anybody invented
+
+1049
+00:49:21,079 --> 00:49:22,599
+their own programming language,
+
+1050
+00:49:22,599 --> 00:49:24,959
+but definitely people told me many times, yes,
+
+1051
+00:49:24,959 --> 00:49:29,160
+that they learn so much about Java, learn new things.
+
+1052
+00:49:29,160 --> 00:49:34,160
+And also it's definitely helped to debunk this misconception
+
+1053
+00:49:36,599 --> 00:49:37,640
+like Java is slow.
+
+1054
+00:49:37,640 --> 00:49:40,400
+So many people made that realization.
+
+1055
+00:49:40,400 --> 00:49:42,800
+And also for other ecosystems, right?
+
+1056
+00:49:42,839 --> 00:49:46,040
+So people may be not as familiar with Java as we are.
+
+1057
+00:49:46,040 --> 00:49:48,400
+They also learned, oh, actually there is something going on.
+
+1058
+00:49:48,400 --> 00:49:49,959
+It has like all those new APIs.
+
+1059
+00:49:49,959 --> 00:49:52,560
+It's really optimized, really competitive.
+
+1060
+00:49:52,560 --> 00:49:54,800
+So I think people took a lot from it.
+
+1061
+00:49:54,800 --> 00:49:55,640
+Yes.
+
+1062
+00:49:55,640 --> 00:49:57,160
+Is there any traction from academia?
+
+1063
+00:49:57,160 --> 00:50:00,160
+I know that might sound silly, but we would help you like.
+
+1064
+00:50:00,000 --> 00:50:06,960
+I have not seen any academic paper yet, maybe, yeah.
+
+1065
+00:50:06,960 --> 00:50:07,960
+To come.
+
+1066
+00:50:07,960 --> 00:50:08,960
+Yeah.
+
+1067
+00:50:08,960 --> 00:50:14,360
+Did you also, um, you made the decision this is going to be a Java challenge and it's for
+
+1068
+00:50:14,360 --> 00:50:21,440
+practical reasons, I guess, imagine, but if you go to 1BRC.dev, it's a webpage, I don't
+
+1069
+00:50:21,440 --> 00:50:22,559
+think you created it.
+
+1070
+00:50:22,559 --> 00:50:23,559
+I know, I did not.
+
+1071
+00:50:23,559 --> 00:50:24,559
+It's very interesting.
+
+1072
+00:50:24,559 --> 00:50:25,559
+Yeah.
+
+1073
+00:50:25,559 --> 00:50:29,879
+And 1BRC also has a collection of links to other programming languages.
+
+1074
+00:50:29,879 --> 00:50:34,360
+So you can see the solution in C, Python, all these different languages.
+
+1075
+00:50:34,360 --> 00:50:36,480
+Did you have a peek into these solutions as well?
+
+1076
+00:50:36,480 --> 00:50:37,480
+Yes.
+
+1077
+00:50:37,480 --> 00:50:38,480
+Briefly.
+
+1078
+00:50:38,480 --> 00:50:40,040
+So I mean, what we do have, so I mean, why was it Java only?
+
+1079
+00:50:40,040 --> 00:50:44,000
+So yes, first of all, for practical reasons, I just felt like, you know, that's what I'm
+
+1080
+00:50:44,000 --> 00:50:45,000
+most familiar with.
+
+1081
+00:50:45,000 --> 00:50:51,200
+And if I need to learn how to install like Rust tool chains or how to compile with C
+
+1082
+00:50:51,200 --> 00:50:54,040
+or whatever, it would just take, you know, so much more time.
+
+1083
+00:50:54,040 --> 00:50:55,480
+And I wanted to limit it a little bit.
+
+1084
+00:50:55,480 --> 00:50:56,959
+So that was the one reason.
+
+1085
+00:50:56,959 --> 00:50:59,840
+The other reason is, well, I wanted to help and promote Java also.
+
+1086
+00:50:59,840 --> 00:51:02,740
+And that's why I limited to Java.
+
+1087
+00:51:02,740 --> 00:51:07,839
+But then we actually, so all this happens in a GitHub repo, like, you know, my name
+
+1088
+00:51:07,839 --> 00:51:11,000
+Gunnar Molling and then 1BRC, that's the repo.
+
+1089
+00:51:11,000 --> 00:51:16,760
+And we have a GitHub discussion there, which is called show and tell.
+
+1090
+00:51:16,760 --> 00:51:22,320
+And people are very much invited to share their links to their non-Java implementations.
+
+1091
+00:51:22,720 --> 00:51:24,519
+This also got really huge.
+
+1092
+00:51:24,519 --> 00:51:29,400
+So there's like, I don't know, 60, 70 threads of discussions there with other implementations
+
+1093
+00:51:29,400 --> 00:51:36,080
+like Rust and .NET and C and even COBOL and, you know, all kinds of languages.
+
+1094
+00:51:36,080 --> 00:51:38,400
+Some of them I hadn't heard about even before.
+
+1095
+00:51:38,400 --> 00:51:44,800
+Then other tools like Org, you know, on the command line, but then also databases, Postgres,
+
+1096
+00:51:44,800 --> 00:51:46,300
+Apache Pino, Snowflake.
+
+1097
+00:51:46,300 --> 00:51:50,180
+So people, you know, did it with all kinds of tools and languages.
+
+1098
+00:51:50,180 --> 00:51:51,639
+So I kept an eye on it.
+
+1099
+00:51:51,639 --> 00:51:57,040
+I enjoyed reading the blog posts, but I couldn't run them on my environment just to, because
+
+1100
+00:51:57,040 --> 00:52:00,599
+of the time reasons.
+
+1101
+00:52:00,599 --> 00:52:04,480
+I guess we were more like at the end of these kind of things.
+
+1102
+00:52:04,480 --> 00:52:07,480
+We will go swimming later on.
+
+1103
+00:52:07,480 --> 00:52:09,520
+Oh, okay.
+
+1104
+00:52:09,520 --> 00:52:14,559
+I guess before we talk more about price.
+
+1105
+00:52:14,559 --> 00:52:17,399
+So I guess the price was, there was a price.
+
+1106
+00:52:17,399 --> 00:52:20,839
+At least that's my understanding of Twitter threads or whatever.
+
+1107
+00:52:20,839 --> 00:52:22,320
+The most important thing in life.
+
+1108
+00:52:22,320 --> 00:52:23,520
+The most important thing in life.
+
+1109
+00:52:23,520 --> 00:52:24,520
+Yes.
+
+1110
+00:52:24,520 --> 00:52:25,520
+Yes.
+
+1111
+00:52:25,520 --> 00:52:28,080
+So obviously the price is, you're the top dog in the industry, I guess.
+
+1112
+00:52:28,080 --> 00:52:29,080
+Right.
+
+1113
+00:52:29,080 --> 00:52:32,479
+So the price is learning something new and being part of it.
+
+1114
+00:52:32,479 --> 00:52:33,479
+But yes.
+
+1115
+00:52:33,479 --> 00:52:37,720
+So initially, I mean, so this was like really, you know, my own private effort initially
+
+1116
+00:52:37,720 --> 00:52:38,720
+at least.
+
+1117
+00:52:38,720 --> 00:52:42,559
+And so I said, okay, I will pay for a t-shirt for the winner.
+
+1118
+00:52:42,559 --> 00:52:44,839
+I will pay for a t-shirt out of my own pocket.
+
+1119
+00:52:44,839 --> 00:52:46,800
+That's what I decided to do.
+
+1120
+00:52:46,800 --> 00:52:51,479
+And then, well, it really took off and I felt, okay, maybe we want to do something more.
+
+1121
+00:52:51,479 --> 00:52:57,479
+And then I spoke to my employer Decodable and they were happy not only to fund the evaluation
+
+1122
+00:52:57,479 --> 00:53:03,779
+machine, but also I have a company credit card, so I just can pay for some prices.
+
+1123
+00:53:03,779 --> 00:53:11,279
+So what I did in the end is I did t-shirts for the top three and coffee mugs for the
+
+1124
+00:53:11,279 --> 00:53:12,279
+top 20.
+
+1125
+00:53:12,279 --> 00:53:20,320
+And then I sent to like South Korea, Taiwan, Croatia, actually I was in Zagreb and U.S.
+
+1126
+00:53:20,320 --> 00:53:22,199
+and so like Brazil, like all over the world.
+
+1127
+00:53:22,199 --> 00:53:26,279
+So this was my biggest challenge, like shipping this stuff to people all over the world.
+
+1128
+00:53:26,279 --> 00:53:27,279
+Beautiful.
+
+1129
+00:53:27,279 --> 00:53:32,639
+So at this point, thanks for Decodable for actually supporting you on this.
+
+1130
+00:53:32,639 --> 00:53:39,679
+I guess if people have ideas for next year, they should contact you on Twitter.
+
+1131
+00:53:39,679 --> 00:53:40,679
+Right.
+
+1132
+00:53:40,679 --> 00:53:41,679
+Yes.
+
+1133
+00:53:42,080 --> 00:53:46,440
+Send me an email to Gunnar at decodable.co.
+
+1134
+00:53:46,440 --> 00:53:48,399
+People asked what would be the challenge next year?
+
+1135
+00:53:48,399 --> 00:53:52,279
+There was one guy who said next year, next January, I will take a week off.
+
+1136
+00:53:52,279 --> 00:53:55,360
+So I have the entire time to focus on my implementation.
+
+1137
+00:53:55,360 --> 00:53:57,639
+Let's see whether we actually want to do it.
+
+1138
+00:53:57,639 --> 00:54:02,119
+So I'm still recovering from this year, but I think, yeah, by next January, if there's
+
+1139
+00:54:02,119 --> 00:54:05,720
+a good idea, as we mentioned, you know, it needs to have the right balance between like
+
+1140
+00:54:05,720 --> 00:54:09,240
+easy to explain and providing lots of potential.
+
+1141
+00:54:09,240 --> 00:54:13,679
+If you have that, if a community comes together, if it's automated, because frankly speaking,
+
+1142
+00:54:13,679 --> 00:54:17,720
+I don't want to run all this stuff manually again on this machine, so it would have to
+
+1143
+00:54:17,720 --> 00:54:22,239
+be automated with GitHub Actions, I suppose, like people could like really self-certify,
+
+1144
+00:54:22,239 --> 00:54:25,480
+you know, and it would be like a GitHub Actions runner on that machine.
+
+1145
+00:54:25,480 --> 00:54:29,959
+If we have all that and people help doing that, I would definitely be up for doing it
+
+1146
+00:54:29,959 --> 00:54:31,720
+again.
+
+1147
+00:54:31,720 --> 00:54:32,720
+You have any more questions, András?
+
+1148
+00:54:32,720 --> 00:54:33,720
+Otherwise, I'm going to slowly...
+
+1149
+00:54:33,720 --> 00:54:36,239
+No, I think that was an awesome conversation.
+
+1150
+00:54:36,239 --> 00:54:37,600
+Very, very nice.
+
+1151
+00:54:37,679 --> 00:54:44,440
+I would like to like perhaps wrap up with like last kind of a big question or what are
+
+1152
+00:54:44,440 --> 00:54:48,959
+the lessons that are not technical that you got out of this?
+
+1153
+00:54:48,959 --> 00:54:49,959
+Right.
+
+1154
+00:54:49,959 --> 00:54:56,959
+First of all, yeah, never underestimate how much people would do to win this kind of thing.
+
+1155
+00:54:56,959 --> 00:55:01,920
+So this definitely, you know, I did not expect this, like people would spend an entire month
+
+1156
+00:55:01,920 --> 00:55:03,679
+on doing that.
+
+1157
+00:55:04,000 --> 00:55:08,640
+Then, yes, people will take advantage of whatever they can, so they will optimize for the key
+
+1158
+00:55:08,640 --> 00:55:09,640
+set.
+
+1159
+00:55:09,640 --> 00:55:12,559
+They will, you know, bend all the rules.
+
+1160
+00:55:12,559 --> 00:55:16,799
+There was stuff which we didn't even talk about, like unmapping the file.
+
+1161
+00:55:16,799 --> 00:55:18,440
+So they will do all kinds of stuff.
+
+1162
+00:55:18,440 --> 00:55:22,760
+So I did, you know, did not expect that, but still, you know, it's all good and fun.
+
+1163
+00:55:22,760 --> 00:55:27,239
+And then of course, yes, I mean, I guess I was hoping to see it, but it also definitely
+
+1164
+00:55:27,239 --> 00:55:32,679
+happened like how the community comes together, not only to participate and take something
+
+1165
+00:55:32,679 --> 00:55:36,399
+out of it, but also to help and organize it and help and run it.
+
+1166
+00:55:36,399 --> 00:55:40,320
+And this was just so great to see, because at some point I was just overwhelmed.
+
+1167
+00:55:40,320 --> 00:55:45,679
+And I felt, oh man, it's so much, I spent like 12 hours a day trying to be on top of
+
+1168
+00:55:45,679 --> 00:55:51,119
+stuff and people helped and, you know, this only made it possible.
+
+1169
+00:55:51,119 --> 00:55:55,679
+And I guess the last thing is, yeah, I mean, it was a bit of a viral thing, right?
+
+1170
+00:55:55,679 --> 00:55:56,679
+It really blew up.
+
+1171
+00:55:56,679 --> 00:56:03,040
+And what I also found very interesting, so like how you lose control over the narrative
+
+1172
+00:56:03,040 --> 00:56:04,920
+and how, what happens, right?
+
+1173
+00:56:04,920 --> 00:56:08,920
+Because people will take it and make something out of it like they want.
+
+1174
+00:56:08,920 --> 00:56:12,920
+And you know, at some point there was like a bit of a fight between like Java and other
+
+1175
+00:56:12,920 --> 00:56:16,320
+languages and I didn't really want it to be like that.
+
+1176
+00:56:16,320 --> 00:56:18,959
+But at some point, yeah, you're not like fully in control.
+
+1177
+00:56:18,959 --> 00:56:20,440
+You're just like participating in that.
+
+1178
+00:56:20,440 --> 00:56:30,239
+It feels like a modern, big open source community kind of a thing where a lot of problems kind
+
+1179
+00:56:30,239 --> 00:56:31,239
+of here.
+
+1180
+00:56:31,239 --> 00:56:32,239
+Right.
+
+1181
+00:56:32,239 --> 00:56:33,239
+And it can be a bit scary, right?
+
+1182
+00:56:33,239 --> 00:56:34,239
+It can be a bit scary.
+
+1183
+00:56:34,239 --> 00:56:40,239
+Because it just, stuff happens and you try to navigate it as good as you can.
+
+1184
+00:56:40,239 --> 00:56:43,279
+So this also was definitely very interesting to observe.
+
+1185
+00:56:43,279 --> 00:56:44,279
+Okay.
+
+1186
+00:56:44,279 --> 00:56:46,920
+I guess any last words from you Andras?
+
+1187
+00:56:47,480 --> 00:56:53,119
+I would invite our community to join us on Discord and share the attempts or the solutions
+
+1188
+00:56:53,119 --> 00:56:54,119
+that would be awesome.
+
+1189
+00:56:54,119 --> 00:56:57,040
+Like to see what we can come up with.
+
+1190
+00:56:57,040 --> 00:56:58,040
+Yeah.
+
+1191
+00:56:58,040 --> 00:57:00,359
+Yeah, definitely.
+
+1192
+00:57:00,359 --> 00:57:03,959
+From my side, I invite you to follow Gunnar on Twitter.
+
+1193
+00:57:03,959 --> 00:57:08,519
+It's a stream of very useful information also from Flink and DCDN.
+
+1194
+00:57:08,519 --> 00:57:10,640
+So yeah, you should follow him.
+
+1195
+00:57:10,640 --> 00:57:13,559
+And thank you from bottom of my heart for taking the time and taking us through this
+
+1196
+00:57:13,559 --> 00:57:14,559
+challenge.
+
+1197
+00:57:14,559 --> 00:57:16,760
+We're really looking forward to what you'll come up next year.
+
+1198
+00:57:16,760 --> 00:57:17,760
+Okay.
+
+1199
+00:57:17,760 --> 00:57:18,760
+Awesome.
+
+1200
+00:57:18,760 --> 00:57:19,760
+Yeah.
+
+1201
+00:57:19,760 --> 00:57:20,760
+Thank you so much for having me.
+
+1202
+00:57:20,760 --> 00:57:21,760
+This was great.
+
+1203
+00:57:21,760 --> 00:57:22,760
+I really enjoyed the conversation and this was really fun.
+
+1204
+00:57:22,760 --> 00:57:23,760
+Thank you.
+
+1205
+00:57:23,760 --> 00:57:24,760
+Thank you.
+
+1206
+00:57:24,760 --> 00:57:25,760
+Bye.
+
+1207
+00:57:25,760 --> 00:57:26,760
+That's it.
+
+1208
+00:57:26,760 --> 00:57:27,760
+Have a nice day.
+
+1209
+00:57:27,760 --> 00:57:27,760

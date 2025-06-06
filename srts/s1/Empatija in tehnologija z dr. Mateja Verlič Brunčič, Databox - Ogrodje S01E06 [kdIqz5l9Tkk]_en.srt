@@ -1,0 +1,6715 @@
+1
+00:00:00,000 --> 00:00:06,000
+Hello, this is the 6th episode of the podcast in Grodje.
+
+2
+00:00:06,000 --> 00:00:10,000
+Today with me is Dr. Mateja Berlič-Brunčič,
+
+3
+00:00:10,000 --> 00:00:13,000
+that's him from the park, if I'm not mistaken.
+
+4
+00:00:13,000 --> 00:00:14,000
+Yes, thank you.
+
+5
+00:00:14,000 --> 00:00:19,000
+And today we are in a completely new space on the tour,
+
+6
+00:00:19,000 --> 00:00:23,000
+which is a bit different from our co-working in Ljubljana,
+
+7
+00:00:23,000 --> 00:00:25,000
+where we didn't have that before.
+
+8
+00:00:25,000 --> 00:00:28,000
+So, there will be some background noise,
+
+9
+00:00:28,000 --> 00:00:33,000
+so that you can hear me better.
+
+10
+00:00:33,000 --> 00:00:35,000
+Yes, that's it.
+
+11
+00:00:35,000 --> 00:00:37,000
+I wrote some notes,
+
+12
+00:00:37,000 --> 00:00:41,000
+and I would like to give you an opportunity to introduce yourself,
+
+13
+00:00:41,000 --> 00:00:43,000
+what you are doing at the moment,
+
+14
+00:00:43,000 --> 00:00:45,000
+and then we will go deeper.
+
+15
+00:00:45,000 --> 00:00:46,000
+Okay.
+
+16
+00:00:46,000 --> 00:00:49,000
+As you said, my name is Mateja.
+
+17
+00:00:49,000 --> 00:00:51,000
+For some time now,
+
+18
+00:00:51,000 --> 00:00:55,000
+for 15 years, I have been present at the Split as Sparkyca,
+
+19
+00:00:55,000 --> 00:00:57,000
+so since the times of Kornka,
+
+20
+00:00:57,000 --> 00:01:00,000
+the Slovenian version of Twitter,
+
+21
+00:01:00,000 --> 00:01:04,000
+and blogospheres and blogs and stuff like that.
+
+22
+00:01:04,000 --> 00:01:07,000
+Where do I start now?
+
+23
+00:01:07,000 --> 00:01:11,000
+I would like to change the world of engineering,
+
+24
+00:01:11,000 --> 00:01:14,000
+make it perhaps more modern, different,
+
+25
+00:01:14,000 --> 00:01:17,000
+even in our Slovenian space.
+
+26
+00:01:17,000 --> 00:01:21,000
+So, I am trying to talk and cooperate here,
+
+27
+00:01:21,000 --> 00:01:27,000
+and show, perhaps, how it can be done differently.
+
+28
+00:01:27,000 --> 00:01:30,000
+The topics that interest me are everything from engineering,
+
+29
+00:01:30,000 --> 00:01:33,000
+technology itself, to people, a lot of people,
+
+30
+00:01:33,000 --> 00:01:37,000
+leadership, management, you name it.
+
+31
+00:01:37,000 --> 00:01:44,000
+Yesterday was also the conclusion of the Maribor conference,
+
+32
+00:01:44,000 --> 00:01:48,000
+which is a fork of five hours,
+
+33
+00:01:48,000 --> 00:01:50,000
+which started in Ljubljana,
+
+34
+00:01:50,000 --> 00:01:54,000
+but then was prepared by a team from Maribor.
+
+35
+00:01:54,000 --> 00:01:57,000
+And yesterday was the conclusion of another successful season,
+
+36
+00:01:57,000 --> 00:02:01,000
+which ended with the transfer from the blockchain,
+
+37
+00:02:01,000 --> 00:02:04,000
+and with a change in the blockchain,
+
+38
+00:02:04,000 --> 00:02:06,000
+but it also worked nicely.
+
+39
+00:02:06,000 --> 00:02:11,000
+I would like to tell you a little bit about my experience with five hours.
+
+40
+00:02:11,000 --> 00:02:17,000
+I saw that you were very active in the discussions that you had,
+
+41
+00:02:17,000 --> 00:02:19,000
+and then you started some video streams.
+
+42
+00:02:19,000 --> 00:02:22,000
+I see that you were also very active there.
+
+43
+00:02:22,000 --> 00:02:26,000
+What is your experience with five hours?
+
+44
+00:02:26,000 --> 00:02:29,000
+I believe in satisfaction,
+
+45
+00:02:29,000 --> 00:02:33,000
+and satisfaction is something that fills me with energy,
+
+46
+00:02:33,000 --> 00:02:37,000
+and with that, five hours is magic.
+
+47
+00:02:37,000 --> 00:02:40,000
+It seems to me that I come home very hyped,
+
+48
+00:02:40,000 --> 00:02:43,000
+I don't know what else to do.
+
+49
+00:02:43,000 --> 00:02:48,000
+Now, to be honest, I have been preparing for a long time.
+
+50
+00:02:48,000 --> 00:02:54,000
+Today, when I was still thinking about sports,
+
+51
+00:02:54,000 --> 00:02:57,000
+because at that time I was still healthy,
+
+52
+00:02:57,000 --> 00:03:00,000
+and that respect is part of the team Iko Lajsa,
+
+53
+00:03:00,000 --> 00:03:03,000
+with whom I worked, and he was my student.
+
+54
+00:03:03,000 --> 00:03:05,000
+We are somehow connected,
+
+55
+00:03:05,000 --> 00:03:10,000
+and through them I followed and supported the return of knowledge to the community,
+
+56
+00:03:10,000 --> 00:03:13,000
+because we all know that the community matters,
+
+57
+00:03:13,000 --> 00:03:15,000
+we need to get to know each other, we need to help each other,
+
+58
+00:03:15,000 --> 00:03:19,000
+whether from a professional point of view or a personal point of view,
+
+59
+00:03:19,000 --> 00:03:26,000
+so that we can raise the level or quality of our professional work,
+
+60
+00:03:26,000 --> 00:03:30,000
+or if we change experiences, we drink a cocktail, and so on.
+
+61
+00:03:30,000 --> 00:03:37,000
+Now, in practice, I expressed a desire to participate in the Split Games,
+
+62
+00:03:37,000 --> 00:03:39,000
+because it is cool for me.
+
+63
+00:03:39,000 --> 00:03:43,000
+I am an introvert, of course, I learned how to be an extrovert,
+
+64
+00:03:43,000 --> 00:03:46,000
+because it is cool for me to meet people,
+
+65
+00:03:46,000 --> 00:03:49,000
+to get to know them, to spread the knowledge, experience,
+
+66
+00:03:49,000 --> 00:03:52,000
+and to connect people.
+
+67
+00:03:52,000 --> 00:03:58,000
+And there was a time when we needed a moderator,
+
+68
+00:03:58,000 --> 00:04:01,000
+because we were connected to Erne and others,
+
+69
+00:04:01,000 --> 00:04:04,000
+and we have been doing this for about a year now,
+
+70
+00:04:04,000 --> 00:04:08,000
+every season, and then the corona came,
+
+71
+00:04:08,000 --> 00:04:11,000
+and so there are always some challenges,
+
+72
+00:04:11,000 --> 00:04:13,000
+how to get people to come,
+
+73
+00:04:13,000 --> 00:04:15,000
+because everyone thinks that there is nothing to say,
+
+74
+00:04:15,000 --> 00:04:17,000
+until you invite them,
+
+75
+00:04:17,000 --> 00:04:19,000
+and then you see that they are very interesting,
+
+76
+00:04:19,000 --> 00:04:21,000
+they have a lot of things to say.
+
+77
+00:04:21,000 --> 00:04:23,000
+So, also from that perspective,
+
+78
+00:04:23,000 --> 00:04:25,000
+I think it's nice that I'm here,
+
+79
+00:04:25,000 --> 00:04:27,000
+I have a lot of connections,
+
+80
+00:04:27,000 --> 00:04:29,000
+and I know a lot of people in the IT sphere,
+
+81
+00:04:29,000 --> 00:04:32,000
+I can inspire a lot of people to come and share.
+
+82
+00:04:32,000 --> 00:04:34,000
+But with the corona, we said,
+
+83
+00:04:34,000 --> 00:04:36,000
+shit, we can't do this live,
+
+84
+00:04:36,000 --> 00:04:39,000
+what do we want to do?
+
+85
+00:04:39,000 --> 00:04:42,000
+And we decided to do a live stream.
+
+86
+00:04:42,000 --> 00:04:45,000
+Now, we have been recording for hours before,
+
+87
+00:04:45,000 --> 00:04:47,000
+but we were in a dilemma,
+
+88
+00:04:47,000 --> 00:04:49,000
+whether to stream it,
+
+89
+00:04:49,000 --> 00:04:51,000
+and support a lot of people,
+
+90
+00:04:51,000 --> 00:04:53,000
+so that they don't come live,
+
+91
+00:04:53,000 --> 00:04:55,000
+or, yes,
+
+92
+00:04:55,000 --> 00:04:57,000
+and the corona didn't give us a choice.
+
+93
+00:04:57,000 --> 00:04:59,000
+It just seems to me,
+
+94
+00:04:59,000 --> 00:05:01,000
+I don't know,
+
+95
+00:05:01,000 --> 00:05:03,000
+I was a viewer,
+
+96
+00:05:03,000 --> 00:05:05,000
+and I also participated in some of your discussions,
+
+97
+00:05:05,000 --> 00:05:07,000
+but I have a feeling that more people,
+
+98
+00:05:07,000 --> 00:05:09,000
+in some way,
+
+99
+00:05:09,000 --> 00:05:11,000
+could join because you started streaming.
+
+100
+00:05:11,000 --> 00:05:13,000
+For sure.
+
+101
+00:05:13,000 --> 00:05:15,000
+Maybe some other people,
+
+102
+00:05:15,000 --> 00:05:17,000
+if we didn't come,
+
+103
+00:05:17,000 --> 00:05:19,000
+they still participated.
+
+104
+00:05:19,000 --> 00:05:21,000
+It's definitely easier to come home as a guest,
+
+105
+00:05:21,000 --> 00:05:23,000
+I think it's even easier now,
+
+106
+00:05:23,000 --> 00:05:25,000
+in these years,
+
+107
+00:05:25,000 --> 00:05:27,000
+we have a family connection,
+
+108
+00:05:27,000 --> 00:05:29,000
+and there is a lot of logistics,
+
+109
+00:05:29,000 --> 00:05:31,000
+if you want to come from point A to point B,
+
+110
+00:05:31,000 --> 00:05:33,000
+to 7 and 5,
+
+111
+00:05:33,000 --> 00:05:35,000
+and then home.
+
+112
+00:05:35,000 --> 00:05:37,000
+I agree,
+
+113
+00:05:37,000 --> 00:05:39,000
+maybe it was our core value,
+
+114
+00:05:39,000 --> 00:05:41,000
+networking,
+
+115
+00:05:41,000 --> 00:05:43,000
+bonding live,
+
+116
+00:05:43,000 --> 00:05:45,000
+maybe that's why we didn't want to.
+
+117
+00:05:45,000 --> 00:05:47,000
+I agree,
+
+118
+00:05:47,000 --> 00:05:49,000
+we are definitely motivated today,
+
+119
+00:05:49,000 --> 00:05:51,000
+it's more convenient,
+
+120
+00:05:51,000 --> 00:05:53,000
+more natural for us.
+
+121
+00:05:53,000 --> 00:05:55,000
+Let's discuss
+
+122
+00:05:55,000 --> 00:05:57,000
+how to attract
+
+123
+00:05:57,000 --> 00:05:59,000
+a larger population
+
+124
+00:05:59,000 --> 00:06:01,000
+to meetups,
+
+125
+00:06:01,000 --> 00:06:03,000
+what are you doing?
+
+126
+00:06:03,000 --> 00:06:05,000
+I'm active,
+
+127
+00:06:05,000 --> 00:06:07,000
+I'm recruiting.
+
+128
+00:06:07,000 --> 00:06:09,000
+Recruiting for Split Nemurice,
+
+129
+00:06:11,000 --> 00:06:13,000
+and part of my job
+
+130
+00:06:13,000 --> 00:06:15,000
+was hiring or recruiting,
+
+131
+00:06:15,000 --> 00:06:17,000
+and through
+
+132
+00:06:17,000 --> 00:06:19,000
+getting to know people,
+
+133
+00:06:19,000 --> 00:06:21,000
+I attracted them to Split Nemurice,
+
+134
+00:06:21,000 --> 00:06:23,000
+even though we weren't perfect fit,
+
+135
+00:06:23,000 --> 00:06:25,000
+I liked that they knew
+
+136
+00:06:25,000 --> 00:06:27,000
+that something was going on in Maribor,
+
+137
+00:06:27,000 --> 00:06:29,000
+and I attracted them to Split Nemurice,
+
+138
+00:06:29,000 --> 00:06:31,000
+either as a teacher,
+
+139
+00:06:31,000 --> 00:06:33,000
+or to come and listen,
+
+140
+00:06:33,000 --> 00:06:35,000
+or to find out that something is going on.
+
+141
+00:06:35,000 --> 00:06:37,000
+I mean, it's nothing,
+
+142
+00:06:37,000 --> 00:06:39,000
+people themselves won't come.
+
+143
+00:06:39,000 --> 00:06:41,000
+When you make a product,
+
+144
+00:06:41,000 --> 00:06:43,000
+you talk to the devil.
+
+145
+00:06:43,000 --> 00:06:45,000
+With all these impulses,
+
+146
+00:06:45,000 --> 00:06:47,000
+it's hard to be
+
+147
+00:06:47,000 --> 00:06:49,000
+on top of things.
+
+148
+00:06:49,000 --> 00:06:51,000
+Yes,
+
+149
+00:06:51,000 --> 00:06:53,000
+I mean, in front of this stage...
+
+150
+00:06:53,000 --> 00:06:55,000
+You know.
+
+151
+00:06:55,000 --> 00:06:57,000
+I'm also interested
+
+152
+00:06:57,000 --> 00:06:59,000
+in quality production
+
+153
+00:06:59,000 --> 00:07:01,000
+in Split Nemurice Maribor,
+
+154
+00:07:01,000 --> 00:07:03,000
+I think that's something
+
+155
+00:07:03,000 --> 00:07:05,000
+that stands out from others.
+
+156
+00:07:05,000 --> 00:07:07,000
+Streaming on two platforms,
+
+157
+00:07:07,000 --> 00:07:09,000
+then CGP,
+
+158
+00:07:09,000 --> 00:07:11,000
+graphic design,
+
+159
+00:07:11,000 --> 00:07:13,000
+I think that's top-notch.
+
+160
+00:07:13,000 --> 00:07:15,000
+The story of Peljana Skozna
+
+161
+00:07:15,000 --> 00:07:17,000
+is really top-notch,
+
+162
+00:07:17,000 --> 00:07:19,000
+with CGP, top-notch production.
+
+163
+00:07:19,000 --> 00:07:21,000
+I would like to thank you,
+
+164
+00:07:21,000 --> 00:07:23,000
+because those who do it,
+
+165
+00:07:23,000 --> 00:07:25,000
+research it,
+
+166
+00:07:25,000 --> 00:07:27,000
+maybe you experienced it
+
+167
+00:07:27,000 --> 00:07:29,000
+as an experiment,
+
+168
+00:07:29,000 --> 00:07:31,000
+because you have to know
+
+169
+00:07:31,000 --> 00:07:33,000
+that we are professionals,
+
+170
+00:07:33,000 --> 00:07:35,000
+there's no money involved,
+
+171
+00:07:35,000 --> 00:07:37,000
+it's our money involved,
+
+172
+00:07:37,000 --> 00:07:39,000
+and then you look
+
+173
+00:07:39,000 --> 00:07:41,000
+where you can make
+
+174
+00:07:41,000 --> 00:07:43,000
+a lot of Split Nemurice,
+
+175
+00:07:43,000 --> 00:07:45,000
+so that it becomes,
+
+176
+00:07:45,000 --> 00:07:47,000
+not only Split Nemurice Maribor,
+
+177
+00:07:47,000 --> 00:07:49,000
+but also Split Nemurice Slovenska,
+
+178
+00:07:49,000 --> 00:07:51,000
+which is also in Ljubljana,
+
+179
+00:07:51,000 --> 00:07:53,000
+in Zajevac.
+
+180
+00:07:53,000 --> 00:07:55,000
+If we change it.
+
+181
+00:07:55,000 --> 00:07:57,000
+If we change it, definitely.
+
+182
+00:07:57,000 --> 00:07:59,000
+It will stand.
+
+183
+00:07:59,000 --> 00:08:01,000
+Well,
+
+184
+00:08:01,000 --> 00:08:03,000
+I can start the debate
+
+185
+00:08:03,000 --> 00:08:05,000
+in a different direction,
+
+186
+00:08:05,000 --> 00:08:07,000
+when you say that you meet
+
+187
+00:08:07,000 --> 00:08:09,000
+a lot of people at these events,
+
+188
+00:08:09,000 --> 00:08:11,000
+a lot of new people,
+
+189
+00:08:11,000 --> 00:08:13,000
+a lot of new topics,
+
+190
+00:08:13,000 --> 00:08:15,000
+new technologies.
+
+191
+00:08:15,000 --> 00:08:17,000
+Yesterday I met
+
+192
+00:08:17,000 --> 00:08:19,000
+three students,
+
+193
+00:08:19,000 --> 00:08:21,000
+two from Fria,
+
+194
+00:08:21,000 --> 00:08:23,000
+one from Tojini,
+
+195
+00:08:23,000 --> 00:08:25,000
+and I will try
+
+196
+00:08:25,000 --> 00:08:27,000
+to connect this topic,
+
+197
+00:08:27,000 --> 00:08:29,000
+and then there was a debate
+
+198
+00:08:29,000 --> 00:08:31,000
+about ending Fax.
+
+199
+00:08:31,000 --> 00:08:33,000
+And you are
+
+200
+00:08:33,000 --> 00:08:35,000
+a PhD student in computer science,
+
+201
+00:08:35,000 --> 00:08:37,000
+so I will give you
+
+202
+00:08:37,000 --> 00:08:39,000
+a piece of advice.
+
+203
+00:08:39,000 --> 00:08:41,000
+I will try to connect this topic,
+
+204
+00:08:41,000 --> 00:08:43,000
+and I will say that
+
+205
+00:08:43,000 --> 00:08:45,000
+those students yesterday
+
+206
+00:08:45,000 --> 00:08:47,000
+were like,
+
+207
+00:08:47,000 --> 00:08:49,000
+yes, you know,
+
+208
+00:08:49,000 --> 00:08:51,000
+I would like to work with theory,
+
+209
+00:08:51,000 --> 00:08:53,000
+and we are grinding here,
+
+210
+00:08:53,000 --> 00:08:55,000
+and we are not interested,
+
+211
+00:08:55,000 --> 00:08:57,000
+and it would be more interesting
+
+212
+00:08:57,000 --> 00:08:59,000
+to start working,
+
+213
+00:08:59,000 --> 00:09:01,000
+and someone would say,
+
+214
+00:09:01,000 --> 00:09:03,000
+oh, I will not finish summer school.
+
+215
+00:09:03,000 --> 00:09:05,000
+But you went all the way,
+
+216
+00:09:05,000 --> 00:09:07,000
+and I said,
+
+217
+00:09:07,000 --> 00:09:09,000
+ok, I will try from my perspective,
+
+218
+00:09:09,000 --> 00:09:11,000
+and I would like to know
+
+219
+00:09:11,000 --> 00:09:13,000
+what you would like to do.
+
+220
+00:09:15,000 --> 00:09:17,000
+I said that I went to study,
+
+221
+00:09:17,000 --> 00:09:19,000
+because I did not know what to do.
+
+222
+00:09:19,000 --> 00:09:21,000
+I mean,
+
+223
+00:09:21,000 --> 00:09:23,000
+my background is from high school,
+
+224
+00:09:23,000 --> 00:09:25,000
+and I am interested in Mars,
+
+225
+00:09:25,000 --> 00:09:27,000
+and it was at home,
+
+226
+00:09:27,000 --> 00:09:29,000
+here, as you can see,
+
+227
+00:09:29,000 --> 00:09:31,000
+it was like,
+
+228
+00:09:31,000 --> 00:09:33,000
+if you do not come to the end,
+
+229
+00:09:33,000 --> 00:09:35,000
+there is always a call.
+
+230
+00:09:35,000 --> 00:09:37,000
+And you will not have to work?
+
+231
+00:09:37,000 --> 00:09:39,000
+No, I did not bring a lot of work
+
+232
+00:09:39,000 --> 00:09:41,000
+to my family,
+
+233
+00:09:41,000 --> 00:09:43,000
+but it was like,
+
+234
+00:09:43,000 --> 00:09:45,000
+no, I want to be something.
+
+235
+00:09:45,000 --> 00:09:47,000
+I do not know yet what,
+
+236
+00:09:47,000 --> 00:09:49,000
+but I want something,
+
+237
+00:09:49,000 --> 00:09:51,000
+and then I went to high school
+
+238
+00:09:51,000 --> 00:09:53,000
+to get a little wider.
+
+239
+00:09:53,000 --> 00:09:55,000
+So I started at four years old,
+
+240
+00:09:55,000 --> 00:09:57,000
+I said, ok, I am interested in technology,
+
+241
+00:09:57,000 --> 00:09:59,000
+and then art.
+
+242
+00:09:59,000 --> 00:10:01,000
+And now what to do with it?
+
+243
+00:10:01,000 --> 00:10:03,000
+And then I got a little insight,
+
+244
+00:10:03,000 --> 00:10:05,000
+to see how it would be,
+
+245
+00:10:05,000 --> 00:10:07,000
+because at that time,
+
+246
+00:10:07,000 --> 00:10:09,000
+in my crazy head,
+
+247
+00:10:09,000 --> 00:10:11,000
+in high school,
+
+248
+00:10:11,000 --> 00:10:13,000
+I imagined that I would do advertising,
+
+249
+00:10:13,000 --> 00:10:15,000
+digital animation,
+
+250
+00:10:15,000 --> 00:10:17,000
+and I would combine technology and art,
+
+251
+00:10:17,000 --> 00:10:19,000
+and I do not know,
+
+252
+00:10:19,000 --> 00:10:21,000
+but there were a lot of theories,
+
+253
+00:10:21,000 --> 00:10:23,000
+and there was a lot of mathematics,
+
+254
+00:10:23,000 --> 00:10:25,000
+I also experienced physics,
+
+255
+00:10:25,000 --> 00:10:27,000
+which I like a little,
+
+256
+00:10:27,000 --> 00:10:29,000
+but not physics.
+
+257
+00:10:29,000 --> 00:10:31,000
+Yes, you have to grind,
+
+258
+00:10:31,000 --> 00:10:33,000
+and then you think,
+
+259
+00:10:33,000 --> 00:10:35,000
+why do I have six mathematics here,
+
+260
+00:10:35,000 --> 00:10:37,000
+and some curved integrals,
+
+261
+00:10:37,000 --> 00:10:39,000
+and all those eggs.
+
+262
+00:10:39,000 --> 00:10:41,000
+Now, when I look back,
+
+263
+00:10:41,000 --> 00:10:43,000
+I see,
+
+264
+00:10:43,000 --> 00:10:45,000
+FACS gave me
+
+265
+00:10:45,000 --> 00:10:47,000
+some tools,
+
+266
+00:10:47,000 --> 00:10:49,000
+some tools,
+
+267
+00:10:49,000 --> 00:10:51,000
+and a way of thinking,
+
+268
+00:10:51,000 --> 00:10:53,000
+which I can now apply.
+
+269
+00:10:53,000 --> 00:10:55,000
+Not so much practical things,
+
+270
+00:10:55,000 --> 00:10:57,000
+at FACS you can not learn to program
+
+271
+00:10:57,000 --> 00:10:59,000
+production,
+
+272
+00:10:59,000 --> 00:11:01,000
+but you can learn
+
+273
+00:11:01,000 --> 00:11:03,000
+a little bit of science,
+
+274
+00:11:03,000 --> 00:11:05,000
+a little bit of scientific thinking,
+
+275
+00:11:05,000 --> 00:11:07,000
+you need to put some hypothesis,
+
+276
+00:11:07,000 --> 00:11:09,000
+how can you verify
+
+277
+00:11:09,000 --> 00:11:11,000
+this hypothesis,
+
+278
+00:11:11,000 --> 00:11:13,000
+or verify it.
+
+279
+00:11:13,000 --> 00:11:15,000
+And from that insight,
+
+280
+00:11:15,000 --> 00:11:17,000
+it seems to me,
+
+281
+00:11:17,000 --> 00:11:19,000
+it gave me
+
+282
+00:11:19,000 --> 00:11:21,000
+a way to find myself,
+
+283
+00:11:21,000 --> 00:11:23,000
+I would say.
+
+284
+00:11:23,000 --> 00:11:25,000
+But then,
+
+285
+00:11:25,000 --> 00:11:27,000
+at the end of that
+
+286
+00:11:27,000 --> 00:11:29,000
+post-graduate work,
+
+287
+00:11:29,000 --> 00:11:31,000
+I did not know what to do,
+
+288
+00:11:31,000 --> 00:11:33,000
+because at that time there were only two companies,
+
+289
+00:11:33,000 --> 00:11:35,000
+so I knew,
+
+290
+00:11:35,000 --> 00:11:37,000
+one was Hermes Softlab,
+
+291
+00:11:37,000 --> 00:11:39,000
+and the other was something else.
+
+292
+00:11:39,000 --> 00:11:41,000
+Anyway, I did not feel there,
+
+293
+00:11:41,000 --> 00:11:43,000
+and the opportunity came,
+
+294
+00:11:43,000 --> 00:11:45,000
+a young researcher,
+
+295
+00:11:45,000 --> 00:11:47,000
+and I said, yes, I can do it,
+
+296
+00:11:47,000 --> 00:11:49,000
+I will come back, I will be a researcher,
+
+297
+00:11:49,000 --> 00:11:51,000
+because it is cool.
+
+298
+00:11:51,000 --> 00:11:53,000
+But that experience was not so good.
+
+299
+00:11:55,000 --> 00:11:57,000
+It depends a lot on a young researcher,
+
+300
+00:11:57,000 --> 00:11:59,000
+on the laboratory
+
+301
+00:11:59,000 --> 00:12:01,000
+in which he joins,
+
+302
+00:12:01,000 --> 00:12:03,000
+on the mentor, how much time he has,
+
+303
+00:12:03,000 --> 00:12:05,000
+on the whole setup,
+
+304
+00:12:05,000 --> 00:12:07,000
+on the time,
+
+305
+00:12:07,000 --> 00:12:09,000
+maybe for me it was
+
+306
+00:12:09,000 --> 00:12:11,000
+not a very good time
+
+307
+00:12:11,000 --> 00:12:13,000
+to be a young researcher,
+
+308
+00:12:13,000 --> 00:12:15,000
+and then two years as an assistant.
+
+309
+00:12:15,000 --> 00:12:17,000
+But I got a lesson
+
+310
+00:12:17,000 --> 00:12:19,000
+that I am not for this world.
+
+311
+00:12:19,000 --> 00:12:21,000
+Although I managed to finish the thing,
+
+312
+00:12:21,000 --> 00:12:23,000
+if nothing else,
+
+313
+00:12:23,000 --> 00:12:25,000
+I did not finish it.
+
+314
+00:12:25,000 --> 00:12:27,000
+So from this point of view,
+
+315
+00:12:27,000 --> 00:12:29,000
+I think it is an accomplishment,
+
+316
+00:12:29,000 --> 00:12:31,000
+and this PhD is also a joker,
+
+317
+00:12:31,000 --> 00:12:33,000
+so usually
+
+318
+00:12:33,000 --> 00:12:35,000
+I do not give up,
+
+319
+00:12:35,000 --> 00:12:37,000
+but if someone
+
+320
+00:12:37,000 --> 00:12:39,000
+approaches me,
+
+321
+00:12:39,000 --> 00:12:41,000
+if someone treats me
+
+322
+00:12:41,000 --> 00:12:43,000
+as a douchebag,
+
+323
+00:12:43,000 --> 00:12:45,000
+and tries to put people
+
+324
+00:12:45,000 --> 00:12:47,000
+in some transition,
+
+325
+00:12:47,000 --> 00:12:49,000
+they will call me a joker.
+
+326
+00:12:49,000 --> 00:12:51,000
+But that's just my opinion,
+
+327
+00:12:51,000 --> 00:12:53,000
+I do not judge people
+
+328
+00:12:53,000 --> 00:12:55,000
+on paper, people are all different.
+
+329
+00:12:55,000 --> 00:12:57,000
+Now,
+
+330
+00:12:57,000 --> 00:12:59,000
+many times students ask me
+
+331
+00:12:59,000 --> 00:13:01,000
+what am I going to do in the master's,
+
+332
+00:13:01,000 --> 00:13:03,000
+why am I doing a PhD,
+
+333
+00:13:03,000 --> 00:13:05,000
+and I tell them,
+
+334
+00:13:05,000 --> 00:13:07,000
+go do it if you know why you are doing it.
+
+335
+00:13:07,000 --> 00:13:09,000
+Because yes, grinding is not good,
+
+336
+00:13:09,000 --> 00:13:11,000
+and if you see a hole at the end of the tunnel,
+
+337
+00:13:11,000 --> 00:13:13,000
+and you know it is there,
+
+338
+00:13:13,000 --> 00:13:15,000
+why is it there,
+
+339
+00:13:15,000 --> 00:13:17,000
+you will not have a problem.
+
+340
+00:13:17,000 --> 00:13:19,000
+If you want to get a paper
+
+341
+00:13:19,000 --> 00:13:21,000
+and you want to connect
+
+342
+00:13:21,000 --> 00:13:23,000
+with mentors,
+
+343
+00:13:23,000 --> 00:13:25,000
+because you have great mentors,
+
+344
+00:13:25,000 --> 00:13:27,000
+and great lectures,
+
+345
+00:13:27,000 --> 00:13:29,000
+just do it.
+
+346
+00:13:29,000 --> 00:13:31,000
+If you like the academic sphere,
+
+347
+00:13:31,000 --> 00:13:33,000
+which is a bit special,
+
+348
+00:13:33,000 --> 00:13:35,000
+just do it.
+
+349
+00:13:35,000 --> 00:13:37,000
+If you do not know why you are doing it,
+
+350
+00:13:37,000 --> 00:13:39,000
+then don't do it.
+
+351
+00:13:39,000 --> 00:13:41,000
+Let's go back a bit,
+
+352
+00:13:41,000 --> 00:13:43,000
+do you think
+
+353
+00:13:43,000 --> 00:13:45,000
+that you have,
+
+354
+00:13:45,000 --> 00:13:47,000
+when you see other
+
+355
+00:13:47,000 --> 00:13:49,000
+technical managers,
+
+356
+00:13:51,000 --> 00:13:53,000
+do you think that you have
+
+357
+00:13:53,000 --> 00:13:55,000
+some of those skills
+
+358
+00:13:55,000 --> 00:13:57,000
+that you acquired
+
+359
+00:13:57,000 --> 00:13:59,000
+through the academic world,
+
+360
+00:13:59,000 --> 00:14:01,000
+which maybe otherwise would not have?
+
+361
+00:14:01,000 --> 00:14:03,000
+Do you see that people
+
+362
+00:14:03,000 --> 00:14:05,000
+worked hard,
+
+363
+00:14:05,000 --> 00:14:07,000
+and maybe if you went through it again,
+
+364
+00:14:07,000 --> 00:14:09,000
+it would be easier?
+
+365
+00:14:09,000 --> 00:14:11,000
+What do you think,
+
+366
+00:14:11,000 --> 00:14:13,000
+what can you use as a manager,
+
+367
+00:14:13,000 --> 00:14:15,000
+a technical manager?
+
+368
+00:14:15,000 --> 00:14:17,000
+First of all, abstract thinking,
+
+369
+00:14:17,000 --> 00:14:19,000
+how to make something
+
+370
+00:14:19,000 --> 00:14:21,000
+out of some specific things,
+
+371
+00:14:21,000 --> 00:14:23,000
+then look at it more abstractly,
+
+372
+00:14:23,000 --> 00:14:25,000
+then draw something,
+
+373
+00:14:25,000 --> 00:14:27,000
+then think about it,
+
+374
+00:14:27,000 --> 00:14:29,000
+and maybe connect different areas,
+
+375
+00:14:29,000 --> 00:14:31,000
+because they are connected,
+
+376
+00:14:31,000 --> 00:14:33,000
+some patterns,
+
+377
+00:14:33,000 --> 00:14:35,000
+I definitely see it as a problem.
+
+378
+00:14:35,000 --> 00:14:37,000
+Then maybe when I went through
+
+379
+00:14:37,000 --> 00:14:39,000
+this research cycle,
+
+380
+00:14:39,000 --> 00:14:41,000
+in a way,
+
+381
+00:14:41,000 --> 00:14:43,000
+these cycles,
+
+382
+00:14:43,000 --> 00:14:45,000
+you look at what you have to do,
+
+383
+00:14:45,000 --> 00:14:47,000
+how to check it as soon as possible,
+
+384
+00:14:47,000 --> 00:14:49,000
+because everything we do
+
+385
+00:14:49,000 --> 00:14:51,000
+is individual,
+
+386
+00:14:51,000 --> 00:14:53,000
+even if something happens in production,
+
+387
+00:14:53,000 --> 00:14:55,000
+something goes wrong,
+
+388
+00:14:55,000 --> 00:14:57,000
+it is our own fault.
+
+389
+00:14:57,000 --> 00:14:59,000
+Such things,
+
+390
+00:14:59,000 --> 00:15:01,000
+such scientific principles,
+
+391
+00:15:01,000 --> 00:15:03,000
+solving problems,
+
+392
+00:15:03,000 --> 00:15:05,000
+breaking down problems,
+
+393
+00:15:05,000 --> 00:15:07,000
+writing documentation.
+
+394
+00:15:07,000 --> 00:15:09,000
+Come on!
+
+395
+00:15:09,000 --> 00:15:11,000
+Also, sketching,
+
+396
+00:15:11,000 --> 00:15:13,000
+the way you imagine people,
+
+397
+00:15:13,000 --> 00:15:15,000
+do you think it is easier?
+
+398
+00:15:15,000 --> 00:15:17,000
+Yes,
+
+399
+00:15:17,000 --> 00:15:19,000
+especially when you learn
+
+400
+00:15:19,000 --> 00:15:21,000
+to imagine things in a structured way,
+
+401
+00:15:21,000 --> 00:15:23,000
+maybe write it as an article,
+
+402
+00:15:23,000 --> 00:15:25,000
+because documentation is also
+
+403
+00:15:25,000 --> 00:15:27,000
+like an article,
+
+404
+00:15:27,000 --> 00:15:29,000
+to imagine a subject to someone else,
+
+405
+00:15:29,000 --> 00:15:31,000
+to imagine a problem,
+
+406
+00:15:31,000 --> 00:15:33,000
+because someone who is not in our field
+
+407
+00:15:33,000 --> 00:15:35,000
+probably does not know all the details,
+
+408
+00:15:35,000 --> 00:15:37,000
+but the problem you extract from it
+
+409
+00:15:37,000 --> 00:15:39,000
+is easy to put together.
+
+410
+00:15:39,000 --> 00:15:41,000
+When I was in Maribor,
+
+411
+00:15:41,000 --> 00:15:43,000
+honestly,
+
+412
+00:15:43,000 --> 00:15:45,000
+I am 6 years old,
+
+413
+00:15:45,000 --> 00:15:47,000
+when I was in Maribor,
+
+414
+00:15:47,000 --> 00:15:49,000
+we went to my grandmother,
+
+415
+00:15:49,000 --> 00:15:51,000
+I will record this podcast,
+
+416
+00:15:51,000 --> 00:15:53,000
+I think she had
+
+417
+00:15:53,000 --> 00:15:55,000
+a lot of discussions,
+
+418
+00:15:55,000 --> 00:15:57,000
+I talked to the doctor
+
+419
+00:15:57,000 --> 00:15:59,000
+about computers,
+
+420
+00:15:59,000 --> 00:16:01,000
+what would she ask,
+
+421
+00:16:01,000 --> 00:16:03,000
+if she is interested in computers,
+
+422
+00:16:03,000 --> 00:16:05,000
+and then at the end
+
+423
+00:16:05,000 --> 00:16:07,000
+we listened to Kingston
+
+424
+00:16:07,000 --> 00:16:09,000
+the whole time,
+
+425
+00:16:09,000 --> 00:16:11,000
+and we listened to Kingston,
+
+426
+00:16:11,000 --> 00:16:13,000
+and when I tried to turn it on,
+
+427
+00:16:13,000 --> 00:16:15,000
+we were 5 in the morning,
+
+428
+00:16:15,000 --> 00:16:17,000
+and I said,
+
+429
+00:16:17,000 --> 00:16:19,000
+you are crazy,
+
+430
+00:16:19,000 --> 00:16:21,000
+so from this field
+
+431
+00:16:21,000 --> 00:16:23,000
+I have some,
+
+432
+00:16:23,000 --> 00:16:25,000
+I expected to have
+
+433
+00:16:25,000 --> 00:16:27,000
+more intelligent questions,
+
+434
+00:16:27,000 --> 00:16:29,000
+but I will go back to
+
+435
+00:16:29,000 --> 00:16:31,000
+Codecats, because it seems
+
+436
+00:16:31,000 --> 00:16:33,000
+very interesting to me,
+
+437
+00:16:33,000 --> 00:16:35,000
+and then I will go to
+
+438
+00:16:35,000 --> 00:16:37,000
+Demi, tell me,
+
+439
+00:16:37,000 --> 00:16:39,000
+you put a lot of effort
+
+440
+00:16:39,000 --> 00:16:41,000
+into Codecats,
+
+441
+00:16:41,000 --> 00:16:43,000
+and you tried to
+
+442
+00:16:43,000 --> 00:16:45,000
+inspire young people
+
+443
+00:16:45,000 --> 00:16:47,000
+to go into
+
+444
+00:16:47,000 --> 00:16:49,000
+the technical waters,
+
+445
+00:16:49,000 --> 00:16:51,000
+how do you see this,
+
+446
+00:16:51,000 --> 00:16:53,000
+how do we attract
+
+447
+00:16:53,000 --> 00:16:55,000
+young people,
+
+448
+00:16:55,000 --> 00:16:57,000
+or how do we inspire them
+
+449
+00:16:57,000 --> 00:16:59,000
+to follow the path
+
+450
+00:16:59,000 --> 00:17:01,000
+in technology,
+
+451
+00:17:01,000 --> 00:17:03,000
+when you yourself
+
+452
+00:17:03,000 --> 00:17:05,000
+have a lot of work,
+
+453
+00:17:05,000 --> 00:17:07,000
+and it seems to you
+
+454
+00:17:07,000 --> 00:17:09,000
+that we have to let them
+
+455
+00:17:09,000 --> 00:17:11,000
+go their own way,
+
+456
+00:17:11,000 --> 00:17:13,000
+and they are lost,
+
+457
+00:17:13,000 --> 00:17:15,000
+and it seems to you
+
+458
+00:17:15,000 --> 00:17:17,000
+that it would be better
+
+459
+00:17:17,000 --> 00:17:19,000
+to introduce them
+
+460
+00:17:19,000 --> 00:17:21,000
+to the tech space,
+
+461
+00:17:21,000 --> 00:17:23,000
+to have different jobs,
+
+462
+00:17:23,000 --> 00:17:25,000
+to have developers,
+
+463
+00:17:25,000 --> 00:17:27,000
+to have project managers,
+
+464
+00:17:27,000 --> 00:17:29,000
+and it seems to you
+
+465
+00:17:29,000 --> 00:17:31,000
+that they could start
+
+466
+00:17:31,000 --> 00:17:33,000
+with Codecats.
+
+467
+00:17:33,000 --> 00:17:35,000
+Yes, that's a good start.
+
+468
+00:17:35,000 --> 00:17:37,000
+I know how it was for me
+
+469
+00:17:37,000 --> 00:17:39,000
+when I signed up for the
+
+470
+00:17:39,000 --> 00:17:41,000
+computer science course,
+
+471
+00:17:41,000 --> 00:17:43,000
+and I didn't have a good basis.
+
+472
+00:17:43,000 --> 00:17:45,000
+I said, ok, I will survive
+
+473
+00:17:45,000 --> 00:17:47,000
+the first year, and if I get
+
+474
+00:17:47,000 --> 00:17:49,000
+an A, I'm good.
+
+475
+00:17:49,000 --> 00:17:51,000
+The second year was ok,
+
+476
+00:17:51,000 --> 00:17:53,000
+if I repeat the first year,
+
+477
+00:17:53,000 --> 00:17:55,000
+I'm good.
+
+478
+00:17:55,000 --> 00:17:57,000
+It's not that hard,
+
+479
+00:17:57,000 --> 00:17:59,000
+and I'm doing great.
+
+480
+00:17:59,000 --> 00:18:01,000
+Maybe, I mean,
+
+481
+00:18:01,000 --> 00:18:03,000
+for girls, I know better,
+
+482
+00:18:03,000 --> 00:18:05,000
+all the girls are the same,
+
+483
+00:18:05,000 --> 00:18:07,000
+you need a bit more motivation,
+
+484
+00:18:07,000 --> 00:18:09,000
+it's ok, you can fail,
+
+485
+00:18:09,000 --> 00:18:11,000
+you don't have the power to just
+
+486
+00:18:11,000 --> 00:18:13,000
+realize what's going to happen.
+
+487
+00:18:13,000 --> 00:18:15,000
+We were getting questions,
+
+488
+00:18:15,000 --> 00:18:17,000
+why are you doing workshops
+
+489
+00:18:17,000 --> 00:18:19,000
+only for girls?
+
+490
+00:18:19,000 --> 00:18:21,000
+Codecats was created
+
+491
+00:18:21,000 --> 00:18:23,000
+and was created with the help
+
+492
+00:18:23,000 --> 00:18:25,000
+of Alja Isakovic,
+
+493
+00:18:25,000 --> 00:18:27,000
+she was driving it,
+
+494
+00:18:27,000 --> 00:18:29,000
+and we realized
+
+495
+00:18:29,000 --> 00:18:31,000
+that we need
+
+496
+00:18:31,000 --> 00:18:33,000
+a safe haven.
+
+497
+00:18:33,000 --> 00:18:35,000
+Girls like it,
+
+498
+00:18:35,000 --> 00:18:37,000
+maybe we just think
+
+499
+00:18:37,000 --> 00:18:39,000
+that someone is judging us,
+
+500
+00:18:39,000 --> 00:18:41,000
+judging us,
+
+501
+00:18:41,000 --> 00:18:43,000
+and you don't know anything.
+
+502
+00:18:43,000 --> 00:18:45,000
+And we showed
+
+503
+00:18:45,000 --> 00:18:47,000
+the proof in the end
+
+504
+00:18:47,000 --> 00:18:49,000
+that if girls are together,
+
+505
+00:18:49,000 --> 00:18:51,000
+they feel safer,
+
+506
+00:18:51,000 --> 00:18:53,000
+they experiment a bit,
+
+507
+00:18:53,000 --> 00:18:55,000
+they don't feel stupid.
+
+508
+00:18:55,000 --> 00:18:57,000
+And we inspired them
+
+509
+00:18:57,000 --> 00:18:59,000
+to come and try
+
+510
+00:18:59,000 --> 00:19:01,000
+something that was
+
+511
+00:19:01,000 --> 00:19:03,000
+totally out of comfort zone.
+
+512
+00:19:03,000 --> 00:19:05,000
+Even if they copied
+
+513
+00:19:05,000 --> 00:19:07,000
+some code,
+
+514
+00:19:07,000 --> 00:19:09,000
+it's not that bad.
+
+515
+00:19:09,000 --> 00:19:11,000
+There are some obstacles,
+
+516
+00:19:11,000 --> 00:19:13,000
+but it's possible.
+
+517
+00:19:13,000 --> 00:19:15,000
+And after the workshops,
+
+518
+00:19:15,000 --> 00:19:17,000
+people asked
+
+519
+00:19:17,000 --> 00:19:19,000
+what to do next,
+
+520
+00:19:19,000 --> 00:19:21,000
+and we said
+
+521
+00:19:21,000 --> 00:19:23,000
+let's do some
+
+522
+00:19:23,000 --> 00:19:25,000
+meetups,
+
+523
+00:19:25,000 --> 00:19:27,000
+we are both in technology,
+
+524
+00:19:27,000 --> 00:19:29,000
+let's do some work together,
+
+525
+00:19:29,000 --> 00:19:31,000
+learn to program,
+
+526
+00:19:31,000 --> 00:19:33,000
+and we chose Python,
+
+527
+00:19:33,000 --> 00:19:35,000
+which was easy, interesting.
+
+528
+00:19:35,000 --> 00:19:37,000
+And we got some time
+
+529
+00:19:37,000 --> 00:19:39,000
+on a weekly basis,
+
+530
+00:19:39,000 --> 00:19:41,000
+we had cohorts,
+
+531
+00:19:41,000 --> 00:19:43,000
+it's true that
+
+532
+00:19:43,000 --> 00:19:45,000
+all the ideas
+
+533
+00:19:45,000 --> 00:19:47,000
+are heard very well,
+
+534
+00:19:47,000 --> 00:19:49,000
+until you have to commit.
+
+535
+00:19:49,000 --> 00:19:51,000
+And today,
+
+536
+00:19:51,000 --> 00:19:53,000
+you need time, energy,
+
+537
+00:19:53,000 --> 00:19:55,000
+and you have to overcome
+
+538
+00:19:55,000 --> 00:19:57,000
+the first obstacles
+
+539
+00:19:57,000 --> 00:19:59,000
+when you have to solve
+
+540
+00:19:59,000 --> 00:20:01,000
+a bigger problem,
+
+541
+00:20:01,000 --> 00:20:03,000
+when you have to debug
+
+542
+00:20:03,000 --> 00:20:05,000
+something for 3 hours.
+
+543
+00:20:05,000 --> 00:20:07,000
+And then the girls
+
+544
+00:20:07,000 --> 00:20:09,000
+were like,
+
+545
+00:20:09,000 --> 00:20:11,000
+today I can't do this,
+
+546
+00:20:11,000 --> 00:20:13,000
+today I can't do that.
+
+547
+00:20:13,000 --> 00:20:15,000
+And then we had a group
+
+548
+00:20:15,000 --> 00:20:17,000
+and each group went to
+
+549
+00:20:17,000 --> 00:20:19,000
+a new Python installation.
+
+550
+00:20:19,000 --> 00:20:21,000
+We asked each other
+
+551
+00:20:21,000 --> 00:20:23,000
+to help us install Python
+
+552
+00:20:23,000 --> 00:20:25,000
+in each new group.
+
+553
+00:20:25,000 --> 00:20:27,000
+And in the last group,
+
+554
+00:20:27,000 --> 00:20:29,000
+we decided to do a project,
+
+555
+00:20:29,000 --> 00:20:31,000
+which started
+
+556
+00:20:31,000 --> 00:20:33,000
+in Code Week.
+
+557
+00:20:33,000 --> 00:20:35,000
+And we decided
+
+558
+00:20:35,000 --> 00:20:37,000
+to make an app
+
+559
+00:20:37,000 --> 00:20:39,000
+for
+
+560
+00:20:39,000 --> 00:20:41,000
+events
+
+561
+00:20:41,000 --> 00:20:43,000
+that will happen
+
+562
+00:20:43,000 --> 00:20:45,000
+in Code Week.
+
+563
+00:20:45,000 --> 00:20:47,000
+A real project.
+
+564
+00:20:47,000 --> 00:20:49,000
+A real project.
+
+565
+00:20:49,000 --> 00:20:51,000
+No money involved.
+
+566
+00:20:51,000 --> 00:20:53,000
+Again,
+
+567
+00:20:53,000 --> 00:20:55,000
+I said that
+
+568
+00:20:55,000 --> 00:20:57,000
+it was a big responsibility
+
+569
+00:20:57,000 --> 00:20:59,000
+for the beginners.
+
+570
+00:20:59,000 --> 00:21:01,000
+For example,
+
+571
+00:21:01,000 --> 00:21:03,000
+Erika Pogorilac joined
+
+572
+00:21:03,000 --> 00:21:05,000
+and then Goran Blažič.
+
+573
+00:21:05,000 --> 00:21:07,000
+We were a bit more
+
+574
+00:21:07,000 --> 00:21:09,000
+experienced,
+
+575
+00:21:09,000 --> 00:21:11,000
+but others,
+
+576
+00:21:11,000 --> 00:21:13,000
+who were newbies,
+
+577
+00:21:13,000 --> 00:21:15,000
+were a bit behind.
+
+578
+00:21:15,000 --> 00:21:17,000
+But it was our successful project.
+
+579
+00:21:17,000 --> 00:21:19,000
+I don't know if it's still alive
+
+580
+00:21:19,000 --> 00:21:21,000
+or if it was replaced by others.
+
+581
+00:21:21,000 --> 00:21:23,000
+But we saw that
+
+582
+00:21:23,000 --> 00:21:25,000
+if you work with girls
+
+583
+00:21:25,000 --> 00:21:27,000
+in a different way,
+
+584
+00:21:27,000 --> 00:21:29,000
+and if they feel good...
+
+585
+00:21:29,000 --> 00:21:31,000
+You can help them,
+
+586
+00:21:31,000 --> 00:21:33,000
+you can make
+
+587
+00:21:33,000 --> 00:21:35,000
+a safe...
+
+588
+00:21:35,000 --> 00:21:37,000
+Safe for them, yes.
+
+589
+00:21:37,000 --> 00:21:39,000
+A safe
+
+590
+00:21:39,000 --> 00:21:41,000
+social environment
+
+591
+00:21:41,000 --> 00:21:43,000
+and give them your experience.
+
+592
+00:21:43,000 --> 00:21:45,000
+For me,
+
+593
+00:21:45,000 --> 00:21:47,000
+it's a stupid question.
+
+594
+00:21:47,000 --> 00:21:49,000
+If you ask me three times,
+
+595
+00:21:49,000 --> 00:21:51,000
+I'll answer you three times.
+
+596
+00:21:51,000 --> 00:21:53,000
+That's how we reduced
+
+597
+00:21:53,000 --> 00:21:55,000
+the barrier.
+
+598
+00:21:55,000 --> 00:21:57,000
+A few girls saw
+
+599
+00:21:57,000 --> 00:21:59,000
+that it's possible
+
+600
+00:21:59,000 --> 00:22:01,000
+to work with more technical companies.
+
+601
+00:22:01,000 --> 00:22:03,000
+I think Google
+
+602
+00:22:03,000 --> 00:22:05,000
+is a good scholarship.
+
+603
+00:22:05,000 --> 00:22:07,000
+For me,
+
+604
+00:22:07,000 --> 00:22:09,000
+if we converted one,
+
+605
+00:22:09,000 --> 00:22:11,000
+we did something.
+
+606
+00:22:11,000 --> 00:22:13,000
+I understand.
+
+607
+00:22:13,000 --> 00:22:15,000
+It's true that we
+
+608
+00:22:15,000 --> 00:22:17,000
+told the girls
+
+609
+00:22:17,000 --> 00:22:19,000
+that it's not about
+
+610
+00:22:19,000 --> 00:22:21,000
+learning how to program
+
+611
+00:22:21,000 --> 00:22:23,000
+and being a programmer.
+
+612
+00:22:23,000 --> 00:22:25,000
+Things are a bit more complex.
+
+613
+00:22:25,000 --> 00:22:27,000
+It takes time and effort
+
+614
+00:22:27,000 --> 00:22:29,000
+to become an engineer
+
+615
+00:22:29,000 --> 00:22:31,000
+or a developer.
+
+616
+00:22:33,000 --> 00:22:35,000
+Let me ask you.
+
+617
+00:22:35,000 --> 00:22:37,000
+The purpose
+
+618
+00:22:37,000 --> 00:22:39,000
+of the projects
+
+619
+00:22:39,000 --> 00:22:41,000
+you mentioned
+
+620
+00:22:41,000 --> 00:22:43,000
+was to teach programming
+
+621
+00:22:43,000 --> 00:22:45,000
+or to show people
+
+622
+00:22:45,000 --> 00:22:47,000
+what's going on
+
+623
+00:22:47,000 --> 00:22:49,000
+in the development of technical products.
+
+624
+00:22:49,000 --> 00:22:51,000
+I think
+
+625
+00:22:51,000 --> 00:22:53,000
+a lot of people
+
+626
+00:22:53,000 --> 00:22:55,000
+will try to program
+
+627
+00:22:55,000 --> 00:22:57,000
+and realize that
+
+628
+00:22:57,000 --> 00:22:59,000
+programming is not for them
+
+629
+00:22:59,000 --> 00:23:01,000
+and that project management
+
+630
+00:23:01,000 --> 00:23:03,000
+is more for them
+
+631
+00:23:03,000 --> 00:23:05,000
+and they'll find a way to do it.
+
+632
+00:23:05,000 --> 00:23:07,000
+Do you think this approach
+
+633
+00:23:07,000 --> 00:23:09,000
+will benefit the industry?
+
+634
+00:23:09,000 --> 00:23:11,000
+I'm sure it will.
+
+635
+00:23:11,000 --> 00:23:13,000
+There are a lot of stereotypes.
+
+636
+00:23:13,000 --> 00:23:15,000
+A developer sits in a room
+
+637
+00:23:15,000 --> 00:23:17,000
+with two monitors
+
+638
+00:23:17,000 --> 00:23:19,000
+and doesn't know what's going on.
+
+639
+00:23:19,000 --> 00:23:21,000
+No.
+
+640
+00:23:21,000 --> 00:23:23,000
+We've been to a lot of companies
+
+641
+00:23:23,000 --> 00:23:25,000
+and talked about it.
+
+642
+00:23:25,000 --> 00:23:27,000
+It's not a sole purpose.
+
+643
+00:23:29,000 --> 00:23:31,000
+Teaching someone
+
+644
+00:23:31,000 --> 00:23:33,000
+how to program
+
+645
+00:23:33,000 --> 00:23:35,000
+takes a lot of time.
+
+646
+00:23:35,000 --> 00:23:37,000
+I have to work from home
+
+647
+00:23:37,000 --> 00:23:39,000
+and share tutorials.
+
+648
+00:23:39,000 --> 00:23:41,000
+It's not a follow-up.
+
+649
+00:23:41,000 --> 00:23:43,000
+Life happens.
+
+650
+00:23:43,000 --> 00:23:45,000
+If you're not committed
+
+651
+00:23:45,000 --> 00:23:47,000
+and don't have a drive,
+
+652
+00:23:47,000 --> 00:23:49,000
+you can't do it.
+
+653
+00:23:49,000 --> 00:23:51,000
+On the other hand,
+
+654
+00:23:51,000 --> 00:23:53,000
+we've shown that
+
+655
+00:23:53,000 --> 00:23:55,000
+you don't have to
+
+656
+00:23:55,000 --> 00:23:57,000
+ask your colleagues
+
+657
+00:23:57,000 --> 00:23:59,000
+to understand
+
+658
+00:23:59,000 --> 00:24:01,000
+what they're talking about.
+
+659
+00:24:01,000 --> 00:24:03,000
+We had designers
+
+660
+00:24:03,000 --> 00:24:05,000
+and project managers in the group.
+
+661
+00:24:05,000 --> 00:24:07,000
+Maybe they found
+
+662
+00:24:07,000 --> 00:24:09,000
+a common language in the company.
+
+663
+00:24:09,000 --> 00:24:11,000
+OK.
+
+664
+00:24:11,000 --> 00:24:13,000
+I have another question.
+
+665
+00:24:13,000 --> 00:24:15,000
+How will the culture
+
+666
+00:24:15,000 --> 00:24:17,000
+of engineering
+
+667
+00:24:17,000 --> 00:24:19,000
+in Slovenia change?
+
+668
+00:24:19,000 --> 00:24:21,000
+How do you feel
+
+669
+00:24:21,000 --> 00:24:23,000
+as the Director of Engineering
+
+670
+00:24:23,000 --> 00:24:25,000
+at Databox?
+
+671
+00:24:25,000 --> 00:24:27,000
+Can we talk about that?
+
+672
+00:24:27,000 --> 00:24:29,000
+Of course.
+
+673
+00:24:29,000 --> 00:24:31,000
+We'll change it by one percent.
+
+674
+00:24:31,000 --> 00:24:33,000
+It's a topic
+
+675
+00:24:33,000 --> 00:24:35,000
+that I talk about
+
+676
+00:24:35,000 --> 00:24:37,000
+in various companies.
+
+677
+00:24:37,000 --> 00:24:39,000
+First of all,
+
+678
+00:24:39,000 --> 00:24:41,000
+it's not about the staff.
+
+679
+00:24:41,000 --> 00:24:43,000
+It's not about the staff.
+
+680
+00:24:43,000 --> 00:24:45,000
+Then you break it down
+
+681
+00:24:45,000 --> 00:24:47,000
+and you realize that
+
+682
+00:24:47,000 --> 00:24:49,000
+the staff is important.
+
+683
+00:24:49,000 --> 00:24:51,000
+Today, staff is
+
+684
+00:24:51,000 --> 00:24:53,000
+people.
+
+685
+00:24:53,000 --> 00:24:55,000
+People need
+
+686
+00:24:55,000 --> 00:24:57,000
+a good education.
+
+687
+00:24:57,000 --> 00:24:59,000
+They need to be comfortable,
+
+688
+00:24:59,000 --> 00:25:01,000
+they need to be educated,
+
+689
+00:25:01,000 --> 00:25:03,000
+they need to have a culture.
+
+690
+00:25:00,000 --> 00:25:09,000
+and a lot of things that triggered you to come to this company, for example.
+
+691
+00:25:09,000 --> 00:25:16,000
+And one of the things I see coming up again and again is that people say,
+
+692
+00:25:16,000 --> 00:25:21,000
+yes, this company has some good engineers, it has some interesting product,
+
+693
+00:25:21,000 --> 00:25:29,000
+but it doesn't have some technical management at the level that it could grow,
+
+694
+00:25:29,000 --> 00:25:34,000
+that it could have some breakthroughs, that it could have some talent again.
+
+695
+00:25:34,000 --> 00:25:39,000
+And I would like to hear from you how this is going to happen.
+
+696
+00:25:39,000 --> 00:25:43,000
+If I tell you how it's going to change, the easiest way is to hire all the people
+
+697
+00:25:43,000 --> 00:25:47,000
+who would like to change, because change comes from within.
+
+698
+00:25:47,000 --> 00:25:51,000
+You can change on LinkedIn, you can like as much as you want,
+
+699
+00:25:51,000 --> 00:25:55,000
+but if you don't apply to the company, it's futile.
+
+700
+00:25:55,000 --> 00:26:01,000
+We can do that, we can open to work, I don't know if my boss would be happy.
+
+701
+00:26:01,000 --> 00:26:05,000
+Otherwise, I think, as you said, it has to come from within.
+
+702
+00:26:05,000 --> 00:26:09,000
+People need to grow, they need to find ambassadors, allies,
+
+703
+00:26:09,000 --> 00:26:13,000
+and they also have to push back on their own in some way in management.
+
+704
+00:26:13,000 --> 00:26:16,000
+It's much easier if you live with a new company,
+
+705
+00:26:16,000 --> 00:26:19,000
+in such a way of thinking, to make sure that people are assets,
+
+706
+00:26:19,000 --> 00:26:22,000
+that you have to work with them, on them,
+
+707
+00:26:22,000 --> 00:26:25,000
+that you don't have to play chess with them,
+
+708
+00:26:25,000 --> 00:26:28,000
+and just pass them the ball as you like in the end.
+
+709
+00:26:28,000 --> 00:26:33,000
+It's important how they feel, how they feel used,
+
+710
+00:26:33,000 --> 00:26:37,000
+how much value they bring, how they feel heard,
+
+711
+00:26:37,000 --> 00:26:41,000
+and how much feedback they get, because we all get feedback,
+
+712
+00:26:41,000 --> 00:26:45,000
+we all have some nice PGs, sweet things, good things.
+
+713
+00:26:45,000 --> 00:26:49,000
+And, for example, what I saw on the database,
+
+714
+00:26:49,000 --> 00:26:52,000
+the meetings are weekly, one-on-one.
+
+715
+00:26:52,000 --> 00:26:55,000
+Well, if we take 15 minutes, it's not an operation,
+
+716
+00:26:55,000 --> 00:26:59,000
+but I talk to my engineers about what's cool in our relationship,
+
+717
+00:26:59,000 --> 00:27:03,000
+what's cool in the way we work, what's cool in working with others,
+
+718
+00:27:03,000 --> 00:27:07,000
+what's cool and not cool in communication with the inside team,
+
+719
+00:27:07,000 --> 00:27:10,000
+or with the outside team, and if you do that on a weekly basis,
+
+720
+00:27:10,000 --> 00:27:12,000
+something is accepted.
+
+721
+00:27:12,000 --> 00:27:16,000
+And then, when you group a team, they can move it forward,
+
+722
+00:27:16,000 --> 00:27:19,000
+or, in fact, when new people come in, they group them forward,
+
+723
+00:27:19,000 --> 00:27:22,000
+and that's how culture moves forward.
+
+724
+00:27:22,000 --> 00:27:25,000
+The other thing I talk about a lot is radical candor.
+
+725
+00:27:25,000 --> 00:27:29,000
+And I live for that, because you're, let's say,
+
+726
+00:27:29,000 --> 00:27:33,000
+nothing, nowhere is perfect,
+
+727
+00:27:33,000 --> 00:27:36,000
+and it's true that you can express,
+
+728
+00:27:36,000 --> 00:27:40,000
+that you're a dissenter, that you express a different opinion,
+
+729
+00:27:40,000 --> 00:27:42,000
+that that opinion is heard,
+
+730
+00:27:42,000 --> 00:27:44,000
+I don't have the brain to respect it,
+
+731
+00:27:44,000 --> 00:27:46,000
+I don't have the brain to look at the table,
+
+732
+00:27:46,000 --> 00:27:48,000
+and look at the different patterns, at the problem,
+
+733
+00:27:48,000 --> 00:27:51,000
+because I don't know the specific patterns.
+
+734
+00:27:51,000 --> 00:27:54,000
+If you have a company, let's say, a banal example,
+
+735
+00:27:54,000 --> 00:27:59,000
+if you have a company that is 99.9% male engineers,
+
+736
+00:27:59,000 --> 00:28:02,000
+you will describe everything in the documentation,
+
+737
+00:28:02,000 --> 00:28:04,000
+he does that, he does that,
+
+738
+00:28:04,000 --> 00:28:06,000
+where are we going, and so on.
+
+739
+00:28:06,000 --> 00:28:09,000
+And I say, I'm just a guy,
+
+740
+00:28:09,000 --> 00:28:11,000
+we're not just guys, let's say.
+
+741
+00:28:11,000 --> 00:28:14,000
+So that others can feel included,
+
+742
+00:28:14,000 --> 00:28:16,000
+so that they have everything in mind,
+
+743
+00:28:16,000 --> 00:28:18,000
+so that no one else exists.
+
+744
+00:28:18,000 --> 00:28:21,000
+Then, for example, one thing that I try to emphasize
+
+745
+00:28:21,000 --> 00:28:23,000
+is that we are all one company,
+
+746
+00:28:23,000 --> 00:28:27,000
+because there is a natural tendency to become a camp.
+
+747
+00:28:27,000 --> 00:28:32,000
+Oh, that's sales, that's marketing.
+
+748
+00:28:32,000 --> 00:28:36,000
+But each of us has his own piece of puzzle
+
+749
+00:28:36,000 --> 00:28:40,000
+that he has to contribute to the whole picture.
+
+750
+00:28:40,000 --> 00:28:43,000
+And if we draw some kind of empathy from other teams,
+
+751
+00:28:43,000 --> 00:28:46,000
+then we will understand that we have an image,
+
+752
+00:28:46,000 --> 00:28:48,000
+we need a name and an email that we get,
+
+753
+00:28:48,000 --> 00:28:51,000
+so that we understand that they have a slightly different payment,
+
+754
+00:28:51,000 --> 00:28:55,000
+and that they are not fools if they don't know how to speak our language,
+
+755
+00:28:55,000 --> 00:28:57,000
+because we don't know their language.
+
+756
+00:28:57,000 --> 00:29:00,000
+And let's say we don't use some patterns,
+
+757
+00:29:00,000 --> 00:29:02,000
+I wrote a lot about that,
+
+758
+00:29:02,000 --> 00:29:06,000
+because we are them, we are all us.
+
+759
+00:29:06,000 --> 00:29:11,000
+But I think we should do everything from the inside,
+
+760
+00:29:11,000 --> 00:29:16,000
+and then take management to a certain level for that.
+
+761
+00:29:16,000 --> 00:29:18,000
+The table is huge.
+
+762
+00:29:18,000 --> 00:29:22,000
+And it will be a bit similar,
+
+763
+00:29:22,000 --> 00:29:26,000
+because I practiced one-on-one for two weeks,
+
+764
+00:29:26,000 --> 00:29:28,000
+and one lesson.
+
+765
+00:29:28,000 --> 00:29:33,000
+But yes, it is mental effort.
+
+766
+00:29:33,000 --> 00:29:38,000
+But to sit with an engineer and debate not only
+
+767
+00:29:38,000 --> 00:29:42,000
+his current technical challenges,
+
+768
+00:29:42,000 --> 00:29:45,000
+but also how he will grow in his career,
+
+769
+00:29:45,000 --> 00:29:47,000
+how he will grow within the company,
+
+770
+00:29:47,000 --> 00:29:49,000
+how he can do some side projects
+
+771
+00:29:49,000 --> 00:29:52,000
+that will benefit his career and the company.
+
+772
+00:29:52,000 --> 00:29:55,000
+That's a lot of effort to put in,
+
+773
+00:29:55,000 --> 00:29:58,000
+but these are long-term investments.
+
+774
+00:29:58,000 --> 00:30:01,000
+You really hear about those one-on-ones,
+
+775
+00:30:01,000 --> 00:30:06,000
+everything from hatching to adopted cats.
+
+776
+00:30:06,000 --> 00:30:08,000
+But it all depends on them.
+
+777
+00:30:08,000 --> 00:30:10,000
+Yes, yes, it depends on them.
+
+778
+00:30:10,000 --> 00:30:11,000
+Adopted cats.
+
+779
+00:30:11,000 --> 00:30:14,000
+Yes, but that's part of life,
+
+780
+00:30:14,000 --> 00:30:16,000
+but also growth and death.
+
+781
+00:30:16,000 --> 00:30:18,000
+That's part of life.
+
+782
+00:30:22,000 --> 00:30:24,000
+I think it pays off,
+
+783
+00:30:24,000 --> 00:30:26,000
+because you have to put in some effort,
+
+784
+00:30:26,000 --> 00:30:28,000
+and if you work slowly,
+
+785
+00:30:28,000 --> 00:30:30,000
+then you don't need hours.
+
+786
+00:30:30,000 --> 00:30:33,000
+Sometimes you can solve things faster.
+
+787
+00:30:33,000 --> 00:30:36,000
+But yes, when things don't go smoothly,
+
+788
+00:30:36,000 --> 00:30:39,000
+and it happens that things don't go smoothly,
+
+789
+00:30:39,000 --> 00:30:42,000
+then there is some capital that you can invest in some way.
+
+790
+00:30:42,000 --> 00:30:44,000
+Absolutely.
+
+791
+00:30:44,000 --> 00:30:47,000
+And you get to know people,
+
+792
+00:30:47,000 --> 00:30:49,000
+you understand each other,
+
+793
+00:30:49,000 --> 00:30:51,000
+and it pays off.
+
+794
+00:30:51,000 --> 00:30:53,000
+That's what I recommend.
+
+795
+00:30:53,000 --> 00:30:56,000
+Can we go to a related topic now?
+
+796
+00:30:56,000 --> 00:30:59,000
+I think we started a bit, but okay.
+
+797
+00:30:59,000 --> 00:31:02,000
+Now you know that you have management of your peers,
+
+798
+00:31:02,000 --> 00:31:05,000
+which means that you manage people on your level,
+
+799
+00:31:05,000 --> 00:31:07,000
+and communicate with people on your level,
+
+800
+00:31:07,000 --> 00:31:10,000
+that is, with others, directors, managers.
+
+801
+00:31:10,000 --> 00:31:13,000
+Then you have downwards management,
+
+802
+00:31:13,000 --> 00:31:18,000
+that is, how you manage your subordinates.
+
+803
+00:31:18,000 --> 00:31:21,000
+Then you have upper management,
+
+804
+00:31:21,000 --> 00:31:25,000
+that is, how you communicate with your superiors.
+
+805
+00:31:25,000 --> 00:31:28,000
+I think we touched on the middle,
+
+806
+00:31:28,000 --> 00:31:32,000
+and I'm very interested in how you communicate on the top.
+
+807
+00:31:32,000 --> 00:31:36,000
+If you have a very good drawing,
+
+808
+00:31:36,000 --> 00:31:39,000
+then if the management doesn't see it for you,
+
+809
+00:31:39,000 --> 00:31:41,000
+but they know about it,
+
+810
+00:31:41,000 --> 00:31:44,000
+then it's not worth it.
+
+811
+00:31:44,000 --> 00:31:49,000
+I'm interested in your experience with upwards management.
+
+812
+00:31:50,000 --> 00:31:54,000
+It's great if the company supports
+
+813
+00:31:54,000 --> 00:31:59,000
+the increase of visibility of what the team is doing.
+
+814
+00:31:59,000 --> 00:32:03,000
+Specifically, we have weekly meetings on the database.
+
+815
+00:32:03,000 --> 00:32:05,000
+Who would have thought,
+
+816
+00:32:05,000 --> 00:32:07,000
+I don't know, an hour and a half.
+
+817
+00:32:07,000 --> 00:32:09,000
+That's a waste of time.
+
+818
+00:32:09,000 --> 00:32:11,000
+But it's not.
+
+819
+00:32:11,000 --> 00:32:15,000
+We recommend some key things within the team.
+
+820
+00:32:15,000 --> 00:32:19,000
+For example, an operation, progress of the project,
+
+821
+00:32:19,000 --> 00:32:21,000
+if there are any problems,
+
+822
+00:32:21,000 --> 00:32:23,000
+and also the human side,
+
+823
+00:32:23,000 --> 00:32:25,000
+who we might need now,
+
+824
+00:32:25,000 --> 00:32:27,000
+or how we relate to the team,
+
+825
+00:32:27,000 --> 00:32:30,000
+or we praise someone in the team.
+
+826
+00:32:30,000 --> 00:32:31,000
+So, for example,
+
+827
+00:32:31,000 --> 00:32:34,000
+upwards management gets visibility of what's going on,
+
+828
+00:32:34,000 --> 00:32:38,000
+and who has worked a little harder this week,
+
+829
+00:32:38,000 --> 00:32:41,000
+and who needs to be highly praised.
+
+830
+00:32:41,000 --> 00:32:43,000
+We've already had debates,
+
+831
+00:32:43,000 --> 00:32:45,000
+would you still have this meeting?
+
+832
+00:32:45,000 --> 00:32:47,000
+Would you still have it?
+
+833
+00:32:47,000 --> 00:32:48,000
+Because in the beginning,
+
+834
+00:32:48,000 --> 00:32:50,000
+you can do everything asynchronously.
+
+835
+00:32:50,000 --> 00:32:52,000
+When we post these things in Slack,
+
+836
+00:32:52,000 --> 00:32:54,000
+then you can check everything,
+
+837
+00:32:54,000 --> 00:32:55,000
+and we conclude.
+
+838
+00:32:55,000 --> 00:32:57,000
+If you can check everything,
+
+839
+00:32:57,000 --> 00:32:59,000
+you checked everything today.
+
+840
+00:32:59,000 --> 00:33:00,000
+That's one thing.
+
+841
+00:33:00,000 --> 00:33:02,000
+If you check everything today,
+
+842
+00:33:02,000 --> 00:33:04,000
+it works asynchronously.
+
+843
+00:33:04,000 --> 00:33:07,000
+But we found value in sitting together,
+
+844
+00:33:07,000 --> 00:33:08,000
+at the beginning,
+
+845
+00:33:08,000 --> 00:33:09,000
+for five minutes,
+
+846
+00:33:09,000 --> 00:33:10,000
+to discuss,
+
+847
+00:33:10,000 --> 00:33:11,000
+to fly over,
+
+848
+00:33:11,000 --> 00:33:13,000
+and then we debate questions.
+
+849
+00:33:13,000 --> 00:33:15,000
+And then we have such debates,
+
+850
+00:33:15,000 --> 00:33:17,000
+also at the leadership level.
+
+851
+00:33:17,000 --> 00:33:18,000
+That is,
+
+852
+00:33:18,000 --> 00:33:20,000
+how is the team now,
+
+853
+00:33:20,000 --> 00:33:22,000
+with which other team,
+
+854
+00:33:22,000 --> 00:33:24,000
+or where are some trainings,
+
+855
+00:33:24,000 --> 00:33:26,000
+or where do we need to help,
+
+856
+00:33:26,000 --> 00:33:28,000
+or what do we need to do as a team,
+
+857
+00:33:28,000 --> 00:33:29,000
+as some directors,
+
+858
+00:33:29,000 --> 00:33:31,000
+so that, I don't know,
+
+859
+00:33:31,000 --> 00:33:33,000
+we will be treated differently,
+
+860
+00:33:33,000 --> 00:33:35,000
+or what do we need to introduce,
+
+861
+00:33:35,000 --> 00:33:37,000
+or what do we need to support.
+
+862
+00:33:37,000 --> 00:33:38,000
+So, this kind of bonding,
+
+863
+00:33:38,000 --> 00:33:39,000
+at the weekly level,
+
+864
+00:33:39,000 --> 00:33:41,000
+is a part of the upper,
+
+865
+00:33:41,000 --> 00:33:42,000
+I mean,
+
+866
+00:33:42,000 --> 00:33:44,000
+management level.
+
+867
+00:33:44,000 --> 00:33:47,000
+Then we also have a weekly one-on-one,
+
+868
+00:33:47,000 --> 00:33:48,000
+for example,
+
+869
+00:33:48,000 --> 00:33:49,000
+with the founder,
+
+870
+00:33:49,000 --> 00:33:50,000
+or with the VP.
+
+871
+00:33:50,000 --> 00:33:51,000
+So,
+
+872
+00:33:51,000 --> 00:33:53,000
+it's not just an operative,
+
+873
+00:33:53,000 --> 00:33:55,000
+but today we also talk about,
+
+874
+00:33:55,000 --> 00:33:56,000
+for example,
+
+875
+00:33:56,000 --> 00:33:57,000
+if I have a challenge,
+
+876
+00:33:57,000 --> 00:33:58,000
+or I get feedback,
+
+877
+00:33:58,000 --> 00:34:01,000
+where my supervisor sees that I have a challenge,
+
+878
+00:34:01,000 --> 00:34:02,000
+or if it's just me,
+
+879
+00:34:02,000 --> 00:34:04,000
+then I remember that your team is working.
+
+880
+00:34:04,000 --> 00:34:05,000
+So, I get feedback,
+
+881
+00:34:05,000 --> 00:34:06,000
+that I need to support,
+
+882
+00:34:06,000 --> 00:34:08,000
+so that the visibility will be better.
+
+883
+00:34:08,000 --> 00:34:09,000
+Anyway,
+
+884
+00:34:09,000 --> 00:34:10,000
+this is how it works with us,
+
+885
+00:34:10,000 --> 00:34:11,000
+one-on-one,
+
+886
+00:34:11,000 --> 00:34:12,000
+up,
+
+887
+00:34:12,000 --> 00:34:13,000
+and actually down.
+
+888
+00:34:13,000 --> 00:34:14,000
+Then,
+
+889
+00:34:14,000 --> 00:34:15,000
+one of the things,
+
+890
+00:34:15,000 --> 00:34:17,000
+maybe we are a bit specific,
+
+891
+00:34:17,000 --> 00:34:20,000
+is that we are distributed.
+
+892
+00:34:20,000 --> 00:34:21,000
+So,
+
+893
+00:34:21,000 --> 00:34:22,000
+we have teams in America,
+
+894
+00:34:22,000 --> 00:34:23,000
+then we have teams,
+
+895
+00:34:23,000 --> 00:34:24,000
+if they can dance,
+
+896
+00:34:24,000 --> 00:34:26,000
+then we have a team here in Aptoide.
+
+897
+00:34:26,000 --> 00:34:27,000
+Now,
+
+898
+00:34:27,000 --> 00:34:29,000
+let's say that we are a bubble,
+
+899
+00:34:29,000 --> 00:34:30,000
+we don't care,
+
+900
+00:34:30,000 --> 00:34:33,000
+honey badger don't care,
+
+901
+00:34:33,000 --> 00:34:35,000
+we also have weekly meetings with them,
+
+902
+00:34:35,000 --> 00:34:36,000
+and it was like,
+
+903
+00:34:36,000 --> 00:34:37,000
+what did we talk about?
+
+904
+00:34:37,000 --> 00:34:38,000
+I mean,
+
+905
+00:34:38,000 --> 00:34:39,000
+what are the connections?
+
+906
+00:34:39,000 --> 00:34:40,000
+Yes.
+
+907
+00:34:40,000 --> 00:34:42,000
+And we noticed that,
+
+908
+00:34:42,000 --> 00:34:44,000
+even if we only see each other,
+
+909
+00:34:44,000 --> 00:34:45,000
+and at the beginning,
+
+910
+00:34:45,000 --> 00:34:46,000
+I don't know,
+
+911
+00:34:46,000 --> 00:34:47,000
+after 50 minutes,
+
+912
+00:34:47,000 --> 00:34:48,000
+we chat,
+
+913
+00:34:48,000 --> 00:34:49,000
+aha,
+
+914
+00:34:49,000 --> 00:34:50,000
+Bjeli will get a baby,
+
+915
+00:34:50,000 --> 00:34:51,000
+ah,
+
+916
+00:34:51,000 --> 00:34:52,000
+Tori,
+
+917
+00:34:52,000 --> 00:34:53,000
+and she went for a ride,
+
+918
+00:34:53,000 --> 00:34:54,000
+it also brings us a little closer,
+
+919
+00:34:54,000 --> 00:34:55,000
+and again,
+
+920
+00:34:55,000 --> 00:34:56,000
+we have some kind of growth,
+
+921
+00:34:56,000 --> 00:34:57,000
+to the mail,
+
+922
+00:34:57,000 --> 00:34:58,000
+to the task,
+
+923
+00:34:58,000 --> 00:34:59,000
+and it seems to me,
+
+924
+00:34:59,000 --> 00:35:00,000
+this is very important.
+
+925
+00:35:00,000 --> 00:35:01,000
+If we had been a scan slide for the first time,
+
+926
+00:35:01,000 --> 00:35:02,000
+we would have given it,
+
+927
+00:35:02,000 --> 00:35:04,000
+we could have talked even more.
+
+928
+00:35:04,000 --> 00:35:05,000
+And this,
+
+929
+00:35:05,000 --> 00:35:08,000
+this is not a waste of time,
+
+930
+00:35:08,000 --> 00:35:10,000
+you can't solve it with the mail,
+
+931
+00:35:10,000 --> 00:35:11,000
+and you can't solve it with a picture.
+
+932
+00:35:11,000 --> 00:35:13,000
+It would be much better anyway,
+
+933
+00:35:13,000 --> 00:35:14,000
+and I feel alive somehow,
+
+934
+00:35:14,000 --> 00:35:16,000
+but you have to maintain some kind of relationship,
+
+935
+00:35:16,000 --> 00:35:19,000
+for it to work.
+
+936
+00:35:19,000 --> 00:35:20,000
+Wow.
+
+937
+00:35:20,000 --> 00:35:21,000
+No,
+
+938
+00:35:21,000 --> 00:35:22,000
+good, good.
+
+939
+00:35:22,000 --> 00:35:23,000
+It's an effort,
+
+940
+00:35:23,000 --> 00:35:24,000
+yes,
+
+941
+00:35:24,000 --> 00:35:25,000
+no,
+
+942
+00:35:25,000 --> 00:35:26,000
+it's not the time yet,
+
+943
+00:35:26,000 --> 00:35:27,000
+but yes.
+
+944
+00:35:27,000 --> 00:35:28,000
+Yes,
+
+945
+00:35:28,000 --> 00:35:29,000
+so,
+
+946
+00:35:29,000 --> 00:35:30,000
+we established,
+
+947
+00:35:30,000 --> 00:35:33,000
+that you build culture from the inside,
+
+948
+00:35:33,000 --> 00:35:34,000
+we called ourselves,
+
+949
+00:35:34,000 --> 00:35:35,000
+Upward Upward Management.
+
+950
+00:35:35,000 --> 00:35:36,000
+Wait,
+
+951
+00:35:36,000 --> 00:35:37,000
+one more thing,
+
+952
+00:35:37,000 --> 00:35:38,000
+culture,
+
+953
+00:35:38,000 --> 00:35:39,000
+not that you build culture,
+
+954
+00:35:39,000 --> 00:35:40,000
+no,
+
+955
+00:35:40,000 --> 00:35:41,000
+no,
+
+956
+00:35:41,000 --> 00:35:42,000
+no,
+
+957
+00:35:42,000 --> 00:35:43,000
+we will now,
+
+958
+00:35:43,000 --> 00:35:44,000
+yes,
+
+959
+00:35:44,000 --> 00:35:45,000
+we will continue,
+
+960
+00:35:45,000 --> 00:35:46,000
+this is a topic,
+
+961
+00:35:46,000 --> 00:35:47,000
+we will try,
+
+962
+00:35:47,000 --> 00:35:48,000
+ah,
+
+963
+00:35:48,000 --> 00:35:49,000
+how do you see,
+
+964
+00:35:49,000 --> 00:35:50,000
+ok,
+
+965
+00:35:50,000 --> 00:35:51,000
+when you grow up,
+
+966
+00:35:51,000 --> 00:35:52,000
+you will need to increase,
+
+967
+00:35:52,000 --> 00:35:53,000
+manpower,
+
+968
+00:35:53,000 --> 00:35:54,000
+which you have at your disposal,
+
+969
+00:35:54,000 --> 00:35:55,000
+to expand the team,
+
+970
+00:35:55,000 --> 00:35:56,000
+everything can be increased,
+
+971
+00:35:57,000 --> 00:36:00,000
+which is some kind of a natural process,
+
+972
+00:36:00,000 --> 00:36:01,000
+how do you see,
+
+973
+00:36:01,000 --> 00:36:02,000
+how will you,
+
+974
+00:36:03,000 --> 00:36:06,000
+or how will you deal with it,
+
+975
+00:36:06,000 --> 00:36:09,000
+how will those patterns or culture,
+
+976
+00:36:10,000 --> 00:36:11,000
+which is happening,
+
+977
+00:36:11,000 --> 00:36:12,000
+this debate,
+
+978
+00:36:12,000 --> 00:36:13,000
+these relationships,
+
+979
+00:36:13,000 --> 00:36:14,000
+day-to-day activity,
+
+980
+00:36:14,000 --> 00:36:15,000
+and when you grow up,
+
+981
+00:36:17,000 --> 00:36:18,000
+when there will be more people,
+
+982
+00:36:19,000 --> 00:36:20,000
+because,
+
+983
+00:36:21,000 --> 00:36:23,000
+when the meeting would be one and a half hours,
+
+984
+00:36:23,000 --> 00:36:24,000
+if everyone came to it,
+
+985
+00:36:24,000 --> 00:36:26,000
+it would be a three-hour meeting,
+
+986
+00:36:27,000 --> 00:36:28,000
+how do you see this,
+
+987
+00:36:28,000 --> 00:36:30,000
+the scaling of these relationships,
+
+988
+00:36:30,000 --> 00:36:31,000
+and some cultures,
+
+989
+00:36:31,000 --> 00:36:32,000
+which come from it,
+
+990
+00:36:33,000 --> 00:36:34,000
+how do you deal with it,
+
+991
+00:36:35,000 --> 00:36:36,000
+how do you see it?
+
+992
+00:36:36,000 --> 00:36:37,000
+I don't know,
+
+993
+00:36:37,000 --> 00:36:38,000
+but I will be interested.
+
+994
+00:36:40,000 --> 00:36:41,000
+I don't know,
+
+995
+00:36:41,000 --> 00:36:42,000
+this is a challenge.
+
+996
+00:36:43,000 --> 00:36:44,000
+Will there be two meetings?
+
+997
+00:36:46,000 --> 00:36:47,000
+Yes,
+
+998
+00:36:47,000 --> 00:36:48,000
+it is,
+
+999
+00:36:48,000 --> 00:36:50,000
+it seems to me that these are some kind of natural processes,
+
+1000
+00:36:50,000 --> 00:36:51,000
+bigger than all those,
+
+1001
+00:36:52,000 --> 00:36:53,000
+yes,
+
+1002
+00:36:53,000 --> 00:36:54,000
+bigger challenges.
+
+1003
+00:36:54,000 --> 00:36:55,000
+Now,
+
+1004
+00:36:55,000 --> 00:36:56,000
+you know,
+
+1005
+00:36:56,000 --> 00:36:57,000
+when there are five people in the same room,
+
+1006
+00:36:57,000 --> 00:36:58,000
+everything changes,
+
+1007
+00:36:58,000 --> 00:36:59,000
+it is a natural state,
+
+1008
+00:36:59,000 --> 00:37:00,000
+you don't have to work outside.
+
+1009
+00:37:01,000 --> 00:37:02,000
+When you are older,
+
+1010
+00:37:02,000 --> 00:37:03,000
+you can maybe
+
+1011
+00:37:03,000 --> 00:37:04,000
+a little enforce
+
+1012
+00:37:04,000 --> 00:37:05,000
+this communication,
+
+1013
+00:37:05,000 --> 00:37:06,000
+these meetings,
+
+1014
+00:37:06,000 --> 00:37:07,000
+these,
+
+1015
+00:37:07,000 --> 00:37:08,000
+I don't know,
+
+1016
+00:37:08,000 --> 00:37:09,000
+we have once a week,
+
+1017
+00:37:09,000 --> 00:37:11,000
+all the teams together in the same room,
+
+1018
+00:37:11,000 --> 00:37:12,000
+for example,
+
+1019
+00:37:12,000 --> 00:37:13,000
+even a 15-minute sync.
+
+1020
+00:37:16,000 --> 00:37:18,000
+Part of this magic of culture
+
+1021
+00:37:18,000 --> 00:37:19,000
+is certainly lost,
+
+1022
+00:37:21,000 --> 00:37:22,000
+because,
+
+1023
+00:37:22,000 --> 00:37:23,000
+in my opinion,
+
+1024
+00:37:23,000 --> 00:37:24,000
+I think,
+
+1025
+00:37:24,000 --> 00:37:25,000
+as I saw,
+
+1026
+00:37:25,000 --> 00:37:26,000
+like the previous company,
+
+1027
+00:37:26,000 --> 00:37:28,000
+is that there may also be some subcultures,
+
+1028
+00:37:28,000 --> 00:37:29,000
+we had a company where,
+
+1029
+00:37:30,000 --> 00:37:31,000
+in general,
+
+1030
+00:37:31,000 --> 00:37:34,000
+the company may not have had such a good culture,
+
+1031
+00:37:35,000 --> 00:37:36,000
+but part of the team,
+
+1032
+00:37:36,000 --> 00:37:38,000
+which was also location-oriented,
+
+1033
+00:37:39,000 --> 00:37:40,000
+and when we were maybe
+
+1034
+00:37:40,000 --> 00:37:41,000
+such people,
+
+1035
+00:37:41,000 --> 00:37:42,000
+who were on the line,
+
+1036
+00:37:42,000 --> 00:37:43,000
+and then we had some
+
+1037
+00:37:43,000 --> 00:37:44,000
+negative feedback,
+
+1038
+00:37:45,000 --> 00:37:46,000
+we built a subculture,
+
+1039
+00:37:46,000 --> 00:37:47,000
+it is called
+
+1040
+00:37:47,000 --> 00:37:48,000
+a subculture of respect,
+
+1041
+00:37:49,000 --> 00:37:50,000
+challenging each other,
+
+1042
+00:37:50,000 --> 00:37:51,000
+discovering each other,
+
+1043
+00:37:52,000 --> 00:37:53,000
+one-on-one,
+
+1044
+00:37:53,000 --> 00:37:54,000
+but it was not something
+
+1045
+00:37:54,000 --> 00:37:55,000
+for the process,
+
+1046
+00:37:55,000 --> 00:37:56,000
+prescribed by the company.
+
+1047
+00:37:59,000 --> 00:38:00,000
+I have no answer.
+
+1048
+00:38:04,000 --> 00:38:05,000
+For more,
+
+1049
+00:38:05,000 --> 00:38:06,000
+it should be,
+
+1050
+00:38:06,000 --> 00:38:07,000
+fuck,
+
+1051
+00:38:07,000 --> 00:38:08,000
+this is a challenge.
+
+1052
+00:38:08,000 --> 00:38:09,000
+I still have one
+
+1053
+00:38:10,000 --> 00:38:11,000
+hypothesis,
+
+1054
+00:38:11,000 --> 00:38:12,000
+a theory,
+
+1055
+00:38:12,000 --> 00:38:13,000
+and with that I make
+
+1056
+00:38:13,000 --> 00:38:14,000
+The Fork,
+
+1057
+00:38:14,000 --> 00:38:15,000
+and I think that
+
+1058
+00:38:17,000 --> 00:38:18,000
+in development,
+
+1059
+00:38:18,000 --> 00:38:19,000
+in engineering,
+
+1060
+00:38:19,000 --> 00:38:20,000
+you start,
+
+1061
+00:38:20,000 --> 00:38:21,000
+let's say that
+
+1062
+00:38:21,000 --> 00:38:22,000
+most people start
+
+1063
+00:38:22,000 --> 00:38:23,000
+a student job,
+
+1064
+00:38:23,000 --> 00:38:24,000
+or a junior developer,
+
+1065
+00:38:24,000 --> 00:38:25,000
+a mid-developer,
+
+1066
+00:38:25,000 --> 00:38:26,000
+a developer engineer,
+
+1067
+00:38:27,000 --> 00:38:28,000
+and then a senior,
+
+1068
+00:38:29,000 --> 00:38:30,000
+and then there is a moment
+
+1069
+00:38:30,000 --> 00:38:31,000
+when you have to decide
+
+1070
+00:38:32,000 --> 00:38:33,000
+whether you will be
+
+1071
+00:38:34,000 --> 00:38:35,000
+a developer in the future,
+
+1072
+00:38:36,000 --> 00:38:37,000
+or you will go
+
+1073
+00:38:37,000 --> 00:38:38,000
+to a management position,
+
+1074
+00:38:40,000 --> 00:38:41,000
+and I am surprised
+
+1075
+00:38:41,000 --> 00:38:42,000
+that you were on
+
+1076
+00:38:42,000 --> 00:38:43,000
+The Fork
+
+1077
+00:38:43,000 --> 00:38:44,000
+at some point,
+
+1078
+00:38:45,000 --> 00:38:46,000
+and then you decided
+
+1079
+00:38:46,000 --> 00:38:47,000
+to go to management,
+
+1080
+00:38:47,000 --> 00:38:48,000
+role management,
+
+1081
+00:38:49,000 --> 00:38:50,000
+and that means
+
+1082
+00:38:50,000 --> 00:38:51,000
+that now you are
+
+1083
+00:38:51,000 --> 00:38:52,000
+more or less
+
+1084
+00:38:52,000 --> 00:38:53,000
+only dealing with technology.
+
+1085
+00:38:53,000 --> 00:38:54,000
+How do you see The Fork?
+
+1086
+00:38:56,000 --> 00:38:57,000
+I am a manager
+
+1087
+00:38:57,000 --> 00:38:58,000
+during the day,
+
+1088
+00:38:58,000 --> 00:38:59,000
+and a developer at night.
+
+1089
+00:39:02,000 --> 00:39:03,000
+I would not say
+
+1090
+00:39:03,000 --> 00:39:04,000
+that I was on The Fork,
+
+1091
+00:39:05,000 --> 00:39:06,000
+because I never felt
+
+1092
+00:39:07,000 --> 00:39:08,000
+like a top-sheet
+
+1093
+00:39:08,000 --> 00:39:09,000
+A-player developer.
+
+1094
+00:39:10,000 --> 00:39:11,000
+I always had
+
+1095
+00:39:11,000 --> 00:39:12,000
+this imposter syndrome.
+
+1096
+00:39:13,000 --> 00:39:14,000
+But it seems to me
+
+1097
+00:39:14,000 --> 00:39:15,000
+that my power
+
+1098
+00:39:16,000 --> 00:39:17,000
+or my strength
+
+1099
+00:39:17,000 --> 00:39:18,000
+is the bond of people.
+
+1100
+00:39:20,000 --> 00:39:21,000
+Recognizing
+
+1101
+00:39:21,000 --> 00:39:22,000
+some potential,
+
+1102
+00:39:23,000 --> 00:39:24,000
+motivating,
+
+1103
+00:39:24,000 --> 00:39:25,000
+challenging,
+
+1104
+00:39:25,000 --> 00:39:26,000
+taking a lot,
+
+1105
+00:39:27,000 --> 00:39:28,000
+it seems to me
+
+1106
+00:39:28,000 --> 00:39:29,000
+that if I have
+
+1107
+00:39:29,000 --> 00:39:30,000
+this empathy,
+
+1108
+00:39:30,000 --> 00:39:31,000
+it can help me
+
+1109
+00:39:31,000 --> 00:39:32,000
+on the management track.
+
+1110
+00:39:33,000 --> 00:39:34,000
+And it seems to me
+
+1111
+00:39:35,000 --> 00:39:36,000
+that I can contribute
+
+1112
+00:39:36,000 --> 00:39:37,000
+even more.
+
+1113
+00:39:38,000 --> 00:39:39,000
+So, really,
+
+1114
+00:39:39,000 --> 00:39:40,000
+I never had
+
+1115
+00:39:40,000 --> 00:39:41,000
+dilemmas
+
+1116
+00:39:41,000 --> 00:39:42,000
+about where to go.
+
+1117
+00:39:43,000 --> 00:39:44,000
+It is true that
+
+1118
+00:39:44,000 --> 00:39:45,000
+in my life,
+
+1119
+00:39:45,000 --> 00:39:46,000
+I said to myself
+
+1120
+00:39:46,000 --> 00:39:47,000
+that I do not want
+
+1121
+00:39:47,000 --> 00:39:48,000
+to be at the driver's seat,
+
+1122
+00:39:48,000 --> 00:39:49,000
+I do not want to drive.
+
+1123
+00:39:50,000 --> 00:39:51,000
+I have a certain ambition,
+
+1124
+00:39:51,000 --> 00:39:52,000
+there are things
+
+1125
+00:39:52,000 --> 00:39:53,000
+I would like to do,
+
+1126
+00:39:53,000 --> 00:39:54,000
+and I know
+
+1127
+00:39:54,000 --> 00:39:55,000
+that I can do it
+
+1128
+00:39:55,000 --> 00:39:56,000
+only when I have
+
+1129
+00:39:56,000 --> 00:39:57,000
+some decision power.
+
+1130
+00:39:58,000 --> 00:39:59,000
+And I am very happy
+
+1131
+00:39:59,000 --> 00:40:00,000
+to come to the point
+
+1132
+00:40:00,000 --> 00:40:01,000
+where I can help
+
+1133
+00:40:01,000 --> 00:40:02,000
+create everything,
+
+1134
+00:40:02,000 --> 00:40:03,000
+some things,
+
+1135
+00:40:03,000 --> 00:40:04,000
+because it seems to me
+
+1136
+00:40:04,000 --> 00:40:05,000
+that what I am talking about
+
+1137
+00:40:05,000 --> 00:40:06,000
+is important.
+
+1138
+00:40:07,000 --> 00:40:08,000
+And I am happy
+
+1139
+00:40:08,000 --> 00:40:09,000
+against those
+
+1140
+00:40:09,000 --> 00:40:10,000
+who only look
+
+1141
+00:40:10,000 --> 00:40:11,000
+at the numbers,
+
+1142
+00:40:11,000 --> 00:40:12,000
+only at productivity,
+
+1143
+00:40:13,000 --> 00:40:14,000
+and it seems to me
+
+1144
+00:40:14,000 --> 00:40:15,000
+that I can balance
+
+1145
+00:40:15,000 --> 00:40:16,000
+that human side
+
+1146
+00:40:16,000 --> 00:40:17,000
+in engineering.
+
+1147
+00:40:19,000 --> 00:40:20,000
+For example,
+
+1148
+00:40:20,000 --> 00:40:21,000
+one such lesson
+
+1149
+00:40:21,000 --> 00:40:22,000
+was given to me
+
+1150
+00:40:22,000 --> 00:40:23,000
+by FACS.
+
+1151
+00:40:24,000 --> 00:40:25,000
+When I got the feeling
+
+1152
+00:40:25,000 --> 00:40:26,000
+that computers,
+
+1153
+00:40:27,000 --> 00:40:28,000
+however they are called,
+
+1154
+00:40:29,000 --> 00:40:30,000
+think for themselves.
+
+1155
+00:40:31,000 --> 00:40:32,000
+A computer exists
+
+1156
+00:40:32,000 --> 00:40:33,000
+because it exists,
+
+1157
+00:40:33,000 --> 00:40:34,000
+because it is.
+
+1158
+00:40:35,000 --> 00:40:36,000
+But if you look a little,
+
+1159
+00:40:37,000 --> 00:40:38,000
+you step back a little,
+
+1160
+00:40:38,000 --> 00:40:39,000
+you realize that a computer
+
+1161
+00:40:39,000 --> 00:40:40,000
+is a support.
+
+1162
+00:40:41,000 --> 00:40:42,000
+Today we support
+
+1163
+00:40:42,000 --> 00:40:43,000
+all kinds of ideas.
+
+1164
+00:40:44,000 --> 00:40:45,000
+We are the ones
+
+1165
+00:40:45,000 --> 00:40:46,000
+who do it
+
+1166
+00:40:46,000 --> 00:40:47,000
+because this idea
+
+1167
+00:40:47,000 --> 00:40:48,000
+comes to life
+
+1168
+00:40:48,000 --> 00:40:49,000
+and today it works.
+
+1169
+00:40:49,000 --> 00:40:50,000
+We didn't do it
+
+1170
+00:40:50,000 --> 00:40:51,000
+just for ourselves.
+
+1171
+00:40:51,000 --> 00:40:52,000
+And that gave me
+
+1172
+00:40:52,000 --> 00:40:53,000
+such a mindset
+
+1173
+00:40:53,000 --> 00:40:54,000
+that in all companies
+
+1174
+00:40:54,000 --> 00:40:55,000
+that we are,
+
+1175
+00:40:55,000 --> 00:40:56,000
+even if it is an IT company,
+
+1176
+00:40:56,000 --> 00:40:57,000
+it should be known
+
+1177
+00:40:57,000 --> 00:40:58,000
+that we are the ones
+
+1178
+00:40:58,000 --> 00:40:59,000
+who actually enable it.
+
+1179
+00:40:59,000 --> 00:41:00,000
+We are not there
+
+1180
+00:41:00,000 --> 00:41:01,000
+because we are different.
+
+1181
+00:41:01,000 --> 00:41:02,000
+If there was an institution
+
+1182
+00:41:02,000 --> 00:41:03,000
+that would deal with it
+
+1183
+00:41:03,000 --> 00:41:04,000
+today,
+
+1184
+00:41:04,000 --> 00:41:05,000
+to make a top sheet
+
+1185
+00:41:05,000 --> 00:41:06,000
+of development,
+
+1186
+00:41:06,000 --> 00:41:07,000
+for example,
+
+1187
+00:41:07,000 --> 00:41:08,000
+we remained a support.
+
+1188
+00:41:09,000 --> 00:41:10,000
+I would like to add
+
+1189
+00:41:10,000 --> 00:41:11,000
+that today
+
+1190
+00:41:13,000 --> 00:41:14,000
+you see IT
+
+1191
+00:41:15,000 --> 00:41:16,000
+more as a
+
+1192
+00:41:17,000 --> 00:41:18,000
+neighbor.
+
+1193
+00:41:18,000 --> 00:41:19,000
+Yes, as a neighbor.
+
+1194
+00:41:21,000 --> 00:41:22,000
+This is also
+
+1195
+00:41:22,000 --> 00:41:23,000
+an interesting topic
+
+1196
+00:41:23,000 --> 00:41:24,000
+because today
+
+1197
+00:41:24,000 --> 00:41:25,000
+you see
+
+1198
+00:41:26,000 --> 00:41:27,000
+that all companies
+
+1199
+00:41:27,000 --> 00:41:28,000
+are tech companies
+
+1200
+00:41:28,000 --> 00:41:29,000
+in a way.
+
+1201
+00:41:29,000 --> 00:41:30,000
+Technology plays
+
+1202
+00:41:30,000 --> 00:41:31,000
+an important role.
+
+1203
+00:41:32,000 --> 00:41:33,000
+Some companies
+
+1204
+00:41:33,000 --> 00:41:34,000
+openly support it,
+
+1205
+00:41:35,000 --> 00:41:36,000
+acknowledge it,
+
+1206
+00:41:36,000 --> 00:41:37,000
+focus on it,
+
+1207
+00:41:38,000 --> 00:41:39,000
+facilitate awareness,
+
+1208
+00:41:40,000 --> 00:41:41,000
+focus,
+
+1209
+00:41:41,000 --> 00:41:42,000
+debate, etc.
+
+1210
+00:41:42,000 --> 00:41:43,000
+Others don't.
+
+1211
+00:41:45,000 --> 00:41:46,000
+And there you have
+
+1212
+00:41:46,000 --> 00:41:47,000
+a lot of problems.
+
+1213
+00:41:49,000 --> 00:41:50,000
+I mean,
+
+1214
+00:41:50,000 --> 00:41:51,000
+today I imagine
+
+1215
+00:41:51,000 --> 00:41:52,000
+that everything is
+
+1216
+00:41:52,000 --> 00:41:53,000
+a tech company
+
+1217
+00:41:53,000 --> 00:41:54,000
+where technology
+
+1218
+00:41:54,000 --> 00:41:55,000
+is at the forefront
+
+1219
+00:41:55,000 --> 00:41:56,000
+more than probably
+
+1220
+00:41:56,000 --> 00:41:57,000
+some other companies.
+
+1221
+00:41:59,000 --> 00:42:00,000
+But I think
+
+1222
+00:42:00,000 --> 00:42:01,000
+I know what you mean.
+
+1223
+00:42:01,000 --> 00:42:02,000
+Yes, no, hold on.
+
+1224
+00:42:02,000 --> 00:42:03,000
+We are working
+
+1225
+00:42:03,000 --> 00:42:04,000
+on the main level
+
+1226
+00:42:04,000 --> 00:42:05,000
+of technology.
+
+1227
+00:42:05,000 --> 00:42:06,000
+We want to do
+
+1228
+00:42:06,000 --> 00:42:07,000
+stable things.
+
+1229
+00:42:07,000 --> 00:42:08,000
+Of course,
+
+1230
+00:42:08,000 --> 00:42:09,000
+we want to
+
+1231
+00:42:09,000 --> 00:42:10,000
+work for a few years.
+
+1232
+00:42:11,000 --> 00:42:12,000
+But we are not
+
+1233
+00:42:12,000 --> 00:42:13,000
+satisfied.
+
+1234
+00:42:13,000 --> 00:42:14,000
+Yes, we have
+
+1235
+00:42:14,000 --> 00:42:15,000
+a top-notch
+
+1236
+00:42:15,000 --> 00:42:16,000
+software,
+
+1237
+00:42:16,000 --> 00:42:17,000
+but we don't
+
+1238
+00:42:17,000 --> 00:42:18,000
+have a user.
+
+1239
+00:42:18,000 --> 00:42:19,000
+Yes, I understand.
+
+1240
+00:42:19,000 --> 00:42:20,000
+That's what I mean.
+
+1241
+00:42:21,000 --> 00:42:22,000
+It means
+
+1242
+00:42:22,000 --> 00:42:23,000
+that we need
+
+1243
+00:42:23,000 --> 00:42:24,000
+to add
+
+1244
+00:42:24,000 --> 00:42:25,000
+a user
+
+1245
+00:42:25,000 --> 00:42:26,000
+in the account
+
+1246
+00:42:26,000 --> 00:42:27,000
+who can
+
+1247
+00:42:27,000 --> 00:42:28,000
+solve
+
+1248
+00:42:28,000 --> 00:42:29,000
+any problem.
+
+1249
+00:42:29,000 --> 00:42:30,000
+We are all
+
+1250
+00:42:30,000 --> 00:42:31,000
+in business
+
+1251
+00:42:31,000 --> 00:42:32,000
+to solve
+
+1252
+00:42:32,000 --> 00:42:33,000
+a problem,
+
+1253
+00:42:33,000 --> 00:42:34,000
+not just
+
+1254
+00:42:34,000 --> 00:42:35,000
+to solve
+
+1255
+00:42:35,000 --> 00:42:36,000
+a problem.
+
+1256
+00:42:36,000 --> 00:42:37,000
+My own
+
+1257
+00:42:37,000 --> 00:42:38,000
+institutions
+
+1258
+00:42:38,000 --> 00:42:39,000
+where people
+
+1259
+00:42:39,000 --> 00:42:40,000
+work
+
+1260
+00:42:40,000 --> 00:42:41,000
+are good
+
+1261
+00:42:41,000 --> 00:42:42,000
+because they
+
+1262
+00:42:42,000 --> 00:42:43,000
+are easy
+
+1263
+00:42:43,000 --> 00:42:44,000
+to research,
+
+1264
+00:42:44,000 --> 00:42:45,000
+because they
+
+1265
+00:42:45,000 --> 00:42:46,000
+develop
+
+1266
+00:42:46,000 --> 00:42:47,000
+new solutions,
+
+1267
+00:42:47,000 --> 00:42:48,000
+break through
+
+1268
+00:42:48,000 --> 00:42:49,000
+walls.
+
+1269
+00:42:49,000 --> 00:42:50,000
+There are
+
+1270
+00:42:50,000 --> 00:42:51,000
+such companies,
+
+1271
+00:42:51,000 --> 00:42:52,000
+but I
+
+1272
+00:42:52,000 --> 00:42:53,000
+haven't worked
+
+1273
+00:42:53,000 --> 00:42:54,000
+in such
+
+1274
+00:42:54,000 --> 00:42:55,000
+companies.
+
+1275
+00:42:55,000 --> 00:42:56,000
+I think
+
+1276
+00:42:56,000 --> 00:42:57,000
+we need
+
+1277
+00:42:57,000 --> 00:42:58,000
+to prevent
+
+1278
+00:42:58,000 --> 00:42:59,000
+becoming
+
+1279
+00:42:59,000 --> 00:43:00,000
+douchebags
+
+1280
+00:43:00,000 --> 00:43:01,000
+and saying
+
+1281
+00:43:01,000 --> 00:43:02,000
+yes, yes,
+
+1282
+00:43:02,000 --> 00:43:03,000
+you are
+
+1283
+00:43:03,000 --> 00:43:04,000
+a douchebag,
+
+1284
+00:43:04,000 --> 00:43:05,000
+because
+
+1285
+00:43:05,000 --> 00:43:06,000
+you are
+
+1286
+00:43:06,000 --> 00:43:07,000
+a douchebag.
+
+1287
+00:43:07,000 --> 00:43:08,000
+Let me
+
+1288
+00:43:08,000 --> 00:43:09,000
+start
+
+1289
+00:43:09,000 --> 00:43:10,000
+with another
+
+1290
+00:43:10,000 --> 00:43:11,000
+topic.
+
+1291
+00:43:11,000 --> 00:43:12,000
+I think
+
+1292
+00:43:12,000 --> 00:43:13,000
+we have
+
+1293
+00:43:13,000 --> 00:43:14,000
+changed
+
+1294
+00:43:14,000 --> 00:43:15,000
+the comment
+
+1295
+00:43:15,000 --> 00:43:16,000
+on LinkedIn
+
+1296
+00:43:16,000 --> 00:43:17,000
+a lot,
+
+1297
+00:43:17,000 --> 00:43:18,000
+but Dazabox
+
+1298
+00:43:18,000 --> 00:43:19,000
+is
+
+1299
+00:43:19,000 --> 00:43:20,000
+a company
+
+1300
+00:43:20,000 --> 00:43:21,000
+that is
+
+1301
+00:43:21,000 --> 00:43:22,000
+more than
+
+1302
+00:43:22,000 --> 00:43:23,000
+10 years
+
+1303
+00:43:23,000 --> 00:43:24,000
+old,
+
+1304
+00:43:24,000 --> 00:43:25,000
+if I'm not
+
+1305
+00:43:25,000 --> 00:43:26,000
+mistaken.
+
+1306
+00:43:26,000 --> 00:43:27,000
+It holds.
+
+1307
+00:43:27,000 --> 00:43:28,000
+It holds.
+
+1308
+00:43:28,000 --> 00:43:29,000
+It is
+
+1309
+00:43:29,000 --> 00:43:30,000
+a company
+
+1310
+00:43:30,000 --> 00:43:31,000
+that has
+
+1311
+00:43:31,000 --> 00:43:32,000
+accumulated
+
+1312
+00:43:32,000 --> 00:43:33,000
+technical
+
+1313
+00:43:33,000 --> 00:43:34,000
+debt.
+
+1314
+00:43:34,000 --> 00:43:35,000
+It is
+
+1315
+00:43:35,000 --> 00:43:36,000
+a company
+
+1316
+00:43:36,000 --> 00:43:37,000
+that has
+
+1317
+00:43:37,000 --> 00:43:38,000
+accumulated
+
+1318
+00:43:38,000 --> 00:43:39,000
+technical debt.
+
+1319
+00:43:39,000 --> 00:43:40,000
+It is
+
+1320
+00:43:40,000 --> 00:43:41,000
+a company
+
+1321
+00:43:41,000 --> 00:43:42,000
+that has
+
+1322
+00:43:42,000 --> 00:43:43,000
+accumulated
+
+1323
+00:43:43,000 --> 00:43:44,000
+technical debt.
+
+1324
+00:43:44,000 --> 00:43:45,000
+It is
+
+1325
+00:43:45,000 --> 00:43:46,000
+a company
+
+1326
+00:43:46,000 --> 00:43:47,000
+that has
+
+1327
+00:43:47,000 --> 00:43:48,000
+accumulated
+
+1328
+00:43:48,000 --> 00:43:49,000
+technical debt.
+
+1329
+00:43:49,000 --> 00:43:50,000
+I'm
+
+1330
+00:43:50,000 --> 00:43:51,000
+curious
+
+1331
+00:43:51,000 --> 00:43:52,000
+how much
+
+1332
+00:43:52,000 --> 00:43:53,000
+you invest
+
+1333
+00:43:53,000 --> 00:43:54,000
+in your
+
+1334
+00:43:54,000 --> 00:43:55,000
+job
+
+1335
+00:43:55,000 --> 00:43:56,000
+with that.
+
+1336
+00:43:56,000 --> 00:43:57,000
+How do
+
+1337
+00:43:57,000 --> 00:43:58,000
+you solve
+
+1338
+00:43:58,000 --> 00:43:59,000
+the problem
+
+1339
+00:43:59,000 --> 00:44:00,000
+of technical
+
+1340
+00:44:00,000 --> 00:44:01,000
+debt?
+
+1341
+00:44:01,000 --> 00:44:02,000
+I can
+
+1342
+00:44:02,000 --> 00:44:03,000
+answer.
+
+1343
+00:44:03,000 --> 00:44:04,000
+Definitely
+
+1344
+00:44:04,000 --> 00:44:05,000
+there is
+
+1345
+00:44:05,000 --> 00:44:06,000
+technical
+
+1346
+00:44:06,000 --> 00:44:07,000
+debt.
+
+1347
+00:44:07,000 --> 00:44:08,000
+Now
+
+1348
+00:44:08,000 --> 00:44:09,000
+maybe it's
+
+1349
+00:44:09,000 --> 00:44:10,000
+not so
+
+1350
+00:44:10,000 --> 00:44:11,000
+critical
+
+1351
+00:44:11,000 --> 00:44:12,000
+that if we
+
+1352
+00:44:12,000 --> 00:44:13,000
+don't
+
+1353
+00:44:13,000 --> 00:44:14,000
+solve it
+
+1354
+00:44:14,000 --> 00:44:15,000
+at this
+
+1355
+00:44:15,000 --> 00:44:16,000
+moment,
+
+1356
+00:44:16,000 --> 00:44:17,000
+the company
+
+1357
+00:44:17,000 --> 00:44:18,000
+will close
+
+1358
+00:44:18,000 --> 00:44:19,000
+permanently,
+
+1359
+00:44:19,000 --> 00:44:20,000
+because
+
+1360
+00:44:20,000 --> 00:44:21,000
+everyone
+
+1361
+00:44:21,000 --> 00:44:22,000
+has a
+
+1362
+00:44:22,000 --> 00:44:23,000
+house
+
+1363
+00:44:23,000 --> 00:44:24,000
+and a
+
+1364
+00:44:24,000 --> 00:44:25,000
+car.
+
+1365
+00:44:25,000 --> 00:44:26,000
+We
+
+1366
+00:44:26,000 --> 00:44:27,000
+are aware
+
+1367
+00:44:27,000 --> 00:44:28,000
+of that.
+
+1368
+00:44:28,000 --> 00:44:29,000
+Management
+
+1369
+00:44:29,000 --> 00:44:30,000
+is aware
+
+1370
+00:44:30,000 --> 00:44:31,000
+that
+
+1371
+00:44:31,000 --> 00:44:32,000
+we have
+
+1372
+00:44:32,000 --> 00:44:33,000
+engineers
+
+1373
+00:44:33,000 --> 00:44:34,000
+that are
+
+1374
+00:44:34,000 --> 00:44:35,000
+my sparring
+
+1375
+00:44:35,000 --> 00:44:36,000
+partners and
+
+1376
+00:44:36,000 --> 00:44:37,000
+I expect
+
+1377
+00:44:37,000 --> 00:44:38,000
+from them
+
+1378
+00:44:38,000 --> 00:44:39,000
+that when
+
+1379
+00:44:39,000 --> 00:44:40,000
+they come
+
+1380
+00:44:40,000 --> 00:44:41,000
+from the
+
+1381
+00:44:41,000 --> 00:44:42,000
+product side
+
+1382
+00:44:42,000 --> 00:44:43,000
+and say
+
+1383
+00:44:43,000 --> 00:44:44,000
+hey guys
+
+1384
+00:44:44,000 --> 00:44:45,000
+I'm working
+
+1385
+00:44:45,000 --> 00:44:46,000
+on this
+
+1386
+00:44:46,000 --> 00:44:47,000
+feature,
+
+1387
+00:44:47,000 --> 00:44:48,000
+that they
+
+1388
+00:44:48,000 --> 00:44:49,000
+stop
+
+1389
+00:44:49,000 --> 00:44:50,000
+the over
+
+1390
+00:44:50,000 --> 00:44:51,000
+my dead
+
+1391
+00:44:51,000 --> 00:44:52,000
+body,
+
+1392
+00:44:52,000 --> 00:44:53,000
+because
+
+1393
+00:44:53,000 --> 00:44:54,000
+we need
+
+1394
+00:44:54,000 --> 00:44:55,000
+to explain
+
+1395
+00:44:55,000 --> 00:44:56,000
+that first
+
+1396
+00:44:56,000 --> 00:44:57,000
+because
+
+1397
+00:44:57,000 --> 00:44:58,000
+we are
+
+1398
+00:44:58,000 --> 00:44:59,000
+working
+
+1399
+00:44:59,000 --> 00:45:00,000
+on
+
+1400
+00:45:00,000 --> 00:45:01,000
+that.
+
+1401
+00:45:01,000 --> 00:45:02,000
+We
+
+1402
+00:45:02,000 --> 00:45:03,000
+need to
+
+1403
+00:45:03,000 --> 00:45:04,000
+evaluate
+
+1404
+00:45:04,000 --> 00:45:05,000
+ourselves
+
+1405
+00:45:05,000 --> 00:45:06,000
+when
+
+1406
+00:45:06,000 --> 00:45:07,000
+it's
+
+1407
+00:45:07,000 --> 00:45:08,000
+necessary
+
+1408
+00:45:08,000 --> 00:45:09,000
+and
+
+1409
+00:45:09,000 --> 00:45:10,000
+when
+
+1410
+00:45:10,000 --> 00:45:11,000
+it's
+
+1411
+00:45:11,000 --> 00:45:12,000
+not.
+
+1412
+00:45:12,000 --> 00:45:13,000
+How
+
+1413
+00:45:13,000 --> 00:45:14,000
+to say
+
+1414
+00:45:14,000 --> 00:45:15,000
+no,
+
+1415
+00:45:15,000 --> 00:45:16,000
+how
+
+1416
+00:45:16,000 --> 00:45:17,000
+to say
+
+1417
+00:45:17,000 --> 00:45:18,000
+yes,
+
+1418
+00:45:18,000 --> 00:45:19,000
+or
+
+1419
+00:45:19,000 --> 00:45:20,000
+no,
+
+1420
+00:45:20,000 --> 00:45:21,000
+now
+
+1421
+00:45:21,000 --> 00:45:22,000
+we
+
+1422
+00:45:22,000 --> 00:45:23,000
+need to
+
+1423
+00:45:23,000 --> 00:45:24,000
+solve
+
+1424
+00:45:24,000 --> 00:45:25,000
+it.
+
+1425
+00:45:25,000 --> 00:45:26,000
+I
+
+1426
+00:45:26,000 --> 00:45:27,000
+think
+
+1427
+00:45:27,000 --> 00:45:28,000
+we
+
+1428
+00:45:28,000 --> 00:45:29,000
+have
+
+1429
+00:45:29,000 --> 00:45:30,000
+backlogs.
+
+1430
+00:45:30,000 --> 00:45:31,000
+We have
+
+1431
+00:45:31,000 --> 00:45:32,000
+backlogs
+
+1432
+00:45:32,000 --> 00:45:33,000
+and
+
+1433
+00:45:33,000 --> 00:45:34,000
+I'm very
+
+1434
+00:45:34,000 --> 00:45:35,000
+proud that
+
+1435
+00:45:35,000 --> 00:45:36,000
+the
+
+1436
+00:45:36,000 --> 00:45:37,000
+whole
+
+1437
+00:45:37,000 --> 00:45:38,000
+management
+
+1438
+00:45:38,000 --> 00:45:39,000
+supported
+
+1439
+00:45:39,000 --> 00:45:40,000
+including
+
+1440
+00:45:40,000 --> 00:45:41,000
+the
+
+1441
+00:45:41,000 --> 00:45:42,000
+stability
+
+1442
+00:45:42,000 --> 00:45:43,000
+year.
+
+1443
+00:45:43,000 --> 00:45:44,000
+The
+
+1444
+00:45:44,000 --> 00:45:45,000
+whole
+
+1445
+00:45:45,000 --> 00:45:46,000
+year
+
+1446
+00:45:46,000 --> 00:45:47,000
+all
+
+1447
+00:45:47,000 --> 00:45:48,000
+the
+
+1448
+00:45:48,000 --> 00:45:49,000
+engineering
+
+1449
+00:45:49,000 --> 00:45:50,000
+teams
+
+1450
+00:45:50,000 --> 00:45:51,000
+were
+
+1451
+00:45:51,000 --> 00:45:52,000
+working
+
+1452
+00:45:52,000 --> 00:45:53,000
+on
+
+1453
+00:45:53,000 --> 00:45:54,000
+stability
+
+1454
+00:45:54,000 --> 00:45:55,000
+projects.
+
+1455
+00:45:55,000 --> 00:45:56,000
+That
+
+1456
+00:45:56,000 --> 00:45:57,000
+means
+
+1457
+00:45:57,000 --> 00:45:58,000
+if
+
+1458
+00:45:58,000 --> 00:45:59,000
+you
+
+1459
+00:45:59,000 --> 00:46:00,000
+cannot
+
+1460
+00:46:00,000 --> 00:46:01,000
+go
+
+1461
+00:46:01,000 --> 00:46:02,000
+to
+
+1462
+00:46:02,000 --> 00:46:03,000
+a
+
+1463
+00:46:03,000 --> 00:46:04,000
+project,
+
+1464
+00:46:04,000 --> 00:46:05,000
+you
+
+1465
+00:46:05,000 --> 00:46:06,000
+cannot
+
+1466
+00:46:06,000 --> 00:46:07,000
+work
+
+1467
+00:46:07,000 --> 00:46:08,000
+on your
+
+1468
+00:46:08,000 --> 00:46:09,000
+own.
+
+1469
+00:46:09,000 --> 00:46:10,000
+So
+
+1470
+00:46:10,000 --> 00:46:11,000
+that
+
+1471
+00:46:11,000 --> 00:46:12,000
+was
+
+1472
+00:46:12,000 --> 00:46:13,000
+the
+
+1473
+00:46:13,000 --> 00:46:14,000
+first
+
+1474
+00:46:14,000 --> 00:46:15,000
+project
+
+1475
+00:46:15,000 --> 00:46:16,000
+and
+
+1476
+00:46:16,000 --> 00:46:17,000
+I
+
+1477
+00:46:17,000 --> 00:46:18,000
+think
+
+1478
+00:46:18,000 --> 00:46:19,000
+it was
+
+1479
+00:46:19,000 --> 00:46:20,000
+one of
+
+1480
+00:46:20,000 --> 00:46:21,000
+the
+
+1481
+00:46:21,000 --> 00:46:22,000
+most
+
+1482
+00:46:22,000 --> 00:46:23,000
+important
+
+1483
+00:46:23,000 --> 00:46:24,000
+projects
+
+1484
+00:46:24,000 --> 00:46:25,000
+of
+
+1485
+00:46:25,000 --> 00:46:26,000
+the
+
+1486
+00:46:26,000 --> 00:46:27,000
+year,
+
+1487
+00:46:27,000 --> 00:46:28,000
+and
+
+1488
+00:46:28,000 --> 00:46:29,000
+I
+
+1489
+00:46:29,000 --> 00:46:30,000
+think
+
+1490
+00:46:30,000 --> 00:46:31,000
+it was
+
+1491
+00:46:31,000 --> 00:46:32,000
+one of
+
+1492
+00:46:32,000 --> 00:46:33,000
+the
+
+1493
+00:46:33,000 --> 00:46:34,000
+most
+
+1494
+00:46:34,000 --> 00:46:35,000
+important
+
+1495
+00:46:35,000 --> 00:46:36,000
+projects
+
+1496
+00:46:36,000 --> 00:46:37,000
+of the
+
+1497
+00:46:37,000 --> 00:46:38,000
+year.
+
+1498
+00:46:38,000 --> 00:46:39,000
+So
+
+1499
+00:46:39,000 --> 00:46:40,000
+that was
+
+1500
+00:46:40,000 --> 00:46:41,000
+the
+
+1501
+00:46:41,000 --> 00:46:42,000
+first
+
+1502
+00:46:42,000 --> 00:46:43,000
+project
+
+1503
+00:46:43,000 --> 00:46:44,000
+and
+
+1504
+00:46:44,000 --> 00:46:45,000
+I
+
+1505
+00:46:45,000 --> 00:46:46,000
+think
+
+1506
+00:46:46,000 --> 00:46:47,000
+it was
+
+1507
+00:46:47,000 --> 00:46:48,000
+one of
+
+1508
+00:46:48,000 --> 00:46:49,000
+the most
+
+1509
+00:46:49,000 --> 00:46:50,000
+important
+
+1510
+00:46:50,000 --> 00:46:51,000
+projects
+
+1511
+00:46:51,000 --> 00:46:52,000
+of the
+
+1512
+00:46:52,000 --> 00:46:53,000
+year.
+
+1513
+00:46:53,000 --> 00:46:54,000
+So
+
+1514
+00:46:54,000 --> 00:46:55,000
+that was
+
+1515
+00:46:55,000 --> 00:46:56,000
+the
+
+1516
+00:46:56,000 --> 00:46:57,000
+first
+
+1517
+00:46:57,000 --> 00:46:58,000
+project
+
+1518
+00:46:58,000 --> 00:46:59,000
+and
+
+1519
+00:46:59,000 --> 00:47:00,000
+I
+
+1520
+00:47:00,000 --> 00:47:01,000
+think
+
+1521
+00:47:01,000 --> 00:47:02,000
+it was
+
+1522
+00:47:02,000 --> 00:47:03,000
+one of
+
+1523
+00:47:03,000 --> 00:47:04,000
+the most
+
+1524
+00:47:04,000 --> 00:47:05,000
+important
+
+1525
+00:47:05,000 --> 00:47:06,000
+projects
+
+1526
+00:47:06,000 --> 00:47:07,000
+of the
+
+1527
+00:47:07,000 --> 00:47:08,000
+year.
+
+1528
+00:47:08,000 --> 00:47:09,000
+So
+
+1529
+00:47:09,000 --> 00:47:10,000
+that was
+
+1530
+00:47:10,000 --> 00:47:11,000
+the
+
+1531
+00:47:11,000 --> 00:47:12,000
+first
+
+1532
+00:47:12,000 --> 00:47:13,000
+project
+
+1533
+00:47:13,000 --> 00:47:14,000
+and
+
+1534
+00:47:14,000 --> 00:47:15,000
+I
+
+1535
+00:47:15,000 --> 00:47:16,000
+think
+
+1536
+00:47:16,000 --> 00:47:17,000
+it was
+
+1537
+00:47:17,000 --> 00:47:18,000
+one of
+
+1538
+00:47:18,000 --> 00:47:19,000
+the most
+
+1539
+00:47:19,000 --> 00:47:20,000
+important
+
+1540
+00:47:20,000 --> 00:47:21,000
+projects
+
+1541
+00:47:21,000 --> 00:47:22,000
+of the
+
+1542
+00:47:22,000 --> 00:47:23,000
+year.
+
+1543
+00:47:23,000 --> 00:47:24,000
+So
+
+1544
+00:47:24,000 --> 00:47:25,000
+that was
+
+1545
+00:47:25,000 --> 00:47:26,000
+the
+
+1546
+00:47:26,000 --> 00:47:27,000
+first
+
+1547
+00:47:27,000 --> 00:47:28,000
+project
+
+1548
+00:47:28,000 --> 00:47:29,000
+and
+
+1549
+00:47:29,000 --> 00:47:30,000
+I
+
+1550
+00:47:30,000 --> 00:47:31,000
+think
+
+1551
+00:47:31,000 --> 00:47:32,000
+it was
+
+1552
+00:47:32,000 --> 00:47:33,000
+one of
+
+1553
+00:47:33,000 --> 00:47:34,000
+the most
+
+1554
+00:47:34,000 --> 00:47:35,000
+important
+
+1555
+00:47:35,000 --> 00:47:36,000
+projects
+
+1556
+00:47:36,000 --> 00:47:37,000
+of the
+
+1557
+00:47:37,000 --> 00:47:38,000
+year.
+
+1558
+00:47:38,000 --> 00:47:39,000
+So
+
+1559
+00:47:39,000 --> 00:47:40,000
+that was
+
+1560
+00:47:40,000 --> 00:47:41,000
+the
+
+1561
+00:47:41,000 --> 00:47:42,000
+first
+
+1562
+00:47:42,000 --> 00:47:43,000
+project
+
+1563
+00:47:43,000 --> 00:47:44,000
+and
+
+1564
+00:47:44,000 --> 00:47:45,000
+I
+
+1565
+00:47:45,000 --> 00:47:46,000
+think
+
+1566
+00:47:46,000 --> 00:47:47,000
+it was
+
+1567
+00:47:47,000 --> 00:47:48,000
+one of
+
+1568
+00:47:48,000 --> 00:47:49,000
+the most
+
+1569
+00:47:49,000 --> 00:47:50,000
+important
+
+1570
+00:47:50,000 --> 00:47:51,000
+projects
+
+1571
+00:47:51,000 --> 00:47:52,000
+of the
+
+1572
+00:47:52,000 --> 00:47:53,000
+year.
+
+1573
+00:47:53,000 --> 00:47:54,000
+So
+
+1574
+00:47:54,000 --> 00:47:55,000
+that was
+
+1575
+00:47:55,000 --> 00:47:56,000
+one of
+
+1576
+00:47:56,000 --> 00:47:57,000
+the most
+
+1577
+00:47:57,000 --> 00:47:58,000
+important
+
+1578
+00:47:58,000 --> 00:47:59,000
+projects
+
+1579
+00:47:59,000 --> 00:48:00,000
+of the
+
+1580
+00:48:00,000 --> 00:48:01,000
+year.
+
+1581
+00:48:01,000 --> 00:48:02,000
+So
+
+1582
+00:48:02,000 --> 00:48:03,000
+that was
+
+1583
+00:48:03,000 --> 00:48:04,000
+the first
+
+1584
+00:48:04,000 --> 00:48:05,000
+project
+
+1585
+00:48:05,000 --> 00:48:06,000
+and
+
+1586
+00:48:06,000 --> 00:48:07,000
+I
+
+1587
+00:48:07,000 --> 00:48:08,000
+think
+
+1588
+00:48:08,000 --> 00:48:09,000
+it was
+
+1589
+00:48:09,000 --> 00:48:10,000
+one of
+
+1590
+00:48:10,000 --> 00:48:11,000
+the most
+
+1591
+00:48:11,000 --> 00:48:12,000
+important
+
+1592
+00:48:12,000 --> 00:48:13,000
+projects
+
+1593
+00:48:13,000 --> 00:48:14,000
+of the
+
+1594
+00:48:14,000 --> 00:48:15,000
+year.
+
+1595
+00:48:15,000 --> 00:48:16,000
+So
+
+1596
+00:48:16,000 --> 00:48:17,000
+that was
+
+1597
+00:48:17,000 --> 00:48:18,000
+the first
+
+1598
+00:48:18,000 --> 00:48:19,000
+project
+
+1599
+00:48:19,000 --> 00:48:20,000
+and
+
+1600
+00:48:20,000 --> 00:48:21,000
+I
+
+1601
+00:48:21,000 --> 00:48:22,000
+think
+
+1602
+00:48:22,000 --> 00:48:23,000
+it was
+
+1603
+00:48:23,000 --> 00:48:24,000
+one of
+
+1604
+00:48:24,000 --> 00:48:25,000
+the
+
+1605
+00:48:25,000 --> 00:48:26,000
+most
+
+1606
+00:48:26,000 --> 00:48:27,000
+important
+
+1607
+00:48:27,000 --> 00:48:28,000
+projects
+
+1608
+00:48:28,000 --> 00:48:29,000
+of the
+
+1609
+00:48:29,000 --> 00:48:30,000
+year.
+
+1610
+00:48:30,000 --> 00:48:31,000
+So
+
+1611
+00:48:31,000 --> 00:48:32,000
+that
+
+1612
+00:48:32,000 --> 00:48:33,000
+was
+
+1613
+00:48:33,000 --> 00:48:34,000
+the second
+
+1614
+00:48:34,000 --> 00:48:35,000
+project
+
+1615
+00:48:35,000 --> 00:48:36,000
+and
+
+1616
+00:48:36,000 --> 00:48:37,000
+I
+
+1617
+00:48:37,000 --> 00:48:38,000
+think
+
+1618
+00:48:38,000 --> 00:48:39,000
+that
+
+1619
+00:48:39,000 --> 00:48:40,000
+was
+
+1620
+00:48:40,000 --> 00:48:41,000
+the
+
+1621
+00:48:41,000 --> 00:48:42,000
+most
+
+1622
+00:48:42,000 --> 00:48:43,000
+important
+
+1623
+00:48:43,000 --> 00:48:44,000
+project
+
+1624
+00:48:44,000 --> 00:48:45,000
+of the
+
+1625
+00:48:45,000 --> 00:48:46,000
+year.
+
+1626
+00:48:49,000 --> 00:48:50,000
+So
+
+1627
+00:48:50,000 --> 00:48:51,000
+that
+
+1628
+00:48:51,000 --> 00:48:52,000
+was
+
+1629
+00:48:52,000 --> 00:48:53,000
+the
+
+1630
+00:48:53,000 --> 00:48:54,000
+second
+
+1631
+00:48:54,000 --> 00:48:55,000
+project
+
+1632
+00:48:55,000 --> 00:48:56,000
+and
+
+1633
+00:48:56,000 --> 00:48:57,000
+I
+
+1634
+00:48:57,000 --> 00:48:58,000
+think
+
+1635
+00:48:58,000 --> 00:48:59,000
+that
+
+1636
+00:48:59,000 --> 00:49:00,000
+was
+
+1637
+00:49:00,000 --> 00:49:01,000
+the
+
+1638
+00:49:01,000 --> 00:49:02,000
+most
+
+1639
+00:49:02,000 --> 00:49:03,000
+important
+
+1640
+00:49:03,000 --> 00:49:04,000
+project
+
+1641
+00:49:04,000 --> 00:49:05,000
+of the
+
+1642
+00:49:05,000 --> 00:49:06,000
+year.
+
+1643
+00:49:21,000 --> 00:49:22,000
+So
+
+1644
+00:49:22,000 --> 00:49:23,000
+that
+
+1645
+00:49:23,000 --> 00:49:24,000
+was
+
+1646
+00:49:24,000 --> 00:49:25,000
+the
+
+1647
+00:49:25,000 --> 00:49:26,000
+second
+
+1648
+00:49:26,000 --> 00:49:27,000
+project
+
+1649
+00:49:27,000 --> 00:49:28,000
+of the
+
+1650
+00:49:28,000 --> 00:49:29,000
+year.
+
+1651
+00:49:50,000 --> 00:49:51,000
+So
+
+1652
+00:49:51,000 --> 00:49:52,000
+that
+
+1653
+00:49:52,000 --> 00:49:53,000
+was
+
+1654
+00:49:53,000 --> 00:49:54,000
+the
+
+1655
+00:49:54,000 --> 00:49:55,000
+second
+
+1656
+00:49:55,000 --> 00:49:56,000
+project
+
+1657
+00:49:56,000 --> 00:49:57,000
+of the
+
+1658
+00:49:57,000 --> 00:49:58,000
+year.
+
+1659
+00:49:58,000 --> 00:49:59,000
+So
+
+1660
+00:49:59,000 --> 00:50:00,000
+that was
+
+1661
+00:50:00,000 --> 00:50:01,000
+the
+
+1662
+00:50:01,000 --> 00:50:02,000
+second
+
+1663
+00:50:02,000 --> 00:50:03,000
+project
+
+1664
+00:50:03,000 --> 00:50:04,000
+of the
+
+1665
+00:50:04,000 --> 00:50:05,000
+year.
+
+1666
+00:50:00,000 --> 00:50:06,000
+They need to know that it's not just hype, cutting-edge technology and that there is still something behind it.
+
+1667
+00:50:06,000 --> 00:50:09,000
+It's also a learning experience for them.
+
+1668
+00:50:09,000 --> 00:50:12,000
+It's a moment for them, and it's a moment for both of them.
+
+1669
+00:50:12,000 --> 00:50:15,000
+Together with this event, they have a better start.
+
+1670
+00:50:15,000 --> 00:50:16,000
+That's how I see it.
+
+1671
+00:50:16,000 --> 00:50:21,000
+Okay, now I'm done with the cards.
+
+1672
+00:50:21,000 --> 00:50:29,000
+Now, if you want to say something to the audience, this is the moment.
+
+1673
+00:50:29,000 --> 00:50:35,000
+Yes, I would say, be worthy of your name and profession,
+
+1674
+00:50:35,000 --> 00:50:38,000
+work with your father and come to his podcast.
+
+1675
+00:50:38,000 --> 00:50:39,000
+Thank you very much.
+
+1676
+00:50:39,000 --> 00:50:46,000
+Thank you, Mateja, once again for your time and good luck with the launch of this technological park.
+
+1677
+00:50:46,000 --> 00:50:53,000
+I would like to give the audience some feedback so that we can further improve this format and podcast.
+
+1678
+00:50:53,000 --> 00:50:54,000
+Thank you.
+
+1679
+00:50:54,000 --> 00:50:55,000
+Thank you.

@@ -1,0 +1,3039 @@
+1
+00:00:00,000 --> 00:00:17,799
+Lepo zdravo, dobro dan, v drugi epizodi Zagona. Moje ime je Saravšina Gašpar,
+
+2
+00:00:17,799 --> 00:00:26,000
+za tiste, ki me še ne poznate, in danes imam s sabo dva gosta. Z mano sta Isla Musić,
+
+3
+00:00:26,000 --> 00:00:35,000
+ki že skoraj 20 let uči in deluje kot profesor na srednji in na višji šoli. Je aktiven zelo tudi v naši
+
+4
+00:00:35,000 --> 00:00:44,000
+skupnosti, tek skupnosti in predvsem si tudi mentor dijakom, študentom in start-upom. Ja, vse si zadeva.
+
+5
+00:00:44,000 --> 00:00:51,000
+Imaš tudi svoj program za mlade, Skill Up Mentor, o katerem bomo tudi potem malo več povedali, ampak eden
+
+6
+00:00:51,000 --> 00:01:00,000
+od učencev, oziroma uspehov tega programa je tudi Ilja, ki se nama je pridružil. Ilja Tomić, lep pozdrav tudi tebi.
+
+7
+00:01:00,000 --> 00:01:02,000
+Pozdrav.
+
+8
+00:01:02,000 --> 00:01:11,000
+Ti si lani septembra zaključil v magisteri iz informatike na Univerziji v Mariboru in to na temo full stack razvoja
+
+9
+00:01:11,000 --> 00:01:13,000
+aplikacij s dvema različnima pristopama.
+
+10
+00:01:13,000 --> 00:01:21,000
+Ja, to je tudi Skill Up projekt, ki sem vzel pomagal za polpisanje moje magisterske analoge.
+
+11
+00:01:21,000 --> 00:01:29,000
+Tako je, ker si že kar včasih v studijah si se potem vključil v izjemno program in si zdaj, če prav vem,
+
+12
+00:01:29,000 --> 00:01:35,000
+Glih to je bil svojo prvo službo, kjer si dobil srečno dober mesec, tako da še honeymoon period danes.
+
+13
+00:01:35,000 --> 00:01:37,000
+Tako pravijo, ja.
+
+14
+00:01:37,000 --> 00:01:44,000
+Tako, se bomo pogovarjali tudi o temu malo kasneje. Jaz sem si danes ta pogovor zamislila v dveh sklopih.
+
+15
+00:01:44,000 --> 00:01:53,000
+Najprej se bomo malo dotaknili učenja, torej kje in kako začeti z učenjem, potem pa malo še z iskanjem prvih zaposlitev,
+
+16
+00:01:53,000 --> 00:02:01,000
+ker tudi upam, Ilja, da nam boš lahko kaj malo povedal, kako je to biti džuljor na trgu.
+
+17
+00:02:02,000 --> 00:02:12,000
+Pa mogoče, če začnemo z učenjem, in torej čisto na začetku, z leti, kdaj se lahko začnemo učiti?
+
+18
+00:02:12,000 --> 00:02:23,000
+Mene zanima, mogoče, če začnemo vseeno kar za Iljo. Kdaj si se ti začel učiti in si se spoznal prvič z računalniki?
+
+19
+00:02:24,000 --> 00:02:33,000
+V srednji šoli, pri Islamu. Sem začel prvi, drugi letnik srednje šole. Počasju vajat z začetnem programiranje,
+
+20
+00:02:33,000 --> 00:02:40,000
+diagrami poteka, čisto osnovne stvari, potem pa tako postopoma. Pravi turnik, 14 let.
+
+21
+00:02:40,000 --> 00:02:45,000
+Si imel prej tudi že kakšen interežje v osnovni šoli ali kako je to, da si se odločil?
+
+22
+00:02:45,000 --> 00:02:52,000
+Prej, prej, prej, nisem kaj programiral, nisem, če imel sem interes za računalnike, za tehnologijo,
+
+23
+00:02:52,000 --> 00:02:56,000
+a za sampak je programiral, pa prej nisem.
+
+24
+00:02:56,000 --> 00:03:02,000
+Islam, ti imaš tudi otroke, že malo starejše, a si jih že vse naučil?
+
+25
+00:03:02,000 --> 00:03:08,000
+Starejši dve punci nista za tehniko toliko, tamaj pa ja.
+
+26
+00:03:08,000 --> 00:03:11,000
+Kdaj ste začeli in kako ste začeli?
+
+27
+00:03:11,000 --> 00:03:18,000
+Simbo je letostar 14 let, mislim, da smo lani. Smo začeli, smo jih pokazali.
+
+28
+00:03:18,000 --> 00:03:28,000
+Tudi to, kar je Ilja govoril načinova, ni potrebno tako zgodaj in tudi je zelo odvisno do sebe, do sebe.
+
+29
+00:03:28,000 --> 00:03:34,000
+Ker imamo res različne izkušnje, to govorim iz šolstva, ker recimo nek dijak v drugem letniku,
+
+30
+00:03:34,000 --> 00:03:38,000
+ko se prvi ceče s programiranjem, pač bom rekel, si razbija glavo.
+
+31
+00:03:38,000 --> 00:03:42,000
+Na koncu tretjega, pričetkega letnjega obstane pa je od naših boljših dijakov,
+
+32
+00:03:42,000 --> 00:03:47,000
+ker ali zdaj to, se ne bi zdaj upal strokovno stoditi, kaj se zgodi z možgani, sinapsami,
+
+33
+00:03:47,000 --> 00:03:50,000
+ampak nekaj se očitno zgodi v tem trenutku, se spremeni.
+
+34
+00:03:50,000 --> 00:03:54,000
+Tako da iz tega starejša tudi nimam preveč pritiska na moje otroke.
+
+35
+00:03:54,000 --> 00:04:00,000
+Ko bodo, pa če bodo želeli, soveda imajo polno mojo podporo, ampak tudi tisti,
+
+36
+00:04:00,000 --> 00:04:06,000
+ko poslušajo, ni potrebno zdaj že začeti, bom rekel tako, s kakim vrhunskim športom,
+
+37
+00:04:06,000 --> 00:04:11,000
+ko si star že osem let, pa pal met, ne vem, tok in tok let, lahko dovolj,
+
+38
+00:04:11,000 --> 00:04:15,000
+dovolj dobro je tudi, če je kasneje, ampak torej sem mogoče tako rekel,
+
+39
+00:04:15,000 --> 00:04:22,000
+zanimaj, interes, to je pač the main thing. Če tega ni, pal vse ostalo bo tudi trpelo.
+
+40
+00:04:22,000 --> 00:04:30,000
+Mi imamo sicer v našem gospodinstvu že kar dobro izkušnje, pa z enim petletnikom,
+
+41
+00:04:30,000 --> 00:04:36,000
+no, smo začeli že, ko je bil štiriletnik z takšnimi osnovnimi zadevemi, kot je, ne vem,
+
+42
+00:04:36,000 --> 00:04:43,000
+kod Ore-G, recimo, ko ima to programersko logiko preko igric, pa Minecraft, recimo,
+
+43
+00:04:43,000 --> 00:04:53,000
+ampak se mi zdi, predvsem kar sva ugotovila, no, je ta razlika med tem, da ga posedamo
+
+44
+00:04:53,000 --> 00:04:57,000
+za računalnik, da mu damo tipkovnico, da mu damo miško, da vade koordinacijo,
+
+45
+00:04:57,000 --> 00:05:03,000
+da se spoznava s tipkovnico, se mi zdi, da je danes veliko, predvsem tudi v trok,
+
+46
+00:05:03,000 --> 00:05:10,000
+predvsem navajenih na tablice, na telefone, ki pa so potem, je malo bolj, da jim rečem,
+
+47
+00:05:10,000 --> 00:05:18,000
+lena uporabniška izkušnja, kot računalnik, kajšno idejo.
+
+48
+00:05:18,000 --> 00:05:23,000
+Ja, ne vem, pač jaz, ko sem bil v teh letih, ne vem, osnovna šola, še nismo imeli,
+
+49
+00:05:23,000 --> 00:05:31,000
+se nisem tako star, ampak še ni bilo telefonov, tablic, tako da, ja, je bilo, prva izkušnja je bila
+
+50
+00:05:31,000 --> 00:05:36,000
+za računalnik, za miško, tipkovnico, to so najprej potem pa tudi kakre konzole,
+
+51
+00:05:36,000 --> 00:05:42,000
+tako da ne vem, kakre so to izkušnje, to bom čez par let jaz tudi videl, doživel.
+
+52
+00:05:42,000 --> 00:05:48,000
+Ja, jaz mislim, da to, kaj si preumenila, ko bo otrok na Minecraftu, pa bo igrce,
+
+53
+00:05:48,000 --> 00:05:53,000
+bom rekel, zahtevale malo več o, torej, procesorsko moč ali kakorkoli tem.
+
+54
+00:05:53,000 --> 00:05:58,000
+Jedek je bilo tudi moje, je bilo na tablici, ampak je spet, mogoče še zgodem ta,
+
+55
+00:05:58,000 --> 00:06:04,000
+zanimanje, interes, pač Minecraft, če ga, po stem primiru, tudi jaz narabi iti,
+
+56
+00:06:04,000 --> 00:06:08,000
+niti na straniščega ne bo. In, se bom rekel, tista koordinacija z miško,
+
+57
+00:06:08,000 --> 00:06:10,000
+pa je tipovnico gre kar relativno hitro.
+
+58
+00:06:10,000 --> 00:06:12,000
+To je res.
+
+59
+00:06:14,000 --> 00:06:19,000
+Ok, če kar nadaljujemo malo na splošno o učenju, šolskem sistemu,
+
+60
+00:06:19,000 --> 00:06:26,000
+pred kratkim smo imeli tudi pri nas na ogrodju ministrico za digitalno preobrazbo
+
+61
+00:06:26,000 --> 00:06:32,000
+kot gostjo, ki se je na en način, ki se je tudi malo dotaknila pomena digitalnega
+
+62
+00:06:32,000 --> 00:06:38,000
+opismenjovanja prebivalstva. Začetek tega meseca pa je osem različnih združenj
+
+63
+00:06:38,000 --> 00:06:43,000
+tudi pri pravilo javno pismo za zahtevo povedbi obveznega predmeta računalništvo
+
+64
+00:06:43,000 --> 00:06:49,000
+in informatika v vse osnovne in srednje šole. Mene je bi zanimalo, mogoče Ilje,
+
+65
+00:06:49,000 --> 00:06:54,000
+če začneva vseeno na tvoji strani. Ti si šel v tehnično srednjo šolo,
+
+66
+00:06:54,000 --> 00:07:03,000
+ampak mogoče si kaj, si pogrešal to informatiko in računalništvo tudi v osnovni šoli
+
+67
+00:07:03,000 --> 00:07:09,000
+oziroma kakšne so tvoje izkušnje potem za temi dvem predmetom tudi v osnovni šoli?
+
+68
+00:07:09,000 --> 00:07:17,000
+V osnovni šoli smo imeli osmi deveti razred, se mi zdi, računalništvo predmet
+
+69
+00:07:17,000 --> 00:07:24,000
+enkrat na ted na eno uro, ko smo tako se prevemenila malo miška tip konca,
+
+70
+00:07:24,000 --> 00:07:29,000
+malo smo imeli učitelje pokazu, ne vem, award, se mi zdi, se prosponem,
+
+71
+00:07:29,000 --> 00:07:34,000
+ampak potem, to je bilo prvih 15 minut, pa smo imeli prosto, pa smo igrice špiljali,
+
+72
+00:07:34,000 --> 00:07:38,000
+pa smo tako šolci, tako da mislim, da smo se tizga predmeta najbolj veselili,
+
+73
+00:07:38,000 --> 00:07:43,000
+ko smo veljli ceo razred skupaj s prijatelji, gremo igrice špiljati in tako.
+
+74
+00:07:43,000 --> 00:07:49,000
+To je bilo tisto za pol, mislim, jaz bi zagovarjal to, tudi v srednji šoli,
+
+75
+00:07:49,000 --> 00:07:59,000
+pa različne, je vedno bolj storitve pa to, so prek spleta digitalno neko,
+
+76
+00:07:59,000 --> 00:08:06,000
+neka pismenost je potrebna tudi za varnost uporabnikov, da znajo prepoznati,
+
+77
+00:08:06,000 --> 00:08:12,000
+kakšne sumljive strani, ne vem, veliko spletnega naročanja, ne vem,
+
+78
+00:08:12,000 --> 00:08:19,000
+oblačil pa to s nopazo, da je tudi velik teh prevalantov pa to, tako da je treba
+
+79
+00:08:19,000 --> 00:08:24,000
+neko osnovno izobrazbo tudi v tej smeri, tudi če se ne okvarja direktno
+
+80
+00:08:24,000 --> 00:08:26,000
+z računalnično informatiko.
+
+81
+00:08:27,000 --> 00:08:33,000
+Islan, kaj prinesejo dejaki s sabo v prvi letnik in če se bi lahko prinesli več?
+
+82
+00:08:35,000 --> 00:08:40,000
+Zdaj, najbolj kar si želim, da prinesejo je zanimanje.
+
+83
+00:08:40,000 --> 00:08:45,000
+In tudi recimo mi, ko imamo promocijo in z verem rečemo, da lahko začnejo z nulo,
+
+84
+00:08:45,000 --> 00:08:50,000
+da ni potrebno, da jih bomo mi spodbudili, seveda je pa dobro došla vsaka
+
+85
+00:08:50,000 --> 00:08:55,000
+predpripravljenost, ampak najbolj pomemben je pa pač interes in da mogoče to,
+
+86
+00:08:55,000 --> 00:09:01,000
+kar Ilja rekel, da ni ravno tehnična, torej jaz povčujem pri, mislim,
+
+87
+00:09:01,000 --> 00:09:06,000
+tehnik računalništva, da ne bomo igrali torej igrce med povukom in da se bomo
+
+88
+00:09:06,000 --> 00:09:11,000
+čili programiranja in da pač tih igrc ne bodo, da pač ta, nekako razbijemo to,
+
+89
+00:09:11,000 --> 00:09:16,000
+ok, računalništvo igrce, potem prijemo, čeprav recimo mi imamo in predmet
+
+90
+00:09:16,000 --> 00:09:21,000
+izdelavaj igr in jih učimo izdelavaj igr in vseh teh stvari, ampak to je za,
+
+91
+00:09:21,000 --> 00:09:25,000
+torej na drugi strani, ne kot igralec, ampak vidiš vse, kaj spride.
+
+92
+00:09:25,000 --> 00:09:31,000
+Zdaj, kaj bi lahko več prinesli, je mogoče, da že vnaprej vidijo kaj,
+
+93
+00:09:32,000 --> 00:09:37,000
+kako bojo delali, torej kaj prinaše poklic računalništva, kaj prinaše poklic,
+
+94
+00:09:37,000 --> 00:09:41,000
+mislim, da imaš tudi otroke in veš, da je to včasih pomembno, da si znajo predstavljati
+
+95
+00:09:41,000 --> 00:09:46,000
+oziroma si ne znajo predstavljati, kako zgleda in ti greš z neko iluzijo, z neko,
+
+96
+00:09:46,000 --> 00:09:50,000
+kaj misliš, da te bo čakalo na drugi strani, greš v neko šolo, pa mogoče na koncu
+
+97
+00:09:50,000 --> 00:09:56,000
+si lahko razočaran in vsak, ko se premisli in spremeni smer,
+
+98
+00:09:56,000 --> 00:09:59,000
+jočnici je to bila dobljena bitka, ne, ker je šel nekam, ker bo bolj srečen,
+
+99
+00:09:59,000 --> 00:10:03,000
+bolj vesel, to pa je, bom rekel, cilj. Zdaj, ne rabe biti vsi programerji,
+
+100
+00:10:03,000 --> 00:10:07,000
+pa vsi ne vem, kar koli, ampak da izveriti so, kar ga bo vse igralo, pa,
+
+101
+00:10:07,000 --> 00:10:09,000
+če jim bo zadovoljno.
+
+102
+00:10:11,000 --> 00:10:19,000
+Ampak, če mogoče, to je ena tašna težava vseh staršev, usmerjati otroke,
+
+103
+00:10:19,000 --> 00:10:27,000
+prvi tašen imenik je potem ta osnovna šola, poskušaš res 14-letnikom razložiti,
+
+104
+00:10:27,000 --> 00:10:32,000
+da si morel nekaj izbrati, kar naj bi delali celo življenje, pa dejmo reči,
+
+105
+00:10:32,000 --> 00:10:45,000
+da imaš nekega takega nadobudnega računalničarja že doma in kaj bi svetovala
+
+106
+00:10:45,000 --> 00:10:52,000
+bitva, a je srednja šola dovolj, a je srednja šola začetek za potem ta ustop
+
+107
+00:10:52,000 --> 00:10:59,000
+v računalništvo, a je mogoče gimnazija, pa potem free, oziroma pač neka univerza
+
+108
+00:10:59,000 --> 00:11:03,000
+računalniška boljše izbira, tako, iz sašovskega vidika.
+
+109
+00:11:03,000 --> 00:11:07,000
+Ja, to ti lahko fulj dobro, to mene zelo po gospo sprašujejo, pač kam bi ti
+
+110
+00:11:07,000 --> 00:11:13,000
+sam priporočil. Moj odgovor, za katerega zadnje čase vedno upažam, da kr dobro uspe,
+
+111
+00:11:13,000 --> 00:11:19,000
+je poglej svojega mladega in poglej v katero subkulturo paše.
+
+112
+00:11:19,000 --> 00:11:25,000
+Ker, če je on tak, bom zdaj malo karikiril, tak bolj gikovski, pa ga ne dati
+
+113
+00:11:25,000 --> 00:11:31,000
+na strojno šolo, ker bo trpel. A ne, po drugi strani, če on že šofa svoj motor,
+
+114
+00:11:31,000 --> 00:11:35,000
+pa ne vem kar koli, ga ne dati na računalniško šolo, ker bo pa tam trpel.
+
+115
+00:11:35,000 --> 00:11:41,000
+In ista stvar je, več če je nekdo zelo, bom rekel, malo bom spet generaliziral,
+
+116
+00:11:41,000 --> 00:11:46,000
+pa karikiril, ga zanima, ne vem, mogoče filozofija, pa psihologija, pa bere knjige
+
+117
+00:11:46,000 --> 00:11:52,000
+in ne vem kar koli, mogoče tudi ni tehnična šola, zato ker, kot so rekel,
+
+118
+00:11:52,000 --> 00:11:56,000
+imam dve starejših štiri, ko so se ona dve odločile, pa se veda, v osnovni šoli
+
+119
+00:11:56,000 --> 00:12:01,000
+je zdaj finto ta, da ti v osnovni šoli maza so šolca nekoga, ki bo šel na gimnazijo,
+
+120
+00:12:01,000 --> 00:12:05,000
+nekoga, ki bo šel na računalniško, nekoga, ki bo šel na strojno ali pa na kozmetično,
+
+121
+00:12:05,000 --> 00:12:10,000
+turistično, nima veze. In ste si tako različni, ste si v zanimanjih,
+
+122
+00:12:10,000 --> 00:12:14,000
+ko pa ti greš na srednjo šolo, pa nekaj dobiš sebi podobne.
+
+123
+00:12:14,000 --> 00:12:18,000
+In se spomnim, ko sem se s svoje starejšo ščero pogovarjala, da je pa na koncu prvega letnjega
+
+124
+00:12:18,000 --> 00:12:22,000
+gimnazija rekla, da je točno to ugotovila. Da je zdaj veliko bolj srečna,
+
+125
+00:12:22,000 --> 00:12:27,000
+zato ker ima sebi podobne, pa čeprav takrat je govorila, jaz sem želi miti zvelenja,
+
+126
+00:12:27,000 --> 00:12:32,000
+ne bomo v velenju, to so vsi, zato ker je ocenjivala to na podlagi, jaz timu rečem,
+
+127
+00:12:32,000 --> 00:12:37,000
+svojega balona, z katerim, in to je bilo to začetek za kogarkoli.
+
+128
+00:12:37,000 --> 00:12:42,000
+Poglej kamor pašeš, kje so, bom rekel, ljudje, s katerimi se ti raje družiš,
+
+129
+00:12:42,000 --> 00:12:47,000
+raje preživljaš čas. Če je nekdo izbral v tem trenutku gimnazijo,
+
+130
+00:12:47,000 --> 00:12:52,000
+ali pa, bom rekel, ekonomsko, turistično šole in pa na koncu gleda za računalništvo,
+
+131
+00:12:52,000 --> 00:12:57,000
+imaš še vedno dovolj časa. Jaz mislim, da srednja šola ni tist, bom rekel,
+
+132
+00:12:57,000 --> 00:13:02,000
+končni, mirilni, ker ti, če nisi prav izbral, si pa zaključil.
+
+133
+00:13:02,000 --> 00:13:07,000
+Bi pa vse en rekel, čeprav nekdo že tako načetko kaže, da ga zanima računalništvo,
+
+134
+00:13:07,000 --> 00:13:11,000
+pa računalniki pa naj ne hodi na gimnazijo, ker bo se bolj srečen, bom rekel,
+
+135
+00:13:11,000 --> 00:13:16,000
+lažje bo hodil vsak dan v šolo, ker bo imel tam sebe enake. To so nekako moje
+
+136
+00:13:16,000 --> 00:13:20,000
+ogotovite iz vsega tega povčevanja, kar je počelo.
+
+137
+00:13:20,000 --> 00:13:26,000
+Zelo zanimivo, da se to obrnu na karakter, bolj kot na kar koli drugega,
+
+138
+00:13:26,000 --> 00:13:30,000
+ker pa v bistvu je resne, se na koncu pri teh letih je točno to tisto,
+
+139
+00:13:30,000 --> 00:13:37,000
+kar najbolj jih izoblikuje. Ilja, kaj si ti, kad ti si hodil na srednjo
+
+140
+00:13:38,000 --> 00:13:43,000
+računalniško, potem si pa vse eno nadeljeval in uspešno dokončal in do diplomski
+
+141
+00:13:43,000 --> 00:13:48,000
+študi in potem magisterij. Kje je bila mogoče dodana vrednost? Kje si ti videl
+
+142
+00:13:48,000 --> 00:13:54,000
+to dodano vrednost? Kako si nadgradil svoje znanje pol skozi vse te stopnje?
+
+143
+00:13:54,000 --> 00:14:01,000
+Potem, če se sprašujem, kako v službi, mislim, da so pač samo tiste osnovo
+
+144
+00:14:01,000 --> 00:14:10,000
+si širiš neke osnovne principe, osnovne stvari, soft skille, srečaš veliko različnih ljudi,
+
+145
+00:14:10,000 --> 00:14:18,000
+na faktu tudi starejših profesorjev in je bolj tako svobodno, ni tako srednja šola,
+
+146
+00:14:18,000 --> 00:14:25,000
+imaš neko, vsak dan moraš biti tam. Profesori zahtevajo domače noge, tam je pač prosto
+
+147
+00:14:25,000 --> 00:14:34,000
+in si res ti, tako je Islampere reku, pač ko si želiš, ti si to narediš. Potem se tam tudi izgradiš
+
+148
+00:14:34,000 --> 00:14:42,000
+in se naučiš te pogovorov, pristopi do profesorja, kar potem tudi pomaga v službi.
+
+149
+00:14:45,000 --> 00:14:52,000
+V bistvu se bom kar navezala na to. Zdaj, po enem mesecu so sveže izkušnje,
+
+150
+00:14:52,000 --> 00:14:59,000
+ampak ki poseboj delaš v produkciji, je kaj, kar bi si želel mogoče prej prinesi v sabo?
+
+151
+00:14:59,000 --> 00:15:05,000
+Je kaj takega, kar te je mogoče presenetilo v prvi službi?
+
+152
+00:15:06,000 --> 00:15:12,000
+Mislim, da ni me kaj presenetilo, ker je ta program SkillUp, ko si ga na začetku omenjala,
+
+153
+00:15:12,000 --> 00:15:20,000
+ko se bomo pogovarjali o njem, je malo simuliral to produkcijo, tako da sem se že tam malo navadil.
+
+154
+00:15:20,000 --> 00:15:26,000
+Drgače pa, če kaj bi se želel mogoče, da bi malo prej začel, pa imel več volje pri tem,
+
+155
+00:15:26,000 --> 00:15:33,000
+da ne bi delal take pauze v mesmi, ko sem svoje projekte delal, pa začnem, pa malo preneham, pa spet začnem.
+
+156
+00:15:33,000 --> 00:15:39,000
+Po moje, če bi sam počutel, da bi bil malo bolj konsistenten, to bi spremenil druga.
+
+157
+00:15:39,000 --> 00:15:44,000
+Kaj pa zvedika znanj, tehnologiji, sintakse, programskih jezikov?
+
+158
+00:15:45,000 --> 00:15:50,000
+Ti je kaj zmanjkalo ali pa je bilo kaj preveč mogoče po tem?
+
+159
+00:15:50,000 --> 00:15:57,000
+Preveč znanja? To mislim, da ni nikoli. Ampak, da bi mi kaj zmanjkalo, pa nisem opazil.
+
+160
+00:15:57,000 --> 00:16:01,000
+Saj zaenkrat, tako, kot si rekla, prvi mesec je, še počasi.
+
+161
+00:16:01,000 --> 00:16:05,000
+Mogoče me še malo učkajo, ne vem, mogoče bo čez tri mesece mi bojo pa dali nek tesk,
+
+162
+00:16:05,000 --> 00:16:09,000
+ki so nam samo za glavo držali, ampak ja, to ni.
+
+163
+00:16:10,000 --> 00:16:17,000
+Kaj pa tisti, ki so malo starejši pa so zamudili to formalno izobraževanje,
+
+164
+00:16:17,000 --> 00:16:24,000
+pa bi kljub vse morali, vse se naučili programirati oziroma prodrlji v IT,
+
+165
+00:16:24,000 --> 00:16:31,000
+kakšen je svet za njih mogoče? Kje začeti, če hočeš vedeti več o tem področju
+
+166
+00:16:31,000 --> 00:16:34,000
+in želiš postati del te industrije?
+
+167
+00:16:34,000 --> 00:16:39,000
+Zdaj, če imaš zanimanje, jaz mislim, da je prva stvar, ki je, ne gledaj na to,
+
+168
+00:16:39,000 --> 00:16:43,000
+a si zdaj ti star 18 let, pa želiš priti v to področje, ali pa si tudi star, ne vem,
+
+169
+00:16:43,000 --> 00:16:47,000
+da ne bom zakaj cifre povel, pa reku, da je to staro.
+
+170
+00:16:47,000 --> 00:16:51,000
+Sam sebe v drek potisnu. Hočem povejati, ne gledaj na kaj, se mi zdi,
+
+171
+00:16:51,000 --> 00:16:55,000
+da prvo te mora imeti zanimanje, drugo je, da si narediš flan, pa mogoče tretja,
+
+172
+00:16:55,000 --> 00:16:59,000
+to spet neka moja skušnja je, da si narediš rutino.
+
+173
+00:16:59,000 --> 00:17:03,000
+Kar pomeni, danes imam čas in danes sem jih začel učiti programirati,
+
+174
+00:17:03,000 --> 00:17:07,000
+nisem si pa splaniral, kje bom dobil ta čas jutri, pojutrišnjem, čez en tedn,
+
+175
+00:17:07,000 --> 00:17:11,000
+čez en mesec, ker vedam se, da s tem rečem, zgodi se v mej življenje.
+
+176
+00:17:11,000 --> 00:17:17,000
+Zgodi se neka stvar, tudi rečem, da včasih naši možgani nam niso največji,
+
+177
+00:17:17,000 --> 00:17:21,000
+bom rekel, prijatelji, ker meni zjutri, ko jaz rečem, da bom telovad,
+
+178
+00:17:21,000 --> 00:17:25,000
+bom meni moji možgani reče, ej, sedaj boš jutri. Danes ni treba.
+
+179
+00:17:25,000 --> 00:17:29,000
+Jutri boš pa res. In po mojo je ista stvar pri učenju.
+
+180
+00:17:29,000 --> 00:17:32,000
+Torej, jaz mislim, da je ta druga, mislim, v tem primeru tretja,
+
+181
+00:17:32,000 --> 00:17:35,000
+kar sem rekel, torej, nekako rutino, da si presaviš in rečeš,
+
+182
+00:17:35,000 --> 00:17:40,000
+okej, to je moj cilj, želim priti do tega, zaradi tega, pa tega, pa tega,
+
+183
+00:17:40,000 --> 00:17:44,000
+kar pomeni, ali so to boljši pogoji dela, ali za tega, ker te ta poklic veseli,
+
+184
+00:17:44,000 --> 00:17:49,000
+ker želiš biti obkrošen s takimi ljudmi in potem si pripraviti, torej,
+
+185
+00:17:49,000 --> 00:17:53,000
+predvsem čas, kdaj boš počel to, a ne. Torej, danes to počnem,
+
+186
+00:17:53,000 --> 00:17:57,000
+danes imam čas, ampak moram se razvrjeti, da bom imel čas tudi, ne vem,
+
+187
+00:17:57,000 --> 00:18:02,000
+v jutro ali pa saj, čez dva dni in da pride to v rutino in definitivno na začetku
+
+188
+00:18:02,000 --> 00:18:06,000
+je, bom rekel, kaj kiže Donnie Kruger je olaj efekt, ali kaj se že temu reče,
+
+189
+00:18:06,000 --> 00:18:10,000
+ne, ko imaš občutek, da si na vrhu gore, potem prije pa nov problem,
+
+190
+00:18:10,000 --> 00:18:14,000
+kjer pa rečeš ti, okej, jaz nijam pojma in to se v vši čas dogaja,
+
+191
+00:18:14,000 --> 00:18:18,000
+a ne, in tudi pol, bom rekel, ko si že neki let izkušen, pa pride neka stvar,
+
+192
+00:18:18,000 --> 00:18:23,000
+bom rekel, je ta cikl konstanten, ampak to bi mogoče rekel vsak,
+
+193
+00:18:24,000 --> 00:18:30,000
+leta definitivno niso pomembna, ampak mora te zanimati, moraš si dati neki cilj,
+
+194
+00:18:30,000 --> 00:18:36,000
+pa precej neko rutino, da boš ti res to vsak dan počel, kjer drugač bo vse ostalo krivo,
+
+195
+00:18:36,000 --> 00:18:40,000
+a ne, pa če ta program ni bil všeč, če ta tutorial mi ni bil dober,
+
+196
+00:18:40,000 --> 00:18:46,000
+ta ne zna dobro razlagati, ne, spet bo nekaj druga, ampak jaz mislim,
+
+197
+00:18:46,000 --> 00:18:52,000
+da če si te tri stvari poštimaš, da uspeh preprosto ne more se ne zgoditi.
+
+198
+00:18:54,000 --> 00:19:00,000
+Ti si na takšnem zanimivem preseku formalnega izobraževanja šolstva,
+
+199
+00:19:00,000 --> 00:19:05,000
+na eni strani, potem tega programa Skill Up Mentor, kjer se bolo sredotočiti
+
+200
+00:19:05,000 --> 00:19:11,000
+posebno na neke veščine, ne, s čim potem naj nekdo začne,
+
+201
+00:19:11,000 --> 00:19:16,000
+ali naj, a je to teorija, a je to kakšen konkreten programski jezik,
+
+202
+00:19:16,000 --> 00:19:22,000
+a je to, ne vem, razumevanje, ne vem, kako pridemo od transistorija do e-maila,
+
+203
+00:19:23,000 --> 00:19:25,000
+kaj so neki…
+
+204
+00:19:25,000 --> 00:19:29,000
+Ta zadnja sigurno ne, ta zadnja sigurno ne.
+
+205
+00:19:29,000 --> 00:19:35,000
+Zdaj, tu bom rekel, tehnologija ni pomembna, jaz pa mislim,
+
+206
+00:19:35,000 --> 00:19:39,000
+da zadnjič, ko ste se pogledali toto, jaz sem začel s Turbo Pascalom,
+
+207
+00:19:39,000 --> 00:19:42,000
+kaj da, jaz pač ne vem, če še kaj obstaja, ampak tu meni tehnologija
+
+208
+00:19:42,000 --> 00:19:48,000
+po moje ni tako pomembna, sem pa recimo upazil, da smo res različni tipi ljudi.
+
+209
+00:19:48,000 --> 00:19:54,000
+Recimo, sam spadam v to, kaj mene stvar ne zanima v odrobove.
+
+210
+00:19:54,000 --> 00:19:58,000
+Jaz sem taka, ne, torej zaradi mene, če je to neka funkcija, ki mi nekaj stvar naredi,
+
+211
+00:19:58,000 --> 00:20:02,000
+torej dam te podatke noter, to bom dobil ven, kako ona to naredi,
+
+212
+00:20:02,000 --> 00:20:07,000
+jaz sem tačne sigiram, bom rekel in čez SkillUp, in čez formalno izobrazoval,
+
+213
+00:20:07,000 --> 00:20:12,000
+pa vidim, da obstaja različne, ne, eni tipi pa res, bom rekel, zanima,
+
+214
+00:20:12,000 --> 00:20:17,000
+kako, recimo, tudi imamo eno našo članico tega community-a, SkillUp mentor,
+
+215
+00:20:17,000 --> 00:20:21,000
+ona bere knjige, torej ona je začela z Python The Hard Way.
+
+216
+00:20:21,000 --> 00:20:24,000
+Recimo, v mojem primeru, jaz, ko že preberem naslov knjige,
+
+217
+00:20:24,000 --> 00:20:28,000
+pač ne bi šel niki The Hard Way, jaz bi šel, a ne.
+
+218
+00:20:28,000 --> 00:20:32,000
+Eni zelo radi delajo kot tutoriale, kar pomeni, da jih nekdo vodi,
+
+219
+00:20:32,000 --> 00:20:35,000
+drugi pravijo, eh, ponavljam, pa se nič navčim.
+
+220
+00:20:35,000 --> 00:20:40,000
+Tudi tu je en tak mali trik, ko jih vsakom povem, razumevanje pride za mikom.
+
+221
+00:20:40,000 --> 00:20:43,000
+Včasih je dovolj, da narediš ti tri, čtiri, pet tutorialov,
+
+222
+00:20:44,000 --> 00:20:47,000
+a ne, ampak spet se mi zdi, da če imaš ta, torej vsak dan,
+
+223
+00:20:47,000 --> 00:20:50,000
+imaš neko rutino, kdaj to počneš, da pa, ko boš ti prišel
+
+224
+00:20:50,000 --> 00:20:53,000
+do naslednjega tutoriala, boš videl, da pa, bom rekel,
+
+225
+00:20:53,000 --> 00:20:57,000
+kon Karate Kita, ne, ko je brus auto, pa na koncu video,
+
+226
+00:20:57,000 --> 00:21:00,000
+da ne, niki je ostalo od tega, ne, niki ostane
+
+227
+00:21:00,000 --> 00:21:03,000
+in razumevanje pride za mikom.
+
+228
+00:21:03,000 --> 00:21:06,000
+Predvsem bi to rekel, ugotovi kakšen tip si, ali rabiš nekoga,
+
+229
+00:21:06,000 --> 00:21:10,000
+bom rekel na začetku, da te spremlja, odgovarja na vprašanja.
+
+230
+00:21:10,000 --> 00:21:14,000
+Če prav tu, zmeram to tret povem, če hočeš biti, v tem primeru,
+
+231
+00:21:14,000 --> 00:21:18,000
+recimo developer, se čim prej nauči, kako se samo učiš.
+
+232
+00:21:18,000 --> 00:21:22,000
+Ker ne boš vedno imel možnost nekoga vprašati, sploh,
+
+233
+00:21:22,000 --> 00:21:25,000
+ko boš, bom rekel, karjero više gradil, pa boš, bom rekel,
+
+234
+00:21:25,000 --> 00:21:28,000
+bo vsej manj in manj sogovornikov.
+
+235
+00:21:28,000 --> 00:21:32,000
+In, torej, ali bo je to tekst, torej, ali imaš neke, recimo,
+
+236
+00:21:32,000 --> 00:21:36,000
+text-based tutorials, kjer boš ti nekaj šel, pa mogoče, recimo,
+
+237
+00:21:36,000 --> 00:21:39,000
+meni so še text-based včasih, ker me sem zanima ena čist mala stvar,
+
+238
+00:21:39,000 --> 00:21:42,000
+in se mi ne da zdaj celega videa gledat, da prijemem dovoljne stvari,
+
+239
+00:21:42,000 --> 00:21:46,000
+in lažje posrčam. Drugi bi radi, da je vse, da vidijo,
+
+240
+00:21:46,000 --> 00:21:49,000
+kaj počnejo. Tako sem rekel, tretji berajo, da razumejo,
+
+241
+00:21:49,000 --> 00:21:53,000
+kaj se to dela. Tako da, jaz mislim, ni toliko enoznačnega,
+
+242
+00:21:53,000 --> 00:21:58,000
+da bi se rekel, točno tako bi šlo. In pa, dajte si probati,
+
+243
+00:21:58,000 --> 00:22:03,000
+ne, poskusiti, da vidite, kjer del vam ustreza.
+
+244
+00:22:03,000 --> 00:22:06,000
+Ali pa, spomem rekel, na internetu je pa polno tudi z teh, ne,
+
+245
+00:22:06,000 --> 00:22:11,000
+Odim Project, Free Code, polno je teh programov, v tem imaš tudi,
+
+246
+00:22:11,000 --> 00:22:15,000
+bom rekel, te tečaje ali pa ne vem tako je v Sloveniji Smart Ninja,
+
+247
+00:22:15,000 --> 00:22:19,000
+in vse stvari, ki v resnici so zelo, zelo, zelo, zelo dobro došli
+
+248
+00:22:19,000 --> 00:22:22,000
+v tem ekosistemu, da lahko se na tak način učiš.
+
+249
+00:22:22,000 --> 00:22:27,000
+A imaš približno kajšen estimate, koliko časa nekdo rabi,
+
+250
+00:22:27,000 --> 00:22:31,000
+da pride do nekega nivoja, da lahko potem tudi službo dobi?
+
+251
+00:22:31,000 --> 00:22:33,000
+A goremo čist iz nule? Čist iz nule.
+
+252
+00:22:34,000 --> 00:22:38,000
+Zdaj, pri nas na Skill Up mentorju, mi, jaz imam tako rečen,
+
+253
+00:22:38,000 --> 00:22:41,000
+pač mi ne učimo programiranja, mi res damo samo skill-e,
+
+254
+00:22:41,000 --> 00:22:46,000
+ker pa meni nekdo že more priti, bom rekel, je ta začetek začel,
+
+255
+00:22:46,000 --> 00:22:51,000
+že sam, ampak recimo, zadaj, imamo pa tudi taki, ki so samo uki,
+
+256
+00:22:51,000 --> 00:22:53,000
+pa pridejo k nam, pa jim potem pomagamo, da pridejo se do službe,
+
+257
+00:22:53,000 --> 00:22:57,000
+in recimo so bili samo uki, ne vem, leto, leto pa pol, dve,
+
+258
+00:22:57,000 --> 00:23:00,000
+mislim, da pod leto ni prav nihče še prišli k nam,
+
+259
+00:23:00,000 --> 00:23:04,000
+in pa spet tu je to tako osebna izkušnja, a ne, torej,
+
+260
+00:23:04,000 --> 00:23:08,000
+če sem jaz zagrižen, pa bom to delal, bom seveda lahko pohitril,
+
+261
+00:23:08,000 --> 00:23:13,000
+pa spet, mal je talent, mal je, bom rekel, suport, ki ga mnudi,
+
+262
+00:23:13,000 --> 00:23:18,000
+šokolj, težko bi zdaj ocenil, koliko časa nekdo potrebuje,
+
+263
+00:23:18,000 --> 00:23:22,000
+ampak zdaj, če bi rekel na palec ali pa nekaj ocenil,
+
+264
+00:23:24,000 --> 00:23:27,000
+pol leta, eno leto, sigurno, da bom rekel vse te stvari,
+
+265
+00:23:28,000 --> 00:23:31,000
+pa to, kar je še prej ilja vmenil, sislavski ili spraševanje,
+
+266
+00:23:31,000 --> 00:23:33,000
+vse to se učiš tu z ramen.
+
+267
+00:23:34,000 --> 00:23:40,000
+Ja, vse mogoče, če se kar potem na to navežem, je neka taka ideja,
+
+268
+00:23:40,000 --> 00:23:46,000
+hodim v šolo, pridem sem in dobim službo, pač stvari seveda ne grejo,
+
+269
+00:23:46,000 --> 00:23:51,000
+ki jih čisto tako. Kaj je bilo zato še vse vmes med tem?
+
+270
+00:23:51,000 --> 00:23:55,000
+Ja, jaz sem, Islam je prej vmenil šest letico do enega leta,
+
+271
+00:23:55,000 --> 00:24:01,000
+či začetka jaz sem, da skill-up pobil, da sem projekte naredil leto pa pol,
+
+272
+00:24:01,000 --> 00:24:07,000
+ampak začel pa vmes tri, četiri mesece pauze, pa malo magistersko pisati,
+
+273
+00:24:07,000 --> 00:24:11,000
+malo napotovanje, spet nazaj, spet vzame en mesec delam,
+
+274
+00:24:11,000 --> 00:24:18,000
+pa spet šest mesec onač, tako da pol pač življanje prišlo vmes.
+
+275
+00:24:18,000 --> 00:24:23,000
+Ne vem, pol, ko sem začel iskati razni razgovori,
+
+276
+00:24:23,000 --> 00:24:29,000
+tehnične intervjuji, naloge, pol pač s tem se učiš.
+
+277
+00:24:29,000 --> 00:24:33,000
+Na enem intervjuju si, pol na drugem si že boljši, že bolj pripravljen,
+
+278
+00:24:33,000 --> 00:24:37,000
+pa tako pač vse gre po postopama, postopnička.
+
+279
+00:24:37,000 --> 00:24:44,000
+Torej si delal tudi na nekih drugih projektih izven, šolen, nekih svojih,
+
+280
+00:24:44,000 --> 00:24:47,000
+ali v sklopu skill-up mentorja?
+
+281
+00:24:47,000 --> 00:24:52,000
+Tu že par let nazaj sem pač imel kakšen svoj projekt, ampak ja v zadnjem letu dveh,
+
+282
+00:24:52,000 --> 00:24:59,000
+pa te skill-up programe, pač skill-up naloge, projekte.
+
+283
+00:25:00,000 --> 00:25:05,080
+Pa ja, tek sem si vzel čas, ko sem imel med faksom, sem že začel delati,
+
+284
+00:25:05,080 --> 00:25:10,560
+ko sem bil absolvent na magisteriju, sem začel na skilapu.
+
+285
+00:25:10,560 --> 00:25:21,760
+Ko sem zaključil, sem pa imel malo več časa, pa sem si res vzel, pa sem si postavil neko rutino in sem pal dokončal.
+
+286
+00:25:21,760 --> 00:25:29,520
+Kaj so te kot džunjera spraševali o žiroma že pričakovali od tebe na razgovorih?
+
+287
+00:25:30,320 --> 00:25:41,680
+Po moje so pač tako rečeli kulturno, da si tako odprt tip, da sprašuješ, da znaš,
+
+288
+00:25:41,680 --> 00:25:52,400
+kdaj pač to glih zadnjič sme jo mantili, pa so rekli, da so zadovoljni in da mi je ravno to všeč, da sprašujem veliko.
+
+289
+00:25:52,959 --> 00:26:05,199
+A rekli su o problemu džunjera, da ne sprašujem joj dosta, tako da hodim da malo znam oceniti koliko na določenem problemu sam zapravim
+
+290
+00:26:05,199 --> 00:26:14,639
+i polko ne najdem rješitve, da znam kakve su djelavca ili seniorja, pristopit pa ga uprašat.
+
+291
+00:26:15,519 --> 00:26:22,000
+Po moje so bolj to iskali, da se znam učiti in da sem odprt, da znam uprašati.
+
+292
+00:26:24,000 --> 00:26:34,480
+A je kakšna, mislim, sigurno je eno, ampak kako pomembna je ta razlika učenje, nadaljavo ali pa nek mentor zraven oziroma neka pisarna,
+
+293
+00:26:34,480 --> 00:26:36,800
+kjer se lahko obrneš in nekoga direkt uprašaš?
+
+294
+00:26:37,360 --> 00:26:45,040
+Ja, mislim, jaz osebno mislim, da je ful razlika, če je nadaljavo ali pa če imaš ti tudi, bom rekel, v skilap mentorje zmeram smetujem,
+
+295
+00:26:45,040 --> 00:26:50,879
+tudi če vam podjetje, bom rekel, dovoljuje nek hybrid ali pa remote, da je probajte čim več biti v pisarni,
+
+296
+00:26:50,879 --> 00:26:58,559
+ker konc hodza tudi se neko zaupanje gradi, spoznaš nekoga bolje, a ne in tudi, bom rekel, ko bo, ker se veda bo prišel do kakve napake,
+
+297
+00:26:58,559 --> 00:27:03,360
+ječe drugače lahko ti priješ do sedelavca, s kerem si že odnos gradil, da ti pomaga.
+
+298
+00:27:04,160 --> 00:27:14,160
+Je pa, če pa ni druge možnosti, pa seveda remote tudi ta varianta, da predvsem gotoviš, da vsi mi, pa mislim, da bo tudi,
+
+299
+00:27:14,160 --> 00:27:22,800
+bom rekel, starejši je rekli, imamo vedno nek ta, bom rekel, impostor sindrom ali pa saj občutek, da mogoče pa ti ne obvladaš,
+
+300
+00:27:22,800 --> 00:27:28,800
+vse polno je teh mimov, ne, bom rekel, junior išče, kako se naredi time, pa pa tudi senior išče čisto isto v ugla,
+
+301
+00:27:28,800 --> 00:27:35,679
+ker in da sem pa, če gotoviš, da je čisto ok, če sprašuješ in da je to, tako je rekel Ilija, celo zaželjeno,
+
+302
+00:27:35,679 --> 00:27:41,119
+da je pa, če se vrnema mogoče na formalno izobraževanje, ne, tam smo jih pa nekako odnošili, da sprašovanje
+
+303
+00:27:41,119 --> 00:27:46,399
+pa ni najbolj, ne, ker pol bo pa mogoče profesor gotovil, da jaz pa ne znam, zato bom rajet tih,
+
+304
+00:27:46,399 --> 00:27:53,199
+pa ne bom nič sprašal in potem je zelo, recimo mi tudi na skila, pa mi jim to masovno, več čas, konstantno
+
+305
+00:27:53,199 --> 00:27:58,880
+sprašuji, sprašuji, sprašuji in pa še več sprašuji, pa tudi seveda je normalna razlika, verjetno Ilija,
+
+306
+00:27:58,880 --> 00:28:05,039
+ko pride do svojega mentora in pa ga vpraša neki, moj nazaj z vselimi odgovori, v šoli je bilo mogoče
+
+307
+00:28:05,039 --> 00:28:12,240
+kak drugačen odgovor ali pa, a ne, teda to so mogoče take razlike, teda jaz, če bi se to definitivno mentor
+
+308
+00:28:12,240 --> 00:28:19,839
+nastik, nablizu, na dotik roke, če pa seveda ni druge možnosti, je pa seveda tudi mimov,
+
+309
+00:28:20,080 --> 00:28:24,960
+reku, zdaj je že tako razvito, pa smo sega ženovati, da mislim, da ne predstavlja tako veliko.
+
+310
+00:28:27,600 --> 00:28:36,080
+A je še kaj šantašen velik shortcoming našega šolskega sistema, pa če, ta je sigurno, ne, to frontalno podajenje
+
+311
+00:28:36,080 --> 00:28:43,199
+znanja, ka pač, tudi če hočeš delati izmed tih, v katerih do neki meri si vse novo jetnik in učnih načrtov
+
+312
+00:28:43,199 --> 00:28:50,160
+in pač tega načina, kot imamo, organizacija dela. A je še kaj takega, kar bi, po tvojem mnenju, lahko boljše
+
+313
+00:28:51,360 --> 00:28:54,080
+naredili oziroma, na boljši način učili?
+
+314
+00:28:54,080 --> 00:29:01,279
+Ok, ja. Zdaj, mogoče, da povem, jaz načeloma sem zelo zadovoljen z našim šolstvom, predvsem zaradi tega, ker se vedno
+
+315
+00:29:01,759 --> 00:29:08,240
+meni govori, da imam sončno čale gore, ampak jaz se raje fokusiram na stvari, ki pozitivno delujejo in imam ogromno sodelovce,
+
+316
+00:29:08,240 --> 00:29:14,399
+na katere sem zelo, zelo ponosen in sem vesel, da so moji sodelovci in ko vidim, koliko energije in truda oni odložijo
+
+317
+00:29:15,759 --> 00:29:22,959
+in se tudi strinjam, mislim, predvidevam, da tudi poslušalci, ki to poslušajo, sigurno imajo nekega profesorja, pa je mogoče to bi bil učitelj, ne vem,
+
+318
+00:29:23,279 --> 00:29:26,079
+likovne ali pa matematike v osnovni, srednji šoli,
+
+319
+00:29:26,959 --> 00:29:27,920
+ki jim jaz spremenil,
+
+320
+00:29:28,559 --> 00:29:32,079
+a ne, bom ne vem, za gliko življenje ali pa saj tisti trenutek takrat.
+
+321
+00:29:32,640 --> 00:29:39,519
+Tako da jaz, kar se tiče tega šoljstva, imam pozitivno, predvsem, da je, ker vidim, polno ljudi notrije, ki se zelo trudi,
+
+322
+00:29:40,000 --> 00:29:42,000
+zdaj, mar si kaj bi pa lahko spremenili,
+
+323
+00:29:42,399 --> 00:29:43,920
+predvsem se mi dela namanka,
+
+324
+00:29:44,559 --> 00:29:45,279
+kaj je cilj,
+
+325
+00:29:45,839 --> 00:29:48,239
+a ne, zdaj, če je cilj tega, o smo se prej pogovarjali,
+
+326
+00:29:48,480 --> 00:29:50,640
+recimo, če konkretno stanemo pri očonalništvu,
+
+327
+00:29:50,959 --> 00:29:54,320
+da se ona očidi čim več spraševat, komunicirat, pa vse teh stvari,
+
+328
+00:29:54,799 --> 00:29:57,839
+teh stvari načalema ne zasledujemo, a ne,
+
+329
+00:29:58,079 --> 00:30:02,559
+in tudi, če bi se vrnil nazaj na tisto čist načrte, kot si govorila o vedbi obveznega predmeta,
+
+330
+00:30:02,799 --> 00:30:05,279
+recimo, jaz to totalno podpiram, zato, ker
+
+331
+00:30:05,519 --> 00:30:07,279
+imamo zdaj čist odkriti tudi,
+
+332
+00:30:08,079 --> 00:30:09,600
+moram reči, vsi učitelji smo ljudje,
+
+333
+00:30:10,000 --> 00:30:12,799
+a ne, in če imam jaz v učnem načrtu neko stvar,
+
+334
+00:30:13,839 --> 00:30:15,839
+na kateri nisem najbolj samozavesten,
+
+335
+00:30:16,559 --> 00:30:18,079
+bom seveda tem uram,
+
+336
+00:30:18,320 --> 00:30:26,160
+čist pod človeško namenom, manj pozornosti, pa manj časa, ne, in ideja ta varianta, da bi se digitalizacija pračalništva vedla vse predmete,
+
+337
+00:30:26,720 --> 00:30:28,720
+bi bila v teoriji odlična,
+
+338
+00:30:29,119 --> 00:30:30,079
+v praksi,
+
+339
+00:30:30,559 --> 00:30:31,119
+žal,
+
+340
+00:30:31,519 --> 00:30:35,119
+malo manj, zatega, ker tudi, če se boste zdaj rekli, da bom jaz naprij,
+
+341
+00:30:35,600 --> 00:30:38,399
+bom rekel, na področju računalništva, poučeval še zraven,
+
+342
+00:30:38,799 --> 00:30:40,799
+recimo, zelene, trajnostne stvari,
+
+343
+00:30:40,959 --> 00:30:46,480
+ne, da imam kaj proti, ampak, ki se ne počutim dovolj samozavestnega, da bi v tem predavil, in seveda, tudi, če bom predavil,
+
+344
+00:30:46,799 --> 00:30:52,399
+to ne bo ista energia, in bom rekel, mladi ne bojo se isto naučili, kot pa, ko jim jaz razlagamo v podatkovnih bazah,
+
+345
+00:30:52,399 --> 00:30:54,640
+ker, ali pa ne vem, v nekih stvarih, ki so pa meni blizu.
+
+346
+00:30:55,200 --> 00:30:57,760
+In ziztega stvari, če mislim, da bi nujno potrebovali,
+
+347
+00:30:58,160 --> 00:30:58,959
+predvsem pa,
+
+348
+00:30:59,440 --> 00:31:00,480
+prvem primeru, kadr.
+
+349
+00:31:01,440 --> 00:31:03,200
+In to, ko si prejeka shortcoming,
+
+350
+00:31:03,600 --> 00:31:04,640
+jaz mislim, da
+
+351
+00:31:05,279 --> 00:31:07,440
+to je ena stvar, ko se njihče ne upa,
+
+352
+00:31:07,920 --> 00:31:09,119
+da ima reč primit za roge,
+
+353
+00:31:09,839 --> 00:31:12,399
+in to je, bom rekel,
+
+354
+00:31:13,760 --> 00:31:15,839
+kadr v smislu tem, da
+
+355
+00:31:17,200 --> 00:31:18,399
+bom rekel, podpret,
+
+356
+00:31:18,720 --> 00:31:20,320
+oziroma, bom ušel tako nazaj.
+
+357
+00:31:21,040 --> 00:31:28,320
+Imamo veliko pravilnikov, pa veliko pravil, ki nam jih devajo v šolstvu, ampak pravilnik, noben pravilnik, še ni slabega očitelja na del boljšega.
+
+358
+00:31:29,119 --> 00:31:31,679
+Je pa veliko dobrih očiteljev lahko v miji.
+
+359
+00:31:32,399 --> 00:31:35,679
+In jaz mislim, da bi to morali delati že na vstopnih,
+
+360
+00:31:35,920 --> 00:31:38,640
+kot pravim, največ na vratih, ko ga spustiš v
+
+361
+00:31:39,600 --> 00:31:42,239
+ali v organizacijo podjetja, konc koncov, tudi v šolo.
+
+362
+00:31:42,720 --> 00:31:44,959
+In to bi nekako morali delati, ampak je zdaj,
+
+363
+00:31:45,519 --> 00:31:49,279
+po moje, v prihodnih letih še slabše, ker je pomankanje kadra ogromno.
+
+364
+00:31:49,519 --> 00:31:53,600
+Je mu, po moje, prišel mogoče tudi nekdo noter, ki bi bil mogoče boljši inženjer,
+
+365
+00:31:54,079 --> 00:31:55,359
+pa mogoče slabši očitelj.
+
+366
+00:31:55,839 --> 00:31:56,880
+In da bi to
+
+367
+00:31:57,519 --> 00:31:59,119
+nekako to naredil, ampak vse,
+
+368
+00:31:59,920 --> 00:32:02,399
+jaz razumem, če mi daš čarobno palčko, ne vem, kaj bi to rešil.
+
+369
+00:32:02,559 --> 00:32:04,799
+Da ne bo zdaj tezljava, da sem kritiziram,
+
+370
+00:32:05,760 --> 00:32:08,079
+je zelo, bom rekel, odgovorno del, ampak
+
+371
+00:32:08,559 --> 00:32:12,160
+jaz bi tu mogoče rekel vsem, ko poslušate, ali pa ste mogoče starši,
+
+372
+00:32:12,559 --> 00:32:14,720
+dejte unim očiteljem, ko so vam res fajni,
+
+373
+00:32:14,880 --> 00:32:20,399
+dejte jim povedati, kaj bojo povedali naslednji leto generacije še boljši, pa mogoče na ta način izboljšamo, da jih spostavljamo one
+
+374
+00:32:20,640 --> 00:32:22,640
+zelo, zelo lepe primere, pa in njim delamo,
+
+375
+00:32:23,040 --> 00:32:24,880
+bom rekel, pozornost kot pa one,
+
+376
+00:32:25,359 --> 00:32:26,559
+ko mogoče nam niso
+
+377
+00:32:27,040 --> 00:32:27,600
+tako všeč.
+
+378
+00:32:28,239 --> 00:32:33,279
+A je Covid kaj spremenil, pa pomagal tudi pri digitalni pismenosti očitelja?
+
+379
+00:32:33,600 --> 00:32:38,320
+Ja, največ. Jaz sem imel predavanje za šole in sem rekel, kdo je največ digitaliziral šolstvo
+
+380
+00:32:38,559 --> 00:32:43,200
+in sem dal 1% ravnatelj, pa 1% šolstvo, pa 98%-o Covid.
+
+381
+00:32:44,160 --> 00:32:47,839
+Če ne bi bilo Covid, pač ne bi. Jaz mislim, da Covid
+
+382
+00:32:48,640 --> 00:32:51,760
+moja sehecamohto je res, res, res ogromno pripomagal.
+
+383
+00:32:52,399 --> 00:32:54,160
+Je pa spet, če vrnem se nazaj na kulturo,
+
+384
+00:32:55,040 --> 00:32:56,799
+kot v zanimanje in vse te stvari,
+
+385
+00:32:57,279 --> 00:33:04,320
+vam povem, da pač nismo na isti stopni digitalizacije, kot smo bili. Smo spadli mogoče spet včasih pri nekih primerjih nazaj na papir.
+
+386
+00:33:04,559 --> 00:33:05,920
+Pa smo že bili čist digitalni,
+
+387
+00:33:06,480 --> 00:33:07,760
+ampak zdaj, ko smo blizu,
+
+388
+00:33:08,000 --> 00:33:10,480
+pa se vidimo, smo pa nekje spet padli na papir.
+
+389
+00:33:11,040 --> 00:33:13,040
+Ampak to je spet čist človeško.
+
+390
+00:33:14,160 --> 00:33:19,440
+Mogoče, če se vrnemo malo nazaj na iskanje službe
+
+391
+00:33:20,079 --> 00:33:22,079
+in te prve zaposlitve,
+
+392
+00:33:24,880 --> 00:33:27,279
+dajmo se malo pogovarjati o pomenu portfolja.
+
+393
+00:33:27,279 --> 00:33:33,440
+A si, gleda ti, imel kakšen portfoljo potem, narjen, projekte, za pokazati nekaj, ste seveda tudi delali,
+
+394
+00:33:33,440 --> 00:33:40,000
+kako si ti videl ta del potem, tudi kot je del tvoje predstavitve o novem modelu dejalcev?
+
+395
+00:33:40,559 --> 00:33:46,479
+Jaz nisem imel, pač nimam, portfolja kot spletno stran svojo, da bi se predstavil.
+
+396
+00:33:47,119 --> 00:33:50,239
+Sem pa uporabil LinkedIn pa GitHub.
+
+397
+00:33:50,799 --> 00:33:55,919
+Sem si ga uredil, pisel vse projekte, ko sem delal, sem dodal opise,
+
+398
+00:33:57,760 --> 00:34:02,080
+pa tudi tako, te navlage tudi, ko sem od podjetja dobil na razgovarjih,
+
+399
+00:34:02,559 --> 00:34:05,280
+sem tudi dal na GitHub, pa jih lepo opisal.
+
+400
+00:34:05,919 --> 00:34:09,760
+Tako da, kar se tiče portfolja, je pač sam to.
+
+401
+00:34:10,799 --> 00:34:18,239
+Druga pa, v CV sem napisal pač nekakšnih projektih, sem delal, pa kaj sem se tam naučil, kaj sem odnesel,
+
+402
+00:34:18,239 --> 00:34:23,359
+če so bili kake težave, na kakšen način sem jih rešil, tako da to.
+
+403
+00:34:23,359 --> 00:34:31,919
+Zapravo za GitHub konkretno, a si imel občutek, da so tudi šli in odprli svoj GitHub in pogledali,
+
+404
+00:34:31,919 --> 00:34:37,599
+da je bil to tudi en del mogoče tega vstopa ali je …
+
+405
+00:34:37,840 --> 00:34:48,080
+Zaj ne vem, da so, pač da so rekli, pač pozitivno, da se je lepo predstavljeno,
+
+406
+00:34:48,080 --> 00:34:56,559
+pa to eni so tudi šli kod obrat, pa so rekli, berljiva koda, pa tak komentar je pač odvisno po moje od delodajalca,
+
+407
+00:34:56,559 --> 00:35:02,880
+kog je tudi zainteresiran, pa koga zanima, da gre v tiste podrobnosti gledati,
+
+408
+00:35:02,880 --> 00:35:06,080
+pa pač fajn, da jih imaš tudi, če noben ne pogleda.
+
+409
+00:35:06,080 --> 00:35:17,440
+Ja. A namislim lahko, hlibo vsemu še v krajšnjo stavku dveh predstaviš malo ta program SkillUp Mentor
+
+410
+00:35:17,440 --> 00:35:24,159
+oziroma predvsem to vaše sodelovanje za podjetji in potem tudi, če se navežimo potem na ta portfolio,
+
+411
+00:35:24,159 --> 00:35:31,760
+je to nekaj, kar se tudi z njihove strani prihaja, da bi bil prav, a tudi na takih projektih, kateri delate na SkillUpu?
+
+412
+00:35:32,719 --> 00:35:39,280
+Zdaj, bom rekel, za SkillUp Mentor smo probali ta gap smanjšati, torej, ko ti končaš formalno izobrazbo,
+
+413
+00:35:39,280 --> 00:35:47,440
+na koncu smo gotovi, da se k nam predružijo tudi nekateri, ki so v nekih službah, pa mogoče tam delajo po njihovem mnenju za starevo tehnologijo,
+
+414
+00:35:47,440 --> 00:35:50,799
+pa rad bi prišli k nam, da si kak moderni stack pogledajo.
+
+415
+00:35:50,799 --> 00:35:58,000
+Povezal sem se, bom rekel, z senior developeri iz raznih podjetij in smo pač pripravili en program,
+
+416
+00:35:58,239 --> 00:36:06,239
+ki je pač project based, kar pomeni vsak, ki se nam predruži, vse vedno ima nek preboarding period, imamo tudi community,
+
+417
+00:36:06,239 --> 00:36:14,880
+kjer dodolijo mentorja in on dobi projekt, kjer je, bom rekel, v Figma ima design, v GitHubu je napisano vse točno, kaj more biti,
+
+418
+00:36:14,880 --> 00:36:19,119
+testke, katere se more narediti in delamo v full stack web developerja.
+
+419
+00:36:19,119 --> 00:36:25,679
+Zdaj, tehnologijo načetku smo imeli zelo strogo, pa smo se držali, na koncu smo videli, da včnici je vse fluidno,
+
+420
+00:36:25,760 --> 00:36:31,599
+bom rekel, podjetja rabe različne kadre, ampak imamo pač v back-end, običajno je to nek node,
+
+421
+00:36:31,599 --> 00:36:39,280
+pa nest framework, imamo pa tudi Java, imamo tudi .NET, pač zdaj ni to, smo tako specifični in bom rekel,
+
+422
+00:36:39,280 --> 00:36:42,320
+si pogledajo tudi oni, bom rekel,
+
+423
+00:36:43,200 --> 00:36:50,159
+kampanj, kako si vodijo te stvari, predvsem jih tu na estimate-at, da morajo estimate-at in cel ni,
+
+424
+00:36:50,159 --> 00:36:56,320
+da jim je pravilno estimate-ali, cilj v prvem je samo, da ugotovijo, da je to težavno in da to ni tako enostavno,
+
+425
+00:36:56,320 --> 00:37:01,919
+kot gleda na prvi pogled in da si te stvari, pa da tudi si znajo razbiti testke na manjše testke
+
+426
+00:37:01,919 --> 00:37:07,919
+in ko oni so vse stvari zaključili, morajo tudi deploy-ati, mi delamo pač na AWS od Amazona
+
+427
+00:37:07,919 --> 00:37:15,440
+in dobijo code review, torej gre mentor, če so kodo in se tuje, da je Ilja v tem primeru pač probi to izboljšati,
+
+428
+00:37:15,440 --> 00:37:19,840
+ne vem, če bi se scalalo, to ne bi šlo čez, tuli si pozabor na to, pa to varnost
+
+429
+00:37:19,919 --> 00:37:26,559
+in ideja je, da čez en tak pogovor, on bom rekel izboljša stvari in potem na naslednjem projektu si mi zapišemo,
+
+430
+00:37:26,559 --> 00:37:33,760
+kaj so te možnosti za izboljšavljanje, dobi nov projekt, kjer pač dodamo kako novo tehnologijo,
+
+431
+00:37:33,760 --> 00:37:39,919
+kar pomeni, da tisto, kar je staro, obdrži na novej tehnologiji, kjer raširi in spet naslednji mentor, ko pogleda,
+
+432
+00:37:39,919 --> 00:37:46,080
+spet preveri, a je bil napredek, ni bil napredek, kje bi šlo, delamo, cel program je remote,
+
+433
+00:37:46,159 --> 00:37:52,640
+sicer se dobivamo enkrat na tedan, bom rekel, remote in debatiramo, pogovarjamo, to, kar je prej Ilja gre,
+
+434
+00:37:52,640 --> 00:38:00,320
+spodbujamo, da sprašujejo, da ugotovijo, da jim ni problem vprašati in da je zvedno tam nekdo pripravljen pomagati
+
+435
+00:38:00,320 --> 00:38:08,239
+in ko pridejo do konca našega programa, tako je recimo bil Ilja, potem pa jaz upravim pogovor z njim, kaj si želijo,
+
+436
+00:38:08,239 --> 00:38:14,640
+kam si želijo, tudi pomagam pri CV-ju, kako nas je ga pripravil, to, kar je Ilja rekel, bom rekel,
+
+437
+00:38:14,640 --> 00:38:23,280
+jaz bi se to vsem danaj naredil, vse, kar je v njihovi moči, ne gledam to, da se je taktizirajo, a bo delal, da je odstotk pogledal, ne.
+
+438
+00:38:23,280 --> 00:38:30,880
+Pa če tem ti pokažeš, že tisto, če si bo vzel tisto urco dve, pa tudi, če bo to cel dan, pa si pripraviš GitHub-a, vse te stvari,
+
+439
+00:38:30,880 --> 00:38:38,960
+jaz bom tako se pošalil, da če bo izbirali med dvema, pa bo nekdo imel vse te stvari urejene, nekdo pa ne, jaz mislim, da je logično tudi, kjer ga bi jaz izbral,
+
+440
+00:38:39,119 --> 00:38:41,119
+ne, tisko ma vse lepo urejeno.
+
+441
+00:38:41,599 --> 00:38:44,719
+In to izpovedujemo, da pripravijo.
+
+442
+00:38:45,280 --> 00:38:49,200
+Potem pa bom rekel, ta služba ali pa iskanje prve službe,
+
+443
+00:38:49,599 --> 00:38:51,119
+bi pa sem rad omenil, da
+
+444
+00:38:51,840 --> 00:38:56,640
+ja, je veliko popraševanja po developerih posle te stvari,
+
+445
+00:38:56,880 --> 00:39:03,359
+ampak včasih mogoče nekdo pojde s tem, kar si predti rekla, ne. Ko bom zaključil in bom rekel, hej, jaz sem tu,
+
+446
+00:39:03,599 --> 00:39:07,280
+se bo pač podjetja grebla in tepla med sabo, sem, da dobijo
+
+447
+00:39:08,000 --> 00:39:09,520
+temo, pa da ni tako, no,
+
+448
+00:39:10,000 --> 00:39:14,239
+da bom čisto odkrita, ne, pač boš moral pokazati dovolj znanja
+
+449
+00:39:14,719 --> 00:39:15,520
+in
+
+450
+00:39:16,320 --> 00:39:25,119
+ne bom glih rekel pravljicam, ampak v tem zgodbicam, v uspehu, ko je nekdo prišel, kar tako potrkl na neka vrata v nekem podjetju, pa so mu odprli in so ga potem samo naučili,
+
+451
+00:39:25,280 --> 00:39:28,799
+ne, da ne obstajajo, ampak so prej izjemni, kot pa preveda.
+
+452
+00:39:30,640 --> 00:39:33,039
+A projektini, na katerih potem
+
+453
+00:39:33,280 --> 00:39:34,880
+delajo mentorirnici, so
+
+454
+00:39:34,960 --> 00:39:36,960
+standardni ali so vedno isti?
+
+455
+00:39:37,119 --> 00:39:43,840
+Skozi koliko projektov, recimo, si šel ti, koliko projektov si mogel zaključiti in so to potem projekti, ki so
+
+456
+00:39:44,080 --> 00:39:48,559
+dejansko v produkciji oziroma prihajajo od teh? Ja, zdaj imamo tako, jaz jim rečem,
+
+457
+00:39:48,719 --> 00:39:49,440
+projekti so
+
+458
+00:39:50,320 --> 00:39:50,880
+produkt,
+
+459
+00:39:51,119 --> 00:39:51,599
+a ne,
+
+460
+00:39:51,760 --> 00:39:59,200
+torej, da morajo biti na vvoju produkcije, kar pomeni tudi plan in pa vse, ampak so pa šoljski, kar pomeni, iz tega ste rečo dobili vsak isti,
+
+461
+00:39:59,440 --> 00:40:02,880
+zatega, da tudi jim povemo, da ni, da ne bo še eno dodobil pomislek,
+
+462
+00:40:03,039 --> 00:40:07,919
+aha, jaz sem tam se dogovori z nekim podjetjem za nek projekt, jaz ga zdaj tu naredim, potem pa on,
+
+463
+00:40:08,080 --> 00:40:10,320
+torej, ni vzadju ničesar takega,
+
+464
+00:40:10,719 --> 00:40:13,440
+sodelujemo tudi z različnimi podjetji, ki nam oni dajo svoje projekte,
+
+465
+00:40:13,599 --> 00:40:18,719
+ki rečejo sploh, kaj da recimo imamo za stekom, torej, da mi nismo tako k močnimu njihovem steku
+
+466
+00:40:19,039 --> 00:40:19,599
+in
+
+467
+00:40:19,840 --> 00:40:23,039
+rečemo, ne, to pa to podjetje je, ima tako pa tak izivu
+
+468
+00:40:23,200 --> 00:40:27,359
+in pač to podjetje pripravi dokar in vse te za njih in oni pač na tem izivu
+
+469
+00:40:27,599 --> 00:40:30,239
+recimo delajo, to smo zdaj, bom rekel,
+
+470
+00:40:30,400 --> 00:40:33,280
+se raširili, pa bom rekel, malo zarasti, pa tudi vidijo, da je to,
+
+471
+00:40:33,440 --> 00:40:37,760
+tudi da na ta način, zdaj, projektov mi imamo zapisanih pet,
+
+472
+00:40:38,320 --> 00:40:41,119
+ampak je tudi odvisno, recimo, Ilja, mislim, si sem dva naredil,
+
+473
+00:40:41,280 --> 00:40:43,119
+ja, pa smo že ugotovili, da je pač
+
+474
+00:40:43,440 --> 00:40:44,799
+na tem nivoju, da
+
+475
+00:40:45,359 --> 00:40:49,039
+da ni potrebno, da ga pač mi držimo, ampak je že pripravljen, da lahko gre
+
+476
+00:40:49,520 --> 00:40:50,719
+bom rekel, v službo,
+
+477
+00:40:51,679 --> 00:40:57,119
+ali pa, bom rekel, na to pa mogoče upravimo še kak projekt več, zatega smo tudi mi morali samo zavesti, ko ga poštimo naprej.
+
+478
+00:40:57,840 --> 00:41:02,799
+Kako si zbiral prvo službo, kakšen kriterij si imel,
+
+479
+00:41:03,039 --> 00:41:06,080
+a si sploh imel kakšen kriterij tudi zase,
+
+480
+00:41:06,320 --> 00:41:09,919
+ali je bilo tako samo, da bo, ali kako si sploh
+
+481
+00:41:10,159 --> 00:41:11,919
+lotiš tega?
+
+482
+00:41:12,320 --> 00:41:13,359
+Dobro vprašanje.
+
+483
+00:41:15,039 --> 00:41:18,640
+Ja, pač najprej sem iskal, da bi bila ta
+
+484
+00:41:19,039 --> 00:41:22,320
+tehnologija, ko sem jej delal na skill-upu, ko sem bil že malo
+
+485
+00:41:22,479 --> 00:41:25,200
+pač samo zavestno v njej, ko sem se že naučil.
+
+486
+00:41:25,679 --> 00:41:27,200
+To je bilo konkretno kaj?
+
+487
+00:41:27,200 --> 00:41:27,760
+Reakt.
+
+488
+00:41:27,760 --> 00:41:28,320
+Reakt, ok.
+
+489
+00:41:28,320 --> 00:41:32,479
+Reakt pa tudi v nesto sem delal, ampak pač sem bolj za reakt iskal.
+
+490
+00:41:33,520 --> 00:41:36,479
+Tako da, prvo je bilo to nekaj omejitev,
+
+491
+00:41:37,119 --> 00:41:40,559
+pa, tudi če, da bi bilo hibridno, čez čas,
+
+492
+00:41:40,799 --> 00:41:43,200
+ko jih slem prevmenil, jaz sem zdaj pač
+
+493
+00:41:43,440 --> 00:41:46,000
+dobil službo v Ljubljani, z velenja se
+
+494
+00:41:46,239 --> 00:41:48,000
+prvi mesec sem se vsak dan vozil,
+
+495
+00:41:48,159 --> 00:41:50,880
+mi ni bilo težko v gužbi stati
+
+496
+00:41:51,359 --> 00:41:54,239
+vsak dan, uro pa pol uro, štedeset,
+
+497
+00:41:54,320 --> 00:41:56,799
+mislim pač, rad pridem na šiht, ker
+
+498
+00:41:57,359 --> 00:41:59,359
+rad vprašam pa to, tako da
+
+499
+00:42:00,400 --> 00:42:03,679
+zaradi tega, in to je bil pač, da bi bil pol čez čas tudi bil
+
+500
+00:42:04,160 --> 00:42:04,800
+remote,
+
+501
+00:42:06,319 --> 00:42:07,599
+pa, da se,
+
+502
+00:42:08,400 --> 00:42:10,640
+da je možno za napredovanje, se pravi, da
+
+503
+00:42:11,199 --> 00:42:12,319
+da imam
+
+504
+00:42:12,640 --> 00:42:14,880
+nekega mentora, v bistvu da je v ekipi
+
+505
+00:42:15,199 --> 00:42:19,280
+nekdo, ali pa par ljudi, ki se lahko na njih obrnem, da se zanesem, da
+
+506
+00:42:19,520 --> 00:42:23,359
+pač to mi je bilo pomembno, pač da imam možnost za napredovanje, da se pač
+
+507
+00:42:23,359 --> 00:42:24,479
+novi stvari navčim,
+
+508
+00:42:25,199 --> 00:42:26,000
+pa tudi
+
+509
+00:42:26,239 --> 00:42:29,599
+pol mogoč nove tehnologije, ali pa skaka, da bi mogoč
+
+510
+00:42:29,839 --> 00:42:31,119
+čez par lečor na
+
+511
+00:42:31,280 --> 00:42:35,359
+na nas, na back-end, ali pa kake de vopce, pač kar bi me zanimalo,
+
+512
+00:42:36,079 --> 00:42:37,599
+da bi, tako da
+
+513
+00:42:37,760 --> 00:42:41,199
+to sem Islemu rekel, ko sem okončala porejek, no to me zanima,
+
+514
+00:42:41,760 --> 00:42:44,400
+pa Islej rekel, no to so podjetja, ki to nudijo,
+
+515
+00:42:44,560 --> 00:42:45,599
+smo pa tam nadaljevali.
+
+516
+00:42:46,560 --> 00:42:57,920
+Taka dobra prva služba, ki nudi podporo in mentorstvo in je tako, vključajoče okolje, ki ti
+
+517
+00:42:57,920 --> 00:43:00,400
+pokaže tudi dobro inženirni kulturo, se mi zdi, da je
+
+518
+00:43:00,959 --> 00:43:04,640
+dobra popotnica potem v zanedavno karjeru, ne?
+
+519
+00:43:06,079 --> 00:43:07,599
+Kar pa jaz opažam je, da
+
+520
+00:43:07,839 --> 00:43:10,000
+imamo veliko krat težave
+
+521
+00:43:10,239 --> 00:43:11,199
+sploh za
+
+522
+00:43:11,439 --> 00:43:15,199
+džunjeri, ki nimajo iskušen in ne razumejo, kaj je dobro podjetje
+
+523
+00:43:15,920 --> 00:43:20,959
+in ne razumejo, mogoče, kdaj so ujetne, ki je nekaj slabih inženirne kulture.
+
+524
+00:43:22,560 --> 00:43:26,640
+Ja, če bi imel odgovor na to, bi ga izkoristil večkrat tudi za,
+
+525
+00:43:26,800 --> 00:43:27,599
+ker poznam
+
+526
+00:43:27,680 --> 00:43:28,880
+točno to, kar ti govoriš,
+
+527
+00:43:29,040 --> 00:43:31,599
+ker, ampak jaz tudi mogoče sem včasih malce
+
+528
+00:43:32,880 --> 00:43:34,000
+ali bom rekel,
+
+529
+00:43:34,319 --> 00:43:39,439
+da je kdo sem jaz tada sodim, da je ta kultura, v kateri si tipa, zdaj za tebe slaba in potem
+
+530
+00:43:39,920 --> 00:43:43,359
+probam, poskušam, se pogovorim, ampak če vidim, da nekdo še vedno
+
+531
+00:43:43,920 --> 00:43:45,359
+in tudi recimo, ko
+
+532
+00:43:45,599 --> 00:43:46,719
+to upažam jaz, da
+
+533
+00:43:46,880 --> 00:43:47,760
+džunjeri krp
+
+534
+00:43:47,920 --> 00:43:49,920
+dolgo časa ostanejo v
+
+535
+00:43:50,079 --> 00:43:50,719
+podjetjih,
+
+536
+00:43:51,040 --> 00:43:52,239
+a ne, in
+
+537
+00:43:52,400 --> 00:43:54,400
+bom rekel, še lepač, mogoče kasneje
+
+538
+00:43:54,719 --> 00:43:58,479
+gotovijo točno to, ali mogoče, da niso bili fit za to podjetje, pa grejo iskati,
+
+539
+00:43:58,800 --> 00:44:04,880
+ampak ja, če bi imel odgovor na to, kaj nekomu reči, da zdaj pa on bi jim to z veseljem povedal, ampak žal ni,
+
+540
+00:44:05,040 --> 00:44:06,160
+ne vem, kaj bi ga spodbudil.
+
+541
+00:44:06,880 --> 00:44:08,400
+Mogoče, Ilja,
+
+542
+00:44:08,640 --> 00:44:12,479
+sport radar vseeno velja za nek podjetje, ki ima vredu v kulturo, tako da mogoče,
+
+543
+00:44:12,719 --> 00:44:14,719
+če malo bolj konkretno potem poveš,
+
+544
+00:44:15,040 --> 00:44:18,079
+kaj recimo vidiš ti kot džunjor
+
+545
+00:44:19,199 --> 00:44:23,920
+kot podporu, oziroma kaj recimo to podjetje dela, da se ti počutiš
+
+546
+00:44:24,719 --> 00:44:27,599
+kot da nisi pač samo tam v nekem kodu zaprti in
+
+547
+00:44:27,839 --> 00:44:29,119
+se moraš znajeti sam.
+
+548
+00:44:30,000 --> 00:44:33,040
+Recimo prvo to, da kot džunjor
+
+549
+00:44:33,119 --> 00:44:36,880
+da sodelujem na vseh sestankih, tudi tega pač nisem pričakoval, ko se
+
+550
+00:44:37,119 --> 00:44:40,160
+razvija, ko se pogovarja o novih
+
+551
+00:44:40,400 --> 00:44:42,160
+funkcionalnostih, ko
+
+552
+00:44:42,479 --> 00:44:48,560
+taske razdeljujemo, ko določamo časovno, pač kot vsak task, jaz sem bil, ne vem, en teden sem bil,
+
+553
+00:44:48,800 --> 00:44:50,319
+pa sem že bil zraven, ko smo
+
+554
+00:44:50,560 --> 00:44:54,079
+taske razporevali, določali, kot je kak zahtevan.
+
+555
+00:44:54,479 --> 00:44:59,280
+Tako da pač to, da sem inkludan, ko si rekla, nisem v koto, sem že tako je zraven.
+
+556
+00:44:59,599 --> 00:45:03,680
+Tu so me kar dali, tako je na produkcijo, nisem imel nekih
+
+557
+00:45:05,680 --> 00:45:11,839
+onboarding projektov, da bi nek tam pač 20 let star projekt našral v neki,
+
+558
+00:45:12,079 --> 00:45:14,640
+so me kar dali pač tisto, kar se dela.
+
+559
+00:45:14,880 --> 00:45:16,640
+Sem že prvi teden dobil pač
+
+560
+00:45:16,880 --> 00:45:19,439
+task pa feature dodal na
+
+561
+00:45:19,680 --> 00:45:21,760
+produkcijo, tako da
+
+562
+00:45:22,000 --> 00:45:25,520
+to pa odnos, pač vsake,
+
+563
+00:45:25,760 --> 00:45:28,560
+ko sem imel kakšno vprašanje, sem vedno dobil odgovor takoj.
+
+564
+00:45:29,119 --> 00:45:34,079
+Z veseljem pač, če kaj na sleku napišem in to,
+
+565
+00:45:34,319 --> 00:45:39,760
+kar pride do mene za mojo mizo, tako pač ne pričakujem, ne vem, senior se zrovena vse, da pa mi pokaže pa to.
+
+566
+00:45:40,000 --> 00:45:41,760
+Tako da pač
+
+567
+00:45:42,000 --> 00:45:45,599
+to kultura je, to res mi paše.
+
+568
+00:45:46,160 --> 00:45:47,520
+Ja, mislim, jaz
+
+569
+00:45:47,760 --> 00:45:50,160
+tako pro iz te
+
+570
+00:45:50,400 --> 00:45:53,680
+kadrov, mislim, iz kadrovanja za poslovanje prakse,
+
+571
+00:45:53,920 --> 00:45:54,880
+definitivno
+
+572
+00:45:55,119 --> 00:45:57,680
+bi predlagala, no, da vsaj džunjeri
+
+573
+00:45:58,079 --> 00:46:03,760
+redno omenjujejo pa vse izobražujejo, kar s tem tudi vidijo različne sisteme, različne kulture
+
+574
+00:46:04,000 --> 00:46:09,520
+inženirske in lažje najdejo. Nekaj se pa, jaz strinjam, to je bil za mene eden večjih šokov,
+
+575
+00:46:09,760 --> 00:46:13,119
+ko sem stopla v rekruting, da pač ti imaš ljudi, ki tudi
+
+576
+00:46:13,359 --> 00:46:15,760
+si želijo delati na nekih projektih, ko si
+
+577
+00:46:16,000 --> 00:46:17,280
+kot rekruter, ki misliš, ma,
+
+578
+00:46:17,520 --> 00:46:21,520
+to ne bom našla nobenega, ki si bo to želel, pa vidiš ljudi, ki so res
+
+579
+00:46:21,599 --> 00:46:24,400
+motivirani strani tega, ne, in se mi zdi, da dosti
+
+580
+00:46:24,640 --> 00:46:28,880
+res pride dol na to razmišljanje, kaj si nekdo želi
+
+581
+00:46:29,119 --> 00:46:34,560
+in v čemu je nekdo dober in da potem se mi zdi, da najde lahko potem
+
+582
+00:46:34,800 --> 00:46:36,560
+svoj nek dom, ne, ampak
+
+583
+00:46:37,359 --> 00:46:44,479
+sem videla tudi ta drugi del tega, ko je nekdo ostal pet, sedem, deset let in je potem
+
+584
+00:46:44,719 --> 00:46:47,839
+si resno ogrozil nadaljen razvoj svoje karijere
+
+585
+00:46:48,079 --> 00:46:50,880
+zaradi tega, kar je ustrajal v nekem podjetju, ki ga ni
+
+586
+00:46:50,959 --> 00:46:58,880
+naočilo nekih zdravih praks, testiranja in tudi prvo takih
+
+587
+00:46:59,119 --> 00:47:00,959
+osnovnih svetov, recimo, ne.
+
+588
+00:47:03,680 --> 00:47:10,959
+Mogoče nekaj en del tega je tudi, da se veda podjetje želijo izobraziti kadri in ga
+
+589
+00:47:11,199 --> 00:47:15,920
+narediti tako, da bojo funkcionirali v njihovem sistemu.
+
+590
+00:47:16,479 --> 00:47:22,560
+Imamo kar neki podjetje, tudi podjetje, ki organizirajo različne akademije, različne
+
+591
+00:47:25,040 --> 00:47:27,119
+tečaje, poletne šole.
+
+592
+00:47:29,680 --> 00:47:34,719
+Imaš kar nekaj izkušenje, posebno tudi že na tem področju Islam, komu je to namenjeno,
+
+593
+00:47:34,959 --> 00:47:40,160
+zakaj podjetje to počnejo, a je to namenjeno samo ljudem brez formalne izobrazbe,
+
+594
+00:47:40,160 --> 00:47:47,040
+kje je potem ta gap, kaj je tisti gap, ki ga hočejo s temi akademijami v bistvu zapolniti?
+
+595
+00:47:47,280 --> 00:47:49,680
+Ok, mislim, to je karkoli kaj predvedevam.
+
+596
+00:47:49,920 --> 00:47:53,760
+Ne poznam točno, ampak po mojem je odvisno od podjetja do podjetja, kaj želijo s tem
+
+597
+00:47:54,000 --> 00:48:00,800
+narediti. Mislim, da vsak podjetje išče od izga White Whale-a, da bi mogoče ulovili
+
+598
+00:48:01,040 --> 00:48:05,599
+nekoga, ki bo pač ekstremno talentiran in bo pač na ta način prišel do njih.
+
+599
+00:48:06,400 --> 00:48:11,359
+Jaz se jaz ful spodbojam, ker mislim, da so vse take stvari zelo, zelo dobro došle.
+
+600
+00:48:11,599 --> 00:48:16,719
+Tudi sem že ponudil s raznim podjetjim, da jim svetujem, kako, mogoče kako stvar narediti,
+
+601
+00:48:16,959 --> 00:48:19,199
+ker vsem imam pa zdaj že neki izkušen pri tem.
+
+602
+00:48:19,439 --> 00:48:25,359
+Tudi to smo ugotovili, da to linarno poučevanje, tako kot so navajeni v šoli, v tem
+
+603
+00:48:25,599 --> 00:48:31,040
+primeru recimo jaz mislim, da ni ustrezni projekt, ker sploh kot ti v akademiji odpreš,
+
+604
+00:48:31,040 --> 00:48:35,199
+ki je okoli tudi recimo pri nas priskila, pa vzmeram rečem, mi imamo cilj isti.
+
+605
+00:48:35,439 --> 00:48:38,959
+Začetek imam pa vsi različni. Ilja, ki je prišel k nami, je imel čist drugačen začetek,
+
+606
+00:48:39,199 --> 00:48:43,520
+kot pa ne vem, nek Jan, ki je prišel, ko pa mogoče pred tem je naredil dost manj
+
+607
+00:48:43,760 --> 00:48:48,000
+projektov in ta začetnik je bil razkorak ogromen. Če bi jih zdaj mi posadili v
+
+608
+00:48:48,239 --> 00:48:53,199
+učilnico in vsem predavali, ali bi bilo ili dolgočasno, ali pa bi bilo mogoče zdajga
+
+609
+00:48:53,439 --> 00:48:56,479
+fiktivnega Jana, ko sem se zdi zmislil, bi bilo pa prezahtevno.
+
+610
+00:48:56,880 --> 00:49:03,280
+Vrstnici razmišljajo, da ta klasičen šolski sistem, kot so mogoče oni bili v teh
+
+611
+00:49:03,520 --> 00:49:10,000
+akademijah, po mojem prepričanju ne deluje in da veliko predzvejam, da recimo
+
+612
+00:49:10,239 --> 00:49:14,079
+pred kratkim je recimo povedal akademijo, jaz predzvejam, da k njim so se pravili
+
+613
+00:49:14,319 --> 00:49:19,119
+nekdo, ki že ful uvlada, ker se pa želi iti k njim delati in po moje, tak recimo
+
+614
+00:49:19,359 --> 00:49:24,319
+rabi mogoče samo triurni pogovori, ne bo neko v enem kosu, ampak večka, da bo
+
+615
+00:49:24,400 --> 00:49:28,319
+jim kakmo seniorke razložil, pa bo, bom rekel, tak fant ali pa punca že razturila,
+
+616
+00:49:28,560 --> 00:49:32,479
+pa ne bo ta rabila, a ne neč delati. Jaz mislim, da je to dobrodošlo in da je taj,
+
+617
+00:49:32,719 --> 00:49:38,160
+ko sistem to potrebuje in več takih, ko bo, več se bomo lahko učili, tudi oni bojo
+
+618
+00:49:38,400 --> 00:49:42,959
+rako, ok, bomo neko nam povedali, pa bomo mi neko stvar spremenili, ker ko smo
+
+619
+00:49:43,199 --> 00:49:48,160
+recimo mi začeli dve leti nazaj, recimo jaz sem bil zelo, zelo hvaležen, da sem
+
+620
+00:49:48,400 --> 00:49:52,079
+poklicil ta neka podjetja, tudi tebe sem poklicil, pa da sem doprašal, kaj si misliš
+
+621
+00:49:52,079 --> 00:49:56,719
+o tem projektu, pa si reka, ja, to je ful dobrodošlo, to bi mi rabili, ker recimo, ali pa ne
+
+622
+00:49:56,959 --> 00:49:59,920
+vem, Matej uže izpove, jaz sem poklicil, pa reku, ja, jaz sem daj to.
+
+623
+00:50:00,000 --> 00:50:04,400
+zagrabi, to bi tudi mi podprlili radi. Če bi on takrat mogoče meni rekel,
+
+624
+00:50:04,400 --> 00:50:08,000
+ej, to je brez veze, mogoče se ne bi niti tega lotil.
+
+625
+00:50:08,000 --> 00:50:12,000
+To je, da jaz mislim, da zdaj je potok izkušen, da to definitivno
+
+626
+00:50:12,000 --> 00:50:16,000
+rabimo in da mladi, je pa spet to moj balon,
+
+627
+00:50:16,000 --> 00:50:20,000
+s temi, katerimi se jaz družim, pač to so, jaz vem, da bojo to
+
+628
+00:50:20,000 --> 00:50:24,000
+odlični sodelovci. Torej nekdo, ki je prišel popovdne, v prostem času,
+
+629
+00:50:24,000 --> 00:50:28,000
+sam sebe izobraževat, da bo čim več doprinašal podjetje,
+
+630
+00:50:28,000 --> 00:50:32,000
+v katerega se bo zaposlil, mislim, da ne morem več razlagati,
+
+631
+00:50:32,000 --> 00:50:36,000
+kakav je to. In na teh ni toliko malo, ki se zavedajo,
+
+632
+00:50:36,000 --> 00:50:40,000
+da, zato jaz, ko sem delal analizo, prednjič sem začel s tem programom,
+
+633
+00:50:40,000 --> 00:50:44,000
+ko sem sprašal tudi džunjore, ko so prišli, recimo to, kar Ilja govoril,
+
+634
+00:50:44,000 --> 00:50:48,000
+šrafanje nekih starih projektov tam v koto za neko podjetje,
+
+635
+00:50:48,000 --> 00:50:52,000
+pač to im na feeling, na moralo,
+
+636
+00:50:52,000 --> 00:50:56,000
+pač jih pol ubija. In so oni prišli k nam zato, da bi bili
+
+637
+00:50:56,000 --> 00:51:00,000
+čim bolj, bom rekel, lahko čim lažje, če hitreje doprimo se.
+
+638
+00:51:00,000 --> 00:51:04,000
+Pa, mislim, meni se zdi odlično,
+
+639
+00:51:04,000 --> 00:51:08,000
+da ti to tudi ratalo, da prideš v to,
+
+640
+00:51:08,000 --> 00:51:12,000
+da lahko že res v prvem tednu ali po prvih dveh tednih
+
+641
+00:51:12,000 --> 00:51:16,000
+puščaš stvari na produkcijo. To je sigurno en tašen poseben feeling,
+
+642
+00:51:16,000 --> 00:51:20,000
+ko to lahko narediš.
+
+643
+00:51:20,000 --> 00:51:24,000
+Kaj pa mogoče še kakšno tvoje sporočilo
+
+644
+00:51:24,000 --> 00:51:28,000
+proglede teh programov, a ti,
+
+645
+00:51:28,000 --> 00:51:32,000
+misliš, da bi bil,
+
+646
+00:51:32,000 --> 00:51:36,000
+kaj ti je to dalo, recimo, še mogoče dodatno,
+
+647
+00:51:36,000 --> 00:51:40,000
+kar ti šola ni, a misliš, da si tudi zaradi enega takega programa,
+
+648
+00:51:40,000 --> 00:51:44,000
+potem tudi zdaj boljši zaposleni?
+
+649
+00:51:44,000 --> 00:51:48,000
+Prvo pač znanje, rečemo, delam v Reactu,
+
+650
+00:51:48,000 --> 00:51:52,000
+preden sem začel delati na teh skilah, projektih, nisem Reacta se dotaknul,
+
+651
+00:51:52,000 --> 00:51:56,000
+se pravi, pač imel sem neke osnove iz drugih jezikov, iz drugih.
+
+652
+00:51:56,000 --> 00:52:00,000
+Tudi JavaScripta sem bolj malo delal in potem pač
+
+653
+00:52:00,000 --> 00:52:04,000
+na projektih sem se pač naučil JavaScript, TypeScript,
+
+654
+00:52:04,000 --> 00:52:08,000
+potem pač React, to je ena stvar, da se tehnologije,
+
+655
+00:52:08,000 --> 00:52:12,000
+drugo pa soft skille, pač sodelovati z drugimi,
+
+656
+00:52:12,000 --> 00:52:16,000
+mislim, pač na projektu vsak sam, ampak uprašanja,
+
+657
+00:52:16,000 --> 00:52:20,000
+ker pa vsi delamo isti projekt, en je na
+
+658
+00:52:20,000 --> 00:52:24,000
+drugi stopni ali pa nekaj in potem pa sprašuješ
+
+659
+00:52:24,000 --> 00:52:28,000
+pa to pišeš v Discord
+
+660
+00:52:28,000 --> 00:52:32,000
+odgovore in potem je tudi to dobiš. Jaz vem, da
+
+661
+00:52:32,000 --> 00:52:36,000
+eni prvih sestankov, ko smo imeli online,
+
+662
+00:52:36,000 --> 00:52:40,000
+so mene dva tedna s nek projekt,
+
+663
+00:52:40,000 --> 00:52:44,000
+mislim, nek problem, sem se okvaril z njim in potem sem klemna uprašal,
+
+664
+00:52:44,000 --> 00:52:48,000
+pač je to, to mi ful dela težave in je v dveh minutah, je to, to,
+
+665
+00:52:48,000 --> 00:52:52,000
+zrihto. Ok, pač, če bi ga še prej uprašal, bi bilo boljši,
+
+666
+00:52:52,000 --> 00:52:56,000
+tako da pač neka ta stvar, da kdaj uprašati, koliko časa
+
+667
+00:52:56,000 --> 00:53:00,000
+sam porabiti, tako da pač to mi je
+
+668
+00:53:00,000 --> 00:53:04,000
+tudi tako največ, mislim, to dobo.
+
+669
+00:53:04,000 --> 00:53:08,000
+Že v prvi epizodi za godino zdaj tudi
+
+670
+00:53:08,000 --> 00:53:12,000
+ugotavljam, da so soft skilli najpomembnejši skilli
+
+671
+00:53:12,000 --> 00:53:16,000
+za inženirje, mogoče to ni ti ni tako zelo obvious,
+
+672
+00:53:16,000 --> 00:53:20,000
+ampak dosti se res vrnemo in vračamo
+
+673
+00:53:20,000 --> 00:53:24,000
+na te soft skille, na to, da si radoveden, da znaš
+
+674
+00:53:24,000 --> 00:53:28,000
+spraševat, da znaš komunicirat, da si prijeten
+
+675
+00:53:28,000 --> 00:53:32,000
+sodelovec. To mi je res
+
+676
+00:53:32,000 --> 00:53:36,000
+mogoče iz teh prvih dveh epizod zame najbolj
+
+677
+00:53:36,000 --> 00:53:40,000
+zanimiv outcome tega, ker v
+
+678
+00:53:40,000 --> 00:53:44,000
+mojem poklicu je dosti te technical excellency, pa res
+
+679
+00:53:44,000 --> 00:53:48,000
+izkušnje, pa kaj si ti že predelal, a si predelal že točno na taknem sistemu
+
+680
+00:53:48,000 --> 00:53:52,000
+in dosti krat ta te soft skilli so seveda pomembni, ampak
+
+681
+00:53:52,000 --> 00:53:56,000
+pridejo kot druge, ampak tretja je lineja.
+
+682
+00:53:56,000 --> 00:54:00,000
+Mislim, pa se mi zdi, da se dosti vrtimo v tem, da je to tisti ta pomemben
+
+683
+00:54:00,000 --> 00:54:04,000
+del za nekega juniorja. Jaz bi tu rekel, da
+
+684
+00:54:04,000 --> 00:54:08,000
+zadnjič sem dobro slišal, pač narešajo se več mehke veščine, ampak temeljne veščine.
+
+685
+00:54:08,000 --> 00:54:12,000
+To so res temeljne, ker brez njih boš zelo težko
+
+686
+00:54:12,000 --> 00:54:16,000
+in hvala ti, da si me spomnil. Vecimo naš mentor, Klemen Plazer,
+
+687
+00:54:16,000 --> 00:54:20,000
+definitivno skill-up ne bi bil tako spešen, če ne bi ravno
+
+688
+00:54:20,000 --> 00:54:24,000
+on za svojimi soft skill-i, s pristopom, ko ga nekdo vpraša, da je lepo
+
+689
+00:54:24,000 --> 00:54:28,000
+odgovori nazaj, mu pomaga in da se, bom rekel, sem mu veliko hvaležen
+
+690
+00:54:28,000 --> 00:54:32,000
+za to, ker imam počutek, da se kako da se spomne teh trenutkov, kako je, ko si ti čist na začetku
+
+691
+00:54:32,000 --> 00:54:36,000
+in koliko je pomembno, recimo tudi za vse mentore, ki so tam
+
+692
+00:54:36,000 --> 00:54:40,000
+v podjetjih, jaz res kapo dol vsem, ki si vzajemajo
+
+693
+00:54:40,000 --> 00:54:44,000
+čas in razložijo, ker jaz vam povem, da za enega džunjorja
+
+694
+00:54:44,000 --> 00:54:48,000
+je to res stresno. Vam se zdi že, pač seniorjem, to tako
+
+695
+00:54:48,000 --> 00:54:52,000
+by the way, njim pa je res stresno, da pride in da res takrat stopite
+
+696
+00:54:52,000 --> 00:54:56,000
+in mu date tisto pozornost in prav nas Klemen to vrhunsko,
+
+697
+00:54:56,000 --> 00:55:00,000
+pa seveda tudi Nejc in David in vsi vse vstali, ki so, to dela vrhunsko
+
+698
+00:55:00,000 --> 00:55:04,000
+in to se mi zdi, da je pri podjetjih, mogoče, ko si me preizpraševala,
+
+699
+00:55:04,000 --> 00:55:08,000
+ko vse to počnejo, najbolj veliko časa na menju mentoriranju.
+
+700
+00:55:08,000 --> 00:55:12,000
+Če za prave mentore izberejo, da res, moram reku, pa se mislim,
+
+701
+00:55:12,000 --> 00:55:16,000
+da že to vejo, da tisto je ful dober developer, še njeno, da bo zelo
+
+702
+00:55:16,000 --> 00:55:20,000
+zelo dober mentor, to je, da mislim, jaz to že dobro zrešujem.
+
+703
+00:55:22,000 --> 00:55:28,000
+Se počasi obličimo eni uri našega pogovora, tako, da bomo
+
+704
+00:55:28,000 --> 00:55:33,000
+počasi zaključili, ampak še preden se z res poslovimo,
+
+705
+00:55:33,000 --> 00:55:39,000
+bi vseeno rado vprašala, ili je še kaj, kar ti je ostalo nepovedano
+
+706
+00:55:39,000 --> 00:55:43,000
+in imaš nekakšno sporočilo za vse tiste, ki razmišljajo,
+
+707
+00:55:43,000 --> 00:55:49,000
+da bi vstopili v ta poklic, ki so junior developeri, ali pa na drugi strani
+
+708
+00:55:49,000 --> 00:55:53,000
+tudi za mentorje in ljudi, ki se ukvarjajo v profesore in ti, ki se ukvarjajo
+
+709
+00:55:53,000 --> 00:55:56,000
+za izobraževanje novega kadra.
+
+710
+00:55:56,000 --> 00:55:59,000
+Ja, mislim, da smo zdaj na koncu prišli do tega soft skill-i,
+
+711
+00:55:59,000 --> 00:56:04,000
+da pač ena stvar je tehnično znanje pa to, druga stvar je pa to, mislim,
+
+712
+00:56:04,000 --> 00:56:12,000
+da je to res pomembno, da tudi na to čas porabiš, da se malo tudi ena stvar
+
+713
+00:56:12,000 --> 00:56:18,000
+pri, ko sem iskal službo pri intervjujih pa to, sem dobil feedback,
+
+714
+00:56:18,000 --> 00:56:21,000
+da je me bilo tudi fulo všeč, ko so mi poslali neko nalogo,
+
+715
+00:56:21,000 --> 00:56:26,000
+da sem takoj pač, da sem šel čez, pa da sem jaz nazaj postavil vprašanja
+
+716
+00:56:26,000 --> 00:56:32,000
+na to, pa da, ker so bile bolj naloge odprtega tipa, pa da sem vprašal.
+
+717
+00:56:32,000 --> 00:56:35,000
+Kaj pa to, kaj pa to, ali lahko bolj specifično, zanim,
+
+718
+00:56:35,000 --> 00:56:39,000
+to tehnologija je v redu, ali lahko te knjižnice uporabim,
+
+719
+00:56:39,000 --> 00:56:44,000
+pač to se je meni zdelo nekaj normalnega, ampak pol, ko so mi rekli pač
+
+720
+00:56:44,000 --> 00:56:48,000
+na po intervjuju, da je mi bilo to fulo všeč, da sem vprašal,
+
+721
+00:56:48,000 --> 00:56:53,000
+pa da se pač, da so ti neki parametri, da so se še dodatno določili.
+
+722
+00:56:53,000 --> 00:56:59,000
+Tako da, ja, zakon s to, da se vprašuje, pa čim bolj odprte bit,
+
+723
+00:56:59,000 --> 00:57:04,000
+pa da te ni strah pač vprašavati, pa pristopiti.
+
+724
+00:57:04,000 --> 00:57:08,000
+Ja, ta se mi zdi prvo tako ključna, da ti ni strah, vsi smo nekaj začeli
+
+725
+00:57:08,000 --> 00:57:13,000
+in raj si vprašati kot pa, kdaj raj si vprašati, kot pa dva tedna porabiš?
+
+726
+00:57:13,000 --> 00:57:14,000
+Ja, ja.
+
+727
+00:57:14,000 --> 00:57:17,000
+Absolutno. Islam?
+
+728
+00:57:17,000 --> 00:57:21,000
+Ja, zakonec, mogoče bi sam, ne bom jaz vse nešteval,
+
+729
+00:57:21,000 --> 00:57:24,000
+res zahvaljujem vsem, ko so nam pomagali na začetku,
+
+730
+00:57:24,000 --> 00:57:27,000
+ko smo to postavljali, vsem podjetjem, ki so se nam pač podprljali,
+
+731
+00:57:27,000 --> 00:57:31,000
+nas pa se nam pridružila. V tebi, osebno, še enkrat hvala
+
+732
+00:57:31,000 --> 00:57:34,000
+za tiste začetne pogovore, ko smo imeli in o tu in vsem,
+
+733
+00:57:34,000 --> 00:57:38,000
+ko smo, da bom rekel, da sem dobil ta feedback, pa da smo zdaj
+
+734
+00:57:38,000 --> 00:57:41,000
+zgradili nekaj, na kar smo pač zelo, zelo ponosni spohr,
+
+735
+00:57:41,000 --> 00:57:44,000
+recimo tako ilja, da pa li dobijo zaposlitev, pa vidimo,
+
+736
+00:57:44,000 --> 00:57:47,000
+da nekaj, kar delamo, bom rekel, doprinaša k njim.
+
+737
+00:57:48,000 --> 00:57:51,000
+Tako, da to, kar se diče šoljstva, ko smo jih prej imeli,
+
+738
+00:57:51,000 --> 00:57:55,000
+pa mislim, da je tako vse posod najbolj pomembni kadar.
+
+739
+00:57:55,000 --> 00:58:00,000
+Če je kadar tisti, ki je, bom rekel, strezn, potem to,
+
+740
+00:58:00,000 --> 00:58:03,000
+kar je zapisano v programih, bom rekel, ni ti nitko,
+
+741
+00:58:03,000 --> 00:58:05,000
+jaz bi to, kar je zapisano v programih, dal na drugo mesto,
+
+742
+00:58:05,000 --> 00:58:09,000
+pa na prvo mesto, samo kdo počuje, ker je to najbolj pomembna stvar.
+
+743
+00:58:11,000 --> 00:58:14,000
+Hvala, hvala za te istočnice in jaz se upam, da bo to,
+
+744
+00:58:14,000 --> 00:58:19,000
+kdo tudi slišal, vsekakor je to malo bolj širša družbena debata,
+
+745
+00:58:19,000 --> 00:58:26,000
+no, se mi zdi o šoljstvu nasploh. To je to za drugo epizodo
+
+746
+00:58:26,000 --> 00:58:31,000
+Zagona, hvala še enkrat, no, da ste se odzvali. Vsi tisti,
+
+747
+00:58:31,000 --> 00:58:37,000
+ki nas poslušate ali gledate že na znanih kanalih, najdete nas
+
+748
+00:58:37,000 --> 00:58:44,000
+na prop.sot, kjer je lahko to Besigorta podcast na YouTube,
+
+749
+00:58:44,000 --> 00:58:51,000
+in pa zdaj smo se, ker se res potrudimo z produkcijo teh podcastov,
+
+750
+00:58:51,000 --> 00:58:57,000
+nas najdete tudi na Patreonu, kjer nam lahko tudi kaj prispevate,
+
+751
+00:58:57,000 --> 00:59:01,000
+oziroma, če ste naš podpornik na Patreonu, predobite epizode,
+
+752
+00:59:01,000 --> 00:59:08,000
+pa tudi še kaj ekstra zazraven. Ne moremo pa tudi mimo tega,
+
+753
+00:59:08,000 --> 00:59:13,000
+da očitno odpiramo zelo relevantne teme, dovolj relevantne,
+
+754
+00:59:13,000 --> 00:59:18,000
+da smo tudi dobili prva sponsorka sredstva in mi se rada lepo
+
+755
+00:59:18,000 --> 00:59:23,000
+zahvaljati podjetje 3FSE in Human Frog tudi za podporo,
+
+756
+00:59:23,000 --> 00:59:29,000
+da lahko ustvarjamo vsebino, ki upam, da pomaga potem celotni
+
+757
+00:59:30,000 --> 00:59:32,000
+slovenski tek skupnosti.
+
+758
+00:59:32,000 --> 00:59:39,000
+Eko tako, za to soboto, danes, še to. Hvala, da ste se vzeli v čas,
+
+759
+00:59:39,000 --> 00:59:46,000
+hvala otetu in ekipi še enkrat za še eno super epizodo
+
+760
+00:59:46,000 --> 00:59:49,000
+in poslušajte in gledajte naše naprej.

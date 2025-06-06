@@ -1,0 +1,2675 @@
+1
+00:00:00,000 --> 00:00:09,000
+Lep pozdrav, to je šesta epizoda podkesta v Grođe. Danes je z mano dr. Mateja Berlič-Brunčič.
+
+2
+00:00:09,000 --> 00:00:13,000
+To je Henrik z Parkico, če sem govoril o njem.
+
+3
+00:00:13,000 --> 00:00:23,000
+Danes smo v enih čist novih prostorih na Ptoru, kjer je malo drugače kot naš co-working v Ljubljani,
+
+4
+00:00:23,000 --> 00:00:31,000
+s nemalo to zadevo. Zdaj, če bo kak background noise mojstro, da se vse naprej upravičujem.
+
+5
+00:00:31,000 --> 00:00:39,000
+Ja, to je to. Zdaj, jaz imam cicer tudi neke zapiske, lahko bi in često, pa bi vse en ti dal priložnost,
+
+6
+00:00:39,000 --> 00:00:44,000
+da mogoče sama se predstaviš, kaj počneš trenutno. Pa bomo z njim šla bolje podoboko.
+
+7
+00:00:44,000 --> 00:00:54,000
+Ok, kot si že rekel, moj ime je Mateja, zdaj je kar nekaj časa, že več kot 15 let po moje sem na spletu prisotna kot z Parkico,
+
+8
+00:00:54,000 --> 00:01:03,000
+tako da šest časov kurnka v slovenske verzije Twitterja in blogosfere in bložičev in teh stvari.
+
+9
+00:01:03,000 --> 00:01:13,000
+Kaj zdaj počnem? Rada bi spremenila svet inženiringa, ga naredila mogoče sodobnejšega, drugačnega,
+
+10
+00:01:13,000 --> 00:01:22,000
+sploh v tem našem slovenskem prostoru, tako da tu se trudim govoriti in sodelovati in pokazati,
+
+11
+00:01:22,000 --> 00:01:29,000
+mogoče vodjem, kaj se pa da delati stvari na drugačen čin. Zato topiki, ki me zanimajo, so itak vse,
+
+12
+00:01:29,000 --> 00:01:36,000
+od inženiringa, same tehnologije, do ljudi, grumanje ljudi, leadership-a, management-a, you name it.
+
+13
+00:01:37,000 --> 00:01:50,000
+Včeraj je bil zaključek Spetnih uric Maribor, to je fork Spetnih uric, ki so se sicer začele v Ljubljani,
+
+14
+00:01:50,000 --> 00:01:57,000
+ampak potem vrsto letih je ekipa iz Maribora prepravila in včeraj ste zaključili še eno sezono, zelo uspešno.
+
+15
+00:01:58,000 --> 00:02:06,000
+Zaključila se je sicer s predavanjem iz blokčejna in nekaj spremen v blokčejno, ampak tudi lepalo je delati.
+
+16
+00:02:07,000 --> 00:02:13,000
+Mi se to malo povejte, kakšna je izkušnja imati s Spetnimi uricami, videl sem, da ste zelo stopljali sprede
+
+17
+00:02:13,000 --> 00:02:21,000
+s temi diskusijami, ki ste jih imeli, potem neke videostrime ste počeli, vidim, da si tudi tam zelo aktivna.
+
+18
+00:02:21,000 --> 00:02:25,000
+Kak je tvoja izkušnja s Spetnimi uricami?
+
+19
+00:02:27,000 --> 00:02:33,000
+Jaz verjamem v prostovoljstvo in prostovoljstvo je nekaj, kar mene napavni za energijo.
+
+20
+00:02:33,000 --> 00:02:41,000
+Tudi tim Spetnih uric je tako magic. Na kupo se mi zdi, pridem doma v okol na hajpa, na empilag,
+
+21
+00:02:41,000 --> 00:02:52,000
+ne vem, naredil si mar si kaj. Spetnih uric spremljam že let časa, danes kotkar so nekako nastale ven,
+
+22
+00:02:52,000 --> 00:02:59,000
+pa ko so bili še sport misli, ker takrat je bil že tinej poštovanj zraven. Tinej poštovanj je pa v bistvu del
+
+23
+00:02:59,000 --> 00:03:05,000
+ekipe Ecolice, s katerim sem pol delala, pa je bil moj študent. V glavnem nekako smo povezani.
+
+24
+00:03:05,000 --> 00:03:13,000
+In preko njih sem sledila in podpirala to vračanje znanja community, ker pač vsi vemo, da community matters.
+
+25
+00:03:13,000 --> 00:03:19,000
+Moramo se poznati, moramo si pomagati, če ne že z profesionalnega vidika, tudi z osebnega vidika,
+
+26
+00:03:19,000 --> 00:03:26,000
+da lahko odvigujemo njevo ali pa kvaliteto nekega našega profesionalnega dela, rečem tako.
+
+27
+00:03:26,000 --> 00:03:34,000
+Ali pa če si zmenjamo izkušnje, spijemo kakper in t.t. Zdaj, dejansko sem izrazila željo,
+
+28
+00:03:34,000 --> 00:03:41,000
+da bi pač sodelovala pri Spetnih uricah, zato ker mi je to cool. Sem sicer po naravi introvertom,
+
+29
+00:03:41,000 --> 00:03:47,000
+sem se navčila, kako biti ekstrovert, ker mi je, vse pravim, cool mi je srečovati ljudi, izpoznavat,
+
+30
+00:03:47,000 --> 00:03:57,000
+širiti to znanje, izkušnje in ljudi povezovat. In je bila prilika, da se tu trebali nekega moderatorja
+
+31
+00:03:57,000 --> 00:04:03,000
+in sva se kar povezala z Jernejem in pa z ostalimi. In tokrat, mislim, za že kar nekaj let,
+
+32
+00:04:03,000 --> 00:04:08,000
+tole furamo vsako sezono s proti in potem je prihla korona.
+
+33
+00:04:09,000 --> 00:04:15,000
+Itak, da so skos nekaj izjivi, kako zdaj pa ljudi dobiti, da pridejo, ker vsak misli, da nima nič povedati,
+
+34
+00:04:15,000 --> 00:04:20,000
+dokler jih ne požokaš, pa gotoviš, da pa so ful zanimivi, imajo ful stvari za povedati.
+
+35
+00:04:20,000 --> 00:04:25,000
+Tudi z tega vidika se mi zdi, da je fajn, da sem zraven, ker sem tudi nakonektena,
+
+36
+00:04:25,000 --> 00:04:31,000
+tudi sem v tej IT-sferi, poznam marsikoga, lahko marsikoga spodbudim, da pride kaj pošarati.
+
+37
+00:04:31,000 --> 00:04:38,000
+No, s korono smo pa rekli, šit, zdaj pač v živo ne moremo, kaj želimo narediti.
+
+38
+00:04:38,000 --> 00:04:44,000
+In smo se pač odločili za neko live streamanje. Zdaj, mi smo urice snemali že prej,
+
+39
+00:04:44,000 --> 00:04:49,000
+ampak smo zelo delno bili v dilemi, ali to dati, ali streamati, pa dati naprej, pa podpirati
+
+40
+00:04:49,000 --> 00:04:56,000
+lenovo ljudi, da ne pridejo v živo se pobondati. Al pa pač, ja, korona nam ni dala izbire.
+
+41
+00:04:57,000 --> 00:05:03,000
+Samo se mi zdi, da je več, zdaj ne vem, jaz sem gledalec bil, pa tudi sem enkrat sodeloval
+
+42
+00:05:03,000 --> 00:05:09,000
+enkrat s vaših diskusij, ampak jaz imam občutek, da je več ljudi na nek način lahko pristoplo
+
+43
+00:05:09,000 --> 00:05:12,000
+z tega, ker ste začeli streamati. Jaz sigurno.
+
+44
+00:05:12,000 --> 00:05:15,000
+Mogoče ljudje, ki drugače smo naj prišli, so pa se enkrat sodelovali.
+
+45
+00:05:15,000 --> 00:05:21,000
+Sigurno je lažje doma priti kot gost, pa gledati, ne, ker vsak od nas ima, mislim,
+
+46
+00:05:21,000 --> 00:05:26,000
+se mogoče zaše bolj, kot smo, že v teh letih imamo familijo, vveznost in je en kup logistike,
+
+47
+00:05:26,000 --> 00:05:31,000
+če hočeš priti z točke A do točke B, do sedm, pa pet, ne, pa pol še doma.
+
+48
+00:05:31,000 --> 00:05:37,000
+Tako da, ja, se strinjam, mogoče je bilo tu malo ta, kaj je bil naš core value,
+
+49
+00:05:37,000 --> 00:05:41,000
+bi bil rano ta networking, bonding v živo, ne, za to mogoče nismo prehotli.
+
+50
+00:05:41,000 --> 00:05:49,000
+Ja, drugače se strinjam, je definitivno, smo navajani danes, da so stvari malo bolj
+
+51
+00:05:49,000 --> 00:05:53,000
+konvenijne in se pravi malo bolj, ne, nam priročne.
+
+52
+00:05:53,000 --> 00:06:01,000
+A gremo naprej debatirati o tem, kako pretegnati vašjo populacijo na meet-up in se ukvarjate s tem?
+
+53
+00:06:01,000 --> 00:06:05,000
+Ja, je se aktivno, ne, to je recruiting.
+
+54
+00:06:05,000 --> 00:06:07,000
+Aha, recruiting.
+
+55
+00:06:07,000 --> 00:06:15,000
+V bistvu recruiting za spletne morjice in pač del mojega joba tule je bil tudi hiring oziroma recruiting
+
+56
+00:06:15,000 --> 00:06:21,000
+in sem skozi spoznavanje ljudi pač vse povablja na spletne morjice, tudi če mogoče nismo pol se davalja,
+
+57
+00:06:21,000 --> 00:06:25,000
+pa nismo bili perfect fit, se mi je zdelo fino, da vejo, da se nekaj dogaja v Mariboru,
+
+58
+00:06:25,000 --> 00:06:31,000
+no in sem jih vablja na spletne morjice ali kot predavatelje ali pa pač, da pridejo pa poslušajo,
+
+59
+00:06:31,000 --> 00:06:33,000
+a pa da se vsaj zavedajo, da pač nekaj obstaja, ne.
+
+60
+00:06:33,000 --> 00:06:36,000
+Ja, mislim, brez nič nič, sami ljudje ne bojo prišli.
+
+61
+00:06:36,000 --> 00:06:39,000
+To je tako, da produkt narediš, praviš devolkam, ne.
+
+62
+00:06:39,000 --> 00:06:41,000
+Build it in devolkam, ne morem, ne.
+
+63
+00:06:42,000 --> 00:06:48,000
+Sploh pri vseh teh impulzih, signaljih, vsem, kaj se dogaja dan danes, je težko bit on top of things, ne.
+
+64
+00:06:49,000 --> 00:06:52,000
+Ja, mislim, spremljam to v sceno.
+
+65
+00:06:52,000 --> 00:06:53,000
+Veš.
+
+66
+00:06:53,000 --> 00:07:01,000
+Ja, pa tudi meni je ful zanimiva kvalitetna produkcija, ki jo ima spletne morjice Maribor,
+
+67
+00:07:01,000 --> 00:07:04,000
+to se mi zdi, da je nekaj, kar je zelo izstopa, premljam, nekim drugim.
+
+68
+00:07:04,000 --> 00:07:12,000
+In to je, streaming na dve platforme, potem, da je ta CGP, da je grafična obdobja, to se mi zdi, da je res vrhunsko.
+
+69
+00:07:13,000 --> 00:07:18,000
+Zgodba Peljana Skozno, da je res kudov, če v ekipi, da je to vrhunsko izvedno.
+
+70
+00:07:18,000 --> 00:07:23,000
+Tu bi jaz pohvaljala predvsem, jerne, jerne, tisti, ki to odrajeva, raziskuje,
+
+71
+00:07:23,000 --> 00:07:27,000
+vse mogoče ste včasih doživjeli kako eksperimentiranje, ne, ker morate veš,
+
+72
+00:07:27,000 --> 00:07:31,000
+če enkrat vejeti smo, pa še v ulici, ne, there is no money involved, ne,
+
+73
+00:07:31,000 --> 00:07:35,000
+in potem pač gledaš, mislim, no money, it's our money involved, ne,
+
+74
+00:07:35,000 --> 00:07:39,000
+in potem gledaš, pač kje lahko za neke minimalne stroški, neko maksimalno kvaliteto narediš.
+
+75
+00:07:40,000 --> 00:07:47,000
+A misliš, da bomo videli preporod spletnih uritv, da bojo spletne urice Maribor,
+
+76
+00:07:47,000 --> 00:07:52,000
+ampak bomo spletnili spletne urice Slovenske, bojo tudi, ne, Ljubljanibor,
+
+77
+00:07:53,000 --> 00:07:57,000
+če se midva zmenijo, če se midva zmenijo, ziher.
+
+78
+00:07:59,000 --> 00:08:03,000
+Dobro, ja, zdaj lahko zapeljam debato še v eno drugo smer,
+
+79
+00:08:03,000 --> 00:08:08,000
+kaj se pravi, da zdaj imaš veliko ljudi, spoznaš na teh eventih,
+
+80
+00:08:08,000 --> 00:08:14,000
+novih spoznanstv, novih, tudi tem, novih tehnologij,
+
+81
+00:08:15,000 --> 00:08:22,000
+včeraj sem eno spoznal tri študente, dva iz FRIA, en pa mislim, da to eni študirajo,
+
+82
+00:08:23,000 --> 00:08:28,000
+in bomo zdaj to probili povezati te teme, ne, in potem je bila debata,
+
+83
+00:08:28,000 --> 00:08:34,000
+a končati faks, ne, in ti si pač majš doktorat iz računalništva,
+
+84
+00:08:36,000 --> 00:08:40,000
+pa ti bomo to zadelo zdaj, bomo to poskušali spletati na to tema,
+
+85
+00:08:40,000 --> 00:08:47,000
+pa bom rekel, da ti študenti včeraj so bili tako, joj, pa veš,
+
+86
+00:08:47,000 --> 00:08:53,000
+bi želi šel delati, toče v nas teorijo, pa grindamo to, ki pa ne zanima nas,
+
+87
+00:08:53,000 --> 00:08:57,000
+pa bo bilo zanimivo, da začnemo delati, pa nekdo bo že rekel,
+
+88
+00:08:57,000 --> 00:08:59,000
+eh, jaz tukaj ne bom končal letnik, ali pa to, ne.
+
+89
+00:08:59,000 --> 00:09:04,000
+Ampak ti si pa šla to celo pot, pa imaš bih ljudi iz računalništva,
+
+90
+00:09:05,000 --> 00:09:09,000
+pa, dobro, jaz sem jih modroval iz neke svoje perspektive,
+
+91
+00:09:09,000 --> 00:09:13,000
+me pa vse eno zanima, kaj bi jim ti sedovala pomoči probati na to temo.
+
+92
+00:09:13,000 --> 00:09:14,000
+Ha!
+
+93
+00:09:16,000 --> 00:09:19,000
+Jaz bi rekel, da sem šla študirati, ker nisem vedela, kaj bi.
+
+94
+00:09:19,000 --> 00:09:20,000
+Jaz?
+
+95
+00:09:20,000 --> 00:09:25,000
+Mislim, background je tako, da sem z gimnazije, ne, in mene zanima marsikaj,
+
+96
+00:09:25,000 --> 00:09:30,000
+in valjda je bilo doma tukaj, morate vedeti, na podroželju je pač tak, ne,
+
+97
+00:09:30,000 --> 00:09:34,000
+da je nek poklic, ne, da če slučajno ne priješ do konca, vse nek poklic imaš, ne.
+
+98
+00:09:34,000 --> 00:09:36,000
+In ti ne bo trebalo delati?
+
+99
+00:09:36,000 --> 00:09:40,000
+Ja, pa ne, ne, pri nas ne bo bilo tako delo na familijo,
+
+100
+00:09:40,000 --> 00:09:44,000
+delo na vade so bile, ne, ampak je bilo tako, ne, jaz naučim biti neki, ne,
+
+101
+00:09:44,000 --> 00:09:48,000
+ne vem še kaj, ampak nekaj me žene, ne vem kaj, in sem pač šla pol gimnazijo,
+
+102
+00:09:48,000 --> 00:09:50,000
+da dobijem mogoče malo širine, ne.
+
+103
+00:09:50,000 --> 00:09:51,000
+Ok.
+
+104
+00:09:51,000 --> 00:09:54,000
+Pa jaz stvorila četiri leta, ugotavljam, kaj meni zanima neka tehnologija,
+
+105
+00:09:54,000 --> 00:09:56,000
+pa hkrati neka umetnost, ne.
+
+106
+00:09:56,000 --> 00:09:57,000
+Ok.
+
+107
+00:09:57,000 --> 00:10:00,000
+Ne vem kaj iz tega narediti, pa sem šla računalniško študirati, ne,
+
+108
+00:10:00,000 --> 00:10:04,000
+sem rekla super, bom tu dobila malo insajta, da vidim kaj pa bi bilo,
+
+109
+00:10:04,000 --> 00:10:08,000
+ker takrat v svoji nori glavi, srednjo šolski, sem se jaz predstavljala,
+
+110
+00:10:08,000 --> 00:10:12,000
+da bom delala reklame, onaj digitalne animirane in bom kombinirala
+
+111
+00:10:12,000 --> 00:10:14,000
+tehnologijo in arh, in to.
+
+112
+00:10:14,000 --> 00:10:15,000
+Flash.
+
+113
+00:10:15,000 --> 00:10:17,000
+Ja, ne vem, te vrečenje sem na to, flash, ne.
+
+114
+00:10:17,000 --> 00:10:22,000
+No, ampak tako na faksu, ja, vse bilo veliko teorije, pa je bilo veliko matematike,
+
+115
+00:10:22,000 --> 00:10:25,000
+tudi fiziko sem preživela, ki je sicer namaro matematiko imam rada,
+
+116
+00:10:25,000 --> 00:10:30,000
+ne, anyways, se mi je zdelo, ok, to je zanimiva stvar, ne, ja,
+
+117
+00:10:30,000 --> 00:10:36,000
+je treba grindati, pa si misliš, no, sek, ne, zahaj imam jaz šest matematik tu,
+
+118
+00:10:36,000 --> 00:10:39,000
+pa neke krivuljne integrale, pa vse te jajce, ne.
+
+119
+00:10:39,000 --> 00:10:47,000
+Zdaj, ko gledam nazaj, ne, vidim, faks mi je dal neke ogrodje,
+
+120
+00:10:47,000 --> 00:10:52,000
+neke toole ali pa neki način razmišljanja, ki ga zdaj lahko aplajam.
+
+121
+00:10:52,000 --> 00:10:56,000
+Ne toliko praktičnih stvari, ne, na faksu se ne boš naučil tako programirati,
+
+122
+00:10:56,000 --> 00:11:00,000
+da priješ v firmo, pa si redi za produkcijo, da je van, to ni to, ne,
+
+123
+00:11:00,000 --> 00:11:05,000
+ampak te način od tega, mogoče, malo znanstvenega razmišljanja,
+
+124
+00:11:05,000 --> 00:11:10,000
+se pravi, neke hipotezo postaviti, kako zdaj lahko to hipotezo overiš
+
+125
+00:11:10,000 --> 00:11:20,000
+ali pa ovržeš, ne, in zdaj s tega vedika, se mi zdi, mi je dalo način,
+
+126
+00:11:20,000 --> 00:11:25,000
+da se znajdem, čisto tako bom rekla, ne, no, potem je prišla v bistvu,
+
+127
+00:11:25,000 --> 00:11:31,000
+pospet po koncu tega dodiplomska dela, nisem vedela, kaj bi, ne,
+
+128
+00:11:31,000 --> 00:11:35,000
+ker takrat so bila lahko dve firme, se mi zdi, večjih, takih, da sem jaz vedela,
+
+129
+00:11:35,000 --> 00:11:39,000
+ena je bila še Hermes Softlab, ena pa je bila ne vem, nekaj druga.
+
+130
+00:11:39,000 --> 00:11:42,000
+Anyways, nisem se čutila tam, ne, in je prišla prilika,
+
+131
+00:11:42,000 --> 00:11:45,000
+jedni mladi raziskovali, sem rekela, of, jes, lahko di, le,
+
+132
+00:11:45,000 --> 00:11:52,000
+raziskovala, raziskovala, ne, ker mi je cool, no, ta izkušnja mogoče ni bila tako fajn.
+
+133
+00:11:54,000 --> 00:12:00,000
+Je veliko odvisno od mladega raziskovalca, od laboratorija, v katerem se priključi,
+
+134
+00:12:00,000 --> 00:12:05,000
+od mentorja, kako ima čas, kako se uporab z njim, od celega setupa, od časa,
+
+135
+00:12:05,000 --> 00:12:10,000
+v glavnem, mogoče je bil za mene en taki, ne preveč dober čas,
+
+136
+00:12:10,000 --> 00:12:15,000
+za bit mlada raziskovalka, pa še pol dve leti asistentka, v glavnem,
+
+137
+00:12:15,000 --> 00:12:20,000
+je pa, dobila sem pa lekcijo, da jaz nisem za ta svet, ne, sicer sem spelala stvari zdaj konca,
+
+138
+00:12:20,000 --> 00:12:24,000
+če ne druga, da mi doma ne bodo težili, ne, ali pa mi je otrok, da je rekel,
+
+139
+00:12:24,000 --> 00:12:27,000
+ja, ti pa tudi nisi jih končala, ne, tako da z tega vedika se mi zdi,
+
+140
+00:12:27,000 --> 00:12:32,000
+je meni to nek accomplishment, pa ta PhD mi je tudi joker,
+
+141
+00:12:32,000 --> 00:12:37,000
+tako da običajno ne dajem spredi dr, če pa se kdo do mene,
+
+142
+00:12:37,000 --> 00:12:43,000
+ne, ne, ne, se vedo, če se kdo do mene odnaša kot dust bag,
+
+143
+00:12:43,000 --> 00:12:48,000
+pa tam pač skušajo umestiti ljudi v neke prehodaljške, bo tam veliko tega jokera z njo, ne.
+
+144
+00:12:48,000 --> 00:12:53,000
+Ampak to je sam takrat, mačelo ma, ne sodim ljudi po papirih,
+
+145
+00:12:53,000 --> 00:12:58,000
+tudi ljudje so vsaj na drugo, ne. Zdaj, dosti krat me študenti vprašajo,
+
+146
+00:12:58,000 --> 00:13:01,000
+ja, kaj pa, kaj naj grem delati magisterij, pa naj delam doktorat,
+
+147
+00:13:01,000 --> 00:13:04,000
+pa jim pa često rečem tako, pojdi delat, če vež zakaj delaš,
+
+148
+00:13:04,000 --> 00:13:08,000
+zato, ker ja, grandeš, ni fajn in če vidiš ručko na koncu tonja,
+
+149
+00:13:08,000 --> 00:13:11,000
+pa veš, da je tam, pa zakaj je tam, ti ne bo nič teško, ne.
+
+150
+00:13:11,000 --> 00:13:17,000
+Če delaš papir, mislim, če želiš priti v papir zato, da boš lažje nekaj, nekaj naredil, do it.
+
+151
+00:13:17,000 --> 00:13:23,000
+Če delaš to zato, da dobiš, da se povešuš z mentorji, ker imaš fulj fajne mentorje,
+
+152
+00:13:23,000 --> 00:13:27,000
+pa fulj fajne lepe, pa fulj fajne fakse, pa vse, just do it.
+
+153
+00:13:27,000 --> 00:13:31,000
+Če te to drajva, ta akademska sfera, ki je malo posebna, just do it.
+
+154
+00:13:32,000 --> 00:13:34,000
+Če pa ne veš, zakaj bi, pa do it.
+
+155
+00:13:35,000 --> 00:13:37,000
+To je taki moj mama na sveti.
+
+156
+00:13:37,000 --> 00:13:40,000
+Poglej, bomo šla malo nazaj, malo prej.
+
+157
+00:13:42,000 --> 00:13:49,000
+A se ti zdi, da imaš, ko vidiš druge teknike, managerja, pa managerje,
+
+158
+00:13:49,000 --> 00:13:51,000
+tudi zdaj, Fili, pa prej, ne.
+
+159
+00:13:51,000 --> 00:13:59,000
+A se ti zdi, da imaš, katera z tiste viščine, ki si skozi ta akademski svet pridobila,
+
+160
+00:13:59,000 --> 00:14:03,000
+ki jih mogoče drugače ne bi, pa vidiš, da so ljudje se trudil,
+
+161
+00:14:03,000 --> 00:14:06,000
+pa mogoče, če bi šli čez to podvim, bi bilo lažje.
+
+162
+00:14:06,000 --> 00:14:12,000
+Kaj misliš, da si ti je dal faks, kar lahko zdaj uporabiš kot manager,
+
+163
+00:14:12,000 --> 00:14:13,000
+tehnični manager?
+
+164
+00:14:13,000 --> 00:14:17,000
+Jaz bi rekel, predvsem abstraktno razmišljanje.
+
+165
+00:14:17,000 --> 00:14:21,000
+Se pravi, kak iz nekih konkretnih stvari malo zanote narediti,
+
+166
+00:14:21,000 --> 00:14:25,000
+pa malo bolj abstraktno pogledati, pa malo kaj načrtovati, pa še zanotati.
+
+167
+00:14:25,000 --> 00:14:29,000
+To, pa mogoče kak različna področja povezavati, ker so povezane,
+
+168
+00:14:29,000 --> 00:14:34,000
+se pravi, neke pattern-opazi, to definitivno vidim, da uporabljam.
+
+169
+00:14:34,000 --> 00:14:40,000
+Potem mogoče tudi, ko sem šla skozi ta research cikl na nek način,
+
+170
+00:14:40,000 --> 00:14:46,000
+se pravi, te cikle, hipoteza, pogledaš, kaj moraš narediti,
+
+171
+00:14:46,000 --> 00:14:50,000
+kaj lahko najhitre preveriš, ker vse, kar mi delamo, so osamčni.
+
+172
+00:14:50,000 --> 00:14:54,000
+Tudi, če se nekaj zgodi v produkciji, nekaj gre na robe, je to naš osamčen,
+
+173
+00:14:54,000 --> 00:14:57,000
+da je šlo na robe. To, mislim, da je to rodkosno.
+
+174
+00:14:57,000 --> 00:15:02,000
+Take stvari, taki znanstveni principi, reševanje problemov,
+
+175
+00:15:02,000 --> 00:15:04,000
+breakdown problemov, to se mi zdi.
+
+176
+00:15:04,000 --> 00:15:06,000
+Pisanje dokumentacij.
+
+177
+00:15:06,000 --> 00:15:07,000
+Ajde.
+
+178
+00:15:09,000 --> 00:15:10,000
+Tudi, ja, recimo.
+
+179
+00:15:10,000 --> 00:15:16,000
+Skiciranje, ta način, kako idejo predstaviš ljudem, se ti zdi, da je lažje?
+
+180
+00:15:16,000 --> 00:15:21,000
+Mislim, ja. Zagotovo se načiš predstaviti stvari izstruktorirano,
+
+181
+00:15:21,000 --> 00:15:24,000
+mogoče še kako članek napisati, ker tudi dokumentacije,
+
+182
+00:15:24,000 --> 00:15:28,000
+kako članek, se pravi, predstaviti podjetje nekomu drugemu,
+
+183
+00:15:28,000 --> 00:15:32,000
+predstaviti problem, ker nekdo, ki ni v našem podjetju,
+
+184
+00:15:32,000 --> 00:15:36,000
+močno vseh detaljev ne pozna, ampak problem, ki ga ekstraktaš iz tega,
+
+185
+00:15:36,000 --> 00:15:38,000
+pa je lahko skupen.
+
+186
+00:15:38,000 --> 00:15:41,000
+Tudi, ja, zagotovo so stvari, ki se mi odnesla.
+
+187
+00:15:42,000 --> 00:15:47,000
+Ko sem se vozil v Maribor, pač mamo, ščero, stara šest let,
+
+188
+00:15:47,000 --> 00:15:50,000
+ko sem se vozil v Maribor, smo se priljeli v Sankt Babici,
+
+189
+00:15:50,000 --> 00:15:54,000
+pri tem bom ta podcast posnel, da,
+
+190
+00:15:54,000 --> 00:15:57,000
+s mislom, da bom imela ful diskusijo, ne,
+
+191
+00:15:57,000 --> 00:16:00,000
+skupaj, da sem pogovarjal s doktorec računalništva, pa,
+
+192
+00:16:00,000 --> 00:16:04,000
+kar bi ono vprašal, ali pa, če njo zanima računalništva,
+
+193
+00:16:04,000 --> 00:16:08,000
+pa potem na koncu smo poslušali pač Kingstone celo pot, pa,
+
+194
+00:16:09,000 --> 00:16:13,000
+pa smo slušali Kingstone in ko smo poskušali se vključiti,
+
+195
+00:16:13,000 --> 00:16:17,000
+pa smo oto v pet zdravje, ne rekli, a ti ne, ker kuruliš, ne.
+
+196
+00:16:17,000 --> 00:16:22,000
+Tako da iz tega področja imam nekaj,
+
+197
+00:16:22,000 --> 00:16:26,000
+nijam, sem pričakoval, da bom imel bolj pametno vprašanje,
+
+198
+00:16:26,000 --> 00:16:29,000
+ampak bom šel nazaj še malo na te Codecats-e,
+
+199
+00:16:29,000 --> 00:16:32,000
+ker se mi to zdi ful zanimivo, pa bom bolj šla še malo na ta
+
+200
+00:16:32,000 --> 00:16:35,000
+engineering management.
+
+201
+00:16:35,000 --> 00:16:41,000
+Dej mi povej, veliko truda je, si prav imel nastoj uložila v te Codecats-e,
+
+202
+00:16:41,000 --> 00:16:48,000
+pa poskušala si na nek način mlade inspajrati, da bi šli v te tehnične vode.
+
+203
+00:16:48,000 --> 00:16:54,000
+Kak ti vidiš to, da bomo, kako naj prevabimo mlade ljudi,
+
+204
+00:16:54,000 --> 00:17:00,000
+ali pa kako jih naj navdušimo, da bodo hotli slediti poti v tehnologijo,
+
+205
+00:17:00,000 --> 00:17:04,000
+kot si jo sama na neko podobno vejo šla.
+
+206
+00:17:04,000 --> 00:17:09,000
+Ali se ti zdi, da moramo postiti ljudem, da pač iščejo,
+
+207
+00:17:09,000 --> 00:17:13,000
+pa v svoj način pridejo, pa so zagubljeni.
+
+208
+00:17:13,000 --> 00:17:16,000
+Ali se ti zdi, da bi bilo boljše, da jim že prej malo predstavimo
+
+209
+00:17:16,000 --> 00:17:20,000
+celo tech space, pa da so to različni jobi notri, pa da imaš
+
+210
+00:17:20,000 --> 00:17:23,000
+dodobljkovalce notri, pa da imaš project managerje,
+
+211
+00:17:23,000 --> 00:17:25,000
+pa da imaš celo spektr.
+
+212
+00:17:25,000 --> 00:17:30,000
+Se ti zdi, da bi to mogli prej začeti, ali imaš kako dobro na svet za to?
+
+213
+00:17:30,000 --> 00:17:35,000
+Zdaj, jaz lahko samo sodim po sebi. Sem činska, vem, kako mi je bilo,
+
+214
+00:17:35,000 --> 00:17:40,000
+ko sem se opisala na faks z računalništvo, pa nisem imela dobene podlage.
+
+215
+00:17:40,000 --> 00:17:44,000
+Sem rekela, ok, sem prvi letnik, preživim, pa če bom imela tam osmici
+
+216
+00:17:44,000 --> 00:17:49,000
+z ungood, pa sem rekela, a, ni tako težko. Drugi letnik je bilo, ok,
+
+217
+00:17:49,000 --> 00:17:54,000
+če ponovim to iz prvega z ungood, pogodim, a, v bistvu ni tako grozno težko,
+
+218
+00:17:54,000 --> 00:17:59,000
+pa jaz sem tudi super, mi gre. Kaj sem opazla je, da smo mogoče,
+
+219
+00:17:59,000 --> 00:18:05,000
+mislim, za punce bolj poznam, vse fanci so tako da isti, prav imam malo več spodbude,
+
+220
+00:18:05,000 --> 00:18:11,000
+vredo je, lahko failaš, nimam očetok samo zavesti, kaj se bo pa zdaj dogajalo,
+
+221
+00:18:11,000 --> 00:18:15,000
+ker dobivali smo vprašanje, zakaj pa delate workshopi samo za punce,
+
+222
+00:18:15,000 --> 00:18:20,000
+ker CodeCats je nastal in se je realiziral v stelavnici.
+
+223
+00:18:20,000 --> 00:18:24,000
+To sta Alija Isakovic, v bistvu ona je to vkurala, jaz sem se tu jo jojnala,
+
+224
+00:18:24,000 --> 00:18:28,000
+ker je bilo zanimivo in sem hotela biti zdraven in to širič naprej.
+
+225
+00:18:28,000 --> 00:18:34,000
+No in smo ugodovili, da pač, ja, rabimo nek safe haven, punce malo bolj,
+
+226
+00:18:34,000 --> 00:18:43,000
+mogoče si samo mislimo, da nas nekdo sodi, džadžajaka, pa ste nič ne veste,
+
+227
+00:18:43,000 --> 00:18:48,000
+nič ne znate, no, in smo za temi workshopi prufo v koncu pokazali,
+
+228
+00:18:48,000 --> 00:18:53,000
+ker če so punce nakupo, so dosti bolj se počutijo varne, da malo eksperimentirajo,
+
+229
+00:18:53,000 --> 00:18:57,000
+da malo sprobajo, da se ne počutijo neumne v nek način, ne,
+
+230
+00:18:57,000 --> 00:19:01,000
+in smo jih inspirali, da so prišli in so dva dni probali nekaj narediti,
+
+231
+00:19:01,000 --> 00:19:04,000
+kar je bilo totalno out of comfort zone, ne, se pravi,
+
+232
+00:19:04,000 --> 00:19:08,000
+tudi če so copy pastali neko kodo, so videli, pa sej to ni tako grozno, ne,
+
+233
+00:19:08,000 --> 00:19:15,000
+ja, so nekaj obstihli, ne, ampak se da, ne, no, in po delavnicah je bilo,
+
+234
+00:19:15,000 --> 00:19:18,000
+so poti so se sprašali, ja, kaj pa zdaj naprej, ne, sej to je za samo dva dni,
+
+235
+00:19:18,000 --> 00:19:21,000
+kaj pa ne zdaj, kaj pa nazaj, pa smo pa z zaljo rekli, ja, nič,
+
+236
+00:19:21,000 --> 00:19:26,000
+pa pa naredimo neke tedenske meet-upe, pa damo, mi dve smo obe v tehnologiji,
+
+237
+00:19:26,000 --> 00:19:29,000
+damo skupaj nekje dela, damo skupaj malo programirati,
+
+238
+00:19:29,000 --> 00:19:31,000
+učiti programirati, in smo se pač Python zbrali,
+
+239
+00:19:31,000 --> 00:19:36,000
+ker je bil easy entrance, ja, naziv, ne, no, in smo se kar nekaj časa
+
+240
+00:19:36,000 --> 00:19:41,000
+na tedenski ravni dobivali in smo imeli take kohorte, mačk, ne,
+
+241
+00:19:41,000 --> 00:19:46,000
+je pa res, da vse ideje so naprej ful fajn slišali,
+
+242
+00:19:46,000 --> 00:19:51,000
+dokler se jim treba komitati, ne, pa danesko komitati čas,
+
+243
+00:19:51,000 --> 00:19:55,000
+energijo, pa pač priti preko teh prvih obsteklov,
+
+244
+00:19:55,000 --> 00:20:00,000
+ko se ti nekaj zastakne pri inštalaciji, pa ko je treba prvi malo večji problem rešiti,
+
+245
+00:20:00,000 --> 00:20:03,000
+pa ko je treba malo tri ure nekaj stvari debagerati, ne,
+
+246
+00:20:03,000 --> 00:20:07,000
+tu so pa potem punce hiter, ja, veš, danes imam pa to,
+
+247
+00:20:07,000 --> 00:20:09,000
+ja, danes pa ne morem to, danes pa ne morem to, ne,
+
+248
+00:20:09,000 --> 00:20:14,000
+to se nam je recimo dogajalo in potem smo imeli par grupic in si vsako grupic
+
+249
+00:20:14,000 --> 00:20:19,000
+je šel na novo inštalacijo Pythona, pa pač te začetne stvari, ne,
+
+250
+00:20:19,000 --> 00:20:24,000
+smo se malo vprašali, je to res pojm, da me pomagamo inštalirati Python v vsaki novi grupi, ne,
+
+251
+00:20:24,000 --> 00:20:29,000
+no, nakar smo s tisto zadnjo skupino se je rekli, pa pa dajmo narediti en projekt,
+
+252
+00:20:29,000 --> 00:20:37,000
+takrat je štartal ravno Code Week in smo rekli, nič, dajmo CodeCats narediti app,
+
+253
+00:20:37,000 --> 00:20:45,000
+spletni app za prikaz dogodkov, ki se bo odvijali v tedno, Code Week tedno, ne.
+
+254
+00:20:45,000 --> 00:20:48,000
+Aha, aha, okej, projekt, real projekt.
+
+255
+00:20:48,000 --> 00:20:53,000
+Real projekt, ne, no money involved, tak pač spet prostorstvo.
+
+256
+00:20:53,000 --> 00:20:57,000
+Sem se pa je skazala, da je bil preveliki zalogaj za te začetnice, ne,
+
+257
+00:20:57,000 --> 00:21:01,000
+takrat se je recimo CodeCats pridrušila še Erika Pogorilc, ne,
+
+258
+00:21:01,000 --> 00:21:05,000
+in smo potem pa Goran Blažič, ne, in smo potem,
+
+259
+00:21:05,000 --> 00:21:09,000
+mi, ko smo bili malo bolj vešči, to prevzeli, sfurali in spelali do konca,
+
+260
+00:21:09,000 --> 00:21:13,000
+ostali, ko so bili malo pa novinci, se pa malo odpadli, ker je bilo too much, ne,
+
+261
+00:21:13,000 --> 00:21:17,000
+to je bil mogoče fail CodeCats-ov, ampak je bil to naš uspešen projekt,
+
+262
+00:21:17,000 --> 00:21:21,000
+pa mislim, da je še, zdaj ne vem, če še živi, ali so ga, pa zaspet drugi imali,
+
+263
+00:21:21,000 --> 00:21:26,000
+ne, petvikali tnov, ampak tu smo videli, da če se s puncami dela, pa da se dela na drugačen čin,
+
+264
+00:21:26,000 --> 00:21:28,000
+pa če se one tako kul počutijo, ne.
+
+265
+00:21:28,000 --> 00:21:32,000
+Se pravi, da im je treba, da im lahko pomagaš,
+
+266
+00:21:32,000 --> 00:21:35,000
+da im, v bistvu, narediš varno neko...
+
+267
+00:21:35,000 --> 00:21:37,000
+Za njih varno, ja.
+
+268
+00:21:37,000 --> 00:21:43,000
+Za njih varno družbo in da jih, v bistvu, s svojimi izkušnjami nek nečem...
+
+269
+00:21:43,000 --> 00:21:47,000
+Ja, pa za mene je pravilo držanost opet kveščen, pa če me trikrat praviš,
+
+270
+00:21:47,000 --> 00:21:49,000
+če se ostati, jim trikrat zborila, ne.
+
+271
+00:21:49,000 --> 00:21:53,000
+No in tak način smo potem to malo barijero zmanjšali,
+
+272
+00:21:53,000 --> 00:21:58,000
+mar se katera punca potem videla, da se da, pa so, ene par jih je celo šlo,
+
+273
+00:21:58,000 --> 00:22:02,000
+malo bolj tehnične firme, tehnične, pa da so si upali iti na intervju,
+
+274
+00:22:02,000 --> 00:22:04,000
+ena mislim, da je celo bodo bila Google Scholarship, no.
+
+275
+00:22:04,000 --> 00:22:05,000
+Bravo.
+
+276
+00:22:05,000 --> 00:22:09,000
+In meni je tako, če je eno, če smo eno skonvertali, smo nekaj naredili.
+
+277
+00:22:09,000 --> 00:22:11,000
+To je moj point, ne za vse, vseh.
+
+278
+00:22:11,000 --> 00:22:13,000
+Ja, ja, razumem, razumem.
+
+279
+00:22:13,000 --> 00:22:18,000
+Je pa res, da smo pač puncem tudi povedali, da ni zato,
+
+280
+00:22:18,000 --> 00:22:21,000
+da se načiš dveh nek programirati in si programmer, ne.
+
+281
+00:22:21,000 --> 00:22:23,000
+Stvari so malo bolj kompleksne.
+
+282
+00:22:23,000 --> 00:22:30,000
+Kar neki časa, truda, treba vložiti to, da postaneš nek inženir ali pa neki developer, ne.
+
+283
+00:22:30,000 --> 00:22:32,000
+Zdaj pa čez, ja.
+
+284
+00:22:32,000 --> 00:22:34,000
+Da, da, da, te zaprašam.
+
+285
+00:22:34,000 --> 00:22:42,000
+Pa namen teh projektov, ki si ste vmenjali, vredno bi bil naučiti programiranje,
+
+286
+00:22:42,000 --> 00:22:49,000
+ali ljudem pokazati, v bistvu, kar sve gre v razvoj nekih tehničnih produktov danes, ne.
+
+287
+00:22:50,000 --> 00:22:54,000
+Ker se mi zdi, da veliko zgod poznam tudi, ko ljudje vsimo poskušajo programirati,
+
+288
+00:22:54,000 --> 00:22:58,000
+potem pa gotovijo, da samo programiranje je mogoče ni za njih,
+
+289
+00:22:58,000 --> 00:23:02,000
+pa da mogoče jih pa ne vem, product management, da pa project management bo za njima,
+
+290
+00:23:02,000 --> 00:23:04,000
+pa potem najdejo neko pot na to.
+
+291
+00:23:04,000 --> 00:23:08,000
+Misliš, da bi mogoče taki prestopi tudi približali to industrijo ljudem?
+
+292
+00:23:08,000 --> 00:23:10,000
+Sigurno, da vedejo, da ni samo.
+
+293
+00:23:10,000 --> 00:23:12,000
+Mislim, tu so presokni tudi stereotipi, ne.
+
+294
+00:23:12,000 --> 00:23:13,000
+Ja, ja.
+
+295
+00:23:13,000 --> 00:23:16,000
+Developer se di, kaj, vem, vkleti z dvema monitorima, pa ga ni vem,
+
+296
+00:23:16,000 --> 00:23:18,000
+pa cel dan sem to kucal, ne.
+
+297
+00:23:18,000 --> 00:23:19,000
+Ne.
+
+298
+00:23:19,000 --> 00:23:22,000
+Mislim, mi smo bili tako za različnih firm, tako za različnih vetrov,
+
+299
+00:23:22,000 --> 00:23:25,000
+smo se v teh stvarih tudi pogovarjali, ni pa zabilo to solo purpose,
+
+300
+00:23:25,000 --> 00:23:28,000
+da bi imeli nekaj predavne na to temo.
+
+301
+00:23:28,000 --> 00:23:32,000
+Mislim, naučiti nekoga programirati eno uro na den, to je mnogo.
+
+302
+00:23:32,000 --> 00:23:37,000
+In smo apelirali, da pa če katera punca želi, moram tudi sama doma delati.
+
+303
+00:23:37,000 --> 00:23:39,000
+Smo mu pošerali, ne vem, tutorialsem.
+
+304
+00:23:39,000 --> 00:23:41,000
+Ni zdaj veliko follow-upalo.
+
+305
+00:23:41,000 --> 00:23:42,000
+Vsi sami veš, life happens.
+
+306
+00:23:42,000 --> 00:23:43,000
+Ja, ja, ja, razumem.
+
+307
+00:23:43,000 --> 00:23:47,000
+In če nisi komiten, nimaš tega drive-a, pa se tam nekje ustavi.
+
+308
+00:23:47,000 --> 00:23:53,000
+Ampak, po drugi strani, pa smo pokazali, da pa ni tako bal, bal, pric raven,
+
+309
+00:23:53,000 --> 00:24:00,000
+si najti neke kolege, vprašati, vsaj razumeti, kaj te neki kolega, developer razlaga.
+
+310
+00:24:00,000 --> 00:24:04,000
+Ker smo imeli tudi designerke, naprimer, pa tudi project managerke v tej grupi, ne.
+
+311
+00:24:04,000 --> 00:24:08,000
+Mogoče bolj tako, da so našli nek skupni jezik pol v službi.
+
+312
+00:24:09,000 --> 00:24:18,000
+Ok, dobro. Potem pa iti še na vprašanje, kaj bomo spremenila kultura inženiringa v Sloveniji.
+
+313
+00:24:18,000 --> 00:24:24,000
+Kaj ki izzive imaš kot direktora inženiringa na DataVoxu?
+
+314
+00:24:24,000 --> 00:24:26,000
+Lahko kaj gremo na to tema?
+
+315
+00:24:26,000 --> 00:24:30,000
+Komod, spremenila bomo en procent, procent po procent.
+
+316
+00:24:30,000 --> 00:24:32,000
+Procent po procent, ja.
+
+317
+00:24:32,000 --> 00:24:38,000
+Ne, mislim, to je ena tema, ko pač vse pogovarjam z njih v različnih podjetjih, je pač, ok.
+
+318
+00:24:38,000 --> 00:24:42,000
+Najprej tema, ni kadra, ok, ni kadra.
+
+319
+00:24:42,000 --> 00:24:47,000
+Potem pač to malo razbiješ, pa potem kaj to viši, da pač se kadr je.
+
+320
+00:24:47,000 --> 00:24:56,000
+Kadr danes se rabi, kadr so najprej podjene in ljudje rabijo, pač, ok, dobro kločilo,
+
+321
+00:24:56,000 --> 00:25:00,000
+potem pa rabijo pogoje, zanimive projekte, zanimivo kulturo.
+
+322
+00:25:00,000 --> 00:25:08,800
+in kupnegi stvari, ki dejansko so ti sitrigeri, da pridejo v tvojo firmo, recimo, ne.
+
+323
+00:25:10,400 --> 00:25:16,799
+In ena zadeva, ki jo pač vidim, da prihaja znova in znova, je, da pač števrečer deja,
+
+324
+00:25:16,799 --> 00:25:20,799
+ampak se je pač ta firma, se ima neke dobre inženiranja, ima nek zanimiv produkt,
+
+325
+00:25:20,799 --> 00:25:28,799
+ampak nima nekega tehničnega manažmenta na nivoju, da bi to podjetje lahko raslo,
+
+326
+00:25:28,799 --> 00:25:33,599
+da bi lahko naredil nek preboj, da bi lahko, veš, spet nek talent privabil zrad tega,
+
+327
+00:25:33,599 --> 00:25:38,599
+pa bi moče jaz te obstvorno prednadelevalo, da bi lahko to.
+
+328
+00:25:38,599 --> 00:25:42,599
+Če ti naprej odgovorim, kak spremenila, najlažje je tako, da se zaposliva vseh podjetij,
+
+329
+00:25:42,599 --> 00:25:46,599
+ki bi rada spremenila, ker spremenba pridat znotraj, ne.
+
+330
+00:25:46,599 --> 00:25:47,599
+Aha, okej, okej.
+
+331
+00:25:47,599 --> 00:25:54,599
+Lahko si sicer spremljaš na LinkedInu, pa lajkaš, koliko hočeš, ampak če tega ne aplajaš firmi, je to futal, ne.
+
+332
+00:25:55,400 --> 00:25:59,400
+Lahko to, lahko se dama open to work, saj ne vem, če bo moj šef zadovoljen.
+
+333
+00:25:59,400 --> 00:26:00,400
+Ja, ja, okej.
+
+334
+00:26:00,400 --> 00:26:07,400
+Drugače pa meni se zdi, tako sem te rekel, to mora priti odznotraj, se pravi, ljudi treba gromati,
+
+335
+00:26:07,400 --> 00:26:13,400
+treba si najti ambasadorje, zaveznike in tudi sami morajo pushback delati na nek način manažmentu, ne.
+
+336
+00:26:13,400 --> 00:26:17,400
+Ful je lažje, če že v osnovi firma na takrat način razmišlja, se pravi,
+
+337
+00:26:17,400 --> 00:26:21,400
+da se zaveda, da so ljudje asset, da treba delati z njimi na njih,
+
+338
+00:26:22,199 --> 00:26:27,199
+da ne moreš ti se igrati v šahah pa samo jih premikati kot kmete na tih konci.
+
+339
+00:26:27,199 --> 00:26:33,199
+Važno je, kako se počutijo, kako se počutijo uporobljene, tako rečem,
+
+340
+00:26:33,199 --> 00:26:37,199
+ali pa valuable, se pravi, koliko vrednosti prinesjo, kako se počutijo slišanje,
+
+341
+00:26:37,199 --> 00:26:41,199
+pa koliko nekega feedbacka dobijo, ker vsi robimo feedback,
+
+342
+00:26:41,199 --> 00:26:45,199
+vsi imamo neke slepe pege, slade stvari, pa dobre stvari, no.
+
+343
+00:26:45,199 --> 00:26:51,199
+In recimo, kaj sem jasno data, bokso, vedla, so te dneski ena na ena.
+
+344
+00:26:51,199 --> 00:26:56,199
+Pa če se vzame v 15 minut, pa to ni operativa, ampak to se jaz z svojimi inženjerji
+
+345
+00:26:56,199 --> 00:27:00,199
+pogovarjam, kaj nam je cool v odnosu, kaj nam je cool pri načinu dela,
+
+346
+00:27:00,199 --> 00:27:05,199
+kaj nam je cool pri delu z drugimi, kaj nam je cool, a pa ni cool pri komunikaciji
+
+347
+00:27:05,199 --> 00:27:09,199
+znotraj tima ali pa nazaj tima, ne, in to, če to na tedenski ravni delaš,
+
+348
+00:27:09,199 --> 00:27:15,199
+nekaj se prime, ne, in potem, ko en tim zgromaš, lahko to oni prenašajo naprej,
+
+349
+00:27:15,199 --> 00:27:18,199
+ali pa v bistvu, ko pridejo nove ljudje, jih gromajo naprej,
+
+350
+00:27:18,199 --> 00:27:23,199
+ne, in na tak način se nekako dviguje kultura. Druga stvar, ki jo ful zagovarjam,
+
+351
+00:27:23,199 --> 00:27:29,199
+je radical candor, ne, in jaz tu prav živam zato, ker si povemo stvari,
+
+352
+00:27:29,199 --> 00:27:36,199
+nič nikjer ni popolno, in prav je, da si lahko, da lahko izraziš ta,
+
+353
+00:27:36,199 --> 00:27:42,199
+da si dissenter, se pravi, da izraziš drugačno mnenje, da se to mnenje sliši,
+
+354
+00:27:42,199 --> 00:27:45,199
+ni v mozgu, da se opošteva, pa da se sliši, pa se da na mizo, pa se pogleda
+
+355
+00:27:45,199 --> 00:27:50,199
+z različnih vzornih kotov na problem, ne, ker določenih nekih vzorcev se niti ne zavedam.
+
+356
+00:27:50,199 --> 00:27:54,199
+Če imaš ti firmi, recimo, en taki banal primer, če imaš ti firmo,
+
+357
+00:27:54,199 --> 00:28:01,199
+kateri je 99,9 posto moških inženjerjev, ne, boš vso v dokumentaciji opisal,
+
+358
+00:28:01,199 --> 00:28:06,199
+he does that, he does that, ne, dečki gremo, ne, to, ne, ti pa prijem,
+
+359
+00:28:06,199 --> 00:28:12,199
+jaz vrčem samo gajs, nismo samo gajs, ne, recimo, tako da se tudi ostali počutijo,
+
+360
+00:28:12,199 --> 00:28:17,199
+lahko nekako vključena, pa da imajo vsaj v misli, da še kdo drug obstaja, ne.
+
+361
+00:28:17,199 --> 00:28:21,199
+In recimo, ena stvar, ki jo tudi probam povso teplajati, je, da se vzvedamo,
+
+362
+00:28:21,199 --> 00:28:26,199
+smo vsi ena firma, ker neka naravna tendenca je, da bostanemo v tabori, ne,
+
+363
+00:28:26,199 --> 00:28:32,199
+o, to ti sales, to so, o, o, o, ova je v trgah, marketing, o, ne.
+
+364
+00:28:32,199 --> 00:28:40,199
+Ampak vsak od nas ima svoj pisav pazud, ki ga mora, mislim, ki ga doprinesa k celi sliki, ne.
+
+365
+00:28:40,199 --> 00:28:45,199
+In če tu zbojamo neko empatijo, da drugih timo, pa bondanje, da se razumemo,
+
+366
+00:28:45,199 --> 00:28:49,199
+da imamo obraz, zraven imena, pa maila, ki ga dobimo, ne, pa da razumemo,
+
+367
+00:28:49,199 --> 00:28:53,199
+da imajo oni pač malo drugačene pene, pa da niso butesti, če se ne znajo
+
+368
+00:28:53,199 --> 00:28:57,199
+pogovarjati v našem jeziku, ne, ker mi pa se v njihovem ne znamo.
+
+369
+00:28:57,199 --> 00:29:02,199
+In da, recimo, ne uporabljamo nekih patternov, zato tem sem pisala,
+
+370
+00:29:02,199 --> 00:29:06,199
+zato dost, no, oni, mi, ne, mi smo vsi mi, ne.
+
+371
+00:29:07,199 --> 00:29:11,199
+No, ampak največ se mi zdi se, da nas narediti od znotraj,
+
+372
+00:29:11,199 --> 00:29:16,200
+pa da pač menedžment na kateri in koli nivoje dovzeti za to, ne.
+
+373
+00:29:16,200 --> 00:29:17,200
+Stale pa grome.
+
+374
+00:29:17,200 --> 00:29:25,200
+A tudi, bo me mnogo skušno je podobno, sicer jaz sem dvotedenske one-on-one
+
+375
+00:29:25,200 --> 00:29:33,200
+prakticiral pa eno uro, ampak ja, pač, je, je, pač, mentalni napor je to,
+
+376
+00:29:33,200 --> 00:29:39,200
+ampak se z nekim inženirjem pa debatirati ne samo tisti njegovih
+
+377
+00:29:39,200 --> 00:29:44,200
+trenutnih izzivih, tehničnih, ampak tudi kako bo rasto v karjeri,
+
+378
+00:29:44,200 --> 00:29:48,200
+kako bo rasto znotraj podjetja, kako lahko delamo neke side projekte,
+
+379
+00:29:48,200 --> 00:29:52,200
+da bo v njegovih karjerih pa tudi podjetje koristili.
+
+380
+00:29:52,200 --> 00:29:58,200
+To je ful nekega efforta treba dati, ampak to so take tolko ročne investicije.
+
+381
+00:29:59,200 --> 00:30:06,200
+Res slišiš na teh one-on-one jih, od ločevanja do povoženih mačk.
+
+382
+00:30:06,200 --> 00:30:08,200
+Ampak to se vpliva na njih.
+
+383
+00:30:08,200 --> 00:30:10,200
+Ja, ja, to vpliva na njih.
+
+384
+00:30:10,200 --> 00:30:11,200
+Povoženih mačk.
+
+385
+00:30:11,200 --> 00:30:16,200
+Ja, ale to je težo vlajnja, pač tudi šorojstvo pa smrti.
+
+386
+00:30:16,200 --> 00:30:17,200
+Tudi.
+
+387
+00:30:20,200 --> 00:30:25,200
+Ja, tako da mislim, da se splača, je pa res nek effort treba dati,
+
+388
+00:30:25,200 --> 00:30:29,200
+pa če sploti delaš, potem tudi efektivno narabiš najne ure.
+
+389
+00:30:29,200 --> 00:30:32,200
+Včasih lahko tudi prejli reči stvari.
+
+390
+00:30:32,200 --> 00:30:38,200
+Ampak ja, v bistvu, ko stvari ne grejo glatko in zgodi se, da stvari ne grejo glatko,
+
+391
+00:30:38,200 --> 00:30:42,200
+potem je to neki kapital, ki ga lahko unovčiš na nek način.
+
+392
+00:30:42,200 --> 00:30:43,200
+Absolutno.
+
+393
+00:30:43,200 --> 00:30:49,200
+In pač ljude spoznaš se z njimi in se razumeš z njimi in se splača.
+
+394
+00:30:49,200 --> 00:30:51,200
+Tega to tudi priporočam.
+
+395
+00:30:52,200 --> 00:30:56,200
+Zdaj na nek povezan tem, mislim, da si malce čela,
+
+396
+00:30:56,200 --> 00:31:01,200
+pač spoznaš to, da imaš management svojih piro,
+
+397
+00:31:01,200 --> 00:31:06,200
+se pravi, da menedžiraš ljudi na svojem nivoju, pa komuniciraš ljudi na svojem nivoju,
+
+398
+00:31:06,200 --> 00:31:09,200
+z drugimi direktorjev in engaženji menedžerji.
+
+399
+00:31:09,200 --> 00:31:17,200
+Potem imaš pa downwards management, se pravi, kako ti svoje podrojenje menedžiraš.
+
+400
+00:31:18,200 --> 00:31:24,200
+Potem imaš pa še ta upper management, kako komuniciraš z svojimi nadrejenjimi.
+
+401
+00:31:24,200 --> 00:31:29,200
+Zdaj, mislim, da smo se dotaknili na ta middle, pa zelo se mi poznima,
+
+402
+00:31:29,200 --> 00:31:33,200
+kako pa tudi na zgor komuniciraš, pa kako, veš,
+
+403
+00:31:33,200 --> 00:31:36,200
+če bote mi imeli zelo dobro zastavljene neke načrte,
+
+404
+00:31:36,200 --> 00:31:40,200
+pa če to management ne bo videl te vizije, pa veli v tem,
+
+405
+00:31:40,200 --> 00:31:44,200
+potem je to nevrednost in me zanima,
+
+406
+00:31:44,200 --> 00:31:48,200
+kakje so tvoje izkušnje pri upwards managementu?
+
+407
+00:31:50,200 --> 00:31:57,200
+Super je, če podjetje že podpira ta, kaj bi rekla, povečanje vidnosti,
+
+408
+00:31:57,200 --> 00:32:01,200
+kaj nek tim dela. Zdaj, konkretno na databoksu imamo te denske,
+
+409
+00:32:01,200 --> 00:32:06,200
+rečemo te musinke. Kdo bi si mislil, ne vem, uro pa pa ovo.
+
+410
+00:32:06,200 --> 00:32:09,200
+To je waste of time. Samo da ni.
+
+411
+00:32:09,200 --> 00:32:15,200
+In na teh sestankih mi nekaj, ki stvari znotraj tema poročamo,
+
+412
+00:32:15,200 --> 00:32:21,200
+se pravi neko operativo, progres projekta, če so kakršenikoli problemi,
+
+413
+00:32:21,200 --> 00:32:24,200
+pa tudi to človeško plato, koga zaj mogoče rabimo,
+
+414
+00:32:24,200 --> 00:32:29,200
+ali pa kje pri odnosih, ka nešto ima, ali pa pohvalimo, koga v temu.
+
+415
+00:32:29,200 --> 00:32:33,200
+Tako da, recimo, upper management dobije vizibiliti, kaj se kje dogaja,
+
+416
+00:32:33,200 --> 00:32:37,200
+pa pač koga je dosej mogoče malo bolj potrudil ta teden,
+
+417
+00:32:37,200 --> 00:32:42,200
+ali pa koga je treba ekstra pohvaliti in to na tak način rečujemo.
+
+418
+00:32:42,200 --> 00:32:45,200
+Smo že imeli debate, a bi še sploh imeli ta sestanek,
+
+419
+00:32:45,200 --> 00:32:48,200
+ali sploh veli bolj, ker načelom lahko vse asinhrono radiš,
+
+420
+00:32:48,200 --> 00:32:52,200
+mi povstamo te stvari v slag, pa si lahko vsako prebere in smo zaključili.
+
+421
+00:32:52,200 --> 00:32:55,200
+Samo, če si lahko vsako preberejo, si densko si preberejo.
+
+422
+00:32:55,200 --> 00:32:58,200
+No, smo rekli, seveda je ena stvar, če si densko prebereš,
+
+423
+00:32:58,200 --> 00:33:03,200
+v teoriji asinhrono vdela, ampak smo našli veljo v tem,
+
+424
+00:33:03,200 --> 00:33:07,200
+da se sedamo skupaj, smo v istem prostoru, si vzamemo na začetku,
+
+425
+00:33:07,200 --> 00:33:11,200
+pet minuta nam to, da preberemo, preletimo in potem predebatiramo vprašanje.
+
+426
+00:33:11,200 --> 00:33:16,200
+In potem imamo čist take debate tudi na lideršipnji voju.
+
+427
+00:33:16,200 --> 00:33:23,200
+Se pravi, kaj zdaj, kak tim, z katerim drugim timom delujejo,
+
+428
+00:33:23,200 --> 00:33:26,200
+pa kje so nekatreni, ali pa kje si moramo pomagati,
+
+429
+00:33:26,200 --> 00:33:29,200
+ali pa kaj moramo kot mi, kot tim nekih direktorjev narediti,
+
+430
+00:33:29,200 --> 00:33:34,200
+ali pa, ne vem, se bomo drugače obnašali, ali pa kaj moramo uvesti,
+
+431
+00:33:34,200 --> 00:33:36,200
+ali pa kdo rabi, kje je podpor.
+
+432
+00:33:36,200 --> 00:33:40,200
+Tako da ta neki bonding na tedenski ravni je to meni del uper,
+
+433
+00:33:40,200 --> 00:33:43,200
+mislim, menedžiranje uper.
+
+434
+00:33:43,200 --> 00:33:47,200
+Potem imamo v bistvu tudi mi tedenske ena na ena,
+
+435
+00:33:47,200 --> 00:33:50,200
+naprimer z founderjem ali pa z VP.
+
+436
+00:33:50,200 --> 00:33:55,200
+Tako da tudi to ni samo operativa, ampak se densko tudi pogovarjamo o tem,
+
+437
+00:33:55,200 --> 00:33:58,200
+kje imam, recimo, kje imam jaz challenge ali pa dobim feedback,
+
+438
+00:33:58,200 --> 00:34:01,200
+kje pa moj natreni vidi, kje imam challenge ali pa, recimo,
+
+439
+00:34:01,200 --> 00:34:03,200
+samo jaz pa spominjem, kaj tvoj tim dela.
+
+440
+00:34:03,200 --> 00:34:07,200
+Se pa rabi, jaz dobim feedback, da moram poskrbiti, da bo, pa visibility boljši.
+
+441
+00:34:07,200 --> 00:34:12,200
+V glavi tu pri nas funkcionira tudi ena na ena gor, pa v bistvu dolno.
+
+442
+00:34:12,200 --> 00:34:17,200
+Potem, ena izme takih stvari je, mogoče smo tudi malo specifični,
+
+443
+00:34:17,200 --> 00:34:20,200
+da imamo, da smo distribuirani.
+
+444
+00:34:20,200 --> 00:34:24,200
+Se pravi, imamo time v Ameriki, pa imamo time pač v Lower Douglas,
+
+445
+00:34:24,200 --> 00:34:26,200
+pa imamo time tu v Neptuju.
+
+446
+00:34:26,200 --> 00:34:30,200
+Se pa mislila, gremo, da smo mi tu en tak bubble, we don't care,
+
+447
+00:34:30,200 --> 00:34:33,200
+honey badger don't care, ne.
+
+448
+00:34:33,200 --> 00:34:36,200
+Imamo tudi tedenske sestanke z njimi, pa je bilo tako,
+
+449
+00:34:36,200 --> 00:34:40,200
+kaj smo vseh pogovarjali, ne. Mislim, kaj te se prezveze, ne.
+
+450
+00:34:40,200 --> 00:34:45,200
+In smo gotovili, da tudi, če se samo vidimo, pa na začetku,
+
+451
+00:34:45,200 --> 00:34:49,200
+ne vem, 50 minut pokramljamo, aha, beli bo dobil otroka,
+
+452
+00:34:49,200 --> 00:34:52,200
+a, tori, pa je šla na kolo, ne.
+
+453
+00:34:52,200 --> 00:34:55,200
+Zato, da nas to tudi malo približa, pa spet imamo nek obrastanj
+
+454
+00:34:55,200 --> 00:34:58,200
+k mailu, k tasku, ne, in se mi zdi to fulj pomembno.
+
+455
+00:34:58,200 --> 00:35:01,200
+Čeprav smo že prvikrat bodo skanslali, smo dali veto na to,
+
+456
+00:35:01,200 --> 00:35:04,200
+ne, pomembno je, še več bi se, v bistvu, mogoče pogovarjali, ne.
+
+457
+00:35:04,200 --> 00:35:09,200
+In to, to ni waste of time, to ne moraš rešiti z mailom,
+
+458
+00:35:09,200 --> 00:35:11,200
+pa to ne moraš rešiti z lekom, ne.
+
+459
+00:35:11,200 --> 00:35:14,200
+To itek bi bilo najboljše, pa se mi zdi nekako živo,
+
+460
+00:35:14,200 --> 00:35:18,200
+ampak neki relationship moraš vzdržovati, ne, da to funkcionira.
+
+461
+00:35:19,200 --> 00:35:22,200
+O, ne, dobro, dobro.
+
+462
+00:35:22,200 --> 00:35:26,200
+Je pa efor, ne, pa ja, ni vedno, ni jo še saj, ampak ja.
+
+463
+00:35:27,200 --> 00:35:31,200
+Ja, establjamo se, da smo, da kulturo zgradiš odznotri,
+
+464
+00:35:31,200 --> 00:35:34,200
+pogovarjamo se o management.
+
+465
+00:35:34,200 --> 00:35:38,200
+Če gi to še, ne, kulturo, ni, da kulturo zgradiš, pa je, ne.
+
+466
+00:35:38,200 --> 00:35:42,200
+Ne, ne, bom vzaj, da bom nadaljaval to nekdo temu,
+
+467
+00:35:42,200 --> 00:35:44,200
+se poskušal bom.
+
+468
+00:35:45,200 --> 00:35:52,200
+Kaj pa vidiš ti, ok, podjetje raste, treba bo povečati manpower,
+
+469
+00:35:52,200 --> 00:35:57,200
+ki ga imate na voljo, razširiti ekipe, vse moraš povečati, ne.
+
+470
+00:35:57,200 --> 00:35:59,200
+To je nekaj naravno zdelaj.
+
+471
+00:36:00,200 --> 00:36:05,200
+Kako pa vidiš, kako bote, ampak kako se sočaš s tem,
+
+472
+00:36:05,200 --> 00:36:12,200
+kako to, te petrne, ali pa kulturo, ki nastaja, pa te debate,
+
+473
+00:36:12,200 --> 00:36:17,200
+pa te odnose danes pograditi, ne, naprej, ko bo podjetje še raslo
+
+474
+00:36:17,200 --> 00:36:23,200
+in bo še več ljudi, ker, če bo tisti, ura pa pa se stanek,
+
+475
+00:36:23,200 --> 00:36:26,200
+če bojo vsi prišli na njega, pa bo pa triuren se stanek.
+
+476
+00:36:26,200 --> 00:36:31,200
+Kako vidiš to skaliranje teh odnosov, pa neke kulture,
+
+477
+00:36:31,200 --> 00:36:35,200
+ki pride iz tega, kaj pa se s tem sočaš mogoče.
+
+478
+00:36:35,200 --> 00:36:36,200
+Kako to vidiš?
+
+479
+00:36:36,200 --> 00:36:38,200
+Ne vem, se bom pa pozanimala.
+
+480
+00:36:39,200 --> 00:36:42,200
+To, ne vem, ne, to je challenge, ne.
+
+481
+00:36:43,200 --> 00:36:44,200
+Bo ta dva se stanka?
+
+482
+00:36:46,200 --> 00:36:50,200
+Ja, tako je, ne, se mi zdi, da so to neke naravne zakonice,
+
+483
+00:36:50,200 --> 00:36:54,200
+s ti večji, ko si te že, ja, večji challenge so.
+
+484
+00:36:54,200 --> 00:36:57,200
+Zdaj, se samo veš, ko je pet ljudi v isti sobi, se vse zmenijo,
+
+485
+00:36:57,200 --> 00:37:01,200
+sploh naraješ se stanko, ni treba, si zbonden deluje, ne.
+
+486
+00:37:01,200 --> 00:37:05,200
+Večji, ko si, pa že moraš mogoče malo enforsati to komunikacijo
+
+487
+00:37:05,200 --> 00:37:09,200
+te neke se stanke, te neke, ne vem, mi imamo enkrat na teden,
+
+488
+00:37:09,200 --> 00:37:13,200
+čisto vsi timi skupaj v isti sobi, naprimer, tudi 15-minutni sing, ne.
+
+489
+00:37:16,200 --> 00:37:19,200
+Del te čarobnosti kulture si sigurno zgobi.
+
+490
+00:37:21,200 --> 00:37:25,200
+Po moje, mislim, kako sem jaz videla, kak je prejšnji firm,
+
+491
+00:37:25,200 --> 00:37:28,200
+je, da nastanejo lahko tudi kake subkulture, ne.
+
+492
+00:37:28,200 --> 00:37:32,200
+Smo imeli firmo, kjer je in general podjetje mogoče
+
+493
+00:37:32,200 --> 00:37:37,200
+ni imelo tako dobre kulture, ampak del tima, ki pa je bil tudi
+
+494
+00:37:37,200 --> 00:37:41,200
+lokacijsko ločen, pa ko smo bili mogoče taki ljudje, ki smo bili
+
+495
+00:37:41,200 --> 00:37:45,200
+na vajenju, pa smo imeli neke polajnane vrednote, smo pa si
+
+496
+00:37:45,200 --> 00:37:49,200
+subkulturo zgradili, se pravi, subkulturo spoštovanja,
+
+497
+00:37:49,200 --> 00:37:53,200
+čelenžanja drug drugega, odkritosti, takih ena na ena,
+
+498
+00:37:53,200 --> 00:37:57,200
+pa ni bilo to nekaj za procesno, predpisano na firmi, ne.
+
+499
+00:37:58,200 --> 00:38:01,200
+Nimam, nimam odgovora.
+
+500
+00:38:03,200 --> 00:38:07,200
+Zabijajte se, treba več, da, fok, to je čelenž.
+
+501
+00:38:07,200 --> 00:38:12,200
+Še imam eno hipotezo ali pa teorijo in s tem upravljam
+
+502
+00:38:12,200 --> 00:38:18,200
+The Fork in se mi zdi, da v developerji ali pa inženiri
+
+503
+00:38:18,200 --> 00:38:23,200
+pač začneš, recimo da večina začne nek student job ali pa
+
+504
+00:38:23,200 --> 00:38:27,200
+nek junior developer, mid developer, develop inženirenda in potem
+
+505
+00:38:27,200 --> 00:38:32,200
+senior, pa pa prije nek trenutek, ko se moraš odločiti,
+
+506
+00:38:32,200 --> 00:38:37,200
+a boš še naprej developer ali boš šel v neke management
+
+507
+00:38:37,200 --> 00:38:42,200
+pozicije in imam čudovit, da si bila na tem Forku v nekem
+
+508
+00:38:42,200 --> 00:38:48,200
+trenutku, to sama, pa si se odločila bolj management,
+
+509
+00:38:48,200 --> 00:38:52,200
+pa to pomeni, da se potem zdaj manj samo tehnologijo okvarjaš,
+
+510
+00:38:52,200 --> 00:38:55,200
+kako ti vidiš ta Fork?
+
+511
+00:38:55,200 --> 00:39:00,200
+Jaz sem manager čez dan, pa developer po noči več.
+
+512
+00:39:00,200 --> 00:39:05,200
+Ne bi rekla, da sem bila na tem Forku lih, zato ker se nikoli
+
+513
+00:39:05,200 --> 00:39:10,200
+nisem počutila kot neki top shit A player developer, ne.
+
+514
+00:39:10,200 --> 00:39:15,200
+Sem imela vedno ta imposter sindrom, se mi pa zdi, da je moja
+
+515
+00:39:15,200 --> 00:39:19,200
+moč ali pa moja močna točka je pa ravno bondanje ljudi,
+
+516
+00:39:19,200 --> 00:39:23,200
+se pravi prepoznavanje nekega potencijala, dvigovanje,
+
+517
+00:39:23,200 --> 00:39:28,200
+čelenžanje, veliko berem, me se zdi, da pač imam neko to
+
+518
+00:39:28,200 --> 00:39:32,200
+empatijo, ki mi pa lahko na tem managementu pomaga.
+
+519
+00:39:32,200 --> 00:39:36,200
+In se mi zdi, da lahko tu več doprinesem.
+
+520
+00:39:36,200 --> 00:39:41,200
+Tako da zares, jaz nisem imela nikoli dileme kam pa kaj,
+
+521
+00:39:41,200 --> 00:39:45,200
+res je, da na neki točki življenja sem si rekla, da ne želim
+
+522
+00:39:45,200 --> 00:39:49,200
+biti na sovoznikovem sedažu, da želim voziti, se pravi, ja,
+
+523
+00:39:49,200 --> 00:39:53,200
+imam določene ambicije, so stvari, ki bih rada uredila in to
+
+524
+00:39:53,200 --> 00:39:56,200
+vem, da lahko naredim sam takrat, ko imam nekde decision
+
+525
+00:39:56,200 --> 00:40:01,200
+power. In zelo rada pridem do točki, kjer lahko pomagam so
+
+526
+00:40:01,200 --> 00:40:05,200
+ustvarjati neke stvari, zato ker se mi zdi, da to, kar zagovarjam,
+
+527
+00:40:05,200 --> 00:40:09,200
+je pomembno. In sem rada protiv te štistin, ki pa gledajo
+
+528
+00:40:09,200 --> 00:40:13,200
+samo na številke, pa samo na produktivnost in se mi zdi,
+
+529
+00:40:13,200 --> 00:40:18,200
+da tu lahko malo zbalansiram to človeško strojno inženiranje.
+
+530
+00:40:18,200 --> 00:40:24,200
+Recimo, ena taka lekcija mi je bila že na Faxu. Ko sem dobila
+
+531
+00:40:24,200 --> 00:40:28,200
+občutek, da pač računalničari, kakorkolih je pomenujal,
+
+532
+00:40:28,200 --> 00:40:32,200
+mislijo se o sami sebi na med. Računalištvo obstaja zato,
+
+533
+00:40:32,200 --> 00:40:37,200
+da obstaja, kjer je. Ampak tako, če malo pogledaš, stopiš
+
+534
+00:40:37,200 --> 00:40:41,200
+malo nazaj, pogotoviš, računalištvo je suport. Mi danes
+
+535
+00:40:41,200 --> 00:40:45,200
+potpiramo vse neke ideje. Mi smo tisti, ki to naredimo zato,
+
+536
+00:40:45,200 --> 00:40:48,200
+da je ta ideja zaživiji in danes funkcionira. Nismo mi samo
+
+537
+00:40:48,200 --> 00:40:53,200
+v sebi na med. To mi je dalo tako mindset, da tudi v vseh firmah,
+
+538
+00:40:53,200 --> 00:40:56,200
+ki smo tuče IT-ovska firma, se treba zavedati, da pač mi smo
+
+539
+00:40:56,200 --> 00:41:01,200
+tisti, ki omogočamo stvari. Nismo pa tu zato, da bomo različili,
+
+540
+00:41:01,200 --> 00:41:04,200
+bi bila neka inštitucija, ki bi se danes okvarjala s tem,
+
+541
+00:41:04,200 --> 00:41:09,200
+da ne dela top shit razvoja. Ostalo smo suport.
+
+542
+00:41:09,200 --> 00:41:17,200
+Zdravi, dejansko ti vidiš IT ali pa tech bolj kot neko…
+
+543
+00:41:17,200 --> 00:41:19,200
+Nismo enebleg.
+
+544
+00:41:19,200 --> 00:41:24,200
+Ja, kot enebleg je. Zdaj, to je tudi neka zanimljena tema,
+
+545
+00:41:24,200 --> 00:41:28,200
+ker danes si vidiš, vse firme so tech firme v nek način.
+
+546
+00:41:28,200 --> 00:41:34,200
+Po soci, tehnologija pomembno vlogo igra. Nekateri firme se tega
+
+547
+00:41:34,200 --> 00:41:39,200
+športo zavedajo, to odnaličajo, temu namenijo odvolj sredstojo,
+
+548
+00:41:39,200 --> 00:41:45,200
+pozornosti, fokusa in debate itd. Druge pa ne in tam imaš
+
+549
+00:41:45,200 --> 00:41:51,200
+veliko problemov. Tako da, mislim, dato boks je sprestavljeno,
+
+550
+00:41:51,200 --> 00:41:55,200
+da se je neka tehnološka firma, kjer je tehnologija v spredu
+
+551
+00:41:55,200 --> 00:42:00,200
+bolj kot verjetno neke ostale podjetja, ampak ja, mislim,
+
+552
+00:42:00,200 --> 00:42:01,200
+da vem, kaj…
+
+553
+00:42:01,200 --> 00:42:04,199
+Se pravi, mi se ukvarjamo na dnevni ravni s tehnologijo,
+
+554
+00:42:04,199 --> 00:42:07,199
+valjda, da želimo delati s stabilne stvari, valjda, da želimo
+
+555
+00:42:07,199 --> 00:42:12,199
+orati neko ledino, ampak nismo pa samo zadovoljni.
+
+556
+00:42:12,199 --> 00:42:15,199
+Ja, mi pa imamo topši rešitelj, tehnološko,
+
+557
+00:42:15,199 --> 00:42:17,199
+in vzorov pa njega imamo.
+
+558
+00:42:17,199 --> 00:42:19,199
+Ja, razumem.
+
+559
+00:42:19,199 --> 00:42:23,199
+Z tega vidi, kaj se misla. Se pravi, da je treba v računico
+
+560
+00:42:23,199 --> 00:42:27,199
+dodati tudi še vzore, ki prenaša, kaki problem rešujemo.
+
+561
+00:42:27,199 --> 00:42:30,199
+Rešujemo vse smisli, v biznis, zato da rešimo nek problem,
+
+562
+00:42:30,199 --> 00:42:33,199
+ne da se imamo samo fajn, če tako rečemo.
+
+563
+00:42:33,199 --> 00:42:37,199
+Mislim, po mojem, imaš inštitucije, kjer delajo ljudje,
+
+564
+00:42:37,199 --> 00:42:41,199
+da se imajo fajn, ker jim je kul raziskovat, ker razvijajo
+
+565
+00:42:41,199 --> 00:42:45,199
+neke nove rešitve, nek prebijajo tam, ne vem, premikajo me,
+
+566
+00:42:45,199 --> 00:42:49,199
+so take firme. Samo jaz nisem takih firmi dobenedelala.
+
+567
+00:42:49,199 --> 00:42:54,199
+No in tu se mi zdi, da moramo, jaz osebno, da moram preprečiti,
+
+568
+00:42:54,199 --> 00:42:59,199
+da ne bomo tužbegi, ne, pa rečemo, ja, ja, oj, ti, ne,
+
+569
+00:42:59,199 --> 00:43:02,199
+pa se točimo k prsi, vsi vstali, pa ste manj vredni, ne,
+
+570
+00:43:02,199 --> 00:43:05,199
+to pa ne meramo, recimo, z tega vidika smo in sada smo enaj bleri.
+
+571
+00:43:08,199 --> 00:43:12,199
+A še zaše eno temu odpremo. To mislim, da smo na LinkedInu
+
+572
+00:43:12,199 --> 00:43:16,199
+izmenjala par komentarjev, moč se motim, ampak
+
+573
+00:43:16,199 --> 00:43:21,199
+Dazabox je podjetje več kot deset let je staro, če se ne motim.
+
+574
+00:43:21,199 --> 00:43:22,199
+Drži.
+
+575
+00:43:22,199 --> 00:43:27,199
+Drži, spravi, to je podjetje, ki je že v tehnološkem smislu
+
+576
+00:43:27,199 --> 00:43:30,199
+akumuliralo nek tehnični dolg, hočeš, ne hočeš, ne.
+
+577
+00:43:30,199 --> 00:43:32,199
+Ne vemo, če ga govori.
+
+578
+00:43:32,199 --> 00:43:39,199
+Da, pa bi vse eno to temo, ker se mi zdi, da v neki, v vsaki resnem
+
+579
+00:43:39,199 --> 00:43:43,199
+produktu, v vsaki resni firmi, ki že predstaja več kot eno leto,
+
+580
+00:43:43,199 --> 00:43:46,199
+dve leti, se akumulira tehnični dolg.
+
+581
+00:43:47,199 --> 00:43:51,199
+Pa me zanima, koliko se okvarjaš v svojem džobu s tem,
+
+582
+00:43:51,199 --> 00:43:55,199
+kako rešuješ ta problema akumuliranja tehničnega dolga,
+
+583
+00:43:55,199 --> 00:43:59,199
+kako ga rešujete, pa kako to vidiš?
+
+584
+00:43:59,199 --> 00:44:01,199
+Mogoče lahko mogoče od temke?
+
+585
+00:44:01,199 --> 00:44:05,199
+Lahko se zanima. Definitivno, da tehnični dolg je.
+
+586
+00:44:05,199 --> 00:44:11,199
+Zdaj mogoče ni tako kritičen, da bi, če se ga ne lotimo
+
+587
+00:44:11,199 --> 00:44:14,199
+v ta trenutek, da bo pa zdaj firma zaprla štacuno,
+
+588
+00:44:14,199 --> 00:44:18,199
+ker marsikdom mogoče je tam hišico iz kart.
+
+589
+00:44:20,199 --> 00:44:25,199
+Mi se tega zavedamo, management se tega zaveda in tudi
+
+590
+00:44:25,199 --> 00:44:30,199
+alocira čas, da te stvari naslovimo. Jaz po drugi strani
+
+591
+00:44:30,199 --> 00:44:36,199
+tukdavno gromam inženirje, da so moji sparing partnerji
+
+592
+00:44:36,199 --> 00:44:40,199
+in da prečakujem od njih, da ko bo prišel z produktne strani
+
+593
+00:44:40,199 --> 00:44:44,199
+nek rekurement, da pa samo te feature je delam, delam, delam,
+
+594
+00:44:44,199 --> 00:44:48,199
+da stopijo, so Gandalfi pa rečejo overmited body,
+
+595
+00:44:48,199 --> 00:44:52,199
+ker moramo najprej to pa to nasloviti, ker večer si delamo
+
+596
+00:44:52,199 --> 00:45:01,199
+stolbi špageta. In da znajo oceniti tudi sami,
+
+597
+00:45:01,199 --> 00:45:05,199
+kdaj je to treba, kdaj ne, na kak način reči ne,
+
+598
+00:45:05,199 --> 00:45:09,199
+na kak način reči ja ali pa ne, zdaj treba to rešiti.
+
+599
+00:45:10,199 --> 00:45:14,199
+Tako da tu mislim, da nam gre kar dobro, namenjamo del časa temu,
+
+600
+00:45:14,199 --> 00:45:18,199
+da naslovljamo, pa počasi eliminiramo ta tehnični dolg.
+
+601
+00:45:19,199 --> 00:45:27,199
+A ga tudi eksplicitno trekate? Malce nek se znam velikega…
+
+602
+00:45:27,199 --> 00:45:31,199
+Imamo, imamo, imamo backloge. Imamo backloge in backlogov.
+
+603
+00:45:31,199 --> 00:45:37,199
+Pa tudi recimo ful sem ponosna na to, da je celi management
+
+604
+00:45:37,199 --> 00:45:41,199
+podprl, vključno za cel to, da smo imeli leto stabilitija.
+
+605
+00:45:41,199 --> 00:45:46,199
+In smo celo leto vsi inženiring timi delali projekte na stabilitijo,
+
+606
+00:45:46,199 --> 00:45:50,199
+kar pomeni odpravljanje tehničnega dolga. Tako bi rekla, da včasih
+
+607
+00:45:50,199 --> 00:45:55,199
+grejo podjetja skozi neke cikle. In mogoče se na začetku ne zavedajo,
+
+608
+00:45:55,199 --> 00:45:59,199
+da je tehnični dolg nekaj te počepuriti, takrat, ko na nje prečakuješ,
+
+609
+00:45:59,199 --> 00:46:03,199
+in potem šiba, šiba, šiba, šiba, šibaš, delaš na nek način
+
+610
+00:46:03,199 --> 00:46:07,199
+sam se pritisk, pa inženiram, ki se overkomitajo, naredijo nekaj,
+
+611
+00:46:07,199 --> 00:46:11,199
+kar pač potem backfire-a. Potem priješ do točke, kogotoviš,
+
+612
+00:46:11,199 --> 00:46:16,199
+da je problem, pade dol in prije reality check, pa mogoče dogre,
+
+613
+00:46:16,199 --> 00:46:20,199
+kak tim razpade, nekaj se zgodi, kaka stranka se zgodi.
+
+614
+00:46:20,199 --> 00:46:26,199
+Potem v firmah, kjer delajo retrospektivo, pa malo refleksije,
+
+615
+00:46:26,199 --> 00:46:31,199
+pa pač pogleda, kaj se naredijo na robe, reče, ok, mogoče pa moramo
+
+616
+00:46:31,199 --> 00:46:35,199
+delati drugače, no, in data bo, ki si šel skozi te neke silosoide.
+
+617
+00:46:35,199 --> 00:46:39,199
+In zdaj smo tu, da vemo, zdaj smo nekaj naredili za stabiliti,
+
+618
+00:46:39,199 --> 00:46:43,199
+zdaj pa sved prihajamo na točku, ko pa bo treba zaradi, ne vem,
+
+619
+00:46:43,199 --> 00:46:48,199
+strateškega pozicioniranja na trgu, pač mogoče spet malo več eforta
+
+620
+00:46:48,199 --> 00:46:52,199
+dati na refičerje, s tem, da se pa zavedamo, kje si delamo mogoče
+
+621
+00:46:52,199 --> 00:46:55,199
+tehničen dolg, pa kaj še nam stane za odpraviti, ne.
+
+622
+00:46:56,199 --> 00:47:00,199
+Zdaj nas čakajo sicer taki eksajting oziroma zanimivi časi,
+
+623
+00:47:00,199 --> 00:47:04,199
+nekega inženiring splita. Malo me je strah, ampak veljsi.
+
+624
+00:47:04,199 --> 00:47:08,199
+To je dobro, to je dobro, naj dodelate nekaj novega, nekaj svežega.
+
+625
+00:47:08,199 --> 00:47:12,199
+Ja, da se spali zagotovo nismo, ne. Bo pa to sigurno prineslo
+
+626
+00:47:12,199 --> 00:47:17,199
+določene nove izzive, ampak to smo inženirali.
+
+627
+00:47:17,199 --> 00:47:22,199
+Nekaj časa nazaj sem imel enega, enega brilliantnega inženirja,
+
+628
+00:47:22,199 --> 00:47:26,199
+ki je pripeljal neko novo tehnologijo, na nekem sešivnem smo se pogovarjali
+
+629
+00:47:26,199 --> 00:47:31,199
+o tej novej tehnologiji. Bil je res ono navdušen, a veš, ki pev je
+
+630
+00:47:31,199 --> 00:47:35,199
+od navdušenja novih tehnologij, o preskurzu je na konferenciji slišal,
+
+631
+00:47:35,199 --> 00:47:40,199
+koliko je to amazing vse. In potem pač je imel nek tak briefing,
+
+632
+00:47:40,199 --> 00:47:45,199
+potem neke slajde smo celo gledali in pa to. In potem je nam to vse razložilo.
+
+633
+00:47:45,199 --> 00:47:50,199
+Potem smo imeli v ekipi pač tega drugega človeka,
+
+634
+00:47:50,199 --> 00:47:57,199
+tega obsavca in to ni bistvo. In on pa reče, ne stari, to ne bo šlo.
+
+635
+00:47:57,199 --> 00:48:03,199
+Zakaj ne, lej to, ne, to treba v produkciji, da ga oblaveš.
+
+636
+00:48:03,199 --> 00:48:09,199
+In pač on, ko posluša, pravi, zdaj vemo, kdo je excitement stopper.
+
+637
+00:48:09,199 --> 00:48:14,199
+Ta človek je dobil ta nickname excitement stopper.
+
+638
+00:48:14,199 --> 00:48:21,199
+Ampak, ko sem potem razmišljal, potem v ekipi rabiš v bistvu oboje.
+
+639
+00:48:21,199 --> 00:48:27,199
+Rabiš nekoga, ki prepeli neke inovacije, svež veter, neke stvari,
+
+640
+00:48:27,199 --> 00:48:32,199
+ki se premika, a veš, cutting edge. Po drugi strani pa rabiš tudi nekoga,
+
+641
+00:48:32,199 --> 00:48:38,199
+ki pač senioriteto uveljavlja in reče, ej fantje, to novost bo potrebov zdržavata.
+
+642
+00:48:38,199 --> 00:48:42,199
+Zdaj, ko boš tišo pustil, pa bo neki narobek dobil to.
+
+643
+00:48:42,199 --> 00:48:46,199
+In rabiš ta balance, to spostaviti.
+
+644
+00:48:46,199 --> 00:48:48,199
+Mogočeš kaj v tem?
+
+645
+00:48:48,199 --> 00:48:50,199
+Ja, jaz s tem moram reči v dva načina delovanja.
+
+646
+00:48:50,199 --> 00:48:53,199
+En je problem solving, en je problem seeking.
+
+647
+00:48:53,199 --> 00:48:55,199
+Problem seeking, ok.
+
+648
+00:48:55,199 --> 00:49:02,199
+In od, recimo, svojih seniorjev in teh ljudov, pričakujem, da znajo preklaplatni tema dvema.
+
+649
+00:49:02,199 --> 00:49:06,199
+Ker včasih, ja, včasih moraš biti problem solver.
+
+650
+00:49:06,199 --> 00:49:10,199
+Zdaj, imaš nek challenge, ki ga moraš rešiti in če tu začneš problem seekati,
+
+651
+00:49:10,199 --> 00:49:16,199
+pa lahko samo vješ v roke in rečiš, da to problem je prevelik kompleks, ne moramo ga rešiti, nič ne moramo.
+
+652
+00:49:16,199 --> 00:49:21,199
+Tu za brainstorming sešnj je fajn, če samo iščeš, iščeš, iščeš, teva dobijo,
+
+653
+00:49:21,199 --> 00:49:25,199
+že se znam, pa mogoče kakve asociacije, pa še koga in voliš zdrav nadušiš,
+
+654
+00:49:25,199 --> 00:49:29,199
+da začnejo mogoče razmišljati out of the box.
+
+655
+00:49:29,199 --> 00:49:33,199
+No, pa prije reality check, pa moraš iti v problem seeking.
+
+656
+00:49:33,199 --> 00:49:39,199
+In ko si najbolj nadušen, pa že misliš, da imaš the solution, povečaš za problem seeking.
+
+657
+00:49:39,199 --> 00:49:42,199
+Rečiš tako, zdaj pa moram najti tri lukne, zakaj jo to ne dela.
+
+658
+00:49:42,199 --> 00:49:46,199
+In to recimo je tudi nek challenge, zagrumati ljudi,
+
+659
+00:49:46,199 --> 00:49:52,199
+da vejo, kdaj ne zalih ubiti entuzjazme, kaj to ubija inovacije.
+
+660
+00:49:52,199 --> 00:49:55,199
+Zadošljite, pa si misli, gleda kako me je zabil.
+
+661
+00:49:55,199 --> 00:49:57,199
+Zdaj nič spohna, več nič predlaga.
+
+662
+00:49:57,199 --> 00:49:59,199
+Pa postanejo mogoče demotivirani.
+
+663
+00:50:00,000 --> 00:50:08,640
+morajo tudi sami vedeti, da ni vse samo hype, pa cutting-edge tehnologija in da še marsi kaj je zadaj, je to tudi za njih nekaj learning experience, no.
+
+664
+00:50:08,640 --> 00:50:15,920
+V je trenutek za eno, pa je trenutek za tisto. Oboje skupaj s tem dogodkom načelo va njih fajnja. Tako jaz pa če gledam stari.
+
+665
+00:50:15,920 --> 00:50:27,200
+Ok, no dobro, zdaj SD kartice sem jim spet izstekla. Zdaj, če želiš še k samo kaj povedati publiki, jaz to je trenutek.
+
+666
+00:50:28,160 --> 00:50:37,759
+Ja, jaz bi rekla, budite vredni svojega imena in profesije in sodelujte z ototom in pridite k njemu na podcast.
+
+667
+00:50:37,759 --> 00:50:45,759
+Najreč, hvala. Hvala, Mateja, še enkrat za tvoj čas in bilo uspeka pri lončenju tega tehnološkega parka.
+
+668
+00:50:45,759 --> 00:50:53,759
+Pa poslušalce vabim, da dajo kakšen feedback, da bomo lahko še naprej izboljšali ta format in podcast. Hvala lepa.
+
+669
+00:50:53,759 --> 00:50:55,759
+Hvala tega.

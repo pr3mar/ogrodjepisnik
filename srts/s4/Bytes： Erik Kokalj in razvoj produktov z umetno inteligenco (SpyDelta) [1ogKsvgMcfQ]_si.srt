@@ -1,0 +1,2067 @@
+1
+00:00:00,000 --> 00:00:04,920
+Nič, lepo zdravo Erik v eni novej epizodi Ogrodja,
+
+2
+00:00:05,120 --> 00:00:07,680
+specialno o bajcih. To so naše epizode,
+
+3
+00:00:07,880 --> 00:00:11,960
+ki so kratke in učinkovite in z eno temo.
+
+4
+00:00:12,160 --> 00:00:16,120
+Jaz te pozdravim še enkrat v Ogrodju.
+
+5
+00:00:16,320 --> 00:00:19,000
+Zdaj, ta epizoda je nekako naša
+
+6
+00:00:19,200 --> 00:00:22,600
+najbolj še lepša odločenja,
+
+7
+00:00:22,799 --> 00:00:25,840
+da se dobročaruje naša glasba,
+
+8
+00:00:26,040 --> 00:00:29,160
+zato, da se naša glasba lahko počne
+
+9
+00:00:29,160 --> 00:00:32,959
+in ta epizoda je nekako mišljena kot neka epizoda,
+
+10
+00:00:33,160 --> 00:00:36,720
+ki jo bomo lančeli v sklopo naše potpore Slovenija.ai.meetup-a,
+
+11
+00:00:36,919 --> 00:00:41,520
+kjer boš danes za tem najnim pogovorom šel tudi predavati.
+
+12
+00:00:41,720 --> 00:00:45,840
+In jaz sem pred parimi tedni
+
+13
+00:00:46,040 --> 00:00:49,279
+na skupini Slovenski developer je zasledil
+
+14
+00:00:49,480 --> 00:00:52,560
+tvoj produkt SpyDelta
+
+15
+00:00:52,759 --> 00:00:56,320
+in sem videl, da si se odločil,
+
+16
+00:00:56,480 --> 00:00:59,959
+da što zadelal ogradil v javnosti.
+
+17
+00:01:00,160 --> 00:01:03,400
+In kaj boljše kot te povabiti, da pač v javnosti povedaš,
+
+18
+00:01:03,599 --> 00:01:06,279
+kaj boš zadevo razvil.
+
+19
+00:01:06,480 --> 00:01:10,559
+Predstavlj sem na hitro povej, kdo si,
+
+20
+00:01:10,760 --> 00:01:13,559
+pa bomo vršli malo globoko v, kaj delaš.
+
+21
+00:01:13,760 --> 00:01:17,279
+Jaz sem Erik, po izobrazbi elektrotehnik,
+
+22
+00:01:17,480 --> 00:01:20,480
+elektronik, zdaj zadnjih par let
+
+23
+00:01:20,680 --> 00:01:24,480
+profesionalno programeram in zadnjih šter meseca
+
+24
+00:01:24,680 --> 00:01:26,440
+delam na temu projektu SpyDelta.
+
+25
+00:01:26,639 --> 00:01:27,839
+Šter mesec razvijaš to?
+
+26
+00:01:28,040 --> 00:01:31,559
+Tako je, od božične počitnice.
+
+27
+00:01:31,760 --> 00:01:32,800
+OK.
+
+28
+00:01:33,000 --> 00:01:36,599
+Za naslov tvojega današnjega
+
+29
+00:01:36,800 --> 00:01:40,599
+predavanja, pa pot tudi kot si taj svoj post napisal je
+
+30
+00:01:40,800 --> 00:01:44,480
+konkurenčno, produkt za konkurenčno obveščanje.
+
+31
+00:01:44,680 --> 00:01:45,919
+OK.
+
+32
+00:01:46,120 --> 00:01:47,239
+Competitive analysis.
+
+33
+00:01:47,440 --> 00:01:50,919
+Competitive analysis, slovenski prevod.
+
+34
+00:01:51,120 --> 00:01:53,320
+Objavil si link do product hunta,
+
+35
+00:01:53,360 --> 00:01:55,800
+to je reka spledna stran, kjer zlistaš svoje
+
+36
+00:01:56,000 --> 00:01:58,919
+produkte in potem ljudje dajo
+
+37
+00:01:59,120 --> 00:02:02,000
+rankinge in je potem iščejo najbolj inovativne
+
+38
+00:02:02,199 --> 00:02:05,800
+produkte. In tudi sem videl, sem šel to zadevo pogledat,
+
+39
+00:02:06,000 --> 00:02:08,559
+pogledal sem neke komentarje od spodaj
+
+40
+00:02:08,759 --> 00:02:13,039
+in potem sem rekel, OK, to moram, moram probati.
+
+41
+00:02:13,240 --> 00:02:15,600
+No in potem
+
+42
+00:02:15,800 --> 00:02:19,039
+sem pozabil na to, da kobar z njim stali
+
+43
+00:02:19,240 --> 00:02:22,559
+in potem smo se dogovorila, da bomo imeli tole
+
+44
+00:02:22,800 --> 00:02:25,520
+današnji pogovor in jaz spišem in rečem,
+
+45
+00:02:25,720 --> 00:02:29,960
+ej, Erik, daj mi nek demo dostop, da to zadevo poskusim.
+
+46
+00:02:30,160 --> 00:02:33,320
+In ti praviš me, ej, vse sploh ni UI, no, benega.
+
+47
+00:02:33,520 --> 00:02:34,839
+Sam mail, ja.
+
+48
+00:02:35,039 --> 00:02:38,000
+No in tvoj produkt v tej fazi,
+
+49
+00:02:38,199 --> 00:02:42,440
+trenutno, ko se zdaj pogovarjamo, zgleda tako, da greš na to spledno stran,
+
+50
+00:02:42,639 --> 00:02:45,039
+opišeš noter svoj e-mail,
+
+51
+00:02:45,240 --> 00:02:48,720
+pa opišeš noter spledno stran,
+
+52
+00:02:48,919 --> 00:02:55,039
+v kateri bi rad delal konkurenčno analiza o konkurenčno veščenje.
+
+53
+00:02:55,240 --> 00:02:57,880
+Tako je. To so dva inputa in potem počakaš,
+
+54
+00:02:58,080 --> 00:03:02,639
+čez par minut dobiš na mail report, jaz sem se ga tukaj le sprintal,
+
+55
+00:03:02,839 --> 00:03:06,880
+in je noter zelo presenetljiva
+
+56
+00:03:07,080 --> 00:03:10,320
+analiza konkurence. Zdaj,
+
+57
+00:03:10,520 --> 00:03:13,600
+ne moram ravno povejati, kero podjetje sem dal noter,
+
+58
+00:03:13,800 --> 00:03:16,880
+ampak je podjetje, za katere delam
+
+59
+00:03:17,039 --> 00:03:21,199
+in je to pač nekaj Fortune 100 podjetje in sem jim vprašal pač,
+
+60
+00:03:21,399 --> 00:03:25,559
+sem to dal noter in mi je napisal, v lani so je dvignala cena,
+
+61
+00:03:25,759 --> 00:03:29,880
+produkti, ki so bili launčani, produkti, ki so bili okinjeni,
+
+62
+00:03:30,080 --> 00:03:34,919
+noter je našel, da neke povezave je omenil,
+
+63
+00:03:35,119 --> 00:03:38,520
+poglel, da so stokholderji, ful veseli, v glavnem tak,
+
+64
+00:03:38,720 --> 00:03:42,880
+bi sem res ono presenečen, wow, tu pa se res nekaj dogaja.
+
+65
+00:03:43,880 --> 00:03:49,119
+Pač one pager, en A4 list in sem zelo presenečeno.
+
+66
+00:03:49,320 --> 00:03:52,399
+Sicer sem zdaj, preden smo danes tole pogovor začelo snemati,
+
+67
+00:03:52,600 --> 00:03:56,119
+sem šel še enkrat probati, pa ni več zelo,
+
+68
+00:03:56,320 --> 00:03:59,759
+tako da očitno sem pokuril ta free tier.
+
+69
+00:03:59,960 --> 00:04:03,639
+Ja, za NMI je lahko samo eno domeno,
+
+70
+00:04:03,839 --> 00:04:07,320
+v prihodnosti ja planiram integracijo Stripe z paid customer
+
+71
+00:04:07,520 --> 00:04:11,000
+in nekakaj freemium model, tako da boš lahko
+
+72
+00:04:11,240 --> 00:04:16,160
+monitoriral več različnih domen, več različnih konkonentov.
+
+73
+00:04:16,359 --> 00:04:19,399
+A lahko malo, najprej preden gremo o samo rešitev,
+
+74
+00:04:19,600 --> 00:04:24,079
+a lahko mogoče malo, kako si prišel do tega problema?
+
+75
+00:04:24,279 --> 00:04:29,399
+Je to tvoj vsebni perk ali kaj se ti zanima?
+
+76
+00:04:29,600 --> 00:04:33,600
+Se pravi, pri prejšnji firmi sem v bistvu sprobil
+
+77
+00:04:33,799 --> 00:04:36,839
+par teh toolov, ki se že obstajajo
+
+78
+00:04:37,040 --> 00:04:40,320
+in sem videl, da vsi so ali so enterprise grade,
+
+79
+00:04:40,320 --> 00:04:44,600
+se pravi, tako kot RCS, kar jaz sem oče pogledal z njimi,
+
+80
+00:04:44,799 --> 00:04:49,239
+ali pa so v bistvu tehnološko naredili dost neoptimalno,
+
+81
+00:04:49,440 --> 00:04:53,880
+recimo en dela screenshota in potem primerja screenshota.
+
+82
+00:04:54,079 --> 00:04:57,160
+Veden sem mislil, maj, jaz lahko v dveh tednih naredim boljši produkt
+
+83
+00:04:57,359 --> 00:05:00,959
+z AI-jo in da mi v bistvu samo
+
+84
+00:05:01,160 --> 00:05:03,239
+uporabne stvari pošla na mail.
+
+85
+00:05:03,440 --> 00:05:05,880
+Ne, recimo, če imaš ti header video,
+
+86
+00:05:06,079 --> 00:05:09,920
+ti bo tist produkt, ki je na podlagi screenshotov,
+
+87
+00:05:10,119 --> 00:05:13,559
+ti bo poslov, nekaj se je spremunil, pa bo v bistvu samo drug frame
+
+88
+00:05:13,760 --> 00:05:17,760
+na video, kar ni nebolj optimalno.
+
+89
+00:05:18,959 --> 00:05:22,320
+Zdaj, tam, ko si objavljal na slušnjskem tvelu
+
+90
+00:05:22,519 --> 00:05:25,160
+ta blog post, ki sem ga prej omenil,
+
+91
+00:05:25,359 --> 00:05:29,160
+je ena skica narisana, jaz sem si jo previsel,
+
+92
+00:05:29,359 --> 00:05:32,239
+da imamo tako architektural overview,
+
+93
+00:05:32,440 --> 00:05:35,720
+ampak dej nam se in ti razlož,
+
+94
+00:05:35,920 --> 00:05:39,359
+kako približno so te komponente, ki se stavljajo v ta sistem.
+
+95
+00:05:39,600 --> 00:05:43,600
+Jaz to zdaj tretiram, da to ni full secret,
+
+96
+00:05:43,799 --> 00:05:46,880
+gleda na to, da si napisal, pa me zanima, če nam lahko malo urišiš,
+
+97
+00:05:47,079 --> 00:05:50,480
+kaj so tako glavne komponente tega sistema, recimo produkta.
+
+98
+00:05:50,679 --> 00:05:53,359
+Ja, objavil sem sliko celotnega
+
+99
+00:05:53,559 --> 00:05:56,600
+bizniste, kar se pravi tako tehnično kot tudi ne vem kaj uporabljam
+
+100
+00:05:56,799 --> 00:05:59,559
+za email hosting. Čisto tako, da sem
+
+101
+00:05:59,760 --> 00:06:03,480
+opisal celotni strošek s temu projektom,
+
+102
+00:06:03,679 --> 00:06:06,959
+ker recimo za email hosting
+
+103
+00:06:07,160 --> 00:06:09,799
+sem porabil Zoho, ker je zaston do pet
+
+104
+00:06:10,000 --> 00:06:12,519
+juzerov. Kaj sem hodil, sem pokazal, da lahko
+
+105
+00:06:12,720 --> 00:06:15,720
+že štartaš iz deset dolarjev na mesec,
+
+106
+00:06:15,920 --> 00:06:19,000
+imaš lahko že nek projekt live.
+
+107
+00:06:19,200 --> 00:06:22,160
+Se pravi, imamo Cloudflare, sem videl,
+
+108
+00:06:22,359 --> 00:06:25,200
+imamo noter, mislim, da si JavaScript
+
+109
+00:06:25,399 --> 00:06:28,000
+worker je uporabljal za danesko hosting,
+
+110
+00:06:28,200 --> 00:06:29,720
+to nisem čisto prepričan.
+
+111
+00:06:29,920 --> 00:06:32,559
+Ja, tako je, se pravi, Cloudflare sem uporabljal za
+
+112
+00:06:32,760 --> 00:06:36,760
+backend, za sign-up in pa za landing page.
+
+113
+00:06:36,959 --> 00:06:40,320
+To sem posebej imam pa pal hitsner server,
+
+114
+00:06:40,519 --> 00:06:43,679
+ki je pa gor na alfadejansko skreping pa analisis.
+
+115
+00:06:43,880 --> 00:06:47,720
+In ta, se pravi,
+
+116
+00:06:47,920 --> 00:06:50,720
+backend je na hetsnerju, videl sem, da je to neka
+
+117
+00:06:50,920 --> 00:06:53,359
+instanca, to je ne vem, pet dolarjev ali kaj košta.
+
+118
+00:06:53,559 --> 00:06:57,760
+Tako je, ne znam kaj se da.
+
+119
+00:06:57,959 --> 00:07:01,079
+Potem pa v tem flowu
+
+120
+00:07:01,279 --> 00:07:04,480
+cel ta core AI logic
+
+121
+00:07:04,640 --> 00:07:08,839
+je pol nekako razdeljen na ta skrepanje,
+
+122
+00:07:09,040 --> 00:07:11,640
+se pravi nek data collection, pa pol tolmačenje
+
+123
+00:07:11,839 --> 00:07:14,760
+teh rezultatov, si dobro predstavljam pravilno, ne?
+
+124
+00:07:14,959 --> 00:07:18,079
+Ja, ja, ljudemo se uporablja
+
+125
+00:07:18,279 --> 00:07:20,559
+na večjih workflowjih.
+
+126
+00:07:20,760 --> 00:07:23,320
+Se pravi, najprej, kako to deluje, se pravi,
+
+127
+00:07:23,519 --> 00:07:26,359
+pa skrepa website večkrat, imaš različne
+
+128
+00:07:26,559 --> 00:07:29,880
+snapshote in potem gleda kaj se zdaj spremenilo
+
+129
+00:07:30,079 --> 00:07:32,559
+v zadnjem enem mesecu recimo in potem gleda
+
+130
+00:07:32,760 --> 00:07:35,760
+diff od Markdowna
+
+131
+00:07:35,959 --> 00:07:39,279
+in potem uporablja LLM za insight extraction.
+
+132
+00:07:39,480 --> 00:07:42,720
+Recimo, če se je sam n-section
+
+133
+00:07:42,920 --> 00:07:45,679
+na spetni strani šel iz
+
+134
+00:07:45,880 --> 00:07:48,440
+zgori od top of the page na bottom of the page, ni
+
+135
+00:07:48,640 --> 00:07:51,079
+tako uporabno, kako je recimo, če
+
+136
+00:07:51,279 --> 00:07:53,600
+podjetje lunčalo nek nov feature
+
+137
+00:07:53,799 --> 00:07:56,000
+ali pa nov produkt ali pa se je pricing zamenil.
+
+138
+00:07:56,200 --> 00:07:58,799
+Tako da en aspekt tega je za
+
+139
+00:07:59,000 --> 00:08:01,519
+insight extraction iz tega
+
+140
+00:08:01,679 --> 00:08:03,079
+diffa na web page.
+
+141
+00:08:03,279 --> 00:08:05,880
+Se pravi, pa tudi
+
+142
+00:08:06,079 --> 00:08:09,000
+ti obiskoješ trenutno spletno stran,
+
+143
+00:08:09,200 --> 00:08:11,760
+pa sem videl, da v tisti tvoji skici je narisano, da greš
+
+144
+00:08:11,959 --> 00:08:13,440
+tudi na web arhiv.
+
+145
+00:08:13,640 --> 00:08:16,640
+Ja, to pa v bistvu uporabljam
+
+146
+00:08:16,839 --> 00:08:19,760
+zdaj trenutno, če se sign upaš,
+
+147
+00:08:19,959 --> 00:08:23,160
+bo šel pogledati najprej na arhiv,
+
+148
+00:08:23,359 --> 00:08:26,640
+da dobi spletno stran, kako je izgledala en let nazaj.
+
+149
+00:08:26,839 --> 00:08:29,440
+Se pravi, ti boš direkt ob sign upu, boš dobil report,
+
+150
+00:08:29,679 --> 00:08:32,440
+kako se je za en let, kaj se je v zadnjih
+
+151
+00:08:32,640 --> 00:08:35,039
+12 mesecih spremanil na tej spletni strani.
+
+152
+00:08:35,239 --> 00:08:37,960
+Pogledu bo, se pravi, landing page,
+
+153
+00:08:38,159 --> 00:08:39,880
+kakšen je bil prej, kakšen je zdaj.
+
+154
+00:08:40,080 --> 00:08:42,679
+Pogledu bo potem linke, kateri linki so
+
+155
+00:08:42,880 --> 00:08:45,200
+bili prej, se pravi linka ni iz landing page,
+
+156
+00:08:45,400 --> 00:08:47,599
+ampak kateri so zdaj in potem bo na podlagi tega
+
+157
+00:08:47,799 --> 00:08:50,200
+tudi se odločilo, kaj, katere, katere
+
+158
+00:08:50,400 --> 00:08:52,919
+sajte hočem zdaj pokroljati,
+
+159
+00:08:53,119 --> 00:08:56,080
+ki znajo imeti neko uporabno
+
+160
+00:08:56,280 --> 00:08:57,760
+business insight.
+
+161
+00:08:57,880 --> 00:09:00,799
+To, ko si zdaj opisal, cel ta
+
+162
+00:09:01,000 --> 00:09:03,440
+rečme zahteve, je to izraženo
+
+163
+00:09:03,640 --> 00:09:06,559
+preko nekega programiranega flova?
+
+164
+00:09:06,760 --> 00:09:09,159
+Ali je to prompt?
+
+165
+00:09:09,359 --> 00:09:11,119
+Ali je kombinacija?
+
+166
+00:09:11,320 --> 00:09:14,080
+Ker se mi zdi, da je neka krneka kompleksna logika.
+
+167
+00:09:14,280 --> 00:09:16,719
+No, je tako, tako. Se pravi, vedno bomo najprej
+
+168
+00:09:16,919 --> 00:09:19,239
+probili dobiti landing page
+
+169
+00:09:19,440 --> 00:09:21,719
+od 12 mesecev nazaj, potem bomo pa pogledali,
+
+170
+00:09:21,919 --> 00:09:24,200
+katere so spremembe, katere
+
+171
+00:09:24,400 --> 00:09:26,599
+so recimo nove, novi sajti
+
+172
+00:09:26,760 --> 00:09:29,760
+ali pa pejži ali pa odstranjeni pejži.
+
+173
+00:09:29,960 --> 00:09:32,679
+Potem bo uporabo LLM, da bo
+
+174
+00:09:32,880 --> 00:09:35,080
+on se samo odločil, okej, kateri so zdaj sajti, ki
+
+175
+00:09:35,280 --> 00:09:36,520
+idealno hočem pogledati.
+
+176
+00:09:36,719 --> 00:09:39,080
+Ih bo šlo pogledati, jih bo samorajzil in potem
+
+177
+00:09:39,280 --> 00:09:41,400
+bo še na koncu naredil en summarization,
+
+178
+00:09:41,599 --> 00:09:43,919
+da bo dobil samo en simple report v
+
+179
+00:09:44,119 --> 00:09:46,760
+enem A4 formatu, deset bullet pointov,
+
+180
+00:09:46,960 --> 00:09:49,440
+samo najbolj pomembnih stvari, kaj se je spremenil.
+
+181
+00:09:49,640 --> 00:09:51,960
+Odlično, odlično.
+
+182
+00:09:52,159 --> 00:09:54,400
+Ko pošlaš mail, sem videl, da je v futru
+
+183
+00:09:54,599 --> 00:09:57,000
+maila, je tudi povezava do,
+
+184
+00:09:57,200 --> 00:10:00,200
+kako že piše, prompt, that was used to generate.
+
+185
+00:10:00,400 --> 00:10:02,320
+Ja, full prompt.
+
+186
+00:10:02,520 --> 00:10:05,359
+In klikneš in ti potem dejansko napiše,
+
+187
+00:10:05,559 --> 00:10:08,080
+kakšen je bil ta prompt,
+
+188
+00:10:08,280 --> 00:10:11,400
+s katerim je dejansko bilo poročilo, ki ga vidiš
+
+189
+00:10:11,599 --> 00:10:13,799
+naredil. To se mi je zdaj tako zelo
+
+190
+00:10:14,000 --> 00:10:16,520
+tehničen detalj, ampak zelo tako, wow,
+
+191
+00:10:16,719 --> 00:10:19,400
+to je očitno sprocesirano.
+
+192
+00:10:19,599 --> 00:10:22,000
+Eto je zdaj ta prompt engineering, kako
+
+193
+00:10:22,200 --> 00:10:24,479
+narediti čim boljši system prompt,
+
+194
+00:10:24,679 --> 00:10:26,960
+da dobiš dejansko samo uporabne stvari.
+
+195
+00:10:27,159 --> 00:10:29,919
+In zdaj, a imam zdaj jaz najboljši system prompt ali ne,
+
+196
+00:10:30,119 --> 00:10:33,239
+mogoče bo kdo v pogrunku pišel nekaj boljšega in potem
+
+197
+00:10:33,440 --> 00:10:35,679
+mogoče povedal, ej, mogoče da uporab to, ali pa jaz
+
+198
+00:10:35,880 --> 00:10:38,119
+sem uporabil to, da dobim boljši
+
+199
+00:10:38,320 --> 00:10:40,119
+report na koncu. Plus dodati
+
+200
+00:10:40,320 --> 00:10:42,840
+še kakšne dodatne informacije, ki jih lahko
+
+201
+00:10:43,039 --> 00:10:44,400
+vidiš.
+
+202
+00:10:44,599 --> 00:10:47,080
+Pri tem summarization
+
+203
+00:10:47,280 --> 00:10:49,159
+koraku, zdaj spet,
+
+204
+00:10:49,359 --> 00:10:51,719
+jaz bom spet govoril, vem, da je težko si to predstavlja,
+
+205
+00:10:51,719 --> 00:10:54,320
+če nas poslušajte vizualno
+
+206
+00:10:54,520 --> 00:10:56,679
+kot podcast, tako da bom jaz dal link do tega spode,
+
+207
+00:10:56,880 --> 00:10:58,479
+da lahko ljudje vidijo to skicilo.
+
+208
+00:10:58,679 --> 00:11:01,440
+Ni tako dramatično, kot se mogoče zliži,
+
+209
+00:11:01,640 --> 00:11:04,640
+ampak ta ta zadnji korak, summarization,
+
+210
+00:11:04,840 --> 00:11:07,159
+tam pa je napisano, da imaš
+
+211
+00:11:07,359 --> 00:11:10,039
+4GPT 4.0
+
+212
+00:11:10,239 --> 00:11:12,440
+pa onega, kaj je že,
+
+213
+00:11:12,640 --> 00:11:14,919
+saj so vsi napisali. Gemini. Gemini, ja.
+
+214
+00:11:15,119 --> 00:11:17,799
+Zdaj, kaj pa uporabljaš oba za isti task,
+
+215
+00:11:18,000 --> 00:11:19,719
+ali se dopolnjuje, ali kakšne različnosti?
+
+216
+00:11:19,719 --> 00:11:21,719
+Zdaj, v bistvu, odvisno od workflowa, se pravi,
+
+217
+00:11:21,919 --> 00:11:24,119
+sanj za summarization uporabljam enega, ampak recimo,
+
+218
+00:11:24,320 --> 00:11:26,719
+če imaš pa summarization od neke
+
+219
+00:11:26,919 --> 00:11:28,760
+spletne, od neke strani,
+
+220
+00:11:28,960 --> 00:11:32,359
+pa uporabljam kakšnega drugega, ker mogoče ne rabiš tako dobro logiko.
+
+221
+00:11:32,559 --> 00:11:35,960
+Zdaj v bistvu, na zadnjo iteracijo bi se uporabljala mojena,
+
+222
+00:11:36,159 --> 00:11:39,400
+mogoče kaj boljši, mogoče ne, za končen summarization.
+
+223
+00:11:39,599 --> 00:11:42,960
+Ampak če ti sanj dobiš, potem, ko poskrepam
+
+224
+00:11:43,159 --> 00:11:45,520
+neko stran, sanj, da dobim dva stavka,
+
+225
+00:11:45,719 --> 00:11:48,320
+v čem se spod ta stran gre, pa lahko uporabljam tudi
+
+226
+00:11:48,320 --> 00:11:50,320
+od 4.0 ali pa 4.0 mini.
+
+227
+00:11:50,520 --> 00:11:52,320
+OK.
+
+228
+00:11:52,520 --> 00:11:55,119
+To, kar si zdaj uporabljal, zdaj obstaja ta
+
+229
+00:11:55,320 --> 00:11:57,919
+lang chain, pa Lama index,
+
+230
+00:11:58,119 --> 00:12:00,520
+ko so neki frameworki, da lažje te flove narediš,
+
+231
+00:12:00,719 --> 00:12:03,320
+ampak uporabljaš kaj od tega ali si to še bolj...
+
+232
+00:12:03,520 --> 00:12:05,320
+Ne, v bistvu ne.
+
+233
+00:12:05,520 --> 00:12:08,119
+Za moj specifičen use case ni bilo toliko relevantno,
+
+234
+00:12:08,320 --> 00:12:10,919
+tako da nič od tega nisem uporabljal.
+
+235
+00:12:11,119 --> 00:12:14,119
+Posem je ful ponostavljan. Zdaj njihovejče vprašanja.
+
+236
+00:12:14,320 --> 00:12:18,119
+Ne, tukaj je še ena komponenta,
+
+237
+00:12:18,320 --> 00:12:21,119
+ki se je tudi ti umenil,
+
+238
+00:12:21,320 --> 00:12:23,320
+sicer ta browser use.
+
+239
+00:12:23,520 --> 00:12:26,520
+To je ena komponenta, ki je razvil
+
+240
+00:12:26,719 --> 00:12:31,119
+en slovensko-švicarski kombo,
+
+241
+00:12:31,320 --> 00:12:34,119
+iza katerega ste tudi
+
+242
+00:12:34,320 --> 00:12:37,320
+zdaj na Y Combinatorju
+
+243
+00:12:37,520 --> 00:12:40,520
+rezali, mislim, da 17 milijonov dolarjev investicije.
+
+244
+00:12:40,719 --> 00:12:43,119
+Tako da, Gregor, če poslušaš,
+
+245
+00:12:43,320 --> 00:12:46,119
+upam, da se še... OK, tudi mi slišimo.
+
+246
+00:12:46,119 --> 00:12:49,919
+Tako da vidim, da uporabljaš tudi ta browser use.
+
+247
+00:12:50,119 --> 00:12:52,919
+Zdaj bi te pa prosil, da nam ti mogoče
+
+248
+00:12:53,119 --> 00:12:55,919
+s svojimi besedami predstaviš, kaj je ta browser use,
+
+249
+00:12:56,119 --> 00:12:58,919
+ker vidim, da je vedno bolj pomemben
+
+250
+00:12:59,119 --> 00:13:01,919
+za take produkte, kot je tvoj.
+
+251
+00:13:02,119 --> 00:13:03,919
+Zdaj pa prosim, če nam ti poveš, kaj je to browser use.
+
+252
+00:13:04,119 --> 00:13:05,919
+Ja, v bistvu je tool, oziroma platforma,
+
+253
+00:13:06,119 --> 00:13:08,919
+ki ti pomaga narediti web-agenta.
+
+254
+00:13:09,119 --> 00:13:13,919
+In je specifično uporabljan kot fallback opcijo,
+
+255
+00:13:13,919 --> 00:13:17,719
+kako dobiti, kako prideti od neke domene,
+
+256
+00:13:17,919 --> 00:13:21,719
+kako prideti na, kateri so otprti, se pravi, open positions.
+
+257
+00:13:21,919 --> 00:13:23,719
+Jobi, ki jih trenutno ponujejo.
+
+258
+00:13:23,919 --> 00:13:27,719
+Najprej pač sam probam, če je neka domena slash careers,
+
+259
+00:13:27,919 --> 00:13:31,719
+če je žitem, ampak daj pak, da imajo pa
+
+260
+00:13:31,919 --> 00:13:34,719
+otprte pozicije recimo na about us.
+
+261
+00:13:34,919 --> 00:13:37,719
+Tako da najprej to probam, če je nekaj od tega,
+
+262
+00:13:37,919 --> 00:13:39,719
+če pa ne, pa uporabljam browser use,
+
+263
+00:13:39,919 --> 00:13:42,719
+da v bistvu avtonomno se navigira po spletni strani,
+
+264
+00:13:42,719 --> 00:13:47,520
+da proba najde, kje je ta lista, katere imajo otprte džobe.
+
+265
+00:13:47,719 --> 00:13:51,520
+Kaj v bistvu je dober indikator za nek business insight.
+
+266
+00:13:51,719 --> 00:13:54,520
+Recimo, če je bila neka otprta pozicija že šest mesecev,
+
+267
+00:13:54,719 --> 00:13:57,520
+pa se zdaj zaprl, to je mogoče neki pomen.
+
+268
+00:13:57,719 --> 00:14:00,520
+Ali pa, če so dal neko novo pozicijo ven
+
+269
+00:14:00,719 --> 00:14:03,520
+za nekega specifičnega inženirja, nek rola,
+
+270
+00:14:03,719 --> 00:14:06,520
+mogoče to pomen, da bodo zdaj se fokusirali
+
+271
+00:14:06,719 --> 00:14:08,520
+na neko drugo vertikalo.
+
+272
+00:14:08,719 --> 00:14:10,520
+Odličen insight, ok.
+
+273
+00:14:11,320 --> 00:14:14,320
+Zdaj, poznam Playwright, pa poznam Selenium.
+
+274
+00:14:14,520 --> 00:14:18,320
+Selenium je načeloma nek tak standard,
+
+275
+00:14:18,520 --> 00:14:22,320
+pa vse to rodi, s katerim ti avtomatiziraš browser.
+
+276
+00:14:22,520 --> 00:14:27,320
+Primarno mišljeno za testing, ampak je tudi zelo uporabljeno za scraping.
+
+277
+00:14:27,520 --> 00:14:30,320
+Playwright je tudi neka sodobna različica tega.
+
+278
+00:14:30,520 --> 00:14:36,320
+A ta browser use potem uporablja kaj od tega,
+
+279
+00:14:36,520 --> 00:14:40,320
+ali dejansko odpre novo brskalnik, pa ga potem manipulira kot user?
+
+280
+00:14:40,520 --> 00:14:44,320
+Če se na modem uporablja Playwright, pod njem, ja.
+
+281
+00:14:44,520 --> 00:14:47,320
+Tako da dejansko pol browser ukrmili vzadi, ali kaj?
+
+282
+00:14:47,520 --> 00:14:51,320
+Tako, ja. Potem imaš LLM oziroma large vision model,
+
+283
+00:14:51,520 --> 00:14:54,320
+uporablja potem za avtonomno navigiranje.
+
+284
+00:14:54,520 --> 00:14:56,320
+Gledaj na prompt, ko mu ga daš.
+
+285
+00:14:56,520 --> 00:15:01,320
+Se pravi, on pol dejansko sliko oziroma nek video
+
+286
+00:15:01,520 --> 00:15:04,320
+uporablja, da navigira kje, ne?
+
+287
+00:15:04,520 --> 00:15:07,320
+Ni, da bi on zahrtemeli parsov pa doma, ali kaj?
+
+288
+00:15:07,320 --> 00:15:10,119
+Imaš dva molda.
+
+289
+00:15:10,320 --> 00:15:12,119
+Mislim, imaš dva molda.
+
+290
+00:15:12,320 --> 00:15:15,119
+Dost bolje akurat, če uporabljaš...
+
+291
+00:15:15,320 --> 00:15:18,119
+Gledaj na screenshot, se pravi, naredi screenshot pejža.
+
+292
+00:15:18,320 --> 00:15:21,119
+Neki prejšen uporablja JavaScript execution,
+
+293
+00:15:21,320 --> 00:15:25,119
+da v bistvu nariše bounding boxe opol inputov.
+
+294
+00:15:25,320 --> 00:15:29,119
+Potem na podlagi tega uporablja large vision model,
+
+295
+00:15:29,320 --> 00:15:33,119
+da mu določi, kaj kliknem oziroma kako naprej.
+
+296
+00:15:33,320 --> 00:15:36,119
+Kaj ne kliknem na te spletne strani,
+
+297
+00:15:36,119 --> 00:15:38,919
+da bom lahko končal ta test, ki mi ga je dal.
+
+298
+00:15:39,119 --> 00:15:43,919
+To pomeni, da potem v tem stacku, ki si ga opisal,
+
+299
+00:15:44,119 --> 00:15:48,919
+to pomeni, da ti imaš Preset instanco,
+
+300
+00:15:49,119 --> 00:15:53,919
+ali uporabljaš to hosted, ali kaj je to flow?
+
+301
+00:15:54,119 --> 00:15:55,919
+Preset uporablja instanca.
+
+302
+00:15:56,119 --> 00:15:59,919
+Je open source projekt, tako da lahko sam radaš.
+
+303
+00:16:00,119 --> 00:16:02,919
+Da podvigneš nekdo kar kontejner in tam teče?
+
+304
+00:16:03,119 --> 00:16:04,919
+Ne, kar direct.
+
+305
+00:16:05,919 --> 00:16:08,719
+To je tudi bilo prejšeno stavno vprašanje.
+
+306
+00:16:10,919 --> 00:16:14,719
+Daj mi malko povej, kaj si se navčil pri razvoju tega?
+
+307
+00:16:14,919 --> 00:16:17,719
+Dosta enih challenge-ov je bilo v mesi.
+
+308
+00:16:17,919 --> 00:16:22,719
+Od scrapinga, kaj potem razni cloud flare in protection
+
+309
+00:16:22,919 --> 00:16:29,719
+in v nula ti ogotovi, da je to automated browser in te obloka.
+
+310
+00:16:29,919 --> 00:16:34,719
+Tukaj je rešitev, da uporabljaš kakšen undetected,
+
+311
+00:16:34,919 --> 00:16:39,719
+krom browser, ki ti zakrinkate vse te signale, da je v bistvu automated.
+
+312
+00:16:39,919 --> 00:16:42,719
+To je ena, pa seveda proxy.
+
+313
+00:16:42,919 --> 00:16:46,719
+Prek tega to dvoje moraš nekako v kombinaciji uporabljati,
+
+314
+00:16:46,919 --> 00:16:50,719
+pa potem lahko poscrepaš večine strani.
+
+315
+00:16:50,919 --> 00:16:54,719
+A da pa bi ti modeli bili tako,
+
+316
+00:16:54,919 --> 00:16:59,719
+če smo se prepogovarjali, da browser juz je visual model,
+
+317
+00:16:59,919 --> 00:17:03,719
+se pravi, da zna vizualno, da nek način doževela page
+
+318
+00:17:03,719 --> 00:17:06,520
+isto kot juzer vidi ga.
+
+319
+00:17:06,719 --> 00:17:11,520
+In če me je recapture vizualna, jaz bi tudi znal rešit,
+
+320
+00:17:11,719 --> 00:17:14,520
+ali že vizualni recapture ni več dovolj?
+
+321
+00:17:14,719 --> 00:17:18,520
+Če se namotam, oni pod hosted solution
+
+322
+00:17:18,719 --> 00:17:21,520
+tudi to uporabljajo, ta capture rešitev.
+
+323
+00:17:21,719 --> 00:17:25,520
+Sam mislim, da nimajo to svoje rešitve za to,
+
+324
+00:17:25,719 --> 00:17:28,520
+ampak uporabljajo že enega providerja.
+
+325
+00:17:29,319 --> 00:17:31,319
+Tako da v bistvu
+
+326
+00:17:31,520 --> 00:17:34,319
+kot nek...
+
+327
+00:17:35,520 --> 00:17:38,319
+kot nekdo, ki ima page.
+
+328
+00:17:38,520 --> 00:17:41,319
+Si ga oblikoval zato, da ga juzer,
+
+329
+00:17:41,520 --> 00:17:44,319
+v bistvu jaz bi rekel, browzera.
+
+330
+00:17:44,520 --> 00:17:50,319
+A se ti zdi, da zdaj, ko gremo v neko nasledno fazo
+
+331
+00:17:50,520 --> 00:17:53,319
+razvoja teh ejčentov pa to,
+
+332
+00:17:53,520 --> 00:17:56,319
+če smo prej razvijali juzer interfejs
+
+333
+00:17:56,319 --> 00:17:59,119
+za uporabnike, za človeka,
+
+334
+00:17:59,319 --> 00:18:02,119
+da bomo zdaj prišli tudi do faze,
+
+335
+00:18:02,319 --> 00:18:05,119
+ko bomo delali AI interfejs?
+
+336
+00:18:05,319 --> 00:18:09,119
+Interfejs, da bo naš page
+
+337
+00:18:09,319 --> 00:18:12,119
+ali pa naša storitev tudi bolj prijazna
+
+338
+00:18:12,319 --> 00:18:15,119
+za interakcijo z stroji?
+
+339
+00:18:15,319 --> 00:18:17,119
+Dobro vprašanje.
+
+340
+00:18:17,319 --> 00:18:20,119
+Mislim, v tem primeru, mogoče, ne vem,
+
+341
+00:18:20,319 --> 00:18:23,119
+je res sodeločitev, a si želiš, da te skrepe,
+
+342
+00:18:23,119 --> 00:18:26,920
+da si želiš, da nekdo dela analizo ali ne,
+
+343
+00:18:27,119 --> 00:18:29,920
+ampak mogoče včasih si pa bo želel,
+
+344
+00:18:30,119 --> 00:18:32,920
+da si bolj prijazen, da mu delajo.
+
+345
+00:18:33,119 --> 00:18:34,920
+A imaš v pogledu to, kaj razmišljaš o tem?
+
+346
+00:18:35,119 --> 00:18:38,920
+Jaz mislim, če hočeš ali pa ne, te bodo skrepali v vsakem primeru.
+
+347
+00:18:39,119 --> 00:18:44,920
+Tako da je pa to, mislim, da se zdaj nekaj štarta ta lms.txt,
+
+348
+00:18:45,119 --> 00:18:47,920
+nek file, ki ga daš na svojo spletno stran,
+
+349
+00:18:48,119 --> 00:18:50,920
+ko v bistvu naredi celotno tvojo spletno stran,
+
+350
+00:18:50,920 --> 00:18:52,719
+kot kar prijazno za skrepanje.
+
+351
+00:18:52,920 --> 00:18:55,719
+Tako da mogoče v prihodnosti bodo vsi naredili,
+
+352
+00:18:55,920 --> 00:18:58,719
+kot kar imaš dot, mislim, slash robots.txt,
+
+353
+00:18:58,920 --> 00:19:00,719
+bodo imeli še slash lms.txt.
+
+354
+00:19:00,920 --> 00:19:04,719
+In kaj je v bistvu na output recimo na taj campaigner?
+
+355
+00:19:04,920 --> 00:19:06,719
+Se pravi, sam tekst.
+
+356
+00:19:06,920 --> 00:19:07,719
+Sam tekst.
+
+357
+00:19:07,920 --> 00:19:08,719
+Ja, tako je.
+
+358
+00:19:08,920 --> 00:19:10,719
+V bistvu, ja, ok.
+
+359
+00:19:10,920 --> 00:19:13,719
+Ampak se, mislim, že zdaj lahko pretvoreš html
+
+360
+00:19:13,920 --> 00:19:17,719
+v nekaj bolj lms.friendly formate ali markdown
+
+361
+00:19:17,920 --> 00:19:20,719
+in potem tisto je nekako friendly za lms.
+
+362
+00:19:20,920 --> 00:19:23,719
+Kar je tudi, oj, jaz to poravljam v spider.txt.
+
+363
+00:19:23,920 --> 00:19:27,719
+Pri celem tem tvoji solutionu, ne,
+
+364
+00:19:29,920 --> 00:19:33,719
+jaz, tako, če spada ocenjujem to nekaj 20, 30 dolarjev na mesec,
+
+365
+00:19:33,920 --> 00:19:35,719
+nekaj gre za to, ne?
+
+366
+00:19:35,920 --> 00:19:36,719
+Ja, ja.
+
+367
+00:19:36,920 --> 00:19:41,719
+A bi bilo smiselno, da najameš hosting,
+
+368
+00:19:41,920 --> 00:19:46,719
+ki je, ma ne vem, GPU je gor, pa tečeš, ne vem, lamo sam?
+
+369
+00:19:46,920 --> 00:19:50,719
+Ali jaz si še zdaj v bistvu v taki fazi razvoja produktiva
+
+370
+00:19:50,920 --> 00:19:52,719
+da pa, če enostavno plačeš teh par dolarjev,
+
+371
+00:19:52,920 --> 00:19:55,719
+pa uporabljaš tiste hosted suretve, ne vem.
+
+372
+00:19:55,920 --> 00:19:57,719
+A misliš, da bi imel nekaj advantage,
+
+373
+00:19:57,920 --> 00:20:00,719
+če bi dnevno tudi svoje imel?
+
+374
+00:20:00,920 --> 00:20:03,719
+Jaz mislim, če veliko skajlaš, pa mogoče se ti to splača,
+
+375
+00:20:03,920 --> 00:20:07,719
+ampak zaenkrat je, pa če MWP sem jih kar launčil
+
+376
+00:20:07,920 --> 00:20:12,719
+in to je še far from, da bom zdaj cost optimized tukaj za AI,
+
+377
+00:20:12,920 --> 00:20:15,719
+ker še vsem to je par centov na report, mogoče.
+
+378
+00:20:15,920 --> 00:20:20,719
+Pa vedno razvijaš s temi modeli, ki so close source
+
+379
+00:20:20,920 --> 00:20:23,719
+in tudi delaš kaj primerjavom za te taske.
+
+380
+00:20:23,920 --> 00:20:26,719
+A bi lahko rekel, da je pač GPT is the way to go,
+
+381
+00:20:26,920 --> 00:20:30,719
+vse ostalo ne sliže do kolen, open source je…
+
+382
+00:20:30,920 --> 00:20:34,719
+Ja, v bistvu dobro vprašanje, ker itak vsak teden skor pride nek no model,
+
+383
+00:20:34,920 --> 00:20:37,719
+ki je state of the art, pa je boljši,
+
+384
+00:20:37,920 --> 00:20:39,719
+kot kar vsi ostali na nekem benchmarku.
+
+385
+00:20:39,920 --> 00:20:42,719
+Tako da v bistvu zdaj lihto evaljujem tam.
+
+386
+00:20:42,920 --> 00:20:45,719
+Zobrav, kako, če spremenim model,
+
+387
+00:20:45,920 --> 00:20:50,719
+ali pa system prompt, ali pa temperature tega modela,
+
+388
+00:20:50,920 --> 00:20:53,719
+kako se pa spremeni, kakšni so pa dajanski rezultati,
+
+389
+00:20:53,920 --> 00:20:56,719
+ali summarization, ali pa nek insight extraction,
+
+390
+00:20:56,920 --> 00:20:58,719
+kako se da spremeni.
+
+391
+00:20:58,920 --> 00:21:00,719
+In je en tool promptvu,
+
+392
+00:21:00,920 --> 00:21:03,719
+ki ga zdaj lih, sem ga lih začel malo raziskvat,
+
+393
+00:21:03,920 --> 00:21:07,719
+da ti odgovori na to vprašanje.
+
+394
+00:21:07,920 --> 00:21:10,719
+Moraš imeti nek dataset, ki ga sam skurjeraš,
+
+395
+00:21:10,920 --> 00:21:14,719
+potem pa lahko uporabiš različne modele
+
+396
+00:21:14,920 --> 00:21:17,719
+ali pa system prompt in potem prek tega optimiziraš.
+
+397
+00:21:17,719 --> 00:21:21,520
+Jaz enkrat uporabljam nekako vse najbolj nekako,
+
+398
+00:21:21,719 --> 00:21:24,520
+ker je še vsaj en cost, ki ni tako relevanten.
+
+399
+00:21:24,719 --> 00:21:27,520
+Zdaj, če bi imel milijon uporabnikov, to je vsega dragače.
+
+400
+00:21:27,719 --> 00:21:32,520
+A pa to deluje tako, da imaš nek ta monitoring,
+
+401
+00:21:32,719 --> 00:21:35,520
+pa potem testiraš modela?
+
+402
+00:21:35,719 --> 00:21:38,520
+V bistvu, če se namotamo vse imaš po defaultu,
+
+403
+00:21:38,719 --> 00:21:40,520
+boš uporabljal najboljš.
+
+404
+00:21:40,719 --> 00:21:42,520
+Potem boš pa kasnej boš probil,
+
+405
+00:21:42,719 --> 00:21:45,520
+če jaz zdaj probam uporabiti nek drug model,
+
+406
+00:21:46,319 --> 00:21:48,319
+tako se jaz zdaj spremenil.
+
+407
+00:21:48,520 --> 00:21:51,319
+Prej je bil tak output, kakšen je mu pa zdaj output?
+
+408
+00:21:51,520 --> 00:21:53,319
+Če bo še vedno nekako optimalen output.
+
+409
+00:21:53,520 --> 00:21:55,319
+Okej.
+
+410
+00:21:55,520 --> 00:21:59,319
+Zdaj ti popijem kozarce vode, jaz bom pa naredil EPP.
+
+411
+00:22:00,520 --> 00:22:04,319
+Se pravi, ogrodje omogočajo zvesti Patreoni,
+
+412
+00:22:04,520 --> 00:22:07,319
+ki je eden izmed perksov, ki ga jih dobijo,
+
+413
+00:22:07,520 --> 00:22:11,319
+če se subscribe na Patreon, je to, da predobijo vsebine.
+
+414
+00:22:12,319 --> 00:22:16,119
+Ogrodje ne bi bilo možno brez podpor podjeti HumanFrog,
+
+415
+00:22:16,319 --> 00:22:20,119
+Kaldi, VisionAct in Kufr, ki nam ponuja storage.
+
+416
+00:22:22,319 --> 00:22:25,119
+Zdaj, kot smo na začetku rekli, AI Meetup,
+
+417
+00:22:25,319 --> 00:22:29,119
+ga probamo nekako pomagati, ker je zelo zanimiv.
+
+418
+00:22:30,319 --> 00:22:34,119
+Karte grejo zelo hitro, tako da dejte se tam subscribe-ati.
+
+419
+00:22:34,319 --> 00:22:38,119
+Mislim, da je bilo 150 kart v 24 urah razgrabljenih,
+
+420
+00:22:38,319 --> 00:22:41,119
+tako da nam zvečno je veliko publiko.
+
+421
+00:22:41,319 --> 00:22:44,119
+Dej mi še malo več povej o tem,
+
+422
+00:22:44,319 --> 00:22:48,119
+kaj si se zdaj naučil pri razvoju tega produkta.
+
+423
+00:22:48,319 --> 00:22:53,119
+Lahko, zdaj si dal ven, na Prodohawn tu je bilo zadeva,
+
+424
+00:22:53,319 --> 00:22:56,119
+zdaj boš malo tudi z ljudmi se pogovarjal.
+
+425
+00:22:56,319 --> 00:22:58,119
+Kam greš zdaj od tej točki naprej?
+
+426
+00:22:58,319 --> 00:23:00,119
+Kaj boš malo več razdel, kaj ne boš?
+
+427
+00:23:00,319 --> 00:23:03,119
+Kaj je zdaj ta prvi feedback, ki si ga že dobil, recimo?
+
+428
+00:23:03,319 --> 00:23:05,119
+Dej mi to malo povej.
+
+429
+00:23:05,319 --> 00:23:09,119
+Da je distribuce nekako bolj pomembna, kot produkt sam.
+
+430
+00:23:09,119 --> 00:23:10,920
+Ja, marketing pa to.
+
+431
+00:23:11,119 --> 00:23:13,920
+Zdaj, če že imaš nek following, to je zelo uporabno.
+
+432
+00:23:14,119 --> 00:23:18,920
+Na Twitterju imaš dost ljudi, nekaj vibe koda, neke produkte.
+
+433
+00:23:19,119 --> 00:23:22,920
+In ker imajo oni recimo 100 tisajc followerjev,
+
+434
+00:23:23,119 --> 00:23:26,920
+res lahko ta produkt grejo iz nula na 50 tisajc,
+
+435
+00:23:27,119 --> 00:23:28,920
+čez noč.
+
+436
+00:23:29,119 --> 00:23:31,920
+To sem tudi ja videl pri Product Huntu.
+
+437
+00:23:32,119 --> 00:23:34,920
+Nekako, če že vnaprej nimaš neke publike,
+
+438
+00:23:35,119 --> 00:23:38,920
+da boš dobil tistih 50 votov v prvih 4 urah,
+
+439
+00:23:39,119 --> 00:23:40,920
+nekaj ne boš imel.
+
+440
+00:23:41,119 --> 00:23:42,920
+Tako da nekako zdaj se fokusiram na ta del.
+
+441
+00:23:43,119 --> 00:23:46,920
+Ampak, če damo kao business head-on,
+
+442
+00:23:47,119 --> 00:23:48,920
+če damo business head-on,
+
+443
+00:23:49,119 --> 00:23:50,920
+a so to sploh tvoje, to niso tvoje stranke?
+
+444
+00:23:51,119 --> 00:23:52,920
+To je načeloma res, ja.
+
+445
+00:23:53,119 --> 00:23:54,920
+To je res.
+
+446
+00:23:55,119 --> 00:23:57,920
+Tako da, ne vem, poskušaš dobiti stranke iz te,
+
+447
+00:23:58,119 --> 00:24:00,920
+ali si dobil tako bolj business use case?
+
+448
+00:24:01,119 --> 00:24:02,920
+Meni je to zanimivo.
+
+449
+00:24:03,119 --> 00:24:04,920
+Jaz bi to imel, no, se zanimam konkurence,
+
+450
+00:24:05,119 --> 00:24:07,920
+ampak verjetno se da zadevo ful razširiti
+
+451
+00:24:07,920 --> 00:24:10,719
+ali v vertikale, ali ...
+
+452
+00:24:10,920 --> 00:24:14,719
+Ja, v bistvu zdaj se fokusiram na distribucijo cold email-a
+
+453
+00:24:14,920 --> 00:24:16,719
+in potem greš direkt z cold email-i
+
+454
+00:24:16,920 --> 00:24:20,719
+do tvojih potencijalnih strank.
+
+455
+00:24:20,920 --> 00:24:24,719
+Vidim, da gibirati sem cold, to zdaj v tem trenutku.
+
+456
+00:24:24,920 --> 00:24:28,719
+Ne, valda imam pa tudi ful enih idej še za sam produkt.
+
+457
+00:24:28,920 --> 00:24:30,719
+Sam to je nekak ...
+
+458
+00:24:30,920 --> 00:24:33,719
+Najprej stranke pa potem lahko nadgradiš.
+
+459
+00:24:33,920 --> 00:24:36,719
+Se pravi, ene ideje so od ...
+
+460
+00:24:36,719 --> 00:24:40,520
+Da gledaš še LinkedIn pa ostala socijalna obrežja,
+
+461
+00:24:40,719 --> 00:24:44,520
+tu dobiš ful enih nekak business insajta prek tega.
+
+462
+00:24:44,719 --> 00:24:46,520
+Recimo, če je nekdo šel ven iz podjetja,
+
+463
+00:24:46,719 --> 00:24:48,520
+lahko to prek LinkedIn-a direkt vidiš
+
+464
+00:24:48,719 --> 00:24:52,520
+in potem vidiš, ok, a, zdaj on vzel nek job prek konkurencije.
+
+465
+00:24:52,719 --> 00:24:55,520
+To me bo čakal še en tak insajt.
+
+466
+00:24:55,719 --> 00:24:57,520
+In potem še za adze.
+
+467
+00:24:57,719 --> 00:24:59,520
+Se pravi, imaš meta-adze.
+
+468
+00:25:00,000 --> 00:25:04,400
+pa Google Ads, to je tudi dost enih biznisev samo to gleda.
+
+469
+00:25:04,400 --> 00:25:10,400
+Se pravi, zdi se ti, da če boš priklopil še več podatkov v ta data collection,
+
+470
+00:25:10,400 --> 00:25:13,600
+boš lahko dobil še bolj zanimive, pa več podatkov,
+
+471
+00:25:13,600 --> 00:25:16,400
+pa povrteno tudi frekvence, pa začnejo,
+
+472
+00:25:16,400 --> 00:25:19,200
+lahko bolj pogosto ti report delaš in podobno.
+
+473
+00:25:19,200 --> 00:25:23,600
+Tako je, in potem od načela imate ta velika, oziroma enterprise podjetja,
+
+474
+00:25:23,600 --> 00:25:26,799
+nekako želijo vse zajeti.
+
+475
+00:25:26,799 --> 00:25:30,400
+Zdaj, tam si uporabljajem termin, vibe coding.
+
+476
+00:25:30,400 --> 00:25:34,400
+Kaj, da si se nasmel?
+
+477
+00:25:34,400 --> 00:25:40,400
+Dej še to povej, mogoče za odjens, ki še tega termina ne pozna.
+
+478
+00:25:40,400 --> 00:25:45,599
+Dej upiš, kdo je vibe coder in kaj vibe coder dela?
+
+479
+00:25:45,599 --> 00:25:47,599
+A spokej dela.
+
+480
+00:25:47,599 --> 00:25:49,599
+Ja, prompta.
+
+481
+00:25:49,599 --> 00:25:51,599
+No, prozim, dej še to razlož.
+
+482
+00:25:52,400 --> 00:25:57,599
+Vibe coding, to pomeni, da uporabljaš AI za priprogramiranje.
+
+483
+00:25:57,599 --> 00:26:00,799
+Zdaj, ogromno je enih tulov.
+
+484
+00:26:00,799 --> 00:26:04,400
+Prišlo ven, se pravi, Cursor, Windsurf je tudi en,
+
+485
+00:26:04,400 --> 00:26:09,199
+in oba te dva sta res eksplodirala v popularnosti.
+
+486
+00:26:09,199 --> 00:26:14,800
+In ja, sicer je, da tudi za neprogramerje lahko nekaj sprogramirajo.
+
+487
+00:26:14,800 --> 00:26:16,400
+To je ta koncept.
+
+488
+00:26:16,400 --> 00:26:19,599
+Sicer pol hitro gotovijo, da še vsem bodo ravno programirati
+
+489
+00:26:19,599 --> 00:26:21,599
+in tudi to znanje je zelo uporabno.
+
+490
+00:26:21,599 --> 00:26:26,400
+Ampak tudi za enega, ki že to zna, je ogromen časa prišpač.
+
+491
+00:26:26,400 --> 00:26:29,599
+Ampak to gre zato, da
+
+492
+00:26:29,599 --> 00:26:36,400
+a ti pišeš kombinacijo prompt, pa potem ta klasičen popravljam za promptoven pristop,
+
+493
+00:26:36,400 --> 00:26:40,800
+ali je vedno samo s promptovimi interakcijo imam z kodov ali kaj?
+
+494
+00:26:40,800 --> 00:26:42,400
+Večinoma je zdaj samo še prompt, ja.
+
+495
+00:26:42,400 --> 00:26:46,000
+Nekaj napišeš, potem pogledaš, če je pravilno dojevo, a ne.
+
+496
+00:26:46,000 --> 00:26:50,400
+Če ne, da še umdi klajn, nočno te kode, pa še enkrat opišeš, kaj želiš.
+
+497
+00:26:50,400 --> 00:26:56,800
+Ampak, a veš, še vedno, a rabiš vedeti, kaj si zgeneriral?
+
+498
+00:26:56,800 --> 00:26:59,199
+Smo še tam, ko, ali?
+
+499
+00:26:59,199 --> 00:27:01,199
+Zaenkrat smo še tam, ko, ja.
+
+500
+00:27:01,199 --> 00:27:07,199
+Ti imaš zelo širok inženiranj background, delal si prej na
+
+501
+00:27:07,199 --> 00:27:10,800
+vizual sistemih in to, ne?
+
+502
+00:27:10,800 --> 00:27:15,199
+Jaz si predstavljam, da ti razumeš, kaj je tisto zgenerirano prej in bo mrdžano notri.
+
+503
+00:27:16,000 --> 00:27:20,000
+Vedno pa se vprašujem, a je sploh še to pomembno?
+
+504
+00:27:20,000 --> 00:27:21,199
+Moraš še vedeti.
+
+505
+00:27:21,199 --> 00:27:23,199
+Verjetno v parih letih ne bo več.
+
+506
+00:27:23,199 --> 00:27:25,600
+Jaz pah možno je programiral, sem še product manager,
+
+507
+00:27:25,600 --> 00:27:27,600
+je rekel, da sem pisal requirement.
+
+508
+00:27:27,600 --> 00:27:28,800
+Bomo videli.
+
+509
+00:27:28,800 --> 00:27:30,800
+Ampak zaenkrat pa še nismo tam, tako da,
+
+510
+00:27:30,800 --> 00:27:32,800
+moji modeli niso še tam.
+
+511
+00:27:32,800 --> 00:27:36,399
+Mislim, da je to vsekakor dobna istopčnica za današnje Slovenija,
+
+512
+00:27:36,399 --> 00:27:37,600
+je aj meet-up.
+
+513
+00:27:37,600 --> 00:27:43,199
+Tako da, nič, Erik, dejmo potem zaključiti torej na en lespeten pogovor.
+
+514
+00:27:43,600 --> 00:27:47,600
+Jaz bi še enkrat vas povabil, da pogledate produkt SPI Delta,
+
+515
+00:27:47,600 --> 00:27:52,399
+spodem ga v povezavo, pa ta slajd, ki uriši arhitekturo.
+
+516
+00:27:52,399 --> 00:27:56,000
+Hvala za pozornost in se vidimo naslednjič.
+
+517
+00:27:56,000 --> 00:27:58,000
+Hvala.

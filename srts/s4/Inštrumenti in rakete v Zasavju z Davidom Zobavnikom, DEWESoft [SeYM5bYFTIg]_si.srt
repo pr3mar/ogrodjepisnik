@@ -1,0 +1,4275 @@
+1
+00:00:00,000 --> 00:00:10,000
+🎵🎵🎵
+
+2
+00:00:30,000 --> 00:00:45,000
+🎵🎵🎵
+
+3
+00:00:45,000 --> 00:00:55,000
+🎵🎵
+
+4
+00:01:15,000 --> 00:01:35,000
+🎵🎵
+
+5
+00:01:35,000 --> 00:01:47,000
+🎵🎵
+
+6
+00:01:47,000 --> 00:02:07,000
+🎵🎵
+
+7
+00:02:07,000 --> 00:02:27,000
+🎵🎵
+
+8
+00:02:27,000 --> 00:02:54,000
+🎵🎵
+
+9
+00:02:54,000 --> 00:03:04,000
+🎵🎵
+
+10
+00:03:04,000 --> 00:03:33,000
+🎵🎵
+
+11
+00:03:33,000 --> 00:03:53,000
+🎵🎵
+
+12
+00:03:53,000 --> 00:04:13,000
+🎵🎵
+
+13
+00:04:13,000 --> 00:04:39,000
+🎵🎵
+
+14
+00:04:39,000 --> 00:05:08,000
+🎵🎵
+
+15
+00:05:08,000 --> 00:05:37,000
+🎵🎵
+
+16
+00:05:37,000 --> 00:06:06,000
+🎵🎵
+
+17
+00:06:06,000 --> 00:06:35,000
+🎵🎵
+
+18
+00:06:35,000 --> 00:07:04,000
+🎵🎵
+
+19
+00:07:04,000 --> 00:07:33,000
+🎵🎵
+
+20
+00:07:33,000 --> 00:08:02,000
+🎵🎵
+
+21
+00:08:02,000 --> 00:08:31,000
+🎵🎵
+
+22
+00:08:31,000 --> 00:08:58,000
+🎵🎵
+
+23
+00:08:58,000 --> 00:09:27,000
+🎵🎵
+
+24
+00:09:27,000 --> 00:09:56,000
+🎵🎵
+
+25
+00:09:56,000 --> 00:10:25,000
+🎵🎵
+
+26
+00:10:25,000 --> 00:10:54,000
+🎵🎵
+
+27
+00:10:54,000 --> 00:11:23,000
+🎵🎵
+
+28
+00:11:23,000 --> 00:11:52,000
+🎵🎵
+
+29
+00:11:52,000 --> 00:12:21,000
+🎵🎵
+
+30
+00:12:21,000 --> 00:12:50,000
+🎵🎵
+
+31
+00:12:50,000 --> 00:13:19,000
+🎵🎵
+
+32
+00:13:19,000 --> 00:13:48,000
+🎵🎵
+
+33
+00:13:48,000 --> 00:14:17,000
+🎵🎵
+
+34
+00:14:17,000 --> 00:14:43,000
+🎵🎵
+
+35
+00:14:43,000 --> 00:15:12,000
+🎵🎵
+
+36
+00:15:13,000 --> 00:15:42,000
+🎵🎵
+
+37
+00:15:43,000 --> 00:16:12,000
+🎵🎵
+
+38
+00:16:13,000 --> 00:16:42,000
+🎵🎵
+
+39
+00:16:42,000 --> 00:17:11,000
+🎵🎵
+
+40
+00:17:11,000 --> 00:17:40,000
+🎵🎵
+
+41
+00:17:40,000 --> 00:18:09,000
+🎵🎵
+
+42
+00:18:09,000 --> 00:18:38,000
+🎵🎵
+
+43
+00:18:39,000 --> 00:19:08,000
+🎵🎵
+
+44
+00:19:09,000 --> 00:19:38,000
+🎵🎵
+
+45
+00:19:39,000 --> 00:20:08,000
+🎵🎵
+
+46
+00:20:09,000 --> 00:20:38,000
+🎵🎵
+
+47
+00:20:39,000 --> 00:21:08,000
+🎵🎵
+
+48
+00:21:09,000 --> 00:21:38,000
+🎵🎵
+
+49
+00:21:39,000 --> 00:22:08,000
+🎵🎵
+
+50
+00:22:09,000 --> 00:22:38,000
+🎵🎵
+
+51
+00:22:39,000 --> 00:23:08,000
+🎵🎵
+
+52
+00:23:09,000 --> 00:23:38,000
+🎵🎵
+
+53
+00:23:39,000 --> 00:24:08,000
+🎵🎵
+
+54
+00:24:09,000 --> 00:24:38,000
+🎵🎵
+
+55
+00:24:39,000 --> 00:25:00,000
+🎵🎵
+
+56
+00:25:00,000 --> 00:25:04,400
+In recimo te naprave so bile sami posebne pred vse butaste,
+
+57
+00:25:04,600 --> 00:25:08,560
+predvsem so skrbile za zajemanje podatkov, pa bom rekel,
+
+58
+00:25:08,760 --> 00:25:12,480
+tam, kakšne releje so, čez plnostankšne releje so prestavljene.
+
+59
+00:25:12,680 --> 00:25:18,240
+In potem je mogla ta naprava poskrbeti, da je preko USB-ja poslala podatke
+
+60
+00:25:18,440 --> 00:25:22,799
+do neke, ne vem, nekega računalnika, ker v bistvu ta naš,
+
+61
+00:25:23,000 --> 00:25:27,600
+bom rekel, core software, Laufa nekaj, GDV Soft X.
+
+62
+00:25:28,320 --> 00:25:32,000
+In ta je pa, ja, ta je pa čista aplikacija, kaj Laufa na Windowsih.
+
+63
+00:25:32,200 --> 00:25:34,279
+S tem smo začeli.
+
+64
+00:25:34,480 --> 00:25:38,200
+Potem pa, kjer sem prej omenil, da je pa naslednji step je,
+
+65
+00:25:38,400 --> 00:25:44,680
+bom rekel, so pa že predvsej močnejši ti ARM procesori.
+
+66
+00:25:44,880 --> 00:25:48,320
+Tukaj recimo uporabljamo Citaro AM57,
+
+67
+00:25:48,520 --> 00:25:54,599
+ki ima gor A15, tale ARM procesor, ki ima v bistvu dva jedra,
+
+68
+00:25:54,840 --> 00:25:58,840
+pa ne vem, če je stormalno, teče Linux.
+
+69
+00:25:59,040 --> 00:26:02,959
+In bom rekel, tudi izgled tega, to so vse profili ljudi,
+
+70
+00:26:03,160 --> 00:26:07,480
+se je predvsej, bom nam rekel, spremenil, ampak, ja, različni profili ljude delajo.
+
+71
+00:26:07,680 --> 00:26:12,519
+Spravo, tenkaj mikrokontroler, pa FPGA so bil elektrotehniki,
+
+72
+00:26:12,720 --> 00:26:16,480
+taki, ka morajo znati, brati vezja. Zdaj pa tukaj je pa ARM procesor,
+
+73
+00:26:16,680 --> 00:26:22,279
+pa imaš Linux, pridejo pa zelo prostor, kjer nekaj, ki poznajo sam Linux,
+
+74
+00:26:22,480 --> 00:26:27,519
+pa že skor bolj programerje, oziroma tisti, ki so prišli iz frija recimo,
+
+75
+00:26:27,720 --> 00:26:31,720
+pa sferija, kaj je pa objektno programiranje,
+
+76
+00:26:31,919 --> 00:26:37,360
+pa, ja, bom rekel, tudi arhitekturno rade, potem stvari predvsej komplicirane.
+
+77
+00:26:37,559 --> 00:26:41,080
+To, kar pa naše stranke uporabljajo, ja, je pa pa tudi, spomrekel,
+
+78
+00:26:41,279 --> 00:26:47,320
+še ta tretji model oziroma kombinacija, te, ka so zdaj omenil.
+
+79
+00:26:47,519 --> 00:26:49,720
+Imaš pa lahko nek tak, bom rekel, veliko škatlo,
+
+80
+00:26:49,839 --> 00:26:53,160
+kam recimo, bom rekel, osem teh butasnih naprav,
+
+81
+00:26:53,360 --> 00:26:57,760
+pa spodi imaš pa recimo še en ler, ki je pa računalnik, ker ta, ki je neki,
+
+82
+00:26:57,959 --> 00:27:02,279
+kukor je narejen iz naše stranino, malo je prilagojen,
+
+83
+00:27:02,480 --> 00:27:06,120
+ka mora zdržati, bom rekel, malo bolj više pa nižje temperature,
+
+84
+00:27:06,320 --> 00:27:10,720
+prav pa, da se malo zna bolj uhlajati, ampak, ja, je pa v bistvu tipični računalnik,
+
+85
+00:27:10,919 --> 00:27:12,160
+in se navadni računalnik.
+
+86
+00:27:12,360 --> 00:27:15,960
+Če se pravi, računalnik, kukor butasne naprave s Duck Tape-om zalimaš,
+
+87
+00:27:16,119 --> 00:27:18,199
+industrijski standard, 80 stopin in gre malo.
+
+88
+00:27:18,399 --> 00:27:19,639
+Tako.
+
+89
+00:27:19,839 --> 00:27:25,119
+A imaš, a je bolj, bi rekel, da je bolj, recimo tam, ker so bolj kritični use case-i,
+
+90
+00:27:25,320 --> 00:27:29,039
+da je boljše, če je bolj butasna naprava, ali to ne gra vloge?
+
+91
+00:27:29,240 --> 00:27:33,520
+V smislu, da je dela eno funkcijo, pa to funkcijo upravlja dober,
+
+92
+00:27:33,720 --> 00:27:39,399
+kukor da je upravlja več, pa ima več kompleksnosti in je zratega večja možnost napake.
+
+93
+00:27:39,600 --> 00:27:40,600
+A je to igra vlogo?
+
+94
+00:27:40,800 --> 00:27:45,520
+Ja, s tem bi se definitivno strinil, sam misijo radi, kompliciramo življenje,
+
+95
+00:27:45,679 --> 00:27:49,880
+pa radi delamo multifunkcionalne naprave, ki delajo ogromno stvari hkrati,
+
+96
+00:27:50,080 --> 00:27:53,720
+tudi pronovatelja vzame mnogo težje pot in rečemo, da bomo probali vse narediti.
+
+97
+00:27:53,919 --> 00:27:55,199
+Seveda pa strinjam tako, recimo,
+
+98
+00:27:55,399 --> 00:27:58,080
+se tukaj spet bom rekel, da je debata malo,
+
+99
+00:27:58,279 --> 00:28:03,119
+ker bomo tudi zelo zanj času podeti, ta real-time ali pa measurement, recimo v real-timu
+
+100
+00:28:03,320 --> 00:28:06,839
+hočeš biti bolj previden pri teh stvarih.
+
+101
+00:28:08,279 --> 00:28:13,399
+In kaj zate pomeni real-time? Ena milisekunda ali kaj to sploh pomeni?
+
+102
+00:28:13,520 --> 00:28:18,360
+Real-time, v bistvu mislim, da je definicija, pravila real-time je, da se ti nekaj zgodi
+
+103
+00:28:18,559 --> 00:28:22,199
+v odgovorenem preizdanem času, lahko je tudi ena minuta.
+
+104
+00:28:22,399 --> 00:28:23,199
+Ok, ok.
+
+105
+00:28:23,399 --> 00:28:26,759
+Je pa tako, da mislim, da je
+
+106
+00:28:26,960 --> 00:28:31,080
+nekaj industrijski standard oziroma, ne vem, 95 procento aplikacij na svetu,
+
+107
+00:28:31,279 --> 00:28:34,119
+če ima nekaj real-time, je recimo ena milisekunda dovolj.
+
+108
+00:28:34,320 --> 00:28:35,919
+Zdaj, zakaj je ena milisekunda dovolj?
+
+109
+00:28:36,119 --> 00:28:39,559
+Ker imaš to ponovat mehanske sisteme, ki niti ne morejo biti hitre, no.
+
+110
+00:28:39,759 --> 00:28:42,160
+Tiska nekaj zelo hitrej
+
+111
+00:28:42,399 --> 00:28:47,119
+in ponovat nekaj stvar, ki nima, nitko jo bi se nekaj fizično premikal, bi rekel.
+
+112
+00:28:47,320 --> 00:28:48,559
+Ok.
+
+113
+00:28:49,440 --> 00:28:54,199
+Gremo, ker lahko malo v hardwaru še malo vrtati dalje.
+
+114
+00:28:54,399 --> 00:28:56,399
+Skratka, kaj,
+
+115
+00:28:56,600 --> 00:28:59,759
+gremo v postopek, recimo, pridem jaz kot stranka
+
+116
+00:28:59,960 --> 00:29:04,520
+in rečem, jaz imam pa tale problemi, za katerega vi recimo nimate rešitve na trgu,
+
+117
+00:29:04,720 --> 00:29:06,880
+kako se vse skupaj začne
+
+118
+00:29:07,080 --> 00:29:09,360
+in kako, bom rekel, pridemo
+
+119
+00:29:09,520 --> 00:29:14,240
+do tega, da pal vi rečete, ok, tole bo tako 300 jurjev
+
+120
+00:29:14,440 --> 00:29:19,399
+in tok pa tok avansa in pal mi dostavte pač napravo. Kaj se vse vmez zgodi?
+
+121
+00:29:19,600 --> 00:29:22,559
+Pomaj moraš biti lasnik nekakšne tovarne letale, pa kaj.
+
+122
+00:29:22,760 --> 00:29:25,519
+Ja, no, recimo, dajmo prav tako, da sem, no.
+
+123
+00:29:25,720 --> 00:29:30,440
+Jaz tudi se hodim reči, da vrete nekakšna nula premalj, kaj se ne tezim, kaj sem imel.
+
+124
+00:29:30,640 --> 00:29:33,480
+Ja, ponovat je tako, da
+
+125
+00:29:33,679 --> 00:29:39,160
+ponovat so nekaj, ker so ta večja podjetja, so itak nekaj razpisi, kaj bi si nekakšno želel imeti.
+
+126
+00:29:39,359 --> 00:29:44,160
+In tle ponovat najprej, ok, najprej že naši prodajniki, ki so po svetu,
+
+127
+00:29:44,359 --> 00:29:47,720
+ponovat iščo te razpise, pa bom rekel, naredil že prvi ček,
+
+128
+00:29:47,920 --> 00:29:50,720
+če koliko teh stvari mi poklukamo.
+
+129
+00:29:50,920 --> 00:29:55,119
+In ponovat je tako, da če ni često, da je poklukaš, itak nima smisla delati.
+
+130
+00:29:55,320 --> 00:29:59,799
+Je pa dost, kajte pa tako, da recimo, ne vem, poklukaš os 90% v točk,
+
+131
+00:30:00,000 --> 00:30:02,679
+10 pa 20% jo pa treba še narest.
+
+132
+00:30:02,880 --> 00:30:06,920
+In tle se ponovat potem kontaktira, bom rekel, naša projektna pisarno
+
+133
+00:30:07,079 --> 00:30:11,679
+in ta potem projektna pisarna potem nekak popiše, kaj bi oni imeli,
+
+134
+00:30:11,880 --> 00:30:15,760
+pa v bistvu tudi že predlaga, kako bi lahko kakšno stvar se reša
+
+135
+00:30:15,959 --> 00:30:19,040
+z našimi obstoječimi rešitvami.
+
+136
+00:30:19,239 --> 00:30:23,200
+Pa pa ustane tistih recimo 10%, kaj pa še ni, ne.
+
+137
+00:30:23,399 --> 00:30:27,480
+Tle pa se potem skupaj vsedajo, bom rekel, z,
+
+138
+00:30:27,679 --> 00:30:31,920
+kaj bom potem rekel, produktnimi vodi, pa mi bom potem še, bom rekel,
+
+139
+00:30:32,119 --> 00:30:36,799
+product owneri, no, imamo ta izrast, ko so v bistvu nekak vodi, ekip,
+
+140
+00:30:37,000 --> 00:30:42,320
+ki skrbijo za produkte znotraj njihovih stremov in pa se skupaj
+
+141
+00:30:42,519 --> 00:30:46,679
+pogovorimo, pa nekak analiziramo, ali bi to lahko naredil,
+
+142
+00:30:46,880 --> 00:30:50,160
+ali ne bomo ga naredili, pa recimo, koliko je dejansko dela,
+
+143
+00:30:50,359 --> 00:30:53,160
+da bi to naredil.
+
+144
+00:30:53,359 --> 00:30:58,160
+Naredi se neka ocena, pogleda se potem časovni plan,
+
+145
+00:30:58,359 --> 00:31:01,359
+pa potem izbere neka prioriteta, kako jem je to pomembno,
+
+146
+00:31:01,559 --> 00:31:04,679
+včasih ni samo denar, ampak je tudi strateško.
+
+147
+00:31:04,839 --> 00:31:08,000
+Tako bom rekel, recimo, ko smo prvič delali za naso,
+
+148
+00:31:08,200 --> 00:31:11,839
+tle ni bilo tako veliko denarja in je bil zelo prestižen projekt,
+
+149
+00:31:12,040 --> 00:31:16,600
+iz tega vidika smo šli, ampak mogoče je tudi šla stranka,
+
+150
+00:31:16,799 --> 00:31:19,880
+je nekje predlagal, kamer bi tako in tako želeli iti, pa je zelo dobra
+
+151
+00:31:20,079 --> 00:31:23,000
+priložnost, da se lahko priključimo in skupaj ta produkt naredimo.
+
+152
+00:31:23,200 --> 00:31:28,679
+Ampak potem pač zapade odločitev, da bi ta produkt recimo šli delati.
+
+153
+00:31:28,880 --> 00:31:33,600
+Potem je pa pravilno tako, da imamo letne plane,
+
+154
+00:31:33,720 --> 00:31:37,640
+imamo kvartalne plane, recimo za en let si naredi plan,
+
+155
+00:31:37,839 --> 00:31:42,079
+kaj si približno želimo narediti, pa pa na četvrt let je,
+
+156
+00:31:42,279 --> 00:31:46,959
+pa dejansko se pa potem pogleda, ok, zdaj, tale nek projekt
+
+157
+00:31:47,160 --> 00:31:52,480
+je dejansko najbolj na vrhu prioritet, pejmo se ga lotati,
+
+158
+00:31:52,679 --> 00:31:56,200
+recimo dobi, ne vem, se ga razdelimo po ekipah,
+
+159
+00:31:56,399 --> 00:31:58,600
+se pravi, half of ekipa mora narediti to in to,
+
+160
+00:31:58,799 --> 00:32:02,920
+sotva ekipa mora narediti to in to, pa pa morajo v bistvu
+
+161
+00:32:02,920 --> 00:32:08,239
+inženjeri znotraj ekip morajo ocenjati, koliko je nekega dela,
+
+162
+00:32:08,440 --> 00:32:11,839
+se pravi, tukaj pa že pride v igru kakšna džera,
+
+163
+00:32:12,040 --> 00:32:16,679
+kaj je veselje vseh developerjev, pa se dejansko potem že
+
+164
+00:32:16,880 --> 00:32:20,720
+med tem vrečejo, napišajo te story, pa vse ocenjajo, koliko je tega dela,
+
+165
+00:32:20,920 --> 00:32:24,720
+pa se pa to pač naredila, tako.
+
+166
+00:32:24,920 --> 00:32:30,559
+Eno, recimo, verjetno si ne, misliš si recimo, da uspešna podjetja
+
+167
+00:32:30,559 --> 00:32:35,359
+tako kot je dv soft, ne, nima nobenega fejljerja interno, ne,
+
+168
+00:32:35,559 --> 00:32:39,959
+ampak si upam stav, da tudi prd dv softu pride do fejljerja, ne.
+
+169
+00:32:40,160 --> 00:32:45,359
+Tako da dej povej kaj o tem, dej povej vaš najbolj,
+
+170
+00:32:45,559 --> 00:32:50,760
+če lahko poveš kak tak fejl, ki je bil recimo tudi stroškovno
+
+171
+00:32:50,959 --> 00:32:53,760
+in rečeš, okej, tole smo pa zajel.
+
+172
+00:32:53,959 --> 00:32:58,559
+Ja, ful je zanimiv, ne, ker pomoje, če bi me NT nazaj to prašal,
+
+173
+00:32:58,559 --> 00:33:01,359
+prašal bi te nekaj drugega rekel, okej.
+
+174
+00:33:01,559 --> 00:33:04,359
+Aha, se pravi, tako sreže. Tako sreže, ja.
+
+175
+00:33:04,559 --> 00:33:08,359
+In sicer je tako, da, ja, zdajle smo imeli en fejljer,
+
+176
+00:33:08,559 --> 00:33:13,359
+ki je v bistvu, ja, vsač tudi bil problem in ki je bistvu,
+
+177
+00:33:13,559 --> 00:33:17,359
+je efekt vse stranke in sicer je tako, da če si imel,
+
+178
+00:33:17,559 --> 00:33:21,359
+imamo tako, imamo sihrone pa asihrone mritve, pravimo,
+
+179
+00:33:21,559 --> 00:33:24,559
+sihrone na mritve so, če nekje prihaja ekvidistančno, se pravi,
+
+180
+00:33:24,559 --> 00:33:29,359
+recimo na 20 kHz pa boš dobil na, pa boš res na, na ta čas,
+
+181
+00:33:29,559 --> 00:33:33,359
+pa imaš pa asihrone podatke, ki ima pa, ne vem, dobiš lako na par sekund
+
+182
+00:33:33,559 --> 00:33:36,359
+pa imaš zdraven timestamp. In skaza se je, zdaj smo neko,
+
+183
+00:33:36,559 --> 00:33:40,359
+seveda smo redel neko veliko arhitekturno izboljšavo
+
+184
+00:33:40,559 --> 00:33:44,359
+in se je skaza, da če delaš tele asihrone mritve,
+
+185
+00:33:44,559 --> 00:33:48,359
+pa če jih dolg časa delaš, lahko koraptaš podatke.
+
+186
+00:33:48,559 --> 00:33:53,359
+In to je tako vrst posebej scenarij, ki se lahko preden zgodi
+
+187
+00:33:53,359 --> 00:33:57,159
+in to je, da ne vem, neka stranka pač vrstkih scenarij,
+
+188
+00:33:57,359 --> 00:34:00,159
+najame neko dirkališče, recimo, ne, ki je lahko stale
+
+189
+00:34:00,359 --> 00:34:04,159
+po par milijonov na dan, naredi mritve, vse postane,
+
+190
+00:34:04,359 --> 00:34:08,159
+vse zgleda v redu, pa pa hoče pogledat podatke,
+
+191
+00:34:08,359 --> 00:34:12,159
+pa se skaže, pa so tako bilo, da če si na hitro povedal podatke,
+
+192
+00:34:12,359 --> 00:34:15,159
+zgleda vse v redu, pa pasi pa pozomeril, pa se je skazal,
+
+193
+00:34:15,359 --> 00:34:19,159
+da je lahko koraptan. In to se nam je, ja, zlih zgodil
+
+194
+00:34:19,159 --> 00:34:23,960
+prejšnj tedan, kar bom pa rekel, da je pa srečno na nesrečje,
+
+195
+00:34:24,159 --> 00:34:28,960
+pa da se je dal tako popraviti, da tisti, ki se je koraptal podatek,
+
+196
+00:34:29,159 --> 00:34:32,960
+bom rekel, 95%-ih ga bo lahko rešilo na srečo.
+
+197
+00:34:33,159 --> 00:34:36,960
+Ampak sem rekel, prvi cilj nam je zgodil, da je dejansko stvar
+
+198
+00:34:37,159 --> 00:34:39,960
+afektala vse stranke, pa da je bil ta najhuša stvar je,
+
+199
+00:34:40,159 --> 00:34:42,960
+če se to je, recimo, slišiš, če ne moraš meriti,
+
+200
+00:34:43,159 --> 00:34:45,960
+imame hudok, ker če meriš, pa narobiš.
+
+201
+00:34:46,760 --> 00:34:50,760
+Kdo je pa Kregan v takem primeru?
+
+202
+00:34:50,960 --> 00:34:52,760
+Kdo jih slišiš?
+
+203
+00:34:52,960 --> 00:34:56,760
+Jaz se veš, ponavad, bom rekel, s pomojem povsot,
+
+204
+00:34:56,960 --> 00:35:00,760
+ne samo v inženirskem svetu, probaš me to, non-blame kulturo,
+
+205
+00:35:00,960 --> 00:35:04,760
+pa ponavad narediš nek report, da vidiš, kaj šlo na robe,
+
+206
+00:35:04,960 --> 00:35:08,760
+pa probaš, naslednjič popravljaš se, da je to, ki je tazga, ne bo ponovila.
+
+207
+00:35:08,960 --> 00:35:12,760
+Tako, da bom rekel, tukaj, ponavad, naučiš jih z vseno, z nekim imenjem,
+
+208
+00:35:12,760 --> 00:35:14,559
+da bi jih izpostavljali.
+
+209
+00:35:14,760 --> 00:35:17,559
+Ja, no, naslednjič nisem jih sprašal po imenu, da ga bomo vličali,
+
+210
+00:35:17,760 --> 00:35:19,559
+kakor rol je za to.
+
+211
+00:35:19,760 --> 00:35:23,559
+Krivi smo jih pa sostvaraši, pač programerska napaka je bila,
+
+212
+00:35:23,760 --> 00:35:27,559
+testi pa nisem našel, zato, ker dejansko možeš dost dolge meritve delati,
+
+213
+00:35:27,760 --> 00:35:30,559
+recimo, ne vem, po par dni, da bi to napako videš.
+
+214
+00:35:30,760 --> 00:35:34,559
+Ok, zdaj, software developer v meni, ne software v meni,
+
+215
+00:35:34,760 --> 00:35:38,559
+ne morem imeti. Kam skranjujete podatke, v kajšne baze upravljate?
+
+216
+00:35:38,760 --> 00:35:40,559
+To je počistko.
+
+217
+00:35:40,559 --> 00:35:44,359
+Ja, to je zanimivo. Po mojem smu tukaj dokaj, bom rekel,
+
+218
+00:35:44,559 --> 00:35:49,359
+industrijsko specifično je, da, bom rekel, te kameritve delaš,
+
+219
+00:35:49,559 --> 00:35:52,359
+to je tako skor, to so res une podatke, ki jo naučiš,
+
+220
+00:35:52,559 --> 00:35:54,359
+da kamorkoli likajo.
+
+221
+00:35:54,559 --> 00:35:55,359
+Ok.
+
+222
+00:35:55,559 --> 00:35:58,359
+In ponavad, je tako, tukaj ni tako, da bih skranjeval baze,
+
+223
+00:35:58,559 --> 00:36:01,359
+ker bom delal neko, ne vem, spet en primer,
+
+224
+00:36:01,559 --> 00:36:05,359
+da naše najhitrejše naprave zmerijo tam nekje po
+
+225
+00:36:05,559 --> 00:36:08,359
+15 milijonov podatkov na sekundo.
+
+226
+00:36:08,559 --> 00:36:10,359
+Na kanal.
+
+227
+00:36:10,559 --> 00:36:12,359
+Koliko pa je kanalov?
+
+228
+00:36:12,559 --> 00:36:15,359
+Ja, recimo, ja, napravim lahko 8 kanalov,
+
+229
+00:36:15,559 --> 00:36:19,359
+lahko jih ima pa, ne vem, 10, 20, 30 naprav, ne.
+
+230
+00:36:19,559 --> 00:36:20,359
+Ok.
+
+231
+00:36:20,559 --> 00:36:23,359
+In dejansko tukaj ne moraš uporabljati vseh,
+
+232
+00:36:23,559 --> 00:36:27,359
+ne moraš uporabljati baze in ponavad to skranjuješ lokalno,
+
+233
+00:36:27,559 --> 00:36:31,359
+pa pa mogoče, ka analiziraš te podatke, a pa jih malo zgustiš,
+
+234
+00:36:31,559 --> 00:36:33,359
+pa pa jih lahko mogoče skam zapišeš.
+
+235
+00:36:33,559 --> 00:36:37,359
+Ampak recimo, bom rekel, da naš core business ni zapisovanje podatkov,
+
+236
+00:36:38,359 --> 00:36:43,159
+imamo pa, bom rekel, nek start-up, oziroma, bom rekel, spinoff,
+
+237
+00:36:43,359 --> 00:36:46,159
+ki se pa mogoče ukvarja s timi bolj počasnimi meritvami,
+
+238
+00:36:46,359 --> 00:36:49,159
+ki pa se tudi potem zapisuje v sama baza.
+
+239
+00:36:49,359 --> 00:36:52,159
+To se pravi, kr ro na nek silnici.
+
+240
+00:36:52,359 --> 00:36:54,159
+Tako, ja, na disk, na disk, pa pa.
+
+241
+00:36:54,359 --> 00:36:56,159
+Disk ali polprevodnik?
+
+242
+00:36:56,359 --> 00:36:57,159
+Na disk.
+
+243
+00:36:57,359 --> 00:36:59,159
+Na disk, ok.
+
+244
+00:36:59,359 --> 00:37:03,159
+Galileo bi rekel, a vendar se vrtija kako že.
+
+245
+00:37:04,359 --> 00:37:06,159
+Misliš spinning diske?
+
+246
+00:37:07,159 --> 00:37:07,960
+Tako je.
+
+247
+00:37:08,159 --> 00:37:08,960
+Ok.
+
+248
+00:37:09,159 --> 00:37:10,960
+Veliko podatkov, a ne?
+
+249
+00:37:11,159 --> 00:37:11,960
+Ja, tako, tako.
+
+250
+00:37:12,159 --> 00:37:13,960
+No, vidiš, jaz bi tako je mislil, da bo rekel, ne vem,
+
+251
+00:37:14,159 --> 00:37:16,960
+kaj še, ali SQLite ali pa nekaj tako, lightweight engine nekaj.
+
+252
+00:37:17,159 --> 00:37:17,960
+Ampak dobro.
+
+253
+00:37:18,159 --> 00:37:18,960
+Koliko na sekundo se je rekel?
+
+254
+00:37:19,159 --> 00:37:20,960
+15 mega na kanal.
+
+255
+00:37:21,159 --> 00:37:22,960
+Mislim, da smo enkrat klikali, da smo imeli nek sistem,
+
+256
+00:37:23,159 --> 00:37:26,960
+pa smo naročili, da je tako poene, ne vem, z lahkotbo 10 giga,
+
+257
+00:37:27,159 --> 00:37:29,960
+ne vem, ali celo na sekunda se nam je zgodilo.
+
+258
+00:37:30,159 --> 00:37:31,960
+Ok, to so kar deluje cifre.
+
+259
+00:37:32,159 --> 00:37:33,960
+Ampak to je skrajni primer.
+
+260
+00:37:33,960 --> 00:37:37,760
+Je pa tako, v obreku tipično je pa recimo,
+
+261
+00:37:37,960 --> 00:37:41,760
+da ena 100 megabajta na sekundo je čist tipično.
+
+262
+00:37:41,960 --> 00:37:43,760
+Ja, to je že kar lepa cifra.
+
+263
+00:37:43,960 --> 00:37:45,760
+Recimo ne vem, kaj še nam spakiš,
+
+264
+00:37:45,960 --> 00:37:49,760
+ano, tomobilska industrija je zelo, vruje te podatke,
+
+265
+00:37:49,960 --> 00:37:53,760
+tako da nočjo, da bi se to kamer tako pošiljala.
+
+266
+00:37:53,960 --> 00:37:56,760
+In to je storiče dejansko na devaisu,
+
+267
+00:37:56,960 --> 00:37:58,760
+s kjem upravljate meritve?
+
+268
+00:37:58,960 --> 00:37:59,760
+Oziroma nek hub?
+
+269
+00:37:59,960 --> 00:38:02,760
+Storiče tako, se pravi, imaš naprave,
+
+270
+00:38:02,760 --> 00:38:04,559
+kaj ponavad pošiljajo potem v eno software,
+
+271
+00:38:04,760 --> 00:38:06,559
+kaj pa na nekem računalniku.
+
+272
+00:38:06,760 --> 00:38:09,559
+Resica je to ponavad celo Windows mašina,
+
+273
+00:38:09,760 --> 00:38:11,559
+ki tam ponavad potem gore shranjuješ.
+
+274
+00:38:11,760 --> 00:38:13,559
+Lahko je čisto nekde 100 računalnikov,
+
+275
+00:38:13,760 --> 00:38:15,559
+10 klaptop je v dvistma.
+
+276
+00:38:15,760 --> 00:38:18,559
+Pa imate kajšen vaš interni način?
+
+277
+00:38:18,760 --> 00:38:21,559
+Jaz sklepam, da ne glede na to,
+
+278
+00:38:21,760 --> 00:38:23,559
+kakšen tip meritve je,
+
+279
+00:38:23,760 --> 00:38:26,559
+ali je dolžinska, ali je temperaturna, whatever,
+
+280
+00:38:26,760 --> 00:38:28,559
+da imate nekaj standardizirano.
+
+281
+00:38:28,760 --> 00:38:30,559
+Je to eksterno standardizirano,
+
+282
+00:38:30,559 --> 00:38:32,359
+ali je to pač interno vaš?
+
+283
+00:38:32,559 --> 00:38:34,359
+Vste rekeli, bomo tako sortiral podatke,
+
+284
+00:38:34,559 --> 00:38:36,359
+ker nam je tako najbolj.
+
+285
+00:38:36,559 --> 00:38:38,359
+Imamo nek na svoj format,
+
+286
+00:38:38,559 --> 00:38:40,359
+ki je nekako zoptimiziran za to,
+
+287
+00:38:40,559 --> 00:38:43,359
+da se ga lahko in najhitreje zapisuje
+
+288
+00:38:43,559 --> 00:38:45,359
+in to, da vam potem, bom rekel,
+
+289
+00:38:45,559 --> 00:38:47,359
+čim bolj zgoščenje te podatke se pravi,
+
+290
+00:38:47,559 --> 00:38:50,359
+če imam pod overall prostora za vzamejo.
+
+291
+00:38:50,559 --> 00:38:51,359
+Ok, nice.
+
+292
+00:38:51,559 --> 00:38:54,359
+Je presaj omenil ta dvsoft X, ta aplikacija.
+
+293
+00:38:54,559 --> 00:38:57,359
+V čem pa te desktop aplikacije delate?
+
+294
+00:38:57,559 --> 00:38:59,359
+Ta je dobro vprašanje.
+
+295
+00:39:00,359 --> 00:39:02,159
+To je tega malo preseneča.
+
+296
+00:39:02,359 --> 00:39:04,159
+To me res zanima.
+
+297
+00:39:04,359 --> 00:39:06,159
+Se pravi, bom rekel ta,
+
+298
+00:39:06,359 --> 00:39:09,159
+user interface je na realno Delfiju.
+
+299
+00:39:09,359 --> 00:39:11,159
+Kaj to?
+
+300
+00:39:11,359 --> 00:39:14,159
+Pa tudi back-end je bil na realno Delfiju,
+
+301
+00:39:14,359 --> 00:39:16,159
+ampak bom pa rekel,
+
+302
+00:39:16,359 --> 00:39:18,159
+da se povsem zdajle,
+
+303
+00:39:18,359 --> 00:39:20,159
+smo povsem v letu 2020 plus,
+
+304
+00:39:20,359 --> 00:39:23,159
+se da in smo tudi že malo optimizacije naredili,
+
+305
+00:39:23,359 --> 00:39:25,159
+tako da se vam, recimo,
+
+306
+00:39:25,359 --> 00:39:28,159
+back-end se pa počasje prepisuje v C++.
+
+307
+00:39:28,159 --> 00:39:29,960
+Recimo te matematike,
+
+308
+00:39:30,159 --> 00:39:31,960
+pa to je zdaj v C++-u.
+
+309
+00:39:32,159 --> 00:39:33,960
+Zdaj pa tam, kaj pa sploh rabaš,
+
+310
+00:39:34,159 --> 00:39:35,960
+bom rekel, kaj procesovske muči,
+
+311
+00:39:36,159 --> 00:39:38,960
+pa se celo poslužijo na kakšne grafične kartice.
+
+312
+00:39:39,159 --> 00:39:40,960
+To je tisto primer, ki sem preomenil.
+
+313
+00:39:41,159 --> 00:39:43,960
+Če imaš te po 15 megapodatkov na sekundo,
+
+314
+00:39:44,159 --> 00:39:45,960
+kje spokoj te meritve rabaš delati,
+
+315
+00:39:46,159 --> 00:39:47,960
+to je predvsem te,
+
+316
+00:39:48,159 --> 00:39:49,960
+kaj gledaš električne meritve,
+
+317
+00:39:50,159 --> 00:39:51,960
+kaj gledaš, če so kakšne harmoniki,
+
+318
+00:39:52,159 --> 00:39:53,960
+pa kakšne popačne v letu,
+
+319
+00:39:54,159 --> 00:39:55,960
+tih električnih omrežjih.
+
+320
+00:39:55,960 --> 00:39:58,760
+Ne vem, kakšne hitre matematike za power.
+
+321
+00:39:58,960 --> 00:40:00,760
+Ne vem, sam, da nožiš ukratine.
+
+322
+00:40:00,960 --> 00:40:03,760
+Tukaj pa zelo propide kakšne grafične kartice.
+
+323
+00:40:04,760 --> 00:40:07,760
+The best. Evo, pol ne bo JavaScript desktop.
+
+324
+00:40:07,960 --> 00:40:10,760
+Ja, jaz sem mislil, da kakšen elektron rekuješ node.
+
+325
+00:40:10,960 --> 00:40:12,760
+To ne dela.
+
+326
+00:40:12,960 --> 00:40:14,760
+Tako so me ful presenetili z Delfijem.
+
+327
+00:40:14,960 --> 00:40:16,760
+Je pa tako, kot kar Delfij,
+
+328
+00:40:16,960 --> 00:40:19,760
+sej ne vem, moja mlačstva, ne vem, če što poznajo,
+
+329
+00:40:19,960 --> 00:40:22,760
+starejši, kar sem, skoraj bolj ga cenim.
+
+330
+00:40:22,960 --> 00:40:24,760
+Zdaj, možda vemo se, po mojem,
+
+331
+00:40:24,760 --> 00:40:27,559
+pogledem na Delfiju in C++-o,
+
+332
+00:40:27,760 --> 00:40:29,559
+pa tako bom rekel,
+
+333
+00:40:29,760 --> 00:40:32,559
+po moje, zdaj imam skoraj bolj ta hate relationship
+
+334
+00:40:32,760 --> 00:40:34,559
+z C++-om,
+
+335
+00:40:34,760 --> 00:40:37,559
+ker si tar ti omogoča vse, res lahko vse zaoptimiziraš,
+
+336
+00:40:37,760 --> 00:40:39,559
+vsa vrodja ti da,
+
+337
+00:40:39,760 --> 00:40:41,559
+sem mislil, da mi včasih bom prispodobil,
+
+338
+00:40:41,760 --> 00:40:43,559
+da zelo hitro se vreža z njim.
+
+339
+00:40:43,760 --> 00:40:47,559
+Vsi ti, vsa ta vrodja, so zelo ostra pred C++-o.
+
+340
+00:40:47,760 --> 00:40:49,559
+Pa tudi se mi zdi, da vsi vsa dodajo
+
+341
+00:40:49,760 --> 00:40:51,559
+en layer nov kompleksnosti,
+
+342
+00:40:51,760 --> 00:40:53,559
+ki je včasih nepotreben.
+
+343
+00:40:53,559 --> 00:40:55,359
+Recimo pri nas, v našem fohu,
+
+344
+00:40:55,559 --> 00:40:58,359
+da tako rečem, web developmenta,
+
+345
+00:40:58,559 --> 00:41:01,359
+je ono, imaš virtualko,
+
+346
+00:41:01,559 --> 00:41:05,359
+ki ima kubernete z node-gor,
+
+347
+00:41:05,559 --> 00:41:07,359
+oziroma pode,
+
+348
+00:41:07,559 --> 00:41:11,359
+v katerem imaš debijan kontejner,
+
+349
+00:41:11,559 --> 00:41:14,359
+v katerih imaš node.js,
+
+350
+00:41:14,559 --> 00:41:16,359
+virtual machine.
+
+351
+00:41:16,559 --> 00:41:18,359
+A veš, ali lahko?
+
+352
+00:41:18,559 --> 00:41:21,359
+Na kjeri točki pa pridemo do biznis-logika?
+
+353
+00:41:21,359 --> 00:41:23,159
+Se je tudi tako, kot sem rečel,
+
+354
+00:41:23,359 --> 00:41:25,159
+kaj sem jaz začel delati,
+
+355
+00:41:25,359 --> 00:41:27,159
+je bilo šlo tam programirati,
+
+356
+00:41:27,359 --> 00:41:29,159
+kar je bilo 14 let nazaj,
+
+357
+00:41:29,359 --> 00:41:31,159
+je bilo šlo vse v Delfiju.
+
+358
+00:41:31,359 --> 00:41:33,159
+In moram priznati, da najlažje
+
+359
+00:41:33,359 --> 00:41:35,159
+je bilo meni takrat debagirati.
+
+360
+00:41:35,359 --> 00:41:37,159
+Vse si imel znotraj enega ideja.
+
+361
+00:41:37,359 --> 00:41:39,159
+Tam, da vsi je breakpoint,
+
+362
+00:41:39,359 --> 00:41:41,159
+lahko si se debagiral in frontend,
+
+363
+00:41:41,359 --> 00:41:43,159
+in backend, to je bilo super.
+
+364
+00:41:43,359 --> 00:41:45,159
+Zdaj pa, ne vem, se moram ateči,
+
+365
+00:41:45,359 --> 00:41:47,159
+pa ti spremdat skupaj,
+
+366
+00:41:47,359 --> 00:41:49,159
+pa zdaj rabim CME, ki je sicer super,
+
+367
+00:41:49,359 --> 00:41:51,159
+ampak že to, da ga skompiljaš,
+
+368
+00:41:51,359 --> 00:41:53,159
+in tako podobno.
+
+369
+00:41:53,359 --> 00:41:55,159
+Kako pa debagirate pr vas?
+
+370
+00:41:55,359 --> 00:41:57,159
+Ti imaš hardvarski produkt,
+
+371
+00:41:57,359 --> 00:41:59,159
+ki ste ga ravno kar razvili,
+
+372
+00:41:59,359 --> 00:42:01,159
+ta produkt je pa dolih kar
+
+373
+00:42:01,359 --> 00:42:03,159
+iz pick-and-place stroja,
+
+374
+00:42:03,359 --> 00:42:05,160
+in zdaj je na vas,
+
+375
+00:42:05,359 --> 00:42:07,160
+in zdaj neki nadelak.
+
+376
+00:42:07,359 --> 00:42:09,160
+Ja, se pravi, Davida predstavljam,
+
+377
+00:42:09,359 --> 00:42:11,160
+ki ima tako eno čarovniško kapico,
+
+378
+00:42:11,359 --> 00:42:13,160
+pa potem pride celo kup midov,
+
+379
+00:42:13,359 --> 00:42:15,160
+pa seniorjev,
+
+380
+00:42:15,359 --> 00:42:17,160
+pa potem je on ta strka, čara.
+
+381
+00:42:17,359 --> 00:42:19,160
+Kako se začne pot
+
+382
+00:42:19,160 --> 00:42:20,959
+sveže rojenega produkta?
+
+383
+00:42:21,160 --> 00:42:22,959
+Uf, to je pa
+
+384
+00:42:23,160 --> 00:42:24,959
+kar veliko veselje, bom rekel.
+
+385
+00:42:29,160 --> 00:42:30,959
+Se veš, ne, polavat,
+
+386
+00:42:31,160 --> 00:42:33,959
+kar dobiš tako prvi hardware produkt,
+
+387
+00:42:34,160 --> 00:42:35,959
+ti naša dela, ne?
+
+388
+00:42:37,160 --> 00:42:38,959
+Tako da, potem moraš...
+
+389
+00:42:39,160 --> 00:42:40,959
+Zato vprašam.
+
+390
+00:42:42,160 --> 00:42:43,959
+Ampak tudi tukaj bom rekel tako,
+
+391
+00:42:44,160 --> 00:42:45,959
+tukaj je res za pohvaljati naše
+
+392
+00:42:46,160 --> 00:42:47,959
+te hardware razvojnike,
+
+393
+00:42:47,959 --> 00:42:49,760
+spet bom rekel 15 let nazaj, ne?
+
+394
+00:42:49,959 --> 00:42:51,760
+Smo, polavat, imeli po 15 iteracij
+
+395
+00:42:51,959 --> 00:42:53,760
+hardvera, danes smo, polavat,
+
+396
+00:42:53,959 --> 00:42:55,760
+zmorjali od tam od dveh, treh, ne?
+
+397
+00:42:55,959 --> 00:42:57,760
+Tako, tukaj je bil kar velik napredek naprej.
+
+398
+00:42:57,959 --> 00:42:59,760
+Ampak, ja, polavat, dobiš
+
+399
+00:42:59,959 --> 00:43:01,760
+prvo napravo, pa niti...
+
+400
+00:43:01,959 --> 00:43:03,760
+Tako, hardware tudi
+
+401
+00:43:03,959 --> 00:43:05,760
+splošen ček, da je lehko počne,
+
+402
+00:43:05,959 --> 00:43:07,760
+zakajdi se, ne, ne?
+
+403
+00:43:07,959 --> 00:43:09,760
+Naredi smov test, pa pa dobi
+
+404
+00:43:09,959 --> 00:43:11,760
+naš prvi firmware-aš,
+
+405
+00:43:11,959 --> 00:43:13,760
+polavat, ta, ki je zelo vlevo, dobi vroko.
+
+406
+00:43:13,959 --> 00:43:15,760
+Pa ne, proba nekaj sprogramirati,
+
+407
+00:43:15,959 --> 00:43:17,760
+nekaj proba narediti,
+
+408
+00:43:17,959 --> 00:43:20,760
+ne, pripravamo paralelno podpret v softwarju.
+
+409
+00:43:20,959 --> 00:43:22,760
+Pa pa itak nekaj ne dela, ne?
+
+410
+00:43:22,959 --> 00:43:24,760
+Ko pa, kdo je k nju, ne?
+
+411
+00:43:24,959 --> 00:43:26,760
+In pa lih ta optimizacija,
+
+412
+00:43:26,959 --> 00:43:28,760
+kako potem zvedeti,
+
+413
+00:43:28,959 --> 00:43:30,760
+kaj dejansko je problem,
+
+414
+00:43:30,959 --> 00:43:32,760
+je, tle smo kar došča,
+
+415
+00:43:32,959 --> 00:43:34,760
+a saj zapravil, no?
+
+416
+00:43:34,959 --> 00:43:36,760
+In tle res bom rekel, zdaj je tesno
+
+417
+00:43:36,959 --> 00:43:38,760
+in sodelujejo in software ekipa
+
+418
+00:43:38,959 --> 00:43:40,760
+in firmware ekipa in hardware ekipa.
+
+419
+00:43:40,959 --> 00:43:42,760
+In to je skupaj kokaldi, recimo,
+
+420
+00:43:42,959 --> 00:43:44,760
+ki se vrže, ko nek...
+
+421
+00:43:44,959 --> 00:43:46,760
+Se pravi, zdaj govorimo o črn.
+
+422
+00:43:46,760 --> 00:43:48,560
+Nekaj ne dela.
+
+423
+00:43:48,760 --> 00:43:50,560
+Kokaldi vržeš v problem, da ga rešijo?
+
+424
+00:43:50,760 --> 00:43:52,560
+Ja, komod in, recimo,
+
+425
+00:43:52,760 --> 00:43:54,560
+da imamo vsako tako svoje področje,
+
+426
+00:43:54,760 --> 00:43:56,560
+komod, ne vem, pa ene pet ljudi, no.
+
+427
+00:43:56,760 --> 00:43:58,560
+Kaj tudi...
+
+428
+00:43:58,760 --> 00:44:00,560
+Ok, na začetku bom rekel še simple,
+
+429
+00:44:00,760 --> 00:44:02,560
+da daš nekaj v prve fazi, hardware,
+
+430
+00:44:02,760 --> 00:44:04,560
+pa tudi pravati, veš,
+
+431
+00:44:04,760 --> 00:44:06,560
+ok, to je pre men problem, moram popraviti,
+
+432
+00:44:06,760 --> 00:44:08,560
+pa dodaš nekaj te mere,
+
+433
+00:44:08,760 --> 00:44:10,560
+da približen produkt dela, ne?
+
+434
+00:44:10,760 --> 00:44:12,560
+Ga stestiraš, pa ti dela,
+
+435
+00:44:12,760 --> 00:44:14,560
+pa praviš, ok, zdaj je dost dobro
+
+436
+00:44:14,560 --> 00:44:16,359
+in potem isto vrvaš, ponovi zgodbo,
+
+437
+00:44:16,560 --> 00:44:18,359
+vrdi vse gor dobre, se naredi,
+
+438
+00:44:18,560 --> 00:44:20,359
+lahko v svoji dobri meri,
+
+439
+00:44:20,560 --> 00:44:22,359
+stestira, kaj lahko,
+
+440
+00:44:22,560 --> 00:44:24,359
+da se otviraš, se otviraš, isto ponovi,
+
+441
+00:44:24,560 --> 00:44:27,359
+pa posle pa vse, en najde en problem, ne?
+
+442
+00:44:27,560 --> 00:44:29,359
+Ja, in potem bi trebalo poiskati,
+
+443
+00:44:29,560 --> 00:44:31,359
+kaj je problem tle,
+
+444
+00:44:31,560 --> 00:44:33,359
+bom rekel, da kukr se mogoče,
+
+445
+00:44:33,560 --> 00:44:35,359
+vse, imaš nekaj, imaš nekaj urodja,
+
+446
+00:44:35,560 --> 00:44:37,359
+za testiranje, ne vem, imaš,
+
+447
+00:44:37,560 --> 00:44:39,359
+kar imaš v programiru, imaš tele,
+
+448
+00:44:39,560 --> 00:44:41,359
+ne vem,
+
+449
+00:44:41,560 --> 00:44:44,359
+june teste, imaš funkcionalne teste,
+
+450
+00:44:44,560 --> 00:44:47,359
+in podobne stvari, ki ti lahko nekaj pinpointajo,
+
+451
+00:44:47,560 --> 00:44:49,359
+ampak če imaš pa smolo,
+
+452
+00:44:49,560 --> 00:44:52,359
+pa dejansko, ja, v prvi fazi ne veš,
+
+453
+00:44:52,560 --> 00:44:54,359
+kaj je dejansko problem,
+
+454
+00:44:54,560 --> 00:44:56,359
+pa potem dosti krat pomaga izkušnje,
+
+455
+00:44:56,560 --> 00:44:58,359
+da ti eni povej, daj probte naprej,
+
+456
+00:44:58,560 --> 00:45:00,359
+mogoče fajnite tole ali pa to,
+
+457
+00:45:00,560 --> 00:45:02,359
+ampak ja, na koncu se pa lahko tudi skupaj poseda,
+
+458
+00:45:02,560 --> 00:45:04,359
+ta form vraš, pa kad vraš, pa skupaj skupaj
+
+459
+00:45:04,560 --> 00:45:06,359
+probate zdebagirati neko stvar.
+
+460
+00:45:06,560 --> 00:45:08,359
+Bom rekel, da na koncu dosti krat,
+
+461
+00:45:08,560 --> 00:45:10,359
+čezmeri ta način reši,
+
+462
+00:45:10,560 --> 00:45:12,359
+te naše probleme. Je pa tako, bom rekel,
+
+463
+00:45:12,359 --> 00:45:15,160
+da se lahko sploh pri podpori naprav,
+
+464
+00:45:15,359 --> 00:45:17,160
+kaj pa če vam pogled in prenasvaš,
+
+465
+00:45:17,359 --> 00:45:19,160
+in bom rekel tipično software ekipe,
+
+466
+00:45:19,359 --> 00:45:21,160
+pa tam se bom rekel znotraj enega silosa,
+
+467
+00:45:21,359 --> 00:45:23,160
+pa je mogoče malo lažje.
+
+468
+00:45:23,359 --> 00:45:26,160
+Zdaj pa, ne vem, kaj se na tem svetu,
+
+469
+00:45:26,359 --> 00:45:29,160
+ko imaš pa in hardware, firmware,
+
+470
+00:45:29,359 --> 00:45:31,160
+pa imaš po možnosti še nekaj,
+
+471
+00:45:31,359 --> 00:45:33,160
+imaš te kontroleri, mikrokontrolere,
+
+472
+00:45:33,359 --> 00:45:35,160
+pa imaš bolj ta high level na ARM firmware,
+
+473
+00:45:35,359 --> 00:45:37,160
+pa imaš software, pa imaš pa recimo
+
+474
+00:45:37,359 --> 00:45:39,160
+kakšno kalibracijo,
+
+475
+00:45:39,359 --> 00:45:42,160
+in pa, ja, moraš kar skoordinirati ljudi,
+
+476
+00:45:42,359 --> 00:45:44,160
+da se potem proba nekako ta napaha najdati.
+
+477
+00:45:44,359 --> 00:45:46,160
+Je to kar čelenčno.
+
+478
+00:45:46,359 --> 00:45:48,160
+Zdaj večina ve hardware pa software.
+
+479
+00:45:48,359 --> 00:45:50,160
+Kaj je firmware?
+
+480
+00:45:50,359 --> 00:45:52,160
+Kako bi tim 15-letnemu,
+
+481
+00:45:52,359 --> 00:45:56,160
+nekomu, ki se za srednjo šolo odloča,
+
+482
+00:45:56,359 --> 00:45:58,160
+kako bi mu rekel, stari,
+
+483
+00:45:58,359 --> 00:46:00,160
+pejt za firmware developer.
+
+484
+00:46:00,359 --> 00:46:02,160
+Ne, meni to totalno dogaja.
+
+485
+00:46:02,359 --> 00:46:04,160
+Kaj je firmware?
+
+486
+00:46:04,359 --> 00:46:07,160
+Z mojega stališča tukaj je to zelo filozofsko vprašanje,
+
+487
+00:46:07,359 --> 00:46:09,160
+oziroma ne vem, če vem,
+
+488
+00:46:09,160 --> 00:46:10,959
+ki je jasna,
+
+489
+00:46:11,160 --> 00:46:12,959
+eni ti bojo rekli, da je firmware tisto,
+
+490
+00:46:13,160 --> 00:46:14,959
+ki je low level,
+
+491
+00:46:15,160 --> 00:46:16,959
+kaj imaš mikrokontrollerje,
+
+492
+00:46:17,160 --> 00:46:18,959
+eni bojo tudi rekli, da je pa, ne vem,
+
+493
+00:46:19,160 --> 00:46:20,959
+tudi to, kar razvijaš telefon,
+
+494
+00:46:21,160 --> 00:46:22,959
+da je firmware razvoj, ne?
+
+495
+00:46:23,160 --> 00:46:24,959
+Kaj pa imaš lahko, ne vem, zdolj napredne aplikacije,
+
+496
+00:46:25,160 --> 00:46:26,959
+ne vem, Android na telefonu,
+
+497
+00:46:27,160 --> 00:46:28,959
+eni bojo tim rekli firmware.
+
+498
+00:46:29,160 --> 00:46:30,959
+Ne vem, brez tem je tisto,
+
+499
+00:46:31,160 --> 00:46:32,959
+ki je malo bolj povezan z hardwarom,
+
+500
+00:46:33,160 --> 00:46:34,959
+na koncu je tudi ta desktop računalnik,
+
+501
+00:46:35,160 --> 00:46:36,959
+ki je tudi hardware na koncu.
+
+502
+00:46:37,160 --> 00:46:38,959
+Tako da ne vem, moja ta definicija je zelo odvisna,
+
+503
+00:46:39,160 --> 00:46:40,959
+ne vem, kaj pa me je zelo premikajo s časom,
+
+504
+00:46:41,160 --> 00:46:42,959
+no, ker te bom rekel,
+
+505
+00:46:43,160 --> 00:46:44,959
+v časih je bilo tako MBT naprave,
+
+506
+00:46:45,160 --> 00:46:46,959
+tam si imel firmware,
+
+507
+00:46:47,160 --> 00:46:48,959
+sam dan danes pa so te MBT naprave že zelo pametne,
+
+508
+00:46:49,160 --> 00:46:50,959
+je to še firmware ali ni, ne vem.
+
+509
+00:46:51,959 --> 00:46:53,959
+Kaj je pa pre tem dobagerat?
+
+510
+00:46:54,160 --> 00:46:55,959
+Tomaš dela zdaj svoju router.
+
+511
+00:46:56,959 --> 00:46:58,959
+Ja.
+
+512
+00:46:59,959 --> 00:47:01,959
+Zato sem mu vprašal, kako zgleda,
+
+513
+00:47:02,160 --> 00:47:03,959
+pa koliko časa trajajo te cikli,
+
+514
+00:47:04,160 --> 00:47:05,959
+zato da vidim, koliko moram na naše fante pritiskat, ne?
+
+515
+00:47:06,160 --> 00:47:07,959
+Ker pra nas se je zgodil, recimo,
+
+516
+00:47:07,959 --> 00:47:11,760
+da smo dobili pač iz pick-and-place linije nove borde,
+
+517
+00:47:11,959 --> 00:47:14,760
+ki so deviški, ne, načni gor,
+
+518
+00:47:14,959 --> 00:47:17,760
+v glavnem in nismo UART čipi, ne,
+
+519
+00:47:17,959 --> 00:47:19,760
+zdaj za tiste, ki ne vejo UART je pač protokol,
+
+520
+00:47:19,959 --> 00:47:21,760
+da lahko na USB-C preklopi,
+
+521
+00:47:21,959 --> 00:47:23,760
+v našem primeru na USB-C konektor,
+
+522
+00:47:23,959 --> 00:47:25,760
+da ga ti lahko na komp preklopiš,
+
+523
+00:47:25,959 --> 00:47:28,760
+pa da ti vidiš, kak output ti da, ne.
+
+524
+00:47:28,959 --> 00:47:31,760
+V glavnem in je dal zero, nobenega outputa ni bilo
+
+525
+00:47:31,959 --> 00:47:35,760
+in smo mislni, da smo, kaj,
+
+526
+00:47:35,760 --> 00:47:38,560
+pač spregledali pr načrtovanju, se pravi,
+
+527
+00:47:38,760 --> 00:47:41,560
+pr samih schematikah, je bilo vse vredo,
+
+528
+00:47:41,760 --> 00:47:43,560
+smo trikrat pogledali, no,
+
+529
+00:47:43,760 --> 00:47:45,560
+dokler nismo prišli do tega
+
+530
+00:47:45,760 --> 00:47:48,560
+in pa šest prototipnih bordov smo naredili,
+
+531
+00:47:48,760 --> 00:47:51,560
+no in se je skazali, da so UART čipi za neč,
+
+532
+00:47:51,760 --> 00:47:53,560
+tako da smo na DigiCue, mislim,
+
+533
+00:47:53,760 --> 00:47:56,560
+preden smo to realizirali, smo na DigiCue pač zamenjave,
+
+534
+00:47:56,760 --> 00:47:58,560
+isti, isto komponento,
+
+535
+00:47:58,760 --> 00:48:00,560
+smo odlotali one gor, pa nove gor
+
+536
+00:48:00,760 --> 00:48:02,560
+in so delali pol vsi.
+
+537
+00:48:02,760 --> 00:48:04,560
+Mislim, tako, po mojih skušah,
+
+538
+00:48:04,560 --> 00:48:07,359
+to debageranje je, bolj, ko si low-level,
+
+539
+00:48:07,560 --> 00:48:10,359
+več časa potrebuješ, no, se pravi, tudi zato,
+
+540
+00:48:10,560 --> 00:48:12,359
+pr navat, bolj, ko si low-level,
+
+541
+00:48:12,560 --> 00:48:15,359
+več investiraš v to, da res nekaj zagotovil dela
+
+542
+00:48:15,560 --> 00:48:17,359
+in če vam nek priberjavo, ne,
+
+543
+00:48:17,560 --> 00:48:19,359
+recimo, ko šlo na software developmentu,
+
+544
+00:48:19,560 --> 00:48:21,359
+nek ticket pr navat, pa bom rekel, poprečo,
+
+545
+00:48:21,560 --> 00:48:23,359
+reši po ena dnevno način, nek bug,
+
+546
+00:48:23,560 --> 00:48:25,359
+vse vem, da nekaj reši, pa če je
+
+547
+00:48:25,560 --> 00:48:28,359
+že na tem Linuxu, pa je da je embedded,
+
+548
+00:48:28,560 --> 00:48:30,359
+ne vem, pr nas pravila, že ene dva, tri dni
+
+549
+00:48:30,560 --> 00:48:32,359
+lahko komod zgubiš, če je na mikrokontrolerju
+
+550
+00:48:32,359 --> 00:48:35,160
+ali pa FPGA, tila traja že teden, dva,
+
+551
+00:48:35,359 --> 00:48:37,160
+ni nič tako v obreku nenavadnega,
+
+552
+00:48:37,359 --> 00:48:40,160
+če je pa hardware, pa lahko hiter gotoviš,
+
+553
+00:48:40,359 --> 00:48:42,160
+mislim, lahko dolgo časa že porabaš,
+
+554
+00:48:42,359 --> 00:48:45,160
+pa tudi, če hiter gotoviš, pa vrabaš preveliko časa,
+
+555
+00:48:45,359 --> 00:48:48,160
+da pa dobiš novo serijo hardware, ne,
+
+556
+00:48:48,359 --> 00:48:51,160
+in tem pr navat pa res hočeš biti prepričan,
+
+557
+00:48:51,359 --> 00:48:53,160
+da to, kaj si dal dela, da deluje,
+
+558
+00:48:53,359 --> 00:48:56,160
+tako da, recimo, tem pr navat je,
+
+559
+00:48:56,359 --> 00:48:58,160
+ker je nek par inženirov pogledal design,
+
+560
+00:48:58,359 --> 00:49:01,160
+tudi simulacije, da preveri, što vse deluje,
+
+561
+00:49:01,160 --> 00:49:03,959
+ampak, ja, na koncu, ko si rekel, lahko ti pa zgodi,
+
+562
+00:49:04,160 --> 00:49:05,959
+pa nam se je tudi tudi ta tem zgodil,
+
+563
+00:49:06,160 --> 00:49:09,959
+da so, recimo, položil nekje napalčne opore,
+
+564
+00:49:10,160 --> 00:49:12,959
+ampak je v dejansko tudi embalaža bila prava,
+
+565
+00:49:13,160 --> 00:49:15,959
+ampak on, kaj je dostavil provider za opore
+
+566
+00:49:16,160 --> 00:49:18,959
+in napalčno otrmel, in pa so, recimo,
+
+567
+00:49:19,160 --> 00:49:21,959
+vse naprave, ki so imeli ta opor, so napalčno opor dobili.
+
+568
+00:49:22,160 --> 00:49:23,959
+No, ker, ko si glih omenil, ja, zdaj pa morem to,
+
+569
+00:49:24,160 --> 00:49:25,959
+se je zelo kratka zgodba ogledati.
+
+570
+00:49:26,160 --> 00:49:27,959
+Pri nas smo, ko smo začeli s bring-upom delati,
+
+571
+00:49:28,160 --> 00:49:29,959
+ki še ni končan na naših bordih, ne,
+
+572
+00:49:30,760 --> 00:49:35,760
+je naš, je clock generator od sebe dejal 80 MHz,
+
+573
+00:49:35,959 --> 00:49:37,760
+namesto 100, ne, in ima pač,
+
+574
+00:49:37,959 --> 00:49:40,760
+sam čip ima interne pull-up rezistorje,
+
+575
+00:49:40,959 --> 00:49:43,760
+pa pa lahko dodatno daješ rezonanje gor.
+
+576
+00:49:43,959 --> 00:49:47,760
+In smo se pač ušteli pri izbjeri velikosti
+
+577
+00:49:47,959 --> 00:49:51,760
+tega rezistorja, ne, no, in kaj smo gotovili?
+
+578
+00:49:51,959 --> 00:49:54,760
+Ko se je bord se grel, se grel, ne,
+
+579
+00:49:54,959 --> 00:49:57,760
+delati v topu fizično, je začel delati na 100 MHz-ih,
+
+580
+00:49:57,760 --> 00:49:59,560
+доктор Нибил Борд съветва.
+
+581
+00:50:00,000 --> 00:50:08,000
+Delo v osemdeset, in smo ono tako, kaj se dogaja, no beno mu jasen, in smo s prvimi mislili, da je kakšen kontakt, ker je BGA,
+
+582
+00:50:08,000 --> 00:50:17,000
+ker se pravi, kaj moč podipine, ne, da je kakšen stik slab in ko se se greja, da se tok ekspenda, glih toliko, da je stik dostika, pride pa začne prav delati, ne.
+
+583
+00:50:17,000 --> 00:50:26,000
+No, kaj je bila, kaj je bil koz, ali pa kaj je bil fora, da smo napačno vrednost tega zonaljega opora izbral,
+
+584
+00:50:26,000 --> 00:50:38,000
+in ko se je bord se grev, je ta opor glih tolk šel ven iz tolerance, da je padel not v pravo toleranco čipa, ki je pa začel 100 MHz frekvenca oddajati od sebe.
+
+585
+00:50:38,000 --> 00:50:41,000
+Tak, tak, je se nabo zabavno, kaj ti pune sreče prav dela.
+
+586
+00:50:41,000 --> 00:50:51,000
+Ja, tako, je pa dober learning. No, ampak, kaj smo pri tem, a imate, imate vi kaj še in teren library, bi rekel, teh komponent,
+
+587
+00:50:51,000 --> 00:50:56,000
+ko jih lahko re-uzate, over and over, da veste, da dela, da to je samo tako copy-paste.
+
+588
+00:50:56,000 --> 00:51:09,000
+Seveda, ena stvar je začetek, da imaš te library, s tem, kjer je opor, uporabaš kondenzatorje, pa se to skozi updata, ampak bom rekel, tudi naše naprave delamo na nekaj čin modularno,
+
+589
+00:51:09,000 --> 00:51:19,000
+tako, da jih lahko tudi druge uporabaš, bodo nek primer, imeli smo eno generacijo nekih naprav, pa pa na vas pa šta, imaš motherboard,
+
+590
+00:51:19,000 --> 00:51:27,000
+pa imaš pa, posebje veze imaš pa za amplifare in zdaj smo lahko te enake amplifare, smo pa lahko zelo uporabili na nove generacije naprav.
+
+591
+00:51:27,000 --> 00:51:35,000
+Ko tudi probamo vse te stvari čim bolj re-uzati, da s tem, ja, in zato, da katamo razvoj in zato, da so te stvari čim bolj preverjene,
+
+592
+00:51:35,000 --> 00:51:45,000
+kaj, ja, sej, kot sem prej omenil včasih, res rabiš veliko časa, da vse stvari preverjaš, pa da res rata je zanesljiva, na, tako, da se splača investirati v to,
+
+593
+00:51:45,000 --> 00:51:52,000
+da imaš, pa bom rekel, podobne komponente, znane komponente in podobno, pa v bistvu rečeš še naprej, sodelovati hočeš te partnere,
+
+594
+00:51:52,000 --> 00:52:00,000
+ki te, recimo, polagajo, te stvari, v našem primeru je to LTEG, imamo, ne vem, z njimi sodelujemo, ne vem, že tudi 15 let,
+
+595
+00:52:00,000 --> 00:52:08,000
+in bomo tudi še naprej z njimi sodelovali, ker tudi tukaj, bom rekel, to zaupanje, pa da je zelo pomemben, pa veš, da vse kone ni zaneseš,
+
+596
+00:52:08,000 --> 00:52:16,000
+je čisto drugače, kot da ti bi, ne vem, enega ena ključna izbral, zelo je pomemben, da celi v Rigi zaupaš, pa da je lahko zaupaš.
+
+597
+00:52:16,000 --> 00:52:28,000
+Samo vi imate, vam je, bom rekel, že verjetno zelo lahko, ker imate tako čenrenomej, pa tudi imej v bistvu, da se v Riga tudi za vas potrud kontra nekako.
+
+598
+00:52:29,000 --> 00:52:40,000
+Ja, tako, tako. Mislim, moraš pa, mislim, ja, se potrudi, je pa tako, da dovoljško pa tudi moraš pomagati, no, pa sam poskrbiš, da je dovolj dobro.
+
+599
+00:52:40,000 --> 00:52:50,000
+Bom imel neko, še neko zgoljbo, no, imamo tudi neke Ethercat kable, kar so v bistvu je nek ta kabel, ki je noter Ethernet, pa hrati tudi napajanje.
+
+600
+00:52:50,000 --> 00:53:03,000
+In to je precej, bom rekel, visoko napetnostno napajanje in imaš lahko hiter motne. In recimo s temi kablji smo, ne vem, let, bom rekel, skor leta in leta smo se matrali, da smo dobili nekega dobrega providerja, ki je pa znal prv skupinet kable.
+
+601
+00:53:03,000 --> 00:53:10,000
+Zdi se je preprosto, no, pač, vaš, in data, podatek, pa imaš po sebi še power, saj im se je skaza, da je to precej kompleksna stvar.
+
+602
+00:53:10,000 --> 00:53:15,000
+Ampak, ja, pač probavaš, pa se trudaš, pa poiščaš nekoga, pa tudi skupinet najdeš neko rešitev.
+
+603
+00:53:16,000 --> 00:53:17,000
+Najboljše.
+
+604
+00:53:42,000 --> 00:53:43,000
+Najboljše.
+
+605
+00:53:46,000 --> 00:53:50,000
+Prej si vmenil kalibracijo, malo bom šel nazaj, ampak meni je tako zanima,
+
+606
+00:53:50,000 --> 00:53:59,000
+kaj vi šipate nekam to napravo, pa je ta naprava že malo letih, to se pravi, praviš, da še ne vem, 15 let imate te naprave.
+
+607
+00:53:59,000 --> 00:54:10,000
+Domnejam, da se morajo potem te naprave tudi ponovno umerti, pa kalibrirati, a to potem stranke delajo, v bistvu, lokalno vam šipajo, kako potem to zgleda nek ta…
+
+608
+00:54:10,000 --> 00:54:19,000
+Tako je, ja, morajo v bistvu, morajo enkrat na let kalibrirati naprave, oziroma se si propvedo umerti, pa potem skalibrirati, če se namoto nek tak izraz.
+
+609
+00:54:19,000 --> 00:54:30,000
+Je pa tako, da imamo svoj ta kalibrirni laboratorij, imamo potem tudi, ja, še po svetu, recimo v Ameriki imamo svojega, v Aziji imamo svojega,
+
+610
+00:54:30,000 --> 00:54:41,000
+tudi imamo par teh naših certificiranih laboratorijov, ki te to skalibrirajo, imamo pa tudi to opcijo, da pa lahko sama stranka si lahko kupi upremo za kalibracijo,
+
+611
+00:54:41,000 --> 00:54:53,000
+pa se sama kalibrira naprave, saj pa to ni uradna kalibracija, ampak je, mislim, tako, bom rekel, spravo, mogoče nimam papirja, ampak tako po funkcionalnosti je pa to čisto enako vredno.
+
+612
+00:54:54,000 --> 00:55:01,000
+Lepo vse omerjati svoje inštrumente. Tudi tukaj bi rekli, da smo mogoče malo posebni, da tudi umogočimo strankam, da lahko tudi sami kalibrirajo.
+
+613
+00:55:02,000 --> 00:55:13,000
+Če, spravo, vi ste v bistvu neka internacionalna firma, kaj je to pomeni? To spravo, na različnih kontinentih imate taj laboratorij, pa nabraš prodajnike, pa marketing, pa kaj še imate?
+
+614
+00:55:13,000 --> 00:55:29,000
+V bistvu tako je, da večje del razvoja je v Sloveniji, tukaj imamo, se pravi, večiljnega je v Trbovlah, tudi HQ, imamo tudi nekaj malega v Mariboru in Ljubljani, pa imamo pa še po svetu, ki šle manj, še te odelke za razvoj,
+
+615
+00:55:29,000 --> 00:55:55,000
+pa imamo eno podjetje, ki smo ga kupili tudi v Dunaju, pa zdajle smo eno kupili na Hrvaškem, ki so specializirani za neke turbine, pa merite na tem. Ja, potem imamo po svetu, imamo pa veliko, bo neko podružnic, tem pa večinoma je to lokalni support, je sales, so te, ko smo pomeni, kalibracije, so tudi kajšni, bom rekel, biznis developerji,
+
+616
+00:55:55,000 --> 00:56:19,000
+kaj se, recimo, lahko tudi specializirajo za nek tip meritev, pa pa recimo, če je pa kakšna večja država, kot je Amerika, imajo pa pač še celo svoje aplikacijske inženirje ali pa celo programirje, kateri pa lahko pa pač celo kakšno avtomatizacijo ali aplikacijo nad nami še zgradijo, no, tako da, ker mislim, da tudi v Ameriki imamo, tam, že ene še jasne 700 tudi zaposlenih, tako se te lahko že privošča tako večja ekipa.
+
+617
+00:56:19,000 --> 00:56:37,000
+Kaj pa pal ta marketing zgleda? Močno sposebnih hodat, kar to je, prav nam, se mi zdi, da je še zmer drugač, mi hodimo po teh konferencah, ne vem, Cubeconi, pa programerske konference, pa se mi zdi, da je to, da v elektrotehniki, pa v mirosloviju, pa v industriji, to je še zmer malo drugač, kako to kaj zdi.
+
+618
+00:56:37,000 --> 00:56:50,000
+Pa še pod vprašanjem imam tukaj, ne, ko hodite po teh konferencah, kdo tam je vaša konkurenca, koga gledate tako malo po stran, pa vam, ker res nic malo na živce, kaj zazrečate, ampak se smejete zato, da je kreper.
+
+619
+00:56:50,000 --> 00:57:18,000
+Okej, se pravi, ja, dost hodimo po teh sejmih, čeprav bi pa rekel, da velike, ki našo stranko najdeš, je tudi tako, da dejansko poznaš ljudi v tej industriji, se pravi tudi, ne vem, čim so te naši prodajniki dobri, no, so ponavad, unite najboljše so nekaj, ne vem, neke inštrumente za neko, bom rekel, stvar, ali pa stranke, ki jo prodajajo že 20, 30 let in potem že oni kar imajo neke kontakte in ne vem, kar poznajo.
+
+620
+00:57:18,000 --> 00:57:20,000
+Aviar pa šampanc.
+
+621
+00:57:20,000 --> 00:57:35,000
+Tako je, in pač poznajo stranko, pridjo od njih in pa pač se poznajo, ne, pokažejo lahko naš produkt in potem tudi lahko naredijo demo, pa pa ponavad so itak stranke navdušene. Zdaj pa, kdo je naša glavna konkurenca?
+
+622
+00:57:35,000 --> 00:57:44,000
+Tle sta, bom rekel, dve največji podjetji sta HBK, to je Hottinger and Brilliant Care, pa National Instruments.
+
+623
+00:57:44,000 --> 00:58:10,000
+Bom rekel pa tako, da bi se grado gledali po mojni teneno, tudi recimo s HBK-jam, zdaj le celo skupaj sodelujemo v nek, imamo venture skupno podjetje, kaj smo se odločili, da bomo neki odprtno kodno protokol pa SDK, ki ga lahko in na našem njihovo napravljajo, da skupaj sodelujemo, ki se imenuje OpenDAQ, tudi veliko skupaj sodelujemo.
+
+624
+00:58:10,000 --> 00:58:29,000
+Bi pa tudi rekel tako, da bolj konkurenca bi rekel nas po mojne vare, zato ker mislim, da mi odžeramo te, bom rekel, dele že v prometa skozi čas, pa tudi tako, bom rekel, kakor gledam to našo konkurenco, se mi zdi, se skoraj upam, da bomo najboljše produkte.
+
+625
+00:58:29,000 --> 00:58:58,000
+Je pa recimo, kar je pa prehajeno zadnje leta, je pa kitajska in zdaj pa da ti ne vem imena, ampak bom rekel, recimo tam lokalno na kitajskem že recimo precej zgubljamo, no, ker tudi so malo protekcionistični, tako da če manj nas zbero, tujo podjetja, ampak kitajsko bojo kitajsko zbrali, ampak bom rekel, se tudi tuk, ne vem, kitajske podjetja so, sedaj tako jaz opaziram, so bolj odzivno na trk,
+
+626
+00:58:59,000 --> 00:59:28,000
+bolj so trenutno inovacijsko osmerjena, hitrej se obrnajo, no, in tako da jaz, če bi me prašel, kdo mislim, da bo največji konkurence čez deset, dvajset let, bi rekel, kitajska podjetja, ker ta recimo HBK je pa predvsem je bolj, bom rekel, nemčko podjetje, pa bom rekel, pa je recimo, mislim, da ga je kupil nek sklad, podobno z današnjim instrumentom in se mi zdi, da tle pa mogoče mal preveč optimizirajo kratkoroči dobitje,
+
+627
+00:59:28,000 --> 00:59:33,000
+kratkoroči dobiček, pa mogoče so pa zaspali pri sami tehniki, no, tako.
+
+628
+00:59:35,000 --> 00:59:39,000
+A imate, se pravi, vi imate vse proizvodno palo v Sloveniji, vseh vaših naprav?
+
+629
+00:59:39,000 --> 00:59:55,000
+Tako je, se pravi, in tle le, kaj imamo proizvodno, imamo in to, da naredimo v hiše, tle imamo, ne vem, CNC mešine, da izrezlajo in zanominja kose, potem imamo polaganje samih komponent, navezje, tudi raznost L-tehniki imamo tudi v trbovlah,
+
+630
+00:59:55,000 --> 01:00:00,000
+potem pa dejansko imamo proizvodno, kad pa to skupaj se šralfa in naprave.
+
+631
+01:00:01,000 --> 01:00:18,000
+Zdaj bomo pošli v posebno novo kategorijo, intimno, s Tomažem, in te bomo vprašal, David, kako prideš v tak posel, kje si ti začel, od kje, gledaj na tvoj nasmešek s proščenost in dobro voljo, sklepam, da uživaš od tem, kar počneš,
+
+632
+01:00:18,000 --> 01:00:26,000
+kako najde mladi David pot, po kateri hodi, da je prišel do danes do ogrodja?
+
+633
+01:00:27,000 --> 01:00:42,000
+Mislim, to je kar zanimiva zgodba. Ja, tako, jaz sem že odzmeri, sem rad programiral, ne, pa rad sem imel, bom rekel, take logične oganke, pa bil sem malo čudan, se pravi, sem tudi imel rad enačbe, pa to matematiko in fisko.
+
+634
+01:00:42,000 --> 01:00:44,000
+Zdaj si med sebi enačen bitko.
+
+635
+01:00:45,000 --> 01:00:59,000
+Ampak pa sem rekel, vse ne bi šel urad na računalništvo, ker to so programirane, malo boring, pa bom šel v računalni trojtehniko, pa tam je bila všeč avtomatika, ker je bilo tudi tako zanimivo, da tudi zvezi pa tudi nisem rad delal.
+
+636
+01:01:00,000 --> 01:01:15,000
+Mislim, zdaj ta avtomatika se mi je zdaj kar zanimiva, malo sem je oprogramiran, pa je bilo matematiko in je bilo super, pa sem pa, ja, kar sem to diplomiral, sem pa potem iskel neko službo, pa spet kaj mi je bilo zame, ne, sem malo tuhtil, pa spet pa je bilo nekaj tako, da bi nekaj programiral,
+
+637
+01:01:15,000 --> 01:01:44,000
+sem ne predpisan programiral, da bi tako raševal nekaj inženirske probleme na tem večjem skelo, no, in pa sem itak sem malo na kolisko in je pa začuda, ja, takrat sem še delal tudi za, prek študenta, za Vesolje Pikasika, ne, ta Slovenska vesolska agencija, takrat je pa tudi z njimi sodeloval pa tudi Devesoft, no, ker so lahko sodelovali z naso, pa so tudi rekel, ok, podjetje v trgovljah, ok, malo čudan, ok, ampak če sodelal z naso, ne, nekaj pa bore vznot, ne.
+
+638
+01:01:45,000 --> 01:02:04,000
+Pa sem pa čel na intervju, tam sem tudi spoznal tega Devesofta, glavnega lesnika Jureta, pa se mi je zdaj tako kar zadimilo, to, kar delajo, je jo tudi zadimilo, to tako prvi vtis, ko se mi je zdaj tako, precej blik ni dodeno, in pa, ja, ok, probimo, ne, sečenja rata, ne, celah pol leta zamenjaš, ne, tako, tako se kak tuhto, ne.
+
+639
+01:02:04,000 --> 01:02:06,000
+Sej strbovali vlak, tako, ne.
+
+640
+01:02:07,000 --> 01:02:35,000
+In, ja, sem začel delati kot software developer, tukaj sem bil v automatika, sem bil tudi tukaj malo v real-time in sem, smo šli najprej, da delamo nekaj naprave, kaj pa če merijo, ampak lahko so pa tudi, bom rekel, lahko delujemo tudi v real-time-u in tako je tudi prišla ta idea, da smo pa naredili nekaj naprave, kaj deluje na tem Etrket protokolu, kaj je real-time, in sem, ja, redel počas, sem podporil en napravo, pa dve napravi in potem, kar nekaj, tudi je bila okolj ekipa,
+
+641
+01:02:35,000 --> 01:03:04,000
+in zdi se mi, da pa sem kar nekaj, počasi sem neformalno vodil to ekipo, tem se počasi podjetje se povečavalo, no, kaj sem, ja, začel, smo bili, kaj, ne, pet, šest programerov, se je skupilo petnaest ljudi zaposlenih, takrat je tudi še Jure programiral, pa trenutni direktor je programiral, pa smo pa počasi rastel, pa smo se mogli malo organizirati drugač in je sodela več, recimo, postov vode razvoja, pa bi me došlo v svojo ekipo.
+
+642
+01:03:05,000 --> 01:03:32,000
+Pa sem jaz počasi gotov, ok, dve ekipi sta, kar nekaj, ne programiram več niti 50 procentov časa, ampak programiram 20 procentov časa, pa pa bo že počasi 10 procentov časa, pa sem pa v tukstu, a sem jaz povščen programer, a sem bil organizator, ja, pa pa, mislim, sem se pa nekaj pa v enem trenutku odločil, ok, zdaj pa, pa moja se moram odločiti, ali bom bil še naprej programer,
+
+643
+01:03:32,000 --> 01:04:01,000
+pa jaz se potem dedikejtam eni ekipi, pa sem pa mogoče bil arhitekt, ali pa probam nekak, bom rekel, bolj v ta big picture organizacije, no, ker bo me pa nekaj bilo zanimljivo, no, pa je se tudi tak, da vsake toga časa rad malo zamenjam, pa če sem že v isti službi, je fajn, da se pa sem malo zamenjam, seveda, na srečo se podete, je vsake petleti spremenileno, no, in se pa, predvsem sem užival v tem, da, ne vem, da optimiziram procese, ali pa to, da imam vpliv na to, da se,
+
+644
+01:04:02,000 --> 01:04:31,000
+ne vem, da se stvari na splošno izboljšajo, no, in pa badajansko, kot vodja, imaš mogoče malo več moči, da to spremeniš, pa sem rekel, ok, bom pa šel v to neko vodenje, pa probu, in tudi še pomagati, ja, in pa nek, mislim, da je ne tri leta, šteri leta nazaj, sem nekak postel, ja, vodja, seveda to se ni bilo tako nazivno, ampak ja, zdaj, pa smo predevali, da to vodja, MBL-et razvoja, podobno pa še en drug kolega šel, je pa šel v vodjo, no, sohtev razvoja, recimo.
+
+645
+01:04:31,000 --> 01:04:44,000
+A si zajeban proti svojim, kako bi rekel, nižje pohjera, arhični lestvici? A bi te opisali kot zajeban ga? Ne, mislim, da ne. A lahko nečem besedo zajeban o to? Ok, zahtem.
+
+646
+01:04:45,000 --> 01:04:58,000
+Sedaj, kot ga mi dajo na ena na ena pogovorih in na letnih razgovorih in na feedbacku, mi prajo, da ne, no, tudi po mojem splošču imamo tako kulturo v podjetju, da smo, ne vem,
+
+647
+01:04:58,000 --> 01:05:09,000
+se tudi majhli šejaz, kot si reče, imamo flat strukturo, no, ampak pa nas je tako, da vsak ljadi z vsakega, pač imamo otprte karte, jaz tudi zelo verjamem v transparentnost,
+
+648
+01:05:10,000 --> 01:05:20,000
+pa po moje, mogoče ta prednost mene kot vodja je to, da sem bil prej, pred vse leti, software developer, pa nekako vem, kako koli si software developer želijo, ne,
+
+649
+01:05:20,000 --> 01:05:31,000
+da pač moraš imeti nek mir, noče se za neko drama ukvarjati, hočeš imeti neke, ne vem, primerne pogoje, pa recimo niti kot je vsak dan en drug task noter vletava, ne,
+
+650
+01:05:32,000 --> 01:05:42,000
+tako da sploščo mislim, da znam nekokolje nares, da je ljudem všeč, pa tudi, ne vem, če, ne vem, tudi kaj, darkoli se ne strinja z mano, je to meni najbolj vrhunsko, da slišim drugo mnenje,
+
+651
+01:05:43,000 --> 01:05:48,000
+pa se lahko pogovorimo, ne vem, tudi, po moje, ne vem, po moje, da nisem za jeben šef, ne.
+
+652
+01:05:49,000 --> 01:06:00,000
+Ok, še kar pa pomaga, lahko pa sam potrdi, ima pa tudi vrhunska kuhinja, ki jo imajo na boljo, hrana je top, vsakič, ko sem bil tam, sem jih vabljen na kusilo in…
+
+653
+01:06:01,000 --> 01:06:02,000
+Pa zasa je imel vredu Viljamo, kot tudi, ne?
+
+654
+01:06:03,000 --> 01:06:07,000
+Tisto pa v menzi nimajo, no, vse obtano, saj, da bi jaz smerne, različno ima David, ki ste druge informacije.
+
+655
+01:06:08,000 --> 01:06:09,000
+Vse v rado, ne.
+
+656
+01:06:09,000 --> 01:06:12,000
+Ja, ki ste dva hladilnika, javno in privatno, ne?
+
+657
+01:06:12,000 --> 01:06:13,000
+Tako, tako.
+
+658
+01:06:15,000 --> 01:06:16,000
+Smem?
+
+659
+01:06:16,000 --> 01:06:17,000
+Jasno.
+
+660
+01:06:18,000 --> 01:06:19,000
+Ne, ne, ti je v redu navali.
+
+661
+01:06:20,000 --> 01:06:24,000
+Kaj, kje katate kornerje na projektih, če kje?
+
+662
+01:06:25,000 --> 01:06:26,000
+Ker mislim si, imaš…
+
+663
+01:06:26,000 --> 01:06:27,000
+Jaz ne vem, kje.
+
+664
+01:06:27,000 --> 01:06:28,000
+Maš, kje?
+
+665
+01:06:28,000 --> 01:06:29,000
+Tako, da je ukroglo.
+
+666
+01:06:29,000 --> 01:06:34,000
+Ja, imaš, seveda vsak projekt ima neke constrainte, če drugega ne, vedno se partnerijo tudi nekje neha.
+
+667
+01:06:34,000 --> 01:06:41,000
+Dobar, prva se govori ob bistveno večjih cifrav, še zmedaj nek sealing. Se pravi, kje vi rečete, ok,
+
+668
+01:06:41,000 --> 01:06:45,000
+dejmo bolj fokusirati, dejmo to balastrej za stran.
+
+669
+01:06:45,000 --> 01:06:52,000
+Mislim, v resnic, skos nekje, kaj tamo kornerje je. Mislim, tako, mojli, ko v tem poslu moraš biti zelo pragmatičen,
+
+670
+01:06:52,000 --> 01:07:00,000
+pa v bistvu moraš skos razmišljati, kaj je vredno na res. Res moraš paziti, da se nekje ne zacikljaš, pa ne investiraš v nekje preveč energije.
+
+671
+01:07:01,000 --> 01:07:08,000
+Kaj, tako, realnost je, da, če bi hotel imeti idealni produkt, bi bankrotirala, ne.
+
+672
+01:07:08,000 --> 01:07:17,000
+Tako da, mislim, kaj tamo kornerje, začetek je zelo fajen, da veš, kaj je tvoj končni cilj, pa potem, bom rekel,
+
+673
+01:07:17,000 --> 01:07:28,000
+arhitekturno pogledaš, kako bi lahko ta cilj dosegal z nekak čimen, bom rekel, čimen energije, ampak hrati pa, da je to vse nekaj trajnostno rešitev.
+
+674
+01:07:28,000 --> 01:07:38,000
+Kasen, bom rekel, nismo pa več start-up podjetji, ki si pa lahko pravočeš tako, da š nekje narediš, pa boš pa mogoče za en mesec okolj prekucat vso kodo, ne.
+
+675
+01:07:38,000 --> 01:07:52,000
+Tako da, po moje, tlele zelo prav prijdejo, bom rekel, inženirske in skušeno, uniki, ki so, po moje, bili senior developerji, da vejo, ok, to je good enough, to pa mogoče se popravlja.
+
+676
+01:07:52,000 --> 01:08:06,000
+Daj mi en konkreten primer, ne vem, je recimo slabšo varianto nekih čipov izberete, ali manj inženirskih ur, ali je to re-usability enih, tako, konkretno mi dejkašno idejo.
+
+677
+01:08:06,000 --> 01:08:11,000
+Ja, recimo, zdaj, zato štam nek…
+
+678
+01:08:11,000 --> 01:08:16,000
+Da je nekaj varenga, tako, on upor, ki ima ful toleranc, damo mnj toleranc.
+
+679
+01:08:17,000 --> 01:08:24,000
+Mislim, vse to pre komponente, ki je teta druga zgolj, pa ti imaš neke specifikacije, pa poiščaš komponente, da so znotraj te specifikacije.
+
+680
+01:08:24,000 --> 01:08:31,000
+Ti naučiš vzeti najboljšo, najdražje komponente, kot je vsem produktu, ki bo na koncu z to kadražje bil.
+
+681
+01:08:31,000 --> 01:08:39,000
+Ti pač pogledaš, kaj hočeš dosežt, in potem v bistvu nekajčin poiščaš, kar se grada za sviš, najti se najdražje komponente, kot je to omogoča.
+
+682
+01:08:39,000 --> 01:08:46,000
+Ampak to zameniti ni katene kornarev, to je zgolj samo optimizacija vezja.
+
+683
+01:08:46,000 --> 01:08:48,000
+Dobra poslovna praksa.
+
+684
+01:08:48,000 --> 01:08:54,000
+Tako, tako. Ne vem, je pa recimo, ne vem, kaj tam o kornare.
+
+685
+01:08:54,000 --> 01:09:02,000
+To bom tako rekel, kar nek produkt naredično, recimo, probamo do prve stranke ga posleti, še predem je perfekten,
+
+686
+01:09:02,000 --> 01:09:08,000
+zato tudi dobiš prej feedback, pa potem dejansko gotoviš, kaj še manjka.
+
+687
+01:09:08,000 --> 01:09:15,000
+Kaj tudi, ne vem, to pomagajo tudi agile teorije in to govori, test early, test often, ne.
+
+688
+01:09:15,000 --> 01:09:20,000
+Hočeš, ne vem, nek produkt biti zapakiran, pa ga en lej dela, pa ga še ven gotoviš, da čisto ne robe.
+
+689
+01:09:20,000 --> 01:09:27,000
+Pač probaš narediti nekaj, ki je dost dober, da stranki popreče, ok, to je vredu, to je vredu, to je pa lahko popravljati.
+
+690
+01:09:27,000 --> 01:09:30,000
+In pač potem ti spopraviš.
+
+691
+01:09:30,000 --> 01:09:38,000
+Ne vem, kaj ti nekoli naredi, ne vem, zdaj moram se tudi dalo odločiti, da, ne vem, tam imamo neko sekvenco,
+
+692
+01:09:38,000 --> 01:09:44,000
+kaj moraš vsega podpreti, pa posleti nekaj stranki, pa moraš, ne vem, da podpreš v softwareju,
+
+693
+01:09:44,000 --> 01:09:53,000
+pa, ne vem, narediš kalibracijo, pa recimo, ne vem, enkrat je zmanjkal čas, da bi še vizualno vse vezave v programu zgledale.
+
+694
+01:09:53,000 --> 01:09:56,000
+Zdaj pa se moraš pa odločiti, a je, bi to vse ven poslovali, ne, ne.
+
+695
+01:09:56,000 --> 01:10:01,000
+Moraš se pa znati v cen, kaj je tisto in to za tisto stranko pomembno.
+
+696
+01:10:01,000 --> 01:10:08,000
+Ampak pa, ne vem, recimo za neko specifično stranko to ni pomembno, hoče, je bolj pomembno to, da lahko recimo en mesec sprej se testira,
+
+697
+01:10:08,000 --> 01:10:12,000
+pa tudi, če nima tiste slikce zraven, ker te lepo nariše napravo.
+
+698
+01:10:12,000 --> 01:10:17,000
+Tomaž, ti je bil dober, on da spod, kje pa ti kataš korno, Tomaž, pred vrutarjo?
+
+699
+01:10:18,000 --> 01:10:19,000
+A?
+
+700
+01:10:19,000 --> 01:10:20,000
+Nikjer še.
+
+701
+01:10:20,000 --> 01:10:21,000
+Nikjer še?
+
+702
+01:10:21,000 --> 01:10:22,000
+Ne, nikjer še.
+
+703
+01:10:22,000 --> 01:10:23,000
+Ni si prišel do finančnega vidika.
+
+704
+01:10:23,000 --> 01:10:29,000
+Ne, zaradi tega, ker trenutno brnamo investitorski denar, a veš, tako da dokler bi moj se, a veš, brezveze sekerati bolj preveč, ne.
+
+705
+01:10:29,000 --> 01:10:30,000
+To si bolj lepo povedal.
+
+706
+01:10:31,000 --> 01:10:40,000
+Ne, smo dejansko, recimo, na našem nivoju, ker mi pa smo start-up, tako dva pa pol človeka delamo na tem, ne, in mi smo pa dejansko, ne vem,
+
+707
+01:10:40,000 --> 01:10:54,000
+FI-chip, taka bedarija, ne, ampak FI-chip, ne, za tiste, ki ne veste, FI-chip pretvarja iz elektrike v bite, takore, kočno, se pravi, mrežne podatke, ne, in FI-chip smo,
+
+708
+01:10:55,000 --> 01:11:09,000
+to je šlo tako časa ogromno, mojega osebno sem jih iskel, ne, ker, recimo, najboljši so, consider tele Marvel je proizvajavac, ne, ampak je tako gigabiten Marvelo-chip je 15 dolarjev za nekoga, nobody kot jaz, recimo,
+
+709
+01:11:09,000 --> 01:11:25,000
+ker startamo z nule nobenih ves, pa tako na mouserju skor naročiš, a veš, je 15 dolarjev, ne, pogreš pa malo v krok, pogledaš, pa vidiš, da ima, da ima Max linear, so pa odkupili IP od Intel-a, se pravi, ima Intel-ove FI-chipe, ki so 20 let že proizvodni,
+
+710
+01:11:25,000 --> 01:11:54,000
+pa je tako 80 centov versus 15 dolarjev, ampak pazi to, kar je worse je to, da imajo boljše specifikacije, pa več fičarjev za 80 centov na čip versus 15 od Marvela, ampak Marvel ima pač to, ta renome, pa niso zred tega nič boljši ali pa slabši, in, lej, tle, ne, in se vse poznat, a veš, ali pa RAM, ne,
+
+711
+01:11:54,000 --> 01:12:21,000
+se pravi, pr ne mislim, da moramo zdaj vesoftom tudi blizu, ne, primerjati, še 10, 15 let, ne, ampak, a veš, zato, ker smo nikoj ništa že pr RAM-u loh, vidiš, a veš, imaš vzameš en RAM, ki ni mikronov, ki ga zdajle imamo, pa bo fulcen, pa bo vsaj 30 procentov, pa pr nas je RAM, ne vem, strošek borda je 60 dolarjev, samo RAM-a gor, recimo, ne, tako da tle, za nas zaenkrat se tle.
+
+712
+01:12:21,000 --> 01:12:49,000
+A pa, ne vem, da dam primerjavo, zakaj bi nek zelo natančen opor vzel, ker, recimo, opor, natančen opor v dnanski je pomemben, pri, pa, tudi pri sami meritevi, če pa lahko potem napravo skalibrejaš, pa v bistvu pokompenziraš to, no, pa imaš lahko, recimo, potem, da si kratce ne višo napravo, a pa podobno, ne vem, imaš, recimo, te kloke, ki so bolj pa mnj natančni, pa ima tega tako, da te, če te ure po tem kloke splotnje prilagajaš, se lahko pravoščaš mnj natančne oscilatorje,
+
+713
+01:12:49,000 --> 01:12:57,000
+pa bojo vse, na koncu za, za uporabnika, bojo vse zelo natančne, mislim, ura bo zelo natančna, ker jo bo splotnje prilagajo, pa regulero.
+
+714
+01:12:57,000 --> 01:13:25,000
+Al pa v elektrotehniki imamo ta klasičen software debouncing gumbov, a ne, ki imate gumb, pa, če ga boš pritisnul, če nima zraven kondenzator, jo bo pa zmal zaizkriv, in potem to v software-u ti vidiš, kako je bil 100krat gumb pritisnen, a ne, in zdaj to lahko rešiš, ko dodaš kondenzator gora, ne, pa bo ful lepo, ampak, pa, če kondenzator stane en cent, in potem v software-u v bistvu rečeš, prvič, ker se gumb pritisna, je pritisnen tok petok milisekund in je en pritisk.
+
+715
+01:13:25,000 --> 01:13:40,000
+Tako je, tudi, recimo, verjeten, če doma meraš temperaturo, ne, te zanima na pol stopinje natančen, narabaš pa ti verjeten zmer 10.4 sekundo na, ne vem, 0,7, 0,1 stopinju natančen, verjeten, oziroma, ne bi pripravljen investirati 100krat 100 zneska za to.
+
+716
+01:13:40,000 --> 01:13:44,000
+Važno je, da možda je skozi zebe, a ne, tako da, ker to je temperatura.
+
+717
+01:13:44,000 --> 01:14:04,000
+Ja, ker tebe zebe se pa hmožno stisneš, pa je to to, ja. Zdaj te bom pa postavil malo spotlight, se pravi, pred poslušalci iz tvoje ekipe. Zakaj DV Soft, ne kot delodajalca, ampak zakaj bi jaz kot stranka se na vas ubrnil, namesto na konkurencov?
+
+718
+01:14:05,000 --> 01:14:14,000
+Ah, ok, dobro vprašanje. Ja, kot sem že prej rekel, jaz dejansko verjamem, da so naši produkti najboljši, ampak zakaj, ne.
+
+719
+01:14:14,000 --> 01:14:24,000
+Bom rekel, da imamo eno veliko prednost, da delamo in hardware in software, pa tukaj lahko primerjamo, ker mi je najbolj všeč, ampak Apple, ne.
+
+720
+01:14:24,000 --> 01:14:33,000
+Če dejansko delaš in hardware in software, lahko res stvari bolj, več možnosti imaš v rokah, pa lahko več stvari zaoptimiziraš.
+
+721
+01:14:33,000 --> 01:14:42,000
+In tudi to je potem, ne vem, kako se sam hardware obnaša, če imaš potem tudi software, imaš res veliko možnosti, da res to zaoptimiziraš.
+
+722
+01:14:42,000 --> 01:14:55,000
+Zdaj pa recimo, v čem smo mogoče boljši od konkurence, je, da neko uporabljika prime našo opremo, pa dodi neko meritev, lahko to naredi zelo hitar.
+
+723
+01:14:55,000 --> 01:15:00,000
+Recimo jaz smo lahko neko premarjavo, pa bom dal spet primer, ka na jameš neko dirka.
+
+724
+01:15:00,000 --> 01:15:05,000
+da delaš teste za avtomobile, ne vem, pred konkurencijo lahko
+
+725
+01:15:05,000 --> 01:15:09,000
+porabaš dan, dva, ne. Pri nas pa recimo za istom ritu smo
+
+726
+01:15:09,000 --> 01:15:13,000
+porabili, ne vem, dve ure časa, da smo lahko vse te stvari posneli,
+
+727
+01:15:13,000 --> 01:15:17,000
+ker je nast software, bom rekel, res je, ker ga delamo skupi
+
+728
+01:15:17,000 --> 01:15:21,000
+s strankami, bom rekel, da je, po mojem mnenju, najbolj user-friendly
+
+729
+01:15:21,000 --> 01:15:27,000
+od vseh softwarev, pa bom rekel, še ena par bombončev,
+
+730
+01:15:27,000 --> 01:15:31,000
+ko mogoče stopamo, je lahko ta resolucija, da smo bolj natančni,
+
+731
+01:15:31,000 --> 01:15:37,000
+pa da smo bolj natančno sinchronizirani kot konkurenca.
+
+732
+01:15:37,000 --> 01:15:43,000
+Ampak bom rekel, da ta celostni, pa še ena velika stvar je,
+
+733
+01:15:43,000 --> 01:15:48,000
+da z nami lahko res izmeriš vse in imaš, bom rekel, imaš potem
+
+734
+01:15:48,000 --> 01:15:52,000
+tudi, ko dobiš podatke, ne samo, da lahko vizualiziraš na tistočen
+
+735
+01:15:52,000 --> 01:15:57,000
+način, potem imaš še možnost, da, ne vem, da diš in pa v analizo,
+
+736
+01:15:57,000 --> 01:16:02,000
+in lahko ken dekodiraš, in da analiziraš, kako motor deluje,
+
+737
+01:16:02,000 --> 01:16:06,000
+lahko, ne vem, FFT daš, ker recimo pri konkurenciji je ponovat tako,
+
+738
+01:16:06,000 --> 01:16:10,000
+da imaš potem specializirane programe, ki ti lahko recimo samo eno
+
+739
+01:16:10,000 --> 01:16:14,000
+zmej teh stvari naredi, pa imaš pa eksportirati podatke še v drug program,
+
+740
+01:16:14,000 --> 01:16:18,000
+pa še tem narest. Tako da mislim, bom rekel, najbolj splošno
+
+741
+01:16:18,000 --> 01:16:21,000
+komenski softwar bom imel.
+
+742
+01:16:21,000 --> 01:16:24,000
+Zajameš podatke in lahko FFT narediš, to je pa nekaj divjega,
+
+743
+01:16:24,000 --> 01:16:28,000
+kot bi si mislil. Drugače, predvstalih pa kaj ekstra plačaš
+
+744
+01:16:28,000 --> 01:16:30,000
+še za en program.
+
+745
+01:16:30,000 --> 01:16:34,000
+Tako, tako, tako. Je pa vse tudi tako, da v večinama se tudi,
+
+746
+01:16:34,000 --> 01:16:37,000
+ko so podjetja, se ponovat specializirajo za en tit meritev,
+
+747
+01:16:37,000 --> 01:16:40,000
+pa nas pa, ne vem, lahko in od teh senzor, ko smo se pogovarjali,
+
+748
+01:16:40,000 --> 01:16:45,000
+lahko dobiš, do tega tudi dopiš kršna kamera, vse lahko narediš.
+
+749
+01:16:46,000 --> 01:16:50,000
+Zdaj pa one stvari, ki so dosti tudi triki, to se pravi,
+
+750
+01:16:50,000 --> 01:16:54,000
+vi imate zdaj te naprave po celemu svetu, pač za kitajskim
+
+751
+01:16:54,000 --> 01:17:00,000
+požarnim zidom v ZDA, v Kanadi, kaj tudi ZDA, pač posod,
+
+752
+01:17:00,000 --> 01:17:04,000
+posod so te naprave, a ne? In zdaj te naprave lahko gornik
+
+753
+01:17:04,000 --> 01:17:08,000
+sofr in so tam prestranki in ona to že ima deset let in kako
+
+754
+01:17:08,000 --> 01:17:12,000
+za Boga to napravo poapdetaš? A to nekdo pride z USB ključkom?
+
+755
+01:17:13,000 --> 01:17:16,000
+A je to ful boleče?
+
+756
+01:17:16,000 --> 01:17:19,000
+Ja, to dejansko, mislim, boleče.
+
+757
+01:17:19,000 --> 01:17:21,000
+Prijetno?
+
+758
+01:17:21,000 --> 01:17:29,000
+Mislim, tako je, vam reku, v naši industriji je tudi te stranke
+
+759
+01:17:29,000 --> 01:17:35,000
+zelo pazijo, ki imajo te meriteve, ki delajo, tudi tukaj zmeri,
+
+760
+01:17:35,000 --> 01:17:38,000
+mislim, zmeri bolj, ampak že zmeri bi tudi ta security problem
+
+761
+01:17:38,000 --> 01:17:43,000
+in lahko se tudi zgodi, da dejansko so te meriteve pa naprave so
+
+762
+01:17:43,000 --> 01:17:48,000
+celo v neki hali ali pa stavbi, kjer ni ne interneta, ne ni česar
+
+763
+01:17:48,000 --> 01:17:53,000
+in v bistvu dubaj nima dostopa do tem. Lahko vem eno anegdoto,
+
+764
+01:17:53,000 --> 01:17:58,000
+ko sem bil še malo bolj džunjer developer, pa sem bil par eni stranki,
+
+765
+01:17:58,000 --> 01:18:03,000
+pa sem vzel ključek, pa sem rekel, ok, bomo poapdetali, pa sem ga
+
+766
+01:18:03,000 --> 01:18:08,000
+v računalnik, pa, cela panika, en ključ se mi zasegar in en ga ključ
+
+767
+01:18:08,000 --> 01:18:14,000
+več nisem v roki, nisem ga več dobil nazaj. Tako da je zelo, vam reku,
+
+768
+01:18:14,000 --> 01:18:18,000
+ja, je težko poapdetat, je pa tako, da, mislim, bom rekel, tudi mogoče
+
+769
+01:18:18,000 --> 01:18:22,000
+kar je malo drugače, to, da enke stranke, vam reku, meritev dela,
+
+770
+01:18:22,000 --> 01:18:25,000
+se dosta odločijo, da jo ima postel primer, da te meriteve delajo,
+
+771
+01:18:25,000 --> 01:18:29,000
+ta naš scenarij dela, tudi vem, če so kažne problemi, vem, kjeri so
+
+772
+01:18:29,000 --> 01:18:33,000
+problemi, bom pustil primer. Je pa spet odvisno, so tudi neki, so tudi
+
+773
+01:18:33,000 --> 01:18:38,000
+take, ne vem, podjetja, ki spohni probleme, jo, se online lahko vsaj dan
+
+774
+01:18:38,000 --> 01:18:43,000
+poapdetajo, so pa potem skrani primeri, ko sem rekel, da celo na fizično
+
+775
+01:18:43,000 --> 01:18:46,000
+je čisto umejen dostop. In ti, v bistvu niti ti ne veš, kako to
+
+776
+01:18:46,000 --> 01:18:49,000
+poapdetajo, to je potem njihova stvar, da bojo apdetali ali ne,
+
+777
+01:18:49,000 --> 01:18:52,000
+si niti ne ukvarjamo s tem poprvi sečen.
+
+778
+01:18:52,000 --> 01:18:57,000
+Zanima. Kaj pa, ko smo pri teh apdetih, kaj pa na konc cikla nekaj
+
+779
+01:18:57,000 --> 01:19:02,000
+naprave? Kaj je tist, recimo, zakaj naprava dela osem let, pa pa neha?
+
+780
+01:19:02,000 --> 01:19:09,000
+Zakaj naprava ne more nekaj vidi naredite? Vse čipi so iz, kaj že,
+
+781
+01:19:09,000 --> 01:19:14,000
+silicija, pač te komponente, plastika, tudi ne zgnije, bi rekel, ne?
+
+782
+01:19:14,000 --> 01:19:17,000
+Zakaj, zakaj ne more 30 let dela ten tak devajz?
+
+783
+01:19:17,000 --> 01:19:22,000
+Sej, sej, predvsem veste, kaj povzroča stare neelektrični komponent,
+
+784
+01:19:22,000 --> 01:19:28,000
+kjer je smrt. Toplota. Res je, ja. In pač dejansko je, tukaj, kjer se grevaš
+
+785
+01:19:28,000 --> 01:19:33,000
+napravit, tukaj se ti pač starajo te komponente in potem s časoma se tudi
+
+786
+01:19:33,000 --> 01:19:38,000
+njihove karakteristike poslabšajo. To je, ja, pa zmeri v bistvu s časoma
+
+787
+01:19:38,000 --> 01:19:43,000
+slabše meri, pa tudi, kaj si ti pokvarj, pač življenska doba te komponente
+
+788
+01:19:43,000 --> 01:19:48,000
+nekako potem omejena. Je pa tako, da bom rekel vse, ne, pa bom rekel
+
+789
+01:19:48,000 --> 01:19:52,000
+življenska doba, kaj dogaja. Kaj sem predvsem vmenil, da imamo, kaj imamo,
+
+790
+01:19:52,000 --> 01:19:56,000
+sedem let imamo garancijo, samo vrsticu, ne vem, po petnaest let plus lahko
+
+791
+01:19:56,000 --> 01:20:01,000
+potem, mislim, naprave naše trajajo. Ni, ni tako, da bi, recimo, to pa ne optimiziramo,
+
+792
+01:20:01,000 --> 01:20:04,000
+da bi pa rekel, evo, zdaj pa hočemo pa da naprava, kaj sedem let garancije,
+
+793
+01:20:04,000 --> 01:20:08,000
+da pa osim let tih crkve, ne. Probamo res, narediti solic.
+
+794
+01:20:09,000 --> 01:20:13,000
+Če se zdaj prav prestanem, da pa luni stranke, ki ima nekaj napravo sedemnaest let,
+
+795
+01:20:13,000 --> 01:20:16,000
+kondenzator je po pošti, pošleš, pa rečeš, da jih pa priloti.
+
+796
+01:20:16,000 --> 01:20:21,000
+Seveda tako, bom rekel, tudi če imajo po petnaest let napravo, pa jim kaj crkne,
+
+797
+01:20:21,000 --> 01:20:24,000
+lahko še zmeraj pošle na serijs, pa če se bodo, bomo probali popraviti.
+
+798
+01:20:24,000 --> 01:20:25,000
+Aha, tudi tako.
+
+799
+01:20:27,000 --> 01:20:28,000
+Zakon.
+
+800
+01:20:30,000 --> 01:20:33,000
+Da vidim, da ne bom okej, da ne bom okej.
+
+801
+01:20:33,000 --> 01:20:36,000
+Kaj si pozavil? Kaj pa kaj drugače delaš, no, kaj nisi v službi, da si to okej povej?
+
+802
+01:20:36,000 --> 01:20:37,000
+Kaj nisem v službi?
+
+803
+01:20:37,000 --> 01:20:40,000
+Ja, sorry, a kdaj nisi v službi?
+
+804
+01:20:40,000 --> 01:20:41,000
+Kdaj nisem v službi?
+
+805
+01:20:41,000 --> 01:20:45,000
+Dejacet nisem v službi. Ja, tako bom rekel, da zadnje leta je moj glavni hobi,
+
+806
+01:20:45,000 --> 01:20:47,000
+je sino, če sem pošten.
+
+807
+01:20:47,000 --> 01:20:50,000
+Kajč pa ne vem, sem pa tudi kolik več hobijal.
+
+808
+01:20:50,000 --> 01:20:55,000
+Sem imel od, ne vem, odročnanj Higarc, enkrat smo tudi v Čah igrali, ne,
+
+809
+01:20:55,000 --> 01:20:57,000
+tako da tudi v Čah sem že kaj igral.
+
+810
+01:20:57,000 --> 01:21:00,000
+Včasih sem swing plesal, zdaj imam manj časa.
+
+811
+01:21:00,000 --> 01:21:03,000
+Tako da to, pa rad sem potoval na obresnic.
+
+812
+01:21:03,000 --> 01:21:05,000
+Tako da dobro, to pa še gre, no.
+
+813
+01:21:05,000 --> 01:21:09,000
+Zdaj bom rekel, da zdaj, ko imam še mlehnega otroka, so kaj še tudi bolj,
+
+814
+01:21:09,000 --> 01:21:14,000
+bom rekel, držati te svetalih je pidejo upoštevno,
+
+815
+01:21:14,000 --> 01:21:18,000
+imam pa tako mogoče v službi nekaj še na zanimivo potovanje idaj.
+
+816
+01:21:18,000 --> 01:21:22,000
+To bi jaz bil med tatega šefa, ki me tako kam pošle po svetu.
+
+817
+01:21:22,000 --> 01:21:26,000
+Ne pravi, pa skozi tamo moramo prek morajo biti, pa to, veš.
+
+818
+01:21:26,000 --> 01:21:27,000
+To je folj dober.
+
+819
+01:21:27,000 --> 01:21:31,000
+Ja, mislim, pri nas je tudi, bom rekel, lahko hočemo,
+
+820
+01:21:31,000 --> 01:21:35,000
+da me je tudi developer, recimo, ta stik malo stranka,
+
+821
+01:21:35,000 --> 01:21:38,000
+mi se pa kaj trudimo, da vse je tisto, kaj hoče, da ima to možnost,
+
+822
+01:21:38,000 --> 01:21:41,000
+da obišče kakšno stranko, pa tako bom rekel, čisto drugače pa,
+
+823
+01:21:41,000 --> 01:21:44,000
+ko vidiš, kje so te tvoje inštrumenti, pa software.
+
+824
+01:21:44,000 --> 01:21:47,000
+Ne vem, kaj pribeš tam, goči na istrališče raketno,
+
+825
+01:21:47,000 --> 01:21:50,000
+ali pa ne vem, na neko dirkališče, kaj se testira avtomobil,
+
+826
+01:21:50,000 --> 01:21:52,000
+je čist drugačen občutek.
+
+827
+01:21:52,000 --> 01:21:55,000
+Daj mi povej, kako zgodba tako, tako, da te je šokeral,
+
+828
+01:21:55,000 --> 01:21:59,000
+kje se stvar uporablja, da te se zol, ali že v naprej veš,
+
+829
+01:21:59,000 --> 01:22:01,000
+posod, kje bo?
+
+830
+01:22:01,000 --> 01:22:04,000
+Ja, mogoče ena taka, ki me je zelo presenečil, pa mi je došlo
+
+831
+01:22:04,000 --> 01:22:09,000
+čist nekam drugavno, da bom spustil razbo, te vesolske agencije.
+
+832
+01:22:09,000 --> 01:22:13,000
+Pred leti sem zvedel, da imajo nekaj tistakave jame
+
+833
+01:22:13,000 --> 01:22:16,000
+s prvimi poslikavami v Franciji.
+
+834
+01:22:16,000 --> 01:22:19,000
+Imaš nekaj tam slike in tja, mislim, da li lahko, ne vem,
+
+835
+01:22:19,000 --> 01:22:22,000
+ene sto ljudi na let lahko obišče tiste jame,
+
+836
+01:22:23,000 --> 01:22:26,000
+da to vidiš, ali zato, da se ohrani.
+
+837
+01:22:26,000 --> 01:22:30,000
+In recimo tam, za tistih jamah, se tudi mer, kakšno je okolje
+
+838
+01:22:30,000 --> 01:22:33,000
+z našimi inštrumenti. Ta me je tako presenetila.
+
+839
+01:22:33,000 --> 01:22:37,000
+Pa recimo lani me je pa tudi presenetila, te pa me recimo zanima,
+
+840
+01:22:37,000 --> 01:22:41,000
+mogoče v to moje naslednjo potovanje, je pa, da v Disneylandu
+
+841
+01:22:41,000 --> 01:22:44,000
+se zdaj tudi zanimajo, že nekje testirajo naše naprave,
+
+842
+01:22:44,000 --> 01:22:47,000
+pa so me recimo povabili, da bi pršli pogledati, kako ta njihov,
+
+843
+01:22:47,000 --> 01:22:50,000
+bom rekel, back-end Disneylanda zgledala.
+
+844
+01:22:50,000 --> 01:22:52,000
+Tudi, če tako nisem videl, pa me je zanima.
+
+845
+01:22:52,000 --> 01:22:54,000
+Tako, da je ta tudi zanima.
+
+846
+01:22:54,000 --> 01:22:56,000
+Hodo, free Disneyland.
+
+847
+01:22:56,000 --> 01:22:57,000
+Ja.
+
+848
+01:22:57,000 --> 01:22:59,000
+Jaz sam to slišam.
+
+849
+01:22:59,000 --> 01:23:02,000
+A bomo imeli kakšne dneve odprtih vrat,
+
+850
+01:23:02,000 --> 01:23:04,000
+hardware, firma v Sloveniji?
+
+851
+01:23:04,000 --> 01:23:06,000
+Ker to pomeni, da pa bomo v bistvu iztrbovali,
+
+852
+01:23:06,000 --> 01:23:08,000
+ker direkt tebi domov to imaš.
+
+853
+01:23:08,000 --> 01:23:09,000
+Kaj bi bilo?
+
+854
+01:23:09,000 --> 01:23:11,000
+Ne vem, jaz predvajam, da se pri njih dobimo,
+
+855
+01:23:11,000 --> 01:23:13,000
+kar imajo kuhno, večjo.
+
+856
+01:23:13,000 --> 01:23:15,000
+Pa hraba je boljša.
+
+857
+01:23:15,000 --> 01:23:17,000
+Pa misice imajo za poslene.
+
+858
+01:23:17,000 --> 01:23:20,000
+Ja, daj povedam to, kaj v misicah?
+
+859
+01:23:20,000 --> 01:23:23,000
+Ja, mislim, da smo tudi sponzori Miss Slovenija,
+
+860
+01:23:23,000 --> 01:23:26,000
+tako da jih tudi vključujemo v kakšne dogodke.
+
+861
+01:23:26,000 --> 01:23:30,000
+Se pravi, če je, ne vem, tukaj imamo te seme po svetu,
+
+862
+01:23:30,000 --> 01:23:32,000
+jih pa tudi daj zraven vključijo.
+
+863
+01:23:32,000 --> 01:23:36,000
+Da, recimo tudi jaz sem međudarj kakšen demo predstavitev
+
+864
+01:23:36,000 --> 01:23:39,000
+vključil, da te kakšne inštrumenke prinesem.
+
+865
+01:23:39,000 --> 01:23:40,000
+Prinesem.
+
+866
+01:23:40,000 --> 01:23:43,000
+To je pa razlika med software industrijo
+
+867
+01:23:43,000 --> 01:23:45,000
+pa med proper industrijo.
+
+868
+01:23:46,000 --> 01:23:47,000
+Tako da...
+
+869
+01:23:48,000 --> 01:23:50,000
+Kaj, naredimo piko počas?
+
+870
+01:23:50,000 --> 01:23:53,000
+Naredimo piko, preden pa naredimo piko, pa...
+
+871
+01:23:53,000 --> 01:23:55,000
+Eno vprašanje.
+
+872
+01:23:57,000 --> 01:24:01,000
+Eno stvar bi te predlagal, da ne boš rekel pale,
+
+873
+01:24:01,000 --> 01:24:03,000
+fak, zakaj me to nista vprašala.
+
+874
+01:24:04,000 --> 01:24:07,000
+Povej nekaj, kar si na poti sem študiral,
+
+875
+01:24:07,000 --> 01:24:10,000
+da pa absolutno bi te mogla vprašati,
+
+876
+01:24:10,000 --> 01:24:13,000
+pa da absolutno moraš povedati, pa mogoče nisva.
+
+877
+01:24:16,000 --> 01:24:17,000
+Uuuu.
+
+878
+01:24:17,000 --> 01:24:21,000
+Pa mislim, dogočasno vprašanje, kako ADC pretvorniki deluje,
+
+879
+01:24:21,000 --> 01:24:22,000
+kaj, kaj imaš.
+
+880
+01:24:22,000 --> 01:24:25,000
+Bolj zanimive je pa kakšen mogoče zanimiv projekt,
+
+881
+01:24:25,000 --> 01:24:26,000
+kar se ne uprobleme.
+
+882
+01:24:26,000 --> 01:24:27,000
+No, izvoli.
+
+883
+01:24:27,000 --> 01:24:28,000
+Plan B, mislim.
+
+884
+01:24:28,000 --> 01:24:29,000
+Plan B je bolj zanimiv.
+
+885
+01:24:29,000 --> 01:24:30,000
+Ja, da ADC je...
+
+886
+01:24:30,000 --> 01:24:31,000
+Ne, poznam.
+
+887
+01:24:33,000 --> 01:24:34,000
+Pa če ni to nek band.
+
+888
+01:24:34,000 --> 01:24:35,000
+Ja.
+
+889
+01:24:35,000 --> 01:24:36,000
+Tudi, tudi.
+
+890
+01:24:36,000 --> 01:24:38,000
+Pa da, mislite oni, da te delajo.
+
+891
+01:24:38,000 --> 01:24:39,000
+ADC je band?
+
+892
+01:24:39,000 --> 01:24:40,000
+Ne, nek...
+
+893
+01:24:40,000 --> 01:24:41,000
+ADC.
+
+894
+01:24:41,000 --> 01:24:42,000
+ACDC.
+
+895
+01:24:42,000 --> 01:24:43,000
+ACDC.
+
+896
+01:24:43,000 --> 01:24:44,000
+Oh my god.
+
+897
+01:24:44,000 --> 01:24:46,000
+To je pa to, ker z Giki prideš.
+
+898
+01:24:46,000 --> 01:24:48,000
+Ne, ne, to ni kvantizacija.
+
+899
+01:24:48,000 --> 01:24:50,000
+No, povej to, to drugo.
+
+900
+01:24:50,000 --> 01:24:53,000
+Ok, mogoče en tako moja izkušnja, no.
+
+901
+01:24:53,000 --> 01:24:54,000
+Če...
+
+902
+01:24:54,000 --> 01:24:56,000
+Ja, no, pred leti, ne.
+
+903
+01:24:56,000 --> 01:24:57,000
+Tudi mogoče...
+
+904
+01:24:57,000 --> 01:24:59,000
+Tudi spada pod skupino felarjev.
+
+905
+01:25:00,000 --> 01:25:02,000
+Prodali smo podjetju Nikola.
+
+906
+01:25:02,000 --> 01:25:04,000
+Ne vem, če ste se veslišali.
+
+907
+01:25:04,000 --> 01:25:05,000
+To so neke avti.
+
+908
+01:25:05,000 --> 01:25:10,000
+Delal so tele tovornake in sicer so delali na...
+
+909
+01:25:10,000 --> 01:25:12,000
+Že kaj, na vodik.
+
+910
+01:25:12,000 --> 01:25:14,000
+Ja, pa self-driving tudi, niso bili self-driving?
+
+911
+01:25:14,000 --> 01:25:15,000
+Tudi mislim, da.
+
+912
+01:25:15,000 --> 01:25:17,000
+Ampak mislim, da je bil glavni point je bilo se na vodik.
+
+913
+01:25:17,000 --> 01:25:18,000
+Ok.
+
+914
+01:25:18,000 --> 01:25:19,000
+Kaj je ta diferenciacija bila.
+
+915
+01:25:19,000 --> 01:25:21,000
+Pa če prodali smo jim neke upreme.
+
+916
+01:25:21,000 --> 01:25:23,000
+Pa tako v večjih sklopih.
+
+917
+01:25:23,000 --> 01:25:28,000
+Pa so pa teli to upremo skup dali na malo bolj inovativen način.
+
+918
+01:25:28,000 --> 01:25:29,000
+Mhm.
+
+919
+01:25:31,000 --> 01:25:32,000
+Pa...
+
+920
+01:25:32,000 --> 01:25:36,000
+Tudi primer je bil, kaj so tam v Fenixu so najeli nek testni prostor.
+
+921
+01:25:36,000 --> 01:25:38,000
+Da bojo testirali to svojo...
+
+922
+01:25:38,000 --> 01:25:40,000
+Ta svoj tovornak.
+
+923
+01:25:40,000 --> 01:25:42,000
+Pa so začeli meritve.
+
+924
+01:25:42,000 --> 01:25:43,000
+In...
+
+925
+01:25:43,000 --> 01:25:45,000
+Ko so to skup dali, neč ne dela.
+
+926
+01:25:45,000 --> 01:25:47,000
+To je pa spet najeta stvar, ne.
+
+927
+01:25:47,000 --> 01:25:49,000
+To ne vem kakid nari so.
+
+928
+01:25:49,000 --> 01:25:53,000
+Ampak po moje so tam več sto tisoč dolarjev na dan.
+
+929
+01:25:53,000 --> 01:25:54,000
+Mhm.
+
+930
+01:25:54,000 --> 01:25:56,000
+In je bila cela panika, zdaj kaj neč ne dela.
+
+931
+01:25:56,000 --> 01:25:58,000
+Jaz sem to zvedov ne delal, ne.
+
+932
+01:25:58,000 --> 01:26:00,000
+Pa so rekli, ja, ok.
+
+933
+01:26:00,000 --> 01:26:03,000
+Bila so te naprave, nekaterih sem jaz delal.
+
+934
+01:26:03,000 --> 01:26:06,000
+Pa so rekli, David, a bi šel mogoče pogledat kaj jih matra.
+
+935
+01:26:06,000 --> 01:26:08,000
+Pa reši ta problem.
+
+936
+01:26:08,000 --> 01:26:10,000
+Pa so rekli, ok, bomo kupili karto.
+
+937
+01:26:10,000 --> 01:26:12,000
+Pa še en drug sodelovac je šel.
+
+938
+01:26:12,000 --> 01:26:16,000
+Tako da smo nekaj skupaj so pokrili v nekaj celo sotvr področje.
+
+939
+01:26:16,000 --> 01:26:17,000
+Mhm.
+
+940
+01:26:17,000 --> 01:26:18,000
+Pa smo v to rekli dela.
+
+941
+01:26:18,000 --> 01:26:21,000
+Tako da takrat sem ga namaj, sem šel upo, a bo...
+
+942
+01:26:21,000 --> 01:26:23,000
+Esta delala ali ne, no.
+
+943
+01:26:23,000 --> 01:26:24,000
+Pa nasrečo je delala.
+
+944
+01:26:24,000 --> 01:26:26,000
+In smo pa, ja, prideva v Fenix.
+
+945
+01:26:26,000 --> 01:26:28,000
+Bilo je nasrečo, smo mladi.
+
+946
+01:26:28,000 --> 01:26:29,000
+Tako da je bilo samo 40 stopin.
+
+947
+01:26:29,000 --> 01:26:30,000
+Mhm.
+
+948
+01:26:30,000 --> 01:26:31,000
+Pa tam, dokaj suh zrah, tudi...
+
+949
+01:26:31,000 --> 01:26:32,000
+Da.
+
+950
+01:26:32,000 --> 01:26:33,000
+Vsem je tako občutek, da je...
+
+951
+01:26:33,000 --> 01:26:35,000
+Mislim, da je tako hvoroče nasrečo.
+
+952
+01:26:36,000 --> 01:26:41,000
+Prideva tja, pa smo še nekak zvedela med vrsticami, da je...
+
+953
+01:26:41,000 --> 01:26:47,000
+Da se je v naš lokalni sejez, da se je mal skregal za tisti glavnim project managerjem.
+
+954
+01:26:47,000 --> 01:26:50,000
+In project manager je pa tudi zgledal precej živčan,
+
+955
+01:26:50,000 --> 01:26:52,000
+ker bom po mojem nečem delal.
+
+956
+01:26:52,000 --> 01:26:55,000
+Tudi, ko sem bila ta pršla, to je bilo tako, bom rekel,
+
+957
+01:26:55,000 --> 01:26:59,000
+en tuvornjak, pa 300 inženirjev, ko je koli nekaj skakal.
+
+958
+01:26:59,000 --> 01:27:01,000
+Pa vsak je en majhen del šravfo.
+
+959
+01:27:01,000 --> 01:27:04,000
+In recimo mi dva, jaz pa sodelavec,
+
+960
+01:27:04,000 --> 01:27:10,000
+sva imela tam vsake 3-4 ure, sva imela recimo timeslot,
+
+961
+01:27:10,000 --> 01:27:14,000
+pet minut v kabini, v kabini tega tuvornjaka,
+
+962
+01:27:14,000 --> 01:27:17,000
+da sva probala zdebagerjati, kaj ne dela.
+
+963
+01:27:17,000 --> 01:27:21,000
+In preč prva stvar je bila, da so itak so skupo vezel več,
+
+964
+01:27:21,000 --> 01:27:23,000
+če pa je bil kaj dolgoli mišljen,
+
+965
+01:27:23,000 --> 01:27:26,000
+pa pa so mi je tudi malo smelo, da je mene dve, tri stvari v tisti kombinaciji,
+
+966
+01:27:26,000 --> 01:27:27,000
+ki so glih dela.
+
+967
+01:27:27,000 --> 01:27:31,000
+In potem sva sodelala tam sva dejansko tam v tisti garaži,
+
+968
+01:27:31,000 --> 01:27:35,000
+sva malo programirala, ko je bil kar zanimočajan,
+
+969
+01:27:35,000 --> 01:27:38,000
+če pa sva v hotelu še pozno noč programirala.
+
+970
+01:27:38,000 --> 01:27:43,000
+Pa pa, ja, sva pa lahko sesterala, kako deluje,
+
+971
+01:27:43,000 --> 01:27:46,000
+pa pa imela pet minut testa, kaj dela, kaj ne dela,
+
+972
+01:27:46,000 --> 01:27:48,000
+pa pa spet, če enkrat ponovila cikl,
+
+973
+01:27:48,000 --> 01:27:50,000
+pa na srečo sva pa tudi, kar je še ena srečila,
+
+974
+01:27:50,000 --> 01:27:53,000
+pa sva imela tudi, ne vem, povezavo z Slovenijo,
+
+975
+01:27:53,000 --> 01:27:57,000
+pa lihtem malo koristene, ta bom rekel, te timezone so,
+
+976
+01:27:57,000 --> 01:28:01,000
+kaj v bistvu, kaj ti, kar tam končaš,
+
+977
+01:28:01,000 --> 01:28:03,000
+kaj v Sloveniji končajo delavnik,
+
+978
+01:28:03,000 --> 01:28:05,000
+kaj recimo lahko zjutraj si en del,
+
+979
+01:28:05,000 --> 01:28:07,000
+da je ne problem, da pa to naredijo,
+
+980
+01:28:07,000 --> 01:28:08,000
+pa kaj se tam končajo delavniki,
+
+981
+01:28:08,000 --> 01:28:10,000
+pa potem te blik bo počas po tem jutro, no,
+
+982
+01:28:10,000 --> 01:28:12,000
+tako, da ta kombinacija je dobro delala.
+
+983
+01:28:12,000 --> 01:28:14,000
+In potem dejansko sva, ne vem,
+
+984
+01:28:14,000 --> 01:28:17,000
+tam ene štiri, pet dni smo delali,
+
+985
+01:28:17,000 --> 01:28:19,000
+tudi tako je bilo res zanimitevno,
+
+986
+01:28:19,000 --> 01:28:21,000
+sva je tudi, ne vem, boš, inženeri,
+
+987
+01:28:21,000 --> 01:28:23,000
+pa ne vem, še nekaj, ne vem, ki je pa,
+
+988
+01:28:23,000 --> 01:28:25,000
+mislim, da so bili z HBK, ja,
+
+989
+01:28:25,000 --> 01:28:28,000
+pa vsi so tako lete, res je bila panika,
+
+990
+01:28:28,000 --> 01:28:30,000
+tudi, ne vem, pa si, ne vem, če poznata,
+
+991
+01:28:30,000 --> 01:28:32,000
+pa to podjetje, no, tudi bojo so dost
+
+992
+01:28:32,000 --> 01:28:36,000
+fejkali dejansko dobro, da deluje to.
+
+993
+01:28:36,000 --> 01:28:37,000
+To je pripadalo, ni to zdaj.
+
+994
+01:28:37,000 --> 01:28:38,000
+Tako, zdaj je pripadalo podjetje,
+
+995
+01:28:38,000 --> 01:28:41,000
+jaz tudi dost bojo priredili te rezultate
+
+996
+01:28:41,000 --> 01:28:43,000
+in verjitev, oziroma kaj so, kaj so zmerili,
+
+997
+01:28:43,000 --> 01:28:44,000
+tako, da tukaj je bilo pomalj,
+
+998
+01:28:44,000 --> 01:28:46,000
+kar, že tako so bili pomalj nervozni,
+
+999
+01:28:46,000 --> 01:28:47,000
+pa, dokaj panika, no.
+
+1000
+01:28:47,000 --> 01:28:49,000
+Ampak nekako smo rekli, da to,
+
+1001
+01:28:49,000 --> 01:28:51,000
+pa, kaj smo tako čudežno v ene
+
+1002
+01:28:51,000 --> 01:28:53,000
+šterih, petih dnih smo rešel,
+
+1003
+01:28:53,000 --> 01:28:55,000
+je bil na koncu, je bil res, on,
+
+1004
+01:28:55,000 --> 01:28:57,000
+nekaj glavnih projektnih vodij,
+
+1005
+01:28:57,000 --> 01:28:59,000
+je bil malo res zadovoljen,
+
+1006
+01:28:59,000 --> 01:29:01,000
+bil presenečen, ampak tudi ponavad,
+
+1007
+01:29:01,000 --> 01:29:03,000
+nekaj večina podjetij reče, u, ja,
+
+1008
+01:29:03,000 --> 01:29:05,000
+tle bomo, pa počneš, ne vem,
+
+1009
+01:29:05,000 --> 01:29:06,000
+kajšnjega project managerja,
+
+1010
+01:29:06,000 --> 01:29:08,000
+ali pa kajšnjega, ne vem,
+
+1011
+01:29:08,000 --> 01:29:10,000
+managerja, da ti nadirne klukce,
+
+1012
+01:29:10,000 --> 01:29:11,000
+reče, ja, ti v glubi obnaredem,
+
+1013
+01:29:11,000 --> 01:29:13,000
+a ti pa v pol leta prinesem, ne.
+
+1014
+01:29:13,000 --> 01:29:14,000
+Mi smo pri tem, ne vem, petih dnih
+
+1015
+01:29:14,000 --> 01:29:16,000
+smo rešel in pa dejansko so lahko
+
+1016
+01:29:16,000 --> 01:29:18,000
+naredili takrat vse meritve,
+
+1017
+01:29:18,000 --> 01:29:20,000
+tudi mogoče je bil takrat en workaround,
+
+1018
+01:29:20,000 --> 01:29:22,000
+cut in corners, ne, mogoče primer,
+
+1019
+01:29:22,000 --> 01:29:24,000
+ampak na koncu so lahko vse meritvene,
+
+1020
+01:29:24,000 --> 01:29:26,000
+tako da bi nekaj res tak, success story.
+
+1021
+01:29:26,000 --> 01:29:28,000
+Je pa zame pa tudi tako, bom rekel,
+
+1022
+01:29:28,000 --> 01:29:30,000
+zanimivo, no, je bil malo tak
+
+1023
+01:29:30,000 --> 01:29:33,000
+extreme challenge, ampak je bilo zanimivo.
+
+1024
+01:29:33,000 --> 01:29:35,000
+In veš kaj je bil problem, ne,
+
+1025
+01:29:35,000 --> 01:29:36,000
+ugasljeni so ga pa nazaj prišgali,
+
+1026
+01:29:36,000 --> 01:29:38,000
+pa je pa oddelali, ne, to je to.
+
+1027
+01:29:38,000 --> 01:29:40,000
+Ne, tam sem, veš, kak so,
+
+1028
+01:29:40,000 --> 01:29:42,000
+imel sem umejitev, da me šlah nekaj
+
+1029
+01:29:42,000 --> 01:29:44,000
+sanj 32 naprav, ne, oni so jih dal skupaj
+
+1030
+01:29:44,000 --> 01:29:46,000
+45, pa sem konstantno zamenil,
+
+1031
+01:29:46,000 --> 01:29:48,000
+pa je delal, pa dejansko je to ena
+
+1032
+01:29:48,000 --> 01:29:50,000
+pol resnice, pa je bilo ena pol še ena
+
+1033
+01:29:50,000 --> 01:29:52,000
+stori. Ja, itak, itak.
+
+1034
+01:29:54,000 --> 01:29:56,000
+Jaz imam zadnjo vprašanje, če ti nimaš
+
+1035
+01:29:56,000 --> 01:29:58,000
+drugega. Nimam. A ste pripravljeni?
+
+1036
+01:29:58,000 --> 01:30:00,000
+Zelo pomembno. Kaj je grenadier marš?
+
+1037
+01:30:00,000 --> 01:30:02,000
+Oj, oj.
+
+1038
+01:30:02,000 --> 01:30:04,000
+To me bojo, to me bojo zdaj v podjetju,
+
+1039
+01:30:04,000 --> 01:30:06,000
+me bojo zelo gredno ogledali, če to ti dogovorim.
+
+1040
+01:30:06,000 --> 01:30:08,000
+Lahko ti povem, bom ti najprej
+
+1041
+01:30:08,000 --> 01:30:10,000
+korekno, pa ti pa lahko še svoje
+
+1042
+01:30:10,000 --> 01:30:12,000
+mene povem. Okej, okej.
+
+1043
+01:30:12,000 --> 01:30:14,000
+Grenadier marš je,
+
+1044
+01:30:14,000 --> 01:30:16,000
+kan imaš
+
+1045
+01:30:16,000 --> 01:30:18,000
+krompir, testen krompir,
+
+1046
+01:30:18,000 --> 01:30:20,000
+ki je čisto dober, pa imaš
+
+1047
+01:30:20,000 --> 01:30:22,000
+pa makarone. Okej.
+
+1048
+01:30:22,000 --> 01:30:24,000
+Pa če pa imaš pred makarone,
+
+1049
+01:30:24,000 --> 01:30:26,000
+ampak
+
+1050
+01:30:26,000 --> 01:30:28,000
+grenadier marš je pa, da to skupaj
+
+1051
+01:30:28,000 --> 01:30:30,000
+daš, pa poskrbiš, da so pa
+
+1052
+01:30:30,000 --> 01:30:32,000
+te makarone notri prekuhani.
+
+1053
+01:30:32,000 --> 01:30:34,000
+To je to.
+
+1054
+01:30:34,000 --> 01:30:36,000
+Jaz jih pa tako najdem.
+
+1055
+01:30:36,000 --> 01:30:38,000
+In to imaš misliti, da je dobra kuhna.
+
+1056
+01:30:38,000 --> 01:30:40,000
+In to je.
+
+1057
+01:30:40,000 --> 01:30:42,000
+Potrebovala. Jaz moram
+
+1058
+01:30:42,000 --> 01:30:44,000
+najprej probati. In to je lokalna specialiteta.
+
+1059
+01:30:44,000 --> 01:30:46,000
+Okej. Ja, in
+
+1060
+01:30:46,000 --> 01:30:48,000
+z grenadier maršem
+
+1061
+01:30:48,000 --> 01:30:50,000
+končujemo to epizodo.
+
+1062
+01:30:50,000 --> 01:30:52,000
+Hvala vsem, ker nas poslušate.
+
+1063
+01:30:52,000 --> 01:30:54,000
+Hvala David, hvala Tomaš.
+
+1064
+01:30:54,000 --> 01:30:56,000
+Hvala še enkrat podpornikom
+
+1065
+01:30:56,000 --> 01:30:58,000
+Human Frog, Kaldi, Vižo, nek pa Kufar,
+
+1066
+01:30:58,000 --> 01:31:00,000
+ter seveda našim Patreonom.
+
+1067
+01:31:00,000 --> 01:31:02,000
+Lepo se mejte in lepo zdrav.
+
+1068
+01:31:02,000 --> 01:31:04,000
+Ajde, čau.
+
+1069
+01:31:10,000 --> 01:31:12,000
+www.hradeckralove.org

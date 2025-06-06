@@ -1,0 +1,3499 @@
+1
+00:00:00,000 --> 00:00:17,000
+Pozdravljeni, poslušalci in poslušalke ogrodja, pa gledalci, pa gledalke.
+
+2
+00:00:17,000 --> 00:00:22,000
+Danes smo na izcelija, na Dragon Days,
+
+3
+00:00:22,000 --> 00:00:30,000
+konferenca. Tukaj se uklapljamo iz dogodka,
+
+4
+00:00:30,000 --> 00:00:35,000
+pred njim pozabam. Najprej bi se rad zahvaljali potrpežljivi ekipi,
+
+5
+00:00:35,000 --> 00:00:40,000
+da so pač omogočili, da mi snemamo tukaj,
+
+6
+00:00:40,000 --> 00:00:45,000
+tako organizatorjem kot ekipi ogrodja. Potem bi se zahvaljali
+
+7
+00:00:45,000 --> 00:00:49,000
+našim podpornikom Humanfrog, 3FS pa Kaldi.
+
+8
+00:00:49,000 --> 00:00:54,000
+Pa rad bi se zahvaljali tudi našim Patreonom,
+
+9
+00:00:54,000 --> 00:01:01,000
+za katere se trudimo delati neki mini prke, pa moramo biti bolj pridni.
+
+10
+00:01:01,000 --> 00:01:07,000
+Hvala tudi vam, pač brez vas bi bilo to težje izvedljivo.
+
+11
+00:01:07,000 --> 00:01:15,000
+Možno, da bom malo šumal v zadju, pač smo na dogodku,
+
+12
+00:01:15,000 --> 00:01:20,000
+pač ljudje se primikajo, ampak smo probali narediti cej etap,
+
+13
+00:01:20,000 --> 00:01:27,000
+kar se da dober in kvaliteten. Zahvaljali bi se pa tudi nekaj škubrnetov,
+
+14
+00:01:27,000 --> 00:01:35,000
+ki je pač danes naš gost. Z mano bo pa Otov, oziroma jaz bom z Otov.
+
+15
+00:01:35,000 --> 00:01:40,000
+Najlepša hvala tebi, Andraž.
+
+16
+00:01:40,000 --> 00:01:43,000
+Vmer skupaj nekaj debatov.
+
+17
+00:01:43,000 --> 00:01:48,000
+Rad bi se zahvaljali tudi staršem, psebej, mami, očetu.
+
+18
+00:01:48,000 --> 00:01:50,000
+Mami, sam na YouTube.
+
+19
+00:01:50,000 --> 00:01:54,000
+Trokom, staršem. Daj prvi 50 sekund, vsake neke osebine,
+
+20
+00:01:54,000 --> 00:01:58,000
+ful ekstremno pomembne in moraš ful se pripraviti in optimizirati na to,
+
+21
+00:01:58,000 --> 00:02:01,000
+da ne zgubiš vseh že na začetku.
+
+22
+00:02:01,000 --> 00:02:07,000
+In pač kaj najboljši, Elevator Pizza začne s tem, da vmenimo Tor endpointe.
+
+23
+00:02:08,000 --> 00:02:12,000
+To. Mi jaz smo delala ful background researcha.
+
+24
+00:02:12,000 --> 00:02:17,000
+V bistvu smo tako kot te ameriški sasi, ki podpišeš kontrakt,
+
+25
+00:02:17,000 --> 00:02:21,000
+ki moraš izplenivati v nek formi in prideš tam do social security nambarja
+
+26
+00:02:21,000 --> 00:02:23,000
+in nimaš kot slovenskega.
+
+27
+00:02:23,000 --> 00:02:25,000
+Jaz pa imam.
+
+28
+00:02:25,000 --> 00:02:27,000
+Superca.
+
+29
+00:02:27,000 --> 00:02:32,000
+Ne moraš not upisati, ampak nekaj te detajle potegnemo
+
+30
+00:02:32,000 --> 00:02:35,000
+iz razno raznih kotičkov.
+
+31
+00:02:37,000 --> 00:02:42,000
+Ja, to je en detalj, ki je prišel v moj LinkedIn mailbox.
+
+32
+00:02:42,000 --> 00:02:48,000
+Evo to, bi ti prišel na Fuck Up Nights razlagati svoj največji fuck up.
+
+33
+00:02:48,000 --> 00:02:52,000
+Tudi Nejc Škobarneje je imel ful fuck up, je imel policijo doma.
+
+34
+00:02:52,000 --> 00:02:55,000
+Pa smo rekel, to pa je zelo zanimivo, jaz sem pripričan,
+
+35
+00:02:55,000 --> 00:02:59,000
+da nam bo razložil to za začetek recimo, pa pa la gremo še na jaj.
+
+36
+00:02:59,000 --> 00:03:00,000
+Okej.
+
+37
+00:03:00,000 --> 00:03:02,000
+Boš temu otpril?
+
+38
+00:03:02,000 --> 00:03:03,000
+Lahko.
+
+39
+00:03:03,000 --> 00:03:05,000
+Ne.
+
+40
+00:03:34,000 --> 00:03:37,000
+Deja naredimo mi tor točko.
+
+41
+00:03:38,000 --> 00:03:42,000
+Pa najprej je bila mislim, da je ideja, da bomo pač ta middle end,
+
+42
+00:03:42,000 --> 00:03:47,000
+middle node, pa pa v neki točki rekel, daj naredimo mikro exit node.
+
+43
+00:03:47,000 --> 00:03:50,000
+Okej, slava je od pogumnih.
+
+44
+00:03:51,000 --> 00:03:53,000
+Za aktivizem vse.
+
+45
+00:03:54,000 --> 00:03:57,000
+Glavni sell point takrat njegov je bil,
+
+46
+00:03:57,000 --> 00:04:01,000
+veš koliko je to enih kitajcev, ki nimajo dostopno do Wikipedia.
+
+47
+00:04:01,000 --> 00:04:04,000
+In meni se je to zdelo v bistvu res.
+
+48
+00:04:06,000 --> 00:04:09,000
+Tako da smo prežigali tor točko,
+
+49
+00:04:09,000 --> 00:04:12,000
+tam po mojem dva osem, dva devet.
+
+50
+00:04:14,000 --> 00:04:16,000
+Čist iz nekih teh
+
+51
+00:04:17,000 --> 00:04:19,000
+humanističnih vzgibov.
+
+52
+00:04:21,000 --> 00:04:24,000
+In smo v bistvu donerali svoj compute
+
+53
+00:04:26,000 --> 00:04:28,000
+za ta namen, pač bandwidth.
+
+54
+00:04:29,000 --> 00:04:33,000
+Na kar je v bistvu ta stvar začela toliko enega cepuje žret,
+
+55
+00:04:33,000 --> 00:04:36,000
+da so začeli websajti počasi nam delati,
+
+56
+00:04:36,000 --> 00:04:38,000
+ko smo gor imeli vsak,
+
+57
+00:04:38,000 --> 00:04:41,000
+tako je ne, par nas je bilo kolegov,
+
+58
+00:04:41,000 --> 00:04:44,000
+ko smo pač to plačvali, pa smo gor imeli svoje websajte,
+
+59
+00:04:44,000 --> 00:04:46,000
+imeli server in tako.
+
+60
+00:04:46,000 --> 00:04:49,000
+In potem je to začelo malo počasi delati,
+
+61
+00:04:49,000 --> 00:04:52,000
+in po neki točki smo rekli, po nek treh tednih dej,
+
+62
+00:04:52,000 --> 00:04:54,000
+sklopimo to.
+
+63
+00:04:54,000 --> 00:04:56,000
+In potem mi to sklopimo.
+
+64
+00:04:56,000 --> 00:04:59,000
+No pa ja, tako, čez ena, dva tedna potem,
+
+65
+00:05:00,000 --> 00:05:03,000
+pa pride kriminalistična policija k mojemu domovu,
+
+66
+00:05:03,000 --> 00:05:05,000
+tako eno popovdne,
+
+67
+00:05:05,000 --> 00:05:07,000
+dva policaja in
+
+68
+00:05:09,000 --> 00:05:12,000
+pač tako čist na izi, na pogovor ste prišli.
+
+69
+00:05:12,000 --> 00:05:15,000
+In povesta je, da je prišlo do neke
+
+70
+00:05:18,000 --> 00:05:21,000
+preiskave zaradi neke goljofije,
+
+71
+00:05:21,000 --> 00:05:25,000
+zaradi nekih mailov, ki so se pošiljali z mojega serverja.
+
+72
+00:05:26,000 --> 00:05:28,000
+Znam reč, moj ta hosting,
+
+73
+00:05:28,000 --> 00:05:31,000
+kar smo ga plačvali, je bil na moje domačine slovo pisani.
+
+74
+00:05:31,000 --> 00:05:34,000
+In pač to je bila prva stvar, ko je se prišli pogledati.
+
+75
+00:05:34,000 --> 00:05:37,000
+Na kar sem jaz pa vse razložil,
+
+76
+00:05:37,000 --> 00:05:40,000
+da pač, ja, lahvamo tor, točko,
+
+77
+00:05:40,000 --> 00:05:43,000
+in tako, ona dva, kaj lahvati?
+
+78
+00:05:44,000 --> 00:05:47,000
+Tako da je bilo malo razlaganja, kaj to je, pa kako to deluje.
+
+79
+00:05:48,000 --> 00:05:51,000
+Pa da itak nimamo nobenih logov, ki je pač stvar zdizainirana,
+
+80
+00:05:51,000 --> 00:05:53,000
+tako da ni logov.
+
+81
+00:05:53,000 --> 00:05:57,000
+Sta nekak to sprijela moja razlago in šla in to je bilo to.
+
+82
+00:05:58,000 --> 00:06:00,000
+Do ...
+
+83
+00:06:01,000 --> 00:06:04,000
+Žena je bila pa zelo nezadovoljna takrat.
+
+84
+00:06:04,000 --> 00:06:07,000
+Ne je tako povemela, da če kaj se mi to gremo.
+
+85
+00:06:07,000 --> 00:06:10,000
+Vse prav, to so neke kriminalne zadeve, to ni kr nekaj.
+
+86
+00:06:11,000 --> 00:06:13,000
+In takrat so me pol pomirili.
+
+87
+00:06:13,000 --> 00:06:15,000
+Ne, pa lej se, to smo zelo gasili.
+
+88
+00:06:15,000 --> 00:06:17,000
+To pač ni panike.
+
+89
+00:06:17,000 --> 00:06:20,000
+Pa itak, pač zvoni Kitajce, vse, a ne.
+
+90
+00:06:21,000 --> 00:06:24,000
+In pol pa, čez ene tri leta, ja.
+
+91
+00:06:25,000 --> 00:06:29,000
+Ne vem, če se spomnite, ko je bila racija v Ljubljani ob šesti zjutri
+
+92
+00:06:29,000 --> 00:06:31,000
+na menjih devetnajstih lokacijah.
+
+93
+00:06:32,000 --> 00:06:36,000
+Tudi takrat je bil, mislim, da gospod Magajna, takrat še poslanec.
+
+94
+00:06:38,000 --> 00:06:41,000
+Mislim, da je bilo tudi po medijsko, takrat to.
+
+95
+00:06:41,000 --> 00:06:46,000
+Je bila pač, ja, še ena taka preiskava in katere del so mi tudi jaz bil.
+
+96
+00:06:47,000 --> 00:06:51,000
+In to je bilo v bistvu, popravo, prišli so v šesti zjutri trije.
+
+97
+00:06:53,000 --> 00:06:57,000
+Moja žena je bila viseko noseča z mojim tretjim ali drugim sinom.
+
+98
+00:06:59,000 --> 00:07:03,000
+In prva stvar, ki so mi rekli, je bilo tako, da imam ful srečo,
+
+99
+00:07:04,000 --> 00:07:07,000
+da nisem vratil v kralj, ker pa novato naredil.
+
+100
+00:07:07,000 --> 00:07:10,000
+Ampak pro mene so pač videli, da se ukvarja z varnostjo.
+
+101
+00:07:10,000 --> 00:07:13,000
+In so pač rekli, okej, da je mogoče, mogoče ne še.
+
+102
+00:07:14,000 --> 00:07:18,000
+Tako da jaz so v bistvu normalno not prišli, ampak jaz so mi takoj pokazali
+
+103
+00:07:18,000 --> 00:07:22,000
+nalog za hišno preiskavo in začeli v bistvu tam gledati,
+
+104
+00:07:22,000 --> 00:07:24,000
+kaj so računalniki in ta stvari.
+
+105
+00:07:26,000 --> 00:07:29,000
+Na kar, mislim, jaz sem bil po takrat zelo šokeren,
+
+106
+00:07:29,000 --> 00:07:32,000
+ker sem že zdavni pozabil te tore zadene.
+
+107
+00:07:32,000 --> 00:07:37,000
+In nam je rešekljast takrat za sum razpečevanja troške pornografije.
+
+108
+00:07:39,000 --> 00:07:41,000
+In zraven moja žena.
+
+109
+00:07:43,000 --> 00:07:45,000
+In to je bilo tako kar neprijetno.
+
+110
+00:07:45,000 --> 00:07:47,000
+In pol mi je kapilo.
+
+111
+00:07:47,000 --> 00:07:49,000
+Kolikajst mi je bistvu IP pokazala.
+
+112
+00:07:50,000 --> 00:07:52,000
+A, okej, Thor.
+
+113
+00:07:52,000 --> 00:07:54,000
+Spravo v tistih treh tednih,
+
+114
+00:07:55,000 --> 00:08:00,000
+da samo te dve stvari so dejansko najdele.
+
+115
+00:08:01,000 --> 00:08:05,000
+Bi se pač povezali. Kaj še vsega, mogoče, niso povezali.
+
+116
+00:08:07,000 --> 00:08:11,000
+Tako da pol je bilo, tako da jaz sem še enkrat šel v sveto razlagati,
+
+117
+00:08:12,000 --> 00:08:16,000
+pa je bilo par takih zanimivih detaljov v smislu,
+
+118
+00:08:16,000 --> 00:08:20,000
+kaj je pač rekel ta gospod kriminalist,
+
+119
+00:08:20,000 --> 00:08:24,000
+da vse eno bi bilo fajn, da zdaj jaz pregajam računalnik
+
+120
+00:08:24,000 --> 00:08:27,000
+in da on po navodilih nekoga po telefonu
+
+121
+00:08:27,000 --> 00:08:30,000
+meni tam daje, kaj moramo tipkati noter
+
+122
+00:08:30,000 --> 00:08:34,000
+in da pogledamo, a je to star računalnik s tem IP-jem.
+
+123
+00:08:35,000 --> 00:08:38,000
+In pa je se rekel, ne, ne, ne, ta IP, to je tam,
+
+124
+00:08:38,000 --> 00:08:42,000
+to je všmo bilo, to nima veze z tem, to je moja baj, to je svoje stanovanje, nič.
+
+125
+00:08:43,000 --> 00:08:46,000
+Tja moramo iti, če hočeš tako videti.
+
+126
+00:08:46,000 --> 00:08:49,000
+Ne, ne, ne, jaz moram iti, kaj mi tukaj pravijo,
+
+127
+00:08:49,000 --> 00:08:53,000
+odpriti računalnik, ip.config.slash.all, če pač IP naslednje.
+
+128
+00:08:54,000 --> 00:08:57,000
+In pa povejte ta IP naslov, pa jezično.
+
+129
+00:08:57,000 --> 00:09:00,000
+In pa rekel, gledajte, to nima veze, to je lokalen IP.
+
+130
+00:09:00,000 --> 00:09:03,000
+Če želim potem, da ima unga od ruterja.
+
+131
+00:09:03,000 --> 00:09:06,000
+In jaz samo delam enkrat, meni tukaj razlagajo.
+
+132
+00:09:07,000 --> 00:09:10,000
+Smo to malo narekovali.
+
+133
+00:09:11,000 --> 00:09:14,000
+Pol pa je rekel, gospod, ja, neč.
+
+134
+00:09:14,000 --> 00:09:17,000
+Sej hvala, da ste mi razložili.
+
+135
+00:09:17,000 --> 00:09:20,000
+In bom čisto z verjavnim načelom, a pa gdemo vse eno te računalnike
+
+136
+00:09:20,000 --> 00:09:23,000
+seboj vzeti na policijsko, gdi greste z mano,
+
+137
+00:09:23,000 --> 00:09:26,000
+in potem boste še sami razložili še enkrat vse.
+
+138
+00:09:26,000 --> 00:09:29,000
+In potem bomo videli, kaj je zdaj.
+
+139
+00:09:29,000 --> 00:09:32,000
+In res to se je zgodilo, tam sem še enkrat na komu se to razložil.
+
+140
+00:09:32,000 --> 00:09:35,000
+In pa je rekel, v redu, jaz imam zdaj vse to,
+
+141
+00:09:35,000 --> 00:09:38,000
+kaj se bojo pa oni zlačili. In jaz sem pač rekel,
+
+142
+00:09:38,000 --> 00:09:41,000
+ok, upam, da ne bo kaj.
+
+143
+00:09:41,000 --> 00:09:44,000
+Pač povecem, kdo smo vse tukaj, da bi zraven, pa tako.
+
+144
+00:09:47,000 --> 00:09:50,000
+To je bilo to.
+
+145
+00:09:50,000 --> 00:09:53,000
+To bi bilo kar čudno, da bi bili tako,
+
+146
+00:09:53,000 --> 00:09:56,000
+ja, vi imate IP FE80,
+
+147
+00:09:56,000 --> 00:09:59,000
+oni imajo tudi FE80, se začne.
+
+148
+00:09:59,000 --> 00:10:02,000
+Tako da bi bili ti tako, ja, tu vsi se tako začnejo.
+
+149
+00:10:03,000 --> 00:10:06,000
+To je kar štorja.
+
+150
+00:10:06,000 --> 00:10:09,000
+Ja, pa po še tome, mogoče, ko sem se peljal nazaj, rekel,
+
+151
+00:10:09,000 --> 00:10:12,000
+joj veste, kriminalist meni ne,
+
+152
+00:10:12,000 --> 00:10:15,000
+ko bi mi imeli kakšnega tazga,
+
+153
+00:10:15,000 --> 00:10:18,000
+kaj ste vi, kakaj bi jo računalniki.
+
+154
+00:10:18,000 --> 00:10:21,000
+Takrat pač tako je tako.
+
+155
+00:10:21,000 --> 00:10:24,000
+Daj še za nepodločeno toro razložiti,
+
+156
+00:10:24,000 --> 00:10:27,000
+kaj je torno tak?
+
+157
+00:10:27,000 --> 00:10:30,000
+Ja, to je ena tako omrežje računalnikov,
+
+158
+00:10:31,000 --> 00:10:34,000
+ki med sabo poganjuje en protokol,
+
+159
+00:10:34,000 --> 00:10:37,000
+ki se pač imenuje TOR.
+
+160
+00:10:37,000 --> 00:10:40,000
+Ta protokol nekak ovija paketke,
+
+161
+00:10:40,000 --> 00:10:43,000
+reče se temu tudi The Onion Router,
+
+162
+00:10:43,000 --> 00:10:46,000
+ki v bistvu te paketke, ki se prenaša med temi nodji,
+
+163
+00:10:46,000 --> 00:10:49,000
+v bistvu zovija v ene hedere dodatne
+
+164
+00:10:51,000 --> 00:10:54,000
+na en tak matematično zanimiv način,
+
+165
+00:10:54,000 --> 00:10:57,000
+ki v bistvu doseže, da se ne da v resnici
+
+166
+00:10:58,000 --> 00:11:01,000
+slediti, kje je prišel paketek noter,
+
+167
+00:11:01,000 --> 00:11:04,000
+pa kje je šel ven.
+
+168
+00:11:04,000 --> 00:11:07,000
+Pač ne da se celotne poti ugotoviti,
+
+169
+00:11:07,000 --> 00:11:10,000
+kar pomeni, da je v resnici stvar anonimna
+
+170
+00:11:10,000 --> 00:11:13,000
+oziroma pošiljatelstva onega paketka je anoniman.
+
+171
+00:11:13,000 --> 00:11:16,000
+To je možno, če ti nimaš pod nadzorom
+
+172
+00:11:17,000 --> 00:11:20,000
+dovolj velikega dela tega omrežja.
+
+173
+00:11:20,000 --> 00:11:23,000
+Če to imaš, potem lahko te stvari vidiš
+
+174
+00:11:23,000 --> 00:11:26,000
+in potem so cele...
+
+175
+00:11:27,000 --> 00:11:30,000
+Cija delgač, mislim, da sem zanjšt bral,
+
+176
+00:11:30,000 --> 00:11:33,000
+je kaj večjih donaterjev novdov za vtore.
+
+177
+00:11:35,000 --> 00:11:38,000
+Aha, se pravi, imajo svoje te exitnovde,
+
+178
+00:11:38,000 --> 00:11:41,000
+tako kot si imel ga ti in upozujajo, kaj gre ven.
+
+179
+00:11:41,000 --> 00:11:44,000
+Po mojem, da je to sigurno, ampak tudi v smislu
+
+180
+00:11:44,000 --> 00:11:47,000
+za svoje lastne potrebe, to sem nekaj pribral,
+
+181
+00:11:47,000 --> 00:11:50,000
+da bi se tudi za svoje, ker je to v resnici
+
+182
+00:11:50,000 --> 00:11:53,000
+zdaj tako veliko, da deluje dobro.
+
+183
+00:11:54,000 --> 00:11:57,000
+Ne vemo pa v resnici, kdo ima koliko pod nadzor,
+
+184
+00:11:57,000 --> 00:12:00,000
+ne vem, tega ne vem.
+
+185
+00:12:00,000 --> 00:12:02,000
+To je to.
+
+186
+00:12:02,000 --> 00:12:05,000
+The best. Mislim, da nam je ta hook zdaj rato.
+
+187
+00:12:05,000 --> 00:12:07,000
+Tako da...
+
+188
+00:12:12,000 --> 00:12:15,000
+Upam, da smo dobili pozornost postošalcev,
+
+189
+00:12:15,000 --> 00:12:18,000
+ker to je zdaj vsem tem šundru informacij.
+
+190
+00:12:18,000 --> 00:12:21,000
+Zdaj, jaz sem sicer,
+
+191
+00:12:21,000 --> 00:12:24,000
+ko smo se z Andraže prepravili,
+
+192
+00:12:24,000 --> 00:12:27,000
+smo naredili nek tak road map, kaj vse je si počel,
+
+193
+00:12:27,000 --> 00:12:30,000
+potem smo imeli tudi full v AI-ju.
+
+194
+00:12:30,000 --> 00:12:33,000
+Želimo se tudi v AI-ju pogovarjati, ker imaš zdaj firmu
+
+195
+00:12:33,000 --> 00:12:36,000
+okoliko tega, ampak jaz sem to pač si prepravil
+
+196
+00:12:36,000 --> 00:12:40,000
+zapiske, pa včeri se je spet vse spremenilo.
+
+197
+00:12:42,000 --> 00:12:44,000
+V AI-ju.
+
+198
+00:12:44,000 --> 00:12:47,000
+Včeraj z večer se je spet vse spremenilo,
+
+199
+00:12:47,000 --> 00:12:50,000
+AI je dal nove modele, multimodalne ali kaj.
+
+200
+00:12:54,000 --> 00:12:57,000
+Dajmo se malo pogovoriti o tem, kako zgleda,
+
+201
+00:12:57,000 --> 00:13:01,000
+ko ustvarjaš svoje tretje podjetje,
+
+202
+00:13:01,000 --> 00:13:04,000
+svoj tretji start-up, in si se odločil,
+
+203
+00:13:04,000 --> 00:13:07,000
+za nas ste se odločili, da boste revolucioni
+
+204
+00:13:07,000 --> 00:13:11,000
+naredili neki nov produkt in AI je v srči
+
+205
+00:13:11,000 --> 00:13:14,000
+kad tega vašega solušena.
+
+206
+00:13:14,000 --> 00:13:17,000
+Kako sploh deluješ v tem prostoru,
+
+207
+00:13:17,000 --> 00:13:20,000
+kaj spremljaš, je to stresno za tebe,
+
+208
+00:13:20,000 --> 00:13:23,000
+ko se daki premiki dogajajo, ali jih pričakuješ,
+
+209
+00:13:23,000 --> 00:13:25,000
+a se ve?
+
+210
+00:13:25,000 --> 00:13:27,000
+Ne.
+
+211
+00:13:27,000 --> 00:13:30,000
+Za mene je bilo najbolj stresno
+
+212
+00:13:30,000 --> 00:13:33,000
+potem, ko je Lani prišel
+
+213
+00:13:33,000 --> 00:13:36,000
+v API do JGBTA
+
+214
+00:13:36,000 --> 00:13:39,000
+in smo bili mi še zelo trdno
+
+215
+00:13:39,000 --> 00:13:42,000
+zasidreni v prejšnji firmi,
+
+216
+00:13:42,000 --> 00:13:46,000
+v tem smislu, da eksekutamo neko vizijo
+
+217
+00:13:46,000 --> 00:13:49,000
+in pač hočemo z tega narediti čim več.
+
+218
+00:13:49,000 --> 00:13:52,000
+In potem pride API dostop do tega
+
+219
+00:13:52,000 --> 00:13:55,000
+in jaz sem tako intuitivno čutil,
+
+220
+00:13:55,000 --> 00:13:58,000
+da je to ful velika stvar.
+
+221
+00:13:58,000 --> 00:14:01,000
+To odpira ogromno nekih novih priložnosti,
+
+222
+00:14:01,000 --> 00:14:04,000
+ki bojo potencialno veliko več vredne od tega,
+
+223
+00:14:04,000 --> 00:14:07,000
+kar je moja prejšnja firma dela.
+
+224
+00:14:07,000 --> 00:14:11,000
+In je bilo ta stres
+
+225
+00:14:11,000 --> 00:14:14,000
+tega komitmenta.
+
+226
+00:14:14,000 --> 00:14:17,000
+In zdaj je v bistvu kako
+
+227
+00:14:17,000 --> 00:14:20,000
+zdaj to spivotirati, oziroma
+
+228
+00:14:20,000 --> 00:14:23,000
+vedo sem, da ne moremo krz te firme spivotirati v neko AI firmo,
+
+229
+00:14:23,000 --> 00:14:26,000
+ampak kako zdaj to prepričati
+
+230
+00:14:26,000 --> 00:14:29,000
+ko founderje, da gremo nekaj novega delati,
+
+231
+00:14:29,000 --> 00:14:32,000
+pa kaj z tistim biznisom naredimo in tako.
+
+232
+00:14:32,000 --> 00:14:35,000
+Tako da v bistvu to premljevanje,
+
+233
+00:14:35,000 --> 00:14:38,000
+kako izkoristiti to priložnost.
+
+234
+00:14:38,000 --> 00:14:41,000
+Drgače pa čist, kako jaz veliko berem Twitter,
+
+235
+00:14:41,000 --> 00:14:44,000
+pa tam se mi zdi, da tako en tak utrip sveta.
+
+236
+00:14:44,000 --> 00:14:47,000
+Čutim, kaj se dogaja sploh na AI,
+
+237
+00:14:47,000 --> 00:14:50,000
+ok, Twitter je ful močan.
+
+238
+00:14:50,000 --> 00:14:53,000
+In to me pač generira neke ideje,
+
+239
+00:14:53,000 --> 00:14:56,000
+kaj se bi se dalo.
+
+240
+00:14:56,000 --> 00:14:59,000
+Zdaj, boš ti?
+
+241
+00:14:59,000 --> 00:15:02,000
+Ja, mislim, mene je tako zanima.
+
+242
+00:15:02,000 --> 00:15:05,000
+Dobili smo zdaj API do teh LLM modelov,
+
+243
+00:15:05,000 --> 00:15:08,000
+ampak ja, star se tudi skozi preminja.
+
+244
+00:15:08,000 --> 00:15:11,000
+Prehajajo nove modeli, potem eni so potencialno cenejši,
+
+245
+00:15:11,000 --> 00:15:14,000
+pa me pač tako zanima. Zdaj, zasidrat na enega
+
+246
+00:15:14,000 --> 00:15:17,000
+se najbolj pač ne mora, kaj itak ne vemo,
+
+247
+00:15:17,000 --> 00:15:20,000
+kaj se bo zgodil čez en mesec, četrtletje ali pa pol leta.
+
+248
+00:15:20,000 --> 00:15:23,000
+A potem, ne vem, če imaš neko idejo,
+
+249
+00:15:23,000 --> 00:15:26,000
+ko si že mičkan, veš kaj točno delati,
+
+250
+00:15:26,000 --> 00:15:29,000
+a potem napisuješ, ne vem, neke teste
+
+251
+00:15:29,000 --> 00:15:32,000
+za evaluacijo teh novih modelov,
+
+252
+00:15:32,000 --> 00:15:35,000
+ki se pojavljajo, kako to prvo zgleda.
+
+253
+00:15:35,000 --> 00:15:38,000
+Kaj pač domenja, da glih nimaš se časa
+
+254
+00:15:38,000 --> 00:15:41,000
+evaluirati oročno ali se odločiš, da boš
+
+255
+00:15:41,000 --> 00:15:44,000
+na neki točki viskočil, na neki novga, kako to pa zgleda?
+
+256
+00:15:44,000 --> 00:15:47,000
+Čisto iskreno, mi trenutno smo trije
+
+257
+00:15:47,000 --> 00:15:50,000
+v tejto nove firmi, tako pač kot founderji,
+
+258
+00:15:50,000 --> 00:15:53,000
+tako da nimamo v bistvu ful časa še,
+
+259
+00:15:53,000 --> 00:15:56,000
+nismo imeli doslej, še ful časa,
+
+260
+00:15:56,000 --> 00:15:59,000
+se ukvarjati s ful sistematizacijo,
+
+261
+00:16:00,000 --> 00:16:03,000
+evalivacijo, kross modelov in tako.
+
+262
+00:16:03,000 --> 00:16:06,000
+Zdaj je bilo v smislu, ej,
+
+263
+00:16:06,000 --> 00:16:09,000
+Anthropic je dal novo model, dej poprav noter,
+
+264
+00:16:09,000 --> 00:16:12,000
+da vidimo, kako to dela, pa pač probamo
+
+265
+00:16:12,000 --> 00:16:15,000
+uporabljati par dni, par tednov sami,
+
+266
+00:16:15,000 --> 00:16:18,000
+pa da vidimo, kakšen je experience,
+
+267
+00:16:18,000 --> 00:16:21,000
+če dela, dela, če ... Je pa pač to
+
+268
+00:16:21,000 --> 00:16:24,000
+nevredo, predvsem nevredo z to,
+
+269
+00:16:24,000 --> 00:16:27,000
+kar je največje nevarnost oziroma.
+
+270
+00:16:27,000 --> 00:16:30,000
+Največje problem se mi zdi v razvoju
+
+271
+00:16:30,000 --> 00:16:33,000
+produktskih sistemov z temi modeli je,
+
+272
+00:16:33,000 --> 00:16:36,000
+da kako omejiti te regresije, kako boš ti,
+
+273
+00:16:36,000 --> 00:16:39,000
+ampak niti na nivoju modela, to,
+
+274
+00:16:39,000 --> 00:16:42,000
+ampak na nivoju promptov, kako boš ti,
+
+275
+00:16:42,000 --> 00:16:45,000
+kako boš nekaj, nekaj agenta, nek prompt
+
+276
+00:16:45,000 --> 00:16:48,000
+znotraj nekega stepa, boš pač popravil,
+
+277
+00:16:48,000 --> 00:16:51,000
+ja, sej boš en problem rešil,
+
+278
+00:16:51,000 --> 00:16:54,000
+ki doslej je ful slabo delal,
+
+279
+00:16:55,000 --> 00:16:58,000
+ali pa so po defoltu super delali,
+
+280
+00:16:58,000 --> 00:17:01,000
+zdaj pa kraj enkrat ne delajo več.
+
+281
+00:17:01,000 --> 00:17:04,000
+In zdaj kako to zmanjšati.
+
+282
+00:17:04,000 --> 00:17:07,000
+In tukaj je resnično, kot kar jaz spremljam,
+
+283
+00:17:07,000 --> 00:17:10,000
+ni še nekaj enoznačnega odgovora te industrije.
+
+284
+00:17:10,000 --> 00:17:13,000
+In pač, kar mi zdaj se lotevamo delati,
+
+285
+00:17:13,000 --> 00:17:16,000
+je pač tako, da imaš v bistvu nek
+
+286
+00:17:16,000 --> 00:17:19,000
+evolution framework,
+
+287
+00:17:19,000 --> 00:17:22,000
+kjer pač ti imaš nek data ...
+
+288
+00:17:22,000 --> 00:17:25,000
+Zdaj recimo, imamo že toliko teh
+
+289
+00:17:25,000 --> 00:17:28,000
+nageneriranih promptov, pač toliko zgodovine,
+
+290
+00:17:28,000 --> 00:17:31,000
+da lahko v bistvu mi zdaj to,
+
+291
+00:17:31,000 --> 00:17:34,000
+damo neko tabelo, pa pogledamo, okej,
+
+292
+00:17:34,000 --> 00:17:37,000
+pa pač polabeliramo, to je vse, okej,
+
+293
+00:17:37,000 --> 00:17:40,000
+zdaj pa pač damo drug model, kaj se zgodi,
+
+294
+00:17:40,000 --> 00:17:43,000
+gledamo, kje so bistvene razlike, tisto normalno pogledamo.
+
+295
+00:17:43,000 --> 00:17:46,000
+Tako, še vedno pred sej kmečki approach, ampak dovolj,
+
+296
+00:17:46,000 --> 00:17:49,000
+da vse tisto glavnino nekih novumnosti.
+
+297
+00:17:50,000 --> 00:17:53,000
+Mi pišemo vse v zmejle, daj, če je pač nek
+
+298
+00:17:53,000 --> 00:17:56,000
+malo na robi napisan, who cares, pač.
+
+299
+00:17:56,000 --> 00:17:59,000
+Še vedno vse človek na koncu pogleda,
+
+300
+00:17:59,000 --> 00:18:02,000
+pa popravi in tako.
+
+301
+00:18:02,000 --> 00:18:05,000
+Niso kuhinski recepti, ko ti potem zameša dve jajce.
+
+302
+00:18:05,000 --> 00:18:08,000
+Ja, tisto je bilo bolj normalno.
+
+303
+00:18:12,000 --> 00:18:15,000
+Najprej pač te ljudje poznajo verjetno po zgodbi
+
+304
+00:18:15,000 --> 00:18:18,000
+z genialisom, kjer je
+
+305
+00:18:18,000 --> 00:18:21,000
+eno, jaz mislim, da je eno večjih biotek
+
+306
+00:18:21,000 --> 00:18:24,000
+start-upov v Sloveniji.
+
+307
+00:18:24,000 --> 00:18:27,000
+Upam, ne popravi verjetnosti še več, ampak na mojem
+
+308
+00:18:27,000 --> 00:18:30,000
+radarju pa smo že tudi imeli Romana, ki je
+
+309
+00:18:30,000 --> 00:18:33,000
+iz genialisa zdaj. Potem
+
+310
+00:18:33,000 --> 00:18:36,000
+ta meeting z bio je potem
+
+311
+00:18:36,000 --> 00:18:39,000
+tvoja neka naslednja zgodba in zdaj
+
+312
+00:18:39,000 --> 00:18:42,000
+Celestina je tretja zgodba.
+
+313
+00:18:42,000 --> 00:18:45,000
+Jaz sem začutil, ko sem pač nekako gledal
+
+314
+00:18:45,000 --> 00:18:48,000
+te produkte, pa tudi brav, kaj si pisal, pa to,
+
+315
+00:18:48,000 --> 00:18:51,000
+da nek ta
+
+316
+00:18:51,000 --> 00:18:54,000
+sales je nek ta
+
+317
+00:18:54,000 --> 00:18:57,000
+mišen tu vzadi, da se mi zdi, da se ful hočeš ukvarjati
+
+318
+00:18:57,000 --> 00:19:00,000
+s tem salesom pa pomagati s človekom.
+
+319
+00:19:00,000 --> 00:19:03,000
+Je to neka tema čez vse to?
+
+320
+00:19:03,000 --> 00:19:06,000
+V bistvu o tem slov še nikoli nisem govoril.
+
+321
+00:19:06,000 --> 00:19:09,000
+Kar je v bistvu tako moj, se mi zdi,
+
+322
+00:19:09,000 --> 00:19:12,000
+bottom line oziroma
+
+323
+00:19:12,000 --> 00:19:15,000
+je tako počet velike stvari.
+
+324
+00:19:15,000 --> 00:19:18,000
+To je tisto, kar jaz vidim kot nekako svoj mišen.
+
+325
+00:19:18,000 --> 00:19:21,000
+In v resnici sem pač
+
+326
+00:19:21,000 --> 00:19:24,000
+v neki točki prišel tega, če hočeš to delati
+
+327
+00:19:24,000 --> 00:19:27,000
+na nekem pomembnem skajlu,
+
+328
+00:19:27,000 --> 00:19:30,000
+v resnici je ful laže, če imaš
+
+329
+00:19:30,000 --> 00:19:33,000
+neke finančne resurese. Tako da
+
+330
+00:19:33,000 --> 00:19:36,000
+iz tega sem v bistvu vedno, že ko sem šel prvo firmo delati,
+
+331
+00:19:36,000 --> 00:19:39,000
+je bila pač ideja narediti produktno firmo, ne samo storitveno
+
+332
+00:19:39,000 --> 00:19:42,000
+firmo, kje bom prodal neke svoje ure in si bom pač naredil
+
+333
+00:19:42,000 --> 00:19:45,000
+neko dobro službo, ampak v bistvu narediti
+
+334
+00:19:45,000 --> 00:19:48,000
+nek pač biznis, ki ga bom lahko enkrat prodal
+
+335
+00:19:48,000 --> 00:19:51,000
+in s tem dobil neke resurse, s katerimi bom lahko delal potem
+
+336
+00:19:51,000 --> 00:19:54,000
+neke spremembe v svetu, ki so me eno smislene.
+
+337
+00:19:54,000 --> 00:19:57,000
+Legalne. In legalne.
+
+338
+00:19:57,000 --> 00:20:00,000
+Tako je nekako
+
+339
+00:20:00,000 --> 00:20:03,000
+motivacija, zakaj sploh jaz probam
+
+340
+00:20:03,000 --> 00:20:06,000
+narediti velike firme, zakaj jim ne naredim.
+
+341
+00:20:06,000 --> 00:20:09,000
+Z metinj zbajo, ki je čist super,
+
+342
+00:20:09,000 --> 00:20:12,000
+praktično, finančno, odvisno se si tam
+
+343
+00:20:12,000 --> 00:20:15,000
+zgradil in bi lahko prišel 300 furov
+
+344
+00:20:15,000 --> 00:20:18,000
+še nekaj včasa, ampak v resnici me to ne zanima. Meni ne zanima
+
+345
+00:20:18,000 --> 00:20:21,000
+kako graditi tako čim večje
+
+346
+00:20:21,000 --> 00:20:24,000
+stari, zato da lahko potem
+
+347
+00:20:24,000 --> 00:20:27,000
+prišelim še večje stari. Rezume, meni ena velika stvar,
+
+348
+00:20:27,000 --> 00:20:30,000
+ki bi rad naredil v Sloveniji je res dobra
+
+349
+00:20:30,000 --> 00:20:33,000
+podjetniška sredna šola. Pač imamo ogromno
+
+350
+00:20:33,000 --> 00:20:36,000
+takih ekonomskih in onake, ampak v resnici
+
+351
+00:20:36,000 --> 00:20:39,000
+to zame nima nobena veze z tem, kar jaz
+
+352
+00:20:39,000 --> 00:20:42,000
+doživljam kot podjetništvo. Pa se mi zdi,
+
+353
+00:20:42,000 --> 00:20:45,000
+da so tako mladi ljudje super
+
+354
+00:20:45,000 --> 00:20:48,000
+za entry point, za podjetništvo,
+
+355
+00:20:48,000 --> 00:20:51,000
+ker tam imajo še fulj to naivnost. In v bistvu je ena iz ključnih
+
+356
+00:20:51,000 --> 00:20:54,000
+sem mislil vlastnosti, tudi mojih,
+
+357
+00:20:54,000 --> 00:20:57,000
+zato da sploh lahko delam te biznese, je to, da sem
+
+358
+00:20:57,000 --> 00:21:00,000
+fulj naiv. Če opraviš mojega CTO-ja, bov
+
+359
+00:21:00,000 --> 00:21:03,000
+je zasem fulj preveč naivno. Ampak
+
+360
+00:21:03,000 --> 00:21:06,000
+v resnici moraš to, po mojem, fulj imeti in
+
+361
+00:21:06,000 --> 00:21:09,000
+prav mladeh je to lažje dobiti na začetku.
+
+362
+00:21:09,000 --> 00:21:12,000
+Pa na sploh, v bistvu, zakaj recimo bi
+
+363
+00:21:12,000 --> 00:21:15,000
+bilo to hote, je zato, da bi se fulj želel,
+
+364
+00:21:15,000 --> 00:21:18,000
+da bi Slovenija gospodarsko bila močnejša,
+
+365
+00:21:18,000 --> 00:21:21,000
+da bi pač imeli več tega, več ustvarjene vrednosti,
+
+366
+00:21:21,000 --> 00:21:24,000
+več biznesov, več življenja v tem smislu.
+
+367
+00:21:24,000 --> 00:21:27,000
+Tako da to je nekako
+
+368
+00:21:27,000 --> 00:21:30,000
+ta bottom line. Pol vsebinsko, v resnici,
+
+369
+00:21:30,000 --> 00:21:33,000
+pa predvsem oportunistično vse skupaj bilo.
+
+370
+00:21:33,000 --> 00:21:36,000
+Se pravi, jaz sem bil v security-u, pa IT-u,
+
+371
+00:21:36,000 --> 00:21:39,000
+potem res deset let.
+
+372
+00:21:39,000 --> 00:21:42,000
+Pa pa pride kolega slahča,
+
+373
+00:21:42,000 --> 00:21:45,000
+pa reče, daj ne, naredimo eno firmo,
+
+374
+00:21:45,000 --> 00:21:48,000
+ki nima veze z tem.
+
+375
+00:21:48,000 --> 00:21:51,000
+Takrat je bilo mišljeno najprej, da bo to nek
+
+376
+00:21:51,000 --> 00:21:54,000
+orange v klaudu,
+
+377
+00:21:54,000 --> 00:21:57,000
+nek splošen data analytics platform.
+
+378
+00:21:57,000 --> 00:22:00,000
+Še lepo je se to pokazalo, da
+
+379
+00:22:00,000 --> 00:22:03,000
+najprej smo razmišljali, da bi imeli
+
+380
+00:22:03,000 --> 00:22:06,000
+isti tool za video production,
+
+381
+00:22:06,000 --> 00:22:09,000
+pa za bioinformatiko, da bi imeli
+
+382
+00:22:09,000 --> 00:22:12,000
+kar vse. Zakaj bi se umiljovali?
+
+383
+00:22:12,000 --> 00:22:15,000
+Zakaj bi se umiljjali?
+
+384
+00:22:15,000 --> 00:22:18,000
+In pa smo rekli, dajmo se
+
+385
+00:22:18,000 --> 00:22:21,000
+fokusirati na bioinformatiko,
+
+386
+00:22:21,000 --> 00:22:24,000
+pa pač sama po sebi ogromno spesa.
+
+387
+00:22:24,000 --> 00:22:27,000
+In tako da, v to bio informatiko,
+
+388
+00:22:27,000 --> 00:22:30,000
+smo pa danes čist ponaključili v resnici,
+
+389
+00:22:30,000 --> 00:22:33,000
+zato ker je pač sličajno bila še takrat v BioLab-u
+
+390
+00:22:33,000 --> 00:22:36,000
+z upom naš ustanovni
+
+391
+00:22:36,000 --> 00:22:39,000
+advajzor, dajmo tema tega še takrat, in je
+
+392
+00:22:39,000 --> 00:22:42,000
+takrat v bistvu odlih z enim softwarom delal,
+
+393
+00:22:42,000 --> 00:22:45,000
+ki je pač z tega področja, in se nam je zdelo,
+
+394
+00:22:45,000 --> 00:22:48,000
+kaj pač bi mi to probali v življenje spraviti,
+
+395
+00:22:48,000 --> 00:22:51,000
+skomercializirati, pa pač sproduktivizirati v resnici.
+
+396
+00:22:51,000 --> 00:22:54,000
+Ko smo delali to firmo, je bilo tako v resnici,
+
+397
+00:22:54,000 --> 00:22:57,000
+jaz nisem imel pojma o biologiji in bioinformatiki.
+
+398
+00:22:57,000 --> 00:23:00,000
+In to je bilo pa moja ena najslabših odločitev
+
+399
+00:23:00,000 --> 00:23:03,000
+v mojem življenju, da sem vrgul deset let
+
+400
+00:23:03,000 --> 00:23:06,000
+stvari, ker sem jih poznal ful dober, stran,
+
+401
+00:23:06,000 --> 00:23:09,000
+in se je začel učiti nekaj, kar pač nisem imel pojma,
+
+402
+00:23:09,000 --> 00:23:12,000
+jih krasnično, vse podjetnište, vse, kar se tiče
+
+403
+00:23:12,000 --> 00:23:15,000
+gradne ekipe, vsega tega.
+
+404
+00:23:15,000 --> 00:23:18,000
+In kar tega nisem znal, pač sem se znotraj
+
+405
+00:23:18,000 --> 00:23:21,000
+te firme fokusiral res bolj na stvari,
+
+406
+00:23:21,000 --> 00:23:24,000
+ki so bile lažje se naučiti.
+
+407
+00:23:24,000 --> 00:23:27,000
+In lažje se naučiti v resnici prodaja, fomarketinga,
+
+408
+00:23:27,000 --> 00:23:30,000
+kot kar cele bio informatike.
+
+409
+00:23:30,000 --> 00:23:33,000
+Tako da to je bil ustvar razlog, zakaj sem padel v ta sales.
+
+410
+00:23:33,000 --> 00:23:36,000
+Mi je pa sales v resnici pol
+
+411
+00:23:38,000 --> 00:23:41,000
+zanimiv čisto iz tega vedika,
+
+412
+00:23:41,000 --> 00:23:44,000
+ker je exciting, ker
+
+413
+00:23:44,000 --> 00:23:47,000
+ti pač nekaj imaš, nekaj narediš,
+
+414
+00:23:47,000 --> 00:23:50,000
+in potem gledaš ven in nimaš pojma, kako bo svet reagiral.
+
+415
+00:23:50,000 --> 00:23:53,000
+In gledaš v bistvu to reakcijo. Ta reakcija meni
+
+416
+00:23:53,000 --> 00:23:56,000
+ful enega ekscitmenta prinese in
+
+417
+00:23:56,000 --> 00:23:59,000
+to je tudi zakaj tretja firma je spet v salesu.
+
+418
+00:23:59,000 --> 00:24:02,000
+Plus ogromena oprotunity v resnici.
+
+419
+00:24:02,000 --> 00:24:05,000
+Naši poslušalci so,
+
+420
+00:24:05,000 --> 00:24:08,000
+se pač tako občutek imamo,
+
+421
+00:24:08,000 --> 00:24:11,000
+zelo, dost tehnični, pač, ker tudi ta podcast
+
+422
+00:24:11,000 --> 00:24:14,000
+malo skače med, ampak je dost krati tudi
+
+423
+00:24:14,000 --> 00:24:17,000
+bolj hardcore tehničen.
+
+424
+00:24:17,000 --> 00:24:20,000
+Pa se mi zdi, da Marzo tako razmišlja, ok, mogoče bi jaz
+
+425
+00:24:20,000 --> 00:24:23,000
+naredil nek produkt. Ne, da je zdaj glih največji, ampak da je nek
+
+426
+00:24:23,000 --> 00:24:26,000
+v bistvu lifestyle, podjetje, whatever.
+
+427
+00:24:26,000 --> 00:24:29,000
+Pa se mi zdi tudi, da dost od nas
+
+428
+00:24:29,000 --> 00:24:32,000
+v bistvu malo stragla
+
+429
+00:24:32,000 --> 00:24:35,000
+s to prodajo in salesom. Mogoče lahko
+
+430
+00:24:35,000 --> 00:24:38,000
+daljše še na svet glede, kako se to učiti,
+
+431
+00:24:39,000 --> 00:24:42,000
+ali pa samo, pač, samo probavljati.
+
+432
+00:24:42,000 --> 00:24:45,000
+Mislim, zdih imaš kakšne dobre insajte.
+
+433
+00:24:46,000 --> 00:24:49,000
+Najprej to,
+
+434
+00:24:49,000 --> 00:24:52,000
+da je to stvar. Znaš tako,
+
+435
+00:24:52,000 --> 00:24:55,000
+marketing je po mojem stvarju, kar se vse fulj težje
+
+436
+00:24:55,000 --> 00:24:58,000
+naučiš, kot prodaje. Zelo marketing v smislu
+
+437
+00:24:59,000 --> 00:25:00,000
+pisač.
+
+438
+00:25:00,000 --> 00:25:07,000
+nekih sporočil, marketingaških, pa potem uživljenje se v osebo tam noter,
+
+439
+00:25:07,000 --> 00:25:12,000
+ki mora biti vrstnic, ki je čisto imigranarna, nek audience tam zunaj.
+
+440
+00:25:12,000 --> 00:25:19,000
+Prodaja je pa vrstnic, ti nekaj delaš ali narediš in ker si tako eksajted,
+
+441
+00:25:19,000 --> 00:25:24,000
+da to zdaj obstaja in da to nekomu nekaj pomaga, pač najdeš nekoga,
+
+442
+00:25:24,000 --> 00:25:29,000
+ki misliš, da bo ta človek in mu z vsem nadušenjem potem poveš
+
+443
+00:25:29,000 --> 00:25:35,000
+in ga sprašuješ, a je to res mogoče nekaj, kar bi njemu olajšilo življenje.
+
+444
+00:25:35,000 --> 00:25:39,000
+Ampak to lahko dela, to narabiš, nobena je, prodajena je, izobraz,
+
+445
+00:25:39,000 --> 00:25:44,000
+brničesar, in to se mi zdi čist tako. V vrstnic se mi zdi ful pomembno,
+
+446
+00:25:44,000 --> 00:25:52,000
+da si normalno prijazen, ne neki ful, ampak tudi da nisi res vem tako.
+
+447
+00:25:53,000 --> 00:25:54,000
+Grampi.
+
+448
+00:25:54,000 --> 00:26:00,000
+Ja, grampi, pa da si v bistvu optimist, ker če si ti v bistvu pesimist,
+
+449
+00:26:00,000 --> 00:26:04,000
+pa tako, pa to se ne da, pa tako, pa boš težko navdušval druge ljudi,
+
+450
+00:26:04,000 --> 00:26:08,000
+kar v bistvu ti moraš navdušiti. Tako da jaz mislim, da če si to,
+
+451
+00:26:08,000 --> 00:26:14,000
+pa tudi če nimaš pojma formalno o prodaji, je to super.
+
+452
+00:26:14,000 --> 00:26:18,000
+To je spravo v bistvu prodaja malo bolj organska, premarketingov pa kdaj
+
+453
+00:26:18,000 --> 00:26:23,000
+in treba, ta me se mi zdi tako, saj mene recimo kot računalničera,
+
+454
+00:26:23,000 --> 00:26:29,000
+jaz sem pač res vedno sebe isključno kot računalničera doživljal do
+
+455
+00:26:29,000 --> 00:26:33,000
+2012, ko me je prašil kolega, ej, a naredimo firmo. Jaz tudi,
+
+456
+00:26:33,000 --> 00:26:36,000
+moji starši so bodetniki in ko so oni mene včasih malo sprašvali,
+
+457
+00:26:36,000 --> 00:26:40,000
+a, lahko ti tudi kakšno firmo, ono tretje, ne, jaz imam računalničera,
+
+458
+00:26:40,000 --> 00:26:44,000
+jaz imam programiral, to je to. In mi je v bistvu ful,
+
+459
+00:26:44,000 --> 00:26:48,000
+je bilo prvič tako, sem imel ta odnost za mene dolg čas, brez zveze,
+
+460
+00:26:48,000 --> 00:26:54,000
+tako. Dokler, ni nekako moja ambicioznost, da bi vseeno imel firmo,
+
+461
+00:26:54,000 --> 00:26:59,000
+prevladala nad tem in je bilo, ok, zdaj pa vidim, ja, če pač hočem imeti
+
+462
+00:26:59,000 --> 00:27:03,000
+biznis, pač moram začeti prodajati. In potem pač narediš to,
+
+463
+00:27:03,000 --> 00:27:05,000
+kar možeš narediti.
+
+464
+00:27:05,000 --> 00:27:07,000
+A misliš, da je...
+
+465
+00:27:08,000 --> 00:27:14,000
+Na drugi strani obstaja ta argument, veliko developerjev,
+
+466
+00:27:14,000 --> 00:27:19,000
+ampak ne želijo se soči s tem, da tak, če bom zdaj šel v sales,
+
+467
+00:27:19,000 --> 00:27:22,000
+če bom zdaj to vse folklare spodajal, pa z marketingom,
+
+468
+00:27:22,000 --> 00:27:26,000
+potem ne bom imel časa za razvoj, ne bom developer več.
+
+469
+00:27:26,000 --> 00:27:30,000
+A misliš, da je to nek skill, ki ga vsak developer morajo svojiti,
+
+470
+00:27:30,000 --> 00:27:35,000
+ali je to eno ali drugo? A je to, se izključuje, ali je to nek upgrade,
+
+471
+00:27:35,000 --> 00:27:37,000
+nek skill, ki ga vsakem premjeru je dobro...
+
+472
+00:27:37,000 --> 00:27:40,000
+Mislim, ni, da treba. Ne, jaz poznam ful dobrih inženjerjev,
+
+473
+00:27:40,000 --> 00:27:43,000
+ki so čisto super happy, dobre inženjerje. In res ne znači,
+
+474
+00:27:43,000 --> 00:27:52,000
+če ti nimaš ambicije biti CEO ali pa pač tako bolj nestrogo
+
+475
+00:27:52,000 --> 00:27:56,000
+tehnični co-founder neke firme, ali pol ni razloga pač.
+
+476
+00:27:56,000 --> 00:28:01,000
+Tudi, če si tehnični co-founder, če si to, če so dobre logo
+
+477
+00:28:01,000 --> 00:28:05,000
+razprojene, te ni treba prodajati. Vsem časih boš pač moral biti...
+
+478
+00:28:05,000 --> 00:28:08,000
+Če delaš z enterprisom, tam boš ti del ekipe, ki pač boš moral
+
+479
+00:28:08,000 --> 00:28:12,000
+tudi ti biti tam, ampak tregač pa mislim, da nema.
+
+480
+00:28:12,000 --> 00:28:16,000
+Tako da jaz mislim, da to ni nepotrebno. Je pa res, da če...
+
+481
+00:28:16,000 --> 00:28:24,000
+Ane, tukaj recimo vidi Marci, ki je inženjer, se malo zezne.
+
+482
+00:28:24,000 --> 00:28:29,000
+Se pravi, ko prideš do tega, ok, bom vest radiš freelance-ov.
+
+483
+00:28:29,000 --> 00:28:33,000
+Ne bom z veseljem v freelance-ov, ok, in pa prideš, ok.
+
+484
+00:28:33,000 --> 00:28:37,000
+Zdaj moram pa neenkrat dobiti stranke, do rasej.
+
+485
+00:28:37,000 --> 00:28:42,000
+V inženjeri, v software je tako, da to ni problema, pa tudi pač imaš
+
+486
+00:28:42,000 --> 00:28:44,000
+eno stranko, pa s to delaš, pa si freelancer.
+
+487
+00:28:44,000 --> 00:28:49,000
+Ampak recimo, če ti delaš agency, in če hočeš prodajat,
+
+488
+00:28:49,000 --> 00:28:54,000
+delat tako, da hočeš imeti več strank, pa hitro prideš do tega,
+
+489
+00:28:54,000 --> 00:28:57,000
+da je to trebalo kratko, veliko časa gre za to.
+
+490
+00:28:57,000 --> 00:28:59,000
+Tako da ja, meni...
+
+491
+00:28:59,000 --> 00:29:04,000
+Mogoče en dober komentar na to freelancing je, da ljudje mogočeč
+
+492
+00:29:04,000 --> 00:29:09,000
+se ne zavedajo, ko grejo čisto, ok, da delam v velikem sistemu,
+
+493
+00:29:09,000 --> 00:29:12,000
+sem džunjor, zdaj pa prijem do točke, ko bi mogoče šel iz džunjer
+
+494
+00:29:12,000 --> 00:29:16,000
+pozicije v neko senior, ali pa sem prerast v firmo,
+
+495
+00:29:16,000 --> 00:29:20,000
+zdaj bom pa šel na SP, pa bom freelancer, pa bom poiskal
+
+496
+00:29:20,000 --> 00:29:25,000
+si druge stranke. Ljudje se ne zavedajo, da ta odločitev
+
+497
+00:29:26,000 --> 00:29:29,000
+pomeni tudi, da zdaj si podjetnik postal.
+
+498
+00:29:30,000 --> 00:29:35,000
+Podjetnik pomeni, da si tudi odločene odgovornosti prevzel na sebe,
+
+499
+00:29:35,000 --> 00:29:38,000
+mogoče se še ne zavedaš, ampak zdaj si sam na trgu.
+
+500
+00:29:39,000 --> 00:29:42,000
+Veliko krat vidim, da ljudje se sprašujo na developerih, recimo,
+
+501
+00:29:42,000 --> 00:29:47,000
+ja, koliko pa moram zdaj postaviti plačo, koliko je pa plača,
+
+502
+00:29:47,000 --> 00:29:51,000
+ko je kod SP najo zamen, da bom na istem, ko sem bil prej
+
+503
+00:29:51,000 --> 00:29:55,000
+v podjetju, pa je ful nekih stvari, ko jih sploh ne moreš
+
+504
+00:29:55,000 --> 00:30:00,000
+uračunati na nek način, ali boš še ti dodal v to smer, kaj?
+
+505
+00:30:00,000 --> 00:30:04,000
+Ja, mislim, pač jaz se čist strinjam, pač, če, ne vem, rečeš,
+
+506
+00:30:05,000 --> 00:30:12,000
+aha, jaz bom, ne vem, v tem letu, rečmo, da delaš neke projekte,
+
+507
+00:30:12,000 --> 00:30:16,000
+pa so dvomesečni, to pomeni, da boš imel, ne vem, šest strank vsaj,
+
+508
+00:30:17,000 --> 00:30:21,000
+če so krajši, jih imaš lahko tudi dvanajst, ti imaš pač neki,
+
+509
+00:30:21,000 --> 00:30:24,000
+tega enostavno hladnega zagona, cost of doing business, ti greš
+
+510
+00:30:24,000 --> 00:30:29,000
+po sestankih, pač tog pa tog časa zgubiš, pa enkrat ugotoviš,
+
+511
+00:30:29,000 --> 00:30:33,000
+aha, ok, na slovenskem trgu, naprimer, če delam za slovenski trg,
+
+512
+00:30:33,000 --> 00:30:36,000
+pa če sem delal nekaj za slovenski trg, koliko mora biti zdaj
+
+513
+00:30:36,000 --> 00:30:39,000
+ta moja urna postavka, a ne? Pa pa, ja, pa imaš, ok,
+
+514
+00:30:39,000 --> 00:30:43,000
+pad Slovenija imaš neke specifike, pa dost težko neko uro prodati,
+
+515
+00:30:43,000 --> 00:30:47,000
+prodati, zato, ker se noben se zares ne zaveda, v bistvu, tega stroška, ne?
+
+516
+00:30:47,000 --> 00:30:51,000
+S tem, da pa, če, ja, ti vzamaš pa še neke ekstra rizike
+
+517
+00:30:51,000 --> 00:30:55,000
+za dopust, za bolniške, pa neko premijo hočeš tudi meti, ne?
+
+518
+00:30:55,000 --> 00:30:59,000
+Se mi zdi, da, ne vem, se je pri nam v primerjavi, ne vem,
+
+519
+00:30:59,000 --> 00:31:02,000
+s drugo se ljudje dostkrat ne zavedajo, da če si tipo djetnik,
+
+520
+00:31:02,000 --> 00:31:06,000
+je fajn, da dobiš tudi neko premijo, kar kole zdaj točno to pomeni, ne?
+
+521
+00:31:06,000 --> 00:31:10,000
+Ali najbolj to nek finančen incentive ali kar kole, ne?
+
+522
+00:31:10,000 --> 00:31:14,000
+Pa, če, ne vem, vse je tako, pa čest vidim v stvari.
+
+523
+00:31:14,000 --> 00:31:18,000
+Bi pa rekel, no, da je softwarov vsaj eno taj problem menj akuten spet,
+
+524
+00:31:18,000 --> 00:31:22,000
+ker je v resnici ful več poprašvanja, ne, kot je v te ponudbe.
+
+525
+00:31:22,000 --> 00:31:26,000
+Tako, da dostkrat je tako, da pač marski, mislim, dobri inženiri vsaj eno se morajo
+
+526
+00:31:26,000 --> 00:31:30,000
+otepati pa govoriti ne, ne? Če smo ti eni, tako, recimo se mi zdi,
+
+527
+00:31:30,000 --> 00:31:34,000
+dizajno je pa to bistveno težji problema, ne? Dobiti pa,
+
+528
+00:31:34,000 --> 00:31:38,000
+iti se freelancer, pa potem dobiti stranke, ki so tako recurring,
+
+529
+00:31:38,000 --> 00:31:41,000
+pa to še ti lepo vse celo leto pokrijo, ne?
+
+530
+00:31:41,000 --> 00:31:45,000
+Ja, ja. Nam ni treba tako marketing pipeline oddelat,
+
+531
+00:31:45,000 --> 00:31:49,000
+pa sales pa pisat v kajni fazi imamo na ročnika.
+
+532
+00:31:49,000 --> 00:31:53,000
+Ko si umelo pisanje, bom zdaj šel na to.
+
+533
+00:31:53,000 --> 00:31:57,000
+Zdaj, jaz upam, da nekateri med našimi audience so, mislim,
+
+534
+00:31:57,000 --> 00:32:01,000
+sem pripričan, da so opazili.
+
+535
+00:32:03,000 --> 00:32:07,000
+Dajansko smo videli ene par blog postov.
+
+536
+00:32:07,000 --> 00:32:11,000
+Jaš je videl tudi še neke videoklipe, ko si dejansko
+
+537
+00:32:11,000 --> 00:32:15,000
+napisal, da iščeš novega co-founderja. Mislim, da sem že
+
+538
+00:32:15,000 --> 00:32:19,000
+dva posta videl za različne use case-e.
+
+539
+00:32:19,000 --> 00:32:23,000
+In to so verjetno bili posti, ki so totalno nasproti
+
+540
+00:32:23,000 --> 00:32:27,000
+job adsom, ki jih vidimo v ponavadi.
+
+541
+00:32:27,000 --> 00:32:31,000
+Pa bom zdaj samo enega najprej razložil, pa bom povedal so še druge,
+
+542
+00:32:31,000 --> 00:32:36,000
+ampak napisal si v bistvu, da iščeš co-founderja,
+
+543
+00:32:37,000 --> 00:32:41,000
+tehničnega co-founderja, ampak napisal si, kaj delaš,
+
+544
+00:32:41,000 --> 00:32:45,000
+zelo podrobno, napisal si, kakšni so finančni rezultati
+
+545
+00:32:45,000 --> 00:32:49,000
+s številkami, napisal si, koliko je dobička,
+
+546
+00:32:49,000 --> 00:32:53,000
+pa napisal si dejansko, kakšni del, da je del, mislim,
+
+547
+00:32:53,000 --> 00:32:58,000
+da je bilo 5000 evrov bruto, pa je bilo, mislim, na 15% firme,
+
+548
+00:32:58,000 --> 00:33:03,000
+na 4 leta obdobja, pa klif nekih 6 mesecev.
+
+549
+00:33:04,000 --> 00:33:08,000
+To je nek tak sveš veter v tem prostoru,
+
+550
+00:33:09,000 --> 00:33:13,000
+ampak to je ta prvi del tega mela, potem pa razložiš zelo podrobno,
+
+551
+00:33:13,000 --> 00:33:17,000
+kdo si, kaj si delal, s kom si bodo delal, kaj želiš narediti.
+
+552
+00:33:18,000 --> 00:33:21,000
+To se mi je zdelo odlično, pa me tudi malo zanima,
+
+553
+00:33:21,000 --> 00:33:25,000
+a si dobil kakšni feedback zaradi tega, se se delajo dve javlji,
+
+554
+00:33:25,000 --> 00:33:30,000
+zakaj si to naredil, ker si sam želel, da bi job adsi tako zgledali?
+
+555
+00:33:30,000 --> 00:33:35,000
+Ne, naredil sem se to, ker prejšnji poskus,
+
+556
+00:33:35,000 --> 00:33:40,000
+ko sem samo na slovenskej develjapri en post napisal,
+
+557
+00:33:40,000 --> 00:33:47,000
+tako v dveh odstavkih, da iščem, tako 6 mesecev predtem,
+
+558
+00:33:47,000 --> 00:33:51,000
+ni bilo praktično nobenega vziva. Zamele smo videli tako 4 prijave,
+
+559
+00:33:51,000 --> 00:33:56,000
+pa ni bil dober fit. To sem se pa že naučil,
+
+560
+00:33:57,000 --> 00:34:02,000
+da v resnici, če ti hočeš na konc priti do rezultata,
+
+561
+00:34:02,000 --> 00:34:06,000
+rabiš statistično moč pri prodaji in pri hiringu.
+
+562
+00:34:06,000 --> 00:34:12,000
+Hiring je samo revers prodaja. Tako da v bistvu sem pol začel razmišljati,
+
+563
+00:34:12,000 --> 00:34:17,000
+kako priti tukaj do voljuma, kako priti do več attentiona
+
+564
+00:34:17,000 --> 00:34:21,000
+in more eyeballs zamele, ker je lepje v slovenske besede.
+
+565
+00:34:22,000 --> 00:34:26,000
+Tako da v bistvu ja, sem pol začel razmišljati, da kaj bi se jaz odzval.
+
+566
+00:34:26,000 --> 00:34:30,000
+V resnici, če bi nekdo men celo zgodbo napisal, in jaz nimam
+
+567
+00:34:30,000 --> 00:34:34,000
+ful menih težav s to transparentnostjo, men je to,
+
+568
+00:34:34,000 --> 00:34:37,000
+imam vedno občutek, da nimam kaj izgubiti, mogoče zato,
+
+569
+00:34:37,000 --> 00:34:42,000
+ker se še nikoli nisem nekaj ful opekl, ampak nisem še imel težav zaradi tega.
+
+570
+00:34:42,000 --> 00:34:48,000
+Tako da to je bil glavni razlik, kako si naredi pipeline kandidatov,
+
+571
+00:34:48,000 --> 00:34:51,000
+tako da smo dobili dejansko 30 prijavne iz tizga,
+
+572
+00:34:51,000 --> 00:34:55,000
+od katerih na konc smo imeli tri res dobre kandidate.
+
+573
+00:34:55,000 --> 00:34:59,000
+In smo lahko zbirali, kar je kar dobro bilo.
+
+574
+00:34:59,000 --> 00:35:03,000
+Tiz blog post je videlo, mislim, da, tako po statistiki,
+
+575
+00:35:03,000 --> 00:35:07,000
+da sem gledal v šteri dneh ene 7000 ljudi, tako da je bil kar dober rič.
+
+576
+00:35:07,000 --> 00:35:12,000
+Se pa strinjam. Je pa res, tukaj je malo tricky.
+
+577
+00:35:12,000 --> 00:35:17,000
+Tricky je to, da to deluje za ful senior pozicije.
+
+578
+00:35:18,000 --> 00:35:27,000
+To ne deluje dobro, če samo navadnega inženirja je še zaposlenega.
+
+579
+00:35:27,000 --> 00:35:30,000
+Zakaj misliš? Zato, ker ne razumejo?
+
+580
+00:35:30,000 --> 00:35:34,000
+Ne vem, zakaj. Ne vem, zakaj. Ampak sem zdaj dvakrat že probal
+
+581
+00:35:34,000 --> 00:35:39,000
+za nekaj čist različne pozicije, pa ni bilo to.
+
+582
+00:35:39,000 --> 00:35:44,000
+Zdaj, recimo, ko smo skaliči FAI oficera, smo dobili bistveno manj prijavo.
+
+583
+00:35:45,000 --> 00:35:50,000
+Mogoče tudi z to, ker je bil kriterij, mislim, tako,
+
+584
+00:35:50,000 --> 00:35:55,000
+smo tukaj kar zložili ta, mislim, bolj specificeran nabor,
+
+585
+00:35:55,000 --> 00:36:00,000
+ki je zahtev. Par izmed teh je pa što, da v zadnjih dvanajstih
+
+586
+00:36:00,000 --> 00:36:03,000
+mesecih moraš delati v produkcijske sisteme oziroma,
+
+587
+00:36:03,000 --> 00:36:07,000
+kar pač res nevelik ljudi se s tem ukvarja.
+
+588
+00:36:07,000 --> 00:36:10,000
+Tako da smo dobili pač manj prijavo. Ampak nasploh,
+
+589
+00:36:10,000 --> 00:36:13,000
+že dvakrat predtem, po tistem postu sem tudi probal,
+
+590
+00:36:13,000 --> 00:36:17,000
+pa ni bilo tako dobro odziva, ampak je bilo za manj senioro pozicijo.
+
+591
+00:36:17,000 --> 00:36:19,000
+Ampak sej eno, je pa počet delovalo.
+
+592
+00:36:19,000 --> 00:36:21,000
+Za odinja se dali bomo linke spodi, da si lahko pogledate.
+
+593
+00:36:21,000 --> 00:36:24,000
+Na ogrodji Pikasi bomo dali, tam imamo vse epizode,
+
+594
+00:36:24,000 --> 00:36:28,000
+bomo dali to spodi. A so se ti ljudje tudi javili, pa so rekli,
+
+595
+00:36:28,000 --> 00:36:35,000
+ej, oglas je zanimiv, plača je pa previsoka, lahko da bi manj?
+
+596
+00:36:35,000 --> 00:36:42,000
+Ne, nobenega pripombe ni bilo. Na razenem LinkedInu sem jaz delal
+
+597
+00:36:42,000 --> 00:36:44,000
+ta zadnja glava.
+
+598
+00:36:44,000 --> 00:36:47,000
+So engažali ljudje s teboj, so se odzivali.
+
+599
+00:36:47,000 --> 00:36:52,000
+Ja, ja, ja. Noben ni komentiral, da je compensation package preslab,
+
+600
+00:36:52,000 --> 00:36:58,000
+zato ker pač tudi zdaj v tej rundi, ko smo ponudili razmero manjše,
+
+601
+00:36:58,000 --> 00:37:02,000
+nizko plačo za toliko seniora inženjera, kot ga iščemo,
+
+602
+00:37:02,000 --> 00:37:08,000
+ampak dovolj veliko equity komponenta, se mi zdi, da je tako zelo težko
+
+603
+00:37:08,000 --> 00:37:13,000
+nekdo zagovarja, mislim, da je to premalo. Razen če se bodo zaintereseni
+
+604
+00:37:13,000 --> 00:37:17,000
+za cash komponento, to pa boče ni dober fit za nas.
+
+605
+00:37:17,000 --> 00:37:21,000
+Na LinkedInu je bil en komentar, u, pet juri je pa malo,
+
+606
+00:37:21,000 --> 00:37:25,000
+sem rekel, ampak še 10% firme. A ja, ja, ne, ne, pa pa vredu.
+
+607
+00:37:25,000 --> 00:37:32,000
+Ja, ja, nekak. Ja, eno stvar, ki smo upazili, je tudi v bistvu ta
+
+608
+00:37:32,000 --> 00:37:36,000
+build in public, to se pravi, ful si transparenten, to se pravi,
+
+609
+00:37:36,000 --> 00:37:41,000
+mene je res, mene je že v bistvu ta dva odstavka se prav dober spolnil,
+
+610
+00:37:41,000 --> 00:37:45,000
+mi slovenskih developerjev, to je pač neka Facebook skupina,
+
+611
+00:37:45,000 --> 00:37:50,000
+ok, pač ni bilo za me, tu pa tam bom napisal, ej, to je res dober,
+
+612
+00:37:50,000 --> 00:37:55,000
+ker se mi zdi zelo, zelo iskreno. Imamo v Sloveniji še tudi enih par
+
+613
+00:37:55,000 --> 00:37:57,000
+drugih podjetij, ki imajo naprimer kar plačne kalkulatore,
+
+614
+00:37:57,000 --> 00:38:00,000
+ki ti zelo natančno povejo, ej, ti si senior inžener,
+
+615
+00:38:00,000 --> 00:38:04,000
+tok let si pri nas in živiš v Sloveniji in ti množimo s tem
+
+616
+00:38:04,000 --> 00:38:08,000
+indeksom in tako bodovalja plača, imamo tudi taka podjetja,
+
+617
+00:38:09,000 --> 00:38:16,000
+ampak ja, zdaj, nisem bil tako pozoren, a so še kakšne stvari,
+
+618
+00:38:16,000 --> 00:38:20,000
+tako, pač, ker si jih delil, oziroma ta transparentnost,
+
+619
+00:38:20,000 --> 00:38:22,000
+vidiš kakšne prednosti, v bistvu…
+
+620
+00:38:22,000 --> 00:38:23,000
+Ja.
+
+621
+00:38:25,000 --> 00:38:28,000
+Naj, mislim, tako, jaz sem, tudi ko smo začeli, Genialis,
+
+622
+00:38:29,000 --> 00:38:33,000
+takrat smo zagovarjali o 100% interno transparentnost,
+
+623
+00:38:33,000 --> 00:38:38,000
+v tem smislu, da smo tudi plače interno imeli vsi odkrite,
+
+624
+00:38:38,000 --> 00:38:42,000
+pač vsi smo lahko gledali tisti predšetek in smo tudi imeli v bistvu
+
+625
+00:38:42,000 --> 00:38:45,000
+tak nek sistem. Kaj v bistvu, če imaš tudi interno transparentno
+
+626
+00:38:45,000 --> 00:38:48,000
+kompozacijo, moraš imeti mnoj ino sistem, kaj če ne.
+
+627
+00:38:48,000 --> 00:38:49,000
+Ja.
+
+628
+00:38:49,000 --> 00:38:51,000
+Pač ne moraš zagovarjati ničesar.
+
+629
+00:38:53,000 --> 00:38:57,000
+To se je izkazalo kot zame, tako, zdaj, tega ne počnem več.
+
+630
+00:38:57,000 --> 00:39:02,000
+Se pravi, transparentnost, sicer v vsem drugem, v vseh
+
+631
+00:39:02,000 --> 00:39:07,000
+številkah, promet, eno, tretje, noben problem, plače pa ne.
+
+632
+00:39:08,000 --> 00:39:14,000
+Zakaj? Zato, ker enostavno ne deluje, v tem smislu, da ljudje
+
+633
+00:39:14,000 --> 00:39:20,000
+enostavno nismo dovolj zreli, vključno z mano, da bi lahko
+
+634
+00:39:22,000 --> 00:39:26,000
+ful dobro, ful preveč smo nagranih primerjev z drug z drugmi
+
+635
+00:39:26,000 --> 00:39:29,000
+in potem ves čas v glavi vrtiš nekaj števil, ki ga gledaš,
+
+636
+00:39:29,000 --> 00:39:32,000
+a pa jaz je on tako naredil, da ima tako več kot jaz.
+
+637
+00:39:33,000 --> 00:39:38,000
+Totalni irisor zdrejn in se pa, v bistvu, nevarnost je, da se
+
+638
+00:39:38,000 --> 00:39:43,000
+ful časa samo s tem ukvarjaš. Plus, to je pa še večja nevarnost,
+
+639
+00:39:43,000 --> 00:39:48,000
+da ne moreš zaposlit človeka, čega res hočeš.
+
+640
+00:39:48,000 --> 00:39:54,000
+Zato, ker pač, ja, ne, tak je sistem, on pride, pa nekdo, kaj ful dober,
+
+641
+00:39:54,000 --> 00:39:58,000
+pa zlativa ni sistema, pa ga hočeš vse namet, pa ga ne moreš,
+
+642
+00:39:58,000 --> 00:40:00,000
+ker, če ne, boš vsem drugi.
+
+643
+00:40:00,000 --> 00:40:01,000
+Ja, rošiš ravnovesje.
+
+644
+00:40:01,000 --> 00:40:05,000
+Ja, nočiš tega. Tako da, to je edina stvar, kaj sem govoril, da ne deluje.
+
+645
+00:40:05,000 --> 00:40:09,000
+Tudi, recimo, visi, bostonski, naš, kaj smo mu to povedali,
+
+646
+00:40:09,000 --> 00:40:14,000
+da imamo bi tak sistem, je rekel, ne, ne, to ne bo dobro.
+
+647
+00:40:14,000 --> 00:40:17,000
+Pa sem rekel, zakaj ne, pa to je ful unfair.
+
+648
+00:40:17,000 --> 00:40:21,000
+Jaz sem tudi, deluje, verjetno, pri manjših ekipah, če pa imaš ti res
+
+649
+00:40:21,000 --> 00:40:25,000
+vedno večje mesečke, to težko bo skajalo.
+
+650
+00:40:25,000 --> 00:40:29,000
+Puffer je firma, ki je šla čez sto ljudi, pa je imela
+
+651
+00:40:29,000 --> 00:40:34,000
+totalno transparenten sistem, pa je na ozuni izgledal, da vse to deluje.
+
+652
+00:40:34,000 --> 00:40:38,000
+Ampak on je pač, tudi po firmo poznal, pa je mi pač rekel, ne, to ne deluje, ful dober.
+
+653
+00:40:38,000 --> 00:40:44,000
+Kaj je meni rekel, lej, prišel bo čas, ko boš zaposlil prodajavca
+
+654
+00:40:44,000 --> 00:40:48,000
+in ga boš moral plačati na kombišn in boš dal ful nizko komponento
+
+655
+00:40:48,000 --> 00:40:52,000
+česnone plače in ful visoko komponento na kombišn
+
+656
+00:40:52,000 --> 00:40:57,000
+in ta človek bo moral biti sposoben zaslužiti, oziroma imeti možnost
+
+657
+00:40:57,000 --> 00:41:01,000
+zaslužiti tako pol milijona, milijona leta. Tvoj inžener pa služi
+
+658
+00:41:01,000 --> 00:41:05,000
+dvesti eur, a ko bo enkrat inžener videl dvojen prodajavce, milijon plače,
+
+659
+00:41:05,000 --> 00:41:09,000
+to ne bo dobro. Spet, pride do teh primerjav in si, a ne, ne moraš
+
+660
+00:41:09,000 --> 00:41:13,000
+še samo inženerjev, je pa iti pa prodajati.
+
+661
+00:41:13,000 --> 00:41:17,000
+Pa če je osam evrov več zasluži, je osam evrov več, zakaj zasluži
+
+662
+00:41:17,000 --> 00:41:22,000
+če je osam evrov več. Na koncu je pa samo prevoz.
+
+663
+00:41:22,000 --> 00:41:28,000
+Sicer pa transparentnost se mi nikoli ni negativno.
+
+664
+00:41:28,000 --> 00:41:32,000
+Dejmo še vpraškati malo EI.
+
+665
+00:41:32,000 --> 00:41:38,000
+Preden si prišel na najinjo omizijo, si imel omizijo
+
+666
+00:41:38,000 --> 00:41:44,000
+na Dragon Race-ih, pa si ti bil host.
+
+667
+00:41:44,000 --> 00:41:51,000
+Dej mi povej malo, kaj je ta najboljši ali pa najbolj zanimivi aspekt
+
+668
+00:41:51,000 --> 00:41:58,000
+umetne inteligence na tvojem področju. Kaj te najbolj zanimivo?
+
+669
+00:41:58,000 --> 00:42:04,000
+Kero področje ti je najbolj tako? Šit, this is amazing.
+
+670
+00:42:04,000 --> 00:42:09,000
+General intelligence je prav to, da imam...
+
+671
+00:42:09,000 --> 00:42:15,000
+In spet, tukaj ful vidim, da imaš optimističen pa pesimističen tabor.
+
+672
+00:42:15,000 --> 00:42:19,000
+Optimisti smo uniki, verjavimo, da smo tako še ful na začetku
+
+673
+00:42:19,000 --> 00:42:26,000
+tega exponential krba. Optimisti v smislu, da smo
+
+674
+00:42:26,000 --> 00:42:32,000
+na začetku razvoja, ne nujno, da bo vse dobro v prihodnosti.
+
+675
+00:42:32,000 --> 00:42:38,000
+To se lahko loči na tema. Metem ko pesimisti pač zelo hitro
+
+676
+00:42:38,000 --> 00:42:43,000
+naredijo, če bi ti je prišel, vse je fajn, ampak zdaj smo itak
+
+677
+00:42:43,000 --> 00:42:47,000
+že na plateauju in ne bo več neč pametnega. Jaz ful verjam,
+
+678
+00:42:47,000 --> 00:42:53,000
+da smo na zelo hitri protisplošni inteligenci na nivoju človeka
+
+679
+00:42:53,000 --> 00:42:58,000
+in, po mojem, zelo hitro tudi boljši od človeka.
+
+680
+00:42:58,000 --> 00:43:05,000
+Zdaj, to mi je meni totalno eksciting.
+
+681
+00:43:05,000 --> 00:43:10,000
+Že samo to. Zdaj, če se pa da to še kaj pametnega iz tega narediti,
+
+682
+00:43:10,000 --> 00:43:15,000
+pa nekomu smanjšati porabo časa za brezvezne storije v življenju,
+
+683
+00:43:15,000 --> 00:43:17,000
+pa še boljše.
+
+684
+00:43:17,000 --> 00:43:23,000
+Kot developer, kot inženir, na eni strani uporabljaš najbolj cutting edge,
+
+685
+00:43:23,000 --> 00:43:28,000
+kot kar si lahko prihoščite verjetno, ali pa najbolj cutting edge modele,
+
+686
+00:43:28,000 --> 00:43:32,000
+kar jih lahko dobiš za svojo use case in jih testirati.
+
+687
+00:43:32,000 --> 00:43:39,000
+Ampak, ko prijemo do naslednjega stopnje, ko tituli pa že zdaj,
+
+688
+00:43:39,000 --> 00:43:42,000
+verjetno dozakrad, da bomo realizirali to epizodo, bomo ga naredili
+
+689
+00:43:42,000 --> 00:43:48,000
+še predskok, pa zdaj imamo ne vem kaj, ta neko copilot, kurzor,
+
+690
+00:43:49,000 --> 00:43:53,000
+ali kaj, ko paš cele ideje je integrirane skupine.
+
+691
+00:43:53,000 --> 00:43:58,000
+Na nek način uporabljaš to tehnologijo hkrati, pa verjetno je,
+
+692
+00:43:58,000 --> 00:44:02,000
+če bo prej ali slej ta tehnologija tudi ustali del tvojega džoba,
+
+693
+00:44:02,000 --> 00:44:07,000
+povedala, se loti ali ne, ali mogoče.
+
+694
+00:44:07,000 --> 00:44:15,000
+Kaj se sočeš s tem, ker jaz upažam, se vprašam, kaj od tega,
+
+695
+00:44:15,000 --> 00:44:20,000
+kar zdaj le jaz buildam, kaj dodajam, jaz sem vrednost kot developer,
+
+696
+00:44:20,000 --> 00:44:25,000
+a res zdaj, če pišem neke neumne skripte, pa se dajo zgenerirati,
+
+697
+00:44:25,000 --> 00:44:28,000
+je verjetno to ni najboljše izkoriščeno moč. Jaz moram tudi evolvirati
+
+698
+00:44:28,000 --> 00:44:32,000
+to moje, kako dodajam vrednost kot developer, kot inženiru firme.
+
+699
+00:44:32,000 --> 00:44:35,000
+Kaj se sočeš s tem, mogoče?
+
+700
+00:44:35,000 --> 00:44:39,000
+Jaz sem slab programmer in za slabih programerjev, nas slabih
+
+701
+00:44:39,000 --> 00:44:43,000
+programerjev je ful, so ful dobra ta vrodi, ker pa če res lahko
+
+702
+00:44:43,000 --> 00:44:47,000
+sploh zdaj je kursor, ki ima ta interactive mode, kaj krč,
+
+703
+00:44:47,000 --> 00:44:52,000
+kar daš odstavk, kaj hočeš, pa ti krči cel projekt, spiše z vsemi
+
+704
+00:44:52,000 --> 00:44:56,000
+fajli, mislim, to je tako res impresivno, tako večakam, da pridem domov
+
+705
+00:44:56,000 --> 00:45:00,000
+in da sprobam še eden model, ki ga še nisem sprobil na kursorju.
+
+706
+00:45:00,000 --> 00:45:05,000
+Jaz res mislim, da bo šlo v to smer, tudi če bi zdaj prišel
+
+707
+00:45:05,000 --> 00:45:09,000
+eden izmed sinoh do mene pa me vprašal, a bi bilo fajn, da greš
+
+708
+00:45:09,000 --> 00:45:14,000
+tudi za računalništvo, bi verjetno rekel, da ne. Mislim tako,
+
+709
+00:45:14,000 --> 00:45:18,000
+ne bi mu tega svetoval, pa je treba delati tukaj v fizičnem svetu,
+
+710
+00:45:18,000 --> 00:45:20,000
+dokler se še da.
+
+711
+00:45:20,000 --> 00:45:22,000
+A to rabiš ploščice položene, zato praviš?
+
+712
+00:45:22,000 --> 00:45:27,000
+Ja, kar koli v fizičnem svetu, sem ne v informacijskem, ker to
+
+713
+00:45:27,000 --> 00:45:34,000
+res zelo mam tako močno čutim, da celoten mentalen informacijski
+
+714
+00:45:34,000 --> 00:45:44,000
+svet bo oborata domene imetne inteligence v smislu produktivnosti.
+
+715
+00:45:44,000 --> 00:45:47,000
+Če boš ti pač umetnik, eno, tretje, to je pač drugo.
+
+716
+00:45:47,000 --> 00:45:50,000
+Ampak tako v smislu produktivnosti nimamo šans.
+
+717
+00:45:50,000 --> 00:45:57,000
+Mislim, tudi programeri, to je po mojem tako dost obsolid poklic.
+
+718
+00:45:57,000 --> 00:46:03,000
+Tako da ja, men je to poplno menične streče, men je to eksajting.
+
+719
+00:46:03,000 --> 00:46:05,000
+Ja, to se zdi.
+
+720
+00:46:05,000 --> 00:46:07,000
+Jaz kaj čakam.
+
+721
+00:46:07,000 --> 00:46:09,000
+Ja, okej, okej.
+
+722
+00:46:09,000 --> 00:46:12,000
+Če se tudi v tem smislu dejansko začne razmišljati,
+
+723
+00:46:12,000 --> 00:46:17,000
+pa je vsej vprašanje, kdaj bomo dosegli vnitre še od koristnic,
+
+724
+00:46:17,000 --> 00:46:21,000
+da bom veliko več se treba fokusirati na zaposlovanje novih inženirov,
+
+725
+00:46:21,000 --> 00:46:25,000
+ampak bom pač bolj fokusiran na to, kako tisto, kar hočem narediti,
+
+726
+00:46:25,000 --> 00:46:29,000
+narediti zdaj jajem, ki bo pač hitrej, cenej in vse.
+
+727
+00:46:30,000 --> 00:46:33,000
+In mislim, da nismo več tako delačno.
+
+728
+00:46:33,000 --> 00:46:37,000
+Bomo napisali samo džira tikete, pa poglej, kaj ste revije gledali.
+
+729
+00:46:39,000 --> 00:46:44,000
+Jaz sem pa malo bolj prišel v tem tazorniku, pa lahko me pol popraviš,
+
+730
+00:46:44,000 --> 00:46:50,000
+ampak ko je prišel recimo Facebook ven, je bil ful big deal,
+
+731
+00:46:50,000 --> 00:46:54,000
+to bo zdaj že folk veja, koliko sem star, ko je prišel Facebook ven.
+
+732
+00:46:55,000 --> 00:47:00,000
+Ampak ko je prišel Facebook ven, je bila ful revolucija, pa ful big deal,
+
+733
+00:47:00,000 --> 00:47:04,000
+ko je Facebook dal ven svoje ta, mislim, so ga rekli graph api,
+
+734
+00:47:04,000 --> 00:47:10,000
+ko so dejansko omogočili, da so zunani developeri z Facebookovimi podatki
+
+735
+00:47:10,000 --> 00:47:19,000
+in z njihovimi api delali ape, ki so znotraj Facebookovega ekosistema delovali.
+
+736
+00:47:20,000 --> 00:47:24,000
+In se je naredila neka platforma in so folki razvijali svoje ape znotraj
+
+737
+00:47:24,000 --> 00:47:31,000
+tega ekosistema. Dobro, zdaj leta 2024 imamo že še neke informacijske
+
+738
+00:47:31,000 --> 00:47:37,000
+varnosti, podatki, ampak spet bila je platforma in znotraj platforme
+
+739
+00:47:37,000 --> 00:47:40,000
+si lahko delalo ape. Do nekega trenutka je to šlo, ampak bila je platforma,
+
+740
+00:47:40,000 --> 00:47:45,000
+v kateri se je delalo stvari. Če pogledamo PlayStation, spet je svoja
+
+741
+00:47:45,000 --> 00:47:52,000
+platforma, delamo na njej ape. iOS, ko je Apple dal ven svoje,
+
+742
+00:47:52,000 --> 00:47:59,000
+App Market, spet si lahko delalo ape za to platformo. Velikrat se je zgodilo,
+
+743
+00:47:59,000 --> 00:48:05,000
+da je recimo start-up naredil nek produkt znotraj teh ekosistemov.
+
+744
+00:48:05,000 --> 00:48:09,000
+Mogoče na začetku so bili to full top shit produkti, potem so pa ti
+
+745
+00:48:10,000 --> 00:48:16,000
+platform ownerji ugotovili, kaj bi mi svoje naredili in so razvili svoje
+
+746
+00:48:16,000 --> 00:48:20,000
+produkte v svojem ekosistemu in itak so imeli advantage, ker so ekosistem
+
+747
+00:48:20,000 --> 00:48:26,000
+bolj poznali. Tukaj se mi tudi zdi, da moraš pri nekih takih produktih
+
+748
+00:48:26,000 --> 00:48:32,000
+tudi malo tako se vprašati, a res delam neki kar ti, ki so GPT naredili,
+
+749
+00:48:33,000 --> 00:48:39,000
+ne morejo sami narediti, ali moram razmišljati o tem kot tehnologiji,
+
+750
+00:48:39,000 --> 00:48:42,000
+ki jo samo z rentom pa ugradim v produkt ali moram razmišljati o teh
+
+751
+00:48:42,000 --> 00:48:45,000
+tehnologiji, kot nekaj, če me lahko oni pojejo.
+
+752
+00:48:46,000 --> 00:48:48,000
+Ne vem, ali je to sploh nekaj, kar se ne more razmišljati.
+
+753
+00:48:48,000 --> 00:48:54,000
+Kako jaz razmišljam o tem? Zelo je težko biti v foundational model
+
+754
+00:48:54,000 --> 00:49:00,000
+biznesu kot Anthropic Open AI&T in hkrativjo application layer biznesu.
+
+755
+00:49:01,000 --> 00:49:06,000
+Tako praktično je ne mogoče. Se pravi, če si v foundational model boš
+
+756
+00:49:06,000 --> 00:49:12,000
+delal modele in boš tudi iz tega dobro zaenkrat še, dokler se to ne
+
+757
+00:49:12,000 --> 00:49:15,000
+totalno komoditizira z open source in tako, tukaj ful ne verjamem,
+
+758
+00:49:15,000 --> 00:49:20,000
+da gre za nek algoritmični edge in na koncu bo priblado open source.
+
+759
+00:49:21,000 --> 00:49:26,000
+Ampak, če pa ti delaš application layer, boš pa ti uporablil foundational
+
+760
+00:49:26,000 --> 00:49:33,000
+modele, tako da resimo, če se si jaz bojim za našo firmo, niso ni
+
+761
+00:49:33,000 --> 00:49:39,000
+open AI, niso pač te, ker bistveno bole pač vsa druga konkurenca,
+
+762
+00:49:39,000 --> 00:49:43,000
+ki dela podobne selsorodja, z uporabljo istih foundational modelov
+
+763
+00:49:43,000 --> 00:49:47,000
+in potem je vprašanje, zakaj imam jaz edge, napravim njima, ker itak
+
+764
+00:49:47,000 --> 00:49:52,000
+vsi v osnovno je enako tehnologijo uporabljeno. In zdaj, dokler so
+
+765
+00:49:52,000 --> 00:49:59,000
+modeli osnovni še šloh, moraš ti ful en tak thick wrapper on top of
+
+766
+00:49:59,000 --> 00:50:00,000
+open AI.
+
+767
+00:50:00,000 --> 00:50:05,440
+Se pravi, ta debelina tega v wrapper je tvoj differentiation in to,
+
+768
+00:50:05,440 --> 00:50:09,160
+kar je težko reproducirati. Ko pa postaja foundational material
+
+769
+00:50:09,160 --> 00:50:14,560
+izmerjubel pametni, je pa ta layer se tanjša. In v bistvu reproducibilnost
+
+770
+00:50:14,560 --> 00:50:19,879
+tvojega start-upa je poenostavljena. To je resnično tisto, kar mene plaši.
+
+771
+00:50:19,879 --> 00:50:25,440
+Z vsakem novim open AI modelom, vse ta pipeline, kaj ga mi noč trikamo,
+
+772
+00:50:25,440 --> 00:50:28,000
+da ta kontekst spravljamo, stvari, vse tako pompoženirajo.
+
+773
+00:50:28,000 --> 00:50:32,680
+Absolit, vedno bolj. Vedno bolj absolit, ker vedno bolj dela vse skupine zero-shot,
+
+774
+00:50:32,680 --> 00:50:38,639
+vedno bolj vržiš, kot si prej si nabral navodila za uporaba O-O-E na modela,
+
+775
+00:50:38,639 --> 00:50:44,480
+ki je včeraj prišel vn od open AI-a. In tako eksplicitno pišejo,
+
+776
+00:50:44,480 --> 00:50:49,560
+uporablite zero-shot, ne delajte več egzemplov, ker s tem boste škodali
+
+777
+00:50:49,560 --> 00:50:55,000
+v bistvu natančnosti modela. Al pa ne delajte z ragom, sproti to,
+
+778
+00:50:55,000 --> 00:50:59,840
+ko filiraš kontekst noter okno. Delajte res, da bo šlo samo tisto,
+
+779
+00:50:59,840 --> 00:51:03,799
+kar je vsebinsko smislo, ne kar vsega.
+
+780
+00:51:03,799 --> 00:51:05,160
+Ne kar vsega.
+
+781
+00:51:05,160 --> 00:51:11,400
+Tako zelo hitro se mi zdi, da bomo prišli od tega, da bo vedno mn tega
+
+782
+00:51:11,400 --> 00:51:15,320
+pipelaninga potrebnega, da bo vse delalo tako, da boš delal preprosteno vdelo,
+
+783
+00:51:15,320 --> 00:51:19,559
+kontekst in boš dobil zelo dobro odziv, zelo dobro odgovor.
+
+784
+00:51:19,559 --> 00:51:23,919
+Ti ne boš treba drobiti tvojega biznis-problema na manjše podprobleme
+
+785
+00:51:23,919 --> 00:51:28,800
+in potem deli in vladaj in potem skupaj spet spraviti, ampak bo tako iz prve
+
+786
+00:51:28,800 --> 00:51:32,279
+vedno boljši stvari. In v tem smislu, to je moj koncern.
+
+787
+00:51:32,279 --> 00:51:38,440
+Sploh pa, ali bojo drugi start-upi mi reproducirali, ali pa tudi recimo
+
+788
+00:51:38,440 --> 00:51:42,720
+sales platforme, ki so večje, recimo HubSpot,
+
+789
+00:51:42,720 --> 00:51:47,559
+CRM, s katerim se mi integriramo, zakaj oni tega kar same naredijo, recimo.
+
+790
+00:51:47,559 --> 00:51:51,959
+Tukaj priješ pa to innovators dilema, da kultura, value.
+
+791
+00:51:52,000 --> 00:51:57,760
+In pa tudi internet se da v velike firme dobiti, ki ti pa to čez poletje nahekajo.
+
+792
+00:51:57,760 --> 00:52:02,040
+Tudi, ampak ni problem tudi tako v velikih firmah,
+
+793
+00:52:02,040 --> 00:52:05,040
+ker je to zelo zanimljiv dilema, zakaj tega ne naredijo.
+
+794
+00:52:05,040 --> 00:52:11,320
+Ni problem, da ne morejo, problem je, da ne smejo, ker ti lahko narediš, ampak ne moraš tega realizati.
+
+795
+00:52:11,320 --> 00:52:15,440
+Če imaš ti user-based 200 tisic stran, tako kot HubSpot zdaj,
+
+796
+00:52:15,440 --> 00:52:19,800
+ti ne moraš puščati rešitve, ki dela za 95% stran.
+
+797
+00:52:19,960 --> 00:52:23,440
+To mora biti reliable, ti imaš tukaj ful.
+
+798
+00:52:23,440 --> 00:52:28,240
+Če pride v medije, da te pa zdaj ta produkt neki malega ne dela, si ful izpostavljen.
+
+799
+00:52:28,240 --> 00:52:33,320
+Če si ti startup, nisi nič izpostavljen. Zato startupe lahko ful hitrej inovirajo na sploh.
+
+800
+00:52:33,320 --> 00:52:38,199
+A te lahko vprašam, če se ne vem, a je to povezano.
+
+801
+00:52:38,199 --> 00:52:43,320
+V eni izmed teh svojih blog postov si napisal,
+
+802
+00:52:43,320 --> 00:52:47,240
+ker ko smo se imeli pogovarjali, ne vem, pol leta nazaj,
+
+803
+00:52:47,279 --> 00:52:51,839
+si rekel, oto mi bomo delali svoj CRM, pa bomo potem ga integrirali gor.
+
+804
+00:52:53,279 --> 00:52:57,839
+Zdaj pa, ko smo obbrali tvoj blog post, mislim, na januarja, februarja,
+
+805
+00:52:57,839 --> 00:52:59,639
+ste pa pivotali.
+
+806
+00:52:59,639 --> 00:53:06,679
+A je to tudi to povezava, ker ste ugotovili, da je treba drugače pristopiti do tega sloja?
+
+807
+00:53:06,679 --> 00:53:13,800
+Ne, glavni razlog, zakaj smo pivotirali, in to je tudi ena izmed tako bolj napornih stvari,
+
+808
+00:53:14,119 --> 00:53:21,800
+to je ful napornost, ti bod si slišel tako ful, ampak glede moraš to razložiti, pa konkretno.
+
+809
+00:53:21,800 --> 00:53:25,960
+Ja, pa predvsem ti se moraš posloviti od nečeho, kar si rečel.
+
+810
+00:53:25,960 --> 00:53:27,800
+Odočitev je močno.
+
+811
+00:53:27,800 --> 00:53:30,279
+Velike nekode narediš, pa pa moraš stran vršti.
+
+812
+00:53:30,279 --> 00:53:33,960
+In to je res ta disciplina, to je ful pomembna stvar, kar smo se naučili.
+
+813
+00:53:33,960 --> 00:53:37,479
+Na začetku, ko smo krenjali, smo ful premalili stvari stran metal,
+
+814
+00:53:37,479 --> 00:53:41,399
+zato ker je pač sank cost bil ful prevelik.
+
+815
+00:53:42,360 --> 00:53:48,279
+Ta disciplina je ključna, no, ko smo to naredili, glavni razlog je bil, ker smo gotovili, da
+
+816
+00:53:48,279 --> 00:53:51,080
+se pravi, ideja je bila narediti CRM iz nule,
+
+817
+00:53:51,080 --> 00:53:56,839
+ma, jaz takrat se tega nisem zavedal, so mi visi in so mi povedali, da bo to fajen problem.
+
+818
+00:53:56,839 --> 00:54:03,240
+Če delaš CRM iz nule, boš delal z majhnimi firmami, ki imajo zelo malo denarja, to so majhne ekipe,
+
+819
+00:54:03,240 --> 00:54:06,839
+ki že itak nimajo denarja, ok, recimo, da nekaj denarja še dobiš,
+
+820
+00:54:06,839 --> 00:54:14,119
+ko pridejo do velikosti, da imajo veždenarja, ko bi ti lahko zašle veždenarja plačevati, postanejo pa tako veliki, da
+
+821
+00:54:14,119 --> 00:54:20,519
+ne bojo več zdovoljni s tvojim malim CRM-em, ki ima osnovne funkcionalnosti, ampak bo je rabil glomaznejši CRM,
+
+822
+00:54:20,519 --> 00:54:25,799
+ki ima ful nekih integracij, ki pa še ti nimaš šans, da jih razvijaš v pol leta,
+
+823
+00:54:25,799 --> 00:54:34,839
+in boš izgubil stranko. Se pravi, ful je težko zrast kompleksno rešitev z nule, zato je v bistvu tega tako malo,
+
+824
+00:54:34,839 --> 00:54:42,279
+oziroma, pot do tega je ogromno kapitala, in živimo v regiji, ki pač nima ogromno kapitala,
+
+825
+00:54:42,279 --> 00:54:51,000
+tako da, recimo en start-up je tukaj ful zanimiv, Daypeek AI, ki grejo od pota, so dobili odsekovoje, ne vem, koliko imajo, nekaj pre-seed,
+
+826
+00:54:51,000 --> 00:54:59,720
+pač tukaj imate, to bo zdaj 20-letna zgodba, ko vam zmanjka povejte, dobite novo, ampak tako se da, ampak tukaj pri nas,
+
+827
+00:54:59,720 --> 00:55:08,359
+naš pač capital allocation svet v tej regiji ne deluje tako, moraš imeti vseč čas, proof points, proof points, tako.
+
+828
+00:55:08,359 --> 00:55:26,600
+Najte zovem, to si samo za capital omeno, ko par ljudi, s katerimi smo se pogovarjali, founderjev, co-founderjev, ljudi, ki delajo v inženirju v različnih firmah,
+
+829
+00:55:26,600 --> 00:55:40,119
+čutijo, da obstaja ta nek AI hype train, pa zdaj lepimo AI sticker tako, ko da ni, there is no tomorrow in obskurne stvari dobiva AI sticker,
+
+830
+00:55:40,119 --> 00:55:52,040
+in kaj me veliko ljudi pravi, delamo produkt, ki v resnici nima nobene veze z AI-om, ampak nam vesneki founderji, investorji pravijo,
+
+831
+00:55:52,040 --> 00:56:05,559
+dejte gore AI sticker, zato, ker bo potem efektivno naša evalvacija boljša, na drugi strani sicer odberemo tudi blog poste in članke in researche, ko ljudje zdaj so že videli AI sticker,
+
+832
+00:56:05,559 --> 00:56:19,480
+pa si mislijo, to pa je nezanesljivo, to je zdaj san gor, zato, ker pač so že, ljudje že dojemajo, da je tudi neka negativna konotacija, ker časih to pomeni tudi nepopoln izdelek ali pa slab izdelek,
+
+833
+00:56:19,480 --> 00:56:38,679
+zaradi pač določenih slabosti teh tool-ov. Jaz bi te pa zdaj san bolj to vprašal, tam si napisal, da si govoril s ful nekimi VC, mislim da 30 plus VC, a imaš občutek, da je to res, da VC res iščejo te start-upe, ki se ukvarjajo densko z AI-om,
+
+834
+00:56:38,679 --> 00:56:54,839
+a ti da, zdaj realno trenutno tek scena je taka, niso najbolj rožna ti časi, ampak, a se ti zdi, da iščejo res samo še firme, ki imajo AI sticker zraven ali je to nek formal, kako vidiš to?
+
+835
+00:56:54,839 --> 00:57:14,519
+Je nekaj tega hrd mentalitija, sigurno, je pa tako, VC tako kot vse druge so zelo različni, imaš 10 procentov ful dobri, imaš 10 procentov ful slabi, pa še do tle imaš nek gaus, še posebej akuten problem se mi zdi v VC industriji je to, da
+
+836
+00:57:15,480 --> 00:57:39,799
+v velik VCO se nima časa dokazati, zato, ker so cikli desetletni, pa še ti narediš fund, pa potreba deset let, da ti v resnici priješ do proof pointa, a je te brata ali ne, in v velik VCO je tako, da paš naredi fund, pa niko ne naredi drugega funda, ker pač me se na robi poinvestirajo in me dobijo ven ravajo.
+
+837
+00:57:40,200 --> 00:58:03,399
+Tako da v resnici je ful težko, kaj bi si pravil, ni tako to monolitno, kot bi mogoče domislil. Tako da je nekaj sigurno takih, da na to tripajo, eni so ful down to earth, pa ti bojo rečeli, da jih nima veze, kaj si ti, ti mi pokažiš problem, juzer je scale, ni pač, pa ne, imamo biznis.
+
+838
+00:58:04,200 --> 00:58:20,040
+Ja, je pa paš sigurno to zele ful hype, še vedno. In je pa po drugi strani tudi ful enega value, je vstarega, tako da ni samo hype, da bi rekel, da je kar obojeno, pa da bo to še kaj trajalo.
+
+839
+00:58:21,000 --> 00:58:42,200
+To se pravi, smo pač optimisti, da bo stvar rastla, ne vem, vse iz moje osebne izkušnje, pač na začetku sem bil dost skeptičen, glede je, a jama zdaj, kaj ga uporabljam v ideju, ima svoje prednosti, mislim, definitivno stvari se stršansko primikajo, tako da najbrž, mislim, res ni muh eno dnevnica.
+
+840
+00:58:42,760 --> 00:59:04,440
+Tako, kaj pa mogoče za naprej, a si upam okej povedati, pač modeli bodo kaj boljši, prej si umenil, da v bistvu ta mid-layer, kjer se ustvarja dodana vrednost, ko delaš nekaj AI startup, da je pač, se tanša in je če dali tvoji konkurenti, so majo vsi…
+
+841
+00:59:04,440 --> 00:59:22,440
+Ja, jaz mislim, da bo vedno več vodarka na distribuciji, tako kot danes tudi tukaj na tem eventu govoril, se pravi, cena softwara bo šla proti nula, oziroma kar bo v resnici veljubelje razumevanje problema
+
+842
+00:59:22,440 --> 00:59:47,239
+pa porabnikov, pa način, kaj oni v resnici se rabijo in hočejo. To je še zmeraj nekaj, kar pač ne more AI kar sam pogruntati, pač kato moraš ti se pogovarjati z ljudmi, moraš biti tam zunaj in opazvat svet, ampak ja, pol, ko moraš pa zgraditi, je pa pač, po mojem tle, bo to fulj, fulj cenej.
+
+843
+00:59:47,239 --> 01:00:10,760
+Jaz mislim, da bo sedaj tako, da pač nasploh cel ta mentalni svet bo šlo, da se bo fulj vse cenilo in da bo fulj več tako podarka na fizičnem svetu, da pa tudi tam bojo fulj velike spremembe. Pač meni je to, kar dela Tesla s temi roboti in še par drugih firm,
+
+844
+01:00:11,559 --> 01:00:27,719
+meni je to naraz zanimivo, sploh, ker vsi ti roboti bojo v bistvu šli, pač imeli tudi nek ta general intelligence preko teh modelov in bo pač robot nekje opazval, se bo naučil, pa bo naredil, pa bo znal.
+
+845
+01:00:28,599 --> 01:00:46,760
+Tle se mi zdi, da tudi ploščičer, spet bomo prišli tega, po mojem, da bo produktivnost samo zaradi učinkovitosti pa zato, da bo pač neki narejen, to bo šlo robotom, po mojem, in na konc ostane seš tisto, kar je res človeški element notera.
+
+846
+01:00:46,919 --> 01:01:08,919
+Se mi zdi ful zanimiva, preverjava, v bistvu v mizarstvu se je to že zgodilo, pač pride nekje, pa pač pohara vse mizarje, pa naredi tako fulj bolj podceno vse, ampak na konc še vedno smo pripravljeni plačati za eno fulj unikatno pohištvo, za katerega vemo, da je en mizar tam fulj na roke, vse to naredil.
+
+847
+01:01:08,919 --> 01:01:21,320
+Metem ko, ne verjamem pa, da bom dogljel kodo, ki jo je en programer na roke napisal in občudoval njeno lepoto, jaz sem tako vsaj ne slehernik, pogoče kakšen programer.
+
+848
+01:01:21,320 --> 01:01:27,080
+Če že sami te simpatije dost krat ne gojimo, ne vrš nekdo v zvonani glih, da glih ne bo.
+
+849
+01:01:27,080 --> 01:01:30,520
+Tako da, programerem bo težje komizarjem, po mojem.
+
+850
+01:01:31,320 --> 01:01:32,520
+Moje.
+
+851
+01:01:34,119 --> 01:01:41,320
+Jaz vidim neko vizualno in estetiko v svoji kodi.
+
+852
+01:01:41,320 --> 01:01:43,320
+Vidiš, čudovit.
+
+853
+01:01:43,320 --> 01:01:51,320
+Zdaj za poslušalce pa za gosta, oto piše skalo, tako da je zelo vizualno.
+
+854
+01:01:51,719 --> 01:02:04,520
+Ampak ja, zdaj, Andraž je prej tu na tej konferenci srečol enega kolega, ki je bil prej v gradbeništvu, pa ga je Andraž zmentoriral in zdaj že par let programira, čeprav razumem.
+
+855
+01:02:04,520 --> 01:02:12,919
+Prekaj zdaj, da gre nazaj v gradbeništvu, ne, tako da, mi jo moramo še malo medija z ravem dela, da lahko kompoziramo pa to.
+
+856
+01:02:12,919 --> 01:02:18,119
+Ja, po mojem, mislim, to je pač definitivno neka taka stvar, čeprav razumem, pač
+
+857
+01:02:20,119 --> 01:02:24,520
+produktno delo bo zares tisto, ki bo pač v prihodnosti pomembno,
+
+858
+01:02:24,520 --> 01:02:26,520
+pač neko porabniška izkušnja.
+
+859
+01:02:26,520 --> 01:02:27,719
+V software-u, ja.
+
+860
+01:02:27,719 --> 01:02:35,320
+V software-u, pač to sohobarjeno pisanje kode, ta lever se bo pomanšal.
+
+861
+01:02:35,719 --> 01:02:44,919
+Jaz mislim, da tudi, ves ta val generira tudi posredno še en kup nekih stvari, ki jih je treba narediti, pač
+
+862
+01:02:44,919 --> 01:02:56,919
+od operations-a, od srejo, do front-end, specialisto, designer, pač ti imaš super ekipo treh, mislim, da si rekel, da ste trije, štiri, ne,
+
+863
+01:02:57,719 --> 01:03:02,919
+verjetno boš rabil še kakega, mobile developerja, rabil še vedno verjetno nekaj specialističnega.
+
+864
+01:03:02,919 --> 01:03:07,320
+Sej zdaj, verjetno, v kratke, ampak, ja, zelo zanimiva prihodnost.
+
+865
+01:03:08,919 --> 01:03:11,719
+Nič, dejmo to pripeljati v koncu za danes.
+
+866
+01:03:11,719 --> 01:03:19,320
+Naj bo prihodnost zabavna, čim mnenj mukotrpna, naj nam vs jamelj napiše AI.
+
+867
+01:03:19,320 --> 01:03:20,520
+Izgibajte se tora.
+
+868
+01:03:20,520 --> 01:03:23,719
+Ja, no, pač, ali pa pejte na tor.
+
+869
+01:03:23,719 --> 01:03:24,919
+Pejte na tor, ja.
+
+870
+01:03:25,719 --> 01:03:27,719
+Pač krabro izprema sreča.
+
+871
+01:03:27,719 --> 01:03:34,119
+Prvim se poslovimo, še enkrat hvala vsem Patreonom, Kaldiju, 3FS in Human Frogu.
+
+872
+01:03:34,119 --> 01:03:43,719
+Hvala ekipi, hvala Dragon Days za pogostitov in hvala našemu gostu Nejcu.
+
+873
+01:03:43,719 --> 01:03:46,520
+Ja, se poslušamo.
+
+874
+01:03:46,520 --> 01:03:47,719
+Se slišimo, srečno.
+
+875
+01:03:54,919 --> 01:03:58,719
+Napisy stworzone przez społeczność Amara.org

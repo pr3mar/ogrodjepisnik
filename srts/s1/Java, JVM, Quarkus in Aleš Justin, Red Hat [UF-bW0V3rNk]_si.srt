@@ -1,0 +1,6095 @@
+1
+00:00:00,000 --> 00:00:23,000
+Pozdravljeni v novej epizodi obrodja. Danes smo tukaj opokali eno mikrofono z Ališom Justinom in z mano je tudi Andraž Sraka.
+
+2
+00:00:23,000 --> 00:00:42,000
+Danes bomo govorili o Java, bomo govorili o JVM-u, bomo govorili o Java kot jeziku, bomo govorili o Java kot religiji, bomo govorili o tem kako se je Java spremenila skozi čas,
+
+3
+00:00:42,000 --> 00:01:02,000
+bomo govorili o Korkusu, bomo govorili o vsem kaj tu noter ta ekosistem spada in veliko čast me, da imamo danes z nami Ališa Justina, ki je senior principal inženir na Red Hatu in živa legenda.
+
+4
+00:01:02,000 --> 00:01:09,000
+Ališ, mi jaz se poznava, koliko časa že?
+
+5
+00:01:09,000 --> 00:01:18,000
+Je pa moj odločenje, ki bi moral zavoditi začetko mojega delovanja na Red Hatu, to je pa moj 2006.
+
+6
+00:01:18,000 --> 00:01:39,000
+To je bilo čak smešno, čak jaz se ne vem kako spoznava, jaz sem pač s tem smene kontakteru, da imaš en Red Hat server, ki ga je treba malo pofiksati in potem sem se enkrat javl v vrhni kopelu, javl v Merkator, čist na vrhu, ki si pač najemo eno mizo v nekih pisarnicah v nek tako temnem prostoru,
+
+7
+00:01:39,000 --> 00:01:48,000
+tam je Ališ nekoli tudi ta server, tukaj je treba nekaj pofiksati, pa se ne spomne, je bi bilo foro v tem, da so tega pohekali, ali je bilo treba nekaj nastaviti, neka taka finta je bila.
+
+8
+00:01:48,000 --> 00:02:08,000
+Pravzaprav po mojem sporočju ni bil J-Boss v serveru, ampak sem pač en server, ker jaz sem dejansko res sam bil software guy in me je po moje tomaž, cerar, dal tvoj kontakt in on tudi takrat, če on se tudi razpoznal na te zadeve, ampak ne vem, je kar tebe priporočil,
+
+9
+00:02:08,000 --> 00:02:23,000
+da se spominja dole, ja, jaz sem en server kupil, ker sem si hotel, da bom še svoje zadeve, tega, če ni bilo klauda in tako stvari, ampak da vsem, da sem imel svoje builde in da nisem nisem na svojem računaniku, ker tudi računaniki niso bili tako zmogljivi, da sem lepo delegeral,
+
+10
+00:02:23,000 --> 00:02:35,000
+da sem lepo delal, potem je bilo testiranje in vse na ta server in sem ga ti lepo postavil, sem pa tudi takrat, ja, gostoval pri enih prijateljih, da nisem bil skozi doma.
+
+11
+00:02:35,000 --> 00:02:39,000
+Ja, ti smo imeli tako zanimivo, pač tam gor v Mercatorju.
+
+12
+00:02:39,000 --> 00:02:43,000
+A to si naredil gratis ali je to en neplačen račun?
+
+13
+00:02:43,000 --> 00:02:51,000
+Jaz mislim, da smo to zanibivali, vkusila se zmenili, takrat smo pač vsi bili tako zelo friendly in to.
+
+14
+00:02:51,000 --> 00:02:57,000
+Moje kostime so se šla na botru, ki je na pizza, pivo in te botoje.
+
+15
+00:02:57,000 --> 00:03:16,000
+Ne, mi je bilo pa zanimivo, da ti zcajt, tako da nekdo, ki dela na Red Hatu, pričem takrat je bilo, jaz sem takrat z Linuxem kar dost delal, pa smo pač Red Hat poznali s čist nekega drugega zornega kota,
+
+16
+00:03:16,000 --> 00:03:21,000
+pa pač tebe kot nekoga, ki je že takrat na Red Hatu bil.
+
+17
+00:03:21,000 --> 00:03:32,000
+Daj povej, mogoče kako je ta, mislim, ok, ti si pač bil v sklopu J-Bossa, se pravi takrat, ki je Red Hat J-Boss že prevzel pod svojo ukrilje,
+
+18
+00:03:32,000 --> 00:03:42,000
+ampak kako se je v bistvu ta tranzicija, da si ti v bistvu se znajdel na Red Hatu, to je bil pač neka dream job ali to je prilika nanesla?
+
+19
+00:03:42,000 --> 00:03:45,000
+Ti si bil prej, kaj, na Solverija, ne?
+
+20
+00:03:45,000 --> 00:03:57,000
+Ja, na Solverija, na Solvera Linux. Ja, zanimivo, to je bil, saj tako, kaj se je tudi spomnil, kaj smo še v srednjo šolo hodili in si je videl nerdečklo buče, ki je si slišal, o, fino Red Hat, to je pa res dobro.
+
+21
+00:03:57,000 --> 00:03:59,000
+A to Meloni je bil zelen.
+
+22
+00:03:59,000 --> 00:04:22,000
+Ja, ki se pa suse, ja, to ima tudi še zgodbo o tem. Ja, no, da povem, kako je bil to. Na Solveriji jasno, to smo bili meh na firma, zanimiv del, energetski softer pisal, z analizo tega, jasno, nara, to nismo bili veliki, ni bilo dost in potem obstajal ta J-Boss application server in to je bilo, oh, krasno, to je nekaj, kar mi rabimo, ne.
+
+23
+00:04:23,000 --> 00:04:36,000
+In smo to, ampak jasno, to je bilo tako tudi še v začetki open source-a, tudi ni bilo še tako popularno in povhem knjižencek smo jih tam mi porabljali, od J-Bossa do Hiberneta, do Nemčesa, do Springa.
+
+24
+00:04:37,000 --> 00:04:47,000
+Znamo, začel smo tako, jaz sem na Springu napisal zadevo, pa je v tom, kje je tu takno noter, pa je pa šel pa tako J-Boss in jaz tudi tako gledam, oh, ok, J-Boss, krasno, to je pa res še boljši kot to, ne.
+
+25
+00:04:48,000 --> 00:05:05,000
+Jaz se še s tistim spoznal, ampak sem jel tako, da je napisanejo v Springu, zanimljeno tistih Springovih binov, da pa nisem imel to tega završiti in potem sem jaz tako prepisal in sem napisal en integracijo J-Boss application serverja za Spring, zanimljeno Spring bini.
+
+26
+00:05:06,000 --> 00:05:18,000
+Redo, pa ne vem, gremo naprej in mene je celo tako, sem takrat pal, go, J-Boss, J-Boss, krasno, ne, in me za nagrado pal pošljajo gor v Ameriko.
+
+27
+00:05:19,000 --> 00:05:21,000
+A dansko si to dal v open source ali si?
+
+28
+00:05:22,000 --> 00:05:24,000
+Ne, to sem jel presep, jaz sem tako pač svoje napisal, ne.
+
+29
+00:05:25,000 --> 00:05:26,000
+A je firma tega poslala?
+
+30
+00:05:26,000 --> 00:05:44,000
+Ne, firma je me poslala, pa ne za nagrado, zaradi tega, ker sem to napisal, ampak pač malo greš in greš na java van, jaz grem na java van in tako poslušam talk od tega Bill Burka, ki je bil eden glavnih za J-Boss application serverja in on skor razlaga in razlaga in poreče, ja, lahko pa tudi takole in to integracijo.
+
+31
+00:05:44,000 --> 00:05:52,000
+Naprimer, imamo ta Spring Deployer, ne, pa jaz gledam, oh, kako sem jaz šel to pisati, kako jaz tega nisem videl, zakaj sem šel sam to pisati, ne.
+
+32
+00:05:53,000 --> 00:06:03,000
+Zdaj, kako je bilo takrat, jaz smo imeli laptopov, prijel sem jaz pol domov, tako je ta prva zadeva, brskat, brskat po celem J-Boss projektu, kje je ta Spring Deployer, sem jaz tako zgrešil in ga ne najdem.
+
+33
+00:06:03,000 --> 00:06:16,000
+Se je tako, ma, dobro, ok, nač, poveš človeku, napisal za foro, ej, želijo Bill, poslušal sem tvoj talk, izgledal sem ta Spring Deployer, pa ga nekako kaj najdem, ne vem, ker sem jaz sem enega svojega napisal, pa me zdaj zanima, kaj je zdaj to, ne.
+
+34
+00:06:17,000 --> 00:06:26,000
+In mi je človek tako zelo hitro odgovoril nazaj in rekel, oh, ja, ne, oh, to sem jaz sem tako v teoriju rekel, kaj bi se dal narediti, ne, pa spokoj, ker je bil Spring popularen, pa sem tako v teoriju rekel.
+
+35
+00:06:26,000 --> 00:06:40,000
+Pa je rekel, a ti imaš res tega, ne, sem rekel, ja, imam, pa dela sem rekel, dela, bi ti meni to pokazal, ne, sem rekel, takrat ni bilo ljudi še GitHuba in vsega tega, ne, tudi mi smo imeli privat še in Microsofto in VSS.
+
+36
+00:06:40,000 --> 00:06:42,000
+Aha, ja, ja, ja, kaj je to?
+
+37
+00:06:43,000 --> 00:06:44,000
+Kaj je to?
+
+38
+00:06:45,000 --> 00:07:05,000
+Ja, kaj si beno vzel si zalavko za vse ostale in oben druhnih ljudi tist grad se dotaknete, ne. No, okej, potem jaz vse eno uprašam tam v službi, je lahko to je bilo, mi se rekel, pojme, jaz sem rekel, ja, v redu, ne, kam rečeš, ampak nek subvržen je pa že obstajal, ne, in sem dal nek, ne vem, subvržen na SourceForge, se spomnil, ne, na SourceForge.
+
+39
+00:07:06,000 --> 00:07:24,000
+On, ko pogledam, on tako reče, o, pa to je točno to, kar sem jaz hotel imeti, ne, a bi ti to, ne vem, zabi ti to kontroberil, ne, in pa sem, ja, ne vem, prepisal, da je bilo v G-Boss paketi, še en par članskov, dal so mi, da sem, ne vem, članke neko, eno info kivil v objavu, dokumentacija.
+
+40
+00:07:24,000 --> 00:07:41,000
+V planu, tako, že nisem bil tako tudi poseben download, saj dolg časa, ne, in ne bi bil tako dost downloadov, ne. Ja, pa sem pa, ker so rekela, bi še to, pa še to, pa sem bi tako popravljal, pa sem malo Hibernate pečel, pa sem G-Boss portal pečel, pa ne vem, kaj sem vse, pa G-Bossa sem dost popečel.
+
+41
+00:07:41,000 --> 00:07:56,000
+In pa je bil ta G-Boss world, nisem me povabil na G-Boss world, pa tako sem že malo sluto, ne, ker so bili kar res zagnani. Nisem me povabil, če bi predaval na to tema na tega G-Boss spring deployera, ne.
+
+42
+00:07:57,000 --> 00:08:12,000
+Ok, se pripravljam, odpredavam in potem pride, tako, odzad bitem v dvorani Fleury, ta, ki je bil vlasnik, pa Scott Stark, ki je bil chief technology, pa chief scientist Adrian Brock, pa Gavin King, sam je legenda, ne.
+
+43
+00:08:13,000 --> 00:08:25,000
+In pa valjda pride in tako je Fleury živel, oh, hvala, odlično, a se lahko tukaj nekaj malo pomenjamo? In so mi so rekel, zakaj ti to delav za nas, osem ur na dan, ne, ne bomo zdaj tam nekaj.
+
+44
+00:08:26,000 --> 00:08:34,000
+In to je bilo tako, jaz nisem, no, hvala itak narod, ker paf, to je to, ne. Dejansko je sajenska služba za tiste čase, ne.
+
+45
+00:08:38,000 --> 00:08:39,000
+Mislim, da je še tudi še danes.
+
+46
+00:08:39,000 --> 00:08:40,000
+Ja, tudi, tudi, ja.
+
+47
+00:08:41,000 --> 00:08:46,000
+Mislim, še eno je mali procent ljudi, ki se živi v odprte kode direktno.
+
+48
+00:08:46,000 --> 00:08:49,000
+Ja, ampak dobro, zdaj se je dost včasih več odprl kot takrat, ja.
+
+49
+00:08:49,000 --> 00:08:57,000
+In bolj popularno, bolj več možnosti je pri danes v poklici open source inženirja, mislim, inženirja, ki dela z open source-om, kot bi bilo včasih, definitivno.
+
+50
+00:08:58,000 --> 00:09:06,000
+Nekaj. Takrat sem jaz pa bolj prišel domov, ne vem, jaz imam dva brata, pa jaz prišel v učranještu, pa še malo krok in nisem nobenega poznal.
+
+51
+00:09:07,000 --> 00:09:16,000
+Ko mi so rekli, lahko si doma delaš, lahko te preselimo v Švico, lahko te preselimo v Atlanto, lahko te preselimo, ne vem, ti poveš kam, tam, kjer so kažni naši ljudje, pa te preselimo.
+
+52
+00:09:17,000 --> 00:09:19,000
+Se je rekel, ne, delujem jaz en rekord doma.
+
+53
+00:09:20,000 --> 00:09:23,000
+In, ampak kako te to zdaj izvesti, ne.
+
+54
+00:09:23,000 --> 00:09:30,000
+In tudi oni pa sploh niso vedeli, kako, še sploh ni bila Slovenija v enem trenutku, nekaj Slovenija, pa take pore, ne.
+
+55
+00:09:31,000 --> 00:09:35,000
+Pa pa ja, kako sploh kaj plačati, pa kako to vse plačati, pa ja, ne.
+
+56
+00:09:36,000 --> 00:09:37,000
+Nač, ampak smo se izmenili, ja.
+
+57
+00:09:38,000 --> 00:09:43,000
+Tako je, tako je prišlo tega, no, da, pa pa, ne vem, od doma, kaj češ.
+
+58
+00:09:43,000 --> 00:09:50,000
+Ampak zanimivo, ja, pa pa ustaneš, noben ti ne pove, kaj moraš delati, če si doma, si skozi zbil v pižami.
+
+59
+00:09:52,000 --> 00:09:57,000
+In, ja, ampak tako, noben ti nič, ker ni, noben te zarokcev ne bo, ti si moraš najti sam del.
+
+60
+00:09:57,000 --> 00:10:04,000
+Takrat smo se, no, kaj, enkrat na teden smo se malo slišali preko nekih enih, tako, konvkolo, oziroma, gledajo se tako telefonske linije,
+
+61
+00:10:04,000 --> 00:10:09,000
+ki so imeli po vseh državah, pa celo brezpačno not po klicov, ker še ni bilo teh videoklicov.
+
+62
+00:10:11,000 --> 00:10:17,000
+Pa preko foruma, delo preko foruma, džira je bila, že takrat celo obstaja, smo v džiro nekaj malo dejali.
+
+63
+00:10:17,000 --> 00:10:25,000
+Pa veliko si na forum drug drugom upisali, zato ko smo bili v različnih pasovih, časovnikah, ne, da, da ni bilo četo, ne.
+
+64
+00:10:25,000 --> 00:10:28,000
+In ti, ti si bil pa del JBOS ekipe.
+
+65
+00:10:28,000 --> 00:10:29,000
+Ja, takrat.
+
+66
+00:10:29,000 --> 00:10:30,000
+No, takrat.
+
+67
+00:10:30,000 --> 00:10:32,000
+Ampak JBOS takrat še ni bil pod Red Hat, ok.
+
+68
+00:10:32,000 --> 00:10:33,000
+Ne, takrat.
+
+69
+00:10:33,000 --> 00:10:34,000
+Ne, takrat jiš bil. A jis bil?
+
+70
+00:10:34,000 --> 00:10:44,000
+Kaj sem jaz, jaz sem ni še takrat, kaj še ni bil, oziroma, takrat so me pa vabili, ampak pa oni vrstnici, jih je Red Hat lahko na trenutku jih je kupoval odzad,
+
+71
+00:10:44,000 --> 00:10:49,000
+in smo mi tudi mogli malo pa čakati, jaz sem se mogel, no, sej jaz sem tudi v službi mogel odpojati pa čakati,
+
+72
+00:10:50,000 --> 00:10:58,000
+tudi no, oni so rekli, dajmo počakati, da se vsaj mi do konca, no, zmrčamo z Red Hatom, pa, pa, onbordamo, ne.
+
+73
+00:10:58,000 --> 00:11:13,000
+A te lahko na te točki prosim, da za naše poslušalce, ko mogoče ne poznajo toliko JVM pa Java ekosistema, da razložiš kaj to, kaj to JBOS je, oziroma kaj to je bil, pa zakaj ga rabiš, recimo.
+
+74
+00:11:13,000 --> 00:11:22,000
+Ja, JBOS od začetka, to je potem pač bila firma, ne, ki je nastala, ki je zrasla okrog JBOS application serverja, ne, ti si,
+
+75
+00:11:23,000 --> 00:11:35,000
+to je obstavljena specifikacija, ta na določen način lahko ti svojo aplikacijo daš v ta application server in ti on pomaga v različnih zadevah,
+
+76
+00:11:35,000 --> 00:11:46,000
+prvi, kako se streže web, kako se transakcija dela, kako se, ne vem, security, kako se, kakšen connection pooling in tako naprej, in tako naprej.
+
+77
+00:11:46,000 --> 00:12:02,000
+To je to, da rabiš ti vsega tega sam, ampak da po specifikacijah in z uporabo tih standardnih app-jev lahko svojo aplikacijo spišeš in uporabiš, plus to, da je pol ta aplikacija portabilna med različnimi application serverji.
+
+78
+00:12:03,000 --> 00:12:14,000
+In JBOS je bil eden prvih open source, brezplačnih application server, ne, ti si imel, takrat je imel, ABM je imel svojega, nekako se no,
+
+79
+00:12:14,000 --> 00:12:15,000
+Websphere.
+
+80
+00:12:15,000 --> 00:12:24,000
+Websphere, ja, no, potem je imel, BA je imela, Weblogic, Oracle je imel tudi nekaj svojega, ne vem, kaj je še bil.
+
+81
+00:12:24,000 --> 00:12:26,000
+Oracle application server?
+
+82
+00:12:26,000 --> 00:12:31,000
+Ja, ne vem, nekaj tak zelo štorasta zadeva, ne. JBOS je bil pa prvi tak open source, posled.
+
+83
+00:12:31,000 --> 00:12:37,000
+Kako se pa, ne vem, Tomcat od JBOS-a razlikuje? JBOS je bistveno več kot samo Tomcat, a ne?
+
+84
+00:12:37,000 --> 00:12:44,000
+Ja, ja, Tomcat je dejansko pol bil del JBOS-a, ne, Tomcat je samo tisto, kar je stregal, samo web. Znove je malo še po moje celove,
+
+85
+00:12:44,000 --> 00:12:51,000
+en connection pool je bil nek noter skrit, da ti je malo pomago, da si ga lahko uporabo, pa web, pa pač dobro je web stregal, ne.
+
+86
+00:12:51,000 --> 00:12:57,000
+In mi smo dejansko, Tomcat je bil tako spisan, da si ga lahko embedo v JBOS application server, ne.
+
+87
+00:12:57,000 --> 00:13:07,000
+Ampak, da še to še malo razdelamo, da bomo, eno, včasih, včasih, še vedno se danes tako gleda, ampak kupil si bare metal server,
+
+88
+00:13:07,000 --> 00:13:16,000
+na njega si inštaliral Linux, ki je orkel distribucija, če si bil res na firma bredno, nekoliko distribucijo, ki je imela support zadev,
+
+89
+00:13:16,000 --> 00:13:23,000
+se pravi nek SUSE, Red Hat, ali pa kaj, pedore še ni bilo. CentOS. CentOS, ok.
+
+90
+00:13:23,000 --> 00:13:36,000
+In potem si na ta, na ta Linux inštaliral direkt Java, pa, pa application server. In potem so jih, aplikacije so ljudje razvili na svojih mošinah,
+
+91
+00:13:36,000 --> 00:13:44,000
+so jih zapakirali v vare in si potem ti vare skupiral, var jar, si jih skupiral v application server in application server je potem.
+
+92
+00:13:44,000 --> 00:13:56,000
+Ja, je zaznal, je zaznal tam deločen direktorij, deločen direktorij se ti da to zadevo, tam je bil en tak skener, ki je skozi gledal, če se je kje notra spremenil in potem je pač poznal strukturo,
+
+93
+00:13:56,000 --> 00:14:07,000
+kako si pa to napisal, je bilo pa veliko tisoč enih možnosti. In džebo si bilo, da je bil samo tako open source, bil je tudi tako dosti razširljiv,
+
+94
+00:14:07,000 --> 00:14:17,000
+kaj ostali, tako, ostali, ti serveri so imeli tako, a ne, malo napake, da so bili tako prav tudi taki monoliti, nisi mogel kaj dosti, a ne.
+
+95
+00:14:17,000 --> 00:14:20,000
+Ja, pa verjetno je bilo dosti tega vendor lock-in-a. Ja.
+
+96
+00:14:20,000 --> 00:14:29,000
+Znaš, dost si bil umejen, ko si pač za enega pisal, si pač potem mogel tudi pisat, si deločene feature, umejene na vendorja, ja.
+
+97
+00:14:29,000 --> 00:14:44,000
+Še lahko tako vprašam, za poslušalcev mogoče, ki danes uporabljajo, ali pa so že gor zrasli za kontejner in pa to, kaj je bila prednost mogoče, ali pa zakaj se je to delalo v tak način,
+
+98
+00:14:44,000 --> 00:14:52,000
+zakaj se je rabil application server, zakaj nisi napisali, ne vem, java aplikacije, pa java aplikacije v direct expose-u v internet.
+
+99
+00:14:52,000 --> 00:14:54,000
+Ja, ti si hotel…
+
+100
+00:14:54,000 --> 00:14:57,000
+Mislim, kaj je ta velika prednost teh application server?
+
+101
+00:14:57,000 --> 00:15:09,000
+Torej lahko verjetno bi ta JBoss lahko neke vrste obstrahiral, da zdaj izgleda kot neke vrste docker. Ti si v bistvu aplikacijo svojo spisal in jo pač delal v JBoss.
+
+102
+00:15:09,000 --> 00:15:10,000
+Malo hočem to, ne, ja.
+
+103
+00:15:10,000 --> 00:15:22,000
+Ja, ne, prednost je bila sigurno ta, to, kaj sem naštel, ti si imel transakce, take pravile, ti si imel web, kaj si ga stregal, ti si imel security, ti si imel in še in še.
+
+104
+00:15:22,000 --> 00:15:23,000
+Security, misliš role?
+
+105
+00:15:23,000 --> 00:15:36,000
+Ja, tako je, da tebi ni bilo treba tega pisati, ne, to je bil nekakaj ene vrste standard, kaj da nam draži reku, lahko se je tudi malo šlo izven standard in specifikacije, sicer ni vredno, ampak včasih si mogel jasno, da si lahko kakšen prednosti dosegal.
+
+106
+00:15:36,000 --> 00:15:51,000
+Ampak tako, kaj sem rekel, ti kot sam, ti sigurno nisi bil strokonjak za transakce, ne, ti si hotel pač transakce uporabljati, pa ti sam šel to pisati, a, da, se je vredu, če greš tako profino, narežiš svojim try, finally, catch pa tako, pa narediš pravilno,
+
+107
+00:15:51,000 --> 00:16:20,000
+pa se je pa hitro nekaj zmoteš, pa v njih je rollback, pa komedi, in ti pa lahko pustiš ljudem, ki so pa res, predvsem saj za transakcije, priče Bosu in potem so kupili eno fermo, katero je človek bil zraven, kaj pravi sam ta transaction engine dela in to je bil človek iz akademskega sveta, ki je študiral, ima 20 let te transakcijske sisteme, ne, od v njih pravi starih do, takrat, kaj je za ujavi mogel napisati transaction engine, ne.
+
+108
+00:16:20,000 --> 00:16:30,000
+Ali ne, mu boš zaupal, da bo to pravilno delalo, ne. In si take stvari, v dušnici do, bo res vse to zastojno, ne, da ti ni bilo treba teb tega pisati, ne.
+
+109
+00:16:30,000 --> 00:16:47,000
+Moja izkušnja z J-Bosov je, ker sem delal za neki telkov in to zadevo si bootal, preden si šel na malco, potem si zadeva bootala in ko si prišel nazaj, si lahko zadevo uporabljal,
+
+110
+00:16:47,000 --> 00:16:58,000
+pač ta start-up time teh application serverjev je legendarno, pa ljudje so jih postavili ne samo enega, potreboval si vse ene tri, ne.
+
+111
+00:16:59,000 --> 00:17:12,000
+Ja, ja, to je bil pa zmer znan problem, sej to smo mi, jaz sem jih prezran, jaz sem, daj pa, trojko sem uporabljal, verzejo nad verzejo, tri sem uporabljal, šterko, petko, šestko, sedemko sem pa pisal, ne.
+
+112
+00:17:13,000 --> 00:17:32,000
+Šterka je bila tako, oziroma, da je mogla vse poskenirati, vse pogledati, vse, kar imaš ti noter, vse v nedi skriptorje prebrati, konfigurirati, instancirati in tako naprej, tako, da če je bila večja aplikacija, slabše je bilo to,
+
+113
+00:17:32,000 --> 00:17:42,000
+kar je bilo še dobro, jaz nisem tam za ene stranke delal, ker so imeli gromozanske te vare ali pa e-are, in to se res tako po konkretno par minut nalaga.
+
+114
+00:17:44,000 --> 00:17:53,000
+Potem prav misija na petke je bila, dobro, misija na petke je bila, da je bila malo bolj rešitljiva, ampak nismo dost naredili pri deployu, jelki je dost šestke, pa samo malo.
+
+115
+00:17:54,000 --> 00:17:56,000
+Sedemka je bila pa že, je pa prav z namenom narejena.
+
+116
+00:17:57,000 --> 00:17:58,000
+Sedemka je že Wildfly ali?
+
+117
+00:17:59,000 --> 00:18:00,000
+Sedemka je pa vratila Wildfly, ja.
+
+118
+00:18:00,000 --> 00:18:01,000
+A Wildfly je je Riverite?
+
+119
+00:18:02,000 --> 00:18:12,000
+Ja, ja, to je bil praktično kar iz nule vse na nov. Ok, nekaj še ne morem implementacije transakcij, pa tega, to je ostala, ne, implementacija čez.
+
+120
+00:18:13,000 --> 00:18:17,000
+Ampak kernel, jedro, je bilo pravče iz nule spisane, ne.
+
+121
+00:18:18,000 --> 00:18:24,000
+Kaj smo videli, saj jaz sem bil dejansko eden avtorjev kernela, tega, microcontainer sem mu rekel, kernela petke pa šestke,
+
+122
+00:18:25,000 --> 00:18:36,000
+pa smo tako preveč hotel z napačnimi, z napačnimi stvari smo se lotili, hotel smo preveč, to smo mi podpirali in starev, ne,
+
+123
+00:18:37,000 --> 00:18:46,000
+ker ta application server nas, je bil tako, dejansko tako sem rekel, ni bil monolit, ti si lahko kr, tako ne vem, eno eno, ne, mbine in te mbini so se stavili v kernel, ne.
+
+124
+00:18:46,000 --> 00:18:56,000
+Tako mečkan kernel je bil, potem si imel, pa ne vem, 100, 200 mbinov in to je bil tako, to je JMX, ne, ker je bil taka štorasta zadeva, maja zapisati, ne, takrat so pa že bili mbini.
+
+125
+00:18:57,000 --> 00:19:03,000
+In pa smo rekel, okej, petka rab, pa, da je kr navaden mbin narediš in to je kot isto servis, ki se bo tako notri v kernel, ne.
+
+126
+00:19:04,000 --> 00:19:13,000
+In pa smo rekel, pa je pa še OEJJJJ, pa se je, okej, zdaj moramo pa še OEJJJJ tud servise podpirati v kernel, ne, tako da smo spisali tak super abstrakten kernel,
+
+127
+00:19:13,000 --> 00:19:16,000
+ki je podpiral vse možne rečine za servise.
+
+128
+00:19:17,000 --> 00:19:31,000
+Pa, pa, če te prekinem, no, zdaj tako, vi ste si pač zmislili te fičere, da to je bilo dobro med, ali ste pač za komunitijo oziroma pač za tiste komeršal dela Red Hat-a dobivali, ejj, to je fajn, da je podprto.
+
+129
+00:19:32,000 --> 00:19:44,000
+Ma, tako videl se, kam gre, v kjer smer gre pač svet, takrat je Spring bil zelo popularen in Spring je imel tako iz navadnih binov, je naredil lepe aplikacije, oziroma tako si dost olajšal zadeve, ne.
+
+130
+00:19:45,000 --> 00:19:56,000
+In jasno, tudi ljudje so prinesli, kar so hoteli, smo imeli stranke, ki je, valjda, niso, se rekelo, jeziko, pa un Spring, tako lep, un je binev, imate pa ta štorast jmx-a, ne, ima ta zahtjeva, ne.
+
+131
+00:19:56,000 --> 00:20:04,000
+Potem smo imeli tudi ene, tko OSGi, je bil tudi v danem trenutku zelo popularen, tko vsi OSGi, OSGi, ne, in smo tudi imeli service napisane v OSGi, ne.
+
+132
+00:20:05,000 --> 00:20:14,000
+In smo tudi hoteli, da se to im provala, še ne vem, pa ne smo se te feature spomnili, oziroma feature, vse to so znane zadeve in smo rekel, dajmo to vse združiti, ne.
+
+133
+00:20:15,000 --> 00:20:23,000
+Vsi smo združili, ne, ampak nismo pa rekli tega problema, pa nikoli nastavili zadeva, pa smo provali vse možne načine, da bi bila hitrejša, ne.
+
+134
+00:20:24,000 --> 00:20:30,000
+Ampak, ja, ni šla. Dokrat nismo naredili čisto rewrite-a, pa rekel, pa zapet, en bin.
+
+135
+00:20:31,000 --> 00:20:36,000
+Ampak sej, pač Wildfly je pač še eno v tem marketingu, ko se je oglasilo, da zdaj je pa to najhitrejši produkt, oziroma zdaj je pa to, ono.
+
+136
+00:20:37,000 --> 00:20:45,000
+Sej bi, ja, ker je tko, oziroma, prej je bilo tko dost ene črvnije, pa dost enega refleksna, pa dost tko nekaj sej dinamično.
+
+137
+00:20:46,000 --> 00:20:52,000
+Prvaj v Wildflyu se je pa svetlo v kino, se je rekel, neč, zdaj bomo pa spet še malo nazaj, na roke napisati.
+
+138
+00:20:53,000 --> 00:21:00,000
+Mar si kero zadevo, ne, in če bodo hoteli kajšen srbiz noter utakniti, ne, ga morajo tudi skoraj kot na roke napisati, ne.
+
+139
+00:21:01,000 --> 00:21:08,000
+Da danes, ko moš več kucenja in bov, srbiz se je zelo hitrej, ne bo se čez noben refleksen poganjal, ne bo se, in to je res pripomogal.
+
+140
+00:21:08,000 --> 00:21:17,000
+Plus to, da, tankaj sem prevmenil, ne sem Bini, mi smo imeli tudi tak klas loading model, ki je bil tudi, ki je valjda mogel podpirati ta starga, ne,
+
+141
+00:21:18,000 --> 00:21:28,000
+on ki je bil tak superhijarhičen, iz džebo šterke, pa ta nova, ki je bil tudi si lahko, ne vem, še razne depensije, ne vem, s kaj druga, z druga je potegnul.
+
+142
+00:21:29,000 --> 00:21:36,000
+Plus to, da smo jasno isto podpirali OSGI-o klas loading model, ne, in klas loading Larry je bil spet, tak tisoč in eno zadevo je delal, ne.
+
+143
+00:21:36,000 --> 00:21:50,000
+Med tem, ka pa je bil v Wildfly-u, ne, sedemki, je bil pa spet samo striktno moduli, module se je mogel specificirati, kar ena, ena, ne, pač mapping in potem je samo pogledal, kaj se ti vse specificiral in je to skupaj zložil, ne.
+
+144
+00:21:51,000 --> 00:22:01,000
+Ni več bil tako, hotel biti bolj pameten, kaj smo mi, to, ko smo mi napisali, da je bilo ful pameten, smo mi bili ta pametni, pa je uporabnik, ki se je lahko pa notrobalil, kaj se bo hotel, ne.
+
+145
+00:22:02,000 --> 00:22:25,000
+Prosti, daj, lahko sprašam to, govoriš v, kdo definirata nek road map ali pa specifikacijo ali pa kako se zmislite, kjeri featureji bojo recimo šli v 4K, 5K, Wildfly, kdo diktirata, a to sami diktirate skupaj z strankami?
+
+146
+00:22:26,000 --> 00:22:33,000
+Kako, a je to nekako mit izzade, kjer se, kako, kako gleda ta oblikovanje road mapa, daj nam to malo razložiti?
+
+147
+00:22:34,000 --> 00:22:41,000
+To se jaz, to me tako vprost zanima, kako se je to spremenilo skozi časa, ne. Zdaj, okej, začnimo tukaj, ker smo še pridželi Bosu, ne.
+
+148
+00:22:42,000 --> 00:23:03,000
+Tukaj je bilo nekaj tako, smo, je bilo kar nekaj strank, ampak se mi zdi tako, da niso oni tako diktirali, imali kašne featureje se tako, mi smo Project Lead ali pa te, tako glavni, takrat mi se je bilo zelo malo, ne, teh, ki so odločali, se je naredil road map in potem si imeli tudi kašne stranke, večje stranke, tako zelo velike stranke,
+
+149
+00:23:04,000 --> 00:23:16,000
+ki so pa kašen feature hoteli imeti ali kašnega, ki ga ni sploh ni bilo na listi ali pa kašnega, ki so ga videli na seznamu, tako po časovnemu vrednosti, ne, da so ga hoteli prej, ne.
+
+150
+00:23:17,000 --> 00:23:29,000
+In dejansko so tudi plačvali za to, da se je kašna stvar, da so oni premaknili malo višji ali da se je kašno noter dodala in tako naprej, ne. Zdaj, v kasnejših časih je pa zelo, zelo product driven, ne.
+
+151
+00:23:29,000 --> 00:23:48,000
+Dejansko se vidi, kaj so potrebe, jasno, zdi smo, ker smo še tako veči in še tako več in se lažje zame zbere vse te zahteve, te veliki strank, se malo prefiltrira in potem dejansko se projekti zelo vozijo v usmer zadovoljovanja potreb.
+
+152
+00:23:48,000 --> 00:24:11,000
+Če da sem tukaj, se pravi, vi ste bili na produktu, ki je bil pač JBOS Enterprise, ne, verjetno. In potem imaš pač ta JBOS Community, verjetno. Kaj je zdaj ta for, gleba, pač je v bistvu iz JBOS Enterprise se v Community noter stvari dajalo ali je v bistvu JBOS Community rasto in se potem v bistvu v Enterprise noter dajalo?
+
+153
+00:24:12,000 --> 00:24:36,000
+Ja, dolgo časa spod tega E-up-a, ta Enterprise-a, ni bilo to, se je začel po ali pa parih letih, kaj nas je Red Hat kupil, ne. Prebil pač sam Community JBOS, lepo stesteran, zapakeran, gor dan, downloadi si ga, adijo, soport je pač, zanima, lahko plača soport, ampak bo šli na tem Community-u se je to delalo, zanima, sam ena verja spod ni bilo, kaj je zanima, ločitve imeti.
+
+154
+00:24:36,000 --> 00:24:55,000
+Ja, potem je pa prišel pa E-up, E-up v resnici je nač drugega kot Community, samo vse, vsi džari, vsi paketi so pač podstesterani, preverjeni, označeni, podpisani in to je to, ne.
+
+155
+00:24:56,000 --> 00:25:00,000
+Ker to pač, kao, lažje Enterprise-e prodajat ali to pač...
+
+156
+00:25:00,000 --> 00:25:03,400
+pač nek enterprise standard, ki pač to zahteva.
+
+157
+00:25:03,400 --> 00:25:07,400
+Veš, da ne vem, če to standard mogoče ...
+
+158
+00:25:07,400 --> 00:25:11,800
+Veš, kaj je zdaj pol tako malo provokativno vprašanje,
+
+159
+00:25:11,800 --> 00:25:18,400
+java, potično imamo, ne vem, verzije 1.0, pa mogoče pol 1.2,
+
+160
+00:25:18,400 --> 00:25:23,000
+ker je bila velika razlika, pa glede na, kako smo vsi klela,
+
+161
+00:25:23,000 --> 00:25:26,200
+to je dejansko postavil enterprise language.
+
+162
+00:25:26,799 --> 00:25:33,599
+Kaj je zdaj tisto, oziroma, vse prav, v enterprise software-ju je java postavljena de facto.
+
+163
+00:25:33,599 --> 00:25:40,000
+Kaj je zdaj tisto, ki je reče, da ta language, oziroma, da java dominira?
+
+164
+00:25:40,000 --> 00:25:43,200
+Zakaj bi javo dominirala?
+
+165
+00:25:43,200 --> 00:25:48,799
+Ne vem, koliko sem jaz toliko odmehnega programiral,
+
+166
+00:25:48,799 --> 00:25:52,799
+pa nič resnega, dobro, na Faxu smo se zanimili,
+
+167
+00:25:52,799 --> 00:25:56,599
+ampak C++-an, ker bi bil matar, pa java, oziroma,
+
+168
+00:25:56,599 --> 00:26:01,200
+jaz sem včasih samo z javo delal, pa malo zgojem, ampak se enkrat vidim,
+
+169
+00:26:01,200 --> 00:26:06,400
+tudi okej, ker sem z gojem delal, java, kaj je prej meni,
+
+170
+00:26:06,400 --> 00:26:12,599
+prej javi mi ne vdušal, je to, da res, ker sem rabil karkoli knjižencev za karkoli,
+
+171
+00:26:12,599 --> 00:26:16,000
+za kajšno zadevo, je že skoro obstajala.
+
+172
+00:26:16,000 --> 00:26:18,599
+Karkoli si se spomni, včasih obstajala, ne zdaj samo, da obstajala,
+
+173
+00:26:18,599 --> 00:26:21,800
+zdaj bi tam mogoli nekaj okupiti, obstajala je celo zastojna,
+
+174
+00:26:21,800 --> 00:26:25,000
+ampak zelo v redkih primerjih si mogo, saj na začetku,
+
+175
+00:26:25,000 --> 00:26:29,199
+smo takrat še za solojero delal, smo celo ene par stvari malo kupili,
+
+176
+00:26:29,199 --> 00:26:32,800
+enih takih manjših knjižencev. Potem, kar sva je pa še malo naprej,
+
+177
+00:26:32,800 --> 00:26:36,599
+ali pa recimo, ker se še zdaj kaj igram, pa to ni knjižence,
+
+178
+00:26:36,599 --> 00:26:39,400
+ki ne bi bila open source, ki jo ne bi mogo dobiti.
+
+179
+00:26:39,400 --> 00:26:42,400
+Z tega vidi, ker je meni bilo res fascinantno.
+
+180
+00:26:42,400 --> 00:26:45,800
+Ne vem, kako je v dotnetu to, ali pa kje druge,
+
+181
+00:26:45,800 --> 00:26:48,599
+to povedati, ker nisem nikoli s tem delal.
+
+182
+00:26:48,599 --> 00:26:52,400
+Ugoju je tudi, ki obstaja, kolikor sem ga videl,
+
+183
+00:26:52,400 --> 00:26:55,599
+ne vem, ampak res nisem pravda zdelal, ampak po mojem,
+
+184
+00:26:55,599 --> 00:26:59,199
+ni take količine, pa take kvalitete.
+
+185
+00:26:59,199 --> 00:27:02,199
+Recimo tako, da če pomisliš, da si lahko dobil džebos,
+
+186
+00:27:02,199 --> 00:27:05,000
+zastojen pa je bil res dober. Al pa, a ne, naprimer,
+
+187
+00:27:05,000 --> 00:27:09,199
+dobiš en Hibernate, ki ga je takrat Gavin napisal
+
+188
+00:27:09,199 --> 00:27:13,000
+in ga je kar ponudujeva, imejte ga, in je zadeva bila res
+
+189
+00:27:13,000 --> 00:27:15,199
+noro dobra. Pa še ploh in drugih knjižencev, recimo,
+
+190
+00:27:15,199 --> 00:27:18,000
+ker zdi se je pa sploh pojavil, ker so še ta veliki vsi,
+
+191
+00:27:18,000 --> 00:27:21,600
+pa kafka, pa hadup, pa ne vem, kaj se še vse spomniš.
+
+192
+00:27:21,600 --> 00:27:25,600
+To je noro, kaj si ti zastojen, kakšno kvaliteto si dobil.
+
+193
+00:27:25,600 --> 00:27:28,600
+Z tega vidika pa moje, to je to. To je za me.
+
+194
+00:27:28,600 --> 00:27:32,600
+Andraž je hotel tak med vrsticami povedati,
+
+195
+00:27:32,600 --> 00:27:35,600
+da na zadnji epizod žal je 1.2.
+
+196
+00:27:35,600 --> 00:27:38,600
+Ja, moja sežalja.
+
+197
+00:27:38,600 --> 00:27:44,600
+Ja, eni fazi, ki sem se začel zjavljati,
+
+198
+00:27:44,600 --> 00:27:47,600
+je bilo v času 1.0. In potem je bil ta preskok,
+
+199
+00:27:47,600 --> 00:27:50,600
+na 1.2, ki je bil tako čak, čak, čak. To je pa zdaj vse drugače,
+
+200
+00:27:50,600 --> 00:27:52,600
+ker je to bil totalno, totalno.
+
+201
+00:27:52,600 --> 00:27:54,600
+1.0 je bila katastrofa.
+
+202
+00:27:54,600 --> 00:27:57,600
+1.2 je bila že ta prva, ki je bila tako,
+
+203
+00:27:57,600 --> 00:28:01,600
+saj v redu, za 1.4, 1.4 je bila pa že tako, brez ...
+
+204
+00:28:01,600 --> 00:28:04,600
+1.4 je dobil generike.
+
+205
+00:28:04,600 --> 00:28:08,600
+Ne, moje generike so v 1.5.
+
+206
+00:28:08,600 --> 00:28:11,600
+1.5 je.
+
+207
+00:28:11,600 --> 00:28:14,600
+Ja, 1.5 so bili generike. Ampak 1.4 je bila že tako,
+
+208
+00:28:14,600 --> 00:28:17,600
+prav, stvari so prav lepo delala.
+
+209
+00:28:17,600 --> 00:28:20,600
+Prej je bilo tako malo, si je mogel tam fige držati.
+
+210
+00:28:20,600 --> 00:28:24,600
+Ampak za 1.4, cepem, pa smo šli tako vsi na 1.4 in 1.4,
+
+211
+00:28:24,600 --> 00:28:28,600
+dolg, dolg, dolg, dolg časa, pa pa ja, za 1.5 generike,
+
+212
+00:28:28,600 --> 00:28:31,600
+ki so sploh tudi zelo pripomogli.
+
+213
+00:28:31,600 --> 00:28:37,600
+A je res do danes večina svetu tajčeno jav je osem?
+
+214
+00:28:37,600 --> 00:28:40,600
+Na osem?
+
+215
+00:28:40,600 --> 00:28:43,600
+Tako, a je to ...
+
+216
+00:28:43,600 --> 00:28:46,600
+Zna kar biti zelo malo, čas že spremikam.
+
+217
+00:28:46,600 --> 00:28:49,600
+Sej jaz sem tudi prvič videl, ko sem jaz sam, ki je pisal pa naši projekti,
+
+218
+00:28:49,600 --> 00:28:53,600
+ta predzadnji, ta streamzi, ja, na osemki, ker se je pač
+
+219
+00:28:53,600 --> 00:28:58,600
+to si obljubil, da boš podpiral in potem, ker ne moreš več,
+
+220
+00:28:58,600 --> 00:29:01,600
+ok, zdaj pa hvala lepa dio, konc, zdaj pa gremo mi na ...
+
+221
+00:29:01,600 --> 00:29:05,600
+No, sem mislil, da tako pa vsaj na 1.1 je bil tako hitr preskok.
+
+222
+00:29:05,600 --> 00:29:09,600
+Na 1.1 si lahko šel, pa nisi enočke dost pokvaril za del,
+
+223
+00:29:09,600 --> 00:29:13,600
+ker mislim, da v 1.1 še ni, a so že bili moduli, pa malce ne.
+
+224
+00:29:13,600 --> 00:29:21,600
+A se ti kot nekdo, ki je delal z Java bolj konec celo svojo karjeru,
+
+225
+00:29:21,600 --> 00:29:28,600
+a si upazil, da se Java premika hiter, počasi,
+
+226
+00:29:28,600 --> 00:29:33,600
+a se ti zdi, da bi se mogla bolj hiter razvijati?
+
+227
+00:29:33,600 --> 00:29:36,600
+In v eno trenutku, na začetku ...
+
+228
+00:29:36,600 --> 00:29:40,600
+In se ti zdi, da je zaspal malo razvoj, kaj ti vidiš to skozi čas?
+
+229
+00:29:40,600 --> 00:29:44,600
+A lahko je komentiraš to, kako se ta jezik spreminja in razvija skozi čas?
+
+230
+00:29:44,600 --> 00:29:47,600
+Dobro, tukaj imam draž, pa je eno začetko, je bilo eno ...
+
+231
+00:29:47,600 --> 00:29:50,600
+So, hvala Bogu, vsaj hiter dojeli in so pa upravljali na enko.
+
+232
+00:29:50,600 --> 00:29:55,600
+Pa 1.4, ok, pa 1.4, 1.5, ne spomnem, koliko hitro,
+
+233
+00:29:55,600 --> 00:29:58,600
+pa 1.5, se mi zdi, so pa kar zaspali.
+
+234
+00:29:58,600 --> 00:30:01,600
+In potem dolg, dolg, dolg časa, ni bilo nečega dost pametnega.
+
+235
+00:30:01,600 --> 00:30:05,600
+In tam si je bil en kup jezikov, ki so se pojavili,
+
+236
+00:30:05,600 --> 00:30:07,600
+ker so vsi naslavali tako, ker so imeli ...
+
+237
+00:30:07,600 --> 00:30:11,600
+Opozirajmo, pohreni, eni knjižnice, spomnim, Google-ovi knjižnice,
+
+238
+00:30:11,600 --> 00:30:14,600
+govave, pa ne vem, kaj so bile še collections,
+
+239
+00:30:14,600 --> 00:30:18,600
+ki so prpeljali tako malo funkcijsko programiranje,
+
+240
+00:30:18,600 --> 00:30:22,600
+pa one streame, tko je si lepo vlaži, kaj je obdelvalo te collections in tako naprej,
+
+241
+00:30:22,600 --> 00:30:26,600
+ker je tako zelo omankal, ker je v drugih jezikih si to že videl.
+
+242
+00:30:26,600 --> 00:30:29,600
+Tukaj pa kar ni, pa ni, pa ni bilo, ne.
+
+243
+00:30:29,600 --> 00:30:32,600
+In potem so se pojavili nove jezike, ne, pa je bil tako z pogornim celom,
+
+244
+00:30:32,600 --> 00:30:36,600
+pa kotlim, pa ne vem kaj še, pa skala, pa tako in ...
+
+245
+00:30:36,600 --> 00:30:39,600
+In pa tako željo si, joj, mogoče bi bilo pa fino, da se eno malo zamena,
+
+246
+00:30:39,600 --> 00:30:42,600
+ker smo res tako pogrešali to, ne.
+
+247
+00:30:42,600 --> 00:30:46,600
+Posle pa kaj je pojavila Java 8 in od takrat naprej jaz,
+
+248
+00:30:46,600 --> 00:30:50,600
+osebno praktično nisem več, ker so one streame zadali
+
+249
+00:30:50,600 --> 00:30:53,600
+in ta function programirali za to lampto, ne.
+
+250
+00:30:53,600 --> 00:30:56,600
+In nisem res neče več zelo pogrešal.
+
+251
+00:30:56,600 --> 00:30:59,600
+Se je poseboj uposobilo, da so oni naredili komitment in so zelo hitri,
+
+252
+00:30:59,600 --> 00:31:02,600
+kar tukaj te verze krštanca, ne, 9, 10, 11 ...
+
+253
+00:31:02,600 --> 00:31:06,600
+Ker je pa enostavno vredu, ne. Vsi se primika, pa noter dodaja, ne.
+
+254
+00:31:08,600 --> 00:31:09,600
+Tako če ...
+
+255
+00:31:09,600 --> 00:31:12,600
+Mehne cukričke, ne, z enim rekord, pa tako.
+
+256
+00:31:12,600 --> 00:31:15,600
+Ampak tako, bom prvi rekod 8 naprej,
+
+257
+00:31:15,600 --> 00:31:18,600
+sem res nehal pogrešati praktično nekaj tako ful.
+
+258
+00:31:18,600 --> 00:31:21,600
+Prej sem se res prišel, joj, moram res tako naumen delati
+
+259
+00:31:21,600 --> 00:31:24,600
+s temi collectioni, moram res, ne vem ...
+
+260
+00:31:25,600 --> 00:31:28,600
+Ne moram tih funkcij malo lažje klicati in tako naprej, ne.
+
+261
+00:31:30,600 --> 00:31:33,600
+Zdaj, mislim, da je priporočena verzija Java
+
+262
+00:31:33,600 --> 00:31:36,600
+za nove projekte kaj, 17?
+
+263
+00:31:36,600 --> 00:31:39,600
+Ja, jaz imam z enostavno 17.
+
+264
+00:31:39,600 --> 00:31:42,600
+Eni se je zelo igrali že z 19,
+
+265
+00:31:42,600 --> 00:31:46,600
+pa ta project LUM, pa da malo vidijo kako to dela, ampak ...
+
+266
+00:31:46,600 --> 00:31:48,600
+Ja, 17, ne vem.
+
+267
+00:31:48,600 --> 00:31:51,600
+LUM bo imel nov trading model, ali ne?
+
+268
+00:31:51,600 --> 00:31:52,600
+Ja, ja.
+
+269
+00:31:52,600 --> 00:31:55,600
+Če malo na hitro poveš, kaj je to.
+
+270
+00:31:55,600 --> 00:31:58,600
+Šli so, ja. Zdaj, kad vidiš cel problem,
+
+271
+00:31:58,600 --> 00:32:01,600
+zaradi tradinga, kot je dozdej,
+
+272
+00:32:03,600 --> 00:32:06,600
+so se pojavljali ta reactive programming,
+
+273
+00:32:06,600 --> 00:32:10,600
+ker je bila cena enega treda, je bila, je velika.
+
+274
+00:32:12,600 --> 00:32:15,600
+Zdaj, če imaš ti aplikacijo, ki je rab velik ...
+
+275
+00:32:16,600 --> 00:32:20,600
+Zdaj, imaš veliko rekvestor, veliko stvari za obdelati.
+
+276
+00:32:20,600 --> 00:32:23,600
+Če bi hotel imeti za vsak zahtevek en tred,
+
+277
+00:32:23,600 --> 00:32:26,600
+ne bo šlo, ker bi pokuril.
+
+278
+00:32:26,600 --> 00:32:29,600
+Zdaj, imaš ta reactive, kjer si ti podajaš
+
+279
+00:32:29,600 --> 00:32:32,600
+te tvoje taske v različne connection pulle
+
+280
+00:32:32,600 --> 00:32:34,600
+in lahko zarabiš.
+
+281
+00:32:34,600 --> 00:32:37,600
+Jasno, zahteva je ta, da so te tvoje taski čim krajši,
+
+282
+00:32:37,600 --> 00:32:40,600
+da niso lih, ne vem, pol dolg za to,
+
+283
+00:32:40,600 --> 00:32:43,600
+ker bi pol dolg časa držali en tred
+
+284
+00:32:44,600 --> 00:32:46,600
+in potem je vse obtičalo.
+
+285
+00:32:46,600 --> 00:32:49,600
+Ampak lahko veliko kratkih taskov obdelaš
+
+286
+00:32:49,600 --> 00:32:52,600
+z sorozmerno mehnim številom tredov.
+
+287
+00:32:54,600 --> 00:32:56,600
+Ampak zdaj so te trede drugače.
+
+288
+00:32:56,600 --> 00:32:59,600
+Ti so bili nekako na native način narenje,
+
+289
+00:32:59,600 --> 00:33:01,600
+pa so bili zred tega dragi.
+
+290
+00:33:01,600 --> 00:33:03,600
+Zdaj, bojo pa ker ...
+
+291
+00:33:03,600 --> 00:33:06,600
+Koker se ne zastopim, pa niso njih vse bo predavanje.
+
+292
+00:33:06,600 --> 00:33:09,600
+Upam, da bom prepelal enega človeka.
+
+293
+00:33:09,600 --> 00:33:11,600
+Se bom to še govoril.
+
+294
+00:33:11,600 --> 00:33:14,600
+Ampak bojo pa karneljansko znotraj, je bo moja.
+
+295
+00:33:14,600 --> 00:33:16,600
+In bojo na ta način se neši.
+
+296
+00:33:16,600 --> 00:33:18,600
+Taki virtualni tredi bojo to rado.
+
+297
+00:33:18,600 --> 00:33:21,600
+Kaj se pravi, to so green tredje ali virtual tredje?
+
+298
+00:33:21,600 --> 00:33:23,600
+Virtual tredje.
+
+299
+00:33:23,600 --> 00:33:25,600
+Da bo počne bo ...
+
+300
+00:33:25,600 --> 00:33:28,600
+Nekaj, JVM bo potem ti pomagal upravljati
+
+301
+00:33:28,600 --> 00:33:31,600
+zaosekucijo in bo v zadji šedželo ali kaj.
+
+302
+00:33:31,600 --> 00:33:33,599
+Ja, to nekako.
+
+303
+00:33:34,599 --> 00:33:36,599
+Ti sam ki imaš.
+
+304
+00:33:36,599 --> 00:33:39,599
+Što se je nekaj stvari so skupaj skupaj zgodilo?
+
+305
+00:33:39,599 --> 00:33:42,599
+Ti sem jaz pa pač spustil naprej.
+
+306
+00:33:43,599 --> 00:33:45,599
+Dej še, dej še.
+
+307
+00:33:45,599 --> 00:33:48,599
+Ful en pač ta mogoče mit.
+
+308
+00:33:48,599 --> 00:33:52,599
+Dej še to malo razbiti in gremo mogoče kakšne druge stvari.
+
+309
+00:33:54,599 --> 00:33:57,599
+Recimo, ljudje, ki delajo ...
+
+310
+00:33:58,599 --> 00:34:02,599
+Recimo, high frequency trading ali neke ultraperformančne zadeve.
+
+311
+00:34:02,599 --> 00:34:05,599
+Pa se pogovarjajo in rečejo,
+
+312
+00:34:05,599 --> 00:34:08,599
+te zadeve morajo biti C++, te zadeve morajo biti C ...
+
+313
+00:34:09,599 --> 00:34:10,599
+Pa ni to v skali.
+
+314
+00:34:10,599 --> 00:34:12,599
+Ni to, da ni to v skali.
+
+315
+00:34:12,599 --> 00:34:14,599
+Aka, aka, aka.
+
+316
+00:34:15,599 --> 00:34:16,599
+Jaz to hočem slišati.
+
+317
+00:34:16,599 --> 00:34:18,599
+Ne, jaz hočem samo slišati,
+
+318
+00:34:18,599 --> 00:34:22,599
+da Java, ali po tvojem mnenju,
+
+319
+00:34:22,599 --> 00:34:26,599
+resen player tudi za high performance zadeve,
+
+320
+00:34:26,599 --> 00:34:33,599
+za zadeve, kjer je latency kritičen,
+
+321
+00:34:33,599 --> 00:34:35,599
+a vse premika v to smer,
+
+322
+00:34:35,599 --> 00:34:38,599
+da vedno več optimizacije gre tudi v to smer,
+
+323
+00:34:38,599 --> 00:34:42,599
+a je to jezik, ki ga lahko čist normalno uporabljaš
+
+324
+00:34:42,599 --> 00:34:45,599
+za res visoko performančne zadeve.
+
+325
+00:34:46,599 --> 00:34:50,599
+A ti bo pomagal ta JVM delati te neke sodobne aplikacije,
+
+326
+00:34:50,599 --> 00:34:52,599
+ki te stari delajo?
+
+327
+00:34:52,599 --> 00:34:55,599
+A vidiš tu noter zadevo, ali bi rekel,
+
+328
+00:34:55,599 --> 00:34:58,599
+lej, sorry, garbage collection bo počasnil zadeve,
+
+329
+00:34:58,599 --> 00:35:01,599
+lej, rej, ne vem, porabim nekaj res tega.
+
+330
+00:35:01,599 --> 00:35:02,599
+Ja, zanimivo vprašanje.
+
+331
+00:35:02,599 --> 00:35:06,599
+Ok, lahko, da bi se mi v celo del,
+
+332
+00:35:06,599 --> 00:35:11,599
+kar smo en projekt umes, ko nisem ga naredil,
+
+333
+00:35:13,599 --> 00:35:16,599
+spisal in je bila zadeva in je lahko točno to rabila,
+
+334
+00:35:16,599 --> 00:35:21,599
+da je zelo hitro, zelo veliko stvari obdelala in se je dala.
+
+335
+00:35:21,599 --> 00:35:27,599
+Našem primeru ni bilo tako zelo tako kritično,
+
+336
+00:35:27,599 --> 00:35:30,599
+pa je bila važna, da je bil vrsta naredila prav,
+
+337
+00:35:30,599 --> 00:35:33,599
+pa še zmer, da je bilo zelo, zelo hitro.
+
+338
+00:35:33,599 --> 00:35:37,599
+V primeru, kaj se je rekel, če je hitro zelo pomembna,
+
+339
+00:35:37,599 --> 00:35:45,599
+je pa tudi se da, ker ti imaš različne vrste JVM-ev.
+
+340
+00:35:45,599 --> 00:35:49,599
+Lahko različne nastavitve JVM-ev uporabiš tudi,
+
+341
+00:35:49,599 --> 00:35:51,599
+to se jaz nisem vsi skoraj poglabil,
+
+342
+00:35:51,599 --> 00:35:54,599
+ampak vem, da imaš pa lahko en IBM-ov JVM,
+
+343
+00:35:54,599 --> 00:35:56,599
+ki drugačo vzameš, pa tudi oroklo imaš ene druge,
+
+344
+00:35:56,599 --> 00:36:00,599
+ene prvo taki malo obskurni akademski JVM-i,
+
+345
+00:36:00,599 --> 00:36:03,599
+ki malo obstajajo, ki so vsi po mojem baziru,
+
+346
+00:36:03,599 --> 00:36:07,599
+čez OpenJDK ali pa tako, a so pa že kres pisani,
+
+347
+00:36:07,599 --> 00:36:10,599
+pa ti sploh ne veš, da imaš lahko tam par konfiguracij,
+
+348
+00:36:10,599 --> 00:36:13,599
+ki jih nastaviš in bo zadeva drugač delala.
+
+349
+00:36:13,599 --> 00:36:15,599
+Imaš različne vrste garbage collector-ja,
+
+350
+00:36:15,599 --> 00:36:17,599
+ali pa tako pobera, ali pa tako pobera,
+
+351
+00:36:17,599 --> 00:36:20,599
+in mu ti lahko nastaviš celo, v reku temu,
+
+352
+00:36:20,599 --> 00:36:23,599
+algoritem ali pa mehanizem garbage collectanja,
+
+353
+00:36:23,599 --> 00:36:25,599
+kako da ima drugač dela.
+
+354
+00:36:25,599 --> 00:36:28,599
+To, kar smo mi delali, mi je čisto bilo zanimljeno,
+
+355
+00:36:28,599 --> 00:36:31,599
+da imaš ena zadeva, en lušten paper,
+
+356
+00:36:31,599 --> 00:36:34,599
+ki je prav tako dobra implementacija, disruptor se reče,
+
+357
+00:36:34,599 --> 00:36:39,599
+ki je zelo dober, tako zelo malo spomina,
+
+358
+00:36:39,599 --> 00:36:45,599
+pa zelo malo tredi, zelo super hitro obdeluje ove zadeve.
+
+359
+00:36:45,599 --> 00:36:51,599
+Tam smo pa dodali še, da pa razširi zadeve,
+
+360
+00:36:51,599 --> 00:36:55,599
+pa pač pa je kafka, in pa oziroma kafku si lahko skelo,
+
+361
+00:36:55,599 --> 00:36:58,599
+tako horizontalno, kako si hotel.
+
+362
+00:36:58,599 --> 00:37:03,599
+Če bi mi rabil, da bi več, bi pač več teh kafka instanc,
+
+363
+00:37:03,599 --> 00:37:06,599
+oziroma naših aplikacij instanc, pa tudi močno več brokerjev,
+
+364
+00:37:06,599 --> 00:37:11,599
+kafka brokerjev, pa bi lahko obdeloval blazen velik,
+
+365
+00:37:11,599 --> 00:37:15,599
+to je enasko o milionih, milionih mesečeh,
+
+366
+00:37:15,599 --> 00:37:18,599
+se pogovarjaš na zelo kratkem času.
+
+367
+00:37:18,599 --> 00:37:23,599
+Se pravi, ti misliš, da je, verjamem še to,
+
+368
+00:37:23,599 --> 00:37:27,599
+da je Java čisto normalen sodoben jezik za bilo kakšen problem.
+
+369
+00:37:27,599 --> 00:37:30,599
+Zdaj, dobro, če greš v neke specijalne veje,
+
+370
+00:37:30,599 --> 00:37:31,599
+boš pač mogel ...
+
+371
+00:37:31,599 --> 00:37:33,599
+Dobro, jaz mislim,
+
+372
+00:37:33,599 --> 00:37:36,599
+dobro, jaz bi mi rekel, čisto istrten izvid,
+
+373
+00:37:36,599 --> 00:37:39,599
+da ti kakšnih stvari ne moreš, ker je garbič kolektor.
+
+374
+00:37:39,599 --> 00:37:43,599
+Ker ti mu, če bilo obvladuješ memorijo sam, ali NC++,
+
+375
+00:37:43,599 --> 00:37:47,599
+verjetno vsem boljš, ker pa ti tam spodaj se neki vsem zažene,
+
+376
+00:37:47,599 --> 00:37:50,599
+na katero ti vsem lahko nimaš vpliva.
+
+377
+00:37:50,599 --> 00:37:54,599
+Lahko pa tisto narediš zelo kratko, pa bo.
+
+378
+00:37:54,599 --> 00:37:58,599
+Edam zdaj iz te teme napedal na Cloud,
+
+379
+00:37:58,599 --> 00:38:02,599
+pa bom vprašal, pa bom pa mogoče malo več v Kvarkusu,
+
+380
+00:38:02,599 --> 00:38:08,599
+pa mogoče ta povezava je ta delo, ki ga zdaj vidimo na GraalVM-u,
+
+381
+00:38:08,599 --> 00:38:11,599
+pa ta Ahead of Time compilation,
+
+382
+00:38:11,599 --> 00:38:14,599
+pa ki v bistvu, ko govorimo o Cloudu,
+
+383
+00:38:14,599 --> 00:38:17,599
+govorimo o drugačnih arhitekturih,
+
+384
+00:38:17,599 --> 00:38:20,599
+ker govorimo o malih servisih, ki se morajo hitro dvignati,
+
+385
+00:38:20,599 --> 00:38:23,599
+malo memorija morajo požreti, reaktivni morajo biti,
+
+386
+00:38:23,599 --> 00:38:26,599
+s tem da hitro razprocesira zadeve,
+
+387
+00:38:26,599 --> 00:38:29,599
+ko jih pa naradiš, jih pa pač ubiješ, pa jih pa downscaleš.
+
+388
+00:38:29,599 --> 00:38:32,599
+In ta Cloud ima po sebi za software,
+
+389
+00:38:32,599 --> 00:38:38,599
+ima drugačne neke zakteve kot tisto, kaj smo se prej v JBossu pogovarjali.
+
+390
+00:38:38,599 --> 00:38:44,599
+Pa me zanima, če lahko ti skozi tipo vidiš, kakšne so zakteve Clouda,
+
+391
+00:38:44,599 --> 00:38:48,599
+pa kaj morajo biti v JB, pa kaj morajo biti te appi,
+
+392
+00:38:48,599 --> 00:38:51,599
+ki znotraj tega ekosistema delujejo.
+
+393
+00:38:51,599 --> 00:38:54,599
+Ja, jaz sem bil tudi zanimiv, jaz sem bil tukaj del,
+
+394
+00:38:54,599 --> 00:39:00,599
+ko smo mi, ko se je OpenShift zdajansko pojavil znotraj Red Hat,
+
+395
+00:39:00,599 --> 00:39:04,599
+odemo se, prej smo že nekaj imeli, pa smo pa eno fermo kupili,
+
+396
+00:39:05,599 --> 00:39:10,599
+da so že tako kdajne kontenere tako delali in se vsem pokazali,
+
+397
+00:39:10,599 --> 00:39:14,599
+hitro se je pokazalo tisto, zelo pa ni bilo lahko kontenere,
+
+398
+00:39:14,599 --> 00:39:17,599
+nekaj drugač, oni so imeli nekaj ene svoje gire,
+
+399
+00:39:17,599 --> 00:39:20,599
+ampak mislim, da je tudi bil tako kdajne vrste,
+
+400
+00:39:20,599 --> 00:39:23,599
+ne znam, če je bil tako kontener, ampak je tako kdajne procese,
+
+401
+00:39:23,599 --> 00:39:25,599
+so tam nekaj ganja, ampak tisto.
+
+402
+00:39:25,599 --> 00:39:28,599
+Posle pa hitro se je pa še eno sporedno,
+
+403
+00:39:28,599 --> 00:39:31,599
+sej on OpenShift enka, mislim, da je bil zelo hitro šel po zabo,
+
+404
+00:39:31,599 --> 00:39:35,599
+OpenShift dvojka je pa že bil ta, ki je bil na kontenerih, ne.
+
+405
+00:39:35,599 --> 00:39:39,599
+In potem smo, ok, takrat, še nismo imeli lahko drugega
+
+406
+00:39:39,599 --> 00:39:43,599
+od pametnega softwara zaponuditi, kot to, da smo dejansko ponudili
+
+407
+00:39:43,599 --> 00:39:49,599
+JBoss v cloudu, pa ne vem, Infinity Spam, pa razne take druge projekte,
+
+408
+00:39:49,599 --> 00:39:51,599
+Druulsa in tako naprej.
+
+409
+00:39:53,599 --> 00:39:57,599
+In tam se je zelo hitro pokazali, ja, kako to ni dober,
+
+410
+00:39:57,599 --> 00:40:01,599
+ker smo zavali za vsako, ljudje so že rekli, ok, bomo prvič skupili
+
+411
+00:40:01,599 --> 00:40:06,599
+OpenShift dvojko, pa bomo javanske aplikacije ganjali na njih
+
+412
+00:40:06,599 --> 00:40:10,599
+v lepo JBoss-o, ne, oziroma tako sej en way up-o, ne.
+
+413
+00:40:11,599 --> 00:40:14,599
+In predsakaj so hoteli cluster, mi smo mogli zavali za vsako,
+
+414
+00:40:14,599 --> 00:40:18,599
+za devo vzigljati, celo JVM, pa noter JBoss-a, pa tako,
+
+415
+00:40:18,599 --> 00:40:20,599
+kot si ti prej rekel, kar se je hitro par vzigljali,
+
+416
+00:40:20,599 --> 00:40:24,599
+in to je vne resurse jedel k bombone, ne.
+
+417
+00:40:24,599 --> 00:40:26,599
+In je bilo res...
+
+418
+00:40:26,599 --> 00:40:29,599
+Boj, da je tudi zdaj javljo vzac, ker je dobro skup zlepljena.
+
+419
+00:40:29,599 --> 00:40:32,599
+Ja, ja, ni bilo lih, tisto še ni bilo, ja.
+
+420
+00:40:34,599 --> 00:40:37,599
+Daneska OpenShift dvojka je bil tako skor malo že pogled,
+
+421
+00:40:37,599 --> 00:40:41,599
+kako skat bi, k kubernetesu, ne, sam je bil tako zelo
+
+422
+00:40:41,599 --> 00:40:45,599
+poor man's kubernetesu, ne, in potem predsakaj se je vedel
+
+423
+00:40:45,599 --> 00:40:47,599
+za kubernetes...
+
+424
+00:40:47,599 --> 00:40:48,599
+Trojka je bila pa kubernetes.
+
+425
+00:40:48,599 --> 00:40:50,599
+Ja, menj se zdi, kaj Google takrat prišel do nas,
+
+426
+00:40:50,599 --> 00:40:52,599
+se spomin, še jaz sem vedel za kubernetes,
+
+427
+00:40:52,599 --> 00:40:55,599
+preden se je spoh vedel za njega, ne.
+
+428
+00:40:55,599 --> 00:40:57,599
+In so prišli, potem smo bili mi samo na vkr,
+
+429
+00:40:57,599 --> 00:40:59,599
+vrga smo na stran, op, pante, kubernetes,
+
+430
+00:40:59,599 --> 00:41:01,599
+a zdaj pa to, ne.
+
+431
+00:41:01,599 --> 00:41:04,599
+Ja, in ne, tisti se je zelo poznal, kako nisi mogel
+
+432
+00:41:04,599 --> 00:41:08,599
+neče pametnega delati z JBossom kot takim
+
+433
+00:41:08,599 --> 00:41:10,599
+in z OpenShiftom, hajde bom rekel, dvojka.
+
+434
+00:41:10,599 --> 00:41:13,599
+Se je tudi ne bi spremljil, dost razlike ne bi naredil,
+
+435
+00:41:13,599 --> 00:41:17,599
+ker je JBoss res ni bil premjeran, ker se je tak...
+
+436
+00:41:17,599 --> 00:41:19,599
+Znači, poberal se je, plus to, da je resurso,
+
+437
+00:41:19,599 --> 00:41:23,599
+tisti se je mogel za vsak, so je jvm in tako,
+
+438
+00:41:23,599 --> 00:41:25,599
+da se je kaj poznal, ja.
+
+439
+00:41:25,599 --> 00:41:27,599
+Zdaj pa jasno se je vse, iz tega so vsi
+
+440
+00:41:27,599 --> 00:41:30,599
+je hiteratali zadeve,
+
+441
+00:41:30,599 --> 00:41:35,599
+mikroaplikacije, SpringBoot je dobil zelo velik zagon.
+
+442
+00:41:35,599 --> 00:41:38,599
+Ma, tudi SpringBoot, tudi ni bil lih to,
+
+443
+00:41:38,599 --> 00:41:40,599
+kar bi hotel tih, ne.
+
+444
+00:41:40,599 --> 00:41:42,599
+Je bil mal, ok, mal je vsem zmanjšal zadevo,
+
+445
+00:41:42,599 --> 00:41:44,599
+da si je samo dobil to, kar si res rabil, ne,
+
+446
+00:41:44,599 --> 00:41:47,599
+da ni bil lih cel, kaj bom rekel tako,
+
+447
+00:41:47,599 --> 00:41:49,599
+klestit, en application server,
+
+448
+00:41:49,599 --> 00:41:52,599
+JBoss je si lahko tudi oklestil,
+
+449
+00:41:52,599 --> 00:41:54,599
+če je bi vedel, ampak,
+
+450
+00:41:54,599 --> 00:41:57,599
+si je pa lahko hiter kaj odstranil,
+
+451
+00:41:57,599 --> 00:41:59,599
+ker mu če ne je bilo vpravo,
+
+452
+00:41:59,599 --> 00:42:02,599
+pa bi se je kasneje pokazal, da ne dela, ne.
+
+453
+00:42:02,599 --> 00:42:03,599
+SpringBoot je bil pa tako nareden,
+
+454
+00:42:03,599 --> 00:42:06,599
+da je saj sestavil minimalno, kot kar si je rabil,
+
+455
+00:42:06,599 --> 00:42:08,599
+ampak še to je bilo zmer preveč, ne.
+
+456
+00:42:08,599 --> 00:42:11,599
+In si je pa vse pa zgral v IBM-o, ne,
+
+457
+00:42:11,599 --> 00:42:13,599
+iz tega lih pa pride, je bil pa kvar,
+
+458
+00:42:13,599 --> 00:42:15,599
+ko znamo, da na, tako,
+
+459
+00:42:15,599 --> 00:42:17,599
+kralj v IBM je bil, si lahko krasn,
+
+460
+00:42:17,599 --> 00:42:19,599
+to pa lahko zadevljajo v native,
+
+461
+00:42:19,599 --> 00:42:22,599
+kompiliraš, ne, ampak jasno,
+
+462
+00:42:22,599 --> 00:42:24,599
+vse pa ni šlo kar ena-ena, ne,
+
+463
+00:42:24,599 --> 00:42:26,599
+določene stvari ti ne moraš kar
+
+464
+00:42:26,599 --> 00:42:28,599
+še zmer, še dones ne moraš skompilat,
+
+465
+00:42:28,599 --> 00:42:30,599
+veš tako, kakšne substitute,
+
+466
+00:42:30,599 --> 00:42:33,599
+pa kakšne stvari moraš ignorirat in tako naprej,
+
+467
+00:42:33,599 --> 00:42:36,599
+ampak da se pa veliko naredit,
+
+468
+00:42:36,599 --> 00:42:38,599
+če do drug zato je to naredil, ne,
+
+469
+00:42:38,599 --> 00:42:39,599
+da ti ne delaš tega sam,
+
+470
+00:42:39,599 --> 00:42:41,599
+ker spet moraš, če ne veš kaj točen,
+
+471
+00:42:41,599 --> 00:42:42,599
+bi mogel naredit, ne.
+
+472
+00:42:42,599 --> 00:42:44,599
+In kaj je prišla potreba,
+
+473
+00:42:44,599 --> 00:42:47,599
+po kvarkusu, ne, sej kvarkus ni samo,
+
+474
+00:42:47,599 --> 00:42:50,599
+kvarkus ni samo ono, kvarkus, fora, ma več.
+
+475
+00:42:50,599 --> 00:42:51,599
+Tudi to bom, zdaj, samo prej,
+
+476
+00:42:51,599 --> 00:42:53,599
+prej gremo res v kvarkus.
+
+477
+00:42:53,599 --> 00:42:55,599
+Ja, ja.
+
+478
+00:42:55,599 --> 00:42:56,599
+Ja, ja.
+
+479
+00:42:56,599 --> 00:42:57,599
+Ne vem, ne vem, ne vem, ne vem,
+
+480
+00:42:57,599 --> 00:42:58,599
+imamo jo.
+
+481
+00:42:58,599 --> 00:42:59,599
+No, ja, v redu, da bomo prečli.
+
+482
+00:42:59,599 --> 00:43:00,599
+Ne, ne, ne, ne, ne, ne,
+
+483
+00:43:00,599 --> 00:43:03,599
+skočim sam, super je, da imamo
+
+484
+00:43:03,599 --> 00:43:05,599
+do globokogo debatu, prav je,
+
+485
+00:43:05,599 --> 00:43:08,599
+to je, zato smo tu, ampak sej mal moram
+
+486
+00:43:08,599 --> 00:43:10,599
+neki vorder razložiti za to,
+
+487
+00:43:10,599 --> 00:43:12,599
+da bodo ljudje, ki mogoče ne delajo,
+
+488
+00:43:12,599 --> 00:43:14,599
+da vsak dan sej približno razumejo,
+
+489
+00:43:14,599 --> 00:43:17,599
+v čem za boga sej pogovarjamo.
+
+490
+00:43:17,599 --> 00:43:21,599
+GraalVM, kaj je GraalVM?
+
+491
+00:43:21,599 --> 00:43:22,599
+Zdaj sem tu, pošali.
+
+492
+00:43:22,599 --> 00:43:25,599
+GraalVM je pač nova verzija
+
+493
+00:43:25,599 --> 00:43:28,599
+virtual mašina, ki zastop drugačen,
+
+494
+00:43:28,599 --> 00:43:31,599
+ki ne zastopuje, ni več ono javanski binary,
+
+495
+00:43:31,599 --> 00:43:33,599
+ampak je javanski binary spremenjen
+
+496
+00:43:33,599 --> 00:43:35,599
+v nek tako native binary,
+
+497
+00:43:35,599 --> 00:43:38,599
+ki ga pa GraalVM zastopa, ne.
+
+498
+00:43:38,599 --> 00:43:41,599
+Ja, in Java je,
+
+499
+00:43:41,599 --> 00:43:44,599
+klasična je, chest in time compilation
+
+500
+00:43:44,599 --> 00:43:48,599
+vs. Graal, ki umogoča ahead of time compilation.
+
+501
+00:43:48,599 --> 00:43:49,599
+Ja, mislim.
+
+502
+00:43:49,599 --> 00:43:51,599
+Ali lahko še to razliko razložiš,
+
+503
+00:43:51,599 --> 00:43:52,599
+zakaj je pomembno?
+
+504
+00:43:52,599 --> 00:43:55,599
+Ja, to še od mene preveč vprašajo.
+
+505
+00:43:55,599 --> 00:43:57,599
+Kaj pa moje, če se jaz tako prvo predstavljam,
+
+506
+00:43:57,599 --> 00:43:59,599
+kako je GraalVM, pa nisem koli gledal
+
+507
+00:43:59,599 --> 00:44:01,599
+več kot to, da sem zbildal pa malo,
+
+508
+00:44:01,599 --> 00:44:04,599
+zastopim nekako spet,
+
+509
+00:44:04,599 --> 00:44:06,599
+znači kako jaz sem tako dosto straš,
+
+510
+00:44:06,599 --> 00:44:08,599
+pa nisem dosto nižji,
+
+511
+00:44:08,599 --> 00:44:10,599
+da bi mogel kaj zagrati,
+
+512
+00:44:10,599 --> 00:44:12,599
+razne zadeve, kakšne substitucije,
+
+513
+00:44:12,599 --> 00:44:13,599
+pa tako, kaj je treba.
+
+514
+00:44:13,599 --> 00:44:15,599
+Kaj moraš vse vprašati tako up in lep
+
+515
+00:44:15,599 --> 00:44:17,599
+in se ti to skupaj,
+
+516
+00:44:17,599 --> 00:44:21,599
+če ti z Graalom in unim kompanjerom delaš,
+
+517
+00:44:21,599 --> 00:44:25,599
+ti še to naredi v une klase
+
+518
+00:44:25,599 --> 00:44:27,599
+in pa v native spremeni, ne?
+
+519
+00:44:27,599 --> 00:44:29,599
+Po moje, kaj ti v native combineri
+
+520
+00:44:29,599 --> 00:44:30,599
+na koncu dobiš,
+
+521
+00:44:30,599 --> 00:44:32,599
+dobiš ti spakerano svojo aplikacijo,
+
+522
+00:44:32,599 --> 00:44:34,599
+plus še, verjetno,
+
+523
+00:44:34,599 --> 00:44:37,599
+malo Graal VM nekako noter skrita, ne?
+
+524
+00:44:37,599 --> 00:44:39,599
+Če prerazumem, se pravi,
+
+525
+00:44:39,599 --> 00:44:41,599
+point Graal VM-a je,
+
+526
+00:44:41,599 --> 00:44:43,599
+da lahko ga uporabljajo,
+
+527
+00:44:43,599 --> 00:44:45,599
+kot navaden virtual machine,
+
+528
+00:44:45,599 --> 00:44:47,599
+kot Java, kot zdaj,
+
+529
+00:44:47,599 --> 00:44:49,599
+lahko ga pa uporabljajo zato,
+
+530
+00:44:49,599 --> 00:44:51,599
+da native, binary native izbilda,
+
+531
+00:44:51,599 --> 00:44:53,599
+z različnimi...
+
+532
+00:44:53,599 --> 00:44:55,599
+Tukaj je moj lajčno vprašanje,
+
+533
+00:44:55,599 --> 00:44:57,599
+se pravi, ti, kar ti v javi spišeš,
+
+534
+00:44:57,599 --> 00:44:59,599
+lahko vržeš v Graal VM.
+
+535
+00:44:59,599 --> 00:45:01,599
+Ja, to dela.
+
+536
+00:45:01,599 --> 00:45:03,599
+To funkcionira.
+
+537
+00:45:03,599 --> 00:45:05,599
+Lahko skompiliraš z Java C,
+
+538
+00:45:05,599 --> 00:45:07,599
+dobiš te klase,
+
+539
+00:45:07,599 --> 00:45:09,599
+in potem v naslednjem koraku
+
+540
+00:45:09,599 --> 00:45:11,599
+pokličeš native image od Graal VM-a,
+
+541
+00:45:11,599 --> 00:45:13,599
+in on ti splune ven binary,
+
+542
+00:45:13,599 --> 00:45:15,599
+in ta binary ima noter nek VM,
+
+543
+00:45:15,599 --> 00:45:17,599
+zaprokiran,
+
+544
+00:45:17,599 --> 00:45:21,599
+pa cel ta kolo, ki jo imaš, ne?
+
+545
+00:45:21,599 --> 00:45:23,599
+In to je potem binary.
+
+546
+00:45:23,599 --> 00:45:25,599
+Tako go binary, raz binary.
+
+547
+00:45:25,599 --> 00:45:27,599
+Kako je pa tako,
+
+548
+00:45:27,599 --> 00:45:29,599
+zato, ker je to compilation,
+
+549
+00:45:29,599 --> 00:45:31,599
+ki mora poznat vse potiv naprej,
+
+550
+00:45:31,599 --> 00:45:33,599
+mu moraš dat neke dodatne informacije,
+
+551
+00:45:33,599 --> 00:45:35,599
+da lahko ta native image splune.
+
+552
+00:45:35,599 --> 00:45:37,599
+Pojnt teh imečev je pa,
+
+553
+00:45:37,599 --> 00:45:39,599
+če prav razumem,
+
+554
+00:45:39,599 --> 00:45:41,599
+da ima manjši memory footprint,
+
+555
+00:45:41,599 --> 00:45:43,599
+da so manjši, pa načelamo,
+
+556
+00:45:43,599 --> 00:45:45,599
+da se hitrej dvignejo.
+
+557
+00:45:45,599 --> 00:45:47,599
+Določene stvari ne potpira,
+
+558
+00:45:47,599 --> 00:45:49,599
+naprimer, potem nimaš reflection.
+
+559
+00:45:49,599 --> 00:45:51,599
+Reflection, recimo, nimaš.
+
+560
+00:45:51,599 --> 00:45:53,599
+Ampak si pa potem, verjetno,
+
+561
+00:45:53,599 --> 00:45:55,599
+vmejen, glede, da pač ta compiling se mora zgoditi,
+
+562
+00:45:55,599 --> 00:45:57,599
+verjetno si potem vmejen na arhitekturo.
+
+563
+00:45:57,599 --> 00:45:59,599
+Ja, specifično arhitekturo.
+
+564
+00:45:59,599 --> 00:46:01,599
+Lahko, če bildaš, recimo,
+
+565
+00:46:01,599 --> 00:46:03,599
+za različne arhitekture,
+
+566
+00:46:03,599 --> 00:46:05,599
+imaš doker imeče
+
+567
+00:46:05,599 --> 00:46:07,599
+za bildanje
+
+568
+00:46:07,599 --> 00:46:09,599
+specifične platforme.
+
+569
+00:46:09,599 --> 00:46:11,599
+Mislim, da na Macu,
+
+570
+00:46:11,599 --> 00:46:13,599
+mislim, da ne moraš bildat neke forje za Mac,
+
+571
+00:46:13,599 --> 00:46:15,599
+stare Mac imeče neke forje so.
+
+572
+00:46:15,599 --> 00:46:17,599
+Ja, ne vem, če mi je ratlo.
+
+573
+00:46:17,599 --> 00:46:19,599
+Jaz vem, da mi potem niz bilda in imeč za Linux
+
+574
+00:46:19,599 --> 00:46:21,599
+in potem imeč, oziroma in binary za Linux,
+
+575
+00:46:21,599 --> 00:46:23,599
+potem imeč.
+
+576
+00:46:23,599 --> 00:46:25,599
+Ta binary jaz vtaknem v en
+
+577
+00:46:25,599 --> 00:46:27,599
+moj Linux
+
+578
+00:46:27,599 --> 00:46:29,599
+imeč, potem s tistim
+
+579
+00:46:29,599 --> 00:46:31,599
+laufam. In potem tudi ta
+
+580
+00:46:31,599 --> 00:46:33,599
+native, ki ga dobiš,
+
+581
+00:46:33,599 --> 00:46:35,599
+lahko potem v doker zapakiraš
+
+582
+00:46:35,599 --> 00:46:37,599
+s tem, potem tisti tudi lauf.
+
+583
+00:46:37,599 --> 00:46:39,599
+A ne, čeprav mislim, da mi tudi, mislim, da mi vseeno tudi
+
+584
+00:46:39,599 --> 00:46:41,599
+zbilda native za
+
+585
+00:46:41,599 --> 00:46:43,599
+OSX, ne, in potem ga lahko
+
+586
+00:46:43,599 --> 00:46:45,599
+pač kar direkt zaženem. Tako da
+
+587
+00:46:45,599 --> 00:46:47,599
+lahko poveš, mislim, poveš, zakaj še
+
+588
+00:46:47,599 --> 00:46:49,599
+ne gre ti, potem boš pa ti jevala
+
+589
+00:46:49,599 --> 00:46:51,599
+pravilno, oziroma tako, ja, to
+
+590
+00:46:51,599 --> 00:46:53,599
+mi ni delalo. Jaz sem, pa moj,
+
+591
+00:46:53,599 --> 00:46:55,599
+s bildov za OSX, potem
+
+592
+00:46:55,599 --> 00:46:57,599
+jaz pa hodil tako. Ja, to pa ne gre.
+
+593
+00:46:57,599 --> 00:46:59,599
+To pa ne gre. V Linux in jaz sem pa rekel,
+
+594
+00:46:59,599 --> 00:47:01,599
+ops, to je to.
+
+595
+00:47:01,599 --> 00:47:03,599
+Zrač pa mislim, da ti podpira praktično
+
+596
+00:47:03,599 --> 00:47:05,599
+vse različne
+
+597
+00:47:05,599 --> 00:47:07,599
+arhitekture, ne. Pa ne samo
+
+598
+00:47:07,599 --> 00:47:09,599
+zagovorimo sicer
+
+599
+00:47:09,599 --> 00:47:11,599
+o Java kot jeziku,
+
+600
+00:47:11,599 --> 00:47:13,599
+lahko uporabljaš tudi,
+
+601
+00:47:13,599 --> 00:47:15,599
+mislim, da tudi lahko na Ruby, lahko tudi
+
+602
+00:47:15,599 --> 00:47:17,599
+JavaScript, Python
+
+603
+00:47:17,599 --> 00:47:19,599
+sicer ne vem, ampak dejansko
+
+604
+00:47:19,599 --> 00:47:21,599
+lahko ti.
+
+605
+00:47:21,599 --> 00:47:23,599
+Različne jezike lahko
+
+606
+00:47:23,599 --> 00:47:25,599
+v bistvu pol skompajljaš v native image
+
+607
+00:47:25,599 --> 00:47:27,599
+in tisto ga neč naprej, ne.
+
+608
+00:47:27,599 --> 00:47:29,599
+Če prav razumem,
+
+609
+00:47:29,599 --> 00:47:31,599
+Oracle ova ideja s tem GraalVM-om
+
+610
+00:47:31,599 --> 00:47:33,599
+je tudi, da boš lahko
+
+611
+00:47:33,599 --> 00:47:35,599
+ta GraalVM upravljati vznotre Oracle-ovih
+
+612
+00:47:35,599 --> 00:47:37,599
+bazin, da boš pa lahko tudi SQL-om
+
+613
+00:47:37,599 --> 00:47:39,599
+vznotre iz bazi naprej.
+
+614
+00:47:39,599 --> 00:47:41,599
+Pa če je ful
+
+615
+00:47:41,599 --> 00:47:43,599
+tak zelo
+
+616
+00:47:43,599 --> 00:47:45,599
+interesanten projekt, ki ga
+
+617
+00:47:45,599 --> 00:47:47,599
+Oracle razvija, je pa pač
+
+618
+00:47:47,599 --> 00:47:49,599
+mišljen za to, da Mlocka, to
+
+619
+00:47:49,599 --> 00:47:51,599
+bomo se zdaj pogovarjali naprej, ta Quarkus
+
+620
+00:47:51,599 --> 00:47:53,599
+pa da v bistvu večjavo približa temu
+
+621
+00:47:53,599 --> 00:47:55,599
+klausicam. Jaz bi prej
+
+622
+00:47:55,599 --> 00:47:57,599
+gremo, ne, tukaj imel.
+
+623
+00:47:59,599 --> 00:48:01,599
+Kako ti dojemaš
+
+624
+00:48:01,599 --> 00:48:03,599
+zdaj, kar si dolgo časa
+
+625
+00:48:03,599 --> 00:48:05,599
+pri Red Hatu, ne, to transakcija
+
+626
+00:48:05,599 --> 00:48:07,599
+oziroma transformacija
+
+627
+00:48:07,599 --> 00:48:09,599
+Red Heta, ne.
+
+628
+00:48:09,599 --> 00:48:11,599
+Kje je bil Red Hat
+
+629
+00:48:11,599 --> 00:48:13,599
+takrat, kar si si ti pridružil,
+
+630
+00:48:13,599 --> 00:48:15,599
+ne, kaj ste
+
+631
+00:48:15,599 --> 00:48:17,599
+pač skup počeli, kaj je bilo od momenta,
+
+632
+00:48:17,599 --> 00:48:19,599
+kaj pač sih je pač
+
+633
+00:48:19,599 --> 00:48:21,599
+IBM kupil, koliko se je tle za zadeva spremenila,
+
+634
+00:48:21,599 --> 00:48:23,599
+ne, kar pač
+
+635
+00:48:23,599 --> 00:48:25,599
+imel sem priliko se pogovarjati
+
+636
+00:48:25,599 --> 00:48:27,599
+z nekom z Red Heta,
+
+637
+00:48:27,599 --> 00:48:29,599
+ki je pač rekel, da je Red Hat
+
+638
+00:48:29,599 --> 00:48:31,599
+zaspal, da je Red Hat v bistvu
+
+639
+00:48:31,599 --> 00:48:33,599
+usnovi pač software company,
+
+640
+00:48:33,599 --> 00:48:35,599
+ne, in da je pač zamudil ta
+
+641
+00:48:35,599 --> 00:48:37,599
+cloud vlak, ne, da je pač
+
+642
+00:48:37,599 --> 00:48:39,599
+v bistvu edina zadeva, ki
+
+643
+00:48:39,599 --> 00:48:41,599
+pač jo imajo zapokazati je
+
+644
+00:48:41,599 --> 00:48:43,599
+OpenShift-a, ne, vse ostale
+
+645
+00:48:43,599 --> 00:48:45,599
+zadeve, ki so jih razvil, kot je,
+
+646
+00:48:45,599 --> 00:48:47,599
+ne, in steg pa podobne
+
+647
+00:48:47,599 --> 00:48:49,599
+zadeve, kjer nekaterih pač
+
+648
+00:48:49,599 --> 00:48:51,599
+cloud-i stojijo, ne, tega pa
+
+649
+00:48:51,599 --> 00:48:53,599
+Red Hat nikoli ni dal ven, kot
+
+650
+00:48:53,599 --> 00:48:55,599
+service, ne,
+
+651
+00:48:55,599 --> 00:48:57,599
+a kako ti je zadevo, vidiš?
+
+652
+00:48:57,599 --> 00:48:59,599
+Kura si moj, no, server.
+
+653
+00:48:59,599 --> 00:49:01,599
+Zipa.
+
+654
+00:49:01,599 --> 00:49:03,599
+Moraš malo sandwich narediti.
+
+655
+00:49:05,599 --> 00:49:07,599
+Najprej to odgovor, povem.
+
+656
+00:49:07,599 --> 00:49:09,599
+Ne, ne.
+
+657
+00:49:09,599 --> 00:49:11,599
+Fora je
+
+658
+00:49:11,599 --> 00:49:13,599
+kle, da ti niti ne moram
+
+659
+00:49:13,599 --> 00:49:15,599
+dobro odgovoriti, pa ne, da ne bi
+
+660
+00:49:15,599 --> 00:49:17,599
+hotel, pa da ne bi smel, ali pa karkoli,
+
+661
+00:49:17,599 --> 00:49:19,599
+pa da si ne, ono, izjave so
+
+662
+00:49:19,599 --> 00:49:21,599
+samo moje, ne.
+
+663
+00:49:21,599 --> 00:49:23,599
+Kje smo pri nas, oziroma
+
+664
+00:49:23,599 --> 00:49:25,599
+Red Hat je bil saj tako
+
+665
+00:49:25,599 --> 00:49:27,599
+dos predvsem ločen, mi smo ločeni
+
+666
+00:49:27,599 --> 00:49:29,599
+tako, imaš ta software-ski middleware del,
+
+667
+00:49:29,599 --> 00:49:31,599
+pa
+
+668
+00:49:31,599 --> 00:49:33,599
+Linux del, pa on ta
+
+669
+00:49:33,599 --> 00:49:35,599
+OpenShift, oziroma je cloud del, ne,
+
+670
+00:49:35,599 --> 00:49:37,599
+in mi smo več
+
+671
+00:49:37,599 --> 00:49:39,599
+imeli, kot da je enostank
+
+672
+00:49:39,599 --> 00:49:41,599
+JBoss-a, ne, oziroma
+
+673
+00:49:41,599 --> 00:49:43,599
+tekrat, ker je nekaj tako po JBoss
+
+674
+00:49:43,599 --> 00:49:45,599
+in to se potem kao middleware divizija,
+
+675
+00:49:45,599 --> 00:49:47,599
+jasno,
+
+676
+00:49:47,599 --> 00:49:49,599
+tam na enem nivoju so
+
+677
+00:49:49,599 --> 00:49:51,599
+neki ljudje, ki se to prepletajo, z njimi
+
+678
+00:49:51,599 --> 00:49:53,599
+pa bi ti lahko, verjetno, na to dobro
+
+679
+00:49:53,599 --> 00:49:55,599
+odgovoril.
+
+680
+00:49:55,599 --> 00:49:57,599
+Ni pa res jaz
+
+681
+00:49:57,599 --> 00:49:59,599
+z vnimi z Linux-a
+
+682
+00:49:59,599 --> 00:50:01,599
+prav.
+
+683
+00:50:00,000 --> 00:50:15,000
+Benga stika z temi iz cloud-a jasno še, nekaj zanovo OpenShift-a, nekaj malega ustavlja, pa res, in niti ne spremljam, to je, okej, vem, da se tako kastiri, ko tudi malo to slišiš in malo vidiš,
+
+684
+00:50:15,000 --> 00:50:28,000
+nekaj mojega čista stvar, kot se vlaga, v OpenShift se zelo veliko vlaga in se je res tudi dosti velike ekipe, pa tudi zelo res dobri ljudi smo imeli, ker so ene par jih je šlo,
+
+685
+00:50:28,000 --> 00:50:43,000
+ali tato glavno, kaj, Clayton je šel na Google, ampak dobro se je to, enega tazga čoveja sem, tazga se je dalo zamenjati, in smo imeli, in tam so dobri deli ostali, pa se je, pa smo govorili kupovali, vem, da smo pa eno fermo za,
+
+686
+00:50:43,000 --> 00:51:00,000
+za, kaj, storič, pa drugo fermo za storič, pa treto fermo za storič, pa, vem, res to krabiš, ja, če bi to dobro delali, jih ne bi verjetno kupovali. Tako da, ja, mi smo dost vsem ločeni, in tudi pal kasnej, ker nas je IBM kupoval, je tudi zanimivo,
+
+687
+00:51:00,000 --> 00:51:17,000
+tako ločen, ker je balo vsem sebe, tako dve ločeni kulturi, IBM svojo kulturo, Red Hat svojo. Am sam jaz sem razumel, mislim, dojemo, da je IBM pusto otonomijo Red Hatu, da je še vedno Red Hat takrat je.
+
+688
+00:51:17,000 --> 00:51:37,000
+Ja, tako, je, oziroma, ajre, na določenih področjih se pozna, malo bomo rekel, ne bomo zdaj kje, mislim, da je jasen, dorkoli IBM pozna kje je problem, ampak, tako, ja, kako si rekel, dost, zelo, zelo so pustili, vse, kar se razvoja tiče,
+
+689
+00:51:37,000 --> 00:51:53,000
+vse malo združuje, oziroma, bolj vidim, da grejo stvari, da jih IBM nekaj stvari vkinja, pa grejo na Red Hat, pa ljudje jih prinesuje na Red Hat, gre tudi v drugo smer, ampak, tako, kaj jaz opažam, manj.
+
+690
+00:51:54,000 --> 00:52:00,000
+Zapravo, je posledica IBM, WebSphere in podobne zadeve vkinja?
+
+691
+00:52:00,000 --> 00:52:22,000
+Ma, to ne moreš, po moje, kar vkinta, ne, sem, ja, tega je, to je tako še enega lega, si je odzati in tako, po moje potpore, pa moraš, ampak tudi, tudi že pred nas vidim, recimo, ta E-App je zelo vklješčen, to sanjši par ljudi dela, pa vsake tukaj, recimo, ljudje zdej so dali eno novo verzijo, ven, kot po dolgem času, ne, ampak, ne moreš tudi, in tako kot oni ne morejo ga WebSphere-ati, pa oni imajo jo še v nekem WebSphere Lite, pa nekaj,
+
+692
+00:52:23,000 --> 00:52:43,000
+še take zadeve, še vse, ne, tako, tudi mi ne moremo čist, kar E-Appa se znebiti. Ma, kaj, no, zaspal, kot jaz vidim, niti, ne, zelo zanimive, kako vsake, če res, saj tako, da se malce, malce spet, ne moreš v Kvarkusu filmov pogovoriti, ampak,
+
+693
+00:52:44,000 --> 00:53:03,000
+če ne bi bilo Kvarkusa, bi lahko res rekel, da smo zaspali, ne, ker on Wildfly je bil, pa on je imel še tu dobri projekti, ipak, ne vem, maš tam Druls, ki je zelo na visokem nivoju, ki nisem pomanj imel kakšnega podobnega, pa Hybrid, ki se še zdi, zelo razvija, zelo ima,
+
+694
+00:53:03,000 --> 00:53:22,000
+gre v take fine detalje, pa še kakšni drugi projekti, ne vem, zdaj vse, ne vem, kaj ješ, Finis Pen, pa še kakšen ga lahko bi naštel, ne. Ampak to je bilo to, ne, ampak pokaj pa je šel pa Kvarkus, pa spet cel moment in smo spet bili dejansko, tako, kaj z application serverjem, tako, kaj z raznimi zadevami, game changer, ne,
+
+695
+00:53:22,000 --> 00:53:37,000
+spet, ok, spring boot je nakazal, kjer v smer ne biš zadeva šla, ne, ampak, kaj so pa naši, so vzeli pa še korak naprej, kamo pa pa raje razložo, ne, ne znamo zdaj še kar, da še oto malo.
+
+696
+00:53:37,000 --> 00:53:56,000
+Ne, ne, ne, ne, ne, se to pol vidiš, ampak, tako smo rekli, ampak, Gralve, zakaj je Oracle toliko investirao v njega, pa tudi to Kvarkus, to so pač beti v bistvu teh gigantov v oblaku na nek način, vse te tehnologije, o kateri bom zgodil, če malo več.
+
+697
+00:53:56,000 --> 00:54:16,000
+Ja, ampak je tle zdaj, se pravi, a firma še vedno v razvoju softvera ali je firma v tranziciji, da začne ponujati, mislim, kar razvije kot storitev, ne, tle je zdaj, kaj zdaj pač, vsi veliki so se nekako sfokusirali, da pač je treba biti v servise, ne.
+
+698
+00:54:16,000 --> 00:54:18,000
+Ampak nekdo more softver napisati.
+
+699
+00:54:18,000 --> 00:54:19,000
+Seveda.
+
+700
+00:54:19,000 --> 00:54:22,000
+Pa, če ga ne boš ti napisal, ga bo nekdo drug.
+
+701
+00:54:22,000 --> 00:54:38,000
+Ne, ampak tle sem jaz tako nekaj set story pač razumev z RedHeada, da pač mi smo, ne vem, OpenStack spisali, pa podobne zadeve, a ne, zdaj se pa to v bistvu uporablja drugej, pa nekdo drug služi v bistvu kot servis na tej zadevi.
+
+702
+00:54:38,000 --> 00:54:39,000
+Ja.
+
+703
+00:54:39,000 --> 00:54:46,000
+A ne, mi smo pa samo tisti, ki dodajansko pišemo softver, pa dajemo pač profesionalen servis oziroma pač support, a ne.
+
+704
+00:54:47,000 --> 00:54:49,000
+Ništa excitement v njegovi načini.
+
+705
+00:54:49,000 --> 00:54:55,000
+Kaj se ne, kaj se ne, dobro, kaj se ne malo zbudu, kaj se malo, jaz pozavu skoraj pripeljati, kje smo, ja.
+
+706
+00:54:55,000 --> 00:55:01,000
+To, da se gre v servise, to je to, da ti ne, kot kaj sem rekel, ti ne piše samo softvera.
+
+707
+00:55:01,000 --> 00:55:10,000
+Ampak, se mi, recimo tudi zdaj, bi bil ta prvi servis, ki bi ga mi ponovil znotraj našega klauda, je bil ta Kafka servis.
+
+708
+00:55:10,000 --> 00:55:11,000
+Aha.
+
+709
+00:55:11,000 --> 00:55:16,000
+In to se je pokazal, da je to zelo, zelo težko.
+
+710
+00:55:16,000 --> 00:55:30,000
+Ja, in zato mislim, da ti to odgovori, zakaj tega ni, ne. In ker je res težko, mi smo takrat predstavljali, tako, par, sto ljudi se je predstavljali na tole, ne, da bi to delali.
+
+711
+00:55:30,000 --> 00:55:37,000
+In se je delal, in se je tudi tako, tak zelo optimističen plan se je naredil, ja, bomo, da to je, kaj bomo to naredili, pa bomo to, pa bomo pa to, ne.
+
+712
+00:55:38,000 --> 00:55:43,000
+In se je pokazal, da je to zelo težko. In zaradi tega pa manj je, ne.
+
+713
+00:55:43,000 --> 00:55:45,000
+In tudi pa, ok, se je tukaj se spet…
+
+714
+00:55:45,000 --> 00:55:47,000
+To govoriš o Strimzi-u ali o…
+
+715
+00:55:47,000 --> 00:55:50,000
+Ne, ne, ne, Strimzi je uporabljen znotraj tega, ne.
+
+716
+00:55:50,000 --> 00:55:51,000
+Aha.
+
+717
+00:55:51,000 --> 00:56:01,000
+Brez, hvala, brez, Strimzi je bil napisan, pa pa okrog Strimzi se je spisal pa še poh, enega drugega softwa, da se poh orkestrira, da to se poh lahko ti kot servis v klaudu ponudiš, ne.
+
+718
+00:56:01,000 --> 00:56:11,000
+In se pravi, če pride Andraž, ki mora zdaj postaviti Kafka, pa noč je sam lahko gre do Red Hat-a in vzima IBM-a in dobi managed Kafka ali kaj.
+
+719
+00:56:12,000 --> 00:56:18,000
+Ej tle, tle še, še meje, kaj se pa, mislim, mogoče, veš, IBM je imel nekaj svoj klad, kaj bi bil soft, le, a ne, kaj.
+
+720
+00:56:18,000 --> 00:56:20,000
+Še vedno ma.
+
+721
+00:56:20,000 --> 00:56:22,000
+A pa ma, to še vedno živi.
+
+722
+00:56:22,000 --> 00:56:27,000
+Klad v Srbiji, soko se mi, ne o, ne, ne, ne, ne, ne, ne, ne, ne, ne, ne, ne, ne.
+
+723
+00:56:27,000 --> 00:56:29,000
+Vem, vem, vem, vem, ja, ja, ja, ja, ja.
+
+724
+00:56:29,000 --> 00:56:30,000
+Ne, ne, ne, ne, ne, ne, ne, ne, ne.
+
+725
+00:56:30,000 --> 00:56:32,000
+Ne, mislim, a jaz res nismo zvedeli.
+
+726
+00:56:32,000 --> 00:56:40,000
+Ej tle, ej tle, IBM kaj izkoristil Red Hat, je pač Red Hat pač kaj, kaj izpopolnil pač tist njihov, njihov klad,
+
+727
+00:56:40,000 --> 00:56:45,000
+ker pač se mi zdi, da tudi IBM v, v, v, v klad svetu ni več nek player.
+
+728
+00:56:45,000 --> 00:56:46,000
+Uf.
+
+729
+00:56:46,000 --> 00:56:47,000
+Ja.
+
+730
+00:56:47,000 --> 00:56:48,000
+To je kar močen statement.
+
+731
+00:56:48,000 --> 00:56:49,000
+Ja.
+
+732
+00:56:49,000 --> 00:56:50,000
+Ja.
+
+733
+00:56:50,000 --> 00:56:51,000
+Kako pa so playerji?
+
+734
+00:56:51,000 --> 00:56:52,000
+Ja, mislim.
+
+735
+00:56:52,000 --> 00:56:53,000
+Amazon, Google, Microsoft.
+
+736
+00:56:53,000 --> 00:56:54,000
+Ja.
+
+737
+00:56:54,000 --> 00:56:55,000
+Ja.
+
+738
+00:56:55,000 --> 00:56:56,000
+Ja, zato.
+
+739
+00:56:56,000 --> 00:56:57,000
+Zdaj se vemo, kje, zdaj se vemo.
+
+740
+00:56:57,000 --> 00:56:58,000
+Ali baba je.
+
+741
+00:56:58,000 --> 00:57:01,000
+Zdaj se vemo, kdo ne bo sponzor tega podcasta.
+
+742
+00:57:02,000 --> 00:57:03,000
+Hvala Andraši.
+
+743
+00:57:03,000 --> 00:57:04,000
+Ja, hvala, zdaj se vemo.
+
+744
+00:57:04,000 --> 00:57:07,000
+Jaz sem zdih hotu reči tam šefom, da bodo kaj dati.
+
+745
+00:57:07,000 --> 00:57:08,000
+Šefom, ja.
+
+746
+00:57:08,000 --> 00:57:09,000
+Ja.
+
+747
+00:57:09,000 --> 00:57:10,000
+Stari.
+
+748
+00:57:10,000 --> 00:57:11,000
+Ne.
+
+749
+00:57:11,000 --> 00:57:12,000
+Stikere dobiš.
+
+750
+00:57:12,000 --> 00:57:13,000
+Ja.
+
+751
+00:57:13,000 --> 00:57:16,000
+Okej, glede, IBM bo pa klad, da to moče drugič.
+
+752
+00:57:16,000 --> 00:57:17,000
+Ali to nejo.
+
+753
+00:57:17,000 --> 00:57:20,000
+Ampak ja, za ta messaging, to je pa tako, kaj sem ti rekel.
+
+754
+00:57:20,000 --> 00:57:26,000
+Mislim, messaging je bil eden teh stvari, ki so ukinal ga.
+
+755
+00:57:26,000 --> 00:57:28,000
+Mislim, da se ne razvija več.
+
+756
+00:57:28,000 --> 00:57:34,000
+In so ljudje, ljudi, ki so na tem delal, so jih prenesal v ta Red Hat of Streams projekt.
+
+757
+00:57:34,000 --> 00:57:41,000
+Tako da vem, no, jaz sem bil, jaz sem zamenil in smo dobil ene, tri, šteri njihove, ja.
+
+758
+00:57:41,000 --> 00:57:44,000
+Ene, par vem, kaj smo se že prej menil.
+
+759
+00:57:44,000 --> 00:57:50,000
+Smo se dejansko že začeli tudi pogovarjati o sinergiji in integraciji, da ne bomo podvajali za del.
+
+760
+00:57:50,000 --> 00:57:54,000
+In sem jih pol par videl, da so šli drugam.
+
+761
+00:57:54,000 --> 00:58:00,000
+Par se jih je pa potem preključal tako, da po moje, tam ni nobenega več in tisto je konec tega projekta.
+
+762
+00:58:00,000 --> 00:58:04,000
+Ker se je videl, da je dejansko tako, kaj bil.
+
+763
+00:58:04,000 --> 00:58:05,000
+Vse so bilo podobne.
+
+764
+00:58:05,000 --> 00:58:06,000
+Zdaj, vlada, tako.
+
+765
+00:58:06,000 --> 00:58:10,000
+K sti pogledal Streams-i, pa k si pogledal njihovo zadevo, so bile jasno podobnosti.
+
+766
+00:58:10,000 --> 00:58:12,000
+Mislim, da je možda skoraj drugače.
+
+767
+00:58:12,000 --> 00:58:20,000
+Ampak, a re, Streams-i bil moče malo novejši, malo bolj že ready za, kot pa tisto.
+
+768
+00:58:20,000 --> 00:58:26,000
+Za posešalci, ki poslušajo podcast, Streams-i je orkestrator za Kafka, za Kubernetes.
+
+769
+00:58:26,000 --> 00:58:33,000
+Se pravi inšteliraš preko Helma, če se inšteliraš in potem rečeš, hoče imeti Kafka instanco,
+
+770
+00:58:33,000 --> 00:58:39,000
+in rečeš up in jo bo dvignul nekje na tvojem Kubernetes klasterju.
+
+771
+00:58:39,000 --> 00:58:41,000
+Ampak še vedno rabeš ti imeti svoj Kubernetes klaster.
+
+772
+00:58:41,000 --> 00:58:46,000
+Ja, rabiš Kubernetes klaster, ampak dejansko Kafka menedžiraš v Kubernetes klasterju.
+
+773
+00:58:46,000 --> 00:58:49,000
+Zelo tako elegantno je in zelo na nivoje.
+
+774
+00:58:49,000 --> 00:58:52,000
+Znači, sami ganjate Kafka, kot pa Kubernetes je.
+
+775
+00:58:52,000 --> 00:58:56,000
+Ja, Kubernetes je zelo namatran. Ja, ti ne bodi delal.
+
+776
+00:58:56,000 --> 00:58:59,000
+Ne bodi delal. Ja, zdi, ne sami tega delajo.
+
+777
+00:58:59,000 --> 00:59:00,000
+Ja.
+
+778
+00:59:02,000 --> 00:59:04,000
+Ja, ga lahko zdaj ta kvarko začnemo sprečvati.
+
+779
+00:59:04,000 --> 00:59:05,000
+Ja, dajmo, dajmo.
+
+780
+00:59:05,000 --> 00:59:08,000
+Ljudje so full hyped glede tega kvarko, kar je res, ne.
+
+781
+00:59:09,000 --> 00:59:18,000
+Zdaj tak, zdaj spet sem padel v to neko bubble, ko pač me Ališ povabil na ta Mekit konferenco,
+
+782
+00:59:18,000 --> 00:59:21,000
+pa tudi na te Java konference, ko greš.
+
+783
+00:59:22,000 --> 00:59:24,000
+Quarkus je the way to go, očitno.
+
+784
+00:59:24,000 --> 00:59:30,000
+Za vsaj neke novejše web projekte vidim, da Quarkus dejansko postaja go-to framework.
+
+785
+00:59:30,000 --> 00:59:36,000
+Mogoče sem spet biased, ampak če je Spring oziroma Spring bov dominiral, naj končalno.
+
+786
+00:59:36,000 --> 00:59:39,000
+Kako ti bo za nekdokaj delal na tem, ne govoril, da je to the way to go.
+
+787
+00:59:39,000 --> 00:59:41,000
+Ne, naj končalno.
+
+788
+00:59:41,000 --> 00:59:46,000
+Ampak v tem, če hočeš, če račeš Java bom uporablil, kjer so moderni web frameworkji,
+
+789
+00:59:46,000 --> 00:59:50,000
+da bom res lahko na klaudu, da bom res moderne pristope uporablil.
+
+790
+00:59:50,000 --> 00:59:54,000
+Je kaj, Spring boot, pa Quarkus nekako dominirata.
+
+791
+00:59:54,000 --> 00:59:58,000
+Zdaj, možno, zdaj, še obstaja kaj drugi, močen biased, ampak jaz vidim to zadevo.
+
+792
+00:59:58,000 --> 01:00:02,000
+Če še eden, nekaj, nekaj dobra, klajena zadeva.
+
+793
+01:00:02,000 --> 01:00:09,000
+Ampak, jaz bom naredil ta assumption, zdaj poslušalci mogoče se mi bojo strinjali, pa me bojo popravili.
+
+794
+01:00:09,000 --> 01:00:15,000
+Če je super, dajte mi še druge predloge na vse.
+
+795
+01:00:15,000 --> 01:00:19,000
+Druge predloge na vseh možnih medijih, bom zelo vesel.
+
+796
+01:00:19,000 --> 01:00:25,000
+Ampak zdaj bom malo govoril o Quarkusu, glavno zato, ker ti največ delaš s tem Quarkusom.
+
+797
+01:00:25,000 --> 01:00:29,000
+Jaz sem pogledal pač ta page, nisem ga nikoli uporablil.
+
+798
+01:00:29,000 --> 01:00:39,000
+Pa zdi se, da pač ta Quarkus, pa GraalVM, vhodi ta z Rock'o Rocky, oziroma, da je to nekaj tak kombo, ki ga preporočate.
+
+799
+01:00:39,000 --> 01:00:44,000
+Jaz imam to neki, se znam, tih glavnih feature, za kaj naj bi ta zadeva se uporabljala.
+
+800
+01:00:44,000 --> 01:00:56,000
+Lahko tih preberem, lahko pa mogoče ti poveš, za kaj so tiste tri, četiri feature, za kaj misliš, da je Quarkus web framework za modern svet.
+
+801
+01:00:56,000 --> 01:01:03,000
+Ja, ne znam, tako kot smo prej že omenjali, si imel Spring Boot, pa je lepo naslovo, pa ti je zmanjšal vse zadeve, nekolikar se da.
+
+802
+01:01:03,000 --> 01:01:07,000
+Ampak to je bil še zmer tako ogroman, kaj se si ga zdaj plane.
+
+803
+01:01:08,000 --> 01:01:18,000
+Quarkus, ok, pa je Spring Boot, tudi tako, oziroma tudi vsi prejšnji, kajšni frameworki, ki smo gledali, vsi so imeli ta problem, je mogo malo poskenerati.
+
+804
+01:01:18,000 --> 01:01:25,000
+Oziroma, pa so pa šle notacije, pa je bilo lepo, pa si po notacijah skeneral, nima treba v njih konfiguracijskih farb skenerati.
+
+805
+01:01:25,000 --> 01:01:36,000
+Ampak to je bil še zmer skeneranje. Veče, kaj zadeva, več traja, in vsak tak velik branja, a jo, je zelo počasen.
+
+806
+01:01:37,000 --> 01:01:48,000
+In kot smo eno omenili, da Quarkus ti je zelo, pa enostavno, zelo, ti ne rabiš biti nobenem, gral bi jem strokovnjak, ti samo moraš imeti gral jem,
+
+807
+01:01:48,000 --> 01:01:59,000
+in ti bo on zbiljdov, kolikor najboljši mogo, in to je večini, če resniki strašno obskurenj ga uporabijo, ti bo zbiljdov lepo enostavno native.
+
+808
+01:02:00,000 --> 01:02:02,000
+Ki bo mehen in ga boš lahko diplojal.
+
+809
+01:02:03,000 --> 01:02:10,000
+Polotke je pa, recimo, zdivala je hitrost, s katero smo si pogovarjali, kaj bi lahko človek hitrost dobil, da ne skeneraš nič.
+
+810
+01:02:12,000 --> 01:02:20,000
+Ko ti zaženeš aplikacijo, da ne skeneraš nič, da ti že kar vse veš, kaj se da, in to lahko Quarkus naredi.
+
+811
+01:02:20,000 --> 01:02:31,000
+Kvarkus ti v build time, takrat ti poskenera celo aplikacijo, vid, kaj ti uporabljaš, če ti pomeče stran tisto, kar ti ne rabiš.
+
+812
+01:02:32,000 --> 01:02:40,000
+Če si tam nekaj na reflection uporabljal, boš mogel reči, da je to reflection redje ali nekaj tazga, in ti ga ne bo odstranil.
+
+813
+01:02:41,000 --> 01:02:50,000
+Ampak tudi pol vse ve, kaj boš ti, recimo čisto v primeru weba, ki so tvoji srlti, kakšni so tvoji endpointi, pa jih boš že zraven vključil.
+
+814
+01:02:51,000 --> 01:03:03,000
+V primeru recimo Hiberneta, da imaš ogroman teh entities, da imaš velik tabel, bo on vse pripravil in se bo model zgradil naprej v build time in ga bo nekam shranil.
+
+815
+01:03:04,000 --> 01:03:17,000
+V REST-u, v CDI-ja, v Bean Injection in tako naprej. Vse to bo vedel in še povsem druge stvari in to bo res na modern način naredil.
+
+816
+01:03:18,000 --> 01:03:30,000
+Tudi tako dejansko, je da Kvarkus to samo tako interno uporablja, Kvarkus je omogoč, Kvarkus je tako mečkan krnelček in potem ima tako nekaj extensione.
+
+817
+01:03:31,000 --> 01:03:40,000
+In te extensione so tisti, ki imajo dva dela, imaš build time, pa run time in v build time lahko to informacijo vse ponucaš.
+
+818
+01:03:40,000 --> 01:03:52,000
+In dejansko Kvarkus je tako, kot nam se reče, eat your own dog food. Z tem krnelčkom povsem te extensione možno uporablja in s tem extensioni si v build time zgenerirajo svojo informacijo.
+
+819
+01:03:53,000 --> 01:04:02,000
+In tudi ti lahko zelo na enostaven način dodaš svoj extension, če bi rad še nekaj drugega uporabljali in še eno informacijo od nek drugeg shranil v build time.
+
+820
+01:04:03,000 --> 01:04:11,000
+In potem, ko se aplikacija ozigne, je vsa ona byte koda, vsa ona binarna koda je že kr na mestu in ono samo pokličejo pok, pok, pok.
+
+821
+01:04:12,000 --> 01:04:21,000
+In invokacije so blazne hitre, ker ni skeneranje praktično, ali če bi ti tam še nekaj slabo naredil, ampak ni skeneranje.
+
+822
+01:04:21,000 --> 01:04:35,000
+Ni skeneranje, zato tudi aplikacije, enostavno web aplikacija, REST pa malo mogoče par binov pa moči celo kakšna entiteta, tu se pogovarjamo o manjkrat 100 milisekund, da se ozigne.
+
+823
+01:04:36,000 --> 01:04:45,000
+Ker je nepojmljivo, čeprav pomislimo, kako so se application services igrali, pa en wild fly, ki se ozignu v parih sekundah, pa je bilo že wow.
+
+824
+01:04:46,000 --> 01:04:49,000
+To je pa tako 100 milisekund, to je pa nora.
+
+825
+01:04:49,000 --> 01:05:03,000
+In to je ni samo ena tako hello world aplikacija, tako main pa hello world, to je dejansko aplikacija, ki ozigne kakšen REST endpoint, kakšen bin ti inžekta, pa kakšno entiteto ti zna zapisati v bazo.
+
+826
+01:05:04,000 --> 01:05:13,000
+Za referenco pravijo, da ta webpage, če je več kot 200 milisekund rendering time, potem človek opazi.
+
+827
+01:05:13,000 --> 01:05:24,000
+Se pravi, pod 200 milisekund na webu, pa v browseru človek ne bi pa opazil. 100 milisekund je pa zelo povembno recimo za te serverless modele, ker v bistvu kaj narediš.
+
+828
+01:05:25,000 --> 01:05:28,000
+Ja, pražigaš, vgašaš aplikacije tako kot potrebi.
+
+829
+01:05:29,000 --> 01:05:34,000
+Če se vrnemo še po akvarkost, pa je dobro, da vidiš, da so ekstenšnji.
+
+830
+01:05:35,000 --> 01:05:39,000
+To je tako že malo bolj low level, ampak to tudi opaziš.
+
+831
+01:05:40,000 --> 01:05:48,000
+Ali pa to opaziš tudi, če hočeš svoj ekstenšnj napisati, da ni tolik, ne vem, taka strašna znanost, da se ga da, tudi ne vidiš.
+
+832
+01:05:49,000 --> 01:05:58,000
+In skozi te ekstenšne je prišel vse glavne zadeve, ki jih mi vidimo, je prišel že vsa možna podpora.
+
+833
+01:05:59,000 --> 01:06:05,000
+To je že, plus to pa obstajatevno, en kvarki vrst, kjer pa je komuniti kontribujera ekstenšnje in tudi ekstenšnje.
+
+834
+01:06:06,000 --> 01:06:16,000
+In isto, kot smo se prej pogovarjali, zakaj je java tako dobra, oziroma zakaj je akvarkost tako dobra, zato ker spet, ko pomisliš, za katerokoli skor priliko knjižnico, ti že najdeš podpora notri.
+
+835
+01:06:16,000 --> 01:06:21,000
+Ne vem, na zadnje sem se igral in sem rabil za S3, za ta storič.
+
+836
+01:06:23,000 --> 01:06:29,000
+To je že vse obstajalo, sem tako dodal, sem en dependency, evo, pa sem imel S3 storič.
+
+837
+01:06:30,000 --> 01:06:38,000
+Pojdi tudi zanimivo, princip, kaj ga ima kvarkost, vse so tudi ostali, je že malo, lahko jih ima dev services.
+
+838
+01:06:39,000 --> 01:07:06,000
+Ti imaš, namest, da bi ti rabil, to je že tako pa zelo ponotro integriran, ti spet samo dodaš določen dependency noter in če jo štiv porabljav en service, če sredstvo primer baze, ti bi rabil, ti rabiš bazo in dodaš post, gre z dev service in ti bo kar on lepo kvarkost že odzad uzignil in lepo obladbol za devo.
+
+839
+01:07:06,000 --> 01:07:08,000
+Kaj je to za tako developer kontejner?
+
+840
+01:07:08,000 --> 01:07:14,000
+Ja, lepo kar en kontejner, če ti ga bom uzignil, obladbol, pa pol ugasnil in sprazno.
+
+841
+01:07:15,000 --> 01:07:21,000
+Pa za kafko, pa za baze, pa za ne vem, evo, pa za S3, S9, pa en tako mini I.O. dev service.
+
+842
+01:07:23,000 --> 01:07:30,000
+Praktično, kar sem se izmislil, mi ne bo treba men pisati dev services, tako da sem jaz potem kupil dev services.
+
+843
+01:07:30,000 --> 01:07:35,000
+Tukaj eno umestno, pa se malo na to nanašam, pa na ono prej, ki sem rekel.
+
+844
+01:07:37,000 --> 01:07:43,000
+Super, da dejansko v community obstajajo že neke spisane za dev, oziroma ljudje jih spišajo.
+
+845
+01:07:45,000 --> 01:07:50,000
+Koliko je pa zdaj to verificirano, oziroma koliko pa zdaj veš, da projekt, ki je tam, je kvaliteten?
+
+846
+01:07:50,000 --> 01:07:56,000
+Ti zdaj preveraš, imaš kažen signing, gre čez nek revision, da to del ne česa.
+
+847
+01:07:57,000 --> 01:07:58,000
+Ta S3 library, ki si imel.
+
+848
+01:07:58,000 --> 01:08:05,000
+Ja, recimo. Kaj je zdaj tist nek način, kako java ta problem na slavlo?
+
+849
+01:08:06,000 --> 01:08:07,000
+Kvarkus ekosistema.
+
+850
+01:08:07,000 --> 01:08:16,000
+No, kvarkus ekosistema, se pravi, ti bi rad nekje inkljudoval in ti bi rad inkljudoval nekaj, ki ne boš ti rado zdržoval, pa da veš, da je to zdaj kvaliteten koz kode.
+
+851
+01:08:17,000 --> 01:08:19,000
+Ta flag, da dela za banko.
+
+852
+01:08:20,000 --> 01:08:33,000
+Ja, ne vem, za nekih security mehanizmov, ko greš čez, imaš lahko nek tak dependency, ki imaš lahko en koz kode, ki ima nekje narobe naprogramiran, pa si zaradi tega pač ti efektan.
+
+853
+01:08:34,000 --> 01:08:36,000
+Ja, ok, dobro vprašanje, ja.
+
+854
+01:08:37,000 --> 01:08:51,000
+Kaj je zdaj tako, ki sem rekel, ok, nekje imaš kvarkus, ki ima kvarkus že extensione za, sicer res ne vem, kako se mi odločamo, kaj gre direktno v kvarkus in kaj gre v kvarki vrst.
+
+855
+01:08:51,000 --> 01:08:56,000
+Močno je tako, da je iz kvarki vrst lahko, da je en inkubator in potem ti napreduješ v kvarkus.
+
+856
+01:08:57,000 --> 01:09:07,000
+Da bi se rekel, ok, tisto, kar je v kvarkusu, je dosto ostrogo, gre skozi, fajlo bo, vzimaš ta github, pa povej rekveste, pa revjuje.
+
+857
+01:09:07,000 --> 01:09:16,000
+In ni tako, ka smo ponova tam, na začetku, programirali kot mulci, ki nismo imeli obenega testa, pa smo držali fige, da je kje dela.
+
+858
+01:09:16,000 --> 01:09:29,000
+Kaj prideš na enkrat ta malo profesionalen bolj nivo, tudi, ko sem jaz sprašuval takrat na JBOS, je on, ta, ki je bil moj šef, je kar rekel, da če ni iztesteran, ne dela, ne kaže mi sploh.
+
+859
+01:09:30,000 --> 01:09:36,000
+Tako da je bilo pol stvari, pol napisanih, mojih stvari je bilo testo in še dones je skor tako.
+
+860
+01:09:36,000 --> 01:09:53,000
+Tako da, kar gre v kvarkus, vse more imeti, ima test, čim več različnih testov, unit testov, integration testov, potem gre skozi review, saj enih dveh, treh ljudi, ping pong se ima tam igrat na githubu.
+
+861
+01:09:53,000 --> 01:10:04,000
+Tako da, kar noter pride, je kar resno jasno, še z nerbi se lahko najdem, pa gre skozi teste, kot zato so jasno sijaji, ki skozi ganjajo.
+
+862
+01:10:04,000 --> 01:10:18,000
+Tako da, tudi, kad že ti pod request narediš, če sploh ne grejo testi, čez ob takih količin testov se dosta zgodi, da kakšen malo je kakšen tak flejk, ki pa pade, pa potem se malo dajga od stran, če se je provita, se pa pogleda.
+
+863
+01:10:18,000 --> 01:10:29,000
+Ne znam, če pa, če tvoj pade, veš, da je res tvoj, če kakšen druh pade, boš malo pogledal, ker si lahko ti kaj, malo tam efektov, kakšno zadeva.
+
+864
+01:10:30,000 --> 01:10:44,000
+Pa pa, če on nek pade več, pa tako malo provir skratka, kar gre, ne, ono moče v karki vrsu, verjeten je, malo bilo hlapno, bom rekel, ampak lihtko, jisto zadeva brez testa siguro ne gre noter.
+
+865
+01:10:45,000 --> 01:10:52,000
+Pa jisto reviuje imaš tudi ljudi, ampak jasno, tisti je, kot smo rekli, inkubator, to je pa taka zadeva.
+
+866
+01:10:53,000 --> 01:11:03,000
+In, naprimer, jaz se zdaj čisto ukvarjam, to lahko imenih pa močno ujem, ampak istijo, to je ena taka zadeva, zanimiva se je bila poznata.
+
+867
+01:11:04,000 --> 01:11:06,000
+Kje razložiš to vsaj?
+
+868
+01:11:07,000 --> 01:11:09,000
+To bo boljši Andraž skoraj povedal, ker jaz.
+
+869
+01:11:10,000 --> 01:11:11,000
+Ja, Andraž, kaj je to istijo?
+
+870
+01:11:11,000 --> 01:11:16,000
+Istijo je, v bistvu, ti hočeš narediti full mesh znotraj, znotraj pač teh tvojih kontenerjev, ki so...
+
+871
+01:11:17,000 --> 01:11:18,000
+Ne, ne, ne, čak, čak.
+
+872
+01:11:19,000 --> 01:11:20,000
+Explain to me like I'm five.
+
+873
+01:11:21,000 --> 01:11:22,000
+Ja.
+
+874
+01:11:23,000 --> 01:11:24,000
+Kje deluje istijo?
+
+875
+01:11:25,000 --> 01:11:34,000
+Pač ideja je znotraj Kubernetesa, ne, med posameznimi podi oziroma posameznimi servisi vzpostaviti pač komunikacijo, ki jo boš lahko kontroleral.
+
+876
+01:11:35,000 --> 01:11:40,000
+Kontroleral, da pač poveš, kaj s čim komunicira, kako terminiraš TLS povezave in podobne zadeve.
+
+877
+01:11:41,000 --> 01:11:50,000
+In to ti je v bistvu neke vrste, te endpointi, kjer se v bistvu narediš tudi po policy, katera je aplikacija oziroma servisi, s katerimi lahko komuniciraš.
+
+878
+01:11:51,000 --> 01:11:53,000
+Zato, da to nadziraš in zato, da je to...
+
+879
+01:11:54,000 --> 01:12:06,000
+Ne, to ne, da lahko potem dodaš ti, ker otomatsko, skoraj tako network, low level nivo, load balancing, failover, tracing, metrike in tako naprej, da ne rabiš.
+
+880
+01:12:07,000 --> 01:12:09,000
+Tega ne, ampak to lahko v ta nivo dodaš, ne.
+
+881
+01:12:09,000 --> 01:12:17,000
+In prednost, če daš istijo v ta svoj stack je ta, da potem tega ne rabiš implementirati v aplikacijskih vodih.
+
+882
+01:12:18,000 --> 01:12:19,000
+Tako je, ja.
+
+883
+01:12:20,000 --> 01:12:25,000
+Čisto kot primer, se igram za eno zadevo, oziroma, delam, ne, ni zadeva.
+
+884
+01:12:26,000 --> 01:12:27,000
+Plačaš si.
+
+885
+01:12:28,000 --> 01:12:30,000
+Ja, ja, plačam igranje.
+
+886
+01:12:31,000 --> 01:12:34,000
+In jasno, oziroma, brez isti ja ne moram.
+
+887
+01:12:36,000 --> 01:12:40,000
+In eno zadevo sem tako zelo hitro lahko sprogramiral, tisto, ker sem rabil.
+
+888
+01:12:41,000 --> 01:12:54,000
+In zdaj veliko časa porabim, zato da bom sploh teste napisal, ki mi bojo pomagali, da bom lahko še istijo lepo noter v teste vključil in da bo vsa zadeva se finno stresirala.
+
+889
+01:12:54,000 --> 01:12:57,000
+Zdaj se pravi, da imaš v celi test suite istijo, da boš lahko sploh povedal.
+
+890
+01:12:58,000 --> 01:13:03,000
+Tako se je, da mi ne bo, da moja implementacija s temto nojem kosom ne bo pokvarala ničesar drugega.
+
+891
+01:13:04,000 --> 01:13:08,000
+Tako da moram še v par drugih testov tako dost neinvazivno dodati istijo, ne.
+
+892
+01:13:09,000 --> 01:13:20,000
+In ne, da bom na tisoč mestih popravljal in bom istijo noter vštulo, ampak da bom tako na en lep način, kot en ostikalo, a bo istijo ali brez istijo, a z istijo.
+
+893
+01:13:21,000 --> 01:13:25,000
+In ponoven zagon testa, ne, z istijo in brez istijo, ne.
+
+894
+01:13:30,000 --> 01:13:32,000
+Jaz bi mogoče še malo šel nazaj.
+
+895
+01:13:33,000 --> 01:13:46,000
+V karkusu piše, da združuje imperativni in reaktivni način razvoja oziroma implementacija.
+
+896
+01:13:46,000 --> 01:13:54,000
+A lahko poveš, kaj to pomeni, reaktivn software v karkusu? Kaj to pomeni, da je karkus reaktiv?
+
+897
+01:13:57,000 --> 01:13:59,000
+Ja, to smo že s teboj omenili malo prej.
+
+898
+01:14:00,000 --> 01:14:01,000
+Ampak gledaj na karkus kontekst.
+
+899
+01:14:02,000 --> 01:14:09,000
+Tako, kaj smo rekli, zdaj aplikacije, trading je pač drag v aplikacijah, ne.
+
+900
+01:14:10,000 --> 01:14:21,000
+In zdaj, ki imaš ti, rabiš cilj tvojih stack, oziroma cilja tvoja aplikacija, če hočeš, da ne bo porabljala veliko tredov,
+
+901
+01:14:22,000 --> 01:14:27,000
+mora vsak kos aplikacije biti dejansko reaktiv redje, ne.
+
+902
+01:14:27,000 --> 01:14:35,000
+To pomeni, da že web, web mora biti nekakaj reaktiv, da uporab začetni tred, potem pa predazadejo naprej,
+
+903
+01:14:36,000 --> 01:14:42,000
+pa prijavi en callback, ne, ki bo tisto, kar je naprej poslal, da mu bo en callback nazaj prekuril.
+
+904
+01:14:43,000 --> 01:14:46,000
+Zdaj smo pa fertig, zdaj pa lahko tistopet pošleš nazaj respons, ne.
+
+905
+01:14:47,000 --> 01:14:52,000
+Potem pa tisto, ki je šlo naprej, pa če tisto spet ni zdaj reaktiv, oziroma ok, tisto je lahko končno z njim,
+
+906
+01:14:52,000 --> 01:14:59,000
+ampak če imaš pa še malo, zdaj smo čist primer, kaj bi rekel,
+
+907
+01:15:00,000 --> 01:15:10,000
+Pala rest, ena endpoint, pa pal malo baze odzad, pa še kaj še, pale en message, da pošleš in tako naprej,
+
+908
+01:15:10,000 --> 01:15:19,000
+pa da se pa to zadeva nekaj združja, mori biti, a ne, mori biti od web-endpoint-i mori biti reaktiv tudi baza.
+
+909
+01:15:19,000 --> 01:15:25,000
+Zdaj tudi obstajacilo, jo, so se tudi potrebni, tudi iz tega je prišla potreba po hybrid reaktivu,
+
+910
+01:15:25,000 --> 01:15:32,000
+da ne blokira vnekljice na bazo, pa pal messaging, imamo kafko, imamo še povsem drugih in je tudi, ne.
+
+911
+01:15:32,000 --> 01:15:39,000
+Cila zdaj v kvarku so, glavno vsaka komponenta, ki se leje smiselno da prepisati,
+
+912
+01:15:39,000 --> 01:15:47,000
+da ima nekak ta reaktiv noto, se dejansko tako napiše, ne. Zdaj ima se napišeno oba načina, ne.
+
+913
+01:15:48,000 --> 01:15:57,000
+Čisto dobro, kaj je tudi dobro povedati, kaj je fora, ne. Prnavadno, kako se tega, imperativno, nekaj še.
+
+914
+01:15:57,000 --> 01:15:58,000
+Imperativno, ja.
+
+915
+01:15:58,000 --> 01:16:04,000
+Ja, imperativno načinu je dobro, ker ti vidiš, kaj smo zadeva, pride noter, ki prije tvoji request in se ona,
+
+916
+01:16:04,000 --> 01:16:11,000
+ni to zelo moj, tvoj thread teče ljubo do konca, če imaš kjer, ko napako, pof, ti vrže stack trace in po stack trace
+
+917
+01:16:11,000 --> 01:16:20,000
+lahko ti lepo fino izslediš, kaj se dogaja, ne. Pri reaktivu je pa to kar boleče lahko, ne.
+
+918
+01:16:20,000 --> 01:16:30,000
+Ker si podaja štivno v kontekst egzekvcije v različne pule in če tam nek vnpade, bo te v resnici nek padel v nasreta, ne.
+
+919
+01:16:30,000 --> 01:16:37,000
+In ti spomni, vsaj na vnem kontekstu, v trenutnem, ki si, recimo, da si nekje na bazi, se je zgodil, ti je tam vnpadel,
+
+920
+01:16:37,000 --> 01:16:46,000
+ti niti ne boš vedel, kje si noter prišel, kaj si noter dobil in tako naprej, ne.
+
+921
+01:16:46,000 --> 01:16:53,000
+In tudi za debagerat, ne. Če bi ti spustil pa debager, pa bi prišel kroz kode, ne, pa bi debageral,
+
+922
+01:16:53,000 --> 01:17:00,000
+pa če se je bo odtekal, ne, v kontekst se bo iztekl in ne boš ti več skaklal nazaj, po kontekstu boš prišel,
+
+923
+01:17:00,000 --> 01:17:09,000
+o, kaj sem pa v tem rest end pointu, a, to so bili parametri, ki so mi naredili, ne vem, 0 point reception ali pa karkoli, ne, eno napako, ne.
+
+924
+01:17:09,000 --> 01:17:13,000
+Tako da, prednostni pa slabosti, ne.
+
+925
+01:17:13,000 --> 01:17:25,000
+Ampak cel point tega reaktiva je, da čim manj stvari si v bistvu delaš na zalogov naprej in da stvari se zgodijo takrat, ko jih rabiš,
+
+926
+01:17:25,000 --> 01:17:30,000
+pa da takrat imaš dovolj informacij in dovolj konteksta, da lahko neko operacijo izvedeš, eto.
+
+927
+01:17:30,000 --> 01:17:31,000
+Tako nekako, ja.
+
+928
+01:17:31,000 --> 01:17:41,000
+In začne se, zadeva se začne na tam, kjer juzer je, juzer je v interakciji in glede, ko lahko, niže, ko lahko greš po steklu s tem modelom,
+
+929
+01:17:41,000 --> 01:17:43,000
+boljše in hitrejše in bolj responsiv se zadeva.
+
+930
+01:17:43,000 --> 01:17:44,000
+Ja.
+
+931
+01:17:44,000 --> 01:17:46,000
+Je pa, je pa, so pa komplikacije.
+
+932
+01:17:46,000 --> 01:17:47,000
+Ja.
+
+933
+01:17:47,000 --> 01:17:48,000
+Seveda, glede, čisto.
+
+934
+01:17:48,000 --> 01:17:50,000
+Zdaj je tukaj tako nek trade-off, ja.
+
+935
+01:17:50,000 --> 01:17:51,000
+Ja, apsolutno, ja.
+
+936
+01:17:51,000 --> 01:17:59,000
+Ob velikem loadu, ne, če imaš ti velik, ene vbremenitve, da imaš veliko rekvestov ali pa to, ali pa veliko mesečev za obdelati,
+
+937
+01:17:59,000 --> 01:18:06,000
+naprimer, da bi skozi kafko noter dobil, pa potem si podajal do linke ali pa veliko rekvestov iz weba, ne,
+
+938
+01:18:08,000 --> 01:18:14,000
+drugačne boš mogel, kad tako, ne, zdaj, ok, lahko si zdaj noči šli zapraviti premoženje za število instanca, ne.
+
+939
+01:18:15,000 --> 01:18:23,000
+To bi lahko, pa z mehnim naborom, ne, kaj se, en, pogovarjamo se moče o par sto tredjih ali kaj tazga, pa boš lahko vse obdelal, ne.
+
+940
+01:18:23,000 --> 01:18:31,000
+Velike, velike količine. Zato, ker si boš podal informacijo, tudi boš pametno sprogramiral mečke neklici, bi mogel zdaj delati, ne.
+
+941
+01:18:31,000 --> 01:18:40,000
+Če bi hodil to s tem imperativnim modelom, pa ne bi višlo, ne. Zdaj pa jasno tam boš pa videl, če ti upakej se napaka zgodila, pa pa ne.
+
+942
+01:18:40,000 --> 01:18:55,000
+In zato, maš, tudi so se, valjda, razne te zadeve pa vključile projektivu, praktično brez enega tracinga, brez enih metrik, brez malo napihnega konteksta, ne moraš.
+
+943
+01:18:55,000 --> 01:19:09,000
+Ne moraš, ne. Saj pa tudi se pojavlja, vidim, kaj se mi pogovarjam, se pojavlja problem, ker valjda dobimo, valjda zmanjšamo porabo na tredjih, ampak pa malo nabloutamo un kontekst, ne.
+
+944
+01:19:09,000 --> 01:19:18,000
+Zato, ker se vsakič se malo več zravenese, ne. In kako zdaj to čim bolj pametno narediti? Ja, to je pa, uno, one million dollar question.
+
+945
+01:19:18,000 --> 01:19:27,000
+Da pa, da ti ta kontekst, pa ne, ona količinok tega konteksta ne pokvarta isto, kar si hotel s tem prodobiti, ne.
+
+946
+01:19:27,000 --> 01:19:37,000
+V tem istem kontekstu tukaj, tam piše, da korkus je zelo dober za event-driven arhitekture. A lahko to kaj komentiraš? Kaj misliš s tem?
+
+947
+01:19:38,000 --> 01:19:52,000
+Se, to je skoraj kot reaktiv. Reaktiv je pač način, event je pa vsak request, vsak message lahko prepišeš na event in potem si ga podajaš skozi ta reaktiv implementacija, ne.
+
+948
+01:19:52,000 --> 01:20:03,000
+Da si neodvisen na to, da je večmo vse asinkronovalo, pa ti lahko splitaš, pa greš na dva, pa se ti pol zjojnaš nek, pa razne take zadeve, ne.
+
+949
+01:20:03,000 --> 01:20:17,000
+Zdaj, korkus kot ogrod je en ful dober tak stvar, ki smo jih upazili na noter pa zelo iz stopa, je ena zadeva, ki se reče funky, upam, da sem to prav prebral.
+
+950
+01:20:17,000 --> 01:20:30,000
+In v bistvu je supora za FAS model, se pravi function as a system, function as a infrastructure, kjer imaš v bistvu ta lambda arhitektura,
+
+951
+01:20:30,000 --> 01:20:38,000
+kjer v bistvu celo, tvoje app je v bistvu samo ena funkcija, jaz bil, da š deplojaš in potem jo daš v nek managed service ali whatever.
+
+952
+01:20:38,000 --> 01:20:42,000
+A to je, ker slišal sem za funky in nisem prišel.
+
+953
+01:20:42,000 --> 01:20:49,000
+A ne, to je kaj, to imaš po moje, to je osnova za ta naš k-native, serverless.
+
+954
+01:20:49,000 --> 01:21:01,000
+Da se pravi serverless z funkcijami, če to razumem. To sem tudi videl, da danesko imaš neke anotacije, ki ti omogočajo, da samo eno funkcijo recimo iz tega svojega microservice-a eksplozaš in potem.
+
+955
+01:21:01,000 --> 01:21:04,000
+To je danesko grejeno v sam korkus.
+
+956
+01:21:04,000 --> 01:21:10,000
+To je pa moja osnova za naš k-native. Ti imaš zdaj, to je danesko ta specifikacija in tako naprej.
+
+957
+01:21:11,000 --> 01:21:21,000
+Nisem tako, zelo me je zbel, moram tam, ker delam, moram paziti, da v k-native deskriptorjev ne pokvarjam, ki se zgenerirajo.
+
+958
+01:21:21,000 --> 01:21:25,000
+Slišal sem za funky in nisem ga pamtel.
+
+959
+01:21:25,000 --> 01:21:27,000
+Ne, veš, korkus je tako velik.
+
+960
+01:21:27,000 --> 01:21:36,000
+Vsem, tam imamo znotraj korkusa, smo mi pa malo razdeleni na približno kaj delamo, ne le na vsak nas svoji vrtiček,
+
+961
+01:21:36,000 --> 01:21:42,000
+ampak kaj lahko funkcijsko in pametno združijo te naše vrtičke.
+
+962
+01:21:42,000 --> 01:21:48,000
+Jaz sem danesko ta reaktiv del, ki se ukvarjam z GRPC in pa s kafko.
+
+963
+01:21:48,000 --> 01:21:54,000
+Funky pa, koliko si ga opisali, pa pa moja ta naš k-native dela.
+
+964
+01:21:54,000 --> 01:22:02,000
+Ker jasno, da tako, ker mislim, da tudi k-native, vem, da tu ena nič in tko dva nič, da gre pa ena specifikacija,
+
+965
+01:22:02,000 --> 01:22:07,000
+da ti lahko moja ponotiraš in da pa je tvoja aplikacija portabilna med različnimi...
+
+966
+01:22:07,000 --> 01:22:11,000
+Kvestičen sem, državu, še ti povedal, kaj je k-native?
+
+967
+01:22:11,000 --> 01:22:14,000
+Jaz bom povedal, kaj je k-native, to boste pa bolj videli.
+
+968
+01:22:14,000 --> 01:22:16,000
+To ker ti povedal.
+
+969
+01:22:16,000 --> 01:22:18,000
+Ja, ti znaj, ti večeš.
+
+970
+01:22:18,000 --> 01:22:25,000
+Jaz sem si tako, enkrat desen segdaj v mestu šlo, pa nema, vem, kaj je k-native ali ne vem, kaj je k-native.
+
+971
+01:22:25,000 --> 01:22:30,000
+K-native najbolj bi bila neka abstrakcija, ki ti pomaga,
+
+972
+01:22:30,000 --> 01:22:32,000
+če imaš recimo Kubernetes,
+
+973
+01:22:32,000 --> 01:22:41,000
+deplojati tvojo app in ga pač ganjati v Kubernetes okoljo in recimo,
+
+974
+01:22:41,000 --> 01:22:46,000
+ko ti imaš večji app ali pomaljši app in hočeš reči, ok, zdaj imam to verzijo,
+
+975
+01:22:46,000 --> 01:22:54,000
+zdaj bi pa radil novo verzijo istega appa, novejšo verzijo in bi zdaj rad, samo en delček trafika, novo verzijo smjera.
+
+976
+01:22:54,000 --> 01:22:57,000
+To je pač nekaj, ki je v osnovi z istim rešuješ.
+
+977
+01:22:57,000 --> 01:23:03,000
+Ja, v bistvu je tudi v tem sorodnem spesu, mogoče sta celo svi kompetitore v tem,
+
+978
+01:23:03,000 --> 01:23:09,000
+ampak v bistvu je nek ta abstrakcija, ki ti pomaga deplojati pa menedžirati verzije pa to.
+
+979
+01:23:09,000 --> 01:23:15,000
+In je nekaj, kar v bistvu, če tega ni, potem boš mogel nekaj feature flagje dodati, implementirati,
+
+980
+01:23:15,000 --> 01:23:24,000
+mogel boš te routing implementirati v različne načine, v reziniranjama in ti v bistvu pač ta layer da noterne.
+
+981
+01:23:24,000 --> 01:23:31,000
+In če recimo porabljaš Google Cloud platformo, imaš Google Cloud Run, ki je v bistvu fully managed Kubernetes
+
+982
+01:23:31,000 --> 01:23:36,000
+in oni ti v bistvu Knative dajo še nad tem in to je v bistvu njihov Google Cloud Run offering.
+
+983
+01:23:36,000 --> 01:23:42,000
+In ti v bistvu samo prepranesiš tega, pa zvildaš app, zvildaš kontejner, rečeš dej mi ga gor
+
+984
+01:23:42,000 --> 01:23:46,000
+in ta Knative in te lajere bi potem naj za vse ostalo poskrbeljeno.
+
+985
+01:23:48,000 --> 01:23:52,000
+Ja, mogoče je še istijo, verjetno v tem prostoru tudi.
+
+986
+01:23:52,000 --> 01:23:58,000
+Mislim, delno tega pač tudi verjetno rašuješ lahko na drugače noče.
+
+987
+01:23:58,000 --> 01:24:03,000
+Je pa tudi res, da Kubernetes pa celo ta space še vedno zblazno hitro spominjate,
+
+988
+01:24:03,000 --> 01:24:08,000
+da mogoče v tem času, ko bomo tudi tole debato počali, boš nekaj drugega.
+
+989
+01:24:08,000 --> 01:24:13,000
+Bolj me skrbuje, koliko se bo ta ekosistem še zakompliciral.
+
+990
+01:24:13,000 --> 01:24:16,000
+Ampak se mislim, da se je konsolidiralo.
+
+991
+01:24:16,000 --> 01:24:20,000
+Možda ti občudujem, da Kubernetes je ostala bolj stable.
+
+992
+01:24:20,000 --> 01:24:22,000
+Vse ne gre za to, da so stable.
+
+993
+01:24:22,000 --> 01:24:26,000
+Bolj mi je problem, da pač ustavno je too complex.
+
+994
+01:24:28,000 --> 01:24:34,000
+A veš, če so bili neki projekti, ki so bili pač izlepljeni izlepilom pa z bashom,
+
+995
+01:24:34,000 --> 01:24:40,000
+zdaj postaje pač, a veš, mogoče bo Knative zmagal, mogoče bo naj istijo dominiral.
+
+996
+01:24:40,000 --> 01:24:44,000
+Čeprav ti sem imel kolo občutka, da je bil Kubernetes tako nestabilen.
+
+997
+01:24:44,000 --> 01:24:45,000
+Ne, seveda seveda.
+
+998
+01:24:45,000 --> 01:24:46,000
+Nestabilen ne, ampak...
+
+999
+01:24:46,000 --> 01:24:49,000
+Tuli in gokoli, pa zagotovo.
+
+1000
+01:24:49,000 --> 01:24:51,000
+Mislim, to je tisto...
+
+1001
+01:24:51,000 --> 01:24:52,000
+Highly complex.
+
+1002
+01:24:52,000 --> 01:24:57,000
+V bistvu, to je tisto, vedeti moraš, kjer projekt boš pač na Kubernetesu fural.
+
+1003
+01:24:57,000 --> 01:25:01,000
+Začetki so bili simple, potem so pa dodajali feature, feature, feature.
+
+1004
+01:25:01,000 --> 01:25:04,000
+Zdaj imaš že tako, da, ne vem, pa imaš še Lukša, ki piše knjigo.
+
+1005
+01:25:04,000 --> 01:25:06,000
+Ne ve, kaj mora vse, ne.
+
+1006
+01:25:07,000 --> 01:25:08,000
+Mislim, da je...
+
+1007
+01:25:09,000 --> 01:25:11,000
+Z Lukšo sem se pogovarjal o Kubernetesu.
+
+1008
+01:25:11,000 --> 01:25:13,000
+Upam, mogoče, da ga tudi povabim.
+
+1009
+01:25:13,000 --> 01:25:16,000
+Upam, da posluša to. Če nas posluša, lepo zdrav.
+
+1010
+01:25:17,000 --> 01:25:20,000
+Lukša je napisal knjigo o Kubernetesu in action, če sem prav rekel, ne.
+
+1011
+01:25:21,000 --> 01:25:25,000
+In zdaj karekiram, mislim, da je rekel, da prva knjiga bo na, ne vem, 300 strani ali kaj.
+
+1012
+01:25:25,000 --> 01:25:29,000
+Zdaj ta nova edicija, ki piše, bo bila na, ne vem, 900 skoraj.
+
+1013
+01:25:29,000 --> 01:25:30,000
+Ja, ja, ja.
+
+1014
+01:25:30,000 --> 01:25:31,000
+Pač to, ki je tega contenta.
+
+1015
+01:25:31,000 --> 01:25:32,000
+To, ki je tega, ja, ja.
+
+1016
+01:25:32,000 --> 01:25:35,000
+Ampak, pazi, to je sam content v Kubernetesu.
+
+1017
+01:25:35,000 --> 01:25:36,000
+Ja, ja, si...
+
+1018
+01:25:36,000 --> 01:25:39,000
+Se pravi, vprašanje je zdaj, a je tu zdravim še Kennedy, pa...
+
+1019
+01:25:39,000 --> 01:25:43,000
+Ne, ne, ne, ampak se pravi, okolje, okolje postane...
+
+1020
+01:25:43,000 --> 01:25:48,000
+Okolje je tako zakomplicirano, da mislim, ti moraš dober vedeti,
+
+1021
+01:25:48,000 --> 01:25:53,000
+zakaj to okolje rabeš oziroma kakšen problem rašuješ in pač ni zdaj to,
+
+1022
+01:25:53,000 --> 01:26:00,000
+da pač tako že Kubernetes je pač tist rešitev za tvoj problem, ne.
+
+1023
+01:26:01,000 --> 01:26:07,000
+In dodatno lahko pač nakvačkaš Marsike, tako da Marsik dose potem v noge
+
+1024
+01:26:07,000 --> 01:26:09,000
+ustreljati prej, če je to, bomo mi sami doma furali.
+
+1025
+01:26:09,000 --> 01:26:11,000
+Oziroma pač firmi furali, ne.
+
+1026
+01:26:11,000 --> 01:26:13,000
+To je velik pajm.
+
+1027
+01:26:13,000 --> 01:26:17,000
+To je res, ampak jaz tudi pažem, da recimo tako je istijo, ne.
+
+1028
+01:26:17,000 --> 01:26:22,000
+Veliko stvari, ki tih istijo out-of-the-box dela, če ne veš, da istijo obstaja,
+
+1029
+01:26:22,000 --> 01:26:26,000
+če ne veš, da te stvari dela, boš poravil full development časa,
+
+1030
+01:26:26,000 --> 01:26:28,000
+da boš to v svojem app playerju napisal, ne.
+
+1031
+01:26:28,000 --> 01:26:29,000
+Ja.
+
+1032
+01:26:29,000 --> 01:26:32,000
+Ali pa tako, ko smo se prepremljali, ta function-as-a-service najpač.
+
+1033
+01:26:32,000 --> 01:26:34,000
+Moraš samo ta del rabiš, pa ne rabiš vsega...
+
+1034
+01:26:34,000 --> 01:26:35,000
+Ja.
+
+1035
+01:26:36,000 --> 01:26:42,000
+Teda to je pa del tega, ne, kako zelo dobro arhitekturo zdeseniraš, ne.
+
+1036
+01:26:42,000 --> 01:26:45,000
+In to je pač tisto, ki jo moraš pač v startu vedeti, ne.
+
+1037
+01:26:45,000 --> 01:26:48,000
+Kako narediš zelo dobro arhitekturo v tem svetu?
+
+1038
+01:26:48,000 --> 01:26:51,000
+Mene pa lever to vprašaš, kaj to je.
+
+1039
+01:26:53,000 --> 01:26:55,000
+Ne, da se samo še tole...
+
+1040
+01:26:55,000 --> 01:26:59,000
+Jaz se spomnim istijo, pa to je bilo po mojem šteri leta nazaj sigurno,
+
+1041
+01:26:59,000 --> 01:27:02,000
+ki je bil že istijo, če ni bilo skoraj pet let.
+
+1042
+01:27:02,000 --> 01:27:05,000
+Ne, šteri let sigurno, evo, štir, krat, dva, osem, neset, ne.
+
+1043
+01:27:05,000 --> 01:27:07,000
+Pet let, pet let nazaj.
+
+1044
+01:27:07,000 --> 01:27:11,000
+Jaz se spomnim, ki smo takrat obstajali v Netflixov stek,
+
+1045
+01:27:11,000 --> 01:27:13,000
+kaj bi bil takrat te polonici.
+
+1046
+01:27:13,000 --> 01:27:18,000
+Tako na vseh možnih jezikih so ga spisali, pa so vse te glavne zadeve,
+
+1047
+01:27:18,000 --> 01:27:22,000
+tako load balancing, pa failover, pa tracing so nekako vključili,
+
+1048
+01:27:22,000 --> 01:27:25,000
+pa razne te zadeve, ki jih pa listjo podpira.
+
+1049
+01:27:25,000 --> 01:27:29,000
+Pa gleda, to je bilo tako, zadeve so se spremljale pa nadeljevale
+
+1050
+01:27:30,000 --> 01:27:33,000
+in oni bi mogli za vse jezike skos prepisati zadeve.
+
+1051
+01:27:33,000 --> 01:27:38,000
+Jegar ni bil več čist v redu, pa si bil open tracing,
+
+1052
+01:27:38,000 --> 01:27:41,000
+pa open tracing ni bil več v redu, pa je open telemetri, pa ne vem kaj,
+
+1053
+01:27:41,000 --> 01:27:43,000
+še vse se je spremljalo.
+
+1054
+01:27:43,000 --> 01:27:46,000
+In ali pa te load balancing ni v ta prav.
+
+1055
+01:27:46,000 --> 01:27:49,000
+In jasno se je bilo, da oni spoh ne morejo več dohajati,
+
+1056
+01:27:49,000 --> 01:27:51,000
+da tudi ljudje ne bojo zdaj pisali.
+
+1057
+01:27:51,000 --> 01:27:54,000
+Pa tudi, okej, aplikacija notra se lepo dal ujavi,
+
+1058
+01:27:54,000 --> 01:27:58,000
+če ne druga imaš zmer, se lahko zatečeš v bytecode manipulationu,
+
+1059
+01:27:59,000 --> 01:28:02,000
+pa vhekaš v ne byte in pa gre notra.
+
+1060
+01:28:02,000 --> 01:28:05,000
+Kajšne stvari so bile lepo napisane, pa si lahko zmer,
+
+1061
+01:28:05,000 --> 01:28:08,000
+kajšni interceptor je, interceptor pa filtre na web,
+
+1062
+01:28:08,000 --> 01:28:11,000
+interceptor je na Bine, interceptor je na Kafka,
+
+1063
+01:28:11,000 --> 01:28:15,000
+pa tako, dosti stvari je šlo lepo notri, kjer ni šlo lepo notri,
+
+1064
+01:28:15,000 --> 01:28:19,000
+je bil pa byte agent, pa je ti je notri.
+
+1065
+01:28:21,000 --> 01:28:23,000
+In si pojavljali isti in pa so vsi se rekli,
+
+1066
+01:28:23,000 --> 01:28:26,000
+o, to je to, to bo zdaj rešitev, vsega ne rabimo več,
+
+1067
+01:28:26,000 --> 01:28:30,000
+pozabimo te knjižnice, ker deli, vse bomo na istijo dala.
+
+1068
+01:28:30,000 --> 01:28:35,000
+In zdaj smo šte leta kasnej in jaz ga praktično nikjer ne vidim.
+
+1069
+01:28:35,000 --> 01:28:38,000
+Noben, da bi mojli njih nekaj tako območiti,
+
+1070
+01:28:38,000 --> 01:28:43,000
+če boš kaj, ne, da bi jaz ne delam prav dost,
+
+1071
+01:28:43,000 --> 01:28:46,000
+ti, ki se malo sam igram, pa ki se malo z njimi pogovarjam,
+
+1072
+01:28:46,000 --> 01:28:50,000
+ampak noben, da bi njih reku, e, lež, ko je pa tale istijo,
+
+1073
+01:28:50,000 --> 01:28:52,000
+ko je pa ono.
+
+1074
+01:28:52,000 --> 01:28:56,000
+Vse te zadeve ti prenese spet nek trade-off,
+
+1075
+01:28:56,000 --> 01:28:59,000
+za katerega se pač može odločiti.
+
+1076
+01:28:59,000 --> 01:29:03,000
+In pa je pač tist, ali želiš to dodatno kompleksnost,
+
+1077
+01:29:03,000 --> 01:29:05,000
+se pravi, ali boš to dodatno kompleksnost,
+
+1078
+01:29:05,000 --> 01:29:08,000
+ja, ti pač reši ta svoj problem,
+
+1079
+01:29:08,000 --> 01:29:10,000
+ali si boš pač dodatno pač ustreli v nogo.
+
+1080
+01:29:12,000 --> 01:29:15,000
+In blazno lahko je kompleksnost dodajati,
+
+1081
+01:29:15,000 --> 01:29:17,000
+je pa ful izjejo kompleksnost.
+
+1082
+01:29:18,000 --> 01:29:20,000
+Ja, ja, ja.
+
+1083
+01:29:22,000 --> 01:29:24,000
+Mogoče bi v tem kontekstu,
+
+1084
+01:29:24,000 --> 01:29:26,000
+ki zdaj smo malo v kvarkusu,
+
+1085
+01:29:28,000 --> 01:29:31,000
+pa bom vsem, lahko tudi v sklopu kvarkusa razložeš,
+
+1086
+01:29:31,000 --> 01:29:34,000
+lahko v sklopu JBOS-a, lahko pač,
+
+1087
+01:29:34,000 --> 01:29:37,000
+vsi ti projekti, na katerih si delal,
+
+1088
+01:29:37,000 --> 01:29:40,000
+so huge projekti.
+
+1089
+01:29:40,000 --> 01:29:42,000
+To so res veliki projekti.
+
+1090
+01:29:42,000 --> 01:29:44,000
+Pač JBOS je huge.
+
+1091
+01:29:45,000 --> 01:29:47,000
+Pa ne sem, da so huge projekti,
+
+1092
+01:29:47,000 --> 01:29:50,000
+to so tudi dejansko projekte, ki so masovno uporabi.
+
+1093
+01:29:50,000 --> 01:29:52,000
+Masovno uporabi, pa res huge so.
+
+1094
+01:29:52,000 --> 01:29:54,000
+Dej mi, mogoče,
+
+1095
+01:29:54,000 --> 01:29:56,000
+dej mi nekak,
+
+1096
+01:29:56,000 --> 01:29:59,000
+a lahko daš nekako uporabo na svet,
+
+1097
+01:29:59,000 --> 01:30:01,000
+ljudem, ki tam zunaj,
+
+1098
+01:30:01,000 --> 01:30:04,000
+mogoče so vrženi v neke večje projekte,
+
+1099
+01:30:04,000 --> 01:30:06,000
+ali pa,
+
+1100
+01:30:06,000 --> 01:30:09,000
+ki bi mogoče radi začeli kontribuirati na večje projekte,
+
+1101
+01:30:09,000 --> 01:30:12,000
+ali pa imajo izjiv,
+
+1102
+01:30:12,000 --> 01:30:15,000
+da bojo šli v neke večje projekte.
+
+1103
+01:30:15,000 --> 01:30:18,000
+Kaj navigiraš take huge codebase-e,
+
+1104
+01:30:18,000 --> 01:30:21,000
+kaj se jih lotiš in kaj v bistvu zgradiš
+
+1105
+01:30:21,000 --> 01:30:24,000
+ta mentalni model o tem, kje so stvari,
+
+1106
+01:30:24,000 --> 01:30:26,000
+kaj stvari delujejo,
+
+1107
+01:30:26,000 --> 01:30:30,000
+ali dejansko preberješ vseh deset tisoč failov,
+
+1108
+01:30:30,000 --> 01:30:33,000
+da razumeš, kaj si zgradiš ta sliko v teh projektih,
+
+1109
+01:30:33,000 --> 01:30:36,000
+da jih lahko vladaš, lahko zgradiš na njih.
+
+1110
+01:30:36,000 --> 01:30:38,000
+Dej mi to malko.
+
+1111
+01:30:39,000 --> 01:30:42,000
+Ja, ne, če si od začetka zraven, je to lažje.
+
+1112
+01:30:42,000 --> 01:30:45,000
+To pa ti pač rase z projektom,
+
+1113
+01:30:45,000 --> 01:30:48,000
+si projekt tudi ne zraseli čez noč na milijon vrstica.
+
+1114
+01:30:48,000 --> 01:30:51,000
+To je vse enkrat nekje časa.
+
+1115
+01:30:51,000 --> 01:30:54,000
+Naprimer, ko je to tako veliko,
+
+1116
+01:30:54,000 --> 01:30:57,000
+da moram mojo inteličaj idejo naši
+
+1117
+01:30:57,000 --> 01:31:00,000
+pičiš do konca z memorijo,
+
+1118
+01:31:00,000 --> 01:31:03,000
+da vse je prebližno normalno dela,
+
+1119
+01:31:03,000 --> 01:31:06,000
+pa eno orang laptop in to je to.
+
+1120
+01:31:07,000 --> 01:31:10,000
+Je to lažje, se da. Spremljaš počas, pa počas,
+
+1121
+01:31:10,000 --> 01:31:13,000
+pa če enkrat se tudi malo zgubiš, ker ne moraš.
+
+1122
+01:31:13,000 --> 01:31:16,000
+Ti imaš svoj del, on ima svoj, tako kot vidiš.
+
+1123
+01:31:16,000 --> 01:31:19,000
+Jaz nisem bil za funk, zelo slišal sem,
+
+1124
+01:31:19,000 --> 01:31:22,000
+nisem pa nikoli, ker nimam časa, da bi to pogledal.
+
+1125
+01:31:22,000 --> 01:31:25,000
+Če prideš kasnej zraven, jasno je,
+
+1126
+01:31:25,000 --> 01:31:28,000
+teži si moraš dejansko najti način,
+
+1127
+01:31:28,000 --> 01:31:31,000
+da pogledaš saj od začetka,
+
+1128
+01:31:31,000 --> 01:31:34,000
+saj osnoven, oziroma saj tisto,
+
+1129
+01:31:34,000 --> 01:31:37,000
+če je mrtv, ne bi pa delal.
+
+1130
+01:31:37,000 --> 01:31:40,000
+Saj pri nas je tako, mi tako ljudi za Kvarkus
+
+1131
+01:31:40,000 --> 01:31:43,000
+se tako zbera, da ljudje imajo eno,
+
+1132
+01:31:43,000 --> 01:31:46,000
+vsem znam, da nekaj znajo delati.
+
+1133
+01:31:46,000 --> 01:31:49,000
+Jaz sem prišel dosti z tih krno sistemov,
+
+1134
+01:31:49,000 --> 01:31:52,000
+pa klas loadinga in vsega, tako da
+
+1135
+01:31:52,000 --> 01:31:55,000
+meni en Kvarkus bil dost domač,
+
+1136
+01:31:55,000 --> 01:31:58,000
+pa sem deloval z temi GRPC-ji,
+
+1137
+01:31:58,000 --> 01:32:01,000
+pa kafke in pa to in to,
+
+1138
+01:32:01,000 --> 01:32:04,000
+eno to sem mi usmeral.
+
+1139
+01:32:04,000 --> 01:32:07,000
+Nisem prišel čisto od začetka na Kvarkusu,
+
+1140
+01:32:07,000 --> 01:32:10,000
+ampak sem ga skozi spremljal, oddaleč,
+
+1141
+01:32:10,000 --> 01:32:13,000
+pa uporabljal sem ga skozi,
+
+1142
+01:32:13,000 --> 01:32:16,000
+in sem ga skozi uporabljal,
+
+1143
+01:32:16,000 --> 01:32:19,000
+pa je bil skozi malo zanimav,
+
+1144
+01:32:19,000 --> 01:32:22,000
+in pa je bil tudi okej svoj rabot,
+
+1145
+01:32:22,000 --> 01:32:25,000
+pa ti ne smej dati miru, če nekaj vidiš,
+
+1146
+01:32:25,000 --> 01:32:28,000
+pa si nekaj na hitro pa gradorejšu,
+
+1147
+01:32:28,000 --> 01:32:31,000
+pa je bilo zadevo, pa sem nekaj zasedelal,
+
+1148
+01:32:31,000 --> 01:32:34,000
+pa mi je ratalo Kvarkusu narediti,
+
+1149
+01:32:34,000 --> 01:32:37,000
+ampak nisem jih zadovoljal,
+
+1150
+01:32:37,000 --> 01:32:40,000
+pa sem tudi časa, pa druga versija, pa trita versija,
+
+1151
+01:32:40,000 --> 01:32:43,000
+in s tem sem tudi pokodil kako.
+
+1152
+01:32:43,000 --> 01:32:46,000
+Dobro je zdaj, kaj imamo,
+
+1153
+01:32:46,000 --> 01:32:49,000
+pa smo na začetku, kaj smo sami,
+
+1154
+01:32:49,000 --> 01:32:52,000
+jaz sem si pozmer, tam smo nek knjižence najdeli,
+
+1155
+01:32:52,000 --> 01:32:55,000
+v ne džare, pa v njih sorsov nekakaj,
+
+1156
+01:32:55,000 --> 01:32:58,000
+pa sem jih imel v prseb, pa povezal v ideji,
+
+1157
+01:32:58,000 --> 01:33:01,000
+da si jih nekako gledal. Zdaj si z njima zemrš mejven,
+
+1158
+01:33:01,000 --> 01:33:04,000
+pa mejven ti potegne dol in se da,
+
+1159
+01:33:04,000 --> 01:33:07,000
+in potem skačeš po kodi, skozi kodi poznaš,
+
+1160
+01:33:07,000 --> 01:33:10,000
+debag, pa po kodi skakate, upaš, da ni prej reaktil,
+
+1161
+01:33:10,000 --> 01:33:13,000
+upaš, da ni prej reaktil,
+
+1162
+01:33:13,000 --> 01:33:16,000
+in skačeš, in skačeš v začetku kako
+
+1163
+01:33:16,000 --> 01:33:19,000
+od aplikacije tam, kaj brečeš Kvarkus,
+
+1164
+01:33:19,000 --> 01:33:22,000
+start pa do tvojega kosa, pa malo gledaš,
+
+1165
+01:33:22,000 --> 01:33:25,000
+kaj je v stacku, v stack trace-u, kjer je klasi,
+
+1166
+01:33:25,000 --> 01:33:28,000
+pa malo pogledaš si, kaj se je približno dogaja.
+
+1167
+01:33:28,000 --> 01:33:31,000
+In moraš biti vztrajan,
+
+1168
+01:33:31,000 --> 01:33:34,000
+to je tako velika zadeva,
+
+1169
+01:33:34,000 --> 01:33:37,000
+da to nisem došli pogledal, tako kot ponovat,
+
+1170
+01:33:37,000 --> 01:33:40,000
+ko smo kje šli mejvene aplikacije, pa spogledal,
+
+1171
+01:33:40,000 --> 01:33:43,000
+je bila pa enostavna web aplikacija, to je kompleksna aplikacija,
+
+1172
+01:33:43,000 --> 01:33:46,000
+kad tukaj enih stvari se kliče, tako im reku,
+
+1173
+01:33:46,000 --> 01:33:49,000
+lambda je spajena, ampak lambda tudi malo skrije zadeve.
+
+1174
+01:33:50,000 --> 01:33:53,000
+Veš kaj? Hočem te bolj to vprašati.
+
+1175
+01:33:55,000 --> 01:33:58,000
+Ko imaš zdaj ljudi, ki so mogoče džunjori,
+
+1176
+01:33:58,000 --> 01:34:01,000
+pa na začetku svoje potjeve, ko vse izgleda grozljivo,
+
+1177
+01:34:01,000 --> 01:34:04,000
+tudi ti verjetno, ko si odprl prič Kvarkus Codebase,
+
+1178
+01:34:04,000 --> 01:34:07,000
+je bilo tudi za tebe verjetno skeri,
+
+1179
+01:34:07,000 --> 01:34:10,000
+pa če hočeš, to me zanima,
+
+1180
+01:34:10,000 --> 01:34:13,000
+da rad bi slišel, da poveš, da je normalno,
+
+1181
+01:34:13,000 --> 01:34:16,000
+da so huge projekti, normalno je, da na začetku
+
+1182
+01:34:16,000 --> 01:34:19,000
+ne razumeš, ampak ravno to začni z neko uporabo,
+
+1183
+01:34:19,000 --> 01:34:22,000
+in potem začneš zadeve spoznavat, in globlej,
+
+1184
+01:34:22,000 --> 01:34:25,000
+in globlej, in globlej, in globlej.
+
+1185
+01:34:25,000 --> 01:34:28,000
+Tako me reku, brekaj si izkušen, da me lih prestraša,
+
+1186
+01:34:28,000 --> 01:34:31,000
+ne, ker sem vsej že takih stvari dal skos,
+
+1187
+01:34:31,000 --> 01:34:34,000
+to je nekaj 16 let, takih velikih projektov.
+
+1188
+01:34:34,000 --> 01:34:37,000
+Ja, me je bilo takrat, ker sem pa že bil
+
+1189
+01:34:37,000 --> 01:34:40,000
+saj prvič odprl, toliko let nazaj,
+
+1190
+01:34:40,000 --> 01:34:43,000
+je bilo pa tako, nič mi ni bilo jasno,
+
+1191
+01:34:43,000 --> 01:34:46,000
+ni bilo nič, in pa tudi počas, in kaj,
+
+1192
+01:34:46,000 --> 01:34:49,000
+za kontroberati je tako, kad smo vsi začeli,
+
+1193
+01:34:49,000 --> 01:34:52,000
+mehambak oziroma teb nekine dela,
+
+1194
+01:34:52,000 --> 01:34:55,000
+in pogledaš zje, ali si možda bi malo prepričan,
+
+1195
+01:34:55,000 --> 01:34:58,000
+da res nisi ti problema, da ni tvoja koda
+
+1196
+01:34:58,000 --> 01:35:01,000
+in tvoja konfiguracija, karkoli,
+
+1197
+01:35:01,000 --> 01:35:04,000
+pa malo, pa probaš, pa popraviš,
+
+1198
+01:35:04,000 --> 01:35:07,000
+pa moče pogledaš.
+
+1199
+01:35:07,000 --> 01:35:10,000
+Sej iz teg tresa saj pritam boš pa že vedel,
+
+1200
+01:35:10,000 --> 01:35:13,000
+tudi, če bo to nek globok rejektiv,
+
+1201
+01:35:13,000 --> 01:35:16,000
+tam nek pritev bo namrgel, ne.
+
+1202
+01:35:16,000 --> 01:35:19,000
+Včasih sej bo tudi, bo bug, pa ga bo zelo težko najdite,
+
+1203
+01:35:19,000 --> 01:35:22,000
+tako da, ne vem, ja, postopoma,
+
+1204
+01:35:22,000 --> 01:35:25,000
+pa ne odnehata, ne, to je,
+
+1205
+01:35:25,000 --> 01:35:28,000
+tudi če si ti zdi, da na začetku zelo grozljiv,
+
+1206
+01:35:28,000 --> 01:35:31,000
+ja, si pa en stran je, ne, ampak,
+
+1207
+01:35:31,000 --> 01:35:34,000
+pa noben ne pozna vsega pola, ne, tudi.
+
+1208
+01:35:34,000 --> 01:35:37,000
+No, to.
+
+1209
+01:35:37,000 --> 01:35:40,000
+Tudi tukaj, ne, ok, pri nas pa že bo so,
+
+1210
+01:35:40,000 --> 01:35:43,000
+je bilo res par unih kor ljudi,
+
+1211
+01:35:43,000 --> 01:35:46,000
+oni so pa moj, ne vem, Scott Stark in Adrian Brooks,
+
+1212
+01:35:46,000 --> 01:35:49,000
+to bi tako norca, ne, da jste, da jste verjetno vse vedla, ne.
+
+1213
+01:35:49,000 --> 01:35:52,000
+Ostali pa ne, ne.
+
+1214
+01:35:52,000 --> 01:35:55,000
+Tako da parkus je pa še tako večja zadeva.
+
+1215
+01:35:55,000 --> 01:35:58,000
+Ampak sej parkus, tako mi je rekel v snovi,
+
+1216
+01:35:58,000 --> 01:36:01,000
+tako, kak sem rekel, parkus jedro, pa tisto,
+
+1217
+01:36:01,000 --> 01:36:04,000
+kako se začne, ni
+
+1218
+01:36:04,000 --> 01:36:07,000
+tukaj spet velik bau, bau, ne, ker je
+
+1219
+01:36:07,000 --> 01:36:10,000
+velik je zaradi tega, ker ima pol
+
+1220
+01:36:10,000 --> 01:36:13,000
+parsto extensionov, ne. To je tisto, kar ga veliko izgleda.
+
+1221
+01:36:13,000 --> 01:36:16,000
+Tako da ti, ko boš vali, kot aplikacijo poka, pa porabaš tukaj extensionov,
+
+1222
+01:36:16,000 --> 01:36:19,000
+potem on extensionji porablja ene, druge zadeve in tako naprej,
+
+1223
+01:36:19,000 --> 01:36:22,000
+eh, tam se pa lahko hitro zgubiš, ne.
+
+1224
+01:36:22,000 --> 01:36:25,000
+Tukaj mogoče je vprašanje,
+
+1225
+01:36:25,000 --> 01:36:28,000
+se pravi ti, kot
+
+1226
+01:36:28,000 --> 01:36:31,000
+tako do hardcore zvijalec na tako velikih projektih,
+
+1227
+01:36:31,000 --> 01:36:34,000
+kaj bi zdaj rekel, kaj so urodja, ki jih
+
+1228
+01:36:34,000 --> 01:36:37,000
+uporabljaš, s katerimi več ne moraš živeti?
+
+1229
+01:36:37,000 --> 01:36:40,000
+To so to lahko komercialni, open source, se pravi,
+
+1230
+01:36:40,000 --> 01:36:43,000
+kaj zdaj v nekem tvojem okolju, pri tvojem
+
+1231
+01:36:43,000 --> 01:36:46,000
+delu, kaj so zdaj nekaj urodja, prez katerih pa ti ne
+
+1232
+01:36:46,000 --> 01:36:49,000
+predstavljaš, da bi pač funkcioniral?
+
+1233
+01:36:49,000 --> 01:36:52,000
+Mori biti dva kolesa.
+
+1234
+01:36:52,000 --> 01:36:55,000
+Ceš na kolo, pa gorsko kolo.
+
+1235
+01:36:55,000 --> 01:36:58,000
+To je takrat, kaj zadeva ne gre, da se
+
+1236
+01:36:58,000 --> 01:37:01,000
+greš ven na kolo, pa potem priješ čez dve uri nazaj.
+
+1237
+01:37:01,000 --> 01:37:04,000
+Ampak to je eno umno vprašanje.
+
+1238
+01:37:04,000 --> 01:37:07,000
+Koliko kilometrov boš letos naredil, mogoče to, pa boš potem odgorel.
+
+1239
+01:37:07,000 --> 01:37:10,000
+Kaj so še druga? Ker je samo počutek, da
+
+1240
+01:37:10,000 --> 01:37:13,000
+malo se zabavim, ampak
+
+1241
+01:37:13,000 --> 01:37:16,000
+zato, ko veliko kolesa rešiš, verjetno imaš veliko časa tudi razmišljati
+
+1242
+01:37:16,000 --> 01:37:19,000
+v teh stvarih. Ma, se greš, ja, pa se malo,
+
+1243
+01:37:19,000 --> 01:37:22,000
+tako da malo daš nov, pa da lih
+
+1244
+01:37:22,000 --> 01:37:25,000
+da nisi samo tem, kaj te
+
+1245
+01:37:25,000 --> 01:37:28,000
+teči smine, pa potem ne moreš, pa greš res rad na kolo,
+
+1246
+01:37:28,000 --> 01:37:31,000
+drugište pa to je zagrab, da potem, pa jasno,
+
+1247
+01:37:31,000 --> 01:37:34,000
+dolg časa ne greš spati, oziroma hodiš spati,
+
+1248
+01:37:34,000 --> 01:37:37,000
+tako grapa v tih urah in potem hitro vstaneš
+
+1249
+01:37:37,000 --> 01:37:40,000
+v sen, če nisi naspan in se spet lotiš tega.
+
+1250
+01:37:40,000 --> 01:37:43,000
+So pa veliko, imaš pa čez tam,
+
+1251
+01:37:43,000 --> 01:37:46,000
+ki se ti pa ne da, pa ki je tudi ok, pa kakšna stvar narediš, pa malo
+
+1252
+01:37:46,000 --> 01:37:49,000
+zadihaš, pa greš pa malo tako, ne.
+
+1253
+01:37:49,000 --> 01:37:52,000
+Ampak, ja, ta urodja, tako zanimljiv,
+
+1254
+01:37:52,000 --> 01:37:55,000
+no, nočke dosti ti ne rabiš, ne, rabiš,
+
+1255
+01:37:55,000 --> 01:37:58,000
+vesmo kaj imam, v terminalu, v sen še zame
+
+1256
+01:37:58,000 --> 01:38:01,000
+smo bili na stara šola, če imam kakšnih tulov in
+
+1257
+01:38:01,000 --> 01:38:04,000
+z terminala tam, in sploh nimam v krunga
+
+1258
+01:38:04,000 --> 01:38:07,000
+defolt nekog terminala, ne, noč nikjega
+
+1259
+01:38:07,000 --> 01:38:10,000
+posebej downloadenega.
+
+1260
+01:38:10,000 --> 01:38:13,000
+Par short cutov sem si sam spisal v njih,
+
+1261
+01:38:13,000 --> 01:38:16,000
+alija so pa to, da malo manj treba tipkat,
+
+1262
+01:38:16,000 --> 01:38:19,000
+dober IDE, pač
+
+1263
+01:38:19,000 --> 01:38:22,000
+IntelliJ, ne, sedaj imaš, no, džabe verzija
+
+1264
+01:38:22,000 --> 01:38:25,000
+zameči za dost, ker ne rabim v enih njih enterprisej
+
+1265
+01:38:25,000 --> 01:38:28,000
+zadev.
+
+1266
+01:38:28,000 --> 01:38:31,000
+Penc podoben laptop, da je malo,
+
+1267
+01:38:31,000 --> 01:38:34,000
+malo več memorije, ker ga saj v takih zadevah ga rabiš,
+
+1268
+01:38:34,000 --> 01:38:37,000
+pa da pol, ker je vse rata
+
+1269
+01:38:37,000 --> 01:38:40,000
+tudi to, da zmeram od spodje en minikjub,
+
+1270
+01:38:40,000 --> 01:38:43,000
+ki mi lafa, ne.
+
+1271
+01:38:43,000 --> 01:38:46,000
+In to je to, ne, tako zanimljiv, da bi ful rabil kakšne tudi
+
+1272
+01:38:46,000 --> 01:38:49,000
+vse v nek profaileri, ki so mi nekje gor, dol,
+
+1273
+01:38:49,000 --> 01:38:52,000
+da bi ga daj, rabil, smo rabili, ampak
+
+1274
+01:38:52,000 --> 01:38:55,000
+zelo poretko, tako je.
+
+1275
+01:38:55,000 --> 01:38:58,000
+Imaš tudi že druge ekipe, ki so v te perfomans ekipe,
+
+1276
+01:38:58,000 --> 01:39:01,000
+ki oni si s tem bilo kvarjajo.
+
+1277
+01:39:01,000 --> 01:39:04,000
+Edini podoben profailer,
+
+1278
+01:39:04,000 --> 01:39:07,000
+ki je bil, oni so pa hitri, ker hoče plačljivega metu,
+
+1279
+01:39:07,000 --> 01:39:10,000
+ne.
+
+1280
+01:39:10,000 --> 01:39:13,000
+Ampak tudi, ker pa rabiš skozi jStack,
+
+1281
+01:39:13,000 --> 01:39:16,000
+pa ti dampne zadevo, ali pa v ideji
+
+1282
+01:39:16,000 --> 01:39:19,000
+stop, pa si vone
+
+1283
+01:39:19,000 --> 01:39:22,000
+snapšote, tredov pogledaš, pa je tudi to, ne.
+
+1284
+01:39:22,000 --> 01:39:25,000
+Intelligent je načeloma dovolj za čas.
+
+1285
+01:39:25,000 --> 01:39:28,000
+Ja, ja, ja, nački dovolj sveč, ne.
+
+1286
+01:39:28,000 --> 01:39:31,000
+Super. Ok.
+
+1287
+01:39:31,000 --> 01:39:34,000
+Nič izviše en od tem od prv, pa potem bomo
+
+1288
+01:39:34,000 --> 01:39:37,000
+prepeljali tu zadevo do konca, ker
+
+1289
+01:39:37,000 --> 01:39:40,000
+zdaj ljudje se vozijo, pa to bo stošejo.
+
+1290
+01:39:40,000 --> 01:39:43,000
+Zdaj imajo prišli do destinacije, ki je v Sloveniji, zmanjka cesta.
+
+1291
+01:39:43,000 --> 01:39:46,000
+Vsi, ki so oprek morjo štartali, so še zdaj nekje dolo.
+
+1292
+01:39:46,000 --> 01:39:49,000
+Najbolj ti premorski počasi.
+
+1293
+01:39:49,000 --> 01:39:52,000
+Zdaj,
+
+1294
+01:39:52,000 --> 01:39:55,000
+ok, pač open source
+
+1295
+01:39:55,000 --> 01:39:58,000
+ne deluje brez komunitija, to je nekako
+
+1296
+01:39:58,000 --> 01:40:01,000
+zvezano, ne deluje brez
+
+1297
+01:40:01,000 --> 01:40:04,000
+počasi.
+
+1298
+01:40:00,000 --> 01:40:08,640
+med ljudmi in ne deluje brez ljudi, ki kontribirajo, puščajo na prezadevo in v Sloveniji obstaja
+
+1299
+01:40:08,640 --> 01:40:17,760
+community Open Blend, ki je trenutno največji Java JVM meet-up oziroma community v Sloveniji.
+
+1300
+01:40:17,760 --> 01:40:18,719
+Edini.
+
+1301
+01:40:18,719 --> 01:40:28,799
+Edini, edini, daj ram razlož, kaj je Open Blend, koliko časa ji že delate, dej razlož.
+
+1302
+01:40:28,799 --> 01:40:34,400
+Prvo, a ni ta bun, ork, ki imel svoj forum, levanski?
+
+1303
+01:40:34,400 --> 01:40:36,400
+There goes another sponsor.
+
+1304
+01:40:36,400 --> 01:40:40,000
+Ja, ja, smo se še enega govorili.
+
+1305
+01:40:40,000 --> 01:40:42,000
+Saj bomo sami pleče pripivali.
+
+1306
+01:40:42,000 --> 01:40:46,000
+Ja, ne, s tem in vsega, kaj smo se mi hvalali.
+
+1307
+01:40:46,000 --> 01:40:49,200
+Jelo, ampak, a ni bilo naprej to ločeno?
+
+1308
+01:40:49,200 --> 01:40:51,200
+Mislim, že v štartu to ločeno.
+
+1309
+01:40:51,200 --> 01:40:53,200
+Ja, niti ne po moje.
+
+1310
+01:40:53,200 --> 01:40:55,200
+Kaj je Open Blend?
+
+1311
+01:40:55,599 --> 01:41:04,720
+Ja, ni Open Blend, je tako nastol, mi smo, po moje, const27, jaz sem 26, se je pridružil v Red Hatu,
+
+1312
+01:41:04,720 --> 01:41:11,199
+tukaj sem že bil v Open Source, zelo, v večinu res, vse, kar sem delal, bil v Open Source zastonj.
+
+1313
+01:41:11,199 --> 01:41:19,599
+In sem se s temi fanti iz Parseca, ki so pa tudi ratali 200, se je celo pridružila v men oziroma Red Hatu.
+
+1314
+01:41:20,000 --> 01:41:28,400
+Smo že takrat pa razmišljali, oni so že malo gotovali, da je pač problem njim dobiti zaposlene, oziroma,
+
+1315
+01:41:28,400 --> 01:41:37,599
+da bomo, če najboljši način je skoz to, da pripravimo eno vsebine in nekaj eno tako konferenco,
+
+1316
+01:41:37,599 --> 01:41:42,400
+da malo povabimo, da se podružimo, pa se malo ljudje med sabo, oziroma, to na mesečni bazi skoro.
+
+1317
+01:41:42,400 --> 01:41:49,199
+Oziroma, takrat smo začeli bil, vsa konferenca pa se ta malo enako misleči, oziroma, pač vzivajo cjave.
+
+1318
+01:41:49,199 --> 01:41:54,000
+Takrat, če niti nismo bili v Open Blend, takrat smo bili jaz pa Parsec.
+
+1319
+01:41:54,000 --> 01:42:01,199
+In smo organizirali tako lušten, smo dal na ljubljanski grad tak dober dogodek, ziornk,
+
+1320
+01:42:01,199 --> 01:42:07,199
+in se nas je kar tako začudo nabrali nek 150, ti smo več celo bil.
+
+1321
+01:42:07,199 --> 01:42:08,000
+Bil, bil.
+
+1322
+01:42:08,000 --> 01:42:10,000
+Ja, se nas je kar nabrali tako.
+
+1323
+01:42:10,000 --> 01:42:12,000
+In je bilo jav, ena pika, dva, pa si šel na grad poslušati.
+
+1324
+01:42:12,000 --> 01:42:14,800
+Pa ne, takrat smo eno pa spolno tako izdelali, pa smo hodili.
+
+1325
+01:42:14,800 --> 01:42:17,600
+Vse je bilo čist malo tako za poslušalce, vse je bilo za vse, ne.
+
+1326
+01:42:17,600 --> 01:42:19,600
+Smo bili nekaj še bolj hardcore.
+
+1327
+01:42:19,600 --> 01:42:22,800
+Ideja je bila pa sicer skozi, okoliko te konferenci je bilo ljudi tako,
+
+1328
+01:42:22,800 --> 01:42:26,000
+zadevajajo pa tako, kaj bi mi radi imeli.
+
+1329
+01:42:26,000 --> 01:42:32,000
+Brez bullshit pijarja, brez nekaj marketinga, brez vsega.
+
+1330
+01:42:32,000 --> 01:42:41,600
+Hardcore ono javo, dobiti dejansko programere, ki delajo to in jih pa lahko tam za rokav podsukaš, ne.
+
+1331
+01:42:41,600 --> 01:42:52,800
+Tako, tudi dobra hrana, ne, da ti tam un sandwich vržajo, pa na konc druženje, pivo in tako naprej, ne.
+
+1332
+01:42:52,800 --> 01:43:00,000
+In pa da lahko res na vsakem trenutku podsukaš unga hardcore developerja in tudi taz ga dobiti,
+
+1333
+01:43:00,000 --> 01:43:02,800
+ki ne bo ljubil neki fin, pa bo rekel, kaj je zdi ti, ne.
+
+1334
+01:43:02,800 --> 01:43:06,000
+Ampak tak, kaj so se vsi pripravljeni, in take smo nabrali, kaj so,
+
+1335
+01:43:06,000 --> 01:43:13,600
+mogo se posrečiti, kaj so še težko z nebo, kaj so tak radi govorili o svojih projektih, ne.
+
+1336
+01:43:13,600 --> 01:43:17,600
+Ampak, ok, mislim, smo dvakrat tako naredili, pa smo pa sem gotovi, smo rekli, ok,
+
+1337
+01:43:17,600 --> 01:43:20,399
+zdaj pa kot mi kavabimo ljudi, ne.
+
+1338
+01:43:20,399 --> 01:43:23,000
+Matko Hed san zgleda tamih nekaj in par se kvap nekih,
+
+1339
+01:43:23,000 --> 01:43:27,000
+jaz vabam, to se ne ve, ne vem, kdo pije, kdo plača, ne, kaj je z polzi to, ne.
+
+1340
+01:43:27,000 --> 01:43:33,000
+Eto, ker ste vi one man band, in smo sem open blend s tem namenom, da
+
+1341
+01:43:33,000 --> 01:43:39,000
+se distanciramo od posameznikov, kot smo mi, ne, pa da naredimo društvo in da je društvo za vse, ne.
+
+1342
+01:43:39,000 --> 01:43:45,000
+In pa je to društvo od pritokodnih tehnologij in tako naprej, ne.
+
+1343
+01:43:45,000 --> 01:43:53,000
+In pa to združvali in smo jaz, ne jaz skoraj si skazali, to bo boljš, ker smo pa lahko lažje maja sponzorstvo dobili.
+
+1344
+01:43:53,000 --> 01:43:58,000
+Zdaj, ne da bi nekaj pol naralih dobili, pa da bi nekaj dajali, ampak ljudje so, firme so lažje dalje, ne.
+
+1345
+01:43:58,000 --> 01:44:04,000
+Smo jaz, društvo, ok, cool, to se vidi, to ni, ali bom tam, ne vem, dal Justinu na par sekund, ne, ampak.
+
+1346
+01:44:04,000 --> 01:44:11,000
+In smo se tako nabrali, da smo pa lahko to šli na mesečne dogodke, ki jih imenujemo Cafébejb,
+
+1347
+01:44:11,000 --> 01:44:19,000
+pa konferencov smo pa tudi malo zmer bolj širali, iz enega treka na dva treka, iz dveh trekov na tri treke in tako naprej, ok,
+
+1348
+01:44:19,000 --> 01:44:23,000
+potem boče spet malo nazaj, kukraj bo, ampak smo se širali.
+
+1349
+01:44:23,000 --> 01:44:30,000
+V enem trenutku smo pa boli, je pa takrat, ker je Oracle kupu San, ne, je z tem kupu javo,
+
+1350
+01:44:30,000 --> 01:44:37,000
+je pa si ok, ta slovenski Oracle user group je tudi zadožen, da pa oni malo pritegnejo tudi javansko
+
+1351
+01:44:38,000 --> 01:44:49,000
+in smo se že skor tako breku razdelali, te naše deležence, ne, ker eni so bivali pa še z partneri Oracle-a in eni pa uže s temi ostali,
+
+1352
+01:44:49,000 --> 01:44:56,000
+ampak smo se pa sijogo, mi kot Openbane, sijogo skupinajali, sej so oni tudi čist normalni, normalni ljudje,
+
+1353
+01:44:56,000 --> 01:45:01,000
+ne bi bilo tako, da bi nekaj bil tako na Oracle fama, gardih, pokvarjenih, ne.
+
+1354
+01:45:02,000 --> 01:45:10,000
+Čisto v redu, super zmenil in zdaj zadnjih nekaj let furamo tako, kako sem rekel, 2.8., 2.9. smo pa mi začeli na svoje,
+
+1355
+01:45:10,000 --> 01:45:19,000
+od 2.10. smo vrjetno Openblend, v dne 2.15. smo pa združeni kot Openblend pa sijog in peljamo zgodbo dalje.
+
+1356
+01:45:20,000 --> 01:45:24,000
+Pred korono je bilo fenomenalno, jaz tako ljudi nisem nikoli videl tam dol.
+
+1357
+01:45:25,000 --> 01:45:31,000
+Iz Ljubljane smo šli tako, na začetek iz Ljubljane, iz grada smo šli malo kaj v Jable, iz Jable smo šli v plazo,
+
+1358
+01:45:31,000 --> 01:45:39,000
+iz plaze smo šli, po mojete, ene dva, kad smo bili v plazi, pa smo bili v plaze, pa res, ne imam privlačnega pol plaza,
+
+1359
+01:45:39,000 --> 01:45:46,000
+kot kar skupaj ne bi bil fancy, smo pa zdaj šli pol v Portorož in v Portorož je pa zmaga.
+
+1360
+01:45:46,000 --> 01:45:54,000
+Pred korono je bilo res, ne vem, 400 ljudi, to je bilo noro, korona je nas je malo zabremzala.
+
+1361
+01:45:55,000 --> 01:46:02,000
+Smo pridobili s tem, ponacali smo izmer v oktobru, zdaj smo pa pošli na juni in je bilo tudi to boljše,
+
+1362
+01:46:02,000 --> 01:46:10,000
+je toplo z vnej in ljudje, ki radi, pridejo. Mi se pač trudimo koncept ohranjati, da so še zmer.
+
+1363
+01:46:11,000 --> 01:46:16,000
+Aja, tako bom rekel, mi kot Open Brand res čisto ohranjamo, oni vse enkrat malo dobro,
+
+1364
+01:46:16,000 --> 01:46:20,000
+akor morajo, pa porinjajo, pa tudi tukaj se je pri nas začelo dogajati.
+
+1365
+01:46:21,000 --> 01:46:30,000
+Pojavljajo se vseh v te večjih firmah, evenželist, in pa ko hočeš koga dobiti, ti daj evenželista.
+
+1366
+01:46:30,000 --> 01:46:37,000
+Ja, ti probaj poturiti evenželista in moraš muče res, res sprositi, da dobiš onega kora.
+
+1367
+01:46:38,000 --> 01:46:43,000
+Jaz jih osebno poznam, pa jih pa lahko hitro napravljam, predstavljam si, da pa jih ne poznam
+
+1368
+01:46:43,000 --> 01:46:48,000
+osebno v njih ljudi, pa jih ne morejo res sprositi, reče, da jih pripeljate mi in oni jih pripeljajo.
+
+1369
+01:46:49,000 --> 01:46:55,000
+Koncept je še zmer dost podoben, tako bom rekel, developeri ali pa tudi evenželisti,
+
+1370
+01:46:55,000 --> 01:47:04,000
+ki dost vajajo, če ne pa vsaj vedno koga te obrniti, dobra hrana pa večeren dober dogodek.
+
+1371
+01:47:05,000 --> 01:47:10,000
+Jaz bi tudi, mislim, da bi bila v letu v Sky Unionu, to govorimo o Make It konferenciji.
+
+1372
+01:47:10,000 --> 01:47:12,000
+Ja, zdaj že Make It.
+
+1373
+01:47:14,000 --> 01:47:21,000
+Zelo, zelo dobri speakerji so bili, tudi zelo dobri inženiri, pač, ok, bili so englisti,
+
+1374
+01:47:21,000 --> 01:47:27,000
+ki so prišli z namenom prodajati falstoritve, kar je tudi vredu, ampak ne vem,
+
+1375
+01:47:27,000 --> 01:47:34,000
+jel si ljudi iz Oracle Labs-a iz Dunaja, ki so govorili, ki pač njegov žob je, da ima PhD,
+
+1376
+01:47:34,000 --> 01:47:41,000
+pa da programira Oracle VM, whatever, ne, in pač vsi z lahko se pogovarjajo,
+
+1377
+01:47:41,000 --> 01:47:48,000
+jel so bili zelo opročebi, tako da je zelo, zelo, zelo dobro konverta, tako da priporočam,
+
+1378
+01:47:48,000 --> 01:47:52,000
+priporočam, da ljudje grejo na te dogodke.
+
+1379
+01:47:52,000 --> 01:48:00,000
+Sicer res upažam, da starejša populacija hodi na te zadeve.
+
+1380
+01:48:00,000 --> 01:48:07,000
+Želel bi si, da več študentov vidimo, mlajše populacije, ampak le,
+
+1381
+01:48:07,000 --> 01:48:10,000
+bodo te pogovorni v pojeti na te konference.
+
+1382
+01:48:10,000 --> 01:48:13,000
+Ni ta JVM svet tako seksi.
+
+1383
+01:48:13,000 --> 01:48:15,000
+Ne, ne.
+
+1384
+01:48:15,000 --> 01:48:19,000
+Mogoče je konferenca komitna. Kaj bo drugače delate?
+
+1385
+01:48:19,000 --> 01:48:25,000
+Meli ste meet-up, videl sem, da je na KiberPipinem arhivu, sicer par let nazaj,
+
+1386
+01:48:25,000 --> 01:48:30,000
+je enih dvanajst posnetkov še tebe, ko govoriš o JBOSF-u.
+
+1387
+01:48:30,000 --> 01:48:32,000
+O Simu pa neče.
+
+1388
+01:48:32,000 --> 01:48:34,000
+O Simu pa neče.
+
+1389
+01:48:34,000 --> 01:48:39,000
+Ja, dej še povej, kaj zdaj pripravljate za ta mesec.
+
+1390
+01:48:39,000 --> 01:48:45,000
+Ja, zdaj smo končno masmo zaspali. Čez poletja, tako kot zmer.
+
+1391
+01:48:45,000 --> 01:48:53,000
+Pa tudi dejansko vsakič, ki nam kakšen prostor vzame, od KiberPipe do poligona,
+
+1392
+01:48:53,000 --> 01:48:58,000
+ki se nimamo kam dat, nam malo motivacije zmanjka, ampak
+
+1393
+01:48:58,000 --> 01:49:03,000
+zdi se pa v Ljubljani pojavljajo prostori, ki pa so primerni za to.
+
+1394
+01:49:03,000 --> 01:49:09,000
+Tako da 24. novembra, to je kot čez...
+
+1395
+01:49:09,000 --> 01:49:14,000
+Ja, ok, bomo videli, kdaj bomo dali ven. Ja, 24. novembra.
+
+1396
+01:49:14,000 --> 01:49:19,000
+24. novembra, ste vabljeni tukaj v Ljubljana TEH, to je v BTC-ju.
+
+1397
+01:49:19,000 --> 01:49:21,000
+Se bov tukaj voto pa ima dal link.
+
+1398
+01:49:21,000 --> 01:49:24,000
+Vse linki bomo dal zgodaj, tako da...
+
+1399
+01:49:25,000 --> 01:49:28,000
+To je, da malo odprejemo sezono spet z Open Blendom.
+
+1400
+01:49:29,000 --> 01:49:35,000
+Imamo mesto, ok, še malo o Kvarku smo povedali, ampak z mali slajdi,
+
+1401
+01:49:35,000 --> 01:49:41,000
+pa z mali tehničnimi detajli, sem malo kode pokazal, pa oto tudi.
+
+1402
+01:49:41,000 --> 01:49:43,000
+Oto tudi povedal.
+
+1403
+01:49:44,000 --> 01:49:49,000
+Pa zanimivo, recimo ta Ljubljana TEH, je tako zanimiv prostor,
+
+1404
+01:49:49,000 --> 01:49:55,000
+mi smo se zelo potrudili in je vreden obisek, potem se pa dločite.
+
+1405
+01:49:55,000 --> 01:49:59,000
+A je to to ali močeš že pretiravanje?
+
+1406
+01:49:59,000 --> 01:50:07,000
+Jaz bi še vse in dodal to, da pač, ja, ok, ti komuniti pač imate evente, meet-upe,
+
+1407
+01:50:07,000 --> 01:50:13,000
+pa imaš te oto konference, ki jo organizirate, ampak ni point samo v tokih.
+
+1408
+01:50:13,000 --> 01:50:18,000
+Point je tudi v druženju, da spoznate druge ljudi, ki delajo v teh ekosistemih,
+
+1409
+01:50:18,000 --> 01:50:24,000
+ki delajo v teh tehnologijah, da prijate za problemi, za vprašanja in da...
+
+1410
+01:50:24,000 --> 01:50:31,000
+Jaz bi ful povedal na to, da ste zelo, zelo odprta skupnost,
+
+1411
+01:50:31,000 --> 01:50:35,000
+vse kakor sem na vas poznal, so v tej Red Hat Gajsi.
+
+1412
+01:50:35,000 --> 01:50:37,000
+Ja, pa sodke, pivo, zdravo.
+
+1413
+01:50:37,000 --> 01:50:39,000
+Pa še skupaj, pa ne.
+
+1414
+01:50:39,000 --> 01:50:42,000
+Ja, no, dobro, a kaj z mlekom pa tudi ne moreš.
+
+1415
+01:50:42,000 --> 01:50:45,000
+Samo z mlekom bo težko.
+
+1416
+01:50:45,000 --> 01:50:50,000
+Ja, ne, si... Jaz sem bil tako vrstnic malko presenečen doskrat,
+
+1417
+01:50:50,000 --> 01:50:55,000
+kaj smo imeli vse te dogodke in pa kaj smo pa tudi prpeljali vse možne,
+
+1418
+01:50:55,000 --> 01:50:59,000
+kaj so ti moji sodeljice pa tudi taki, kaj niti niso bili programeri,
+
+1419
+01:50:59,000 --> 01:51:04,000
+ampak so bili tako zelo bivši programeri, pa so pa malo tako community gaji ratali
+
+1420
+01:51:04,000 --> 01:51:09,000
+in so celo malo novačili, pa Dimitri, sem, kaj ti imel tako zelo dobro predavanje,
+
+1421
+01:51:09,000 --> 01:51:13,000
+kako postati open source contributor, ne.
+
+1422
+01:51:13,000 --> 01:51:17,000
+Evo, pa pa še malo itak bil ta žur, pa vse, pa še zmer nismo nobeni,
+
+1423
+01:51:18,000 --> 01:51:22,000
+kaj še ne dobro, da niso tako več ljudi, nijo nikoli nekako pogumali.
+
+1424
+01:51:22,000 --> 01:51:25,000
+V tem, da nas je v eno trenutku bilo pet, zdaj smo štere,
+
+1425
+01:51:25,000 --> 01:51:31,000
+ne šel pač nekaj drugega delati. Razen, razen lazota.
+
+1426
+01:51:34,000 --> 01:51:39,000
+Nismo, dobro, te sparse, ko smo se poznali, pa smo jih pa res pripričali,
+
+1427
+01:51:39,000 --> 01:51:43,000
+ampak nam je bilo rekulo, da so nam zelo iz community-a pršli, ne.
+
+1428
+01:51:43,000 --> 01:51:47,000
+Smo jih po eni, drugi liniji spoznali, pa smo pa debaterali in v eno dan,
+
+1429
+01:51:47,000 --> 01:51:50,000
+v trenutku, ko so pri nas delali, sem jaz vse rekel, v naši meji,
+
+1430
+01:51:50,000 --> 01:51:53,000
+jaz imam tukaj ene dva fanta, kaj sta dobra bi in tako.
+
+1431
+01:51:53,000 --> 01:51:57,000
+Lazo je pa prišel do mene, pa me je podsukoval, pa smo tam nekaj skupaj
+
+1432
+01:51:57,000 --> 01:52:01,000
+sodelovali in potem pa tudi predstavljala prilika, sem ga jaz lepo poturi v noter
+
+1433
+01:52:01,000 --> 01:52:06,000
+in je on še zmer fino zadovoljen. Če bi pri nas, bi se dali.
+
+1434
+01:52:06,000 --> 01:52:11,000
+Tako, da nekaj malega kontribujeraš, se vidi, zanima nekaj malega,
+
+1435
+01:52:11,000 --> 01:52:15,000
+kontribujeraš čim več in čim več in čim več, pa se pa izkaže potreba
+
+1436
+01:52:15,000 --> 01:52:22,000
+in si skoraj ta prvi na seznamu, ki bi te povabili, da se pridružiš.
+
+1437
+01:52:23,000 --> 01:52:31,000
+Zdaj pa je to vprašanje, kako se zdaj ta trenutni state, v katerem svet je,
+
+1438
+01:52:31,000 --> 01:52:35,000
+pozna na Red Hatu, kar se tiče hiringa in podobno.
+
+1439
+01:52:35,000 --> 01:52:38,000
+Prosim, naj ne bo to zadnje vprašanje.
+
+1440
+01:52:39,000 --> 01:52:46,000
+Ja, tako, zelo dobro. Velik let nazaj smo bili v veliki prednosti,
+
+1441
+01:52:46,000 --> 01:52:51,000
+ker smo bili skoraj divni, ker je bila kultura remota.
+
+1442
+01:52:54,000 --> 01:52:59,000
+Tudi, kako se je delal, smo bili že izopeljane za deve, da se je remote
+
+1443
+01:52:59,000 --> 01:53:03,000
+dal zelo enostavno delati. Ni bilo tako zdaj, ker je bila korona,
+
+1444
+01:53:03,000 --> 01:53:07,000
+pa so pa vsi od doma mogli delati. Prv nas je, saj večina midelvera
+
+1445
+01:53:07,000 --> 01:53:13,000
+ljudi, tih mojih sodelovcev na midelveru, so od doma. Zelo redko jih
+
+1446
+01:53:13,000 --> 01:53:19,000
+hodimo, če so ljudi blizu pisarne, ker nimamo devel prskih pisarne
+
+1447
+01:53:19,000 --> 01:53:25,000
+po svetu. So tako doma in takrat je bilo zelo privlačeno.
+
+1448
+01:53:27,000 --> 01:53:32,000
+Zdaj, na danih desetih letih se je svet tako spremenil.
+
+1449
+01:53:33,000 --> 01:53:37,000
+Zdaj si predstavljam, da nismo več tako seksi, kot smo bili.
+
+1450
+01:53:37,000 --> 01:53:42,000
+Zdaj me ne preseneča več tako, da me nekdo ne podsuka z rokov
+
+1451
+01:53:42,000 --> 01:53:48,000
+in reče, ker marsik do dobijo, lahko marsik kero službo,
+
+1452
+01:53:48,000 --> 01:53:54,000
+verjetno za povdobno in še boljši denar. Takrat je bilo tako,
+
+1453
+01:53:54,000 --> 01:53:58,000
+da si se je mogel preseliti, pa si se je preselil. Čez lužo
+
+1454
+01:53:58,000 --> 01:54:03,000
+ali pa kamarkoli so že imeli te veliki prostore, ali si pa doma
+
+1455
+01:54:03,000 --> 01:54:09,000
+v domačem okolju šljakov in to je bilo to. Zdaj pa, takrat je bilo
+
+1456
+01:54:09,000 --> 01:54:13,000
+pa drugače. Takrat me je presenetilo, tako se je spomenul
+
+1457
+01:54:13,000 --> 01:54:17,000
+provo, ne vem, ali močno je 2.13, 2.14, ko smo bili tudi na Višku,
+
+1458
+01:54:17,000 --> 01:54:22,000
+pa je bil zelo dober projekt, ker je bil zelo popularen in znan
+
+1459
+01:54:22,000 --> 01:54:28,000
+tukaj in v svetu in pri nas. Pa še lukša mi je pomagal delati,
+
+1460
+01:54:28,000 --> 01:54:34,000
+kot hipsterja, pa na ven, da bi bilo, kaj še jaz, pa kaj tazga.
+
+1461
+01:54:36,000 --> 01:54:41,000
+V glavnem, pridite na ta event, pridružite se Open Blendu,
+
+1462
+01:54:41,000 --> 01:54:46,000
+če vas Java in JVM tehnologije, kot se so tudi Kafka, Echadupi
+
+1463
+01:54:46,000 --> 01:54:51,000
+in se ostalo zanima, pridite na te evente, zadeva je zelo odprta.
+
+1464
+01:54:51,000 --> 01:54:56,000
+Ališ, vas bom z veseljem pozdravljal in rekel, kako beseda.
+
+1465
+01:54:58,000 --> 01:55:03,000
+Pridite. Zadnje vprašanje, dejmo. Štev prašal.
+
+1466
+01:55:03,000 --> 01:55:07,000
+Ti si je rekel, da se te zaboril s te zadnje vprašanje.
+
+1467
+01:55:07,000 --> 01:55:09,000
+Ne, ne se mislim, ne se mislim.
+
+1468
+01:55:10,000 --> 01:55:16,000
+Ne, road mapa, je kaj na road mapu, kaj je zdaj zanimljuga,
+
+1469
+01:55:17,000 --> 01:55:21,000
+kaj, kaj nas čaka na, ne vem, naslednjih parih letih.
+
+1470
+01:55:21,000 --> 01:55:26,000
+Mogoče strani Red Hata, mogoče strani projektov, na katerih pač ti delaš.
+
+1471
+01:55:28,000 --> 01:55:33,000
+Ja, strani Red Hata, kaj tazga, pa ne, da ne bi smel govorit.
+
+1472
+01:55:34,000 --> 01:55:40,000
+Ni ti tako, mi nismo tako, kako si rekel prej, bi bil z Googla, pa nismo to, pa je pa to.
+
+1473
+01:55:40,000 --> 01:55:43,000
+Prv nas hvala, da obstaja zadeva, kaj se tudi tukaj nesmeje, ampak
+
+1474
+01:55:43,000 --> 01:55:51,000
+tlele ni, za nas je dejansko saj, kar se mene tiče, je tale Kvarkus 3,
+
+1475
+01:55:52,000 --> 01:55:57,000
+kaj bom jo, prehajate dve zadeve noter, eno je ta Jakarta specifikacija,
+
+1476
+01:55:57,000 --> 01:56:02,000
+kaj se je spet tudi, se pravi, take mikro zadeve nekaj specificirati,
+
+1477
+01:56:02,000 --> 01:56:09,000
+kot je bil Java Enterprise in gremo v to smer, da po Jakartamo Kvarkus,
+
+1478
+01:56:09,000 --> 01:56:16,000
+kot se zagreje. Drugo je pa tale Project Loom, nas tudi tako malo,
+
+1479
+01:56:17,000 --> 01:56:23,000
+ker zdi smo cel Kvarkus ogromno zadeve spisanih, malo reaktiv,
+
+1480
+01:56:23,000 --> 01:56:28,000
+in to je pa neti, nad netjem je Vertex in to je tisto, kar omogoča so to
+
+1481
+01:56:28,000 --> 01:56:34,000
+reaktivnost. Zdaj pa s tem zgubimo te zadeve, ni ti hvala ne rabimo,
+
+1482
+01:56:34,000 --> 01:56:41,000
+treba pa zdaj viditi, kaj bo to, ne vem, sploh bo to Kvarkus 4, Kvarkus 5,
+
+1483
+01:56:41,000 --> 01:56:49,000
+ali pa sploh ne bo Kvarkus, ampak bo Loomus. To je tako zanimivo vprašanje
+
+1484
+01:56:49,000 --> 01:56:53,000
+za nas, kaj se je zdaj, kako se je zdaj tega lotiti, ker to sigurno bo.
+
+1485
+01:56:55,000 --> 01:56:59,000
+Te fundamentalne spremembe nižejo, pomenjajo priložnosti.
+
+1486
+01:56:59,000 --> 01:57:04,000
+Ja, seveda, to je prihodnost tega, če se bo ta trading model tako zamenil,
+
+1487
+01:57:04,000 --> 01:57:08,000
+da ne bo še več rabo, da boš lahko delal v zvrtu in te tradi imperativno,
+
+1488
+01:57:08,000 --> 01:57:13,000
+kako smo rekel, programeranje, potem odpadejo vsa ta…
+
+1489
+01:57:16,000 --> 01:57:22,000
+Dobro. Exciting. Nič, dam ti še zadnjo misl, potem bomo govorili.
+
+1490
+01:57:22,000 --> 01:57:26,000
+Zadnjo misl. Kaj bi povedal svetu?
+
+1491
+01:57:30,000 --> 01:57:31,000
+Ja.
+
+1492
+01:57:31,000 --> 01:57:32,000
+Gremo na pivo.
+
+1493
+01:57:32,000 --> 01:57:38,000
+Ja, ne, dobro, to tudi bomo šli, ampak… Ne, tako, mislim,
+
+1494
+01:57:38,000 --> 01:57:44,000
+da open source je men dal velik, ampak potem tudi moraš nekako živeti.
+
+1495
+01:57:45,000 --> 01:57:49,000
+Ti ni več to samo kot služba, ampak je to način življena, saj za me.
+
+1496
+01:57:52,000 --> 01:57:56,000
+Mi ni bilo nikoli žal, da bi kaj drugega zbral, pa se imel kakšne ponudbe
+
+1497
+01:57:56,000 --> 01:58:02,000
+na teh velikih, ampak življenje doma, malo zelo življenje v tovini,
+
+1498
+01:58:02,000 --> 01:58:07,000
+ima svoje prednosti, da mu, če ima več svetu, vidiš, je pa tudi bolj naporan.
+
+1499
+01:58:07,000 --> 01:58:12,000
+Zdaj doma, saj za me, sem si ga nekako tako organiziral tudi čez,
+
+1500
+01:58:12,000 --> 01:58:16,000
+da si ga dojelal dost kvalitetno, priživim še iz vendela,
+
+1501
+01:58:17,000 --> 01:58:20,000
+pa open source tudi tako, mi je pa vse en dal peljko,
+
+1502
+01:58:21,000 --> 01:58:24,000
+sem tudi veliko speta spoznal, pa res zanimive ljudi,
+
+1503
+01:58:24,000 --> 01:58:28,000
+pa res tako isto tako strastne, kar se tega dela tiče,
+
+1504
+01:58:29,000 --> 01:58:35,000
+da potem res vidiš, zakaj so v stvari tako orang in dobro narejene.
+
+1505
+01:58:36,000 --> 01:58:40,000
+Priključenje takih ljudi, kot je Gavin King spoznat od zelo blizu,
+
+1506
+01:58:40,000 --> 01:58:43,000
+je vse en zelo, zelo zanimivo.
+
+1507
+01:58:43,000 --> 01:58:47,000
+Pa še pol, pol kaj drugih, moče so kakšni še bolj, kaj jih pa niti niso,
+
+1508
+01:58:47,000 --> 01:58:51,000
+tukaj sem že parkrat jih omenul, kaj sta mene veliko naučila,
+
+1509
+01:58:51,000 --> 01:58:54,000
+oziroma sem z njima raz ogovrat v Scott Stark pa Adrian Brock,
+
+1510
+01:58:54,000 --> 01:58:58,000
+to je ene dva, ki ste me vzela od svoje krilo na začetku,
+
+1511
+01:58:59,000 --> 01:59:03,000
+in sem res raz z njima zelo velik, pa ste tudi zelo fascinantni človek,
+
+1512
+01:59:04,000 --> 01:59:07,000
+pa jih nikoli niti ne ve, ne veš pa recimo za Gavina Kinga,
+
+1513
+01:59:08,000 --> 01:59:11,000
+kaj ga poznaš, ne, pa še pol en drugih se najde.
+
+1514
+01:59:13,000 --> 01:59:17,000
+Tako da ne biti strah vas open source popraviti,
+
+1515
+01:59:17,000 --> 01:59:21,000
+kaj še en bug, dva, tri, pa se pa v komu pridružiti, ne.
+
+1516
+01:59:21,000 --> 01:59:24,000
+Nismo mi, nismo več jedini, moče smo res,
+
+1517
+01:59:25,000 --> 01:59:28,000
+zame tako največje open source na svetu,
+
+1518
+01:59:28,000 --> 01:59:31,000
+ampak nismo pa več jedini, ne.
+
+1519
+01:59:32,000 --> 01:59:36,000
+Aleš Justin, najlepša ti hvala za tvoj čas in tvojo kontribucijo v open source,
+
+1520
+01:59:37,000 --> 01:59:40,000
+ustan originalno še naprej.
+
+1521
+01:59:40,000 --> 01:59:43,000
+Andraž Sraka, hvala tudi za tvoj čas.
+
+1522
+01:59:43,000 --> 01:59:47,000
+Če vam je bila ta epizoda všeč, prosim delajte jo s svojimi prijatelji,
+
+1523
+01:59:47,000 --> 01:59:53,000
+dajte nam kakšen feedback in se vidimo 24.11.
+
+1524
+01:59:54,000 --> 01:59:56,000
+Srečno in do prihodnje!

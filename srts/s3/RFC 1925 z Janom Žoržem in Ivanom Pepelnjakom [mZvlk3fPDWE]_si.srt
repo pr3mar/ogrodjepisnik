@@ -1,0 +1,8138 @@
+1
+00:00:00,000 --> 00:00:11,000
+🎵🎵🎵
+
+2
+00:00:11,000 --> 00:00:13,000
+Evo, lahko štartamo.
+
+3
+00:00:13,000 --> 00:00:15,000
+Lepo pozdravljeni.
+
+4
+00:00:16,000 --> 00:00:19,000
+Tretja sezona, tretja epizoda v Grodje.
+
+5
+00:00:19,000 --> 00:00:23,000
+Malo drugač. Malce bom držal še vedno je v Grodje.
+
+6
+00:00:23,000 --> 00:00:25,000
+Sam dones tukaj ni oto.
+
+7
+00:00:25,000 --> 00:00:27,000
+Dones je oto v vzadju.
+
+8
+00:00:27,000 --> 00:00:30,000
+Oto, kje si? Ne vidimo te.
+
+9
+00:00:30,000 --> 00:00:32,000
+Pije pivo.
+
+10
+00:00:32,000 --> 00:00:41,000
+Je pa zato z mano taka zanimiva gosta vabljena dones v tale pogovor.
+
+11
+00:00:41,000 --> 00:00:44,000
+Jaz upam, da bomo imeli pester pogovor.
+
+12
+00:00:44,000 --> 00:00:48,000
+Z mano Ivan Popelnjak, Jan Žorš.
+
+13
+00:00:48,000 --> 00:00:54,000
+Zdaj fulj sem se ukvarjal s tem, kako v tle zdaj nekako puno predstavam.
+
+14
+00:00:54,000 --> 00:00:56,000
+Rečem tako siva iminenca.
+
+15
+00:00:56,000 --> 00:00:58,000
+Stara prca.
+
+16
+00:00:58,000 --> 00:01:02,000
+Ja, tle pač mislim nekaj stara, ampak tako prekaljena, izkušena.
+
+17
+00:01:02,000 --> 00:01:04,000
+Sam stara.
+
+18
+00:01:04,000 --> 00:01:05,000
+Stara, ne.
+
+19
+00:01:05,000 --> 00:01:06,000
+Otrujena.
+
+20
+00:01:06,000 --> 00:01:07,000
+Tako.
+
+21
+00:01:07,000 --> 00:01:08,000
+Otrujena.
+
+22
+00:01:08,000 --> 00:01:09,000
+Pred penzijo.
+
+23
+00:01:09,000 --> 00:01:11,000
+Uf, pa ne bi to temo.
+
+24
+00:01:11,000 --> 00:01:13,000
+Otrujena proizvajalcev.
+
+25
+00:01:13,000 --> 00:01:16,000
+Dajmo mogoče drugač se bolj vprašovati.
+
+26
+00:01:16,000 --> 00:01:20,000
+Otrujena od česa, pa se bomo zdaj pogovarjali, kaj je tist, kaj sta najbolj otrujena.
+
+27
+00:01:20,000 --> 00:01:24,000
+Ampak tako ga bom na hiter prvo predstavljal, pa ste prvo mogoče dodali.
+
+28
+00:01:24,000 --> 00:01:31,000
+Ivan, ti, kot bloger, podkester, ustvarjalec, arhitekt, se pravi...
+
+29
+00:01:31,000 --> 00:01:33,000
+Kaj sem še pozabil?
+
+30
+00:01:33,000 --> 00:01:34,000
+Urejde.
+
+31
+00:01:34,000 --> 00:01:37,000
+Je to to, kaj se zadnje čase poistovete, se pravi...
+
+32
+00:01:37,000 --> 00:01:39,000
+O, zadnje čase sem programer.
+
+33
+00:01:39,000 --> 00:01:41,000
+Točen, točen, tudi od tega pridemo.
+
+34
+00:01:41,000 --> 00:01:45,000
+Jan pa, kot tist nek...
+
+35
+00:01:45,000 --> 00:01:47,000
+Jan pač.
+
+36
+00:01:47,000 --> 00:01:49,000
+Skor je bil evangelist.
+
+37
+00:01:49,000 --> 00:01:51,000
+Govornik.
+
+38
+00:01:51,000 --> 00:01:58,000
+V Sloveniji pač predvsem tist, ki te najbolj poznamo, je tist, ki je pušil vsem IPV6.
+
+39
+00:01:58,000 --> 00:02:09,000
+Oziroma, jaz bi tukaj dodal to osebno noto, da si lahko rečem zaslužen, da si dejansko vse operaterje združil, da se pogovarjajo.
+
+40
+00:02:09,000 --> 00:02:18,000
+Kaj se mi zdi, da tako ene, ne vem, petnaest let nazaj pa dvajset ni bilo tega, te sinergije med operaterji.
+
+41
+00:02:18,000 --> 00:02:21,000
+Ja, ta kultura se je zelo spremenila, ne.
+
+42
+00:02:21,000 --> 00:02:23,000
+Takrat smo naredili...
+
+43
+00:02:23,000 --> 00:02:26,000
+Kaj je bilo to? Kjerga leta smo naredili Gov6?
+
+44
+00:02:26,000 --> 00:02:32,000
+V bistvu smo naredili na tako IPV6 skupnost, kjer so prišli operaterji zraven.
+
+45
+00:02:33,000 --> 00:02:41,000
+Takrat se spomnim, pri te prvih mitingih, ki smo jih imeli, so se malo gledali en druzga, vsaki je bil v svojem kotu,
+
+46
+00:02:41,000 --> 00:02:44,000
+ki je ponavadi so se pogovarjali preko dvetnikov.
+
+47
+00:02:44,000 --> 00:02:55,000
+Pol pa kar naenkrat je to postala neka skupnost, neka internetna skupnost, ki se je potem nekako po neki naravni poti transformirala v SINOK,
+
+48
+00:02:55,000 --> 00:02:58,000
+to je Slovenska Network Operators Grupa.
+
+49
+00:02:59,000 --> 00:03:05,000
+In mislim, da zdaj fantje kar med sabo komunicirajo, so postali prijatelji.
+
+50
+00:03:05,000 --> 00:03:15,000
+Meni je najbolj všeč na mitingu med odmorom, ki slišim čebljanje po hodnikih, ki tega na začetku ni bilo.
+
+51
+00:03:15,000 --> 00:03:23,000
+In mislim, da se je zelo spremenila kultura. Na začetku vsak držav znanje zase, zdaj pa, da med sabo delijo.
+
+52
+00:03:23,000 --> 00:03:26,000
+In vesev sem, da sem lahko tukaj nekaj pomagal.
+
+53
+00:03:27,000 --> 00:03:31,000
+Zdaj pa pridemo, se bomo tega še dotakljali.
+
+54
+00:03:31,000 --> 00:03:40,000
+V glavnem, danes sem se nekako zamislil, da bi več od mene se pogovarjali v nekih teh globinah mrežnega inženiranja.
+
+55
+00:03:40,000 --> 00:03:43,000
+A je to nek ta prav termin za to?
+
+56
+00:03:43,000 --> 00:03:51,000
+Se pravi, vse, kar je nekaj vezano na mreženje, pa ne mislim ta, a vse je človeško mreženje,
+
+57
+00:03:51,000 --> 00:04:02,000
+ki je tako med divajsi in povezovanjem, pa pač vidva kot nekdo, ki je so ustvarjal, če lahko temu rečem, da internet danes tak je,
+
+58
+00:04:02,000 --> 00:04:13,000
+če ne drugega, s tem, da poučujete, izobražujete, pizdite čez vendorje, ne, več, je to nek tak.
+
+59
+00:04:13,000 --> 00:04:16,000
+Kako se temu reče, internet v odovodari?
+
+60
+00:04:17,000 --> 00:04:27,000
+Ja, a veš kaj, dejansko to smo, ne, mislim, kompleten networking, ne samo internet, je infrastruktura, ki je tako kot vodovod pa elektrika.
+
+61
+00:04:27,000 --> 00:04:30,000
+Če veš, da obstaje nekje hodovna robe.
+
+62
+00:04:30,000 --> 00:04:32,000
+Ja, točno tako.
+
+63
+00:04:32,000 --> 00:04:35,000
+Ta drug problem, ki je, je pa, da se njihče tega ne zaveda.
+
+64
+00:04:35,000 --> 00:04:46,000
+Ta prvi pač, ja, se bomo divajdo pri njih kašno rekli, ne, divajdo pri njih mislili, da zakoni FIS-ke za nje ne veljajo, ne, oni živijo v matrixu in tako naprej, ne.
+
+65
+00:04:46,000 --> 00:04:57,000
+Ta drugo, kar je, elektrika, ne, imaš elektrofakulteto, ki se ukvarja z elektriko, pet let.
+
+66
+00:04:57,000 --> 00:05:04,000
+Na elektrofakulteti imaš šibkitok pa jakitok, sejo časih si ga imel, pa avtomatiko, pa vse tisto ostalo, ne.
+
+67
+00:05:04,000 --> 00:05:13,000
+In obstaja človek, ki pet let študira, kako bo podaljnovodih vozil neke ogromne količine električne energije.
+
+68
+00:05:13,000 --> 00:05:18,000
+Na fakulteti za računalništvo imaš eno leto networkinga in to je to.
+
+69
+00:05:19,000 --> 00:05:29,000
+Ja, in ljudje, ki grejo v štaceno, pa kupijo fen, pa ga doma uštekajo v štekr, se ne sprašujejo, kako je elektrika do njih prišla, ne.
+
+70
+00:05:29,000 --> 00:05:35,000
+Seveda ne, sej to ni njihov, tudi človek, ki se na wireless praklopi, ni treba se sprašuje, kako je wireless do njega prišel.
+
+71
+00:05:35,000 --> 00:05:48,000
+Ampak hočem nešto, da izobražijo, za tehnologijo, ki je stara 200 let, izobražujejo strokovnjake na posebni smeri na fakulteti za elektrotehniko,
+
+72
+00:05:48,000 --> 00:05:53,000
+metenka za tehnologijo, ki je res da stara samo 40 ali pa 50 let.
+
+73
+00:05:53,000 --> 00:05:58,000
+Imamo pa eno leto enega predmeta na fakulteti za računalništvo.
+
+74
+00:05:59,000 --> 00:06:09,000
+Obe tehnologije sta za današnje življenje enako pomembni, ker če ni elektrike, networking ne bodo delal, če ni networkinga, pa veste, kaj bodo delali.
+
+75
+00:06:09,000 --> 00:06:11,000
+Ja, malo ali pa nač ne bodo delali.
+
+76
+00:06:11,000 --> 00:06:18,000
+Nač. Še igrat se ne zera tega, ker se mora na server povezati za to, da te spusti zravn, da lahko začneš igrat.
+
+77
+00:06:19,000 --> 00:06:20,000
+Načno tako.
+
+78
+00:06:20,000 --> 00:06:36,000
+No, ampak, dobro izhodišče. Zdaj pa, kako ste pa videli se tukaj notri? Kaj je bilo tisto, da ste bi rekli, to je nekaj, ki naju zanima v najni karieri in ste se s tem začeli ukvarjati?
+
+79
+00:06:38,000 --> 00:06:39,000
+A všeč ti začel, daj.
+
+80
+00:06:39,000 --> 00:06:42,000
+Ja, saj sem bil pred tabo ne vem koliko, deset let.
+
+81
+00:06:43,000 --> 00:06:54,000
+Ne desetlih, ne, njihov sem pa ziher. Veš, kaj je blazno zanimivo je bilo, to so bili še časi osem bitnih procesorjev. Izkradeli ta partner, če se še kdo spomni.
+
+82
+00:06:54,000 --> 00:07:05,000
+In vzad so imeli serijske porte. To je tako, ka USB se mobil počasi za tiste, ki so malo mlajši. Koliko ima dons USB-ci?
+
+83
+00:07:05,000 --> 00:07:06,000
+Alot.
+
+84
+00:07:07,000 --> 00:07:24,000
+Ne vemo, ne. No, takrat smo spravili skozi tisti svojih 30 tisoč bitov na sekundo. In potem je nekdo prišel na genialno idejo, da če pa damo zdaj, sfejkamo standard, kar se v networkingu vetno dogaja, ne.
+
+85
+00:07:25,000 --> 00:07:38,000
+In povežamo resil in transmit za diodo, ne, smo v bistvu na del basna, katera ima lahko več računalnikov. In potem je on imel to genialno idejo enkrat v Benampiru, pa je pa mene našel, pa je rekel, zdaj pa stega nekaj narediti.
+
+86
+00:07:39,000 --> 00:07:52,000
+No in pa še tako je nastavil network med partnerji, kaj so ga pa lepo v produkt spravili, pa više hitrosti, pa boljši interfejs, tako da je na koncu celo delala, in pa kot takrat naprej smo bili v hukti.
+
+87
+00:07:53,000 --> 00:08:00,000
+Ampak kaj je tis, kaj te je pa še gnal, tehnologija še naprej, pa tudi še vedno ono?
+
+88
+00:08:01,000 --> 00:08:08,000
+A veš kaj zanimiv je, ki ti uspe različne fizične naprave priprav do tega, da komunicirajo med sabo, ne?
+
+89
+00:08:09,000 --> 00:08:14,000
+Veš, kar dobro, glavna knjiga je glavna knjiga, to teče na eno računalniku, to je dolgo čas.
+
+90
+00:08:16,000 --> 00:08:19,000
+Kako mašine med sabo komunicirajo, ne?
+
+91
+00:08:20,000 --> 00:08:29,000
+Recimo jaz se spomnim, še z cajtov Vaksov, da je bilo to leta 2 in 3 po Kristu, so enkrat, ki so implementirali TCP stack, pa so imeli dva.
+
+92
+00:08:31,000 --> 00:08:43,000
+Pa so imeli Multinet, pa so imeli Deco stack, ne? Tisti Vaks, ki je imel Multinet je lahko govoril z Linux mošino, Deco stack je lahko govoril z Linux mošino, med sabo pa nista mogla, ne?
+
+93
+00:08:44,000 --> 00:08:46,000
+To so bili, ja, zanimivi časi.
+
+94
+00:08:47,000 --> 00:08:58,000
+Ne, sicer jaz vem, da je to bilo z IBMovim AXom, zaradi tega, ker je drugo enkapsulacijo na Ethernetu uporabljal, za ta dva pa nisem že slišel.
+
+95
+00:08:59,000 --> 00:09:00,000
+Ja, ja, sem se jaz smatral z njimi dol.
+
+96
+00:09:01,000 --> 00:09:04,000
+Čakaj malo, pa je bil TCP IP stack na WMS-u ali na Ultrix-u?
+
+97
+00:09:05,000 --> 00:09:05,000
+
+98
+00:09:06,000 --> 00:09:08,000
+Ok, mislim, Multinet vem, da je bil, s tem ga pridajal.
+
+99
+00:09:09,000 --> 00:09:10,000
+Ja, ja, verjamem, ja.
+
+100
+00:09:12,000 --> 00:09:13,000
+Celo par smo jih pridal.
+
+101
+00:09:13,000 --> 00:09:14,000
+Ja.
+
+102
+00:09:15,000 --> 00:09:35,000
+No, ampak, če, da namo preveč li vzame, tako, na hiter, če vzame ta, kako vidva gledate, ne vem, internet ali pa to obdobje, zanazaj, pa danes, kaj vidite največje revolucije, ki so se tukaj zgodili?
+
+103
+00:09:36,000 --> 00:09:38,000
+Mislim, to je drug planet, kar imamo dons, ne?
+
+104
+00:09:39,000 --> 00:09:40,000
+Osnova je še vedno ista, ne?
+
+105
+00:09:40,000 --> 00:09:41,000
+Osnova je še vedno ista.
+
+106
+00:09:42,000 --> 00:09:43,000
+Čakaj, da...
+
+107
+00:09:46,000 --> 00:09:47,000
+Revolucije pa ni bilo.
+
+108
+00:09:48,000 --> 00:09:53,000
+Kaj dones uporabljamo iste protokole, kot smo jih uporabljali 50 let nazaj.
+
+109
+00:09:54,000 --> 00:09:55,000
+Točno tako.
+
+110
+00:09:56,000 --> 00:09:57,000
+Ethernet framing je star, mislim, da lihkar 50 let.
+
+111
+00:09:58,000 --> 00:10:03,000
+Med tem je šel iz 10 megabitov na, kolko smo zdaj, 400 gigabitov?
+
+112
+00:10:04,000 --> 00:10:05,000
+800 celoma.
+
+113
+00:10:06,000 --> 00:10:07,000
+800, 1600.
+
+114
+00:10:07,000 --> 00:10:08,000
+Ja, ja.
+
+115
+00:10:09,000 --> 00:10:10,000
+Pa mislim, da 400 giga je že standardiziran.
+
+116
+00:10:11,000 --> 00:10:12,000
+Ja, ja, to že prodajajo po trafikah.
+
+117
+00:10:13,000 --> 00:10:14,000
+Tako, ja.
+
+118
+00:10:15,000 --> 00:10:23,000
+TCP, IP, odkar so ta prve RFC-e napisali za IP, pa TCP, se v bistvu nis premenil?
+
+119
+00:10:24,000 --> 00:10:34,000
+Ja, TCP je dobil par novih bitov, pa congestion avoidance je zdaj boljši, pa mejčken bolj zadeva dela, pa IP pač, ja.
+
+120
+00:10:34,000 --> 00:10:36,000
+Pa IPv6 je v mesto prišel.
+
+121
+00:10:37,000 --> 00:10:38,000
+Kaj je spremenil določene zadeve.
+
+122
+00:10:39,000 --> 00:10:41,000
+Ja, kaj je podalj šel na slove, naš druzga.
+
+123
+00:10:42,000 --> 00:10:43,000
+Zakompliciral določene stvari.
+
+124
+00:10:44,000 --> 00:10:45,000
+Ja, ne. Ja pa ne.
+
+125
+00:10:46,000 --> 00:10:50,000
+Vsak programer bi moral prevrati The Mythical Man-Month.
+
+126
+00:10:51,000 --> 00:10:58,000
+To je knjiga, ki jo je napisal človek, ki je bil project manager za IBM 370 operacijski sistem.
+
+127
+00:10:59,000 --> 00:11:05,000
+To je bila zadeva, ki je blazno zamujala in se je skorz cancela, ampak pa so nekako to skorz potegali.
+
+128
+00:11:06,000 --> 00:11:12,000
+In tip razlaga med drugim, da ta prvi sistem, ki ga boš naredil, bo vedno za nač, ko se očiš.
+
+129
+00:11:13,000 --> 00:11:16,000
+In je samo vprašanje, a ga možeš stranki dobaljati ali ga ne boš.
+
+130
+00:11:17,000 --> 00:11:20,000
+No, internet smo strankam dobaljali in posledice so tukaj.
+
+131
+00:11:21,000 --> 00:11:23,000
+To še danes ozdržujemo oziroma krpamo.
+
+132
+00:11:23,000 --> 00:11:26,000
+Ja, in še danes krpamo in se borimo s spamom in tako naprej.
+
+133
+00:11:27,000 --> 00:11:34,000
+Samo zato, ker so idioti nekako če rekli, we are all friends in ne bomo maila zaračunavali in kar je še teh krtenizmov.
+
+134
+00:11:35,000 --> 00:11:38,000
+In še danes vsi borimo s spamom, zato ker pošiljatelju ni treba plačati.
+
+135
+00:11:39,000 --> 00:11:47,000
+Vse to izhaja iz premise, da smo na začetku bili vsi sami dobre ljudje na internetu, ne?
+
+136
+00:11:48,000 --> 00:11:51,000
+Vse to izhaja iz tega, da si cer.
+
+137
+00:11:52,000 --> 00:11:59,000
+Transportno omrežje je nastalo kot posledica enega DARPA projekta, aplikacije so pisali pa na Berkeleyju.
+
+138
+00:12:00,000 --> 00:12:01,000
+Simo.
+
+139
+00:12:02,000 --> 00:12:10,000
+No, in potem ti ta mitig amendment pravi, potem pa konečno dobiš budžet, da boš ta sistem na novo napisal.
+
+140
+00:12:11,000 --> 00:12:13,000
+In potem pride do second system effect.
+
+141
+00:12:14,000 --> 00:12:19,000
+Ker si se naučil, kaj vse si prej na robe naredil in zdaj boš vse popravil in bo vse drgač.
+
+142
+00:12:19,000 --> 00:12:21,000
+In ta drug sistem je še slabši od ta prvega.
+
+143
+00:12:22,000 --> 00:12:24,000
+Eto ti IPv6.
+
+144
+00:12:25,000 --> 00:12:26,000
+In IETF.
+
+145
+00:12:27,000 --> 00:12:28,000
+Ja, IETF je pa...
+
+146
+00:12:29,000 --> 00:12:35,000
+In potem imaš, kako prejiti iz IPv4 v IPv6, imaš transition mehanizme, ne?
+
+147
+00:12:36,000 --> 00:12:44,000
+In potem gotoviš, da jih imaš 50 njih, transition mehanizmov, in nekdo potem pride in se spomni, to nič, to ni v redu.
+
+148
+00:12:45,000 --> 00:12:49,000
+Dejmo narediti transition mehanizem, ki bo naredil vseh 50 v njih.
+
+149
+00:12:50,000 --> 00:12:52,000
+In potem imamo 51 transition mehanizmov.
+
+150
+00:12:53,000 --> 00:12:54,000
+Ker je nič boljši, kot vse ostalih 50.
+
+151
+00:12:55,000 --> 00:12:56,000
+Točno tako.
+
+152
+00:12:57,000 --> 00:12:58,000
+Gledaj tudi XKCD standards.
+
+153
+00:12:59,000 --> 00:13:00,000
+Tako, ne?
+
+154
+00:13:01,000 --> 00:13:09,000
+Zdaj pa veš, nekot sem se z rožami ukvarjal in potem gotoviš, da obstaja v marsikje deset različnih, kaj so to, vrste.
+
+155
+00:13:10,000 --> 00:13:11,000
+Pa pod vrste rož, ne?
+
+156
+00:13:12,000 --> 00:13:14,000
+Ki jih praktično njihče ne loči.
+
+157
+00:13:15,000 --> 00:13:16,000
+Ker so si tako zelo podobne, ne?
+
+158
+00:13:17,000 --> 00:13:22,000
+In na konc prideš do tega, da je varjetno marsikjašna vrsta nastala zato, ker nekdo doklasko nalogo rabo.
+
+159
+00:13:24,000 --> 00:13:31,000
+In marsikjašna tehnologija v internetu in ITF-a nastala zaradi tega, ker nekdo rabo patent ali pa ITF draft.
+
+160
+00:13:32,000 --> 00:13:34,000
+Ne, v bistvu je zadeva še hoj.
+
+161
+00:13:35,000 --> 00:13:38,000
+Tam izumijo problem, da ga lahko pol rešijo, ne?
+
+162
+00:13:40,000 --> 00:13:45,000
+Zdaj bomo malo kakšnega poslušalca zgubili, ne?
+
+163
+00:13:46,000 --> 00:13:48,000
+Mogli bi korak nazaj narediti in razložiti.
+
+164
+00:13:49,000 --> 00:13:50,000
+Dva kilometra nazaj hočeš?
+
+165
+00:13:51,000 --> 00:13:53,000
+Te organi, kaj je ITF, kaj predstavlja.
+
+166
+00:13:55,000 --> 00:13:58,000
+Oziroma, dejmo drugač za stat.
+
+167
+00:13:59,000 --> 00:14:05,000
+Če pač smo na tega utroka spravili, ki mu danes spravimo o internetu,
+
+168
+00:14:06,000 --> 00:14:13,000
+kdo zdaj s čim odloči, če gava je to zdaj lesnivna, kdo zdaj to odloča, kakšno bo jo predstavljala.
+
+169
+00:14:14,000 --> 00:14:16,000
+To je pa lepota interneta, ne?
+
+170
+00:14:16,000 --> 00:14:17,000
+Njihče.
+
+171
+00:14:18,000 --> 00:14:21,000
+Prvič što, njihče nima roke čez.
+
+172
+00:14:22,000 --> 00:14:26,000
+Dobar den, eskiz in tako naprej, ne, ampak pustimo zdaj to.
+
+173
+00:14:27,000 --> 00:14:36,000
+Ampak v bistvu, ne, internetne tehnologije so en redkih standardov, kjer standard nastaja v javnosti.
+
+174
+00:14:38,000 --> 00:14:40,000
+Ker lahko smatramo, da je dober.
+
+175
+00:14:41,000 --> 00:14:43,000
+To je odlično. To je edino pravo, ne.
+
+176
+00:14:44,000 --> 00:14:52,000
+Ker v bistvu vse ostale standardne organizacije, ki se ukvarjajo z telekomunikacijami, živijo od prodajanja papirja.
+
+177
+00:14:53,000 --> 00:14:58,000
+In imaš ITU, ki je predstavnik držav.
+
+178
+00:14:59,000 --> 00:15:05,000
+In tam predstavniki držav glasujejo o čemarkoli, ne, mislim, čudovito, ne, kaj imajo.
+
+179
+00:15:05,000 --> 00:15:09,000
+Kako pa oni vejo telekomunikacije? Oni vse strokovnjake pošljamo.
+
+180
+00:15:09,000 --> 00:15:11,000
+No, nima je uspela telefonijo nares, ne.
+
+181
+00:15:11,000 --> 00:15:12,000
+Pa X25.
+
+182
+00:15:12,000 --> 00:15:14,000
+X25, ja, pa X400.
+
+183
+00:15:14,000 --> 00:15:15,000
+Ja.
+
+184
+00:15:15,000 --> 00:15:16,000
+Tako.
+
+185
+00:15:17,000 --> 00:15:22,000
+Vsega tega zdaj ni več, z dobrim razlogom, samo za tiste, ki ne veste, o čem govorimo.
+
+186
+00:15:23,000 --> 00:15:25,000
+So dokaze, kaj so sposobni narediti.
+
+187
+00:15:25,000 --> 00:15:31,000
+Mislim, da ta zadnji krik, ki je imel še uspeho, je bil ASDN, pa pa zadeva počas je umrla.
+
+188
+00:15:31,000 --> 00:15:32,000
+Tako.
+
+189
+00:15:32,000 --> 00:15:33,000
+Počas ne bo leče snoditi.
+
+190
+00:15:33,000 --> 00:15:36,000
+Zdaj bojo pa standardizirali internet. Next generation internet.
+
+191
+00:15:36,000 --> 00:15:37,000
+Ja, next generation internet.
+
+192
+00:15:37,000 --> 00:15:39,000
+Ja, ker ta ni dober, veš, next generation.
+
+193
+00:15:39,000 --> 00:15:40,000
+Ja.
+
+194
+00:15:40,000 --> 00:15:44,000
+Demo se skupaj podred, ne, pa nares čist na novo.
+
+195
+00:15:44,000 --> 00:15:46,000
+Kaj bo bolj podobno telefoniji, ne.
+
+196
+00:15:46,000 --> 00:15:52,000
+Ne, pa prav podred ali samo dejmo, samo lansirati nekaj novega, pa pal upati, da se vsi zmigrirajo na nekaj novega.
+
+197
+00:15:52,000 --> 00:15:55,000
+A ti povem eno zgodbo iz 2012.
+
+198
+00:15:56,000 --> 00:16:03,000
+Začel sem na internet society vdelati in je bil eni pleni potenčalni meeting v Dubaju, ne, od ITU, ja, ne.
+
+199
+00:16:04,000 --> 00:16:10,000
+In sem jaz dobil uroke tisto, tisto, pač neke predloge nekih držav, ne.
+
+200
+00:16:11,000 --> 00:16:17,000
+In glega hodiča, jaz tam ne vem, letališču, mislim, da v Los Angelesu tisto berem in prasnem v smeh, ne.
+
+201
+00:16:18,000 --> 00:16:29,000
+Dejansko mislim, da je Alžirja ali eno od teh držav je predlagala, da vsi smo videli kako, ne, kako so se IPV4 naslovi razdelili, ne,
+
+202
+00:16:29,000 --> 00:16:37,000
+da pač underdeveloped countries nimajo dovolj IPV4 naslovov, ne, za zagraditi internet, ne, ker so vse pobrali tisti grdi razviti, ne.
+
+203
+00:16:38,000 --> 00:16:52,000
+No, zdaj, njihova rešitev je ta, da reclaimamo, poberemo vse IPV4 naslove na svetu spet nazaj v en velik pool, to pomeni vsi jih morajo vrniti in dekonfigurirati, ne.
+
+204
+00:16:52,000 --> 00:17:03,000
+In potem, da jih bojo oni na novo razdelili po država, glede na, ne na BGP, kaj je že, BDP, pa število prebivalcev pa tako naprej, ne.
+
+205
+00:17:04,000 --> 00:17:14,000
+Tako so se mi v glavi začeli vrtati, ne, kako bo to funkcioniralo, pa sem pa pogrunt, v bistvu, to je fulj dobra ideja, ne.
+
+206
+00:17:14,000 --> 00:17:21,000
+To je krasna ideja, ne, in jaz sem dejansko upel, da bi se to zgodilo. A veš, koliko hitro bi IPV6 implementirali ljudje?
+
+207
+00:17:23,000 --> 00:17:28,000
+Ej, v momentu bi cel svet bil na IPV6, tako, v parih mesecih, po moje.
+
+208
+00:17:28,000 --> 00:17:33,000
+To je, verjetno, ta del inženiranja, ki je, verjetno, ta Greenfield deployment je fulj simple.
+
+209
+00:17:33,000 --> 00:17:34,000
+Ja.
+
+210
+00:17:34,000 --> 00:17:35,000
+A ne?
+
+211
+00:17:35,000 --> 00:17:37,000
+Mislim, ne je fulj simple, ampak je obladljivo.
+
+212
+00:17:37,000 --> 00:17:38,000
+Tako.
+
+213
+00:17:38,000 --> 00:17:42,000
+Dokrat zaštartaš na nekaj na novo, je fulj v redu, ko pa imaš upravka z...
+
+214
+00:17:42,000 --> 00:17:43,000
+Je obladljivo.
+
+215
+00:17:43,000 --> 00:17:56,000
+Upravka z migracijo, a ne, kaj pa, a veš, pa moje popolno vprašanje temu je, a, in near zero time je ta migration nareden, da se to porazdeli, ali kako...
+
+216
+00:17:56,000 --> 00:18:03,000
+Kaj ne, ker če si bov čez vzel, to pomeni, da smo lahko en let brez, ker prednjič si pač oni to potali.
+
+217
+00:18:03,000 --> 00:18:05,000
+Pa se, oni so bili en let brez, pa se niso sekeli.
+
+218
+00:18:05,000 --> 00:18:10,000
+Je, oni morajo najprej pobrati naslovbe nazaj, potem pa narediti študijo, kako bojo to razdelili.
+
+219
+00:18:11,000 --> 00:18:14,000
+Tako pač to gre, na unih koncih.
+
+220
+00:18:14,000 --> 00:18:15,000
+Ja.
+
+221
+00:18:16,000 --> 00:18:23,000
+V glavnem, če gremo naprej, se pravi, ITU je lahko javno povedal, kako dobro so dokazali, koliko so sposobni.
+
+222
+00:18:24,000 --> 00:18:32,000
+Potem imamo ISO, to so uniki, ki so naredili ISO 9001, pa 14001, pa 12001, pa kaj rešiti.
+
+223
+00:18:32,000 --> 00:18:36,000
+Veselo, ki niso slabi standardni, samo pač implementirajo se, kot kar se, ampak to je druga tema.
+
+224
+00:18:36,000 --> 00:18:38,000
+Velika dosa, samo na papirju eno.
+
+225
+00:18:38,000 --> 00:18:43,000
+Ja, a ne, veš kaj, problem je, ker ljudje zdokumentirajo obstoječ drek in potem so compliant.
+
+226
+00:18:43,000 --> 00:18:44,000
+Pa veliko papirja radeš.
+
+227
+00:18:44,000 --> 00:18:46,000
+Ker vejo, kaj delajo.
+
+228
+00:18:46,000 --> 00:18:49,000
+Delajo isti drek, kot prej, ampak je zdokumentirano in...
+
+229
+00:18:49,000 --> 00:18:50,000
+Zdokumentira.
+
+230
+00:18:50,000 --> 00:18:52,000
+Dokler je drek konsistenten, je v redu.
+
+231
+00:18:54,000 --> 00:18:55,000
+Točno tako.
+
+232
+00:18:55,000 --> 00:18:57,000
+Jaz sem ti dobro opisal ISO 9001.
+
+233
+00:18:58,000 --> 00:19:10,000
+Spet, to je zelo taka opake, kaj je to po slovensko, zamegljena organizacija, ki daje ven neke standarde, ki jih ne moraš dobiti, ampak jih moraš kupiti.
+
+234
+00:19:11,000 --> 00:19:19,000
+In oni se med sabo zmenjajo, kar se zmenjajo, rezultati so kakršni. So kompletna industrija, presojevalce oživijo od tega.
+
+235
+00:19:19,000 --> 00:19:22,000
+In hvala Bogu, da se internet ni tako razvija.
+
+236
+00:19:22,000 --> 00:19:29,000
+A veš, da bom šel propogledat, kakršen je najmanj strani od kakršnega koli njihovega standarda.
+
+237
+00:19:29,000 --> 00:19:32,000
+Po moje manjke deset tisoč, ne vem, če je.
+
+238
+00:19:32,000 --> 00:19:33,000
+Ne, ne, ne, ne, ne, ne.
+
+239
+00:19:33,000 --> 00:19:34,000
+Podsto.
+
+240
+00:19:34,000 --> 00:19:35,000
+Ker ga?
+
+241
+00:19:35,000 --> 00:19:36,000
+Res.
+
+242
+00:19:36,000 --> 00:19:41,000
+Jaz sem cel ISO 9001 standard prebral, pa ni bilo to dolgo.
+
+243
+00:19:41,000 --> 00:19:42,000
+A, res?
+
+244
+00:19:42,000 --> 00:19:47,000
+Ja. Veš kaj, standard je zelo lepo napisan. V bistvu vse, kar piše, je, moraš dokumentirati, kaj delaš.
+
+245
+00:19:47,000 --> 00:19:50,000
+Predlagamo, da imaš teh ne vem kolik deset razdelkov.
+
+246
+00:19:50,000 --> 00:19:57,000
+Lepo prosim v vseh tih razdelkih, ki pokrivajo to, to, to, to, to, napiši, kaj delaš. In to je standard.
+
+247
+00:19:58,000 --> 00:20:03,000
+Kaj pa potem presojevalci, svetovalci, modrovalci naprej s tega naredijo in pa drugo.
+
+248
+00:20:04,000 --> 00:20:13,000
+Potem imamo IEEE, ne, to so, to je gospoda, ki silasti Ethernet, ne, pa token ring, pa FTDI, pa kar je še teh malenkosti, ne.
+
+249
+00:20:13,000 --> 00:20:14,000
+Ja.
+
+250
+00:20:14,000 --> 00:20:25,000
+In spet, isto, ne, proizvajalci nekaj med sabo motoviljo, mučkajo v temi, dalec stran odoči javnosti in potem ven nekaj pride in ah, ah, to je to.
+
+251
+00:20:25,000 --> 00:20:26,000
+To je to.
+
+252
+00:20:26,000 --> 00:20:27,000
+Bost srečen, da smo nekaj naredili.
+
+253
+00:20:27,000 --> 00:20:29,000
+Ja, pa imaš 3GPP.
+
+254
+00:20:29,000 --> 00:20:31,000
+Isto, samo drugi proizvajalci.
+
+255
+00:20:31,000 --> 00:20:33,000
+Drugi, to so pa za mobilna mrežja.
+
+256
+00:20:33,000 --> 00:20:34,000
+Al pa ETSI.
+
+257
+00:20:34,000 --> 00:20:35,000
+Ja.
+
+258
+00:20:35,000 --> 00:20:36,000
+No potem imaš pa še ETSI.
+
+259
+00:20:36,000 --> 00:20:38,000
+Kaj pa ISO, ampak evropski.
+
+260
+00:20:38,000 --> 00:20:39,000
+Ne.
+
+261
+00:20:39,000 --> 00:20:58,000
+In v bistvu edina organizacija, kjer lahko ti kadarkolj pogledaš, kaj se dogaja, kaj ljudje delajo, pobrskaš za deset let nazaj, kdo je kuzlarija, govori in mu to dokažeš in imaš kompletno sozgodovino vseh kuzlarij, ki jih je kdorkolj kadarkolj v javnosti rekel, je IETF.
+
+262
+00:20:59,000 --> 00:21:05,000
+In tam ti lahko greš na miting, greš na mikrofon, pa veš kaj, si jo misliš vsem tem, kar oni tam počnejo.
+
+263
+00:21:05,000 --> 00:21:07,000
+Potem ti dajo jo, pa če ne zotpelajo, pa ne.
+
+264
+00:21:07,000 --> 00:21:12,000
+Tako, ne, tam večinoma so oni z dolgimi, belimi bradami, ne, srici.
+
+265
+00:21:12,000 --> 00:21:18,000
+Ampak se na koncu pač, a je v tem komuniti odovolj razumnih ljudi, kar, a ne.
+
+266
+00:21:18,000 --> 00:21:26,000
+Veš kaj, problem je motivacije, ne, ker jaz ne bom šel na IETF miting, ne, ker to stane.
+
+267
+00:21:26,000 --> 00:21:33,000
+Poleg tega imam lajf, ne, in ne vem zakaj bi se s tem ukvarjal.
+
+268
+00:21:33,000 --> 00:21:41,000
+Veš kar, tam imaš v eni delovni skupini 100 ljudi, no tega jih je 98 plačenih v strani proizvajalcev,
+
+269
+00:21:41,000 --> 00:21:46,000
+za to, da furajo skoz to, kar je proizvajalcu v interesu.
+
+270
+00:21:46,000 --> 00:21:52,000
+In nažalost je proizvajalcu v interesu furat kompleksnost, ker kompleksnost se prodaja.
+
+271
+00:21:52,000 --> 00:21:54,000
+Že iz 80-ih let.
+
+272
+00:21:54,000 --> 00:22:02,000
+A veš, če naredimo nekaj tako enostavnega, da bo vsak znal to zimplementirati in vsak znal to izinštalirati in vsak znal to narediti in prodati,
+
+273
+00:22:02,000 --> 00:22:05,000
+potem smo sami sebe ustrelili v nogo.
+
+274
+00:22:06,000 --> 00:22:15,000
+Ja, jaz sem bil na kar nekih ITF mitingih, še kot, ko sem delal za Internet Society.
+
+275
+00:22:15,000 --> 00:22:19,000
+Ti si vprašal, a so tam dovolj razumni ljudje. Ja.
+
+276
+00:22:19,000 --> 00:22:20,000
+Razumni so.
+
+277
+00:22:20,000 --> 00:22:24,000
+Na ITF-u so zelo razumni in zelo inteligentni ljudje.
+
+278
+00:22:24,000 --> 00:22:28,000
+Bi bil presenečen, tam je zbran cvet inteligence, ne.
+
+279
+00:22:29,000 --> 00:22:33,000
+Zdaj, kakšne imajo motive in drugo, ne.
+
+280
+00:22:33,000 --> 00:22:39,000
+Koliko imajo nekega, ne bom rekel, akademskega znanja, tega je ogromno, ne.
+
+281
+00:22:39,000 --> 00:22:49,000
+Koliko imajo nekega operativnega znanja, kako omrežja čisto zarez delujajo v realnem življenju, to je pa drugo vprašanje.
+
+282
+00:22:49,000 --> 00:22:52,000
+Veš, kako je imajo, ampak zastarelo.
+
+283
+00:22:53,000 --> 00:22:54,000
+Ja, pa precej.
+
+284
+00:22:54,000 --> 00:23:00,000
+Ker marsi kdo od ljudi, ki so tam, je bil v svojem prejšnjem življenju operacij.
+
+285
+00:23:01,000 --> 00:23:07,000
+Potem je šel pa k vendorju, potem pa je tam visel 15 let, pa je postal distinguished engineer.
+
+286
+00:23:08,000 --> 00:23:11,000
+Potem pa smej iti na ITF miting govoriti.
+
+287
+00:23:13,000 --> 00:23:19,000
+In tisto operativno znanje, ki ga je imel, je malo splahnelo, tako kot moje.
+
+288
+00:23:20,000 --> 00:23:25,000
+Hvala Bogu, menilo treba produksijske škatelje inštalirati že 95 let vsaj.
+
+289
+00:23:28,000 --> 00:23:29,000
+Ampak, ok.
+
+290
+00:23:31,000 --> 00:23:39,000
+Dejmo mogoče nazaj v, kot ste zdaj rekli, neke vajne začetke.
+
+291
+00:23:41,000 --> 00:23:48,000
+A dones, se pravi, ta nek poklic mrežnega inženirja,
+
+292
+00:23:49,000 --> 00:23:50,000
+to še rabimo.
+
+293
+00:23:51,000 --> 00:23:53,000
+A rabiš unke kajake, ki tako študirajo?
+
+294
+00:23:55,000 --> 00:23:56,000
+Rabiš tri na let.
+
+295
+00:23:57,000 --> 00:23:58,000
+Ampak, prokletarjih rabiš.
+
+296
+00:24:00,000 --> 00:24:02,000
+Bi rekel, da je tako kot oni dobri sistemci.
+
+297
+00:24:03,000 --> 00:24:04,000
+Ko vse dela, ga ne rabiš.
+
+298
+00:24:05,000 --> 00:24:08,000
+Ko ne dela, je pa, kje ga imaš, oziroma, zakaj nimaš treha.
+
+299
+00:24:09,000 --> 00:24:13,000
+Ja, jaz se spomnim na začetku SIOL-a, ko sem prišel v Gorsno v let trije.
+
+300
+00:24:14,000 --> 00:24:16,000
+Sreta Vili pa jaz.
+
+301
+00:24:16,000 --> 00:24:23,000
+In smo postavili SIOL, prazne mize so bile, pa je Tom, pa Tomaš prišli, prišli vsi ostali.
+
+302
+00:24:24,000 --> 00:24:27,000
+In jaz se spomnim, ko me je Sreta potegnil iz Nove Gorice, iz Telekoma gor,
+
+303
+00:24:28,000 --> 00:24:29,000
+da mu je začel za SIOL delati.
+
+304
+00:24:30,000 --> 00:24:36,000
+Je rekel tako, je rekel, jaz najraješ vidim, da, kaj pogledam čez okno od moje pisarne,
+
+305
+00:24:37,000 --> 00:24:39,000
+da si ti dol v kafani odspodi in da piješ pivo.
+
+306
+00:24:40,000 --> 00:24:41,000
+Kaj to pomeni, da vse dela.
+
+307
+00:24:42,000 --> 00:24:43,000
+Kaj to pomeni, da vse dela.
+
+308
+00:24:43,000 --> 00:24:47,000
+Network engineer je najboljš tisti, ki v kafani pije pivo.
+
+309
+00:24:48,000 --> 00:24:49,000
+Dejansko.
+
+310
+00:24:50,000 --> 00:24:51,000
+Čakaj malo, zdaj, spet.
+
+311
+00:24:52,000 --> 00:24:55,000
+To je on, operations človek, ki je na pejčalju.
+
+312
+00:24:56,000 --> 00:24:57,000
+Tako.
+
+313
+00:24:58,000 --> 00:25:00,000
+Rad bi bil tudi, čim menj na pejčalju.
+
+314
+00:25:00,000 --> 00:25:04,200
+Jo, a ne? Ja, se je zato pa avtomatizira v stvari.
+
+315
+00:25:04,200 --> 00:25:08,200
+Da smo povej konsistentno naprejčaš.
+
+316
+00:25:08,200 --> 00:25:12,000
+A te bom spet kvotil. Ja, ja. To je bilo zanimivo.
+
+317
+00:25:12,000 --> 00:25:17,400
+Pipi je, kjer ga leta bilo to, še IPv6 summit je bil,
+
+318
+00:25:17,400 --> 00:25:22,000
+kaj je rekel, da jo prišel govoriti o avtomatizaciji.
+
+319
+00:25:22,000 --> 00:25:25,799
+Je bil ena od prvih, takrat si bil hype, velika avtomatizacija.
+
+320
+00:25:25,799 --> 00:25:29,799
+Software defined networking. Ja, in Pipi pride in reče,
+
+321
+00:25:29,799 --> 00:25:34,599
+da je avtomatizacija, to je v bistvu to,
+
+322
+00:25:34,599 --> 00:25:38,799
+da mi lahko naše napake konsistentno
+
+323
+00:25:38,799 --> 00:25:43,799
+standardiziramo čez cel network.
+
+324
+00:25:43,799 --> 00:25:48,799
+Tako da, to sem si zapomnil in s tem v bistvu.
+
+325
+00:25:48,799 --> 00:25:51,799
+Pa mislim, da imam še vedno un tweet, screenshot,
+
+326
+00:25:51,799 --> 00:25:54,799
+nek devops borat je bil. Ja, ja, ja.
+
+327
+00:25:54,799 --> 00:25:57,799
+Kaj je izjavo, to error is human, to deploy the error
+
+328
+00:25:57,799 --> 00:26:04,800
+on 10,000 servers is devops. Tako nekako, ja.
+
+329
+00:26:04,800 --> 00:26:10,800
+No, ampak, se pravi, te ljudi rabimo, ampak danes te ljudi tako,
+
+330
+00:26:10,800 --> 00:26:14,800
+koliko ljudi se dejansko za to odloča? Oziroma,
+
+331
+00:26:14,800 --> 00:26:18,800
+da bi drugače vajo vprašalo, kaj je to, mislim, kaj bi,
+
+332
+00:26:18,800 --> 00:26:22,800
+kako vidiva, gleda ta tega človeka, kakva so te neki skili,
+
+333
+00:26:22,800 --> 00:26:25,800
+ki jih mora ta človek imeti? Lej, poslušaj, prvo ko prvo,
+
+334
+00:26:25,800 --> 00:26:30,800
+ko smo začeli razvijati ta IPv6 community, ki je potem prišel v vrasinok,
+
+335
+00:26:30,800 --> 00:26:35,800
+sem jaz, jaz opažam že iz vsega začetka to,
+
+336
+00:26:35,800 --> 00:26:42,800
+da v bistvu imamo težavo, manjka nam par generacij.
+
+337
+00:26:42,800 --> 00:26:46,800
+Par generacij imamo gap-a v mes,
+
+338
+00:26:46,800 --> 00:26:50,800
+ko smo mi, kako bi rekli, bolj te stari, old school,
+
+339
+00:26:50,800 --> 00:26:54,800
+potem imaš pa par generacij gap-a, ki ni nobenega,
+
+340
+00:26:54,800 --> 00:27:00,800
+kaj tam je, to so te generacije, kaj za njih internet je klikanje po Facebooku pa po Googlu.
+
+341
+00:27:00,800 --> 00:27:04,800
+Ne, pa veš kaj je tudi dejansko,
+
+342
+00:27:04,800 --> 00:27:09,800
+za te, v Sloveniji recimo, je trg,
+
+343
+00:27:09,800 --> 00:27:15,800
+je velikost trga za te ljudi so razmjerno fiksna.
+
+344
+00:27:15,800 --> 00:27:21,800
+Ker če pogledaš, slovensko gospodarstvo prav dost ne raste,
+
+345
+00:27:21,800 --> 00:27:28,800
+vse imamo tisti razb, da pa je vsak let 3-5% vneskončnost,
+
+346
+00:27:28,800 --> 00:27:34,800
+ampak populacija Slovenije je 2 milijona in je sorazmjerno konstantna.
+
+347
+00:27:34,800 --> 00:27:39,800
+Firm v Sloveniji je to, kot je in to je sorazmjerno konstantno.
+
+348
+00:27:39,800 --> 00:27:46,800
+In tako, kat rabiš za x prebivalcev Slovenije enega štromarja,
+
+349
+00:27:46,800 --> 00:27:50,800
+tako rabiš za x prebivalcev Slovenije enega networking inženirja.
+
+350
+00:27:50,800 --> 00:27:57,800
+Ampak, što se je v tem, da štromarje smo gojili že zadnjih 100 plus let,
+
+351
+00:27:57,800 --> 00:28:00,800
+in se je to lepo razvleklo.
+
+352
+00:28:00,800 --> 00:28:03,800
+V tem, kar mi dva z Janom in vsi ostali,
+
+353
+00:28:03,800 --> 00:28:07,800
+smo padli v networking približno v isten čas,
+
+354
+00:28:07,800 --> 00:28:10,800
+in še vedno tu mar si kdo nekaj dela.
+
+355
+00:28:10,800 --> 00:28:15,800
+Dobro, nekateri smo šli mal po svoje, pa mal na pol penzijo, pa mal kaj drugega delati,
+
+356
+00:28:15,800 --> 00:28:22,800
+ampak, verjetno, 80 procentov najne generacije pa še vedno nekaj dela na nekem
+
+357
+00:28:22,800 --> 00:28:25,800
+sorodnem delu na mestu.
+
+358
+00:28:25,800 --> 00:28:31,800
+Kar pomeni, da naslednje generacije enostavno ni bilo potrebe
+
+359
+00:28:31,800 --> 00:28:36,800
+po tolk ljudih, ki bi jih poprečno rabili, če bi bil to nek normalen poklic,
+
+360
+00:28:36,800 --> 00:28:39,800
+zaradi tega, kar pač mi nočimo zginiti.
+
+361
+00:28:39,800 --> 00:28:43,800
+Ja, v bistvu, če pogledaš na sinogo,
+
+362
+00:28:44,800 --> 00:28:49,800
+imaš tam med 100 in 120 ljudi, ki pride na vsak miting.
+
+363
+00:28:49,800 --> 00:28:53,800
+Kar je za dvomiljonsko Slovenijo veliko.
+
+364
+00:28:53,800 --> 00:28:56,800
+Predvsej. Vedno so isti.
+
+365
+00:28:56,800 --> 00:28:59,800
+Vedno so isti.
+
+366
+00:28:59,800 --> 00:29:02,800
+Vse starejši smo.
+
+367
+00:29:02,800 --> 00:29:07,800
+A je pa tako, da je pač ta zadeva ni dovolj seksi, da ne preblabi?
+
+368
+00:29:07,800 --> 00:29:10,800
+A je vodovodarstvo seksi?
+
+369
+00:29:10,800 --> 00:29:14,800
+Mar si kdo bi rekel, a vsej, ima goče denar v tem.
+
+370
+00:29:14,800 --> 00:29:17,799
+Rabijo se vodovodarstvo.
+
+371
+00:29:17,799 --> 00:29:20,799
+Ja, vsej je tudi neče.
+
+372
+00:29:20,799 --> 00:29:23,799
+Ti si vprašal seksi, ne profitabilno.
+
+373
+00:29:23,799 --> 00:29:29,799
+Za nekega študenta, ki ga diplomira na računalništvu,
+
+374
+00:29:29,799 --> 00:29:33,799
+je pač vprašanje, a bom s tem služil denar?
+
+375
+00:29:33,799 --> 00:29:36,799
+Ja, boš.
+
+376
+00:29:36,799 --> 00:29:39,799
+No, ampak recimo anegdota, leta nazaj,
+
+377
+00:29:39,799 --> 00:29:43,799
+sem imel tam na sinogo, vsi pridejo tudi študenti, pridejo mladi.
+
+378
+00:29:43,799 --> 00:29:46,799
+Zdaj se pojavlja nova generacija networkerjev.
+
+379
+00:29:46,799 --> 00:29:50,799
+Samo imaš pa tudi take, ki pridejo iz šole
+
+380
+00:29:50,799 --> 00:29:53,799
+in potem me vprašajo.
+
+381
+00:29:53,799 --> 00:29:56,799
+Mi je rekel, kaj je to network engineering, to ni težko.
+
+382
+00:29:56,799 --> 00:29:59,799
+To greš na ono aplikacijo,
+
+383
+00:29:59,799 --> 00:30:04,799
+pa klikneš točko A in potem potegneš na točko B
+
+384
+00:30:04,799 --> 00:30:07,799
+in potem se nekaj zgodi in te dve točki sta pol povezani.
+
+385
+00:30:07,799 --> 00:30:10,799
+Se nekaj ima, prijatelj moj,
+
+386
+00:30:10,799 --> 00:30:13,799
+a te jaz v datacenter enkrat peljem, da všido, da tudi nekdo more
+
+387
+00:30:13,799 --> 00:30:16,799
+router dati noter, pa switch, pa kabel preklopiti,
+
+388
+00:30:16,799 --> 00:30:19,799
+pa vse skonfigurirati, pa tako naprej.
+
+389
+00:30:19,799 --> 00:30:23,799
+Seveda je to ono, a zdaj, če naslavljamo mlade,
+
+390
+00:30:23,799 --> 00:30:26,799
+ali pa te novo generacijo network engineerjev,
+
+391
+00:30:26,799 --> 00:30:30,799
+a govorimo, da so vrženi v to,
+
+392
+00:30:31,799 --> 00:30:36,799
+da ne poznajo zgodovine ali pa teh gradnikov v mreži
+
+393
+00:30:36,799 --> 00:30:39,799
+do te mere, da bi se fizično z njimi soočali,
+
+394
+00:30:39,799 --> 00:30:43,799
+se pravi, imajo pač večja men to skrito skoz nek SD-WAN-LAN,
+
+395
+00:30:43,799 --> 00:30:46,799
+neki, kar pač večja men poklika na internetu
+
+396
+00:30:46,799 --> 00:30:49,799
+in pač oziroma na interfejsu in se zadeva zgodi,
+
+397
+00:30:49,799 --> 00:30:52,799
+ali kaj drugega?
+
+398
+00:30:52,799 --> 00:30:55,799
+Tisti, ki jih to res, res zanima
+
+399
+00:30:55,799 --> 00:30:59,799
+in se stvari lotijo tudi, kako bi rekel, hands on,
+
+400
+00:30:59,799 --> 00:31:03,799
+tisti fantje vejo in če ne vejo, vprašajo, pridejo na sinok,
+
+401
+00:31:03,799 --> 00:31:07,799
+tam jih z otprtimi rokami in srcem sprememo
+
+402
+00:31:07,799 --> 00:31:10,799
+in delimo svoje znanje z njimi.
+
+403
+00:31:10,799 --> 00:31:14,799
+Zdaj, če si pa ti, hočeš biti nek network engineer,
+
+404
+00:31:14,799 --> 00:31:18,799
+kako bi rekel, bolj na easy way,
+
+405
+00:31:18,799 --> 00:31:22,799
+da bi čim lažje skoz prišel in je to vse, kar poznaš
+
+406
+00:31:22,799 --> 00:31:25,799
+in greš po nekje linije najmanjšega odpora,
+
+407
+00:31:25,799 --> 00:31:28,799
+potem se imaš pa še veliko za naučiti.
+
+408
+00:31:28,799 --> 00:31:31,799
+Veš kako, to je isto kot mehaniki.
+
+409
+00:31:31,799 --> 00:31:34,799
+Imaš one mehanike, ki zares vejo, kako motor dela
+
+410
+00:31:34,799 --> 00:31:37,799
+in imaš one mehanike, ki preklopijo tester od proizvajalca
+
+411
+00:31:37,799 --> 00:31:41,799
+in zaženejo teste, gre na pivo in potem naredi to,
+
+412
+00:31:41,799 --> 00:31:44,799
+kar mu tester reče, ko pa tester ne zna več ugotovit.
+
+413
+00:31:44,799 --> 00:31:48,799
+Recimo, jaz sem imel enkrat napako na avtu,
+
+414
+00:31:48,799 --> 00:31:53,799
+ki tester je kozlarije govoril,
+
+415
+00:31:53,799 --> 00:31:55,799
+moj mehanik je bil zgubljen,
+
+416
+00:31:55,799 --> 00:31:58,799
+renojov servisni centar je bil zgubljen,
+
+417
+00:31:58,799 --> 00:32:00,799
+dvakrat so računalnik zamenjali,
+
+418
+00:32:00,799 --> 00:32:02,799
+zato, ker mora biti računalnik kriv,
+
+419
+00:32:02,799 --> 00:32:04,799
+če tester reče, da ni druge nabake.
+
+420
+00:32:04,799 --> 00:32:08,799
+Na koncu je moj mehanik šel
+
+421
+00:32:08,799 --> 00:32:11,799
+in je pač z unim testerjem,
+
+422
+00:32:11,799 --> 00:32:14,799
+ampak z diagnostičnim user interface-om
+
+423
+00:32:14,799 --> 00:32:17,799
+gledal po motorju merilne točke
+
+424
+00:32:17,799 --> 00:32:21,799
+in rekel, čakaj malo, tale pritiske pa imajo nizek.
+
+425
+00:32:22,799 --> 00:32:24,799
+In na koncu je bila cel,
+
+426
+00:32:24,799 --> 00:32:28,799
+iz turbopolnilnika do motorja je imela lukenco.
+
+427
+00:32:28,799 --> 00:32:33,799
+In to je bilo prvič, da se je renojo v Sloveniji to pojavilo
+
+428
+00:32:33,799 --> 00:32:35,799
+in to je bila tako redka napaka,
+
+429
+00:32:35,799 --> 00:32:38,799
+da v renojevem testerju tega ni bilo.
+
+430
+00:32:38,799 --> 00:32:41,799
+Ampak če ti ne razumeš, kako stvari delajo,
+
+431
+00:32:41,799 --> 00:32:43,799
+če si mister tester,
+
+432
+00:32:43,799 --> 00:32:45,799
+ne boš tega nikoli našel.
+
+433
+00:32:45,799 --> 00:32:48,799
+Ampak kar nas prpelje do topika troubleshootinga.
+
+434
+00:32:49,799 --> 00:32:52,799
+Preden gremo od tega.
+
+435
+00:32:52,799 --> 00:32:56,799
+Maš te hardcore network inženirje.
+
+436
+00:32:56,799 --> 00:32:59,799
+Tih rabimo par.
+
+437
+00:32:59,799 --> 00:33:02,799
+Potem imaš inštalaterje.
+
+438
+00:33:02,799 --> 00:33:04,799
+Kaj nekdo ti mora v wireless preklopiti,
+
+439
+00:33:04,799 --> 00:33:07,799
+pa nekdo mora vedeti, katere lučke morajo posvetiti,
+
+440
+00:33:07,799 --> 00:33:09,799
+pa nekdo ti mora v novo pisati.
+
+441
+00:33:09,799 --> 00:33:11,799
+To je zgodno kategorija žičkari.
+
+442
+00:33:11,799 --> 00:33:13,799
+Ja, žičkari plus plus.
+
+443
+00:33:13,799 --> 00:33:15,799
+Seveda, to rabimo.
+
+444
+00:33:15,799 --> 00:33:17,799
+Zdaj imajo samo drugačni konektor.
+
+445
+00:33:17,799 --> 00:33:19,799
+To je dejstvo.
+
+446
+00:33:19,799 --> 00:33:23,799
+Ampak to je tako srednišolski poklic.
+
+447
+00:33:23,799 --> 00:33:26,799
+Potem se morajo pa vsi,
+
+448
+00:33:26,799 --> 00:33:30,799
+ki se networkinga dotaknajo v neke profesionalne namene,
+
+449
+00:33:30,799 --> 00:33:32,799
+vsi developerji,
+
+450
+00:33:32,799 --> 00:33:35,799
+morajo vedeti, kakšne so lastnosti tega,
+
+451
+00:33:35,799 --> 00:33:37,799
+s čim rse ukvarja.
+
+452
+00:33:37,799 --> 00:33:40,799
+Veš, to je isto, kada bi probal autodesignirati,
+
+453
+00:33:40,799 --> 00:33:43,799
+pa ne veš, kaj je trenje, pa gume.
+
+454
+00:33:43,799 --> 00:33:47,799
+Potem pa v prvem vinku ven sletiš in potem je cesta kriva,
+
+455
+00:33:47,799 --> 00:33:50,799
+pa on kaj cesta zdesigniral.
+
+456
+00:33:50,799 --> 00:33:54,799
+To znanje bi morali imeti pa v bistvu vsi,
+
+457
+00:33:54,799 --> 00:33:57,799
+ki hočejo napisati web aplikacijo.
+
+458
+00:33:57,799 --> 00:34:00,799
+Ker vsaka web aplikacija je distribuiran sistem
+
+459
+00:34:00,799 --> 00:34:03,799
+in v vsaki web aplikaciji imaš umest network.
+
+460
+00:34:03,799 --> 00:34:08,799
+In prvečini programmerjev, ki niso motivirani
+
+461
+00:34:08,799 --> 00:34:10,799
+po rezultatih svojega dela,
+
+462
+00:34:10,799 --> 00:34:13,799
+ampak po opravljenem času na delovnem mestu,
+
+463
+00:34:13,799 --> 00:34:16,799
+so rezultati taki, kot bi jih pričakovali.
+
+464
+00:34:16,799 --> 00:34:19,799
+Ja, on je naredil call na API, ne?
+
+465
+00:34:19,799 --> 00:34:22,799
+Ja, pa na loopbacku vse dela.
+
+466
+00:34:22,799 --> 00:34:24,799
+Ja, absolutno.
+
+467
+00:34:24,799 --> 00:34:26,799
+Največkrat je pač ono,
+
+468
+00:34:26,799 --> 00:34:29,799
+da njim v bistvu, samo zato, da jim DNS strandaš,
+
+469
+00:34:29,799 --> 00:34:31,799
+potem vse pade.
+
+470
+00:34:31,799 --> 00:34:33,799
+In potem ta troubleshooting je ono.
+
+471
+00:34:33,799 --> 00:34:35,799
+Ne, pa veš kaj je problem?
+
+472
+00:34:35,799 --> 00:34:37,799
+Problem je, da testirajo na loopbacku
+
+473
+00:34:37,799 --> 00:34:39,799
+in na lokalnem obrežju.
+
+474
+00:34:39,799 --> 00:34:42,799
+In to je spet problem razvojnega okolja,
+
+475
+00:34:42,799 --> 00:34:45,799
+ni problem posameznega programmerja.
+
+476
+00:34:45,799 --> 00:34:47,799
+Spet, imamo programmerje,
+
+477
+00:34:47,799 --> 00:34:50,799
+pa imamo software inženirje.
+
+478
+00:34:50,799 --> 00:34:53,799
+Software inženir bi moral vedeti,
+
+479
+00:34:53,799 --> 00:34:55,799
+kaj je distribuiran sistem.
+
+480
+00:34:55,799 --> 00:34:57,799
+Programmerjev ne zameram.
+
+481
+00:34:57,799 --> 00:34:59,799
+On dobi specifikacije in upravo svoje.
+
+482
+00:34:59,799 --> 00:35:02,799
+Jutri bo to upravo AI.
+
+483
+00:35:02,799 --> 00:35:05,799
+Ampak software inženir bi pa moral vedeti.
+
+484
+00:35:05,799 --> 00:35:08,799
+Pri programmerju tisoč vrstic kode stane toliko.
+
+485
+00:35:08,799 --> 00:35:09,799
+Tako je.
+
+486
+00:35:09,799 --> 00:35:11,799
+Ampak problem je v tem,
+
+487
+00:35:11,799 --> 00:35:16,799
+ker njihče nikoli tega master izdelka
+
+488
+00:35:16,799 --> 00:35:18,799
+ne stestira v nečin,
+
+489
+00:35:18,799 --> 00:35:21,799
+kar bi bilo podobno realnemu okolju.
+
+490
+00:35:21,799 --> 00:35:24,799
+Z realnim bandwidthom in z realnim latency.
+
+491
+00:35:24,799 --> 00:35:26,799
+Samo to bi rabil.
+
+492
+00:35:28,799 --> 00:35:31,799
+A veš, tako, kaj avta ne boš testiral na dvorišču,
+
+493
+00:35:31,799 --> 00:35:33,799
+ampak ga boš dal na cesto.
+
+494
+00:35:33,799 --> 00:35:35,799
+Ali se pa zgodi ta drug ekstrem,
+
+495
+00:35:35,799 --> 00:35:38,799
+da pač vse to takoj vrže v cloud,
+
+496
+00:35:38,799 --> 00:35:40,799
+pa se to pač da v situaciji?
+
+497
+00:35:40,799 --> 00:35:43,799
+A ti povem eno zgodbo o cloudu?
+
+498
+00:35:43,799 --> 00:35:44,799
+Oj, oj.
+
+499
+00:35:44,799 --> 00:35:46,799
+Nismo še tam, ampak lahko, ja.
+
+500
+00:35:46,799 --> 00:35:47,799
+Ja, neka...
+
+501
+00:35:47,799 --> 00:35:49,799
+Mislim, ka smo lih latency omenili.
+
+502
+00:35:49,799 --> 00:35:51,799
+Ja, dajmo vse v cloud, pa je mir.
+
+503
+00:35:51,799 --> 00:35:55,799
+Neka firma se je odločila, neka multinacionalka,
+
+504
+00:35:55,799 --> 00:35:58,799
+da je treba work cloud preseliti v cloud.
+
+505
+00:35:58,799 --> 00:36:00,799
+In privatni.
+
+506
+00:36:00,799 --> 00:36:01,799
+Vse v redu.
+
+507
+00:36:01,799 --> 00:36:06,799
+Zelo dober izvedena migracija,
+
+508
+00:36:06,799 --> 00:36:09,799
+vse so predvidli, vse je šlo tako, kaj treba,
+
+509
+00:36:09,799 --> 00:36:12,799
+aplikacije so delali si tako počasneji.
+
+510
+00:36:12,799 --> 00:36:15,799
+Vse je teklo v cloudu, samo klienti so bili lokalni,
+
+511
+00:36:15,799 --> 00:36:18,799
+res da so imeli baze podatkov in tako naprej.
+
+512
+00:36:18,799 --> 00:36:21,799
+Ampak kaj je krivo, kaj se je spremenilo od petka na pundelj?
+
+513
+00:36:21,799 --> 00:36:23,799
+Kja network, ne?
+
+514
+00:36:23,799 --> 00:36:25,799
+Must be the network.
+
+515
+00:36:25,799 --> 00:36:28,799
+Kje pa je bil cloud na drugem koncu sveta?
+
+516
+00:36:28,799 --> 00:36:30,799
+Kako si vedel?
+
+517
+00:36:31,799 --> 00:36:32,799
+Leta.
+
+518
+00:36:32,799 --> 00:36:36,799
+V neki državi, ki se je celo geografsko zelo blizu,
+
+519
+00:36:36,799 --> 00:36:38,799
+ampak izven EU-ja.
+
+520
+00:36:38,799 --> 00:36:40,799
+To je pomemben podatek.
+
+521
+00:36:40,799 --> 00:36:42,799
+In paketi grejo čez Kitajsko?
+
+522
+00:36:42,799 --> 00:36:44,799
+Ne.
+
+523
+00:36:44,799 --> 00:36:47,799
+Po tem je seveda boljki network inženir.
+
+524
+00:36:47,799 --> 00:36:51,799
+Torej, meantime to innocence je bil par tednov.
+
+525
+00:36:51,799 --> 00:36:54,799
+To, kjer je treba biti dokazal, da it's not the network.
+
+526
+00:36:54,799 --> 00:36:58,799
+Pa so končno začeli gledati trace-e, kaj delajo baze podatkov
+
+527
+00:36:58,799 --> 00:37:02,799
+in so ugotovili, da je kompletna baza podatkov v cloudu,
+
+528
+00:37:02,799 --> 00:37:05,799
+ki bi bil recimo 10 milisekund stran od klienta,
+
+529
+00:37:05,799 --> 00:37:10,799
+username-i in password-i in autentikacije se zvaja pa lokalno
+
+530
+00:37:10,799 --> 00:37:12,799
+because GDPR.
+
+531
+00:37:14,799 --> 00:37:15,799
+Well done.
+
+532
+00:37:15,799 --> 00:37:16,799
+Well done.
+
+533
+00:37:16,799 --> 00:37:21,799
+In vsak request, kjer si ga naredil na bazo v državi X,
+
+534
+00:37:21,799 --> 00:37:26,799
+je šel nazaj drug request uprašati, ali lahko ta uporabnik
+
+535
+00:37:26,799 --> 00:37:29,799
+naredi ta request na bazi X.
+
+536
+00:37:29,799 --> 00:37:32,799
+Tako da latency zna biti pomembno.
+
+537
+00:37:32,799 --> 00:37:35,799
+A veš kako jaz ponovadijo, rečem za cloud.
+
+538
+00:37:35,799 --> 00:37:38,799
+Obožujem cloud storitve, res iz dna srca jih obožujem,
+
+539
+00:37:38,799 --> 00:37:41,799
+dokler je cloud na mojih diskih, na mojih serverih,
+
+540
+00:37:41,799 --> 00:37:43,799
+v mojem datacentru.
+
+541
+00:37:43,799 --> 00:37:44,799
+Tako.
+
+542
+00:37:44,799 --> 00:37:47,799
+Dobar, ne, jaz na cloudu živim že leta in leta
+
+543
+00:37:47,799 --> 00:37:52,799
+in dejansko vse dobro o cloudu, ne.
+
+544
+00:37:53,799 --> 00:37:57,799
+Mislim, hvala Bogu, da se mi ni treba s temi jajci več ukvarjati,
+
+545
+00:37:57,799 --> 00:38:00,799
+in da to nekdo drug počne.
+
+546
+00:38:00,799 --> 00:38:03,799
+Nobenih resnih problemov, zdaj mora biti tih, ne,
+
+547
+00:38:03,799 --> 00:38:06,799
+ampak dobro, zdaj ne prodaje več stvari, tako da zdaj vse.
+
+548
+00:38:06,799 --> 00:38:11,799
+Mislim, vsako okolje, oziroma, se lahko rečeš,
+
+549
+00:38:11,799 --> 00:38:14,799
+proizvajalca, ne, te pač ti da neke razlike,
+
+550
+00:38:14,799 --> 00:38:17,799
+konstrente, ne, in pač, če si ti tu prebral
+
+551
+00:38:17,799 --> 00:38:19,799
+in si temu primerno dizajnil.
+
+552
+00:38:19,799 --> 00:38:21,799
+Vse od tem je problem, ker nič od tega ne prebere.
+
+553
+00:38:22,799 --> 00:38:26,799
+Ker, a veš, recimo, US East One je padel na Amazonu, ne,
+
+554
+00:38:26,799 --> 00:38:31,799
+in 80% web storitev je šlo po tleh.
+
+555
+00:38:32,799 --> 00:38:36,799
+Kljub temu, da je Amazon zelo jasno povedal, ne,
+
+556
+00:38:36,799 --> 00:38:40,799
+da fantje nikoli ne oblubljamo, da ne bo šla cela regija po tleh.
+
+557
+00:38:40,799 --> 00:38:43,799
+In če imate Mission Critical aplikacijo,
+
+558
+00:38:43,799 --> 00:38:46,799
+morate imeti aplikacijo v najmanj dveh regijah.
+
+559
+00:38:46,799 --> 00:38:48,799
+In imamo orodja, da to naredite.
+
+560
+00:38:48,799 --> 00:38:50,799
+Imamo ta load balancer, unload balancer,
+
+561
+00:38:50,799 --> 00:38:52,799
+tretjo load balancer, DNA.
+
+562
+00:38:52,799 --> 00:38:54,799
+Imamo Anycast, recimo.
+
+563
+00:38:54,799 --> 00:38:57,799
+Tudi to ima. Zdaj, celo Amazon ima Anycast, ne.
+
+564
+00:38:57,799 --> 00:38:59,799
+Ja, in se je trajalo, ne.
+
+565
+00:38:59,799 --> 00:39:00,799
+Ja.
+
+566
+00:39:00,799 --> 00:39:02,799
+Predem so pogruntali, da...
+
+567
+00:39:02,799 --> 00:39:05,799
+Ne, veš kaj je, Anycasta ne rabaš,
+
+568
+00:39:05,799 --> 00:39:09,799
+če imaš dovolj dober DNS pa aplikacijo,
+
+569
+00:39:09,799 --> 00:39:12,799
+ki dela v brauzerju.
+
+570
+00:39:12,799 --> 00:39:15,799
+Anycast potrebuješ za stvari,
+
+571
+00:39:16,799 --> 00:39:19,799
+ki nočjo uporablja DNS-a.
+
+572
+00:39:20,799 --> 00:39:21,799
+Zdaj, bi si...
+
+573
+00:39:21,799 --> 00:39:23,799
+Zdaj, sem ga glihkar zgradil enega...
+
+574
+00:39:23,799 --> 00:39:24,799
+Lej, zdaj.
+
+575
+00:39:24,799 --> 00:39:26,799
+V tem letu, globalne Anycast...
+
+576
+00:39:26,799 --> 00:39:29,799
+Zdaj se bo na koncu vsem strimljala.
+
+577
+00:39:29,799 --> 00:39:31,799
+In je...
+
+578
+00:39:31,799 --> 00:39:33,799
+Moram nekaj priznati, ne.
+
+579
+00:39:33,799 --> 00:39:36,799
+Zdaj, kot sem zgradil globalni Anycast network,
+
+580
+00:39:36,799 --> 00:39:41,799
+sem se naučil o BGP-ju več kot v zadnjih desetih letih.
+
+581
+00:39:41,799 --> 00:39:44,799
+Končno se BGP-ja naučiš.
+
+582
+00:39:44,799 --> 00:39:46,799
+Zdaj te bom prekino.
+
+583
+00:39:46,799 --> 00:39:49,799
+Zdaj smo šli globoko v tehniko.
+
+584
+00:39:49,799 --> 00:39:51,799
+To so osnove.
+
+585
+00:39:51,799 --> 00:39:53,799
+Zdaj, mogu samo malko...
+
+586
+00:39:53,799 --> 00:39:55,799
+Kaj je Anycast?
+
+587
+00:39:55,799 --> 00:39:57,799
+Kaj je Anycast?
+
+588
+00:39:57,799 --> 00:40:00,799
+Unicast, ne, to, kar večina naroda uporablja.
+
+589
+00:40:00,799 --> 00:40:02,799
+Ne, dej pr DNS-u začni.
+
+590
+00:40:02,799 --> 00:40:03,799
+Oh, boy.
+
+591
+00:40:03,799 --> 00:40:05,799
+Ne, DNS boš ti imel čez.
+
+592
+00:40:05,799 --> 00:40:07,799
+OK, imaš server na dveh lokacijah.
+
+593
+00:40:07,799 --> 00:40:10,799
+In zdaj, američani bi rati poslav na eno lokacijo,
+
+594
+00:40:10,799 --> 00:40:13,799
+evropejci bi rati poslav na drugo lokacijo.
+
+595
+00:40:13,799 --> 00:40:15,799
+Prvi način, kako to narediš,
+
+596
+00:40:15,799 --> 00:40:18,799
+je, da mata ti dve lokacije različne naslove,
+
+597
+00:40:18,799 --> 00:40:20,799
+in DNS server ki je ugotovil, kje si ti,
+
+598
+00:40:20,799 --> 00:40:23,799
+in ti da en naslov ali drugi naslov.
+
+599
+00:40:23,799 --> 00:40:25,799
+To je klasika.
+
+600
+00:40:25,799 --> 00:40:30,799
+Ampak pazi, to brejka DNS-RFC.
+
+601
+00:40:30,799 --> 00:40:34,799
+Ker DNS načelo, po RFC-ju bi moral vedno enako odgovarjati.
+
+602
+00:40:34,799 --> 00:40:37,799
+I'm not going there.
+
+603
+00:40:37,799 --> 00:40:39,799
+In brejka DNS-SEG.
+
+604
+00:40:40,799 --> 00:40:42,799
+Hmmm.
+
+605
+00:40:43,799 --> 00:40:47,799
+Razen, če razseješ okrog ključe in jih podpisuješ.
+
+606
+00:40:47,799 --> 00:40:50,799
+Ampak ja, načel ma fundamentalno brejkaš.
+
+607
+00:40:50,799 --> 00:40:54,799
+To je on je, poor man high availability.
+
+608
+00:40:54,799 --> 00:40:57,799
+Zdaj pa priješ na to, ne.
+
+609
+00:40:57,799 --> 00:41:03,799
+Se pravi, ta geo-DNS feature uporabla DNS-SEG.
+
+610
+00:41:03,799 --> 00:41:06,799
+Jaz, če ga ne, nisem nič naredil.
+
+611
+00:41:07,799 --> 00:41:11,799
+Čakaj malo, a ne moraš obejih dveh rekordov podpisati?
+
+612
+00:41:11,799 --> 00:41:14,799
+Jaz, ampak moraš ključe razsjeti okrog.
+
+613
+00:41:14,799 --> 00:41:17,799
+Ne, čakaj malo.
+
+614
+00:41:17,799 --> 00:41:22,799
+Ti imaš prvaten ključ in s prvatnim ključem podpišeš odgovor.
+
+615
+00:41:22,799 --> 00:41:25,799
+Klient ga lahko z javnim ključem preveri.
+
+616
+00:41:25,799 --> 00:41:29,799
+Res pa je, da moraš imeti različne zone,
+
+617
+00:41:29,799 --> 00:41:33,799
+ki imajo različne osebine, ampak še vedno podpisano s tvojim prvatnim ključem.
+
+618
+00:41:33,799 --> 00:41:37,799
+Jaz, ampak to zelo hitro postane kompleksno.
+
+619
+00:41:37,799 --> 00:41:41,799
+Ne, pač moraš imeti isti prvatni ključ na vseh lokacijah.
+
+620
+00:41:41,799 --> 00:41:44,799
+Jaz, tega pa nočeš, ti svoj prvatni ključ.
+
+621
+00:41:44,799 --> 00:41:47,799
+Če je skolikoli resen, moraš imeti na taki dokaj
+
+622
+00:41:47,799 --> 00:41:50,799
+secure lokaciji.
+
+623
+00:41:50,799 --> 00:41:53,799
+Ne, lej, vsej še vedno lahko imaš ti NDNS server.
+
+624
+00:41:53,799 --> 00:41:57,799
+Jaz, in podpišeš več različnih zon, pa jih razseješ okrog.
+
+625
+00:41:57,799 --> 00:42:01,799
+Zdaj verjate, je kompleksno zelo hitro.
+
+626
+00:42:01,799 --> 00:42:05,800
+Kaj problem je v tem, to je pa ona debata, ki smo imeli prej,
+
+627
+00:42:05,800 --> 00:42:08,800
+da je Socket API broken.
+
+628
+00:42:08,800 --> 00:42:09,800
+Ja, no.
+
+629
+00:42:09,800 --> 00:42:12,800
+Zarad tega, ker aplikacija, če ti pogledaš kako,
+
+630
+00:42:12,800 --> 00:42:17,800
+ne kako je nek high level API napisan za, ne vem, javascript,
+
+631
+00:42:17,800 --> 00:42:21,800
+ampak če ti pogledaš, kaj se zares zgodi v neki knjižnci,
+
+632
+00:42:21,800 --> 00:42:26,800
+ki jo v bistvu bandlaž z svojim bainarijem,
+
+633
+00:42:26,800 --> 00:42:29,800
+ali pa je shared library na Linuxu, ali pa je Windowsih, ali pa kjerkoli.
+
+634
+00:42:29,800 --> 00:42:32,800
+Apple mislim, da je jedina izjema.
+
+635
+00:42:32,800 --> 00:42:40,800
+Aplikacija upraša operacijski sistem, kako jaz zmapiram to ime v ta naslov.
+
+636
+00:42:40,800 --> 00:42:47,800
+In potem aplikacija reče, prosim, daj mi povezavo z tem naslovom.
+
+637
+00:42:47,800 --> 00:42:53,800
+In zdaj v nekem normalnem svetu bi aplikacija rekla,
+
+638
+00:42:53,800 --> 00:43:00,800
+potrebujem povezavo z to storitvijo in operacijski sistem bi naredil vse ostalo.
+
+639
+00:43:00,800 --> 00:43:09,800
+Kar imamo pa dons, je, da ti DNS vrne ne en odgovor, ampak dva, štir, osem, čest, najskolj karkoli naslovov.
+
+640
+00:43:09,800 --> 00:43:13,800
+Polovica od teh je IPv4, polovica od teh je IPv6.
+
+641
+00:43:13,800 --> 00:43:17,800
+In zdaj potem seveda pravila pravijo.
+
+642
+00:43:17,800 --> 00:43:22,800
+Poskusi najprej IPv6 naslove in potem IPv4 naslove.
+
+643
+00:43:22,800 --> 00:43:26,800
+In celo v operacijskih sistemih je tako že to zaimplementirano ali predsortira,
+
+644
+00:43:26,800 --> 00:43:30,800
+zaradi tega, ker vendar ne moremo verjeti, da bo jo programerje to pravilno naredil.
+
+645
+00:43:30,800 --> 00:43:32,800
+In tu imaš Happy Eyeballs, ne?
+
+646
+00:43:32,800 --> 00:43:36,800
+Ne, Happy Eyeballs je implementiran v aplikaciji.
+
+647
+00:43:36,800 --> 00:43:39,800
+Ne, nekje je tudi na operacijskem sistemu.
+
+648
+00:43:39,800 --> 00:43:40,800
+Pri Apple.
+
+649
+00:43:40,800 --> 00:43:41,800
+A?
+
+650
+00:43:41,800 --> 00:43:42,800
+Pri Apple, na Linuxu ni.
+
+651
+00:43:42,800 --> 00:43:43,800
+Ja.
+
+652
+00:43:44,800 --> 00:43:51,800
+Happy Eyeballs je, recimo v Mac OS-u, implementiran na nivoju operacijskega sistema,
+
+653
+00:43:51,800 --> 00:43:54,800
+z drugim API-em.
+
+654
+00:43:54,800 --> 00:44:03,800
+Za tiste, ki nesledite Happy Eyeballs, ti dejansko sebino preko šestki dobiš, ki je identična.
+
+655
+00:44:03,800 --> 00:44:04,800
+Ne, ne, ne.
+
+656
+00:44:04,800 --> 00:44:09,800
+Ti pošlješ requeste po IPv4 in IPv6.
+
+657
+00:44:09,800 --> 00:44:11,800
+IPv6 je probaš hkrat odprej.
+
+658
+00:44:11,800 --> 00:44:12,800
+Hkrat, ja.
+
+659
+00:44:12,800 --> 00:44:13,800
+Z malo zakasnitijo.
+
+660
+00:44:13,800 --> 00:44:15,800
+Ja, odvisno od implementacije spet, ne?
+
+661
+00:44:15,800 --> 00:44:17,800
+Da bi IPv6 pošlje pred.
+
+662
+00:44:17,800 --> 00:44:20,800
+In potem po tistem protokolu, ki jo dobiš nazaj prej,
+
+663
+00:44:20,800 --> 00:44:25,800
+tistega potem vzameš kot primarni protokol in ga uporabiš za tisti destination.
+
+664
+00:44:25,800 --> 00:44:30,800
+S tem, da je seveda problem, da ti lahko dobiš nazaj, da je sešno spostavljeno,
+
+665
+00:44:30,800 --> 00:44:32,800
+potem pa podatki ne grejo čez.
+
+666
+00:44:32,800 --> 00:44:37,800
+No, ampak, če bi prorozumel Happy Eyeballs, bi naj tudi ta del rešil.
+
+667
+00:44:37,800 --> 00:44:40,800
+Veš kaj, Happy Eyeballs je tist, kar nam manjka, recimo.
+
+668
+00:44:40,800 --> 00:44:41,800
+Ne.
+
+669
+00:44:41,800 --> 00:44:42,800
+In...
+
+670
+00:44:42,800 --> 00:44:43,800
+Ja pa ne.
+
+671
+00:44:43,800 --> 00:44:50,800
+Lek, prvi problem je v tem, da te operacijski sistem ne daje API-a povežjime za storitvijo.
+
+672
+00:44:52,800 --> 00:44:55,800
+To je tako, kada bi jaz htel s tabo govorit, ne,
+
+673
+00:44:55,800 --> 00:44:58,800
+in potem bi mi nekdo rekel, pojdi na Dunajsko 5.
+
+674
+00:44:59,800 --> 00:45:01,800
+Čakam, jaz sem dražal, hočem.
+
+675
+00:45:01,800 --> 00:45:03,800
+Ne, ne, Dunajska 5.
+
+676
+00:45:03,800 --> 00:45:06,800
+In potem pridem jaz sem in rečem, ja, ven je šel.
+
+677
+00:45:08,800 --> 00:45:09,800
+Ni.
+
+678
+00:45:09,800 --> 00:45:10,800
+Ni moža.
+
+679
+00:45:10,800 --> 00:45:12,800
+Po skušta drug naslov.
+
+680
+00:45:12,800 --> 00:45:13,800
+Ja.
+
+681
+00:45:13,800 --> 00:45:14,800
+Zdaj pa.
+
+682
+00:45:14,800 --> 00:45:19,800
+Ti dobiš nazaj x naslovo, ne, in potem odvisno tega, koliko si pametan kot programer,
+
+683
+00:45:19,800 --> 00:45:21,800
+če ne uporabljaš nekih knjižnic, ne.
+
+684
+00:45:22,800 --> 00:45:25,800
+Kaj v tisih knjižnicah pa ne veš, to je pa naslednji problem.
+
+685
+00:45:26,800 --> 00:45:30,800
+Ker včasih, ne, si šel skozi ta spisek naslovov, si probal.
+
+686
+00:45:30,800 --> 00:45:34,800
+Ti si pisel spustavljenje in si vsakič čakal tri minute.
+
+687
+00:45:34,800 --> 00:45:36,800
+Ja, timeout je bil fantastičen.
+
+688
+00:45:36,800 --> 00:45:37,800
+Ja.
+
+689
+00:45:37,800 --> 00:45:46,800
+In tako je nekoč IPv6 delal na recimo Windowsih pa Linuxu, ne, in zaradi tega se nič ni upotegal klopat.
+
+690
+00:45:47,800 --> 00:45:54,800
+Šestka je bila pred štirko, če je bila šestka polomljena, ni delal nič, ker je vsaka seja trajala tri minute.
+
+691
+00:45:54,800 --> 00:45:55,800
+Do timeouta, ja.
+
+692
+00:45:55,800 --> 00:45:56,800
+Do timeouta.
+
+693
+00:45:56,800 --> 00:46:01,800
+In zato so pal naredil happy eyeballs, ampak happy eyeballs je implementiran v browserju.
+
+694
+00:46:02,800 --> 00:46:03,800
+Ja.
+
+695
+00:46:03,800 --> 00:46:04,800
+V aplikaciji.
+
+696
+00:46:04,800 --> 00:46:11,800
+Vsaka aplikacija, ki se hoče podobno obnašati, mora implementirati isto koda ali pa upravljati isto knjižnico.
+
+697
+00:46:13,800 --> 00:46:17,800
+Ja, si, happy eyeballs je v bistvu rešil ta strah operaterjev.
+
+698
+00:46:17,800 --> 00:46:24,800
+A veš, da jaz sem bil takrat v dizajn grupi v Pragi, ko smo z Endro Jurčenkom pa Denom.
+
+699
+00:46:24,800 --> 00:46:25,800
+Venečne šugdi.
+
+700
+00:46:26,800 --> 00:46:28,800
+Ko smo dizajnirali happy eyeballs.
+
+701
+00:46:28,800 --> 00:46:29,800
+Ta prvega.
+
+702
+00:46:29,800 --> 00:46:40,800
+Ja, ampak, pokazalo se pa je, da tok kot je happy eyeballs dober in koristan in fajn in lovli in oh in sploh, ne,
+
+703
+00:46:40,800 --> 00:46:46,800
+imamo pa zelo težavo za tiste, ki bi radi dizabljali IPv4, ne.
+
+704
+00:46:46,800 --> 00:46:52,800
+Ker happy eyeballs pa hkrati maskira vse probleme, ki so na IPv6 protokolu v omrežju, ne.
+
+705
+00:46:53,800 --> 00:46:57,800
+Ker pomeni, ne, to je ta MWD sindrom, menj vse dela, ne.
+
+706
+00:46:58,800 --> 00:47:05,800
+In potem, ne, veš, če nekdo dobi on Facebook pa Google pa ne vem kaj, prek štirka ali prek šest, ker to uporabnika ne zanima, ne.
+
+707
+00:47:05,800 --> 00:47:06,800
+Točno to.
+
+708
+00:47:06,800 --> 00:47:13,800
+Tako, kar on ga kafen vklopi v štekar na zidov, ga ne zanima, odkjer skateri elektrarni ti se štrom pršo, ne.
+
+709
+00:47:14,800 --> 00:47:16,800
+Moje zjederske, to mi piše na račun.
+
+710
+00:47:16,800 --> 00:47:17,800
+Piše na račun, ja.
+
+711
+00:47:18,800 --> 00:47:21,800
+Če veljameš operaterjev, oziroma pa če distributorila.
+
+712
+00:47:22,800 --> 00:47:23,800
+In...
+
+713
+00:47:23,800 --> 00:47:25,800
+A ni tako, da lahko elektroni naločajo pa jih pobarbajo.
+
+714
+00:47:25,800 --> 00:47:27,800
+Meni se moji zjederski pripeljajo.
+
+715
+00:47:27,800 --> 00:47:30,800
+Tudi tako, na network nivoju bi rekel, da se to da.
+
+716
+00:47:30,800 --> 00:47:36,800
+Ne, network vendori dejansko to delajo zaradi tega, ker lahko to kompleksnost zaračunajo.
+
+717
+00:47:36,800 --> 00:47:39,800
+Temu se reče 5G network slicing.
+
+718
+00:47:39,800 --> 00:47:40,800
+Jep.
+
+719
+00:47:41,800 --> 00:47:42,800
+Ok, sorry.
+
+720
+00:47:42,800 --> 00:47:47,800
+V glavnem, tako je s tem, ja. Maskira veliko problemov, ne.
+
+721
+00:47:47,800 --> 00:47:54,800
+In preprečuje, da bi ljudje dejansko pravilno trebali šutali svoje IPv6 mrežja, ne.
+
+722
+00:47:55,800 --> 00:47:58,800
+Zdaj isti problem imamo zdaj z Quickom.
+
+723
+00:47:59,800 --> 00:48:03,800
+TCP proti Quick. Eno je TCP, drugo je UDP, ne.
+
+724
+00:48:03,800 --> 00:48:10,800
+In spet, implementacije zdaj probajo oboje vzpostaviti hkrati.
+
+725
+00:48:10,800 --> 00:48:14,800
+Tako da v bistvu, ne, zdaj, ki greš ti na neko webstran,
+
+726
+00:48:14,800 --> 00:48:16,800
+probaš hkrati vzpostaviti 4S.
+
+727
+00:48:17,800 --> 00:48:21,800
+U, zdaj delamo še DNS over Quick. To bo zabavno.
+
+728
+00:48:22,800 --> 00:48:23,800
+Ta bo zabavna, ja.
+
+729
+00:48:23,800 --> 00:48:29,800
+Lihkar ga v labu, na lab delu Anycasta, enablam na DNS disto.
+
+730
+00:48:29,800 --> 00:48:34,800
+Tako deluje, da je fulj je fajn, da pač glej, ki gremo počasu naprej,
+
+731
+00:48:34,800 --> 00:48:37,800
+bolj nam je všeč ta enkapselacija nekih zadev.
+
+732
+00:48:37,800 --> 00:48:41,800
+A veš kaj, vsak, ki se dotakne networkinga,
+
+733
+00:48:42,800 --> 00:48:45,800
+bi si moral prebrati RFC 1925.
+
+734
+00:48:46,800 --> 00:48:47,800
+Jep.
+
+735
+00:48:48,800 --> 00:48:49,800
+Ki govori, o.
+
+736
+00:48:50,800 --> 00:48:52,800
+To je nekih dvanajst pravil.
+
+737
+00:48:52,800 --> 00:48:53,800
+Resnic.
+
+738
+00:48:53,800 --> 00:48:55,800
+Resnic o networkingu, ne.
+
+739
+00:48:55,800 --> 00:48:57,800
+Eno od njih je, kaj je, it's always something.
+
+740
+00:48:57,800 --> 00:48:59,800
+Ja, it's always something.
+
+741
+00:48:59,800 --> 00:49:05,800
+Eno od njih je, da vsaka stara ideja jo bo en propagiral v novi obliki,
+
+742
+00:49:05,800 --> 00:49:08,800
+nekaj dnev to je takrat delovalo, ali ne.
+
+743
+00:49:08,800 --> 00:49:10,800
+Z novim buzzwordom v marketingu.
+
+744
+00:49:11,800 --> 00:49:14,800
+In ena druga, kaj sem to zdaj omenil,
+
+745
+00:49:15,800 --> 00:49:18,800
+vedno se lahko doda še en nivou indirekcije.
+
+746
+00:49:18,800 --> 00:49:20,800
+Ja, in complexity.
+
+747
+00:49:20,800 --> 00:49:23,800
+Prva mi je všeč, it should work.
+
+748
+00:49:23,800 --> 00:49:24,800
+Ja.
+
+749
+00:49:25,800 --> 00:49:27,800
+To je prva resnica networkinga.
+
+750
+00:49:28,800 --> 00:49:30,800
+Ena pa je taka, da ...
+
+751
+00:49:30,800 --> 00:49:32,800
+With sufficient trust, pigs fly just fine.
+
+752
+00:49:32,800 --> 00:49:33,800
+Ja.
+
+753
+00:49:35,800 --> 00:49:37,800
+Če imamo dovolj pogona ...
+
+754
+00:49:37,800 --> 00:49:38,800
+Dobro letijo.
+
+755
+00:49:38,800 --> 00:49:41,800
+No, ampak, mogoče se ne vežem.
+
+756
+00:49:41,800 --> 00:49:46,800
+Na nek način hočeš povedati, da glede na kako dovolj stvari stojijo,
+
+757
+00:49:48,800 --> 00:49:54,800
+vsak developer, oziroma, bi naj zadevo, se pravi, rešil na aplikacijskem nivou,
+
+758
+00:49:54,800 --> 00:49:55,800
+oziroma, spisal dovolj ...
+
+759
+00:49:55,800 --> 00:49:56,800
+Ne, to je napaka.
+
+760
+00:49:56,800 --> 00:49:58,800
+Dovolj dober vrep.
+
+761
+00:49:58,800 --> 00:49:59,800
+Ne.
+
+762
+00:50:00,000 --> 00:50:08,800
+Rečemo, da bo na operacijskem sistemu dovolj rešen, da bojo api lahko znali poklicati.
+
+763
+00:50:08,800 --> 00:50:12,200
+Ampak ti se moraš zavedati, da zakoni fizike obstajajo.
+
+764
+00:50:13,800 --> 00:50:17,799
+Sej offloadaš ta problem na eno dobro knjižnico, hvala Bogu.
+
+765
+00:50:18,400 --> 00:50:22,799
+Če bomo vsi isto knjižnico uporabljali, potem tako kot OpenSSN,
+
+766
+00:50:24,200 --> 00:50:28,600
+bomo vsi naleteli na isti bug v bistvem času, pa ga bo nekdo že zakrpal.
+
+767
+00:50:29,000 --> 00:50:31,400
+Zdaj imamo pa 3-4 knjižnice na istoto.
+
+768
+00:50:31,400 --> 00:50:35,000
+Sej vse en. Problem je, da marsik do ne uporablja knjižnice.
+
+769
+00:50:36,400 --> 00:50:45,200
+Vzamaš 15 let staro knjigo, Python za početnike, prepišeš kodo odstan ven in gremo.
+
+770
+00:50:47,000 --> 00:50:48,599
+Copy-paste z IPvrat.
+
+771
+00:50:48,599 --> 00:50:50,200
+Ja, z IPvrat.
+
+772
+00:50:51,599 --> 00:50:52,799
+To je pa nasledno.
+
+773
+00:50:53,799 --> 00:50:58,200
+Enkrat sem imel vpravka z programerjem, ki mu nekaj ni delal.
+
+774
+00:50:58,200 --> 00:51:02,799
+Se je ogotlo, da je DNS problem in je naredil rezolvo.
+
+775
+00:51:02,799 --> 00:51:08,199
+Rezolvo je ime serverja v IP naslov in je IP naslov hard koda v source koda.
+
+776
+00:51:09,400 --> 00:51:11,400
+Niti v konfiguracijski fajl ga ni dal.
+
+777
+00:51:11,400 --> 00:51:12,800
+It's always DNS.
+
+778
+00:51:14,199 --> 00:51:21,800
+Že ta predpostavka, da kar koli boš počel z IP naslovi, tudi če bojo dinamičnije,
+
+779
+00:51:21,800 --> 00:51:25,000
+da greš v to predpostavko, lahko je tudi šestka.
+
+780
+00:51:25,000 --> 00:51:28,400
+Ja, nikoli nič jaz ne pričakujem.
+
+781
+00:51:29,400 --> 00:51:35,199
+A pa veš kaj, leta 90 je en gospod, ki je takrat delal na Sanu,
+
+782
+00:51:35,199 --> 00:51:39,400
+kar je sanje imel ta remote procedure, ko je že takrat zelo razdelan,
+
+783
+00:51:40,000 --> 00:51:45,400
+je napisal neke networking, oziroma distributed systems, niti fallacies.
+
+784
+00:51:46,599 --> 00:51:50,400
+In vsak programer bi si moral tisto prebrati in se zamisliti.
+
+785
+00:51:51,199 --> 00:51:56,199
+Ker ta remote je recimo bandwidth is infinite, latency is zero,
+
+786
+00:51:57,199 --> 00:52:03,800
+the network is secure, there is a single administrator, pa še ne tri take.
+
+787
+00:52:04,599 --> 00:52:07,000
+Latency imaš zero do localhosta tudi to.
+
+788
+00:52:07,000 --> 00:52:09,000
+Do loopbacka, ja.
+
+789
+00:52:10,199 --> 00:52:16,399
+Ej, ampak, če recimo, zdaj malo poenostavljam, pa rečem,
+
+790
+00:52:17,199 --> 00:52:21,600
+tebe nekaj vprašam, tebe, pa gremo na isti, zdaj...
+
+791
+00:52:21,600 --> 00:52:23,399
+Sva mu čist spelala v dajo.
+
+792
+00:52:23,399 --> 00:52:26,199
+Ne, ne, ne, sej to ide, to je čist super.
+
+793
+00:52:26,199 --> 00:52:28,000
+To je čist super, ne, ker...
+
+794
+00:52:28,000 --> 00:52:30,000
+Se proba saj sebe pripisati.
+
+795
+00:52:33,399 --> 00:52:38,800
+Kaj ti vidiš, da so dones največji problemi,
+
+796
+00:52:39,399 --> 00:52:43,600
+s katerimi se recimo, ne vem, prej smo načeli s cloudom,
+
+797
+00:52:44,399 --> 00:52:50,800
+recimo, da so zdaj cloud provideri največji konsumeri netvorka,
+
+798
+00:52:51,199 --> 00:52:54,000
+na eni strani, verjetno s tem imaš največjo pravka.
+
+799
+00:52:55,199 --> 00:53:00,000
+Kaj više, da so največji njihovi izzivi, s katerimi se danes ukvarja,
+
+800
+00:53:00,000 --> 00:53:03,199
+te bom pa če rekel kontra, ker imaš mogoče večjo dostopa
+
+801
+00:53:03,199 --> 00:53:05,199
+z dela za operaterija.
+
+802
+00:53:05,199 --> 00:53:07,600
+Kaj so največji izzivi danes operaterjev,
+
+803
+00:53:07,600 --> 00:53:10,000
+ker recimo, ne vem, 20 let nazaj so mogoče bili,
+
+804
+00:53:10,000 --> 00:53:13,399
+ne vem, kako umeti dovolj velik uplink,
+
+805
+00:53:13,399 --> 00:53:17,000
+pa kako do bandwidth, do končnega uporabnika spraviti,
+
+806
+00:53:17,000 --> 00:53:21,000
+kaj so pa danes neki te izzivi, s katerimi se...
+
+807
+00:53:21,000 --> 00:53:25,199
+Veš kako je, kaki so izzivi cloud providerjev,
+
+808
+00:53:25,199 --> 00:53:27,199
+o tem ne vemo ni česar.
+
+809
+00:53:28,199 --> 00:53:32,199
+Tudi ti nek secret sauce.
+
+810
+00:53:32,199 --> 00:53:36,199
+Ker je v bistvu vse, kar delajo je secret sauce in povejo,
+
+811
+00:53:36,199 --> 00:53:39,000
+vse, kar povejo je recruitment drive.
+
+812
+00:53:39,800 --> 00:53:43,000
+Vsakeč, ko imaš nekoga iz Google-a na ripe meetingu,
+
+813
+00:53:43,000 --> 00:53:46,600
+ki govori, kako je Google OSDN fenomenalen,
+
+814
+00:53:46,600 --> 00:53:49,199
+ali pa njihov datacenter Fabric fenomenalen,
+
+815
+00:53:49,199 --> 00:53:51,199
+je to isključno samo recruitment drive.
+
+816
+00:53:52,600 --> 00:53:54,000
+Ker nikoli ne pove...
+
+817
+00:53:54,000 --> 00:53:58,000
+Recimo, to je blazna razlika med
+
+818
+00:53:58,000 --> 00:54:00,199
+Cloudflare-om na eni strani,
+
+819
+00:54:00,199 --> 00:54:03,199
+pa Google-om, pa Amazonom na drugi strani.
+
+820
+00:54:03,199 --> 00:54:05,199
+Amazon ne povini česa.
+
+821
+00:54:05,800 --> 00:54:07,199
+Fair.
+
+822
+00:54:07,199 --> 00:54:10,600
+Oni pač svoje stvari furajo,
+
+823
+00:54:10,600 --> 00:54:14,199
+on vsake tok časa povejo majčken,
+
+824
+00:54:14,199 --> 00:54:18,600
+kaj se dogaja en nivo pod API-jem,
+
+825
+00:54:18,600 --> 00:54:22,600
+zaradi tega, da ti razumeš, kako API pravilno uporabljati.
+
+826
+00:54:23,200 --> 00:54:27,200
+Povejo pač tiste detaile, kot lej.
+
+827
+00:54:27,200 --> 00:54:31,600
+Region ima več zonov, zon je failure domain,
+
+828
+00:54:31,600 --> 00:54:33,399
+zoni so loče...
+
+829
+00:54:33,399 --> 00:54:36,799
+Garantiramo, da sta dva zona, dva ločena datacentra,
+
+830
+00:54:36,799 --> 00:54:38,399
+ampak če hočeš imeti redundancjo,
+
+831
+00:54:38,399 --> 00:54:40,200
+pa je tu dva rična, latency in takole.
+
+832
+00:54:40,200 --> 00:54:41,600
+To povejo, ne?
+
+833
+00:54:41,600 --> 00:54:43,399
+Kaj je noter?
+
+834
+00:54:43,399 --> 00:54:49,399
+Ne povejo ni česar in Amazon je blazno tih.
+
+835
+00:54:50,200 --> 00:54:52,600
+Kaj gre, kakšen moj prijatelj delati na Amazon,
+
+836
+00:54:52,600 --> 00:54:55,200
+pade v črno lukno, zgina za Event Horizon
+
+837
+00:54:55,200 --> 00:54:57,200
+in ne slišaš več v njem ni česar.
+
+838
+00:54:58,399 --> 00:55:01,399
+Google se samo hvali.
+
+839
+00:55:02,399 --> 00:55:05,399
+Oni se na konferencah hvalijo, koliko so dobri
+
+840
+00:55:05,399 --> 00:55:08,399
+in pametni in vsemogočni in ne vem kaj,
+
+841
+00:55:08,399 --> 00:55:11,399
+ampak ko pogledaš tist njihov člank,
+
+842
+00:55:11,399 --> 00:55:14,399
+vedno ta zanimiv 10% manjka.
+
+843
+00:55:16,399 --> 00:55:18,399
+In vsi potem na tist padejo,
+
+844
+00:55:18,399 --> 00:55:20,399
+Google to dela, joj mi, moramo tudi.
+
+845
+00:55:20,399 --> 00:55:21,399
+Zdaj ima se še GIPHY,
+
+846
+00:55:21,399 --> 00:55:23,399
+or Google Infrastructure for Everyone Else,
+
+847
+00:55:23,399 --> 00:55:26,399
+in to je največji notek, kar smo ga videli na tem svetu,
+
+848
+00:55:26,399 --> 00:55:28,399
+vključo z Kubernetes.
+
+849
+00:55:29,399 --> 00:55:33,399
+Potem imaš pa manjše playerje, kot je recimo Cloudflare,
+
+850
+00:55:34,399 --> 00:55:38,399
+kjer dejansko njihov inženiring blog berem z velikim užitkom,
+
+851
+00:55:38,399 --> 00:55:40,399
+ker se spuščajo v take detalje,
+
+852
+00:55:40,399 --> 00:55:43,399
+ki se jaz v življenju ne spuščal.
+
+853
+00:55:44,399 --> 00:55:47,399
+Recimo, kako nek patch v Linux kernelu
+
+854
+00:55:47,399 --> 00:55:51,399
+povzroči, da se ti latency nenavadno poveča za x
+
+855
+00:55:52,399 --> 00:55:54,399
+in razloži v nulo.
+
+856
+00:55:54,399 --> 00:55:55,399
+Sicer vedno na konc piše,
+
+857
+00:55:55,399 --> 00:55:57,399
+fantje, če vas taki problemi zanimajo,
+
+858
+00:55:57,399 --> 00:55:59,399
+we are hiring?
+
+859
+00:55:59,399 --> 00:56:01,399
+O, glede, to je fair.
+
+860
+00:56:01,399 --> 00:56:02,399
+To je fair.
+
+861
+00:56:02,399 --> 00:56:04,399
+Ti si nekaj dal od sebe, seveda boš povedal,
+
+862
+00:56:04,399 --> 00:56:06,399
+da bi rat nekaj nazaj imel, če koga to zanima.
+
+863
+00:56:06,399 --> 00:56:09,399
+Cool. Lepo prosim, še tega.
+
+864
+00:56:09,399 --> 00:56:13,399
+Ampak, kake probleme ti ljudje imajo, pojma nimamo.
+
+865
+00:56:13,399 --> 00:56:16,399
+Ker to je tako, kot da bi, ne vem,
+
+866
+00:56:16,399 --> 00:56:18,399
+mi trije tule bicikle delajo,
+
+867
+00:56:18,399 --> 00:56:19,399
+pa bi se pogovarjali o tem,
+
+868
+00:56:19,399 --> 00:56:23,399
+kake probleme ima Falcon pr Masku.
+
+869
+00:56:24,399 --> 00:56:27,399
+Ali pa da bi imeli unemodelarske rakete, a veš.
+
+870
+00:56:28,399 --> 00:56:31,399
+Enostavno, to je drug planet.
+
+871
+00:56:32,399 --> 00:56:35,399
+Pr njihovih hitrostih, pr njihovi velikosti,
+
+872
+00:56:35,399 --> 00:56:39,399
+pr tem, kako hitro se jim zadeve spreminjajo,
+
+873
+00:56:39,399 --> 00:56:41,399
+to je drug planet.
+
+874
+00:56:41,399 --> 00:56:43,399
+Pa tudi, verjetno, nimaš nobenega,
+
+875
+00:56:43,399 --> 00:56:45,399
+ki bi imel neko overview, ker jih je tolk
+
+876
+00:56:45,399 --> 00:56:47,399
+zaposlenih, da se vsako kvare zanimajo.
+
+877
+00:56:47,399 --> 00:56:48,399
+No, pa tudi to.
+
+878
+00:56:48,399 --> 00:56:50,399
+Ampak, veš, nač vn ne pride.
+
+879
+00:56:50,399 --> 00:56:53,399
+Tvoja predpostava je,
+
+880
+00:56:54,399 --> 00:56:56,399
+s tem nekim inženiringom,
+
+881
+00:56:56,399 --> 00:56:59,399
+so si zdaj izmislili svoj proprietarij protokol,
+
+882
+00:56:59,399 --> 00:57:00,399
+ki ga ne vršiljujejo.
+
+883
+00:57:00,399 --> 00:57:01,399
+Vsi ga imajo.
+
+884
+00:57:01,399 --> 00:57:03,399
+Pa svoj proprietarij hardver,
+
+885
+00:57:03,399 --> 00:57:05,399
+ki rešujejo neke probleme.
+
+886
+00:57:05,399 --> 00:57:08,399
+Ali keep it simple, pa dejmo mi...
+
+887
+00:57:08,399 --> 00:57:10,399
+Ne, veš kaj, problem je,
+
+888
+00:57:10,399 --> 00:57:12,399
+ker prvič imajo probleme,
+
+889
+00:57:12,399 --> 00:57:14,399
+ki jih nima nikče drug.
+
+890
+00:57:14,399 --> 00:57:15,399
+Vsekakor, ja.
+
+891
+00:57:15,399 --> 00:57:16,399
+Zaradi velikosti.
+
+892
+00:57:16,399 --> 00:57:19,399
+In zaradi tega sploh ne dobiš hardvera,
+
+893
+00:57:19,399 --> 00:57:21,399
+ki bi rešil njihove probleme.
+
+894
+00:57:21,399 --> 00:57:24,399
+Po drugi strani, če pogledaš,
+
+895
+00:57:25,399 --> 00:57:27,399
+te veliki cloud providerji so verjetno
+
+896
+00:57:27,399 --> 00:57:30,399
+20-30% networkinga trga.
+
+897
+00:57:30,399 --> 00:57:31,399
+Ja.
+
+898
+00:57:32,399 --> 00:57:33,399
+Tako da, v bistvu,
+
+899
+00:57:33,399 --> 00:57:36,399
+Whitebox, Switch so bili drug največji vendor
+
+900
+00:57:36,399 --> 00:57:37,399
+takoj za siskom.
+
+901
+00:57:37,399 --> 00:57:39,399
+Pa pred, ne vem, kdo je ta tretij.
+
+902
+00:57:40,399 --> 00:57:43,399
+In to gre v te velike cloud providerje.
+
+903
+00:57:43,399 --> 00:57:45,399
+A veš, kaj imam jaz včasih občutek
+
+904
+00:57:45,399 --> 00:57:46,399
+pri cloud providerjih?
+
+905
+00:57:46,399 --> 00:57:49,399
+Vsakeč, kar si rešil svoj problem,
+
+906
+00:57:49,399 --> 00:57:52,399
+s kakšnjo svojo proprietarijo rešitvijo,
+
+907
+00:57:52,399 --> 00:57:55,399
+si zgenerirajo ene 5-6 novih.
+
+908
+00:57:56,399 --> 00:57:57,399
+I tak da.
+
+909
+00:57:57,399 --> 00:57:59,399
+Lej pri tisti velikosti,
+
+910
+00:57:59,399 --> 00:58:01,399
+pa pri tem, kako hitro oni lavfajo,
+
+911
+00:58:01,399 --> 00:58:03,399
+pa kakšen bandwidth imajo.
+
+912
+00:58:03,399 --> 00:58:05,399
+To so proprietarije rešitve.
+
+913
+00:58:05,399 --> 00:58:09,399
+Ampak tkoliko nikogar druzga na tem svetu,
+
+914
+00:58:10,399 --> 00:58:12,399
+ne sem, da ga ne zanima.
+
+915
+00:58:12,399 --> 00:58:14,399
+A veš, koliko imaš delat,
+
+916
+00:58:14,399 --> 00:58:16,399
+če hočeš nekaj, kar si zase razvil,
+
+917
+00:58:16,399 --> 00:58:18,399
+spraviti v stanje,
+
+918
+00:58:18,399 --> 00:58:20,399
+ki bo uporabno še za nekoga druzga.
+
+919
+00:58:21,399 --> 00:58:23,399
+Oh, ogromno.
+
+920
+00:58:23,399 --> 00:58:25,399
+Zato pa imamo kubernetno svoje stanje,
+
+921
+00:58:25,399 --> 00:58:27,399
+v katerem je, ne?
+
+922
+00:58:27,399 --> 00:58:31,399
+Lej, kubernetis je pa googlovna tek, ne?
+
+923
+00:58:31,399 --> 00:58:36,400
+Zato ker, če bom uspel vse nategen,
+
+924
+00:58:36,400 --> 00:58:38,400
+da je ta apita prav,
+
+925
+00:58:38,400 --> 00:58:41,400
+potem mi bo lažje moj cloud prodajat,
+
+926
+00:58:41,400 --> 00:58:42,400
+ker ga ne morem nič prodajat,
+
+927
+00:58:42,400 --> 00:58:44,400
+zato ker nimam suporta.
+
+928
+00:58:44,400 --> 00:58:47,400
+Ne, bolje, jaz pa vidim, da to je zdaj ta silver bullet,
+
+929
+00:58:47,400 --> 00:58:49,400
+s katerim bomo rešil vse probleme.
+
+930
+00:58:49,400 --> 00:58:51,400
+Ja, lej, OpenStack je tudi bil.
+
+931
+00:58:51,400 --> 00:58:53,400
+Ja, ampak nisi tako dober v tržu.
+
+932
+00:58:53,400 --> 00:58:55,400
+Ja, zato, ker so ga tržili networking vendori,
+
+933
+00:58:55,400 --> 00:58:57,400
+to trži pa Google.
+
+934
+00:58:58,400 --> 00:59:00,400
+Ma, kar sem izvedel ta OpenStack,
+
+935
+00:59:00,400 --> 00:59:02,400
+ta zadnja verzija,
+
+936
+00:59:02,400 --> 00:59:05,400
+kar sem jaz izvedel, je bila še bolj beta varijanta.
+
+937
+00:59:05,400 --> 00:59:07,400
+Jaz sem bil skozi beta varijanta, ne?
+
+938
+00:59:07,400 --> 00:59:08,400
+Ne.
+
+939
+00:59:08,400 --> 00:59:11,400
+Zdaj pa je bila tako praktično neuporabna.
+
+940
+00:59:11,400 --> 00:59:15,400
+OpenStack je bil tist,
+
+941
+00:59:15,400 --> 00:59:20,400
+kako bojo networking compute storage vendori
+
+942
+00:59:21,400 --> 00:59:24,400
+svojo kompleksnost spravili na trg.
+
+943
+00:59:24,400 --> 00:59:28,400
+Na trg pa je bil čim bliže API-u Amazona.
+
+944
+00:59:29,400 --> 00:59:33,400
+Ja, jaz sem probil ta OpenStack postaviti.
+
+945
+00:59:33,400 --> 00:59:35,400
+Ne, sej sem ga postavil, ampak,
+
+946
+00:59:35,400 --> 00:59:38,400
+če bi hotel karkolikor koristnega z njega vend dobiti,
+
+947
+00:59:38,400 --> 00:59:43,400
+po mojem, bi rado eno leto ga naštudirati,
+
+948
+00:59:43,400 --> 00:59:45,400
+kaj vse so si tam zamiselni,
+
+949
+00:59:45,400 --> 00:59:49,400
+kompletno kontra neki logiki,
+
+950
+00:59:49,400 --> 00:59:52,400
+kaj sledimo 20-30 let, ne?
+
+951
+00:59:52,400 --> 00:59:56,400
+Ampak isto lahko, isto lahko kubernetes ne odkvačkaš.
+
+952
+00:59:56,400 --> 00:59:58,400
+Sej kubernetes ni naš boljši.
+
+953
+00:59:58,400 --> 01:00:00,400
+Sej ni naš boljši.
+
+954
+01:00:01,400 --> 01:00:04,400
+V glavnem, sploh ne vemo, kake probleme imajo.
+
+955
+01:00:04,400 --> 01:00:06,400
+V bistvu tisto, kar vemo,
+
+956
+01:00:06,400 --> 01:00:10,400
+kar vidimo, je to, kake čipe daje Broadcom na trg.
+
+957
+01:00:10,400 --> 01:00:12,400
+Ker Broadcom daje na trg čipe,
+
+958
+01:00:12,400 --> 01:00:15,400
+ki jih bojo cloud providerji kupili.
+
+959
+01:00:15,400 --> 01:00:18,400
+Zdaj je Broadcom kupil VMware in smo vsi zmagali.
+
+960
+01:00:19,400 --> 01:00:21,400
+A se spomnaš CIA?
+
+961
+01:00:22,400 --> 01:00:24,400
+Computer Associates?
+
+962
+01:00:24,400 --> 01:00:25,400
+Ja.
+
+963
+01:00:25,400 --> 01:00:27,400
+Where the old software goes to die.
+
+964
+01:00:29,400 --> 01:00:31,400
+Broadcom je isto.
+
+965
+01:00:31,400 --> 01:00:35,400
+VMware je za Broadcom samo cash,
+
+966
+01:00:35,400 --> 01:00:38,400
+kako bojo ... A niso Brocade kupili v svoje čase?
+
+967
+01:00:38,400 --> 01:00:39,400
+Mislim, da ja.
+
+968
+01:00:39,400 --> 01:00:43,400
+A veš, Brocade so kupili zaradi inštalirane
+
+969
+01:00:43,400 --> 01:00:45,400
+Fiber Channel baze.
+
+970
+01:00:45,400 --> 01:00:48,400
+In potem so kravo zmavzali toliko časa,
+
+971
+01:00:48,400 --> 01:00:50,400
+da je umrla od starosti.
+
+972
+01:00:50,400 --> 01:00:52,400
+In zdaj so kupili naslednjo kravo,
+
+973
+01:00:52,400 --> 01:00:55,400
+ki jo bojo zmavzali, dokaj ne bo umrla od starosti.
+
+974
+01:00:55,400 --> 01:00:58,400
+Ja, samo od Brocade-a so bili življensko odvisni
+
+975
+01:00:58,400 --> 01:01:02,400
+high-frequency traderji tam po borzah.
+
+976
+01:01:02,400 --> 01:01:03,400
+Ne.
+
+977
+01:01:03,400 --> 01:01:04,400
+Tisto še vedno delajo.
+
+978
+01:01:04,400 --> 01:01:05,400
+Že dolgo ne.
+
+979
+01:01:05,400 --> 01:01:07,400
+Kaj so zamenjali?
+
+980
+01:01:07,400 --> 01:01:10,400
+Glej, oni naredijo vse samo, da je mikrosekundo.
+
+981
+01:01:10,400 --> 01:01:17,400
+A veš, takoj, kaj je bil 16 giga Fiber Channel,
+
+982
+01:01:17,400 --> 01:01:21,400
+na drugi strani pa 100 pa 200 giga Ethernet.
+
+983
+01:01:21,400 --> 01:01:22,400
+Ja.
+
+984
+01:01:22,400 --> 01:01:23,400
+Konc.
+
+985
+01:01:23,400 --> 01:01:25,400
+Adio.
+
+986
+01:01:26,400 --> 01:01:27,400
+Tam je dnar.
+
+987
+01:01:27,400 --> 01:01:29,400
+Oni in se gre za nanosekunde.
+
+988
+01:01:29,400 --> 01:01:30,400
+Ja, ja.
+
+989
+01:01:31,400 --> 01:01:32,400
+ISP.
+
+990
+01:01:32,400 --> 01:01:34,400
+ISP, s čem se uparijo ...
+
+991
+01:01:34,400 --> 01:01:37,400
+Kaj so zdaj njihovi največji izzivi?
+
+992
+01:01:37,400 --> 01:01:40,400
+Glej, tako, kot smo na začetku povedali.
+
+993
+01:01:40,400 --> 01:01:41,400
+ARPU.
+
+994
+01:01:43,400 --> 01:01:46,400
+Osnova se ni spremenila od 90-ih let.
+
+995
+01:01:46,400 --> 01:01:51,400
+Še vedno, samo zdaj na mesto najetih paric imamo optiko.
+
+996
+01:01:51,400 --> 01:01:57,400
+Med operateri je BGP, zdaj so še RPKI pretakali na izravn,
+
+997
+01:01:57,400 --> 01:02:00,400
+pa malo se igrajo z BGP community.
+
+998
+01:02:01,400 --> 01:02:05,400
+DNS je še vedno probližno tak, ker je bil s tem,
+
+999
+01:02:05,400 --> 01:02:08,400
+da smo pretakali na izravn DNSSEC,
+
+1000
+01:02:08,400 --> 01:02:11,400
+ker pač nismo vsi dobri na internetu,
+
+1001
+01:02:11,400 --> 01:02:15,400
+ampak imaš tudi take in drugačne playerje.
+
+1002
+01:02:15,400 --> 01:02:17,400
+Tako da praktično ...
+
+1003
+01:02:17,400 --> 01:02:22,400
+Imaš kaj še na estimation, koliko je zdaj DNSSEC že uporabi.
+
+1004
+01:02:22,400 --> 01:02:26,400
+Za vse, ki ste kaj nas poslušate, pa kaj to pomeni,
+
+1005
+01:02:26,400 --> 01:02:29,400
+se pravi, da so pač rekvesti in pač ti,
+
+1006
+01:02:29,400 --> 01:02:32,400
+kar je vrne DNSSEC, podpisani, pa da se da reči ...
+
+1007
+01:02:32,400 --> 01:02:35,400
+Ne, samo odgovorji so podpisani.
+
+1008
+01:02:35,400 --> 01:02:37,400
+Odgovorji so podpisani.
+
+1009
+01:02:37,400 --> 01:02:39,400
+Ja, rekvestov ne podpisuješ.
+
+1010
+01:02:39,400 --> 01:02:42,400
+Seveda, da odgovor je podpisan, da pač verjameš,
+
+1011
+01:02:42,400 --> 01:02:45,400
+da ti, kar je prišel nazaj, pač je ...
+
+1012
+01:02:45,400 --> 01:02:48,400
+Ja, lahko preveriš po veji na vzgor.
+
+1013
+01:02:48,400 --> 01:02:54,400
+Zdaj je tako, problemi operaterjev, ki trenutno so,
+
+1014
+01:02:54,400 --> 01:03:01,400
+so to, da so se začeli, bom rekel, količine prometa,
+
+1015
+01:03:01,400 --> 01:03:06,400
+ki se valijo čez njihova omrežja, ekspotencialno rast.
+
+1016
+01:03:06,400 --> 01:03:11,400
+Zaradi teh over-the-top storitev, ki jih nudijo razni Googli,
+
+1017
+01:03:11,400 --> 01:03:13,400
+pa tako naprej.
+
+1018
+01:03:13,400 --> 01:03:15,400
+Netflix, no, dajmo ti moreš Netflix.
+
+1019
+01:03:15,400 --> 01:03:17,400
+Netflix, ja, pa tako naprej.
+
+1020
+01:03:17,400 --> 01:03:21,400
+In potem je bila celo neka ideja, celo na nivoju
+
+1021
+01:03:22,400 --> 01:03:29,400
+nekega evropskega združenja, da bi operateri začeli zračunavati
+
+1022
+01:03:29,400 --> 01:03:36,400
+tem ponudnikom teh osebin zato, da te svoje storitve in promet
+
+1023
+01:03:36,400 --> 01:03:38,400
+lifravi čez njihova omrežja.
+
+1024
+01:03:38,400 --> 01:03:43,400
+Kar sproži, ko prvo sproži vprašanje, fantje, a ne vi
+
+1025
+01:03:43,400 --> 01:03:47,400
+tega bendvita zračunavati vašim uporabnikom?
+
+1026
+01:03:47,400 --> 01:03:53,400
+Če ti ponujaš en gigabit na sekundo na optiki prmeni doma,
+
+1027
+01:03:53,400 --> 01:03:57,400
+če ti jaz to nekako plačujem?
+
+1028
+01:03:57,400 --> 01:04:03,400
+Zakaj bi moral še on ta drugej za tebe plačati?
+
+1029
+01:04:03,400 --> 01:04:05,400
+Težava operaterja.
+
+1030
+01:04:05,400 --> 01:04:07,400
+Probati ni greh.
+
+1031
+01:04:07,400 --> 01:04:10,400
+Ja, probati ni greh, če to ni šlo skos.
+
+1032
+01:04:10,400 --> 01:04:13,400
+Tu je še drug problem vprašate, prekaj.
+
+1033
+01:04:13,400 --> 01:04:21,400
+Menda Google na tebi zasluži morda en euro na mesec.
+
+1034
+01:04:21,400 --> 01:04:26,400
+Skoraj pa 80% tvojega bendvita.
+
+1035
+01:04:26,400 --> 01:04:32,400
+Telekom, ampak dorkoli tu v Sloveniji zasluži na tebi 30-50 euro na mesec.
+
+1036
+01:04:32,400 --> 01:04:36,400
+Kaj bo zdaj om dobil 20% od enega eura?
+
+1037
+01:04:36,400 --> 01:04:39,400
+Kaman na kaman plačan.
+
+1038
+01:04:39,400 --> 01:04:44,400
+Ja, ne vem, se mečka pošlihtajo svoje poslovanje.
+
+1039
+01:04:44,400 --> 01:04:48,400
+Težava operaterjev, govorim zdaj ne samo slovenskih,
+
+1040
+01:04:48,400 --> 01:04:54,400
+nasplošno je, da so nastali kot pipa, kot vodovodari,
+
+1041
+01:04:54,400 --> 01:04:57,400
+ki premikajo promet levo-desno.
+
+1042
+01:04:57,400 --> 01:04:59,400
+In to so tudi ostali.
+
+1043
+01:04:59,400 --> 01:05:01,400
+Večinoma...
+
+1044
+01:05:01,400 --> 01:05:06,400
+Jaz predvsem vidim, da operaterji dones so postali ne samo to,
+
+1045
+01:05:06,400 --> 01:05:11,400
+kaj je povezovanje in internet, ampak pač tukaj pride televizija, dokument.
+
+1046
+01:05:11,400 --> 01:05:14,400
+Ne, dej neki razumet.
+
+1047
+01:05:14,400 --> 01:05:22,400
+Vsi evropski operaterji so začeli kot državni monopolisti.
+
+1048
+01:05:22,400 --> 01:05:27,400
+In to so bila zlata leta, ko so tisto telefonijo, ki je res bila draga,
+
+1049
+01:05:27,400 --> 01:05:32,400
+ker če probaš od Stuki do Amerike 64 kilobitno pipcov spostaviti,
+
+1050
+01:05:32,400 --> 01:05:38,400
+pa mes mapping za to pipcov v vsaki centrali po poti, to je dragovka svina.
+
+1051
+01:05:38,400 --> 01:05:45,400
+In to trikrat pred drago telefonijo so nas odirali s tem,
+
+1052
+01:05:45,400 --> 01:05:48,400
+in od tega krasno žveli in imeli visoke profite,
+
+1053
+01:05:48,400 --> 01:05:53,400
+in trikrat pa več zaposlenih iz insidikate in vse, kar tu zraven pride.
+
+1054
+01:05:53,400 --> 01:06:00,400
+Potem se je pa naenkrat pojavil neko omrežje, ki je znalo več podatkov.
+
+1055
+01:06:00,400 --> 01:06:05,400
+Spraviti preko hitrejših pip za manj dnarja.
+
+1056
+01:06:05,400 --> 01:06:11,400
+In vsi ti so se veda pogruntali, da je v to treba iti, in so vsi skočili na internet.
+
+1057
+01:06:11,400 --> 01:06:15,400
+Ampak tu tekmuješ pa samo še s ceno.
+
+1058
+01:06:15,400 --> 01:06:16,400
+Ja, itak.
+
+1059
+01:06:16,400 --> 01:06:21,400
+Tu je samo še vprašanje, kolik bitov za kog dnarja.
+
+1060
+01:06:21,400 --> 01:06:26,400
+In prej si se valjal v dnarju, zdaj živiš pod 3%.
+
+1061
+01:06:26,400 --> 01:06:31,400
+In jaz mislim, da vsi imajo mokre sanje, da bojo še naprej se valjali v dnarju.
+
+1062
+01:06:31,400 --> 01:06:35,400
+In ker se od interneta ne da valjati v dnarju, bomo poprobali,
+
+1063
+01:06:35,400 --> 01:06:40,400
+da jim bomo Skype blokirali, da bojo morali naš voice over IP uporabljati.
+
+1064
+01:06:40,400 --> 01:06:42,400
+Glej tudi British Telecom.
+
+1065
+01:06:42,400 --> 01:06:44,400
+Net neutrality.
+
+1066
+01:06:44,400 --> 01:06:53,400
+Al pa jih bomo, se je vse dovoljeno jebali v glavo, da jim bomo pipce zapirali.
+
+1067
+01:06:53,400 --> 01:06:54,400
+Glej tudi Comcast.
+
+1068
+01:06:54,400 --> 01:06:56,400
+Oni so resete pošiljali.
+
+1069
+01:06:56,400 --> 01:07:01,400
+Ja, oni so celoti sež ne resetirali, pa niso hteli preznati.
+
+1070
+01:07:01,400 --> 01:07:04,400
+Gle, zakaj?
+
+1071
+01:07:04,400 --> 01:07:13,400
+A veš, vse to v nekem obupanem poskusu, da bi ona krava muzara le pri njih v hiši ostala,
+
+1072
+01:07:13,400 --> 01:07:15,400
+da ne bo pobeganla na Google.
+
+1073
+01:07:15,400 --> 01:07:19,400
+Al pa Netflix, al pa WhatsApp.
+
+1074
+01:07:20,400 --> 01:07:22,400
+Ampak dones to ne prime več.
+
+1075
+01:07:22,400 --> 01:07:27,400
+Ker če ti en proba ti bučke pridajati, gre šta drugmu.
+
+1076
+01:07:27,400 --> 01:07:36,400
+A veš, in jaz ne bom več, jaz že leta in leta ne plačujem več mojemu operaterju za ta šit od TV programov, ki mi jih lifra.
+
+1077
+01:07:36,400 --> 01:07:37,400
+On ni nač kril.
+
+1078
+01:07:37,400 --> 01:07:39,400
+To njemu dajo.
+
+1079
+01:07:39,400 --> 01:07:44,400
+Ampak zakaj bi ta drek plačeval, če lahko plačujem pol manj Netflixu?
+
+1080
+01:07:44,400 --> 01:07:46,400
+Al pa Disneyu?
+
+1081
+01:07:47,400 --> 01:07:50,400
+Mislim, sori, če ne znate vsebine let, pa ne boste dnarja dober.
+
+1082
+01:07:50,400 --> 01:07:58,400
+Recimo leta 96, 97 enkrat so hodili fantje, ki smo si jol postavljali, so hodili gledat.
+
+1083
+01:07:58,400 --> 01:08:07,400
+Takrat so bili še niti ISD-ena, folk še ne imel, so bili ti navadni modemi 9600, 14400.
+
+1084
+01:08:07,400 --> 01:08:10,400
+Ej, to možda zravno zmiksati, tist modem.
+
+1085
+01:08:10,400 --> 01:08:11,400
+Tist modem.
+
+1086
+01:08:11,400 --> 01:08:13,400
+Še ždej svele pride ona.
+
+1087
+01:08:16,400 --> 01:08:22,400
+V glavnem, tam smo imeli v reku noter zmontirane cele te škatle teh modemov.
+
+1088
+01:08:22,400 --> 01:08:24,400
+Kdo ti jih je pa prdal?
+
+1089
+01:08:26,400 --> 01:08:29,400
+Nekih je celo zraven evneta prišlo.
+
+1090
+01:08:29,400 --> 01:08:30,400
+Res je.
+
+1091
+01:08:32,400 --> 01:08:36,400
+In so fantje hodili gledat tiste lučke.
+
+1092
+01:08:36,400 --> 01:08:41,400
+In enkrat nekdo rekel, lej, Jan, vidiš, tukaj pa noter kapljajo tolari.
+
+1093
+01:08:41,400 --> 01:08:45,400
+Kaj je bilo še na impulzi. Zdaj se je zračunavalo internet.
+
+1094
+01:08:45,400 --> 01:08:51,400
+Pa sem se rekel, ja, zdaj že kapljajo tolari noter, z temi impulzi.
+
+1095
+01:08:51,400 --> 01:08:59,400
+Samo, če jaz vidim internet vnaprej, internet promet bo brezplačen, neomejen, praktično,
+
+1096
+01:08:59,400 --> 01:09:02,400
+to ne bo več nekaj, na čem se bo služilo.
+
+1097
+01:09:02,400 --> 01:09:04,400
+Mi moramo razviti vsebine.
+
+1098
+01:09:04,400 --> 01:09:07,400
+To sem leta 96 povedal, a veš kaj sem dobil nazaj?
+
+1099
+01:09:07,400 --> 01:09:11,400
+Tih bot ne nobenmo tega omenjati, ker te bomo imeli za norga.
+
+1100
+01:09:13,400 --> 01:09:15,400
+Ja, krava muzara je takrat bila.
+
+1101
+01:09:15,400 --> 01:09:17,400
+In tukaj smo, ne?
+
+1102
+01:09:17,400 --> 01:09:20,400
+Ja. Ne, samo veš kaj je drug problem, ne?
+
+1103
+01:09:22,400 --> 01:09:32,400
+Ne moraš imeti firme, ki bo hkrati prodajala elektriko za 3% in kreirala vsebine.
+
+1104
+01:09:33,400 --> 01:09:38,400
+Ker, mislim, mi smo v svoje čase poskušali v isti firmi delati več različnih stvari.
+
+1105
+01:09:39,400 --> 01:09:46,400
+Kaj je fokus dovolj različen, kaj so zahteve dovolj različne, kaj so margine preveč različne, to enostavno ne gre.
+
+1106
+01:09:47,400 --> 01:09:51,400
+Kaj ne moraš v eni firmi furati dveh tako različnih.
+
+1107
+01:09:51,400 --> 01:09:53,400
+Dobro, lahko, če si IBM.
+
+1108
+01:09:54,400 --> 01:09:59,400
+Ampak še IBM menda sploh ne ve, koliko ima dubička, ne? Mislim, na konc vajo računovodje, ne?
+
+1109
+01:09:59,400 --> 01:10:04,400
+Ampak v IBM-u, ko so mi nekaj če rekli, je bistvo spisano samo, koliko revenue je.
+
+1110
+01:10:04,400 --> 01:10:06,400
+Če je revenue, bodo dubiček tudi enkrat prišel.
+
+1111
+01:10:07,400 --> 01:10:09,400
+To je nekako povezano menda.
+
+1112
+01:10:09,400 --> 01:10:10,400
+Ja, ni nujno.
+
+1113
+01:10:13,400 --> 01:10:18,400
+Vse veš, da smo enkrat imeli enega prodajalca, ki je dal popuste vsake stranke, ki je mi je prišla.
+
+1114
+01:10:18,400 --> 01:10:20,400
+Tako da revenue je bil.
+
+1115
+01:10:20,400 --> 01:10:21,400
+Revenue je bil, ne?
+
+1116
+01:10:21,400 --> 01:10:24,400
+Ja, pa njegov, njegov, ta variabilen del je bil tudi visoka.
+
+1117
+01:10:24,400 --> 01:10:28,400
+Ja, ja, bil, ja. Moj žev je bil poprazen.
+
+1118
+01:10:29,400 --> 01:10:31,400
+Ja, tako da je z operateri je tako, ne?
+
+1119
+01:10:31,400 --> 01:10:36,400
+V bistvu, kukrkol po drugi strani, ne?
+
+1120
+01:10:36,400 --> 01:10:43,400
+Kukrkol politika misli, da lahko on internet regulira in tako naprej, ne?
+
+1121
+01:10:43,400 --> 01:10:48,400
+Na koncu so operateri tisti, ki peljejo internet naprej.
+
+1122
+01:10:48,400 --> 01:10:53,400
+Operateri so tisti, ki se med sabo zmenijo, kdo bo, kaj je oznanil, kakšne bojo politike.
+
+1123
+01:10:53,400 --> 01:10:56,400
+Kakšne bojo politike v mesi in tako naprej, ne?
+
+1124
+01:10:56,400 --> 01:11:01,400
+In tukaj imamo, tukaj imamo, to je tudi en problem operaterjev, ne?
+
+1125
+01:11:01,400 --> 01:11:07,400
+Ker imamo ta global internet policy, ne? To je ta razni IGF in tako naprej, ne?
+
+1126
+01:11:07,400 --> 01:11:14,400
+To je nek tak mehurček, v katerem so notri ti tehnopolitiki zaprti, ne?
+
+1127
+01:11:14,400 --> 01:11:19,400
+In ta mehurček se premika po svetu, ustavi se v raznih fancy hoteljih, ne?
+
+1128
+01:11:19,400 --> 01:11:20,400
+Ker imajo svoj...
+
+1129
+01:11:20,400 --> 01:11:21,400
+Na zanimivih lokacijah.
+
+1130
+01:11:21,400 --> 01:11:29,400
+Na zanimivih lokacijah, ne? In oni se med sabo zmenijo, kako se bo upravljalo z internetom v nedaljnih desetih letih, ne?
+
+1131
+01:11:29,400 --> 01:11:36,400
+Ni pa ponavadjeni niti enega tehnično operativno sposobnega človeka tam notri,
+
+1132
+01:11:36,400 --> 01:11:41,400
+ki ima kakršnekoli izkušnje, kako je internet dejansko v realnosti lahva.
+
+1133
+01:11:41,400 --> 01:11:42,400
+Pa tukaj se pa dobro razumejo med sabo.
+
+1134
+01:11:42,400 --> 01:11:44,400
+Ful, ful se razumejo.
+
+1135
+01:11:44,400 --> 01:11:51,400
+To je ta, veš, enega, veš, filozofa, ki, veš, saj prijetna ideja, ko se si jo zamisli, je dobra.
+
+1136
+01:11:51,400 --> 01:11:53,400
+Samo vprašanje je tehnično...
+
+1137
+01:11:53,400 --> 01:11:55,400
+Glej, to je tako kot slovenski parlament.
+
+1138
+01:11:55,400 --> 01:11:56,400
+Ja, ne?
+
+1139
+01:11:56,400 --> 01:11:59,400
+Ja, ne, oni imajo vse sorti ideje, ne?
+
+1140
+01:11:59,400 --> 01:12:07,400
+Kako bi se morali internet upravljati, pa neutralnost interneta, pa ne vem, kaj bo se tam zmenjilo.
+
+1141
+01:12:07,400 --> 01:12:10,400
+Na tem mestu, v slovenski operateri, kaj si tu imel?
+
+1142
+01:12:10,400 --> 01:12:14,400
+Boljš, slabš, glede na tujino smo?
+
+1143
+01:12:14,400 --> 01:12:15,400
+Nevarjetno dober.
+
+1144
+01:12:15,400 --> 01:12:16,400
+Zelo, ne?
+
+1145
+01:12:16,400 --> 01:12:20,400
+Mislim, fantje, svaka vam čast.
+
+1146
+01:12:20,400 --> 01:12:22,400
+Tako, se pridružujem temu, ne?
+
+1147
+01:12:22,400 --> 01:12:23,400
+Ne, mislim...
+
+1148
+01:12:23,400 --> 01:12:24,400
+To je dober slišati.
+
+1149
+01:12:24,400 --> 01:12:27,400
+Ne, hodim okol, recimo, Italije, katastrofa.
+
+1150
+01:12:27,400 --> 01:12:28,400
+Ja.
+
+1151
+01:12:28,400 --> 01:12:30,400
+Samo tam se jih tudi zakoni stisljene, ne?
+
+1152
+01:12:30,400 --> 01:12:36,400
+Ne, prav tist, povezljivost, bandwidth-a ni, vse je počas, dol ti pada.
+
+1153
+01:12:36,400 --> 01:12:39,400
+Ja, veš kaj, tukaj je pri nas je bilo fajno, ne?
+
+1154
+01:12:39,400 --> 01:12:42,400
+Kako je želi, italijanska pošta, ki je dostavljiva 60%, ali kaj.
+
+1155
+01:12:42,400 --> 01:12:45,400
+Ja, ja, ja, it works every time, 60% of the time.
+
+1156
+01:12:45,400 --> 01:12:50,400
+Tukaj v Sloveniji je bil takrat ten boom, ne vem kjerga leta je bilo to,
+
+1157
+01:12:50,400 --> 01:12:58,400
+ko so začeli tekmovat, kaj, T2, dobil dnar, in so začeli kopat obličje Slovenija in inštalirati fajber.
+
+1158
+01:12:58,400 --> 01:13:02,400
+Telekom je ugotovil, da, o, mi moramo tudi, ne, ne bomo ostali odzadaj.
+
+1159
+01:13:02,400 --> 01:13:07,400
+Dobar, brez T2 se to ne bi zgodil, ne?
+
+1160
+01:13:07,400 --> 01:13:08,400
+Ja.
+
+1161
+01:13:08,400 --> 01:13:12,400
+Ampak veš, Telekom je potegnul fajber v mojo vukojebino, ne?
+
+1162
+01:13:12,400 --> 01:13:16,400
+Zadnji sem u vas, pa vas je rastresena, vas.
+
+1163
+01:13:16,400 --> 01:13:23,400
+Ampak v bistvu, ne, so potem povedali fantje, ki so okoli hodil, ne, oni v zdrževalci,
+
+1164
+01:13:23,400 --> 01:13:33,400
+da, verjetno, se jim je to celo splačalo, zarad tega, ker so drgač po vsaki nevihti hodil okoli,
+
+1165
+01:13:33,400 --> 01:13:36,400
+pa one svoje ASDN vodeme menjavali.
+
+1166
+01:13:36,400 --> 01:13:41,400
+A veš, kdaj se je ta naval izgradnje fajbera ustavil?
+
+1167
+01:13:41,400 --> 01:13:42,400
+Hm.
+
+1168
+01:13:42,400 --> 01:13:44,400
+Ne vem, kaj sem ga že imel takrat.
+
+1169
+01:13:44,400 --> 01:13:49,400
+Naš, naš, naš vrli, takrat je bil AKOS, ne, kaj je, kaj je bilo?
+
+1170
+01:13:50,400 --> 01:13:53,400
+To je še vedno, ja, še vedno je AKOS, ja.
+
+1171
+01:13:53,400 --> 01:13:58,400
+Mislim, da prej so bili nekaj drugega, nekako so se preimenovali, no, v glavnem AKOS se je odločil,
+
+1172
+01:13:58,400 --> 01:14:03,400
+da bo razvezal lokalno zanko, ne, da bo omogočil drugim operaterim,
+
+1173
+01:14:03,400 --> 01:14:09,400
+da bojo, da bojo pač preko drugih omrežji ponujali svoje storitve, ne.
+
+1174
+01:14:09,400 --> 01:14:16,400
+Jasno, razvezal je pa samo Telekomovo omrežje, ne, ne pa tudi te dvajega in vseh ostalih, ne.
+
+1175
+01:14:16,400 --> 01:14:23,400
+In kolikor sem jaz bil takrat seznanjen s tem, so, kaj je prišla ta odločitev ven,
+
+1176
+01:14:23,400 --> 01:14:31,400
+so fanti s Telekoma poklicali na teren in so jim padle klešče in šla v cigri z rok, ne, v tisto momento.
+
+1177
+01:14:32,400 --> 01:14:34,400
+Takrat je, takrat je ta naval Fibera.
+
+1178
+01:14:34,400 --> 01:14:43,400
+Vsi zdaj, zdaj se spet nekako popravlja, ne, Telekom spet investira, vidim, da se vleče Fiber pa tako naprej tam,
+
+1179
+01:14:43,400 --> 01:14:49,400
+kjer se jaz kišo naredil v retečah, so postavili Fiber praktično za celo naselje.
+
+1180
+01:14:49,400 --> 01:14:50,400
+To sanj zra tebe.
+
+1181
+01:14:50,400 --> 01:14:52,400
+Tega ne morem javno reči.
+
+1182
+01:14:52,400 --> 01:14:53,400
+To sanj zra tebe.
+
+1183
+01:14:53,400 --> 01:14:55,400
+I can neither confirm nor deny.
+
+1184
+01:14:55,400 --> 01:14:59,400
+Tako nekako. No, pač jaz sem jih pač poklical.
+
+1185
+01:15:00,000 --> 01:15:04,240
+in jih vprašal, če je možno tam, pri meni, če imajo kaj v planu,
+
+1186
+01:15:05,120 --> 01:15:06,440
+pa so rekli, da je v planu.
+
+1187
+01:15:09,800 --> 01:15:17,360
+Ne, dagač pa, zdaj ne vem, torej jaz vem še tist, kako so uno, Bakreno lokalno zanko razvezali.
+
+1188
+01:15:18,600 --> 01:15:25,559
+In tist, tako, če pogledaš strani, je bilo pošteno, ne, ker se Bakreno omrežje v Sloveniji
+
+1189
+01:15:25,920 --> 01:15:29,000
+zgradilo v času monopolista
+
+1190
+01:15:29,480 --> 01:15:30,879
+iz mojega žepa.
+
+1191
+01:15:31,639 --> 01:15:35,240
+Ja, sam ti nisem imel konkurenčnega Bakrenega omrežja.
+
+1192
+01:15:35,599 --> 01:15:38,680
+Ne, ampak za dobro rano, tisto je dočiz prav, da se je tisto razvezalo.
+
+1193
+01:15:39,200 --> 01:15:44,000
+Zdaj pa zgleda, da so razvezali tudi optiko.
+
+1194
+01:15:45,240 --> 01:15:48,880
+Ja, saj jaz sem takrat vprašal takratnega direktorja, ako sa
+
+1195
+01:15:49,360 --> 01:15:52,919
+sva šla na pivo, pa sem mu rekel, ti, kaj bi to počnete, ne.
+
+1196
+01:15:53,560 --> 01:15:54,480
+To je pa boljši.
+
+1197
+01:15:54,480 --> 01:16:01,160
+Pa je rekel, sej bi tudi te dvaj uprobali razvezati, prvo, ko prvo niso državni, ne.
+
+1198
+01:16:01,520 --> 01:16:03,520
+In drugo, ko drugo, smo ugotovili, da
+
+1199
+01:16:03,799 --> 01:16:05,519
+pr njih je, kako je že bilo,
+
+1200
+01:16:06,720 --> 01:16:08,720
+šahti so lasnik eden,
+
+1201
+01:16:09,000 --> 01:16:12,160
+kabli so lasnik drugi, konektori so lasnik tretji.
+
+1202
+01:16:12,480 --> 01:16:14,199
+Reke so lasnik četvrti, ne.
+
+1203
+01:16:14,199 --> 01:16:17,879
+Zdaj, sploh ne pozabimo na to, da so manda pre nizko kopalj, ne,
+
+1204
+01:16:17,879 --> 01:16:21,199
+in zaradi tega njihovih kablov ni na nobenem načrtu, ker ni treba, da so.
+
+1205
+01:16:22,199 --> 01:16:27,480
+Uuu, a hočete slišati eno, eno anegdoto iz,
+
+1206
+01:16:27,480 --> 01:16:29,480
+kje je že bilo? Ruanda.
+
+1207
+01:16:29,480 --> 01:16:31,480
+Kaj se rekel, da so pre nizko kopalj.
+
+1208
+01:16:31,480 --> 01:16:36,599
+Tam so položili, tam v Ruralju, v Ruanda so en optičen kabel položili čez, ne,
+
+1209
+01:16:36,599 --> 01:16:39,279
+z povezavo v drugo državo, ne.
+
+1210
+01:16:40,279 --> 01:16:43,000
+In tam niso skopali prav globoko, ne.
+
+1211
+01:16:43,000 --> 01:16:47,800
+Kaj, rezultat je bil to, da so lokalci tam šli, pa grebeli tist kabel ven, ne,
+
+1212
+01:16:47,800 --> 01:16:49,199
+in ga pač odrezali, ne.
+
+1213
+01:16:49,599 --> 01:16:51,800
+Predvsem so oni pogruntali, da je to optika, ne,
+
+1214
+01:16:51,800 --> 01:16:53,800
+so ga parkrat odrezali, ne.
+
+1215
+01:16:53,800 --> 01:16:56,199
+Eto imam jaz isto zgodbo iz Južne Afrike.
+
+1216
+01:16:56,199 --> 01:16:59,199
+Čakaj, čakaj, ne, in potem, to me pravi vtip od
+
+1217
+01:16:59,199 --> 01:17:02,800
+Likvi Telekoma, ker so to počeli, ne,
+
+1218
+01:17:02,800 --> 01:17:08,399
+in najeli so eno security službo, da tist kabel pazila tam, čez ono puščava, ne,
+
+1219
+01:17:08,399 --> 01:17:12,800
+in to se ni glih prav dobro obrestvalo, ker še vedno so oni
+
+1220
+01:17:12,800 --> 01:17:15,600
+rezali tist kabel, ne, in potem se je en spomnil,
+
+1221
+01:17:16,000 --> 01:17:20,399
+je rekel, da bomo mi poklicali lokalnega šamana, ne,
+
+1222
+01:17:20,399 --> 01:17:25,199
+so mu dali 100 dolarjev, ne, tizaj prekovni kabel, cursing the cable, ne,
+
+1223
+01:17:25,199 --> 01:17:31,399
+in postavi one, one simbole, cursing symbol, zdolj so jih postavili po kablju, ne.
+
+1224
+01:17:31,399 --> 01:17:38,600
+Ankol več, en ben, se ni dotaknul več tizga kabla, ne, ampak, ne,
+
+1225
+01:17:38,600 --> 01:17:42,000
+imajo pa zdaj druge probleme, ker prihajajo stranke, ne,
+
+1226
+01:17:42,000 --> 01:17:47,600
+in pravijo, a vi lahko, prosim, našega prometa, ne pošiljate po njegove leta kamer?
+
+1227
+01:17:49,399 --> 01:17:55,000
+Ne, tako da to z preniskim kopanjem, take stvari se da hitro rešiti, ne.
+
+1228
+01:17:55,000 --> 01:17:57,399
+Samo pri nas ne imamo šamanov.
+
+1229
+01:17:57,399 --> 01:18:02,600
+Ne, veš kaj je problem, je menda, tako kot so pač baba čula, baba rekla,
+
+1230
+01:18:02,600 --> 01:18:07,399
+hearsay. Menda je problem v tem, ker drugi, ki koplajo, potem ne vejo,
+
+1231
+01:18:07,399 --> 01:18:11,399
+da ti kabli so zaradi tega, ker niso nekjer užisani, ne,
+
+1232
+01:18:11,399 --> 01:18:15,199
+in potem iskalec kablo prime in to potegne ven.
+
+1233
+01:18:15,199 --> 01:18:18,399
+Se veš, on, medstonski trmen, iskalec kablo.
+
+1234
+01:18:18,399 --> 01:18:21,399
+To zdaj samo še čakamo tukaj.
+
+1235
+01:18:21,399 --> 01:18:24,800
+To enkrat se tukaj že zgodil, zdaj samo čakamo še ta drugi.
+
+1236
+01:18:24,800 --> 01:18:29,000
+Možda povedati, da tukaj je železniški most nad Dunajsko.
+
+1237
+01:18:29,000 --> 01:18:33,800
+A veš zakaj pravi network inženjer, ki gre, ti rad hodiš v hribe,
+
+1238
+01:18:33,800 --> 01:18:36,800
+a imaš samo optičen pečkabel?
+
+1239
+01:18:36,800 --> 01:18:38,000
+Ne.
+
+1240
+01:18:38,000 --> 01:18:41,600
+Vedno imaš med sabo vsaj par metrov optičnega kabla,
+
+1241
+01:18:41,600 --> 01:18:45,000
+ker če se je zgubiš, tist kabel zakopljaš v zemljo
+
+1242
+01:18:45,000 --> 01:18:48,000
+in prej bo bagar prišel, ki ga bo zapel.
+
+1243
+01:18:49,800 --> 01:18:51,600
+Ne? Tako da...
+
+1244
+01:18:51,600 --> 01:18:54,600
+Vredu. Life saving device.
+
+1245
+01:18:56,199 --> 01:19:00,000
+Tako da, če gremo nazaj na slovenske operaterje,
+
+1246
+01:19:00,000 --> 01:19:01,600
+svaka im čast.
+
+1247
+01:19:01,600 --> 01:19:05,600
+Samo internet, ki ga imamo v Sloveniji, je v primerjavi z
+
+1248
+01:19:05,600 --> 01:19:08,199
+večino razvitega sveta zakon.
+
+1249
+01:19:08,199 --> 01:19:11,600
+V zadnjič se mi je IPv4 network poderil.
+
+1250
+01:19:11,600 --> 01:19:15,199
+Samo sploh nisem porajtil, ko imam se na IPv6.
+
+1251
+01:19:17,200 --> 01:19:20,200
+Da pa lahko spet zakopljamo.
+
+1252
+01:19:22,200 --> 01:19:24,399
+IPv6.
+
+1253
+01:19:24,399 --> 01:19:28,399
+Dons je v bistvu neka naorganizacija,
+
+1254
+01:19:28,399 --> 01:19:32,200
+če gre in pa hoče svoj PI prostor,
+
+1255
+01:19:32,200 --> 01:19:34,000
+IPv6 samo ostane.
+
+1256
+01:19:34,000 --> 01:19:38,000
+Vse ostalo mora pač kupiti na white market, black market.
+
+1257
+01:19:38,000 --> 01:19:42,000
+Glih, prejšnji teden sem bil v Črnjegori,
+
+1258
+01:19:44,000 --> 01:19:46,799
+kjer sem pomagal ustanovit njihov nog,
+
+1259
+01:19:46,799 --> 01:19:50,399
+tako da Črnjegora ni več edina država na Balkanu,
+
+1260
+01:19:50,399 --> 01:19:53,399
+ki nima network operator z grupe, bravo Črnjegorci.
+
+1261
+01:19:53,399 --> 01:19:55,000
+Zakaj so tako dolgo krabi?
+
+1262
+01:19:55,000 --> 01:19:56,000
+Ja, lej.
+
+1263
+01:19:56,000 --> 01:19:57,000
+Črnjegora.
+
+1264
+01:19:57,600 --> 01:20:00,600
+Ne, super fantje, krasno smo se imeli.
+
+1265
+01:20:00,600 --> 01:20:03,600
+Drugi narednik bo se skupaj napokaj bila izkušen.
+
+1266
+01:20:03,600 --> 01:20:08,600
+In je šel z mano dol ta prijatelj iz Karsolinka, iz Trsta.
+
+1267
+01:20:08,600 --> 01:20:12,600
+To je en operator, ki je nastal,
+
+1268
+01:20:12,600 --> 01:20:15,600
+kdaj je 2018, 2019.
+
+1269
+01:20:15,600 --> 01:20:17,600
+To je po IPv4
+
+1270
+01:20:19,600 --> 01:20:20,600
+ranavtov.
+
+1271
+01:20:21,600 --> 01:20:26,600
+In je povedal svojo izkušnje, kako biti predavanje,
+
+1272
+01:20:27,200 --> 01:20:29,200
+kako postati ISP.
+
+1273
+01:20:29,200 --> 01:20:32,200
+Potem, točno to tvoje vprašanje.
+
+1274
+01:20:32,200 --> 01:20:35,200
+Oni so rekli tako, oni so najeli takrat
+
+1275
+01:20:36,200 --> 01:20:38,200
+dva, slež 24,
+
+1276
+01:20:38,200 --> 01:20:40,200
+IPv4 naslova.
+
+1277
+01:20:41,200 --> 01:20:44,200
+Pol so se postavili v tisto vrstu, tisto kju,
+
+1278
+01:20:44,200 --> 01:20:46,200
+ki je gor nerajpil.
+
+1279
+01:20:46,200 --> 01:20:49,200
+A je zmanjkal ljudi,
+
+1280
+01:20:50,200 --> 01:20:52,200
+v njih, kaj so bili,
+
+1281
+01:20:53,200 --> 01:20:54,200
+22, ki so bile...
+
+1282
+01:20:54,799 --> 01:20:57,799
+Zdaj dobiš 24-ko, ampak se moraš v kju postaviti,
+
+1283
+01:20:57,799 --> 01:20:59,799
+pa če kdo vrne slučajno.
+
+1284
+01:20:59,799 --> 01:21:01,799
+Aha, v njih je že zmanjka.
+
+1285
+01:21:01,799 --> 01:21:03,799
+Ne, ne, nič.
+
+1286
+01:21:04,799 --> 01:21:07,799
+Če danes postaneš lir, dobiš ASN,
+
+1287
+01:21:07,799 --> 01:21:09,799
+pa IPv6 resurse.
+
+1288
+01:21:10,799 --> 01:21:11,799
+Kako kar češ?
+
+1289
+01:21:11,799 --> 01:21:13,799
+Vse ostalo si moraš...
+
+1290
+01:21:13,799 --> 01:21:15,799
+Zdaj, slež 29 je defolt.
+
+1291
+01:21:15,799 --> 01:21:17,799
+Lih na zadnjem RIPE meetingu smo šli,
+
+1292
+01:21:17,799 --> 01:21:19,799
+Sander, Gerd, pa jaz na odr,
+
+1293
+01:21:19,799 --> 01:21:22,799
+in predlagali, da se to poveče na slež 28,
+
+1294
+01:21:23,399 --> 01:21:26,399
+ampak ni bil boundary, je malo lepši od slež 29.
+
+1295
+01:21:26,399 --> 01:21:28,399
+Lep se bere.
+
+1296
+01:21:28,399 --> 01:21:30,399
+No, oni so pač povedali,
+
+1297
+01:21:30,399 --> 01:21:32,399
+oni so začeli z IPv4,
+
+1298
+01:21:32,399 --> 01:21:34,399
+ampak so zelo hitro pogruntali,
+
+1299
+01:21:34,399 --> 01:21:36,399
+da stvar ne pelje ni kamor.
+
+1300
+01:21:36,399 --> 01:21:39,399
+In so zelo hitro začeli razmišljati o IPv6,
+
+1301
+01:21:39,399 --> 01:21:41,399
+in kako implementirati IPv6,
+
+1302
+01:21:41,399 --> 01:21:43,399
+in zdaj imajo praktično
+
+1303
+01:21:43,399 --> 01:21:45,399
+IPv6 enabled network,
+
+1304
+01:21:45,399 --> 01:21:47,399
+peljejo ga do vseh strank,
+
+1305
+01:21:48,399 --> 01:21:50,399
+in si tudi zelo prizadevajo,
+
+1306
+01:21:51,000 --> 01:21:53,000
+da bi stranke to,
+
+1307
+01:21:53,000 --> 01:21:55,000
+na njihovi strani je ne bilo.
+
+1308
+01:21:55,000 --> 01:21:57,000
+V Italiji je malo drugačen zakon,
+
+1309
+01:21:57,000 --> 01:21:59,000
+ti moraš tam dovoliti,
+
+1310
+01:21:59,000 --> 01:22:01,000
+da vsak prenese vsako sort šaro
+
+1311
+01:22:01,000 --> 01:22:03,000
+od vruterja,
+
+1312
+01:22:03,000 --> 01:22:05,000
+kar jo lahko najdejo na trgu.
+
+1313
+01:22:05,000 --> 01:22:07,000
+No, ampak še vseeno,
+
+1314
+01:22:07,000 --> 01:22:09,000
+tukaj pri nas, kolikor tolk,
+
+1315
+01:22:09,000 --> 01:22:11,000
+vsaj CPE je,
+
+1316
+01:22:11,000 --> 01:22:13,000
+ti da nekak operater.
+
+1317
+01:22:14,000 --> 01:22:16,000
+Da ti neki,
+
+1318
+01:22:16,000 --> 01:22:18,000
+kar potem terminira na Ethernetu,
+
+1319
+01:22:18,000 --> 01:22:20,000
+ampak ti se lahko,
+
+1320
+01:22:20,000 --> 01:22:22,000
+no, jaz imam gor na ti sisko vruter preklopljen,
+
+1321
+01:22:22,000 --> 01:22:24,000
+jaz imam še vedno PPP OSI-o
+
+1322
+01:22:24,000 --> 01:22:26,000
+z
+
+1323
+01:22:26,000 --> 01:22:28,000
+brasom na
+
+1324
+01:22:28,000 --> 01:22:30,000
+COL-u.
+
+1325
+01:22:30,000 --> 01:22:32,000
+Jaz to z mikrotika delam.
+
+1326
+01:22:32,000 --> 01:22:34,000
+Se vse, ampak veš.
+
+1327
+01:22:34,000 --> 01:22:36,000
+V bistvu, tist njihov CPE
+
+1328
+01:22:36,000 --> 01:22:38,000
+ga je zelo rabljen kot
+
+1329
+01:22:38,000 --> 01:22:40,000
+midja konverter.
+
+1330
+01:22:40,000 --> 01:22:42,000
+V bistvu to, oni so ugotovili enostavno,
+
+1331
+01:22:42,000 --> 01:22:44,000
+da
+
+1332
+01:22:44,000 --> 01:22:46,000
+posla
+
+1333
+01:22:46,000 --> 01:22:48,000
+nekako ne moraš razvijati
+
+1334
+01:22:48,000 --> 01:22:50,000
+naprej, samo
+
+1335
+01:22:50,000 --> 01:22:52,000
+na IPv4.
+
+1336
+01:22:52,000 --> 01:22:54,000
+Če gre vse v svet na IPv6,
+
+1337
+01:22:54,000 --> 01:22:56,000
+zakaj še oni ne bi šli?
+
+1338
+01:22:56,000 --> 01:22:58,000
+Gledam na to, da je
+
+1339
+01:22:58,000 --> 01:23:00,000
+network ni še prevelik,
+
+1340
+01:23:00,000 --> 01:23:02,000
+sem ga implementiral.
+
+1341
+01:23:02,000 --> 01:23:04,000
+Kaj nas ustavlja,
+
+1342
+01:23:04,000 --> 01:23:06,000
+da nismo
+
+1343
+01:23:06,000 --> 01:23:08,000
+ideacija?
+
+1344
+01:23:08,000 --> 01:23:10,000
+Ustavljajo nas
+
+1345
+01:23:10,000 --> 01:23:12,000
+v prvi vrsti
+
+1346
+01:23:12,000 --> 01:23:14,000
+ljudje najne starosti,
+
+1347
+01:23:14,000 --> 01:23:16,000
+ki razumejo
+
+1348
+01:23:16,000 --> 01:23:18,000
+IPv4.
+
+1349
+01:23:18,000 --> 01:23:20,000
+In nočjo začeti razmišljati
+
+1350
+01:23:20,000 --> 01:23:22,000
+o IPv6.
+
+1351
+01:23:22,000 --> 01:23:24,000
+Ustavljajo nas to,
+
+1352
+01:23:24,000 --> 01:23:26,000
+da ni business case za
+
+1353
+01:23:26,000 --> 01:23:28,000
+IPv6.
+
+1354
+01:23:28,000 --> 01:23:30,000
+Recimo ne vem,
+
+1355
+01:23:30,000 --> 01:23:32,000
+NLB, ne vem kaj imajo.
+
+1356
+01:23:32,000 --> 01:23:34,000
+Oprostite.
+
+1357
+01:23:34,000 --> 01:23:36,000
+XLB.
+
+1358
+01:23:38,000 --> 01:23:40,000
+XLB ima
+
+1359
+01:23:40,000 --> 01:23:42,000
+milijon problemov,
+
+1360
+01:23:42,000 --> 01:23:44,000
+IPv6 ni en od njih.
+
+1361
+01:23:44,000 --> 01:23:46,000
+Oni imajo interno
+
+1362
+01:23:46,000 --> 01:23:48,000
+desetko,
+
+1363
+01:23:48,000 --> 01:23:50,000
+vsi ljudje so povezani,
+
+1364
+01:23:50,000 --> 01:23:52,000
+na Zuni
+
+1365
+01:23:52,000 --> 01:23:54,000
+imajo website na
+
+1366
+01:23:54,000 --> 01:23:56,000
+IPv4 in zato, ka si noben
+
+1367
+01:23:56,000 --> 01:23:58,000
+operatelj ne more prvoščat,
+
+1368
+01:23:58,000 --> 01:24:00,000
+da IPv4 ne bi podpiral,
+
+1369
+01:24:00,000 --> 01:24:02,000
+njemu ni treba
+
+1370
+01:24:02,000 --> 01:24:04,000
+načnarit, saj nad nardi svoje.
+
+1371
+01:24:04,000 --> 01:24:06,000
+Saj dela malo slabša,
+
+1372
+01:24:06,000 --> 01:24:08,000
+ampak če pogledaš neke
+
+1373
+01:24:08,000 --> 01:24:10,000
+kreplikacije, ki ti jih dajo na mobilne
+
+1374
+01:24:10,000 --> 01:24:12,000
+telefone, če se skupaj.
+
+1375
+01:24:12,000 --> 01:24:14,000
+Recimo,
+
+1376
+01:24:14,000 --> 01:24:16,000
+ko sem bil zadnjič dol na Hrvaške
+
+1377
+01:24:16,000 --> 01:24:18,000
+mnogo, sem jim
+
+1378
+01:24:18,000 --> 01:24:20,000
+vprašal, če lahko naredim
+
+1379
+01:24:20,000 --> 01:24:22,000
+predavanje o IPv6, pa sem se tako
+
+1380
+01:24:22,000 --> 01:24:24,000
+čakal, ni, to je že stara tema.
+
+1381
+01:24:24,000 --> 01:24:26,000
+Mogu tam,
+
+1382
+01:24:26,000 --> 01:24:28,000
+prah sredst dozulnih moj, in sem
+
+1383
+01:24:28,000 --> 01:24:30,000
+naredil novo prezentacijo,
+
+1384
+01:24:30,000 --> 01:24:32,000
+na malo višjem nivoju,
+
+1385
+01:24:32,000 --> 01:24:34,000
+in sem jim enostavno operateljem predstavil,
+
+1386
+01:24:34,000 --> 01:24:36,000
+kaj počnejo
+
+1387
+01:24:36,000 --> 01:24:38,000
+content providerji.
+
+1388
+01:24:38,000 --> 01:24:40,000
+Ta veliki grejo na IPv6 only
+
+1389
+01:24:40,000 --> 01:24:42,000
+za centro.
+
+1390
+01:24:42,000 --> 01:24:44,000
+In potem imaš
+
+1391
+01:24:44,000 --> 01:24:46,000
+IPv4 translator na
+
+1392
+01:24:46,000 --> 01:24:48,000
+edžu. Ni imaš.
+
+1393
+01:24:48,000 --> 01:24:50,000
+Imaš, imaš. Ne, zaradi tega, ker imajo vsi ta veliki
+
+1394
+01:24:50,000 --> 01:24:52,000
+content providerje, imajo web serverje
+
+1395
+01:24:52,000 --> 01:24:54,000
+na edžu.
+
+1396
+01:24:54,000 --> 01:24:56,000
+In imaš zunanji
+
+1397
+01:24:56,000 --> 01:24:58,000
+interfejs. Dual stack?
+
+1398
+01:25:00,000 --> 01:25:02,000
+Proxi serverje imajo v glavnem vsi.
+
+1399
+01:25:02,000 --> 01:25:04,000
+Ja, SI
+
+1400
+01:25:04,000 --> 01:25:06,000
+IT uporabljajo, pa
+
+1401
+01:25:06,000 --> 01:25:08,000
+v drugo smer nekaj drugega.
+
+1402
+01:25:08,000 --> 01:25:10,000
+Ampak, v bistvu se vedno
+
+1403
+01:25:10,000 --> 01:25:12,000
+pri content providerjih začne s proxi serverjem.
+
+1404
+01:25:12,000 --> 01:25:14,000
+No, ampak, ne,
+
+1405
+01:25:14,000 --> 01:25:16,000
+pojanta je v temu.
+
+1406
+01:25:16,000 --> 01:25:18,000
+Aha, ti praviš, da niti tizga nimajo,
+
+1407
+01:25:18,000 --> 01:25:20,000
+dual stacku. Ja, sem jaz govoril
+
+1408
+01:25:20,000 --> 01:25:22,000
+z veliko temi od Facebooka, Googla
+
+1409
+01:25:22,000 --> 01:25:24,000
+in tako naprej, takrat
+
+1410
+01:25:24,000 --> 01:25:26,000
+k konča meeting,
+
+1411
+01:25:26,000 --> 01:25:28,000
+na pivo.
+
+1412
+01:25:28,000 --> 01:25:30,000
+Na pivo, ne. In sem jim povedal,
+
+1413
+01:25:30,000 --> 01:25:32,000
+kako stvari delajo. In potem sem jaz
+
+1414
+01:25:32,000 --> 01:25:34,000
+naredil tako, ne, sem rekel, gledajte, to je,
+
+1415
+01:25:34,000 --> 01:25:36,000
+recimo zdaj, en modern content provider.
+
+1416
+01:25:36,000 --> 01:25:38,000
+IPv6 only core,
+
+1417
+01:25:38,000 --> 01:25:40,000
+ne, in neki
+
+1418
+01:25:40,000 --> 01:25:42,000
+translatorčki na UNEM.
+
+1419
+01:25:42,000 --> 01:25:44,000
+Zdaj pa, če pogledamo po drugi strani
+
+1420
+01:25:44,000 --> 01:25:46,000
+nekega operaterja, ne,
+
+1421
+01:25:46,000 --> 01:25:48,000
+kjer imaš IPv4,
+
+1422
+01:25:48,000 --> 01:25:50,000
+pa CGN, ne,
+
+1423
+01:25:50,000 --> 01:25:52,000
+pa še NAT na
+
+1424
+01:25:52,000 --> 01:25:54,000
+CPI-h, ne, daj mozi
+
+1425
+01:25:54,000 --> 01:25:56,000
+to skupaj izložiti, ne.
+
+1426
+01:25:56,000 --> 01:25:58,000
+To pomeni, imaš en NAT,
+
+1427
+01:25:58,000 --> 01:26:00,000
+pa CGN,
+
+1428
+01:26:00,000 --> 01:26:02,000
+pa še translator na
+
+1429
+01:26:02,000 --> 01:26:04,000
+content providerju, predem ti prideš
+
+1430
+01:26:04,000 --> 01:26:06,000
+do vsebine, ne.
+
+1431
+01:26:06,000 --> 01:26:08,000
+No, pa dejmo zdaj IPv6
+
+1432
+01:26:08,000 --> 01:26:10,000
+ravno prostaviti, ne. Če vi implementirate
+
+1433
+01:26:10,000 --> 01:26:12,000
+IPv6, ne, pa gre ta stvar direkt.
+
+1434
+01:26:12,000 --> 01:26:14,000
+Brez nobenih umestnih
+
+1435
+01:26:14,000 --> 01:26:16,000
+točk, brez nobenih umestnih
+
+1436
+01:26:16,000 --> 01:26:18,000
+translacij in tako naprej, ne.
+
+1437
+01:26:18,000 --> 01:26:20,000
+A veš, kaj še ne je bilo odzivo po operaterju?
+
+1438
+01:26:20,000 --> 01:26:22,000
+Ker smo...
+
+1439
+01:26:22,000 --> 01:26:24,000
+Wow, nikoli nismo še o tem tako razmišljali,
+
+1440
+01:26:24,000 --> 01:26:26,000
+ne. Seveda, ker razmišljajo
+
+1441
+01:26:26,000 --> 01:26:28,000
+o svojem vrtičku, ne. Ne, pa veš, kaj
+
+1442
+01:26:28,000 --> 01:26:30,000
+je še, ne,
+
+1443
+01:26:30,000 --> 01:26:32,000
+če si ti
+
+1444
+01:26:32,000 --> 01:26:34,000
+kot operater dual stack,
+
+1445
+01:26:34,000 --> 01:26:36,000
+ti gre vs video
+
+1446
+01:26:36,000 --> 01:26:38,000
+promet na šestko.
+
+1447
+01:26:38,000 --> 01:26:40,000
+Veš, kako prisparaš na
+
+1448
+01:26:40,000 --> 01:26:42,000
+CGN licencah. Že samo na licencah
+
+1449
+01:26:42,000 --> 01:26:44,000
+prisparaš. Ja.
+
+1450
+01:26:44,000 --> 01:26:46,000
+Ker v bistvu, če imaš samo CGN,
+
+1451
+01:26:46,000 --> 01:26:48,000
+ne, jaz pravim temu, nimaš exit strategija,
+
+1452
+01:26:48,000 --> 01:26:50,000
+ne. Vedno več prometa
+
+1453
+01:26:50,000 --> 01:26:52,000
+bo šlo na CGN, pa vedno več je bilo.
+
+1454
+01:26:52,000 --> 01:26:54,000
+CGN je carrier grade NAT.
+
+1455
+01:26:54,000 --> 01:26:56,000
+Carrier grade NAT, ja. To je, ne,
+
+1456
+01:26:56,000 --> 01:26:58,000
+če imaš, če rečemo, da je NAT
+
+1457
+01:26:58,000 --> 01:27:00,000
+evil, ne, potem carrier grade
+
+1458
+01:27:00,000 --> 01:27:02,000
+NAT je carrier grade evil.
+
+1459
+01:27:02,000 --> 01:27:04,000
+To, to treba pač povedati, da
+
+1460
+01:27:04,000 --> 01:27:06,000
+operater je
+
+1461
+01:27:06,000 --> 01:27:08,000
+zagradil, ker ni imel dovolj,
+
+1462
+01:27:08,000 --> 01:27:10,000
+pa veš, tega naslovnega prostora,
+
+1463
+01:27:10,000 --> 01:27:12,000
+je naredil dodatno translacijo,
+
+1464
+01:27:12,000 --> 01:27:14,000
+ker uporablja spet interne
+
+1465
+01:27:14,000 --> 01:27:16,000
+IP, ki ga.
+
+1466
+01:27:16,000 --> 01:27:18,000
+In to interne IP je med njihovim
+
+1467
+01:27:18,000 --> 01:27:20,000
+core-om, pa med tvojim CPU-om,
+
+1468
+01:27:20,000 --> 01:27:22,000
+ki ti to spremeni v ene druge
+
+1469
+01:27:22,000 --> 01:27:24,000
+interne IP-a ali pa jiste.
+
+1470
+01:27:24,000 --> 01:27:26,000
+Jisti ne smajo biti.
+
+1471
+01:27:26,000 --> 01:27:28,000
+Ja, včasih tudi, ne.
+
+1472
+01:27:28,000 --> 01:27:30,000
+Pa pa dual NAT.
+
+1473
+01:27:30,000 --> 01:27:32,000
+Maš pa kar neenkaj problem.
+
+1474
+01:27:32,000 --> 01:27:34,000
+Mislim, tako kot si rekel, ne,
+
+1475
+01:27:34,000 --> 01:27:36,000
+operater meni da en naslov,
+
+1476
+01:27:36,000 --> 01:27:38,000
+kljub temu, da imam doma
+
+1477
+01:27:38,000 --> 01:27:40,000
+30 očkatelj
+
+1478
+01:27:40,000 --> 01:27:42,000
+in se vse je borilo za ta en naslov,
+
+1479
+01:27:42,000 --> 01:27:44,000
+ampak zato, ker je
+
+1480
+01:27:44,000 --> 01:27:46,000
+operater bil prepozen
+
+1481
+01:27:46,000 --> 01:27:48,000
+in nima enega naslova
+
+1482
+01:27:48,000 --> 01:27:50,000
+zame, je še en lajer
+
+1483
+01:27:50,000 --> 01:27:52,000
+izdga sranja
+
+1484
+01:27:52,000 --> 01:27:54,000
+vmes, preden pridemo na globalni internet.
+
+1485
+01:27:54,000 --> 01:27:56,000
+In potem imaš,
+
+1486
+01:27:56,000 --> 01:27:58,000
+te, v bistvu, ljudi,
+
+1487
+01:27:58,000 --> 01:28:00,000
+ki so
+
+1488
+01:28:00,000 --> 01:28:02,000
+network inženjeri,
+
+1489
+01:28:02,000 --> 01:28:04,000
+oziroma network arhitekti,
+
+1490
+01:28:04,000 --> 01:28:06,000
+ki, v bistvu,
+
+1491
+01:28:06,000 --> 01:28:08,000
+prva ideja
+
+1492
+01:28:08,000 --> 01:28:10,000
+je, dokar dela,
+
+1493
+01:28:10,000 --> 01:28:12,000
+dokar se meni ne protužuje netikaj.
+
+1494
+01:28:12,000 --> 01:28:14,000
+Ja, vsej to bo ti bilo odgovorno.
+
+1495
+01:28:14,000 --> 01:28:16,000
+Ne, dost drugega dela imam.
+
+1496
+01:28:16,000 --> 01:28:18,000
+Ja. XBL, ne, da pač
+
+1497
+01:28:18,000 --> 01:28:20,000
+ne bomo spreminjali,
+
+1498
+01:28:20,000 --> 01:28:22,000
+če se ne delajo.
+
+1499
+01:28:22,000 --> 01:28:24,000
+Ampak težava tega je, ker se svet spreminja.
+
+1500
+01:28:24,000 --> 01:28:26,000
+Ta drug konc, ne veš,
+
+1501
+01:28:26,000 --> 01:28:28,000
+operater je en
+
+1502
+01:28:28,000 --> 01:28:30,000
+konc komunikacije, ne.
+
+1503
+01:28:30,000 --> 01:28:32,000
+Potem za vsako komunikacijo
+
+1504
+01:28:32,000 --> 01:28:34,000
+rabiš dva konca, ne.
+
+1505
+01:28:34,000 --> 01:28:36,000
+In on, ta drug konc, se zdi spreminja,
+
+1506
+01:28:36,000 --> 01:28:38,000
+ker je ceneje jih na IPv6, ne.
+
+1507
+01:28:38,000 --> 01:28:40,000
+Ne, on, ta drug konc,
+
+1508
+01:28:40,000 --> 01:28:42,000
+se spreminja,
+
+1509
+01:28:42,000 --> 01:28:44,000
+ko večina vsebine
+
+1510
+01:28:44,000 --> 01:28:46,000
+je na IPv6.
+
+1511
+01:28:46,000 --> 01:28:48,000
+In večina vsebine, ki se dan
+
+1512
+01:28:48,000 --> 01:28:50,000
+strima, je nastala
+
+1513
+01:28:50,000 --> 01:28:52,000
+na IPv6 serverju.
+
+1514
+01:28:52,000 --> 01:28:54,000
+Pa imaš pa longtail vseh
+
+1515
+01:28:54,000 --> 01:28:56,000
+ostalih. Ja, ja.
+
+1516
+01:28:56,000 --> 01:28:58,000
+99,99%
+
+1517
+01:28:58,000 --> 01:29:00,000
+domen na tem svetu,
+
+1518
+01:29:00,000 --> 01:29:02,000
+ki so na IPv4 zarad tega,
+
+1519
+01:29:02,000 --> 01:29:04,000
+ker nikogar ne boli, da so samo na IPv4.
+
+1520
+01:29:04,000 --> 01:29:06,000
+Recimo izkušnje, ne.
+
+1521
+01:29:06,000 --> 01:29:08,000
+Raz, če si na Cloudflare-u, ne, pa se bo
+
+1522
+01:29:08,000 --> 01:29:10,000
+automatsko našest.
+
+1523
+01:29:10,000 --> 01:29:12,000
+A je zdaj, ne vem, to,
+
+1524
+01:29:12,000 --> 01:29:14,000
+ker mislim, da že Amazon se računava
+
+1525
+01:29:14,000 --> 01:29:16,000
+šterko, ne, se pravi, da pač
+
+1526
+01:29:16,000 --> 01:29:18,000
+IPv4 je za servis.
+
+1527
+01:29:18,000 --> 01:29:20,000
+Ja, seveda.
+
+1528
+01:29:20,000 --> 01:29:22,000
+Ja, seveda.
+
+1529
+01:29:22,000 --> 01:29:24,000
+A veš, kaj je problem tega, ne?
+
+1530
+01:29:24,000 --> 01:29:26,000
+Amazon bo pobral naslednje
+
+1531
+01:29:26,000 --> 01:29:28,000
+2 milijardi ali nekaj tako, so ocenili.
+
+1532
+01:29:28,000 --> 01:29:30,000
+Mene bo to
+
+1533
+01:29:30,000 --> 01:29:32,000
+stal
+
+1534
+01:29:32,000 --> 01:29:34,000
+12 ali 15 dolarjev na leto.
+
+1535
+01:29:34,000 --> 01:29:36,000
+Sem sorry,
+
+1536
+01:29:36,000 --> 01:29:38,000
+za ta denar ne grem šestke
+
+1537
+01:29:38,000 --> 01:29:40,000
+konfigurirati. Ja.
+
+1538
+01:29:40,000 --> 01:29:42,000
+Kje je pain point, ne?
+
+1539
+01:29:42,000 --> 01:29:44,000
+Ja, nategljali so me, ne,
+
+1540
+01:29:44,000 --> 01:29:46,000
+ampak za ta denar ne grem
+
+1541
+01:29:46,000 --> 01:29:48,000
+prestavljati.
+
+1542
+01:29:48,000 --> 01:29:50,000
+Vse, kar bi rabil, je samo, da tam
+
+1543
+01:29:50,000 --> 01:29:52,000
+obkljukaš, da se ti začne
+
+1544
+01:29:52,000 --> 01:29:54,000
+tam oglašati, ne. Ne, veš kaj, potem
+
+1545
+01:29:54,000 --> 01:29:56,000
+moram še na Cloudflare-u spremeniti,
+
+1546
+01:29:56,000 --> 01:29:58,000
+pa moram access liste
+
+1547
+01:29:58,000 --> 01:30:00,000
+spremeniti. A smo mali leni.
+
+1548
+01:30:00,000 --> 01:30:02,000
+Smo mali leni, ne.
+
+1549
+01:30:02,000 --> 01:30:04,000
+Ja, pa lej, za 15 dolarjev na let, pa ne.
+
+1550
+01:30:04,000 --> 01:30:06,000
+Ne, v neki fazi ti bojo rekel,
+
+1551
+01:30:06,000 --> 01:30:08,000
+da ti skalavfaš je legacy infrastruktura,
+
+1552
+01:30:08,000 --> 01:30:10,000
+ne, in da karkolnovga boš
+
+1553
+01:30:10,000 --> 01:30:12,000
+pri njih pržgel, bo šest onlija, ne.
+
+1554
+01:30:12,000 --> 01:30:14,000
+Ne, tega ne bojo rekel, za računali ti bojo.
+
+1555
+01:30:14,000 --> 01:30:16,000
+Ja, za računali ti bojo, zmeram več.
+
+1556
+01:30:16,000 --> 01:30:18,000
+No, ampak pazi,
+
+1557
+01:30:18,000 --> 01:30:20,000
+izkušnje, realne izkušnje,
+
+1558
+01:30:20,000 --> 01:30:22,000
+ga sem govoril s fanti,
+
+1559
+01:30:22,000 --> 01:30:24,000
+veliki in malihni operateri,
+
+1560
+01:30:24,000 --> 01:30:26,000
+taki in drugačni, ki so implementirali
+
+1561
+01:30:26,000 --> 01:30:28,000
+dual stack, ne, danes,
+
+1562
+01:30:28,000 --> 01:30:30,000
+v momentu,
+
+1563
+01:30:30,000 --> 01:30:32,000
+če ti je najbolje vse uporabnike
+
+1564
+01:30:32,000 --> 01:30:34,000
+na IPv6, na dual stacku,
+
+1565
+01:30:34,000 --> 01:30:36,000
+gre približno
+
+1566
+01:30:36,000 --> 01:30:38,000
+50 do 60 procentov
+
+1567
+01:30:38,000 --> 01:30:40,000
+prometa na IPv6, takoj.
+
+1568
+01:30:40,000 --> 01:30:42,000
+To je za fiksne.
+
+1569
+01:30:42,000 --> 01:30:44,000
+Za mobilne
+
+1570
+01:30:44,000 --> 01:30:46,000
+je 80, 90 procentov, ne.
+
+1571
+01:30:46,000 --> 01:30:48,000
+Ker tam je dejansko samo Google, Facebook,
+
+1572
+01:30:48,000 --> 01:30:50,000
+pa tako naprej, ne. Ne, sem pri mobilnih, je drug
+
+1573
+01:30:50,000 --> 01:30:52,000
+problem, se ne vem, če je še vedno, ne.
+
+1574
+01:30:52,000 --> 01:30:54,000
+Za
+
+1575
+01:30:54,000 --> 01:30:56,000
+dual stack si rabi dve
+
+1576
+01:30:56,000 --> 01:30:58,000
+saji. Ja, PDPv6,
+
+1577
+01:30:58,000 --> 01:31:00,000
+pa PDPv4. Ne, imaš
+
+1578
+01:31:00,000 --> 01:31:02,000
+tudi dual stack PDP.
+
+1579
+01:31:02,000 --> 01:31:04,000
+Ja, si pa
+
+1580
+01:31:04,000 --> 01:31:06,000
+rabi novejši
+
+1581
+01:31:06,000 --> 01:31:08,000
+softer po celi virigi,
+
+1582
+01:31:08,000 --> 01:31:10,000
+ki ga marsik do ni imel, ne.
+
+1583
+01:31:10,000 --> 01:31:12,000
+In si v bistvu mora za enega uporabnika
+
+1584
+01:31:12,000 --> 01:31:14,000
+imeti licencijo za dva uporabnika, ker si imel dve
+
+1585
+01:31:14,000 --> 01:31:16,000
+saji, ne. Ja, zaradi tega je T-Mobile
+
+1586
+01:31:16,000 --> 01:31:18,000
+USA šel na IPv6 only.
+
+1587
+01:31:18,000 --> 01:31:20,000
+Ja, in zato je
+
+1588
+01:31:20,000 --> 01:31:22,000
+Lorenzov
+
+1589
+01:31:22,000 --> 01:31:24,000
+Android
+
+1590
+01:31:24,000 --> 01:31:26,000
+dodal, in
+
+1591
+01:31:26,000 --> 01:31:28,000
+464X
+
+1592
+01:31:28,000 --> 01:31:30,000
+let. Ja. A veš, da
+
+1593
+01:31:30,000 --> 01:31:32,000
+prva predstavitev 464X
+
+1594
+01:31:32,000 --> 01:31:34,000
+leta je bil v Parizu,
+
+1595
+01:31:34,000 --> 01:31:36,000
+ker sem jaz Lorenzo
+
+1596
+01:31:36,000 --> 01:31:38,000
+posodil slovensko SIM kartico, ki je imela
+
+1597
+01:31:38,000 --> 01:31:40,000
+IPv6 only, in sem
+
+1598
+01:31:40,000 --> 01:31:42,000
+v odstopu 15 minut mojega slota,
+
+1599
+01:31:42,000 --> 01:31:44,000
+da je Lorenzo pršel na odr in smo v živo
+
+1600
+01:31:44,000 --> 01:31:46,000
+prvič pokazali
+
+1601
+01:31:46,000 --> 01:31:48,000
+464X let na
+
+1602
+01:31:48,000 --> 01:31:50,000
+Androidu, kaj je IPv6
+
+1603
+01:31:50,000 --> 01:31:52,000
+promet šel iz Francije,
+
+1604
+01:31:52,000 --> 01:31:54,000
+v Slovenijo in potem nekam po svetu,
+
+1605
+01:31:54,000 --> 01:31:56,000
+ne. Tako da
+
+1606
+01:31:56,000 --> 01:31:58,000
+je bilo zanimivo takrat.
+
+1607
+01:31:58,000 --> 01:32:00,000
+Dajmo to IPv6
+
+1608
+01:32:00,000 --> 01:32:02,000
+zadevo zaključiti
+
+1609
+01:32:02,000 --> 01:32:04,000
+v smislu,
+
+1610
+01:32:04,000 --> 01:32:06,000
+če bi zdaj,
+
+1611
+01:32:06,000 --> 01:32:08,000
+recimo, idealni pogoji
+
+1612
+01:32:08,000 --> 01:32:10,000
+v parteri preklopil
+
+1613
+01:32:10,000 --> 01:32:12,000
+šestka, samo šestka,
+
+1614
+01:32:12,000 --> 01:32:14,000
+kaj fejla? Oziroma, kje bi
+
+1615
+01:32:14,000 --> 01:32:16,000
+naša današnja uporaba
+
+1616
+01:32:16,000 --> 01:32:18,000
+interneta fejlala?
+
+1617
+01:32:18,000 --> 01:32:20,000
+Glej,
+
+1618
+01:32:20,000 --> 01:32:22,000
+eden od najboljših pristopov
+
+1619
+01:32:22,000 --> 01:32:24,000
+implementacije IPv6, kar sem jih
+
+1620
+01:32:24,000 --> 01:32:26,000
+videl, je bil Telekom Slovenije.
+
+1621
+01:32:26,000 --> 01:32:28,000
+Dejansko. Oni so
+
+1622
+01:32:28,000 --> 01:32:30,000
+implementirali IPv6 na vseh storitvah
+
+1623
+01:32:30,000 --> 01:32:32,000
+dual stack, ne, in potem
+
+1624
+01:32:32,000 --> 01:32:34,000
+namesto, da bi to enabljali pre vseh
+
+1625
+01:32:34,000 --> 01:32:36,000
+uporabnikih naenkrat, ne.
+
+1626
+01:32:36,000 --> 01:32:38,000
+Ne, najprej so imeli
+
+1627
+01:32:38,000 --> 01:32:40,000
+tesne uporabnike. Najprej so javili.
+
+1628
+01:32:40,000 --> 01:32:42,000
+Eden od njih. In pol,
+
+1629
+01:32:42,000 --> 01:32:44,000
+ko smo to pač
+
+1630
+01:32:44,000 --> 01:32:46,000
+zrihtali, oni so
+
+1631
+01:32:46,000 --> 01:32:48,000
+šli tako, ker dejansko danes,
+
+1632
+01:32:48,000 --> 01:32:50,000
+če ti enabljaš vse uporabnike
+
+1633
+01:32:50,000 --> 01:32:52,000
+in ti gre šest procentov prometa na
+
+1634
+01:32:52,000 --> 01:32:54,000
+IPv6, ti nimaš
+
+1635
+01:32:54,000 --> 01:32:56,000
+izkušen s troubleshootingom.
+
+1636
+01:32:56,000 --> 01:32:58,000
+Kar ne enkrat, learning curve je
+
+1637
+01:32:58,000 --> 01:33:00,000
+zelo, zelo strab. Oni so
+
+1638
+01:33:00,000 --> 01:33:02,000
+rekli tako, v redu,
+
+1639
+01:33:02,000 --> 01:33:04,000
+od zdaj naprej vsak nov uporabnik
+
+1640
+01:33:04,000 --> 01:33:06,000
+dobi IPv6 by default.
+
+1641
+01:33:06,000 --> 01:33:08,000
+Vsak, ki
+
+1642
+01:33:08,000 --> 01:33:10,000
+spremeni nekaj v self-care
+
+1643
+01:33:10,000 --> 01:33:12,000
+portalu in gre skozi
+
+1644
+01:33:12,000 --> 01:33:14,000
+tisto proceduro, ki je
+
+1645
+01:33:14,000 --> 01:33:16,000
+pač ta,
+
+1646
+01:33:16,000 --> 01:33:18,000
+da ti nekaj nastavlja,
+
+1647
+01:33:18,000 --> 01:33:20,000
+avtomatsko dodeli IPv6.
+
+1648
+01:33:20,000 --> 01:33:22,000
+Al pa, če si se ti šel v portal
+
+1649
+01:33:22,000 --> 01:33:24,000
+pa tam kliknul hočem med
+
+1650
+01:33:24,000 --> 01:33:26,000
+IPv6, ne, in so nekako
+
+1651
+01:33:26,000 --> 01:33:28,000
+je bila ta
+
+1652
+01:33:28,000 --> 01:33:30,000
+krivulja dokaj, dokaj
+
+1653
+01:33:30,000 --> 01:33:32,000
+položna, ne, in
+
+1654
+01:33:32,000 --> 01:33:34,000
+predvsem
+
+1655
+01:33:34,000 --> 01:33:36,000
+je zadeva bila manageable, ne.
+
+1656
+01:33:36,000 --> 01:33:38,000
+Takrat enkrat v tistem času
+
+1657
+01:33:38,000 --> 01:33:40,000
+smo napisali ta ripe dokument
+
+1658
+01:33:40,000 --> 01:33:42,000
+bezkar na operational practice,
+
+1659
+01:33:42,000 --> 01:33:44,000
+ki se imenuje IPv6
+
+1660
+01:33:44,000 --> 01:33:46,000
+troubleshooting for residential
+
+1661
+01:33:46,000 --> 01:33:48,000
+helpdesk, ne.
+
+1662
+01:33:48,000 --> 01:33:50,000
+In tam notri smo naredili kompletne
+
+1663
+01:33:50,000 --> 01:33:52,000
+procedure, kako helpdeski se
+
+1664
+01:33:52,000 --> 01:33:54,000
+testirajo IPv6
+
+1665
+01:33:54,000 --> 01:33:56,000
+ali dodemo dual stack oziroma
+
+1666
+01:33:56,000 --> 01:33:58,000
+kaj narediti, če
+
+1667
+01:33:58,000 --> 01:34:00,000
+uporabnik pokliča in ima težave
+
+1668
+01:34:00,000 --> 01:34:02,000
+s katerimkoli od protokolov, ne.
+
+1669
+01:34:02,000 --> 01:34:04,000
+No, ampak tukaj bo mojo vprašanje predvsem bilo to,
+
+1670
+01:34:04,000 --> 01:34:06,000
+kaj tist, ki bo imel
+
+1671
+01:34:06,000 --> 01:34:08,000
+največ problemov, če
+
+1672
+01:34:08,000 --> 01:34:10,000
+trenutno poklopimo IPv6.
+
+1673
+01:34:10,000 --> 01:34:12,000
+Če govoriš o tem, da bi štirko
+
+1674
+01:34:12,000 --> 01:34:14,000
+izklopil in pustil samo šestko,
+
+1675
+01:34:14,000 --> 01:34:16,000
+ogromno
+
+1676
+01:34:16,000 --> 01:34:18,000
+vsebine je še vedno samo na štirki.
+
+1677
+01:34:18,000 --> 01:34:20,000
+In ali do te vsebine
+
+1678
+01:34:20,000 --> 01:34:22,000
+ne boš prišel, ali bo
+
+1679
+01:34:22,000 --> 01:34:24,000
+pa nekdo moral delati translacijo.
+
+1680
+01:34:24,000 --> 01:34:26,000
+Ja, recimo...
+
+1681
+01:34:26,000 --> 01:34:28,000
+No, ampak kaj pa, kaj pa,
+
+1682
+01:34:28,000 --> 01:34:30,000
+nekje aplikacije,
+
+1683
+01:34:30,000 --> 01:34:32,000
+kaj takrat, ne vem, v začetku
+
+1684
+01:34:32,000 --> 01:34:34,000
+Skype če šestko je bil pejn.
+
+1685
+01:34:34,000 --> 01:34:36,000
+Ej, še vedno so. Še vedno pejn.
+
+1686
+01:34:36,000 --> 01:34:38,000
+Oziroma, ne, menj dela.
+
+1687
+01:34:38,000 --> 01:34:40,000
+Skype čisto uporabljajo.
+
+1688
+01:34:40,000 --> 01:34:42,000
+Pa so na IPv6 online netorku doma.
+
+1689
+01:34:42,000 --> 01:34:44,000
+Hack je, ne, da imaš
+
+1690
+01:34:44,000 --> 01:34:46,000
+zdaj na vsakem hostu
+
+1691
+01:34:46,000 --> 01:34:48,000
+fake interface,
+
+1692
+01:34:48,000 --> 01:34:50,000
+fake IPv4 naslovo,
+
+1693
+01:34:50,000 --> 01:34:52,000
+zato da se Skype na njega
+
+1694
+01:34:52,000 --> 01:34:54,000
+poveže, ampak zato, ker je to v lokalnem TCP
+
+1695
+01:34:54,000 --> 01:34:56,000
+steko, ne,
+
+1696
+01:34:56,000 --> 01:34:58,000
+tisto TCP sejo tako
+
+1697
+01:34:58,000 --> 01:35:00,000
+spremeniš v TCP sejo preko
+
+1698
+01:35:00,000 --> 01:35:02,000
+šestke,
+
+1699
+01:35:02,000 --> 01:35:04,000
+na unji strani imaš pa spet translator,
+
+1700
+01:35:04,000 --> 01:35:06,000
+ki to nazaj spremeni v štirko.
+
+1701
+01:35:06,000 --> 01:35:08,000
+To je bilo super.
+
+1702
+01:35:08,000 --> 01:35:10,000
+Transport, to je...
+
+1703
+01:35:10,000 --> 01:35:12,000
+Ne, ker v bistvu, zakaj
+
+1704
+01:35:12,000 --> 01:35:14,000
+T-Mobile ni mogo vklopiti
+
+1705
+01:35:14,000 --> 01:35:16,000
+z X-only
+
+1706
+01:35:16,000 --> 01:35:18,000
+netvorka, je bilo točno
+
+1707
+01:35:18,000 --> 01:35:20,000
+zaradi Skype-a.
+
+1708
+01:35:20,000 --> 01:35:22,000
+Ker vse ostalo je delal, ne.
+
+1709
+01:35:22,000 --> 01:35:24,000
+Dokler niso 4x4x lata.
+
+1710
+01:35:24,000 --> 01:35:26,000
+Tako, kaj pa v Androidu pa šel 4x4x
+
+1711
+01:35:26,000 --> 01:35:28,000
+let, so pa enkrat lahko vklopili z X-only netvork.
+
+1712
+01:35:28,000 --> 01:35:30,000
+Mislim, da so kajneš 26 milijonov
+
+1713
+01:35:30,000 --> 01:35:32,000
+uporabnikov vrgli na IPv6
+
+1714
+01:35:32,000 --> 01:35:34,000
+only.
+
+1715
+01:35:34,000 --> 01:35:36,000
+Benih problemov. Sem vprašal Cameron
+
+1716
+01:35:36,000 --> 01:35:38,000
+takrat, a so kaj zvonili telefoni.
+
+1717
+01:35:38,000 --> 01:35:40,000
+Ja, je rekel, v bistvu
+
+1718
+01:35:40,000 --> 01:35:42,000
+smo imeli
+
+1719
+01:35:42,000 --> 01:35:44,000
+več
+
+1720
+01:35:44,000 --> 01:35:46,000
+v bistvu narobe
+
+1721
+01:35:46,000 --> 01:35:48,000
+klicov, ki je folk hodil pizzo naročiti,
+
+1722
+01:35:48,000 --> 01:35:50,000
+kot kar pa IPv6 klicov, ne.
+
+1723
+01:35:50,000 --> 01:35:52,000
+Tako da stvari
+
+1724
+01:35:52,000 --> 01:35:54,000
+načeloma delajo, ne.
+
+1725
+01:35:54,000 --> 01:35:56,000
+Zdaj je fajn, ker je Apple
+
+1726
+01:35:56,000 --> 01:35:58,000
+končno dobu jajca in je rekel,
+
+1727
+01:35:58,000 --> 01:36:00,000
+mislim, to je že kakšen let, dve nazaj,
+
+1728
+01:36:00,000 --> 01:36:02,000
+da na App Store sploh ne prides,
+
+1729
+01:36:02,000 --> 01:36:04,000
+če tvoja aplikacija ne dela v
+
+1730
+01:36:04,000 --> 01:36:06,000
+V6-only omrežju.
+
+1731
+01:36:06,000 --> 01:36:08,000
+To je awesome.
+
+1732
+01:36:08,000 --> 01:36:10,000
+In zdaj, recimo, celo tako
+
+1733
+01:36:10,000 --> 01:36:12,000
+se dogaja, da
+
+1734
+01:36:12,000 --> 01:36:14,000
+eden, oziroma kar vsi ti
+
+1735
+01:36:14,000 --> 01:36:16,000
+te veliki, pa ne bi zelo imenih,
+
+1736
+01:36:16,000 --> 01:36:18,000
+content providerje, ki imajo IPv6
+
+1737
+01:36:18,000 --> 01:36:20,000
+only netvork,
+
+1738
+01:36:20,000 --> 01:36:22,000
+v svoji datacentre, so pogruntali,
+
+1739
+01:36:22,000 --> 01:36:24,000
+da v bistvu ta
+
+1740
+01:36:24,000 --> 01:36:26,000
+happy eyeballs včasih
+
+1741
+01:36:26,000 --> 01:36:28,000
+na dela glih najboljš, ne.
+
+1742
+01:36:28,000 --> 01:36:30,000
+In da bi bilo vseeno boljš,
+
+1743
+01:36:30,000 --> 01:36:32,000
+da bi več prometa šlo prek
+
+1744
+01:36:32,000 --> 01:36:34,000
+IPv6, ker včasih se pač
+
+1745
+01:36:34,000 --> 01:36:36,000
+moščina odloči, da bo šlo prek
+
+1746
+01:36:36,000 --> 01:36:38,000
+IPv4, in so začeli
+
+1747
+01:36:38,000 --> 01:36:40,000
+jittert in deleje dodajati
+
+1748
+01:36:40,000 --> 01:36:42,000
+v IPv4 translatore
+
+1749
+01:36:42,000 --> 01:36:44,000
+na svojem edge-u, ne.
+
+1750
+01:36:44,000 --> 01:36:46,000
+Da probajo čim več prometa, zdaj,
+
+1751
+01:36:46,000 --> 01:36:48,000
+če se ti IPv4-only uporabnik,
+
+1752
+01:36:48,000 --> 01:36:50,000
+pa da imaš tazga ISP-a, ki ti ne ponuje
+
+1753
+01:36:50,000 --> 01:36:52,000
+šestke, bo tvoja
+
+1754
+01:36:52,000 --> 01:36:54,000
+uporabniška izkušnja
+
+1755
+01:36:54,000 --> 01:36:56,000
+vedno slabša, praktično, ne.
+
+1756
+01:36:56,000 --> 01:36:58,000
+Ampak to njih
+
+1757
+01:36:58,000 --> 01:37:00,000
+ne zanima, oni bi radi čim
+
+1758
+01:37:00,000 --> 01:37:02,000
+cnej furali
+
+1759
+01:37:02,000 --> 01:37:04,000
+netvork naprej, ne.
+
+1760
+01:37:04,000 --> 01:37:06,000
+A veš?
+
+1761
+01:37:06,000 --> 01:37:08,000
+In zdaj, tisti operateri, ki
+
+1762
+01:37:08,000 --> 01:37:10,000
+ne razmišljajo o implementaciji IPv6,
+
+1763
+01:37:10,000 --> 01:37:12,000
+najlažje bi bilo,
+
+1764
+01:37:12,000 --> 01:37:14,000
+da bi to naredil deset let
+
+1765
+01:37:14,000 --> 01:37:16,000
+nazaj, ker ni bilo še nobenega contenta,
+
+1766
+01:37:16,000 --> 01:37:18,000
+takrat bi
+
+1767
+01:37:18,000 --> 01:37:20,000
+na ravni tog
+
+1768
+01:37:20,000 --> 01:37:22,000
+vsega skupaj bil dokaj
+
+1769
+01:37:22,000 --> 01:37:24,000
+položen, ne, in bi oni
+
+1770
+01:37:24,000 --> 01:37:26,000
+sproti rešivali vse težave, ne.
+
+1771
+01:37:26,000 --> 01:37:28,000
+Če ti dan se ne bi lahko IPv6 vse uporabnike,
+
+1772
+01:37:28,000 --> 01:37:30,000
+lahko ga zabredeš
+
+1773
+01:37:30,000 --> 01:37:32,000
+v katastrofo, če ne veš, kaj delaš, ne.
+
+1774
+01:37:32,000 --> 01:37:34,000
+Tukaj pa rabiš zraven ljudi,
+
+1775
+01:37:34,000 --> 01:37:36,000
+ki so to že počeli
+
+1776
+01:37:36,000 --> 01:37:38,000
+in imajo izkušnje, kako to
+
+1777
+01:37:38,000 --> 01:37:40,000
+narediti, ne. Potem zadeva ni problematična, ne.
+
+1778
+01:37:40,000 --> 01:37:42,000
+Se pravi, na neki strani smo
+
+1779
+01:37:42,000 --> 01:37:44,000
+na dobri poti, oziroma operateri to
+
+1780
+01:37:44,000 --> 01:37:46,000
+dovolj dobro pokrivajo.
+
+1781
+01:37:46,000 --> 01:37:48,000
+Ja, sicer deset let prepozno, ne.
+
+1782
+01:37:48,000 --> 01:37:50,000
+Veš kako je, če pogledaš, ne,
+
+1783
+01:37:50,000 --> 01:37:52,000
+te globalne statistike,
+
+1784
+01:37:52,000 --> 01:37:54,000
+v odločenih državah je
+
+1785
+01:37:54,000 --> 01:37:56,000
+IPv6 prometa
+
+1786
+01:37:56,000 --> 01:37:58,000
+več kot pol.
+
+1787
+01:37:58,000 --> 01:38:00,000
+Ja, Google
+
+1788
+01:38:00,000 --> 01:38:02,000
+kameri, ne, oni merijo
+
+1789
+01:38:02,000 --> 01:38:04,000
+promet na vse njihove storitve,
+
+1790
+01:38:04,000 --> 01:38:06,000
+ne, in mislim, da smo zdaj
+
+1791
+01:38:06,000 --> 01:38:08,000
+blizu 50%
+
+1792
+01:38:08,000 --> 01:38:10,000
+prometa na Google pride prekaj IPv6,
+
+1793
+01:38:10,000 --> 01:38:12,000
+tako da to ni več šala, ne.
+
+1794
+01:38:12,000 --> 01:38:14,000
+To ni več nekaj tam v laboratoriju,
+
+1795
+01:38:14,000 --> 01:38:16,000
+ne, in oni operateri,
+
+1796
+01:38:16,000 --> 01:38:18,000
+ki pravijo akcijo IPv6,
+
+1797
+01:38:18,000 --> 01:38:20,000
+to ne bom koli živelo.
+
+1798
+01:38:20,000 --> 01:38:22,000
+Promet je, ne.
+
+1799
+01:38:22,000 --> 01:38:24,000
+Da gaš pa, a veš, ne.
+
+1800
+01:38:24,000 --> 01:38:26,000
+Veš, best practices izkušnje
+
+1801
+01:38:26,000 --> 01:38:28,000
+z sveta enterprise-a,
+
+1802
+01:38:28,000 --> 01:38:30,000
+pa zraven še security,
+
+1803
+01:38:30,000 --> 01:38:32,000
+zdaj zraven šest, ko gasnete.
+
+1804
+01:38:32,000 --> 01:38:34,000
+Lej, čeprav pošteno
+
+1805
+01:38:34,000 --> 01:38:36,000
+in direktno povem,
+
+1806
+01:38:36,000 --> 01:38:38,000
+določena generacija
+
+1807
+01:38:38,000 --> 01:38:40,000
+bo mogla jeti v penzijo, ne,
+
+1808
+01:38:40,000 --> 01:38:42,000
+pred njima lahko implementirala IPv6.
+
+1809
+01:38:42,000 --> 01:38:44,000
+To je tista, veš, vsaka
+
+1810
+01:38:44,000 --> 01:38:46,000
+znanstvena teorija
+
+1811
+01:38:46,000 --> 01:38:48,000
+napreduje en pogrep
+
+1812
+01:38:48,000 --> 01:38:50,000
+na en krat. Ja, tako.
+
+1813
+01:38:50,000 --> 01:38:52,000
+Vršno tako. No, evo,
+
+1814
+01:38:52,000 --> 01:38:54,000
+pa pa, da zaključimo,
+
+1815
+01:38:54,000 --> 01:38:56,000
+imamo zadnjih deset minut.
+
+1816
+01:38:56,000 --> 01:38:58,000
+Koliko pa smo že?
+
+1817
+01:38:58,000 --> 01:39:00,000
+Smo, teh devedeset
+
+1818
+01:39:00,000 --> 01:39:02,000
+smo že zafilelo, ne.
+
+1819
+01:39:02,000 --> 01:39:04,000
+Kaj si mislil, da smo 20 minut?
+
+1820
+01:39:04,000 --> 01:39:06,000
+Bolj imamo...
+
+1821
+01:39:06,000 --> 01:39:08,000
+Vse smo obljubljali pet ur.
+
+1822
+01:39:08,000 --> 01:39:10,000
+Tle so nas ful dobro zlimitirali,
+
+1823
+01:39:10,000 --> 01:39:12,000
+da so rekli, sanj to, ki SD kartice imamo.
+
+1824
+01:39:12,000 --> 01:39:14,000
+A?
+
+1825
+01:39:14,000 --> 01:39:16,000
+Če
+
+1826
+01:39:16,000 --> 01:39:18,000
+probamo tist strnt,
+
+1827
+01:39:18,000 --> 01:39:20,000
+kašna prihodnost
+
+1828
+01:39:20,000 --> 01:39:22,000
+naš čaka?
+
+1829
+01:39:22,000 --> 01:39:24,000
+Kaj lahko
+
+1830
+01:39:24,000 --> 01:39:26,000
+vidiva tako, kot...
+
+1831
+01:39:26,000 --> 01:39:28,000
+Zelo široko vprašanje.
+
+1832
+01:39:28,000 --> 01:39:30,000
+Ne, mislim, a je to zdaj to, da,
+
+1833
+01:39:30,000 --> 01:39:32,000
+ne vem, ta navalj,
+
+1834
+01:39:32,000 --> 01:39:34,000
+ne vem, IOTs, MarksCities,
+
+1835
+01:39:34,000 --> 01:39:36,000
+vse bo zdaj dobili svoj IP,
+
+1836
+01:39:36,000 --> 01:39:38,000
+pa mejl bomo odsevil,
+
+1837
+01:39:38,000 --> 01:39:40,000
+da na nečem kašnem clusterfaka, ne?
+
+1838
+01:39:40,000 --> 01:39:42,000
+Ali, ali...
+
+1839
+01:39:42,000 --> 01:39:44,000
+Pa dej, to je že meme.
+
+1840
+01:39:44,000 --> 01:39:46,000
+Next hype.
+
+1841
+01:39:46,000 --> 01:39:48,000
+Ja, a veš kaj,
+
+1842
+01:39:48,000 --> 01:39:50,000
+problem je bil v tem, da so,
+
+1843
+01:39:50,000 --> 01:39:52,000
+ko so hypali 5G, ne,
+
+1844
+01:39:52,000 --> 01:39:54,000
+je bilo treba najti neko hype aplikacijo,
+
+1845
+01:39:54,000 --> 01:39:56,000
+da bomo vse operatorji
+
+1846
+01:39:56,000 --> 01:39:58,000
+nategli, ni zakaj 5G rabijo.
+
+1847
+01:39:58,000 --> 01:40:00,000
+IOT!
+
+1848
+01:40:00,000 --> 01:40:02,000
+Veš, kako self-driving cars.
+
+1849
+01:40:02,000 --> 01:40:04,000
+Samo čakaj, a ni bilo za štirga isto?
+
+1850
+01:40:04,000 --> 01:40:06,000
+Isto, seveda je bilo.
+
+1851
+01:40:06,000 --> 01:40:08,000
+Pa lej, kaj smo prej rekli.
+
+1852
+01:40:08,000 --> 01:40:10,000
+Vsaka, vsak natek se bo ponovil.
+
+1853
+01:40:10,000 --> 01:40:12,000
+A ja, ne, novo frekvenco
+
+1854
+01:40:12,000 --> 01:40:14,000
+rabaš poplačati, moraš.
+
+1855
+01:40:14,000 --> 01:40:16,000
+Tako je. No, super.
+
+1856
+01:40:16,000 --> 01:40:18,000
+Novo opremo rabaš, to je bistveno.
+
+1857
+01:40:18,000 --> 01:40:20,000
+Ti za država pobere za frekvenco, to je tako fringe benefits.
+
+1858
+01:40:20,000 --> 01:40:22,000
+Aja, aja.
+
+1859
+01:40:22,000 --> 01:40:24,000
+To vendar jo ne zanima, vendar ji živi od nove opreme.
+
+1860
+01:40:24,000 --> 01:40:26,000
+Mislim, a veš kako je,
+
+1861
+01:40:26,000 --> 01:40:28,000
+v bistvu, če pogledaš,
+
+1862
+01:40:28,000 --> 01:40:30,000
+dokler ne bo
+
+1863
+01:40:30,000 --> 01:40:32,000
+ta augmented reality,
+
+1864
+01:40:32,000 --> 01:40:34,000
+ali pa virtual reality,
+
+1865
+01:40:34,000 --> 01:40:36,000
+zarejšila živev.
+
+1866
+01:40:36,000 --> 01:40:38,000
+Vse ji bo šlo, vedno,
+
+1867
+01:40:38,000 --> 01:40:40,000
+vse je vedno hitrejš, vedno več, vedno to, vedno ono,
+
+1868
+01:40:40,000 --> 01:40:42,000
+ampak jaz imam doma
+
+1869
+01:40:42,000 --> 01:40:44,000
+isto hitrost
+
+1870
+01:40:44,000 --> 01:40:46,000
+internetnega preključka že deset let.
+
+1871
+01:40:48,000 --> 01:40:50,000
+In ne rabim nič več.
+
+1872
+01:40:50,000 --> 01:40:52,000
+Vsi.
+
+1873
+01:40:52,000 --> 01:40:54,000
+Jaz sem šel gledati
+
+1874
+01:40:54,000 --> 01:40:56,000
+statistike, koliko porabim,
+
+1875
+01:40:56,000 --> 01:40:58,000
+pa je žalost na vse skupaj.
+
+1876
+01:40:58,000 --> 01:41:00,000
+Ja, jaz imam 100 mega in ne rabim več.
+
+1877
+01:41:00,000 --> 01:41:02,000
+Mislim, jaz tudi po prodaju 100 mega
+
+1878
+01:41:02,000 --> 01:41:04,000
+simetrično sem rekel, ne rabim fantje, hvala.
+
+1879
+01:41:04,000 --> 01:41:06,000
+Za Ancelink zasledivo, da imaš
+
+1880
+01:41:06,000 --> 01:41:08,000
+da je to te
+
+1881
+01:41:08,000 --> 01:41:10,000
+bluetooth zobna ščetka, ki zgenerira
+
+1882
+01:41:10,000 --> 01:41:12,000
+ful enega prometa.
+
+1883
+01:41:12,000 --> 01:41:14,000
+Ti si bil boljši, ti si bila laž.
+
+1884
+01:41:14,000 --> 01:41:16,000
+Ja, samo čakaj, zakaj,
+
+1885
+01:41:16,000 --> 01:41:18,000
+zdaj jaz ne razumem, zakaj bi jaz rabil en gigabit
+
+1886
+01:41:18,000 --> 01:41:20,000
+na sekundo simetrično na moj telefon?
+
+1887
+01:41:22,000 --> 01:41:24,000
+Ne, bi se to sploh problem cekli v ciklo na telefonu.
+
+1888
+01:41:24,000 --> 01:41:26,000
+Ja.
+
+1889
+01:41:26,000 --> 01:41:28,000
+Drugi problem je,
+
+1890
+01:41:28,000 --> 01:41:30,000
+ki ti seveda nišče noče povedati,
+
+1891
+01:41:30,000 --> 01:41:32,000
+ampak mi to vsi pač vemo.
+
+1892
+01:41:34,000 --> 01:41:36,000
+Telefon dela po zraku.
+
+1893
+01:41:36,000 --> 01:41:38,000
+Ja.
+
+1894
+01:41:38,000 --> 01:41:40,000
+In zrak je shared spektrum.
+
+1895
+01:41:40,000 --> 01:41:42,000
+In ti en gigaj na telefon
+
+1896
+01:41:42,000 --> 01:41:44,000
+ne boš nikoli dobil,
+
+1897
+01:41:44,000 --> 01:41:46,000
+dokler ne boš sam stal
+
+1898
+01:41:46,000 --> 01:41:48,000
+okoli pod stebrom,
+
+1899
+01:41:48,000 --> 01:41:50,000
+pa da bojo zombi in vse ostale pojedli,
+
+1900
+01:41:50,000 --> 01:41:52,000
+da boš samo ti,
+
+1901
+01:41:52,000 --> 01:41:54,000
+da boš ta umper operaterjev še vedno živi,
+
+1902
+01:41:54,000 --> 01:41:56,000
+zato da ti internet še dela.
+
+1903
+01:41:56,000 --> 01:41:58,000
+To se pa spomnim, smo bili dol v Srbiji leta nazaj,
+
+1904
+01:41:58,000 --> 01:42:00,000
+ta IGF meeting,
+
+1905
+01:42:00,000 --> 01:42:02,000
+internet governance forum, pa je bilo debate
+
+1906
+01:42:02,000 --> 01:42:04,000
+o razvoju interneta
+
+1907
+01:42:04,000 --> 01:42:06,000
+in tako naprej, pa je bila ena teta gor
+
+1908
+01:42:06,000 --> 01:42:08,000
+iz Evropske komisije,
+
+1909
+01:42:08,000 --> 01:42:10,000
+pa je prišla dol, pa je govorila še
+
+1910
+01:42:10,000 --> 01:42:12,000
+wireless, wireless, wireless,
+
+1911
+01:42:12,000 --> 01:42:14,000
+R, R, R, ne, pa sem jaz rekel,
+
+1912
+01:42:14,000 --> 01:42:16,000
+zrak ima svoje
+
+1913
+01:42:16,000 --> 01:42:18,000
+fizikalne zakone, ne, to je
+
+1914
+01:42:18,000 --> 01:42:20,000
+shared media, ne,
+
+1915
+01:42:20,000 --> 01:42:22,000
+v neskončnost ne bomo mogli
+
+1916
+01:42:22,000 --> 01:42:24,000
+mi tega naprej potiskati, pa
+
+1917
+01:42:24,000 --> 01:42:26,000
+porivat, pa ldem glave kurit,
+
+1918
+01:42:26,000 --> 01:42:28,000
+pa ne,
+
+1919
+01:42:28,000 --> 01:42:30,000
+pa še, a veš kaj sem rekel,
+
+1920
+01:42:30,000 --> 01:42:32,000
+lejte, rešitev je, da vzamemo
+
+1921
+01:42:32,000 --> 01:42:34,000
+Bagarje, pa začnemo kopat.
+
+1922
+01:42:34,000 --> 01:42:36,000
+Ja. Pa me je čudno gledala.
+
+1923
+01:42:36,000 --> 01:42:38,000
+Ja, ampak v smeritev Evropske unije
+
+1924
+01:42:38,000 --> 01:42:40,000
+je, čim več
+
+1925
+01:42:40,000 --> 01:42:42,000
+na wireless, ne, ne sem govoril, pa Bagre v roke,
+
+1926
+01:42:42,000 --> 01:42:44,000
+Bagre, Bagre,
+
+1927
+01:42:44,000 --> 01:42:46,000
+pa cevi v zemlje, pa optiko not.
+
+1928
+01:42:46,000 --> 01:42:48,000
+Ja.
+
+1929
+01:42:48,000 --> 01:42:50,000
+Ker na obstoječo optiko
+
+1930
+01:42:50,000 --> 01:42:52,000
+desetkrat več takoj spraviš,
+
+1931
+01:42:52,000 --> 01:42:54,000
+v zrak pa desetkrat več ne moraš
+
+1932
+01:42:54,000 --> 01:42:56,000
+spraviti, ker rabaš više frekvence,
+
+1933
+01:42:56,000 --> 01:42:58,000
+in više frekvence ne gre skozi okno,
+
+1934
+01:42:58,000 --> 01:43:00,000
+ne gre okol zidu. Kolko močno
+
+1935
+01:43:00,000 --> 01:43:02,000
+bomo še hoteli ljudi
+
+1936
+01:43:02,000 --> 01:43:04,000
+cvreti? Pa sej ni problem v tem, da ga
+
+1937
+01:43:04,000 --> 01:43:06,000
+cvreš, sej moč, moč
+
+1938
+01:43:06,000 --> 01:43:08,000
+ohranaš sorazmerno nizko,
+
+1939
+01:43:08,000 --> 01:43:10,000
+ne. Ni zaenkrat.
+
+1940
+01:43:10,000 --> 01:43:12,000
+Problem je, ker je line of sight.
+
+1941
+01:43:12,000 --> 01:43:14,000
+Problem je, ker
+
+1942
+01:43:14,000 --> 01:43:16,000
+visoke frekvence noči večakoli v ogla it.
+
+1943
+01:43:16,000 --> 01:43:18,000
+A, beži, beži.
+
+1944
+01:43:18,000 --> 01:43:20,000
+Ja.
+
+1945
+01:43:20,000 --> 01:43:22,000
+Gledaj, odi tega navajati.
+
+1946
+01:43:22,000 --> 01:43:24,000
+Sva ma radija in materija, ne.
+
+1947
+01:43:24,000 --> 01:43:26,000
+Tole bomo mi
+
+1948
+01:43:26,000 --> 01:43:28,000
+predstavili na pivo naprej.
+
+1949
+01:43:28,000 --> 01:43:30,000
+A
+
+1950
+01:43:30,000 --> 01:43:32,000
+ima takšne zaključne
+
+1951
+01:43:32,000 --> 01:43:34,000
+misli?
+
+1952
+01:43:34,000 --> 01:43:36,000
+Jaz bi rekel,
+
+1953
+01:43:36,000 --> 01:43:38,000
+za razvoj interneta,
+
+1954
+01:43:38,000 --> 01:43:40,000
+kar se operateri
+
+1955
+01:43:40,000 --> 01:43:42,000
+vtiče, jaz bi rekel tako,
+
+1956
+01:43:42,000 --> 01:43:44,000
+da bi se morali nekat
+
+1957
+01:43:44,000 --> 01:43:46,000
+ukvarjati z novimi
+
+1958
+01:43:46,000 --> 01:43:48,000
+kompleksnostmi, ki jih usiljujejo
+
+1959
+01:43:48,000 --> 01:43:50,000
+ponudniki opreme in
+
+1960
+01:43:50,000 --> 01:43:52,000
+vendori, kot so razne SRV6
+
+1961
+01:43:52,000 --> 01:43:54,000
+pa take ZDV, ne.
+
+1962
+01:43:54,000 --> 01:43:56,000
+Nekaj preklinjati.
+
+1963
+01:43:56,000 --> 01:43:58,000
+Ja, sorry, gledaj.
+
+1964
+01:43:58,000 --> 01:44:00,000
+Enkrat moram, no, daj.
+
+1965
+01:44:00,000 --> 01:44:02,000
+SRV6, je vredo.
+
+1966
+01:44:02,000 --> 01:44:04,000
+Dvakrat, no, dobro.
+
+1967
+01:44:04,000 --> 01:44:06,000
+In
+
+1968
+01:44:06,000 --> 01:44:08,000
+da se dejansko posvetijo
+
+1969
+01:44:08,000 --> 01:44:10,000
+implementaciji
+
+1970
+01:44:10,000 --> 01:44:12,000
+IPv6, kot
+
+1971
+01:44:12,000 --> 01:44:14,000
+naslednjega protokola in
+
+1972
+01:44:14,000 --> 01:44:16,000
+razvoju
+
+1973
+01:44:16,000 --> 01:44:18,000
+transportnih poti,
+
+1974
+01:44:18,000 --> 01:44:20,000
+pa kapacitet,
+
+1975
+01:44:20,000 --> 01:44:22,000
+da bomo pač bili povezani, ne.
+
+1976
+01:44:22,000 --> 01:44:24,000
+Automatizacija, ne?
+
+1977
+01:44:24,000 --> 01:44:26,000
+Ja.
+
+1978
+01:44:26,000 --> 01:44:28,000
+V bistvu, tisto, kar sem prej
+
+1979
+01:44:28,000 --> 01:44:30,000
+htel še omeniti na to temo, ne,
+
+1980
+01:44:30,000 --> 01:44:32,000
+takrat, kaj dojče Telekom launčati
+
+1981
+01:44:32,000 --> 01:44:34,000
+svoj projekt, kaj bo TerraStream.
+
+1982
+01:44:34,000 --> 01:44:36,000
+TerraStream, ja.
+
+1983
+01:44:36,000 --> 01:44:38,000
+So v bistvu na vseh teh lokalnih
+
+1984
+01:44:38,000 --> 01:44:40,000
+RIPE mitingih govorili,
+
+1985
+01:44:40,000 --> 01:44:42,000
+da so dejansko nadil neko poslovno
+
+1986
+01:44:42,000 --> 01:44:44,000
+analizo in ugotovili, da čez par let bojo
+
+1987
+01:44:44,000 --> 01:44:46,000
+vse njihove storitve delale zgubo.
+
+1988
+01:44:46,000 --> 01:44:48,000
+Se pravi,
+
+1989
+01:44:48,000 --> 01:44:50,000
+ni več krave muzare.
+
+1990
+01:44:50,000 --> 01:44:52,000
+A to si ti Petra Lodberga slišal,
+
+1991
+01:44:52,000 --> 01:44:54,000
+ker sem ga prpel, jaz dolu v Atene.
+
+1992
+01:44:54,000 --> 01:44:56,000
+Ne, enka druzga.
+
+1993
+01:44:56,000 --> 01:44:58,000
+Petr Lodberg je bil oče.
+
+1994
+01:44:58,000 --> 01:45:00,000
+Njegov potrčko je bil to, pomočno.
+
+1995
+01:45:00,000 --> 01:45:02,000
+Ja, pa je bil, verjetno, on Švedgor.
+
+1996
+01:45:02,000 --> 01:45:04,000
+Hm, en angliš.
+
+1997
+01:45:04,000 --> 01:45:06,000
+Vse brez veze.
+
+1998
+01:45:06,000 --> 01:45:08,000
+Pojnt je, margin ni več,
+
+1999
+01:45:08,000 --> 01:45:10,000
+fokusirajte se na to, kako boste
+
+2000
+01:45:10,000 --> 01:45:12,000
+za čim manj stroški dostavili bite,
+
+2001
+01:45:12,000 --> 01:45:14,000
+ker samo s tem boste preživeli,
+
+2002
+01:45:14,000 --> 01:45:16,000
+ker če ne boste vi za manj stroški dostavili bite,
+
+2003
+01:45:16,000 --> 01:45:18,000
+bo pa en drug.
+
+2004
+01:45:18,000 --> 01:45:20,000
+Kul. Kul.
+
+2005
+01:45:20,000 --> 01:45:22,000
+Drug pojntje za developerje, zakoni fizike
+
+2006
+01:45:22,000 --> 01:45:24,000
+ostaja nespremenjeni.
+
+2007
+01:45:24,000 --> 01:45:26,000
+Latency ni enak, nič,
+
+2008
+01:45:26,000 --> 01:45:28,000
+bandwidth ni neskončen, da poprostu en pojnt je,
+
+2009
+01:45:28,000 --> 01:45:30,000
+mislite na to.
+
+2010
+01:45:30,000 --> 01:45:32,000
+To bomo referrali na tisto RFC,
+
+2011
+01:45:32,000 --> 01:45:34,000
+pa si bojo potem prebrali.
+
+2012
+01:45:34,000 --> 01:45:36,000
+A tukaj bomo mogli ustaviti,
+
+2013
+01:45:36,000 --> 01:45:38,000
+če ne nazbojo, pač
+
+2014
+01:45:38,000 --> 01:45:40,000
+fizika SD kartice
+
+2015
+01:45:40,000 --> 01:45:42,000
+nazbojo.
+
+2016
+01:45:42,000 --> 01:45:44,000
+Zakoni fizike delujejo tudi za nas.
+
+2017
+01:45:44,000 --> 01:45:46,000
+Še to, če dodam prej,
+
+2018
+01:45:46,000 --> 01:45:48,000
+kaj sem rekel za developerje. A veš, kako reči angleži?
+
+2019
+01:45:48,000 --> 01:45:50,000
+The beating will continue
+
+2020
+01:45:50,000 --> 01:45:52,000
+until the morale improves.
+
+2021
+01:45:52,000 --> 01:45:54,000
+Tako.
+
+2022
+01:45:54,000 --> 01:45:56,000
+Gledali ste
+
+2023
+01:45:56,000 --> 01:45:58,000
+in poslušali ste ogrodje.
+
+2024
+01:45:58,000 --> 01:46:00,000
+Z mano Jan Žorš,
+
+2025
+01:46:00,000 --> 01:46:02,000
+Ivan Poplnjak, jaz se vama najlepše
+
+2026
+01:46:02,000 --> 01:46:04,000
+zahvaljujem.
+
+2027
+01:46:04,000 --> 01:46:06,000
+Ne, ne.
+
+2028
+01:46:06,000 --> 01:46:08,000
+Mogoče
+
+2029
+01:46:08,000 --> 01:46:10,000
+moramo to večkrat ponoviti.
+
+2030
+01:46:10,000 --> 01:46:12,000
+Zahvaljujem se tudi ekipi, ki je
+
+2031
+01:46:12,000 --> 01:46:14,000
+tukaj za kamero se predstavljala,
+
+2032
+01:46:14,000 --> 01:46:16,000
+Patreonom, ki nas podpirate,
+
+2033
+01:46:16,000 --> 01:46:18,000
+3FSA in Human Frogu,
+
+2034
+01:46:18,000 --> 01:46:20,000
+in pa
+
+2035
+01:46:20,000 --> 01:46:22,000
+do naslednjič.

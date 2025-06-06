@@ -1,0 +1,6258 @@
+1
+00:00:00,000 --> 00:00:16,000
+Pozdravljeni v novej epizodi v Grodje, našega novega podkesta z videosuportom.
+
+2
+00:00:16,000 --> 00:00:23,000
+Danes smo v zbranji v Kristalni palači, v sedmenem odstropju.
+
+3
+00:00:23,000 --> 00:00:29,000
+Gostimo pri Microsoftu Slovenija in z nami je danes Bojan Vrhovnik.
+
+4
+00:00:29,000 --> 00:00:40,000
+Senior cloud solution architect, ki že 15-16 let se ukvarja z razvojem v Microsoftu.
+
+5
+00:00:40,000 --> 00:00:48,000
+Z Andražom smo ga pa danes povabljali v Grodje, ker smo zadnjič imeli eno epizodo o cloudu in o IAC-u.
+
+6
+00:00:48,000 --> 00:00:55,000
+Pa smo nekako želeli slišati, kje je tu notri v tem cloudu Microsoft,
+
+7
+00:00:55,000 --> 00:01:05,000
+kaj se Azure razvija, kaj zgleda življenje v Microsoftu,
+
+8
+00:01:05,000 --> 00:01:09,000
+ker nas zelo zanima, kaj ti počneš v tej zgodbi.
+
+9
+00:01:09,000 --> 00:01:17,000
+In pač bi imel eno debato z tabo danes, nekako v urcu, mogoče malo le, bomo to se malo pogovarjali.
+
+10
+00:01:18,000 --> 00:01:19,000
+Jaz sem pozabil kaj.
+
+11
+00:01:19,000 --> 00:01:21,000
+Odlično, hvala ca povabilo.
+
+12
+00:01:21,000 --> 00:01:22,000
+Hvala tebi, da si prišel.
+
+13
+00:01:22,000 --> 00:01:24,000
+Jaz sem še kaj pozabil, še kaj je pripeljal.
+
+14
+00:01:24,000 --> 00:01:26,000
+Ne, odlično novote.
+
+15
+00:01:27,000 --> 00:01:32,000
+Mi dva, ko smo osnemali ta cloud, smo ugotovili, da v bistvu v Azure vema relativno malo.
+
+16
+00:01:32,000 --> 00:01:37,000
+To se pravi, oba smo ogromno delala z AWS-ojo, jaz sem ogromno delal z GCP-jem.
+
+17
+00:01:39,000 --> 00:01:44,000
+Sem pač delal seveda pre stranka, ki so uporabljale Azure, mogoče samo Azure, ali pa še kaj drugega.
+
+18
+00:01:44,000 --> 00:01:46,000
+Zato smo v bistvu tukaj.
+
+19
+00:01:47,000 --> 00:01:54,000
+Zdaj, da jo najprej moramo ponavadi, pač te vodne dele so najslabši in najtežji za narediti,
+
+20
+00:01:54,000 --> 00:01:59,000
+ampak moramo te vprašati, da nam najprej tipoveš, kaj počneš v Microsoftu.
+
+21
+00:02:00,000 --> 00:02:04,000
+Torej, kot ste že rekli, jaz sem v bistvu cloud solution arhitekt.
+
+22
+00:02:04,000 --> 00:02:10,000
+Zdaj, kar je pomembno vedeti je, v Microsoftu ostaje več različnih tipov cloud solution arhitektov.
+
+23
+00:02:11,000 --> 00:02:15,000
+Torej, imaš cloud solution arhitekte, ki se fokusirajo na stranke.
+
+24
+00:02:16,000 --> 00:02:20,000
+Imaš pa cloud solution arhitekte, ki se fokusirajo na partnerje.
+
+25
+00:02:20,000 --> 00:02:27,000
+In moja naloga, oziroma moj delovni obseg, je veza na partnerje.
+
+26
+00:02:28,000 --> 00:02:29,000
+Zdaj, kaj točno to pomeni?
+
+27
+00:02:31,000 --> 00:02:38,000
+Zdaj, cloud solution arhitekt, ti že marsi kaj povene, ampak moja naloga v bistvu je,
+
+28
+00:02:38,000 --> 00:02:44,000
+da omogočim in sodelujem z partnerji, da jih omogočim za Azure.
+
+29
+00:02:44,000 --> 00:02:47,000
+Torej, enable it for Azure, po domače čemu.
+
+30
+00:02:48,000 --> 00:02:53,000
+Z drugo besedo, da znajo uporabljati Azure v svoji najboljši meri.
+
+31
+00:02:54,000 --> 00:02:56,000
+Zdaj, kaj točno to pomeni? Kako je to v praksi zgleda?
+
+32
+00:02:57,000 --> 00:03:02,000
+Ker to pač zdaj, enable for Azure, moja bolj široka tema, ampak v praksi zgleda to tako.
+
+33
+00:03:03,000 --> 00:03:10,000
+Zdaj, lahko bi rekel, ok, vredi, pošljate email z vsemi roadmap-i, z vsemi stvarmi, ampak v praksi to ni tako.
+
+34
+00:03:11,000 --> 00:03:17,000
+Ampak kaj mi počnemo je, da v bistvu rečemo, ok, hočete uporabljati Azure, dajmo pogledat, prvo, kog znate,
+
+35
+00:03:17,000 --> 00:03:22,000
+dajmo pogledat, kje ste, dajmo pogledat, kaj želite s tem narediti.
+
+36
+00:03:23,000 --> 00:03:29,000
+In potem mi jim pomagamo z raznimi treningi, hackatoni, proof of concept zadevami,
+
+37
+00:03:30,000 --> 00:03:36,000
+demo te delamo in podobne stvari. To pomeni, da gremo res od začetka do konca.
+
+38
+00:03:37,000 --> 00:03:44,000
+To pomeni, da jih v bistvu navčimo, kaj, kako uporabljati Azure v praksi z najboljšimi praksami, ki jih imamo.
+
+39
+00:03:45,000 --> 00:03:51,000
+Največji problem je, da pač ponovadi, recimo, ljudje grejo na azure.com, se registrirajo,
+
+40
+00:03:52,000 --> 00:03:56,000
+vržejo not, kreditno kartico, vzamejo prvo rešitev, ki jo vidijo in rečejo, kaj zamočila.
+
+41
+00:03:57,000 --> 00:03:59,000
+A pa če je dobil nekaj kredita za stoj in da lahko poskusijo.
+
+42
+00:03:59,000 --> 00:04:01,000
+Ja, ja, to je vedno, to je tudi priseg teh cloud platform-a.
+
+43
+00:04:02,000 --> 00:04:08,000
+V bistvu imate tisto za stoj varijanto, kjer imate določene storitve, ki so za stoj v določeni melji.
+
+44
+00:04:09,000 --> 00:04:12,000
+Potem pa imate pač tudi določen znesek, ki se ga lahko porabi.
+
+45
+00:04:13,000 --> 00:04:18,000
+Partneri ponovadi imajo, če sodelujejo s Microsoftom, imamo tako novan partnerski program.
+
+46
+00:04:19,000 --> 00:04:24,000
+Zdaj, v partnerskem programu oni dobijo, seveda, odvisno v katerem temu promotiru so,
+
+47
+00:04:25,000 --> 00:04:31,000
+dobijo tudi določene kredita, ki jih lahko potem mesečno porabijo za Azure.
+
+48
+00:04:32,000 --> 00:04:39,000
+Kar pomeni, recimo, imajo tako novano MSDN, torej Microsoft Software Developer Network,
+
+49
+00:04:40,000 --> 00:04:44,000
+naročnina, opreko katerega imajo potem 100-150 dolarjev mesečno,
+
+50
+00:04:44,000 --> 00:04:47,000
+za to, da lahko uporabljajo Azure brezplašno v svojem razvoju.
+
+51
+00:04:48,000 --> 00:04:50,000
+In, seveda, polno drugih programov, ki jih imamo.
+
+52
+00:04:51,000 --> 00:04:56,000
+Bomo šla malo več v tem, ampak samo to še povej,
+
+53
+00:04:57,000 --> 00:05:02,000
+partneri so to stranke ali so to ljudje, ki na prerisele so slušene nad tem,
+
+54
+00:05:03,000 --> 00:05:04,000
+mislim, kaj pomeni partner?
+
+55
+00:05:05,000 --> 00:05:06,000
+Zdaj, v bistvu, če pogledamo, zdaj, sta ljudje...
+
+56
+00:05:07,000 --> 00:05:08,000
+A so to vsi, ki uporabljajo Azure?
+
+57
+00:05:10,000 --> 00:05:12,000
+Ne, ne, torej, partneri so tudi lahko stranke.
+
+58
+00:05:13,000 --> 00:05:17,000
+Ni zdaj to, da je pač stranka, je pač nekdo, ki uporablja tvoje rešitev.
+
+59
+00:05:17,000 --> 00:05:23,000
+Zdaj, partneri pa potem v bistvu uporabljajo rešitev in jo pač tudi potem prodajajo naprej.
+
+60
+00:05:24,000 --> 00:05:26,000
+Tudi imajo svoje stranke, ki jim v bistvu pomagajo.
+
+61
+00:05:27,000 --> 00:05:29,000
+Imajo tudi svoje rešitve, ki jih recimo želijo prodajati naprej.
+
+62
+00:05:30,000 --> 00:05:34,000
+In naša naloga v bistvu je, ko gledamo na partnere, je, da...
+
+63
+00:05:35,000 --> 00:05:37,000
+Zdaj, partner je zdaj veliko vrst.
+
+64
+00:05:38,000 --> 00:05:41,000
+Eni so tako imljani services partneri, ki v bistvu ponujejo svoje storitve.
+
+65
+00:05:42,000 --> 00:05:44,000
+Eni so tako imljani ISV, ki so v bistvu independent software vendor,
+
+66
+00:05:44,000 --> 00:05:47,000
+ki v bistvu razvijajo rešitve pa jih potem prodajajo.
+
+67
+00:05:48,000 --> 00:05:52,000
+Ker pač Azure ima recimo eno izmed opcij, ki jih ima, je tudi marketplace,
+
+68
+00:05:53,000 --> 00:05:55,000
+preko katerega se potem prodaja rešitev.
+
+69
+00:05:56,000 --> 00:05:57,000
+Tako ali drugače.
+
+70
+00:05:58,000 --> 00:06:02,000
+In pa tudi te razne svetovarne varijante, ki obstajajo.
+
+71
+00:06:03,000 --> 00:06:05,000
+In potem imamo še pač tretji tip partnerja.
+
+72
+00:06:06,000 --> 00:06:09,000
+In pač tudi mnogo več, no pa to recimo za oblak so najbolj aktualni,
+
+73
+00:06:10,000 --> 00:06:12,000
+ki se jim reče CSP, Cloud Solution Provider.
+
+74
+00:06:12,000 --> 00:06:18,000
+Ker pa reče, jaz sem partner in jaz bom v bistvu prodajal Microsoft Azure Oblak.
+
+75
+00:06:19,000 --> 00:06:23,000
+Prije stranke reče, o, jaz bi pa rada imela Azure Oblak.
+
+76
+00:06:25,000 --> 00:06:27,000
+In bi rada kupila, ne vem, tok, patok, patok.
+
+77
+00:06:28,000 --> 00:06:33,000
+Ampak ne znam s tem delati in potem v bistvu ta CSP ostvari pač in naročnino,
+
+78
+00:06:34,000 --> 00:06:37,000
+torej subscription, okolje spostavi, pomaga in podobne zadeve.
+
+79
+00:06:38,000 --> 00:06:40,000
+Torej v bistvu več različnih tipov je.
+
+80
+00:06:41,000 --> 00:06:44,000
+Ok, bomo šli še najprej nazaj.
+
+81
+00:06:45,000 --> 00:06:48,000
+Za eno izmed predavanja si rekel, da si bil policijst.
+
+82
+00:06:49,000 --> 00:06:51,000
+Da izstavljamo karakter.
+
+83
+00:06:52,000 --> 00:06:53,000
+Mogoče, mogoče.
+
+84
+00:06:54,000 --> 00:06:56,000
+Nema še to, prej ne bomo šla naprej v Microsoft.
+
+85
+00:06:57,000 --> 00:07:02,000
+Torej, kot se mogoče sliši, sicer ne tokne, ampak sem v bistvu iz Štarske.
+
+86
+00:07:03,000 --> 00:07:06,000
+Torej, imam dva otroka, ženo in sosedova mačko.
+
+87
+00:07:07,000 --> 00:07:09,000
+Zato ker je več pri nas kot pri sosedu.
+
+88
+00:07:11,000 --> 00:07:17,000
+Ko sem končal osnovno šolo, sem v bistvu se pač odločil takrat, da bom šel za policista
+
+89
+00:07:18,000 --> 00:07:20,000
+in sem šel v srednjo policijsko šolo v Tacen.
+
+90
+00:07:21,000 --> 00:07:22,000
+To je biš ta stari program, ne ta ta novi.
+
+91
+00:07:23,000 --> 00:07:24,000
+Torej, štirletna šola.
+
+92
+00:07:25,000 --> 00:07:28,000
+Torej, štirleta sem v bistvu bil tam in potem sem šel po policijski šoli,
+
+93
+00:07:29,000 --> 00:07:32,000
+sem šel delati na teren, seveda kot zagnanja dobudneš.
+
+94
+00:07:33,000 --> 00:07:36,000
+V dveh mesecih sem imel izredno zanimive dogodke.
+
+95
+00:07:37,000 --> 00:07:38,000
+Kih ne prevošiš.
+
+96
+00:07:38,000 --> 00:07:40,000
+Kih ne prevošim nobenmu.
+
+97
+00:07:41,000 --> 00:07:44,000
+Zato je treba spoštovati delov.
+
+98
+00:07:45,000 --> 00:07:46,000
+Tisti, ki so res na terenu.
+
+99
+00:07:47,000 --> 00:07:50,000
+Anyway, po teh dveh mesecih sem se odločil, da to pa mogoče ni za mene.
+
+100
+00:07:51,000 --> 00:07:57,000
+In sem potem oddal prijavo na Fakultet za računalništvo in informatiko in začel študirati tam.
+
+101
+00:07:58,000 --> 00:08:02,000
+Mogoče kot zanimivost, recimo do srednje šole oziroma med srednjo šolo,
+
+102
+00:08:03,000 --> 00:08:04,000
+še nisem sploh imel računalnika.
+
+103
+00:08:04,000 --> 00:08:07,000
+Na računalniku sem bil šel v srednje šole.
+
+104
+00:08:08,000 --> 00:08:14,000
+In predstavljati si, ko prijeti na Fakultet, priletiš v programiranje ena predmet.
+
+105
+00:08:15,000 --> 00:08:20,000
+Tam vidiš ponosno šolcev, ki so iz Vegove, kjer so imeli računalništvo programiranje pet let.
+
+106
+00:08:21,000 --> 00:08:24,000
+Ti pa niti vedo, kaj je to Linux, kaj je to Windows, kaj je to.
+
+107
+00:08:25,000 --> 00:08:28,000
+Tako da je bil zelo zanimiv začetek.
+
+108
+00:08:29,000 --> 00:08:30,000
+Ok.
+
+109
+00:08:31,000 --> 00:08:34,000
+Predvsem bomo še bolj nadrevali ta pogovor.
+
+110
+00:08:35,000 --> 00:08:38,000
+Moramo biti pač honest. Mi dva nismo Microsoft.
+
+111
+00:08:39,000 --> 00:08:41,000
+Ne delamo s Microsoft tehnologijami.
+
+112
+00:08:42,000 --> 00:08:43,000
+To nič s res.
+
+113
+00:08:44,000 --> 00:08:46,000
+No, ampak lahko nekaj te paralele potegnemo tukaj.
+
+114
+00:08:47,000 --> 00:08:51,000
+Tudi mi dva smo na nepoznanem teritoriju, tako da nam boš mogel malo bolj peljati za roko.
+
+115
+00:08:52,000 --> 00:08:54,000
+Uporabljamo VS Code.
+
+116
+00:08:55,000 --> 00:08:56,000
+Uporabljamo VS Code.
+
+117
+00:08:56,000 --> 00:08:57,000
+Uporabljamo GitHub.
+
+118
+00:08:58,000 --> 00:09:00,000
+To je že pravdo dobro. Jaz mislim, da vtrekni VS Code.
+
+119
+00:09:01,000 --> 00:09:02,000
+In C Sharp.
+
+120
+00:09:03,000 --> 00:09:04,000
+Odlično.
+
+121
+00:09:05,000 --> 00:09:06,000
+In TypeScript.
+
+122
+00:09:07,000 --> 00:09:13,000
+Dej, malo še na pol pelji od tega, ko si na Frio naredil fax do Microsofta.
+
+123
+00:09:14,000 --> 00:09:16,000
+Si še predelal v nekih drugih lokalnih podjetjih?
+
+124
+00:09:17,000 --> 00:09:23,000
+Ja, v bistvu mesec sem začel že potem kot študent na Datalabu.
+
+125
+00:09:23,000 --> 00:09:27,000
+Torej, tam sem se v bistvu večinoma okvarjal kot web razvijalec.
+
+126
+00:09:28,000 --> 00:09:30,000
+To pa mi ni v bistvu vsem razvijal helpdesk.
+
+127
+00:09:31,000 --> 00:09:34,000
+Takrat še ni bilo teh fencev, romajo, crmajo in podobnih zadev.
+
+128
+00:09:35,000 --> 00:09:36,000
+Če prav je bil takrat dotknutnik, recimo ampak.
+
+129
+00:09:37,000 --> 00:09:40,000
+Torej, moja naloga je bila, mogoče to recimo kot zanimivost,
+
+130
+00:09:41,000 --> 00:09:43,000
+kako je zgledal moj intervju za to službo.
+
+131
+00:09:44,000 --> 00:09:45,000
+Mogoče, da jaz sam izpostavim.
+
+132
+00:09:46,000 --> 00:09:48,000
+Prišel sem na razgovor za službo.
+
+133
+00:09:49,000 --> 00:09:50,000
+Direktor me spril.
+
+134
+00:09:50,000 --> 00:09:54,000
+Mi je pokazal, lej, tole je koda, oziroma ki jo imamo.
+
+135
+00:09:55,000 --> 00:10:00,000
+In mi radi pač to, da zdaj postane, da naredimo še ta helpdesk sistem,
+
+136
+00:10:01,000 --> 00:10:04,000
+za to, da bojo lahko uporabniki videli, kako ta celotna stvar deluje.
+
+137
+00:10:05,000 --> 00:10:06,000
+Jaz nisem to pogledal.
+
+138
+00:10:07,000 --> 00:10:09,000
+Jaz sem rekel, jaz to lahko naredim v dveh tednih boljše,
+
+139
+00:10:10,000 --> 00:10:11,000
+za uporabo dotknita.
+
+140
+00:10:12,000 --> 00:10:15,000
+Teknologija, ki so mi jo hoteli dati, takrat je bilo klasične ASP.
+
+141
+00:10:15,000 --> 00:10:16,000
+Oh, ok.
+
+142
+00:10:17,000 --> 00:10:21,000
+Kar je bilo pač, ne, to je pač PHP minus minus, po domačem čenu.
+
+143
+00:10:22,000 --> 00:10:26,000
+In sem rekel, ne, ne, ne, grem jaz, jaz vam lahko tole naredim boljše.
+
+144
+00:10:27,000 --> 00:10:30,000
+In sem rekel, lej, če naredim boljše, pač sveda smo se pogajali za ceno,
+
+145
+00:10:31,000 --> 00:10:34,000
+pač hočem povišit so, ne, določene ugodnosti.
+
+146
+00:10:35,000 --> 00:10:37,000
+Če ne, pač več kot postiti me ne morete.
+
+147
+00:10:38,000 --> 00:10:39,000
+In je rekel, ok, deal.
+
+148
+00:10:40,000 --> 00:10:43,000
+Torej, imaš dva tedna cajta, da zadevom narediš.
+
+149
+00:10:43,000 --> 00:10:45,000
+Tako da povišit se je bilo res dobro.
+
+150
+00:10:47,000 --> 00:10:48,000
+Odlično.
+
+151
+00:10:50,000 --> 00:10:54,000
+Zdaj, veliko ljudi se verjetno sprašuje, ok, jaz zelo lepo znam dotnet,
+
+152
+00:10:55,000 --> 00:10:59,000
+ali pa delam z Azure, pa bistveno več ima Azure, kot sem rekel, mi dva.
+
+153
+00:11:01,000 --> 00:11:08,000
+Ljudje se mogoče sprašujejo, kakla, ko potem prideš do nekega Microsoft joba,
+
+154
+00:11:09,000 --> 00:11:15,000
+a si se potem sproti začel prijavljati, ali si delal neodvisno, da so te opazili,
+
+155
+00:11:16,000 --> 00:11:23,000
+ali kak pride do tega, da prideš iz consultant, implementator do corporate guy?
+
+156
+00:11:25,000 --> 00:11:29,000
+Ja, v bistvu moja zgodba do Microsofta je bila tak, ne, torej, čisto po prvici povedano, ne.
+
+157
+00:11:30,000 --> 00:11:35,000
+Torej, jaz sem v bistvu v Microsoftu za zaposlen pet let kot polno zaposleni, kot FTE,
+
+158
+00:11:36,000 --> 00:11:40,000
+pa jaz sem pa delal kot zonalni izvajalec, ne, mi to bomo pravimo vendor, ne.
+
+159
+00:11:41,000 --> 00:11:45,000
+Ampak kako smo mi v bistvu najli? Torej, po Datalabu, torej po vsem temu, ne,
+
+160
+00:11:46,000 --> 00:11:50,000
+sem šel pa na Adakto in na Adakto sem razvijal odkrat sistem za banke,
+
+161
+00:11:51,000 --> 00:11:55,000
+torej v bistvu kako leasing narediti, ne, preko kode, seveda, ne.
+
+162
+00:11:56,000 --> 00:12:01,000
+Ampak mes med Faxom se je pa zgodilo to, ne. Zdaj, glede na to, da kot sem jaz prišel
+
+163
+00:12:01,000 --> 00:12:05,000
+na programiranje eno, kot sem prevomenil, ne, pa nisem imel pojma o tem, kako se programira,
+
+164
+00:12:06,000 --> 00:12:10,000
+sem seveda se pol rekel, ok, dajmo se naučiti to in sem šel na en predmet,
+
+165
+00:12:12,000 --> 00:12:16,000
+ki so ga v bistvu gostovali študentje in takrat so bili študentje MSPI,
+
+166
+00:12:17,000 --> 00:12:22,000
+torej v bistvu Microsoft Solution, student partner, pardon, in kaj se je zgodilo?
+
+167
+00:12:24,000 --> 00:12:29,000
+Da so pač pradavljali takrat, takrat to programiranje, kako začeti in takrat seveda so sedeli z mano,
+
+168
+00:12:29,000 --> 00:12:33,000
+tam se je, bogi človek, se je vcaj z mano, ne, mi je razlagal vse stvari.
+
+169
+00:12:34,000 --> 00:12:36,000
+By the way, programiral sem na Linuxu tak, by the way.
+
+170
+00:12:38,000 --> 00:12:43,000
+In meni je bilo to vse šeč, ne, in sem rekel, lej, on mi je pomagal, ne, jaz sem se naučil,
+
+171
+00:12:44,000 --> 00:12:47,000
+kupil sem si knjige, zapravljal sem se za antenu, ne, takrat dobil sem eno osobo,
+
+172
+00:12:48,000 --> 00:12:52,000
+programiral konor, ne, tudi preklina veliko, ne.
+
+173
+00:12:53,000 --> 00:12:57,000
+In potem sem rekel, ok, jaz hočem tudi to pomagati in potem sem imel to srečo,
+
+174
+00:12:57,000 --> 00:13:03,000
+da sem imel pač v bistvu par teh profesorje, ne, ki so bile izredno, izredno, v bistvu,
+
+175
+00:13:05,000 --> 00:13:12,000
+kaj bi rekel temu, ne na obdušenje, ampak so bili veseli, če je recimo, če so študentje pomagali pač drugim študentom.
+
+176
+00:13:13,000 --> 00:13:14,000
+In sem začel jaz te delavnice delati.
+
+177
+00:13:15,000 --> 00:13:19,000
+In potem prvo delavnice sem naredil, potem drugo delavnice sem naredil, tretjo delavnice sem naredil,
+
+178
+00:13:20,000 --> 00:13:23,000
+poslednje sem rekel, o, mogoče bo pa fajn, da jaz naredim kaj bolj zanimivega, ne.
+
+179
+00:13:23,000 --> 00:13:28,000
+In sem šel naredil tretjo delavnice, kje sem pa tudi povabil, v bistvu podobno, šel sem na Microsoft, na recepcijo,
+
+180
+00:13:29,000 --> 00:13:31,000
+pa sem rekel, jaz sem prišel sem, pa me zanima, kdo se to ukvarja s programiranjem.
+
+181
+00:13:32,000 --> 00:13:34,000
+On na recepciji me je gledal, ha? Znam, kaj vredi.
+
+182
+00:13:35,000 --> 00:13:39,000
+Ampak glavnem, potem sem dobil človeka, ne, in ta človek me je videl in je rekel, ok, super, lejte,
+
+183
+00:13:40,000 --> 00:13:43,000
+imamo mi dobili ljudi, ne, in so takrat res, ti imamo dali še knjige, ti imamo dali še, ne vem,
+
+184
+00:13:44,000 --> 00:13:46,000
+ful stvarine in sem dobil v bistvu res, takrat je bilo to kuh.
+
+185
+00:13:47,000 --> 00:13:52,000
+Se je dobil celo škatlo, sem šel tjaz, neko leze, pa vsi, ki prijete v te veli knjigi, so dobili pa neko presenečenje.
+
+186
+00:13:53,000 --> 00:13:56,000
+Ampak krati kaj se je zgodilo, ne, pa tudi, da so me pač opazili, ne.
+
+187
+00:13:57,000 --> 00:14:02,000
+Potem so začeli me, so me rekel, postani student partner, sem začel vedno bolj se s tem ukvarjati
+
+188
+00:14:03,000 --> 00:14:07,000
+in potem v bistvu po eno časo, ne, ko sem pa šte zvajal v svojem prostem času,
+
+189
+00:14:08,000 --> 00:14:11,000
+pa tudi na forume odgovarja in na podobne zadeve, so me pač opazili, ne, in potem so rekli,
+
+190
+00:14:11,000 --> 00:14:18,000
+ej, kaj, če bi pa ti prišel sem, ne, imamo eno lušno zadevo, ko se mu reče developer evangelist.
+
+191
+00:14:19,000 --> 00:14:20,000
+Oh, jej.
+
+192
+00:14:20,000 --> 00:14:22,000
+Evangalist je to pomembne del, ne.
+
+193
+00:14:22,000 --> 00:14:23,000
+Ja, ja, ja.
+
+194
+00:14:23,000 --> 00:14:24,000
+In takrat je še bilo...
+
+195
+00:14:24,000 --> 00:14:26,000
+To se tako idealno sliši, tako, tako.
+
+196
+00:14:27,000 --> 00:14:28,000
+V bistvu se sliši idealno, ne.
+
+197
+00:14:28,000 --> 00:14:29,000
+Dream come true.
+
+198
+00:14:30,000 --> 00:14:36,000
+Ja, ja, ker predstavljate, ti si plačen za to, da v bistvu študiraš programiranje pa da si zmišluješ demote
+
+199
+00:14:36,000 --> 00:14:41,000
+in potem si si pa zmišljoval demote, ki so v bistvu osporedno z tvojim, kar te je zanimalo, ne.
+
+200
+00:14:41,000 --> 00:14:48,000
+In to je recimo bilo ful dobro, zato ker si lahko pač šel, res, ne, in plus imel sečev Microsoft za seboj, ne.
+
+201
+00:14:49,000 --> 00:14:51,000
+Ker recimo, potko se zaposliš na Microsoftu, ne.
+
+202
+00:14:52,000 --> 00:14:53,000
+By the way.
+
+203
+00:14:53,000 --> 00:14:58,000
+Zdaj se še vedno igraš, imaš veliko tolih projectov in eksperimentov povezanih pa demotov, pa...
+
+204
+00:14:59,000 --> 00:15:01,000
+Samo razlika je zdaj, da pač v bistvu, ko greš...
+
+205
+00:15:02,000 --> 00:15:03,000
+Audienc je večji.
+
+206
+00:15:03,000 --> 00:15:06,000
+Ne, audienc je večji, pa tudi audienc je tudi zahteven, ne.
+
+207
+00:15:07,000 --> 00:15:15,000
+Pri Developer Evangelismu je bilo tako, ne, ti si šel na konferenco, šel si predavati, ne, in to je bilo to, nisi imel nekih ciljev, ne.
+
+208
+00:15:15,000 --> 00:15:16,000
+Pričakovanja so bilo vrečno, ne.
+
+209
+00:15:16,000 --> 00:15:17,000
+Tu so pa pričakovanja, ne.
+
+210
+00:15:17,000 --> 00:15:24,000
+Konc konco, ne, smo, ne, komercijalno podjetje, ne, in pač nekje moreš, ne, tudi pokazati, da si nekaj s tem dosegel, ne.
+
+211
+00:15:25,000 --> 00:15:32,000
+In kar pomeni, da če ti, recimo, vzameš neko rešitev, pomagaš partneru, da to rešitev recimo spravijo oblak, ne.
+
+212
+00:15:33,000 --> 00:15:40,000
+Jo moraš tudi narediti na tak način, pomagati seveda z vsemi temi izkušnjami, ki jo imaš, da bo na koncu v bistvu dosegla njegove cilje, ne.
+
+213
+00:15:40,000 --> 00:15:48,000
+In zdaj, če boš ti njemu namensko šel tja in mu rekel, o, zdaj pa postavi tole gor pet virtualek, ne, ki bojo, recimo, ne vem, GPU-enabled, ne.
+
+214
+00:15:49,000 --> 00:15:58,000
+Ne, so, zdaj jo bo res delala, zdaj jo bo letela, ampak na konci, kaj se bo zgodilo, ne, plačo bo veliko in zgobil si ti stranko, ne.
+
+215
+00:15:58,000 --> 00:16:09,000
+Če boš pa ti njemu pomagal, lej, ti ne rabiš tega, ti rabiš tole, zaradi tega, ker tvoje zahteve niso temu primetne, pa dobiš ta trust in to je v bistvu tista zgodba, ne, ki jo tudi Microsoft ima, ne.
+
+216
+00:16:09,000 --> 00:16:13,000
+To je v bistvu trust, ne, ki ga vzpostavi z...
+
+217
+00:16:13,000 --> 00:16:23,000
+Ej, moram priznati, da pač, ko te followam na Twitterju, konstanten stream update-ov, bom rekel, da 80%-o, kar tweetaš, ne razume sploh, kaj tweetaš.
+
+218
+00:16:24,000 --> 00:16:40,000
+Ampak te, kako ostaneš v stiko s temi novostmi, ki jih Microsoft daje ven, da jih v bistvu pol uporabiš tudi v demoteh, ker verjetno za te demote uporabljaš čist nove tehnologije ali tehnologije, ki so prišle ven, ali...
+
+219
+00:16:40,000 --> 00:16:41,000
+Tako je.
+
+220
+00:16:41,000 --> 00:16:45,000
+Kako imaš to stik z cutting edge-om znotraj firme?
+
+221
+00:16:45,000 --> 00:16:54,000
+Torej, v bistvu to imajo, verjetno imajo tudi druge korporacije to zelo dobro urejene, ampak tukaj, recimo, imam ta način zelo, zelo všeč.
+
+222
+00:16:54,000 --> 00:17:04,000
+Kar pomeni, mi imamo poleg tega, da imaš, torej, informacije o tem, kaj se dogaja pač na različnih tehnologijah.
+
+223
+00:17:05,000 --> 00:17:15,000
+Imaš tudi, recimo temo, korejted list, torej vseh stvari, ki pride. Ta pomeni, jaz dobim, recimo, vsak teden, dobim, sveda, to je...
+
+224
+00:17:15,000 --> 00:17:16,000
+Nek bulletin, kaj?
+
+225
+00:17:16,000 --> 00:17:27,000
+Ne, ja, bulletin. V bistvu dobiš vse združene zadeve, torej, da veš točno, kaj se dogaja, za kratkimi opisi in za primerji uporabe. To pomeni, recimo, primer.
+
+226
+00:17:28,000 --> 00:17:38,000
+Zdaj, glede na to, da sem pač en izmed v Sloveniji, pač podam, Kubernetes, recimo, na Azure je zelo dobro. Imamo, recimo, zajedno novo sredjev, ki se ima reči Azure Container Apps,
+
+227
+00:17:38,000 --> 00:17:44,000
+ki je, bistvu, pač, recimo, temo, serverless varianta na Kubernetesu.
+
+228
+00:17:45,000 --> 00:17:54,000
+Podomačačeno, recimo, dobiš informacijo o tem, kaj se je novega naredilo, dobiš demo primer, recimo, da lahko vidiš, o, glede, tako deluje.
+
+229
+00:17:54,000 --> 00:17:58,000
+Dobiš, recimo, dokumentacijo, vse tiste zadeve, ki so, recimo, pomembne.
+
+230
+00:17:59,000 --> 00:18:01,000
+In na tak način, bistvu, ti veš in potem greš globje.
+
+231
+00:18:02,000 --> 00:18:17,000
+Zdragače imamo pa zredno, zredno močen community, ne, sveste. Zdaj, takoj, ko greš v programiranje, ne, pač večino zadev si se vedno zapolniš, ne, ampak pač si pomaga zaiskalniki z raznimi AI, ki jih imamo, ne, in podobne zadeve.
+
+232
+00:18:18,000 --> 00:18:31,000
+Ampak, kaj je, kaj je tu velika, mislim, velika prednost, ne, ki jo ti dobiš, ne, imamo tudi interni stackoverflow, imamo interni zaiskanje, recimo, informacij, kaj se določeni zadevak dogaja.
+
+233
+00:18:32,000 --> 00:18:45,000
+Govorim, recimo, predvsem, recimo, če so kaki erori, primeri, recimo, ki so se zgodili, lahko greš čez ta knowledge base in podobne stvari, ne, tako da, če te res zanima, ne, lahko zelo, zelo hitro dobiš informacije in tudi ljudje so zelo, zelo,
+
+234
+00:18:47,000 --> 00:18:50,000
+pripravljeni za pomagati, ne, to pomeni, ne, te kontaktirajo.
+
+235
+00:18:51,000 --> 00:18:55,000
+Bom dal primer, recimo, če raz imel glih klic z ameriškim podjetjem,
+
+236
+00:18:56,000 --> 00:19:02,000
+seveda brez mene, ne, ampak rabili so, recimo, ne vem, neko pomoč, ljudje na tega, da pač jaz, recimo, pokrivam
+
+237
+00:19:03,000 --> 00:19:10,000
+tudi managed library, ne, za Azure, sem pač, v bistvu, recimo, bil enostavno, imel z njimi klic in povedal stvari, ki so,
+
+238
+00:19:11,000 --> 00:19:19,000
+ki so jih zanimali in potem smo, in potem so oni šli, šli naprej in poklical me nekdo, ki je, recimo, tam iz Čikaga, jaz čega človeka nisem nikoli videl, ampak,
+
+239
+00:19:20,000 --> 00:19:26,000
+je v bistvu rekel, lej, jaz sem videl, da se ti, da na forumih večinoma odgovarjaš tole, a bi bil ti pripravljen, da, ne,
+
+240
+00:19:27,000 --> 00:19:34,000
+z niko ni problema, samo pač moraš vedeti, da jaz sem v Sloveniji, ne, to drugo vprašanje, ki je to, tu smo, ampak, ne, ko smo enkrat to
+
+241
+00:19:34,000 --> 00:19:41,000
+dali čez, ampak čez njemu pomagajo enostavno odgovoriti na vprašanje, ne, torej, tudi, če ga ne poznam, ne, torej, v bistvu ta,
+
+242
+00:19:42,000 --> 00:19:50,000
+van Microsoft je tu se, v bistvu, ful čutino, tako da, v bistvu, nisi nikoli sam, ne, tudi, recimo, ko greš na te sestanke, ki so, recimo, kritične, ne, ponavadi vsi,
+
+243
+00:19:51,000 --> 00:19:57,000
+ne vem, greš na take, moj bo, sestanke, ki imajo ogromno, ne vem, IKEA podobno, podobne sestanke, ne,
+
+244
+00:19:57,000 --> 00:20:05,000
+kjer imaš, recimo, veš, da je odzadi huge korporacija, ne, in pač si mišliš, o, se tam si tresejo, ne, ko priješ se pogovarjati z njihomi arhitekti, ampak
+
+245
+00:20:06,000 --> 00:20:14,000
+tu pač greš, na zgled pač pet tja, ne, za vsako področje en, ne, ker pač Azure ima 200 do 300, oziroma več servisov, first party servisov,
+
+246
+00:20:15,000 --> 00:20:23,000
+ne, ni šans, da pozna vse, ne, in tis, ki pozna vse, bi ga rad spoznal, ne, dobro, mogoče Marko Sinovič, ne, ampak, ne,
+
+247
+00:20:23,000 --> 00:20:32,000
+to je naš CTO, ne, on je res, sys internal, seveda, za stvar, ki je naredil, anway, anway, mogoče on, no, ampak
+
+248
+00:20:33,000 --> 00:20:41,000
+je zelo težko, no, v bistvu poznavati se. V bistvu je taka paleta, da moraš, da imaš specjalce, ne. Tako, ja, ker drugače ni šans, ne, ker se pogovarjaš,
+
+249
+00:20:42,000 --> 00:20:48,000
+recimo, z Lodmina, oni te začnejo sprašovati, to ni zaje, da greš ti tja, pa rečeš, o, lej, mimo se, malo skupinete smo igrali, ne, ja.
+
+250
+00:20:48,000 --> 00:20:57,000
+Ne, pa če razlika je med evangelizmom, ki je v bistvu, imaš več omlam getting started, pa pa če pa imaš realne stranke, ki im moraš nekaj pomagati,
+
+251
+00:20:58,000 --> 00:21:03,000
+te pa sprašujejo uno, najbolj edži stvar, zelo specifičen klic na tismo in moraš biti res ekspert.
+
+252
+00:21:04,000 --> 00:21:10,000
+Tako, ja. Ok, sta naredila požirek vode, ker zdaj gremo pa na resne zadeve. Ste pripravljena.
+
+253
+00:21:11,000 --> 00:21:21,000
+Dobro. Ok, mi jaz, Andražo, smo razmišljala, kaj bi dali sublikovala tole debato in smo ti pripravila tri egzemple.
+
+254
+00:21:22,000 --> 00:21:31,000
+Ja, ful so težki, to bo ful. Tri hipotetične firme smo oblikovali, tri hipotetične organizacije, ki rabijo pomoč.
+
+255
+00:21:31,000 --> 00:21:43,000
+Različno, kompleksne so, ene so ful enostavne, ene malo manj, pa bi te prosila kot eksperta za EJR,
+
+256
+00:21:44,000 --> 00:21:51,000
+kot smo rekli, za omejenje, logično, ekspertiza za zeločene stvari, kako bi ti te zadeve rešila.
+
+257
+00:21:52,000 --> 00:21:59,000
+Pa najbolj zanima, mogoče, tako, lahko dajš enostavne odgovore, ni na pač nekaj govora, ampak dajmo malo se pogovarjati,
+
+258
+00:21:59,000 --> 00:22:04,000
+pa da vidimo. Mi dva se bomo nekaj naučili, mi dva ne vemo. Super, ja.
+
+259
+00:22:05,000 --> 00:22:14,000
+Pri misli, ki bi bilo ta, težko je sprašvat o nekih produktih, če ne veš kateri so, kateri obstajajo, da ne zapadamo v nekaj tipično,
+
+260
+00:22:15,000 --> 00:22:22,000
+malo podjetje, problem, ki gremo na EJR, pa nakliknemo opet, virtual, kim se ta stvar konča, zato pač je bolj egzempel driven.
+
+261
+00:22:23,000 --> 00:22:27,000
+Tako, ok. Zelo bom predstavil prvo podjetje, boš ti povedal ime.
+
+262
+00:22:28,000 --> 00:22:29,000
+Fuu.
+
+263
+00:22:30,000 --> 00:22:31,000
+Prvo, si si zapelno?
+
+264
+00:22:32,000 --> 00:22:35,000
+Nisem si zapelno, ampak vem, da so škarje v igri.
+
+265
+00:22:36,000 --> 00:22:37,000
+Škarje.
+
+266
+00:22:37,000 --> 00:22:43,000
+Egzempel one je prvo podjetje Freezer SP, se pravi Freezer I.
+
+267
+00:22:44,000 --> 00:22:56,000
+Asseti, ki jih imajo, imajo en WordPress site, imajo, ki je na PHP-o, MySQL, to je bazo, pa uporabljajo en shared hosting,
+
+268
+00:22:56,000 --> 00:23:09,000
+da se pravi, recimo, da je lokalen, ni važno, uporabljajo tudi Office, oziroma Office 365, desktop, se pravi en laptop, recimo,
+
+269
+00:23:10,000 --> 00:23:15,000
+ok, tu imaš napisano, da imaš en Surface laptop, to sem dal ta produkt, pa jaz sem jo še zravil.
+
+270
+00:23:16,000 --> 00:23:19,000
+Se pravi en Freezerski studio, WordPress site in to.
+
+271
+00:23:20,000 --> 00:23:21,000
+In bazo.
+
+272
+00:23:22,000 --> 00:23:23,000
+In ja, MySQL bazo, ok.
+
+273
+00:23:23,000 --> 00:23:24,000
+Kaj pa se zahtiva?
+
+274
+00:23:25,000 --> 00:23:27,000
+To pa je. Zdaj, boš ti predstavil requiremente?
+
+275
+00:23:28,000 --> 00:23:29,000
+Ne, ne, kar da ti imaš tam letale liste.
+
+276
+00:23:30,000 --> 00:23:40,000
+Ok, requiremenci. Zdaj, pač ljudje, ki niso specialisti, ne ločijo med temi functional, non-functional requirements, tako da ti bom dal, ker vse je vžuv.
+
+277
+00:23:41,000 --> 00:23:50,000
+Vse je postalo počasno, ker pa shared hosting in pa to, vse je podenostreho, zakaj moram za Office plačevati, pa za WordPress,
+
+278
+00:23:50,000 --> 00:23:54,000
+pa se da to združiti pod seno, zadevo.
+
+279
+00:23:56,000 --> 00:24:01,000
+Mogoče bomo kdaj v prihodnosti imeli novo poslovalnico, bo spet malo treba raširiti, zadevo.
+
+280
+00:24:02,000 --> 00:24:10,000
+Logično, ni časa, ni znanja, pa v duhu s časom ravimo tudi, ne vem, kaj boš v prihodnosti online rezervacijo,
+
+281
+00:24:11,000 --> 00:24:17,000
+pa ne bi mogoče še jaz, jaz mislim ravno o to, ampak ja, pač web je predvsej pomembno.
+
+282
+00:24:18,000 --> 00:24:23,000
+Ja, to je case number one. Kaj bi predlagal?
+
+283
+00:24:24,000 --> 00:24:32,000
+Zdaj, dobro, prvo, moraš razumeti, da pri vseh tih stvarih, ko enkrat svetujete, arhitektura ali pa
+
+284
+00:24:33,000 --> 00:24:37,000
+kjer je stvari uporabiti, je ogromno, ogromno stvarina, katero je treba pomisliti.
+
+285
+00:24:38,000 --> 00:24:41,000
+To recimo, to je prva stvar, ki moraš pomisliti, ok, vrede, ne.
+
+286
+00:24:41,000 --> 00:24:46,000
+Torej, avtentikacija je kakšno, ne. Torej, v bistvu prva stvar, ki je, kako se bojo ti ljudje avtenticirali,
+
+287
+00:24:47,000 --> 00:24:52,000
+ali bo to, recimo, no, en username, password, recimo, če vznamo premjer, da je to frizerski salon, ne, glih,
+
+288
+00:24:53,000 --> 00:24:54,000
+kjer je to nek single sign-on, ne.
+
+289
+00:24:55,000 --> 00:24:56,000
+En zaposleni v tem case-u.
+
+290
+00:24:57,000 --> 00:24:58,000
+Aja, ok.
+
+291
+00:24:58,000 --> 00:24:59,000
+Keep it simple, keep it simple.
+
+292
+00:25:00,000 --> 00:25:01,000
+Torej, imamo pomoč ljudi, ki to uporablja, ne.
+
+293
+00:25:00,000 --> 00:25:07,320
+To je v bistvu to, kaj. Drugo, recimo, gonilo pri tem primeru bi, recimo, bilo, kaj zdaj povezamo s troški, kaj zdaj točno hočemo narediti.
+
+294
+00:25:07,960 --> 00:25:12,120
+Ker, recimo, da šti nekoga spravo na Azure, pa bomo dal virtual, ko bo tole, recimo, ovorkil.
+
+295
+00:25:12,560 --> 00:25:15,920
+Druga zadeva je vprašanje, ki ga vedno
+
+296
+00:25:16,760 --> 00:25:21,840
+vprašamo, kaj zaj glede dosigljivosti, recimo, in imajo drugačne zahteve glede dosigljivosti.
+
+297
+00:25:22,240 --> 00:25:27,879
+Ne me razumeti naroben, lahko bom, recimo, vržen meni, lahko da na virtual, ko lahko da, recimo, Azure,
+
+298
+00:25:28,320 --> 00:25:32,680
+torej, torej, maj si kole za srbiz, to je, recimo, en del, ne, ampak to, recimo, je zelo drag del, ne.
+
+299
+00:25:33,119 --> 00:25:39,360
+Lahko zame, recimo, WordPress, ki ga imamo kot platforme za srbiz, kar pomeni, da bi se vse eno kvarja z
+
+300
+00:25:39,959 --> 00:25:45,080
+operacijskim sistemom, ne, torej, ne rabe plačevati licenci, ne rabe plačevati,
+
+301
+00:25:45,759 --> 00:25:48,880
+torej, bistvu, managmenta, ne, ampak vse, kar, bistvu, njega zanima je aplikacija, ne.
+
+302
+00:25:49,439 --> 00:25:51,240
+Torej, ah, ne nastavljeno, čim postaviš gor,
+
+303
+00:25:52,759 --> 00:25:53,720
+torej,
+
+304
+00:25:55,520 --> 00:25:56,919
+ne, WordPress, torej, bistvu, kot,
+
+305
+00:25:57,360 --> 00:26:05,559
+torej, torej, če se vrnem nazaj, torej, platforme za srbiz, ne, imamo, bistvu, več različnih rešitev, ki jih lahko uporabljaš. Ena izmed njih je, mi tudi uporabljamo Azure App Service,
+
+306
+00:26:06,400 --> 00:26:15,599
+in Azure App Service, bistvu, vse buje web aplikacije, vse buje serverless, oziroma Azure Functions, vse buje storage in podobne zadeve, ne. In
+
+307
+00:26:16,160 --> 00:26:21,879
+za WordPress, kot WordPress, ne, imamo vprav posebno rešitev, ki je, recimo, WordPress
+
+308
+00:26:22,879 --> 00:26:35,519
+in Azure web app, kar pomeni, da je, bistvu, jaz v sodelovanju z WordPressom naredjen ena predloga, ne, ki ima možnost, da lahko to teče na tem platforme za srbiz delu.
+
+309
+00:26:35,519 --> 00:26:50,800
+Torej, platforme za srbiz, ne, pomeni to, da je, bistvu, ta management del operacijskega sistema updato in podobne zadeve prezame Microsoft, torej, bistvu, tudi, recimo, kar se tiče netvorka in vsega tega.
+
+310
+00:26:52,040 --> 00:27:01,919
+Vi se pač ukvarjate z aplikacijo, to pomeni, on pride gor, reče, ok, jaz bi uradnil WordPress, klik, klik, klik, klik, dobil WordPress, reče, kje bi uradnil gostoval bazo, uradnil gostoval bazo na istem strežniku,
+
+311
+00:27:01,919 --> 00:27:11,279
+nastavlja, ulej, če mi je dobil preveč zahtevko, ne, kar pomeni, da, bistvu, rabi biti zadeva živa vsaj, ne vem, 24x7, ne,
+
+312
+00:27:12,000 --> 00:27:26,000
+rabim, recimo, imeti, ne vem, mogoče lahko ponoči dol, ne, ne rabim za, recimo, scalinga, ne rabim več vir, ja, torej, bistvu, lahko nastavljate več, več varijant. Zdaj, pri platformi za srbiz nimaš te opcije, ne, da se pač, bistvu, zadeva vgasne.
+
+313
+00:27:26,600 --> 00:27:37,000
+Kar pa lako narediš je pa, da lahko rečeš, ok, jaz bom gostoval v aplikacijo, to bo na enem strežniku, zdaj, po dnevi, recimo, ker vem, da bo, ne vem, jutri pa bo dan prezerev, pa bo vsi si šli stričiti,
+
+314
+00:27:37,679 --> 00:27:44,320
+pa želim, recimo, da, če bo res veliko obiska, ne, da si mi pač dodajajo zraven virtualna okolja, ne, in lahko, recimo, to nastavim.
+
+315
+00:27:45,320 --> 00:27:50,479
+V tem primeru, ne, moram izbrati od način, kako bom schranjeval podatke, ne, torej, vi rekli ste MySQL,
+
+316
+00:27:50,960 --> 00:27:56,880
+ena opcija je, da je na istem strežniku, ampak to je problem, če ti skaliraš, recimo, horizontalno, ne,
+
+317
+00:27:57,199 --> 00:28:01,639
+rabiš pač nekako schranjevati podatke, ne, nekje, na neko mesto, ne, kjer ne bo,
+
+318
+00:28:02,360 --> 00:28:03,720
+ne, če en strežnik odleti,
+
+319
+00:28:04,440 --> 00:28:05,440
+baza odleti,
+
+320
+00:28:05,800 --> 00:28:06,759
+nobeni ne bo vesel, ne.
+
+321
+00:28:06,759 --> 00:28:08,880
+A tukaj, kako backup, ta sistem zraven?
+
+322
+00:28:08,880 --> 00:28:11,039
+Da, torej, v bistvu, imate več načino, ne, zdaj,
+
+323
+00:28:11,320 --> 00:28:16,000
+web app ima avtomatsko integriran backup, pri katerem, v bistvu, se schranjuje v
+
+324
+00:28:16,600 --> 00:28:17,119
+storage,
+
+325
+00:28:17,600 --> 00:28:20,839
+ali pa direktno na sistem, ne, ker ponadi ni najboljše rešitev,
+
+326
+00:28:21,559 --> 00:28:26,360
+ne, ker pač potem se moreš povezati na nekako, na ta strežnik, pa dobiti podatke dol, kar ni optimalno,
+
+327
+00:28:27,039 --> 00:28:33,320
+imaš pa opcijo, da lahko rečeš, ej, jaz bi pa rad, recimo, ogled na to, da res prečekujem, da bo to, ne vem,
+
+328
+00:28:33,880 --> 00:28:36,039
+ne vem, kjer so priljubljeni frizari v Sloveniji, ne, ampak,
+
+329
+00:28:36,800 --> 00:28:37,960
+priljubljen frizar ena, ne?
+
+330
+00:28:37,960 --> 00:28:38,479
+Ja.
+
+331
+00:28:39,039 --> 00:28:41,000
+Mislim, da je bil neki južen, ne vem, če ni, oziroma.
+
+332
+00:28:41,720 --> 00:28:42,240
+Glavne,
+
+333
+00:28:42,880 --> 00:28:44,199
+mene je žena striže tegda.
+
+334
+00:28:45,839 --> 00:28:47,119
+Moja je žena, moja je frizarka, ne.
+
+335
+00:28:48,000 --> 00:28:49,000
+In za njo imam web pač.
+
+336
+00:28:49,240 --> 00:28:49,759
+No.
+
+337
+00:28:50,119 --> 00:28:50,839
+Kje sklira.
+
+338
+00:28:51,039 --> 00:28:52,520
+No, kako čem povedati, je to, da,
+
+339
+00:28:52,960 --> 00:28:57,360
+kaj čem povedati, je to, da, če, recimo, vzamemo aplikacijo in rečemo, lej, to mora skelirati,
+
+340
+00:28:58,000 --> 00:28:59,720
+potem, bistvo, imamo tudi rešitve za to,
+
+341
+00:29:00,119 --> 00:29:05,000
+ki so, bistvo, vezane kot storitev, to pomeni, mi lahko rečemo, o, MySQL, imamo Azure MySQL,
+
+342
+00:29:05,600 --> 00:29:09,960
+Azure S, Azure MySQL, torej, storitev, S-Service,
+
+343
+00:29:10,559 --> 00:29:16,640
+taza delca, ne, ima pa, bistvo, integrirane backupe, to pomeni, ima eno zdjevo, ko je fenomenalna,
+
+344
+00:29:17,239 --> 00:29:18,760
+ki se mu reče point-in-time restore,
+
+345
+00:29:19,559 --> 00:29:23,399
+kar pomeni, da je, bistvo, ti, če ti zadjeva odleti,
+
+346
+00:29:23,920 --> 00:29:26,440
+lahko ti rečeš, v mene pa zanima, kaj je,
+
+347
+00:29:27,399 --> 00:29:33,959
+kaj s njim, recimo, z hrano, pet minut pred dvanajsto in se lahko vrneš na tisto stanje, kar pomeni, da delate diferencialne backupe
+
+348
+00:29:35,279 --> 00:29:41,679
+in podobno, ne, kar pomeni, lahko se odločaš, kakšno mašino boš imel v zadnjih in podobne stvari, ampak se ti ne ukvarja z mašino, ampak se samo s podatki.
+
+349
+00:29:42,239 --> 00:29:47,760
+Zdaj, če gledamo tega frezerja, kako bi to zgledalo, človek bi, recimo, rekel, o, jaz bi rad to vzaj prestavo na Azure,
+
+350
+00:29:48,480 --> 00:29:53,160
+gre, reče, daj mi WordPress, mu vrže eno opcije, izberi, recimo, web app,
+
+351
+00:29:53,880 --> 00:29:56,119
+klik, klik, klik, klik, mu reče, navodilo,
+
+352
+00:29:56,519 --> 00:29:58,880
+ki je, seveda, imamo odlično, odlično dokumentacijo,
+
+353
+00:29:59,320 --> 00:30:03,760
+navodilih ti reče, lej, pejdi v admin center, klikni tole, klikni to
+
+354
+00:30:05,119 --> 00:30:07,440
+in ti bo eksportalo, pač, WordPress,
+
+355
+00:30:07,799 --> 00:30:12,160
+ta zip file, kar koli že ima, da, bistvo, imaš celo strukturo, imported in
+
+356
+00:30:12,799 --> 00:30:17,359
+in ti reče, a hočeš imeti še domeno gor uvešeno, rečeš, ja, super, izbirat me v domeno,
+
+357
+00:30:18,279 --> 00:30:19,320
+Zdaj, če si,
+
+358
+00:30:20,880 --> 00:30:24,320
+če imaš, recimo, domeno na GoDaddy-o, je to otomatsko zintegrirano.
+
+359
+00:30:24,559 --> 00:30:25,359
+Ova, ok.
+
+360
+00:30:25,679 --> 00:30:27,880
+Kar pomeni, GoDaddy-o, bistvo, dobiš eno, poklikaš v Azure-o, ne,
+
+361
+00:30:29,079 --> 00:30:34,320
+in ti z GoDaddy-em, imamo, pač, bistvo, eno partnership in ti lahko otomatsko, pač, da to, če imaš,
+
+362
+00:30:34,839 --> 00:30:35,880
+če tega nimaš, ne,
+
+363
+00:30:37,600 --> 00:30:41,040
+pač vneseš notar C name ali pa A record-a, pa
+
+364
+00:30:41,679 --> 00:30:43,559
+pač, kar koli že vneseš, zato, da dobiš,
+
+365
+00:30:44,000 --> 00:30:44,799
+dobiš povezavo,
+
+366
+00:30:45,279 --> 00:30:49,200
+ali pa lahko rečeš, ej, jaz bi pa rad, da mi Azure da domeno, ne,
+
+367
+00:30:49,359 --> 00:30:50,760
+in lahko preko Azure-a, bistvo, dobiš.
+
+368
+00:30:50,760 --> 00:30:51,760
+A jak kupiš domeno v Azure-o?
+
+369
+00:30:51,760 --> 00:30:55,720
+Tako seveda, lahko to nastaviš in saj certifikate, SSL-e in podobne zadeve.
+
+370
+00:30:56,600 --> 00:30:57,839
+In ko enkrat to končaš,
+
+371
+00:30:58,480 --> 00:31:00,600
+pa si v bistvu up and running, ne.
+
+372
+00:31:00,760 --> 00:31:01,239
+Torej,
+
+373
+00:31:01,959 --> 00:31:05,880
+zdaj, reče ti, za bazo ti reče, ali boš imel na servera, rečeš ja,
+
+374
+00:31:06,720 --> 00:31:08,119
+ti on naredi vse, kar rabi.
+
+375
+00:31:08,559 --> 00:31:10,959
+Če rečeš ne. To se reči kot prv dela,
+
+376
+00:31:11,200 --> 00:31:12,920
+a ura dela, pa si good to go.
+
+377
+00:31:13,559 --> 00:31:15,880
+Niti ne, zaradi tega, ker,
+
+378
+00:31:16,600 --> 00:31:18,880
+to pa zdaj pridemo do zgodbe migracij, ne.
+
+379
+00:31:20,399 --> 00:31:23,519
+Zdaj, mi imamo orodje, ne, ki ti znajo
+
+380
+00:31:24,320 --> 00:31:27,119
+to, kar s njim zelo menijo, ne, naredi to otomatsko.
+
+381
+00:31:27,239 --> 00:31:30,119
+Kar pomeni, ti imaš orodje, se mora reči Azure Migrate,
+
+382
+00:31:31,279 --> 00:31:33,959
+ki se ti namesti na tvoj sistem,
+
+383
+00:31:34,480 --> 00:31:36,320
+pogled, zdaj, zdaj, enkrat to dela za Windows-e, ne,
+
+384
+00:31:37,799 --> 00:31:39,000
+kogor ima web aplikacija.
+
+385
+00:31:39,399 --> 00:31:41,559
+Ti to pač naredi in ti
+
+386
+00:31:42,079 --> 00:31:44,480
+naredi analizo, ali je to recimo premjerno za oblak.
+
+387
+00:31:44,720 --> 00:31:46,839
+Ti se vpišeš v, recimo da je,
+
+388
+00:31:47,440 --> 00:31:49,440
+ti se pišeš v oblak, on ti reče,
+
+389
+00:31:50,920 --> 00:31:52,239
+kam bi pa ti rad to deplojal,
+
+390
+00:31:53,079 --> 00:31:56,440
+pa ti rečeš, o super, izberem, ne vem, kaj najbližje meni,
+
+391
+00:31:56,920 --> 00:32:00,239
+recimo da je to nizozemska Amsterdam, ok, gremo v West Europe,
+
+392
+00:32:01,320 --> 00:32:03,200
+izbereš, te vodeči z cel postopek,
+
+393
+00:32:03,679 --> 00:32:07,160
+finish in kar dobiš nazaj je URL,
+
+394
+00:32:07,760 --> 00:32:09,640
+klikneš na URL in je tvoj site postavljen.
+
+395
+00:32:11,040 --> 00:32:14,480
+Rečemo, da, ok, pač mi te aplikacije nimamo lokalno,
+
+396
+00:32:14,480 --> 00:32:17,880
+ko smo zbrali pač nekega slovenskega vendorja, nek wordpress site,
+
+397
+00:32:18,600 --> 00:32:21,600
+pa ta nek scaling nam tudi ni pomemben, ko smo dost mali.
+
+398
+00:32:23,079 --> 00:32:26,320
+A mogoče obstajajo tudi neke rešitve, ko so v bistvu scaled to zero,
+
+399
+00:32:26,880 --> 00:32:29,279
+to se pravi pr nekih pasih, to se pravi, če stvar
+
+400
+00:32:29,640 --> 00:32:31,880
+ni dostopna,
+
+401
+00:32:32,959 --> 00:32:35,079
+da se v bistvu pač enostavno
+
+402
+00:32:35,239 --> 00:32:38,440
+te replike pač izklopijo do nule,
+
+403
+00:32:38,440 --> 00:32:40,079
+gre pač za stvar samo do ena.
+
+404
+00:32:40,600 --> 00:32:43,799
+Ja, ja, imamo dosti, tudi teh rešitv je dosti, ne.
+
+405
+00:32:45,119 --> 00:32:47,320
+Zdaj, največka, ki je recimo tu uporabljeno,
+
+406
+00:32:47,320 --> 00:32:49,799
+pač so pač kontejneri, recimo vse ena taka varianta,
+
+407
+00:32:49,799 --> 00:32:51,519
+nekje so to zelo pogosto uporabljene.
+
+408
+00:32:51,519 --> 00:32:54,160
+Imamo potem eno zdjelo, ki se ima reče Static Web Apps,
+
+409
+00:32:54,399 --> 00:32:55,880
+kjer v bistvu lako uporabiš
+
+410
+00:32:57,160 --> 00:32:59,799
+torej v bistvu storage, ne, ki v bistvu potem
+
+411
+00:33:00,399 --> 00:33:02,839
+samo plačuješ v bistvu
+
+412
+00:33:03,239 --> 00:33:05,679
+outbound proces, pa plačuješ v bistvu
+
+413
+00:33:06,200 --> 00:33:08,239
+v skrambu teh podatkov, ne, torej v bistvu to je
+
+414
+00:33:08,679 --> 00:33:11,040
+en del optimizacije, ne, potem drugi del optimizacije,
+
+415
+00:33:11,040 --> 00:33:13,880
+recimo, če imaš kontejneri, ne, imaš veliko opcij, recimo
+
+416
+00:33:14,799 --> 00:33:17,239
+Azure Container Apps, ne, torej v bistvu rešitev, ki
+
+417
+00:33:17,959 --> 00:33:19,959
+vzadi je uporabljeno, ko pa ne ti sicer, ne, ampak recimo,
+
+418
+00:33:19,959 --> 00:33:22,040
+če zadevo daš v kontejner, ne, WordPress,
+
+419
+00:33:23,000 --> 00:33:25,320
+lako to recimo ganeš tam in če recimo ni prometa,
+
+420
+00:33:25,320 --> 00:33:27,200
+lahko nastaviš, kaj naj se zgodi, ne.
+
+421
+00:33:27,200 --> 00:33:29,440
+To pomeni, če je za območen, za
+
+422
+00:33:29,760 --> 00:33:32,000
+čas, recimo desetih minut, ne, ni nobenih
+
+423
+00:33:32,000 --> 00:33:34,200
+requestov, ugasne zadevo, ne.
+
+424
+00:33:36,039 --> 00:33:38,479
+S tem, da pač morate polo računa zaravno kod startu
+
+425
+00:33:38,479 --> 00:33:40,479
+ta lahko, ne, kako mi je zadeva, ne.
+
+426
+00:33:41,239 --> 00:33:43,599
+In se bo stvar postavila ali pa ne vem.
+
+427
+00:33:44,280 --> 00:33:46,719
+Kontejner instance je recimo ena taka zadeva, ki je
+
+428
+00:33:46,719 --> 00:33:49,080
+ponovadi zelo uporabi, ne.
+
+429
+00:33:50,000 --> 00:33:52,280
+Trik pa je, da v bistvu imaš kontejner, ki se
+
+430
+00:33:52,280 --> 00:33:54,760
+zažene in pač, ko ga narabiš, se pač
+
+431
+00:33:55,119 --> 00:33:56,119
+ugasne, no.
+
+432
+00:33:56,799 --> 00:33:59,039
+A te Azure App Services, to
+
+433
+00:33:59,359 --> 00:34:00,359
+so v bistvu
+
+434
+00:34:01,520 --> 00:34:04,119
+nek nabor jezikov, tehnologij,
+
+435
+00:34:04,119 --> 00:34:06,119
+ki jih potpirate preko tega.
+
+436
+00:34:06,119 --> 00:34:08,119
+Kjer? Azure App Services?
+
+437
+00:34:08,119 --> 00:34:10,119
+Ja, Azure App Services.
+
+438
+00:34:10,119 --> 00:34:12,119
+To je to, kar si zdaj imel.
+
+439
+00:34:12,119 --> 00:34:14,119
+Ne, se zgodba
+
+440
+00:34:14,119 --> 00:34:16,119
+odzada je zelo enostavna. To pomeni, kaj
+
+441
+00:34:16,119 --> 00:34:18,119
+tim. Ampak tu, samo to še bom podvršen, da
+
+442
+00:34:18,119 --> 00:34:19,119
+bom govoril.
+
+443
+00:34:19,719 --> 00:34:21,719
+Tu ne govorimo o kontejnerih, tu govorimo o
+
+444
+00:34:21,719 --> 00:34:24,119
+prinesi svoj PHP file, pa ga vrži gora,
+
+445
+00:34:24,119 --> 00:34:25,119
+ali pa ne.
+
+446
+00:34:25,119 --> 00:34:27,119
+Tu se razumimo, tu se razumimo.
+
+447
+00:34:27,200 --> 00:34:29,200
+Platforme za servis.
+
+448
+00:34:29,200 --> 00:34:31,200
+Jaz govorim o opcijah.
+
+449
+00:34:31,200 --> 00:34:33,200
+Recimo,
+
+450
+00:34:33,200 --> 00:34:35,200
+App Service kot takšen,
+
+451
+00:34:35,200 --> 00:34:37,200
+predstavljate si, to je
+
+452
+00:34:37,200 --> 00:34:39,200
+v bistvu server, ki
+
+453
+00:34:39,200 --> 00:34:41,200
+pač živi tam nekje in
+
+454
+00:34:41,200 --> 00:34:43,200
+ti imaš, dobiš eno dostop do tega,
+
+455
+00:34:43,200 --> 00:34:45,200
+ne bom rekel, celega servera, no,
+
+456
+00:34:45,200 --> 00:34:47,200
+lahko imaš, ampak
+
+457
+00:34:47,200 --> 00:34:49,200
+imaš dostop do, recimo najem, do
+
+458
+00:34:49,200 --> 00:34:51,200
+zdaj vidite, sta nista
+
+459
+00:34:51,200 --> 00:34:53,200
+Windows, ne, sta bolj
+
+460
+00:34:53,200 --> 00:34:55,200
+Linux, ampak recimo imaš najem do
+
+461
+00:34:55,280 --> 00:34:57,280
+www root folder, ne, access kamor
+
+462
+00:34:57,280 --> 00:34:59,280
+lahko ti imeči stvari. Po
+
+463
+00:34:59,280 --> 00:35:01,280
+defaultu so gori inštelirani že
+
+464
+00:35:01,280 --> 00:35:03,280
+orodja, kot
+
+465
+00:35:03,280 --> 00:35:05,280
+se recimo, najem, imaš gori
+
+466
+00:35:05,280 --> 00:35:07,280
+Node, imaš gori PHP, določene
+
+467
+00:35:07,280 --> 00:35:09,280
+verzije, imaš gori, recimo, najem
+
+468
+00:35:09,280 --> 00:35:11,280
+.NET, imaš gori,
+
+469
+00:35:11,280 --> 00:35:13,280
+to je HTML. Logično, ne?
+
+470
+00:35:13,280 --> 00:35:15,280
+A te zadeve se pol tudi
+
+471
+00:35:15,280 --> 00:35:17,280
+same upgradejo? Tako je,
+
+472
+00:35:17,280 --> 00:35:19,280
+tako v bistvu mi imamo...
+
+473
+00:35:19,280 --> 00:35:21,280
+A se bo ta Wordpress instanca sama
+
+474
+00:35:21,280 --> 00:35:23,280
+upgradeala? Samo library pod njim?
+
+475
+00:35:23,359 --> 00:35:25,359
+Ne, torej v bistvu mi imamo,
+
+476
+00:35:25,359 --> 00:35:27,359
+zadeva je tako naredna, ti imaš
+
+477
+00:35:27,359 --> 00:35:29,359
+server, ne, in na tem
+
+478
+00:35:29,359 --> 00:35:31,359
+serveru so inštelirani tooli
+
+479
+00:35:31,359 --> 00:35:33,359
+in pa seveda kar je najbolj pomembno
+
+480
+00:35:33,359 --> 00:35:35,359
+security, ne, torej v bistvu update in se
+
+481
+00:35:35,359 --> 00:35:37,359
+te zadeve. Torej ta del skrbimo
+
+482
+00:35:37,359 --> 00:35:39,359
+mi. Ti
+
+483
+00:35:39,359 --> 00:35:41,359
+imaš kot uporabnik
+
+484
+00:35:41,359 --> 00:35:43,359
+opcijo, da izbereš kater
+
+485
+00:35:43,359 --> 00:35:45,359
+SDK hočeš uporabljati.
+
+486
+00:35:45,359 --> 00:35:47,359
+Lahko rečeš latest,
+
+487
+00:35:47,359 --> 00:35:49,359
+kar pomeni, da se bo pač skupri de novo
+
+488
+00:35:49,359 --> 00:35:51,359
+verzija se bo zadeva dodala, ali pa rečeš
+
+489
+00:35:51,440 --> 00:35:53,440
+ne, jaz pa rabim 4.7
+
+490
+00:35:53,440 --> 00:35:55,440
+PHP za tega, ker pač ta Wordpress
+
+491
+00:35:55,440 --> 00:35:57,440
+moniko, whatever, ne,
+
+492
+00:35:57,440 --> 00:35:59,440
+za devo, ki jo jaz pač rabim, ne, ne vem,
+
+493
+00:35:59,440 --> 00:36:01,440
+pek plugin ali karkoli, ne.
+
+494
+00:36:01,440 --> 00:36:03,440
+Ampak finta je,
+
+495
+00:36:03,440 --> 00:36:05,440
+da imaš v bistvu vsa urodja, ki jih ti že
+
+496
+00:36:05,440 --> 00:36:07,440
+uporabljaš pri sebi, lahko uporabiš tudi core.
+
+497
+00:36:07,440 --> 00:36:09,440
+Imamo tudi integrirani,
+
+498
+00:36:09,440 --> 00:36:11,440
+sem videl, da ste rekla, da ste na vdušenca nad
+
+499
+00:36:11,440 --> 00:36:13,440
+ta TypeScript-o, imamo tudi v bistvu editor,
+
+500
+00:36:13,440 --> 00:36:15,440
+ki je direktno
+
+501
+00:36:15,440 --> 00:36:17,440
+opcija, da lahko
+
+502
+00:36:17,440 --> 00:36:19,440
+dovesi na obrozerjo, vidiš, mi temo
+
+503
+00:36:19,520 --> 00:36:21,520
+enako je editor, ampak
+
+504
+00:36:21,520 --> 00:36:23,520
+kot ne, v bistvu vidiš,
+
+505
+00:36:23,520 --> 00:36:25,520
+lahko vse te faile pa lahko
+
+506
+00:36:25,520 --> 00:36:27,520
+jih editiraš. Da lahko greš editirati?
+
+507
+00:36:27,520 --> 00:36:29,520
+Ja, ja, ja. Aha, ok. V bistvu ti lahko uporabljaš
+
+508
+00:36:29,520 --> 00:36:31,520
+kjerakoli urodja te zanima, ne, zato je, ker en del
+
+509
+00:36:31,520 --> 00:36:33,520
+je to, da pač inšteljiramo, da so že
+
+510
+00:36:33,520 --> 00:36:35,520
+preinšteljirani tooli, ne, drugo
+
+511
+00:36:35,520 --> 00:36:37,520
+je pa, da lahko tudi svoje daš, če hočeš, ne.
+
+512
+00:36:37,520 --> 00:36:39,520
+Aha, ok. To je konc koncev,
+
+513
+00:36:39,520 --> 00:36:41,520
+ne, server, ki ga ti,
+
+514
+00:36:41,520 --> 00:36:43,520
+bom rekel, narekuvajih renta, samo da se pač ne okvarja
+
+515
+00:36:43,520 --> 00:36:45,520
+z
+
+516
+00:36:45,520 --> 00:36:47,520
+z,
+
+517
+00:36:47,599 --> 00:36:49,599
+men to updaj, to pa tek sedel.
+
+518
+00:36:49,599 --> 00:36:51,599
+Ok, ali bo dovolj za vas frizerja?
+
+519
+00:36:51,599 --> 00:36:53,599
+Ja, zadovoljen. Ja.
+
+520
+00:36:53,599 --> 00:36:55,599
+Kaj praviš? Kaj ga še skrvi?
+
+521
+00:36:55,599 --> 00:36:57,599
+Ne vem, pač tako pač
+
+522
+00:36:57,599 --> 00:36:59,599
+veliko razmišljam. Prav zanima,
+
+523
+00:36:59,599 --> 00:37:01,599
+v nekem tem primeru,
+
+524
+00:37:01,599 --> 00:37:03,599
+normalno pač, da frizer ne pride do Microsoft
+
+525
+00:37:03,599 --> 00:37:05,599
+Slovenija, po druge strani,
+
+526
+00:37:05,599 --> 00:37:07,599
+pač,
+
+527
+00:37:07,599 --> 00:37:09,599
+jaz tega sveta tako ne poznam, domljen,
+
+528
+00:37:09,599 --> 00:37:11,599
+da nekaj pride čez te partnerje, pač,
+
+529
+00:37:11,599 --> 00:37:13,599
+ki imajo nek odnos z Microsoftom, to se pravi.
+
+530
+00:37:13,599 --> 00:37:15,599
+Tako je. Nek revenue, no, odprpele,
+
+531
+00:37:15,679 --> 00:37:17,679
+neko pomoč. Koli je pa v bistvu nekih ljudi,
+
+532
+00:37:17,679 --> 00:37:19,679
+ki pač niso partnerje, seveda,
+
+533
+00:37:19,679 --> 00:37:21,679
+da je to težje oceniti, ampak ne vem,
+
+534
+00:37:21,679 --> 00:37:23,679
+koli je, koli je, rečemo, oto ta pomenek,
+
+535
+00:37:23,679 --> 00:37:25,679
+pal to neki na hekama,
+
+536
+00:37:25,679 --> 00:37:27,679
+pa smo v nek mojih
+
+537
+00:37:27,679 --> 00:37:29,679
+slovenskih skupnosti, pa nismo glih partnerja.
+
+538
+00:37:29,679 --> 00:37:31,679
+Mogoče, kaj še na počutek
+
+539
+00:37:31,679 --> 00:37:33,679
+glede tega?
+
+540
+00:37:33,679 --> 00:37:35,679
+Hja,
+
+541
+00:37:35,679 --> 00:37:37,679
+mislim, zauštevile ga je to težko govoriti,
+
+542
+00:37:37,679 --> 00:37:39,679
+sicer v Sloveniji, ne, to so
+
+543
+00:37:39,679 --> 00:37:41,679
+ti zaradni podatki, ki se mi dobijo, ne,
+
+544
+00:37:41,679 --> 00:37:43,679
+torej, v bistvu, bo uporabila
+
+545
+00:37:43,760 --> 00:37:45,760
+cloud, ne, kot takšen, ne,
+
+546
+00:37:45,760 --> 00:37:47,760
+38% ljudi, kar je
+
+547
+00:37:47,760 --> 00:37:49,760
+v bistvu zelo, zelo velika zanimivost.
+
+548
+00:37:49,760 --> 00:37:51,760
+Drugače pa taki,
+
+549
+00:37:51,760 --> 00:37:53,760
+ko ste vi, recimo, ne vem,
+
+550
+00:37:53,760 --> 00:37:55,760
+ki ste pač, ne vem, hobi razvijalci, pa tudi
+
+551
+00:37:55,760 --> 00:37:57,760
+profesionalni razvijalci so,
+
+552
+00:37:57,760 --> 00:37:59,760
+tega v bistvu vsaj v Sloveniji, ne,
+
+553
+00:37:59,760 --> 00:38:01,760
+ko mi, torej, vsaj majko so
+
+554
+00:38:01,760 --> 00:38:03,760
+v Sloveniji, prerejamo pa šte razne dogodke,
+
+555
+00:38:03,760 --> 00:38:05,760
+ki jih imamo, ki so brezplačni,
+
+556
+00:38:05,760 --> 00:38:07,760
+torej, eni so community, eni so pa
+
+557
+00:38:07,760 --> 00:38:09,760
+tudi, recimo, third party, ne vem,
+
+558
+00:38:09,760 --> 00:38:11,760
+gremo tule čez cesto, ne, glede na to, da smo
+
+559
+00:38:11,840 --> 00:38:13,840
+VTC-jo, ne, čez cesto so pač te tehnološki
+
+560
+00:38:13,840 --> 00:38:16,080
+hubi in gremo tja in čas
+
+561
+00:38:16,080 --> 00:38:18,080
+in, recimo, predavamo kakšno stvari in potem pridejo
+
+562
+00:38:18,080 --> 00:38:20,080
+ljudje in poslušajo in tudi sprašujejo od start-up-o
+
+563
+00:38:20,080 --> 00:38:22,080
+do takšne kot sevine,
+
+564
+00:38:22,080 --> 00:38:24,080
+kjer v bistvu pač pol ponujejo,
+
+565
+00:38:24,080 --> 00:38:26,080
+mislim, kjer potem zlagajo,
+
+566
+00:38:26,080 --> 00:38:28,080
+kako, kako začeti sploh
+
+567
+00:38:28,080 --> 00:38:30,080
+z oblakom, ne, ampak po drugi strani
+
+568
+00:38:30,080 --> 00:38:32,080
+je pa spet tak, ne, mi imamo zredno, zredno
+
+569
+00:38:32,080 --> 00:38:34,080
+močen ta dokumentacijski del,
+
+570
+00:38:34,080 --> 00:38:36,080
+ki sem ga omenjal, ne, ki je
+
+571
+00:38:36,080 --> 00:38:38,080
+zelo močno povezan tudi z
+
+572
+00:38:38,400 --> 00:38:40,400
+LinkedIn learningom, ne,
+
+573
+00:38:40,400 --> 00:38:42,400
+po domače čeno, ne, to je bilo prej,
+
+574
+00:38:42,400 --> 00:38:44,400
+ne vem, kako se je manualom pa klanim,
+
+575
+00:38:44,400 --> 00:38:46,400
+torej,
+
+576
+00:38:46,400 --> 00:38:48,400
+vsako zadevo, ne, je eno,
+
+577
+00:38:48,400 --> 00:38:50,400
+da imaš video, drugo pa,
+
+578
+00:38:50,400 --> 00:38:52,400
+da imaš interaktivni način, ne,
+
+579
+00:38:52,400 --> 00:38:54,400
+kar pomeni, jaz se cimo rečem,
+
+580
+00:38:54,400 --> 00:38:56,400
+ne, how to deploy,
+
+581
+00:38:56,400 --> 00:38:58,400
+torej, v skani, how to deploy, ne,
+
+582
+00:38:58,400 --> 00:39:00,400
+in web app on Azure, ne, in ti vrže en opcija
+
+583
+00:39:00,400 --> 00:39:02,400
+in ko klikneš,
+
+584
+00:39:02,400 --> 00:39:04,400
+lahko prideš na dokumentacijo, ki je,
+
+585
+00:39:04,400 --> 00:39:06,400
+lahko reči, o, izvej, pa rad to probaj, imaš tam knofek
+
+586
+00:39:06,719 --> 00:39:08,719
+in ti v bistvu naredi playground in temu
+
+587
+00:39:08,719 --> 00:39:10,719
+playgroundu lahko sprobaš vse, kar te zanima, ne,
+
+588
+00:39:10,719 --> 00:39:12,719
+ali pa recimo slediš postopko,
+
+589
+00:39:12,719 --> 00:39:14,719
+čisto enostavno, pa vidiš, imamo tudi te
+
+590
+00:39:14,719 --> 00:39:16,719
+interaktivne,
+
+591
+00:39:16,719 --> 00:39:18,719
+to torej,
+
+592
+00:39:18,719 --> 00:39:20,719
+v smislu, da imaš ti screenshotje posnjete, ne,
+
+593
+00:39:20,719 --> 00:39:22,719
+in te v bistvu vodi, če screenshot, kot ta navigacija,
+
+594
+00:39:22,719 --> 00:39:24,719
+ki ti spuščico kaže, ne,
+
+595
+00:39:24,719 --> 00:39:26,719
+ki je lahko vidiš, recimo, ne vem, kako v bistvu zadevo
+
+596
+00:39:26,719 --> 00:39:28,719
+spraviti gor in te res, res vodi,
+
+597
+00:39:28,719 --> 00:39:30,719
+čez ta, čez ta enostavni postopek,
+
+598
+00:39:30,719 --> 00:39:32,719
+ali pa če rečeš, uf, jaz tega ne znam, ne,
+
+599
+00:39:33,039 --> 00:39:35,039
+kdo me lahko pomaga,
+
+600
+00:39:35,039 --> 00:39:37,039
+in smo že dobili, recimo, na Microsoft klice,
+
+601
+00:39:37,039 --> 00:39:39,039
+ne, ej, jaz bi rad,
+
+602
+00:39:39,039 --> 00:39:41,039
+pa, ne vem, deplojo
+
+603
+00:39:41,039 --> 00:39:43,039
+Windows v oblako,
+
+604
+00:39:43,039 --> 00:39:45,039
+ne, kdo mi lahko pomaga, ne, smo jih potem
+
+605
+00:39:45,039 --> 00:39:47,039
+prismerili na partnere, imamo teh partner,
+
+606
+00:39:47,039 --> 00:39:49,039
+v Sloveniji je kar nekaj, no, ki se prav okvarja
+
+607
+00:39:49,039 --> 00:39:51,039
+s tem, da pa če v bistvu držijo,
+
+608
+00:39:51,039 --> 00:39:53,039
+bom rekel, narekovajih, ne, ne morem na robe
+
+609
+00:39:53,039 --> 00:39:55,039
+razumeti, za rukce, recimo, ljudi, pa jih potem
+
+610
+00:39:55,039 --> 00:39:57,039
+vodijo čez, čez postopek,
+
+611
+00:39:57,039 --> 00:39:59,039
+ali bodi si razvoja, ali pa bodi si,
+
+612
+00:39:59,039 --> 00:40:01,039
+recimo, ne vem, razne frizerje,
+
+613
+00:40:01,039 --> 00:40:03,039
+ne, ko ste omenjali, ne,
+
+614
+00:40:03,039 --> 00:40:05,039
+tu, recimo, imel sem že en primer, ki so mesari,
+
+615
+00:40:05,039 --> 00:40:07,039
+recimo, pomagali od sajt narediti, ne,
+
+616
+00:40:07,039 --> 00:40:09,039
+tako da ni to zaj, da je to samo
+
+617
+00:40:09,039 --> 00:40:11,039
+za razvijalce, ne, tudi ljudje, ki so,
+
+618
+00:40:11,039 --> 00:40:13,039
+niso takvešči, to v bistvu znajo,
+
+619
+00:40:13,039 --> 00:40:15,039
+znajo narediti, no,
+
+620
+00:40:15,039 --> 00:40:17,039
+ne.
+
+621
+00:40:17,039 --> 00:40:19,039
+Ok, naj bo to za prvi eksempel bilo.
+
+622
+00:40:19,039 --> 00:40:21,039
+You passed.
+
+623
+00:40:21,039 --> 00:40:23,039
+Ja, zdi,
+
+624
+00:40:23,039 --> 00:40:25,039
+naslednji topic, kaj smo hotli
+
+625
+00:40:25,039 --> 00:40:27,039
+malo več take vprašati, je
+
+626
+00:40:27,039 --> 00:40:29,039
+Microsoft
+
+627
+00:40:29,039 --> 00:40:31,039
+kot, kot organizacija,
+
+628
+00:40:31,039 --> 00:40:33,039
+ma, mislim, da sem prebral
+
+629
+00:40:33,039 --> 00:40:35,039
+dvajsto, eno, dvajst tisot
+
+630
+00:40:35,039 --> 00:40:37,039
+zaposlenih. Tako je.
+
+631
+00:40:37,039 --> 00:40:39,039
+Kak se, kak, kak se sloh
+
+632
+00:40:39,039 --> 00:40:41,039
+pogovarjati v tak veliki
+
+633
+00:40:41,039 --> 00:40:43,039
+organizaciji? Mislim,
+
+634
+00:40:43,039 --> 00:40:45,039
+to je, ja,
+
+635
+00:40:45,039 --> 00:40:47,039
+ne vem, pripravim, če imate notranje
+
+636
+00:40:47,039 --> 00:40:49,039
+opredavanje, koliko ljudi je pa na klicu
+
+637
+00:40:49,039 --> 00:40:51,039
+v tem sektorju?
+
+638
+00:40:51,039 --> 00:40:53,039
+Odvisno.
+
+639
+00:40:53,039 --> 00:40:55,039
+Ok, mogoče, mogoče,
+
+640
+00:40:55,039 --> 00:40:57,039
+da dobite opčute, kako to zgleda, ne,
+
+641
+00:40:57,039 --> 00:40:59,039
+torej, v bistvu,
+
+642
+00:40:59,039 --> 00:41:01,039
+zdaj, veste, da uporabljamo za komunikacijo
+
+643
+00:41:01,039 --> 00:41:03,039
+Microsoft Teams, ne, torej,
+
+644
+00:41:03,039 --> 00:41:05,039
+Microsoft Teams nima samo te opcije,
+
+645
+00:41:05,039 --> 00:41:07,039
+da ti narediš
+
+646
+00:41:07,039 --> 00:41:09,039
+predavanje v smislu, da pa ci pridejo
+
+647
+00:41:09,039 --> 00:41:11,039
+na klic, ampak imaš tudi opcije o webinarju in podobnih
+
+648
+00:41:11,039 --> 00:41:13,039
+zadev. In tam se ljudje
+
+649
+00:41:13,039 --> 00:41:15,039
+povežejo, ne, in
+
+650
+00:41:15,039 --> 00:41:17,039
+zelo močen koncept, ki pa jeso, pa te
+
+651
+00:41:17,039 --> 00:41:19,039
+interni time, ne, kjer v bistvu se lahko ti
+
+652
+00:41:19,039 --> 00:41:21,039
+prijaviš, ne, kot,
+
+653
+00:41:21,039 --> 00:41:23,039
+za poslednje greš tega reče, še izbiraš tole poslušal in potem
+
+654
+00:41:23,039 --> 00:41:25,039
+v bistvu spremnaš, ne vem,
+
+655
+00:41:25,039 --> 00:41:27,039
+spremnaš DevOps, PowerShell, Kubernetes,
+
+656
+00:41:27,039 --> 00:41:29,039
+.NET in potem tam vidiš,
+
+657
+00:41:29,039 --> 00:41:31,039
+recimo, ko dajo,
+
+658
+00:41:31,039 --> 00:41:33,039
+ko dajo kako informacijo, ne,
+
+659
+00:41:33,039 --> 00:41:35,039
+imamo veliko botov,
+
+660
+00:41:35,039 --> 00:41:37,039
+kar pomeni, ker,
+
+661
+00:41:37,039 --> 00:41:39,039
+ne, ni presenetljivo,
+
+662
+00:41:39,039 --> 00:41:41,039
+ne, ampak, recimo, botov, ne,
+
+663
+00:41:41,039 --> 00:41:43,039
+s katerimi se lahko ti pogovarjaš, ne, pa ti
+
+664
+00:41:43,039 --> 00:41:45,039
+pomagajo ali najdi pravo osebo,
+
+665
+00:41:45,039 --> 00:41:47,039
+recimo, primer,
+
+666
+00:41:47,039 --> 00:41:49,039
+recimo,
+
+667
+00:41:49,039 --> 00:41:51,039
+jaz, recimo, iščem nekaj v zvezi z,
+
+668
+00:41:51,039 --> 00:41:53,039
+ne vem,
+
+669
+00:41:53,039 --> 00:41:55,039
+Azure Searchem. In me zanima,
+
+670
+00:41:55,039 --> 00:41:57,039
+kdo je, recimo, program menedžer,
+
+671
+00:41:57,039 --> 00:41:59,039
+ki se okvarja z specifikacijo
+
+672
+00:41:59,039 --> 00:42:01,039
+Azure Searcha, ker pač me zanima, kako
+
+673
+00:42:01,039 --> 00:42:03,039
+zadeva deluje. In zdaj imam opcijo,
+
+674
+00:42:03,039 --> 00:42:05,040
+ne, da lahko grem v interni imenik, ne,
+
+675
+00:42:05,040 --> 00:42:07,040
+kar pomeni 200.000 od izkat,
+
+676
+00:42:07,040 --> 00:42:09,040
+ne, so dela,
+
+677
+00:42:09,040 --> 00:42:11,040
+ne, ampak, pač, verjetno, grem lahko,
+
+678
+00:42:11,040 --> 00:42:13,040
+ne, zgubim življice, ko jiščem,
+
+679
+00:42:13,040 --> 00:42:15,040
+pač, ker ni logično, mislim,
+
+680
+00:42:15,040 --> 00:42:17,040
+težko dobiš, lahko pa rej, uporabiš, pač,
+
+681
+00:42:17,040 --> 00:42:19,040
+potem na koncu je umetno inteligenco, greš
+
+682
+00:42:19,040 --> 00:42:21,040
+do tega bota, pa rečeš,
+
+683
+00:42:21,040 --> 00:42:23,040
+kdo je predstavo za Azure Search,
+
+684
+00:42:23,040 --> 00:42:25,040
+dobiš nazaj,
+
+685
+00:42:25,040 --> 00:42:27,040
+ne vem,
+
+686
+00:42:27,040 --> 00:42:29,040
+hiarhija ljudi,
+
+687
+00:42:29,040 --> 00:42:31,040
+kdo je predstavo za to specifikacijo,
+
+688
+00:42:31,040 --> 00:42:33,040
+ne,
+
+689
+00:42:33,040 --> 00:42:35,040
+in ti dobiš bistvo nazaj, lahko,
+
+690
+00:42:35,040 --> 00:42:37,040
+to besedno priješ do tega človeka, ki
+
+691
+00:42:37,040 --> 00:42:39,040
+te zanima, ne, potem pa samo
+
+692
+00:42:39,040 --> 00:42:41,040
+loviš, kdaj je aveljabol, ne, ker pač,
+
+693
+00:42:41,040 --> 00:42:43,040
+druga stvar, kaj je, ne, so ti znakci,
+
+694
+00:42:43,040 --> 00:42:45,040
+ne, kar se tiče aveljabol, busy
+
+695
+00:42:45,040 --> 00:42:47,040
+in podobne zadeve, ali zelenje,
+
+696
+00:42:47,040 --> 00:42:49,040
+hm, ping, ping,
+
+697
+00:42:49,040 --> 00:42:51,040
+ne, da so free slotja, ali
+
+698
+00:42:51,040 --> 00:42:53,040
+da je samo, ne, pač, človek dela,
+
+699
+00:42:53,040 --> 00:42:55,040
+ne, ko ti delaš, se ti je otomatsko spremljeno,
+
+700
+00:42:55,040 --> 00:42:57,040
+ja, ti, hm.
+
+701
+00:42:57,040 --> 00:42:59,040
+Jaz imam tudi izkušno s tem,
+
+702
+00:42:59,040 --> 00:43:01,040
+pač, prej ene zelo velike
+
+703
+00:43:01,040 --> 00:43:03,040
+stranke, seveda je bil Microsoft Teams,
+
+704
+00:43:03,040 --> 00:43:05,040
+ne, in
+
+705
+00:43:05,040 --> 00:43:07,040
+jaz pač tam bil v nekaj razvijalni
+
+706
+00:43:07,040 --> 00:43:09,040
+ekipi,
+
+707
+00:43:09,040 --> 00:43:11,040
+to je pač ogromna organizacija, tisoč inženerjev,
+
+708
+00:43:11,040 --> 00:43:13,040
+plus,
+
+709
+00:43:13,040 --> 00:43:15,040
+in da
+
+710
+00:43:15,040 --> 00:43:17,040
+mi sodelac v bistvu napiše
+
+711
+00:43:17,040 --> 00:43:19,040
+za Microsoft Teams,
+
+712
+00:43:19,040 --> 00:43:21,040
+hej, ti veš,
+
+713
+00:43:21,040 --> 00:43:23,040
+kako bomo to popravili, ne vem,
+
+714
+00:43:23,040 --> 00:43:25,040
+nekaj je bilo, oziroma, ti veš, dobi vedo
+
+715
+00:43:25,040 --> 00:43:27,040
+o te splečasifični zadeve nekaj,
+
+716
+00:43:27,040 --> 00:43:29,040
+in potem ima Microsoft Teams
+
+717
+00:43:29,040 --> 00:43:31,040
+na neke točki ti tudi v bistvu
+
+718
+00:43:31,040 --> 00:43:33,040
+predlaga odgovore. Aha, gleda na
+
+719
+00:43:33,040 --> 00:43:35,040
+pogovor, aha, okej. Ja, glede na
+
+720
+00:43:35,040 --> 00:43:37,040
+kontekst pogovor, in je bilo samo
+
+721
+00:43:37,040 --> 00:43:39,040
+nobody knows, I don't know,
+
+722
+00:43:39,040 --> 00:43:41,040
+ful je bilo smešno, tako da
+
+723
+00:43:41,040 --> 00:43:43,040
+dajansko je pravilno pač v gibu.
+
+724
+00:43:43,040 --> 00:43:45,040
+Ja, ampak to pomeni, da
+
+725
+00:43:45,040 --> 00:43:47,040
+dober spremljate vso
+
+726
+00:43:47,040 --> 00:43:49,040
+interno komunikacijo,
+
+727
+00:43:49,040 --> 00:43:51,040
+in vsaj
+
+728
+00:43:51,040 --> 00:43:53,040
+aktivnosti more biti
+
+729
+00:43:53,040 --> 00:43:55,040
+digitalizirane v nulo, da lahko ti dajo
+
+730
+00:43:55,040 --> 00:43:57,040
+relevantno odgovoro.
+
+731
+00:43:57,040 --> 00:43:59,040
+Torej, v bistvu, mi imamo
+
+732
+00:43:59,040 --> 00:44:01,040
+eno zadevo, ki jim rečemo dogfooding,
+
+733
+00:44:01,040 --> 00:44:03,040
+se temo reče, kar pomeni
+
+734
+00:44:03,040 --> 00:44:05,040
+jej svoja
+
+735
+00:44:05,040 --> 00:44:07,040
+pipipipi,
+
+736
+00:44:07,040 --> 00:44:09,040
+ne?
+
+737
+00:44:09,040 --> 00:44:11,040
+Zdaj, kaj točno to pomeni, je, da v bistvu
+
+738
+00:44:11,040 --> 00:44:13,040
+mi vse te
+
+739
+00:44:13,040 --> 00:44:15,040
+rešitve, ki jih uporabljamo, v bistvu
+
+740
+00:44:15,040 --> 00:44:17,040
+preskusimo prvo na naših ljudeh, ne?
+
+741
+00:44:17,040 --> 00:44:19,040
+Torej, v bistvu,
+
+742
+00:44:19,040 --> 00:44:21,040
+prej in gre zadeva kamorkoli, pač možeš probati,
+
+743
+00:44:21,040 --> 00:44:23,040
+da vidiš, če sploh pije vodo, ne,
+
+744
+00:44:23,040 --> 00:44:25,040
+investirati veliko denarja v to,
+
+745
+00:44:25,040 --> 00:44:27,040
+da, ne, in recimo
+
+746
+00:44:27,040 --> 00:44:29,040
+v tretji ali četvrti fazi, ne vem točno,
+
+747
+00:44:29,040 --> 00:44:31,040
+kajda faza, ne, ti v bistvu dobiš ekses tudi, da lahko sprobaš
+
+748
+00:44:31,040 --> 00:44:33,040
+kako stvar, ne. In, recimo,
+
+749
+00:44:33,040 --> 00:44:35,040
+takrat potem lahko vidiš, a te zadeve
+
+750
+00:44:35,040 --> 00:44:37,040
+grejo. Zdaj, da še mogoče odgovorim tisto
+
+751
+00:44:37,040 --> 00:44:39,040
+nekaj z tega podalje, kako v bistvu komuniciramo
+
+752
+00:44:39,040 --> 00:44:41,040
+med vsemi temi ljudmi, ne.
+
+753
+00:44:41,040 --> 00:44:43,040
+Torej, tim se je prvi odgovor, ne,
+
+754
+00:44:43,040 --> 00:44:45,040
+drugo je EI, ki je v bistvu v povezam vse posod,
+
+755
+00:44:45,040 --> 00:44:47,040
+ne. Recimo,
+
+756
+00:44:47,040 --> 00:44:49,040
+kar je mogoče za mene
+
+757
+00:44:49,040 --> 00:44:51,040
+zelo, zelo, zelo super,
+
+758
+00:44:51,040 --> 00:44:53,040
+ne, je integracija
+
+759
+00:44:53,040 --> 00:44:55,040
+z Outlookom, ne, ker pač,
+
+760
+00:44:55,040 --> 00:44:57,040
+ne,
+
+761
+00:44:57,040 --> 00:44:59,040
+bodimo realni, ne, kaj in kaj...
+
+762
+00:44:59,040 --> 00:45:01,040
+Ja, ne, pač dosti,
+
+763
+00:45:01,040 --> 00:45:03,040
+to je dvišna organizacija, ne,
+
+764
+00:45:03,040 --> 00:45:05,040
+za eni ljudje, recimo, ne,
+
+765
+00:45:05,040 --> 00:45:07,040
+brez Outlooka ne moreš živeti, drugi ljudje, recimo,
+
+766
+00:45:07,040 --> 00:45:09,040
+podobni kot jaz, ne, imam
+
+767
+00:45:09,040 --> 00:45:11,040
+določene ure, ko imam odprt
+
+768
+00:45:11,040 --> 00:45:13,040
+Outlook, ne, potem ga pa
+
+769
+00:45:13,040 --> 00:45:15,040
+zaprem, ne, ker pač, drugače ne boš naredil
+
+770
+00:45:15,040 --> 00:45:17,040
+nič, ne, ker lahko samo jele gledaš, ne.
+
+771
+00:45:17,040 --> 00:45:19,040
+In te tretje v bistvu so pa ti
+
+772
+00:45:19,040 --> 00:45:21,040
+komuniti, ki s njih pa že prej imenijo, ne,
+
+773
+00:45:21,040 --> 00:45:23,040
+kar pomeni, recimo, kako jaz aj
+
+774
+00:45:23,040 --> 00:45:25,040
+zvem neko zadevo, ne, je pač, se
+
+775
+00:45:25,040 --> 00:45:27,040
+prijavim na ti komunitije, kako komuniciramo
+
+776
+00:45:27,040 --> 00:45:29,040
+med sabo, ne, imamo te
+
+777
+00:45:29,040 --> 00:45:31,040
+office hours-a, križi tem upravljeno,
+
+778
+00:45:31,040 --> 00:45:33,040
+kjer v bistvu so ti
+
+779
+00:45:33,040 --> 00:45:35,040
+od leadership tema, tako in iz satja in podobne,
+
+780
+00:45:35,040 --> 00:45:37,040
+recimo, ti lahko reči, tega pa
+
+781
+00:45:37,040 --> 00:45:39,040
+prašaš vprašanja, ne, in jih oni potem dajo,
+
+782
+00:45:39,040 --> 00:45:41,040
+torej, če so
+
+783
+00:45:41,040 --> 00:45:43,040
+zveda zanimiva, ne, jih dajo potem
+
+784
+00:45:43,040 --> 00:45:45,040
+in jih potem odgovarja, ne, tudi recimo iz Slovenije,
+
+785
+00:45:45,040 --> 00:45:47,040
+ne, smo boš že podali par vprašanj, pa so bili
+
+786
+00:45:47,040 --> 00:45:49,040
+odgovarjanje, ne, omestne, kar je bilo
+
+787
+00:45:49,040 --> 00:45:51,040
+zelo, zelo zanimivo. Zdaj,
+
+788
+00:45:51,040 --> 00:45:53,040
+pred korunskimi časi smo pa imeli
+
+789
+00:45:53,040 --> 00:45:55,040
+to čast, da se lahko šlo
+
+790
+00:45:55,040 --> 00:45:57,040
+tudi in živo srečo ti ljudi.
+
+791
+00:45:57,040 --> 00:45:59,040
+Zdaj pač med korunom, ne, se je
+
+792
+00:45:59,040 --> 00:46:01,040
+zgodilo to, da smo pač vsi postali
+
+793
+00:46:01,040 --> 00:46:03,040
+digitalni nomadi,
+
+794
+00:46:03,040 --> 00:46:05,040
+ali pač je temo pravijo, ne, pač
+
+795
+00:46:05,040 --> 00:46:07,040
+sicer digitalni nomad je bil
+
+796
+00:46:07,040 --> 00:46:09,040
+pač še jaz, spalnica pa
+
+797
+00:46:09,040 --> 00:46:11,040
+pesarna, ne, pa
+
+798
+00:46:11,040 --> 00:46:13,040
+dobro, kuhna, ne,
+
+799
+00:46:13,040 --> 00:46:15,040
+pa veci, kjer imaš lahko jedinic frajcajt,
+
+800
+00:46:15,040 --> 00:46:17,040
+ne, če imaš dva otroka, mačka pa ženo.
+
+801
+00:46:17,040 --> 00:46:19,040
+Ta mačka ti
+
+802
+00:46:19,040 --> 00:46:21,040
+nekje, ta mačka
+
+803
+00:46:21,040 --> 00:46:23,040
+si že zdruvič v meni. Ja.
+
+804
+00:46:23,040 --> 00:46:25,040
+Si boljši človek za psa, ne, kipler.
+
+805
+00:46:25,040 --> 00:46:27,040
+Ja, rige so šlepek, da ni več, ni več rig.
+
+806
+00:46:27,040 --> 00:46:29,040
+Ajde, zmiri me.
+
+807
+00:46:29,040 --> 00:46:31,040
+Eno vprašanje smo še z Andražem
+
+808
+00:46:31,040 --> 00:46:33,040
+razmišljali, te ga moramo postaviti,
+
+809
+00:46:33,040 --> 00:46:35,040
+glede Microsofta. Zdaj si že, kaj,
+
+810
+00:46:35,040 --> 00:46:37,040
+mislim, da si ne napisal, sednajst let si že pre Microsofto.
+
+811
+00:46:37,040 --> 00:46:39,040
+12.
+
+812
+00:46:39,040 --> 00:46:41,040
+7 plus 5.
+
+813
+00:46:41,040 --> 00:46:43,040
+Jaz sem na Linkedinu zračunal, tako da
+
+814
+00:46:43,040 --> 00:46:45,040
+močeš se načeti. Ja, ok.
+
+815
+00:46:45,040 --> 00:46:47,040
+Nije bitno, ampak
+
+816
+00:46:47,040 --> 00:46:49,040
+recimo, da je to kar pred vsej časa,
+
+817
+00:46:49,040 --> 00:46:51,040
+a lahko ti skozi svoje
+
+818
+00:46:51,040 --> 00:46:53,040
+včimal poveš, kak si
+
+819
+00:46:53,040 --> 00:46:55,040
+videl neko,
+
+820
+00:46:55,040 --> 00:46:57,040
+kak se je Microsoft spremenil, recimo,
+
+821
+00:46:57,040 --> 00:46:59,040
+odkar si prišel.
+
+822
+00:46:59,040 --> 00:47:01,040
+Uff.
+
+823
+00:47:01,040 --> 00:47:03,040
+A lahko, jaz si uprašujem, kaj odgovoriti?
+
+824
+00:47:03,040 --> 00:47:05,040
+Lahko, v bistvu, odgovorim.
+
+825
+00:47:05,040 --> 00:47:07,040
+Zdaj,
+
+826
+00:47:07,040 --> 00:47:09,040
+to je moja osebna
+
+827
+00:47:09,040 --> 00:47:11,040
+perspektiva. Se razumemo,
+
+828
+00:47:11,040 --> 00:47:13,040
+to ni Microsoft perspektiva.
+
+829
+00:47:13,040 --> 00:47:15,040
+Torej, v bistvu, jaz mislim, da največji
+
+830
+00:47:15,040 --> 00:47:17,040
+korak, ki se je naredil,
+
+831
+00:47:17,040 --> 00:47:19,040
+je bilo leta 2008,
+
+832
+00:47:19,040 --> 00:47:21,040
+kjer je v bistvu prišel Windows Azure.
+
+833
+00:47:21,040 --> 00:47:23,040
+Umenjam po sebi Windows Azure, ker ni bil
+
+834
+00:47:23,040 --> 00:47:25,040
+Microsoft Azure, ampak je bil Windows Azure.
+
+835
+00:47:25,040 --> 00:47:27,040
+In takrat
+
+836
+00:47:27,040 --> 00:47:29,040
+je naredil ta
+
+837
+00:47:29,040 --> 00:47:31,040
+preskok, tudi v mindset,
+
+838
+00:47:31,040 --> 00:47:33,040
+zaradi tega, ker je v bistvu ni več postal samo,
+
+839
+00:47:33,040 --> 00:47:35,040
+ker je v začetku, ko je se nje postal
+
+840
+00:47:35,040 --> 00:47:37,040
+developer evangelist,
+
+841
+00:47:37,040 --> 00:47:39,040
+smo imeli pač tri glavne
+
+842
+00:47:39,040 --> 00:47:41,040
+teme, ki so bile. To pomeni, prva
+
+843
+00:47:41,040 --> 00:47:43,040
+tema je bila Windows,
+
+844
+00:47:43,040 --> 00:47:45,040
+druga tema je bila .NET,
+
+845
+00:47:45,040 --> 00:47:47,040
+pa, torej, Microsoft Stuff, kjer pač,
+
+846
+00:47:47,040 --> 00:47:49,040
+realno gledano, takrat, če ni bil .NET Core,
+
+847
+00:47:49,040 --> 00:47:51,040
+ki zaj teče vse posod,
+
+848
+00:47:51,040 --> 00:47:53,040
+ampak takrat je bil samo Microsoft.
+
+849
+00:47:53,040 --> 00:47:55,040
+Torej, si je rabil med Windows, si je rabil med vse,
+
+850
+00:47:55,040 --> 00:47:57,040
+problem je bil, ker so bile licence,
+
+851
+00:47:57,040 --> 00:47:59,040
+to pomeni, da si zadevo ganja,
+
+852
+00:47:59,040 --> 00:48:01,040
+si je rabil med, ne vem kjer, licence,
+
+853
+00:48:01,040 --> 00:48:03,040
+in potem je, ker naenkrat prišel oblak,
+
+854
+00:48:03,040 --> 00:48:05,040
+ki pa v bistvu je na začetku,
+
+855
+00:48:05,040 --> 00:48:07,040
+sploh ni bil infrastructure za service,
+
+856
+00:48:07,040 --> 00:48:09,040
+ampak je bil zgolj platform
+
+857
+00:48:09,040 --> 00:48:11,040
+za service, zato, ker so pač videli,
+
+858
+00:48:11,040 --> 00:48:13,040
+da je bolj
+
+859
+00:48:13,040 --> 00:48:15,040
+pomembno, da je za stranke, stranke se mnoče
+
+860
+00:48:15,040 --> 00:48:17,040
+okvarjati za infrastrukturo,
+
+861
+00:48:17,040 --> 00:48:19,040
+kar pomeni, kdo ti bo tam skakal,
+
+862
+00:48:19,040 --> 00:48:21,040
+ne, ampak je bila ideja,
+
+863
+00:48:21,040 --> 00:48:23,040
+da se pač bistvo bolj okvarjajo
+
+864
+00:48:23,040 --> 00:48:25,040
+z
+
+865
+00:48:25,040 --> 00:48:27,040
+aplikacijo, ne, ker to je
+
+866
+00:48:27,040 --> 00:48:29,040
+job, pa tisto,
+
+867
+00:48:29,040 --> 00:48:31,040
+kar na konci prodaš, po domače čeno,
+
+868
+00:48:31,040 --> 00:48:33,040
+ne, in
+
+869
+00:48:33,040 --> 00:48:35,040
+takrat se je naredil ta preskok zato,
+
+870
+00:48:35,040 --> 00:48:37,040
+ker bistvo niso bili več
+
+871
+00:48:37,040 --> 00:48:39,040
+ljudje sovražniki, ne, ampak se je tudi
+
+872
+00:48:39,040 --> 00:48:41,040
+kultura spremenila, torej na začetku je bil ta
+
+873
+00:48:41,040 --> 00:48:43,040
+competitiveness, ne,
+
+874
+00:48:43,040 --> 00:48:45,040
+imeli smo elevator pitches, ne,
+
+875
+00:48:45,040 --> 00:48:47,040
+podobne zadeve, kjer si bistvo
+
+876
+00:48:47,040 --> 00:48:49,040
+torej si misliti mogoče
+
+877
+00:48:49,040 --> 00:48:51,040
+znati razložiti tehnologijo v
+
+878
+00:48:51,040 --> 00:48:53,040
+otroku, po domače čeno, ne,
+
+879
+00:48:53,040 --> 00:48:55,040
+ali pa ne vem, neko mozg, ki se ga
+
+880
+00:48:55,040 --> 00:48:57,040
+sreča v dvigalo,
+
+881
+00:48:57,040 --> 00:48:59,040
+zato pravim elevator pitch.
+
+882
+00:48:59,040 --> 00:49:01,040
+Potem se je v bistvu to malo spremenilo,
+
+883
+00:49:01,040 --> 00:49:03,040
+ne, zato je, ker takrat je še bil tudi
+
+884
+00:49:03,040 --> 00:49:05,040
+Windows Phone, ne,
+
+885
+00:49:05,040 --> 00:49:07,040
+in smo pač to,
+
+886
+00:49:07,040 --> 00:49:09,040
+to je bilo prevenčalizem, ne,
+
+887
+00:49:09,040 --> 00:49:11,040
+ampak je prišel oblak
+
+888
+00:49:11,040 --> 00:49:13,040
+in tu se je recimo zgodba zelo
+
+889
+00:49:13,040 --> 00:49:15,040
+obrnila, ker potem bistvo se pač ni več,
+
+890
+00:49:15,040 --> 00:49:17,040
+tudi kultura se je spremenila, ni več
+
+891
+00:49:17,040 --> 00:49:19,040
+bilo v bistvu competitiveness, ampak je bilo v bistvu
+
+892
+00:49:19,040 --> 00:49:21,040
+growth mindset.
+
+893
+00:49:21,040 --> 00:49:23,040
+To je za tisto, kar je gonilo
+
+894
+00:49:23,040 --> 00:49:25,040
+Microsofta, ne, ker pač bistvo ti ne gledaš
+
+895
+00:49:25,040 --> 00:49:27,040
+na stvari kot na
+
+896
+00:49:27,040 --> 00:49:29,040
+probleme, ne,
+
+897
+00:49:29,040 --> 00:49:31,040
+ampak bistvo gledaš na stvari kot na
+
+898
+00:49:31,040 --> 00:49:33,040
+preložnosti, ne, ki se lahko zgodijo.
+
+899
+00:49:33,040 --> 00:49:35,040
+Se pravim ne tekmuješ interno, ampak skupaj
+
+900
+00:49:35,040 --> 00:49:37,040
+poskušaš raztaka. Ne, tako, ja, ne, zato je,
+
+901
+00:49:37,040 --> 00:49:39,040
+ker bistvo, ne, če ti pom, ker
+
+902
+00:49:39,040 --> 00:49:41,040
+konc konco Microsoft je partnerska organizacija, ne,
+
+903
+00:49:41,040 --> 00:49:43,040
+realno gledano, ne, so bistvo, sodelujemo
+
+904
+00:49:43,040 --> 00:49:45,040
+s partnerji, dosti delamo,
+
+905
+00:49:45,040 --> 00:49:47,040
+tudi imamo stranke,
+
+906
+00:49:47,040 --> 00:49:49,040
+ampak stranke so tudi partnerji, po doma čečeno, ne.
+
+907
+00:49:49,040 --> 00:49:51,040
+In jim ti
+
+908
+00:49:51,040 --> 00:49:53,040
+pomagaš, ne, jih vodi skozi
+
+909
+00:49:53,040 --> 00:49:55,040
+celotno zadevo in ko je bistvo izziv, ne,
+
+910
+00:49:55,040 --> 00:49:57,040
+bomo pomagaš tam, kjer je, ne. Zdaj,
+
+911
+00:49:57,040 --> 00:49:59,040
+če boš ti prišel, ne vem, na banko, ne, pa rekel,
+
+912
+00:49:59,040 --> 00:50:01,040
+o, lej to, lej, za nič, dajte,
+
+913
+00:50:00,000 --> 00:50:11,600
+Ne vem, dajte zvršiti ven vse Linux-e, recimo, ne, pa dajte na ta Microsoft server, ne, ti bomo rekeli, ha, žal ne, ne, ker pač je, v koncu koncu je,
+
+914
+00:50:12,480 --> 00:50:19,000
+kar investicija, ne, tako da bistvo, kaj smo naredili, ne, smo pač rekli, lej, let's embrace it, ne, let's,
+
+915
+00:50:19,000 --> 00:50:30,600
+gremo pač, bistvo, z napredkom naprej in dajmo pomagati ljudem, da bojo tudi najbolj operativni, ne, in so to, recimo, sta dve taki pomembni stvari, ki so, ki je Microsoft ponaredil.
+
+916
+00:50:31,600 --> 00:50:39,000
+Prva je bila mission statement, ki se, ki je, bistvo, every power, every organization and every person on the planet will achieve more.
+
+917
+00:50:39,000 --> 00:50:50,000
+In tukaj se, recimo, zdaj vidi vse to, kar imamo, kar se dela, ta inovacija, tudi ekvizišnji, ki so bili, recimo, to se zdaj vse vidi, da, bistvo, je okrog, vse okrog tega, torej produktivnost.
+
+918
+00:50:50,000 --> 00:51:07,000
+Kar če si ti produktiven, ne, to se je v koroni ful vidlo, ne, ker pač ti, konc konco, ne, ti si se mogo spremeniti iz enega, ne, iz ene ure, ne, mislim, iz enega dneva si mogo, bistvo, postati digitalen, ne, torej doma delati, ne, v omejen in podobne.
+
+919
+00:51:07,000 --> 00:51:24,000
+In tu, recimo, ta, ta kultura, tudi, recimo, ne, se je zelo spremenila, ne, v Microsoftu. In to, recimo, jaz vidim kot največji, največji preskok, ne, torej, bistvo, na mesto, da si nasprotnik, ne, si, bistvo, help with, companion, kak bi temu rekli, ne vem.
+
+920
+00:51:24,000 --> 00:51:46,000
+A pa imaš, zdaj, lansko leto, pa bil prejšnjo epizodo, smo imeli pogovor z dr. Crvolom iz Endave, ki se ukvarja z umetno inteligenco. Vmej smo slišali chat GTP, potem, zdaj, pač teden, dva nazaj, se ta debata z Bingom.
+
+921
+00:51:47,000 --> 00:51:48,000
+Panika.
+
+922
+00:51:48,000 --> 00:52:08,000
+Panika, marketingeri so norexcited z vsega tega, ki sem si napisal AI wars celo. A misliš, da se vam bo to zdaj, da bo to nek ta, da je to zdaj spet nek ta fork on the road?
+
+923
+00:52:09,000 --> 00:52:28,000
+Ja, mislim, Microsoft vedno inovira, ne, torej, bistvo v vseh tih variantah, ne, tudi to, kar ste zaomenjali AI wars in te stvari, ne, so Bing pa Edge pa se te stvari, ne, so to so stvari, ki smo jih že premili, ne, torej, bistvo AI ni zdaj neka stvar, ki je novo, ne, mogoče je zdaj tako aktualna, kjer je pač…
+
+924
+00:52:28,000 --> 00:52:29,000
+Bolje postala vidna.
+
+925
+00:52:30,000 --> 00:52:40,000
+Tako je, bolje je postala vidna, ne, drugače, recimo Microsoft ima že, mi smo začeli že, preden smo investirali v Open AI, smo začeli že z AI-om kot na e-zor platformi.
+
+926
+00:52:41,000 --> 00:52:59,000
+Imate eno zadevo, ki se imajo, če je Cognitive Services. Cognitive Services, recimo, imaš translator, ti lahko Bing uporabljaš, to pomeni search, imeče, vse ti zadeve lahko uporabljaš, že prednji se je, veste, ta fama zgodila, recimo ljudje pravijo, ja, ampak tukaj imaš Bing, imaš chat, lahko delaš, ne, s tem.
+
+927
+00:53:00,000 --> 00:53:10,000
+Dragi moji, mi smo par let, torej še prednji se je to postavljalo, smo imeli bot framework, kjer v bistvu si ti lahko vzel ogorodje, ne, in si izgradil svojega bota.
+
+928
+00:53:11,000 --> 00:53:12,000
+Ampak prednji delalo.
+
+929
+00:53:12,000 --> 00:53:13,000
+Seveda delalo.
+
+930
+00:53:14,000 --> 00:53:32,000
+Pomaj, glavna, glavna, glavna stvar, ki se je zdaj zgodila, se mi zdi, da nismo sami ni trije tukaj, ki smo zato mizo, ki pač razumemo cirka, kako to v stori funkcionira, ampak pač neka zelo široka publika je zdaj to ponotranja in jih je kar naenkrat to strašansko presenetal.
+
+931
+00:53:33,000 --> 00:53:51,000
+Čeprav na konc se mi zdi, da mi vsi tle vemo, da pač še zmer oni odgovori, ne vem, od raznih AI sistemov so sicer zelo confident odgovori, ampak znajo biti tudi zelo narobe, ne, ker pač na konc tehnologije je še zmer tehnologija in je pa pač impresivno, ne, kam se primikamo.
+
+932
+00:53:52,000 --> 00:54:02,000
+Recimo meni je bilo zelo impresivno, ne, ker zdaj pač okej vsi govorijo o teh language modelih in vseh tih variantah, kar je pač, ne, vsakega zanima, kaj zadjeva deluje odzadje, ne.
+
+933
+00:54:02,000 --> 00:54:16,000
+Zdaj, jaz nisem sicer ekspert za data in AI, ampak sem pa recimo kot razvijalec že uporabljal, recimo, mitjemo pravo Language Understanding Intelligent System, zdaj ima LUIS po domače,
+
+934
+00:54:16,000 --> 00:54:27,000
+in že takrat recimo sem lahko jaz kot razvijalec, ker nisem poznal teh zadjev, rekel, lej, pejt na ta website, to je mogoče zanimiva anegdota, če lahko povem na hitrco,
+
+935
+00:54:27,000 --> 00:54:38,000
+predstavljati si, jaz sem imel predavanje, ne, kjer sem mogel bistvo, mislim predavanje sestanek, ne, kjer smo šli čez kako se zgradi boto, ne.
+
+936
+00:54:38,000 --> 00:54:49,000
+In ena izmed opcij, ki jih ima LUIS, je to, da paš ti lahko njemu rečeš, ok, tole so, tole je vse bina, na podlagi katerega se ti učiš, ali pa si imel eno opcijo, ki si mu rekel, lej, tole je po website,
+
+937
+00:54:49,000 --> 00:54:58,000
+in iz teh websitev ti naredi crawler, kar je bistvo nekaj, kar je normalno, ne, pa mi najde vse te informacije, recimo, ki so zanimive, pa naredi iz tega Knowledge Base.
+
+938
+00:54:59,000 --> 00:55:14,000
+In potem smo imeli to predavanje in je to sodelal, recimo, to naredil, pripravil, ne, in smo imeli vprašanje, ne, in je en izmed njih rekel, ja, ampak tole ni res, ne, pa je rekel, pa je on pač povedal sebino, ne,
+
+939
+00:55:14,000 --> 00:55:21,000
+in je rekel, ja, sam to ne drži, ne, pa mu je rekel, ja, sam to je z vaše spetne stranine, kako to misliš, ne, iz tega, pa tega, pa tega dela, ne.
+
+940
+00:55:21,000 --> 00:55:34,000
+In mu je preko komunikacije, ne, mu je pokazal, da je bistvo, ne, na kakšen način smo lahko mi v eni uri, ne, tu bili in nazaj, nazaj te informacije, že takrat za uporabo vseh teh tehnologij, tako da je bistvo izdeloval zelo impresivno, ne.
+
+941
+00:55:34,000 --> 00:55:44,000
+Druga zadeva je tudi ta, recimo, ne, jaz recimo večino sajto, ki jih zdaj delam, ne, avtomatsko integriram, recimo, že Azure Search, ne, kot Cognitive Service, ne,
+
+942
+00:55:44,000 --> 00:55:57,000
+kar pomeni, kaj on naredi, ne, zatem, ker imaš tudi free varianto, on naredi, gre, če vse te variante, ti izgledi indekse, ne, in potem bo vse te funkcionalnosti na voljo, ampak jaz kot razvijalec tega ne vem, ne, recimo, ne.
+
+943
+00:55:57,000 --> 00:56:06,000
+Ta algoritem, drugi algoritem, tretji algoritem, ampak kaj narediš, ne, vzameš service, klik, klik, klik, klik, pokličeš in zadeva se naredi tako, ne.
+
+944
+00:56:06,000 --> 00:56:16,000
+In tu, recimo, je ta produktivnost, ne, ki je tog, tog zaje, fama, ne, se pač vidi, recimo, ne, so tudi Bingči pogledate in chatim se te zadeve, so tudi, Search pa to je že bil prej, ne.
+
+945
+00:56:17,000 --> 00:56:30,000
+Samo pač enhancement tega je za uporabo, to pomeni, kar je zaje videl ljudje je v bistvu praktično uporabo tega, kar je že bila en čas, ne, samo, da pač je to se zaje nekdo združil skupaj, prej si imel pa to kot ločen.
+
+946
+00:56:30,000 --> 00:56:39,000
+Kdo je pripravljen zelo velik denarja dati, da te stvari delujejo vzadi, ker ta computing power, ki ga namenjamo, zagajanjenje tega je drag.
+
+947
+00:56:40,000 --> 00:56:54,000
+A bi mogel biti mogoče razvijalci malo bolj pogumni, pa uporabljati, pa če zdaj Azure ima teh 200-300 servisov, a bi mogel biti malo bolj pogumni, pa malo pogledati v bistvu na ena najbolj unekomen stvari in pa pogledati na jen te razne AI-e,
+
+948
+00:56:55,000 --> 00:57:11,000
+razne audio stvari, ker se mi zdi, ne vem, saj imam tako počutek, da Marsi, katera stvar je že zelo dobro narejena, je pa se mi zdi vsej velik potenciale, da se te stvari skupaj izlimajo in naredijo kajšen produkt, mogoče zelo še bolj v slovenskem prestoru, ki je mogoče malo manjši.
+
+949
+00:57:12,000 --> 00:57:26,000
+Zdaj, če glede na to, da sva glih za Slovenijo pogovarjala. V bistvu mi smo imeli, oziroma še vedno imamo, daj pa daj, te razne hackatone, kjer v bistvu smo mi spodbujali, da so pač podjetja uporabljala.
+
+950
+00:57:27,000 --> 00:57:36,000
+Resličen StreetVend smo imeli tam, recimo predava, ki so razložili te fantje, tole imate vse, tole imate pač vouchere, preko katerega lahko uporabite za 100 dolarev te stvari in potem vidite.
+
+951
+00:57:37,000 --> 00:57:49,000
+Zdaj, te odgovorim na vrešanje, da bi bili mogli biti razvijalci bolj pogumni, je v bistvu zdaj samo vprešanje, kaj razvijalec potrebuje.
+
+952
+00:57:50,000 --> 00:58:00,000
+Kar pomeni, ali ti hočeš biti kot razvijalec rešiti problem, pa pač ne gledaš na to, ali boš uporabljal servis ali boš uporabljal virtualko.
+
+953
+00:58:01,000 --> 00:58:13,000
+Potem imaš razvijalce, recimo, ki so, jih je zelo strah na podlagi tega, ko jaz v bistvu z njimi delam, da pač ne bojo dali zadevo na nek servis, zaradi tega, ker potem bojo mogli, bojo zapečeni na tisti specifični servis.
+
+954
+00:58:14,000 --> 00:58:21,000
+Vedno iščejo neke varijante, da, ja, kaj če mi pa iščem, ne bo še, če jaz se hočem predstaviti hrubo hitro. Zdaj, če imaš, recimo, uporabljal storitev, potem moj, ne, vsega konc.
+
+955
+00:58:22,000 --> 00:58:36,000
+In tukaj potem pridnemo do teh arhitektur, ki v bistvu pogovarjamo, pa o hybridnem klaudu, ki smo ji recimo, je tudi ena taka varijanta, ki je zadnje čas je tudi vroča žemlica, ki jo vsi ominjejo, hybridni modeli in podobne zadeve.
+
+956
+00:58:37,000 --> 00:58:49,000
+Zdaj, druga beseda, ne, probati ni greh, ne, greste gor, probate, vidite, če vam, če imo streza, ne, ker vedno na konci je tak, ne, večino teh storitev, ki so gor rešijo vsaj 90% problema.
+
+957
+00:58:50,000 --> 00:58:58,000
+10% problema, ki je pa tam, je pa ponuadi v podrobnostih, ne, ker ravno tisti podrobnici so tisti, ki ti pa na konci odnese, ne, problem.
+
+958
+00:58:58,000 --> 00:59:09,000
+Zdaj, recimo jaz, ne, ko delam demote, pa tudi stranke, recimo, ali pa partner, s katerimi sem jim kazal, recimo demote, workshope in podobne stvari, ne, sem vedno pokazal recimo dve varianti.
+
+959
+00:59:09,000 --> 00:59:21,000
+Torej, eno je, da uporabim servis, za to, da vidijo, kako bistvo enostavno je to narediti, ne, potem pa iz nule, mislim, iz nule, ne rekuvaj, uporabiti recimo v drugačen način,
+
+960
+00:59:21,000 --> 00:59:28,000
+za to, da vidijo, aha, ok, v redu lahko dosežem isto, ampak bom mogel delati toliko in toliko in toliko in investirati, ne.
+
+961
+00:59:30,000 --> 00:59:40,000
+Zdaj pa, potem se pa morajo sami zračunati, kako je njihov total cost of ownership, kako je v bistvu predelja, ampak point je, da če več proba drugače, nima smisla, ne.
+
+962
+00:59:41,000 --> 00:59:56,000
+To, to, to se strinjam, to imamo dolskrat te debate, ki na koncu zaposliš tri ljudi, ki vpličuješ bruto buto plačo, nabave celkop strežnikov, ki se amortizirajo, ne, celkop nekih stroškov, ki se mi zdi, da jih dolskrat ne razumemo,
+
+963
+00:59:57,000 --> 01:00:17,000
+če bi pa vzel neko sas, storitov ali pa konc konco infrastruktur za servis, se mi zdi, da bi mogel več potem posegati na osob primeri, kjer to pač ne gre, ampak se mi zdi pa, da je vse v naši skupnosti dost tega, da si ljudje tudi ne upajo ali pa nekako naredijo cost benefit, ne, Lize.
+
+964
+01:00:18,000 --> 01:00:20,000
+Da, zdaj pa bom povabil še na dva druga egzempla.
+
+965
+01:00:21,000 --> 01:00:22,000
+Ja, pa pemo zdaj na ta egzempl.
+
+966
+01:00:23,000 --> 01:00:24,000
+Pemo.
+
+967
+01:00:24,000 --> 01:00:25,000
+Ok.
+
+968
+01:00:25,000 --> 01:00:29,000
+A gremo na onega, zdaj dva imamo, ne, en je, en je kor težih.
+
+969
+01:00:30,000 --> 01:00:31,000
+Ja, pemo na slovenski ponos.
+
+970
+01:00:32,000 --> 01:00:33,000
+Slovenski ponos.
+
+971
+01:00:34,000 --> 01:00:40,000
+Ja, ne bomo govorili o farmaceutskih družbah ali pa energetskih, ampak govorimo o nekih predalovanih industriji.
+
+972
+01:00:41,000 --> 01:00:43,000
+Ja, gremo nekih metiš, domorodnega nekaj.
+
+973
+01:00:44,000 --> 01:00:45,000
+Na kebab.
+
+974
+01:00:46,000 --> 01:00:47,000
+Ekzempla dva.
+
+975
+01:00:48,000 --> 01:00:49,000
+Kranjska kolbasa, dejo.
+
+976
+01:00:50,000 --> 01:00:51,000
+Opa la, ok.
+
+977
+01:00:52,000 --> 01:00:54,000
+Ok. Zdaj, she is getting serious, ne.
+
+978
+01:00:55,000 --> 01:00:56,000
+Ok.
+
+979
+01:00:57,000 --> 01:01:09,000
+To je podjetje, fiktivno spet, ki se ukvarja z logično izdelajo mestnih izdelkov v Slovenjsko, ampak ga je zdaj večinski delež kupila nekaj v asistitvsko podjetje.
+
+980
+01:01:10,000 --> 01:01:18,000
+Želijo zadevo modernizirati, želijo podvojiti projezvodno, boveče število zaposlenih, mogoče še kako poslovalnico dodati.
+
+981
+01:01:19,000 --> 01:01:29,000
+Dobili so nekaj investicije, sto zaposlenih, pet serverjev, od tega so že tako sedem let stari, amortizirani že zdavne.
+
+982
+01:01:30,000 --> 01:01:32,000
+Smo že doplačali za extended warranty.
+
+983
+01:01:32,000 --> 01:01:36,000
+Ja, ampak bi še sedem jih postili za mogoče kaj.
+
+984
+01:01:37,000 --> 01:01:42,000
+Imamo potem nekaj tri serverje, na katerih imamo, Brodo rekel, specifična naročiva.
+
+985
+01:01:43,000 --> 01:01:49,000
+Potem imamo 20 let star nek open source sistem, kamor to nekaj pišem, whatever.
+
+986
+01:01:50,000 --> 01:02:00,000
+Potem imamo še spletno stran, pa, ja, nekih hardvera, 20 delovnih postaj, 20 službenih telefonov, malce približno sliko, ne.
+
+987
+01:02:00,000 --> 01:02:20,000
+Investitor je, ne vem, investiral deset milijonov, seveda nekaj gre v predovlovalne linije, ampak nekako odločil se je, da mogoče en milijon bi pa v naslednjih treh do petih letih investiral pač v neko digitalizacijo ali pa manjšanje tega rizika teh starih strežnikov.
+
+988
+01:02:21,000 --> 01:02:27,000
+Tako da nek ukver badžeta, en milijon, čez tri, pet let bomo videli, kam pridemo loko s tem.
+
+989
+01:02:28,000 --> 01:02:30,000
+Cirka, pač to je vse izmišljeno.
+
+990
+01:02:31,000 --> 01:02:34,000
+A bi ti to najprej dal partnerjem zadelati ali pa recimo?
+
+991
+01:02:35,000 --> 01:02:36,000
+Ja.
+
+992
+01:02:37,000 --> 01:02:39,000
+Zdaj, tako je, ne, to ni partner, to je stranka.
+
+993
+01:02:43,000 --> 01:02:51,000
+Ampak, ja, ne, vse drugače, recimo po novadi, tudi če bi partner delal, mi, kot sem rekel, pomagamo partnerem pri teh stvarih.
+
+994
+01:02:51,000 --> 01:02:54,000
+V bistvu prva stvar, ki se naredi, je, da se …
+
+995
+01:02:55,000 --> 01:02:58,000
+Torej, mi imamo eno stvar, ki jim rečemo Cloud Adoption Framework.
+
+996
+01:02:59,000 --> 01:03:13,000
+Zdaj, Cloud Adoption Framework, na hitro, je ogrodje, ki ga mi uporabljamo, ki vsebuje vse najboljše prakse, kako se tega lotit, kako se te migracije lotit.
+
+997
+01:03:14,000 --> 01:03:21,000
+In pri teh migracijah, ne, je po novadi vedno … Torej, sebuje vedno pristop, pač to vprašanje, ne, je …
+
+998
+01:03:22,000 --> 01:03:28,000
+Da … Ne samo, da pač zadevo zmigriramo, ne, da se tudi odločimo vmes, kaj gre, kaj ne gre in podobne stvari.
+
+999
+01:03:29,000 --> 01:03:33,000
+Torej, kako se ponadi tega lotimo, ne, je … Cloud Adoption Framework ima štiri faze.
+
+1000
+01:03:34,000 --> 01:03:36,000
+To v meni prva je Strategy Discussion.
+
+1001
+01:03:37,000 --> 01:03:42,000
+Kar v meni mi vprašamo, ne, v tem primeru, recimo, kransko klobasto, ne, kaj točno bi radi dosegli.
+
+1002
+01:03:43,000 --> 01:03:47,000
+Torej, v bistvu, kaj je njihov cilj. Če vam dam primer, recimo, mi smo imeli en …
+
+1003
+01:03:49,000 --> 01:03:55,000
+Kar ni fiktivno podjetje, ne, ampak je bilo res podjetje, ne, smo imeli partnera, ne, ki je bil …
+
+1004
+01:03:56,000 --> 01:04:03,000
+Nima veze, kako je imel, ampak je v bistvu delal analizo, ne, in je zelo, zelo dobro poznal to stranko svojo, ne.
+
+1005
+01:04:03,000 --> 01:04:08,000
+In je pač … je rekel, lej, bomo za prvič, da nam boš ti pomagal, ne, nam boš kazal, kako to …
+
+1006
+01:04:09,000 --> 01:04:16,000
+Kako Cloud Adoption Framework deluje, ne, nam boš pokazal, ne, in bomo pomagali njo, ne, stranko, in bo stranka pač podgovarjala na tvoje vprašanje.
+
+1007
+01:04:17,000 --> 01:04:22,000
+Mi smo pa zvonili očili, kako je, ne, in je pripelo stranko in rekel, lej, oni hočejo samo migrirati par virtualek, pa hočejo malo narediti,
+
+1008
+01:04:23,000 --> 01:04:26,000
+da bomo imeli bazo, pa malo se bojo povezali nazaj na oblak, ne.
+
+1009
+01:04:27,000 --> 01:04:29,000
+In pride stranka in začnemo mi z vprašanji.
+
+1010
+01:04:30,000 --> 01:04:36,000
+In ta vprašanja, ne, ki jih ponavadi sprašujemo, ne, so, v bistvu, kaj so vaše motivacije in vse se dokumentira, ne.
+
+1011
+01:04:37,000 --> 01:04:42,000
+Torej, v bistvu, mi imamo urodja, ne, ki potem v tem Cloud Adoption Frameworku, ki v bistvu ti potem vodijo skozi ta proces,
+
+1012
+01:04:43,000 --> 01:04:49,000
+ki ti ugovarjaš na vprašanje, ne, torej, v bistvu, ti imaš vprašanje, zakaj želite migrirati v Cloud, kakšne so vaše trenutne potrebe,
+
+1013
+01:04:50,000 --> 01:04:55,000
+kje vidite izive, kaj želite doseči, kaj je vaš končnic podobne zadeve.
+
+1014
+01:04:55,000 --> 01:05:03,000
+In tukaj, recimo, ponavadi se povabijo veliko, veliko ljudi, ne, da začeti tako, da se pogovori, da sploh vidiš, kam gre, ne.
+
+1015
+01:05:04,000 --> 01:05:12,000
+In cemo pred temo primeru, ki sem ga omenil, ne, je bilo to, da je ta partner, ne, na konci, ko smo šli čez ta vprašanja, ne, postaje vedno bolj zelen v obraz, ne,
+
+1016
+01:05:13,000 --> 01:05:18,000
+in je na konci ugotovil, da, v bistvu, oni sploh nočejo, ne, virtualgor presediti. Oni hočejo do besednosti ne biti virtualg.
+
+1017
+01:05:19,000 --> 01:05:26,000
+Oni hočejo iti na servise, zato je, ker se nočejo okvarjati s tem, da bojo mogli plačevati, ne vem, koliko storitev, ne vem, koliko zadevne za to, da bojo, ne.
+
+1018
+01:05:27,000 --> 01:05:31,000
+In sploh pojma ni imel, zato je, ker, v bistvu, on se je pogovarjal samo z IT udelkom.
+
+1019
+01:05:32,000 --> 01:05:39,000
+Ni imel zraven financ ministra, ni imel zraven drugih ljudi, ne, in tukaj, recimo, je, torej, prvi del, kjer se pogovarjaš.
+
+1020
+01:05:40,000 --> 01:05:45,000
+Tukaj bi se prvo pogovorili, kaj točno je cilj. Recimo, da je cilj, da se pa zadevo modernizira, da gre v oblak.
+
+1021
+01:05:45,000 --> 01:05:51,000
+Ok, torej, prva stvar, ki je, je, ok, moramo naditi, to je drugi korak, ne, ki je v bistvu oredi faza.
+
+1022
+01:05:52,000 --> 01:05:59,000
+Torej, prva stvar, ki jo moramo naditi je, vi morate vedeti, kaj sploh pominje oblak, ne, ker, če ti ne veš, kaj boš uporabljal, ne, vod, se ta pojma, ne.
+
+1023
+01:06:00,000 --> 01:06:12,000
+Zdaj, stranka, ne, če, recimo, pač reče, lej, mene ne zanima, ti, zame pa, naredi, ne, ampak v praksi, ne, vsak, ki ima biznis, bo verjetno želel vedeti, kaj se z njegovim biznisom dogaja, ne.
+
+1024
+01:06:12,000 --> 01:06:18,000
+In zato se je izobrazili ti ključni ljudi, ki se na začetku določijo, ne, mi temu uporabljamo work alignment, oziroma organization.
+
+1025
+01:06:19,000 --> 01:06:29,000
+Po domače rečeno, ne, v praksi, ne, in da bom zdaj uporabljal FACS, izrast, ne, je RACI matrix, Responsible, Accountable, Consulted, Informed.
+
+1026
+01:06:29,000 --> 01:06:30,000
+Aha, ok.
+
+1027
+01:06:30,000 --> 01:06:32,000
+Kar pomeni, ti izgradiš bistvo ekipo, ne.
+
+1028
+01:06:32,000 --> 01:06:34,000
+Domreveja, domrevo odločja, domreve ceznanja.
+
+1029
+01:06:35,000 --> 01:06:43,000
+Tako, ja, torej, kdo se ukvarja z governancem, torej, kdo bo skrbel za to, da bo vse v skladu z policy, za firmov, policy, ki ima firma.
+
+1030
+01:06:44,000 --> 01:06:49,000
+Resimo, tamle, kaj se nam je zgodilo na enem premjeru, ne, mi smo to vse sezmenjili, ne, jaz sem bil cel happy.
+
+1031
+01:06:50,000 --> 01:07:00,000
+Pride, čez dva dni nazaj, sestanek, mi prijemo na sestanek, prije tale iz financ, ne, torej, v bistvu,
+
+1032
+01:07:01,000 --> 01:07:07,000
+sfo, chief financial officer, reče fantje, ne, tele zadeve bojo stale tu za tega, ker v bistvu to so,
+
+1033
+01:07:08,000 --> 01:07:12,000
+gor so finančni podatki, ki jih mi ne želimo in ne hočemo, da so kamorkoli greveni.
+
+1034
+01:07:13,000 --> 01:07:17,000
+In je vse, kar smo sami en tem, zeloma dva tedna pogovarjali, ušlo v vodo. Hvala Bogu, je bilo samo dva tedna.
+
+1035
+01:07:18,000 --> 01:07:23,000
+No, glavnem, in potem, ko se enkrat to odloči, se je izobrazil ljudi zato, da ljudje vejo, za kaj se gre.
+
+1036
+01:07:24,000 --> 01:07:30,000
+Tretja stvar, ki se naredi, je pa assessment. Zdaj, assessment se pa naredi na več načino. Prvo se odloči, reče,
+
+1037
+01:07:31,000 --> 01:07:36,000
+ej, da bomo mi pogledali, ne, da vidimo, kaj imamo, ne. To pomeni, naredi se inventory environment, torej, v bistvu,
+
+1038
+01:07:37,000 --> 01:07:42,000
+pogledaš in to imamo spet polno urodi za to. Recimo, kar je ful predstavljivo, ne, in to mi vsi rečejo, ne,
+
+1039
+01:07:43,000 --> 01:07:49,000
+mi recimo uporabljamo DevOps za vse te zadeve, kar pomeni, mi imamo svoje rešitev, kot veste, imamo GitHub,
+
+1040
+01:07:49,000 --> 01:07:55,000
+ampak imamo tudi Azure DevOps in v Azure DevOps-u imamo prav generator, ki ti zgenerira v bistvu predloge,
+
+1041
+01:07:56,000 --> 01:08:02,000
+strukturo, vse, kar rabiš, ne, zato, da si lahko ti greš do DevOps-a z uporabo tega dodobčega frameworka.
+
+1042
+01:08:03,000 --> 01:08:10,000
+Kar pomeni, vprašanja, linke, poezave, skripte, vse, kar rabiš zato, da biš ti imel v bistvu na enem mestu in potem ti vodiš
+
+1043
+01:08:11,000 --> 01:08:16,000
+celotno projekt skozi to, kot da bi, recimo, nami programirala ena stvar. No in se naredi assessment in assessment,
+
+1044
+01:08:16,000 --> 01:08:22,000
+kot vem, ki to pripraviš, za assessment se lahko naredi na več načinov, kar pomeni, eno je, da dobiš,
+
+1045
+01:08:23,000 --> 01:08:29,000
+ponovarji zgleda, pri teh firmah zgleda to tako, ne, tebi daje Excel, pa rečo, tole je Excel, tole je, recimo,
+
+1046
+01:08:30,000 --> 01:08:36,000
+hitra hrana ena server, hitra hrana dva server in podobne stvari, ne, in ti ti se serveri gledaš več, aha, ok,
+
+1047
+01:08:37,000 --> 01:08:43,000
+pogledaš zraven, pa vsak napiše, ja, imamo osem core-ov, 16 giga rama, recimo, ali pa 32 giga rama, tog diska,
+
+1048
+01:08:43,000 --> 01:08:51,000
+tog tega, ne, ampak v realnosti, ne, ali to res uporabljajo, ne, ne, ti ne veš, ali to res uporabljajo, ne, ne, lahko, recimo,
+
+1049
+01:08:52,000 --> 01:08:58,000
+uporabljajo vse osem core-ov, lahko uporabljajo samo dva, lahko, recimo, uporabljajo šest ur, ne, kako to zved,
+
+1050
+01:08:59,000 --> 01:09:03,000
+kako to zvedeti, ne, in to, recimo, je neka stvar, ki jo potem uporabljamo, spet druga vrodja, ne.
+
+1051
+01:09:03,000 --> 01:09:11,000
+Aha, se pravi, v bistvu, ti, potem, ko si pripravil to, celo organizacijo, na kaj se dogaja, ako veš, da so ključni ljudje,
+
+1052
+01:09:12,000 --> 01:09:19,000
+potem v bistvu, ne samo, da poprašaš ljudi v njihovih inventarjih, v bistvu, tudi jih lahko poskiniraš, pa dejansko, realno stanje
+
+1053
+01:09:20,000 --> 01:09:26,000
+ogotoviš, to je, to je point tega stepa, ogotoviti realno stanje med tem, ko deluješ. Tako je, ker v praksi,
+
+1054
+01:09:26,000 --> 01:09:35,000
+v praksi je tako, recimo, večinoma ljudje prvič overprovision delajo, drugič delajo mapping ena na ena, ne, kar je v rovn konsomeni levels.
+
+1055
+01:09:36,000 --> 01:09:44,000
+Zakaj? Zato je, ker, če ti vzamiš, recimo, nojem website, ne, in je, recimo, en teden ful obremenen, drug teden pa pada celotna zadeva, ne,
+
+1056
+01:09:45,000 --> 01:09:53,000
+nima smisla, da imaš ti, recimo, nojem server, ne, 8 core-o pa 32 giga rama, zato je, ker boš plačal za njega veliko, pa na koncu si ga, v bistvu, ne vše rabil, ne.
+
+1057
+01:09:53,000 --> 01:10:01,000
+Zato, recimo, in tu je, recimo, prijel pa ta prednost oblaka, ne, ker pa se lahko ti menjavaš, ti lahko rečeš, glej, za ta teden, ne, ko je korabim, bomo imeli, recimo, pet serverev,
+
+1058
+01:10:02,000 --> 01:10:09,000
+ki mi bojo to pohrenili, za drug teden bomo imeli samo enega, ne, ampak bomo, recimo, uporabili, ne vem, take serverje, ne, ki, recimo, so dispozibni, ne,
+
+1059
+01:10:10,000 --> 01:10:20,000
+mi tudi imamo pravo spot machines ali pa B-series machines, recimo, je tudi vrstaban machines, ne, ki ti je vse mora, recimo, delati, ko hitro in efektivno, ne,
+
+1060
+01:10:20,000 --> 01:10:26,000
+potem, potem pa, v bistvu, ajdla, ne. Recimo in takli primer, ne, če pogledamo v praksi, ne,
+
+1061
+01:10:27,000 --> 01:10:36,000
+imate, recimo, finančno opravo, ne, ne bom rekel, da so v oblaku, ne, ker to ne vem ali so ali niso, ampak, recimo, za njih bi bil to idealni primer, ne.
+
+1062
+01:10:37,000 --> 01:10:46,000
+Oni majo dvakrat na leto, majo, dajo davka, en ten, takrat se vsuje cela Slovenija na njih, ampak zato, da lahko to pokriješ, ne, in vedno pada dol,
+
+1063
+01:10:46,000 --> 01:10:54,000
+slovena stvar, zato, da lahko ti pokriješ, rabiš ogromno servera, ne. No in ta assessment imaš ti po tem urodijah, ki jih lahko uporabiš. Mi tem urodijah uporabljamo Azure Magrid in Azure Magrid,
+
+1064
+01:10:55,000 --> 01:11:01,000
+v bistvu, vse bude po tem urodijah, ki so Microsoft specific, saj bodo to urodije, ki niso Microsoft specific. Recimo, eno je, da ti vzameš,
+
+1065
+01:11:02,000 --> 01:11:09,000
+vi ste mi zadali primer, recimo, samo virtual, ne, pa, recimo, pa servera po websajti, ne, to so ostalne stvari, ne.
+
+1066
+01:11:10,000 --> 01:11:23,000
+In kaj je v bistvu finta, ta Magrid, recimo, če uporabljamo Microsoft varianto, ne, se inštalira potem na data center, ki ga oni imajo, na serverje, in on potem, recimo, spremlja vsaj en mesec, kaj se s tem dogaja.
+
+1067
+01:11:24,000 --> 01:11:37,000
+In dobiš ti nazaj potem poročilo Excel report, da točno vidiš, koliko je bilo requestov, koliko je bilo IOPS-ov, koliko je bilo, recimo, in potem te da predlog zraven, ej, tole bi bila najboljša varianta v Azure.
+
+1068
+01:11:37,000 --> 01:11:43,000
+In zdaj, ti kot cloud solution architect, ne, temu nikoli ne verjame, ker to seveda, ne.
+
+1069
+01:11:44,000 --> 01:11:45,000
+So nekdo, da so sprogramirali.
+
+1070
+01:11:46,000 --> 01:12:00,000
+Greš, ne, da ti večino, večino ma ti da, recimo, prav konkretne primere, ne, in je to super, ampak on vedno upošteva najvišji level, ne, kar pomeni, tole je bilo, recimo, medium, ne.
+
+1071
+01:12:01,000 --> 01:12:10,000
+Torej, medijano, recimo, vedno upošteva, ne, tako da, v bistvu, ti lahko pa potem z lodmine, in zato je pomembno, da imaš ti na začetku org alignment, da veš, kdo je, recimo, zakaj, ne,
+
+1072
+01:12:11,000 --> 01:12:19,000
+pingneš tizga človeka in rečeš, lej, daj mi povej, tale server, kaj točno se dela tugor, ne, različitega desekledaka, kaj čudne video, ne.
+
+1073
+01:12:20,000 --> 01:12:31,000
+Ne, in potem, v bistvu, rečeš, aha, lej, ampak je to pomembno, ne, in tu pridemo do tega, kjer se, recimo, ti se pogovarjaš pri asesmentu, kaj se pogovarjaš o, v bistvu, o NSDB, kaj mi pravimo 5 hours.
+
+1074
+01:12:33,000 --> 01:12:42,000
+5 hours pomeni, v bistvu, torej, rehost, replace, retire, remain, torej retain, ali pa še ena, ko si ne pozabijo, pa …
+
+1075
+01:12:43,000 --> 01:12:43,000
+
+1076
+01:12:43,000 --> 01:12:44,000
+Retire?
+
+1077
+01:12:44,000 --> 01:12:53,000
+Retire v smislu, da rečeš, lej, jaz imam datacenter in datacenter ima, recimo, jumpbox, zato, da se ti povežeš na strižnik, ne.
+
+1078
+01:12:54,000 --> 01:12:55,000
+V e-žaru tega ne rabiš.
+
+1079
+01:12:56,000 --> 01:12:59,000
+A res rabi se to server prenašati v oblak? Vedetno ne, ne.
+
+1080
+01:13:00,000 --> 01:13:09,000
+A rabiš, recimo, ne vem, imaš, recimo, server, ki deluje kot file server, ne, kjer, v bistvu, skanujejo sigurno podatko, ga rabiš, ne, v e-žaru imaš, recimo, rešitve za to.
+
+1081
+01:13:10,000 --> 01:13:16,000
+Sobiš in potem to rečeš, ok, to je retire ali pa rehost ali pa reimagine, kakor že temu rečem.
+
+1082
+01:13:18,000 --> 01:13:28,000
+Ok, to je ful zrevo odgovor, ne, zdi to super, kar je normalno, pač, ne, ker je veliko, na primer, premeni, zakaj jaz ne delam s slovenskimi strankami, je,
+
+1083
+01:13:29,000 --> 01:13:40,000
+ker sem enostavno premala identiteta, da bi pač lahko sloh imel te pogovore, kukr pa je le ful bizarno, ker im pač v tujino je precej lažje imeti neke te pogovore, zrele pogovore pač v teh stvareh,
+
+1084
+01:13:41,000 --> 01:13:56,000
+ker na konc tehnologijo zleti izkušen, pač, če si v 15 leti industriji, pač je enostavno rešiti, ugotoviti točno, kaj stranka hoče, biti alajna in šempjeni, jih imaš v nekaj organizaciji, pač to je tist najtežji del, ne.
+
+1085
+01:13:58,000 --> 01:13:59,000
+Ok, super.
+
+1086
+01:14:00,000 --> 01:14:05,000
+Dajmo reči, da smo pri tej kranjski klobasi ugotovili, da dejansko določene stvari nočimo ekspozirati v cloud.
+
+1087
+01:14:06,000 --> 01:14:09,000
+Sloh ne je recept naše kranjske klobase, ker to nam je svetal.
+
+1088
+01:14:10,000 --> 01:14:16,000
+Imamo pa na primer dva, ugotovili smo pa, da definitivno sta dve stvari, ka bi jih radi dali v cloud.
+
+1089
+01:14:17,000 --> 01:14:26,000
+Prvo je pač na, trenutno imamo na lokaciji nek Active Directory vstrešnik, ki skrbi za workstation, ki jih imamo, to se pravi, da
+
+1090
+01:14:26,000 --> 01:14:33,000
+ti zaposleni v upravi, da se lahko v bistvu noter prijavijo, da pač lahko neke polisije dajemo na te sisteme.
+
+1091
+01:14:34,000 --> 01:14:40,000
+Razmišljamo pa tudi, da bi v bistvu te proizvodne delavce, ki se, ki imajo kontrolo dostopa,
+
+1092
+01:14:41,000 --> 01:14:47,000
+če bi mogoče dali lovka v isti imenik, pa bi v bistvu uporabljali pa še to z neko kontrolo dostopa, da ne bi zdaj imeli dveh imenikov,
+
+1093
+01:14:48,000 --> 01:14:52,000
+to se pravi ljudi, ki so v upravi, pa ljudi, ki so v proizvodni in pa nimajo računalnikov.
+
+1094
+01:14:52,000 --> 01:14:59,000
+To je nek tak prvi juzkajs, ki smo ga detektirali. Drugi juzkajs je po bistvu, ja, neki njih,
+
+1095
+01:15:00,000 --> 01:15:10,400
+Ne ureda v bistvu s to kranjsko klubaso DO. Ta nov avstrijski investitor je mička za skrblen in ga v bistvu zanima,
+
+1096
+01:15:10,960 --> 01:15:16,320
+koliko imamo izmeta v proizvodni. To se pravi, imamo proizvodno
+
+1097
+01:15:16,320 --> 01:15:26,799
+izdelki, ki so vstrezni, ki so po kvaliteti, rečemo, da so dobri izdelki. Tisti, ki pa niso dobri, pa rečemo, da
+
+1098
+01:15:26,799 --> 01:15:34,320
+optično to je že rešenje. Tam neka škatljica detektera, da klubasa ni uredo in jo vrže stran. Zdaj ne zaupamo
+
+1099
+01:15:34,320 --> 01:15:41,919
+tem ljudem v proizvodni, da bi oni te procente, koliko je tega izmeta, popisali, zato se rečemo, ne, mi to hočemo imeti live.
+
+1100
+01:15:42,160 --> 01:15:50,160
+To se pravi, gre se v bistvu za nek tak IOT problem in nas zanima, aha, mogoče kako bi to zdaj nekako skupaj dal. Prvo, jaz zelo tak,
+
+1101
+01:15:50,160 --> 01:15:58,720
+se mi zdi dost nek normalen, ali domljevamo use case, to se pravi, se hočemo znebiti tega AD strežnika, tudi drugje pa mogoče malo bolj moderne.
+
+1102
+01:15:58,720 --> 01:16:07,120
+Ja, zdaj, to je zdaj spet vprašanje. Zdaj, če se samo, bom odgojil na vprašanje, da te razumem, ampak tako, da dam kontekst.
+
+1103
+01:16:07,919 --> 01:16:17,519
+Torej, Cloud Adoption Framework, ena iz mezadev, ki jih potem orejamo, če gremo iz te redi faze, ko v bistvu vemo, kaj imamo pa to, kar ste zaomenjali,
+
+1104
+01:16:17,519 --> 01:16:21,360
+je potem naslednja faza, ki se mora reče, mi temu pravimo landing zone.
+
+1105
+01:16:21,360 --> 01:16:28,639
+Zdaj, to je v bistvu tudi tvoj redi faze, ampak je potem v bistvu že v migrate oziroma v tej fazi.
+
+1106
+01:16:29,040 --> 01:16:37,440
+Zdaj, landing zone pa v bistvu pokrije ravno to, kar ste omenjali. To pomeni, da landing zone dela v bistvu na način, da ti določiš, kako naj bi zgledal to okolje v oblaku.
+
+1107
+01:16:37,440 --> 01:16:44,080
+Kar pomeni, prva zadeva, ki jo ponovadi nartiš, je v bistvu identity demokratizacija.
+
+1108
+01:16:44,080 --> 01:16:51,440
+Kar pomeni, da ti v bistvu pogledaš, kaj imaš. Na vašem primeru Active Day Directory, to lahko povežeš z Azure-jam in potem v bistvu imaš federiranje, v bistvu dostope.
+
+1109
+01:16:51,760 --> 01:16:57,599
+Vklopi se, vedno se vklopi, in to vedno mi predlagamo, je v bistvu multifactor autentikacija.
+
+1110
+01:16:57,599 --> 01:17:05,839
+Vklopi se ena zadeva, ki jo mi pravimo, privilege identity management. Vklopi se v bistvu zero-glass-black-break account in podobne stvari.
+
+1111
+01:17:05,839 --> 01:17:12,720
+To so načini, s katerimi mi spostavimo za to, da ti točno veš, v katerem trenutku se nekaj dogaja.
+
+1112
+01:17:13,199 --> 01:17:24,240
+Kaj za to pomeni v praksi, je to, da ti imaš front-workerja, imaš IT-admina in on se prejavlja normalno, kot se je prejavljala zdaj.
+
+1113
+01:17:24,240 --> 01:17:31,839
+Vse gre preko Azure Active Directory-a, nadi se federacija na AD, lahko tudi prestaviš AD-gor čisto v oblaklah, nadiš nove akounte.
+
+1114
+01:17:31,839 --> 01:17:42,160
+Idea privilege identity managementa je v bistvu v narkovajih malo v ogromno fičerjo. V narkovajih je to, kaj če front-end worker rabe recimo access do nečesa.
+
+1115
+01:17:43,679 --> 01:17:57,919
+Mi tem opravljamo v bistvu, ne intermediate access, drugače je imeti, ampak pointa je tega, da lahko ti v tistem trenutku daš njemu recimo dostop in potem se mu otomatsko zamene.
+
+1116
+01:17:57,919 --> 01:18:06,399
+Mi te metodologiji, ki jo uporabljamo, upravljamo v zero-trust model, kjer ti dobiš access, ampak ga tudi potem zgobiš, to pomeni,
+
+1117
+01:18:06,399 --> 01:18:11,839
+in to je vse otomatizirano na način, da ti to vklopiš, nastaviš, se poveže med sabo in je to super narejeno.
+
+1118
+01:18:11,919 --> 01:18:14,800
+In to bi recimo rešilo ta prvi problem.
+
+1119
+01:18:14,800 --> 01:18:27,440
+Potem ste omenili, da imate neke dva senzore, ki pač v bistvu umeta izmet, to se pravi, vsi produkti, ki so vredo, vsi produkti, ki niso vredo,
+
+1120
+01:18:27,440 --> 01:18:37,679
+zaradi auditing, pa auditing traila, ne zaupamo novo kupljenim podjetjem, da poročajo prave podatke.
+
+1121
+01:18:37,839 --> 01:18:44,240
+To ni tako zmišljen primer, naprimer v avtomobilski industriji, ki je videla ta rečmo plastične dele za BMW,
+
+1122
+01:18:44,240 --> 01:18:52,399
+je to tako problem, da v nekaj fazi imate optično detekcijo vsazga kosa, da se potem to takoj na ročnikov v bistvu poveje,
+
+1123
+01:18:52,399 --> 01:19:01,360
+kolik je teh izmetov in če je tega procenta izmeta preveč, pomeni, da je sistematska napaka v proizvodnji in da nekdo šušlja na roko.
+
+1124
+01:19:02,320 --> 01:19:05,279
+In zdaj pač, ne vem, to imamo, to imamo pač.
+
+1125
+01:19:05,279 --> 01:19:13,679
+Ja, tu se lahko vzaj uporabi več različnih storitev, ki ti to omogoča. Eno je, da uporabi storitev, to pomeni, imamo fraud detection storitev,
+
+1126
+01:19:13,679 --> 01:19:22,320
+ki ti zna iz slik, recimo pa iz tega, kad dobina je otvoril tajmo, prepoznatne, kaj se dogaja na podlagi vzorcev, ki jih ti podaš.
+
+1127
+01:19:22,320 --> 01:19:28,799
+To je en način, kjer lahko potem skombiniraš, recimo te različne storiteve, pa tudi obvestiš primerne ljudi.
+
+1128
+01:19:29,119 --> 01:19:36,320
+Torej, mi imamo zelo močen ta alerting sistem, ki ti lahko nastaviš, kaj naj se točno zgodi, kdo naj bo veščen,
+
+1129
+01:19:36,320 --> 01:19:44,000
+kam naj se zapiše in to recimo tudi je v teh landing zonah opce, da te stori nastaviš. Kaj je največji problem?
+
+1130
+01:19:44,000 --> 01:19:49,600
+Zdaj sem jih z to recimo dal par primerov, teh storitev, ampak recimo te storice se lahko zamenja, lahko je kdo reče, o,
+
+1131
+01:19:49,600 --> 01:19:58,160
+jaz pa to storitev ne bi imel, ampak ta monitoring, torej skanjevanje teh zadev, pa hočeš, da je vedno, da se gleda v kadar, koli daš neki not.
+
+1132
+01:19:58,160 --> 01:20:06,559
+Tebe zanima, kaj se je zgodilo na servisu, kdo je to dostopil, kdaj je dostopil, kakšni so bili elementi in to hočeš imeti na tak način, da bo to otomatsko narejeno.
+
+1133
+01:20:06,559 --> 01:20:13,440
+In tukaj je ta landing zon zelo, zelo pomemben. Zdaj, če se vrnem nazaj samo na storiteve,
+
+1134
+01:20:13,440 --> 01:20:18,399
+je recimo tu lahko ta fraud detection, recimo IoT Hub imamo mi, ena tako lušna zadevca.
+
+1135
+01:20:18,399 --> 01:20:23,600
+Ta IoT Hub je domen, da, ne vem, jaz pošiljam po MQTT protokolo neke podatke.
+
+1136
+01:20:23,600 --> 01:20:27,839
+Lahko. Več različen protokolo je, ne. MQTT je recimo en izmed njih, ne.
+
+1137
+01:20:27,839 --> 01:20:37,359
+Ima bi-directional komunikacijo. Lahko pa tudi rečeš recimo, ok, jaz pošiljam podatke preko, ne vem, recimo za ERS-ta ali pa, ne vem, preko ROH, to se poja, ne.
+
+1138
+01:20:37,920 --> 01:20:50,160
+In ampak jaz hočem recimo delati analizo, ne, v real time, odnad temi podatki, ko preletijo, ne. Jaz hočem imeti v določnem time frame-u, ne, hočem videti, kaj se dogaja, ne.
+
+1139
+01:20:50,160 --> 01:21:05,359
+Lahko recimo dobim, vam dam en primer, ne, jaz sem recimo delal z enim partnerem, ki je pošilo stream, torej video v oblak in je ne hodil detektirati, če je recimo v tem videju tu, ne, problem z mašino.
+
+1140
+01:21:06,160 --> 01:21:14,959
+Ker, recimo, ne vem, oni so delali v takih ruralnih enotah in kaj se je zgodilo, ne, imeli so tam mašino, ki je rezala drevesa
+
+1141
+01:21:15,760 --> 01:21:24,799
+in zdaj pa vemo, kakav je, koga jeste vi v hosto, ne, tam njih ni povezave, ne. To pomeni, da imajo podatke, ki more leteti, more biti, ne.
+
+1142
+01:21:24,799 --> 01:21:34,559
+In kaj so delali? So v bistvu delali streaming na eno napravo preko Bluetooth-a, ne, torej so imeli pravdo obresedno Bluetooth streamanje, ne, na eno napravo, ki je delavala kot proksi.
+
+1143
+01:21:34,959 --> 01:21:45,920
+Ta zadeva je zadevo vzela, je vrgla v oblak, ne, in ko so ti podatki preleteli v stream sam, je potem Azure, ne, za uporabo Venhub-a, zadevo vzel,
+
+1144
+01:21:46,799 --> 01:21:58,559
+uporabo Cognitive Services oziroma tem premjeru Media Services, kjer je v bistvu dobesedno frame ven pobirao, slikce za uporabo Fraud Detection-a pogleda, recimo, kake so bile spremembe, ne,
+
+1145
+01:21:59,119 --> 01:22:09,920
+vse zapiso, ne, v bazo, ne, takde je bilo v bistvu zapisano, poslal obvestilo, ne, in ta obvestilo potem v bistvu prišlo na vse tiste ljudi, ki so bili aktualni, ne,
+
+1146
+01:22:10,399 --> 01:22:14,160
+s tem, da je v bistvu niso rabili sprebrniti celotne infrastrukture, torej
+
+1147
+01:22:14,720 --> 01:22:21,359
+vse, kar so oni dozdaj že delali, z senzor, z vsemi timi zadevami, je bilo aktualno, edino stvar, ki so je dodatno sprogramirali, je bilo to, da
+
+1148
+01:22:21,359 --> 01:22:28,559
+si imel bidirektional komunikacijo, to pomeni, nazaj, kar meni, ko je, recimo, on zaznal, da je problem,
+
+1149
+01:22:29,359 --> 01:22:37,040
+ker pač pri motorki neko reže, ne, glihnici so to štipol gore čakali, da bo on tam rezal, ne, ker pač pač šel tisto traktor, kar koli žije, ne, na pol,
+
+1150
+01:22:37,679 --> 01:22:38,160
+verjetno,
+
+1151
+01:22:39,679 --> 01:22:40,720
+in kaj se je zgodilo?
+
+1152
+01:22:41,200 --> 01:22:47,600
+On je poslal informacijo na ta proxy, proxy je potem samo po bluetoothu poslal na mašino in se je mašina ugasnila,
+
+1153
+01:22:48,480 --> 01:22:50,480
+kar je bilo ful zanimivo, ko smo to v živo testirali, ne,
+
+1154
+01:22:51,920 --> 01:22:59,359
+sicer niso imeli motorke, ne, so imeli samo nek vrtinček, ne, ampak recimo, recimo temu, da je bilo ta neka nova klima, ne, ko je on začel to vrtiti, ne.
+
+1155
+01:22:59,600 --> 01:23:02,320
+Koliko pa je bil, ne vem, tak round trip, če je šlo nekje narobe,
+
+1156
+01:23:02,640 --> 01:23:04,239
+to pač, ne vem, par sekund ali,
+
+1157
+01:23:04,480 --> 01:23:07,359
+naprimer nekaj, pošljamo nekaj, da gre narobe,
+
+1158
+01:23:07,760 --> 01:23:08,720
+zadekla od zmelja?
+
+1159
+01:23:08,720 --> 01:23:12,320
+Odvisno od servisa, ne, to mislimo, mi imamo spet, spet servisi, ne,
+
+1160
+01:23:13,359 --> 01:23:18,079
+je, imajo določen servis, licens, agribe, ne, to bomo neke zahteve, ne,
+
+1161
+01:23:18,720 --> 01:23:28,559
+in recimo za meseč, ki je do določene velikosti, ne, mora biti deliveran v desetih milisekundah, recimo, je en, med servisov, če jih izbereš, recimo globalnih servisov, ki so na voljo,
+
+1162
+01:23:29,040 --> 01:23:30,880
+mora, recimo, pridoti iz tega dela. Zdaj,
+
+1163
+01:23:31,200 --> 01:23:39,840
+kako to pride, ne, če zdaj boste naredili tre sravte, ne, na ižer ali pa recimo pogledali povezave, ne, pa če boš rabil par sekund, jaz bi so sploh dobili informacijo, koliko je ping.
+
+1164
+01:23:40,239 --> 01:23:41,520
+In zdaj, če vzamiš ti,
+
+1165
+01:23:41,919 --> 01:23:42,400
+ne,
+
+1166
+01:23:42,400 --> 01:23:48,320
+vzamiš, recimo, tako rešitev, ne, ki je, recimo, nekje v hosti, ne, bo to trajalo, da pride.
+
+1167
+01:23:48,640 --> 01:23:53,119
+In zato imamo potem načine, ne, kako lahko ti povežeš celotno zdel zato, da je ta
+
+1168
+01:23:55,200 --> 01:24:02,159
+ta latency z netvorkom, ne, čim manjši, ne, in tukaj, recimo, je potem ekspres rav, recimo, ene smed rešitev.
+
+1169
+01:24:02,880 --> 01:24:09,760
+Potem, to pomeni, da imaš dobesedno pri teh providerih, ne, ne, H1, Telekom in podobnje, ne, imaš,
+
+1170
+01:24:10,239 --> 01:24:18,400
+potem imaš, recimo, direktno pipco, ne, na Azure, ne, ki je odzadje, ali ti ad serverje, ki so po celem svetu, ne, torej bi so tih ad serverjev malo morej,
+
+1171
+01:24:18,719 --> 01:24:22,559
+recimo najbolj, najbolj zanimivi, ne, ti ad serverje, gde se ljudje, recimo, lahko predstavlja,
+
+1172
+01:24:22,880 --> 01:24:25,760
+Cloudflare ima, recimo, vse posobne, ne, ko ti preletiš, ne,
+
+1173
+01:24:26,400 --> 01:24:31,280
+in hočeš, recimo, dostopati, ti bisto dobili zelo hitro, ne, podatek za tega, ker je keširen blizu tebe, ne.
+
+1174
+01:24:31,599 --> 01:24:34,080
+Recimo, nam najbližji ad server, ne, recimo, če ga
+
+1175
+01:24:34,239 --> 01:24:36,559
+preverimo je na Dunaj, ne, ta pomeni, ti, ko preletiš
+
+1176
+01:24:36,799 --> 01:24:43,200
+na Dunaj, priješ direktno na backbone od Azure, ne, in zdaj, če pogledamo, koliko ima Microsoft teh kablov po celem svetu povezanih, ne,
+
+1177
+01:24:43,679 --> 01:24:45,440
+zdaj, datacentro, recimo, je
+
+1178
+01:24:47,359 --> 01:24:50,799
+ne, v zelo veliko državah, ne, zdaj, točno številka nima, ampak
+
+1179
+01:24:51,599 --> 01:24:55,280
+ne, datacentro je malo morej, ne, kar pomeni, da bistvo, ko se odločiš, lahko
+
+1180
+01:24:55,679 --> 01:24:59,280
+lahko zelo hitro prideš do tega, ne, in recimo, tu bi
+
+1181
+01:24:59,599 --> 01:25:04,559
+jaz ta del priporočal, ne, zdaj, kar je najbolj pomenil, ne, zdaj, vse te zadeve, ki se njihov menja, ne, to pomeni
+
+1182
+01:25:04,799 --> 01:25:09,359
+od tega, da lahko zamenja studitev, od tega, da se more avtomatsko meriti, od tega, da lahko, recimo, gavernec,
+
+1183
+01:25:09,760 --> 01:25:10,799
+torej, da veš ti,
+
+1184
+01:25:11,119 --> 01:25:15,840
+kaj problem, recimo, ta server jaz mora biti zaklinjen, ne, kdo ne sme do njega, to so podatki, recimo, ki so
+
+1185
+01:25:16,000 --> 01:25:18,880
+relevantni. Klobasa, recimo, ste rekli, da je zaščitena, ne,
+
+1186
+01:25:19,119 --> 01:25:20,320
+nekdo more do tega priti.
+
+1187
+01:25:20,640 --> 01:25:21,119
+Ne vem,
+
+1188
+01:25:21,520 --> 01:25:25,679
+da je to, da je to vse zaščiteno, da so vse ti stvari,
+
+1189
+01:25:26,239 --> 01:25:28,000
+tako kot more biti, so potem pač v bistvu
+
+1190
+01:25:28,239 --> 01:25:30,239
+ogromno srde so, ki za to skrbi, ne, ampak
+
+1191
+01:25:30,559 --> 01:25:31,520
+CAF, ne, torej,
+
+1192
+01:25:31,919 --> 01:25:32,960
+Cloud Adoption Framework,
+
+1193
+01:25:33,359 --> 01:25:37,520
+pa v bistvu skrbi za to, da so vse te prakse uporabljene na najboljši način, ne.
+
+1194
+01:25:39,280 --> 01:25:42,719
+Še ena vpod do vprašanja glede te kontrole dostopa.
+
+1195
+01:25:43,200 --> 01:25:44,080
+Naprimer,
+
+1196
+01:25:44,320 --> 01:25:48,080
+odločam se, da ustanovim podjetje, ki se more, če je plasko v DO,
+
+1197
+01:25:49,039 --> 01:25:55,679
+pač implementiramo kontrolo dostopa, pač imamo take digitalne kartice, ljudje jih lahko grejo tja, se nekaj odprejo,
+
+1198
+01:25:56,239 --> 01:25:57,760
+se vrata odprejo.
+
+1199
+01:25:58,559 --> 01:25:59,039
+Zdaj
+
+1200
+01:25:59,520 --> 01:26:02,239
+stranki namestimo nek mali strežnik,
+
+1201
+01:26:03,919 --> 01:26:07,599
+vemo, da imamo ta Active Directory v klaudo ali pa lokalno.
+
+1202
+01:26:08,159 --> 01:26:11,760
+Zdaj, kako je men kot nekomu temu plasko v DO,
+
+1203
+01:26:12,000 --> 01:26:16,479
+se v bistvu najlažje integrirati z ADM, da potem lahko odpiram ta vrata,
+
+1204
+01:26:16,799 --> 01:26:20,400
+to se pravi, da je to nek Open LDAP, OpenID Connect,
+
+1205
+01:26:21,679 --> 01:26:25,440
+kaj ne vem, taka tipična integracija, naprimer, če hočem dostopati do nekih
+
+1206
+01:26:26,559 --> 01:26:28,880
+imejnikov zaposlenih in njihovih
+
+1207
+01:26:29,440 --> 01:26:31,119
+v bistvu primišljal v kontekst.
+
+1208
+01:26:31,119 --> 01:26:33,679
+Zdaj, eno je, da se mi povežamo preko ADM.
+
+1209
+01:26:34,159 --> 01:26:42,719
+Torej, mi imamo Azure Active Directory Federation Services, ki v bistvu spostavi to direktno povezavo gor, lahko tudi uporabljate OpenID, lahko uporabljate LDAP, če recimo hočete.
+
+1210
+01:26:43,200 --> 01:26:48,719
+Imamo pa potem tudi druge storitve, ki so v bistvu namenjene temu, da se povezujejo recimo ljudje, ki nimajo tega.
+
+1211
+01:26:49,359 --> 01:26:55,840
+Recimo, kaj se zgodi, ne vem, da imate kontrolo dostopa, kaj če pride recimo nek, ki ni tam, pa dobi kartico in na recepciji mu daje kartico.
+
+1212
+01:26:56,239 --> 01:26:58,960
+Kaj boste nekaj identificirali, pa tudi kaj boste vedeli, da recimo ta človek
+
+1213
+01:26:59,440 --> 01:27:03,599
+kaj lahko dela, da lahko imaš nadzor nad njim, pa do kjerih dostopo in tako dalje.
+
+1214
+01:27:04,239 --> 01:27:10,080
+Mi smo imeli insajt, recimo, pa smo se heceli tukaj na firme, smo se igrali z IoT-jem, pa smo pač delali recimo te lučke.
+
+1215
+01:27:10,640 --> 01:27:12,880
+Če pač lučka ima in nekdo prišel, se mu je lučka posvetila.
+
+1216
+01:27:13,280 --> 01:27:16,239
+Pa smo heceli sodelovati, sanjemo se vedno ping prižgala.
+
+1217
+01:27:16,799 --> 01:27:19,760
+Podobne zadeve. Skratka, take stvari, recimo, se potem lahko hecaš.
+
+1218
+01:27:20,479 --> 01:27:24,960
+Ampak, kaj hočem povedati, potem imamo rešitve, kot so recimo Azure B2C,
+
+1219
+01:27:25,919 --> 01:27:31,679
+Azure B2B in podobne zadeve, ki v bistvu pač uporablja Azure Active Directory odzadi,
+
+1220
+01:27:32,159 --> 01:27:34,880
+ampak je v bistvu predajen za to, da lahko uporablja
+
+1221
+01:27:35,840 --> 01:27:41,440
+tudi eksterne, recimo, logine, kaj pomeni, da jaz lahko naredim račun v Azure Active Directory-u,
+
+1222
+01:27:42,320 --> 01:27:50,479
+juz da se lahko prijavi za čimerkol ne, recimo, ne vem, outlook.com, potem twitter.com, vprašanje kukcajta,
+
+1223
+01:27:51,039 --> 01:27:55,919
+potem, recimo, ne vem, gmail.com in tako naprej, ne, in v bistvu lahko, recimo, normalno
+
+1224
+01:27:57,599 --> 01:28:00,799
+se potem prijavi, ne, in ti ga povežeš potem za identiteto, ki je v oblaku.
+
+1225
+01:28:01,359 --> 01:28:06,239
+In ko imaš enkredititov v oblaku, imaš v bistvu vse te enterprise storitve, ki so nad tem navoljijo, ne,
+
+1226
+01:28:06,239 --> 01:28:15,359
+kar pomeni od monitoringa, privleč identitij in podobnih, podobnih zadev, ki jih lahko izvajaš, ne, nad tem, ne.
+
+1227
+01:28:15,359 --> 01:28:23,039
+In tudi, kar je fajn naredi, ne, da je zaključim, je, da tudi dobiš opcijo, ne, za tistega, ker, recimo, se hoče prijaviti
+
+1228
+01:28:24,000 --> 01:28:26,799
+za razvijalca, ne, dobiš v bistvu nazaj
+
+1229
+01:28:28,799 --> 01:28:36,559
+način, ne, kako se potem lahko povežeš, ne, na več ali zličnih načinov na to tvoje kodo, ki jo imaš, recimo, prej sebe v aplikaciji.
+
+1230
+01:28:38,559 --> 01:28:44,640
+Zdaj, motorke smo obdelali, klobaste smo obdelali, pri zajebi smo tudi prišli.
+
+1231
+01:28:46,640 --> 01:28:49,840
+Dva, dve, dva taka vprašanja sklopa še imam.
+
+1232
+01:28:50,640 --> 01:28:59,840
+Eno je malo ta community, pomamo še po zadnji egzempl, pa gledam to, da smo zdaj išli pri klobase, mogoče še gremo kar na en egzempl, pa pa še malo zaključimo.
+
+1233
+01:29:01,840 --> 01:29:08,880
+Tretji egzempl, ki smo ti ga hoteli dati, je mogoče malo bolj edgy, je malo bolj ta bližje v kobermetesu, pa to je makar,
+
+1234
+01:29:08,880 --> 01:29:12,080
+predpostavljam, da te bolj zanima po veselji.
+
+1235
+01:29:12,080 --> 01:29:20,080
+Pa ti ga bo opisano. Egzempl je to rok, ki je igra, ki je v vožnjo od Slovenijo, ne poznaš igraš?
+
+1236
+01:29:22,080 --> 01:29:30,080
+Ne. Ne, ne poznaš. Ne, mislim, poznam jo, igrav jo nisem, moj cimen na Faxo je to vse obvlado.
+
+1237
+01:29:32,080 --> 01:29:36,080
+Če se do vse punce ne člone, tukaj verjetno so punce tudi obvladale.
+
+1238
+01:29:36,080 --> 01:29:44,080
+Zdaj, ki ta naš podcast bo pol ljudi poslušala, bo to rok postal še bolj popularen in delali bomo zdaj start-up,
+
+1239
+01:29:44,080 --> 01:29:52,080
+se pravi nič ni narejeno, play in grow, lahko naredimo karkoli. Je pa ta želja, multiplayer to rok game,
+
+1240
+01:29:52,080 --> 01:30:02,080
+z AI playerjo, player to player, pa tudi z nekim svojim igravcem. Zdaj vzadi imamo neke AI modele,
+
+1241
+01:30:02,080 --> 01:30:10,080
+ki jih je treba trenirati na velikem količini podatkov, se pravi neke GPU intensive komputacije.
+
+1242
+01:30:10,080 --> 01:30:20,080
+Zdaj potem hočemo imeti mobile pa web app, hočemo imeti neke notificatione, ok, to nič posebnega.
+
+1243
+01:30:20,080 --> 01:30:28,080
+Zdaj hočemo imeti bidirectional communication, se pravi websocket in HTTP2, pričakujemo, da bo to ful uporabnikov,
+
+1244
+01:30:28,080 --> 01:30:34,080
+se pravi, se pravi, se pravi, se pravi.
+
+1245
+01:30:34,080 --> 01:30:39,080
+Imamo strica, ki je vsi investitor, podaj nas kapitalnost ne boli.
+
+1246
+01:30:39,080 --> 01:30:41,080
+No ni problema, skoč.
+
+1247
+01:30:41,080 --> 01:30:51,080
+Kar je pa pomembno, je pa ta quick to market, go to market, se pravi, hitro moramo to narediti.
+
+1248
+01:30:51,080 --> 01:30:53,080
+How would you do it?
+
+1249
+01:30:53,080 --> 01:31:01,080
+Za vprašanje je samo, če vzamevamo vse ti stvari, ki smo gdje zdaj omenjali.
+
+1250
+01:31:01,080 --> 01:31:03,080
+Zdaj, mi ste omenjali Kubernetes.
+
+1251
+01:31:03,080 --> 01:31:06,080
+Kubernetes je ta ena lušna zadeva, ki jo vsi vzamevajo in rečejo,
+
+1252
+01:31:06,080 --> 01:31:10,080
+ja, to je rešitev za cel problem, ne, pa veliko dnarje bomo uporabljali in to je to.
+
+1253
+01:31:10,080 --> 01:31:15,080
+Ampak za ta stvar ni nujno, da je Kubernetes najboljši rešitev.
+
+1254
+01:31:15,080 --> 01:31:22,080
+Je fajna, lahko jo uporabiš, ampak to bi uporabo različne storitve.
+
+1255
+01:31:22,080 --> 01:31:26,080
+Prej, da bi izvral Kubernetes, bi jo valoviral še kaj drugega.
+
+1256
+01:31:26,080 --> 01:31:30,080
+Seveda, ne, torej v bistvu vam je dal čist lep primjer.
+
+1257
+01:31:30,080 --> 01:31:32,080
+Ne morem zametniti, Kubernetes je zakon, ne.
+
+1258
+01:31:32,080 --> 01:31:37,080
+Lahko delaš čudež, lahko tudi vničiš veliko stvari, to mi je že ratalo, ne.
+
+1259
+01:31:37,080 --> 01:31:43,080
+Skratka, ne, tudi imam doma recimo in Raspberry Pi cluster, ki je zdaj bistvo bolj črn,
+
+1260
+01:31:43,080 --> 01:31:48,080
+ker pa če zelo hitro zažgeš Raspberry Pi, če se malo igraš preveč in podobne stvari, ne.
+
+1261
+01:31:49,080 --> 01:31:55,080
+Kaj hočem povedati, je, Kubernetes je res super, ampak časih moraš tudi pogledati, kaj bistvo rabiš.
+
+1262
+01:31:55,080 --> 01:31:59,080
+Torej, Kubernetes v bistvu rešuje problem tega, da imaš ti ogromno storitev, ne,
+
+1263
+01:31:59,080 --> 01:32:03,080
+ki želiš, da v bistvu so self-manageable, da se komunicira med sabo,
+
+1264
+01:32:03,080 --> 01:32:07,079
+da lahko hitro skiliraš, da lahko dodajaš storitve zraven.
+
+1265
+01:32:07,079 --> 01:32:13,079
+Ampak tukaj recimo bi pač, recimo dajem primer, ne, mi smo uporabljali Service Fabric,
+
+1266
+01:32:13,079 --> 01:32:19,079
+ne, ki je v bistvu, je pa učna krivulja Service Fabrica, recimo zelo malo bolj kompleksna,
+
+1267
+01:32:19,079 --> 01:32:25,079
+ampak recimo so dali en primer igrice, ne, kjer so se v bistvu letala stredala med sabo, ne.
+
+1268
+01:32:25,079 --> 01:32:36,079
+In kaj uporabljamo odzadaj, ne, je v bistvu Ektor model, kjer potem to prikazuje v podrobnosti, ne.
+
+1269
+01:32:36,079 --> 01:32:40,079
+Framework, ki se pa zadnje uporabljajo po Orleans, ne, torej v bistvu to je Microsoft framework,
+
+1270
+01:32:40,079 --> 01:32:47,079
+ki je sicer open source, ne, ampak je se uporabljajo odzadaj in so na podlagi tega naredili prav teste, ne,
+
+1271
+01:32:47,079 --> 01:32:53,079
+s tem so dali to, eno so uporabljali Service Fabric, kjer so to recimo delali, ne, in je tudi lušen video na YouTube-u,
+
+1272
+01:32:53,079 --> 01:33:00,079
+ne, če ga bite pogledali, za, ko recimo demonstrirajo, kako v bistvu se ti Ektorji delujejo, ne,
+
+1273
+01:33:00,079 --> 01:33:02,079
+je to fenomenalno, kako v bistvu hitro to dela, ne.
+
+1274
+01:33:02,079 --> 01:33:08,079
+Če, ta Orleans framework ima še neke konstrukte, neke imena, recimo neke…
+
+1275
+01:33:08,079 --> 01:33:09,079
+Silos.
+
+1276
+01:33:09,079 --> 01:33:10,079
+Silos pa…
+
+1277
+01:33:10,079 --> 01:33:18,079
+Ja, Silos pa podobne. Zdaj, to so v bistvu odzadaj, celotna zgodba je, da imaš v bistvu ogrode, ki ti rešuje problem tega,
+
+1278
+01:33:18,079 --> 01:33:27,079
+torej, kako si skrnjuješ podatke, kako v bistvu ti, ko delaš z objekti, ne, ki jih ti v bistvu skrnjuješ, ki je živijo,
+
+1279
+01:33:27,079 --> 01:33:34,079
+in Silos v bistvu postavljate lahko tako kot virtualke, ki so v bistvu med sabo povezane, ne, in si ti deliš te informacije
+
+1280
+01:33:34,079 --> 01:33:41,079
+in je, recimo, en izmed zelo hitrih serializatorjev, ne, ki v bistvu skrnjujejo stanje, ne, torej objekta,
+
+1281
+01:33:41,079 --> 01:33:48,079
+torej, recimo v tem primerju igravca, ne, na disk, ne, preko memory v tem primerju, ne, je ravno preko,
+
+1282
+01:33:49,079 --> 01:33:57,079
+torej, preko tega Orleansa in je tudi open source, ne, ker preč Orleans ni samo to, da ti vzameš vse, ne,
+
+1283
+01:33:57,079 --> 01:34:02,079
+ampak ti lahko rečeš, jaz bi rad pa samo en deločen delček, ker je open source, greš tam kodov, skupiraš tistih par zredov, ne,
+
+1284
+01:34:02,079 --> 01:34:09,079
+spremljiš malo reference, ne, ok, pust mu, rabiš vedeti, kaj delaš, ne, ampak, ne, recimo, če hočeš hitrih serializatorjev,
+
+1285
+01:34:09,079 --> 01:34:17,079
+greš tega vzameš dol, poskrbiš in gremo dalje, ne. Zdaj, moj point je to, da, recimo, zelo odvisno od tega, ali ti imaš jih zadevo narejeno, sprogramirano,
+
+1286
+01:34:18,079 --> 01:34:19,079
+ali hočeš …
+
+1287
+01:34:19,079 --> 01:34:21,079
+Ja, tako je, oh, pardon, dodatno vprašanje.
+
+1288
+01:34:22,079 --> 01:34:25,079
+Imamo razvitov, če može, v Goju.
+
+1289
+01:34:26,079 --> 01:34:27,079
+Ja, v Goju, ja, ni …
+
+1290
+01:34:27,079 --> 01:34:29,079
+Ja, oh, shit, ja, prototip, že imamo razvitov.
+
+1291
+01:34:30,079 --> 01:34:32,079
+O, joj, to ni nebil problem, ne, to ni nebil problem.
+
+1292
+01:34:33,079 --> 01:34:34,079
+Kaj boš popolno dodal?
+
+1293
+01:34:35,079 --> 01:34:41,079
+Zdaj, če je Govu, ne, je tu, recimo, malo druga zgodba, ne, zatem, ker bistvo Service Fabric deluje na .NETu,
+
+1294
+01:34:41,079 --> 01:34:50,079
+in je .NET Framework. Zdaj, .NET Core, ki bistvo teče tudi na drugih platformah, Orlin zdela na temo.
+
+1295
+01:34:51,079 --> 01:34:52,079
+OK.
+
+1296
+01:34:52,079 --> 01:35:01,079
+In tudi večina zadev. Za Govu, ne, v tem primeru, recimo, če hočeš uporabljati vse te napredne storitve, ne, imamo mi knjižnice, ne, ki jih lahko pokoristiš.
+
+1297
+01:35:02,079 --> 01:35:12,079
+In so tudi, torej, imaš Go SDK za managed library, s katerim lahko nadziraš Azure, to pomeni, ti rabiš, recimo, narediti neko, nek no service, ne,
+
+1298
+01:35:13,079 --> 01:35:18,079
+ki je lahko preko Goje nadiš, preko teh managed library, kar pomeni, da ti lahko, recimo, v fulj nastopno dodaješ stvari izraveni.
+
+1299
+01:35:19,079 --> 01:35:23,079
+Imaš, recimo, potem web-appe, ne, ki bi se tudi Go ganjajo, lahko tisto uporabljaš.
+
+1300
+01:35:23,079 --> 01:35:29,079
+Imaš, recimo, potem odzadaj background servise, torej bat-servise, ki je lahko, recimo, ti skripte uporabljaš.
+
+1301
+01:35:30,079 --> 01:35:33,079
+In znotraj so goje, programske jezika, ena stvar, ki jo rabi je exe.
+
+1302
+01:35:33,079 --> 01:35:34,079
+Ja.
+
+1303
+01:35:34,079 --> 01:35:35,079
+Ti se zaženeš in lahko to čudeš, ne.
+
+1304
+01:35:35,079 --> 01:35:36,079
+Ja.
+
+1305
+01:35:36,079 --> 01:35:38,079
+Skratka, imamo načine, ki je lahko ti Go uporabljaš.
+
+1306
+01:35:38,079 --> 01:35:47,079
+Zdaj, prav za igrico, ne, da imaš ti real-time komunikacijo, ne, lahko, recimo, Go uporabljaš v, lahko ga daš na strežnič, če hočeš,
+
+1307
+01:35:47,079 --> 01:35:53,079
+pa odzadaj, recimo, za vso komunikacijo uporabljaš podservise, to pomeni, mašinarnih, zato da se naučiš kaj.
+
+1308
+01:35:54,079 --> 01:35:57,079
+Komunikacija med njimi je PubSub, ki ga imamo, bistvo, kot storitev.
+
+1309
+01:35:57,079 --> 01:36:01,079
+Imamo tudi Signalar, kot storitev Signalar je, bistvo, Microsoft real-time framework, ne.
+
+1310
+01:36:01,079 --> 01:36:09,079
+Zdaj, PubSub je, bistvo, web PubSub, no, dobro, kot se, bistvo, zdaj pač, tudi ena izmed rešitev, ki jo imamo na tem področju,
+
+1311
+01:36:09,079 --> 01:36:14,079
+ki, bistvo, omogoča to biti realno komunikacijo preko websocketov, pa tudi zna, recimo, otomatsko, če se prekine,
+
+1312
+01:36:14,079 --> 01:36:18,079
+če ni websocket available, se pač prekine na drug in podobni in tako je naprej.
+
+1313
+01:36:18,079 --> 01:36:25,079
+Zdaj, recimo, da pa optimiziraš, da hočeš imeti vse na ene mesto, da rečeš, lej, mašinarnih hočem delati na ene mesto,
+
+1314
+01:36:25,079 --> 01:36:31,079
+torej, aplikacije hočem delati na ene mesto, logging hočem delati na ene mesto, skratka vse.
+
+1315
+01:36:31,079 --> 01:36:38,079
+Verjatno na ene mesto, skalira, verjatno, pa rad bi, recimo, ne vem, zadevo postavo tu, pa še kameru gam.
+
+1316
+01:36:38,079 --> 01:36:46,079
+To je, znači, naslednje podoprešanje je, da smo ful popularni v Aziji zdaj in multi-regional je on the table.
+
+1317
+01:36:46,079 --> 01:36:54,079
+Zdaj, druga zadeva, ki bi jaz naredil, je stanje vseh tih zadev, ne, glede na to, da imate relacijsko ali ne.
+
+1318
+01:36:54,079 --> 01:36:59,079
+No sequel. No sequel. Valda. Pa ni MongoDB, ne, ali je MongoDB.
+
+1319
+01:36:59,079 --> 01:37:03,079
+Ja, nima veze, pa če, v bistvu, mladi, pa na juni smo, pa skoraj se stvari spreminjajo.
+
+1320
+01:37:04,079 --> 01:37:05,079
+Lahko je tudi kar kot druga.
+
+1321
+01:37:05,079 --> 01:37:07,079
+A je PubSub, naprimer, globalen servis?
+
+1322
+01:37:07,079 --> 01:37:08,079
+Ja.
+
+1323
+01:37:08,079 --> 01:37:10,079
+To so prav pol ni, pol.
+
+1324
+01:37:10,079 --> 01:37:14,079
+PubSub, v bistvu, lahko, torej, mislim, globalni servis v smislu, da ti lahko uporabljaš.
+
+1325
+01:37:14,079 --> 01:37:15,079
+Morda kroz regional.
+
+1326
+01:37:15,079 --> 01:37:17,079
+Ja, torej, v bistvu, ti lahko uporabljaš v večje regijeh, ne.
+
+1327
+01:37:17,079 --> 01:37:20,079
+Torej, globalni servis, ki ga imamo mi, recimo, je Frondore, en izmed njih,
+
+1328
+01:37:22,079 --> 01:37:28,079
+mislim, pardon, Frondore, Traffic Manager, ne, ki je, v bistvu, DNS based load balancer, ne, recimo, to je globalni servis.
+
+1329
+01:37:28,079 --> 01:37:33,079
+Kar pomeni, da nima jezika, ki je, ti ga sicer skrijereš v določenem resursu, ampak je globalni, ne.
+
+1330
+01:37:34,079 --> 01:37:40,079
+PubSub pa skrijereš v določenem regionu, ne, ampak imaš potem več opcij, da lahko izbereš več regij in podobne stvari.
+
+1331
+01:37:40,079 --> 01:37:42,079
+Imaš load balancer, ki lahko dela, ne.
+
+1332
+01:37:42,079 --> 01:37:45,079
+Skratka, več načinov imaš, no, torej, v bistvu, ki jih lahko uporabljaš.
+
+1333
+01:37:45,079 --> 01:37:49,079
+Vprašanje, ki ga, mogoče, da odgovorim še eno, eno, pa pa me lahko vprašate, ne.
+
+1334
+01:37:50,079 --> 01:37:55,079
+Torej, če bi šel, jaz, recimo, na nekaj takega, ne, zdaj, jaz bi, verjetno, izbral mix and match, ne.
+
+1335
+01:37:55,079 --> 01:38:00,079
+To bom izbral, bi, servise, zato, ker se mi ne da v kore z machine learningom na roke, ne.
+
+1336
+01:38:00,079 --> 01:38:04,079
+Plus, recimo, če hočeš ganjati machine learning, ki bo res delal dobro, rabiš GPU.
+
+1337
+01:38:05,079 --> 01:38:14,079
+To pomeni, da rabiš, v bistvu, imeti pol različne virtualke, ne, ki se ga, dobro, Kubernetes to podpira, tako da Kubernetes bi bila res tu izbira, ta prava, ne.
+
+1338
+01:38:14,079 --> 01:38:28,079
+Ampak, ne, spet, to je drago, ne, ker pomeni, da rajši izberem potem, kaj, pet servis v sodelovanju z machine learningom, v sodelovanju z Cognitive Services, ki bi potem, v bistvu, so vse združil, PubSub za komunikacijo med njimi.
+
+1339
+01:38:29,079 --> 01:38:36,079
+Zdaj, PubSub kot takšen ga jaz ne bi, recimo, izbral kot samo PubSub, ampak bi izbral, recimo, še zraven Event Grid.
+
+1340
+01:38:37,079 --> 01:38:39,079
+Event Grid je pa globalni PubSub.
+
+1341
+01:38:39,079 --> 01:38:41,079
+Event Grid ali Grid?
+
+1342
+01:38:41,079 --> 01:38:42,079
+Grid.
+
+1343
+01:38:42,079 --> 01:38:43,079
+Grid, ja, okej.
+
+1344
+01:38:43,079 --> 01:38:44,079
+Event Grid.
+
+1345
+01:38:44,079 --> 01:38:45,079
+Ja, kot Azure.
+
+1346
+01:38:45,079 --> 01:38:51,079
+Event Grid je, v bistvu, ja, ker kaj finta, ti imaš, v Azure imaš tri glavne messaging servise.
+
+1347
+01:38:52,079 --> 01:39:03,079
+Eno je Event Grid, ki je, v bistvu, globalni PubSub, potem imaš Service Bus, ki je, v bistvu, Enterprise Service Bus, ne, in potem imaš, v bistvu, še ta PubSub pa te stvari.
+
+1348
+01:39:04,079 --> 01:39:15,079
+Event Grid pa pomeni, da lahko ti dobiš notar, dobro, imaš še potem Event Hub in podobno zadeve, ki, v bistvu, bolj za real-time streaming pa IoT, s kaj smo se prepogovarjeli, ne,
+
+1349
+01:39:15,079 --> 01:39:22,079
+ampak recimo Event Grid ti omogoča to, da lahko ti zbereš ogromno količino informacij in potem ti določaš, kako te informacije grejo naprej.
+
+1350
+01:39:22,079 --> 01:39:37,079
+Kaj pomeni, da ti lahko potem delaš filtering on wire, kaj pomeni, prej in ti greš naprej, lahko delaš filtering, lahko določaš, imaš, v bistvu, potem za to, da zadeva gre ven, ne, imaš tudi različne formate,
+
+1351
+01:39:37,079 --> 01:39:46,079
+pa ena zadeva, ki je zelo dobro, je, da imaš potem, v bistvu, standardiziran format, ki gre naprej, ki je, v bistvu, Cloud Events, ki je tudi Google podpira in AWS in vsi ostali.
+
+1352
+01:39:46,079 --> 01:39:48,079
+A, da je lahko cross-covered, ja.
+
+1353
+01:39:49,079 --> 01:39:55,079
+Recimo, če greste pogledati na moj GitHub, na mojem GitHubu, torej github.com, še im ne splak.
+
+1354
+01:39:57,079 --> 01:39:58,079
+Pol home, ja.
+
+1355
+01:40:00,000 --> 01:40:04,000
+webinar, ne, in čisto ilustracijo, ker bistvo je malo povezano tudi s tem.
+
+1356
+01:40:06,000 --> 01:40:09,000
+Naredil smo webinar in kaj smo nadila? Nadila smo z enim sodelovcem,
+
+1357
+01:40:10,000 --> 01:40:15,000
+smo nadila simulacijo v real-time-u za uporabo serverless.
+
+1358
+01:40:16,000 --> 01:40:19,000
+Kako je to zgledalo? Imel se tvrnjak, ki se je furil, ki smo ga simulirali
+
+1359
+01:40:20,000 --> 01:40:27,000
+in ta tvrnjak je bil lambda function na AWSO, ki je bistvo pošilel
+
+1360
+01:40:27,000 --> 01:40:31,000
+informacije v Event Grid. Event Grid je potem bistvo sproduciral vse te
+
+1361
+01:40:32,000 --> 01:40:36,000
+informacije in jih poslal na website. Na websajtu je potem človek dobil
+
+1362
+01:40:37,000 --> 01:40:40,000
+informacijo in je potem v real-time-u prekazal podatke. In potem smo
+
+1363
+01:40:41,000 --> 01:40:44,000
+simulirali na tak način, da se ti bistvo ta tvrnjak, lambda je potem
+
+1364
+01:40:45,000 --> 01:40:47,000
+na ključno pošila podatke in smo potem poslali 100.000 podatkov in tak
+
+1365
+01:40:48,000 --> 01:40:51,000
+naprej, ne, in je recimo Event Grid to vzel in ti si v real-time-u
+
+1366
+01:40:52,000 --> 01:40:54,000
+lahko gledali, recimo, kaj se je pač premikala celotna zadeva gor in
+
+1367
+01:40:54,000 --> 01:40:58,000
+potem smo pokazali, kako se je procesirali, ne, dela nad tem. Potem si imel
+
+1368
+01:40:59,000 --> 01:41:01,000
+pa tudi še zdravim Power BI, recimo, kot reporting tool, na kjer si pač
+
+1369
+01:41:02,000 --> 01:41:05,000
+lahko se te informacije prikazal človeko prijazno.
+
+1370
+01:41:06,000 --> 01:41:10,000
+A pa tudi, valjda, tukaj zdravimo tudi neki scoring, pa to, pa verjetno
+
+1371
+01:41:11,000 --> 01:41:16,000
+preko tega Event Hub-ov pa Service Bus-ov to enostavno spumpat v nek
+
+1372
+01:41:17,000 --> 01:41:18,000
+warehouse?
+
+1373
+01:41:18,000 --> 01:41:25,000
+Lahko, ja, to je, sveda, ne, se to ni, mislim, Event Grid, ne, v bistvu je
+
+1374
+01:41:26,000 --> 01:41:30,000
+pub-sub, ne, torej imaš pub, imaš pa, mislim, imaš publisherja, pa imaš
+
+1375
+01:41:31,000 --> 01:41:33,000
+subscriberja, za subscriberja lahko imaš vse kaj. Ima ena zadeva, ki se
+
+1376
+01:41:34,000 --> 01:41:36,000
+ima reče Stream Analytics, ne, ki v bistvu pobira te podatke in potem ti
+
+1377
+01:41:37,000 --> 01:41:40,000
+napišeš query like language, kaj bi dat naredil in imaš potem output.
+
+1378
+01:41:41,000 --> 01:41:44,000
+Output ti je lahko, SQL lahko ti je, Cosmos DB, recimo, jaz bi Cosmos
+
+1379
+01:41:44,000 --> 01:41:48,000
+DB tu preporočal, zatem je Cosmos DB ima ena zadeva, ki ima…
+
+1380
+01:41:49,000 --> 01:41:50,000
+Lahko malo reči, Cosmos DB…
+
+1381
+01:41:51,000 --> 01:41:56,000
+Cosmos DB ti je naša rešitev za NoSQL po domače čemu, ki v bistvu je, ki je
+
+1382
+01:41:57,000 --> 01:42:04,000
+uporablja odsadaj, torej, tehnologija odsadaj, mislim, uporablja šardini
+
+1383
+01:42:05,000 --> 01:42:09,000
+in podobne zadeve, ne, torej, ampak ideja tega je, da v bistvu uporablja pa
+
+1384
+01:42:09,000 --> 01:42:14,000
+NoSQL like jezike, kar pomeni, da ti lahko uporabiš kot klic apja, ne, lahko
+
+1385
+01:42:15,000 --> 01:42:19,000
+uporabljiš SQL like sintakso, lahko uporabljiš MongoDB, lahko uporabljiš
+
+1386
+01:42:20,000 --> 01:42:23,000
+kar koli, kar pomeni, če recimo imaš ti MongoDB connection v aplikaciji…
+
+1387
+01:42:24,000 --> 01:42:25,000
+Vse tako se pretvarja, ko daj MongoDB…
+
+1388
+01:42:26,000 --> 01:42:29,000
+Tako je, in odsadaj v bistvu potem zadevo performantno piše na več lokacij.
+
+1389
+01:42:30,000 --> 01:42:36,000
+Kaj pa prednost tega, ne, da imaš zelo mali latency plus geo replication,
+
+1390
+01:42:36,000 --> 01:42:41,000
+kar pomeni, da ti lahko enostavno repliciraš do vazja, ne, pa se vsi spravijo na tole, ne,
+
+1391
+01:42:42,000 --> 01:42:46,000
+vsi tisti, ki uporabljajo TikTok in podobni, ne, ki to uporabljajo.
+
+1392
+01:42:47,000 --> 01:42:50,000
+Ej, a če bi zdaj ta firma Torok AI pač začela…
+
+1393
+01:42:52,000 --> 01:43:00,000
+Budgets are tight, pa ti rečem, da devopso, mali cloud inženirijo, mind developerjo na voljo,
+
+1394
+01:43:01,000 --> 01:43:05,000
+sem potem raziskoval, obstaja tudi ta Azure for Gaming.
+
+1395
+01:43:06,000 --> 01:43:11,000
+Se pravi, imate neke produkte v tem speso, ki so pa prav specialno naredte za gaming industrijo.
+
+1396
+01:43:12,000 --> 01:43:15,000
+Ja, to je sicer res, ampak to je področje, ki ga pa res ne poznamo.
+
+1397
+01:43:16,000 --> 01:43:18,000
+Žal, to področje res ne poznamo.
+
+1398
+01:43:19,000 --> 01:43:26,000
+To je tehnologijo, ki smo zdaj umenjali, a ne, to je, mislim, da naš audience bo poznal, pa bo uporabljal,
+
+1399
+01:43:27,000 --> 01:43:30,000
+ampak imate pa potem, verjetno, za neke vertikale, pa pač že pred izdravljanjem.
+
+1400
+01:43:31,000 --> 01:43:33,000
+V bistvu imamo cloude za zelo različne variante.
+
+1401
+01:43:34,000 --> 01:43:42,000
+Imaš cloud za health, imaš cloud za non-profit celo, cloud za pač za avtomobilsko industrijo in podobne zdeje.
+
+1402
+01:43:43,000 --> 01:43:45,000
+Skratka, so te nišnji, kje se storitvajo.
+
+1403
+01:43:46,000 --> 01:43:51,000
+Tako da splače se ljudem tudi pogledati v bistvu znotraj njihove vertikale, ki poskušajo razvijati.
+
+1404
+01:43:52,000 --> 01:43:55,000
+Tako je, torej v bistvu, ko se nekdo odloča, da razvija, zdaj je to igrica.
+
+1405
+01:43:56,000 --> 01:44:04,000
+Jaz bi povedal, da je igrica za tega, ker pač iz mojega stališča, ker pač jaz pokrivam Kubernetes, pa pokrivam Dotnet, PowerShell pa PaaS,
+
+1406
+01:44:05,000 --> 01:44:07,000
+torej iz mojega stališča, recimo, ki bi se jaz tega lotil.
+
+1407
+01:44:08,000 --> 01:44:13,000
+Zdaj, v tem primeru, ko je igra, verjetno bi povabil, kake so deloce zranke, ki so specializirane za to področje,
+
+1408
+01:44:14,000 --> 01:44:18,000
+pa bi oni potem lahko, recimo, malce bolj podrobno šli v to zgodbo.
+
+1409
+01:44:19,000 --> 01:44:21,000
+Kar pa je res, da ...
+
+1410
+01:44:24,000 --> 01:44:25,000
+Jaz sem pa zgubil nitko, ko som to povedal.
+
+1411
+01:44:26,000 --> 01:44:27,000
+Gledaj, Fabit je furšenj.
+
+1412
+01:44:29,000 --> 01:44:36,000
+Ne, ne, ampak hočem samo to povedati, da pač, če grejo ljudje na našo dokumentacijo,
+
+1413
+01:44:37,000 --> 01:44:40,000
+torej v bistvu v Azure-ju imamo ena zadelka, ki se ima reče Azure Architecture Center.
+
+1414
+01:44:41,000 --> 01:44:46,000
+In Azure Architecture Center ni samo to, da pač ti imaš tam ogromno arhitektur,
+
+1415
+01:44:47,000 --> 01:44:51,000
+ampak ima pa tudi eno izmed opcij, ki so design patterni,
+
+1416
+01:44:52,000 --> 01:44:57,000
+architecture styles, zato da ljudje razumejo, kaj sploh so.
+
+1417
+01:44:58,000 --> 01:45:01,000
+Potem je pa naslednja sekcija, ki mi pravimo technology selection.
+
+1418
+01:45:02,000 --> 01:45:05,000
+In pa še ena sekcija, kjer bi, v bistvu, rečemo different clouds.
+
+1419
+01:45:06,000 --> 01:45:10,000
+In tam po different clouds so vse te informacije, ki jih, recimo, ljudje vidijo in lahko si preberajo točno,
+
+1420
+01:45:11,000 --> 01:45:15,000
+kaj, katere storitve so vezane, kaj lahko porabimo in tako naprej.
+
+1421
+01:45:16,000 --> 01:45:20,000
+In pa je bolj tako, kar te knjige, pomagaj si sam, kot prejš prvo strano, ali te boli roka ali križ.
+
+1422
+01:45:21,000 --> 01:45:26,000
+Bolj domujem, da je neka selekcija, kaj te prepelje do tiste tehnologije, ki…
+
+1423
+01:45:27,000 --> 01:45:28,000
+Pomagaj si sam.
+
+1424
+01:45:29,000 --> 01:45:34,000
+Ja, v bistvu, te prepelje do tehnologije, ki pač daš ti neki input anotar, da pač rečeš,
+
+1425
+01:45:35,000 --> 01:45:37,000
+a, lej, to so te tri možnosti izmed teh tristotih.
+
+1426
+01:45:38,000 --> 01:45:43,000
+Ja, in tukaj se zdaj vrnimo nazaj na zgodbo, ki smo jo omenjali v začetku.
+
+1427
+01:45:43,000 --> 01:45:45,000
+In pa v reverend organizacije, ne vem, pa sem toči vmor.
+
+1428
+01:45:46,000 --> 01:45:53,000
+In zato imaš te pomočnike, kot sem, recimo, omenjal na začetku, ko imamo mi interno, recimo, bote, ki ti pomagajo, imaš vse kaj, da ti izberajo.
+
+1429
+01:45:54,000 --> 01:45:56,000
+In ene izmed njih je, recimo, tudi roadmaps, ki jih imamo.
+
+1430
+01:45:58,000 --> 01:46:04,000
+Kar pomeni, ko ti hočeš, recimo, neko stvar doseči, lahko greš na learn.microsoft.com
+
+1431
+01:46:05,000 --> 01:46:08,000
+in imaš dovesedno guide-e, ki te vozijo skozi celoten postopek.
+
+1432
+01:46:09,000 --> 01:46:23,000
+In tam imaš tudi opcijo, da potem lahko izbereš in ti vključijo in ta del za povezavami, za interaktivnimi učenji in pa tudi do nas, ne, kontakt do nas.
+
+1433
+01:46:24,000 --> 01:46:25,000
+Torej, v bistvu imate te opcije.
+
+1434
+01:46:26,000 --> 01:46:31,000
+Če pa, recimo, ne vem, bi še radi malo več zvedeli okrog tega, pa recimo, hoteli specializirano pomoč, kaj se zgodi?
+
+1435
+01:46:32,000 --> 01:46:38,000
+Ne, ti se naoči za delo in pa rečeš, ej, zato pa jaz sem, nas je pet, ne, mi smo same razvijalci,
+
+1436
+01:46:39,000 --> 01:46:44,000
+hm, kaj pa zaje, zato pa ravno data, database postaviti ali pa ne, nekaj, da bo res, res prav postavljeno, ne.
+
+1437
+01:46:45,000 --> 01:46:46,000
+Kako smo tega lotli, ne.
+
+1438
+01:46:47,000 --> 01:46:53,000
+In potem greste, recimo, na marketplace in rečete, zdaj mi pa daj vse partnere, ki so specializirani za to področje in vam vrže ven.
+
+1439
+01:46:54,000 --> 01:47:00,000
+Vsi, ki imajo, recimo, certifikate na tem področju in lahko rečeš, aha, ok, ti si tula najbližje, gremo pogledati.
+
+1440
+01:47:02,000 --> 01:47:03,000
+Zgodbo.
+
+1441
+01:47:05,000 --> 01:47:08,000
+Rečli smo, še ta rok, to je to.
+
+1442
+01:47:09,000 --> 01:47:19,000
+Zdaj bi sam še želel, da, pač, nekaj za del imamo malo skupno, pa bi jim nekako poskušal povezati,
+
+1443
+01:47:20,000 --> 01:47:28,000
+pač mi jaz smo ful z tega open source prostora, to nam je ful domače in že prej smo se malo pogovarjali o community-u,
+
+1444
+01:47:29,000 --> 01:47:33,000
+pa mogoče tudi open source je uspešen zaradi tega community-a.
+
+1445
+01:47:34,000 --> 01:47:41,000
+Pa sem si tukaj sam napisal par teh open source projektov, ki so nekako pod Microsoftov im odkrili.
+
+1446
+01:47:42,000 --> 01:47:49,000
+Napisal sem si VS Code, TypeScript, .NET, potem jih sem prebral, oziroma nekaj let nazaj,
+
+1447
+01:47:49,000 --> 01:47:56,000
+pa Microsoft Searching Linux, pa cela ta zgodba, koliko je Microsoft vstopil v Linux Foundation,
+
+1448
+01:47:57,000 --> 01:48:03,000
+da je v Linux kernel security listu, da kernel patch se kontribuira.
+
+1449
+01:48:04,000 --> 01:48:13,000
+Potem tudi ta, in tudi zaradi tega potem tudi vidimo, da imaš Windows Services for Linux, pa lahko na Windowsih Linux praviš.
+
+1450
+01:48:14,000 --> 01:48:18,000
+Zabraj, tu je neka ta kolaboracija pa to in sem šel malo gledat.
+
+1451
+01:48:19,000 --> 01:48:27,000
+Če tudi druge projekte in sem našel tudi ta, da je Windows v kalkulator recimo zdaj pod open source release-an napisan v C++ pa C sharp-o
+
+1452
+01:48:28,000 --> 01:48:31,000
+in je predinstaliran tudi na Windowsih pa to.
+
+1453
+01:48:33,000 --> 01:48:39,000
+Tako da ja, vidim, da je neka taka ful transformacija tudi v tem prostoru se z Microsoftom zgodila.
+
+1454
+01:48:40,000 --> 01:48:46,000
+In zdaj sem med naštevanjem teh open source projektov probil še najdi prostor tudi, da te Andraš vpraša v PowerShell-u,
+
+1455
+01:48:47,000 --> 01:48:53,000
+ker si tudi ful uporabnik pa tudi ful poznaš, pa to je tvoj Segway.
+
+1456
+01:48:54,000 --> 01:48:58,000
+To je v bistvu malo taka šala, ampak v bistvu tudi ni.
+
+1457
+01:48:59,000 --> 01:49:07,000
+Mi smo navajeni, če prihajaš bolj iz tega Unix ekosistema, pač pred nas ves z ločinoma gledam Črni terminal,
+
+1458
+01:49:07,000 --> 01:49:12,000
+pač Miško s mama, ker mu je treba uporabljati browserje, ampak nam je to zelo blizu.
+
+1459
+01:49:13,000 --> 01:49:24,000
+In pa malo smo okoli sprašvali, smo bili tako, okej, to je prav ta naš krok, kakšno vprašanje naj tako postavo.
+
+1460
+01:49:25,000 --> 01:49:27,000
+In je bil kar nek tak zanimiv pattern.
+
+1461
+01:49:28,000 --> 01:49:37,000
+Se mi zdi, da te moji piri imajo kar velik problem navčiti PowerShell, kotkar čudno se to sliši.
+
+1462
+01:49:38,000 --> 01:49:46,000
+Naprimer jaz sem poskusil pred leti že, imamo neko datatekono, so neki fajli in zdaj vem, da obstaja tam desen klik,
+
+1463
+01:49:47,000 --> 01:49:53,000
+kar okaj skompresiram ta fajl, pač v nek zip fajl, ok, in potem sem bil tako, ok, bom jaz zdaj to s PowerShell-om naredil.
+
+1464
+01:49:53,000 --> 01:50:00,000
+V unik sistemih pač jaz to, mi ni treba dokumentacijo pogledati, seveda bom holi izkušen.
+
+1465
+01:50:01,000 --> 01:50:11,000
+Zanima me, ok, kar priješ na Microsoft kot zaposlen, ali pa kar si partner, kakaj je nekaj ta pot, da se v bistvu učiš ta PowerShell?
+
+1466
+01:50:12,000 --> 01:50:21,000
+Zato se mi zdi, da se tako zelo tudi spremenja ta interfejs, kakšno mnenje, kakšen protip, kar jaz klikov res ne bi.
+
+1467
+01:50:21,000 --> 01:50:23,000
+Ok, mogoče, da…
+
+1468
+01:50:24,000 --> 01:50:25,000
+Automation, so začeli z Shell-om, ok.
+
+1469
+01:50:26,000 --> 01:50:39,000
+Ko smo že ravno na temi Open Source-a, mi imamo eno spletno stran, kjer so gor navedeni vsi ti projekti, pri katerih Microsoft sodeluje.
+
+1470
+01:50:40,000 --> 01:50:48,000
+Če pogledate recimo na število komitov, ki jih mi naredimo v Open Source v zadnjih par letih, je se to drastično povečalo.
+
+1471
+01:50:48,000 --> 01:50:52,000
+Kar pomeni, da je v bistvu… Veste samo menilnih partnerjev, torej TypeScript, recimo če…
+
+1472
+01:50:53,000 --> 01:51:00,000
+A pa če pogledate recimo malo, kaj je recimo tek skupnega vsem tem, če pogledate recimo najem TypeScript, na čem deluje.
+
+1473
+01:51:01,000 --> 01:51:04,000
+V bistvu še vedno je JavaScript, ampak imaš ti objekte, imaš ti redvanje.
+
+1474
+01:51:05,000 --> 01:51:12,000
+Kdo ga je v bistvu izumel? Če pogledate, spet človek, Ellsberg, ki je v bistvu izumel C Sharp, ki je spet objektni jezik.
+
+1475
+01:51:13,000 --> 01:51:23,000
+PowerShell, objektno, spet. Torej v bistvu vse deluje na tak način, da se v bistvu pač naredi čim bolj produktivnega ljudem.
+
+1476
+01:51:24,000 --> 01:51:31,000
+Recimo imamo tudi… Imamo svoj Linux, recimo, in podobne zadeve. Torej ni zaičisto, da smo bossi.
+
+1477
+01:51:32,000 --> 01:51:39,000
+AKS, recimo, Kubernetes Service odzada, recimo, se je tudi veliko vložilo v to, da se smo v Open Source virtual kublet.
+
+1478
+01:51:40,000 --> 01:51:50,000
+To je ena taka lušna zadeva, ki ti omogoča… To je v bistvu interfejs, ki ga lahko ti skoristi za to, da spiše svoj kublet, ki ga v Kubernetes razume kot svojega.
+
+1479
+01:51:51,000 --> 01:52:00,000
+Kublet je v bistvu en agent, ki živi na mašini, ki skrbi za to, da se potem pač dovvešča, recimo, na zainformacije o stanju in tako naprej.
+
+1480
+01:52:01,000 --> 01:52:05,000
+In kaj je to vzaj finta? Zato, ker imaš virtual kublet, lahko ti obejsiš gor servise, ki so, recimo, aktualni.
+
+1481
+01:52:06,000 --> 01:52:12,000
+In to, recimo, kaj je problem, ne, mogoče sem… So vem, da sem že zašel malo, pa se… Takoj se vrnem nazaj.
+
+1482
+01:52:13,000 --> 01:52:21,000
+Takoj se vrnem nazaj, ampak, recimo, čist kot ilustracijo, ne, kaj je problem, ne, Kubernetes, ne, še vedno so virtualke vzadi, še vedno deluje zadeva.
+
+1483
+01:52:22,000 --> 01:52:33,000
+In kaj je problem, če izmanjka virtualk, ne? Boš mogo novo narediti, ampak… Novo s sistem bo to automatsko naredil, ampak kaj je problem, ne, ti zgubiš vsaj pol minuta, ne, ali pa dvaj sekund, ali pa več, ne.
+
+1484
+01:52:33,000 --> 01:52:39,000
+Ti rabiš zadevo zdaj, ne, če ti, recimo, tam ti prodaješ, recimo, ne vem, neke delnice, ne, to so veliki denari, ki letijo stran.
+
+1485
+01:52:40,000 --> 01:52:52,000
+Zato, recimo, virtual kublet lahko obejsiš gor, recimo, storitve, ki so že odzadi redi in potem, v bistvu, zadeva špila, če zadeva crkne, se pa že da na tisto in se potem preklopi na tisto informacijo, ki jo važa.
+
+1486
+01:52:53,000 --> 01:52:56,000
+Zdaj, da se vrnem nazaj na PowerShell, da sem malo skočil iz open source-a, ne.
+
+1487
+01:52:58,000 --> 01:52:59,000
+Ampak je open source-a.
+
+1488
+01:53:00,000 --> 01:53:01,000
+Je.
+
+1489
+01:53:01,000 --> 01:53:09,000
+Torej, PowerShell imate na github.com forward slash Microsoft forward slash PowerShell in dobiš ti, v bistvu, nazaj vse, ne.
+
+1490
+01:53:11,000 --> 01:53:15,000
+Torej, celotno source code-o pa vse, pa vidiš, v bistvu, kako stvar deluje, ne.
+
+1491
+01:53:16,000 --> 01:53:23,000
+In kaj za finta, ne, je, da Microsoft ti nobeni ne reče, da moraš uporabljati PowerShell.
+
+1492
+01:53:25,000 --> 01:53:26,000
+To je tvoja lasna izbira.
+
+1493
+01:53:27,000 --> 01:53:30,000
+Tudi nobeni ti ne reče, da moraš uporabljati Windows, ne.
+
+1494
+01:53:31,000 --> 01:53:32,000
+Tudi lahko uporabljaš Linux, ne.
+
+1495
+01:53:33,000 --> 01:53:38,000
+Dobro, sicer boš, verjetno, malo omejen, ker pač določene stvari delajo na Linuxu, določene ne, ne.
+
+1496
+01:53:39,000 --> 01:53:42,000
+To, recimo, Teams lahko uporabljaš, samo Skype lahko uporabljaš.
+
+1497
+01:53:42,000 --> 01:53:44,000
+Nemoš, recimo, Outlooka, ne, in podobnih stvarine.
+
+1498
+01:53:46,000 --> 01:53:50,000
+In niso ti nobeni ne reče, da ne smeš uporabljati, recimo, drugi zadja, ampak
+
+1499
+01:53:51,000 --> 01:53:53,000
+tudi lahko, recimo, baš uporabljaš, ne.
+
+1500
+01:53:55,000 --> 01:53:58,000
+Za PowerShell je pa tako, recimo, jaz sem se ga začel učiti,
+
+1501
+01:53:59,000 --> 01:54:03,000
+že na začetku, ne, predvsem zaradi tega, ko sem videl en demo,
+
+1502
+01:54:04,000 --> 01:54:08,000
+kjer je človek naredil iskanje po registriju,
+
+1503
+01:54:08,000 --> 01:54:11,000
+za uporabo osnovnih ukazov preko PowerShell-a.
+
+1504
+01:54:12,000 --> 01:54:14,000
+Kaj je to vzgledalo, ne, recimo, če si to predstavljamo v bash-u,
+
+1505
+01:54:15,000 --> 01:54:19,000
+v bash-u prideš, vprašaš terminal, rečeš cd, ne, in downloads,
+
+1506
+01:54:20,000 --> 01:54:22,000
+pa rečeš ls, da ti vržem nazaj, zadeve.
+
+1507
+01:54:23,000 --> 01:54:28,000
+V PowerShell-u, recimo, kjer deluje na, kjer bistvo odzadje je dotnet, lahko uporabljaš,
+
+1508
+01:54:29,000 --> 01:54:32,000
+lahko uporabljaš tako mnane mitja, uporabljamo providers, ne.
+
+1509
+01:54:33,000 --> 01:54:36,000
+In je izkušno isto, ti rečeš cd, ne, in uporabljaš.
+
+1510
+01:54:36,000 --> 01:54:40,000
+In je izkušno isto, ti rečeš cd in potem rečeš, ne vem, ime, ki si se je zmislil,
+
+1511
+01:54:41,000 --> 01:54:45,000
+v tem primeru, recimo, registry, rečeš cd registry in v registriju rečeš ls.
+
+1512
+01:54:46,000 --> 01:54:50,000
+In dobiš nazaj registry, ki rečeš, ne vem, ls, pa zvezdica, pa, ne vem, niki, pa, ne.
+
+1513
+01:54:51,000 --> 01:54:54,000
+Skratka, v bistvu, ti da nazaj ful veliko moč, ne.
+
+1514
+01:54:55,000 --> 01:54:58,000
+Torej, ne rabiš pipat trijesetkrat, ne, zaradi tega, da bistvo lahko dobiš nazaj informacijo, ne,
+
+1515
+01:54:59,000 --> 01:55:01,000
+ampak dobiš res ta power. Kaj je še pa največji power?
+
+1516
+01:55:01,000 --> 01:55:05,000
+Recimo, jaz sem spisal, in to je na mojem GitHubu tudi, jaz sem spisal, recimo, provajda za Kubernetes.
+
+1517
+01:55:06,000 --> 01:55:12,000
+Recimo, kaj je problem? Pri Kubernetesu, ne, imaš ti engine, ne, preko katerega ti bistvo rečeš kubectl,
+
+1518
+01:55:13,000 --> 01:55:16,000
+torej, bistvo to je uradnj, uradnj, client tool za, od Google, ne.
+
+1519
+01:55:17,000 --> 01:55:20,000
+Rečeš kubectl get pods, ne.
+
+1520
+01:55:21,000 --> 01:55:27,000
+Jaz sem pa spisal, recimo, primer PowerShell-a, ki je ti rečeš, recimo, cd pods.
+
+1521
+01:55:27,000 --> 01:55:30,000
+Pa rečeš ls, pa ti vrže nazaj pode.
+
+1522
+01:55:31,000 --> 01:55:36,000
+Torej, bistvo interakcija, ne, ki jo ti hočeš imeti z sistemom odzada, je čisto drugačna.
+
+1523
+01:55:37,000 --> 01:55:44,000
+Kar pomeni, ti, ti bistvo ne delaš sam z teksto objekti, ampak delaš bistvo z, mislim, z tekstom, ampak delaš z objekti, ne.
+
+1524
+01:55:45,000 --> 01:55:49,000
+Torej, bistvo uporabljaš objekte in kontroliraš, ne. Zato, recimo, sem si ga jaz izbral kot.
+
+1525
+01:55:50,000 --> 01:55:55,000
+Zdaj, če boste šli, recimo, pogledati v dokumentacijo, vse, vsi primeri so narejeni s Bashom,
+
+1526
+01:55:55,000 --> 01:55:57,000
+primeri so narejeni s PowerShell-om in tako naprej.
+
+1527
+01:55:58,000 --> 01:56:05,000
+Zdaj, najlažji seveda, ne, je pa uporabljati, zakaj, recimo, je priporočljivo, da se ga naočišči, sej pač Microsoft Shop,
+
+1528
+01:56:06,000 --> 01:56:09,000
+je pa predvsem zatem, ker na vsih serverih je, bistvo, PowerShell že po defoltu gor.
+
+1529
+01:56:10,000 --> 01:56:12,000
+Torej, ti ne rabiš nič inštalirati, ne rabiš nobenih zadev.
+
+1530
+01:56:13,000 --> 01:56:16,000
+Mi imamo Windows App System for Linux, ne, ampak kaj je problem?
+
+1531
+01:56:17,000 --> 01:56:24,000
+Na serverih, recimo, dobro, Windows 2022 je že opce, kjer ga doda zraven, ampak ti moraš to dodatno inštalirati kot package.
+
+1532
+01:56:25,000 --> 01:56:28,000
+Ne, potem moraš Bash, recimo, se ga možeš tudi naučiti, ne.
+
+1533
+01:56:29,000 --> 01:56:33,000
+Imamo tudi tutorial na to temo, ne, torej, bistvo, Microsoft ima official tutorial na docs.microsoft.com,
+
+1534
+01:56:34,000 --> 01:56:38,000
+kjer se lahko, bistvo, naučiš Basha, kako se ga uporablja programirati in tako naprej.
+
+1535
+01:56:39,000 --> 01:56:46,000
+Pri PowerShell-o, recimo, imaš pa to že od takrat naprej built-in in lahko zadevo normalno uporabljaš.
+
+1536
+01:56:47,000 --> 01:56:51,000
+Tudi, recimo, Microsoft je zelo vložil veliko in tudi tudi Open Source, by the way, Windows Terminal, ne,
+
+1537
+01:56:52,000 --> 01:56:56,000
+ki je, bistvo, eno vrode na Windowsih, ki ga lahko uporablja, sicer ni za Linux, ampak na Windowsih,
+
+1538
+01:56:57,000 --> 01:57:05,000
+ki je, bistvo, so vzeli, torej, najboljše ideje, ki jih ima pač community glede uporabe Terminala in se ga to vzrušljivo aplikacijo,
+
+1539
+01:57:06,000 --> 01:57:09,000
+da res gleda za aplikacija tako, kot mora zgledati v smislu uporabnosti, ne,
+
+1540
+01:57:10,000 --> 01:57:13,000
+dizajna, uporabnosti, prinesljivosti in podobne zadeve.
+
+1541
+01:57:14,000 --> 01:57:19,000
+Isto kot, če bi, recimo, na Linuxu reč ozem pa uporabljalo Electricity ali pa bom uporabljal Fish ali pa bom uporabljal, ne,
+
+1542
+01:57:19,000 --> 01:57:26,000
+in ker koli drug, ki mi bo pomagal recimo pri temu, zdaj imamo podobno varianto, s tem, da imaš eno skupno točko, ki je lahko uporabljaš na Windows.
+
+1543
+01:57:27,000 --> 01:57:34,000
+Krka, jaz sem narabil, jaz sem se ga lotil posem za tega, ker je dotnet, ne, ni pa to, ni pa to nuljno plus,
+
+1544
+01:57:35,000 --> 01:57:42,000
+lažje je, ker pač, konc konc, smo Microsoft, ne, v smislu, da je vsa dokumentacija tudi vezana, ne, za…
+
+1545
+01:57:43,000 --> 01:57:45,000
+In kriš svojo hrano, kako smo že rekli.
+
+1546
+01:57:45,000 --> 01:57:47,000
+Kriš svojo hrano, kako smo že rekli.
+
+1547
+01:57:48,000 --> 01:57:56,000
+Je fajn, da poznaš te stvari za tega, kako prideš enkrat k firmam, ki delajo emigracijo, ne, je avtomatizacija, recimo, ponovarite drugo vprašanje, ki ga dobiš, ne.
+
+1548
+01:57:57,000 --> 01:58:08,000
+In takrat moraš dati nekaj njim, ne, in to recimo, vsi razumejo, vsaj ti, ki delajo za Windows serveri, razumejo PowerShell, ker je pač ugrajen v sam sistem.
+
+1549
+01:58:09,000 --> 01:58:10,000
+Upam, da sem odgovoril.
+
+1550
+01:58:11,000 --> 01:58:12,000
+Mislim, da si.
+
+1551
+01:58:12,000 --> 01:58:14,000
+Nego. Andraž, zadnja misl?
+
+1552
+01:58:16,000 --> 01:58:24,000
+Ne vem, meni je bilo super. Po moje smo našteljali ful veliko stvari, tako da, če nekdo to zelo počas posluša, ima kar veliko googlenja…
+
+1553
+01:58:25,000 --> 01:58:26,000
+… bomo rekli, ker bomo dali spodaj vse.
+
+1554
+01:58:27,000 --> 01:58:37,000
+Ja, ja, mislim, tudi jaz sem se ful enih stvari naučil, ene stvari so si čisto simetrične, mislim, z drugimi oblaki določene so pa tudi meni nove, tako da meni je bilo to super.
+
+1555
+01:58:38,000 --> 01:58:40,000
+Bojan, zadnja misl s tvoje strani?
+
+1556
+01:58:40,000 --> 01:58:55,000
+Moja zadnja misl v bistvu je, da zelo se vidi, da je ta mission statement, ki ga imamo, se zdaj vedno bolj vidi v praksi, torej Empower Evernalization on the Planet.
+
+1557
+01:58:56,000 --> 01:58:58,000
+In torej sem to, če moram, tukaj se zdaj zelo, zelo vidi v praksi.
+
+1558
+01:58:59,000 --> 01:59:08,000
+In jaz lahko rečem, da sem ponosen, da sem dotknit razjelec in pa Microsoft zaposlen, ker se dogaja zelo zanimive stvari in je prav zabavno vsak dan.
+
+1559
+01:59:09,000 --> 01:59:17,000
+Spoznat nekaj novega in se naučit nekaj novega, ker to je tudi ena izmed stvari, ki jih kot cloud solution architect moraš delati, je, da se skosočiš.
+
+1560
+01:59:18,000 --> 01:59:21,000
+Dobro, najbolj to je pol ključna misel.
+
+1561
+01:59:22,000 --> 01:59:25,000
+Bojan, Andraž, najlepša hvala za vajen čas.
+
+1562
+01:59:26,000 --> 01:59:28,000
+Vam, ki ste poslušali, se zahvaljujemo za pozornost.
+
+1563
+01:59:29,000 --> 01:59:36,000
+Dajte nam kakšen feedback, delite s svojimi prijatelji, kolegi in znanci, pa se slišimo in govorimo naslednjič.
+
+1564
+01:59:36,000 --> 01:59:38,000
+Srečno in zvidenje.
+
+1565
+01:59:39,000 --> 01:59:40,000
+Hvala za spomeni in srečno.

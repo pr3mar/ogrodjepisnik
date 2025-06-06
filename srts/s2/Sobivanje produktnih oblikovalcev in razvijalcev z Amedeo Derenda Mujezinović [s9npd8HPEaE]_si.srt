@@ -1,0 +1,1703 @@
+1
+00:00:00,000 --> 00:00:10,000
+🎵🎵🎵
+
+2
+00:00:10,000 --> 00:00:16,000
+In tako se polno izteši naš džingl.
+
+3
+00:00:16,000 --> 00:00:21,000
+Danes smo tukaj v Portorožu,
+
+4
+00:00:21,000 --> 00:00:26,000
+v sklopu konference Make It, Jcon,
+
+5
+00:00:26,000 --> 00:00:30,000
+Sjog, čakaj, kaj še je?
+
+6
+00:00:30,000 --> 00:00:32,000
+Ja, Slovenija je še, zdravje.
+
+7
+00:00:32,000 --> 00:00:34,000
+To imamo oba napisano.
+
+8
+00:00:34,000 --> 00:00:39,000
+In tukaj bomo danes posnerili novo epizodo Grodja.
+
+9
+00:00:39,000 --> 00:00:44,000
+Epizodo, ki je sprva nismo najbolje načrtovali,
+
+10
+00:00:44,000 --> 00:00:48,000
+ampak potem, ker smo na tej konferenci spoznali eno odlično gostje,
+
+11
+00:00:48,000 --> 00:00:52,000
+smo se odločili, da jo bomo zelo spontanno in zelo na hitro vse eno izvedli.
+
+12
+00:00:52,000 --> 00:00:57,000
+Posebej zato, ker je bil en odličen tolk danes na tej konferenci
+
+13
+00:00:57,000 --> 00:01:02,000
+in se mi zdi, da bi mogli več tega, kaj smo danes slišali in slišati tudi naših gostje.
+
+14
+00:01:02,000 --> 00:01:07,000
+Epizode bomo mogoče malinko zbolj kratke kot so druge,
+
+15
+00:01:07,000 --> 00:01:10,000
+ampak vse eno bo zelo zanimivo.
+
+16
+00:01:10,000 --> 00:01:14,000
+To je tako nek soft intro.
+
+17
+00:01:14,000 --> 00:01:18,000
+In spodobi se, da najprej sploh predstavim gostjev.
+
+18
+00:01:18,000 --> 00:01:22,000
+Danes je z mano Amadea Derenda Mujezinovič. Pozdravljeno.
+
+19
+00:01:22,000 --> 00:01:24,000
+Pozdravljeno.
+
+20
+00:01:24,000 --> 00:01:28,000
+Amadea, Amadea, se bom provod pravilno izgovarjala,
+
+21
+00:01:28,000 --> 00:01:31,000
+tako da lahko bova upravlja.
+
+22
+00:01:31,000 --> 00:01:36,000
+Je senior UI, UX researcher.
+
+23
+00:01:36,000 --> 00:01:41,000
+Ne vem, ali si consultant, kontraktor tudi, ampak trenutno delaš za podjetje Caldi.
+
+24
+00:01:41,000 --> 00:01:46,000
+Predtem si pa delala, mislim, da sedem ali osem let tudi za podjetje Messi.
+
+25
+00:01:46,000 --> 00:01:48,000
+Tako je.
+
+26
+00:01:48,000 --> 00:01:51,000
+Podjetje, ki dela medical devices, če se ne motim.
+
+27
+00:01:51,000 --> 00:01:58,000
+Si tudi zelo vidna in zelo aktivna članica UX community-a v Sloveniji.
+
+28
+00:01:58,000 --> 00:02:07,000
+Pa, kaj še moram povejati, vodiš tudi eno, si co-founderka projekta Screensavers,
+
+29
+00:02:07,000 --> 00:02:11,000
+ki je v bistvu, če sem prav razumel, pa me boš popravila,
+
+30
+00:02:11,000 --> 00:02:18,000
+v bistvu nekakšna akademija za UI, UX in izvajate korse,
+
+31
+00:02:18,000 --> 00:02:26,000
+kaj v bistvu učite ljudi service dizajna, UX-a, kaj če se še.
+
+32
+00:02:26,000 --> 00:02:32,000
+V bistvu, kako prijet, kako ugotovit, kaj sploh zgradit,
+
+33
+00:02:32,000 --> 00:02:37,000
+pa pal to nekak prepelat do developmanta, tako da v resnic pokrivamo.
+
+34
+00:02:38,000 --> 00:02:41,000
+Zdaj, ugotavljamo, da smo že v product management gremo,
+
+35
+00:02:41,000 --> 00:02:46,000
+oziroma ta del, tako kot govorit, stakeholderji in to.
+
+36
+00:02:46,000 --> 00:02:53,000
+Ampak v osnovi smo začeli z tega, da je to neko specifično znanje,
+
+37
+00:02:53,000 --> 00:03:00,000
+da imamo vizualne dizajnere in pal, ko pridejo v tech, je to čisto en drug svet
+
+38
+00:03:00,000 --> 00:03:04,000
+in so v bistvu ene druge kompetencije, ki so tudi važne.
+
+39
+00:03:04,000 --> 00:03:09,000
+In to smo pač par let nazaj ugotovili, da je to v bistvu zelo težko
+
+40
+00:03:09,000 --> 00:03:14,000
+narediti, pa se priučiti, ko priješ znotraj nekega podjetja,
+
+41
+00:03:14,000 --> 00:03:23,000
+pa tudi podjetja zares ne vejo, kako ta vloga lahko pomaga v resnici.
+
+42
+00:03:23,000 --> 00:03:28,000
+Smo rekli, ok, da bomo naredili par tečajov, smo naredili par tečajov,
+
+43
+00:03:28,000 --> 00:03:33,000
+zdaj imamo kar neki mentorjev, že, ki pokrivajo različne aspekte od
+
+44
+00:03:33,000 --> 00:03:40,000
+research-a do malo product management-a do UI-a. Šli bomo tudi vedno bolj v te
+
+45
+00:03:40,000 --> 00:03:44,000
+neke bolj leadership tematike, ki vidimo, da je tukaj še ful enega prostora.
+
+46
+00:03:44,000 --> 00:03:48,000
+Pa pa še stvari, ki jih delamo zravene, pa v bistvu, da svetujemo,
+
+47
+00:03:48,000 --> 00:03:54,000
+delamo konzultinge v firmah, pa coachinge, tudi kako delati z dizajnerji,
+
+48
+00:03:54,000 --> 00:04:01,000
+kako prepeljati dizajn kot vlogo v podjetje, tako da ful enih stvarinov.
+
+49
+00:04:01,000 --> 00:04:06,000
+A to ste korporacija? Ste društvo?
+
+50
+00:04:06,000 --> 00:04:07,000
+Zavod.
+
+51
+00:04:07,000 --> 00:04:12,000
+Zavod, aha, ok, kot zavod ste, pa drugače delate v različnih podjetjih
+
+52
+00:04:12,000 --> 00:04:14,000
+na te vloge?
+
+53
+00:04:14,000 --> 00:04:20,000
+Tako, sva dva co-founderja, jaz pa Ljaš Vindiš, tako da oba preuzijo vlogo
+
+54
+00:04:21,000 --> 00:04:25,000
+nekih lidov, pač Ljaš dela v Flavijarju, jaz pa pač na Kaldijo,
+
+55
+00:04:25,000 --> 00:04:30,000
+tako kot si že umelo, tako da zraven pa v bistvu postavljava te sisteme
+
+56
+00:04:30,000 --> 00:04:35,000
+in pač poskušava prepeljati malo več tega tukaj v Slovenijo.
+
+57
+00:04:35,000 --> 00:04:44,000
+Ok, zdaj, tukaj sem si še zapisal, ne vem, a to še počnete, ampak nekaj časa
+
+58
+00:04:44,000 --> 00:04:52,000
+je bil ta nek GoJam, kjer ste v bistvu pomagali tudi svetovati javne uprave
+
+59
+00:04:52,000 --> 00:04:57,000
+oziroma kako izboljšati javne storiteve, oziroma, lahko to še malo razložiti,
+
+60
+00:04:57,000 --> 00:04:58,000
+kaj pa to?
+
+61
+00:04:58,000 --> 00:05:04,000
+Ja, v bistvu GoJam-i so bili del ene inicijative, ki se reče Service Jams,
+
+62
+00:05:04,000 --> 00:05:10,000
+ene v bistvu svetovna inicijativa, ki v enem vikendu v bistvu ta proces,
+
+63
+00:05:10,000 --> 00:05:15,000
+ki ga uporabljamo Service Designerji in UXeri, tako malo narediš v enem vikendu
+
+64
+00:05:15,000 --> 00:05:21,000
+v 48 hurah, prideš od neke ideje, pa pal do nekega testiranega prototipa v resnici.
+
+65
+00:05:21,000 --> 00:05:23,000
+To so hackatoni?
+
+66
+00:05:23,000 --> 00:05:29,000
+Kaj nekaj hackatoni, ja, samo da je več pol darka kaj zgraditi,
+
+67
+00:05:29,000 --> 00:05:35,000
+ko kar dejansko zgraditi, kjer pri hackatonih gre že zelo veliko kodo,
+
+68
+00:05:35,000 --> 00:05:42,000
+veliko se prečakuje na tem deliveriju, med tem, ker pri nas je bilo to vedno bolj,
+
+69
+00:05:42,000 --> 00:05:47,000
+pač, pajt se ven pogovarjati z ljudmi, ko to sploh imajo ta problem,
+
+70
+00:05:47,000 --> 00:05:54,000
+narediti prvi prototip, kaj pač šiti prototip, ne, pajt ven testirati.
+
+71
+00:05:54,000 --> 00:05:58,000
+Ampak je pa vedno okoli government service, ok?
+
+72
+00:05:58,000 --> 00:06:04,000
+Ne, bili so trije, mi smo delali to tri na let, bil je pač Service Jam,
+
+73
+00:06:04,000 --> 00:06:08,000
+ki je bil zelo tako splošen, ne splošno načrtovanje stvari,
+
+74
+00:06:08,000 --> 00:06:12,000
+potem je bil Go Jam, ki je bil namenjen javni upravi,
+
+75
+00:06:12,000 --> 00:06:15,000
+in potem je bil še ustav Sustainability Jam.
+
+76
+00:06:15,000 --> 00:06:19,000
+To je furela ena ekipa iz Nemčije,
+
+77
+00:06:19,000 --> 00:06:25,000
+ko so bili pač, tako da mi smo bili tu dost nakonektani z njimi,
+
+78
+00:06:25,000 --> 00:06:30,000
+pač dost smo si bili blizu ta community, bil ful tak, ful fajn, ful powerful,
+
+79
+00:06:30,000 --> 00:06:37,000
+pač tudi kako sem jaz prišla v UX, ne, moj background je v osnovi grafično oblikovanje,
+
+80
+00:06:37,000 --> 00:06:42,000
+ker se v resnici nisem vedno počutila čisto dolaz.
+
+81
+00:06:42,000 --> 00:06:46,000
+In potem so še na en ta Jam, pač tako,
+
+82
+00:06:46,000 --> 00:06:51,000
+bila sem študentka, rabila sem job, imela sem, ne vem, sedem let kelnarjenja za seboj, ne,
+
+83
+00:06:51,000 --> 00:06:55,000
+obnih resnih izkušenj, in pa je bil tukaj ta nek workshop,
+
+84
+00:06:55,000 --> 00:06:58,000
+ki niti nisi slišel se kot nekaj, kar…
+
+85
+00:06:59,000 --> 00:07:04,000
+In potem so bili tam ljudje iz D-labsov, pa iz gorenji design studija,
+
+86
+00:07:04,000 --> 00:07:09,000
+in potem sem bila tako, mogoče pa če grem, ne, mogoče pa kakšen job iz tega ali pa nekaj.
+
+87
+00:07:09,000 --> 00:07:14,000
+In potem sem prišla kej in so pač naspravljali čisto ta proces in jaz sem bila tako,
+
+88
+00:07:14,000 --> 00:07:18,000
+oh my god, pač tako, this makes sense, this makes all the sense in the world,
+
+89
+00:07:18,000 --> 00:07:21,000
+pač tako je treba delati, tako moramo delati.
+
+90
+00:07:22,000 --> 00:07:28,000
+Ako rečeš grafično oblikovanje, to se pogovarjamo o…
+
+91
+00:07:28,000 --> 00:07:34,000
+Kaj sploh pomeni danes nekogo, kaj pomeni študij grafičnega oblikovanja?
+
+92
+00:07:34,000 --> 00:07:39,000
+A je to te učilo risati, ne vem, razglednice?
+
+93
+00:07:39,000 --> 00:07:41,000
+Ali te je učilo delati epe?
+
+94
+00:07:41,000 --> 00:07:44,000
+Mislim, kaj, sploh nimam, dej nam to, Marja, razložiti.
+
+95
+00:07:44,000 --> 00:07:46,000
+Kaj se danes učijo?
+
+96
+00:07:47,000 --> 00:07:49,000
+To res ni zelo dobro vprašanje že.
+
+97
+00:07:49,000 --> 00:07:53,000
+Kaj sem bila jaz na Faxu, pač davnega leta, ne bomo povedali kdaj.
+
+98
+00:07:55,000 --> 00:07:59,000
+Jaz sem delala na TV, grafično interaktivne komunikacije,
+
+99
+00:07:59,000 --> 00:08:05,000
+in v bistvu cool del na TV je bil ta, da smo se učili malo vsega.
+
+100
+00:08:05,000 --> 00:08:10,000
+Od tega, da smo snemali neke video, do tega, da smo delali neke website-e v Jumli,
+
+101
+00:08:10,000 --> 00:08:15,000
+pač do tega, ne vem, da smo imeli matematiko in vse.
+
+102
+00:08:15,000 --> 00:08:19,000
+Pa smo imeli pa tudi malo oblikovanje. Kaj smo mi imeli takrat,
+
+103
+00:08:19,000 --> 00:08:27,000
+je bilo pač neko oblikovanje plakatov, embalaže, tipografije, tako.
+
+104
+00:08:27,000 --> 00:08:33,000
+Se mi pa zdi, da v večinoma se vsa ena te Faxi še vedno osredotočajo
+
+105
+00:08:35,000 --> 00:08:39,000
+na ta oblikovalska del, še vedno okol tipografije, okol printa.
+
+106
+00:08:39,000 --> 00:08:47,000
+Saj se gre tudi v digital, ampak digital kot tako statičen ne nujnoživ medij.
+
+107
+00:08:47,000 --> 00:08:52,000
+Med tem, da delaš v teku, pač app-i so resnici že veje.
+
+108
+00:08:53,000 --> 00:09:00,000
+In tukaj tudi Faxi se težko zelo na hiter obarnejo, pa spremenjajo kurikulume.
+
+109
+00:09:01,000 --> 00:09:04,000
+Tek se pa ful hiter razvija.
+
+110
+00:09:04,000 --> 00:09:12,000
+Pri teh nekih računalniških šolah pa to ti rečejo, da na čeloma ti algoritmi ostanejo enaki,
+
+111
+00:09:12,000 --> 00:09:17,000
+pač spremenjajo, ok, zamenjaš nek programski jezik, ampak neki koncepti pa vse eno ostajajo.
+
+112
+00:09:17,000 --> 00:09:20,000
+A pri grafičnem oblikovanju, lahko ti to postavimo v vprašanje,
+
+113
+00:09:20,000 --> 00:09:22,000
+da ne vem, barve bojo še vedno iste.
+
+114
+00:09:23,000 --> 00:09:28,000
+Nekaj ta osnovni skillset je verjetno bo še vedno, ampak tehnologija tudi spremenja vse,
+
+115
+00:09:28,000 --> 00:09:30,000
+vse poklico v resnici.
+
+116
+00:09:30,000 --> 00:09:36,000
+Mislim, valjda, barve bojo ostale isto, taj bo ostal isti, pa še zmeri morajo te stvari dobro zgledati,
+
+117
+00:09:36,000 --> 00:09:43,000
+biti brljive, pač metnik look and feel, brand, pač to vse ostaja.
+
+118
+00:09:44,000 --> 00:09:47,000
+Je pa kar precejišna razlika, kako se te stvari gradijo.
+
+119
+00:09:48,000 --> 00:09:54,000
+V grafičnem oblikovanju je tudi, eno stvari, zakaj se meni zdi, da sem jaz malo trpela v tem,
+
+120
+00:09:54,000 --> 00:09:58,000
+je, da majo pač oči, vsaka oči svajega malega.
+
+121
+00:09:58,000 --> 00:10:08,000
+In, da, če ti nimaš, če nisi res fulj, fulj dober, je težko imeti neko in prezenco,
+
+122
+00:10:08,000 --> 00:10:12,000
+in težko je imeti nek status v smislu, da lahko ti na ročniku razložeš,
+
+123
+00:10:12,000 --> 00:10:17,000
+ej, to ima smisel, ne, pač ne bomo dajali nekih mač gor.
+
+124
+00:10:18,000 --> 00:10:24,000
+Med tem, kar pri UX-u, pa pri service designu, a veš, pa pač greš na research,
+
+125
+00:10:24,000 --> 00:10:28,000
+pa nekdo drug pove te stvari, pa prineseš dokaz nazaj, in si tako lepo,
+
+126
+00:10:28,000 --> 00:10:32,000
+če toliko ljudi to rekel, ne, pač aloh, ne.
+
+127
+00:10:33,000 --> 00:10:35,000
+Kršno ne gre, če jaz, ampak.
+
+128
+00:10:36,000 --> 00:10:43,000
+Dej, a še lahko kej več poveš, jaz sem si še zapisal, da imate tudi neke drinke,
+
+129
+00:10:43,000 --> 00:10:50,000
+to mogoče se pravi, bom rekel tako, če vas zanima UX, service design, UI design in to,
+
+130
+00:10:51,000 --> 00:10:57,000
+podite na screensavers-e, pa podite na GoJam-e in to, ampak v me smate še tudi neke meet-upe
+
+131
+00:10:57,000 --> 00:11:02,000
+ali drinke ali kaj, lahko povabimo ljudi še na to zadevo, če jih zanima.
+
+132
+00:11:02,000 --> 00:11:03,000
+Seveda.
+
+133
+00:11:06,000 --> 00:11:14,000
+Service design krat UX drinks, torej, včasih smo delali service design drinks-e,
+
+134
+00:11:14,000 --> 00:11:20,000
+ena ekipa, Evo Jeršin-Jaklevič je vodila UX meet-up in pa smo v enem trenutku rekel,
+
+135
+00:11:20,000 --> 00:11:25,000
+eh, si tu pa v resnici dost podoben audience, kjer delamo dost podobne stvari,
+
+136
+00:11:25,000 --> 00:11:32,000
+kaj pa, če bi to združil malo, tako da nastali so service design krat UX drinks Ljubljana,
+
+137
+00:11:33,000 --> 00:11:40,000
+kaj jih v bistvu hvoramo mesečno med oktobrom in majem, tako da malo smo online,
+
+138
+00:11:40,000 --> 00:11:44,000
+malo smo v živo, malo imamo tvoje goste, malo imamo naše goste.
+
+139
+00:11:44,000 --> 00:11:48,000
+A pa to, imate toke, nekdo prezenta stvari?
+
+140
+00:11:49,000 --> 00:11:56,000
+Vedno, mislim, večinsko imamo neke goste, pa so pa različni formati,
+
+141
+00:11:56,000 --> 00:12:02,000
+od, ne vem, okroglih mis, tipa, ali pa čisto pogovor, odkotko midva zdaj delava,
+
+142
+00:12:02,000 --> 00:12:06,000
+do prezentacij, pač nekih teh klasičnih.
+
+143
+00:12:07,000 --> 00:12:12,000
+Ponovat, dost gosti sodelujemo, kakšen bo ta način in format.
+
+144
+00:12:13,000 --> 00:12:16,000
+Radi smo pa tudi malo tako interaktivnje, radi vključujemo,
+
+145
+00:12:16,000 --> 00:12:20,000
+veliko nam pomeni, da se ljudje vključujejo tekom eventa,
+
+146
+00:12:20,000 --> 00:12:24,000
+pa da radi tudi kakšen mero odpremo, pa kaj tam naklikamo.
+
+147
+00:12:24,000 --> 00:12:27,000
+Eja, da poskušate v bistvu ustvarjati, da je zelo interaktivno.
+
+148
+00:12:27,000 --> 00:12:28,000
+Ja, ja.
+
+149
+00:12:28,000 --> 00:12:32,000
+Odlično. Jaz imam v dost spodi link, pa vse, ki va zanima, pojdite pogledat,
+
+150
+00:12:32,000 --> 00:12:34,000
+pa se jo joinajte, to bomo rekla.
+
+151
+00:12:34,000 --> 00:12:36,000
+Ja, ja, prijte, prijte.
+
+152
+00:12:37,000 --> 00:12:43,000
+Zdaj bomo zajedrali v bistvu tega tvojega toka, ki si ga imela na tej konferenciji.
+
+153
+00:12:44,000 --> 00:12:49,000
+Pa bom tako rekel, bilo je danes, mislim, da so bili štirje treki.
+
+154
+00:12:50,000 --> 00:12:57,000
+Slišali smo od Kubernetesa do Java, do oraklovih tehnologij, baz, bla, bla, bla.
+
+155
+00:12:58,000 --> 00:13:02,000
+Ampak tvoj tok je ful izstopil, zato ker je bilo nekaj,
+
+156
+00:13:02,000 --> 00:13:05,000
+ko ni ravno pasalo notri v samo Java.
+
+157
+00:13:05,000 --> 00:13:11,000
+Ampak, ko sem poslušal ta tok, na koncu je bilo pač največje vprašanje.
+
+158
+00:13:11,000 --> 00:13:14,000
+Mislim, da je bilo deset vprašanj, ljudje so se začutili vse,
+
+159
+00:13:14,000 --> 00:13:18,000
+da to, kaj si govorila, je ful potrebno in da imajo ful še vprašanj.
+
+160
+00:13:20,000 --> 00:13:25,000
+Zato sem hotel, da to še tukaj enkrat poveš, ker mislim, da bi ljudje veliko odnesli.
+
+161
+00:13:25,000 --> 00:13:28,000
+Pa bi te samo prosil, da poveš kaj ta nek...
+
+162
+00:13:29,000 --> 00:13:31,000
+Ampak bom jaz spovedal.
+
+163
+00:13:32,000 --> 00:13:34,000
+Če že imam tam vlog.
+
+164
+00:13:34,000 --> 00:13:38,000
+Title je bilo Coexistence between Product Designers and Developers.
+
+165
+00:13:39,000 --> 00:13:46,000
+In pač ta summary je bil, da developeri in produktni ljudje
+
+166
+00:13:46,000 --> 00:13:48,000
+moremo sodelovati.
+
+167
+00:13:49,000 --> 00:13:51,000
+Zakaj, kako.
+
+168
+00:13:52,000 --> 00:13:54,000
+To je bil tok.
+
+169
+00:13:55,000 --> 00:13:57,000
+Na začetku.
+
+170
+00:13:57,000 --> 00:14:00,000
+Na začetku, ok. In potem kaj?
+
+171
+00:14:02,000 --> 00:14:05,000
+Ja, mislim, najprej hvala za pohvalo.
+
+172
+00:14:05,000 --> 00:14:06,000
+Ja, prosim.
+
+173
+00:14:06,000 --> 00:14:15,000
+Moram povejati, da sem se dva tedna sprašvala, kaj vraga bom delala.
+
+174
+00:14:15,000 --> 00:14:19,000
+Tudi kaj mi je bilo tega treba, pa kaj bom jaz tukaj
+
+175
+00:14:19,000 --> 00:14:24,000
+nekaj developerskih skupnosti prišla prodavati.
+
+176
+00:14:24,000 --> 00:14:28,000
+Tako da sem veliko veselena, da je bil tako odziv.
+
+177
+00:14:31,000 --> 00:14:35,000
+Jaz veliko govorim o tem sodelovanju, kako moramo sodelovati
+
+178
+00:14:35,000 --> 00:14:40,000
+in komunicirati za to, da dobri produkti in dobre appi
+
+179
+00:14:40,000 --> 00:14:43,000
+se na koncu lahko samoče dobro delamo skupaj.
+
+180
+00:14:43,000 --> 00:14:47,000
+To se vedno odraža na končnem produktu.
+
+181
+00:14:48,000 --> 00:14:52,000
+In potem imamo vse te nekaj frikšne, ki se zgodijo v temih,
+
+182
+00:14:52,000 --> 00:14:57,000
+ampak največkrat zaradi tega, da ne govorimo iste jezike.
+
+183
+00:14:59,000 --> 00:15:04,000
+Ne vem, tudi dosti krat poslušam, kako dizajnerji ne znamo,
+
+184
+00:15:04,000 --> 00:15:09,000
+da se pogovarja s developerji, pa ne znamo to ali pa ne razumemo njih.
+
+185
+00:15:09,000 --> 00:15:13,000
+Po drugi strani, oni ne razumejo nas, pa še nobeden od nas
+
+186
+00:15:13,000 --> 00:15:15,000
+ne govori biznis.
+
+187
+00:15:17,000 --> 00:15:23,000
+In to bi enostavno malo, vse ta ciklo je malo čudno,
+
+188
+00:15:23,000 --> 00:15:26,000
+oziroma lahko je to že zrifteno.
+
+189
+00:15:28,000 --> 00:15:35,000
+Tam si dala eno dobro piče na začetku, da v kuhini,
+
+190
+00:15:37,000 --> 00:15:42,000
+pa si ful obro analogijo potegnala. Dej še to ponovi, prosim.
+
+191
+00:15:43,000 --> 00:15:48,000
+Govorila smo v tem, da obstajajo vsi te možni frameworki,
+
+192
+00:15:48,000 --> 00:15:52,000
+ki jih dosti krat vzamemo zelo zdravo zagotovo.
+
+193
+00:15:54,000 --> 00:15:57,000
+Če je na Spotify oddelal, bo tudi pr nas.
+
+194
+00:15:58,000 --> 00:16:01,000
+In se dosti krat berajo kot neki recepti.
+
+195
+00:16:02,000 --> 00:16:08,000
+OK, imamo nekih biznis insajtov na mešče bule za začetek,
+
+196
+00:16:08,000 --> 00:16:13,000
+pa dodamo dva back-end developerja, da postavlja tako močno bazo
+
+197
+00:16:14,000 --> 00:16:16,000
+za župo.
+
+198
+00:16:18,000 --> 00:16:23,000
+Dodamo enega front-endovca in enega dizajnerja, da to olepšata,
+
+199
+00:16:23,000 --> 00:16:25,000
+pa za on petršil na vrh.
+
+200
+00:16:27,000 --> 00:16:30,000
+In enega product managerja, da vsake toksajta to premeša.
+
+201
+00:16:31,000 --> 00:16:35,000
+Vržamo vse skupaj od džero, kuhamo šest do osem sprintov,
+
+202
+00:16:36,000 --> 00:16:38,000
+premešamo vsak drug pundelj.
+
+203
+00:16:40,000 --> 00:16:42,000
+In to je to. In pa imamo neke MVP.
+
+204
+00:16:43,000 --> 00:16:44,000
+In pa se čutimo, zakaj ...
+
+205
+00:16:44,000 --> 00:16:47,000
+Amo, vsem, ampak to je kr, da že imaš MVP, to je že kr nekaj.
+
+206
+00:16:48,000 --> 00:16:53,000
+Mislim, vsi problemi, da potem te MVP največkrat niso zares MVP,
+
+207
+00:16:53,000 --> 00:16:56,000
+ampak je, ne vem, če rečemo, da je MVP ena nula,
+
+208
+00:16:56,000 --> 00:17:00,000
+so potem te stvari, ki jih damo, dosti krat tam 0.5, 0.6.
+
+209
+00:17:01,000 --> 00:17:02,000
+Ne?
+
+210
+00:17:03,000 --> 00:17:07,000
+Kr na konc za to, da neke stvari narediš res, res v nulo,
+
+211
+00:17:08,000 --> 00:17:12,000
+mislim, res v nulo, da jih dobro narediš, ki jo grejo ven,
+
+212
+00:17:12,000 --> 00:17:14,000
+pa je to toliko stripped down.
+
+213
+00:17:18,000 --> 00:17:20,000
+Ta kuhinja ima bombastična logija.
+
+214
+00:17:22,000 --> 00:17:25,000
+Da jih razložiš, da je te povezalo sama,
+
+215
+00:17:26,000 --> 00:17:30,000
+kak si prišla do tistega trikotnika, kjer si povezala
+
+216
+00:17:33,000 --> 00:17:36,000
+product managerja, designerja pa developerja,
+
+217
+00:17:39,000 --> 00:17:44,000
+zakaj ta trojica more se delovati, da je to še malo povedan, prosim.
+
+218
+00:17:47,000 --> 00:17:51,000
+Najprej se moramo, valjda, odložiti, kaj bomo sploh skuhali,
+
+219
+00:17:51,000 --> 00:17:54,000
+kaj je bon, ta MVP, da gremo potem po recept.
+
+220
+00:17:56,000 --> 00:17:59,000
+In zdaj, kako sem rekela, v real life je easy.
+
+221
+00:18:00,000 --> 00:18:03,000
+Pogledaš, koliko je ura, kaj imaš v hladilniku, koliko ljudi.
+
+222
+00:18:05,000 --> 00:18:08,000
+V digital productu te stvari niso tako simple,
+
+223
+00:18:09,000 --> 00:18:11,000
+pač nač za res digital product ni simple.
+
+224
+00:18:13,000 --> 00:18:18,000
+Več, ki imaš nekih stakeholderjev, več ljudi, ki vplivajo na sam meni.
+
+225
+00:18:22,000 --> 00:18:26,000
+Tle radimo več tih glavnih kuharjev.
+
+226
+00:18:28,000 --> 00:18:33,000
+Se mi zdi, da doskrat pozabljamo, da in design, in development,
+
+227
+00:18:34,000 --> 00:18:36,000
+imate zelo, zelo, zelo, zelo pomembno vlogo.
+
+228
+00:18:38,000 --> 00:18:42,000
+To, kako sem rekla, da nismo samo unika režemo zelenjavo,
+
+229
+00:18:44,000 --> 00:18:48,000
+ampak moramo se delovati v tem procesu, tudi še preden se začne kodati.
+
+230
+00:18:49,000 --> 00:18:53,000
+Da se v bistvu definira, da se dobro definira produkt,
+
+231
+00:18:54,000 --> 00:18:57,000
+da se dobro definira, kaj delamo, za kaj to delamo, za koga to delamo.
+
+232
+00:18:58,000 --> 00:19:01,000
+Zdaj pač product management tle prenese ta nek business side,
+
+233
+00:19:02,000 --> 00:19:05,000
+pa poskrbi za to, da so te stvari sploh viable.
+
+234
+00:19:07,000 --> 00:19:10,000
+Development poskrbi, da lahko te stvari sploh zgradimo.
+
+235
+00:19:12,000 --> 00:19:16,000
+Design pa poskrbi, da je vedno user tist,
+
+236
+00:19:17,000 --> 00:19:22,000
+za katerega delamo, pa da poskrbi res, da se potem user znajde na koncu,
+
+237
+00:19:23,000 --> 00:19:27,000
+pa da si želi to uporabljati, ne, da je sam pač primoran.
+
+238
+00:19:28,000 --> 00:19:35,000
+Zdaj, tudi uloga potem developerja pa dizajnere se potem v takih,
+
+239
+00:19:37,000 --> 00:19:41,000
+moram temu rekla, funkcionalnih ekipah se potem tudi spremeni.
+
+240
+00:19:42,000 --> 00:19:46,000
+To pomeni, da ne moreš čakati, da nekdo magično vse nariše,
+
+241
+00:19:47,000 --> 00:19:50,000
+pa produkt vse pove, pa boš potem šele vrgo rečeš,
+
+242
+00:19:51,000 --> 00:19:53,000
+da to bomo zdaj naredili.
+
+243
+00:19:54,000 --> 00:19:58,000
+To pomeni, da moraš zelo proaktivno te stakeholderje vključevati v proces
+
+244
+00:20:00,000 --> 00:20:05,000
+in tudi, da morajo zelo early biti ljudje vesteni o to, kaj pomeni.
+
+245
+00:20:06,000 --> 00:20:07,000
+Ja, seveda.
+
+246
+00:20:08,000 --> 00:20:11,000
+Dej mi še malo to pove na kak način, da jaz, kot developer,
+
+247
+00:20:12,000 --> 00:20:14,000
+po tem primeru bom vprašal za developerja, kak na primer,
+
+248
+00:20:15,000 --> 00:20:18,000
+potem developerja vključiš v ta proces, kaj pričakuješ od developerjev
+
+249
+00:20:19,000 --> 00:20:21,000
+pri tem načinu govanja?
+
+250
+00:20:22,000 --> 00:20:26,000
+Mislim, ful je dobro, da so developerje že od 4. uro z njih zdrave,
+
+251
+00:20:27,000 --> 00:20:30,000
+pa da tudi, veš, da pridajo na kajšen research, da pridajo poslušati
+
+252
+00:20:30,000 --> 00:20:34,000
+na kajšen intervjuz, da bojo bolj razumeli, kaj morajo sploh zgraditi.
+
+253
+00:20:36,000 --> 00:20:39,000
+Pa spet, developerji imajo nek specifičen point of view,
+
+254
+00:20:40,000 --> 00:20:43,000
+pa kako si razlagajo svet, ki je zelo pomemben zaradi tega,
+
+255
+00:20:44,000 --> 00:20:46,000
+da potem v dizajnu ali produktu ne sanjamo nekih…
+
+256
+00:20:47,000 --> 00:20:48,000
+Stori, ki niso možne.
+
+257
+00:20:49,000 --> 00:20:50,000
+Tako, ne.
+
+258
+00:20:52,000 --> 00:20:56,000
+In fajno je vključati development in čisto na začetku,
+
+259
+00:20:57,000 --> 00:21:02,000
+veš, in stakeholderji, tudi to, da so accountable, ne,
+
+260
+00:21:03,000 --> 00:21:07,000
+pa da so potem oni tisti, ki morajo neke stvari zagovarjati,
+
+261
+00:21:08,000 --> 00:21:12,000
+pa predajati, pa tako, ne, da je to v bistvu nek tak mutual effort.
+
+262
+00:21:13,000 --> 00:21:17,000
+In zdaj ni tle mišljeno, da bi, veš, developerjev, ki imajo itak
+
+263
+00:21:18,000 --> 00:21:22,000
+že ful dela, pa če dodal še neke nove vloge, sanj za to,
+
+264
+00:21:23,000 --> 00:21:24,000
+kar, ne.
+
+265
+00:21:25,000 --> 00:21:31,000
+Samo, verjetno je to vprašanje, za mi je en čas pokazal,
+
+266
+00:21:32,000 --> 00:21:33,000
+pa me je totalno vrgoveno.
+
+267
+00:21:36,000 --> 00:21:42,000
+Hotov se je reči, da verjetno, če ljudi, najlažje je pač buildati
+
+268
+00:21:43,000 --> 00:21:46,000
+stvari, pa ne morem ga vprašati, ne, najlažje je reči,
+
+269
+00:21:47,000 --> 00:21:51,000
+a veš, to je nekaj, to rabimo narediti hitro, pa ne bomo delali
+
+270
+00:21:52,000 --> 00:21:56,000
+researcha, research je traja, research je effort, research pomeni
+
+271
+00:21:57,000 --> 00:21:59,000
+vključiti več ljudi, pomeni več sestankov.
+
+272
+00:22:00,000 --> 00:22:01,000
+Dej mi to povej.
+
+273
+00:22:02,000 --> 00:22:03,000
+A se to splača?
+
+274
+00:22:04,000 --> 00:22:05,000
+Če se splača delati research?
+
+275
+00:22:06,000 --> 00:22:07,000
+Dej nam to povej.
+
+276
+00:22:08,000 --> 00:22:10,000
+Me se zdi, da od vseh stvari, ki jo delamo, se najbolj splača
+
+277
+00:22:11,000 --> 00:22:14,000
+delati research, ker najboljša stvar, v resnici, ki se ti lozgodi,
+
+278
+00:22:15,000 --> 00:22:18,000
+je, da greš na research in ugotoviš, da noben nima tega problema
+
+279
+00:22:18,000 --> 00:22:22,000
+in se ti prihrani leta koudanja in folenih stroškov.
+
+280
+00:22:23,000 --> 00:22:25,000
+Ampak tega sem si malo bojima.
+
+281
+00:22:26,000 --> 00:22:33,000
+Zdaj, eno je to, da po mojih izkušnjah se vedno predvideva,
+
+282
+00:22:34,000 --> 00:22:38,000
+da mora biti ta research ogromen, ne, pa da zato pol nikoli
+
+283
+00:22:39,000 --> 00:22:41,000
+ni denarja in resursov, ne.
+
+284
+00:22:42,000 --> 00:22:46,000
+Po drugi strani si ne želimo nujno zvedeti, kaj ljudje majo povejati,
+
+285
+00:22:47,000 --> 00:22:52,000
+pa tudi velik del tega je, da za ta research senj
+
+286
+00:22:53,000 --> 00:22:55,000
+rabiš nekoga, ki zna postavljati vprašanje, ne.
+
+287
+00:22:56,000 --> 00:22:58,000
+Zdaj, to smo se, to je bilo tudi danes eno vprašanje,
+
+288
+00:23:00,000 --> 00:23:05,000
+kaj pa če, ne, kaj pa če zvemo o, gremo na intervjuje
+
+289
+00:23:06,000 --> 00:23:09,000
+in tam imajo ljudje wishlist-o in potem gradimo raketo.
+
+290
+00:23:10,000 --> 00:23:14,000
+Ja, mislim, če ne moraš vsega, kar ljudje povejo,
+
+291
+00:23:14,000 --> 00:23:18,000
+vzed, kot se znam, featurejo, kaj bomo zgradili, ne.
+
+292
+00:23:19,000 --> 00:23:20,000
+Ampak je treba…
+
+293
+00:23:20,000 --> 00:23:22,000
+To, mislim, da sem si nekaj napisal, da to, kar oni povejo,
+
+294
+00:23:23,000 --> 00:23:25,000
+še nismo bilo, da boš zgradila, ampak to je sam input,
+
+295
+00:23:26,000 --> 00:23:28,000
+ki ga potem dejansko dekonstruktiraš, pogotovo viš,
+
+296
+00:23:29,000 --> 00:23:30,000
+kaj sploh želijo.
+
+297
+00:23:31,000 --> 00:23:32,000
+Tako je.
+
+298
+00:23:33,000 --> 00:23:36,000
+Kaj pa izbereš, recimo, ljudi, ki jih vključiš v ta svoj
+
+299
+00:23:37,000 --> 00:23:39,000
+research, recimo vprezvoja nekega novega produkta,
+
+300
+00:23:40,000 --> 00:23:43,000
+to randomly sampleš ljudi ali pokličiš direktorja firme
+
+301
+00:23:44,000 --> 00:23:47,000
+in vključiš, ne vem, koga recimo vključiš, ali vključiš stranko?
+
+302
+00:23:48,000 --> 00:23:51,000
+Daj nam to malo, izbor tih ljudi, ki vključiš research.
+
+303
+00:23:52,000 --> 00:23:55,000
+Pač, valjda je različno od projekta do projekta, ne.
+
+304
+00:23:56,000 --> 00:23:58,000
+Zdaj, recimo, mi na Kaldijo delamo predvsem neke B2B,
+
+305
+00:23:59,000 --> 00:24:02,000
+pa poslovne aplikacije, je to doskrat malo lažje,
+
+306
+00:24:03,000 --> 00:24:05,000
+ker so to vse neki pač poslovni procesi,
+
+307
+00:24:06,000 --> 00:24:09,000
+veš, ki najde te ljudi in pač ji greš lahko prašati.
+
+308
+00:24:10,000 --> 00:24:12,000
+Če delaš nekaj bolj konzumer za devo,
+
+309
+00:24:12,000 --> 00:24:15,000
+je seveda, da se ti ta nabor razširj.
+
+310
+00:24:16,000 --> 00:24:18,000
+Kar pa po drugi strani tudi mogoče pomeni,
+
+311
+00:24:19,000 --> 00:24:21,000
+da imaš kakšen bližnji dostop, ne.
+
+312
+00:24:22,000 --> 00:24:25,000
+Vedno si postaveš, kaj so neke ciljne skupine,
+
+313
+00:24:26,000 --> 00:24:29,000
+za katere gradiš načeloma, ali pa za katero misliš,
+
+314
+00:24:30,000 --> 00:24:33,000
+da gradiš in pa greš gledati, ok, a res gradim za to ciljno skupino?
+
+315
+00:24:34,000 --> 00:24:36,000
+A je to moja ciljna skupina?
+
+316
+00:24:37,000 --> 00:24:40,000
+Moramo velikrat se izkaži,
+
+317
+00:24:40,000 --> 00:24:43,000
+da je to mogoče nek subset teh ljudi,
+
+318
+00:24:44,000 --> 00:24:46,000
+pa lahko bolj jasno targetiramo,
+
+319
+00:24:47,000 --> 00:24:49,000
+kar je pa super enkratne koče za marketing,
+
+320
+00:24:50,000 --> 00:24:52,000
+ker točno ve, kaj morajo napisati, ne.
+
+321
+00:24:53,000 --> 00:24:54,000
+In ...
+
+322
+00:24:55,000 --> 00:24:57,000
+Tako bolj pomaga, če poznaš svoj audience.
+
+323
+00:24:58,000 --> 00:25:00,000
+Bolj pomaga, če go naši svoj audience.
+
+324
+00:25:00,000 --> 00:25:10,080
+A pak, a so to vedno, a to delaš vedno v storitvu na nek način za ljudi, ki bodo plačali na koncu?
+
+325
+00:25:10,080 --> 00:25:17,920
+Vrjetno je to nek dober indikator, ker če ti ste govorili o plaču, za njega razvijam in njegove prioritete daš na vrh?
+
+326
+00:25:17,920 --> 00:25:20,879
+Se vem, da je najhvalejšno vprašanje.
+
+327
+00:25:20,879 --> 00:25:45,759
+Realno vprašanje. Včasih je težko potrtiti, kdo bo plačal. Pa vemo, da imamo tudi različne poslovne modele, ker v B2B je tako, da je uporabnik čist drug kot kupec.
+
+328
+00:25:45,759 --> 00:25:51,360
+Ampak, spet…
+
+329
+00:25:51,360 --> 00:25:54,639
+Za koga razvijaš servis je pomembno vejet, ne?
+
+330
+00:25:54,959 --> 00:26:06,800
+Ja, zelo je pomembno vejet, kdo je tist, ki bo največ profite… oziroma, komu boš najbolj rešil ta problem.
+
+331
+00:26:06,800 --> 00:26:16,080
+Zato, ker če boš temu človeku, ljudem, skupini ljudi, dober rešil ta problem, je velika vrednost, da bo za to plačali.
+
+332
+00:26:16,080 --> 00:26:19,519
+Ampak to so vse stvari, ki jih lahko preveriš znotraj researcha.
+
+333
+00:26:19,519 --> 00:26:30,800
+Pač imamo različne metode, kako to delamo, od preverjene konceptov do validacije, do intervjujev, do testiranja prototipov.
+
+334
+00:26:30,800 --> 00:26:44,559
+V resnici, cel ta produkt, development, ni nič drugega, kot da pač postavimo neke hipoteze, nekaj zgradimo, želimo si, da je nekaj, kar je čim bolj pocenj,
+
+335
+00:26:44,559 --> 00:26:50,639
+preverimo, s tem preverimo hipotezo in potem postavimo nove hipoteze na podlagi tega, kar smo se naučili.
+
+336
+00:26:50,639 --> 00:27:07,440
+Se pravi, da jaz, ko produkte razvijaš na način, da delaš neke manjše spremembe, jih daš ven, izmeriš kako delujejo, kako se ljudje obnašajo, kako reagirajo
+
+337
+00:27:07,440 --> 00:27:17,839
+in potem dejansko nazaj priješ do hipoteze, jo potrdiš, vržeš in potem cikl ponoviš in to je bistvo ta interaktivni pristop razvoja nekih digitalnih stvaritev na ta način.
+
+338
+00:27:18,080 --> 00:27:19,279
+Tako je.
+
+339
+00:27:19,279 --> 00:27:28,240
+Ko smo se na začetku pogovarjali, sem rekel, da ta naš podcast je MVP, pa si potem me popravila, pa si rekla, da je neka druga kretica, daj mi še to povej, kaj si popravila?
+
+340
+00:27:28,240 --> 00:27:43,039
+Da je MLP, minimal lovable product, dve tezi so, eno je, da moramo prijat na začetku že z MVP-jem, kaj je pač ta basic core nek funktionality,
+
+341
+00:27:43,919 --> 00:27:56,240
+pa je pa, ta pa pride malo bolj iz dizajna, da mora biti produkt že vsaj malo lovable, torej, da je uporabniku cool to uporabljati in da ni res sam basic core funktionality,
+
+342
+00:27:56,240 --> 00:28:09,199
+ampak da v bistvu že malo razmišljaš, kakšni so flovi, kakšna je barva, kako lahko naredimo mogoče neke mehne stvari za to, da naredimo to uporabo bolj prijetno.
+
+343
+00:28:09,199 --> 00:28:10,240
+Ja, ok.
+
+344
+00:28:10,240 --> 00:28:14,399
+Tako da in mislim, da jste za grodjem definitivno nadbili ta…
+
+345
+00:28:14,399 --> 00:28:28,720
+Smo nekje, no, nisem, ok, pa pa povej, kaj je naslednji staž, za MVP, MLP, ok, kaj je potem naslednji staž, kdaj pa rečeš, mi nismo več MVP, mi smo zdaj produkt.
+
+346
+00:28:28,800 --> 00:28:43,919
+A to pa ne, mislim, avoretno obstaja dejansko nek ta, ko rečeš, ok, zdaj naprej smo pa resni produkt, bomo zdaj samo mali, inkrementalne spremembe delali, a obstaja ta faza.
+
+347
+00:28:44,720 --> 00:29:03,119
+Moja izkušnja, kaj sem delal velik različnih produktov, je velik strah je bil, da smo šli delati MVP, pa smo delali vse ti researche, potem pa v neki fazi je nekdo, ki je bil mogoče decision maker precej zgodbi, rekel,
+
+348
+00:29:03,360 --> 00:29:19,600
+ok, zdaj pa hočem vmed v tem MVP-u, na pamet govorim, 100 tisoči uzerje, a veš, zdaj kako ta gap mogoče tu preskočiš, ali pa kako potem narediš ta tranzicijo v resni produkt, če razumeš malo vprašanja?
+
+349
+00:29:20,160 --> 00:29:38,799
+Ja, razumem, ne vem, če imam glib najboljši odgovor, ali pa, tako, v idealnem svetu bi nekako to zgledalo tako, da pač zgradiš MVP, pač se zavedaš, da približen koliko uzerjev to je, pa za nekako časovno obdobje,
+
+350
+00:29:38,799 --> 00:29:52,720
+MVP je zato, ker so zgrajeni na hiter, pač imajo svoje omejitve. Pa v zadnjem smo imeli v bistvu ful dober tok, glih na to temo na drinksih,
+
+351
+00:29:52,720 --> 00:30:12,720
+kar so v bistvu razlagali eni fantje, kako delajo MVP-e pač z no-code tool-i. Samo zato, da gre res v bistvu za validacijo koncepta, ne, in pač v enem trenutku moraš ta MVP zares podreti v vrš stran in
+
+352
+00:30:12,720 --> 00:30:16,720
+mogoče ne je od glih z nule, ne, ampak pač nekaj stvari na novo postaviti.
+
+353
+00:30:16,720 --> 00:30:36,720
+Verjetno bi, je, tukaj spet gremo lahko nazaj na tisto, ko si prej rekla, mogoče je ta vključenost developerjev pri tih razvojnih fazah ravno tukaj pomaga, se pravi, da ti developer reče, lej, konstrenti tega, kar bomo delali so, da je lahko maksimalno pet uzerjev in potem pač, to je to, in da so vsi iz tej kolderi zavedali.
+
+354
+00:30:36,720 --> 00:30:56,720
+Predem te še vprašam tukaj, le malo več o tem common language-u pa tool-setu. Daj mi še malo več povej o tem decision-makingu, mislim, da si tudi v to se nekaj dotaknila, pa si imela tudi noter neko analogija na Steve Jobsa pa to. Dej nam to malo piši, prosim, ker se mi je zelo pomembno.
+
+355
+00:30:56,720 --> 00:31:22,720
+Ja, pač en velik del našega joba je v bistvu ta decision-making, torej pač sprijemenje en kup enih odločitev na podlagi nekih full insight-ov, ki jih dobiš iz različnih smeri in potem zdaj, kako se odloči, da je ena smer prava ali pa sta dve smeri pravi in potem je pač ta primer Steve Jobsa, ki je vedno hodil v črnem turtleneku pa v modrih jeansih,
+
+356
+00:31:22,720 --> 00:31:42,720
+pač zrad tega, ker je to zmanjšalo število odločitev, ki jih je pač sprejev na dnevni bazi. In pač tako je, da več odločitev na dan, ki jih moramo sprejeti, manj headspace-a imamo oziroma bolj, ko smo utrujeni, slabše odločitve sprejemamo tako za vse, kot pač za svoje time.
+
+357
+00:31:42,720 --> 00:31:53,720
+In pač prvi pogoj za sprejemanje dobrih odločitev je headspace, torej pač spokoj, da lahko, da si sposoben, da si zmožen.
+
+358
+00:31:53,720 --> 00:31:59,720
+Se pravi, da nekako se fokusiraš s svojo misljo, kaj je dansko odločitev, ki jo moramo sprejeti ali kaj.
+
+359
+00:31:59,720 --> 00:32:20,720
+In drug del tega je pa v bistvu, da nam pa manjka ponovati razumevanje, kaj te odločitve pomenijo. In zdaj ponovati nimamo tega skupnega jezika, kaj smo ga že na začetku umenjala, da bi zares razumel, kaj neka odločitev zares pomeni.
+
+360
+00:32:20,720 --> 00:32:31,720
+In tukaj spet pride ta produktni trio vnotar. Imamo vse tri perspektive. Imamo produkt, imamo design, imamo development. Vse tri so pomembne.
+
+361
+00:32:31,720 --> 00:32:40,720
+In tukaj se moramo ful dobro razumeti, da razumemo te implikacije, ki pridejo za vsako odločitev.
+
+362
+00:32:40,720 --> 00:32:47,720
+In problem je, da dosti niti nimamo časa v ekipah, pa pač nimamo tega skupnega jezika.
+
+363
+00:32:47,720 --> 00:33:07,720
+Ok, to gremo pol še malo v ta common language, ki govorimo. Pa tule, jaz sem pričakoval, ko na začetku sem spišel, kaj za Boga boš ti tukaj predstava. Kaj za Boga je lahko ta common language?
+
+364
+00:33:07,720 --> 00:33:16,720
+Pa ful simple odgorno. Daj ti razloži, kaj je najlažje. Kaj nam je skupnega vsem tem stakeholderju?
+
+365
+00:33:16,720 --> 00:33:27,720
+Ja, pač vizual beings, pač vizualizacija, pač vse v osnovi, zakaj prototipiramo, pač zakaj še v design, v prototiping.
+
+366
+00:33:27,720 --> 00:33:38,719
+Pa pa ne samo design, sej prototiping ni nova stvar. Ampak, kaj začnemo graditi stvari skupaj, pa kaj začnemo skupaj gledati, je to ful boljši, kot da se sami pogovarjamo.
+
+367
+00:33:38,719 --> 00:33:57,719
+Z besedami je pač tako, da ena beseda meni, ki pa meni tepa nekaj čist drugega, ker pač nimamo istih experiencev, druge izkušnje, druga upbringing in težko se je v glavi postaviti točno isto stvar.
+
+368
+00:33:57,719 --> 00:34:02,719
+Posebej, če gre za neke biznis aplikacije pa kompleksne poslovne sisteme.
+
+369
+00:34:03,719 --> 00:34:11,719
+In zdaj to prenašati znotraj tema, pa da bojo vsi razumeli isto stvar, je pač dost impossible.
+
+370
+00:34:11,719 --> 00:34:25,719
+In zdaj lahko pač te stvari zvizualiziramo, pač vedno bolj opažamo, da dostkrat je stvar, ne vem, ki imaš nek problem, ki ga je zarešiti ali pa ne vem, tim se ne more zmeniti.
+
+371
+00:34:25,719 --> 00:34:31,719
+Je v bistvu to, da nekdo prime in svenčneg na tablo pa reče, ok, dejmo zdaj to malo.
+
+372
+00:34:31,719 --> 00:34:33,719
+Dejmo narisati.
+
+373
+00:34:33,719 --> 00:34:35,719
+Dejmo narisati.
+
+374
+00:34:35,719 --> 00:34:50,719
+Pa tle ne govorim nujno o risenju interfejsov pa skrinov, ampak risenju flowchartov, dajanju stvari na postite, premikanju postitev levo, desno, pač iskanja vzorcev.
+
+375
+00:34:51,719 --> 00:35:00,719
+Kar koli namolajša, da v bistvu imamo dovolj razumevanja za neko stvar, da potem sprememo vločitev.
+
+376
+00:35:00,719 --> 00:35:09,719
+Se pravi, potem pri svojem delu verjetno veliko rišate skic, verjetno, ok, flowcharta, to sem razumel.
+
+377
+00:35:09,719 --> 00:35:16,719
+Med tvojim slajdi pa si pokazala tudi papirne prototipe, kar se mi je zelo zanimilo.
+
+378
+00:35:17,719 --> 00:35:26,719
+Če sem pravi razumel, ste pri Mesji, ali kaj, v Mesju, ste izdelovali dejansko prototipe iz kartona.
+
+379
+00:35:26,719 --> 00:35:27,719
+Ja.
+
+380
+00:35:27,719 --> 00:35:30,719
+Digital karton. Kaj je to razloženje?
+
+381
+00:35:30,719 --> 00:35:42,719
+Ja, imeli smo en primer, ko smo imeli nekaj koncept app-a, v bistvu to je zaristo nekaj flowchartov, samo malo procesov znotraj zdravstva.
+
+382
+00:35:42,719 --> 00:35:53,719
+In jaz sem se ful matrala, dva dni sem se matrala, da bi to naredila, pač takrat še niti ni bila figma tako močna,
+
+383
+00:35:53,719 --> 00:36:04,719
+ampak še v enem drugem programu in je bil ta moment, ok, kako zdaj naj to naredim, da bo pokazalo, da tisto eno interakcijo,
+
+384
+00:36:04,719 --> 00:36:11,719
+ki jo rabim razumeti, ki ima pač vse enih možnosti, pokrijem v nekem takem interaktivnem prototipu.
+
+385
+00:36:11,719 --> 00:36:22,719
+In pač mi ni rata, imeli smo pač rezerveren termin pr enem zdravniku v Gornji Vasi in sem bila tako, ok, pač neki značil mora biti.
+
+386
+00:36:22,719 --> 00:36:30,719
+Kaj je zdaj the easiest way? In je bilo v bistvu pač narediti izlepenke kot kar nek skrin računalnik,
+
+387
+00:36:30,719 --> 00:36:41,719
+za to, da si pač predstavlja ta naš zdravnik in potem sem imela pripravljene gumbe iz postitov narezanih in potem,
+
+388
+00:36:41,719 --> 00:36:50,719
+kaj on kliknu, ne, neko stvar sem jaz prlimala, kaj se bo odprel. In pač to je bilo the best, ne.
+
+389
+00:36:50,719 --> 00:36:58,719
+In rosnica je bila neka stvar, ki je bila obnarejena v Uniguri in je pač potrdila naš koncept, da pač na tak način bi to funkcioniral.
+
+390
+00:36:59,719 --> 00:37:08,719
+In to je bilo to. In to je skušno, to potem podokumentiraš, razbijaš prototip in imaš odlično izpostavo.
+
+391
+00:37:08,719 --> 00:37:13,719
+Tako. In si prehranila verjetno mesece in mesece razvoja.
+
+392
+00:37:13,719 --> 00:37:16,719
+Tako. Na pačne storine.
+
+393
+00:37:16,719 --> 00:37:28,719
+Ok. Tu sem si napisal, uporabljaš še en tool, sicer Breaking Stuff Down, to si tudi napisala, da je tudi, omenila, da je tudi nek tool, ki ga uporabljaš.
+
+394
+00:37:28,719 --> 00:37:37,719
+Upam, da sem si to pravila. Zpravi, koncepte tudi razbijaš z temi stakeholderji, da vsi nekako dobijo isto razumevanje starega.
+
+395
+00:37:37,719 --> 00:37:40,719
+A kaj s tem misliš? Kako to narediš?
+
+396
+00:37:40,719 --> 00:38:04,719
+Zdaj, kako to narediš, pač tulo imaš več. Kustomer journey, kustomer journey map je ponovat en tak tool, kjer neke stvari, ki jih dobiš, recimo izreseča, potem zmapiraš in potem gledaš, pač kaj nam še manjka, kaj še ne razumemo.
+
+397
+00:38:05,719 --> 00:38:23,719
+Pač en tak powerful tool. Ampak v resnici vse, kar počnemo, je Breaking Stuff Down. Torej, tam greš na intervju, dobiš, ne vem, za dve strani kontenta in zdaj moraš to umestiti.
+
+398
+00:38:23,719 --> 00:38:36,719
+Ta delček pa še sem, ta je relevanten za to, ta bo za marketing enkrat, ki bo. In potem narediš nek tako sense making.
+
+399
+00:38:37,719 --> 00:38:51,719
+In dosti krat za te stvari upravljamo digital whiteboard, kukarsumira, fake jam, pa to se tega je zdaj miljon. In da imaš res pol vse stvari na enem mestu, pa da res lahko vidiš te patterne.
+
+400
+00:38:51,719 --> 00:39:11,719
+In da večkrat, tudi na teh sestankah, na koncu se še vedno pogovarjamo. Se ni samo, da pač zrišeš in pogledaš tih, ampak vsaj imamo nekaj to skupno sliko. In to je v bistvu cilj vsega.
+
+401
+00:39:11,719 --> 00:39:30,719
+Ok, zdaj bom še eno vprašanje, potem pa bomo to na eno ladjo prepelali v Portoroš. Jaz sem te še tam vprašal pisanje nekih storijov oziroma dokumentacije kot take.
+
+402
+00:39:30,719 --> 00:39:48,719
+Zdaj to, kaj smo se zdaj pogovarjali, blazno vizual, ok, I get it. Je to dovolj, da poenotiš ljudi, da lahko res vsi začnejo delati iste stvari? V kjer je točki potem začneš pisati neke dokumente, ki jih še ne berejo, pa jih berejo?
+
+403
+00:39:48,719 --> 00:40:04,719
+Nekaj se mi zdi, da sem se še dozdaj naučil pri razvijalcih. Uživajo pisanje o programov, stvari o kode, produktov. Pisanje dokumentacije ni nekaj, kar bi average ali pa večina developerje uživala o tem.
+
+404
+00:40:04,719 --> 00:40:27,719
+Potem pa zraven sodi tudi to branje te dokumentacije, ki ni vedno, daj nam še tu neko pametna svet, kaj bi pa ti rekli recimo, da je pa vse en pametno napisati, pa kaj bi bilo vse en pametno napisati recimo, da bo prebrano? Ja vem, ja vem.
+
+405
+00:40:27,719 --> 00:40:40,719
+Je bil catch na koncu. Z začetek lahko rečem, da mislim, da nobeden. So res redki ljudje, ki uživajo v pisanju dokumentacije. Tudi na strani dizajnerje.
+
+406
+00:40:41,719 --> 00:41:02,719
+Grozen. Odvisno od tem. Več kot je tem, več mora biti dokumentacija, zato ker težje je prenašati stvari. Več bolj detaljno moraš imeti.
+
+407
+00:41:02,719 --> 00:41:19,719
+A je to neka kombinacija tega, da imaš to user flow chart, pa pa zraven še v Figmi zapisan, kaj pomeni vsak košek ali pa kakšne so interakcije? Ali je to nekaj, kar živi na džeri, v epikih pa v storijih?
+
+408
+00:41:19,719 --> 00:41:37,719
+Jaz tukaj malo verjamem, da mora vsak tim zase pogruntati, kaj im je najboljš, ker vse odnos malo drugače deluje. Zdaj pa pač videlo se super kolaboracije, ker ste bili pač dizajner in developer.
+
+409
+00:41:38,719 --> 00:41:45,719
+Pa niste rabili ničesar, tu dizajner ni do konca zrisel, pa so se stvari zgodile.
+
+410
+00:41:46,719 --> 00:41:49,719
+Verjetno je tudi od velikosti ekipe, odvisno.
+
+411
+00:41:50,719 --> 00:41:57,719
+To je ful fajn. Več je, ko je ekipa več, bolj počas grejo stvari. To mislim, da vsi vemo.
+
+412
+00:41:58,719 --> 00:42:13,719
+Dobro si odgovorila. Mogoče vse nekaj malega paragrafov napišete, če druga ne, da bo še tisti stakeholderji, ki ne znajo programirati, ne znajo razumet dizajn, nekaj še kaj malo več.
+
+413
+00:42:14,719 --> 00:42:28,719
+Mogoče tudi te user storije po tem danes, ko skupaj pišete, ali bo še mogoče samo to povedala, koncept teh user storij. Mogoče še samo to. Popatimo daljše zadnje vprašanje.
+
+414
+00:42:28,719 --> 00:42:48,719
+Mislim, da je tudi tajen proces, ki ga zdaj na Kalijo se ukvarjamo z njim. V bistvu tudi tako, kdo zdaj piše te user storije, kdo v ekipi, je to designer, je to nekaj produktna vloga, je to project manager, kaj točno morajo te storije vsebovat.
+
+415
+00:42:49,719 --> 00:43:08,719
+Jaz sem zelo tako, da kvaliteten user storij iz mojega vidika ima dizajn konkretno razložen, med tem, kaj drugi rečejo, ne, samo pač malo pišeš. Tako da mi zdaj malo kombiniramo te stvari s tem, da vključujemo development čim prej.
+
+416
+00:43:08,719 --> 00:43:35,719
+Še preden vem, grem jaz, naredim neke idejne dizajne, sedim z developerjem, da vidim, kje se bo zateknil, gremo do stakeholderja, to potrudimo, završamo, whatever. Še enkrat sedim z developerjem, definirava stvari, zrišem, potem pa gre to v next story. Pa pal še enkrat sedimo, za to, da gremo vsi skupaj.
+
+417
+00:43:35,719 --> 00:44:04,719
+Da lahko začneš dnevno delat, razumem. Moje zadnje vprašanje je pa tole, pa če recimo danes večinova poslušajo developerji, kaj lahko developerjem daš na svet, kako najbolj dozetni, da boš lažje delala z njimi, da bodo lahko več prispevali v celem tem flowu, lahko mogoče to še daš zadnje.
+
+418
+00:44:04,719 --> 00:44:27,719
+Jaz se zelo želim in za developerje in za dizajnere, da se preuklušamo v ta proces. Da nismo samo oni na konc, ki naštepajo stvari, ki nam jih drugi naročijo, ker se mi zdi, da vse eno imamo te specifične poglede in perspektive.
+
+419
+00:44:27,719 --> 00:44:47,719
+Tako da za developerje, dajte se vključiti čim prej, čim večkrat sprašujte, pomagajte nam naristati stvari, kar koli, pomagajte nam razumetno.
+
+420
+00:44:47,719 --> 00:45:10,719
+Ker doskrat tudi te povratne zankenje, pale pa samo skozi neka frustracija, kaj developerji gradijo tisto, kaj nekdo zrisil, pa pale tisto ni bilo cool ali pa je bilo preveč kompleksno in dizajnerji na drugi strani ne trpijo, ker stvari ne zgledajo tako, kot kar smo jih dizajnerali.
+
+421
+00:45:11,719 --> 00:45:25,719
+Tako da pač čim bolj v tej komunikaciji, pač lahko sigurno se rečem, da dizajnerji in produktniki načelamo želimo to perspektivo in če nam je boste dal res ...
+
+422
+00:45:25,719 --> 00:45:27,719
+Bojo boljši produkti.
+
+423
+00:45:27,719 --> 00:45:30,719
+Ja, pa tudi njihov live bo vlažen.
+
+424
+00:45:31,719 --> 00:45:41,719
+Amadeja, jaz se ti najlepšo zahvaljujem, da si bila gostja te ad-hockey epizode v Grodju iz Sporto Roža.
+
+425
+00:45:41,719 --> 00:45:58,719
+Na tej točki bi se zahvalilo vsem našim Patreon supporterjem, zahvalilo bi se tudi podjetijo Trifese, ki nas podpira, zahvalilo bi se tudi podjetijo Kaldi, pa hvala, ker ste z nami, hvala, ker nas spremljate, dejte to epizodo deliti s svojimi kolegi, pa do prihodnič.
+
+426
+00:46:00,719 --> 00:46:02,719
+Hvala.

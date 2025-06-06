@@ -1,0 +1,5859 @@
+1
+00:00:00,000 --> 00:00:14,720
+Well, everybody, welcome to our show.
+
+2
+00:00:14,720 --> 00:00:21,120
+Welcome to Ogrodje, which should be translated to a framework in English.
+
+3
+00:00:21,120 --> 00:00:25,840
+Welcome to our very first episode that we're going to try to do in English today.
+
+4
+00:00:25,840 --> 00:00:30,360
+This is something that we want to experiment with, because so far we were all Slovenian
+
+5
+00:00:30,360 --> 00:00:33,000
+podcast.
+
+6
+00:00:33,000 --> 00:00:39,000
+And primarily, when we were preparing for this talk show, we waited for a while to get
+
+7
+00:00:39,000 --> 00:00:47,119
+a speaker that would kind of like transcend our local space and who would be fluent in
+
+8
+00:00:47,119 --> 00:00:48,119
+English.
+
+9
+00:00:48,119 --> 00:00:50,119
+And luckily we found such a guest.
+
+10
+00:00:50,119 --> 00:00:52,119
+The wrong one.
+
+11
+00:00:52,119 --> 00:00:53,119
+The wrong one.
+
+12
+00:00:53,119 --> 00:01:01,480
+But we'll discuss that why you're the wrong one, but equally, like if our English is so
+
+13
+00:01:01,480 --> 00:01:09,760
+bad and we need a fallback, you're also fluent in Slovenian, so we can go.
+
+14
+00:01:09,760 --> 00:01:13,440
+We can also fall back with that.
+
+15
+00:01:13,440 --> 00:01:15,959
+You took some Slovenian courses, right?
+
+16
+00:01:15,959 --> 00:01:16,959
+Yes.
+
+17
+00:01:16,959 --> 00:01:19,680
+So see, you can do bilingual.
+
+18
+00:01:19,680 --> 00:01:22,680
+You can say at least hello to everybody.
+
+19
+00:01:23,239 --> 00:01:26,040
+Yeah, here we go.
+
+20
+00:01:26,040 --> 00:01:28,559
+And what else should we say?
+
+21
+00:01:28,559 --> 00:01:33,720
+You forgot to mention that this episode is part of the borderless.
+
+22
+00:01:33,720 --> 00:01:35,440
+Oh yeah, yeah, yeah.
+
+23
+00:01:35,440 --> 00:01:37,160
+We should definitely tell people that.
+
+24
+00:01:37,160 --> 00:01:43,559
+So we're going to prefix all the content that's in English with borderless tag or name, which
+
+25
+00:01:43,559 --> 00:01:49,919
+should hint that we are transcending our borders of our little country, trying to, again, speak
+
+26
+00:01:50,040 --> 00:01:52,879
+to international guests.
+
+27
+00:01:52,879 --> 00:01:55,720
+That's the intro for today.
+
+28
+00:01:55,720 --> 00:02:02,400
+We're going to talk about security, a lot of things around security, but still we'll
+
+29
+00:02:02,400 --> 00:02:09,839
+try to be more aware about security that's related to developers, I guess, which is your
+
+30
+00:02:09,839 --> 00:02:12,080
+specialty.
+
+31
+00:02:12,080 --> 00:02:16,479
+And you're going to be the host today, right?
+
+32
+00:02:16,479 --> 00:02:17,479
+I'll try.
+
+33
+00:02:17,479 --> 00:02:19,399
+I'll try.
+
+34
+00:02:19,399 --> 00:02:32,759
+So yeah, this episode, in a way, it's an honor to have you here, Petra, to sort of
+
+35
+00:02:32,759 --> 00:02:37,080
+do the connection, how and why.
+
+36
+00:02:37,080 --> 00:02:44,000
+We met, what, it was the first B-Sides, and I think you were one of the first submissions,
+
+37
+00:02:44,000 --> 00:02:49,160
+you submitted to the call for papers for B-Sides, and I was sort of cheering.
+
+38
+00:02:49,919 --> 00:02:53,399
+Come on, we have somebody from Australia that's willing to speak at B-Sides.
+
+39
+00:02:53,399 --> 00:02:55,679
+How come?
+
+40
+00:02:55,679 --> 00:03:02,440
+And the funny thing is, like, it's sort of what we joke about.
+
+41
+00:03:02,440 --> 00:03:07,679
+You mentioned that, like, for that request, you said you want to see Kremschnitta.
+
+42
+00:03:07,679 --> 00:03:13,039
+And I was like, there's an Australian guy who wants Kremschnitta also there.
+
+43
+00:03:13,039 --> 00:03:15,740
+So yeah, long story short.
+
+44
+00:03:15,740 --> 00:03:23,539
+So you're married to Slovene, living in Australia, you're working in security industry, so information
+
+45
+00:03:23,539 --> 00:03:24,539
+security.
+
+46
+00:03:24,539 --> 00:03:27,979
+Maybe a good question.
+
+47
+00:03:27,979 --> 00:03:32,179
+What's sexier, cyber security or information security?
+
+48
+00:03:32,179 --> 00:03:33,179
+What do you prefer?
+
+49
+00:03:33,179 --> 00:03:34,559
+I'll go with the former.
+
+50
+00:03:34,559 --> 00:03:36,220
+So information security.
+
+51
+00:03:36,220 --> 00:03:39,580
+So we're like skipping the cyber security.
+
+52
+00:03:39,580 --> 00:03:40,580
+Cool.
+
+53
+00:03:40,580 --> 00:03:41,580
+So...
+
+54
+00:03:41,580 --> 00:03:42,580
+Or whatever.
+
+55
+00:03:42,580 --> 00:03:47,139
+You're trying to find the word.
+
+56
+00:03:47,139 --> 00:03:54,619
+You're now sort of a regular guest on a yearly basis coming here.
+
+57
+00:03:54,619 --> 00:04:01,339
+And sort of, in a way, I could basically call you a friend.
+
+58
+00:04:01,339 --> 00:04:11,059
+Like this friendship, whenever you're around, well, you, in a way, also, like, helping the
+
+59
+00:04:11,059 --> 00:04:13,619
+local security community here.
+
+60
+00:04:13,619 --> 00:04:24,420
+So, and for example, like yesterday, you had a great sort of a workshop on Python meetup.
+
+61
+00:04:24,420 --> 00:04:33,619
+So that's why, like, you're working with developers or like this knowledge.
+
+62
+00:04:33,619 --> 00:04:40,299
+So in cyber security.
+
+63
+00:04:40,299 --> 00:04:41,299
+You got me there.
+
+64
+00:04:41,299 --> 00:04:42,299
+You got me there.
+
+65
+00:04:42,299 --> 00:04:46,540
+He did a poll on Twitter and he's still, and I think it was 50-50 or something.
+
+66
+00:04:46,540 --> 00:04:47,540
+Yeah.
+
+67
+00:04:47,540 --> 00:04:48,540
+It was 50-50.
+
+68
+00:04:48,540 --> 00:04:49,540
+It depends.
+
+69
+00:04:49,540 --> 00:04:50,540
+We lost the bat.
+
+70
+00:04:50,540 --> 00:04:51,540
+Let's just use what...
+
+71
+00:04:51,540 --> 00:04:52,540
+Depends who you ask.
+
+72
+00:04:52,540 --> 00:04:59,179
+And if you ask chatGTPA, you have like, it's always referring to cyber security.
+
+73
+00:04:59,179 --> 00:05:03,880
+So it seems that the buzzword, but okay, we'll stick to information security.
+
+74
+00:05:03,880 --> 00:05:10,839
+So like this short introduction, who are you?
+
+75
+00:05:10,839 --> 00:05:18,679
+Like it's sort of like, because in a way, in the intro, we said like, we're going to
+
+76
+00:05:18,679 --> 00:05:20,679
+host a great hacker.
+
+77
+00:05:20,679 --> 00:05:25,000
+So are you feeling like this title should suit you?
+
+78
+00:05:25,000 --> 00:05:26,279
+Like you feel like you...
+
+79
+00:05:26,279 --> 00:05:28,279
+I mean, hacker has different meanings, right?
+
+80
+00:05:28,279 --> 00:05:30,799
+Someone who changed something.
+
+81
+00:05:30,799 --> 00:05:31,799
+It depends.
+
+82
+00:05:31,959 --> 00:05:34,160
+Or someone to break into things, right?
+
+83
+00:05:34,160 --> 00:05:39,720
+Or like explore or like wanting to learn, wanting to figure out how things are working.
+
+84
+00:05:39,720 --> 00:05:43,640
+I think definitely curiosity is part of it, right?
+
+85
+00:05:43,640 --> 00:05:49,480
+And hacker, I don't know, just kind of, I feel that curiosity more represent the person
+
+86
+00:05:49,480 --> 00:05:54,920
+who like is into security because kind of you, you want to use the functionality for
+
+87
+00:05:54,920 --> 00:05:59,799
+the purposes that the engineer who built that or the team that have built that maybe never
+
+88
+00:05:59,799 --> 00:06:06,600
+thought about it or finding that beautiful edge case that can make this program do something
+
+89
+00:06:06,600 --> 00:06:07,600
+differently.
+
+90
+00:06:07,600 --> 00:06:15,079
+Now, obviously, if it impacts people's life or businesses, that become a security issue.
+
+91
+00:06:15,079 --> 00:06:20,600
+But I think that sense of curiosity, I would say, yeah.
+
+92
+00:06:20,600 --> 00:06:28,720
+One of the biggest critiques of our podcast is that our guests, our listeners sometimes
+
+93
+00:06:28,720 --> 00:06:32,959
+need to Google our guests to find out who they are.
+
+94
+00:06:32,959 --> 00:06:39,720
+So formally, my understanding is that you have a PhD in security and you taught at the
+
+95
+00:06:39,720 --> 00:06:41,720
+university in Australia.
+
+96
+00:06:41,720 --> 00:06:46,480
+I'm not sure if you still teach, but you teach...
+
+97
+00:06:46,480 --> 00:06:47,480
+What did you teach or like?
+
+98
+00:06:47,480 --> 00:06:49,760
+Can you tell us a bit more about it?
+
+99
+00:06:49,760 --> 00:06:54,320
+So, I mean, the hardest thing for me is bio, right?
+
+100
+00:06:54,320 --> 00:06:55,320
+Yeah.
+
+101
+00:06:55,320 --> 00:07:02,200
+So currently, I'm a lecturer at a university in Down Under.
+
+102
+00:07:02,200 --> 00:07:09,679
+And well, I teach a master course in, well, I should say cybersecurity related as a technical
+
+103
+00:07:09,679 --> 00:07:10,920
+course.
+
+104
+00:07:10,920 --> 00:07:19,420
+But apart from that, I also teach to general developers out there in terms of secure programming.
+
+105
+00:07:19,420 --> 00:07:22,359
+This was just a transition I had.
+
+106
+00:07:23,160 --> 00:07:31,040
+I was more, as you know, more on the other side of the game, looking at how do we find
+
+107
+00:07:31,040 --> 00:07:32,040
+bugs?
+
+108
+00:07:32,040 --> 00:07:34,040
+How we can find better bugs?
+
+109
+00:07:34,040 --> 00:07:43,079
+And bugs, sorry, well, it's a dev podcast, so I shouldn't say vulnerabilities or issues.
+
+110
+00:07:43,079 --> 00:07:44,239
+So yeah.
+
+111
+00:07:44,239 --> 00:07:51,000
+And then kind of, it was a natural transition.
+
+112
+00:07:51,000 --> 00:08:02,720
+So let's maybe start in the beginning, how you sort of study this or how you start in
+
+113
+00:08:02,720 --> 00:08:06,000
+information security?
+
+114
+00:08:06,000 --> 00:08:07,279
+What made you like this?
+
+115
+00:08:07,279 --> 00:08:14,239
+Because you definitely did a transition from offensive security to now defensive security
+
+116
+00:08:14,239 --> 00:08:23,239
+and like teaching developers how to do like secure coding or best practicing in terms
+
+117
+00:08:23,239 --> 00:08:32,679
+of applying security, best practicing in development, but still.
+
+118
+00:08:32,679 --> 00:08:38,039
+So I mean, the funny thing is, I always say there is no book for security as you have
+
+119
+00:08:38,039 --> 00:08:42,239
+a book for PHP and Python and Java, just open it up and you finish it.
+
+120
+00:08:42,239 --> 00:08:44,880
+You're kind of advanced security guy.
+
+121
+00:08:44,880 --> 00:08:48,239
+And I think that's the beauty part of it.
+
+122
+00:08:48,239 --> 00:08:50,799
+I think, again, I want to go back to the sense of security.
+
+123
+00:08:50,799 --> 00:08:52,000
+How is this started?
+
+124
+00:08:52,000 --> 00:08:55,520
+Well, someone tried to hack me back in the days.
+
+125
+00:08:55,520 --> 00:09:00,919
+They tried to, well, we had this newsletter and for some reason that newsletter got popular
+
+126
+00:09:00,919 --> 00:09:11,679
+and this person had the interest or two people to, well, get some admin access on that newsletter.
+
+127
+00:09:11,679 --> 00:09:19,159
+And well, they were, I would say talented enough that they built their own backdoor
+
+128
+00:09:19,159 --> 00:09:26,520
+or Trojan file and they sent it to me and they were asking me, okay, to execute that.
+
+129
+00:09:26,520 --> 00:09:27,960
+Via mail.
+
+130
+00:09:27,960 --> 00:09:29,719
+I did execute it.
+
+131
+00:09:29,719 --> 00:09:31,359
+So spear phishing.
+
+132
+00:09:31,359 --> 00:09:32,359
+Yeah.
+
+133
+00:09:32,359 --> 00:09:38,599
+Because they were part of like, well, that community themself, like, okay.
+
+134
+00:09:38,599 --> 00:09:43,880
+And I'm like, I'm executing this, but it doesn't work.
+
+135
+00:09:43,880 --> 00:09:48,239
+And after, and then the other guy on the other side of it, there was a chat happening and
+
+136
+00:09:48,239 --> 00:09:52,159
+he tried with this command, this parameter and none of them works.
+
+137
+00:09:52,159 --> 00:09:55,159
+And then he keeps asking me to try this and that.
+
+138
+00:09:55,159 --> 00:10:00,719
+After some point, I just felt there's something fishy going on.
+
+139
+00:10:00,719 --> 00:10:07,520
+And then after a while, the guy actually gave me a call over the phone, like, hey, are you
+
+140
+00:10:07,520 --> 00:10:08,960
+sure you're running that?
+
+141
+00:10:08,960 --> 00:10:11,599
+I'm like, yeah.
+
+142
+00:10:11,599 --> 00:10:14,960
+But then he said, okay, but have you tried this?
+
+143
+00:10:14,960 --> 00:10:15,960
+Yeah.
+
+144
+00:10:15,960 --> 00:10:16,960
+Hmm.
+
+145
+00:10:16,960 --> 00:10:23,039
+And then the guys, I started asking, uh, but, uh, are you, I'm kind of not sure whether
+
+146
+00:10:23,039 --> 00:10:27,080
+you're telling me through the guy is telling me, like, why is that?
+
+147
+00:10:27,080 --> 00:10:31,080
+It's like, oh, because do you know what that file is?
+
+148
+00:10:31,080 --> 00:10:37,479
+And then I kind of got some idea like, yes, I know, I have no idea what it is.
+
+149
+00:10:38,440 --> 00:10:40,840
+And then he's kind of like, you are a good hacker.
+
+150
+00:10:40,840 --> 00:10:43,159
+Like, what is, what does that even mean?
+
+151
+00:10:43,159 --> 00:10:44,960
+I didn't even say anything.
+
+152
+00:10:44,960 --> 00:10:48,479
+So long story short, the reason that thing didn't work was not because the program was
+
+153
+00:10:48,479 --> 00:10:54,520
+failing was because I was using a university internet and they had proxy and the proxy
+
+154
+00:10:54,520 --> 00:10:55,520
+was blocking all the traffic.
+
+155
+00:10:55,520 --> 00:10:56,520
+Oh, okay.
+
+156
+00:10:56,520 --> 00:11:02,840
+And like I thought, I know it, I kind of pretend that I'm executing that file, but I was actually
+
+157
+00:11:02,840 --> 00:11:03,840
+not doing it.
+
+158
+00:11:03,840 --> 00:11:06,059
+He was, he was thinking that way.
+
+159
+00:11:06,059 --> 00:11:14,380
+That kind of got me kind of like, did he like, why would you run malicious software?
+
+160
+00:11:14,380 --> 00:11:22,179
+So we were talking, yeah, days off when we even didn't call it malware, we was talking
+
+161
+00:11:22,179 --> 00:11:23,900
+about viruses and AVs.
+
+162
+00:11:23,900 --> 00:11:24,900
+Okay.
+
+163
+00:11:24,900 --> 00:11:25,900
+Okay.
+
+164
+00:11:25,900 --> 00:11:26,900
+So very early days.
+
+165
+00:11:26,900 --> 00:11:33,340
+Yeah, kind of early dial up internet and the old internet connections, which, you know,
+
+166
+00:11:33,340 --> 00:11:37,500
+you could be at programs called Trojans, you know, I don't know, some of you will remember
+
+167
+00:11:37,500 --> 00:11:39,099
+sub seven or things like that.
+
+168
+00:11:39,099 --> 00:11:45,260
+You could connect remotely, do stuff, but kind of, that kind of opens up the idea of
+
+169
+00:11:45,260 --> 00:11:51,619
+the, Hey, there is something more to what you see when you run a program or when you
+
+170
+00:11:51,619 --> 00:11:54,500
+connect to a network.
+
+171
+00:11:54,500 --> 00:11:56,820
+And then, yeah, there was no resources.
+
+172
+00:11:57,820 --> 00:12:05,179
+There was effectively a couple of like CD-ROM, like CD discs that had some hacking tools
+
+173
+00:12:05,179 --> 00:12:06,520
+on them.
+
+174
+00:12:06,520 --> 00:12:12,900
+And then you had some text files from, oh yeah, there was a magazine called Frack magazine,
+
+175
+00:12:12,900 --> 00:12:15,820
+which exists today.
+
+176
+00:12:15,820 --> 00:12:22,539
+You want to explain what Frack magazine is to young audience?
+
+177
+00:12:22,539 --> 00:12:34,219
+So back in the early days, that was like, it was like monthly, monthly.
+
+178
+00:12:34,219 --> 00:12:41,140
+And then when it got like older, it became annually.
+
+179
+00:12:41,140 --> 00:12:45,099
+But concept was like from like PBSs.
+
+180
+00:12:45,099 --> 00:12:49,299
+So when like people were interesting in-
+
+181
+00:12:49,299 --> 00:12:52,500
+This was online or you had to order via mail or something?
+
+182
+00:12:53,260 --> 00:13:01,580
+They were like also later on the printed copies, but usually the PBSs had like, and they were
+
+183
+00:13:01,580 --> 00:13:15,340
+like short TXT files with a good description of sort of exploiting or like getting familiar
+
+184
+00:13:15,340 --> 00:13:18,460
+with, I don't know, technology or concept.
+
+185
+00:13:18,460 --> 00:13:26,299
+And I'm like from programming or how to, I don't know, program some special computers
+
+186
+00:13:26,299 --> 00:13:34,780
+or how the, I don't know, the ATM networks work or how the ISPs communicate.
+
+187
+00:13:34,780 --> 00:13:45,099
+Like they were like, in a way, resourceful manuals, how to get know about some technologies.
+
+188
+00:13:45,140 --> 00:13:49,059
+So these were like snippets without long explanations?
+
+189
+00:13:49,059 --> 00:13:52,780
+It got into real details.
+
+190
+00:13:52,780 --> 00:14:01,340
+So they were like, basically back then, the really good sources where you like understand
+
+191
+00:14:01,340 --> 00:14:03,460
+how like new technology works.
+
+192
+00:14:03,460 --> 00:14:04,460
+Yeah.
+
+193
+00:14:04,460 --> 00:14:05,460
+Pretty technical.
+
+194
+00:14:05,460 --> 00:14:08,340
+I think one section which I liked the most was phone hacking.
+
+195
+00:14:08,340 --> 00:14:14,219
+Because we had a really high bill for our internet connection because I was looking
+
+196
+00:14:14,340 --> 00:14:17,580
+for a way that, hey, can we switch to maybe neighbors?
+
+197
+00:14:17,580 --> 00:14:18,580
+Yeah.
+
+198
+00:14:18,580 --> 00:14:22,179
+And those freaking, freaking was like very, very popular.
+
+199
+00:14:22,179 --> 00:14:26,179
+And like basically everything grew out of that kind of community.
+
+200
+00:14:26,179 --> 00:14:27,179
+Yeah.
+
+201
+00:14:27,179 --> 00:14:35,020
+But there's a big gap between, you know, 2023 and the dial-up, what did you do in between
+
+202
+00:14:35,020 --> 00:14:36,020
+as well?
+
+203
+00:14:36,020 --> 00:14:38,539
+I mean, that's kind of interest growed in, right?
+
+204
+00:14:38,539 --> 00:14:45,179
+And then I think, then we are talking about the days that, you know, web apps start to
+
+205
+00:14:45,179 --> 00:14:49,099
+emerge in CGI bin folders and there's lots of interesting things there.
+
+206
+00:14:49,099 --> 00:14:51,179
+And then PHP become a thing, right?
+
+207
+00:14:51,179 --> 00:14:58,900
+And you could almost touch every website and there is like XSS and SQL injection there.
+
+208
+00:14:58,900 --> 00:15:05,940
+And because they are starting to evolve, we are talking about very early version of MySQL.
+
+209
+00:15:05,940 --> 00:15:14,780
+And again, it was more like understanding how, I think the way I end up finding some,
+
+210
+00:15:14,780 --> 00:15:19,140
+actually I have some CVs, goes back to 2005.
+
+211
+00:15:19,140 --> 00:15:24,820
+You kind of, I actually learned it from a programming way, like I actually learned how
+
+212
+00:15:24,820 --> 00:15:27,859
+you can build a web app.
+
+213
+00:15:27,859 --> 00:15:30,179
+And then how you can communicate the database.
+
+214
+00:15:30,179 --> 00:15:34,559
+Then when someone said, hey, you know, we have this variable here or PHP just gets everything
+
+215
+00:15:34,559 --> 00:15:37,479
+in the request and dump it in a query.
+
+216
+00:15:37,479 --> 00:15:39,119
+Well, ah, okay.
+
+217
+00:15:39,119 --> 00:15:43,400
+So I know that kind of what kind of query will make what, it was not just like, just
+
+218
+00:15:43,400 --> 00:15:47,119
+go there, put a typical Wikipedia example of a SQL injection.
+
+219
+00:15:47,119 --> 00:15:48,119
+One equals to one.
+
+220
+00:15:48,119 --> 00:15:51,599
+It was more like you could think a little bit more further than that.
+
+221
+00:15:51,599 --> 00:15:52,599
+Okay.
+
+222
+00:15:52,599 --> 00:15:53,599
+This query does that.
+
+223
+00:15:53,599 --> 00:15:58,140
+So one equals one will not work, but this other one will work.
+
+224
+00:15:58,140 --> 00:16:04,039
+So I kind of, it was almost more like a, and I should say there were like forums, like
+
+225
+00:16:04,520 --> 00:16:10,200
+discussion boards of really, um, enthusiasts that they really want to help, like want to
+
+226
+00:16:10,200 --> 00:16:15,799
+like help you when you are trying to find an issue or kind of, you are really close
+
+227
+00:16:15,799 --> 00:16:17,239
+to exploitation.
+
+228
+00:16:17,239 --> 00:16:19,679
+You could ask question and they will just answer it.
+
+229
+00:16:19,679 --> 00:16:26,159
+I think that kind of engraved in me that this is like really also nice that you also share
+
+230
+00:16:26,159 --> 00:16:28,159
+this knowledge.
+
+231
+00:16:28,159 --> 00:16:33,679
+And I think from beginning was this idea of ethics was always there.
+
+232
+00:16:33,840 --> 00:16:41,200
+I think it's kind of, kind of, it was not cool that you find this issue and not telling
+
+233
+00:16:41,200 --> 00:16:43,559
+vendor about it.
+
+234
+00:16:43,559 --> 00:16:47,719
+But at the time, you know, we are not talking about, you know, these days, majority of the
+
+235
+00:16:47,719 --> 00:16:53,280
+good businesses, they have these, well, they, they understand there could be a time someone
+
+236
+00:16:53,280 --> 00:16:55,640
+report a security issue to them.
+
+237
+00:16:55,640 --> 00:17:01,840
+And there's normally, there is a unwritten rule of responsible disclosure policy.
+
+238
+00:17:02,119 --> 00:17:07,119
+But back in, back in those days, maybe it wasn't, it was not that clear.
+
+239
+00:17:07,119 --> 00:17:12,479
+And normally when you report a security bug, often you want some attribution back.
+
+240
+00:17:12,479 --> 00:17:16,959
+I remember when we were reporting some security bugs to some vendors, we were like, okay,
+
+241
+00:17:16,959 --> 00:17:20,640
+the only thing we want from you is just mention my name in your next newsletter.
+
+242
+00:17:20,640 --> 00:17:21,640
+I'll go there.
+
+243
+00:17:21,640 --> 00:17:22,640
+I'll do it.
+
+244
+00:17:22,640 --> 00:17:23,640
+Yeah.
+
+245
+00:17:23,640 --> 00:17:24,640
+Yeah.
+
+246
+00:17:24,640 --> 00:17:25,640
+Okay.
+
+247
+00:17:25,640 --> 00:17:26,640
+Okay.
+
+248
+00:17:26,640 --> 00:17:29,640
+And you, you started as a, as a, I don't know, researcher or somebody who was like, uh,
+
+249
+00:17:29,640 --> 00:17:35,680
+chasing, chasing those, those back, exploring on their own or how, how you like?
+
+250
+00:17:35,680 --> 00:17:40,599
+Uh, well, I mean, it actually started first by like building networks.
+
+251
+00:17:40,599 --> 00:17:45,359
+I remember like the first thing you do, you know, when I bring up a Windows NT and you
+
+252
+00:17:45,359 --> 00:17:49,599
+know, set up a network and then you move to Linux, you're like, huh, it's not that easy
+
+253
+00:17:49,599 --> 00:17:53,640
+even just bringing up a DHCP server needs that much config file.
+
+254
+00:17:53,640 --> 00:17:57,079
+And there is no sample file out there, like just Google for it, you know, you need to
+
+255
+00:17:57,079 --> 00:17:59,560
+figure out what each configuration does.
+
+256
+00:17:59,560 --> 00:18:04,520
+I think they started there, like learning really the, the foundations, learning really
+
+257
+00:18:04,520 --> 00:18:11,959
+what's how things work from physical layer all the way up to application layer.
+
+258
+00:18:11,959 --> 00:18:18,560
+And kind of that's, that's how I feel is, and the more you know about how things work,
+
+259
+00:18:18,560 --> 00:18:23,280
+the more you can kind of challenge these, these assumptions we have to between different
+
+260
+00:18:23,280 --> 00:18:29,079
+layers, which I always mention it, like the more, you know, how things will translate
+
+261
+00:18:29,079 --> 00:18:35,199
+into, well, in a different layer of the network, the more you can find that, okay.
+
+262
+00:18:35,199 --> 00:18:40,160
+Like if this thing doesn't have this specific format, well, guess what?
+
+263
+00:18:40,160 --> 00:18:43,560
+It could result into a security bot.
+
+264
+00:18:43,560 --> 00:18:48,479
+I think, I don't think there's any shortcut there to know it.
+
+265
+00:18:48,479 --> 00:18:57,079
+So this is like, basically through this learning experience, exploring like new technology,
+
+266
+00:18:57,079 --> 00:19:04,239
+like you mentioned Linux and so on, you basically reach, like migrate to, to, to information
+
+267
+00:19:04,239 --> 00:19:13,280
+security and like getting all, all that knowledge gives, gave you the, the foundations on, on,
+
+268
+00:19:13,280 --> 00:19:14,280
+on top.
+
+269
+00:19:14,280 --> 00:19:19,160
+You could like, I don't know, have a career in, in, in information security.
+
+270
+00:19:19,160 --> 00:19:21,199
+Yeah, exactly.
+
+271
+00:19:21,199 --> 00:19:29,400
+I actually, when I, when I was, when I graduated from my, my doctoral degree, I actually didn't
+
+272
+00:19:29,400 --> 00:19:33,920
+know there is even a job exists that they pay you to find security bugs.
+
+273
+00:19:33,920 --> 00:19:39,680
+Like I didn't even know there is such a thing even exists because always it was a hobby.
+
+274
+00:19:39,680 --> 00:19:45,160
+It was always the sysadmin type guy that maybe care about what, how long the password
+
+275
+00:19:45,160 --> 00:19:46,160
+should be.
+
+276
+00:19:46,160 --> 00:19:50,800
+And then maybe put some restriction there or to harden their SSH endpoint.
+
+277
+00:19:50,800 --> 00:19:57,199
+It wasn't really a thing that you could feel, well, someone really would be interested that
+
+278
+00:19:57,199 --> 00:20:02,719
+you go and ethically review their system and they will pay for it.
+
+279
+00:20:02,719 --> 00:20:08,040
+I remember I was actually looking for more like a research engineering type positions.
+
+280
+00:20:08,040 --> 00:20:12,959
+I actually came across all of a sudden with this position that talks about, are you familiar
+
+281
+00:20:12,959 --> 00:20:15,920
+with your application security issues?
+
+282
+00:20:15,920 --> 00:20:18,800
+Do you have any experience finding security was on the wall?
+
+283
+00:20:18,800 --> 00:20:27,040
+It seems like interesting and yeah, and, and working there as a effectively as a consultant,
+
+284
+00:20:27,040 --> 00:20:30,239
+a penetration tester.
+
+285
+00:20:30,239 --> 00:20:35,160
+And that's, yeah, getting familiar with the whole story of, you know, yeah, okay, nowadays
+
+286
+00:20:35,160 --> 00:20:37,000
+you need to do vulnerability scan.
+
+287
+00:20:37,000 --> 00:20:41,839
+Then you, you report that to your customer, you need to explain, explain that and yada,
+
+288
+00:20:41,839 --> 00:20:42,839
+yada, yada.
+
+289
+00:20:42,839 --> 00:20:43,839
+Started there.
+
+290
+00:20:43,839 --> 00:20:44,839
+Yeah.
+
+291
+00:20:44,839 --> 00:20:53,680
+But like with, with like in, in, in this process, like you could, we could already say that
+
+292
+00:20:53,680 --> 00:20:57,959
+you're a veteran in, in, in, in the field.
+
+293
+00:20:57,959 --> 00:21:07,000
+And like you said, the, the basically jobs in information security back then were like
+
+294
+00:21:07,000 --> 00:21:13,719
+not known or like not like wanted that, that much.
+
+295
+00:21:13,719 --> 00:21:21,760
+But now like you have kids finishing college that specialized in, in, in security.
+
+296
+00:21:21,760 --> 00:21:29,520
+And like you have this new generation of, of, of, of people already very eager to,
+
+297
+00:21:29,520 --> 00:21:33,400
+to work in, in, in information security field.
+
+298
+00:21:33,400 --> 00:21:40,319
+And maybe you can like share like how you see this new generation of, of, of, you know,
+
+299
+00:21:40,319 --> 00:21:44,880
+I don't not necessarily agree with the, whether the colleagues, colleges, or even universities
+
+300
+00:21:44,880 --> 00:21:50,920
+produce skilled people, but definitely eagerness, not eagerness was there also back then.
+
+301
+00:21:51,079 --> 00:21:52,079
+Yeah.
+
+302
+00:21:52,079 --> 00:21:58,319
+Like maybe it was not in a sense of web application hacking or, or cloud hacking, but it was also,
+
+303
+00:21:58,319 --> 00:22:04,359
+if you remember, we had the whole area of cracking, cracking files, cracking games and
+
+304
+00:22:04,359 --> 00:22:05,359
+all these things.
+
+305
+00:22:05,359 --> 00:22:10,640
+And the whole concept of reverse engineering a game to figure out how it works, or you
+
+306
+00:22:10,640 --> 00:22:16,479
+can just, you know, it's, I remember we were trying to crack the, there was old Prince
+
+307
+00:22:16,479 --> 00:22:20,439
+of Persia type game, or how can I jump to last level?
+
+308
+00:22:20,959 --> 00:22:25,920
+And that was my exposure to Hex editor and the things that, Oh, things behind the scene
+
+309
+00:22:25,920 --> 00:22:26,920
+looks like Hex.
+
+310
+00:22:26,920 --> 00:22:29,880
+And I thought actually Hex is what machine will understand.
+
+311
+00:22:29,880 --> 00:22:34,040
+And then I realized, no, actually, no, there is something more layer behind it.
+
+312
+00:22:34,040 --> 00:22:36,160
+It was more, more those things.
+
+313
+00:22:36,160 --> 00:22:42,400
+So even those days, there were people who were looking to do this thing, viruses and
+
+314
+00:22:42,400 --> 00:22:47,920
+things were, was the area that a lot of people wanted to figure, figure things out.
+
+315
+00:22:48,400 --> 00:22:56,560
+You know, that there are things can go wrong with the system, but, and I don't necessarily
+
+316
+00:22:56,560 --> 00:23:01,479
+know if there was any college degree, you know, doing it, but okay, coming back to what
+
+317
+00:23:01,479 --> 00:23:02,479
+was the question?
+
+318
+00:23:02,479 --> 00:23:03,479
+They were the new generation.
+
+319
+00:23:03,479 --> 00:23:04,479
+Yeah.
+
+320
+00:23:04,479 --> 00:23:05,479
+The new generation.
+
+321
+00:23:05,479 --> 00:23:11,000
+So basically you, from your transition on how you like ended up in, in, in, in this
+
+322
+00:23:11,000 --> 00:23:18,239
+field or gain this kind of expertise, we can like definitely see the new generation,
+
+323
+00:23:18,239 --> 00:23:25,319
+like in a way it's sexy to work in information security or, or work as a, as a penetration
+
+324
+00:23:25,319 --> 00:23:27,839
+tester or a security researcher.
+
+325
+00:23:27,839 --> 00:23:35,680
+But from, from my perspective, what I see is like this, this young generation or people
+
+326
+00:23:35,760 --> 00:23:43,599
+not having enough knowledge, fundamental knowledge of understanding, I don't know how a TCP API
+
+327
+00:23:43,599 --> 00:23:47,479
+networking works or understanding how operation system works.
+
+328
+00:23:47,479 --> 00:23:52,959
+And, and they just want to like do the sexy stuff in terms of, of hacking and breaking
+
+329
+00:23:52,959 --> 00:23:59,880
+stuff, but not really understanding what are they like breaking and what is like the layers
+
+330
+00:23:59,880 --> 00:24:04,000
+below running and why things are working that way.
+
+331
+00:24:04,319 --> 00:24:06,719
+The things that takes time, the things that you need to spend more time on.
+
+332
+00:24:06,719 --> 00:24:08,359
+But I'm going to challenge you guys now.
+
+333
+00:24:08,359 --> 00:24:15,479
+So this could turn into like old people nagging, nagging about the younger generation, right?
+
+334
+00:24:15,479 --> 00:24:22,800
+But what if, what if, um, the, the layers that you guys mentioned so far have been around
+
+335
+00:24:22,800 --> 00:24:31,880
+so long that they're so mature and so, so protected and so, you know, all the bugs have
+
+336
+00:24:31,880 --> 00:24:38,319
+been found and they're so stable that those layers are not with flaws.
+
+337
+00:24:38,319 --> 00:24:40,520
+So today they're coming from very different angle.
+
+338
+00:24:40,520 --> 00:24:43,839
+They are, they're approaching from top down, right?
+
+339
+00:24:43,839 --> 00:24:48,760
+So perhaps then in that case, you need a different kind of skills, which is a good news to hear,
+
+340
+00:24:48,760 --> 00:24:49,760
+right?
+
+341
+00:24:49,760 --> 00:24:56,560
+So that was, we haven't based our time, just still fixing the IP port, well, having said
+
+342
+00:24:56,560 --> 00:24:59,599
+that there was just a vulnerability identified in.
+
+343
+00:25:00,000 --> 00:25:03,320
+in implementation of one of the Linux distro just recently.
+
+344
+00:25:03,320 --> 00:25:04,160
+Ping.
+
+345
+00:25:04,160 --> 00:25:07,800
+Ping ICMP protocol right now, 2023, right?
+
+346
+00:25:07,800 --> 00:25:12,360
+So it's not that all these layers are so very secure.
+
+347
+00:25:12,360 --> 00:25:17,160
+I mean, you shouldn't ask me for that.
+
+348
+00:25:17,160 --> 00:25:21,320
+But definitely there has been a huge improvement, right?
+
+349
+00:25:21,320 --> 00:25:23,799
+In all those layers, right?
+
+350
+00:25:23,799 --> 00:25:26,040
+And kind of you assume that, you know,
+
+351
+00:25:26,040 --> 00:25:27,600
+one of the best things, for example,
+
+352
+00:25:27,600 --> 00:25:30,600
+like these days you always assume the traffic
+
+353
+00:25:30,600 --> 00:25:35,599
+that comes from your browser to your API is secure.
+
+354
+00:25:35,880 --> 00:25:36,799
+It's on a secure channel.
+
+355
+00:25:36,799 --> 00:25:40,160
+You never think twice, but you go back some years ago,
+
+356
+00:25:40,160 --> 00:25:41,480
+that was not the case.
+
+357
+00:25:41,480 --> 00:25:43,279
+Actually, some of the findings that you may find
+
+358
+00:25:43,279 --> 00:25:46,000
+in the Pentest report was always about SSL.
+
+359
+00:25:46,000 --> 00:25:48,000
+Oh, you're not using this certificate.
+
+360
+00:25:49,360 --> 00:25:52,360
+But kind of, sort of, maybe,
+
+361
+00:25:52,360 --> 00:25:54,240
+I don't want to give a percentage,
+
+362
+00:25:54,240 --> 00:25:56,560
+but that is kind of gone, which you're happy.
+
+363
+00:25:56,560 --> 00:25:58,560
+So kind of, we don't really need to report
+
+364
+00:25:58,560 --> 00:26:00,720
+on those sort of things.
+
+365
+00:26:00,720 --> 00:26:02,439
+We have definitely improvement
+
+366
+00:26:02,439 --> 00:26:04,519
+on some front-end frameworks, right?
+
+367
+00:26:04,519 --> 00:26:07,000
+Like some of the security issues
+
+368
+00:26:07,000 --> 00:26:09,320
+are really hard to get introduced,
+
+369
+00:26:09,320 --> 00:26:12,320
+which again, we're glad to see that.
+
+370
+00:26:12,320 --> 00:26:14,559
+So it's kind of by default,
+
+371
+00:26:14,559 --> 00:26:18,160
+some of these frameworks enforce some security controls
+
+372
+00:26:18,160 --> 00:26:21,959
+that if you really want to do something very bad,
+
+373
+00:26:21,959 --> 00:26:23,919
+there's like a function you can,
+
+374
+00:26:23,919 --> 00:26:24,879
+they don't limit you,
+
+375
+00:26:24,879 --> 00:26:27,599
+but the function is called dangerously something.
+
+376
+00:26:27,599 --> 00:26:28,440
+Yeah.
+
+377
+00:26:28,440 --> 00:26:31,000
+Something kind of gives you a hint.
+
+378
+00:26:31,000 --> 00:26:32,959
+You're doing something very fishy.
+
+379
+00:26:32,959 --> 00:26:34,360
+Which is great, but back in the days,
+
+380
+00:26:34,360 --> 00:26:36,639
+well, in JavaScript, you have eval.
+
+381
+00:26:36,639 --> 00:26:38,120
+Is eval dangerous or not?
+
+382
+00:26:38,120 --> 00:26:38,959
+Yeah.
+
+383
+00:26:38,959 --> 00:26:41,120
+I think eval should be renamed to something.
+
+384
+00:26:41,120 --> 00:26:44,519
+Don't call this function ever parameter.
+
+385
+00:26:44,519 --> 00:26:47,239
+So definitely was an improvement.
+
+386
+00:26:47,239 --> 00:26:49,199
+But again, coming back to that,
+
+387
+00:26:49,199 --> 00:26:52,360
+I feel those foundations are necessary.
+
+388
+00:26:52,519 --> 00:26:55,599
+If you don't know how say computer works,
+
+389
+00:26:56,639 --> 00:26:59,400
+what processes, how,
+
+390
+00:26:59,400 --> 00:27:00,720
+and then you want to quickly jump in,
+
+391
+00:27:00,720 --> 00:27:03,760
+like let's say, learning about Docker security,
+
+392
+00:27:03,760 --> 00:27:05,040
+container security,
+
+393
+00:27:05,040 --> 00:27:07,519
+but behind the scene is a process.
+
+394
+00:27:07,519 --> 00:27:08,919
+Behind the scene is a C group.
+
+395
+00:27:08,919 --> 00:27:10,639
+Behind the scene is a name space, right?
+
+396
+00:27:10,639 --> 00:27:12,360
+It's nothing different,
+
+397
+00:27:12,360 --> 00:27:15,039
+but without that foundation of like, let's say,
+
+398
+00:27:15,039 --> 00:27:17,160
+I'm not saying you need to know the Linux kernel,
+
+399
+00:27:17,160 --> 00:27:20,240
+but without that foundation that what are these are,
+
+400
+00:27:21,240 --> 00:27:23,360
+just jumping in,
+
+401
+00:27:23,360 --> 00:27:24,960
+running in a scanner,
+
+402
+00:27:24,960 --> 00:27:26,800
+trying to find a security bug in a container,
+
+403
+00:27:26,800 --> 00:27:29,039
+not gonna take you far.
+
+404
+00:27:29,039 --> 00:27:32,600
+If you want to be a thinker in this area,
+
+405
+00:27:32,600 --> 00:27:35,199
+perhaps one of the really good quotes
+
+406
+00:27:35,199 --> 00:27:37,679
+I can mention here from one professor in Australia,
+
+407
+00:27:37,679 --> 00:27:41,080
+he said that in our industry,
+
+408
+00:27:41,080 --> 00:27:43,080
+we have so many technicians in security,
+
+409
+00:27:43,080 --> 00:27:44,720
+we just need more engineers,
+
+410
+00:27:44,720 --> 00:27:46,839
+like people who can come and think.
+
+411
+00:27:46,839 --> 00:27:48,679
+And to be, I feel to be that engineer,
+
+412
+00:27:48,800 --> 00:27:51,600
+you really need to understand how things work.
+
+413
+00:27:51,600 --> 00:27:53,839
+What is like, in your view,
+
+414
+00:27:54,839 --> 00:27:58,160
+like a big difference between, I don't know,
+
+415
+00:27:59,559 --> 00:28:01,479
+I will use the term hacker here,
+
+416
+00:28:01,479 --> 00:28:03,440
+but what's the big difference between a hacker
+
+417
+00:28:03,440 --> 00:28:06,679
+and senior software engineer?
+
+418
+00:28:06,679 --> 00:28:09,160
+Is there even a big difference?
+
+419
+00:28:09,160 --> 00:28:11,759
+And in what way can you like elaborate on this a bit?
+
+420
+00:28:12,679 --> 00:28:16,160
+So I find like engineers in general
+
+421
+00:28:16,160 --> 00:28:18,559
+more have this builder mindset.
+
+422
+00:28:19,440 --> 00:28:21,880
+The mindset of getting things working,
+
+423
+00:28:21,880 --> 00:28:23,679
+getting things efficient,
+
+424
+00:28:23,679 --> 00:28:25,759
+getting, get the, you know,
+
+425
+00:28:25,759 --> 00:28:28,800
+solve that defined problem.
+
+426
+00:28:28,800 --> 00:28:30,440
+But like someone who is on,
+
+427
+00:28:30,440 --> 00:28:32,279
+let's say in a hacker or security side
+
+428
+00:28:32,279 --> 00:28:33,600
+is more like a breaker mindset.
+
+429
+00:28:33,600 --> 00:28:36,199
+I don't know, I often make this example,
+
+430
+00:28:36,199 --> 00:28:38,199
+like to build a bridge,
+
+431
+00:28:38,199 --> 00:28:40,240
+it takes some skillset,
+
+432
+00:28:40,240 --> 00:28:42,919
+but to blow up that bridge in a controlled manner,
+
+433
+00:28:42,919 --> 00:28:44,800
+so it doesn't touch the buildings around,
+
+434
+00:28:44,800 --> 00:28:46,639
+that is different set of skillset.
+
+435
+00:28:46,639 --> 00:28:50,320
+Whereas the original builder may not necessarily have it.
+
+436
+00:28:51,199 --> 00:28:54,399
+I actually found this through the workshops that I ran,
+
+437
+00:28:54,399 --> 00:28:57,360
+that the person,
+
+438
+00:28:57,360 --> 00:28:59,399
+or some of students I had back in the days
+
+439
+00:28:59,399 --> 00:29:02,600
+that you find a super talented guy,
+
+440
+00:29:02,600 --> 00:29:07,119
+he seems to really good in programming,
+
+441
+00:29:07,119 --> 00:29:09,479
+you know, he doesn't even need any direction.
+
+442
+00:29:10,479 --> 00:29:11,520
+But I really think,
+
+443
+00:29:11,520 --> 00:29:14,199
+oh, that person should be great for, you know,
+
+444
+00:29:14,199 --> 00:29:16,799
+thinking about all these edge cases that,
+
+445
+00:29:16,799 --> 00:29:18,720
+rare cases that can happen to a software
+
+446
+00:29:18,720 --> 00:29:21,040
+that can result into a security issue,
+
+447
+00:29:21,040 --> 00:29:23,079
+but he's just not interested.
+
+448
+00:29:23,079 --> 00:29:25,760
+They're like, they don't find it attractive.
+
+449
+00:29:25,760 --> 00:29:28,119
+They don't find it cool.
+
+450
+00:29:28,119 --> 00:29:30,359
+They actually like to build things.
+
+451
+00:29:30,359 --> 00:29:31,200
+Yeah.
+
+452
+00:29:31,200 --> 00:29:33,399
+And it's, that makes sense.
+
+453
+00:29:34,519 --> 00:29:39,519
+And like, before jumping to the next section,
+
+454
+00:29:40,440 --> 00:29:43,279
+in this process, like in the beginning you said,
+
+455
+00:29:43,279 --> 00:29:45,480
+and that's also my experience,
+
+456
+00:29:45,480 --> 00:29:50,480
+like this InfoSec community worldwide is pretty open.
+
+457
+00:29:52,160 --> 00:29:56,279
+It's pretty like this knowledge sharing is always there.
+
+458
+00:29:56,279 --> 00:29:59,959
+Like in a way, like the open source community,
+
+459
+00:29:59,959 --> 00:30:04,040
+but even more like the way I see it,
+
+460
+00:30:04,040 --> 00:30:05,440
+even more,
+
+461
+00:30:05,559 --> 00:30:07,359
+friendly in a way.
+
+462
+00:30:07,359 --> 00:30:12,359
+And you're also the father of SecTalks.
+
+463
+00:30:13,600 --> 00:30:15,000
+You're the founder, right?
+
+464
+00:30:15,000 --> 00:30:18,640
+Father, father, founder, father figure.
+
+465
+00:30:18,640 --> 00:30:22,320
+And maybe you should like explain,
+
+466
+00:30:22,320 --> 00:30:26,480
+because basically you build sort of a community in,
+
+467
+00:30:26,480 --> 00:30:29,920
+let's call it your backyard and then like outgrow
+
+468
+00:30:29,920 --> 00:30:31,399
+the community, right?
+
+469
+00:30:31,399 --> 00:30:32,239
+Yeah.
+
+470
+00:30:32,399 --> 00:30:35,640
+Let's call it your backyard and then like outgrow
+
+471
+00:30:35,640 --> 00:30:39,000
+this community to copy paste it in different,
+
+472
+00:30:39,000 --> 00:30:41,279
+around Australia and abroad.
+
+473
+00:30:42,399 --> 00:30:44,799
+What is SecTalks about?
+
+474
+00:30:45,679 --> 00:30:49,720
+I think it has started with the whole thing that
+
+475
+00:30:49,720 --> 00:30:53,720
+you like to visit like-minded people in the industry.
+
+476
+00:30:53,720 --> 00:30:55,359
+And, you know, security,
+
+477
+00:30:55,359 --> 00:30:57,079
+although maybe it's a big topic now,
+
+478
+00:30:57,079 --> 00:30:59,239
+it doesn't have, I don't feel it even have
+
+479
+00:30:59,279 --> 00:31:04,279
+such a large community of people comparing with perhaps
+
+480
+00:31:04,600 --> 00:31:08,519
+software development community to some extent.
+
+481
+00:31:08,519 --> 00:31:10,200
+So it was always good to just, you know,
+
+482
+00:31:10,200 --> 00:31:13,399
+sit around and just given the nature of security,
+
+483
+00:31:13,399 --> 00:31:15,880
+there are things that people may not necessarily
+
+484
+00:31:15,880 --> 00:31:17,480
+talk about it online,
+
+485
+00:31:17,480 --> 00:31:19,839
+but maybe in a setting, you know,
+
+486
+00:31:19,839 --> 00:31:22,880
+in some venue,
+
+487
+00:31:22,880 --> 00:31:24,799
+they may actually talk about it and you may hear
+
+488
+00:31:24,799 --> 00:31:26,959
+very interesting stories.
+
+489
+00:31:26,959 --> 00:31:31,239
+So I think, again, that was, again, a natural thing.
+
+490
+00:31:31,239 --> 00:31:34,279
+You kind of feel, oh, I actually like to visit.
+
+491
+00:31:34,279 --> 00:31:37,320
+At the time I was in Perth, in Western Australia,
+
+492
+00:31:37,320 --> 00:31:40,600
+there were some ad hoc events happening there.
+
+493
+00:31:40,600 --> 00:31:43,279
+And after a while, one of those events that we had,
+
+494
+00:31:43,279 --> 00:31:47,559
+that like was running for every month,
+
+495
+00:31:47,559 --> 00:31:49,200
+it suddenly stopped.
+
+496
+00:31:49,200 --> 00:31:53,279
+And then we just felt this void of, oh, actually,
+
+497
+00:31:53,279 --> 00:31:55,720
+you know, I want to really meet someone.
+
+498
+00:31:55,760 --> 00:31:59,079
+And then I was also working for a security consulting
+
+499
+00:31:59,079 --> 00:32:00,000
+business at the time.
+
+500
+00:32:00,000 --> 00:32:02,200
+And then I was like, hey, what if, you know,
+
+501
+00:32:02,200 --> 00:32:04,959
+we just try to run it here, ask around,
+
+502
+00:32:04,959 --> 00:32:07,559
+and that primarily started.
+
+503
+00:32:07,559 --> 00:32:12,559
+But the things I think we started from beginning,
+
+504
+00:32:15,000 --> 00:32:18,119
+I tried to advocate it was this whole idea
+
+505
+00:32:18,119 --> 00:32:19,559
+of the no bullshit.
+
+506
+00:32:19,559 --> 00:32:24,559
+Like, you know, you come here more than welcome.
+
+507
+00:32:24,600 --> 00:32:25,799
+We would love to talk to you.
+
+508
+00:32:25,799 --> 00:32:30,079
+You can even give a talk, but keep the bullshit.
+
+509
+00:32:30,079 --> 00:32:34,920
+But this is sort of like, I would say,
+
+510
+00:32:34,920 --> 00:32:38,920
+we, the security people, we really don't want to hear
+
+511
+00:32:38,920 --> 00:32:39,880
+and see bullshit.
+
+512
+00:32:41,000 --> 00:32:44,799
+Because basically each security community,
+
+513
+00:32:44,799 --> 00:32:49,799
+or it's like this kind of local community going on,
+
+514
+00:32:50,239 --> 00:32:51,600
+like.
+
+515
+00:32:51,600 --> 00:32:55,399
+But like, can we be a bit more specific?
+
+516
+00:32:55,399 --> 00:32:56,559
+What do you mean, bullshit?
+
+517
+00:32:56,559 --> 00:32:58,519
+You mean you don't want to hear, I don't know,
+
+518
+00:32:58,519 --> 00:33:03,519
+marketing pitches, like, you want to talk about,
+
+519
+00:33:05,880 --> 00:33:09,239
+I don't know, exploits, vulnerabilities,
+
+520
+00:33:09,239 --> 00:33:12,440
+how to protect your systems from it.
+
+521
+00:33:12,440 --> 00:33:15,399
+You want to have, you know, first raw access
+
+522
+00:33:15,399 --> 00:33:16,399
+to this kind of data.
+
+523
+00:33:16,399 --> 00:33:19,160
+Yeah, but to be hardcore technical.
+
+524
+00:33:19,880 --> 00:33:24,880
+To not like presenting the upper layer,
+
+525
+00:33:26,000 --> 00:33:29,519
+how this, what you built or what you're going to present
+
+526
+00:33:29,519 --> 00:33:32,320
+is off, is great and so on,
+
+527
+00:33:32,320 --> 00:33:36,239
+without discussing what is running above.
+
+528
+00:33:37,320 --> 00:33:38,359
+Yeah, exactly.
+
+529
+00:33:38,359 --> 00:33:43,359
+It's just, I think you look at when you're long enough
+
+530
+00:33:43,960 --> 00:33:48,960
+in security, you know, things are not secure.
+
+531
+00:33:52,719 --> 00:33:53,559
+Yeah.
+
+532
+00:33:53,559 --> 00:33:54,679
+And that's the reality of it.
+
+533
+00:33:54,679 --> 00:33:57,640
+You can't really say, yeah, even claim.
+
+534
+00:33:57,640 --> 00:33:59,640
+And we have, there are interesting stories
+
+535
+00:33:59,640 --> 00:34:02,080
+that CEO is going out and claiming such and such
+
+536
+00:34:02,080 --> 00:34:03,559
+database engine is secure.
+
+537
+00:34:03,559 --> 00:34:05,679
+And then there is a book is now written for that,
+
+538
+00:34:05,679 --> 00:34:08,719
+how to hack that database engine out there.
+
+539
+00:34:08,719 --> 00:34:10,799
+So you kind of, you see these things
+
+540
+00:34:10,799 --> 00:34:14,039
+and also as a, like a geek or a technical guy,
+
+541
+00:34:14,039 --> 00:34:16,400
+you know how things work and you know, okay,
+
+542
+00:34:16,400 --> 00:34:19,159
+under these condition and that certain assumptions,
+
+543
+00:34:19,159 --> 00:34:23,559
+yeah, maybe that thing is secure, but in reality it's not.
+
+544
+00:34:23,559 --> 00:34:24,960
+And you don't want to go somewhere,
+
+545
+00:34:24,960 --> 00:34:27,640
+just hear someone talking about that.
+
+546
+00:34:27,640 --> 00:34:29,159
+It's kind of want to attract those people
+
+547
+00:34:29,159 --> 00:34:31,400
+who have a genuine interest in the field,
+
+548
+00:34:31,400 --> 00:34:34,640
+not necessarily are opportunistic that they think,
+
+549
+00:34:34,640 --> 00:34:36,119
+well, I would say perhaps the time
+
+550
+00:34:36,119 --> 00:34:39,799
+that this whole thing started was not so much a big topic,
+
+551
+00:34:39,799 --> 00:34:43,320
+was more like, well, you just get together, have a chat.
+
+552
+00:34:43,320 --> 00:34:47,599
+So kind of trying to attract those, more those guys.
+
+553
+00:34:47,599 --> 00:34:50,960
+And the other thing I felt was important
+
+554
+00:34:51,840 --> 00:34:56,840
+is that this egoistic nature of,
+
+555
+00:34:59,000 --> 00:35:01,719
+when you feel you're a hacker or a security guy,
+
+556
+00:35:01,719 --> 00:35:06,200
+you feel you're so special that,
+
+557
+00:35:06,200 --> 00:35:07,719
+because, you know, you find something
+
+558
+00:35:07,719 --> 00:35:11,119
+that perhaps nobody in that team would ever discover it.
+
+559
+00:35:11,119 --> 00:35:14,599
+I kind of, you have this feeling of, okay, all right.
+
+560
+00:35:14,599 --> 00:35:17,200
+So, you know, I'm very important.
+
+561
+00:35:17,200 --> 00:35:18,919
+What kind of, I actually didn't like it either.
+
+562
+00:35:18,919 --> 00:35:20,239
+I'm like, if you are a great hacker,
+
+563
+00:35:20,239 --> 00:35:22,320
+you actually need, can you explain it to someone
+
+564
+00:35:22,320 --> 00:35:24,080
+who doesn't have any clue?
+
+565
+00:35:24,080 --> 00:35:26,919
+Well, then that means you're a really good hacker.
+
+566
+00:35:26,919 --> 00:35:30,760
+I can sit here and talk about the, everything is broken.
+
+567
+00:35:30,760 --> 00:35:33,719
+This wifi is broken and that network is broken,
+
+568
+00:35:33,719 --> 00:35:36,119
+but that doesn't.
+
+569
+00:35:36,280 --> 00:35:38,520
+It's not useful inside.
+
+570
+00:35:38,520 --> 00:35:40,039
+We know that it's already broken.
+
+571
+00:35:40,039 --> 00:35:40,880
+Yeah.
+
+572
+00:35:40,880 --> 00:35:41,719
+Yeah. Okay.
+
+573
+00:35:41,719 --> 00:35:42,559
+Just come and talk about it.
+
+574
+00:35:42,559 --> 00:35:43,880
+Yeah.
+
+575
+00:35:43,880 --> 00:35:44,719
+Okay.
+
+576
+00:35:44,719 --> 00:35:46,200
+And in like.
+
+577
+00:35:46,200 --> 00:35:47,039
+May I ask this question?
+
+578
+00:35:47,039 --> 00:35:47,880
+Yeah, sure.
+
+579
+00:35:47,880 --> 00:35:52,840
+You come up as a really humble in this conversation,
+
+580
+00:35:52,840 --> 00:35:56,359
+but there's a Sektalks around the world.
+
+581
+00:35:56,359 --> 00:35:59,359
+There's around 10,000 members in this community
+
+582
+00:35:59,359 --> 00:36:00,679
+or something like that.
+
+583
+00:36:00,679 --> 00:36:04,119
+So in all major cities, these Sektalk events appear
+
+584
+00:36:04,119 --> 00:36:06,960
+on a monthly basis, if I understand correctly.
+
+585
+00:36:06,960 --> 00:36:09,159
+So audience out there, if you're interested,
+
+586
+00:36:09,159 --> 00:36:10,679
+make sure you find it out.
+
+587
+00:36:10,679 --> 00:36:12,520
+We'll put some links there.
+
+588
+00:36:12,520 --> 00:36:14,119
+Right?
+
+589
+00:36:14,119 --> 00:36:15,799
+Can I do that?
+
+590
+00:36:15,799 --> 00:36:16,799
+Yeah, but it's interesting
+
+591
+00:36:16,799 --> 00:36:18,479
+because this is one of those meetups
+
+592
+00:36:18,479 --> 00:36:21,559
+that it's not recorded, if I understand correctly.
+
+593
+00:36:21,559 --> 00:36:25,559
+Yeah, but there were some recorded meetups during COVID.
+
+594
+00:36:25,559 --> 00:36:26,400
+Then.
+
+595
+00:36:26,400 --> 00:36:27,239
+And in general, it's true.
+
+596
+00:36:27,239 --> 00:36:28,840
+Generally, yeah, in person.
+
+597
+00:36:28,840 --> 00:36:30,840
+You know, you want to meet people in 3D.
+
+598
+00:36:30,840 --> 00:36:32,719
+You know, you don't want.
+
+599
+00:36:32,760 --> 00:36:36,280
+And like, to some extent,
+
+600
+00:36:36,280 --> 00:36:41,280
+like those meetups also include capture the flag?
+
+601
+00:36:41,840 --> 00:36:42,679
+Maybe.
+
+602
+00:36:42,679 --> 00:36:43,520
+Yeah, so.
+
+603
+00:36:43,520 --> 00:36:47,039
+Maybe it's like for the audience to explain what this is.
+
+604
+00:36:47,039 --> 00:36:48,919
+So you know, Perth is a city in Australia,
+
+605
+00:36:48,919 --> 00:36:50,719
+which I mean, 1.4 million,
+
+606
+00:36:50,719 --> 00:36:54,000
+but it may fill that audit.
+
+607
+00:36:54,000 --> 00:36:55,200
+So there's a lot of people there,
+
+608
+00:36:55,200 --> 00:36:59,679
+but at the time, any of you who are a meetup organizer,
+
+609
+00:36:59,679 --> 00:37:02,159
+you know that it's really hard to find good content.
+
+610
+00:37:02,159 --> 00:37:05,400
+So the idea, and yeah, we play a game in security,
+
+611
+00:37:05,400 --> 00:37:07,159
+which I always advocate to anyone who wants
+
+612
+00:37:07,159 --> 00:37:09,760
+to start security to do it is capture the flag,
+
+613
+00:37:09,760 --> 00:37:10,960
+which the goal is, you know,
+
+614
+00:37:10,960 --> 00:37:13,960
+you hack into this simulated or virtual environment
+
+615
+00:37:13,960 --> 00:37:15,479
+to find a flag.
+
+616
+00:37:17,799 --> 00:37:20,440
+And a lot of people naturally has interest in that.
+
+617
+00:37:20,440 --> 00:37:22,880
+But one of the things you,
+
+618
+00:37:22,880 --> 00:37:26,039
+I mean, I often found was missing is that, you know,
+
+619
+00:37:26,039 --> 00:37:29,000
+these CTFs typically run as part of a conference
+
+620
+00:37:29,000 --> 00:37:30,960
+and you have lead hackers.
+
+621
+00:37:31,000 --> 00:37:32,239
+You know, they go and break things
+
+622
+00:37:32,239 --> 00:37:34,479
+and find the flags and get the trophy,
+
+623
+00:37:34,479 --> 00:37:39,119
+but you don't really hear that how they have done it,
+
+624
+00:37:39,119 --> 00:37:41,159
+like how they have achieved it,
+
+625
+00:37:41,159 --> 00:37:43,640
+which I felt that was a knowledge missing.
+
+626
+00:37:45,080 --> 00:37:45,919
+But guess what?
+
+627
+00:37:45,919 --> 00:37:47,239
+It was like one stone, two birds.
+
+628
+00:37:47,239 --> 00:37:49,400
+I was like, okay, how about we run a CTF,
+
+629
+00:37:49,400 --> 00:37:52,440
+we limit it only to 60 minutes.
+
+630
+00:37:52,440 --> 00:37:56,520
+And then let the people doing it on the day.
+
+631
+00:37:56,520 --> 00:37:58,239
+And then in the next session,
+
+632
+00:37:58,239 --> 00:38:00,440
+because it's very hard to find a good speaker,
+
+633
+00:38:00,919 --> 00:38:05,239
+the person who hacked it can come and talk about it.
+
+634
+00:38:05,239 --> 00:38:06,080
+And the kind of,
+
+635
+00:38:06,080 --> 00:38:08,479
+we kind of have this filler of the events happening.
+
+636
+00:38:08,479 --> 00:38:09,719
+That worked well for,
+
+637
+00:38:09,719 --> 00:38:12,280
+especially for the smaller communities we had.
+
+638
+00:38:12,280 --> 00:38:14,880
+So it's like a good, good starter.
+
+639
+00:38:14,880 --> 00:38:17,080
+And hopefully we don't end up, you know,
+
+640
+00:38:17,080 --> 00:38:20,200
+getting any vendor talks and things to do, it's crippling.
+
+641
+00:38:20,200 --> 00:38:25,200
+But do you think like nowadays the Capture the Flag contest
+
+642
+00:38:25,520 --> 00:38:27,919
+or like online hack in the boxes
+
+643
+00:38:28,440 --> 00:38:30,919
+became more popular than like, I don't know,
+
+644
+00:38:30,919 --> 00:38:32,799
+10 years ago, 15 years ago?
+
+645
+00:38:32,799 --> 00:38:33,640
+Yeah, definitely.
+
+646
+00:38:33,640 --> 00:38:34,960
+Yeah, yeah, for sure.
+
+647
+00:38:34,960 --> 00:38:37,520
+It's not, my understanding is that
+
+648
+00:38:37,520 --> 00:38:40,760
+if this used to be like part of the conferences
+
+649
+00:38:40,760 --> 00:38:42,760
+organized to challenge people,
+
+650
+00:38:42,760 --> 00:38:44,840
+now it's becoming very competitive
+
+651
+00:38:44,840 --> 00:38:47,960
+and really big thing across the globe.
+
+652
+00:38:47,960 --> 00:38:49,599
+People are really learning
+
+653
+00:38:49,599 --> 00:38:51,359
+and preparing just for these things.
+
+654
+00:38:51,359 --> 00:38:54,119
+So as we discussed earlier,
+
+655
+00:38:54,119 --> 00:38:56,599
+we said that you need to learn these layers
+
+656
+00:38:56,599 --> 00:39:00,200
+to build your stack and learn, you know, all the things.
+
+657
+00:39:00,200 --> 00:39:02,559
+People are now optimizing for just these games,
+
+658
+00:39:02,559 --> 00:39:03,919
+if I understand correctly, right?
+
+659
+00:39:03,919 --> 00:39:07,840
+So they probably learn all the tricks
+
+660
+00:39:07,840 --> 00:39:09,960
+that are possible in these timeframes
+
+661
+00:39:09,960 --> 00:39:12,320
+or is there like elements
+
+662
+00:39:12,320 --> 00:39:15,960
+that you need to reinvent some new mechanics or?
+
+663
+00:39:15,960 --> 00:39:19,919
+Yeah, the way I saw like the good teams,
+
+664
+00:39:19,919 --> 00:39:21,440
+like they have their own tooling.
+
+665
+00:39:21,440 --> 00:39:23,880
+They prepared like how to like,
+
+666
+00:39:23,919 --> 00:39:28,400
+had some advantage on how to compete.
+
+667
+00:39:30,039 --> 00:39:34,159
+Prior to coming to these challenges.
+
+668
+00:39:34,159 --> 00:39:35,320
+Yeah, yeah.
+
+669
+00:39:35,320 --> 00:39:39,320
+And a lot of actually, some of the good hacking tooling
+
+670
+00:39:39,320 --> 00:39:41,080
+or security testing tooling actually came out
+
+671
+00:39:41,080 --> 00:39:44,960
+of some of these CTFs,
+
+672
+00:39:44,960 --> 00:39:48,719
+specifically one quite interesting security issue,
+
+673
+00:39:48,719 --> 00:39:53,599
+which is known as Severed Site Template Injection or SSTI.
+
+674
+00:39:53,640 --> 00:39:58,640
+This bug was the demonstration of how bad this bug can get
+
+675
+00:40:00,359 --> 00:40:02,599
+or how this vulnerability can get so bad
+
+676
+00:40:02,599 --> 00:40:04,760
+was through one of the, some of the CTFs
+
+677
+00:40:04,760 --> 00:40:06,799
+and the write up one of these players had
+
+678
+00:40:06,799 --> 00:40:08,840
+and the kind of that expanded that,
+
+679
+00:40:08,840 --> 00:40:11,679
+whoa, this thing can go really seriously bad.
+
+680
+00:40:11,679 --> 00:40:15,159
+So, and then yeah, publishing those tools
+
+681
+00:40:15,159 --> 00:40:17,880
+and as Andrei said, some of them actually
+
+682
+00:40:17,880 --> 00:40:20,679
+have the Python libraries even for
+
+683
+00:40:20,679 --> 00:40:23,280
+how to do different things so quickly.
+
+684
+00:40:23,880 --> 00:40:24,719
+It's a competition.
+
+685
+00:40:24,719 --> 00:40:26,960
+Can you give us a bit more example
+
+686
+00:40:26,960 --> 00:40:29,440
+what's in this toolbox that they use?
+
+687
+00:40:33,799 --> 00:40:38,799
+I mean, let me rephrase the question.
+
+688
+00:40:38,919 --> 00:40:41,400
+Can you give us example of these challenges?
+
+689
+00:40:41,400 --> 00:40:45,080
+Like what would be, for example, examples
+
+690
+00:40:45,080 --> 00:40:47,039
+a good assignment that will be part
+
+691
+00:40:47,039 --> 00:40:49,400
+of a capture the flag challenge?
+
+692
+00:40:50,280 --> 00:40:54,359
+Well, those are like the default ones of stenography,
+
+693
+00:40:54,359 --> 00:40:57,840
+like hiding the flag inside some kind of image.
+
+694
+00:40:58,880 --> 00:41:03,880
+Then like very known are like also the PCAP.
+
+695
+00:41:04,599 --> 00:41:09,599
+So snapshot of network traffic and then inside like that,
+
+696
+00:41:09,640 --> 00:41:13,520
+there's a flag.
+
+697
+00:41:14,640 --> 00:41:15,479
+What else?
+
+698
+00:41:15,479 --> 00:41:16,320
+I mean, reverse engineering.
+
+699
+00:41:16,320 --> 00:41:18,960
+So you have the binary file and you need to figure out
+
+700
+00:41:19,520 --> 00:41:20,359
+what does that do?
+
+701
+00:41:20,359 --> 00:41:23,840
+I mean, you have a web application type security issues
+
+702
+00:41:23,840 --> 00:41:27,119
+that the goal is to hack into that web app
+
+703
+00:41:27,119 --> 00:41:30,239
+or web API and then exploit it.
+
+704
+00:41:30,239 --> 00:41:32,960
+And eventually you get perhaps a root access there
+
+705
+00:41:32,960 --> 00:41:35,840
+and you can read the text file, which is a flag there.
+
+706
+00:41:35,840 --> 00:41:37,799
+It's very-
+
+707
+00:41:37,799 --> 00:41:42,400
+Are these things like chained together
+
+708
+00:41:42,400 --> 00:41:46,080
+or is this like hacking to this webpage,
+
+709
+00:41:46,080 --> 00:41:47,919
+get the flag and then move to the next challenge?
+
+710
+00:41:47,960 --> 00:41:50,760
+Or do you have to like, do you change them together?
+
+711
+00:41:50,760 --> 00:41:53,840
+Like get one flag here and then do something else
+
+712
+00:41:53,840 --> 00:41:55,960
+or is this, it really depends on-
+
+713
+00:41:55,960 --> 00:41:58,280
+I'd say it depends, but usually they're not chained.
+
+714
+00:41:58,280 --> 00:42:02,159
+Like basically you finish the puzzle
+
+715
+00:42:02,159 --> 00:42:07,160
+or solve the challenge, the new challenge opens.
+
+716
+00:42:07,880 --> 00:42:09,280
+It really depends.
+
+717
+00:42:09,280 --> 00:42:11,959
+Is there any help or any hints or anything like that?
+
+718
+00:42:13,400 --> 00:42:16,439
+Yeah, it's a penalty points for hints as well.
+
+719
+00:42:16,439 --> 00:42:17,280
+Penalty.
+
+720
+00:42:17,560 --> 00:42:21,319
+Penalty points so you get for soften to reveal the hint.
+
+721
+00:42:21,319 --> 00:42:24,880
+Now whether the quality of that hint will be good or not.
+
+722
+00:42:24,880 --> 00:42:29,560
+That's another topic, but you get some,
+
+723
+00:42:29,560 --> 00:42:30,959
+it's more like a competition.
+
+724
+00:42:30,959 --> 00:42:33,719
+So kind of you learn through the competition
+
+725
+00:42:33,719 --> 00:42:35,000
+and often actually it works.
+
+726
+00:42:35,000 --> 00:42:39,000
+Like I, back in the days, we built some CTF challenges
+
+727
+00:42:39,000 --> 00:42:41,160
+for some international conferences.
+
+728
+00:42:41,160 --> 00:42:46,160
+And I know for the fact that one of that very good CTF team
+
+729
+00:42:46,199 --> 00:42:49,439
+that they didn't touch cryptography type challenges.
+
+730
+00:42:49,439 --> 00:42:52,880
+They had no idea about different encryption
+
+731
+00:42:52,880 --> 00:42:55,680
+or decryption type algorithms,
+
+732
+00:42:55,680 --> 00:42:58,800
+but throughout that CTF period for that conference,
+
+733
+00:42:58,800 --> 00:43:00,920
+which normally runs two to three days,
+
+734
+00:43:00,920 --> 00:43:03,239
+they actually went and start learning about it,
+
+735
+00:43:03,239 --> 00:43:07,439
+reading articles and eventually solve that challenge,
+
+736
+00:43:07,439 --> 00:43:10,040
+which the guy was telling me that in a normal cases,
+
+737
+00:43:10,040 --> 00:43:12,520
+I wouldn't bother even to read about this.
+
+738
+00:43:12,520 --> 00:43:13,520
+Kind of, I was like, okay,
+
+739
+00:43:13,560 --> 00:43:16,400
+but now because of this sense of competition
+
+740
+00:43:16,400 --> 00:43:18,400
+and like actually now I know,
+
+741
+00:43:18,400 --> 00:43:21,599
+like there's a lot of things I can go and check out for it.
+
+742
+00:43:21,599 --> 00:43:26,599
+And you think like being good at CTFs,
+
+743
+00:43:26,880 --> 00:43:31,880
+like sort of a good starting point in security career or?
+
+744
+00:43:35,400 --> 00:43:37,040
+I think you can immediately test
+
+745
+00:43:37,040 --> 00:43:39,439
+or compare your skillset to others.
+
+746
+00:43:40,319 --> 00:43:42,839
+It's very hands-on like interactive.
+
+747
+00:43:42,959 --> 00:43:47,760
+So if you talk about like the life cycle
+
+748
+00:43:47,760 --> 00:43:49,119
+of like a security issue,
+
+749
+00:43:49,119 --> 00:43:51,040
+I mean, the first thing is you need
+
+750
+00:43:51,040 --> 00:43:55,479
+to find the security issue, finding a vulnerability.
+
+751
+00:43:55,479 --> 00:43:58,640
+Okay, there are some perhaps techniques
+
+752
+00:43:58,640 --> 00:44:00,599
+you can follow to find that,
+
+753
+00:44:01,520 --> 00:44:04,560
+but then it comes the exploitation phase,
+
+754
+00:44:04,560 --> 00:44:08,640
+which I typically call it is at the most closer than art
+
+755
+00:44:08,640 --> 00:44:10,560
+because it depends,
+
+756
+00:44:10,560 --> 00:44:13,479
+like often when you are engaged by a customer
+
+757
+00:44:13,479 --> 00:44:15,640
+to do a security assessment,
+
+758
+00:44:15,640 --> 00:44:19,680
+you may find an interesting security issue,
+
+759
+00:44:19,680 --> 00:44:22,560
+but just to turn that and prove to them
+
+760
+00:44:22,560 --> 00:44:24,719
+that this is really bad,
+
+761
+00:44:24,719 --> 00:44:27,640
+it may take you the rest of the duration of the engagement
+
+762
+00:44:27,640 --> 00:44:31,119
+just to demonstrate one security issue
+
+763
+00:44:31,119 --> 00:44:34,359
+has a really major impact on the environment.
+
+764
+00:44:34,359 --> 00:44:36,400
+So I think someone who,
+
+765
+00:44:36,400 --> 00:44:39,439
+I feel when you go through that exploitation phase,
+
+766
+00:44:39,439 --> 00:44:41,560
+you actually learn quite a lot
+
+767
+00:44:41,560 --> 00:44:45,160
+and you really understand a lot of quirks.
+
+768
+00:44:45,160 --> 00:44:50,160
+Like when you are a security, well, security researcher,
+
+769
+00:44:50,560 --> 00:44:53,400
+we don't have the luxury of having a debugger
+
+770
+00:44:53,400 --> 00:44:54,560
+as like a software engineers
+
+771
+00:44:54,560 --> 00:44:56,160
+that you can just attach to the program,
+
+772
+00:44:56,160 --> 00:44:57,239
+figure out what's happened.
+
+773
+00:44:57,239 --> 00:44:59,800
+Like there is like nothing like that.
+
+774
+00:44:59,800 --> 00:45:02,000
+You kind of, a lot of times,
+
+775
+00:45:02,000 --> 00:45:04,079
+yeah, it's a lot of trial and error.
+
+776
+00:45:04,079 --> 00:45:05,760
+A lot of times there's a lack of tooling
+
+777
+00:45:05,760 --> 00:45:07,959
+even to interface with something.
+
+778
+00:45:07,959 --> 00:45:11,719
+So it's a lot of complexity involved in there.
+
+779
+00:45:11,719 --> 00:45:12,560
+So I think.
+
+780
+00:45:14,000 --> 00:45:17,640
+But like experience from like a sec docs
+
+781
+00:45:17,640 --> 00:45:19,800
+we run in Ljubljana,
+
+782
+00:45:20,560 --> 00:45:25,400
+like that few CTFs that we had,
+
+783
+00:45:26,359 --> 00:45:31,040
+it was interesting that like on the guys
+
+784
+00:45:31,040 --> 00:45:34,359
+who were leading on like highest on the scoreboard
+
+785
+00:45:34,359 --> 00:45:36,439
+were actually developers.
+
+786
+00:45:36,439 --> 00:45:39,640
+So not people like dealing with security
+
+787
+00:45:39,640 --> 00:45:43,040
+or solving the CTFs.
+
+788
+00:45:43,040 --> 00:45:46,199
+There were like few guys that like really,
+
+789
+00:45:46,199 --> 00:45:49,040
+when the problem is presented
+
+790
+00:45:49,040 --> 00:45:50,920
+or the puzzle that was presented,
+
+791
+00:45:50,920 --> 00:45:54,119
+they start like really thinking outside of the box
+
+792
+00:45:54,119 --> 00:45:57,439
+because all other, let's say security people
+
+793
+00:45:57,439 --> 00:46:00,439
+that working security were relying on tools,
+
+794
+00:46:00,439 --> 00:46:02,599
+relying on, okay,
+
+795
+00:46:02,599 --> 00:46:05,680
+which tool should I use to extract something out
+
+796
+00:46:06,599 --> 00:46:09,000
+in compared to the developer who was thinking,
+
+797
+00:46:09,000 --> 00:46:10,880
+okay, what am I seeing here?
+
+798
+00:46:10,880 --> 00:46:13,000
+How can I, so.
+
+799
+00:46:13,000 --> 00:46:14,359
+Exactly.
+
+800
+00:46:14,359 --> 00:46:16,920
+There have been so many cases like that,
+
+801
+00:46:16,920 --> 00:46:19,239
+that people who are completely new,
+
+802
+00:46:19,239 --> 00:46:21,319
+let's say to security,
+
+803
+00:46:21,319 --> 00:46:22,719
+they come to SecDocs
+
+804
+00:46:22,719 --> 00:46:27,719
+and then they are taught in a ladder work.
+
+805
+00:46:27,719 --> 00:46:29,880
+The other things like sometimes
+
+806
+00:46:29,880 --> 00:46:32,040
+we had actually a specific case in Sydney
+
+807
+00:46:32,040 --> 00:46:36,199
+that one of the top players a few years ago,
+
+808
+00:46:36,199 --> 00:46:38,400
+he actually didn't even know about all these toolings
+
+809
+00:46:38,400 --> 00:46:39,239
+that is available,
+
+810
+00:46:39,239 --> 00:46:41,280
+like some of these Python libraries that are available
+
+811
+00:46:41,280 --> 00:46:44,280
+just to make the reversing that super easy.
+
+812
+00:46:44,280 --> 00:46:46,079
+He was just building everything,
+
+813
+00:46:46,079 --> 00:46:48,040
+thinking about it, reasoning about it.
+
+814
+00:46:48,040 --> 00:46:48,880
+Me.
+
+815
+00:46:48,880 --> 00:46:49,719
+And writing it.
+
+816
+00:46:49,719 --> 00:46:51,400
+I'm like that in these cases.
+
+817
+00:46:51,400 --> 00:46:52,959
+When he was presenting that
+
+818
+00:46:52,959 --> 00:46:54,199
+and then these like,
+
+819
+00:46:54,199 --> 00:46:55,839
+there's a lot of also students coming in.
+
+820
+00:46:55,839 --> 00:46:57,400
+They are looking at this kind of, wow,
+
+821
+00:46:57,400 --> 00:46:59,760
+like the algorithm that he built, for example,
+
+822
+00:46:59,760 --> 00:47:00,800
+to prove that, I don't know,
+
+823
+00:47:01,760 --> 00:47:03,160
+to crack the hash.
+
+824
+00:47:03,160 --> 00:47:05,959
+And they were telling him after the talk that,
+
+825
+00:47:05,959 --> 00:47:08,079
+you know, you just make a call to this library
+
+826
+00:47:08,079 --> 00:47:10,640
+that exactly the algorithm you have.
+
+827
+00:47:10,640 --> 00:47:12,719
+Yeah, if you don't know what's in the toolbox,
+
+828
+00:47:12,719 --> 00:47:14,680
+you can't use it.
+
+829
+00:47:14,680 --> 00:47:15,880
+Yeah, but on the other side,
+
+830
+00:47:15,880 --> 00:47:18,239
+like you also get,
+
+831
+00:47:18,239 --> 00:47:21,199
+like usually there are multiple ways
+
+832
+00:47:21,199 --> 00:47:23,040
+how to solve the puzzle.
+
+833
+00:47:23,040 --> 00:47:27,640
+And like it was a thing in Unix world,
+
+834
+00:47:27,640 --> 00:47:29,479
+like there are many ways to skin a cat.
+
+835
+00:47:29,479 --> 00:47:34,479
+Like whoever won present the solution,
+
+836
+00:47:37,119 --> 00:47:39,400
+like then you can like start comparing
+
+837
+00:47:39,400 --> 00:47:41,400
+whether you were thinking the same
+
+838
+00:47:41,400 --> 00:47:44,920
+or using the same methods or different.
+
+839
+00:47:44,920 --> 00:47:45,959
+So, yeah.
+
+840
+00:47:45,959 --> 00:47:48,319
+My observation of one of these psych talks
+
+841
+00:47:48,319 --> 00:47:50,119
+was like, it was very interesting
+
+842
+00:47:50,119 --> 00:47:51,839
+because I like, I saw a couple of guys
+
+843
+00:47:51,839 --> 00:47:53,800
+that were programmers
+
+844
+00:47:53,800 --> 00:47:55,680
+because there is no like limit
+
+845
+00:47:55,680 --> 00:47:58,880
+what tools you can use or not use.
+
+846
+00:47:59,319 --> 00:48:01,439
+Somebody is writing something in Perl.
+
+847
+00:48:01,439 --> 00:48:02,439
+Somebody just said,
+
+848
+00:48:02,439 --> 00:48:04,560
+I'm just gonna throw this code
+
+849
+00:48:04,560 --> 00:48:06,439
+that needs to be encrypted or decrypted
+
+850
+00:48:06,439 --> 00:48:09,119
+into spreadsheets or bash.
+
+851
+00:48:09,119 --> 00:48:10,000
+It doesn't really matter.
+
+852
+00:48:10,000 --> 00:48:12,400
+It's just whatever tools you use.
+
+853
+00:48:12,400 --> 00:48:14,119
+So that's very interesting.
+
+854
+00:48:14,119 --> 00:48:17,040
+I just remember there's an interesting story
+
+855
+00:48:17,040 --> 00:48:18,760
+how you two met, right?
+
+856
+00:48:18,760 --> 00:48:19,599
+Yeah.
+
+857
+00:48:19,599 --> 00:48:22,800
+Yeah, you remember?
+
+858
+00:48:22,800 --> 00:48:24,000
+I caused more problems.
+
+859
+00:48:24,119 --> 00:48:24,959
+Yeah.
+
+860
+00:48:26,119 --> 00:48:28,119
+I just remember today
+
+861
+00:48:28,119 --> 00:48:30,280
+and said to Otto that it's funny
+
+862
+00:48:30,280 --> 00:48:32,280
+because I think it's worth saying
+
+863
+00:48:32,280 --> 00:48:35,319
+how you two-
+
+864
+00:48:35,319 --> 00:48:36,719
+Obviously it's your fault, right?
+
+865
+00:48:36,719 --> 00:48:37,560
+So-
+
+866
+00:48:37,560 --> 00:48:38,400
+Yeah.
+
+867
+00:48:38,400 --> 00:48:39,599
+I mean, it's your fault
+
+868
+00:48:39,599 --> 00:48:40,959
+for solving the challenge
+
+869
+00:48:40,959 --> 00:48:43,599
+and revealing the secret.
+
+870
+00:48:43,599 --> 00:48:45,160
+I don't remember everything,
+
+871
+00:48:45,160 --> 00:48:46,839
+but I know that,
+
+872
+00:48:46,839 --> 00:48:47,920
+so we have the Slack
+
+873
+00:48:47,920 --> 00:48:50,680
+and you just dropped in the page
+
+874
+00:48:50,680 --> 00:48:53,199
+from Pedram's website.
+
+875
+00:48:53,199 --> 00:48:55,599
+And there's like a capture the flag
+
+876
+00:48:55,599 --> 00:48:56,920
+kind of a thing on his-
+
+877
+00:48:56,920 --> 00:49:00,520
+No, he was like hiring-
+
+878
+00:49:00,520 --> 00:49:01,400
+I didn't read that.
+
+879
+00:49:01,400 --> 00:49:04,599
+I just saw it's a capture the flag,
+
+880
+00:49:04,599 --> 00:49:05,800
+something with Docker.
+
+881
+00:49:05,800 --> 00:49:07,319
+So you didn't know what was it?
+
+882
+00:49:07,319 --> 00:49:08,640
+I didn't know.
+
+883
+00:49:08,640 --> 00:49:10,880
+There was just like this page
+
+884
+00:49:10,880 --> 00:49:13,160
+and Loki posted it.
+
+885
+00:49:13,160 --> 00:49:14,280
+And I was like,
+
+886
+00:49:14,280 --> 00:49:16,880
+okay, I'm gonna look, what's that?
+
+887
+00:49:16,880 --> 00:49:18,239
+Just play with him
+
+888
+00:49:18,239 --> 00:49:21,119
+because I think it was dependent on Python.
+
+889
+00:49:21,119 --> 00:49:22,479
+I just wanna like play with it
+
+890
+00:49:22,479 --> 00:49:25,119
+so that I can show off Python from him
+
+891
+00:49:25,119 --> 00:49:27,359
+because I know he tries to avoid programming
+
+892
+00:49:27,359 --> 00:49:28,439
+as much as possible.
+
+893
+00:49:29,400 --> 00:49:32,640
+And yeah, there was something
+
+894
+00:49:32,640 --> 00:49:34,119
+with the Docker container.
+
+895
+00:49:34,119 --> 00:49:35,719
+I can't remember what it was,
+
+896
+00:49:35,719 --> 00:49:38,000
+but yeah, it had some cipher in there
+
+897
+00:49:38,000 --> 00:49:39,839
+and some environment keys.
+
+898
+00:49:39,839 --> 00:49:42,119
+And I just like, like you said,
+
+899
+00:49:42,119 --> 00:49:44,800
+I looked into how to blow up this bridge.
+
+900
+00:49:45,800 --> 00:49:50,800
+Yeah, and then you wrote a blog post on your site.
+
+901
+00:49:51,000 --> 00:49:52,599
+Yeah, yeah, yeah, yeah, yeah.
+
+902
+00:49:52,599 --> 00:49:55,160
+I wrote like, I didn't, yeah.
+
+903
+00:49:55,160 --> 00:49:56,000
+That's like-
+
+904
+00:49:56,000 --> 00:49:57,839
+And that's when you contacted him.
+
+905
+00:49:57,839 --> 00:49:58,680
+Yeah, that's yeah.
+
+906
+00:49:58,680 --> 00:50:00,079
+Hey, whatever, here is a writer.
+
+907
+00:50:00,000 --> 00:50:03,760
+Did you know what you saw? That was our career entrance.
+
+908
+00:50:03,760 --> 00:50:12,760
+Yeah, because what I did is like, when I was doing this, I wanted to just have a document
+
+909
+00:50:12,760 --> 00:50:15,080
+describing all the steps that I did.
+
+910
+00:50:15,080 --> 00:50:19,040
+So I wrote down everything and I was like, I needed something for my blog at the time.
+
+911
+00:50:19,040 --> 00:50:21,719
+I was like, okay, I'm going to write this down, right?
+
+912
+00:50:21,719 --> 00:50:25,719
+And then in the end, the last step was like, send email and then it was like, your email
+
+913
+00:50:25,719 --> 00:50:29,320
+and send the email and send the blog post attached to it.
+
+914
+00:50:29,320 --> 00:50:33,560
+And that was stupid and in hindsight, yeah, I know, I'm sorry for that.
+
+915
+00:50:33,560 --> 00:50:34,560
+I think I apologized.
+
+916
+00:50:34,560 --> 00:50:35,560
+Why didn't you apologize?
+
+917
+00:50:35,560 --> 00:50:36,560
+Then you put it public.
+
+918
+00:50:36,560 --> 00:50:37,560
+Yeah.
+
+919
+00:50:37,560 --> 00:50:41,360
+I put it public, yeah, that was a shitty thing to do.
+
+920
+00:50:41,360 --> 00:50:46,400
+And perhaps that could be a nice segue into discussion about hacking and ethics probably
+
+921
+00:50:46,400 --> 00:50:51,400
+and what you said, what's the term, disclosure.
+
+922
+00:50:51,400 --> 00:50:53,400
+Full disclosure.
+
+923
+00:50:53,400 --> 00:50:56,560
+Full disclosure, 90 days and everything, yeah.
+
+924
+00:50:56,560 --> 00:51:03,119
+It just made it harder for other people to apply because that's the thing, you can't
+
+925
+00:51:03,119 --> 00:51:07,239
+necessarily stop people to write, write up about your challenges, right?
+
+926
+00:51:07,239 --> 00:51:09,440
+But we'll make a better challenge, the next challenge.
+
+927
+00:51:09,440 --> 00:51:11,959
+So Jan, you hope that they will read that right up.
+
+928
+00:51:11,959 --> 00:51:14,239
+Well, I didn't get, I didn't get the job.
+
+929
+00:51:14,239 --> 00:51:18,000
+So the next guy must probably be better than I am.
+
+930
+00:51:18,000 --> 00:51:24,639
+For me, like it was interesting because it was a job ad basically.
+
+931
+00:51:25,639 --> 00:51:32,919
+And I saw this as a very creative job ad because you need to like solve the puzzle to actually
+
+932
+00:51:32,919 --> 00:51:36,400
+know what, like how to contact you.
+
+933
+00:51:36,400 --> 00:51:38,199
+Well, you needed to know a lot of stuff.
+
+934
+00:51:38,199 --> 00:51:43,360
+You needed to know, of course, you needed to know what is Caesar cipher, I think it
+
+935
+00:51:43,360 --> 00:51:49,519
+was there, environment variables, Docker, missing things, Python code.
+
+936
+00:51:49,519 --> 00:51:57,360
+There was a lot of these very things that I saw in my professional career, how these
+
+937
+00:51:57,360 --> 00:51:58,959
+things work.
+
+938
+00:51:58,959 --> 00:51:59,959
+And yeah.
+
+939
+00:51:59,959 --> 00:52:06,800
+So I imagine in your company, you're looking for people that have some solid engineering
+
+940
+00:52:06,800 --> 00:52:15,440
+background, but they also like are curious to extreme or something like, yeah.
+
+941
+00:52:15,440 --> 00:52:24,600
+You know, like maybe we could like cut here and enjoy the glass of water, I'll do commercials.
+
+942
+00:52:24,600 --> 00:52:28,399
+So Otto will now present the commercials.
+
+943
+00:52:28,399 --> 00:52:34,160
+So if you guys enjoy this podcast and if you want to keep enjoying it and it will really
+
+944
+00:52:34,160 --> 00:52:41,800
+help us if you join us and support us, there's a link below in the footnotes.
+
+945
+00:52:41,800 --> 00:52:46,639
+So yeah, join our Patreon supporters and it will mean a lot to us and we will be able
+
+946
+00:52:46,639 --> 00:52:48,520
+to make this wonderful content.
+
+947
+00:52:48,520 --> 00:52:52,440
+Oh, here you go.
+
+948
+00:52:52,440 --> 00:52:54,440
+So let's start the next section.
+
+949
+00:52:54,440 --> 00:53:00,080
+So what I wanted to talk about is application security.
+
+950
+00:53:00,080 --> 00:53:13,360
+So in terms of you now being on this defensive side where like you educate developers and
+
+951
+00:53:13,360 --> 00:53:26,880
+give them this knowledge of how to like apply security in, let's call it life cycle of development
+
+952
+00:53:26,919 --> 00:53:29,919
+life cycle.
+
+953
+00:53:29,919 --> 00:53:39,199
+And where to start for application security from developer's perspective.
+
+954
+00:53:39,199 --> 00:53:47,000
+May I like kind of like expand his question, like software development cycle means that
+
+955
+00:53:47,000 --> 00:53:49,399
+there are different phases in the development of software.
+
+956
+00:53:49,399 --> 00:53:54,320
+So you have planning, designing, implementation, testing, deployment, and then some maintenance,
+
+957
+00:53:54,320 --> 00:53:55,320
+right?
+
+958
+00:53:55,320 --> 00:53:56,399
+You have all these steps.
+
+959
+00:53:56,919 --> 00:54:01,880
+And traditionally what companies did is like, they went through all these steps, released
+
+960
+00:54:01,880 --> 00:54:08,479
+the product, and then probably perhaps also hired some pen tester because company that
+
+961
+00:54:08,479 --> 00:54:12,399
+was trying to buy it or something wanted some audit or something like that.
+
+962
+00:54:12,399 --> 00:54:17,279
+But that's not how things should be done if I understand correctly.
+
+963
+00:54:17,279 --> 00:54:20,399
+And is that like a good intro to this section?
+
+964
+00:54:20,399 --> 00:54:23,399
+I'm prepared to apply it on all of this.
+
+965
+00:54:23,399 --> 00:54:24,399
+Yeah.
+
+966
+00:54:24,399 --> 00:54:25,399
+The earlier is better.
+
+967
+00:54:25,399 --> 00:54:26,399
+Yeah.
+
+968
+00:54:26,399 --> 00:54:29,760
+More like you can't really, it's a non-functional requirement, right?
+
+969
+00:54:29,760 --> 00:54:36,160
+This is one of those that can't really have a face for it, but it's kind of applies everywhere.
+
+970
+00:54:36,160 --> 00:54:43,920
+I mean, I'm trying to think about the question, like, is it more, you know, I think for one
+
+971
+00:54:43,920 --> 00:54:48,440
+of the things I found out after working with, I mean, one of the reasons I actually started
+
+972
+00:54:48,440 --> 00:54:55,079
+working more on a defensive side was more, was the problems that I always have this interest
+
+973
+00:54:55,079 --> 00:54:57,959
+that find the root cause where the issue really is.
+
+974
+00:54:57,959 --> 00:55:03,399
+Like, you know, you do a code audit, a secure code audit, and you do penetration testing
+
+975
+00:55:03,399 --> 00:55:11,200
+and you can see a trend of security issues that just keep appearing, keep appearing.
+
+976
+00:55:11,200 --> 00:55:16,200
+And one approach to that is like, yeah, they don't understand that it's more approach of
+
+977
+00:55:16,200 --> 00:55:17,200
+us versus them.
+
+978
+00:55:17,200 --> 00:55:22,959
+Like, you know, they're just, I don't know, dark dumb, these guys, they don't give a shit
+
+979
+00:55:22,959 --> 00:55:23,959
+about security.
+
+980
+00:55:23,959 --> 00:55:24,959
+Okay.
+
+981
+00:55:24,959 --> 00:55:25,959
+Whatever.
+
+982
+00:55:25,959 --> 00:55:29,079
+And I'm going to just, you know, just do the same thing.
+
+983
+00:55:29,079 --> 00:55:34,480
+But the other approach for me, which was more interesting was like, why, like why this,
+
+984
+00:55:34,480 --> 00:55:41,160
+because that security issue that normally you find in a environment or a system, it's
+
+985
+00:55:41,160 --> 00:55:47,119
+an edge case that, well, I wish I, that, that program does.
+
+986
+00:55:48,040 --> 00:55:52,880
+So why it is not that interesting for those developers to, to, to, to pay attention to
+
+987
+00:55:52,880 --> 00:55:54,000
+it.
+
+988
+00:55:54,000 --> 00:56:00,799
+So this, this was a part that I, it didn't easy with me that why they don't pay attention
+
+989
+00:56:00,799 --> 00:56:06,079
+to this, like why they don't really go after fixing it.
+
+990
+00:56:06,079 --> 00:56:12,320
+And well, I started exploring their, their field even more, like what is actually happening
+
+991
+00:56:12,320 --> 00:56:16,160
+in the whole software engineering industry, how the software is being built, building
+
+992
+00:56:16,200 --> 00:56:21,119
+a software is, is one thing, but you know, keeping it online, the prod is, it's a completely
+
+993
+00:56:21,119 --> 00:56:23,359
+different thing, right?
+
+994
+00:56:23,359 --> 00:56:28,839
+So you then try to understand the, the limitation, the restrictions, and then you, sometimes
+
+995
+00:56:28,839 --> 00:56:33,600
+you have this understanding, Hey, a lot of those security recommendations that you give
+
+996
+00:56:33,600 --> 00:56:36,279
+is actually going to break the whole thing.
+
+997
+00:56:36,279 --> 00:56:39,019
+Like it is not applicable.
+
+998
+00:56:39,019 --> 00:56:44,519
+So parts of that is related to it, but parts of that is a lack of understanding and awareness.
+
+999
+00:56:44,519 --> 00:56:48,720
+I feel actually security need to be redefined for a lot of engineers.
+
+1000
+00:56:48,720 --> 00:56:54,320
+Like I found a lot of times we are, they are so biased toward that.
+
+1001
+00:56:54,320 --> 00:56:59,399
+What security is, you know, you, you will, you will talk with developers from one company.
+
+1002
+00:56:59,399 --> 00:57:04,040
+You will find that they are security for them is dependency scanning.
+
+1003
+00:57:04,040 --> 00:57:08,000
+And for the other ones, Oh, man in the middle, man in the middle, if it happens, it's bad.
+
+1004
+00:57:08,000 --> 00:57:09,000
+It doesn't happen.
+
+1005
+00:57:09,000 --> 00:57:10,000
+We are safe.
+
+1006
+00:57:10,000 --> 00:57:14,359
+The other, or the other ones like phishing, the other one is, Oh yeah, we need to keep
+
+1007
+00:57:15,200 --> 00:57:16,200
+our passwords long.
+
+1008
+00:57:16,200 --> 00:57:17,200
+It's authentication.
+
+1009
+00:57:17,200 --> 00:57:22,279
+And you kind of, you bias toward that and you feel that's the security, but versus Bell
+
+1010
+00:57:22,279 --> 00:57:26,440
+security is old and above all those things.
+
+1011
+00:57:26,440 --> 00:57:35,119
+I think that's where my interest kind of started kind of going, rather than being a game of
+
+1012
+00:57:35,119 --> 00:57:39,839
+us versus them be security guys, we find bugs, you guys need to fix it.
+
+1013
+00:57:39,839 --> 00:57:46,399
+Just trying to understand, trying to bridge this gap.
+
+1014
+00:57:46,399 --> 00:57:51,440
+You know, one of the things I mentioned earlier, that if this is a software engineering podcast,
+
+1015
+00:57:51,440 --> 00:57:57,040
+because in the terminology, even we use in security industry is different from often
+
+1016
+00:57:57,040 --> 00:57:58,040
+vulnerability.
+
+1017
+00:57:58,040 --> 00:58:01,959
+But by the end of the day, there's a bug, a defect, right?
+
+1018
+00:58:01,959 --> 00:58:05,000
+So it can be a feature.
+
+1019
+00:58:05,000 --> 00:58:14,720
+So if it's a design flow, then this is a feature, but it's like, one is actually opportunity.
+
+1020
+00:58:14,720 --> 00:58:18,679
+The other is a problem kind of thing.
+
+1021
+00:58:18,679 --> 00:58:20,279
+It's kind of redefining that, right?
+
+1022
+00:58:20,279 --> 00:58:25,119
+So by the end of the day, in a lot of cases, if you think about security vulnerability
+
+1023
+00:58:25,119 --> 00:58:32,200
+is a runtime exception, that kind of communicates better with engineers, but for us in security
+
+1024
+00:58:32,200 --> 00:58:35,719
+domain, it's a vulnerability, we call it.
+
+1025
+00:58:35,719 --> 00:58:42,239
+So I think even just bridging those gaps, trying to understand kind of the other side
+
+1026
+00:58:42,239 --> 00:58:50,159
+of the game a little bit more, and then, well, asking them to help, because if you look at
+
+1027
+00:58:50,159 --> 00:58:57,799
+the, if I look at the history of some security issues that was really addressed, you will
+
+1028
+00:58:57,799 --> 00:59:03,359
+see there was an engineering team that they embed this kind of security control within
+
+1029
+00:59:03,359 --> 00:59:04,359
+the framework.
+
+1030
+00:59:04,359 --> 00:59:09,280
+An obvious example of it is, for example, a skill injection, right?
+
+1031
+00:59:09,280 --> 00:59:15,640
+A skill injection kind of had gone away in majority of the cases, not because suddenly
+
+1032
+00:59:15,640 --> 00:59:22,559
+we have an aware community of developers, but because the framework sees that you write
+
+1033
+00:59:22,559 --> 00:59:27,640
+the code in it, it just doesn't allow you that raw access to the query.
+
+1034
+00:59:28,479 --> 00:59:35,840
+So you're saying in a way there are, I don't know, frameworks or programming languages
+
+1035
+00:59:35,840 --> 00:59:45,039
+that are like safer for unskilled developers to produce safe code?
+
+1036
+00:59:45,039 --> 00:59:47,039
+Safe code, yeah.
+
+1037
+00:59:47,039 --> 00:59:51,320
+Can you, like, is this what you're trying to say?
+
+1038
+00:59:51,320 --> 00:59:57,280
+Or can you say, like, for instance, that there is a, I don't know, framework that is like
+
+1039
+00:59:58,039 --> 01:00:04,599
+a bit more, like, stupidity proof?
+
+1040
+01:00:04,599 --> 01:00:05,599
+How should I say?
+
+1041
+01:00:05,599 --> 01:00:06,599
+Stupid proof.
+
+1042
+01:00:06,599 --> 01:00:15,479
+I mean, there's definitely frameworks that sort of prevent someone to shoot in the legs.
+
+1043
+01:00:15,479 --> 01:00:16,479
+Yeah.
+
+1044
+01:00:16,479 --> 01:00:17,479
+Definitely.
+
+1045
+01:00:17,479 --> 01:00:18,479
+There are there.
+
+1046
+01:00:18,479 --> 01:00:19,479
+Because-
+
+1047
+01:00:19,479 --> 01:00:22,880
+For a subset of security issues, right?
+
+1048
+01:00:22,880 --> 01:00:29,039
+There are, I always make this example that if someone writes a PHP app and making it
+
+1049
+01:00:29,039 --> 01:00:35,239
+secure, I will hire that guy because it means he's damn good in security as well, versus
+
+1050
+01:00:35,239 --> 01:00:39,960
+a guy who write the same application in ASP.NET, for example, because the framework itself
+
+1051
+01:00:39,960 --> 01:00:45,919
+does a lot of heavy lifting in terms of, like, it doesn't even just make example of, and
+
+1052
+01:00:45,919 --> 01:00:51,919
+there isn't a, I know this is because in my team, we often, we create security challenges
+
+1053
+01:00:51,960 --> 01:00:54,080
+for software engineers.
+
+1054
+01:00:54,080 --> 01:00:57,400
+And then we need to convert that to multiple languages.
+
+1055
+01:00:57,400 --> 01:01:02,919
+And often it's really hard to convert it in one framework versus, or versus one language.
+
+1056
+01:01:02,919 --> 01:01:07,280
+It also exposes us that the maturity in a different, you know, communities of these
+
+1057
+01:01:07,280 --> 01:01:14,400
+languages and yet some frameworks, like, we can't even introduce that security bug in
+
+1058
+01:01:14,400 --> 01:01:16,440
+them, just because the framework just-
+
+1059
+01:01:16,440 --> 01:01:24,799
+It means disabling so many default protection mechanisms that you really need to pay a lot
+
+1060
+01:01:24,799 --> 01:01:28,840
+of effort into disabling all these whistles and blows and fear.
+
+1061
+01:01:28,840 --> 01:01:29,840
+Exactly.
+
+1062
+01:01:29,840 --> 01:01:30,840
+Yeah.
+
+1063
+01:01:30,840 --> 01:01:38,679
+So in a way, like when, like this is sort of a, for developers, when like in this planning
+
+1064
+01:01:38,679 --> 01:01:43,640
+phase, what stack to choose or what platform to choose or what programming language to
+
+1065
+01:01:43,640 --> 01:01:45,320
+choose can also-
+
+1066
+01:01:45,320 --> 01:01:51,320
+Perhaps the question is, the first question in this planning phase is like discussing
+
+1067
+01:01:51,320 --> 01:01:55,200
+perhaps even with stakeholders and how secure should this stuff be?
+
+1068
+01:01:55,200 --> 01:02:01,000
+Like, are you running on very personal data or is this just, you know, a random blog or,
+
+1069
+01:02:01,000 --> 01:02:04,840
+you know, I think I would start there, right?
+
+1070
+01:02:04,840 --> 01:02:06,599
+What does this thing need to do?
+
+1071
+01:02:06,599 --> 01:02:08,599
+What kind of data does it store?
+
+1072
+01:02:08,599 --> 01:02:10,679
+You know, are there any regulations or-
+
+1073
+01:02:10,679 --> 01:02:13,960
+Usually it is the other way around.
+
+1074
+01:02:13,960 --> 01:02:23,400
+Usually the senior engineers like choose the sexiest, the hottest framework or programming
+
+1075
+01:02:23,400 --> 01:02:25,039
+language out there.
+
+1076
+01:02:25,039 --> 01:02:30,559
+And because this is the something like everybody is working on and that's the pick.
+
+1077
+01:02:30,559 --> 01:02:33,320
+That's the weapon of choice.
+
+1078
+01:02:33,320 --> 01:02:37,359
+So we're victims of hype-driven development.
+
+1079
+01:02:37,359 --> 01:02:38,359
+In a way.
+
+1080
+01:02:38,359 --> 01:02:39,359
+Yeah.
+
+1081
+01:02:40,359 --> 01:02:47,119
+I don't think you're going to get this answer.
+
+1082
+01:02:47,119 --> 01:02:52,400
+I mean, again, all these, you know, especially if these are old established frameworks, they
+
+1083
+01:02:52,400 --> 01:02:57,840
+have special teams, they do additional security audits regularly.
+
+1084
+01:02:57,840 --> 01:03:05,119
+So if you have these kinds of frameworks that are out there for a long time, I think probably
+
+1085
+01:03:05,200 --> 01:03:06,719
+people have looked at the code.
+
+1086
+01:03:06,719 --> 01:03:14,799
+They did, you know, that part you kind of like believe that checks were done, right?
+
+1087
+01:03:14,799 --> 01:03:21,320
+With new stuff, you know, there's always opportunity to find something there.
+
+1088
+01:03:21,320 --> 01:03:27,599
+But equally, like if you have very old code bases, if, you know, you have software that
+
+1089
+01:03:27,599 --> 01:03:33,719
+is written by a lot of engineers during a lot of different periods when, you know, company
+
+1090
+01:03:33,719 --> 01:03:39,000
+was small and then became big and you have poor, and that's probably the next question,
+
+1091
+01:03:39,000 --> 01:03:44,400
+security culture in the company, you know, people doing sloppy jobs.
+
+1092
+01:03:44,400 --> 01:03:47,799
+It's essentially a big attack surface, I guess.
+
+1093
+01:03:47,799 --> 01:03:54,320
+I don't know that, Otto, because I like to think that way, but then you look at some
+
+1094
+01:03:54,320 --> 01:04:00,960
+of the trend of security ones that reported even this year in really old codes, the codes
+
+1095
+01:04:00,960 --> 01:04:04,919
+that are open source, the code that is out there, the code that has been audited and
+
+1096
+01:04:04,919 --> 01:04:11,599
+most likely being scanned by numerous applications, and still you find, whoa, like security issues
+
+1097
+01:04:11,599 --> 01:04:15,039
+there.
+
+1098
+01:04:15,039 --> 01:04:20,039
+On the other side, we actually have some people in security that they lost hope that, sorry,
+
+1099
+01:04:20,039 --> 01:04:24,880
+we can't teach devs how to write a secure code, they just make it harder for them to
+
+1100
+01:04:24,880 --> 01:04:30,760
+build something, at least that will eventually result into in a more secure stage, is a mix
+
+1101
+01:04:30,760 --> 01:04:36,799
+of things that you will find, I mean, you kind of assume that the new frameworks may
+
+1102
+01:04:36,799 --> 01:04:43,880
+have more holes, but not necessarily, it could be a security issue related to a library that
+
+1103
+01:04:43,880 --> 01:04:49,559
+they are using and there is a security bug there and then it goes on.
+
+1104
+01:04:49,559 --> 01:04:55,559
+But you know, today you don't use just framework, you also use third party libraries, you also
+
+1105
+01:04:55,640 --> 01:05:03,320
+inject, I don't know, ads in your page through whatever, you know, people use, they install
+
+1106
+01:05:03,320 --> 01:05:09,159
+a lot of different things on their devices, so there's a lot of potential to...
+
+1107
+01:05:09,159 --> 01:05:15,000
+So you shouldn't limit yourself to only your part of the code, but the whole ecosystem,
+
+1108
+01:05:15,000 --> 01:05:16,000
+the whole system.
+
+1109
+01:05:16,000 --> 01:05:21,359
+But I think we still need to be like pragmatic, right, in the end of the day, developers do
+
+1110
+01:05:21,400 --> 01:05:25,159
+need to ship something in a reasonable amount of time.
+
+1111
+01:05:25,159 --> 01:05:26,159
+Sure.
+
+1112
+01:05:26,159 --> 01:05:27,159
+Yeah.
+
+1113
+01:05:27,159 --> 01:05:34,159
+The way I see it, like the simple exercise, like I think like each developer team should
+
+1114
+01:05:34,159 --> 01:05:41,080
+do is threat modeling in terms of understanding what are the...
+
+1115
+01:05:41,080 --> 01:05:42,799
+Please explain this to our audience.
+
+1116
+01:05:42,799 --> 01:05:57,799
+So in a way of writing down or using a diagram way of how your application is working and
+
+1117
+01:05:57,799 --> 01:06:09,000
+how data is going through your application, where are like possibilities of sort of risk
+
+1118
+01:06:09,159 --> 01:06:16,200
+that could happen and how are you going to prevent this from happening and like it gives
+
+1119
+01:06:16,200 --> 01:06:23,840
+you a way to sort of do in a way risk management.
+
+1120
+01:06:23,840 --> 01:06:33,000
+But also this exercise is also good in a way to you figuring out what are your crown jewels.
+
+1121
+01:06:33,000 --> 01:06:36,719
+So basically, what are you actually going to protect?
+
+1122
+01:06:36,719 --> 01:06:42,080
+Because sometimes like there are people that are investing a lot of money in, I don't know,
+
+1123
+01:06:42,080 --> 01:06:49,640
+web application firewalls and protecting completely like things that are not that important.
+
+1124
+01:06:49,640 --> 01:06:56,400
+But on the other hand, they might say have the like personal data unencrypted somewhere
+
+1125
+01:06:56,400 --> 01:07:01,440
+and they are doing like maybe the backups that are also unencrypted and that, I don't
+
+1126
+01:07:01,479 --> 01:07:04,119
+know, shipping that to S3 bucket.
+
+1127
+01:07:04,119 --> 01:07:08,680
+Is it enough to just write this down and make sure that everybody understands this or do
+
+1128
+01:07:08,680 --> 01:07:11,280
+you periodically then monitor these things?
+
+1129
+01:07:11,280 --> 01:07:12,280
+Of course.
+
+1130
+01:07:12,280 --> 01:07:19,680
+Like in a way you want to, like the way I see it, you want to like when doing a new
+
+1131
+01:07:19,680 --> 01:07:27,680
+features to the application or product you're developing, you again do this threat modeling
+
+1132
+01:07:27,959 --> 01:07:34,079
+because in a way you already create one and one of the new features, you will see how
+
+1133
+01:07:34,079 --> 01:07:36,800
+this affects the whole system.
+
+1134
+01:07:36,800 --> 01:07:37,800
+Yeah.
+
+1135
+01:07:37,800 --> 01:07:41,959
+I mean, threat modeling definitely, I'll actually call it a rapid threat modeling, something
+
+1136
+01:07:41,959 --> 01:07:44,920
+that is more effective.
+
+1137
+01:07:44,920 --> 01:07:49,839
+The problem I found is, again, it's hard to get devs to think about threats.
+
+1138
+01:07:49,839 --> 01:07:54,560
+It kind of comes back to the old conversation we have builder and breaker mindset.
+
+1139
+01:07:54,560 --> 01:07:58,839
+People who are good in building something does not necessarily know how things can break
+
+1140
+01:07:58,839 --> 01:08:01,520
+and it's completely understandable.
+
+1141
+01:08:01,520 --> 01:08:07,119
+So it's kind of also you need to kind of empower them one more level that, okay, these are
+
+1142
+01:08:07,119 --> 01:08:11,199
+the possible things can go wrong regardless of what feature you're working on.
+
+1143
+01:08:11,199 --> 01:08:15,599
+Think about whether this could be applicable to the things because...
+
+1144
+01:08:15,599 --> 01:08:23,160
+Are these things like, we now have these static code analyzers that read the code and spit
+
+1145
+01:08:23,199 --> 01:08:30,079
+out, I don't know, potential issues that are like wrong use of code or static code
+
+1146
+01:08:30,079 --> 01:08:33,040
+analyzers check the code, but they can also...
+
+1147
+01:08:33,040 --> 01:08:37,119
+You have similar tools to kind of like security testing as well.
+
+1148
+01:08:37,119 --> 01:08:42,079
+Is that enough or we need to also build awareness and knowledge in developers?
+
+1149
+01:08:42,079 --> 01:08:43,079
+Everything.
+
+1150
+01:08:43,079 --> 01:08:44,079
+Everything.
+
+1151
+01:08:44,079 --> 01:08:45,079
+You throw everything at it.
+
+1152
+01:08:45,079 --> 01:08:46,079
+Everything.
+
+1153
+01:08:46,079 --> 01:08:48,760
+Whatever you can do in a security, just do it.
+
+1154
+01:08:49,319 --> 01:08:56,439
+It's such a chaotic, unfortunate environment that I personally think, and I have examples
+
+1155
+01:08:56,439 --> 01:09:01,199
+of that, that when devs are on board with the idea of the security is important, we
+
+1156
+01:09:01,199 --> 01:09:03,680
+should take it seriously.
+
+1157
+01:09:03,680 --> 01:09:08,079
+You go miles away in terms of your security culture and maturity rather than if you want
+
+1158
+01:09:08,079 --> 01:09:12,560
+the tool to tell you whether you're doing something good or not.
+
+1159
+01:09:12,560 --> 01:09:16,560
+Because oftentimes, I mean, I'm not talking about the false positive, false negatives
+
+1160
+01:09:16,560 --> 01:09:21,319
+and most likely you've dealt with it a lot, but it's not going to change the culture.
+
+1161
+01:09:21,319 --> 01:09:23,079
+It's not going to change the understanding.
+
+1162
+01:09:23,079 --> 01:09:26,239
+For me, the problem actually starts in the brain of that.
+
+1163
+01:09:26,239 --> 01:09:29,560
+I'm going to challenge you here on this.
+
+1164
+01:09:29,560 --> 01:09:34,319
+These organizations, responsibility starts from the top, right?
+
+1165
+01:09:34,319 --> 01:09:41,599
+So I need to sell your service and your services to my boss as engineer or engineering lead,
+
+1166
+01:09:41,599 --> 01:09:42,599
+right?
+
+1167
+01:09:42,599 --> 01:09:47,079
+How do you convince people from top down that security is so important that they're
+
+1168
+01:09:47,079 --> 01:09:53,920
+going to now invest into tools or education of their developers so that it becomes something
+
+1169
+01:09:53,920 --> 01:09:56,040
+that the company should care about?
+
+1170
+01:09:56,040 --> 01:10:00,400
+So how do you propagate that information from the top to the bottom?
+
+1171
+01:10:00,400 --> 01:10:03,839
+Do you need to convince people that, you know, we're going to lose a lot of money or we're
+
+1172
+01:10:03,839 --> 01:10:08,880
+going to have bad publicity or all of these things?
+
+1173
+01:10:08,880 --> 01:10:11,640
+I don't know.
+
+1174
+01:10:11,680 --> 01:10:14,880
+I don't even know someone who knows much.
+
+1175
+01:10:14,880 --> 01:10:19,760
+I mean, in reality, still, there is a lot of security budgets are being approved because
+
+1176
+01:10:19,760 --> 01:10:22,239
+of compliance requirement, because of some legislation.
+
+1177
+01:10:22,239 --> 01:10:23,239
+And that's true.
+
+1178
+01:10:23,239 --> 01:10:28,400
+You see the amount of security assessment done by organization and financial sectors.
+
+1179
+01:10:28,400 --> 01:10:34,119
+Well, the one reason may not be so much about leaking data is because of compliance.
+
+1180
+01:10:34,119 --> 01:10:38,520
+Of course, leaking data financial thing is a serious thing.
+
+1181
+01:10:38,520 --> 01:10:46,520
+But I think still that has a great, you know, power to it.
+
+1182
+01:10:46,520 --> 01:10:47,959
+Like, yeah, there was a standard.
+
+1183
+01:10:47,959 --> 01:10:48,959
+How do you convince that guy?
+
+1184
+01:10:48,959 --> 01:10:49,959
+I don't know.
+
+1185
+01:10:49,959 --> 01:10:55,880
+To be honest, like security is pretty hard to sell.
+
+1186
+01:10:55,880 --> 01:11:11,239
+Like basically, on one hand, you might choose to do sort of like those scarcity and say
+
+1187
+01:11:11,239 --> 01:11:18,680
+how into what is like out there on the Internet and how you're going to be hacked and impounded.
+
+1188
+01:11:18,680 --> 01:11:21,400
+I actually want to say something.
+
+1189
+01:11:21,400 --> 01:11:25,160
+My job at the moment is not so much dealing with the people higher up.
+
+1190
+01:11:25,439 --> 01:11:30,199
+It's actually hard to convince the developer to think about security because that's for
+
+1191
+01:11:30,199 --> 01:11:33,599
+me is a bigger problem.
+
+1192
+01:11:33,599 --> 01:11:42,000
+How you make security interesting and engaging for a software engineer.
+
+1193
+01:11:42,000 --> 01:11:50,839
+Because by the end of the day, whatever security issue we have is a rare use case or edge case.
+
+1194
+01:11:50,839 --> 01:11:55,640
+And if you look at the backlog of what this dev guy is going to do is like this feature,
+
+1195
+01:11:55,640 --> 01:11:56,640
+that feature.
+
+1196
+01:11:56,640 --> 01:11:59,359
+But most of it is filled with lots of other bugs.
+
+1197
+01:11:59,359 --> 01:12:04,479
+How would you make the old security bug being something on top of that, that, hey, it needs
+
+1198
+01:12:04,479 --> 01:12:06,599
+immediate attention?
+
+1199
+01:12:06,599 --> 01:12:08,800
+So we're dealing with those priorities as well.
+
+1200
+01:12:08,800 --> 01:12:16,000
+But I think that's the part for me is interesting to talk like, what are the things would make
+
+1201
+01:12:16,000 --> 01:12:17,959
+security interesting for engineers?
+
+1202
+01:12:17,959 --> 01:12:20,000
+Because that's all my hope here.
+
+1203
+01:12:20,160 --> 01:12:22,000
+And what do you propose?
+
+1204
+01:12:22,000 --> 01:12:23,160
+How do you make it interesting?
+
+1205
+01:12:23,160 --> 01:12:27,800
+You gave me fun.
+
+1206
+01:12:27,800 --> 01:12:28,800
+You want us to start?
+
+1207
+01:12:28,800 --> 01:12:31,439
+No, no, no.
+
+1208
+01:12:31,439 --> 01:12:32,439
+It's a good question.
+
+1209
+01:12:32,439 --> 01:12:34,000
+That's a segue to the next.
+
+1210
+01:12:34,000 --> 01:12:35,000
+Yeah.
+
+1211
+01:12:35,000 --> 01:12:46,280
+But still, I still want to be here at Application Security and maybe start before going, how
+
+1212
+01:12:46,280 --> 01:13:02,959
+to do this education purpose, or do this education of developers, how to explain security
+
+1213
+01:13:02,959 --> 01:13:12,280
+to them, how to make them engage in this, like what he said, with gamification of this
+
+1214
+01:13:12,280 --> 01:13:22,959
+or showing real examples and showing the code, or is like what usually, or let's say
+
+1215
+01:13:22,959 --> 01:13:31,479
+usually is done, like there's external pen test, like breaking down the code and just
+
+1216
+01:13:31,479 --> 01:13:37,560
+sending the report to R&D and saying this, everything you see on the report is broken.
+
+1217
+01:13:37,560 --> 01:13:39,439
+You need to fix it.
+
+1218
+01:13:39,439 --> 01:13:40,439
+What's the...
+
+1219
+01:13:40,599 --> 01:13:43,800
+Definitely, I can say things that doesn't work is top-down approach.
+
+1220
+01:13:43,800 --> 01:13:47,719
+Like if a manager said that, you have to do security, that's not going to work, or you
+
+1221
+01:13:47,719 --> 01:13:51,400
+have to do this security, I mean, address that, that's not going to change anything
+
+1222
+01:13:51,400 --> 01:13:55,079
+in that dev's mindset that security is important.
+
+1223
+01:13:55,079 --> 01:14:01,839
+But things kind of learning more about their worldview of what they would care.
+
+1224
+01:14:01,839 --> 01:14:05,880
+Like I found every developer is interested in problem solving.
+
+1225
+01:14:05,880 --> 01:14:09,640
+They are interested and engaged in, well, make something better.
+
+1226
+01:14:09,839 --> 01:14:10,839
+Well, guess what?
+
+1227
+01:14:10,839 --> 01:14:14,400
+When you make a software secure, you have a better code quality.
+
+1228
+01:14:14,400 --> 01:14:18,119
+You may have even better, more reliable application.
+
+1229
+01:14:18,119 --> 01:14:25,680
+Kind of trying to highlight these angles more than it's just the edge case that, hey, no,
+
+1230
+01:14:25,680 --> 01:14:29,319
+actually your program does more than what it should.
+
+1231
+01:14:29,319 --> 01:14:35,599
+Well, for example, you just need to, you just make example of a calculator that needs to
+
+1232
+01:14:35,599 --> 01:14:37,959
+take two numbers and give you a result.
+
+1233
+01:14:38,400 --> 01:14:42,400
+You can implement that in many different ways.
+
+1234
+01:14:42,400 --> 01:14:49,079
+When you show that a certain way of implementation of that calculator could also allow someone
+
+1235
+01:14:49,079 --> 01:14:55,119
+to inject additional code and execute code using your calculator and kind of saying that,
+
+1236
+01:14:55,119 --> 01:14:57,959
+but by the end of the day, you just wanted to build a calculator.
+
+1237
+01:14:57,959 --> 01:14:59,959
+Why you just don't make your software just.
+
+1238
+01:15:00,000 --> 01:15:06,880
+calculation. Don't worry about what else can happen, just that part. It actually makes their
+
+1239
+01:15:06,880 --> 01:15:15,760
+software to do that things even better. So that's what I find is interesting. Of course, the whole
+
+1240
+01:15:15,760 --> 01:15:22,320
+concept of gamification also is proven. I feel competition also, it's something that helps.
+
+1241
+01:15:22,320 --> 01:15:34,240
+But if, stay on this, what would be, I don't know, to maintain secure hygiene inside
+
+1242
+01:15:36,000 --> 01:15:40,240
+development lifecycle? What would be steps that...
+
+1243
+01:15:41,360 --> 01:15:46,639
+I think it's just everyone's job. I think, first of all, start thinking about this is
+
+1244
+01:15:46,720 --> 01:15:50,240
+that the security team should are a gatekeeper of our organization.
+
+1245
+01:15:50,240 --> 01:15:59,759
+Sure. But what would be, I don't know, five, three top things that each company or each
+
+1246
+01:16:01,919 --> 01:16:10,959
+business that is focusing in development should invest effort, money, what to consider?
+
+1247
+01:16:11,919 --> 01:16:17,919
+I mean, some of the key things there is a lot of things, but
+
+1248
+01:16:20,639 --> 01:16:29,360
+just this understanding that perhaps security is not a single team's job,
+
+1249
+01:16:30,160 --> 01:16:35,279
+and showing them a real example of that, an incident that actually happened,
+
+1250
+01:16:36,080 --> 01:16:41,599
+that proved the case that if security, if we're just relying on just an audit to come through,
+
+1251
+01:16:41,599 --> 01:16:50,239
+or things like that, how many things can be missed? You can't have your junior developers
+
+1252
+01:16:50,239 --> 01:16:55,199
+or even senior developers advocating about security, and then you have your tech leads
+
+1253
+01:16:55,199 --> 01:17:00,320
+and software architect that pushing for features that need to be released yesterday. That doesn't
+
+1254
+01:17:00,959 --> 01:17:09,279
+work. You need to give your team a time to think twice about the code that they write,
+
+1255
+01:17:09,279 --> 01:17:14,479
+the design that they build, which kind of contradicts with the speed of a lot of businesses
+
+1256
+01:17:14,479 --> 01:17:20,240
+going this way. But sorry to say that is to make a software usable is one thing,
+
+1257
+01:17:20,240 --> 01:17:24,720
+but to make it secure is another thing. You can make a software that perfectly function,
+
+1258
+01:17:25,440 --> 01:17:31,279
+but it isn't secure. What will take you to go there? Well, one fact is just give your team more
+
+1259
+01:17:31,279 --> 01:17:38,320
+time. Because there are cases that I had, the team, the devs, they're really on board with the
+
+1260
+01:17:38,320 --> 01:17:44,399
+idea that I really like to do trade modeling. I really like to follow this secure design pattern
+
+1261
+01:17:45,119 --> 01:17:51,199
+to implement my code. But the thing is, I can't, because I'm not even given the time to do it.
+
+1262
+01:17:52,000 --> 01:17:57,360
+So I think that's a bigger problem to solve first. And then after that, once you have that
+
+1263
+01:17:58,320 --> 01:18:07,440
+established, then making devs more familiar with the ways that things are going to get
+
+1264
+01:18:08,320 --> 01:18:14,240
+exploited. And kind of making them more familiar with this breaker mindset that
+
+1265
+01:18:14,240 --> 01:18:21,520
+so they can start thinking intuitively about, well, what can go wrong? Rather than just thinking
+
+1266
+01:18:21,520 --> 01:18:26,320
+about what program should do, they should also think about what program should not do,
+
+1267
+01:18:26,880 --> 01:18:34,000
+which is again, the sky is the limit. I'm worried.
+
+1268
+01:18:34,880 --> 01:18:43,839
+Some questions should, like in the process of quality assurance, should also like a security
+
+1269
+01:18:43,839 --> 01:18:51,119
+test be part of this? I think it's okay. Isn't it already there? I don't know. Usually are not.
+
+1270
+01:18:51,839 --> 01:19:01,199
+Usually like QA is focusing on usability and if the product is like reaching
+
+1271
+01:19:01,919 --> 01:19:09,839
+some performance that is expected and so on. But usually the security is left out.
+
+1272
+01:19:09,919 --> 01:19:19,119
+Well, last time I was sort of a situation like the feature went through the Q&A.
+
+1273
+01:19:19,119 --> 01:19:28,799
+Everything was like great. And then on the bug bounty, it sort of found a huge security
+
+1274
+01:19:28,799 --> 01:19:36,799
+flaw. And then like we sort of go back to Q&A, it wasn't that tested. And they were like, well,
+
+1275
+01:19:36,880 --> 01:19:40,799
+that's not expected to be an input.
+
+1276
+01:19:43,279 --> 01:19:44,640
+Why would someone do that?
+
+1277
+01:19:45,279 --> 01:19:48,320
+Exactly. They were like questioning, why would somebody do that?
+
+1278
+01:19:48,959 --> 01:19:56,880
+So it's not essentially the QA's job is not to do security audit or look for that kind of loops.
+
+1279
+01:19:57,519 --> 01:20:04,799
+I mean, they can help. But again, the way that we are, again, my knowledge of it is
+
+1280
+01:20:04,799 --> 01:20:11,119
+limited to, again, to those people who we try to train them as a QA to kind of look for
+
+1281
+01:20:12,720 --> 01:20:18,880
+security issues. But there are two things you reach there is like their skill level.
+
+1282
+01:20:19,440 --> 01:20:24,720
+That's one thing. And the second is the defined task of things that they have to do. Like often
+
+1283
+01:20:25,679 --> 01:20:32,399
+they may need to use the UI interface to interact with their backend versus you may find actually,
+
+1284
+01:20:32,399 --> 01:20:37,040
+if you remove that UI, you just directly interact with the API, you can find security issues there.
+
+1285
+01:20:37,040 --> 01:20:42,079
+But that's not even defined in the, that's not even their job because they, one of us said,
+
+1286
+01:20:42,079 --> 01:20:47,119
+you know, their usability is actually more highlighted there than these security edge
+
+1287
+01:20:47,119 --> 01:20:54,000
+cases. So that's what I said, throw everything at it. It's just whatever you think is suitable
+
+1288
+01:20:54,000 --> 01:21:01,760
+for your organization. I'm going to use this, throw everything at it. You have this beautiful
+
+1289
+01:21:02,399 --> 01:21:10,399
+product and a service as well. I imagine it's called SecDim. So SecTalks is events,
+
+1290
+01:21:10,399 --> 01:21:17,760
+but SecDim is your company if I understand correctly. And what you guys do is very
+
+1291
+01:21:18,399 --> 01:21:24,320
+mix of the things that we described here, but you kind of like offer these things to companies.
+
+1292
+01:21:24,320 --> 01:21:29,519
+That's kind of like, but I will still invite you to explain to us what SecDim is and what you guys do.
+
+1293
+01:21:30,480 --> 01:21:36,640
+Yeah, so it pretty much started with workshops, running secure development workshops for
+
+1294
+01:21:38,799 --> 01:21:44,000
+developers. We actually started right in the middle of COVID, the start of the COVID.
+
+1295
+01:21:44,000 --> 01:21:44,640
+Beautiful time.
+
+1296
+01:21:47,440 --> 01:21:54,959
+And then it kind of started with that because I felt that's like a missing part. We do need
+
+1297
+01:21:54,959 --> 01:22:00,799
+to get more engineers involved to help us to solve some security problems. I'm not just talking
+
+1298
+01:22:00,799 --> 01:22:05,359
+about developers to be able to put a patch here and there. I'm talking about those more like
+
+1299
+01:22:05,359 --> 01:22:12,160
+fundamental solutions. Like can they put something in the compiler? Can they think about a popular
+
+1300
+01:22:12,160 --> 01:22:16,640
+third-party library that won't disallow these things? So this is, I think, more
+
+1301
+01:22:16,640 --> 01:22:22,320
+on engineering side to solve that. So that's why I kind of, I reached out more on that.
+
+1302
+01:22:22,320 --> 01:22:29,519
+So the workshops, these are the things we regularly run for companies privately. We do
+
+1303
+01:22:29,519 --> 01:22:35,679
+have also public workshops. The focus is effectively how to build a defensive software from
+
+1304
+01:22:35,679 --> 01:22:44,079
+scratch. So rather than bombarding the engineers or devs with, oh, this security issue, that security
+
+1305
+01:22:44,079 --> 01:22:50,079
+bug, that vulnerability, is there anything else we can do that you kind of, when you start writing
+
+1306
+01:22:50,079 --> 01:22:55,760
+a software, you follow that or some of those principles and can make your software relatively
+
+1307
+01:22:55,760 --> 01:23:04,160
+reliably secure. That's one thing. And as part of that, this platform came out, which
+
+1308
+01:23:05,040 --> 01:23:13,359
+again was outreach to the people to, hey, you want to try to see how a security bug
+
+1309
+01:23:14,000 --> 01:23:22,079
+well can be addressed. Now, one thing I actually found, but through experience, I found is missing
+
+1310
+01:23:22,079 --> 01:23:26,799
+is that, so when I started, you know, we talked about capture the flag. When I started
+
+1311
+01:23:27,519 --> 01:23:36,400
+delivering my workshops a few years ago, it was to make developers more engaged in security,
+
+1312
+01:23:36,400 --> 01:23:41,359
+definitely I would include the CTF part that, hey, you know, it's the end of the workshop,
+
+1313
+01:23:41,440 --> 01:23:44,640
+just do a CTF, just hack some things. And, you know, someone at the end will be,
+
+1314
+01:23:46,000 --> 01:23:50,320
+it was engaging. It was interesting. Perhaps they would learn a new security issue,
+
+1315
+01:23:50,880 --> 01:23:55,039
+but there was always this problem missing. By the end of the day, this person needs to go back and
+
+1316
+01:23:55,039 --> 01:23:59,679
+fix this, but we haven't even talked about that part. This is out of a scope for security, right?
+
+1317
+01:23:59,679 --> 01:24:05,520
+You deal with that. I told you the bug, you figure out how to fix it. And that's how I felt where
+
+1318
+01:24:06,479 --> 01:24:15,599
+the problem is. Like we may these days talk good about some of the security issues that we have
+
+1319
+01:24:15,599 --> 01:24:22,719
+normally in a security language, but we don't really talk so much about ways and bad ways of
+
+1320
+01:24:22,719 --> 01:24:30,000
+fixing it. So the idea of this platform I built was, well, we have captured the black. How about
+
+1321
+01:24:30,000 --> 01:24:35,840
+we have thing called fix the flag. So you go to school, sort of a reverse capture the flag,
+
+1322
+01:24:35,840 --> 01:24:39,919
+reverse capture, but you, I even show you where is the security bug is,
+
+1323
+01:24:39,919 --> 01:24:46,400
+but you only get the score if you fix it in the right way. Now, originally,
+
+1324
+01:24:48,239 --> 01:24:54,239
+some of those, the ways that we were testing, if someone can fix the flag was too restrictive. And
+
+1325
+01:24:55,200 --> 01:25:01,840
+to my, well, kind of, I learned that, well, no, this is a huge lack of understanding and awareness
+
+1326
+01:25:01,840 --> 01:25:08,159
+somewhere. So we needed to kind of relax that. But now it's interesting just to see how people
+
+1327
+01:25:08,159 --> 01:25:15,280
+actually think about a single problem, but they fix it in a completely different way. And
+
+1328
+01:25:16,080 --> 01:25:23,599
+obviously also learning how to, well, make something or write a better patch for something
+
+1329
+01:25:23,599 --> 01:25:31,760
+that I'm publishing. So in practical terms, you know, you log into the SegDyn website,
+
+1330
+01:25:32,400 --> 01:25:37,599
+probably you can do this on your own or you also offer workshop. As I said, you get like a
+
+1331
+01:25:37,599 --> 01:25:45,760
+you get like a zip file or a repository of a code that it has security vulnerability.
+
+1332
+01:25:46,880 --> 01:25:52,000
+And then you try to fix it and then you upload it. And the tool will tell you if you actually
+
+1333
+01:25:52,000 --> 01:25:56,799
+solved the problem or not. Right. That's the mechanics of this thing. Right.
+
+1334
+01:25:56,799 --> 01:26:02,719
+So the idea was exactly. So kind of, you bring those security issues to the language that
+
+1335
+01:26:02,719 --> 01:26:06,559
+developers understand. So, and the tooling that the developers, they have, like, so you have
+
+1336
+01:26:07,119 --> 01:26:13,520
+Git, you have containers, you know, and translate to some of the security issues.
+
+1337
+01:26:13,520 --> 01:26:18,080
+So let's just call it, I don't know, the one that I talk about new integer workflow,
+
+1338
+01:26:18,960 --> 01:26:26,159
+not necessarily in a text or a video recording of me talking. Translate that to a test that
+
+1339
+01:26:26,159 --> 01:26:32,000
+developers will deal with it on a daily basis. And the goal of the challenge is that can you pass
+
+1340
+01:26:32,000 --> 01:26:38,559
+the test? Now, depending on the complexity of the challenge, you, you may be given the test
+
+1341
+01:26:38,559 --> 01:26:42,960
+so you can clearly see what is the, what is the input? What is the expected output that as it gets
+
+1342
+01:26:42,960 --> 01:26:48,559
+more challenging, the tests are missing because the idea is that, well, the hacker will never
+
+1343
+01:26:48,559 --> 01:26:53,119
+give you their test. You have to figure that out yourself. Okay. That's an improvement then there.
+
+1344
+01:26:53,919 --> 01:27:02,640
+Okay. Okay. So, but also encouraging developers in very like a implicit way that maybe you want
+
+1345
+01:27:02,640 --> 01:27:08,320
+to think about writing these tests yourself for your program. You learn that if a program just
+
+1346
+01:27:08,320 --> 01:27:13,599
+deal with two numbers, right? There are these usability tests that it has to always pass,
+
+1347
+01:27:13,599 --> 01:27:18,960
+but how about these other things that can result in a security issue? So it's a kind of, they,
+
+1348
+01:27:18,960 --> 01:27:24,239
+they learn it by, by practicing and the other, other things that are, you know, getting the score
+
+1349
+01:27:24,239 --> 01:27:29,919
+and like getting their name on the, on the ladder board is like more like cream on the top. But
+
+1350
+01:27:29,919 --> 01:27:37,039
+there, yeah. I had to, maybe, please, please, please let me, please. And I'll let you, I found
+
+1351
+01:27:37,039 --> 01:27:45,039
+it very interesting. Like you don't just say, you know, this is integer overflow assignment or
+
+1352
+01:27:45,039 --> 01:27:54,000
+something. You have these kind of like practical stories, how a company got hacked or how literally
+
+1353
+01:27:54,000 --> 01:27:59,919
+millions or billions were lost because of this exploit, which means that there is a real world
+
+1354
+01:27:59,919 --> 01:28:05,359
+connection of this security issue that you actually learn about. Can you tell us a bit
+
+1355
+01:28:05,359 --> 01:28:09,200
+more, how do you design these things? Interesting you mentioned, because that happened again
+
+1356
+01:28:09,200 --> 01:28:14,479
+throughout some of my workshops that I found in security, we are not really great in naming
+
+1357
+01:28:14,479 --> 01:28:18,640
+something. We actually really good and naming something really complex. Like I don't know,
+
+1358
+01:28:18,640 --> 01:28:25,200
+cross-site request forgery or server-side request. Yeah. But keep, keep in mind that lately it's,
+
+1359
+01:28:25,200 --> 01:28:31,599
+it's, it's very popular when, when, when new like exploit of, of something is found or new bug is
+
+1360
+01:28:31,599 --> 01:28:38,960
+found, we need to create a logo. We need to create a special site where the CVE is, is, is, is published.
+
+1361
+01:28:38,960 --> 01:28:44,799
+So this is something that becoming popular to, to, to, to name, to name the attack or the bug.
+
+1362
+01:28:46,479 --> 01:28:48,000
+Hard bleed. Hard bleed.
+
+1363
+01:28:50,000 --> 01:28:54,479
+There was a changeover. It was a lot of, I mean, our industry got just lifted up and
+
+1364
+01:28:54,479 --> 01:28:59,919
+it becomes suddenly super popular. But yeah, just coming back to that again, our goal,
+
+1365
+01:28:59,919 --> 01:29:06,239
+my goal is to get more hopeful engineers on the security side. So whatever make them to remember
+
+1366
+01:29:06,239 --> 01:29:12,320
+about this security issue. If I, if I tell someone, Hey, this is a server-side request forgery
+
+1367
+01:29:12,320 --> 01:29:16,479
+bug two months from today, they're going to forget about it. But if I say, Hey, this is a bug that
+
+1368
+01:29:16,479 --> 01:29:23,760
+happened to X, Y, Z component resulted into that. Now having this interesting story, someone after
+
+1369
+01:29:23,760 --> 01:29:30,080
+like a few years ago, he did a, like a workshop came to me and say, Hey, you know, can you just
+
+1370
+01:29:30,080 --> 01:29:35,760
+help me figure these things? Part of the code out. I think this, this may have that GitHub bug.
+
+1371
+01:29:37,599 --> 01:29:40,239
+What do you mean? GitHub bug? That bug, you know, it was GitHub.
+
+1372
+01:29:41,119 --> 01:29:45,679
+He's talking about the, there was a major vulnerability in GitHub for mass assignment.
+
+1373
+01:29:46,320 --> 01:29:50,559
+We call it mass assignment, but that kind of tell me, okay, that seems to work.
+
+1374
+01:29:50,559 --> 01:29:55,679
+That kind of sticks in there in their mind. Yeah. And I think.
+
+1375
+01:29:55,760 --> 01:30:05,840
+Yeah. And like the process of, of you preparing these challenges, like you basically
+
+1376
+01:30:08,400 --> 01:30:17,440
+tailor this to based on the company that is like, um, acquire or services and based on their stack
+
+1377
+01:30:17,440 --> 01:30:23,440
+or so, or based on your past experience of, of you being the code reviewer of, of, uh,
+
+1378
+01:30:23,440 --> 01:30:29,840
+auditing the, the, the, the code and seeing what are the most common mistakes the developers, uh,
+
+1379
+01:30:29,840 --> 01:30:37,919
+do, uh, I'll create a bunch of, uh, like examples or exercises, um, for, for this kind of bugs.
+
+1380
+01:30:37,919 --> 01:30:45,520
+What is the, how is the process of what is relevant or what, um, developers, uh, are working on.
+
+1381
+01:30:45,520 --> 01:30:50,640
+So there's a, like a different levels of content given the maturity of that organization. So there
+
+1382
+01:30:50,640 --> 01:30:58,479
+are kind of a group of security bugs that regardless of you writing Python or use Kubernetes,
+
+1383
+01:30:59,280 --> 01:31:05,280
+you need to be aware of them. So we make them tailored toward that organization that, Hey, okay,
+
+1384
+01:31:05,280 --> 01:31:10,640
+these are the things you have to follow. And then the next nice thing is that then the next step is,
+
+1385
+01:31:10,640 --> 01:31:16,880
+uh, because the whole platform has an open SDK, they can even contribute their own type of
+
+1386
+01:31:16,880 --> 01:31:23,520
+problems. And that will be presented in the terms of challenge. So a lot of times it happens that we
+
+1387
+01:31:23,520 --> 01:31:29,840
+turn a security audit report into a challenge because oftentimes the security report comes in
+
+1388
+01:31:29,840 --> 01:31:35,840
+and then you get few people, you know, dealing with that, fixing the bug and that's it.
+
+1389
+01:31:35,840 --> 01:31:41,359
+When the whole knowledge is gone, what was it? But rather than, we kind of want to make that
+
+1390
+01:31:41,359 --> 01:31:45,919
+more persistent for that organization. Like you have new devs coming in. Hey, do you know what we
+
+1391
+01:31:46,000 --> 01:31:52,239
+had this bug? Well, here's an hour challenge for it. Can you try to, to solve it? And the goal is
+
+1392
+01:31:52,239 --> 01:31:57,280
+to fix it. We are, we simulate the same bug for them and they will kind of try to do it.
+
+1393
+01:31:57,919 --> 01:32:06,239
+Uh, that's primarily the focuses and, uh, the, the other part is more, uh, running, uh, competition
+
+1394
+01:32:06,239 --> 01:32:15,280
+or game events for them. Like, uh, you want to dedicate time for the team to come in one day and
+
+1395
+01:32:15,280 --> 01:32:20,479
+start exploring some of the security issues. Can't just, you know, give them a link and they'll
+
+1396
+01:32:20,479 --> 01:32:26,000
+go and do it on your own. But yeah, they probably did that already.
+
+1397
+01:32:29,359 --> 01:32:37,439
+Should we bring the ship to bring that ship in? Yeah. Um, yeah, I was like thinking maybe, maybe
+
+1398
+01:32:37,520 --> 01:32:46,079
+like from how, how, how long have you like done this kind of workshop of dealing with, with
+
+1399
+01:32:46,079 --> 01:32:53,439
+developers? So I'm thinking of, um, like the track record of, of you running the workshops perhaps
+
+1400
+01:32:53,439 --> 01:32:59,920
+is like eight years. Okay. I was running it and, and, and in, in, in this eight years, like you
+
+1401
+01:32:59,920 --> 01:33:07,040
+still see what are the, the top three like major flaws that developers are still like,
+
+1402
+01:33:08,079 --> 01:33:13,520
+or was it called deadly sins in, in, in software development? What is, what is still,
+
+1403
+01:33:13,520 --> 01:33:22,880
+still out there? And, and I don't know if you, if you, if you track a tracker, um, this at all,
+
+1404
+01:33:23,520 --> 01:33:27,680
+I mean, it's, you can, you can see in his eyes, all the horrors that he's seen.
+
+1405
+01:33:29,920 --> 01:33:37,680
+I mean, you mean what are the, you're talking about what's still happening? Yeah. Of course.
+
+1406
+01:33:37,680 --> 01:33:44,880
+Like what kind of mistakes are, are, are developers still like making in terms of like,
+
+1407
+01:33:45,839 --> 01:33:53,199
+like example, like you, you presented the, the, the challenge yesterday. Um, um, for instance,
+
+1408
+01:33:53,199 --> 01:34:00,479
+the integer overflow that was like, like crucial in, in, in a way of understanding,
+
+1409
+01:34:02,560 --> 01:34:04,880
+or what, what is still out there?
+
+1410
+01:34:08,160 --> 01:34:14,479
+Well, I can say one of the, well, these quick fixes, like without really understanding what
+
+1411
+01:34:14,640 --> 01:34:20,000
+the root cause of the problem is trying to quickly put some, if a statement around the thing,
+
+1412
+01:34:20,000 --> 01:34:24,319
+we talked about Heartbleed, I do encourage you to go and look at the patch for the heart.
+
+1413
+01:34:25,280 --> 01:34:30,319
+And don't be surprised to just see two, if a statement for that security bug. So kind of not
+
+1414
+01:34:30,319 --> 01:34:36,160
+really understanding, Hey, this security bug cannot be treated like other bugs that you fix
+
+1415
+01:34:36,160 --> 01:34:41,680
+in your program. I think that's the thing I still feel is, is missing quite a lot. Like
+
+1416
+01:34:42,560 --> 01:34:46,800
+you can just put a couple of statements here and there just to patch things.
+
+1417
+01:34:47,760 --> 01:34:53,280
+Um, one of the things that I'm keep talking about, it is all about,
+
+1418
+01:34:55,280 --> 01:34:59,040
+uh, I mean, it's just so many security issues. I don't know which one I pick.
+
+1419
+01:35:00,800 --> 01:35:02,000
+Name one, name one.
+
+1420
+01:35:02,000 --> 01:35:13,839
+Like, I mean, like some of the, like, some of the things that is re reappearing is like
+
+1421
+01:35:13,839 --> 01:35:21,280
+this whole concept of like, you know, front-end validation is a, is a joke. You need to do things
+
+1422
+01:35:21,280 --> 01:35:26,880
+on back end. I thought we solved this problem, but it's kind of coming back and you still see,
+
+1423
+01:35:26,959 --> 01:35:32,079
+well, these things that just did the validation on front-end and the QA didn't pick it up because
+
+1424
+01:35:32,079 --> 01:35:37,040
+they use the UI to interact with the API. And modern web frameworks in the front-end
+
+1425
+01:35:37,040 --> 01:35:43,520
+are becoming more and more popular and everything. And everything is being done in front-end and,
+
+1426
+01:35:43,520 --> 01:35:50,479
+you know, whatever is in back. A lot of, uh, a lot of, uh, the other thing you see a lot is a lot of
+
+1427
+01:35:51,520 --> 01:35:56,079
+information disclosure that API is just send too much information to the front-end library
+
+1428
+01:35:56,079 --> 01:36:00,479
+because the heavy lifting is done by front-end library. And you don't actually know, actually,
+
+1429
+01:36:00,479 --> 01:36:04,239
+if you observe just the traffic that comes in, it's just too much content.
+
+1430
+01:36:04,239 --> 01:36:07,920
+I had one case that I could see even the password hashes of people.
+
+1431
+01:36:09,280 --> 01:36:14,560
+And I think that the security bugs, the one that I feel companies need to go after are those ones
+
+1432
+01:36:14,560 --> 01:36:19,760
+that are in the, their business logic, their semantic ones. They are the ones that get popped
+
+1433
+01:36:19,760 --> 01:36:24,800
+and get attacked. I think we are kind of relatively good on a low hanging fruit,
+
+1434
+01:36:24,800 --> 01:36:30,400
+the things that, you know, the scanners can pick up, but the ones that they are really deep inside
+
+1435
+01:36:30,400 --> 01:36:35,199
+the code and mostly related to the semantic of the code, they are the ones that, yeah,
+
+1436
+01:36:36,000 --> 01:36:42,160
+it's still, it's just still there. So maybe like to, to end this.
+
+1437
+01:36:42,880 --> 01:36:48,560
+Yeah. I think maybe we need to invite bedroom to four to some Slovenian beers now, probably
+
+1438
+01:36:49,520 --> 01:36:51,599
+Do you enjoy Slovenian beer?
+
+1439
+01:36:51,599 --> 01:36:52,319
+Which one?
+
+1440
+01:36:52,319 --> 01:36:53,520
+Which one? Well, we explore.
+
+1441
+01:36:56,959 --> 01:37:00,640
+So maybe like, I don't know, words of wisdom from you.
+
+1442
+01:37:01,680 --> 01:37:02,640
+Last few words.
+
+1443
+01:37:02,640 --> 01:37:06,959
+Yeah. What, what would be like in, in terms, in terms of, I don't know, addressing,
+
+1444
+01:37:08,000 --> 01:37:13,520
+addressing developers, addressing the, the, the management, running the business.
+
+1445
+01:37:14,079 --> 01:37:26,560
+I think it's just early, get security early in, like you get benefit of cost-saving a lot.
+
+1446
+01:37:27,359 --> 01:37:32,959
+The earliest, the better, like, so, and that's why I was really advocating for training because
+
+1447
+01:37:32,959 --> 01:37:38,079
+that's the earliest stage you can, you can get security in when you are, when that feature
+
+1448
+01:37:38,800 --> 01:37:41,839
+Inception or like that, a scrum meeting that you have to talk about the feature.
+
+1449
+01:37:41,839 --> 01:37:46,319
+Actually, that's the time you can start thinking about security really early on, and you can stop
+
+1450
+01:37:46,319 --> 01:37:51,040
+things to, to happen right there before, you know, you're implementing the code and someone
+
+1451
+01:37:51,040 --> 01:37:55,040
+auditor comes in to do it. So I think you get security in as early as possible.
+
+1452
+01:37:56,479 --> 01:38:02,239
+Okay. So wise words. Will you say thank you to everybody or should I?
+
+1453
+01:38:02,239 --> 01:38:02,880
+You should do.
+
+1454
+01:38:03,839 --> 01:38:08,959
+Well, Pedram, thank you very much for your time. We appreciate it. Andraž, thank you for, for this
+
+1455
+01:38:08,959 --> 01:38:16,719
+kind, kind words and leadership in this. And thank you, our listeners of Ugrodje and thanks to
+
+1456
+01:38:16,719 --> 01:38:22,719
+supporters. We have so many that I can name them. So I can say thank you, Jan, Jan, Jan and Marko
+
+1457
+01:38:22,719 --> 01:38:28,079
+for supporting us. And I hope that you guys will give us some feedback, especially given that this
+
+1458
+01:38:28,319 --> 01:38:32,719
+is now in English. And until next time, thank you very much.
+
+1459
+01:38:32,719 --> 01:38:38,640
+Yeah. And we promised to like, maybe do another about security because we saw that security is
+
+1460
+01:38:38,640 --> 01:38:41,280
+quite popular, like in, in, in Discord.
+
+1461
+01:38:42,719 --> 01:38:45,920
+Yeah, there's tons of, yeah, we need to, we need to finish now.
+
+1462
+01:38:46,800 --> 01:38:48,560
+Thank you everybody. And thanks for sharing.
+
+1463
+01:38:48,560 --> 01:38:49,040
+Thank you.
+
+1464
+01:38:49,040 --> 01:38:49,520
+Bye.
+
+1465
+01:38:58,079 --> 01:38:59,540
+Bye.

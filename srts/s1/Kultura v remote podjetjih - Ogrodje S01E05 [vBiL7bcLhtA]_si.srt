@@ -1,0 +1,2415 @@
+1
+00:00:00,000 --> 00:00:07,000
+Dobro snemamo, dobrodošli v podkestu Grodje. To je zdaj danes peta epizoda.
+
+2
+00:00:07,000 --> 00:00:13,000
+Danes sta z mano Jure Čohaljo in Brodul, jaz pa sem Oto Brgles.
+
+3
+00:00:13,000 --> 00:00:20,000
+Danes neke izdelane agende nimamo, bo pa Jure poskušal nas vprašati,
+
+4
+00:00:20,000 --> 00:00:28,000
+kako vidimo sodoben razvoj brez nekih tradicionalnih setupov,
+
+5
+00:00:28,000 --> 00:00:32,000
+ali pa kako bomo bolje razvijali software v prihodnosti.
+
+6
+00:00:32,000 --> 00:00:36,000
+Mogoče je neka taka tema, ki bi lahko danes oddelali med drugim.
+
+7
+00:00:38,000 --> 00:00:40,000
+Super, takrat začnemo.
+
+8
+00:00:40,000 --> 00:00:48,000
+Oto, dolgoletni oddaljeni delavac za klino, remote.
+
+9
+00:00:48,000 --> 00:00:57,000
+Andraž, vem, da je delu že izpisarno. Zadnje čas je pa tudi dela za oddaljene podjetja.
+
+10
+00:00:57,000 --> 00:01:00,000
+Včasih doma, včasih izpisarno je svoje.
+
+11
+00:01:00,000 --> 00:01:06,000
+Zdaj v luči debate o tem, da bi se delali 4 dni na teden,
+
+12
+00:01:06,000 --> 00:01:15,000
+je bil zasledil zanimivo del IT firme, ki je rekla, nekaj bomo remote delati,
+
+13
+00:01:15,000 --> 00:01:21,000
+ampak v zameno se pa damo na 4 dnevni delovnik.
+
+14
+00:01:21,000 --> 00:01:29,000
+Zdaj v bistvu vprašanje za vajo je, ali ste pripravljena, v bistvu treba zamenjati svoje remote delo
+
+15
+00:01:29,000 --> 00:01:39,000
+za delo v pisarni pod pogojem, da se dela 4 dni na teden, pa da je finančna kompenzacija in tudi nek problemski prostor primerljiv.
+
+16
+00:01:39,000 --> 00:01:41,000
+Ampak plača se še vedno 5 dni.
+
+17
+00:01:41,000 --> 00:01:47,000
+Plača se 5 dni, ne možeš pa delati remote, možeš iti v pisarno, lahko pa delaš 4 dni na teden.
+
+18
+00:01:50,000 --> 00:01:52,000
+Jaz delam v pisarni.
+
+19
+00:01:53,000 --> 00:02:00,000
+Jaz delam veliko doma, ampak še vedno pač koristim to naš co-working space.
+
+20
+00:02:03,000 --> 00:02:08,000
+Težko mi boš lokalna podjetja pa njihove izive prodal.
+
+21
+00:02:10,000 --> 00:02:18,000
+A govorimo o to, da bom zdaj vozil se v neko firmo v Londonu ali Berlinu, pa bom v Berlinu živel, pa delal 4 dni v pisarni.
+
+22
+00:02:22,000 --> 00:02:25,000
+Težko mi boš prodal to.
+
+23
+00:02:28,000 --> 00:02:35,000
+Torej, o to, ti si podjetje, a remote izivi lokacijska neodvišnost.
+
+24
+00:02:36,000 --> 00:02:44,000
+Mislim, da jaz vidim to tako, da dovolj mi, da se izberem sam, koliko hočem biti v pisarni,
+
+25
+00:02:44,000 --> 00:02:51,000
+pod nekimi pogoveji, ki jih odgovarjajo moji ekipi, ki jih odgovarjajo mojim sodelovcem, pa tudi pač z nekim kompromisom.
+
+26
+00:02:52,000 --> 00:02:57,000
+Ne bi pa zdaj rekel, moraš biti 4 dni na teden v pisarni. Mislim, da je ta model ful preživeti.
+
+27
+00:02:59,000 --> 00:03:05,000
+Seveda, če počneš neke remote-gige dela danes, ne vem, da mi še tako vršiš.
+
+28
+00:03:07,000 --> 00:03:12,000
+Jaz delam tudi 5 dni na teden, pa delam prastranke tudi v pisarni.
+
+29
+00:03:13,000 --> 00:03:19,000
+Se mi pa zdi, da to delo v pisarni je ful smotrno, če ti rešuješ neke arhitekturne pa strateške probleme,
+
+30
+00:03:20,000 --> 00:03:25,000
+pa se z ljudmi pač nekaj sinkaš. Če rabaš pa fokus tam kot executor, da možeš nekaj kodati,
+
+31
+00:03:26,000 --> 00:03:31,000
+je pa pale spet vprašanje, a ma to res prednost, pa zna biti mogoče v pisarni, ali se to še bolj mu teča.
+
+32
+00:03:32,000 --> 00:03:37,000
+Če si klasičen dvel, pa mogoče malo menj, ampak če si pa tako nek ta engineering enablement,
+
+33
+00:03:37,000 --> 00:03:45,000
+pa devops, je pa to tako, ne vem, jaz se čist ne predstavljam, da bi me skozi en nekaj povkal za stvari,
+
+34
+00:03:46,000 --> 00:03:57,000
+pa težko tukaj narediš neke te stvari, pač ful odisno je od kulture, pa ful sem razmišljal te stvari,
+
+35
+00:03:57,000 --> 00:04:06,000
+pač ljudje imajo praočne nogomete v pisarnah, pa če jaz sem zmer tak človek,
+
+36
+00:04:07,000 --> 00:04:13,000
+da rajš ne igram praočnega nogometa, pa imam menj tehničnega dolga, pa boljšo arhitekturo,
+
+37
+00:04:14,000 --> 00:04:22,000
+ko kar da igram raočen nogomet, pa bolj hitrej tikete narediš, tako da meni bo to zmer tako ful weird.
+
+38
+00:04:23,000 --> 00:04:27,000
+Če pa pač nisem v službi, pa pač itak delam, kar delam.
+
+39
+00:04:28,000 --> 00:04:36,000
+Jaz vidim zadevo še malo drugače, mogoče, zakaj bi sploh imel štirurni delovnik, zakaj bi sploh imel delovnik kot tak?
+
+40
+00:04:38,000 --> 00:04:44,000
+Razumem, da imaš neke točki, ko se morajo z ljudmi sinkati, pa ko moreš neka skupaj narediti,
+
+41
+00:04:45,000 --> 00:04:48,000
+ampak zakaj bi sploh ljudem vmejeval preostali čas?
+
+42
+00:04:48,000 --> 00:04:54,000
+Če imaš ljudi, ki naredijo izjemne stvari v polnoči ali pa enajsti zvečer,
+
+43
+00:04:55,000 --> 00:05:03,000
+zakaj bi tako kreativnega pa sposobnega človeka, nekaj prisilil, da hodi zjutraj v službo?
+
+44
+00:05:04,000 --> 00:05:09,000
+Dobro, razumem, da hočeš me to pogledati, kaj dela kot menedžer, kot vodja,
+
+45
+00:05:10,000 --> 00:05:14,000
+pa da želiš neko kolaboracijo izveč vsega, I get that.
+
+46
+00:05:15,000 --> 00:05:21,000
+Ampak če so ljudje boljši performanti kot delajo sami, mislim, da jih moramo prisluhnati.
+
+47
+00:05:22,000 --> 00:05:28,000
+Kako bistvo narediš pol neka počekvanja? Neka firma praktično ne skončila tiketa v Tesco,
+
+48
+00:05:29,000 --> 00:05:34,000
+biznesi želi več, sales itek prodal, fikcijo. Če ne moraš človeku reči,
+
+49
+00:05:35,000 --> 00:05:40,000
+toliko si naredil zdaj v osmih urah, pet domov, pa računalnik ustane v posadnji?
+
+50
+00:05:41,000 --> 00:05:47,000
+Mislim, da je velik trik je danes, kaj točno meriš.
+
+51
+00:05:49,000 --> 00:05:54,000
+Spravi, a meriš čas, ki ga bodo ljudje nameli nekemu tiketu,
+
+52
+00:05:55,000 --> 00:05:59,000
+a meriš njihov output, spravi, a meriš, koliko so sposobni value-a delivrati,
+
+53
+00:06:00,000 --> 00:06:03,000
+si meriš, koliko so sposobni danes produkta delivrati.
+
+54
+00:06:04,000 --> 00:06:09,000
+Če se začneš fokusirati na rezultate, ne na to, kako danes boš prišel tja,
+
+55
+00:06:10,000 --> 00:06:16,000
+potem se to postane čist trivialno vprašanje, kdem tudi ne rabiš meriti časa,
+
+56
+00:06:17,000 --> 00:06:22,000
+če veš, da bodo neke stvari narejene, če veš, da bodo neke stvari narejene v predvedljivih rokih.
+
+57
+00:06:23,000 --> 00:06:26,000
+Mislim, da so to tako fundamentalno vprašanje, pa shifti, ki se dogajajo,
+
+58
+00:06:27,000 --> 00:06:31,000
+če greš res v neke remote first okolja pa kulture.
+
+59
+00:06:32,000 --> 00:06:34,000
+Tako da, ja.
+
+60
+00:06:36,000 --> 00:06:41,000
+Tako da, vprašanje je, če boš 4 dni na teden hodil, kaj bo valverjali tvoj čas v tem času,
+
+61
+00:06:42,000 --> 00:06:44,000
+pa imajo tudi to, kaj je ta izplen.
+
+62
+00:06:45,000 --> 00:06:49,000
+A veš, če jaz brodala vprašam, v kolikem času bo nekaj upgrado,
+
+63
+00:06:50,000 --> 00:06:53,000
+pa on pa da mi neko estimacijo, ki je relativno zanesljiva,
+
+64
+00:06:54,000 --> 00:06:57,000
+pa če mu je zupan, bo to naredil kvalitetno, pa po svojih možnostih,
+
+65
+00:06:58,000 --> 00:07:01,000
+pa bom jaz lahko naprej drugim stakeholderjem jamče, da bo to naredil.
+
+66
+00:07:02,000 --> 00:07:04,000
+Potem, je pač to največje, kar si lahko želimo.
+
+67
+00:07:05,000 --> 00:07:08,000
+In ne rabi me zdaj brodala kot eksperta za svoje področje nadzirati,
+
+68
+00:07:09,000 --> 00:07:13,000
+pa imeti konstantno odpogleda v vsako mikro decision, ki ga on naredi.
+
+69
+00:07:14,000 --> 00:07:15,000
+Ali pač no.
+
+70
+00:07:17,000 --> 00:07:21,000
+Meni je ful zabavno, ker je pač ful enih stvari.
+
+71
+00:07:22,000 --> 00:07:26,000
+To pač tisto prej, kompariran s zeločnim nogometom,
+
+72
+00:07:27,000 --> 00:07:28,000
+za me je pač to ta peti dan.
+
+73
+00:07:30,000 --> 00:07:32,000
+Jaz veselem delam tudi pet dni na teden nekje,
+
+74
+00:07:33,000 --> 00:07:36,000
+pa če mi nekdo reče, ej, peti dan, ti pa ni treba delati
+
+75
+00:07:37,000 --> 00:07:43,000
+ultra product focused featurejo, ampak lahko začnemo razmišljati
+
+76
+00:07:44,000 --> 00:07:47,000
+tudi malo ostalih stvarih, pol pač skoraj to delam,
+
+77
+00:07:47,000 --> 00:07:51,000
+ki hitro se ti pač začnejo stvari podirati, pač čez par let,
+
+78
+00:07:52,000 --> 00:07:53,000
+če tega ne delaš.
+
+79
+00:07:54,000 --> 00:07:56,000
+Tako da z veseljem naredim še šte hure,
+
+80
+00:07:57,000 --> 00:07:59,000
+pa ta peti dan for free, če ima to smisel.
+
+81
+00:08:01,000 --> 00:08:07,000
+Pol to, pač to, da imaš te neke delovnike, pač to je v bistvu kontrakt
+
+82
+00:08:08,000 --> 00:08:13,000
+med ostalo populacijo, da pač so ljudje, da imajo ljudje skupno prostit čas,
+
+83
+00:08:14,000 --> 00:08:18,000
+pač in po moje, ka naša industrija raste, včasih smo zelo v grede
+
+84
+00:08:19,000 --> 00:08:21,000
+workflow-a pa delali, razmišljali zelo butično.
+
+85
+00:08:22,000 --> 00:08:26,000
+Če mi smo te artisti v teh super butičnih cake shopih,
+
+86
+00:08:27,000 --> 00:08:30,000
+ka delamo te ful lepe torpice, ne, zdaj pa naša industrija tolko raste,
+
+87
+00:08:31,000 --> 00:08:33,000
+da bo treba enih par industrijskih prijemov.
+
+88
+00:08:34,000 --> 00:08:37,000
+Pa mogoče, mogoče kdo z tem ne strinja, ampak po moje,
+
+89
+00:08:38,000 --> 00:08:41,000
+to pač kar bistvo, ne, in pol pač nekje te ustanjene rutine,
+
+90
+00:08:41,000 --> 00:08:46,000
+ti pač koristijo, ki interaktira z ostalimi, ne, vrci so od partij do 4. pa 5.
+
+91
+00:08:47,000 --> 00:08:51,000
+Pač jaz včasih, rečmo, nisem slovenskih praznikov imel prosto,
+
+92
+00:08:52,000 --> 00:08:56,000
+pa sem si imel praznike od kastamarjev, pa pač poslovnih partnerjev,
+
+93
+00:08:57,000 --> 00:09:00,000
+zdaj pa delam kontrast, zdaj pa pač si imel slovenske praznike,
+
+94
+00:09:01,000 --> 00:09:03,000
+zato ko sem pač poštudiral, da v en čist način je korist,
+
+95
+00:09:04,000 --> 00:09:07,000
+če optimiziram za kastamarja, pa pač se vzamem takrat frej,
+
+96
+00:09:07,000 --> 00:09:11,000
+kaj imajo oni frej, pa pač v Sloveniji nima nobenega,
+
+97
+00:09:12,000 --> 00:09:14,000
+kaj pač je takrat delovnik in pač vajzvrsa, kaj so si frej,
+
+98
+00:09:15,000 --> 00:09:17,000
+pa jaz nisem frej, pač to je buddhist, ne.
+
+99
+00:09:19,000 --> 00:09:23,000
+Tako da, ne vem, jaz te stvari malo tako gledam.
+
+100
+00:09:25,000 --> 00:09:29,000
+Zdaj, 4 day working week in on done, pa ti potem ostane zaočenje,
+
+101
+00:09:31,000 --> 00:09:32,000
+bi to šlo?
+
+102
+00:09:33,000 --> 00:09:39,000
+Ja, mislim, vse vem, tako vse je tako triki, pač fuli triki,
+
+103
+00:09:40,000 --> 00:09:46,000
+jaz ampak inočem, to je ta problem, ki delaš v software inženerijo,
+
+104
+00:09:47,000 --> 00:09:55,000
+pa pač v developmentu, kjer se enostavno, imaš ta balance med,
+
+105
+00:09:56,000 --> 00:09:58,000
+da narediš nekaj dost dobro, pa da narediš nekaj perfect,
+
+106
+00:09:59,000 --> 00:10:03,000
+jaz pravi šmičkan, časa spendam, pa naredim nekaj dost dobro,
+
+107
+00:10:04,000 --> 00:10:09,000
+pa nekaj perfect, ampak nekaj umet, zato, ker to kajnih izkušenj
+
+108
+00:10:10,000 --> 00:10:14,000
+imam, da pač vem, da če, se pravim, pač ne redi grem ročno
+
+109
+00:10:15,000 --> 00:10:19,000
+inogo umet, jaz bi z veseljem delal še peti dan, ne, to pač ni tak
+
+110
+00:10:20,000 --> 00:10:24,000
+problem, pač ali pa lahko si ga, pač fuli je odvisno, kaj te
+
+111
+00:10:24,000 --> 00:10:27,000
+štiri dni pomenijo, če en reče, ej, isti workload imate,
+
+112
+00:10:28,000 --> 00:10:31,000
+samo peti dan bom ni treba delati, pol pač reč, delam peti dni.
+
+113
+00:10:37,000 --> 00:10:41,000
+A ti kaj igra kakšen faktor, v bistvu, kjer je na svetu en ročnik,
+
+114
+00:10:42,000 --> 00:10:48,000
+če v Ameriki, če v Aziji, če v Angliji, ali ne evaluirate tega faktora?
+
+115
+00:10:49,000 --> 00:10:53,000
+Ja, meni je fuli pomembno, da je en ročnik plus dve uri mojega
+
+116
+00:10:54,000 --> 00:10:58,000
+time zona, ker pač meni fuli utruja delo zvečer, oziroma,
+
+117
+00:10:59,000 --> 00:11:03,000
+tekrat, ko imaš sestanke, to se pravi, če ti dela z nekom,
+
+118
+00:11:04,000 --> 00:11:07,000
+kaj ni v tvojemo časovnem pasu, pal imaš najbrž sestanke,
+
+119
+00:11:08,000 --> 00:11:11,000
+jaz pa fuli slabo perform zvečer na sestankih, pa mi je pač
+
+120
+00:11:12,000 --> 00:11:15,000
+fuli pomembno, da smo v istih časovnih prostorih. Zdaj, po
+
+121
+00:11:15,000 --> 00:11:19,000
+mene, ena izjema bi bila, če bi bila ta kompani tako
+
+122
+00:11:20,000 --> 00:11:25,000
+remote-first, da bi velik del populacije inženerjev pač
+
+123
+00:11:26,000 --> 00:11:29,000
+bilo skatert pač v časovnih prostorih, ker pač si tudi
+
+124
+00:11:30,000 --> 00:11:33,000
+kultura prilagaja, ampak tako, če pa je nekaj baza, pa si pa
+
+125
+00:11:34,000 --> 00:11:36,000
+imaš pa v bistvu samo eno trtino ljudi nekje druge,
+
+126
+00:11:37,000 --> 00:11:41,000
+posebej že po mojih izkušnjah začne poznat ta pričakovanja
+
+127
+00:11:41,000 --> 00:11:45,000
+polgaratev trki. Tako, ne vem, kak je to vama, pač je se
+
+128
+00:11:46,000 --> 00:11:49,000
+problem tegmov izugibati, pač Evropa je tudi dost velika, tako
+
+129
+00:11:50,000 --> 00:11:51,000
+da neče imamo nek nek problem.
+
+130
+00:11:52,000 --> 00:11:55,000
+Jaz sem delal v prečasnem krevetu velik zamrečanji,
+
+131
+00:11:56,000 --> 00:12:01,000
+tam je bilo pač ta, vsi sestanki, vsa kolaboracija pač
+
+132
+00:12:02,000 --> 00:12:04,000
+včinov, potem se začne po povdanjskem času, pa večernem
+
+133
+00:12:04,000 --> 00:12:12,000
+času, kar je bilo mi kaj izziv takrat je, da ker je bila firma
+
+134
+00:12:13,000 --> 00:12:16,000
+recimo bazirana, pa še vedno neka moja rutina bila jutranja,
+
+135
+00:12:17,000 --> 00:12:19,000
+da se mi potem zdelo, da danesko se mi je delovni dan
+
+136
+00:12:20,000 --> 00:12:23,000
+raztegnil čez cel dan, se pravi, da sem zjutraj potem vse ene
+
+137
+00:12:24,000 --> 00:12:27,000
+začel po neki tradicionalni rutini, ker ne vem, so tvoji
+
+138
+00:12:28,000 --> 00:12:31,000
+bližnji pa to grejo v fakt, pa šolo, pa službo in vse skupaj,
+
+139
+00:12:31,000 --> 00:12:35,000
+in je pač ta rutina, vsi grejo delati in pač službo,
+
+140
+00:12:36,000 --> 00:12:40,000
+potem delaš, potem nekako zaključuješ, pa se zamrečanji
+
+141
+00:12:41,000 --> 00:12:45,000
+izbudijo, potem začnejo z kolaboracijo, vabite in potem
+
+142
+00:12:46,000 --> 00:12:52,000
+imaš čutek, da res se raztegne cel dan, to mi ni to obdešalo,
+
+143
+00:12:53,000 --> 00:12:57,000
+to sem imel krtežave, tabel in snadi, tako si ti rekel,
+
+144
+00:12:58,000 --> 00:13:01,000
+zelo podobno, pač zdaj delam v večinama za neke angleže,
+
+145
+00:13:02,000 --> 00:13:06,000
+tam pač eno uro, plus minus, ni danesko nek ful problem,
+
+146
+00:13:07,000 --> 00:13:13,000
+še vedno se lahko prilagodiš, pa to deluje, to me predvsem laže,
+
+147
+00:13:14,000 --> 00:13:17,000
+predvsem zdaj, ko imam pač otroke, pa jih moram vrtati splat,
+
+148
+00:13:18,000 --> 00:13:20,000
+pa izvrtati v obrat, kar si predvsem ti omenil,
+
+149
+00:13:21,000 --> 00:13:25,000
+teda ja, to pravim koristiti, načaloma pa tudi, a veš,
+
+150
+00:13:26,000 --> 00:13:30,000
+danes vse je v teh mojih krogih pač slajki neka, I think,
+
+151
+00:13:31,000 --> 00:13:36,000
+komunikacijska platforma, kjer si prisotni, pa hkrati nisi prisotni
+
+152
+00:13:37,000 --> 00:13:39,000
+in ko te nekdo vrabi, bom boš odgovoril, ko boš lahko,
+
+153
+00:13:40,000 --> 00:13:46,000
+oziroma pač, ko si izraven, to se mi zdi, da se je kar
+
+154
+00:13:46,000 --> 00:13:50,000
+izpostavljalo kot nek tak sodoben način delati s temi
+
+155
+00:13:51,000 --> 00:13:54,000
+remote firmami, pa da se zavedeš na drugi strani, da ko nekoga
+
+156
+00:13:55,000 --> 00:13:59,000
+pingneš, da on ni preračunalnikov, da boku bo lahko in vice versa,
+
+157
+00:14:00,000 --> 00:14:06,000
+poskušali smo pa izpostaviti neke take redne mitinge,
+
+158
+00:14:07,000 --> 00:14:11,000
+ki so pač šedželjeni na tisti, ki se pričakujejo, da si,
+
+159
+00:14:11,000 --> 00:14:15,000
+ostala je pa v bistvu stvar, kako se posameznik organizira.
+
+160
+00:14:16,000 --> 00:14:19,000
+Poskušal sem na nek način organizirati, da imaš nek overlap,
+
+161
+00:14:20,000 --> 00:14:23,000
+mislim, da se z ljudmi, s katerimi pač moraš imeti kontakt,
+
+162
+00:14:24,000 --> 00:14:27,000
+pa potem pač tudi neki handover in podobno, če imaš nek
+
+163
+00:14:28,000 --> 00:14:33,000
+dnevni monitoring ali kaj. Kaj pa ti pravi, Šure?
+
+164
+00:14:34,000 --> 00:14:36,000
+Nekotirati mogem.
+
+165
+00:14:37,000 --> 00:14:38,000
+Ker okoli hočeš.
+
+166
+00:14:38,000 --> 00:14:41,000
+Mislim, da je nekaj včasov na novo, da imaš engažmento.
+
+167
+00:14:42,000 --> 00:14:46,000
+Jaz zaraz že deset let delam z različnimi ameriškimi,
+
+168
+00:14:47,000 --> 00:14:49,000
+pač partnerji mojega podjetja.
+
+169
+00:14:52,000 --> 00:14:55,000
+Meni to zaraz zelo ustreza. Ustreza mi, da
+
+170
+00:14:57,000 --> 00:15:01,000
+da imam dopovodne zelo prosto, da če želim delati, delam,
+
+171
+00:15:02,000 --> 00:15:06,000
+če želim gret, ne vem, plezati na raznih havah, tako.
+
+172
+00:15:06,000 --> 00:15:08,000
+Me ustreza.
+
+173
+00:15:10,000 --> 00:15:13,000
+Onboarding v tako firmo je navadno naporen,
+
+174
+00:15:14,000 --> 00:15:17,000
+ker se ti zgodi kaj serije več tehnov, zelo več nekih
+
+175
+00:15:18,000 --> 00:15:20,000
+uskljivalnih, vodnih sestankov.
+
+176
+00:15:21,000 --> 00:15:25,000
+Pa je bilo moje skušnje, da firme, če imajo dobro razvito
+
+177
+00:15:26,000 --> 00:15:30,000
+vodstvo in kulturo, so zelo tako dober takoči trak.
+
+178
+00:15:31,000 --> 00:15:34,000
+Ne vem, veš, da imaš, ne vem, vtorek ob šestih, pač
+
+179
+00:15:34,000 --> 00:15:38,000
+povoren sestank, in je tako, kot da bi imel vtorek ob šestih
+
+180
+00:15:39,000 --> 00:15:43,000
+v fuzbal, pač, tekrat te ni, in se za vse družbe socialne
+
+181
+00:15:44,000 --> 00:15:48,000
+stvari zmenjaš pač ali ob sedmih, ali pa pač preobštetih.
+
+182
+00:15:49,000 --> 00:15:52,000
+Druga stvar, ki sem videl pred američanih konkretno, je, da
+
+183
+00:15:53,000 --> 00:15:57,000
+ful razumajo, da je pretep tema, da je pretep večer.
+
+184
+00:15:58,000 --> 00:16:01,000
+Ne vem točno zakaj, ampak oni predvidevajo, da če ti
+
+185
+00:16:01,000 --> 00:16:05,000
+rečeš, da je pretep že malo tako zvečer, pa pozen, oni to
+
+186
+00:16:06,000 --> 00:16:09,000
+slišijo, da je pretep deset po noč in desetak že čist se sud.
+
+187
+00:16:10,000 --> 00:16:14,000
+Čeprav je tukaj mogoče ura sedem. In tako je z tem
+
+188
+00:16:15,000 --> 00:16:19,000
+nikoli nisem imel težavno. Pa večer, ko je firma, v bistvu
+
+189
+00:16:20,000 --> 00:16:25,000
+mi zanimuje tudi, več komunikacije potrebuje in stvari se
+
+190
+00:16:26,000 --> 00:16:29,000
+počasnej premikajo. Sem delal z zelo majhnim ekipami,
+
+191
+00:16:29,000 --> 00:16:34,000
+ko si res lahko vse na eno sestanko naredil, do večjih
+
+192
+00:16:35,000 --> 00:16:38,000
+ekip, ko je možno napisati dokument, pa pa ljudje malo gledajo
+
+193
+00:16:39,000 --> 00:16:43,000
+kakšen dan, pa pišejo komentarje. In ta sihronost in nek
+
+194
+00:16:44,000 --> 00:16:49,000
+ritem ti tudi v bistvu dosto omakne te probleme večerne
+
+195
+00:16:50,000 --> 00:16:52,000
+komunikacije, recimo z naše perspektive. Zdaj, jaz sem
+
+196
+00:16:53,000 --> 00:16:56,000
+sicer pač software inženirator, recimo malo s productom
+
+197
+00:16:56,000 --> 00:17:00,000
+ukvarja. Nisem recimo tako kot Brodol, kjer ko stvari
+
+198
+00:17:01,000 --> 00:17:05,000
+gorijo, te kličejo. To, da bi mene klical, da moram neke
+
+199
+00:17:06,000 --> 00:17:10,000
+stvari popravljati. Sem imel te situacije, ampak sem imel
+
+200
+00:17:11,000 --> 00:17:15,000
+te situacije tudi pri naročnikih v Sloveniji. Kaj sem se
+
+201
+00:17:16,000 --> 00:17:21,000
+predvsem naučil je, da če postavljam stvari na novo, če
+
+202
+00:17:21,000 --> 00:17:24,000
+bom če kdaj delal s manjšimi naročniki in bolj vsebne
+
+203
+00:17:25,000 --> 00:17:28,000
+kapaciteti, bom v bistvu na bolj definiral te SLA-je.
+
+204
+00:17:29,000 --> 00:17:32,000
+Koliko časa je spredna strana lahko nedesigljiva? Koga
+
+205
+00:17:33,000 --> 00:17:35,000
+se kliče? Kako grem jaz na dopust? Kaj se zgodi, če so
+
+206
+00:17:36,000 --> 00:17:39,000
+prazniki? Kaj se zgodi, če sem jaz nekje v tujini?
+
+207
+00:17:41,000 --> 00:17:46,000
+Da ti dam zdaj neko kost tukaj. Imate Slack instalirano
+
+208
+00:17:46,000 --> 00:17:52,000
+na svojih telefonih, mail ga berete tudi v prostem času.
+
+209
+00:17:53,000 --> 00:17:59,000
+Da. Kaj, dnansko? Če te bo pingo nekdo od stranke osmi
+
+210
+00:18:00,000 --> 00:18:04,000
+zvečer, boš reply, verjetno. Ar kaj? Bo prišel mesiž
+
+211
+00:18:05,000 --> 00:18:07,000
+od tebe, recimo, na Slack. Zanimivo je. Boš dnansko
+
+212
+00:18:08,000 --> 00:18:12,000
+engažoval? Ko se zjutraj zgodiš od tega, verjetno odpreš
+
+213
+00:18:12,000 --> 00:18:17,000
+social media, ker se je čez noč svet zgodil. Isti včutek
+
+214
+00:18:18,000 --> 00:18:22,000
+imam jaz. Zjutraj se zbudim in odpreš Slack in pogledaš,
+
+215
+00:18:23,000 --> 00:18:26,000
+kaj je recimo Giga Tron snimal v spad ob dveh po noč,
+
+216
+00:18:27,000 --> 00:18:31,000
+pa je pisal neke stvari na random. Tako je tudi pač, so te
+
+217
+00:18:32,000 --> 00:18:35,000
+moje naročnike v srednoči pisal na Slack stvari in malo
+
+218
+00:18:36,000 --> 00:18:38,000
+pogledaš, kaj se dogaja. Če neš drugega, kjer je nove
+
+219
+00:18:38,000 --> 00:18:42,000
+meme, so nalimal. Ampak to delaš takrat, ko sam želiš,
+
+220
+00:18:43,000 --> 00:18:45,000
+ali takrat, ko se ti naberajo notifikacije? Imaš notifikacije
+
+221
+00:18:46,000 --> 00:18:50,000
+ne vklopljene? Sam če je direkt menšan. Če je private
+
+222
+00:18:51,000 --> 00:18:56,000
+message. Zelo jasno imam in te working hours nastavljene
+
+223
+00:18:57,000 --> 00:19:00,000
+in notifikacije in cel telefon gre v bistvu, bodo na dostrbo
+
+224
+00:19:01,000 --> 00:19:04,000
+od desetih po noč, do sedmi zjutraj, tako da ...
+
+225
+00:19:05,000 --> 00:19:08,000
+To ne moti. To me ne moti, no. Bolj, če bi tako
+
+226
+00:19:09,000 --> 00:19:11,000
+idle po telefonu pač okliko.
+
+227
+00:19:13,000 --> 00:19:15,000
+Ti imaš bolj pomemben job kot ti.
+
+228
+00:19:19,000 --> 00:19:22,000
+Ne, ful je zanimivo vprašanje, ker je ful odvisno
+
+229
+00:19:23,000 --> 00:19:29,000
+od naročnika. Se jih skaže, pač, za ...
+
+230
+00:19:30,000 --> 00:19:33,000
+Tukaj, kaj delam, pač največ svetovalnih ur nima,
+
+231
+00:19:34,000 --> 00:19:36,000
+pa tudi ne vem, če spohaj bi smel imeti.
+
+232
+00:19:40,000 --> 00:19:43,000
+Je pa ta naročnik, ima v bistvu zelo fiksne
+
+233
+00:19:44,000 --> 00:19:46,000
+business hours, pač nim sas, ampak je financial.
+
+234
+00:19:47,000 --> 00:19:50,000
+In potem je v bistvu, ko se pač trkostal, se trkostal.
+
+235
+00:19:51,000 --> 00:19:54,000
+In potem jim reka, no, pač ni, ni treba imeti pač
+
+236
+00:19:55,000 --> 00:19:56,000
+availability.
+
+237
+00:19:59,000 --> 00:20:02,000
+Pa pač ful je odvisno. Se pa strinjam z juretom,
+
+238
+00:20:02,000 --> 00:20:06,000
+da je ful pomembno. Managing of expectations je ful bistven.
+
+239
+00:20:07,000 --> 00:20:13,000
+Pač jaz nima zdaj neke klasične role, ki bi bil on call,
+
+240
+00:20:14,000 --> 00:20:17,000
+pač on-call consulting, pa pač tisti mi pridamelj,
+
+241
+00:20:18,000 --> 00:20:20,000
+pa bom pač pogledal, pač je nekaj, kar lahko reasonably
+
+242
+00:20:21,000 --> 00:20:23,000
+hitro odgovorim, bom odgovoril. Samo ni nač nekaj,
+
+243
+00:20:24,000 --> 00:20:27,000
+ki bi mogel jaz delati, ampak je pač bolj so pač mnenja
+
+244
+00:20:27,000 --> 00:20:32,000
+ali pa nekaj, ki pač itak vem iz glave.
+
+245
+00:20:37,000 --> 00:20:41,000
+Drugače pa to glavni problem, ki sem ga imel jaz v proteklosti,
+
+246
+00:20:42,000 --> 00:20:47,000
+je pač vsi implicitno želimo, da se vse storitve pač navoljo.
+
+247
+00:20:49,000 --> 00:20:50,000
+Vse je nujno.
+
+248
+00:20:51,000 --> 00:20:52,000
+Pa pač seveda vse je nujno.
+
+249
+00:20:53,000 --> 00:20:58,000
+In pa pač imam različne prijeme, kako pač ljudem pač
+
+250
+00:20:59,000 --> 00:21:04,000
+probaš razdužiti, da pač z to, če so to neka sredna,
+
+251
+00:21:05,000 --> 00:21:08,000
+mala podjetja, ki si pač tipično sam, nek ta platform inženjer,
+
+252
+00:21:09,000 --> 00:21:13,000
+eseri, whatever, pač ljudem pač malo razdužiš, ej,
+
+253
+00:21:14,000 --> 00:21:18,000
+jaz sem zdaj sam, pa jaz sem ful za agile,
+
+254
+00:21:18,000 --> 00:21:21,000
+jaz sem tako, lahko nimamo upetki teplo produkcijo,
+
+255
+00:21:22,000 --> 00:21:25,000
+čeprav so ful avtomizirani in robustni, jaz bi še zmer tako pač
+
+256
+00:21:26,000 --> 00:21:30,000
+upetek šel v kino spiti eno pivo in jedno kopice in pa lukino pijan,
+
+257
+00:21:31,000 --> 00:21:32,000
+vam ful težko pač pomagam.
+
+258
+00:21:33,000 --> 00:21:35,000
+Sej mala verjetnost, ampak še zmer.
+
+259
+00:21:36,000 --> 00:21:39,000
+Če pa ljudje rečejo, ne, ampak mi moramo res tako skozi delati,
+
+260
+00:21:40,000 --> 00:21:43,000
+pa pač rečeš, lej, to je pač rešen problema, šteri zmenjsko delo,
+
+261
+00:21:44,000 --> 00:21:47,000
+pač ti sam gasilce pogledaš in rečeš, ok, mi moramo zdaj
+
+262
+00:21:48,000 --> 00:21:51,000
+en power, pa organizacijo delati, kot kar pač neka profesionalna
+
+263
+00:21:52,000 --> 00:21:56,000
+brigada, kaj zdaj to pač pomena, ne. In potem, če delam za start-upe,
+
+264
+00:21:57,000 --> 00:22:01,000
+je en izmed strategij, na primer, je, da pač imaš v vseh
+
+265
+00:22:02,000 --> 00:22:06,000
+time zone-ih več platform inženerjev in potem je to najbolj happy
+
+266
+00:22:07,000 --> 00:22:11,000
+za customerja, ker pač unčlov, ki je takrat puten, je mu naravno
+
+267
+00:22:12,000 --> 00:22:16,000
+pade noter v business hours in je pokrije un spektr in tako
+
+268
+00:22:16,000 --> 00:22:23,000
+dobiš v bistvu poloka, ker hitro odzivne čase. Je pa pač res,
+
+269
+00:22:24,000 --> 00:22:27,000
+da zdaj, ko delam za malo bolj resne stranke, so te stvari
+
+270
+00:22:28,000 --> 00:22:30,000
+tudi bolj definirane, ne, notranje, znotraj organizacije,
+
+271
+00:22:31,000 --> 00:22:34,000
+pa neka kultura, pač v teh manjših, v manjših podjetjih si pa ti
+
+272
+00:22:35,000 --> 00:22:36,000
+v bistvu…
+
+273
+00:22:36,000 --> 00:22:37,000
+Deklica za vse.
+
+274
+00:22:37,000 --> 00:22:40,000
+Ja, pa ti sam sebse taš ekspekteješ nekrati customerom,
+
+275
+00:22:41,000 --> 00:22:42,000
+pač odisno pa posel pustiš.
+
+276
+00:22:43,000 --> 00:22:46,000
+Kaj je ena zanimiva stvar v meni okoli te slekov pa zihrone kulture?
+
+277
+00:22:50,000 --> 00:22:54,000
+Ko delaš v neki pisarni, v neki mali ekipi, te tipične ljudje
+
+278
+00:22:55,000 --> 00:23:00,000
+ščitijo pred zonalnim svetom posla. In zdaj, ko se te organizacije,
+
+279
+00:23:01,000 --> 00:23:04,000
+pač Mars Katelji načnik je od teh parih letih zdaj prišel
+
+280
+00:23:05,000 --> 00:23:09,000
+ali na Teams-e ali na Slack in je v bistvu bolj enotpr vse kanale
+
+281
+00:23:09,000 --> 00:23:15,000
+za celo firmo. In se je v bistvu močno očiti, da ja, tam ljudje govorijo,
+
+282
+00:23:16,000 --> 00:23:20,000
+ampak tako, ko hodaš po nekih pisarnah in greš mi vse na sobe
+
+283
+00:23:21,000 --> 00:23:24,000
+in mogoče delaš kavo in prislišiš del sestanka, ne pomeni,
+
+284
+00:23:25,000 --> 00:23:29,000
+da može takoj iti nekaj sprogramirati ali pa da bojo vse se sula.
+
+285
+00:23:30,000 --> 00:23:34,000
+Tako pomeni, da ko si na nekih Slack kanalih, kjer se sprašuje
+
+286
+00:23:34,000 --> 00:23:40,000
+in debatira stvari, še zmer treba ljudi poseljati procesov pa reči,
+
+287
+00:23:41,000 --> 00:23:46,000
+pač, da vprašajo za mnenjega podašča, se bo pač product pa sales nekaj pogovarjata,
+
+288
+00:23:47,000 --> 00:23:51,000
+na konc dneva je tvoje mesto, da to poveš takrat, ko se dela, ne vem,
+
+289
+00:23:52,000 --> 00:23:56,000
+spring planning, ko se tikete definira. Prej boš samo motul.
+
+290
+00:23:57,000 --> 00:24:02,000
+Mislim, tu pač lahko gremo za to, pa culture kot tako,
+
+291
+00:24:02,000 --> 00:24:08,000
+v znotraj te tematike in ena zadeva je zagotovo ful izvilja,
+
+292
+00:24:09,000 --> 00:24:13,000
+pač eksplicitno ti v Slacku ljudi načelamo ne bojo pisali stvari,
+
+293
+00:24:14,000 --> 00:24:18,000
+ki se pogovarjajo o pivo pa o kavi pa to, veš, ima težko ta nek safe environment
+
+294
+00:24:19,000 --> 00:24:25,000
+narediti ali pa po stvari, da boš zvedel te stvari, kaj se dogaja za res v firmi,
+
+295
+00:24:26,000 --> 00:24:30,000
+kaj je kajakaj vibe v firmi, a firma igre dobro, a veš, te stvari vidim,
+
+296
+00:24:30,000 --> 00:24:34,000
+da je zelo, zelo teško razbrati iz te komunikacijskih kanal,
+
+297
+00:24:35,000 --> 00:24:40,000
+in na neki način potem tudi, če si v nekih management pozicijah,
+
+298
+00:24:41,000 --> 00:24:47,000
+tudi vedeti, da neke stvari moreš eksplicitno povejati sem svojim remote workerjim,
+
+299
+00:24:48,000 --> 00:24:52,000
+ki jo drugače ne bojo enostavno zvedeli, dobro in slabo.
+
+300
+00:24:53,000 --> 00:24:59,000
+Ta del se mi zdi, da je kren tako velik manjko, pa da glede res razberejo,
+
+301
+00:25:00,000 --> 00:25:06,000
+kaj ni pomembno, kljub temu, če da je nekaj napisano ali pa ne ni napisano.
+
+302
+00:25:06,000 --> 00:25:14,000
+Ja, jaz mislim, da je pomembno, da vsaj en del manažmenta redno dela iz neke druge mesta,
+
+303
+00:25:14,000 --> 00:25:20,000
+tako da pa če je tvoj vodija prodajev ali pa tvoj tehničen direktor je v drugo mestu,
+
+304
+00:25:20,000 --> 00:25:26,000
+bo pa v bistvu od zgori na dol prišla ta remote delno SM kultura.
+
+305
+00:25:26,000 --> 00:25:33,000
+Kaj se nam je zgodilo, recimo pri prejšnjem stranki je, ko je postala ta COVID, pa smo šli v remote delo,
+
+306
+00:25:33,000 --> 00:25:39,000
+kaj njih si v dejansko mogo več, remote, ne, pa njih je prišel doma en pač product manager,
+
+307
+00:25:39,000 --> 00:25:46,000
+pa pravi, jaz vas občudujem, fantje, da dejansko lahko funkcionirate s takimi informacijami,
+
+308
+00:25:46,000 --> 00:25:52,000
+pa glih to, kaj ti praviš, da je acknowledge-o, da v bistvu premalje informacij dajo od sebe,
+
+309
+00:25:52,000 --> 00:25:58,000
+in da se dejansko postaviš, tako kot si rekel, da se postaviš v ologo, e, kaj pa moja ljudi res rabijo, da bi lahko delali,
+
+310
+00:25:58,000 --> 00:26:03,000
+kje je manjka informacija, kaj moram povejati, kaj moram pripraviti,
+
+311
+00:26:03,000 --> 00:26:09,000
+koliko naprej moram imeti uvit v poslovne odločitve, da bomo lahko dejansko reagirali na njih,
+
+312
+00:26:09,000 --> 00:26:15,000
+ker potem tudi ljudje ima različen pristop do reševanja problemov, pa prioritetna.
+
+313
+00:26:15,000 --> 00:26:25,000
+Pomaj, zdaj sem se spomnil, Jure, prej je rekel, ja, to je tako malko, da greš tim pohodnikov,
+
+314
+00:26:25,000 --> 00:26:32,000
+pa greš mimo ene sejne sobe, pa poslušaš en del, mislim, čist zraven slišaš, en sej stank ni, ti treba na vse reagirati,
+
+315
+00:26:32,000 --> 00:26:37,000
+pa če ena stvar, ki jo jaz predseg delam, je
+
+316
+00:26:37,000 --> 00:26:45,000
+probam na teh asing stvareh tudi v bistvu mičkan overkomunicirat,
+
+317
+00:26:45,000 --> 00:26:51,000
+pa s tem ne mislim, da pač zdaj folko pišem na private form vstojenih mesečev, pa jih skozi triggeram,
+
+318
+00:26:51,000 --> 00:27:00,000
+ampak na teh javnih kanalih se kar potrudim, no, pa ti skrb napišem, no, odzgori najprej en stav,
+
+319
+00:27:00,000 --> 00:27:07,000
+pa nek wide space, pa pa dam še malo detajlo, mislim, da to ljudje tako ful cenijo,
+
+320
+00:27:07,000 --> 00:27:14,000
+zdaj premeni mogoče spet neka specifika, ampak ne vem, če je neko zdrževalno okno, rečem,
+
+321
+00:27:14,000 --> 00:27:20,000
+e, čez pet minut se bo štartal, ej, zdaj se je štartal, ej, zdaj se bo zaprl, pa vse tam piše, tam piše,
+
+322
+00:27:20,000 --> 00:27:26,000
+kdaj se bo začel, pa končal, sam, to so pač te neke male geste,
+
+323
+00:27:27,000 --> 00:27:32,000
+ko pač ful pomagajo, ful pol že zignorira tist, kar rabeš, je pa res, da pol,
+
+324
+00:27:32,000 --> 00:27:38,000
+ful, včasih sem zelo tako piso, no, kaj da bim pisol kolego SMS-e, pač tri besede pa pošlo še.
+
+325
+00:27:38,000 --> 00:27:43,000
+Zdaj pa, zdaj pa tako prden pošljem, pač napišem, ja, tri besede, ali pa en stav,
+
+326
+00:27:43,000 --> 00:27:48,000
+pa pod spodi pač detail zlopi, če je pa še kaj več napišem,
+
+327
+00:27:48,000 --> 00:27:54,000
+zdaj se pa v bistvu tudi ne lobimo od te neke komunikacije, ne vem, če debateram z nekimi viti,
+
+328
+00:27:54,000 --> 00:28:02,000
+ali pa nekim tem kadrom, mislim, tem pozicijam, to so pač ljudje, so tudi tako ful bizi,
+
+329
+00:28:02,000 --> 00:28:09,000
+pač to so tako ljudje, ki sloh nimajo časa se z mano tam lovit po teh asinkronih,
+
+330
+00:28:09,000 --> 00:28:14,000
+tako da, pa pa tudi dobiš malo počutka, kako ljudje radi konzumeram informacije,
+
+331
+00:28:14,000 --> 00:28:21,000
+se mi zdi, da to je ful pomemben del džoba, pa samo, da se ustaviš pa malo premisliš,
+
+332
+00:28:21,000 --> 00:28:26,000
+kako boš nekaj skomuniciral, ne vem, jaz se doskrat hecam, da ko gremo mi skupaj jesti,
+
+333
+00:28:26,000 --> 00:28:35,000
+pač lahko gledaš na te, na ta, kar je kakar nek state machine in jim lahko v bistvu tri beseda poveš točno,
+
+334
+00:28:35,000 --> 00:28:40,000
+kaj bi rat naročil, lahko pa z njimi v bistvu 15 minut naročuješ, pač zato,
+
+335
+00:28:40,000 --> 00:28:44,000
+kar se ne razumeš, ej, jaz bi trgal na svinino, ja, ali zdaj banse, ali zdaj hamburger,
+
+336
+00:28:44,000 --> 00:28:52,000
+jaz bi trgal na svinino, če pa rečeš Coca-Cola zero, pač specifičen burger in en kufri,
+
+337
+00:28:52,000 --> 00:28:58,000
+bo pa pač ta state machine takoj prišel pravo v stanje, ne, pa se sprača, zdaj ajde,
+
+338
+00:28:58,000 --> 00:29:05,000
+pri restauraciji, če imaš ful čas, res ni to pomembno, ampak tako, kaj pa day-to-day komuniciraš,
+
+339
+00:29:05,000 --> 00:29:10,000
+pa pač malo se vprašaš, kaj je the best way to get your point across, pa tako, da ljudje nimajo preč dela.
+
+340
+00:29:11,000 --> 00:29:12,000
+Boš ti?
+
+341
+00:29:12,000 --> 00:29:18,000
+Ja, jaz bi tukaj v bistvu, ena zadeva, ki lahko to naprej tako znamam, jaz ga vznam tipično je,
+
+342
+00:29:18,000 --> 00:29:25,000
+da napišem dva stavka, pa pa napišem details in thread, bo da šun emoji od threada,
+
+343
+00:29:25,000 --> 00:29:30,000
+in pa noter, in pa ti tudi to del, v bistvu, tako kot email thread, ampak se self-selectajo,
+
+344
+00:29:30,000 --> 00:29:36,000
+kar je ful noro, zato, ker ti pa le tudi v bistvu written record po tvojemu sleku,
+
+345
+00:29:36,000 --> 00:29:42,000
+da čez en let, ko bo nekdo iskul, bo najdu ti stavk, ali pa včasih, kaj je daš vam,
+
+346
+00:29:42,000 --> 00:29:48,000
+pa ljudje treba bolj šutaj, pa bomo tredil. To je ta zadeva. Druga zadeva, pa mislim,
+
+347
+00:29:48,000 --> 00:29:55,000
+da me zanima vajno mnenje, zdaj o tem, kako nekaj RFC je, v bistvu, kako nekaj arhitekturne spremembe
+
+348
+00:29:55,000 --> 00:30:03,000
+vvesti v tako okolju. Moja izkušnja je, da če napišem dokument, pa da ne limam na en tak kanal,
+
+349
+00:30:03,000 --> 00:30:08,000
+ga bojo ljudje ignorirali, ampak mi bojo dovoljili narediti te spremembe. Mislim, ne vidim,
+
+350
+00:30:08,000 --> 00:30:13,000
+da znom ga bojo ignorirali. Če ga pa začnem delati spremembe, se kasnej ta dokument pojavi,
+
+351
+00:30:13,000 --> 00:30:18,000
+potem je pa v bistvu bitka. In zdaj, kako te optine narez, kako je v bistvu dobiti,
+
+352
+00:30:18,000 --> 00:30:21,000
+tudi, da druge strani ljudje to preberejo.
+
+353
+00:30:21,000 --> 00:30:31,000
+Ja, kar sem jaz prakticiral, je pač, mislim, da je RFC, mi smo rekli, da vse ni varno.
+
+354
+00:30:31,000 --> 00:30:38,000
+Znači, nek dokument se napiše in ponavadi tak, pač, produkt, da nek zaktevo, da za nekaj feature se razgledi
+
+355
+00:30:38,000 --> 00:30:43,000
+in potem vsak feature, ki ga bo ekipa delala, more imeti svoj dokument. More biti nek paperwork
+
+356
+00:30:43,000 --> 00:30:47,000
+in v skopu tistega dokumenta je točno specificirano, kaj se je treba razdelati.
+
+357
+00:30:47,000 --> 00:30:55,000
+Od high level overview-a do security aspect-o, do data integrity-a, do private sequence-a.
+
+358
+00:30:55,000 --> 00:31:02,000
+Vsaj feature mora biti razdelan po nekem templetu, ki smo ga pač z lini pa z managementom dorekli
+
+359
+00:31:02,000 --> 00:31:11,000
+in vsaj gre preko tega istega filtra. In pač naloga arhitekta ali pa menedžerja je,
+
+360
+00:31:11,000 --> 00:31:19,000
+da pač preporabi ta draft, da se ta dokument napiše in da se pač ta osnovni jedro,
+
+361
+00:31:19,000 --> 00:31:28,000
+business aspect se napiše skupaj s produktom. To pomeni, da dejansko vsi govorimo v istih pričakovanjih,
+
+362
+00:31:28,000 --> 00:31:36,000
+v istih rezultatih. Potem pa se stavi ponavadi manjša delovna skupina, ki to prebere,
+
+363
+00:31:36,000 --> 00:31:42,000
+pa potem dejansko napiše, ne vem, to bo API, to bo implementacijski detalj na back-endu,
+
+364
+00:31:42,000 --> 00:31:48,000
+to bo implementacijski detalj na front-endu in so dejansko ljudje manjša delovna skupina,
+
+365
+00:31:48,000 --> 00:31:55,000
+potem tehnično ta zadevo prežveči. Potem se pa to predstavi ponavadi.
+
+366
+00:31:55,000 --> 00:32:01,000
+To je nek feature, ki ga bomo delali. Potem, ko smo razdelali tehnično specifikacijo,
+
+367
+00:32:01,000 --> 00:32:08,000
+kaj se bo implementiralo, se tudi lažje izpostavi ta neka časovna estimacija, ki jo moraš dati za product management.
+
+368
+00:32:08,000 --> 00:32:18,000
+In to je ponavadi, se pravi, vsi akteri, od produkta, biznisa, dizajna do tehničnih implementatorjev so se znani
+
+369
+00:32:18,000 --> 00:32:23,000
+s tem dokumentom in vejo, za kaj se gre. Predem gre zadeva v implementacijo.
+
+370
+00:32:23,000 --> 00:32:30,000
+V krati pa paš imaš, v bistvu probaš zlinkati preteklo delo na določenem featureju,
+
+371
+00:32:30,000 --> 00:32:39,000
+pa v krati neke novosti, ki bojo spet refrencirani. Da imaš nek ta cluster sebe, na katerih delaš zgrupiran.
+
+372
+00:32:39,000 --> 00:32:50,000
+Ponavadi je tako, ampak je pa, prišli smo do tega, da zelo eksplicitno zahtevamo, da ti dokumenti mora biti napisani.
+
+373
+00:32:50,000 --> 00:33:01,000
+Celo dokumenti se potem klasificirajo, greva v ta OPEX, CAPEX, se pravi, je to neki operational strošek ali neki kar bo value dodajalo firmi.
+
+374
+00:33:01,000 --> 00:33:11,000
+In mora vse biti na ta dokument vezano. In če greš kot inženir dejati nekaj, kar nima papirja, si v bistvu on your own.
+
+375
+00:33:11,000 --> 00:33:25,000
+Obstaja seveda neka kvota dela, ki ga narediš mimo, ampak načeloma bi tudi to delo moglo biti neke linka.
+
+376
+00:33:25,000 --> 00:33:38,000
+Jaz bi tudi rekel, da hočeš imeti feedback, hočeš imeti feedback o relevantnih ljudi, hočeš imeti dovolj poglobljen feedback,
+
+377
+00:33:38,000 --> 00:33:47,000
+in nikoli ni nič na robe, po moje, če relevantni ljudi dejansko povprašaš, ali imaš feedback, ali si prebral to, kaj misliš o deločelem detalju,
+
+378
+00:33:47,000 --> 00:33:57,000
+in v bistvu na nek način ljudi izzoveš, da ti dajo, a ne, da preberejo, ali pa da jim na nek način preneseš odgovorno, se pravi.
+
+379
+00:33:57,000 --> 00:34:04,000
+Potem se tudi ti jure strenjaš s tem, kar sem napisal dokumentov in posledjič pa postane odgovorno na nek način.
+
+380
+00:34:04,000 --> 00:34:10,000
+Zdaj, če se napišem dokument, pa ga samo vržem, tja ga nobaj ne bo prebral.
+
+381
+00:34:10,000 --> 00:34:18,000
+Kaj lahko poskusiš, če ljudje berajo, da pa če napišeš nek Lorem Ipsom ali pa napišeš nek komentarje, pa boš videl.
+
+382
+00:34:18,000 --> 00:34:23,000
+Če si prebral, to mi pošli mail, pa boš videl, da nobaj ne bo.
+
+383
+00:34:26,000 --> 00:34:31,000
+Ti si še bolj znan, potem, da dobro znaš doksit, kudos na to.
+
+384
+00:34:31,000 --> 00:34:33,000
+Hvala.
+
+385
+00:34:34,000 --> 00:34:36,000
+Hvala.
+
+386
+00:34:38,000 --> 00:34:44,000
+Jaz napisanje dokumentacije ali pa teksta gledam cirka tako.
+
+387
+00:34:44,000 --> 00:34:51,000
+Pač jaz takolj nisem razumel, zakaj v srednji šoli ti pišeš eseje na neko temo, da vem, Kralj na Betajnovi,
+
+388
+00:34:51,000 --> 00:34:57,000
+pa pa starejši, kar sem, v inženiringu bolj razumem, zakaj sem to delal.
+
+389
+00:34:57,000 --> 00:35:03,000
+Pač finta je v bistvu ta, da tvoji možgani imajo noter eno aritmetično enoto pa eno akumulator
+
+390
+00:35:03,000 --> 00:35:10,000
+in potem, ko ti razmišljaš o zelo težkih inženirskih problemih, pa mogoče se v bistvu očisna robo, pa delaš preboj,
+
+391
+00:35:10,000 --> 00:35:15,000
+pa pač beraš najbolj weird tehnične rešitve, najbolj edgy.
+
+392
+00:35:16,000 --> 00:35:20,000
+Rad imam možgani nič kakšen problem, zato kaj še zmer se potem spomnaš,
+
+393
+00:35:20,000 --> 00:35:28,000
+o, mogoče bi pa zdaj radiš Instagram scroll-i in je potem ful težko v bistvu nek state stvorati samo možganih.
+
+394
+00:35:28,000 --> 00:35:36,000
+In potem jaz pač ful rad papir, oziroma pač karkol Markdown file ali pa Confluence page ali pa whatever,
+
+395
+00:35:36,000 --> 00:35:47,000
+uporabljam v bistvu kot nek pripomoček, da mi rada spisati boljši, bolj kvalitetno strategijo ali pa bolj koherentno strategijo,
+
+396
+00:35:48,000 --> 00:35:53,000
+glede nekega problema ali pač karkol, ali pa ne vem, najsegaj neko filozofsko razmišljanje.
+
+397
+00:35:54,000 --> 00:36:01,000
+Vem, da se to zdi ful higher level stil, samo pač meni res pomaga, pač svoje misli organizirati, da lahko pišem.
+
+398
+00:36:02,000 --> 00:36:03,000
+Pač to je prvi point, ki je.
+
+399
+00:36:04,000 --> 00:36:12,000
+Ko delaš v The Mode, če sumam, da bom, jaz imam celko penega dela, ki moram ful enih, jumpati do ful enih ljudi,
+
+400
+00:36:12,000 --> 00:36:19,000
+ki rešujem kakšen legacy ali pa karkol, a ne mislim tako, ok, to je nov feature, prodak hoče to, premeni tako.
+
+401
+00:36:19,000 --> 00:36:26,000
+To je šest let v produkciji, pač pozdene dela, pač najboljši teh sedem deležnikov, ki ti bodo pomagali to rešiti.
+
+402
+00:36:27,000 --> 00:36:38,000
+In pač, če vem, da bom s ful enimi ljudmi govoril, pač v bistvu naredim dokument, not, pišem stvari in pač by reference to kupiram naprej.
+
+403
+00:36:40,000 --> 00:36:42,000
+Pač ljudem še pred sestankom to dam.
+
+404
+00:36:43,000 --> 00:36:49,000
+Ena stvar, ki sem se tudi naučil je, še zmer je imeti boljši dokument, ki ga nobene prebere, kot kar ga sploh ne imeti.
+
+405
+00:36:50,000 --> 00:36:56,000
+Zato, ker doskrat se zgodi, da jaz napišem dokument, pa ga dam prej upranje, pa ga nobene prebere, kamo pač drugo delo,
+
+406
+00:36:57,000 --> 00:37:04,000
+ampak pol napišem v invitu za enkratek sestanku v bistvu, ej, mi bomo sami šli čez ta dokument, in pol ga pač odprem na share-u
+
+407
+00:37:05,000 --> 00:37:10,000
+in pač zdelim v ne točka, ne, in vse ljudje že itak, ljudje, to je ful odvisno od kultura, ne.
+
+408
+00:37:11,000 --> 00:37:13,000
+Nekaj ti bodo rekli, lej, to imi prebrali, pač to je brez zve za miting.
+
+409
+00:37:14,000 --> 00:37:17,000
+Nekaj bodo pa rekli, okej, hvala, ker si mi bukal čas, da lahko jaz zdaj to pogledam.
+
+410
+00:37:18,000 --> 00:37:23,000
+Pač ljudmi, ljudi, ko jaz z njimi delam, imajo po devet ur pač bukano vseje, pa imajo pa 15 minutkov sila.
+
+411
+00:37:25,000 --> 00:37:30,000
+In moraš bukat v bistvu miting, da lahko pač, da se bodo sploh za to tu čas vzeli.
+
+412
+00:37:31,000 --> 00:37:37,000
+Pač to je ena stvar, pa pa načeloma, kar sem se naučil, je ful odvisno od stranke.
+
+413
+00:37:38,000 --> 00:37:45,000
+Naprimer, vsem je ful fajen reči, okej, bomo napisali nek RFC za nek nov feature,
+
+414
+00:37:46,000 --> 00:37:51,000
+ampak, kad delamo nek sas, ful dober, to bomo ali premisli arhitekturo, pa to naredili.
+
+415
+00:37:52,000 --> 00:37:56,000
+Pa pač, ne vem, pri domest pa rečem, cool, zdaj pa premisli, da nisi sas,
+
+416
+00:37:56,000 --> 00:38:04,000
+pa imaš on premeršitev, pa imaš pred 100 stranka na vsaki točki vsej pet različnih verzi tega produkta,
+
+417
+00:38:05,000 --> 00:38:10,000
+pač deplojanja in da pač nimaš pet dokumentov z različnimi verzijami,
+
+418
+00:38:11,000 --> 00:38:16,000
+kjer lahko pač ful radjo stvari trikija, ne.
+
+419
+00:38:17,000 --> 00:38:21,000
+Pač prodakt, že tako težko razume, kako delati deločen produkt.
+
+420
+00:38:21,000 --> 00:38:26,000
+Če pa zdaj govorimo, o, Deutsche Bank ima pa to verzev produkta, pač možda jansko dokumento vzeti.
+
+421
+00:38:27,000 --> 00:38:34,000
+In pa ali v bistvu, pač, če se pa nek skrepi start-up, ko pa zdaj gledi, boš naredil MVP, pa iščeš nek feedback,
+
+422
+00:38:35,000 --> 00:38:38,000
+a res to pač rabiš, pač niti ne, če so pač tri, ne.
+
+423
+00:38:39,000 --> 00:38:42,000
+Tako da je pač ful odvisno, case by case, kaj hočeš dokumentirati.
+
+424
+00:38:43,000 --> 00:38:47,000
+Je pa pač ful pomembno, da so stvari ful crisp, pač da…
+
+425
+00:38:48,000 --> 00:38:52,000
+Hm, jaz ful rad berem user manuale, pa nobenih ne bere.
+
+426
+00:38:53,000 --> 00:38:56,000
+Pač, ki vidim, ki ljudje odprejo škatlo, pa fuknejo ci stran, pardon.
+
+427
+00:38:57,000 --> 00:39:01,000
+In pač ti kot inženjer, ti moraš prebrati vse user manuale.
+
+428
+00:39:02,000 --> 00:39:08,000
+Pač, ki ti si človek, ki boš na koncu tudi mogel komunicirati z normalnimi ljudmi svojo briljantnost,
+
+429
+00:39:09,000 --> 00:39:11,000
+pač to je pač ful velik challenge.
+
+430
+00:39:12,000 --> 00:39:17,000
+In tako, po moje, folg bi mogel prebrati več kode, kaj open source, pa več user manualev bi mogel prebrati.
+
+431
+00:39:18,000 --> 00:39:21,000
+Tako da naslednjič, ko odperjate produkt, da te vzajemte v angliščini, pač, ok,
+
+432
+00:39:22,000 --> 00:39:25,000
+safety instructions, vršte strane, nekaj so copy-pasta, ne.
+
+433
+00:39:26,000 --> 00:39:28,000
+Ampak pač malo preberjate, malo preberjate, pač…
+
+434
+00:39:29,000 --> 00:39:32,000
+In potem naslednjič, na neki točki, če ste software inženjer, se vam bo zgodilo,
+
+435
+00:39:33,000 --> 00:39:35,000
+da bo en rekel, da morate nekaj instruction napisati.
+
+436
+00:39:36,000 --> 00:39:38,000
+Ali za sov inženjerja, ali pa za končno stranko.
+
+437
+00:39:38,000 --> 00:39:42,000
+Jaz bi lahko še dve, ful dobro izkušnje delil.
+
+438
+00:39:43,000 --> 00:39:47,000
+Meni si skazal dve stvari, ful dobro, ful preporočam.
+
+439
+00:39:48,000 --> 00:39:52,000
+Eno iz boljših na kupu, kar sem jih naredil na Macu, je, da sem kupil OmniGrafl.
+
+440
+00:39:53,000 --> 00:39:57,000
+To je ta Microsoft, imam misl na Microsoft Visio, a še to obstaja.
+
+441
+00:39:59,000 --> 00:40:02,000
+Obstaja sicer tudi ta Draw, DRAW.io.
+
+442
+00:40:03,000 --> 00:40:05,000
+Se pravi, te neki tooli za risane skic.
+
+443
+00:40:05,000 --> 00:40:10,000
+Jaz oborabljam tega desktop, ampak, ko imaš nekrat remote ekipo,
+
+444
+00:40:11,000 --> 00:40:16,000
+ko je to v resnici nek ta orodje za hitro skiciranje,
+
+445
+00:40:17,000 --> 00:40:21,000
+ali pa da ideje hitro predstaviš množici, je ful bolj očinkovito,
+
+446
+00:40:22,000 --> 00:40:25,000
+ko ne vem, kake knjige ali pa manuali ali karkoli.
+
+447
+00:40:26,000 --> 00:40:31,000
+Tudi OmniGrafl, pa nek ta sistem arhiviranja vseh tehničnih skic,
+
+448
+00:40:32,000 --> 00:40:35,000
+se je meni skazal zarez ful premik v pravo smer.
+
+449
+00:40:36,000 --> 00:40:38,000
+In imam zdaj res veliko baz vseh teh skic.
+
+450
+00:40:39,000 --> 00:40:42,000
+In potem, ko ne vem, onbordam neke ljudi, že točno vem, kjer je skice,
+
+451
+00:40:43,000 --> 00:40:46,000
+jih naj pokažem, pa jih danesko vidijo.
+
+452
+00:40:47,000 --> 00:40:49,000
+In potem je v bistvu nolažje skomunicirati.
+
+453
+00:40:50,000 --> 00:40:52,000
+In se je tudi način taka baza teh skicov ustvarja.
+
+454
+00:40:53,000 --> 00:40:56,000
+In jaz neke skice danesko poskušam pol rezonirati, pa posodabljati,
+
+455
+00:40:57,000 --> 00:40:59,000
+da imam tudi nek upogled, kaj se je nazaj dogalo.
+
+456
+00:40:59,000 --> 00:41:04,000
+To se je skazalo kot zelo, zelo uporabno pri konverju nekih informacij.
+
+457
+00:41:05,000 --> 00:41:08,000
+Danesko smo se tudi naočili ta tool zelo dobro uporabljati,
+
+458
+00:41:09,000 --> 00:41:11,000
+da ga lahko je zelo hitro skiciran, če imamo nek online sesion,
+
+459
+00:41:12,000 --> 00:41:14,000
+pa te stvari prenaša naprej.
+
+460
+00:41:16,000 --> 00:41:22,000
+Drugi tool je pa pol ta, ko so vsi ti neki izdelki na reti,
+
+461
+00:41:23,000 --> 00:41:25,000
+poskušamo imeti demote.
+
+462
+00:41:26,000 --> 00:41:31,000
+In se je to v bistvu neki sesion, kjer developeri, inženiri,
+
+463
+00:41:32,000 --> 00:41:36,000
+dizajneri, prodag, tudi sales ljudi, kažejo svoje rezultate konstantno.
+
+464
+00:41:37,000 --> 00:41:41,000
+In jaz poskušam vse te prodag fičeri tudi zrekordati.
+
+465
+00:41:42,000 --> 00:41:49,000
+In imam potem v bistvu na YouTubeu arhiv vseh teh produktov,
+
+466
+00:41:50,000 --> 00:41:53,000
+demotov in se danesko vse te zadeve posnamem.
+
+467
+00:41:53,000 --> 00:41:56,000
+In enako, ko prije nekdo, pa ga onboljaš, poskušajo,
+
+468
+00:41:57,000 --> 00:42:00,000
+ej, zakaj je to tako naredilo, reči, lej, tule smo včasih imeli to idejo,
+
+469
+00:42:01,000 --> 00:42:04,000
+in tako je bila implementacija, in ta video danesko pol ostane arhiviran.
+
+470
+00:42:05,000 --> 00:42:07,000
+In danesko, ne bom rekel, da se uporabljam mitingi,
+
+471
+00:42:08,000 --> 00:42:11,000
+čez cele mitinge snimaš, ampak samo tako je zgledal produkt,
+
+472
+00:42:12,000 --> 00:42:15,000
+takrat pa takrat, tako se je obnašal, tako je,
+
+473
+00:42:16,000 --> 00:42:21,000
+in danesko ljudje pol, lahko že vidim, imam cele zbirke teh video posnetkov,
+
+474
+00:42:21,000 --> 00:42:26,000
+in v bistvu zanazaj, eno je te skice prej, pa pol video je potem.
+
+475
+00:42:27,000 --> 00:42:31,000
+Ena kultura na to foro, kot si rekel s YouTubeom, je Loom.
+
+476
+00:42:32,000 --> 00:42:35,000
+Loom.com ti da en tak applet, in imaš,
+
+477
+00:42:36,000 --> 00:42:39,000
+ko ti v bistvu skozi si gor v toolbaru, ga klikneš,
+
+478
+00:42:40,000 --> 00:42:42,000
+in ti pa lomogoča v bistvu do pet minut snimat.
+
+479
+00:42:43,000 --> 00:42:48,000
+V bistvu screen recording-e, in zdaj cel hack je, da rečeš,
+
+480
+00:42:49,000 --> 00:42:52,000
+daj posnem ti ta Loom, pa ga kar šeri v bistvu na slek.
+
+481
+00:42:53,000 --> 00:42:54,000
+Zato, kar…
+
+482
+00:42:55,000 --> 00:42:56,000
+A tudi zvok snema?
+
+483
+00:42:57,000 --> 00:42:59,000
+Tudi zvok, pa tudi en krogač ti da tvojo faco, če hočeš,
+
+484
+00:43:00,000 --> 00:43:04,000
+pa klike ti kaže, pa školko en prokur, v bistvu kot kakakam težan, no.
+
+485
+00:43:05,000 --> 00:43:09,000
+In pol, za razliko od YouTube-a, kaj te problemi so ti pol primišljeni,
+
+486
+00:43:10,000 --> 00:43:14,000
+pa unboarding, je zadeva se prodaje kot pač sas produkt,
+
+487
+00:43:15,000 --> 00:43:16,000
+in je najs.
+
+488
+00:43:17,000 --> 00:43:19,000
+Zato, kar je najs, kar lahko pol v bistvu naučiš support ljudi,
+
+489
+00:43:20,000 --> 00:43:23,000
+da ko reproducirajo bug, posname Loom, QA ljudi,
+
+490
+00:43:24,000 --> 00:43:26,000
+in ten kup, eni zoom v sestanko se ti ne zgodi,
+
+491
+00:43:27,000 --> 00:43:29,000
+zato, kar ljudje preprosto ti pošljajo dvominuten video.
+
+492
+00:43:30,000 --> 00:43:33,000
+Tako, da to je mi bilo, to je mi tako zelo neumiva fora,
+
+493
+00:43:34,000 --> 00:43:37,000
+ko bi se oželel, kakri prejšnji firme imeti, pa takrat za reče ni upostajala.
+
+494
+00:43:38,000 --> 00:43:41,000
+Druga stvar, kar sem pa videl, je zapisanje dokumentov.
+
+495
+00:43:41,000 --> 00:43:47,000
+Ljudje imajo močno mnenje, ampak jih raj razlagajo, kot da bih napisal.
+
+496
+00:43:48,000 --> 00:43:51,000
+In potem je z njimi ful dober imeti zoom sesion,
+
+497
+00:43:52,000 --> 00:43:55,000
+odpreti nek dokument na svojemu screenu, shared screen,
+
+498
+00:43:56,000 --> 00:43:59,000
+in potem pisati bulete za njih.
+
+499
+00:44:00,000 --> 00:44:04,000
+In oni to gledajo in te pač popravljajo, ampak ti pa tipkaš za njih.
+
+500
+00:44:05,000 --> 00:44:07,000
+In potem, ko zaključaš te glavne misli,
+
+501
+00:44:08,000 --> 00:44:11,000
+si kasneje vmira v bistvu na editorijal prosvec,
+
+502
+00:44:12,000 --> 00:44:16,000
+kjer te skupne zapiske spravljaš v nek posedilo počista slavnico.
+
+503
+00:44:17,000 --> 00:44:20,000
+In potem, kar sem gotov, je, da potem, ko so enkrat te stvari napisane,
+
+504
+00:44:21,000 --> 00:44:26,000
+se lahko potem premakneš v neko fazo zbiranja feedbacka in egzekvcije
+
+505
+00:44:27,000 --> 00:44:31,000
+in premakneš ljudi iz tega lupa, ki so lahko tudi zelo dolgo k njemu.
+
+506
+00:44:32,000 --> 00:44:37,000
+Bliho včeraj smo z Juretom govorili, da je pač obstajen ful ugly hack,
+
+507
+00:44:38,000 --> 00:44:41,000
+kjer je ti lahko vtikati, da kdaj napišeš, v bistvu,
+
+508
+00:44:42,000 --> 00:44:45,000
+če ne veš, lahko, da napišeš lažno informacijo,
+
+509
+00:44:46,000 --> 00:44:49,000
+pa če si zemlj na kolu, bodo ljudje triggert, pa jo bodo popravljali prav.
+
+510
+00:44:50,000 --> 00:44:54,000
+To sem upazil, da ljudje tako delajo na men, pač ful je nice,
+
+511
+00:44:55,000 --> 00:44:57,000
+zato kar v bistvu engejčaš ljudi.
+
+512
+00:44:57,000 --> 00:44:59,000
+Da ljudje to kres, da grejo.
+
+513
+00:45:00,000 --> 00:45:03,000
+Tako kot da bi šel na Filofax na Slovenistiko, pa ker ne znam,
+
+514
+00:45:04,000 --> 00:45:07,000
+ker znam ful slovensko, da bi nekaj začel pisati na tablo,
+
+515
+00:45:08,000 --> 00:45:11,000
+bi me ljudje pomohali lahko lajkati na tablo, pa bi mi popravljali pravilno.
+
+516
+00:45:12,000 --> 00:45:15,000
+A pa tako pač nakoncno bi šel v bistvu tudi nek kvaliteten izdelak.
+
+517
+00:45:16,000 --> 00:45:19,000
+To je en tak, how to engage with the crowd, koncept.
+
+518
+00:45:20,000 --> 00:45:25,000
+Ej, jaz bi šel, malo bi šel nazaj na to, pa sej se bom navezal na to,
+
+519
+00:45:25,000 --> 00:45:33,000
+ampak ste bila kdaj v kakjem kolektivu na sleku, ko nekdo napiše neko njemu blažno smešno šalo,
+
+520
+00:45:34,000 --> 00:45:40,000
+a pa prilepi nek mim, neko sliko, potem se je aktivira HR, potem ta slek zgine
+
+521
+00:45:41,000 --> 00:45:49,000
+in potem se ta kultura šal je lahko zelo različna od ekipe do ekipe.
+
+522
+00:45:50,000 --> 00:45:55,000
+Lahko imaš tudi lokalna kultura, da en skup ljubiva kulturo na sleku, pa remote kulturo.
+
+523
+00:45:56,000 --> 00:46:00,000
+In nekaj stvari, ko so nekaj zelo smešne, pa zelo relevantne,
+
+524
+00:46:01,000 --> 00:46:05,000
+nekaj pridejo na zelo neplodno tla, ali pa so lahko čist napačeno.
+
+525
+00:46:06,000 --> 00:46:11,000
+Ampak po drugi strani je to tudi nekaj ta sproščenost na nek način tudi dektira kulturo,
+
+526
+00:46:12,000 --> 00:46:16,000
+ki jo probaš imeti ali pa gojiti.
+
+527
+00:46:17,000 --> 00:46:21,000
+Mislim, iz moje perspektive kot zonarni sodelovec,
+
+528
+00:46:25,000 --> 00:46:31,000
+če si zaposlen, si na boljši pozici kot zonarni sodelovec, ko dela na projektih.
+
+529
+00:46:32,000 --> 00:46:40,000
+Tam se pač, iz moje perspektive, si zelo mejeno lahko prijateljski z ljudmi,
+
+530
+00:46:41,000 --> 00:46:44,000
+pa definitivno moraš imeti odložo profesionalca.
+
+531
+00:46:44,000 --> 00:46:50,000
+Boš biti bolj profesionalen, ko so oni na dober dan, moraš biti na svoj slab dan.
+
+532
+00:46:51,000 --> 00:46:52,000
+Vse je tako profesionalno.
+
+533
+00:46:53,000 --> 00:46:56,000
+To pomeni benih memov, pa tudi emoji so zelo tako.
+
+534
+00:46:57,000 --> 00:47:00,000
+Oni trije smajli, pa mogoče en zadržano sed smajli.
+
+535
+00:47:01,000 --> 00:47:06,000
+Kaj vse ostalo, po mojem mnenju, bo narobe razumljeno.
+
+536
+00:47:07,000 --> 00:47:09,000
+Ja, jaz se čisto in javno.
+
+537
+00:47:10,000 --> 00:47:14,000
+Kaj bo vice versa? Se da bi naredili drugo šalo, pa je vido nista razumeva.
+
+538
+00:47:15,000 --> 00:47:17,000
+Pol pokulturno.
+
+539
+00:47:18,000 --> 00:47:22,000
+Ne vem, jaz sem pri teh stvarih bolj previden.
+
+540
+00:47:23,000 --> 00:47:27,000
+Tudi na tem podcastu, pač, ja, vse ta podcast je pač ful relaks.
+
+541
+00:47:28,000 --> 00:47:32,000
+Samo, nikdo, ko ga zdaj posluša iz ene pisarne, ful ne razume dinamike,
+
+542
+00:47:32,000 --> 00:47:35,000
+ki pač ima ta pisarna, ki pač, ki ti poznaš tako pet let.
+
+543
+00:47:36,000 --> 00:47:40,000
+Če jaz tukaj povem en insajderski čovek, bo to tako ful neprimerno.
+
+544
+00:47:41,000 --> 00:47:42,000
+Za R.
+
+545
+00:47:43,000 --> 00:47:46,000
+Tako da pač, ja, treba biti ful pazljiv.
+
+546
+00:47:47,000 --> 00:47:49,000
+Pač, ne vem.
+
+547
+00:47:50,000 --> 00:47:53,000
+Jaz, če sem pol v nekih kolektivih,
+
+548
+00:47:54,000 --> 00:47:57,000
+kjer je ljudi bolj všeo vsedno poznaš, pa hočeš pokrati neke šale,
+
+549
+00:47:57,000 --> 00:48:02,000
+pali pač bolj zamenjati komunikacijski čanel, če se res ne moraš pomagati.
+
+550
+00:48:03,000 --> 00:48:04,000
+Pač, ok, sploh, ker sem mlajši.
+
+551
+00:48:05,000 --> 00:48:07,000
+Spravi, poleg sleka imaš še Telegram.
+
+552
+00:48:08,000 --> 00:48:09,000
+Ja, pač, dajte, a ne.
+
+553
+00:48:10,000 --> 00:48:15,000
+Ampak, tako, če se res ne morate pač pomagati, se mi zdi, da ne vem,
+
+554
+00:48:16,000 --> 00:48:17,000
+jaz imam če dali manjši rč po temu.
+
+555
+00:48:18,000 --> 00:48:20,000
+Ampak je boljšima drugo platformo kot privatejski čanel.
+
+556
+00:48:21,000 --> 00:48:22,000
+Ja, ne, ne, drugo platformo.
+
+557
+00:48:23,000 --> 00:48:25,000
+Ne, ne, ne, ne, ne, ne, ne, ne, ne, ne, ne, ne, ne, ne, ne, ne, ne, ne, ne.
+
+558
+00:48:25,000 --> 00:48:35,000
+Jaz mislim, da je kar dober assumption, da karkoli napišaš v računalnik, ki ga kontrolira tvoj naročnik,
+
+559
+00:48:36,000 --> 00:48:41,000
+ali pa v app-e, ki ga kontrolira tvoj naročnik, da to je zalogirano forever.
+
+560
+00:48:42,000 --> 00:48:45,000
+Tako, čist hekarsko bom rekel, ej, menj zrihtam sek ops.
+
+561
+00:48:46,000 --> 00:48:48,000
+Pač bot ful paranojičan.
+
+562
+00:48:48,000 --> 00:48:57,000
+Pač tako, da bi hekal neke stvari črno, bolj na črno ali pa sivo, pač tako si pač, če počeš, en meme postati.
+
+563
+00:48:58,000 --> 00:49:00,000
+Ne vem, no, jaz sem, jaz sem avač ful previden.
+
+564
+00:49:01,000 --> 00:49:05,000
+Že tako pride do nekih nerazumevanj, tu pa tang, daj, tako da.
+
+565
+00:49:06,000 --> 00:49:15,000
+Imam še eno, verjetno relevantno ali pa tudi ne, verjetno to vzaj ful poslušam podcast med HR managerji,
+
+566
+00:49:15,000 --> 00:49:21,000
+ki na veliko rekrutirajo ljudi po celem svetu.
+
+567
+00:49:22,000 --> 00:49:28,000
+A mislite, da je remote način dela ali pa remote development način dela za vsakega?
+
+568
+00:49:29,000 --> 00:49:31,000
+A bi komu odsvetovala remote način dela?
+
+569
+00:49:32,000 --> 00:49:33,000
+A moraš biti …
+
+570
+00:49:34,000 --> 00:49:35,000
+Žunjorjem.
+
+571
+00:49:36,000 --> 00:49:38,000
+Manj kot pet let delovnih izkušenj.
+
+572
+00:49:39,000 --> 00:49:41,000
+Dej, malo razlož, zakaj mišljaš.
+
+573
+00:49:42,000 --> 00:49:48,000
+Težko se načiti nekaj te kulture pa pogovorov, če se žunjor.
+
+574
+00:49:49,000 --> 00:49:59,000
+Mislim, da … Zdaj, ta pisarna je imela veliko teh izkušenj, tako skozi Cyber People, kot tudi potem skozi pisarniško delo v pisarnah.
+
+575
+00:50:00,000 --> 00:50:04,640
+in diskusije, ki so se dogajale ob kosilu, ob kavi,
+
+576
+00:50:04,640 --> 00:50:08,320
+jih ne moreš dobiti, če delaš od doma.
+
+577
+00:50:08,320 --> 00:50:14,240
+Kar pomeni, da boš mogoče lahko spremljaš kake diskorde, mogoče najdeš kake sleke, ampak
+
+578
+00:50:14,240 --> 00:50:21,920
+ne dobiš relevantnega hands-on experience in feedbacka od brstnikov, ki mogoče niso tvoji menedžeri.
+
+579
+00:50:22,879 --> 00:50:30,879
+Tako da tukaj nisem prepričan, kako bi onbordo džunjorja v neko zelo remote kulturo.
+
+580
+00:50:32,880 --> 00:50:39,520
+Jaz bi se strinjal. Pa še fulj je bizarno, zato ker mi smo zdaj v Geekatrons.io
+
+581
+00:50:39,520 --> 00:50:43,360
+in smo v bistvu vso co-workerji, kako se ti mora reči?
+
+582
+00:50:43,360 --> 00:50:45,360
+Simri. Simri, ja.
+
+583
+00:50:45,360 --> 00:50:49,680
+In pač doba razlog je zato, da smo tukaj, pač nismo domavci.
+
+584
+00:50:49,759 --> 00:50:55,279
+In sebi premeni en razlog ta, da pač vsi delamo na različnih projektih, ampak pač
+
+585
+00:50:55,279 --> 00:50:59,919
+za me je pač fulj valuable nek ta chitchat, ki ga imamo v obkavah.
+
+586
+00:50:59,919 --> 00:51:07,120
+Če imam neke networking stvari, grem lahko vedno do Andraža, pa ga vprašam.
+
+587
+00:51:07,120 --> 00:51:12,720
+Ej, jaz že fulj časa nisem delal alokacije fulj velikeh omrežje, da mi to malo pomagi.
+
+588
+00:51:12,720 --> 00:51:17,199
+Tako da se vem, da je to malo random, ampak sem zdaj tudi polkazist.
+
+589
+00:51:18,160 --> 00:51:24,959
+Men je skrbi, da če bi jaz delal osamljen doma, na remote, pač pa bi
+
+590
+00:51:26,239 --> 00:51:30,959
+moj bubble bi bil vsa mjesto. Tudi tehnološko, pa kulturno, pa vse.
+
+591
+00:51:30,959 --> 00:51:37,360
+Če delaš pač, če si z nekom še zmer v nekem kolektivu, men to pač fulj pomaga.
+
+592
+00:51:37,360 --> 00:51:43,680
+Tako da jaz delam remote, ampak ne delam od doma, pač to je fulj ta bizarnost, ki jo imam.
+
+593
+00:51:44,480 --> 00:51:54,239
+Ja, jaz se strinjam. Jaz sem vedno pač poskušal, da te ekipe iskati ljudi, ki so bolj izkušeni pa samostojni.
+
+594
+00:51:54,239 --> 00:52:01,599
+Ne bi rekel junior, mid, pa dev, ampak samostojni v stilu, da karkoli bo pač problem,
+
+595
+00:52:01,599 --> 00:52:10,880
+bo do ljude sposobni nekako formulirati, vprašati ali pa dejansko bolj celovito pa široko nastopiti.
+
+596
+00:52:11,119 --> 00:52:16,800
+In za to pač moraš določene veščine osvojiti, to kot se rekel, se popolnoma strinjam.
+
+597
+00:52:18,240 --> 00:52:25,360
+Tako da, ja, težko je tudi mentorstvo ponuditi na remote arrangemente, ampak moraš zelo eksplicitno delati s tem.
+
+598
+00:52:25,360 --> 00:52:29,440
+Ampak ja, to so zagotovo, če si še nek nabor izjel.
+
+599
+00:52:31,919 --> 00:52:33,919
+Ono mi bo že zmanjkalo kartice.
+
+600
+00:52:34,240 --> 00:52:35,360
+Smo v redu.
+
+601
+00:52:35,360 --> 00:52:40,639
+Dobro, potem pa bomo zaključili, pa bomo povabili naše goste, naše poslušalce,
+
+602
+00:52:40,639 --> 00:52:48,479
+če imajo kakve predloge, komentarje, feedback, da se nam javijo, da bomo lažje nadlevali s temi seansami.
+
+603
+00:52:48,479 --> 00:52:50,479
+Vrodo, Jure, hvala lepa.
+
+604
+00:52:50,479 --> 00:52:52,479
+Hvala tegu, dovolj. Čau, čau.

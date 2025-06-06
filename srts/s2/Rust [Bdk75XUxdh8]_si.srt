@@ -1,0 +1,2467 @@
+1
+00:00:00,000 --> 00:00:11,600
+♪
+
+2
+00:00:11,600 --> 00:00:16,000
+Bolj bo vedno na začetku, moram najprej povedati, da imamo Full Fancy Jingle, ki smo ga kupili.
+
+3
+00:00:16,000 --> 00:00:20,000
+Pa ga ljudje že slišijo, pa verjetno zato nas že poznajo preko Jingle.
+
+4
+00:00:20,000 --> 00:00:25,000
+Ampak je, na začetku je vedno 10 sekund, da se lepo vse kamere, da se intro naredijo.
+
+5
+00:00:25,000 --> 00:00:31,000
+Zdaj se je izteklo in zdaj moram narediti najprej lepo predstavitev gostov.
+
+6
+00:00:31,000 --> 00:00:35,000
+Potem za predstavitev gostov bomo pa šli v Koru Sibine.
+
+7
+00:00:35,000 --> 00:00:38,000
+Take ponovadi prete naših ugrodih.
+
+8
+00:00:38,000 --> 00:00:44,000
+Lepo pozdravljeno oba gosta, lepo pozdravljeno vsi, ki nas spremljate v našem podcastu,
+
+9
+00:00:44,000 --> 00:00:48,000
+oziroma na YouTube ali pa preko podcasting platform.
+
+10
+00:00:48,000 --> 00:00:54,000
+Danes bomo probali narediti en tak sproščen pogovor o programskem viziku RAST.
+
+11
+00:00:54,000 --> 00:01:01,000
+Bi se bomo pogovarjati, kaj ta jezik prinešte v ta zabavni sistem programiranja in reševanja problemov.
+
+12
+00:01:01,000 --> 00:01:06,000
+Poskusili bomo nekako poiskati, kaj so te neke prednosti, zakaj bi ga uporablili, zakaj ga ne bi uporablili,
+
+13
+00:01:06,000 --> 00:01:09,000
+kdo ga mogoče uporablja in podobno.
+
+14
+00:01:09,000 --> 00:01:13,000
+Z mano sta danes dva super special gosta.
+
+15
+00:01:13,000 --> 00:01:16,000
+Tukaj preko mene je sedi Simon Žlender.
+
+16
+00:01:16,000 --> 00:01:17,000
+Zdravo.
+
+17
+00:01:17,000 --> 00:01:20,000
+Zdravo Simon in pa Petr Keše.
+
+18
+00:01:20,000 --> 00:01:24,000
+Zdravo, bom še predstavil, pa pa me lahko popravite, če sem nasločeno kaj pozabil.
+
+19
+00:01:24,000 --> 00:01:29,000
+Simon Žlender je senior software engineering manager.
+
+20
+00:01:29,000 --> 00:01:31,000
+Ne senior, ampak ja.
+
+21
+00:01:31,000 --> 00:01:39,000
+Jaz sem si napisal, software engineering manager, ampak po skillsetu si absolutno en izmed top seniorov, ki jih poznam.
+
+22
+00:01:39,000 --> 00:01:45,000
+V kjer je firmi delaš? Ne smem povejati, ker je to, može me otežava, ali kaj?
+
+23
+00:01:45,000 --> 00:01:50,000
+Ja, NDA je, drugače pa nič posebnega.
+
+24
+00:01:50,000 --> 00:01:53,000
+Ne delam za CIA, ne delam za KGB.
+
+25
+00:01:53,000 --> 00:01:55,000
+Finančna industrija je dovolj.
+
+26
+00:01:55,000 --> 00:01:59,000
+Ja, finančna industrija je zelo paranojčna, glede teg zadev, tako da.
+
+27
+00:01:59,000 --> 00:02:02,000
+Ok, bo to moglo biti dovolj.
+
+28
+00:02:02,000 --> 00:02:08,000
+Ob mene je pa Petr Keše. Petr Keše pa trenutno dela v HTTPoolu.
+
+29
+00:02:08,000 --> 00:02:16,000
+Če jaz spravo se postavim, si nekakšen hibrid med data scientistom pa senior inženirjem, arhitektom, ok?
+
+30
+00:02:16,000 --> 00:02:21,000
+Ja, pa v bistvu sem kar vodil zdaj v delah za data science na HTTPoolu.
+
+31
+00:02:21,000 --> 00:02:25,000
+No, tako. Ja, jaz sem Volto Brgles.
+
+32
+00:02:25,000 --> 00:02:35,000
+Oba sem prepeljal zato, ker sta že delala z rastom, delata z rastom, ali pa sta simpatizarja tega jezika.
+
+33
+00:02:35,000 --> 00:02:39,000
+Tako kot verjetno mrsi kdo izmed našega audienca.
+
+34
+00:02:39,000 --> 00:02:50,000
+In provali bomo držati nek ta nivo, kako približati jezik masi, pa pomogoče goriti malo bolj o prejemnostih.
+
+35
+00:02:50,000 --> 00:02:55,000
+Tako da, če ste ultra ekspert za rast, pa smo kako je zadevo narobe povedali, pa spustili,
+
+36
+00:02:55,000 --> 00:02:59,000
+dejte nas potem popraviti, pa bomo še kje dodali.
+
+37
+00:02:59,000 --> 00:03:03,000
+Tako da, to naj bi bil ta intro.
+
+38
+00:03:03,000 --> 00:03:11,000
+Mogoče še vsimo no malo več, jaz sem si tukaj napisal, da si predtem delal v The Labs-o, ker si delal sicer veliko z rubjem.
+
+39
+00:03:11,000 --> 00:03:17,000
+Tako da, tudi v rubi postolote v Sloveniji mi ljudje predvsej poraznajo.
+
+40
+00:03:17,000 --> 00:03:21,000
+Sicer za diplomsko navago sem potem videl, da si delal z Elexirjem.
+
+41
+00:03:21,000 --> 00:03:24,000
+In tudi z Elexirjem mislim, da si do neke projekte delal.
+
+42
+00:03:24,000 --> 00:03:28,000
+Z Elexirjem sem delal tudi na Nightwatchu dve leti po pol.
+
+43
+00:03:29,000 --> 00:03:38,000
+Tam je bil, to je bistvo bila firma, ki skrepa vse te iskalnike, kot so Google, Bing in podobno,
+
+44
+00:03:38,000 --> 00:03:45,000
+in potem v bistvu kaže, kako dobro tvoj page rankira na teh iskalnikih.
+
+45
+00:03:45,000 --> 00:03:49,000
+In ti potem priporoča nekaj zadeve, kako to optimizirati in karkoli.
+
+46
+00:03:49,000 --> 00:03:54,000
+In v bistvu smo ta processing pipeline potem napisali v Elexirju.
+
+47
+00:03:54,000 --> 00:03:56,000
+Nekaj posebnega razloga?
+
+48
+00:03:58,000 --> 00:04:02,000
+Mislim, ta sistem, ki je bil prej, je imel veliko problemov.
+
+49
+00:04:03,000 --> 00:04:06,000
+Ko se zdaj verjetno več ne spomnim, ampak dobro.
+
+50
+00:04:06,000 --> 00:04:08,000
+Je bil dober razlog takrat.
+
+51
+00:04:09,000 --> 00:04:11,000
+Še zdaj, koliko razumem, to zadeval Alfa.
+
+52
+00:04:13,000 --> 00:04:20,000
+Mislim, da poleg rasta pa drugače v jobu uporabljaš veliko kot Kotlin.
+
+53
+00:04:21,000 --> 00:04:25,000
+Kotlin, ja, v bistvu Kotlin sem začel uporabljati na tej firmi, kot sem zdaj,
+
+54
+00:04:25,000 --> 00:04:30,000
+zato kaj v bistvu velik del steka je na JVM-u, torej Java Kotlin.
+
+55
+00:04:32,000 --> 00:04:39,000
+Ampak zaradi performančnih razlogov in latency vse te zadeve so pol začeli po komponentah
+
+56
+00:04:39,000 --> 00:04:41,000
+prepisovati zadevo v rast.
+
+57
+00:04:43,000 --> 00:04:47,000
+Tako da v bistvu se pol tudi mene najelje, da pripomorem pete zadeve.
+
+58
+00:04:48,000 --> 00:04:50,000
+Tako, da mešaš v bistvu ta dveziga?
+
+59
+00:04:51,000 --> 00:04:53,000
+Ja, nekako pol-pol.
+
+60
+00:04:54,000 --> 00:05:00,000
+Ta glavni trading engine, ko ta zadevo vse poganja, je v bistvu napisan v Kotlinu
+
+61
+00:05:00,000 --> 00:05:03,000
+in potem ostali microservices okoli tega so v rastu.
+
+62
+00:05:04,000 --> 00:05:09,000
+Je pa bil tudi nek plan, da se tudi sam trading engine vse leko prepišem,
+
+63
+00:05:09,000 --> 00:05:13,000
+ampak to je pač zelo dolgotrajen proces.
+
+64
+00:05:14,000 --> 00:05:19,000
+Peter, boš mogoče ti najprej povedal, kakaj so tvoje izkušnje z rastom,
+
+65
+00:05:19,000 --> 00:05:23,000
+ali pa kje si ga zaznal, pa bom pol še Simona malo več vprašal v zgodovini.
+
+66
+00:05:25,000 --> 00:05:28,000
+Ja, jaz pravzaprav direktnih izkušenj z rastom nimam.
+
+67
+00:05:31,000 --> 00:05:37,000
+Je pa tako, programski jazik, v katerem sem verjetno življeno največ kode napisal,
+
+68
+00:05:37,000 --> 00:05:38,000
+je bil C++.
+
+69
+00:05:39,000 --> 00:05:45,000
+In ko se je rast pojavil, sem začel v bistvu zelo predvsej podrobno spremljati,
+
+70
+00:05:45,000 --> 00:05:49,000
+to tudi ne vem, takrat enih deset let nazaj, približen.
+
+71
+00:05:51,000 --> 00:05:57,000
+Sem skore redno obravljal mailing liste, pa spremljal pač vse release in to.
+
+72
+00:05:57,000 --> 00:05:59,000
+Predvsej podobno, ceroj.
+
+73
+00:05:59,000 --> 00:06:04,000
+Ja, edin potem nekak pravzaprav nisem imel nobenega taga projekta,
+
+74
+00:06:04,000 --> 00:06:11,000
+da bi v bistvu rast res trebal uporabiti, pač večinoma sem delal nekaj takšne uporabniške
+
+75
+00:06:13,000 --> 00:06:19,000
+ali pa back-end software, kjer se ni bilo treba v bistvu grev za vsak byte-rama
+
+76
+00:06:19,000 --> 00:06:22,000
+ali pa za vsako mikrosekundo po responsih.
+
+77
+00:06:24,000 --> 00:06:30,000
+Boš ti nam povedal, Simon, v meljena sta mailing liste, kje je nastal rast,
+
+78
+00:06:31,000 --> 00:06:37,000
+da je to to malo razložiti, en tak soft intro naredimo najprej.
+
+79
+00:06:37,000 --> 00:06:42,000
+Ja, kje je nastal rast, mislim, ne vem, dobro, če sem zdaj dobro spomnil vseg detajlo,
+
+80
+00:06:43,000 --> 00:06:50,000
+mislim, da to začel ga je Gredon Hoare, kot nek bistvu njegov osebni projekt.
+
+81
+00:06:52,000 --> 00:06:56,000
+In ter na to ne vem, kako dovolj go razvija, prednjič šel z njim Public,
+
+82
+00:06:57,000 --> 00:07:03,000
+ne vem, kdaj je točno šel Public, jaz sem začel spremljati to sceno rasta,
+
+83
+00:07:03,000 --> 00:07:08,000
+tam okol 2.12, 2.13, takrat sem še bil na faksu.
+
+84
+00:07:10,000 --> 00:07:16,000
+In podobno sem jisto spremljal te mailing liste in gledal, kako se ta jezik razvija.
+
+85
+00:07:17,000 --> 00:07:23,000
+Ker pa zelo me je pritegnilo, ker je res bila neka taka inovacija na sceni,
+
+86
+00:07:27,000 --> 00:07:33,000
+ker v bistvu imaš v tem, imaš v bistvu, zato imam zdaj zelo očemo jezike,
+
+87
+00:07:36,000 --> 00:07:40,000
+kot so Java in Python, ko imajo pač interpreter ali pa virtual machine,
+
+88
+00:07:40,000 --> 00:07:43,000
+pač imaš neke te statično kompajljane jezike, ne.
+
+89
+00:07:43,000 --> 00:07:48,000
+In znotraj tega imaš v bistvu dve kategorije, imaš enega, ko imaš jezike,
+
+90
+00:07:48,000 --> 00:07:52,000
+ki so fully managed, torej imajo garbage collector, skrbilo za memory,
+
+91
+00:07:52,000 --> 00:07:55,000
+vse te zadeve in rabiš se s tem ukvarjati.
+
+92
+00:07:56,000 --> 00:08:00,000
+V bistvu ful malo teh jezikov, kot tako pomislim, veš, da nimajo JVM-a
+
+93
+00:08:00,000 --> 00:08:05,000
+in so interpretirani, so statično kompajljani in imajo garbage collector.
+
+94
+00:08:06,000 --> 00:08:11,000
+Dini, ki mi pride na pamet, so, ne vem, OCaml, Haskell, v bistvu takšni jeziki
+
+95
+00:08:11,000 --> 00:08:13,000
+funkcijski po naravi, ne.
+
+96
+00:08:14,000 --> 00:08:20,000
+Pa imaš po drugi strani, imaš pa pol te unmanaged jezike, kot so C, C++,
+
+97
+00:08:20,000 --> 00:08:24,000
+kjer bistvu moraš samo upravljati z spomnilnikom.
+
+98
+00:08:26,000 --> 00:08:29,000
+V bistvu navarno jaz mislim, da, veš, lahko delaš karkoli, lahko bereš
+
+99
+00:08:29,000 --> 00:08:34,000
+iz spomnilnika, ki več ni alociran, lahko dvakrat de-alociraš zadeve,
+
+100
+00:08:34,000 --> 00:08:37,000
+pač svašta se tu lahko dogaja notri.
+
+101
+00:08:38,000 --> 00:08:42,000
+In v bistvu raste na še en tak middle ground, a enči bi rekel middle ground,
+
+102
+00:08:42,000 --> 00:08:47,000
+pa se postavlja neka pravila, ko s temi omajanjami pravili ti v bistvu lahko
+
+103
+00:08:47,000 --> 00:08:54,000
+pišeš programe, tako da so varni in krati ne rabiš garbage collectorja.
+
+104
+00:08:56,000 --> 00:08:58,000
+Ja, v bistvu to deluje samo s temi pravili.
+
+105
+00:08:59,000 --> 00:09:02,000
+Seveda pač ne moreš vsega s tem narediti, ni tako ekspresivno kot,
+
+106
+00:09:03,000 --> 00:09:09,000
+predvsem, ekspresivni pravil je zaraz, ampak znotraj te varnostnih umejitev,
+
+107
+00:09:09,000 --> 00:09:11,000
+pravil, ne moreš vsega narediti.
+
+108
+00:09:12,000 --> 00:09:16,000
+Zato ima pa nek ta unsafe keyword zadeve, ki lahko pa v bistvu imaš
+
+109
+00:09:16,000 --> 00:09:18,000
+na istem nivoju, kot vse delaš stvari, basically.
+
+110
+00:09:19,000 --> 00:09:21,000
+Ampak ja, pač to je bila ta inovacija, ki je razprednesla,
+
+111
+00:09:21,000 --> 00:09:26,000
+ki me je privlekla, da sem začel to raziskovat.
+
+112
+00:09:27,000 --> 00:09:33,000
+Se pravi, da je še vedno ma performance nekega low level-a,
+
+113
+00:09:33,000 --> 00:09:42,000
+nekega C++-a, plus na kompajler nivoju, na nivoju kompajlanja in kup
+
+114
+00:09:42,000 --> 00:09:46,000
+nekih erorij in potencijalnih problemov, detektaš, preventaš in odstraniš.
+
+115
+00:09:46,000 --> 00:09:47,000
+Točno to, ja.
+
+116
+00:09:48,000 --> 00:09:51,000
+Ok, jaz bom samo nadaljeval to, moj prvi vprašanje,
+
+117
+00:09:51,000 --> 00:09:56,000
+v kateri sem se zapisal, ta Gradon, upam, da sem ga pravil,
+
+118
+00:09:57,000 --> 00:10:01,000
+je v bistvu začel ta projekt v sklopu Mozilla Researcha.
+
+119
+00:10:02,000 --> 00:10:06,000
+Se pravi, je to bil Mozilla projekt ali pa pač Mozilla je iskala
+
+120
+00:10:06,000 --> 00:10:10,000
+neke nove tehnologije, preko katerih bi se eliminirali en kup
+
+121
+00:10:10,000 --> 00:10:14,000
+trežav, ki so jih imeli v svojem browser stacku.
+
+122
+00:10:15,000 --> 00:10:21,000
+In večina problemov je prihajala ravno s tega, kar se je rekel pač
+
+123
+00:10:21,000 --> 00:10:25,000
+branjem nekega memory-a, crash-i zaradi nekih pointerjov in podobno.
+
+124
+00:10:26,000 --> 00:10:30,000
+In pač čitno je potreba, to nosi vsak velika, da pač se splače
+
+125
+00:10:30,000 --> 00:10:32,000
+razviti čitno nov jezik.
+
+126
+00:10:32,000 --> 00:10:36,000
+Ja, sploh v brskalnikih je to velik problem, kako v bistvu ekspozaš
+
+127
+00:10:36,000 --> 00:10:43,000
+pač ta run-time sveto, vse JavaScript, vse izvaja na lokalnih mešinah,
+
+128
+00:10:44,000 --> 00:10:47,000
+distribuirano je, pač ti priješ na sajt, ti nalogo da to kodo doli
+
+129
+00:10:47,000 --> 00:10:52,000
+se izvaja, veš, pač res je pomembno, da je ta environment res dobro
+
+130
+00:10:52,000 --> 00:10:54,000
+zaščitil in sandboxan.
+
+131
+00:10:54,000 --> 00:10:59,000
+Togi, ko sem se pripravil na to epizodo, pa že prej sem bravil knjigo
+
+132
+00:10:59,000 --> 00:11:03,000
+Rast in Action in iz tega imam pač sedaj outline te osebine danes.
+
+133
+00:11:04,000 --> 00:11:09,000
+Ta mi piše, da Microsoft Security Response Center in tudi v Chromium
+
+134
+00:11:09,000 --> 00:11:17,000
+Browser Project sugesta, da 70% serious vulnerability o crashu in podobnega
+
+135
+00:11:17,000 --> 00:11:22,000
+je v bistvu izhaja iz invalid access-a v memorija izrad teh jezikov.
+
+136
+00:11:23,000 --> 00:11:30,000
+In to je v bistvu nek ta bullet point, ki izraža potrebo po teh zadevah.
+
+137
+00:11:31,000 --> 00:11:38,000
+In piše še to, še to sem si zapisal, da Rast naj bi eliminiral celo klaso
+
+138
+00:11:38,000 --> 00:11:44,000
+bugov povezanih z to vrsto težav.
+
+139
+00:11:46,000 --> 00:11:51,000
+Dejmo še mogoče malo bolj urisati, pa bom učitel, Petar,
+
+140
+00:11:51,000 --> 00:11:57,000
+malo bolj urisati to razliko med vsemi temi Python-i, pa ne vem,
+
+141
+00:11:57,000 --> 00:12:04,000
+tudi Ruby-e, pa s temi dinamični jeziki, pa ki so pač recimo imajo vzadi
+
+142
+00:12:04,000 --> 00:12:09,000
+en kup nekih mehanizmov, ki ti preprečijo, da bi neke stvari naredil,
+
+143
+00:12:09,000 --> 00:12:15,000
+pa ti dajo malo več tega safety-a, rečemo temu, pa drugi jeziki, ki imajo
+
+144
+00:12:15,000 --> 00:12:20,000
+v bistvu full kontrol, tako smo rekli, CC plus plus assembler, pa low level.
+
+145
+00:12:20,000 --> 00:12:24,000
+Dejmo še malo mogoče nam to razlišiti, ta prostor nam malo razloži,
+
+146
+00:12:24,000 --> 00:12:31,000
+razloži, zakaj ti jeziki obstajajo, ali pa malo nam to razčisna, prosim.
+
+147
+00:12:31,000 --> 00:12:37,000
+Mogoče začel bolj na začetku, srečo imamo to, da smo pravzaprav v bregu
+
+148
+00:12:37,000 --> 00:12:41,000
+najmlajših znanosti praktično, kar je. Računalništvo se je v resnici
+
+149
+00:12:41,000 --> 00:12:46,000
+začelo razvijati nekaj v 30-ih, 40-ih letih, ne prezabravo niti stoletčeni.
+
+150
+00:12:47,000 --> 00:13:02,000
+In na nek način so programski jeziki malo podvrženi nekim malo matematičnim,
+
+151
+00:13:02,000 --> 00:13:10,000
+ali pa computer science, recimo odkritjem nekih uzorcev, ki potem,
+
+152
+00:13:10,000 --> 00:13:14,000
+na začetku so to pač objavljali nekaj člank, večina v bistvu tega
+
+153
+00:13:14,000 --> 00:13:19,000
+computer science, kaj ga zdaj imamo, je bilo v resnici odkrite že približno
+
+154
+00:13:19,000 --> 00:13:25,000
+do leta 70. To zadnje so bile tam nekaj leta 78-70. Ampak te stvari,
+
+155
+00:13:25,000 --> 00:13:29,000
+v bistvu, ko so bile takrat odkrite, zdaj zelo, zelo, zelo počasu
+
+156
+00:13:29,000 --> 00:13:34,000
+se mi zdi, da kapljajo noter v te programske jezike, kaj jih mi uporabljamo.
+
+157
+00:13:37,000 --> 00:13:41,000
+Jaz sem na sceni že za dost dolg časa, da sem začel programirati
+
+158
+00:13:41,000 --> 00:13:47,000
+v BASIC-u in BASIC je imel GOTO. In sem to programiral v 80-ih letih,
+
+159
+00:13:47,000 --> 00:13:52,000
+čeprav je že leta, mislim, da 78, je da ekstra napisal člank
+
+160
+00:13:52,000 --> 00:13:58,000
+GOTO CONSIDERED HARMFUL. In takrat nekako je bilo potem, ne vem,
+
+161
+00:13:58,000 --> 00:14:02,000
+smo šli potem v bistvu s tega BASIC-a na Pascal, ki je imel strukturirano
+
+162
+00:14:02,000 --> 00:14:05,000
+programiranje, pa ni imel GOTO-ja, pa smo videli, da se res v bistvu
+
+163
+00:14:05,000 --> 00:14:11,000
+brez GOTO-ja dela, da dela je to bolj varna koda. Potem naslednja v bistvu
+
+164
+00:14:11,000 --> 00:14:15,000
+stvar, ki je prišla, so bili recimo ti GARBAGE COLLECTOR-i. Java je bil
+
+165
+00:14:15,000 --> 00:14:20,000
+ta prvi v bistvu tak jezik, mislim, ha, Java je bil ta prvi popularen
+
+166
+00:14:20,000 --> 00:14:23,000
+recimo tak jezik. Ta prvi jezik, ki je imel GARBAGE COLLECTOR, je bil
+
+167
+00:14:23,000 --> 00:14:32,000
+LISP leta 58, ampak je trajal potem še 30 let, 40 skor, da so ljudje v bistvu
+
+168
+00:14:32,000 --> 00:14:34,000
+to sprejeli, pa da so v bistvu to…
+
+169
+00:14:34,000 --> 00:14:35,000
+Pre svojim časom, ja.
+
+170
+00:14:35,000 --> 00:14:50,000
+Tako, ne. No in dve take odkriti, recimo, ki tudi še nista v bistvu v večini
+
+171
+00:14:50,000 --> 00:14:55,000
+recimo teh jezikov, ki jih zdaj uporabljajo, so pravzaprav ta Kari Howard
+
+172
+00:14:55,000 --> 00:15:04,000
+izodmorfizan korespondenca, se menuje pa Hindley-Milner sistem tipov, ki
+
+173
+00:15:04,000 --> 00:15:12,000
+omogoča to v bistvu to, da se na nek način, to se prav velikat rečem v bistvu
+
+174
+00:15:12,000 --> 00:15:17,000
+neki STRONGLY TYPE, pa te dinamični jeziki, pa tako naprej, ampak tudi v bistvu
+
+175
+00:15:17,000 --> 00:15:21,000
+pre STRONGLY TYPE je treba razumeti, da je pravzaprav cel ni v tem smislu
+
+176
+00:15:21,000 --> 00:15:28,000
+STRONGLY TYPE, treba napisati nek spremedljiv, kjer ga tipa je, ampak v resnic pa,
+
+177
+00:15:28,000 --> 00:15:36,000
+ko bregu, te domenske kompleksnosti se ne da v tipih izraziti. No in ti tipi,
+
+178
+00:15:36,000 --> 00:15:43,000
+oziroma te matematična in računalniško odkritje, pa če omogočajo to, da ka pišemo
+
+179
+00:15:43,000 --> 00:15:48,000
+kodo, v resnici lahko prvejalnik za nas dela matematičen dokaz, da je ta koda
+
+180
+00:15:48,000 --> 00:15:56,000
+pravilna. In en tak lep primer, kjer problem se da rešiti, kjer bo tudi v bistvu
+
+181
+00:15:56,000 --> 00:16:12,000
+že v prejšnjem stoletju izražen, ne srtovni hor, avtor, da sem že pozabil kjerga jezika,
+
+182
+00:16:13,000 --> 00:16:19,000
+je pač rekel, da on, zdaj pač takrat, ko so napisali ta jezik, so dali notri v bistvu
+
+183
+00:16:19,000 --> 00:16:23,000
+ta nul pointer, ali pa nil v paskalo. In je rekel, to je bila v bistvu ta največja
+
+184
+00:16:23,000 --> 00:16:29,000
+napaka, kar smo vprač. On je rekel multibiljondar mistek, ampak v resnici
+
+185
+00:16:29,000 --> 00:16:40,000
+verjetno triljondar mistek. Še roste. Pa še roste. In zdaj se je v bistvu nekje
+
+186
+00:16:40,000 --> 00:16:45,000
+po letu 2000 praktično, je zdaj rekel, vsi pošteni jeziki, ki so po letu 2000
+
+187
+00:16:45,000 --> 00:16:52,000
+pošli ven, pa upoštevajo v bistvu ta napredek na tej v bistvu type teoriji in tako
+
+188
+00:16:52,000 --> 00:16:58,000
+naprej. To upoštevajo in so pravzaprav tipi, ki so varni, da recimo potem nimaš
+
+189
+00:16:58,000 --> 00:17:03,000
+teh nil pointer excepšno. Zdaj, če ozemeš recimo en jezik, ki je bil napisan prej,
+
+190
+00:17:03,000 --> 00:17:12,000
+ne vem, nek Java script, pa Python, pa C, pa pač še imajo te težave z nil
+
+191
+00:17:12,000 --> 00:17:16,000
+pointeri. Ampak praktično v bistvu vse, kar je recimo tako, če bi rekel, vredenga,
+
+192
+00:17:16,000 --> 00:17:24,000
+kar je kasnejo nastal, to se pravi, zdaj tukaj se pogovarjamo o Rastu, pa Swift,
+
+193
+00:17:24,000 --> 00:17:33,000
+pa Nim, pa Scala, pa F sharp, pa tako naprej. So jeziki v bistvu, ki imajo problem
+
+194
+00:17:33,000 --> 00:17:39,000
+nil pointerja rešen. Če bi rekel, edin tak recimo odpadnik, se pravi, edin jezik,
+
+195
+00:17:39,000 --> 00:17:46,000
+kjer so nekako uspel ignorirati 20 let razvoja v bistvu teh tipov, je Golang.
+
+196
+00:17:46,000 --> 00:17:51,000
+Golang je pač tako, ki je to ignoriral.
+
+197
+00:17:51,000 --> 00:17:53,000
+Namenom?
+
+198
+00:17:53,000 --> 00:17:54,000
+Ja, ne vem, mogoče.
+
+199
+00:17:54,000 --> 00:18:00,000
+Bom ga delal, gledam to, da s Kotlinom pa z Java delaš, ko si to umenil. Peter je umenil
+
+200
+00:18:00,000 --> 00:18:08,000
+garbage collection. A lahko sem tako poveš, kaj je point garbage collection, oziroma
+
+201
+00:18:09,000 --> 00:18:15,000
+kaj ta zadeva je, oziroma kaj se je uporabljala. Za kaj se moče moremo izogniti.
+
+202
+00:18:15,000 --> 00:18:22,000
+Garbage collection, v osnovi, imaš stack in imaš heap. Na stack se nalagajo, se programi
+
+203
+00:18:22,000 --> 00:18:29,000
+zvajate nekaj, ne bom to dobro razložil, ampak v praksi je največji problem, ko moraš
+
+204
+00:18:29,000 --> 00:18:34,000
+nekaj dinamično alocirati, ko ne veš kakšne velikosti je, zato ker gresko zadeva,
+
+205
+00:18:34,000 --> 00:18:44,000
+kaj gresko z interfejs ali kajkoli, moraš navložiti na heap. V bistvu, dokler se ti
+
+206
+00:18:44,000 --> 00:18:50,000
+unikatni lasnik, ko imaš ta pointer na heap, je vse ok. Ti veš, ko gre ta spremljivka
+
+207
+00:18:50,000 --> 00:18:56,000
+out of scope, ti veš, da to zadeva lahko delalociraš, kompajler lahko te delalokacije
+
+208
+00:18:57,000 --> 00:19:04,000
+sam generiraj v stavi, kjer je potrebno, super. Problemi nastanejo, ko ti v bistvu
+
+209
+00:19:04,000 --> 00:19:09,000
+začneš delati kopije in imaš več referenci, jih pošiljaš med Fredi in ne vem karkoli,
+
+210
+00:19:09,000 --> 00:19:15,000
+jih shraniš v nekih strukturah. Potem več, v bistvu statično, ti da moraš pogruntati,
+
+211
+00:19:15,000 --> 00:19:21,000
+a je še vedno obstojna nekaj reference do tega objekta. In garbage collector v bistvu
+
+212
+00:19:21,000 --> 00:19:28,000
+prijeti vnoter in imaš več implementacij tega. Najbolj osnovni, najbolj popularni je
+
+213
+00:19:28,000 --> 00:19:33,000
+nekaj ta varianta, ko v bistvu skanira heap. Torej vsake toliko časa se sprehodi skozi
+
+214
+00:19:33,000 --> 00:19:39,000
+vseh heap in preverja, a so še kakre reference do tega in če jih ni, v bistvu počisti.
+
+215
+00:19:41,000 --> 00:19:48,000
+Problem tega je in mislim, je bolj niščen problem do neke mere, zato ker mislim,
+
+216
+00:19:48,000 --> 00:19:55,000
+da 90% softvera ne bo imela problemov s tem. In to je ta letenca, ker lahko garbage collector
+
+217
+00:19:55,000 --> 00:20:00,000
+v bistvu karkoli vleti, prekina izvajanje programa in pač upravlja ta housekeeping.
+
+218
+00:20:00,000 --> 00:20:04,000
+A to blokira takrat eksekucijo ali kaj?
+
+219
+00:20:04,000 --> 00:20:11,000
+Načeloma ja, imaš ful različnih implementacij, ki imajo različne prednosti, slabosti,
+
+220
+00:20:11,000 --> 00:20:19,000
+ampak načeloma je tako, da ali riskiraš performance, torej če imaš garbage collection,
+
+221
+00:20:19,000 --> 00:20:24,000
+bo zadeva počasnjala ofele ali pa latency, ker rečeš, ok, bom garbage collection
+
+222
+00:20:24,000 --> 00:20:30,000
+bolj redko poganjao, ampak pol, koliko ga bom, bo pač velik latency za nek request,
+
+223
+00:20:30,000 --> 00:20:39,000
+ki ga bo blokiral le časa. In pol je še različne hacke, kako to zadevo optimizirati.
+
+224
+00:20:40,000 --> 00:20:44,000
+Vem, da recimo Java ima ful različnih implementacij garbage collectorja,
+
+225
+00:20:44,000 --> 00:20:50,000
+ful imaš nekih parametrov, ki jih lahko tunjaš. Tudi Go ima zdaj parametri,
+
+226
+00:20:50,000 --> 00:20:56,000
+ki jih lahko tunjaš, ko so dolgo zavračali to idejo v smislu, da oni ne rabijo tega,
+
+227
+00:20:56,000 --> 00:21:01,000
+da pač njihov garbage collector je univerzalen, ampak ni temo tako.
+
+228
+00:21:01,000 --> 00:21:08,000
+Ja, pač garbage collection, ko delaš software na takem nivoju, da je to danesko problem,
+
+229
+00:21:08,000 --> 00:21:11,000
+da pač moreš ga tunjati v praksi.
+
+230
+00:21:11,000 --> 00:21:17,000
+Zdaj smo že dvakrat omenili Go, ta je mogoče vse lahko, odprto vprašanje, če ga bo kdo,
+
+231
+00:21:17,000 --> 00:21:23,000
+velika razlika, kaj, glavna ali pa velika razlika med Rustom pa med Go-jem,
+
+232
+00:21:23,000 --> 00:21:29,000
+je ta nek runtime, ki ga ima Go ali kaj. Tak, ok, postimo sintaksov vse, ampak
+
+233
+00:21:29,000 --> 00:21:32,000
+pravim, da to je neka največja…
+
+234
+00:21:32,000 --> 00:21:39,000
+Mislim, to je ena razlika definitivno, da Go ima runtime, torej Go…
+
+235
+00:21:39,000 --> 00:21:43,000
+Pač v runtime lahko štejmo, I guess, garbage collection.
+
+236
+00:21:43,000 --> 00:21:51,000
+Go ima recimo tudi zadev, ki reče Go-rutine, ko so v bistvu taki nekaj vrsti lightweight
+
+237
+00:21:51,000 --> 00:21:58,000
+lightweight fredi, torej frede, ki niso pravi sistemski fredi, ampak samo Go runtime
+
+238
+00:21:58,000 --> 00:22:04,000
+sistem menedžira, ki reče, ok, za tega pa ženi, pol sviča na drugega te zadeve.
+
+239
+00:22:04,000 --> 00:22:13,000
+Ampak, I guess, največja razlika je po mojem res, da pač Go je, hoče ostati
+
+240
+00:22:13,000 --> 00:22:19,000
+zelo minimalen jezik, kar čist razumem, meni je to čist legit zahteva, pač tudi
+
+241
+00:22:19,000 --> 00:22:24,000
+prednost tega je, da, veš, Go vse lahko naučiš v par dneh, ne.
+
+242
+00:22:25,000 --> 00:22:32,000
+Tako da, z tega razloga, tuji type system je zelo preprost, medtem ko rasteš jo
+
+243
+00:22:32,000 --> 00:22:41,000
+pa napolno v, pač, mi bomo imeli, ne vem kakšne generike, svašta, pač res je,
+
+244
+00:22:41,000 --> 00:22:46,000
+je kompleksen jezik. Ni tako kompleksen kot C++, kot C++ je, ne vem koliko
+
+245
+00:22:46,000 --> 00:22:51,000
+legacy krada vnoter potegno, ne vem koliko, kaj se to skozi temi komiteji dogovare,
+
+246
+00:22:51,000 --> 00:22:58,000
+kako to zadevo razvijali in ima, veš, vsak parti ima neka svoja zahteva,
+
+247
+00:22:58,000 --> 00:23:03,000
+ki jo hoče vnoter spraviti in potem dobiti že ven, pač ta monstra razleti,
+
+248
+00:23:03,000 --> 00:23:06,000
+ko je C++, ampak, dobro, pustimo to.
+
+249
+00:23:06,000 --> 00:23:12,000
+Tu, tu, ok. Se mogoče, če bi potem to bilo naslednje vprašanje, kaj je največja
+
+250
+00:23:12,000 --> 00:23:18,000
+razlika med rastom, pa med, ne vem, C++-om, verjetno bi bilo tudi to, da se zdi
+
+251
+00:23:18,000 --> 00:23:25,000
+na površini, da rast je štarto z nekimi, z nekimi boljšimi ergonomičnimi
+
+252
+00:23:25,000 --> 00:23:32,000
+toolsetom kot takim tudi. Zdi se, da, tako da so vzeli vse te neke spoznanja
+
+253
+00:23:32,000 --> 00:23:37,000
+do zdaj industrije, pa so rekli, tu naprej začnemo, ne bomo ovlekli stvari nazaj.
+
+254
+00:23:37,000 --> 00:23:41,000
+Medtem, ko se mi zdi, da C++ še vedno vidim, da je, sicer se razvija,
+
+255
+00:23:41,000 --> 00:23:46,000
+da se je standard sednajst, pa ne vem kaj, ampak se mi zdi, da je še vedno tak nek
+
+256
+00:23:46,000 --> 00:23:49,000
+clean slate z rastom. Ni to, kot bremen.
+
+257
+00:23:49,000 --> 00:23:54,000
+Predvsem to, da je clean slate, ja. Ker velik del problema C++-a je, da v bistvu
+
+258
+00:23:54,000 --> 00:24:00,000
+inheritev dosti stvari iz C-ja. Čeprav se mi zdi, da tudi, če bi dizajnali C++
+
+259
+00:24:00,000 --> 00:24:06,000
+na novo, bi, pomenim, kopirali dosti stvari iz C++-a. V bistvu zatem nimam
+
+260
+00:24:06,000 --> 00:24:12,000
+dovolj izkušen, da bi lahko rekel, kako se je razvijal C++, ampak ti imaš verjetno bolj.
+
+261
+00:24:12,000 --> 00:24:18,000
+Ne vem, v kateri točki so začeli dodajati te unique pointerje, shared pointerje in te
+
+262
+00:24:18,000 --> 00:24:22,000
+zadeve, ko v bistvu malo spominjajo tudi na te zadeve, ko imajo rast.
+
+263
+00:24:22,000 --> 00:24:26,000
+Predvsem je kasnej potisnega C++. Kasneje, ne. Tako da v vsakem premjeru bi,
+
+264
+00:24:26,000 --> 00:24:32,000
+po mojem, tudi, če bi znova začeli, bi inheritali dosti teh težav iz C-ja.
+
+265
+00:24:32,000 --> 00:24:40,000
+Jaz bi tako rekel, da ti stari jeziki imajo nekaj problemov v tem, da,
+
+266
+00:24:40,000 --> 00:24:45,000
+ko se pojavijo te neke nove koncepti, so bi potem v bistvu željali neke nove koncepte
+
+267
+00:24:45,000 --> 00:24:51,000
+še na to gorno šrafati. In potem imaš zelo veliko načinov, kako isto stvar lahko
+
+268
+00:24:51,000 --> 00:25:00,000
+narediš. In preko, recimo, C++ je pač nekaj jezika, ki ima zelo veliko teh težav s tem.
+
+269
+00:25:00,000 --> 00:25:08,960
+Šo je čez različna geološka obdobja, trija sivra kreda in zdaj pač vsake če nekaj ustal, nekaj povneprej.
+
+270
+00:25:08,960 --> 00:25:15,920
+In zato v bistvu se je tudi pravzaprav, tako prej, ko smo se pogovarjali, kako je to nastalo, kako sem jaz razumel,
+
+271
+00:25:15,920 --> 00:25:22,400
+je ta Gordon Hoare prvi pisal C++ compiler in je rekel, to je na robe.
+
+272
+00:25:22,400 --> 00:25:27,200
+Zdaj znamo narest v bistvu programski jezik, ki je veliko boljši.
+
+273
+00:25:28,160 --> 00:25:34,400
+In veliko teh modernih, čistih, lepih programskih jezikov je nastalo na ta način.
+
+274
+00:25:42,400 --> 00:25:44,400
+Nim? Ako češ umeti.
+
+275
+00:25:44,400 --> 00:25:49,520
+Za nim v resnici ne vem, ampak recimo ...
+
+276
+00:25:49,520 --> 00:25:52,799
+Čakaj, prav moram pogovarjati sosi.
+
+277
+00:25:52,799 --> 00:25:54,799
+Ej, si si napisal.
+
+278
+00:25:54,799 --> 00:25:56,799
+Se pravi, recimo skala.
+
+279
+00:25:56,799 --> 00:26:04,239
+Martin Oderski je prej napisal še en podoben jezik na Java runtime-u, ki se jim naopica.
+
+280
+00:26:04,239 --> 00:26:12,400
+Še predtem je pa on napisal en sistem generikov za Java, ki so potem nastali Java generiki.
+
+281
+00:26:12,400 --> 00:26:18,639
+In potem je pravzaprav videl, aha, z Java se da pridati do semne, ampak če bi te stvari mečka drgače vzel,
+
+282
+00:26:18,639 --> 00:26:29,040
+in že iz sama osnove bi pa lahko napisal veliko manjši in bolj kompleksan jezik in iz tega je potem nastala skala.
+
+283
+00:26:29,040 --> 00:26:38,480
+Jaz sem recimo, meni je všeč F-sharp. Don Sime, ki je autor F-sharpa, on je pravzaprav bil človek, ki je pisal generike za C-sharp.
+
+284
+00:26:39,279 --> 00:26:53,919
+In tako nekako kaže, da ljudje, ki nekako razumejo te sisteme tipov v programskih jezikih, ki vejo, kaj je s tipi, narest potem znajo napisati dobre jezike.
+
+285
+00:26:53,919 --> 00:27:03,279
+Medtem, kad teži je pa vzajten programski jezik, ki že obstaja, pa potem tipe dodati, kar je zdaj zelo popularen.
+
+286
+00:27:03,279 --> 00:27:05,919
+TypeScript, Rust, evo zdaj ima Ruby.
+
+287
+00:27:06,879 --> 00:27:08,880
+Pa tudi Go.
+
+288
+00:27:08,880 --> 00:27:10,880
+Tudi Go, v bistvu je kasnega.
+
+289
+00:27:10,880 --> 00:27:12,880
+Za generike se dodajo.
+
+290
+00:27:12,880 --> 00:27:21,279
+Ja, zdaj eni dobijo v bistvu samo tipe, recimo ne vem, kako gledam, npr. PHP je dovolj tipe, potem se hitro izkaže, da rabiš meč od generike.
+
+291
+00:27:21,279 --> 00:27:31,119
+Potem se vprašaš, ok, do kam bomo šli, bomo naredili higher-kinded types na PHP.
+
+292
+00:27:32,000 --> 00:27:45,039
+Mogoče to, a ne, mogoče sem mečkrat zgrešal v bistvu tukaj point, ne, jaz mislim, da so ti jeziki dobri v bistvu tudi taki, kaj so, oziroma treba se odločiti, do kam iti, ne.
+
+293
+00:27:45,039 --> 00:27:54,080
+Tukaj imam napisane neke cilje Rusta, pa ok, najprej imamo ta safety, pa boš lahko mogoče malo o tem.
+
+294
+00:27:54,240 --> 00:28:03,520
+Pa imamo ta productivity, to je tudi eniz med golov tega jezika, potem kontrol, to smo se malo pogovarjali o tem, kam se da kontrola, potem imamo pa te big featureje.
+
+295
+00:28:03,520 --> 00:28:12,320
+Zdaj, če še gre malo na safety, govorili smo malo o tem, o dangling pointerih, pa o GCC-o, recimo, da je to malo povezano.
+
+296
+00:28:13,199 --> 00:28:27,520
+Pošli malo pa data races, a lahko mogoče nam razložiš, Simon, na kak način Rust poskrebi dani teh data races ali pa, a lahko to malo nam opišeš.
+
+297
+00:28:27,520 --> 00:28:34,960
+Ja, to je zdaj, da postimo v Vesta type safety in samo gremo v memory safety v bistvu.
+
+298
+00:28:35,199 --> 00:28:47,759
+V bistvu, kako Rasta to rašuje je kar zanimivo, ker v bistvu glavna fora Rasta je, da vedno imaš enega ownerja neke spremljivke,
+
+299
+00:28:47,759 --> 00:28:56,399
+ker skaže se, da ko imaš to, je fulj lažje se reznati, kar koli se dogaja okoli tega in potem imaš nekaj zdelov, ki se reče borrowing,
+
+300
+00:28:57,360 --> 00:29:05,360
+v bistvu to je podobno kot, ne vem, C++, ko imaš reference, samo, da v bistvu kompajer je to bolj natančna treka, kako se zadeve barovajo.
+
+301
+00:29:05,360 --> 00:29:19,359
+Torej, ti lahko barovaš neko spremljivko kot, reče se, shared barow, kar pomeni, da je, če je shared barow, ti lahko imaš en pogled, dva pogleda, koliko če si pogledal na to spremljivko,
+
+302
+00:29:19,359 --> 00:29:33,359
+ampak je ne moreš mutirati, potem imaš pa mutable barov, ki pa imaš lahko samo en barov, pa če imaš en mutable bar, ne moreš imeti nobenega, niti shared barov, a samo to eni bar, ki ga lahko imaš.
+
+303
+00:29:33,359 --> 00:29:59,359
+In z temi pravili lahko v bistvu rešiš vrsto zadev, tudi data, ta data res je problem kot vse vmeno, zato, ker basically, če imaš ti samo enga vjura, ko lahko zapisuješ v to spremljivko, pa veš, da noben drug ne more tega gledat takrat,
+
+304
+00:29:59,359 --> 00:30:03,359
+v bistvu imaš mutex, a ne?
+
+305
+00:30:03,359 --> 00:30:05,359
+Terminističen.
+
+306
+00:30:05,359 --> 00:30:17,359
+Ja, oziroma najboljša primarjava v bistvu, če gledaš ta shared barowing, pa mutable barowing, je v bistvu kot nek read-write log, to je lahko, imaš več rederjev, ampak samo enga writerja.
+
+307
+00:30:17,359 --> 00:30:36,359
+Tako da, v bistvu mi je ful zanimivo, kako so ta problem iz single fredenja, kot tudi, veš, s tem baronem, potem ti rekaš, kako, da je lahko zadevo, da je zadevo varno delalocirat znotraj enega freda, predstavljena več fredov.
+
+308
+00:30:37,359 --> 00:30:51,359
+In to, kar omenjaš, to bo kompajler ti povedal, zdaj, ko hočeš uporabljati spremljivko, če hočeš uporabljati, jo moraš barovati, oziroma moraš definirati nek scope ali jo, danes ko kompajler ti povedal.
+
+309
+00:30:51,359 --> 00:31:10,359
+Mislim, ti moraš vedno, podobno kot C++, če ti, veš, vedno lahko diš kopijo spremljivke, lahko pa imaš samo referencov. Ti nočeš kopirati, nočeš premakniti drugam, ti hočeš samo imeti referencov na njo in če hočeš imeti referencov, pač moraš anotirati,
+
+310
+00:31:10,359 --> 00:31:27,359
+recimo, če imaš funkcijo, ki spreme, v katero pesaš pač neko spremljivko, moraš reči, da ta parametr gre preko shared referenca ali pa mutable referenca. Tako biste to anotiraš.
+
+311
+00:31:27,359 --> 00:31:51,359
+Jaz bom zdaj, samo za tiste, ki mogoče ne prihajajo iz C++ sveta, pa bodo zdaj pač, če še niso že učeni, zapravili tega podcasta. Jaz bi samo povedal, da čeprav se vse to, kar se zdaj naštejo, se sliši zelo tako advanced, pa mogoče, če nimaš tog backgrounda, mogoče je malo scary.
+
+312
+00:31:52,359 --> 00:32:02,359
+Kompajler je zelo prijazen, pa ti zelo lepo in ergonomično poveje, kaj delaš in to je the true power vsega tega.
+
+313
+00:32:02,359 --> 00:32:24,359
+Še posebej, res dosti so vložili v ta developer experience, torej, ko imaš problem z baro in vse ti točno pokaže, gledaj, spremljivka je tu, ti si jo barovali tukaj, slikaj si jo barovali tukaj, namoreš je tu. Ne bo ti povedalo, kaj moraš popraviti, ker pač to je zelo odvisno od, kaj hočeš narediti, ampak zelo jasno ti pove, kje je problem.
+
+314
+00:32:25,359 --> 00:32:45,359
+Tu bi te še samo vprašal, tukaj imam še pod safety napisane, par buffer overflowe, iterator invalidation, to so v sredstvici spet neke stvari, ki so jih je možno narediti ravno zaradi tega, ker je dober track, ki je vse stvari uporabljena.
+
+315
+00:32:45,359 --> 00:33:14,359
+Če posebej iterator invalidation, zato ker, mislim, to spet rešiš s tem exclusivity, mutable baroval, shared baroval, slikaj, če ti spremljivaš, če ti spremljivaš arej med tem, ko ga iteriraš, pa ste mislili, cel orej, ne po same z njega, da imate zotroj areja, pol obisli si, seveda, ne držiš tega pravila in bo pač, že kompajler sam po sebi bo to takoj zavrnil.
+
+316
+00:33:15,359 --> 00:33:19,359
+Ok. Mislim, da je to vredno razložiti. Še štike je dodalo.
+
+317
+00:33:20,359 --> 00:33:39,359
+Tako, bom zelo high level poskusil to povedati. Ljudje imamo tipično težave razmišljati o situacijah, kjer se veliko stvari najinkrat dogaja. Zato je ta paralelna koda tako težka.
+
+318
+00:33:40,359 --> 00:33:57,359
+Zdaj, funkcijski jezik je tipična, recimo to reševa na tak način, da poskusja imeti te imutable oziroma nespremljivle podatkovne strukture. Ampak to se izkaže, da je tako ni najboljš za performance.
+
+319
+00:33:57,359 --> 00:34:20,359
+To se pravi, mečkrat bolj počas, tak program teče in rasti potem lahko še 20% hitrejši ali pa 30%. Zdaj, večina jezikov, ali se z tem problemom ne okvarjajo, ti daja nek mutex, funkcijski jezik, ki ti poskusi dati te imutable podatkovne strukture.
+
+320
+00:34:20,359 --> 00:34:43,359
+Rasti pa pravzaprav tak jezik, ki v resnici se kompajler hoče namest tega zavedati, oziroma vsaj deloma. Čisto komplet semanti, ki je včasih težko v razumetu, oziroma tudi kompajler ne more, ampak prideva zelo, zelo blizu, tako da praktično se da pač pisati kodo brez cele serije nekih bugov, ki so sicer nastajali.
+
+321
+00:34:44,359 --> 00:35:03,359
+Mogoče ena stvar, ki smo premirjali rast pa C++, je to, kar sem rekel, da programske jeziki nastajajo v lerjih. C++ je tudi če le kasnej dovolj, v bistvu te generike, to se pravi, tako kot jih zdaj dobiva Golang.
+
+322
+00:35:03,359 --> 00:35:31,359
+Potem se je skazalo, da tudi na teh generikih hočeš imeti neka matematična pravila, da se to nekako algebraječno dogaja. Če je ta C++ nastal še na pol dodaten programski jezik, ki je tudi Turing Komplet, tudi v tem se da kjerkolj softar napisati v praktično teh C++ generikih,
+
+323
+00:35:31,359 --> 00:35:45,359
+ampak potem se ti zgodi to, da najprej se naučiš C, potem C++ in potem se naučiš na nek nečin še enega dodatnega jezika, ki je za to, da znaš C++ kvalitet napisati generike.
+
+324
+00:35:45,359 --> 00:36:09,359
+Sicer je to izjemno močno, ampak raz, ki je prišel kasnej, so se zelo potrudili, da je v resnici tudi ta jezik, v katerem se opisuje generike ali pa vse to metaprogramiranje, da je tudi to v bistvu ista sintaksa kot raz, tako da je na nek način
+
+325
+00:36:09,359 --> 00:36:25,359
+količina novih stvari in konceptov, ki je treba razumeti, če se hočeš naučiti RAST, pravzaprav precej manjša kot za C++. Če prav oboje sta v resnici precej kompleksna jezika.
+
+326
+00:36:25,359 --> 00:36:42,359
+Za tebe, Simon, imamo vprašanje, RASTO compiler je dependa na LLVM. LLVM, ja. A lahko to mogoče malo razložiš. Zdaj, compiler kontakt dependa na drug kompiler. Ok, daj to malo razložiš.
+
+327
+00:36:42,359 --> 00:37:04,359
+Aj to je zelo pomembno vprašanje. V bistvu, ne tudi je zelo nepomembno vprašanje, ampak lahko na hitro razložim. Zdaj, ne vem, če je prav iz RAST-o LLVM kot nek backend, preko katerega pol v bistvu kompila. V bistvu je tako, pač RAST compiler generira LLVM bytecode.
+
+328
+00:37:04,359 --> 00:37:26,359
+To je pač LLVM definiral kot nek bytecode jezik, ki ga potem on dejansko transformira v mašinkodo. Zakaj bi se tega šel? V bistvu je ful uporabno, zdaj, ker ti lahko to vmesno kodo generiraš, ki je ful lažje, malo bolj high level od assemblerja.
+
+329
+00:37:26,359 --> 00:37:52,359
+Če imaš ta LLVM, lahko vse optimizacije, vse te zadeve nadiš na LLVM-o in potem v bistvu več jezikov programiraš, ki samo targetira ta LLVM in potem prepustijo vse te optimizacije, vse te zadeve, ali da hočeš targetati tudi druge platforme kot so ARM ali pa druga arhitektura. Vse to ti pohendla.
+
+330
+00:37:52,359 --> 00:38:08,359
+Se pravi to, da lahko rast kodo kompajlamo, tukaj se je igral z nekimi mikrokontroleri, pa do pa web assembly, ta power pride v bistvu iz LLVM-a in nekaj je, kaj je mogo rast implementirati in zato je to tako powerful.
+
+331
+00:38:08,359 --> 00:38:34,359
+LLVM v bistvu je, tako kot ima, recimo, dotnet pajava, ima ta nekaj svoje bytecode mašine. LLVM je pravzaprav nastol nekje v sredi 90-ih, ko je bilo diplomsko delo od Chrisa Letnerja. To je človek, ki je potem napisal Swift in zdaj piše Mojo, nek runtime za Python.
+
+332
+00:38:34,359 --> 00:38:54,359
+Razlika v bistvu med tem je, da je ta semantika, na kakšen način se piše ta koda za LLVM, je malenkost bolj kompleksna, kot recimo tista od jave, od C-sharp-a pa od teh ostalih stack, teh just-in-time mašin.
+
+333
+00:38:54,359 --> 00:39:21,359
+Ampak je pa zaradi tega lahko se da potem v bistvu generirati koda, ki je potem bistveno boljš, se bistveno lepš prevede potem na sam hardware. Tako da je v resnici potem LLVM na začetku je nastol kot projekt, nekaj custom, te just-in-time neke mašine in teh kompajlerih interfesov.
+
+334
+00:39:21,359 --> 00:39:39,359
+Tako da je pa še le kasnej nastol na to kot nek C pa C++ frontend. Ampak v resnici potem zdaj pač postoji izjemno popularen za cel kup v bistvu frontend-ov. Je pa res, da zdaj mislim, da se da rast kompajler tudi za GCC. To se pravi rast frontend na GCC.
+
+335
+00:39:39,359 --> 00:40:03,359
+Zdaj kot language feature, sem si še to napisal. Če bom malo skočil iz kompajlerja še na jezik. Kot language feature napisal si, da ima tudi pattern matching. Potem meni je bilo zelo zanimivo, ker v bistvu imaš tudi mape pa filtranje.
+
+336
+00:40:03,359 --> 00:40:23,359
+Se pravi neke te higher order funkcije danesko uporabljaš v jeziku, ki je to klovalo. Kar je nekaj, kar je mogoče nenavadno, ker je v C o C++-u, old school C++-u, teh stvari ni bilo. A pa če si go uporabljaš, tam tudi moraš napisati zanko, pa se sprehodiš čez elemente. Je vse bolje.
+
+337
+00:40:23,359 --> 00:40:32,359
+To se mi pa zdi, da je vse en zelo tako visoko produktivno s temi featuremi. Pa mogoče ti malo te featureje upišiš, pa malo poveš, kako ti viš to.
+
+338
+00:40:32,359 --> 00:40:49,359
+To je ena zadelja, ki me je danes pripeljala v RUST, ker jaz sem takrat na Faxu delal z rubijem in meni je to res holy grail, da ti lahko dobiš podatke, povešanjaš eni map, reduce ali samo chainaš neke metode, izprocesiraš.
+
+339
+00:40:49,359 --> 00:41:08,359
+To mi je res takej productivity boost in sem bil res mindblown, ko sem videl, da to lahko danesko narediš v jeziku kot je RUST in te danesko kompajla v tako efficient kodo, kot če bi danesko te zanke šo for loop-e, sampisat, pa motre izstavke vstavlja in kar koli.
+
+340
+00:41:09,359 --> 00:41:13,359
+Pač to mi je res impresivno.
+
+341
+00:41:13,359 --> 00:41:36,359
+Eno zadeljo sem še tudi videl, mogoče tudi povezano s tem, ampak recimo v skali, pač lahko, če hočeš ekstendrat neke zadelje, ki tih jezik kot tako ne potpira, imaš razne makrote in makroti so v bistvu zame neko kodo, ki jo imaš v skali in potem prednjem kompajler kompajla izvedeti iz to kodo, da ti naredi neko dodatno skalo kodo in potem vse skupaj kompajla naprej.
+
+342
+00:41:36,359 --> 00:41:55,359
+In zdaj recimo, ko je skala šla je skala dve na skalo tri, ker je jezik spodaj se spremenil s ti makroti in boš mogel jih revirajtati, če jih uporabljaš. In v skali recimo pravijo makroti, pač ne jih uporabljati, oziroma boljš da veš, za kaj so, da jih uporabljaš.
+
+343
+00:41:55,359 --> 00:42:10,359
+Med tem, ko prirasti se mi pa zdi, da je kratko, pač ko priješ enkrat od nekega problema, ki je mogoče malo en, on piše svoje makrote in posebej, če potem gremo v neke lajberje, se mi zdi, da je bolj nekako spremljivo, da si uporabljaš te makrote.
+
+344
+00:42:10,359 --> 00:42:34,359
+Ja, v bistvu so kar pogosto uporabljene, dosti knjižnice, recimo namej, print, se pravi printene stvari, je v bistvu makro, celo standardni knjižici je kar dosti enih makrotov. Ja, res se kar uporablja, ampak po prvici povedano, meni se zdi, da implementacija makrotov vrastuje precej slabano.
+
+345
+00:42:34,359 --> 00:43:03,359
+Pa če dokler jih samo uporabljaš, je vse super, zato ker tisti, ki jih je napisal, je vse poskrbelo, da je zadaj varno, da se te implementacijne detalje skriti, ker dejansko makroti vrastajo so unhygienic, kar pomeni, če ti ustvarjaš znotraj makrota nekaj, ne vem, spremljivke ali karkoli, bo znotraj tiste kode, kjer je uporabljaš ta makro, vse eno dostopne in ti se moraš res potruditi, da vse te detaile skriješ.
+
+346
+00:43:04,359 --> 00:43:25,359
+Da odpršiš nov blok, ko ne bo dostopen, ko ta makro vstavi. Moraš tudi paziti, če nekdo naredi, če ti uporabiš funkcijo print ali nekaj in nekdo v enem skopu, ko ta makro uporabiš, ima tudi funkcijo print, bo tisto uporabljal.
+
+347
+00:43:26,359 --> 00:43:38,359
+In ti moraš potem vse funkcije, vse strakte ali karkoli uporabljati znotraj tistega makrota, moraš vedno prefikstati z namespacom, da je res iz ruta prihaja.
+
+348
+00:43:39,359 --> 00:43:50,359
+Takšna stvar. Vse je močno, ampak če greš kodobrat, kako ti makroti deluje, je vse samo jaj.
+
+349
+00:43:51,359 --> 00:44:03,359
+Tako da, mislim, imaš tudi nekato full basic makrovarjanto, makro rules se reče, ko lahko ful na hitro nekaj zabiraš, nek makro.
+
+350
+00:44:04,359 --> 00:44:10,359
+Mogoče kot disclaimer, rečem se, še vsem precej boljši, kot pa makro language v ceju.
+
+351
+00:44:10,359 --> 00:44:21,359
+Ja, ja, ok. Vse to ni nek visok standard. C, C basic je samo dobesedno prilepi noter tisto kodo.
+
+352
+00:44:22,359 --> 00:44:34,359
+Ena pomembna stvar, ki se mi zdi prav rasta, prav zavrota, zelo poče se uglesuje, ta zero cost abstraction, to kar si prav zavroti v menju, da lahko pišeš.
+
+353
+00:44:34,359 --> 00:44:40,359
+Tvoj naslednji obvršanje bi ravno bilo, kdo odvaja mi bo razložil zero cost abstraction philosophy.
+
+354
+00:44:41,359 --> 00:44:49,359
+In odlično lahko, ker kaj je to zero cost? Zero cost abstraction philosophy, ki raz to izgovarja.
+
+355
+00:44:50,359 --> 00:44:51,359
+Pa koliko ima stane?
+
+356
+00:44:52,359 --> 00:44:53,359
+Pa koliko me koštaja.
+
+357
+00:44:54,359 --> 00:44:59,359
+Zdaj, jaz bi tako rekel, najprej kaj je abstrakcija.
+
+358
+00:45:02,359 --> 00:45:12,359
+Abstrakcija je prav zavroti pomen, da si ti sam pišeš neke primitive kode, to se pravi, svoje lastne neke keyworde, ki imajo nek pomen.
+
+359
+00:45:12,359 --> 00:45:26,359
+In kad tist pokličeš, v bistvu se zgodi, ne, se zgodi recimo cela neka funkcija zadej, oziroma v normalnih jezikih se zgodi cela funkcija zadej, recimo raz se se pa lahko zgodi, da recimo tist keyword,
+
+360
+00:45:27,359 --> 00:45:35,359
+to se pravi, recimo ta makro, da se v resnici tist kar, že med časom prevajanja, se to pač razpihne v neko kodo.
+
+361
+00:45:36,359 --> 00:45:54,359
+In ker je ta makro jezik v bistvu odrasta mečkrat močnejši, se potem v bistvu lahko v te kodi, ki jo pač ti makro razpihne, še vseeno za dost semantike, za dost informacije, da je potem v bistvu kompajler, potem tist zelo pooptimizira,
+
+362
+00:45:54,359 --> 00:46:14,359
+pa se tist kar je nepotreban zmeče vanj. Zaradi tega je na splošno bistvu lahko pač ta, kaj pa reku, pisanje abstraktne kode v rasto, tipično, da je taka koda, tipično se prevede v veliko hitrejšo kodo, recimo v cebeli sposob.
+
+363
+00:46:14,359 --> 00:46:43,359
+Še en tak zanimiva misl, če bi rekel, recimo en del od tega abstrakcije je to, da si lahko zdefiniraš svoje operatorje. To je zapravo kot primer, recimo, da hočeš zdefinirati svoj tip, ki se imenuje kompleksno število, ki ima realen in imaginaren del, in zdaj hočeš na temi kompleksnimi števili, da ti dela v bistvu cela matematika.
+
+364
+00:46:44,359 --> 00:47:10,359
+Kar pomeni, da možeš redefinirati plus, pa minus, pa krat, pa množenje, pa vse ostalo. In zdaj, različni jeziki imajo različne pristope. C++ je bil recimo en tak jezik, ki je bil to prvi, ki je mogočeval v bistvu to, da si za kjerkolj tip redefinira vse te operatorje, ampak je njih pa imel v bistvu zelo doberga checkinga, kaj gre noter, pa kaj gre ven.
+
+365
+00:47:11,359 --> 00:47:30,359
+In se je to zgodilo zelo implicitno in po tem je lahko nastal en tak …. to je bil verov zelo velik nekih bugov, ki so se potem ljudem …. Nekdo je napisal nek overloading operatorj až nekaj in potem je čist nekaj druge v tistem softuro ena kodak e predelala, kar nekaj nekaj nihala delati.
+
+366
+00:47:30,359 --> 00:47:43,359
+Potem se je pojavljala java, je bila ideja, da to bo za nek jezik, ki bo za neprogramerje, podobno kot je za recimo kone.
+
+367
+00:47:44,359 --> 00:48:01,359
+No, no, čeprav sem prej, da bi se nekoj naučil java je bila ena desetina cenev, da se nekoga nauči C++ in tudi tih bugov je bilo manj.
+
+368
+00:48:01,359 --> 00:48:10,359
+Zdaj pravzaprav se v resnici go na nek podoben način prodaja. Go je nekaj, kar se lahko naučiš čez vikend, pa znaš nekaj na resnič.
+
+369
+00:48:10,359 --> 00:48:24,359
+Ampak v bistvu filozofija teh jezikov je pravzaprav to, da mi ne bomo zdaj ljudem pustili pisati nekih abstrakcij. Mi bomo v bistvu se potrudili, da bojo ljudje pisali čim bolj tako low level kodo.
+
+370
+00:48:24,359 --> 00:48:34,359
+Vsaka stvar bo treba pač neko forzanko narediti, pa tako naprej. Pač vse se nekrat prepiše in tako naprej. Copy paste koda, da bi tako rekel.
+
+371
+00:48:35,359 --> 00:48:47,359
+Ker je mnenje recimo, da je ta človek na teh jezikov java, go in tako naprej ti ne omogoča v bistvu operator overloading, ker se to zdi, da je to preveč zakompliciran, da bi ljudi lahko razumeli.
+
+372
+00:48:47,359 --> 00:48:59,359
+Ampak po drugi strani pa na primer jezika, ki se imenuje Python, ki ima komplet operator overloading in tako naprej, pa za Python nič ne reče, da je to preveč kompleksen jezik.
+
+373
+00:48:59,359 --> 00:49:15,359
+Da se ga ljudje ne bi mogli načeti, ampak da bi pisali. Tako da jaz mislim, da je tukaj z temi operator overloading, da se to super zadeve, ampak ko to napišeš, možeš tudi biti sposoben povedati, za ktere primere potem to velja.
+
+374
+00:49:15,359 --> 00:49:44,359
+Ali pa se pravi, kdaj to lahko se implicitno napravlja, kdaj pa ne. In iz te perspektive, če je jezik zelo dober dizajnan, potem so te abstrakcije, ta možnost, da začneš sam pisati neke strukture jezika in tako naprej,
+
+375
+00:49:44,359 --> 00:49:57,359
+ker ti omogočajo, da namest za nekaj napišeš sto vrstic kode, da napišeš eno vrstico, je izjemno ekspresivno.
+
+376
+00:50:00,000 --> 00:50:08,000
+Zero-cost, oziroma dober primer je Zero-cost abstraction v rastu, po mojem je cel ta async-await
+
+377
+00:50:08,000 --> 00:50:18,000
+sistem, ko so ga napisali, kar na ti dosti je kar pogosta tarča kritike, ker po ene strani imaš
+
+378
+00:50:18,000 --> 00:50:24,000
+goal, ki ima te gorotine in zadeve in v bistvu vse, kar je tam asinkrono, oziroma nima vsega
+
+379
+00:50:24,000 --> 00:50:30,000
+asynkrono delitve, pa če tam je vse sinkrono, samo imaš te lightweight frede, ki se to dogaja.
+
+380
+00:50:30,000 --> 00:50:38,000
+Rast pa, oziroma celo prvi rast je tudi imel te lightweight frede, ampak so ugotovili, da to ni glih
+
+381
+00:50:38,000 --> 00:50:48,000
+ravno Zero-cost abstrakcija. In cel ta async-await so zgradili tako, da ako kompajler vse te
+
+382
+00:50:48,000 --> 00:50:58,000
+await pointe, vse to skompajla v eno strukturo, ki je v bistvu, kako se temu reče, avtomat.
+
+383
+00:50:58,000 --> 00:51:06,000
+Kaj pravi zras? State machine. State machine, ki naredi eno alokacijo, ko zaštartaš to zadevo in takrat
+
+384
+00:51:06,000 --> 00:51:15,000
+ne mora biti več nobena alokacija in razniči, ker pa to samo alociraš. Na tem, ko recimo v goju,
+
+385
+00:51:15,000 --> 00:51:23,000
+ko imaš gorutine, ki so super abstrakcije, ampak pač niso Zero-cost, tam imaš problem, da program ne ve
+
+386
+00:51:23,000 --> 00:51:32,000
+točno, kak velik stack tisti gorutin rabe. V neki točki, če to raste, mora zadevo pauzirati, prekopirati
+
+387
+00:51:32,000 --> 00:51:41,000
+nekam drugam, kjer je plac in potem nadaljevati izvajanje. To se mi zdi en dober primer.
+
+388
+00:51:41,000 --> 00:51:51,000
+Odlično. Zdaj na tej točki, moče lahko vzaj ga popijate malo vode, jaz pa povem, da se zahvalim
+
+389
+00:51:51,000 --> 00:52:01,000
+podpornikom. Na tej točki bi se najlepše zahvalil vsem našim Patreon supporterjem, ki poslušate. Če poslušate,
+
+390
+00:52:01,000 --> 00:52:07,000
+pa se subscribejte na Patreon, dobite te osebine prej predanih. Danes ko vsemu objavimo, to je en premium feature,
+
+391
+00:52:07,000 --> 00:52:17,000
+pa nekaj imamo še dodatnih bobončkov za te podpornike. Na tej točki se moramo zahvaliti tudi podjetju 3FS
+
+392
+00:52:17,000 --> 00:52:26,000
+za podporo in podjetju HumanFrog, ki nas podpirate zdaj, pa tudi vam, ki poslušate. Zdaj gremo še naprej.
+
+393
+00:52:26,000 --> 00:52:45,000
+Na začetku je bil pitch Rasta, da je sistemski programski jezik, ki teče blazno hitro in preprečuje segmentacijske napake,
+
+394
+00:52:45,000 --> 00:52:54,000
+kreše in garantira threat safety. Potem so v pol letu 2018 ta mission statement jezika spremenili in so rekli
+
+395
+00:52:54,000 --> 00:53:01,000
+that we are empowering everyone to build reliable and efficient software. To je nek tak spremenila tega itosa,
+
+396
+00:53:01,000 --> 00:53:13,000
+kako se rastpozicionira. Zdaj na štev primerov uporabe, pa lahko še vedno med zadatkejo kritizirati, ampak najbolj ga uporabljati možda lahko
+
+397
+00:53:13,000 --> 00:53:22,000
+za nekaj CLI urodja, potem ga uporabljamo tudi pri data processingu, uporabljamo ga kot jezik za ekstendanje aplikacij,
+
+398
+00:53:22,000 --> 00:53:34,000
+uporabljamo ga recimo, spravi nek programski jezik poljuben imaš, pa nek odločeno funkcionalnost v Rastu napišeš, pa iz tega poljubenega jezika kličeš Rast recimo kodo.
+
+399
+00:53:34,000 --> 00:53:45,000
+Potem ga uporabljamo v okoljih, kjer so resource constraint environment, se pravi recimo da hočeš res minimalen memory footprint uporabljati za neko aplikacijo,
+
+400
+00:53:45,000 --> 00:53:55,000
+ali pa ko je boot time zelo pomemben in podobno, server side aplikacije, desktop aplikacije, celo mobile aplikacije, web pa zelo veliko je tudi za sistemsko programiranje.
+
+401
+00:53:55,000 --> 00:53:58,000
+Zdaj, a še bodo kaj dodala to notre?
+
+402
+00:53:58,000 --> 00:53:59,000
+Praktično vse.
+
+403
+00:53:59,000 --> 00:54:03,000
+Praktično vse, kar sem že poznaval, ja.
+
+404
+00:54:04,000 --> 00:54:10,000
+Posle si še pa napisal tako dva zanimive novice, ali pa kdo uporablja Rast.
+
+405
+00:54:10,000 --> 00:54:25,000
+Se pravi Rast for Linux, en zelo zanimiv projekt, mogoče bo ta vijaka več o tem povedala in sicer leta 2020 so na Linux kernel mailing listi povedali,
+
+406
+00:54:25,000 --> 00:54:39,000
+da bo Rast tudi en izmed jezikov, katerim bo šla hkdansko piso Linux kernel oziroma njegove module in tudi začelo se nakres pisanjem driverim od Linuxa 5.20
+
+407
+00:54:39,000 --> 00:54:45,000
+oziroma kasneje premenjalnega 6 neki je Rast tudi en izmed jezikov v Linux kernelu.
+
+408
+00:54:45,000 --> 00:54:47,000
+Jaz sem to pravilno povedal vse.
+
+409
+00:54:47,000 --> 00:54:50,000
+Pa če se namotim jo tudi zdaj v Windowsih?
+
+410
+00:54:50,000 --> 00:54:52,000
+To pa je moj naslednji bullet point.
+
+411
+00:54:53,000 --> 00:54:55,000
+Si ti dovolj vprašanje že brej.
+
+412
+00:54:57,000 --> 00:55:04,000
+Potem na Microsoft Tech blogu je bil tudi nek blog post naslov In Rust We Trust.
+
+413
+00:55:04,000 --> 00:55:14,000
+Microsoft Azure CTO je rekel, da C in C++ v vrstnici bodo zamenjali long term z Rastom kot takim.
+
+414
+00:55:14,000 --> 00:55:28,000
+In da imaš zdaj v novejših vrstnih Windowsov, se že začeli neke korservejse spreminjati v Rast in nekaj library obodensko že prepisanih v Rast.
+
+415
+00:55:28,000 --> 00:55:37,000
+Vse to, kaj sem pomenul, so taki PR, marketinjski članki, tako da vse skupaj z reservom, ampak odensko lahko preverite in zgoogljate.
+
+416
+00:55:37,000 --> 00:55:46,000
+Hočem povejati, da danes, če Lajno Storvalc reče, da bo dovoljiv v Rast v Linux krnelo, se mi zdi, da je to en tak big step.
+
+417
+00:55:46,000 --> 00:55:52,000
+Posebej Linux, ker je bilo izjemno, izjemno proti temu, da bi dal karko C++ anotar.
+
+418
+00:55:52,000 --> 00:55:54,000
+Kaj zga razumem.
+
+419
+00:55:54,000 --> 00:56:03,000
+Ampak se pravi, da danes smo preskočili v Linux krnelo iz C++, pa smo šli iz C na Rast.
+
+420
+00:56:04,000 --> 00:56:09,000
+Jaz tako nekako to pa zvem na iOS-u.
+
+421
+00:56:09,000 --> 00:56:14,000
+iOS je bil, oziroma tudi ta Apple-ov...
+
+422
+00:56:14,000 --> 00:56:17,000
+Mobil ekosistem.
+
+423
+00:56:17,000 --> 00:56:19,000
+Ne samo mobil, tudi v bistvu ta desktop.
+
+424
+00:56:19,000 --> 00:56:23,000
+Je bil originalno napisano za nekim Objective-C.
+
+425
+00:56:23,000 --> 00:56:30,000
+Na kar se je potem pojavljal Swift, ki je bil pravzaprav velik korak naprej ljudi na Objective-C.
+
+426
+00:56:31,000 --> 00:56:39,000
+In komplet ta ekosistema je v bistvu na zelo lep način zmigriral potem na Swift.
+
+427
+00:56:41,000 --> 00:56:44,000
+In vsi so na boljšem.
+
+428
+00:56:44,000 --> 00:56:52,000
+Tako nekako zdi se, da Rast je za dost kompatibilen v bistvu z ostalo infrastrukturo.
+
+429
+00:56:53,000 --> 00:57:00,000
+Da se da vse obstoječo C kodo za C++ malo manj uporabijo tudi v Rastu.
+
+430
+00:57:00,000 --> 00:57:07,000
+In se zdi, mislim tako, toliko je nekih benefitov, prednosti Rasta.
+
+431
+00:57:07,000 --> 00:57:16,000
+Da je edino logično, da so ta svet sistemskega programiranja preselili na to.
+
+432
+00:57:16,000 --> 00:57:22,000
+Pa verjetno, glede na ekspresivnost Rasta, mogoče tudi ne samo sistemsko programiranje,
+
+433
+00:57:22,000 --> 00:57:28,000
+ampak pravzaprav povsod, kjer si umjena s časoma in sporabo pomnenika.
+
+434
+00:57:29,000 --> 00:57:33,000
+Še prav mi je zanimivo, specifično v velik skrnelu se mi zdi, da ima Rast ...
+
+435
+00:57:33,000 --> 00:57:37,000
+Ne vem, kako se bo točno obneslo, ker imajo ...
+
+436
+00:57:37,000 --> 00:57:43,000
+Pa če je nek ta impedance mismatch, ker Rast je ful delan na tem safety-u,
+
+437
+00:57:43,000 --> 00:57:49,000
+kar koli, pa če so ene zadeve, ko daneska ne moreš statično ugotoviti.
+
+438
+00:57:49,000 --> 00:57:55,000
+In pa če edino, kako preprečiš kodo, je, da abortaš, panikaš.
+
+439
+00:57:55,000 --> 00:57:58,000
+Ampak v velik skrnelu tega ne moreš narediti.
+
+440
+00:57:58,000 --> 00:58:01,000
+In tudi Torvald si je prepovedal to.
+
+441
+00:58:01,000 --> 00:58:09,000
+In razlog za to je, ker ko prihodijo napake, ti v bistvu hočeš, da se ta napaka reporta,
+
+442
+00:58:09,000 --> 00:58:14,000
+da je nekaj zalogireno in to more iti skozi nekoliko driverjev.
+
+443
+00:58:14,000 --> 00:58:17,000
+A veš, ker to na koncu mora pristati na disko zapisano.
+
+444
+00:58:17,000 --> 00:58:22,000
+In če ti takoj panikaš, krnel, kam si bo to zapisal, a ne?
+
+445
+00:58:22,000 --> 00:58:24,000
+In tu je malo mismatch.
+
+446
+00:58:24,000 --> 00:58:28,000
+In ne vem točno, kako to rešujejo, ampak se mi zdi kar zanimivo problem.
+
+447
+00:58:28,000 --> 00:58:32,000
+Zdaj v Rast staja nek ta.
+
+448
+00:58:32,000 --> 00:58:37,000
+Ko skore joke, pa če je nekaj počasno, try rewriting it in Rast.
+
+449
+00:58:38,000 --> 00:58:40,000
+Nima pa joke.
+
+450
+00:58:40,000 --> 00:58:44,000
+Pa bi to jaz, bom simena izval.
+
+451
+00:58:44,000 --> 00:58:50,000
+A nam lahko poveš še nekaj downside-ov, ki jih vidiš recimo v Rastu?
+
+452
+00:58:50,000 --> 00:58:54,000
+Prv kot prvo, mislim, da vsako stvar, ko jih writeš, je v drugo hitrejša.
+
+453
+00:58:54,000 --> 00:58:56,000
+Tudi če v istem jeziku.
+
+454
+00:59:02,000 --> 00:59:04,000
+Kaj so downside-i?
+
+455
+00:59:04,000 --> 00:59:07,000
+Ja, definitivno.
+
+456
+00:59:07,000 --> 00:59:10,000
+Pač ne vem, če mi je bila zadeva prenapisana.
+
+457
+00:59:10,000 --> 00:59:15,000
+Ampak Rast ni... Je kar high-level jezik, ampak vseeno ni tak produktiven,
+
+458
+00:59:15,000 --> 00:59:20,000
+kot če boš vzel, ne vem, kaj bolj modern jezik od Skala,
+
+459
+00:59:20,000 --> 00:59:25,000
+ali pa, ne vem, ti gledaš F-Sharp, če se namutim.
+
+460
+00:59:25,000 --> 00:59:30,000
+Pač ja, ker se moraš bojevat skozi tem, baro očekajam,
+
+461
+00:59:30,000 --> 00:59:35,000
+kako si sposojaš te spremenilke, vse te zadeve.
+
+462
+00:59:35,000 --> 00:59:40,000
+Pol learning curve je kar velik.
+
+463
+00:59:40,000 --> 00:59:43,000
+Jaz sem bolj tip človek, ako ne gre čez knjigo, ampak danes,
+
+464
+00:59:43,000 --> 00:59:47,000
+ko gre programirati in pač se naučim, ko se morem.
+
+465
+00:59:47,000 --> 00:59:51,000
+Kaj pomenem, da v prvo, minirata je zadeva najlepša.
+
+466
+00:59:53,000 --> 00:59:55,000
+Kaj še?
+
+467
+00:59:55,000 --> 01:00:02,000
+Moj experience je tak, še vedno sem lahko naredil neki stvari,
+
+468
+01:00:02,000 --> 01:00:07,000
+se fajta skompajram, ampak še vedno tudi, kot čisti,
+
+469
+01:00:07,000 --> 01:00:10,000
+ok, izkušen programer, ampak never Rast bo še nekaj lahko naredil,
+
+470
+01:00:10,000 --> 01:00:14,000
+jaz imam ful tak, da še vedno mogem gočiti, kot si rekel,
+
+471
+01:00:14,000 --> 01:00:17,000
+ne bo ravno lepo, pa elegantno.
+
+472
+01:00:17,000 --> 01:00:22,000
+Dosti stvari lahko rešiš enostavno tak, da, ok, baro očakaj me zajebava,
+
+473
+01:00:22,000 --> 01:00:25,000
+bom naredil pač kopij od tega.
+
+474
+01:00:25,000 --> 01:00:28,000
+Pač ne bo najhitreje, ni lepo, ampak se da.
+
+475
+01:00:28,000 --> 01:00:32,000
+Pol, dosti problemov je v bistvu kar simple, recimo,
+
+476
+01:00:32,000 --> 01:00:37,000
+če pišeš nek celi tool, verjetno imaš samo en thread.
+
+477
+01:00:37,000 --> 01:00:41,000
+Takrat, ko imaš samo en thread, so zadeve ful lažje v Rastu.
+
+478
+01:00:41,000 --> 01:00:45,000
+A pa recimo, HTTP requesti, ko prihajajo, pač to je,
+
+479
+01:00:45,000 --> 01:00:49,000
+a veš, skozi en thread, pač to je,
+
+480
+01:00:50,000 --> 01:00:53,000
+ne rabi se toliko bojevati s tem.
+
+481
+01:00:53,000 --> 01:00:56,000
+Dosti postane svedi kompliciranje, ko imaš več threada,
+
+482
+01:00:56,000 --> 01:00:59,000
+ali pa moraš hraniti nek state, pa to, ker pa moraš dnevno razmišljati,
+
+483
+01:00:59,000 --> 01:01:04,000
+kdo je lasnik tega in če se mora ta dva threada neko zadevo lastiti,
+
+484
+01:01:04,000 --> 01:01:07,000
+pa če kdo je pol lasnik tega.
+
+485
+01:01:07,000 --> 01:01:11,000
+Seveda imaš potem neke podatkovne strukture, ki ti to pa nastavijo,
+
+486
+01:01:11,000 --> 01:01:15,000
+pač neke te reference counting type,
+
+487
+01:01:15,000 --> 01:01:19,000
+ko je tip, ki vsakeč, ko se zadevo sposojiš, ima note neke counter,
+
+488
+01:01:19,000 --> 01:01:26,000
+ki ga prišteje plus ena in potem, ko gre iz scope-a, odšteje ena
+
+489
+01:01:26,000 --> 01:01:30,000
+in ko prije na nulo, pač polveda lahko delalocira.
+
+490
+01:01:31,000 --> 01:01:36,000
+Ej, ko sem se igral z Rastom, so ti pošiljali eksemple,
+
+491
+01:01:36,000 --> 01:01:40,000
+mislim, da je prosto za review-e, tako da hvala za to.
+
+492
+01:01:40,000 --> 01:01:45,000
+Ampak tam si mi poslal en blog post oziroma neka knjiga.
+
+493
+01:01:45,000 --> 01:01:50,000
+Se pravi, v Pythonu obstaja knjiga Learn Python the Hard Way.
+
+494
+01:01:50,000 --> 01:01:54,000
+V Rast svetu pa obstaja neka blog post oziroma ta knjiga,
+
+495
+01:01:54,000 --> 01:01:58,000
+ki je, kako implementirati svoj double linked list.
+
+496
+01:02:00,000 --> 01:02:04,000
+To je en tak mim, bistvo, da je razložil to.
+
+497
+01:02:04,000 --> 01:02:09,000
+Zato, ker bistvo dosti teh C++ programarjev, ko pride v Rast,
+
+498
+01:02:09,000 --> 01:02:14,000
+pa C++ dosti krat moraš sam implementirati svoje podatkovne strukture,
+
+499
+01:02:14,000 --> 01:02:21,000
+zato, ker ves ta tooling, kako privlečiš lajberje noter v celim C++, je res slab.
+
+500
+01:02:21,000 --> 01:02:25,000
+Tako, da dosti krat pač folk ali napiše svoje podatkovne strukture,
+
+501
+01:02:25,000 --> 01:02:27,000
+ali pa skopira kodo noter ali karkoli.
+
+502
+01:02:27,000 --> 01:02:30,000
+In ko folk prije na Rast, pač prva, isto naredite tam.
+
+503
+01:02:30,000 --> 01:02:33,000
+In pač v Rastu je to zelo težko.
+
+504
+01:02:33,000 --> 01:02:37,000
+Vse podatkovne strukture, ki so, kako bi rekel,
+
+505
+01:02:37,000 --> 01:02:38,000
+rekruzivne.
+
+506
+01:02:38,000 --> 01:02:40,000
+Rekruzivne, torej double linked list.
+
+507
+01:02:40,000 --> 01:02:45,000
+Imaš en note, ki je linka na drugega in potem on nazaj na ta prvega.
+
+508
+01:02:45,000 --> 01:02:49,000
+Takoj, ko imaš te cikle, je postane zadeva zelo zakomplicirana.
+
+509
+01:02:49,000 --> 01:02:55,000
+In ja, ok, lahko si s temi reference country vse to nekako rešuješ,
+
+510
+01:02:55,000 --> 01:03:01,000
+ampak na koncu, če hočeš zdaj jo performančno moreš iti v unsafe world,
+
+511
+01:03:01,000 --> 01:03:04,000
+pač Rast je to omogoča, da vse krat celo,
+
+512
+01:03:04,000 --> 01:03:08,000
+kaj lahko narediti cel, lahko tudi Rast, ampak je pač unsafe.
+
+513
+01:03:08,000 --> 01:03:13,000
+In ta unsafe blok, ok, imaš unsafe keyboard in vse kaj znotraj
+
+514
+01:03:13,000 --> 01:03:17,000
+tega unsafe keyboard bloka, pač lahko praktično karkoli počinaš.
+
+515
+01:03:17,000 --> 01:03:19,000
+Mislim, slošne nekaj basic pravila.
+
+516
+01:03:19,000 --> 01:03:21,000
+On your own risk.
+
+517
+01:03:21,000 --> 01:03:29,000
+Ampak mi je všeč zato, ker bistvo ti zapakiraš tisti unsafe del
+
+518
+01:03:29,000 --> 01:03:33,000
+samo v tisti blok in potem veš, da vse kaj zunaj tega je ok.
+
+519
+01:03:33,000 --> 01:03:38,000
+Potem, ko vcejo c++ je to, pač, ja, trash.
+
+520
+01:03:38,000 --> 01:03:42,000
+Kjekoli bi lahko kaj zdaj lahko unsafe.
+
+521
+01:03:43,000 --> 01:03:46,000
+Da, počasi zaključimo.
+
+522
+01:03:46,000 --> 01:03:54,000
+Bom zdaj vajo še vprašal ena velika prednost, recimo, JVM-a,
+
+523
+01:03:54,000 --> 01:03:59,000
+ali pa jeziku, ki so dependeni na JVM-e, da imaš dostop do ogromne korečine
+
+524
+01:03:59,000 --> 01:04:03,000
+library-o, ki so na reti, ne vem, spravi iz Sky ali pa iz Clojure.
+
+525
+01:04:03,000 --> 01:04:06,000
+Ja, lahko, ne vem, vse Java library-o v snici uporabljaš.
+
+526
+01:04:06,000 --> 01:04:09,000
+In to, recimo, je velika prednost tudi.
+
+527
+01:04:10,000 --> 01:04:15,000
+Zdaj, Rust ima eno zadevo, ki se reče cargo, iz katerega, bistvo,
+
+528
+01:04:15,000 --> 01:04:20,000
+menedžiraš projekt, pa mu dodajaš noter builder z njemu tudi,
+
+529
+01:04:20,000 --> 01:04:25,000
+oziroma, prek njega compiler kličeš, tudi začneš projekt,
+
+530
+01:04:25,000 --> 01:04:29,000
+update-aš projekt, glavnem cargo je ti stul, ki ga moraš med čivoče zrastem delati.
+
+531
+01:04:29,000 --> 01:04:36,000
+In moduli, ki jih inštaliraš, ki nisi, recimo, sam napisal, jih dodajaš v projekt
+
+532
+01:04:36,000 --> 01:04:39,000
+tudi preko cargota in te moduli se imenujo crate-i.
+
+533
+01:04:39,000 --> 01:04:47,000
+In mojo vprašanje vama bo zdaj, če imate kakšne najljubše te crate-e,
+
+534
+01:04:47,000 --> 01:04:53,000
+ki jih uporabljate, da mogoče mi jih predstavite ali pa povedete zgolj.
+
+535
+01:04:53,000 --> 01:04:56,000
+Zgolj. Meni je definitivno, in tega si ti že imel na listu,
+
+536
+01:04:56,000 --> 01:05:00,000
+ker očitno smo prišli do istega zaključka, ampak meni najljubši
+
+537
+01:05:00,000 --> 01:05:06,000
+je definitivno je clap, ki je v bistvu knjižnica, ki ti pomaga pisati
+
+538
+01:05:06,000 --> 01:05:11,000
+celo jih programe. Torej, ti lahko definiraš en strakt, ki pa veš,
+
+539
+01:05:11,000 --> 01:05:17,000
+katere parametre pričakuješ, da boš dal v program in potem ti ta strakt
+
+540
+01:05:17,000 --> 01:05:22,000
+anotiraš z, ko poveš recimo, ta field X pričakujem, da bi imel tako
+
+541
+01:05:22,000 --> 01:05:27,000
+dolgo ime, tako kratko ime, bodo tega tipa.
+
+542
+01:05:27,000 --> 01:05:31,000
+Polahko ti definiraš description, torej vse te description-e filde
+
+543
+01:05:31,000 --> 01:05:36,000
+pa lahko bere in generira nek help ukaz, ki ti pove, kaj vse je danes
+
+544
+01:05:36,000 --> 01:05:43,000
+ko možno. Pol celo lahko z environmental variable bereš, torej lahko
+
+545
+01:05:43,000 --> 01:05:50,000
+rečeš, ok, ta argument ima tudi envar, pa če res je full powerful in
+
+546
+01:05:50,000 --> 01:05:57,000
+včasih je samo tak velik convenience, da imam ta tool, da rajši vzamem
+
+547
+01:05:57,000 --> 01:06:03,000
+raz, da napišem nek skript, kot da bi vzel nek rubij.
+
+548
+01:06:03,000 --> 01:06:06,000
+Ker se ne rabiš zafražavati s tem tem boilerplate-om.
+
+549
+01:06:06,000 --> 01:06:08,000
+Ja, ja, ja.
+
+550
+01:06:08,000 --> 01:06:13,000
+Isto vprašanje za tebe. Poznaš kakšni library, ki si ga uporabil?
+
+551
+01:06:13,000 --> 01:06:15,000
+Jaz to nisem delal.
+
+552
+01:06:15,000 --> 01:06:18,000
+Lahko potem povej najljubši feature ali nekaj.
+
+553
+01:06:18,000 --> 01:06:21,000
+Se pa lahko strinjam s tem klepom, ki je v F-sharp-u.
+
+554
+01:06:21,000 --> 01:06:26,000
+To je v bistvu eno, isto za dve manije se argo in niso, napišeš tip,
+
+555
+01:06:26,000 --> 01:06:30,000
+se pravi, podatkovno strukturo, kjer bi hotel imeti te common line
+
+556
+01:06:30,000 --> 01:06:33,000
+parametre in ti naredi parser in help in vse to.
+
+557
+01:06:33,000 --> 01:06:34,000
+To se strinja, to je krasno.
+
+558
+01:06:34,000 --> 01:06:39,000
+Meni je še en library, ki je tudi, mislim, da je na top teh krejtov, je Serde.
+
+559
+01:06:39,000 --> 01:06:44,000
+Tega še prosim upiš, ker je tudi, mislim, da preveč ljudi se bode srečali z njim.
+
+560
+01:06:44,000 --> 01:06:50,000
+Ja, ja, Serde je v bistvu library za serializacijo, deserilizacijo
+
+561
+01:06:50,000 --> 01:06:55,000
+podatkovnih struktur, izrasta v različne formate.
+
+562
+01:06:55,000 --> 01:06:59,000
+V bistvu generičen, ne ve nič v formato, v kateri ga boš generiral,
+
+563
+01:06:59,000 --> 01:07:05,000
+ampak potem imaš krejte, ki se potem povežejo z Serde in potem generirajo
+
+564
+01:07:05,000 --> 01:07:13,000
+ali JSON, YAML, TOML, imaš potem nekaj te binarne formate, pač svašta.
+
+565
+01:07:13,000 --> 01:07:19,000
+In v bistvu je zelo powerful, ker lahko,
+
+566
+01:07:19,000 --> 01:07:23,000
+ful, ful ima zanimiv funkcionalnosti, recimo lahko premenuješ,
+
+567
+01:07:23,000 --> 01:07:26,000
+tako gosto je problem, ki delaš za front-end-ov,
+
+568
+01:07:26,000 --> 01:07:31,000
+lahko premenuješ vse filde, ne vem, CamelCase ali pa Underscore,
+
+569
+01:07:31,000 --> 01:07:36,000
+lahko imaš tudi te...
+
+570
+01:07:36,000 --> 01:07:37,000
+Pa nisem za JSON?
+
+571
+01:07:37,000 --> 01:07:41,000
+Ne, nisem za JSON. Praktično karkoli, no.
+
+572
+01:07:41,000 --> 01:07:48,000
+Ok, zdaj, jaz sem si še napisal Tokio, to je tudi ene izmed ultrapopularnih,
+
+573
+01:07:48,000 --> 01:07:53,000
+to je v bistvu bolj za, kot nek konkurenci, framework, library,
+
+574
+01:07:53,000 --> 01:07:57,000
+ki ima note, mislim, tudi actorje in vse skupaj.
+
+575
+01:07:57,000 --> 01:07:58,000
+Ne, actorjev nima.
+
+576
+01:07:58,000 --> 01:07:59,000
+Nima.
+
+577
+01:07:59,000 --> 01:08:02,000
+V bistvu Tokio je, prvo, treba to razložiti, ne.
+
+578
+01:08:02,000 --> 01:08:08,000
+Raz ima ta async-await ekosistem za asynkronno procesiranje,
+
+579
+01:08:08,000 --> 01:08:10,000
+ampak daneska nima runtime-a.
+
+580
+01:08:10,000 --> 01:08:14,000
+Torej, on ima samo te interfejse, ko definirajo, pač tako, ok,
+
+581
+01:08:14,000 --> 01:08:17,000
+kompajler te, ko se to skompajla.
+
+582
+01:08:17,000 --> 01:08:21,000
+Nima pa runtime-a in ti danesko moraš runtime svoj vpeljati noter,
+
+583
+01:08:21,000 --> 01:08:26,000
+če hočeš to uporabljati in najbolj popularen ta je Tokio.
+
+584
+01:08:26,000 --> 01:08:29,000
+Zakaj pa nima raz svojega runtime-a?
+
+585
+01:08:29,000 --> 01:08:34,000
+Je pa primarno zato, ker še niso dovolj sigurni,
+
+586
+01:08:34,000 --> 01:08:37,000
+a bo to tak, kot hočejo.
+
+587
+01:08:37,000 --> 01:08:41,000
+Sekundarno pa to, ker je res toliko različnih načinov,
+
+588
+01:08:41,000 --> 01:08:44,000
+ko lahko to narediš, ko so premerni za različne situacije.
+
+589
+01:08:44,000 --> 01:08:49,000
+Spet pač ta zero cost filozofija, ne.
+
+590
+01:08:49,000 --> 01:08:54,000
+Recimo ti imaš zelo drugačne zahteve, če ti hočeš neko asinkovno procesiranje
+
+591
+01:08:54,000 --> 01:08:58,000
+na mikroprocesori, kot če delaš te nekaj zadevo na webu.
+
+592
+01:08:58,000 --> 01:09:00,000
+Ali pa v Linux Kereru, ne.
+
+593
+01:09:00,000 --> 01:09:01,000
+Ja, recimo.
+
+594
+01:09:01,000 --> 01:09:04,000
+In tam tudi hočeš menj, predvsem, v neko drugo knjiženco,
+
+595
+01:09:04,000 --> 01:09:05,000
+ker ti to implementiraš.
+
+596
+01:09:05,000 --> 01:09:07,000
+Ne zanima, če bo kdaj asinkovajet poljali v Linux,
+
+597
+01:09:07,000 --> 01:09:08,000
+to bi bilo preveč.
+
+598
+01:09:08,000 --> 01:09:10,000
+Seveda, mislim, so nekaj kontinuoješnjih obstaja.
+
+599
+01:09:10,000 --> 01:09:11,000
+A, resni?
+
+600
+01:09:11,000 --> 01:09:12,000
+Ja, ja.
+
+601
+01:09:12,000 --> 01:09:16,000
+Fanta, bomo zdaj počasi zaključili,
+
+602
+01:09:16,000 --> 01:09:18,000
+po nadaljevaji tole lepo debatova,
+
+603
+01:09:18,000 --> 01:09:22,000
+še kje je išlo, je ovde rekord.
+
+604
+01:09:22,000 --> 01:09:26,000
+Dejmo se na tej točki sa vama obema.
+
+605
+01:09:26,000 --> 01:09:28,000
+Najlepše zahvaljujem za vajen čas.
+
+606
+01:09:28,000 --> 01:09:29,000
+Hvala, da ste prišla.
+
+607
+01:09:29,000 --> 01:09:33,000
+Zahvaljujem se vsem gledalcem, poslušalcem, podpornikom.
+
+608
+01:09:33,000 --> 01:09:34,000
+Hvala brez vas, to ne bi bilo možno.
+
+609
+01:09:34,000 --> 01:09:35,000
+Zahvaljujem se ekipi.
+
+610
+01:09:35,000 --> 01:09:37,000
+Hvala še enkrat.
+
+611
+01:09:37,000 --> 01:09:40,000
+Pa spodim vodav linke do vseh virov.
+
+612
+01:09:40,000 --> 01:09:43,000
+Sponzorjem smo se že tudi zahvaljali v MES,
+
+613
+01:09:43,000 --> 01:09:46,000
+ampak še enkrat hvala 3FSU in Humanphrologu
+
+614
+01:09:46,000 --> 01:09:50,000
+za sponzorstvo in vziroma podporo te epizode.
+
+615
+01:09:50,000 --> 01:09:53,000
+Hvala še enkrat, Peter in Simon, hvala.
+
+616
+01:09:53,000 --> 01:09:55,000
+Hvala, da je bilo to.
+
+617
+01:09:55,000 --> 01:09:56,000
+Hvala.

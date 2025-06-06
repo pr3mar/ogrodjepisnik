@@ -1,0 +1,4895 @@
+1
+00:00:00,000 --> 00:00:17,900
+Da, on bo bavljuš dal na začetku, bo jan postil par minut ali neke neumnosti,
+
+2
+00:00:17,900 --> 00:00:21,900
+ki so samo mi pogovarjali, pa pa samo začeli pogovarjati in na začetku bo Grodje špica,
+
+3
+00:00:21,900 --> 00:00:23,900
+pa pa sami začnemo evo.
+
+4
+00:00:23,900 --> 00:00:24,900
+Bo ful bilo organsko izpravo.
+
+5
+00:00:24,900 --> 00:00:32,900
+Srečam, da zadnje cajte ful več snemamo izven pač našega normalnega setupa v samih nekih teh okoljih.
+
+6
+00:00:32,900 --> 00:00:40,900
+Ja, to je ful res, ampak v drugi strani, ko ti nekdo reče, ej, največja slovenska tehničska konferenca
+
+7
+00:00:40,900 --> 00:00:50,900
+na Primorju, v Porto Rojo, na Obali, v Sloveniji, pa na Pomorju se bo dogajala lepo,
+
+8
+00:00:50,900 --> 00:00:52,900
+it's hard to say no, a ne?
+
+9
+00:00:52,900 --> 00:00:56,900
+Uni, ko to reče, se samo sprašuje, kaj čaka možda toliko cajta.
+
+10
+00:00:56,900 --> 00:01:00,900
+To je ti, da mu ni jasno, unemo, kaj se to sprašuje, ampak dobro.
+
+11
+00:01:00,900 --> 00:01:08,900
+In tudi tisti, ki ste se zdaj vključili noter, pozdrav z Obale, konkretno z 29. NTK konference,
+
+12
+00:01:08,900 --> 00:01:14,900
+z nami Luka Benojlovič, en od soorganizatorjev tega eventa.
+
+13
+00:01:14,900 --> 00:01:22,900
+Zdaj, tako maj smo se bali, kaj bi bil najprimeren trenutek, da Luka ta, tako ukrademo za ta čas,
+
+14
+00:01:22,900 --> 00:01:28,900
+v ta pogovor, pa da, pa je prej rekel, da on je svoj del več imel naredil.
+
+15
+00:01:28,900 --> 00:01:35,900
+Ti si pač ta programski del, oziroma ta del, pač tiste, novačet predavatelje prepeljaj,
+
+16
+00:01:35,900 --> 00:01:41,900
+da, a veš, ta hype postavljate, da te stvari te vse tečejo, pa se drugi.
+
+17
+00:01:41,900 --> 00:01:43,900
+Ali sem prav, pač?
+
+18
+00:01:43,900 --> 00:01:50,900
+Bi rekel, da ja. Bi rekel, da ja. Tisto, kar s kolegi iz tega odbora
+
+19
+00:01:50,900 --> 00:01:59,900
+naredimo je delo pred tem dogodkom, se pravi, da dobimo kolege, predavatelje, predavateljice
+
+20
+00:01:59,900 --> 00:02:06,900
+iz Slovenije in tudi širše, nekaj iz držav bivše Jugoslavije, dostih je pa tudi iz
+
+21
+00:02:06,900 --> 00:02:10,899
+drugih hrobskih držav, včasih docelo iz Amerike.
+
+22
+00:02:12,899 --> 00:02:18,899
+Zdaj pa, ko enkrat konferenca steče, pa steče, ne, tle potem, me sicer vsak je toliko kaj pokličil,
+
+23
+00:02:18,899 --> 00:02:23,899
+kakšen predavatelj že je izkušen, ne pride lih deset minut prej v predavalnico,
+
+24
+00:02:23,899 --> 00:02:27,899
+ampak pride eno minuto prej in potem se spložijo alarmi, kje ta človek je,
+
+25
+00:02:27,899 --> 00:02:33,899
+in potem ga po vseh kanalih probamo priklicati, ampak načelo ma teče že z nekim
+
+26
+00:02:34,899 --> 00:02:39,899
+svojim tempom in nekim svojim načinom, ki je zdaj že preverjen.
+
+27
+00:02:39,899 --> 00:02:46,899
+Ampak, jaz bom zdaj tako, ja, jaz sem mislim zdaj četrtič na NTK-ju.
+
+28
+00:02:48,899 --> 00:02:54,899
+Ko malo je bilo, te začetki so pač malo prihaljali z drugih zgod, no pa doma še do tega prišli.
+
+29
+00:02:54,899 --> 00:03:02,899
+Kako vidiš to, se pravi, kaj je bila ena te konference mogoče v tistem začetku,
+
+30
+00:03:02,899 --> 00:03:16,899
+pa rečemo v konci devedesetih, pa kaj je mogoče zdaj, kaj, kaj ti vidiš?
+
+31
+00:03:16,899 --> 00:03:22,899
+Zdaj imam jaz kot ta zvonani opazovaljski, nisem redni gost, pa če vidim predvsem,
+
+32
+00:03:22,899 --> 00:03:32,899
+prej je bilo tako zelo strogo ta Microsoft ekosistem, pa ta zelo nekaj corpo scena.
+
+33
+00:03:32,899 --> 00:03:38,899
+Zdaj imam pa tako počutek, da je ful je te neke več svežine, ki jo pričuje,
+
+34
+00:03:38,899 --> 00:03:44,899
+tudi odprto kodov, pa pustimo, da privemaš od tega, koliko se je Microsoft mogoče spremenil,
+
+35
+00:03:44,899 --> 00:03:52,899
+da je te neke več svežine, več nekih mejknih firm, start-upov, odprtih idej, ti poveli.
+
+36
+00:03:52,899 --> 00:03:58,899
+Mislim, Microsoftov ekosistem je ful širok, njihov nabor produktov je ful širok in zdaj,
+
+37
+00:03:58,899 --> 00:04:03,899
+dokler je Microsoft bil glavnogonilo konference, zato se tudi imenovala Microsoft tente konference,
+
+38
+00:04:03,899 --> 00:04:08,899
+so seveda pregledovali njihovi produkte, ker je bil tudi interes Microsofta takrat,
+
+39
+00:04:08,899 --> 00:04:14,899
+da najbolj promovira svoje produkte in včasih je bil kar zveda tudi veliko bolj strok v smislu,
+
+40
+00:04:14,899 --> 00:04:20,899
+da res so mal po strani gledali kašnega druzga vendurja, če se je mogoče skozi kašen partnerski
+
+41
+00:04:20,899 --> 00:04:25,899
+ali pa bom rekel sponzorski slot pri tih otapjiv na konferenco.
+
+42
+00:04:25,899 --> 00:04:32,899
+Temu več ni tako že veliko let, odkar Microsoft ni več, bom rekel, tisti, ki drži roko,
+
+43
+00:04:32,899 --> 00:04:37,899
+tudi nadosebino. Mi še vedno ohranjamo ravno zaradi širine ekosistema Microsofta
+
+44
+00:04:37,899 --> 00:04:47,899
+in publike, ki je generalno na Microsoftovi platformi, bom rekel, večino predavan iz nekako tega,
+
+45
+00:04:47,899 --> 00:04:55,899
+ampak smo zelo veseli, če se nam v agendo prikradajo tudi druge tehnologije,
+
+46
+00:04:55,899 --> 00:05:02,899
+drugi pogledi ali pa neke sinergijski učinki uporabe nečesa drugega v kombinaciji z Microsoftom in tako dalje.
+
+47
+00:05:02,899 --> 00:05:06,899
+Torej, dobrodošel je v bistvu lahko rečem po domače vsak kontent.
+
+48
+00:05:08,899 --> 00:05:15,899
+Je pa res, da je bilo tudi konferenco v časih bolj produktno orientirana in je Microsoft s temi njegovimi
+
+49
+00:05:15,899 --> 00:05:25,899
+velikimi lanči novih produktov tudi nekako tematsko zapeljil konferenco, ki je bila zanj zelo pomembna.
+
+50
+00:05:25,899 --> 00:05:31,899
+Jaz sem pripričan, da je še sedaj zelo pomembna, samo so malo drugačni časi in Microsoft je vse te
+
+51
+00:05:31,899 --> 00:05:40,899
+sinergijske, Microsoftove konference nekako prepustil. Ni jim to zdaj več tako pomemben fokus.
+
+52
+00:05:40,899 --> 00:05:46,899
+Verjamem pa, da jim je vsekakor v interesu, da se to še vedno dogaja. Tukaj so dobili pa priložnost
+
+53
+00:05:46,899 --> 00:05:52,899
+mogoče agencije, ki organizirajo te dogodke in tako naprej. V končni fazi je dobil priložnost tudi
+
+54
+00:05:52,899 --> 00:05:58,899
+community, ki se zdaj lahko na teh konferencah, ker Microsoft ima vse eno kljub temu, da je ta community
+
+55
+00:05:58,899 --> 00:06:07,899
+mogoče manj živahan, kot je bil 15 let nazaj. Iz njega še vedno izvirajo izredno dobri strokovnjaki,
+
+56
+00:06:07,899 --> 00:06:15,899
+imar si kakšen predavatelj in nekako na temu še vedno jadra, bi rekel, hrbtenica teh konferencov.
+
+57
+00:06:15,899 --> 00:06:23,899
+V smislu, da so to ljudje z nazivim MVP, pa mogoče kakšni ljubitelji tehnologiji, zanesenjaki in takšni in drugačni
+
+58
+00:06:24,899 --> 00:06:30,899
+in na njih to še vedno slonije. Se pa zdaj tukaj malo tudi generacijsko menjujo za deve,
+
+59
+00:06:30,899 --> 00:06:38,899
+plus nekako gravitirajo tudi neke nove tehnologije, kar me je ful veseli. Zato tudi večkratno vam bilo,
+
+60
+00:06:38,899 --> 00:06:45,899
+tebi in kolegom, ki se mogoče z nekimi drugimi platformami bolj ukvarjate in sem vesel v vaših odzivov,
+
+61
+00:06:45,899 --> 00:06:49,899
+da se nam pridružite in tukaj delite svoje znanje.
+
+62
+00:06:49,899 --> 00:06:59,899
+Zdaj razmišljam, 29 let že ta konferenca poteka. Jaz sem letos prvič tukaj zdaj,
+
+63
+00:06:59,899 --> 00:07:06,899
+ampak počasih imam ta, kako je že to staro proti meni.
+
+64
+00:07:06,899 --> 00:07:10,899
+Prvič hoču povedati, da skoraj tako, kot...
+
+65
+00:07:10,899 --> 00:07:17,899
+Ja, je. Sem že hodil s novim solom, še malo naprej.
+
+66
+00:07:17,899 --> 00:07:24,899
+Ko sem slišel za brand, da Microsoft dejansko v Sloveniji organizira te konference,
+
+67
+00:07:24,899 --> 00:07:31,899
+se spomnim, da je neka soseda delala v ITU del, ki je ne večje slovenske firme in vem, da je imela brečice,
+
+68
+00:07:31,899 --> 00:07:35,899
+NT konferenca in Microsoft logo. In meni se je zdelo kot mulco zanimivo,
+
+69
+00:07:35,899 --> 00:07:42,899
+ker Microsoft logo sem videl pač na Windowsih doma na kišti, ampak druge nikje nisi videl Microsoftovih logo.
+
+70
+00:07:42,899 --> 00:07:47,899
+To v polvično fizično vreč, ki se pravi, ok, se pravi ljudje nekje,
+
+71
+00:07:47,899 --> 00:07:51,899
+so ti ljudje, ki delajo z Microsoftovimi tehnologijami, se družijo nekje.
+
+72
+00:07:51,899 --> 00:07:56,899
+To mi je bilo zanimivo. Moja prva asociacija je na to, da dejansko je to neka konferenca,
+
+73
+00:07:56,899 --> 00:08:03,899
+ki združuje Windows in Microsoft, ljudi, ki smo 30 let. To mi je zanimivo.
+
+74
+00:08:03,899 --> 00:08:08,899
+Še vedno ne vem, čisto točno, kaj je z MVP in title, kaj to pomeni.
+
+75
+00:08:08,899 --> 00:08:13,899
+Vem, da pomeni Most Valuable Player.
+
+76
+00:08:13,899 --> 00:08:19,899
+Professional, professional. Ti smo pri Dončiču in teh je player.
+
+77
+00:08:20,899 --> 00:08:26,899
+To so te Dončiči v IT. Kaj pomeni MVP?
+
+78
+00:08:26,899 --> 00:08:35,900
+MVP je en naslov, ki ga podeli Microsoft, če vidi, da si aktiven v skupnosti
+
+79
+00:08:35,900 --> 00:08:41,900
+in da imaš nek impakt v tej skupnosti v smislu, da na teh tehnologijah delaš,
+
+80
+00:08:41,900 --> 00:08:46,900
+da jih rad predstavljaš, da imaš nek svoje mnenje, tudi če je kritično lahko.
+
+81
+00:08:46,900 --> 00:08:51,900
+Ni treba, da je to vedno pod laki dol.
+
+82
+00:08:51,900 --> 00:08:59,900
+Vsak najde tisto vsebino ali tisto področje, ki je njemu res cool in v katerega
+
+83
+00:08:59,900 --> 00:09:04,900
+se mogoče profesionalno bolj spušča in zato mu tudi bolj zaupa.
+
+84
+00:09:04,900 --> 00:09:09,900
+Jaz sem gleden določenih tehnologij Microsoftovih še danes entuzjastičen
+
+85
+00:09:09,900 --> 00:09:15,900
+in zelo rad jih postavljam. Kljub svojim letom in temu, da bi nekdo rekel,
+
+86
+00:09:15,900 --> 00:09:21,900
+da pri 43-ih boš tako entuzjastičen kot pri 20-ih.
+
+87
+00:09:21,900 --> 00:09:25,900
+Še vedno si upam reči, da stojim za tem. To, če bomo postavljali,
+
+88
+00:09:25,900 --> 00:09:31,900
+bo funkcioniralo tako, kot si želite. Verjetno ne bi za vsako Microsoftovo
+
+89
+00:09:31,900 --> 00:09:34,900
+tehnologijo tega rekel in tudi za njo ne bi tako stavljal.
+
+90
+00:09:34,900 --> 00:09:39,900
+Tisto, ki se bolj ukvarjaš in jo podrobno droboje spoznaš,
+
+91
+00:09:39,900 --> 00:09:43,900
+potem mogoče za njo lažje, kaj taz ga tudi trdiš.
+
+92
+00:09:43,900 --> 00:09:47,900
+Zdaj, kar seče tega, jaz tebe poznam kot razvijavca.
+
+93
+00:09:47,900 --> 00:09:53,900
+Zdaj, Microsoft ima kup razvojnih orodi, vendar tisti razvijavci,
+
+94
+00:09:53,900 --> 00:09:58,900
+ki ste pač delali ali delate v drugih okoljih, se seveda niti s tem
+
+95
+00:09:58,900 --> 00:10:03,900
+100-pa leto produktov verjetno niste toliko srečevali in je za to čisto
+
+96
+00:10:03,900 --> 00:10:09,900
+normalno, da recimo kot praviš, si zdaj prvič tu. Jaz mislim,
+
+97
+00:10:09,900 --> 00:10:15,900
+da vsak računalničar v Sloveniji in celo širše je prav, da enkrat pride
+
+98
+00:10:15,900 --> 00:10:21,900
+na NTK, tako ali drugače, ker se tukaj res srečujemo. Če ne druga,
+
+99
+00:10:21,900 --> 00:10:25,900
+je to dogodek, kjer se enkrat na leto srečaš tudi s tistimi,
+
+100
+00:10:25,900 --> 00:10:31,900
+ki jih res sicer ne vidiš ali pa bi težje najdu čas ali pa mogoče
+
+101
+00:10:31,900 --> 00:10:35,900
+malo tudi pozabimo, vse želeli bi si, verjetno vsi, ampak včasih
+
+102
+00:10:35,900 --> 00:10:39,900
+malo pozabimo se srečati in tako. In je tukaj tako lepo to videti,
+
+103
+00:10:39,900 --> 00:10:44,900
+da danes jutri sem bil en tak primjer, človeka, ki ga ne srečujem prav
+
+104
+00:10:44,900 --> 00:10:49,900
+pogosto, ampak vseeno bolj pogosto kot nek sogovornik, ki je prišel
+
+105
+00:10:49,900 --> 00:10:53,900
+za mano in je rekel, o, kje si, pa sta se tam rokovala in sem videl,
+
+106
+00:10:53,900 --> 00:10:57,900
+da im je, oh, ne, daj gremo na kafe, pa so šli pol.
+
+107
+00:10:57,900 --> 00:11:03,900
+Opazil sem, ko si nam pomagal poiskati parking, pa si nas sprejel.
+
+108
+00:11:03,900 --> 00:11:06,900
+Ko greš po te konferenci, ti ljudje pozdravljajo, pa so ful
+
+109
+00:11:06,900 --> 00:11:10,900
+buddy z tabo. Ne vem, če se vse poznaš po imenu, ampak delujete,
+
+110
+00:11:10,900 --> 00:11:16,900
+kot da ste res ena velika skupina ljudi, ki se res poznate in čitno
+
+111
+00:11:16,900 --> 00:11:19,900
+ti ljudi res zaupajo že skozi ta leta, pa vidim, da imaš veliko
+
+112
+00:11:19,900 --> 00:11:24,900
+stalnih gostov tudi v nek način ali kaj. Veliko se mi zdi, da je tudi,
+
+113
+00:11:24,900 --> 00:11:29,900
+prej smo nek termin tam izbrali, ne, veliki ljudi, ki imajo že
+
+114
+00:11:29,900 --> 00:11:34,900
+manj las, pa tiste, ki jih še imajo, so vedno bolj sivije, ampak se mi zdi,
+
+115
+00:11:34,900 --> 00:11:39,900
+da je nekata kontinuiteta v karjerah.
+
+116
+00:11:39,900 --> 00:11:44,900
+Mislim, to gotovo, to se ne dogaja samo z mano, ker jaz sem na Microsoftu,
+
+117
+00:11:44,900 --> 00:11:50,900
+jaz sem bil neko tako, kot predavatelj sem se prvič podal na to pot
+
+118
+00:11:50,900 --> 00:11:55,900
+ravno skozi Microsoft in to je bila dolgo nazaj ena štipendija, ki jo
+
+119
+00:11:55,900 --> 00:11:58,900
+Microsoft dal ven, miljon za uspon se je imenovala.
+
+120
+00:11:58,900 --> 00:11:59,900
+Miljon?
+
+121
+00:11:59,900 --> 00:12:00,900
+Ja, toga smo še v Tolarih.
+
+122
+00:12:00,900 --> 00:12:01,900
+Aja, še v ...
+
+123
+00:12:01,900 --> 00:12:03,900
+Pozor, blizu še v Tolarih.
+
+124
+00:12:03,900 --> 00:12:04,900
+Sliši se vrhunsko.
+
+125
+00:12:04,900 --> 00:12:08,900
+Se slišalo, tudi sicer se slišalo vrhunsko, tudi v Tolarih je bilo to veliko.
+
+126
+00:12:08,900 --> 00:12:09,900
+Tudi v vrhunsko, ja, ok.
+
+127
+00:12:09,900 --> 00:12:16,900
+Sicer ta štipendija je bila fokusirana bolj na inovacije v ofisu,
+
+128
+00:12:16,900 --> 00:12:22,900
+to je bilo nekaj ta leta 2002, 2003, no in jaz sem pa imel takat izvil,
+
+129
+00:12:23,900 --> 00:12:29,900
+da smo prve ADSL-e začeli povstavljati in so se v časih tisti modemi
+
+130
+00:12:29,900 --> 00:12:34,900
+zaštekali in ni bilo drugače, kot da si ga izpulil z elektrike in nazaj potlopil.
+
+131
+00:12:34,900 --> 00:12:36,900
+Temu bi danes rekli Watchdog.
+
+132
+00:12:36,900 --> 00:12:41,900
+Jaz sem takrat v Visual Studio spisal Watchdog, ki je nek rele prekinul in
+
+133
+00:12:41,900 --> 00:12:44,900
+resetiral modem in s tem moral šel kup nuk.
+
+134
+00:12:44,900 --> 00:12:48,900
+In sve sem to mogoče predstaviti na Microsoft in sem tako dva računalnika
+
+135
+00:12:48,900 --> 00:12:52,900
+pod ramo pranesel z Windows XP in s tem programom gor.
+
+136
+00:12:52,900 --> 00:12:55,900
+Not offline se je klical programček, tako čisto.
+
+137
+00:12:55,900 --> 00:12:57,900
+Takrat sem bil še študent muzikologije.
+
+138
+00:12:57,900 --> 00:12:59,900
+Spohnji se malo nič za računalništvo.
+
+139
+00:12:59,900 --> 00:13:02,900
+Mrazem tega, da je to zvedno zraven mene bilo in tako, no.
+
+140
+00:13:02,900 --> 00:13:06,900
+In dobil sem sicer drugo nagrado.
+
+141
+00:13:06,900 --> 00:13:10,900
+Prvo nagrado je dobil ta kolega, ki je za Office dejansko naredil neko rešitev,
+
+142
+00:13:10,900 --> 00:13:14,900
+ki kasneje je tudi delil za Microsoft in mislim, da je zdaj v Ameriki.
+
+143
+00:13:15,900 --> 00:13:18,900
+No, in nagrada je bila, da pridem na NTK.
+
+144
+00:13:18,900 --> 00:13:22,900
+In to je bilo meni takrat, wow, tako taj na debudnemu študentu,
+
+145
+00:13:22,900 --> 00:13:25,900
+entuziastu je bilo to wow, wow.
+
+146
+00:13:25,900 --> 00:13:30,900
+No, in potem NTK-ju se je pa zgodilo, da me je klical en gospod z Microsofta
+
+147
+00:13:30,900 --> 00:13:36,900
+in je rekel, veš kaj, dej, boš ti na sedem NTK-ju pa nekaj predaval, ne,
+
+148
+00:13:36,900 --> 00:13:39,900
+ker si tako za te stvari, no.
+
+149
+00:13:39,900 --> 00:13:42,900
+Leto dve, zdaj ne vem večnočno, kjer leto je to bilo.
+
+150
+00:13:42,900 --> 00:13:48,900
+Šlo se je za Exchange, to je poštno sporočeni sistem Microsoftov 2007,
+
+151
+00:13:48,900 --> 00:13:52,900
+ki je bil takrat res revolucionaren v Microsoftovem pogledu,
+
+152
+00:13:52,900 --> 00:13:57,900
+imel je en kup enih fičerjev, pa prvič je bilo to orodje,
+
+153
+00:13:57,900 --> 00:14:01,900
+zdaj za Andraža, ki je bil v ukazni vrstici, ne, to je bilo prvič,
+
+154
+00:14:01,900 --> 00:14:05,900
+da je Microsoft dal one tool oziroma programski paket,
+
+155
+00:14:05,900 --> 00:14:09,900
+ki ga nisi mogu do konca nastaviti čez GUI, si mogu iti v PowerShell, ne,
+
+156
+00:14:09,900 --> 00:14:14,900
+takrat je PowerShell lih štartov. In to je bilo ful zanimivo,
+
+157
+00:14:14,900 --> 00:14:18,900
+in se spominem, da sem imel slot od nekih desetih in pol do enajstih in pol,
+
+158
+00:14:18,900 --> 00:14:21,900
+in meni v glavi je bilo, da imam verjetno od desetih do enajstih,
+
+159
+00:14:21,900 --> 00:14:24,900
+skratko, ob desetih in pol sem jaz skoz te slajde ful šopal,
+
+160
+00:14:24,900 --> 00:14:28,900
+in ob dve minuti do enajstih, rečem, nač, jaz sem zdaj končal, ne,
+
+161
+00:14:28,900 --> 00:14:32,900
+sem bil prepričan, da sem cel slot zabil v slajde, kljub temu,
+
+162
+00:14:32,900 --> 00:14:35,900
+da sem imel ful lep demo, in potem mi je en iz prve vrst,
+
+163
+00:14:35,900 --> 00:14:38,900
+polna dvorana je bila, sicer ne prevelika, ampak polna, polna,
+
+164
+00:14:38,900 --> 00:14:41,900
+ljudje so res hotli vedeti, kaj je ta nov server prinaša,
+
+165
+00:14:41,900 --> 00:14:44,900
+in potem je rekel en iz publike, ej, ma se, imaš še pol ure,
+
+166
+00:14:44,900 --> 00:14:49,900
+in jaz tako, wow, še pol ure in pol demo, in so videli, da me,
+
+167
+00:14:49,900 --> 00:14:53,900
+jaz sem totalno v to padu, ta demo, no, in zelo dobre ocene sem dobil,
+
+168
+00:14:53,900 --> 00:14:57,900
+in se spominem, da je bil en gospod starejši, mislim, da je delal v seminarni
+
+169
+00:14:57,900 --> 00:15:01,900
+Ljubljana, kot taj taj več, in je rekel, veš, ti imaš pa tak entuzjazem,
+
+170
+00:15:01,900 --> 00:15:04,900
+tebi se pa to res tako vidi, in smo ti dali vsi dobre ocene,
+
+171
+00:15:04,900 --> 00:15:07,900
+zato ga hočemo, da še prideš, ne. Tako da to je bilo,
+
+172
+00:15:07,900 --> 00:15:11,900
+je bilo tako. Pol je pa Microsoft me vrgul v Windows Server 2008,
+
+173
+00:15:11,900 --> 00:15:15,900
+ki je bil ravno tako revolucionaren Windows Server,
+
+174
+00:15:15,900 --> 00:15:19,900
+skup novimi funkcionalnostmi in totalno drugačnim modelom delovanja,
+
+175
+00:15:19,900 --> 00:15:24,900
+kot prej 2003, ali pa 2000. To so bila pa celo dnevna,
+
+176
+00:15:24,900 --> 00:15:27,900
+to sem pa rekel, wow, kako on jaz to cel dan predavo, veš,
+
+177
+00:15:27,900 --> 00:15:31,900
+koliko je to osem ur, tam se stat, ne, in pol smo to večkrat ponovili,
+
+178
+00:15:31,900 --> 00:15:34,900
+to je takrat Microsoft imenoval readiness, ne, se pravi,
+
+179
+00:15:34,900 --> 00:15:38,900
+delamo predstavitev serverja po celi Sloveniji, spomnim Maribor, Ljubljana,
+
+180
+00:15:38,900 --> 00:15:42,900
+celo Novi Gorici, pa celo Kopru, če se spomnim, v Ljubljani večkrat ponovili,
+
+181
+00:15:42,900 --> 00:15:45,900
+seveda, ne, ker je bilo zanimanje ogromno.
+
+182
+00:15:45,900 --> 00:15:50,900
+Tako da me Microsoft po eni stani v to peljal. No, polk malo zatem,
+
+183
+00:15:50,900 --> 00:15:53,900
+pa zaradi tega, ker sem načel pisati svoj blog, pa sem bil tako aktiven,
+
+184
+00:15:53,900 --> 00:15:57,900
+pa na teh slovugih kot čisto skupnostnih dogodkih,
+
+185
+00:15:57,900 --> 00:16:01,900
+ki so jih furali in jih furajo še danes moji kolegi,
+
+186
+00:16:01,900 --> 00:16:04,900
+ki so malo čak starejši kot jaz, recimo Miha Pihler,
+
+187
+00:16:04,900 --> 00:16:08,900
+pa potem ostali kolegi, ki so bili takrat Matjaž Ladava,
+
+188
+00:16:08,900 --> 00:16:12,900
+ki že dost let v Ameriki, v svetu, dela na Microsoftu,
+
+189
+00:16:12,900 --> 00:16:15,900
+on je bil za mene zelo pomemben, ker on je z naših koncov,
+
+190
+00:16:15,900 --> 00:16:19,900
+zdiče z Stormina, ampak je delal v Gorici in on nas je navdušil
+
+191
+00:16:19,900 --> 00:16:23,900
+tudi zelo na temje Stormin, tudi, ker je videl, da smo mi za
+
+192
+00:16:23,900 --> 00:16:26,900
+in je bil ful pripravljen pomagati, ne, in tako.
+
+193
+00:16:26,900 --> 00:16:29,900
+No, tako da jaz sem do tega naziva MVP, če se vrnem
+
+194
+00:16:29,900 --> 00:16:32,900
+z eno stovno vprašanje, če se je ta dol kovir.
+
+195
+00:16:32,900 --> 00:16:35,900
+Ne, ne, v redu, ker objasni malo.
+
+196
+00:16:35,900 --> 00:16:39,900
+Sem dobil ta naziv MVP, ne, in sem prvič lahko šel v Seattle,
+
+197
+00:16:39,900 --> 00:16:43,900
+ne, tako da to se tako vse nadgrajuje lepo, ne, v Seattle,
+
+198
+00:16:43,900 --> 00:16:47,900
+pa s produktno grupo sediš, pa tam starejši MVP kot ti,
+
+199
+00:16:47,900 --> 00:16:51,900
+ki so tam že 15 let, razlagajo o težavah serveri,
+
+200
+00:16:51,900 --> 00:16:54,900
+kam mislijo oni, da bi te stvari mogli iti, tako naprej, ne.
+
+201
+00:16:54,900 --> 00:16:57,900
+Mislim, zelo, zelo zanimiva in poučna izkušnja.
+
+202
+00:16:57,900 --> 00:16:58,900
+Točno.
+
+203
+00:16:58,900 --> 00:17:02,900
+Da se posvetuje Microsoft z MVP ali preko teh grup
+
+204
+00:17:02,900 --> 00:17:05,900
+daje te neke predloge ali kako to zgleda.
+
+205
+00:17:05,900 --> 00:17:06,900
+Tako, tako.
+
+206
+00:17:06,900 --> 00:17:10,900
+Tako da je dejansko imaš neke live connection z Microsoftom.
+
+207
+00:17:10,900 --> 00:17:14,900
+Tako, so sicer časi, ko je tega manj in časi, ko je tega več.
+
+208
+00:17:14,900 --> 00:17:17,900
+Takrat je bilo vživo zelo intenzivno.
+
+209
+00:17:17,900 --> 00:17:21,900
+Potem bi rekel, v času korone je tudi Microsoft malo šepal s tem,
+
+210
+00:17:21,900 --> 00:17:24,900
+ni točno vedel, kako bomo to, ali bomo virtualno furali,
+
+211
+00:17:24,900 --> 00:17:28,900
+ali in person, ali, skratka, malo je bilo leseno.
+
+212
+00:17:28,900 --> 00:17:32,900
+Ma, zdaj so spet normalno se stvari spravljali.
+
+213
+00:17:32,900 --> 00:17:36,900
+Tisti, ki hodijo na summit, jaz pač par let res nisem bil,
+
+214
+00:17:36,900 --> 00:17:40,900
+se še vedno tako vdejstvujo, če ne pa imamo mitinge,
+
+215
+00:17:40,900 --> 00:17:42,900
+potem lahko komentiramo in tako.
+
+216
+00:17:42,900 --> 00:17:45,900
+Dobro, vse želje niso vresničene.
+
+217
+00:17:45,900 --> 00:17:48,900
+Veste, oni morajo imeti neko svojo listo prioritet.
+
+218
+00:17:48,900 --> 00:17:52,900
+Oni imajo tudi omejeno število resursov, programmerjev.
+
+219
+00:17:52,900 --> 00:17:55,900
+Pač moraš objektivno gledati na stvari.
+
+220
+00:17:55,900 --> 00:17:58,900
+Zdaj, moj problem verjetno lahko ni tako grozen.
+
+221
+00:17:58,900 --> 00:18:00,900
+In moramo s temi kompromesi nekako shajati.
+
+222
+00:18:00,900 --> 00:18:02,900
+Zdaj, ko sem bil mlajši, sem to manj razumev,
+
+223
+00:18:02,900 --> 00:18:05,900
+zdaj, ko sem starejši, boljše razumev.
+
+224
+00:18:05,900 --> 00:18:09,900
+Da so resursi omejeni, prioritete postavljene.
+
+225
+00:18:09,900 --> 00:18:16,900
+Eno zadeva, ki sem jo upazil kot first time person na NT konferenci,
+
+226
+00:18:16,900 --> 00:18:23,900
+je, da nema je danes tak dan, ali ljudje tako res naimljajo tu konferenco.
+
+227
+00:18:23,900 --> 00:18:26,900
+Ampak danes je bilo zelo veliko ljudi zelo lepo oblečenih,
+
+228
+00:18:26,900 --> 00:18:29,900
+zelo poslovno upedeninih.
+
+229
+00:18:29,900 --> 00:18:31,900
+Zato, da ne vem, kakšne konference ti hodiš.
+
+230
+00:18:31,900 --> 00:18:35,900
+Jaz vem, da na B-sides konferenco, ki je Andraž organiziral petek,
+
+231
+00:18:35,900 --> 00:18:43,900
+bo verjetno več ljudi prišlo v hudih, pa favorite pikachu t-shirtih.
+
+232
+00:18:43,900 --> 00:18:48,900
+Ampak se mi zdi, da danes je bilo veliko ljudi zelo lepo poštrikanih.
+
+233
+00:18:48,900 --> 00:18:54,900
+Če sem prav razumev, obstaja zdaj tudi ta biznis aspekt te konference.
+
+234
+00:18:54,900 --> 00:18:59,900
+Se pravi, če imamo, OK, tech track,
+
+235
+00:18:59,900 --> 00:19:04,900
+daj razložim malo ta biznis aspekt, ker vidim, da je ful velik in pomemben del te konference.
+
+236
+00:19:04,900 --> 00:19:10,900
+Ja, osredni dan, ta drugi dan, je po navadi posvečen tudi partnerjem
+
+237
+00:19:10,900 --> 00:19:14,900
+in ga tudi menujemo poslovni dan, ki ima tudi svoj poseben program.
+
+238
+00:19:14,900 --> 00:19:18,900
+Namenjen bolj, recimo, ne toliko tehnološkim temam,
+
+239
+00:19:18,900 --> 00:19:23,900
+ampak, recimo, nekaj odločevavcem, pa nekaj globalni viziji,
+
+240
+00:19:23,900 --> 00:19:25,900
+ki jo ima Microsoft mogoče skozi svoje produkte,
+
+241
+00:19:25,900 --> 00:19:29,900
+ali pa celo neke teme, ki so trendy v smislu vodenja,
+
+242
+00:19:29,900 --> 00:19:35,900
+v smislu modernega podjetništva in tako naprej.
+
+243
+00:19:35,900 --> 00:19:40,900
+Tu razne teme se prepledo, ali pa ženske v IT-u, večje tem tukaj od sprtih,
+
+244
+00:19:40,900 --> 00:19:45,900
+ampak, ja, danes so definitivno prisotni poleg, bom rekel, tistih,
+
+245
+00:19:45,900 --> 00:19:50,900
+ki so tu zaradi tehnoloških predavanj, tudi tistih, ki so tu zaradi nekega poslovnega impakta.
+
+246
+00:19:50,900 --> 00:19:57,900
+Poleg, seveda, partnerjev, sponzorjev, ki so tukaj prisotni in sigurno im je to druženje
+
+247
+00:19:57,900 --> 00:20:04,900
+en pomemben element v smislu razvoja tudi bodočih poslov čez leto.
+
+248
+00:20:05,900 --> 00:20:13,900
+Vsem seveda. Če imaš tukaj res, bom rekel, vse, ki v IT-u karkoli pomenijo,
+
+249
+00:20:13,900 --> 00:20:18,900
+saj prav nas, zakaj ne je tukaj še kažen poslov sklini, ne?
+
+250
+00:20:18,900 --> 00:20:22,900
+Ne na zadnje, vse verjetno neka sinergija, neka partnerstva.
+
+251
+00:20:22,900 --> 00:20:29,900
+Zakaj ne tukaj izkoristiti, z tega vzdika definitivno ni slabo.
+
+252
+00:20:29,900 --> 00:20:37,900
+Zdaj, naj bi rado, da gremo še bolj v en takav konferenci kot taki,
+
+253
+00:20:37,900 --> 00:20:45,900
+mogoče bi bolj v eno mislo, recimo, pa jako jaz danes se z enim odeležencem
+
+254
+00:20:45,900 --> 00:20:52,900
+se izmenil, in je pač prišel iz ene boljke slovenske firme, ne ful velike,
+
+255
+00:20:52,900 --> 00:20:57,900
+ampak za slovenske razmere relativno velike, ampak je rekel, lej,
+
+256
+00:20:57,900 --> 00:21:02,900
+nas pošljajo na izobraževanje, imamo nek budžet za izobraževanje,
+
+257
+00:21:02,900 --> 00:21:09,900
+naš stek v firmi je Microsoft, vse, kar pač imamo v firmi, je Microsoft stek,
+
+258
+00:21:09,900 --> 00:21:14,900
+in nas pošljajo na leto tudi na to konferenco, tudi na izobraževanje,
+
+259
+00:21:14,900 --> 00:21:17,900
+in smo tu in se danes učimo in govorimo.
+
+260
+00:21:17,900 --> 00:21:24,900
+In druga zadeva, ki je bila, je bil pa ta, na desktopih v naši organizaciji,
+
+261
+00:21:24,900 --> 00:21:29,900
+za njegov primer govorim, uporabljamo Windows-e, pač to je
+
+262
+00:21:29,900 --> 00:21:37,900
+default workspace za mnogo organizacij tam zune, in to je ful dominacija
+
+263
+00:21:37,900 --> 00:21:42,900
+za njega, pač je to zelo, zelo, zelo, zelo, zelo, zelo, zelo,
+
+264
+00:21:42,900 --> 00:21:44,900
+za njega, pač je to zelo, zelo, zelo, zelo, zelo, zelo, zelo, zelo, zelo, zelo, zelo, zelo.
+
+265
+00:21:44,900 --> 00:21:51,900
+in to je ful dominiran ta IT svet, in zdaj jaz sem upel, da bomo mi danes
+
+266
+00:21:51,900 --> 00:21:57,900
+prišli iz ene te konference tudi na ta IT kot tak, ker…
+
+267
+00:22:01,900 --> 00:22:08,900
+Vse dokončajo to mislo, mene je, a veš, jaz sem pač, je Luka dobro načel,
+
+268
+00:22:08,900 --> 00:22:14,900
+mene je pač palj ta, veš, kaj si rekel, muzikologija, in palj ta entuzjazem,
+
+269
+00:22:14,900 --> 00:22:18,900
+ti res ful enega entuzjazma tako kažeš, tako dejansko,
+
+270
+00:22:18,900 --> 00:22:21,900
+kaj ful pozitiven človek in ful pozitiven pristop,
+
+271
+00:22:21,900 --> 00:22:24,900
+kako si palj v IT okončal, oziroma kako si pač, veš,
+
+272
+00:22:24,900 --> 00:22:28,900
+poleg tega, ker, če rečeš, ne, community pa to, ne,
+
+273
+00:22:28,900 --> 00:22:32,900
+to je vse nekaj taka, volontersko entuziastično delo, ne,
+
+274
+00:22:32,900 --> 00:22:36,900
+pa končnoj fazi ti si najdel tudi službo, mislim, ti si pač ustvaril
+
+275
+00:22:36,900 --> 00:22:41,900
+tudi pač karjero znotraj tega, ne, da se pač tudi dejansko s tem ukvarjaš, drži.
+
+276
+00:22:41,900 --> 00:22:46,900
+Drži, apsolutno. Ne, in tukaj bo, tukaj bo palj tisto, kaj je ovo to hotel, ne, veš,
+
+277
+00:22:46,900 --> 00:22:52,900
+da si verjetno tudi en kup, enega IT-a videl pri nas, ne,
+
+278
+00:22:52,900 --> 00:22:57,900
+se pravi, pač imel priliko videti v marsi kateri firmi,
+
+279
+00:22:57,900 --> 00:23:00,900
+kako se pri nas IT fura, ne.
+
+280
+00:23:00,900 --> 00:23:02,900
+To si to ful bolj elegantno, pa lepšo.
+
+281
+00:23:02,900 --> 00:23:04,900
+Ne vem, mislim.
+
+282
+00:23:04,900 --> 00:23:06,900
+Šel si straight to the point, ne.
+
+283
+00:23:06,900 --> 00:23:08,900
+Šel si straight to the point, ja.
+
+284
+00:23:08,900 --> 00:23:12,900
+In zdaj malo tisto, kar me je o to včeraj pač hotel, ne,
+
+285
+00:23:12,900 --> 00:23:15,900
+da z Lukatom se bo ful fajn pogovarjati tako,
+
+286
+00:23:15,900 --> 00:23:20,900
+a je res pač ta IT pri nas na tako slabem glasu, ne,
+
+287
+00:23:20,900 --> 00:23:25,900
+če gledamo z strani, ne vem, javne oprave, z poslanovnih firm,
+
+288
+00:23:25,900 --> 00:23:31,900
+pa se nekaj, sej, Lukat bo zelo težko, Lukat bo tako pozitivno predstavil,
+
+289
+00:23:31,900 --> 00:23:34,900
+ali se, ali se, ali se motem.
+
+290
+00:23:34,900 --> 00:23:40,900
+Ma, glej, iz leti, ugotoviš, saj jaz sem prišel do tega,
+
+291
+00:23:40,900 --> 00:23:47,900
+da je mogoče treba majno psojat in raje bolj skupej držat.
+
+292
+00:23:47,900 --> 00:23:50,900
+To, to, to, to, zelo ne, ne slovensko.
+
+293
+00:23:50,900 --> 00:23:52,900
+Ja, lahko, lahko, da je lahko.
+
+294
+00:23:52,900 --> 00:23:55,900
+To tega ove vrtički, Andražovi vrtički,
+
+295
+00:23:55,900 --> 00:23:57,900
+kjer pravi, da slovenci imamo ful dobre vrtičke,
+
+296
+00:23:57,900 --> 00:23:59,900
+ampak imamo veliko, da vsak za sebe bi bil vrtnar.
+
+297
+00:23:59,900 --> 00:24:05,900
+Samo veš kaj, velikost se kaže v tem, da znaš to preseč in da znaš reč.
+
+298
+00:24:05,900 --> 00:24:08,900
+Glej, glej, začelo se je čisto drugače.
+
+299
+00:24:08,900 --> 00:24:11,900
+Jaz, ko sem bil majhen, mi smo tukaj na Primorskem,
+
+300
+00:24:11,900 --> 00:24:14,900
+zato je on rekel, moj nono je bil elektrotehnik,
+
+301
+00:24:14,900 --> 00:24:16,900
+učen v Italiji.
+
+302
+00:24:16,900 --> 00:24:19,900
+In jaz sem elektrotehniko vzljubil, zdaj,
+
+303
+00:24:19,900 --> 00:24:23,900
+korani cel dan popravljajo televizije raznim ljudem in tako naprej.
+
+304
+00:24:23,900 --> 00:24:25,900
+Tudi, ker je bil kasneje v penzi.
+
+305
+00:24:25,900 --> 00:24:29,900
+In računalništvo je bilo neka nadgradnja tega.
+
+306
+00:24:29,900 --> 00:24:31,900
+Tle je polno enih dodatnih fintic.
+
+307
+00:24:31,900 --> 00:24:34,900
+Recimo, moj oček, ko je videl, da bom jaz se preveč igral v igrce,
+
+308
+00:24:34,900 --> 00:24:39,900
+je sodločil za strategijo, kupil bom računalnik, ki bo eno komponento imel prešvoh
+
+309
+00:24:39,900 --> 00:24:42,900
+za trenutne igrice.
+
+310
+00:24:42,900 --> 00:24:45,900
+Tako da sem vrtil 486 100 MHz-ov, kjer je bil ful,
+
+311
+00:24:45,900 --> 00:24:47,900
+vendar samo 4 MHz-a.
+
+312
+00:24:47,900 --> 00:24:49,900
+Tako da nisi mogu, ne?
+
+313
+00:24:49,900 --> 00:24:51,900
+In pol si pač v eno momentu vdvignul roke.
+
+314
+00:24:51,900 --> 00:24:56,900
+In kar naenkrat na tem 486, ki se je NT4 inštaljiral kot operacijski sistem,
+
+315
+00:24:56,900 --> 00:24:58,900
+in potem me je začelo zanimati to.
+
+316
+00:25:00,000 --> 00:25:02,000
+Vrnem k tem osnovnemu.
+
+317
+00:25:05,320 --> 00:25:07,320
+Jaz sem se naučil,
+
+318
+00:25:08,400 --> 00:25:14,240
+da je boljše, da manj obsvojamo in da si različno med sebojno bolj pomagamo in da sodelujemo in da se učimo,
+
+319
+00:25:14,720 --> 00:25:18,080
+ker Slovenija je polna izjemnih strokovnjakov, res izjemnih. To sva
+
+320
+00:25:18,320 --> 00:25:22,080
+z Andražem imela možnost sreča tudi na Lockchill stakmovanju,
+
+321
+00:25:22,719 --> 00:25:26,799
+pa tudi sicer mimo grede. Jaz, ko sem hodil na muzikologijo v Ljubljano,
+
+322
+00:25:27,360 --> 00:25:32,959
+sem takrat, ko student, pomagal računalničarju na Filofaxu, kada je našta študija tam,
+
+323
+00:25:33,599 --> 00:25:37,439
+da sem tisti računalnik. Jaz se točno spomnim, da na Filofaxu, na onem hodniku,
+
+324
+00:25:37,680 --> 00:25:40,639
+ko greš po stovnicah, so bili računalniki, public računalniki takrat,
+
+325
+00:25:40,880 --> 00:25:43,759
+ne, ker nima vsake računalnika, si tam na onem public računalniku
+
+326
+00:25:44,080 --> 00:25:50,080
+surfal po internetu. In se spomnim, da je nekaj bil tudi v Kleti in jaz sem živel pa na Rimske, to je čisto zraven Filofaksa
+
+327
+00:25:50,480 --> 00:25:53,520
+in sem z enim prenosnikom, ki ni imel wi-fi-ja in je imel še,
+
+328
+00:25:54,320 --> 00:25:58,080
+je imel pa za modem preklopiti, je imel pa tudi za mrežico, vendar mrežico je imel na
+
+329
+00:25:58,320 --> 00:26:01,919
+PCMC-ja kartici takrat, pa zvonim pa ono žičko ven.
+
+330
+00:26:02,240 --> 00:26:07,599
+No, skratka, s tistim sem hodil pol popovdne v Klet, da sem še maile progledal,
+
+331
+00:26:07,839 --> 00:26:11,199
+pa da sem na njega zdownloadal tisto, kar se je nabiralo čez dan,
+
+332
+00:26:12,239 --> 00:26:14,320
+ker nismo imeli kot studenti takrat še
+
+333
+00:26:14,959 --> 00:26:16,000
+interneta v
+
+334
+00:26:17,680 --> 00:26:19,680
+v stanovanju. No,
+
+335
+00:26:21,919 --> 00:26:23,120
+sem hodil reči, da
+
+336
+00:26:23,760 --> 00:26:27,919
+mene ta skupnostni koncept mi je ful blizu, zato ker se je začel tudi s tem,
+
+337
+00:26:28,160 --> 00:26:31,360
+da sem v Ljubljani obiskoval Kiberpipo, jaz sem njega prvič tam srečal.
+
+338
+00:26:31,919 --> 00:26:36,000
+Me z njim nisva se poznala, imam jih ostal v spominu po faci in tudi pa, ko sem ga zdaj
+
+339
+00:26:36,160 --> 00:26:37,040
+po tolkih letih
+
+340
+00:26:37,440 --> 00:26:40,879
+spet srečal, sem vedel, aja, ti tja spadaš, ne, ti si od tam.
+
+341
+00:26:41,279 --> 00:26:49,199
+In tista Kiberpipa meni je bila tako dor koncept, oni so tam neki monitor je prekladali, on je neki tam preklapljal, odklapljal
+
+342
+00:26:49,519 --> 00:26:51,199
+in te njegovi kolegi, razumeš.
+
+343
+00:26:51,760 --> 00:26:58,239
+In meni je bilo tako dobro, jaz sem bil pa aktiven na klubu Goriški študentov, jaz danes nikoli ne bi sedel tle in nikoli ne bi bil, ne vem, tako,
+
+344
+00:26:58,559 --> 00:27:00,879
+če ne bi bilo kluba študentov, zato ker klub študentov
+
+345
+00:27:01,440 --> 00:27:03,199
+v Novogoriški je
+
+346
+00:27:04,320 --> 00:27:05,760
+bil ful napreden klub.
+
+347
+00:27:06,080 --> 00:27:07,279
+In na klubu smo imeli
+
+348
+00:27:07,519 --> 00:27:11,759
+server in meni je bilo to zanimivo in jaz sem tisti server pol zdrževal in postavil, nadgrajeval
+
+349
+00:27:12,559 --> 00:27:14,720
+in postavil prvo točko Wi-Fi,
+
+350
+00:27:15,520 --> 00:27:21,039
+ko ni bil češa in imel Wi-Fi, je bilo totalno brezveze tisti Wi-Fi, je tam server v fole, nikčega ni uporabljal.
+
+351
+00:27:21,520 --> 00:27:22,639
+Ampak
+
+352
+00:27:23,360 --> 00:27:25,759
+tudi na tistem klubu smo delali prostovolno.
+
+353
+00:27:26,320 --> 00:27:32,160
+Smo bili mladi, ko smo hoteli, ne vem, delali smo časopis, radijske oddaje, televizijske oddaje, festivale,
+
+354
+00:27:32,639 --> 00:27:34,639
+koncerte, ne vem, kaj smo vse prirejali
+
+355
+00:27:34,800 --> 00:27:39,759
+in jaz sem v tem duhu tudi IT sprejemal, da dejmo ga na tak način in jaz, ko sem pol spoznal
+
+356
+00:27:40,000 --> 00:27:42,720
+Matjaža Ladavo, Miho Pihlerja, da so v Ljubljani
+
+357
+00:27:42,880 --> 00:27:45,199
+neki slovugi, da tle se srečajo
+
+358
+00:27:45,440 --> 00:27:49,119
+na Microsoftu pa tri predavanja, pa pol pizza in pivo.
+
+359
+00:27:49,679 --> 00:27:55,520
+Oh, the best, ne, in to vsi tla pa volontersko in skupnostno in se pogovarjamo, izmenujemo ideje, tako.
+
+360
+00:27:56,479 --> 00:28:01,679
+Ko sem začel pisati blog, vem, da mi je nek goriški računalničar rekel, ej, ma ne dela tega, veš,
+
+361
+00:28:02,240 --> 00:28:06,559
+to za ti širiš znanje, ljudje bojo kar s tvojim blogom si pomagali.
+
+362
+00:28:06,960 --> 00:28:13,119
+Ej, če bi bilo tako, potem me te kaja ne bi blo, kar na YouTubeu je vse, ni nobene potreba, da se mi tle srečujemo in se pogovarjamo, ker
+
+363
+00:28:13,759 --> 00:28:17,600
+vse, kar ti znaš in kar ti znaš in kar jaz znam in kar on zna,
+
+364
+00:28:18,000 --> 00:28:19,279
+je na YouTubeu
+
+365
+00:28:19,679 --> 00:28:20,880
+desetkrat
+
+366
+00:28:21,199 --> 00:28:22,800
+prepresneto, v smislu, da
+
+367
+00:28:23,039 --> 00:28:26,479
+če se kdo hoče dati v to darata v kateremkoli področju od naših treh
+
+368
+00:28:27,279 --> 00:28:29,039
+dobar, to lahko danes naredi.
+
+369
+00:28:29,600 --> 00:28:30,800
+Ampak, vidiš,
+
+370
+00:28:31,839 --> 00:28:33,119
+nek drugi faktor je,
+
+371
+00:28:33,600 --> 00:28:35,600
+nek človeški faktor in tle, ka govorimo
+
+372
+00:28:36,080 --> 00:28:38,320
+o javni opravi, o slabosti o etioleji.
+
+373
+00:28:39,119 --> 00:28:40,639
+A vemo, kako se počuti ta.
+
+374
+00:28:41,279 --> 00:28:44,639
+A on ljubi svoje delo, ima rad svoje delo, ga res opravlja z
+
+375
+00:28:45,119 --> 00:28:48,320
+entuzjazmom in žarom, ali je to njegova služba, v katero hodi
+
+376
+00:28:48,479 --> 00:28:49,919
+nesrečen že petnaest let.
+
+377
+00:28:50,240 --> 00:28:50,960
+Ne vemo.
+
+378
+00:28:52,639 --> 00:28:53,919
+Jaz zato sem
+
+379
+00:28:54,960 --> 00:28:56,479
+zagovornik, da ne obsvojamo.
+
+380
+00:28:56,720 --> 00:29:02,160
+Ne vemo, kaj še tih pogojih ljudje delajo, lahko so podplačeni, lahko so nezadovoljni, lahko imajo nekaj svoje težave,
+
+381
+00:29:02,639 --> 00:29:05,039
+lahko jim to sploh ni všeč, full faktor ju je.
+
+382
+00:29:05,600 --> 00:29:07,279
+In nikar tako zamenja džoba.
+
+383
+00:29:07,919 --> 00:29:12,320
+Če delaš v računaništu v neko deločeno obdobje, zdaj moraš ti kar nekaj petega. Mislim,
+
+384
+00:29:12,800 --> 00:29:15,119
+to so zelo velike rečije, pa res v računaništu
+
+385
+00:29:15,440 --> 00:29:16,480
+je še en faktor,
+
+386
+00:29:17,760 --> 00:29:20,720
+nekaj imamo s temi ego, timi računalničari. Jaz dost,
+
+387
+00:29:20,880 --> 00:29:22,559
+tudi kaj še ne morem reči. To zraste z leti.
+
+388
+00:29:22,799 --> 00:29:28,559
+Zraste z letima, moramo znati obvladovat, se mi zdi. Če obvladujemo velike sisteme in backupe in
+
+389
+00:29:28,799 --> 00:29:32,880
+netvrke in kodo in GitHube, GitLabe. Jaz bi rekel,
+
+390
+00:29:33,679 --> 00:29:34,640
+jaz mislim, da
+
+391
+00:29:34,880 --> 00:29:40,880
+mogoče zraste z leti, ampak z leti ga moraš tudi spustiti. Z leti moraš ti v bistvu ta ego dati stran.
+
+392
+00:29:41,200 --> 00:29:42,320
+Se strenjam.
+
+393
+00:29:42,480 --> 00:29:44,720
+Pa je to, kaj si rekel, to povezovanje
+
+394
+00:29:44,959 --> 00:29:47,040
+se ne more zgoditi, če so te egote zran.
+
+395
+00:29:47,200 --> 00:29:48,000
+Seveda, ne.
+
+396
+00:29:48,559 --> 00:29:53,600
+In je treba to, to je ena reč, ki je v računaništvu ful prisotna. Jaz se spomnim, kakšen je predavan.
+
+397
+00:29:54,239 --> 00:29:56,959
+Včasih je kdo kar skakal iz publika, razumeš, pa
+
+398
+00:29:57,679 --> 00:30:04,079
+to je on in drugi produkt, če me on ne vem kdaj. Dobro, vse razumem. Da smo tukaj, da se pogovarjamo o tej rešitvi,
+
+399
+00:30:05,600 --> 00:30:11,359
+nekomu lahko pride pravsej, jaz to vem, vse obstaja. Za vsako stvar obstaja nekaj, z čim lahko primjerjamo
+
+400
+00:30:11,519 --> 00:30:13,839
+in ugotovimo, da on in druga stvar ima nekaj ful boljše.
+
+401
+00:30:14,480 --> 00:30:18,720
+Ok, danes smo zdaj pri tem, dajmo se zdaj na to sredotočiti. Vse lahko se, ampak
+
+402
+00:30:19,279 --> 00:30:25,200
+dobra, vse tega več ni, ene parkat je to bilo na predavanjih, to je bila tudi dobra šola za predavanja, da si znal
+
+403
+00:30:26,160 --> 00:30:33,839
+kot samuraj, sedem, kad odiham, pa odreagiram. Moja je skušno čisto, veš, če spet povežam za NTK-jo, pač jaz
+
+404
+00:30:34,320 --> 00:30:41,119
+ne vem, moja, jaz sem, ne vem, NT4 so bili zadnja verzija, s katerimi sem imel pravke in potem pač
+
+405
+00:30:41,839 --> 00:30:45,359
+dol bud preklopil, jaz sem pač prostopil v Linux Lode in
+
+406
+00:30:45,679 --> 00:30:51,600
+pač Unix in vse, kaj je bilo pač z Unixom povezano, a veš, in že takrat je bilo to nekaj, veš,
+
+407
+00:30:51,920 --> 00:31:02,559
+to ono, ego v smislu, a ne, Linux vs. Windows, a ne, in že z tega je bilo tako neko ful veliko rivalstvo, a ne,
+
+408
+00:31:02,559 --> 00:31:13,359
+a veš, pa bi rekel, ne bomo, ne bomo se, ne bomo se vdružili s temi ljudmi, a ne, onima, veš, tako ta, sve ta vojna se gre šlah, a ne, jaz se nikoli nisem dejansko predstavljal, da
+
+409
+00:31:14,320 --> 00:31:28,880
+se bomo enkrat, se bomo enkrat v bistvu srčevali te isti ljudje na NTK-ju, a ne, in v bistvu ne imeli več teh, veš, kaj, če zdaj pomisleš tisto, kaj je bilo 20 let nazaj, 30 let nazaj,
+
+410
+00:31:28,880 --> 00:31:35,760
+a je to res takrat bilo, mislim, donese, donese svet ta ekosistem totalno drugačen. Ja, res. A ne.
+
+411
+00:31:35,760 --> 00:31:48,079
+Res. Ja, res. Ja bi sam za odjens, da jih ne zgubimo pri tem, ko gremo ful preveč nazaj, bi sam rekel, da jaz sem kompajlo mono,
+
+412
+00:31:48,079 --> 00:32:03,359
+ja, ko smo na Paxu smo imeli neke, oziroma na srednji šoli, smo imeli neke C-sharp naloge, pa to, pa je bilo treba narediti, in valda cela vaja vse je bilo na C-sharpu visual studio dot net, a ne,
+
+413
+00:32:03,920 --> 00:32:14,559
+in valda, kako se opiraš s sistemo, ja, pa, če porabiš mono verzijo, ne vem, 0, 0, 1, 2, ne vem, whatever, odonega Miguel de Caza ali kaj je,
+
+414
+00:32:14,559 --> 00:32:19,600
+in potem kompajlaš to za devo in stik, a, fak je, no, in dobiš ček.
+
+415
+00:32:19,600 --> 00:32:27,920
+Kajz, da se. Da se. Da se. Da se. Da se biti player in v opensource-o in z Microsoftih tehnologij.
+
+416
+00:32:27,920 --> 00:32:44,079
+In očitno zdaj ta mono kontributor je, je zdaj dela na dot netu in v Microsoftu zaposlen, in zdaj, kak je dot net se razvija, pa to pa tudi vsi vemo, da je bolj opensource, pa različne platforme, pa la, la, la, la, la.
+
+417
+00:32:44,079 --> 00:32:53,679
+Pa, očitno, novi ljudje, nova ideja, nova ekonomija, nova kolaboracija, volki vidijo, da to je the way to go in očitno bomo še več sodelovali.
+
+418
+00:32:53,760 --> 00:33:07,279
+No, ampak, kot ti vidiš, ta, ta shift, ki se je zgodil, je to pač community, te se pravi, community, ki je pač prišel v strani, v strani Microsofta, ali je pač samo vodstvo, ki je v bistvu, poslo je kar zamenjeno ploščo, ne.
+
+419
+00:33:07,279 --> 00:33:19,839
+V bistvu velik se je zdaj tako te, z odprtimi rukami, zdaj imamo pa pač opensource, a veš, pa, ne na zadnje, pač GitHub je postavil pač Microsoftu produkt, a ne sem, sem ga kupala, ne.
+
+420
+00:33:20,160 --> 00:33:38,640
+Ne, dvomim, da je, iskreno dvomim, da je prišlo to iz vsaji, ne v takimi risk community-a, ker jaz se malo zahed spomnim kakšnega predavanja iz pred desetih let, ko smo Unipower, ko smo PowerShell malo bolj začeli uporabljati, on 2.12, 2.13,
+
+421
+00:33:39,440 --> 00:33:58,719
+ko se je tudi dalo kakšne bolj lepe reči ženordic z njim v smislu nekaj sistemske administracije, ko se je enkrat pošalil in se nekaj boste videli, ki bo v buntu Windows Server 2.20 neče, ne, in danes spleto koliščin je tak, da jutri imamo predavanje, ki bo sicer Windows Server 2.25, vendar
+
+422
+00:33:59,440 --> 00:34:04,159
+virtualke bojo pa Microsoft Linux 3.0 neč, ne, ki je pravkar izšel, ne.
+
+423
+00:34:05,840 --> 00:34:06,320
+Tako,
+
+424
+00:34:06,880 --> 00:34:13,280
+prvi zato, ker bo to hitro lahko spinati te virtualke, ne, po drugi strani pa te virtualke omogočajo ful denih stvari.
+
+425
+00:34:14,640 --> 00:34:25,960
+Jaz mislim, da je k temu potrovalo ta prehod v cloud in to, da je v cloudu bilo potrebno najdeti neko alternativo tej glomazni Microsoftovi
+
+426
+00:34:26,640 --> 00:34:27,359
+osnovi,
+
+427
+00:34:28,719 --> 00:34:30,039
+da bi lahko poganil nekaj
+
+428
+00:34:30,640 --> 00:34:35,320
+preprostega in lightweight, ne. To je po mojem tudi dosti drugih aspektov, tipa energetski,
+
+429
+00:34:36,159 --> 00:34:43,159
+poraba energije, hlajenja, vse te stvari, vse te faktori so po mojem Microsoft malo prisiljili v to, da iskajo alternative, kjer
+
+430
+00:34:44,200 --> 00:34:45,919
+kjer bi lahko z nekimi,
+
+431
+00:34:47,320 --> 00:34:50,159
+z neko drugo platformo omogočil te vse storitve.
+
+432
+00:34:51,159 --> 00:34:53,719
+Kad namreč, ko sem bil v Dublinu, v data centru,
+
+433
+00:34:54,719 --> 00:35:01,039
+je bilo povdarjeno to, da njihova, ena od glavnih skrbi je ta faktor, koliko kompjuta, zakoliko
+
+434
+00:35:01,359 --> 00:35:03,400
+energije v smislu hlajenja in vsega tega.
+
+435
+00:35:03,760 --> 00:35:05,119
+To je sigurno vpliva, ne.
+
+436
+00:35:06,080 --> 00:35:07,679
+Pa tudi cicer, ne, poenostaviti
+
+437
+00:35:08,320 --> 00:35:17,679
+nosiljce današnjih storitev. Zakaj bi glomazen Windows server tekul, zato da pol en kontejner tam zažene, moče lahko to nekot, nek,
+
+438
+00:35:18,000 --> 00:35:20,239
+nek Linux, nekot protakodna platforma
+
+439
+00:35:21,119 --> 00:35:25,000
+fura, ne, in celo boljše, bolj performančno boljše in tako naprej, ne.
+
+440
+00:35:25,799 --> 00:35:29,640
+Tako da jaz mislim, da je to bilo povezano s tem celotnim razvojem, no.
+
+441
+00:35:30,640 --> 00:35:35,000
+Zprav, koliko dajeti smo, da pač, no, tako zagnajemo nove Windowse, pa dosti pa Linux, ne.
+
+442
+00:35:36,239 --> 00:35:41,119
+Ma, to ne vem, ma, ma, ne, ne bom pa niti približno tradil, da tega ne bo.
+
+443
+00:35:41,440 --> 00:35:43,840
+Lahko bo in super, lej, pozdravljam, da bo.
+
+444
+00:35:44,320 --> 00:35:48,880
+Ne, da bo lih kontra, da ne boš Windows subsystem for Linux, ampak da boš Linux in pol
+
+445
+00:35:49,159 --> 00:35:53,799
+Windows subsi, mislim, Linux subsystem for Windows, da se ti bo Windowsi malo virtualizirano zagnali.
+
+446
+00:35:54,039 --> 00:35:56,039
+Vse zakaj pa ne, lahko da nekaj, nekaj, ne res, ne.
+
+447
+00:35:56,960 --> 00:35:58,719
+In neče robe s tem, ne.
+
+448
+00:35:59,239 --> 00:36:00,080
+A to pomeni,
+
+449
+00:36:01,239 --> 00:36:02,400
+v Hyper-V,
+
+450
+00:36:03,719 --> 00:36:05,239
+daj nam to povedi, je to,
+
+451
+00:36:06,039 --> 00:36:07,760
+kaj za boga Hyper-V za mene, ko ne vem?
+
+452
+00:36:07,919 --> 00:36:12,960
+No, Hyper-V je za moje pojme zelo dobra virtualizirska platforma, za tiste, ki
+
+453
+00:36:13,640 --> 00:36:16,919
+so kupli Windows server in jo dobijo out of the box tam.
+
+454
+00:36:17,520 --> 00:36:20,239
+In za tiste, ki poganjajo v glavnem Windows
+
+455
+00:36:20,880 --> 00:36:25,320
+virtualne mašine. Za to je Hyper-V odlična platforma, ker omogoča
+
+456
+00:36:25,880 --> 00:36:28,080
+vse, v narekovah vse, kar ponujejo veliki.
+
+457
+00:36:28,679 --> 00:36:35,919
+Ja, gotovo je pa tle enkupenih drugih playerjev, od protokolnih, brezplačnih do komercialnih, ki pa ponuje nekaj več, lahko.
+
+458
+00:36:36,359 --> 00:36:41,080
+Vendar predvsem v neki domeni, nekih specialnih fičerjev, ki jih verjetno
+
+459
+00:36:42,039 --> 00:36:46,400
+90% Windows ekosistemov ne potrebuje in jih nikoli ne bo potrebovala.
+
+460
+00:36:47,520 --> 00:36:48,280
+Ali pa
+
+461
+00:36:49,320 --> 00:36:52,799
+specifičnih za workloade, ki teče od tega gor. Seveda vidi, da imaš nek
+
+462
+00:36:53,520 --> 00:36:56,960
+Linux, ki ga ono boljše. Ne vem, se spominjem, da pred leti je
+
+463
+00:36:57,400 --> 00:37:03,200
+v MVR imel bi eno predstavitev, kjer je virtualizirana mašina tekla hitreje, kot bare metal, ne. To so
+
+464
+00:37:03,479 --> 00:37:06,159
+takrat, dobra, se je to tudi malo marketingško gotovo in tako, ampak
+
+465
+00:37:06,640 --> 00:37:07,760
+hočem reči,
+
+466
+00:37:08,760 --> 00:37:15,719
+Ja, sigurno. Obstajajo platforme, ki določene stvari očitno izpilijo od bolje, ne, kot Hyper-V, kjer ima svoj overhead in bla, bla, bla, ampak
+
+467
+00:37:16,880 --> 00:37:24,200
+jaz to uporabljam še iz časa, ko je bilo to zelo, zelo leseno. Od 2008 je bil to Hypervisor, ki ni znal vživo migrirati,
+
+468
+00:37:24,679 --> 00:37:27,880
+imel je neko meditve, stališča memorije,
+
+469
+00:37:28,520 --> 00:37:32,640
+CPU je od diskov in vsega tega, ampak se je ščasom razvil v eno prav
+
+470
+00:37:33,039 --> 00:37:35,559
+simpatično resno virtualizirsko platformo.
+
+471
+00:37:36,559 --> 00:37:41,799
+Pa tisti moj, pa to zdaj, ti že pedenaš za PowerShell-om ali klikaš po goju?
+
+472
+00:37:41,799 --> 00:37:50,119
+Ma, zelo odvesno, če nekaj trivialnega klikam, če pa, kot recimo danes, ko sem postavljal demo za jutrišnje
+
+473
+00:37:50,760 --> 00:37:58,799
+predavanje, pa sem si vseveda z PowerShell-om pomagal, ker je neumno naklikavati vsako virtualiko v svoje štirdiske, pa to ponavljati, pa se zmotiti, pa
+
+474
+00:37:59,159 --> 00:38:03,880
+pa me ti pokličeš, a si že, gremo, ne gremo, ne, se zmotiš. Mislim, pa če to
+
+475
+00:38:04,880 --> 00:38:09,880
+to je sigurno bolj zaavtomatizirati in skriptati in tako naprej, tako da je, ampak to je vse, to je
+
+476
+00:38:10,320 --> 00:38:12,760
+jaz mislim, da je PowerShell ni več noben, bal, bal, da je tudi
+
+477
+00:38:13,200 --> 00:38:16,520
+tipični linuks, pardon, Windows skrbniki
+
+478
+00:38:16,960 --> 00:38:18,799
+so s tem zdaj že dost domači, no.
+
+479
+00:38:18,960 --> 00:38:21,840
+A te lahko vprašaj kakje je s terraformom na Windows mašinah?
+
+480
+00:38:22,039 --> 00:38:22,520
+Ej.
+
+481
+00:38:22,679 --> 00:38:30,119
+A je to sploh, lahko mi, gledaj, jaz sem totalen alfabet v Windows mašine, zato je mogoče neumno vprašanje.
+
+482
+00:38:30,119 --> 00:38:37,119
+On menja službo, pa če so mu zdaj dal ne izbero ali bo pač Mac ali bo Windows, pa zdaj je mogoče malo tega za tebi, da bi šel na Windowse.
+
+483
+00:38:37,599 --> 00:38:42,159
+Mislim, gledaj, ti moram odgovoriti, da nimam pojma kako je, ker se s tem res nisem ukvarjal,
+
+484
+00:38:42,599 --> 00:38:43,760
+ampak vem, da so,
+
+485
+00:38:44,000 --> 00:38:50,239
+vem, da so bila vsaj lani, se spomin, da so bila neka predavanja na to temo, zdaj kje smo s tem in na kakšen način se to dela.
+
+486
+00:38:50,440 --> 00:38:52,239
+Vem, da nekaj more biti tukaj vmes,
+
+487
+00:38:52,760 --> 00:38:53,440
+ampak
+
+488
+00:38:53,840 --> 00:38:56,559
+ti res ne znam povedati, ker se res nisem, prav nikoli sem ukvarjal.
+
+489
+00:38:56,760 --> 00:38:58,000
+Ok,
+
+490
+00:38:58,200 --> 00:38:59,679
+kar mene zdaj zanima,
+
+491
+00:39:00,640 --> 00:39:05,799
+ko sem gledal malo tvoje stranke, pa gledam na to, kaj mi Loki poveja o svojih strankah,
+
+492
+00:39:06,200 --> 00:39:15,599
+imam zdaj tu zelo izjemno in unikatno priložnost, da imam strekonjaka iz IT-a, ki je delal IT za zdravstvo,
+
+493
+00:39:15,880 --> 00:39:24,239
+za zdravstvo iz non-Windows enviromento, spravi Loki je delal v zdravstvu, pa zdravstvene domove
+
+494
+00:39:25,039 --> 00:39:34,520
+IT v tem segmentu, pa imamo od tebe, če prav razumem, si tudi delal zelo veliko za zdravstvene domove, pa IT v zdravstvo kot takem,
+
+495
+00:39:35,679 --> 00:39:43,280
+pa sem vajo ful hotel napeljati na to temo, pa kaj zanimivega tukaj ven zavleči, zato, ker kot uporabnika
+
+496
+00:39:43,479 --> 00:39:46,599
+zdravstvenih domov, pa zdravstva v Sloveniji,
+
+497
+00:39:48,159 --> 00:39:53,159
+se mi zdi, da bi lahko marsi kaj naredili, mogoče bistveno boljše.
+
+498
+00:39:53,479 --> 00:39:57,640
+Včasih sem naravno šokiran, ko neke stvari ne delujejo, ki se mi zdi, da pač
+
+499
+00:39:58,479 --> 00:39:59,599
+fak, zakaj to ne dela?
+
+500
+00:40:01,039 --> 00:40:05,799
+Pa me samo zanima, kakje izzive vidite in kaj ste že doživeli v tem
+
+501
+00:40:06,359 --> 00:40:10,880
+slovenskem IT-u pa zdravstvu, a lahko kaj več o tem poveta?
+
+502
+00:40:11,799 --> 00:40:12,760
+Možda ti začeli, Loki?
+
+503
+00:40:13,719 --> 00:40:16,760
+Vem, da je to ful nehvaležno, pa pek to vprašanje.
+
+504
+00:40:17,080 --> 00:40:17,799
+Jaz bom tako,
+
+505
+00:40:18,559 --> 00:40:20,599
+pravim pač to miselo, ne, ne džadžat.
+
+506
+00:40:20,719 --> 00:40:26,719
+Jaz predvsem vidim, a veš, to je ta klasičen problem pomankanje resursov.
+
+507
+00:40:28,080 --> 00:40:34,200
+Jaz mislim, da sveda so tudi tle finančne resursi, zakaj določene stvari niso, ampak jaz
+
+508
+00:40:34,200 --> 00:40:39,559
+bom predvsem videl te človeški resursi, se pravi, da kader, ki je, je
+
+509
+00:40:40,119 --> 00:40:46,520
+zelo podhranjen, da v bistvu, če imaš nek IT, nekje vstanove, je
+
+510
+00:40:47,520 --> 00:40:54,000
+navadno eden, ki se je vtaplja v delu, se pravi, eden, ki obvlada in se dejansko vtaplja v delu,
+
+511
+00:40:54,359 --> 00:40:59,719
+a ne, zdaj je pustno, ali so pogoji ali pač, ne vem, nadrejeni ali drugače porazdeliti za dele,
+
+512
+00:41:00,080 --> 00:41:00,440
+a ne,
+
+513
+00:41:01,479 --> 00:41:05,159
+navadno upažam, da je to okolje tako zelo
+
+514
+00:41:05,359 --> 00:41:09,000
+nestimulativno, tako zelo v bistvu človeka obije,
+
+515
+00:41:09,479 --> 00:41:11,719
+da, če je človek kolikor tolk,
+
+516
+00:41:12,200 --> 00:41:12,640
+ne vem,
+
+517
+00:41:13,000 --> 00:41:19,719
+pak pameti vse tako prej obupa in pač gre nekje manj strešno službo.
+
+518
+00:41:20,559 --> 00:41:24,200
+Tako da jaz pač tist, kaj sem imel prilike, sem imel prilike videti en kup enih
+
+519
+00:41:24,520 --> 00:41:30,760
+dobrih kadrov, ki je zapustil ta sektor zato, ker so bili pogoji neprimerni za delo.
+
+520
+00:41:31,799 --> 00:41:35,520
+Ne bom zdaj, kaj je bilo tist, ampak verjamem, da
+
+521
+00:41:35,919 --> 00:41:44,719
+z nekom, z nekim pešnom, z nekim intozivjazmem se da tudi z menj resursov, z narediti mar si katero rešitev, ki bi pila vodo,
+
+522
+00:41:45,159 --> 00:41:49,840
+ki bi, ne vem, ta naš zdravstven sistem digitalizirala do te mere, da bi stvari delale,
+
+523
+00:41:50,239 --> 00:41:51,239
+a ne, ampak
+
+524
+00:41:52,359 --> 00:41:52,719
+ne vem,
+
+525
+00:41:53,280 --> 00:41:56,840
+to je bilo, to je tist moj del, ko sem ga pač imel prilike videti.
+
+526
+00:41:59,640 --> 00:42:01,280
+Ja, bi se strinjal s tem,
+
+527
+00:42:01,760 --> 00:42:04,959
+mogoče bi dodal še to, da je dostati tudi en tak komunikacijski
+
+528
+00:42:05,520 --> 00:42:08,520
+problem, da dostati te ljudje, ki delajo v teh sektorih,
+
+529
+00:42:10,719 --> 00:42:12,119
+ali imajo težavo
+
+530
+00:42:13,359 --> 00:42:15,079
+izpostaviti svojo težavo,
+
+531
+00:42:16,079 --> 00:42:19,199
+ali pa pač so malo komunikacijsko manj
+
+532
+00:42:19,880 --> 00:42:20,719
+angažirani,
+
+533
+00:42:21,239 --> 00:42:24,199
+zato je, ker jaz dostati vidim, recimo, da si česa ne upaš,
+
+534
+00:42:25,400 --> 00:42:27,640
+da si ne upaš poskusiti
+
+535
+00:42:28,040 --> 00:42:31,319
+nekaj aktivirati, bom rekel, za izboljšavo vsega skupaj,
+
+536
+00:42:32,040 --> 00:42:36,319
+ja, kaj pa, čeprav ne bodo delovali? Ja, dobro, pa se obvestimo vse, da bomo jutri to testirali,
+
+537
+00:42:36,319 --> 00:42:38,199
+dajmo zbrati en dan, ko ni toliko bizi,
+
+538
+00:42:38,640 --> 00:42:41,280
+pa dajmo poskusiti, če ne moramo to izolirano narediti
+
+539
+00:42:41,839 --> 00:42:43,119
+na bolj varan način.
+
+540
+00:42:43,920 --> 00:42:49,959
+Tako da dostati se mi, da stojijo stvari na istem mestu, zato, ker pač tako je, dela, pusti, premjeru, ne tikaj,
+
+541
+00:42:51,160 --> 00:42:52,160
+res je, da
+
+542
+00:42:52,680 --> 00:42:57,760
+je veliko softverjev, no, zdaj, spet tukaj pride do enega generacijskega preskoka,
+
+543
+00:42:58,040 --> 00:43:02,319
+ne, recimo v velikih stanovah so porabljali nekaj res starejših softverjev, ki so bili,
+
+544
+00:43:02,880 --> 00:43:04,319
+ki so začeli se
+
+545
+00:43:04,959 --> 00:43:09,040
+graditi, verjetno, konec devedesetih in še danes na tisti, isti osnovi
+
+546
+00:43:09,359 --> 00:43:12,319
+se nadgrajujejo, kar vemo, da ni po nobenih
+
+547
+00:43:13,319 --> 00:43:15,959
+smernicah modernega programiranja, pa tudi
+
+548
+00:43:16,239 --> 00:43:19,560
+varnostnih smernic, v skratku, a verjetno je pri manjkljavi marsikje,
+
+549
+00:43:20,319 --> 00:43:20,839
+ampak
+
+550
+00:43:21,319 --> 00:43:26,040
+je spremembe zakonodaj, dodatke, neki novi dodatki, neki nove
+
+551
+00:43:26,239 --> 00:43:30,160
+programe in tako naprej so tako hitri, da verjetno niti te programerske hiše
+
+552
+00:43:31,560 --> 00:43:38,119
+ne vtegnajo, verjetno, da bi zdaj rekli, ok, zdaj naredimo pa kat, pa bomo nek nov softver razvili, pa bomo potem ga s tem nadomestili.
+
+553
+00:43:38,560 --> 00:43:43,760
+In to, po eni strani, daje zdaj priložnost nekim novim programerskim hišam, se je tako opažam,
+
+554
+00:43:44,880 --> 00:43:47,160
+ki pa prihaja z nekimi modernimi koncepti,
+
+555
+00:43:47,839 --> 00:43:51,839
+kar jaz mislim, da tukaj ni infrastrukturni problem, da imamo mi v zdravstvu
+
+556
+00:43:52,280 --> 00:44:00,160
+premalo hardvera ali premalo switchev ali ne vem če jesam, ampak glavno težavo po mojem predstavljajo softveri, ki jih uporabljamo
+
+557
+00:44:00,920 --> 00:44:04,319
+iz, po, vse kot kar sem jaz videl, iz teh razlogov, ne.
+
+558
+00:44:06,000 --> 00:44:06,599
+Zdaj
+
+559
+00:44:09,920 --> 00:44:14,040
+mislim, da te nove rešitve, ki prihajajo, bodo marsikej
+
+560
+00:44:14,560 --> 00:44:19,959
+premakali, pa res da spet preseliti se z enega softvere na drugi, predstavlja stres
+
+561
+00:44:20,560 --> 00:44:22,319
+ne računalniškem ukadru, ne.
+
+562
+00:44:22,800 --> 00:44:28,839
+Zdravnik ima sedem minut za obravnavo, ne, kaj zdaj bo še tri minute vsak, nekaj, prvi mesec,
+
+563
+00:44:29,280 --> 00:44:34,959
+tri minute vsake obravnave porabil, zdaj se bo v programu, mislim, če je to nek neintuitivan program ali pa.
+
+564
+00:44:35,280 --> 00:44:37,479
+Zato je tudi mogoče ena žogica na
+
+565
+00:44:37,839 --> 00:44:41,520
+te programerska hiša, da je treba to spet vzeti v zakup, ne. To niso
+
+566
+00:44:43,119 --> 00:44:43,640
+veste,
+
+567
+00:44:43,640 --> 00:44:51,880
+ne. To niso neki pisarniški uporabniki, ki tudi zdaj, če prije dan so v službo v Bosnih in če njemu nek wart
+
+568
+00:44:52,439 --> 00:45:00,880
+je premaknil in konce vse na desno z gornjo stran in se more malo vid, ne, to so zdravniki, medicinske sestre, že tako obremenjeno v sebije
+
+569
+00:45:01,560 --> 00:45:04,280
+in predvrati so ljudje, ki so bolani.
+
+570
+00:45:04,599 --> 00:45:07,880
+Ne zdravi, ki lahko čakajo, imajo čas ali pa
+
+571
+00:45:08,239 --> 00:45:14,119
+so zdravi in so sitni, ma so vse zdravi. So ljudje, ki so bolani, imajo vročino in boli noga, glava, ne vem kaj.
+
+572
+00:45:14,839 --> 00:45:16,839
+In to so ena druga
+
+573
+00:45:17,760 --> 00:45:23,959
+stanja. Recimo jaz, ko sem delal, se spominjam, da včasih se je zgodilo, da se nekaj zatakne, nekaj se zgodi in pa me
+
+574
+00:45:24,439 --> 00:45:26,640
+recimo medicinska sestra ali zdravnik pokličejo.
+
+575
+00:45:27,800 --> 00:45:29,400
+Mi rečejo, luka, tle se vse ustavilo,
+
+576
+00:45:29,560 --> 00:45:33,560
+imamo zgodilo, prvo, če ne vdihni, ker zdaj ti si odaljeno od mene
+
+577
+00:45:34,199 --> 00:45:39,880
+35 minut z avtom. Zdaj, če bom mogel prijeti, ja, bo to 35 minut, tako, da rajš pripravim mehanizem,
+
+578
+00:45:40,199 --> 00:45:42,839
+s katerim boš obvledovala te ljudi, 35 minut.
+
+579
+00:45:43,400 --> 00:45:51,719
+Druga stvar je, če boš zdaj vdihnila, se zbrala in pomagala in jaz tebi pomagam, bova pršla do tega, da to problem rešim in mogoče bom v roku minute ready to go.
+
+580
+00:45:53,400 --> 00:45:55,400
+Pač komunikacija, ne.
+
+581
+00:45:56,359 --> 00:45:59,319
+Tudi strani nas, IT-jovcev. Vse doskat je tako, da
+
+582
+00:46:00,359 --> 00:46:02,359
+to, če se vrnem na unijego, IT-jovske.
+
+583
+00:46:02,359 --> 00:46:06,760
+To je že kar advest. To je v bistvu vprašanje, a to si se naučil?
+
+584
+00:46:06,760 --> 00:46:07,800
+Jaz sem se naučil.
+
+585
+00:46:07,800 --> 00:46:12,040
+Ali si pač, veš, bil zgujen z tem, ker pač
+
+586
+00:46:12,280 --> 00:46:18,199
+jaz mislim, da ta skill, da dela z ljudmi manjka.
+
+587
+00:46:18,280 --> 00:46:21,640
+A pa se lahko preživiš, če nisi imel
+
+588
+00:46:22,199 --> 00:46:30,760
+flegmatika v tem IT-jo, v takem environmentu. Če te vse to vrže stres, boš živočko sporel.
+
+589
+00:46:30,760 --> 00:46:35,160
+No, ampak masika terjajo te odsnima tega potrpljenja. Jaz to tudi razumem.
+
+590
+00:46:35,160 --> 00:46:38,119
+Obstajajo moji kolegi, ko ne marajo preveč.
+
+591
+00:46:38,119 --> 00:46:40,119
+Pa se jih ljudi pa ne upajo poklicati na telefon.
+
+592
+00:46:40,119 --> 00:46:46,680
+Tako je, ne. Se tudi recimo zdaj samo neko izobraževanje na temu malo tako varno uporabi računalnika, kjer jaz
+
+593
+00:46:48,199 --> 00:46:53,640
+nivoza uporabnike. In se nekako moramo se znebiti tega, ja, če se zameriš IT-jevcu,
+
+594
+00:46:54,599 --> 00:46:57,160
+kaj je to za ena scena? Mislim, kje kaj živimo?
+
+595
+00:46:57,160 --> 00:47:01,479
+Da tu bi se hišnik v zameru, pa kaj, ne bo radiator delal pol? Mislim,
+
+596
+00:47:01,479 --> 00:47:05,160
+kaj so to za ene strahovi, ne? IT-jevce tako kot ti, ne? Samo mogoče
+
+597
+00:47:05,160 --> 00:47:11,079
+dejmo tisti, ki mogoče ima boljše skille komunikacijske, ne tisti pristopi, ne? Na en dober način pristopi, ne?
+
+598
+00:47:11,079 --> 00:47:15,640
+Velja v obesmeri. Ampak hoče neče dodoskat, je tako, da
+
+599
+00:47:16,599 --> 00:47:22,839
+mislim, zato je mogoče zdravstvena taka specifika, že ko si jo vprašal, to je res ena specifika, ni navadna firma.
+
+600
+00:47:23,479 --> 00:47:26,199
+In zato so te programe zelo pomembni, da
+
+601
+00:47:26,680 --> 00:47:30,119
+jih bi se želel, da bi bili res intuitivni, čim manj klikanja, da bi im res
+
+602
+00:47:30,760 --> 00:47:33,560
+omogočili delati tisto, zakaj so oni tam, ne?
+
+603
+00:47:34,119 --> 00:47:39,640
+A mislite, da če bi bilo več zakonodajnih nekih restrikcij, pa omitelj, pa
+
+604
+00:47:40,119 --> 00:47:41,160
+da bi, ne vem,
+
+605
+00:47:41,719 --> 00:47:49,160
+da bi se eno prisilo ljudi, ne vem, upgrade, ne vem, boljše security policy, boljše, ne vem,
+
+606
+00:47:49,160 --> 00:47:53,800
+planiranje. Mislim tako, da je čist plastičen primera, ne, a veš.
+
+607
+00:47:53,800 --> 00:47:56,199
+Regolacija lahko spolh danes bo generirala.
+
+608
+00:47:56,199 --> 00:47:59,719
+Polnodiš, polnodiš sistem, da
+
+609
+00:47:59,719 --> 00:48:00,599
+tako že,
+
+610
+00:48:00,599 --> 00:48:07,319
+zapravo te, imaš te elektronska kartoteka, ne, v bistvu od pacijentov, ne, in zdaj boš pač ti imet
+
+611
+00:48:07,400 --> 00:48:12,760
+sistem, ki se moraš noč zlogirati, da imaš pogled gor dolj, ne, tist ima nek PDF, ne, ampak
+
+612
+00:48:13,160 --> 00:48:15,319
+kaj te noča, če ti pač nek zdravnik reče, ej,
+
+613
+00:48:16,040 --> 00:48:17,959
+pravzaprav za komplicirati, si me s to na melj poslal.
+
+614
+00:48:18,359 --> 00:48:20,040
+A ne? Veš, kako se zdaj
+
+615
+00:48:20,520 --> 00:48:21,800
+temu izogneš, a ne?
+
+616
+00:48:22,439 --> 00:48:24,439
+Veš, ti si pač si postavil,
+
+617
+00:48:24,760 --> 00:48:27,239
+a veš, po nekem standardu, moramo zdaj imeti
+
+618
+00:48:27,239 --> 00:48:31,000
+sistem, ki ima neko sledljivost, kdo ima pogled v tega, ampak
+
+619
+00:48:31,239 --> 00:48:37,880
+ker ima on možnost tega zdevo prenesti, ne, pa da se pač vlajša stvar, a ne, si pa, veš, pošle preko maila, a ne,
+
+620
+00:48:38,199 --> 00:48:40,599
+in pa možnosti še na svoj Gmail naslova, ne.
+
+621
+00:48:40,920 --> 00:48:42,520
+Tako da, veš, tako
+
+622
+00:48:42,920 --> 00:48:46,920
+zelo teško je pa tisto, ker si Luka prej omenjal, a ne,
+
+623
+00:48:47,160 --> 00:48:47,959
+eno so,
+
+624
+00:48:48,839 --> 00:48:50,599
+eno so tako, ja, te
+
+625
+00:48:50,839 --> 00:48:54,520
+programi, ki se razvijajo, a ne, nekaj so pa te neke stvari, ki
+
+626
+00:48:54,839 --> 00:48:58,599
+ne vem, recimo, jaz sem en primer imel, ko smo nadgrejevali
+
+627
+00:48:58,760 --> 00:49:00,680
+nek mail klaster, a ne,
+
+628
+00:49:01,000 --> 00:49:04,040
+in v neki fazi smo rekli, TLS mora pač biti
+
+629
+00:49:04,199 --> 00:49:07,800
+negledena, je pač inbound ali outbound pošta, ne,
+
+630
+00:49:08,040 --> 00:49:12,359
+in tudi pač, ne vem, ko boste pošiljali pošto, TLS mora pač
+
+631
+00:49:12,520 --> 00:49:13,959
+pač po defoltu biti, a ne.
+
+632
+00:49:15,239 --> 00:49:19,400
+2020 ali 2022, kaj smo imeli projekt, to mora delati, ne.
+
+633
+00:49:19,800 --> 00:49:20,119
+Ja.
+
+634
+00:49:20,439 --> 00:49:27,239
+Glej, testirali smo, vse smo testirali, vse je delali, na koncu pogotovimo, da, veš, uno naprava za
+
+635
+00:49:27,640 --> 00:49:30,920
+za analizo kar vi pošle, pošle mail,
+
+636
+00:49:31,160 --> 00:49:32,439
+a ne, in
+
+637
+00:49:33,000 --> 00:49:36,040
+zadeva pač ne podpira, a ne, in zdaj, a veš,
+
+638
+00:49:36,520 --> 00:49:39,400
+komunikacija s proizvajalcom, narediti izjem, vsem,
+
+639
+00:49:39,640 --> 00:49:41,400
+take stvari, in to je pač nek tak,
+
+640
+00:49:41,640 --> 00:49:43,239
+v svoji legacy,
+
+641
+00:49:43,479 --> 00:49:45,800
+kaj se takrat v tem nekem
+
+642
+00:49:46,040 --> 00:49:51,000
+dizajnu ni tega pošteval, a ne, in zdaj to moraš poloviti, a ne, in to so pale take stvari,
+
+643
+00:49:51,160 --> 00:49:52,040
+a veš, tudi,
+
+644
+00:49:52,199 --> 00:49:55,640
+kot ti rečejo, ja, mi ne dobimo krne slike, oziroma pač iz videa.
+
+645
+00:49:56,439 --> 00:50:00,040
+Kaj zdaj, kje zdaj, kje zdaj začeti, potegen, ali na mrežji problema?
+
+646
+00:50:00,000 --> 00:50:02,000
+Aha, ok, tist mail pošilja.
+
+647
+00:50:02,000 --> 00:50:06,240
+A veš, tako, je za savo potegne en kup stvari.
+
+648
+00:50:06,240 --> 00:50:13,120
+Zdaj pač tist bogej IT-oc, časih ne ve, časih je prezesedn, časih pač ne vem.
+
+649
+00:50:13,120 --> 00:50:19,280
+Prej menja eno kartušo v printerju, nek telefon rešuje, zdaj mu pa nekdo govori, da tam nekaj izvide ne dela.
+
+650
+00:50:19,280 --> 00:50:22,879
+No, ama to je tudi ful pomemben aspekt.
+
+651
+00:50:22,879 --> 00:50:26,080
+Iz tega tudi izvira unimoji neobsojaj.
+
+652
+00:50:26,160 --> 00:50:31,040
+Ker vem, da v časih je bilo trendy, so podjetja prišla, recimo IT-ovska podjetja so hodila okrog,
+
+653
+00:50:31,040 --> 00:50:36,320
+pa so svetovala drugim podjetjem, recimo v nevem so pršli, pa so naredili skrbni pregled okolja
+
+654
+00:50:36,320 --> 00:50:39,040
+in potem so oni dali neke svoje smernice, ne.
+
+655
+00:50:39,040 --> 00:50:40,320
+Veliko poterijo.
+
+656
+00:50:40,320 --> 00:50:42,000
+V redu, ne, prite, ne.
+
+657
+00:50:42,000 --> 00:50:47,200
+Pa mi zdaj reši mašino, ki stane ne vem 200 tisoč, 300 tisoč evrov, ki analizira kri
+
+658
+00:50:47,200 --> 00:50:50,880
+in ne zna TLS, in kaj bomo zdaj naredili? A bomo zdaj mašino menjali?
+
+659
+00:50:51,439 --> 00:50:54,080
+Izvili, iskreno, to je neuzdržno.
+
+660
+00:50:54,880 --> 00:50:56,080
+To je nemogoče.
+
+661
+00:50:56,080 --> 00:50:57,759
+To je nemogoče pomenjati,
+
+662
+00:50:57,759 --> 00:51:00,959
+nemogoče je spraviti, vsim tudi,
+
+663
+00:51:00,959 --> 00:51:03,919
+kaj bi to pomenilo? To bi pomenilo, da bomo li te mašine menjavati
+
+664
+00:51:03,919 --> 00:51:07,440
+na ne vem, govorim zdaj 8 do 10 let,
+
+665
+00:51:07,440 --> 00:51:10,400
+čeprav te mašine brez težav živijo 20, ne.
+
+666
+00:51:10,400 --> 00:51:16,320
+Zdaj, mi moramo biti tudi toliko fleksibilni in razumevajoči, da pač, ok, bomo mogli z nekimi drugimi
+
+667
+00:51:16,320 --> 00:51:20,559
+protokoli to rešiti. Recimo, ne vem, primer sem imel programskega paketa,
+
+668
+00:51:20,559 --> 00:51:25,279
+ki komunicira z bazo in ugotovil sem, da komunicira
+
+669
+00:51:25,279 --> 00:51:28,559
+plain text, boljko ne. In enkrat se z vršarkom to
+
+670
+00:51:28,559 --> 00:51:33,360
+posnifl in ugotovil, da se da razbrati. Ni lih prav čisto berljivo, ampak se da razbrati, ne.
+
+671
+00:51:33,360 --> 00:51:35,519
+In potem sem jih vprašal, da se da to rešiti in so
+
+672
+00:51:35,519 --> 00:51:38,959
+malo jokali, da bo to težko, pa da bo to nekaj stroške prineslo
+
+673
+00:51:38,959 --> 00:51:41,760
+in ok, pa smo na drug način rešili. Na Windows okolju
+
+674
+00:51:41,760 --> 00:51:46,160
+IPSec med mašinami in serverjami in zdaj je stvar neberljiva, ko gre po mreži, ne.
+
+675
+00:51:46,160 --> 00:51:49,040
+Torej, obstaja tudi nekaj druga alternative, ne.
+
+676
+00:51:49,040 --> 00:51:52,720
+In to sem večkrat tudi predstavljal, pa tudi en blok se napisal, pa videl
+
+677
+00:51:52,720 --> 00:51:55,360
+vodič, ko se da take stvari nasloviti, ne.
+
+678
+00:51:55,360 --> 00:52:00,480
+Z katerimi lahko en problem, ki ga mogoče zdaj mašina ne more rešiti ali pa
+
+679
+00:52:00,480 --> 00:52:03,279
+programerska hiša ne more rešiti, ali pa bi predstavljala zgolj
+
+680
+00:52:03,279 --> 00:52:07,279
+nek nepredviden strošek, ki je zdaj za organizacijo previsok, ne.
+
+681
+00:52:07,279 --> 00:52:11,360
+Ker jaz tudi tako pravim, veš, jaz bi tudi rad imel vse perfect, ne.
+
+682
+00:52:11,360 --> 00:52:15,479
+Ampak, nažalost, moramo živeti skladno z možnostmi, ne. In tudi
+
+683
+00:52:15,479 --> 00:52:20,919
+jaz mislim, da je boljše, da so zdravniki sestre o sebi boljše plačani, da boljše
+
+684
+00:52:20,919 --> 00:52:24,960
+delajo svoje delo, so bolj zadovoljni, ali pa da imajo boljše orodja, s katerimi
+
+685
+00:52:24,960 --> 00:52:27,080
+delajo, kot da zdaj jaz
+
+686
+00:52:28,720 --> 00:52:31,919
+trmoglavim, da moramo ono mašino tam zamenjati za
+
+687
+00:52:32,679 --> 00:52:36,479
+zato, ker ne bom izjemel jaz jaz zatele vse naredil zarad tega, ne.
+
+688
+00:52:37,240 --> 00:52:39,720
+Tako je, treba malo zdravorazumsko, no, na rači.
+
+689
+00:52:39,720 --> 00:52:42,559
+A pa imaš, a veš, mogoče tako prašu,
+
+690
+00:52:42,720 --> 00:52:52,639
+nekata marketinška, lep slogan je, vse firme so postale tech firme, ene tega se zavedajo, druge se tega ne zavedajo.
+
+691
+00:52:52,639 --> 00:53:03,279
+A ima ta videl občutek, da vajni sogovorniki se zavedajo, da so to zelo tehnološke organizacije, da tista mašina, tako se reku, košta 200-300 čukov,
+
+692
+00:53:03,279 --> 00:53:18,720
+da te podatki so zelo občutljivi, vredno najbolj občutljivi podatki, kar jih vsi zmenjujemo, da pač, no ne vem, v Angliji smo videli, ko prije kriptovirus, pa ti celo bolnica zaklene.
+
+693
+00:53:19,759 --> 00:53:22,399
+A ima to občutek, da dovolj naredimo na,
+
+694
+00:53:22,559 --> 00:53:31,600
+moram reči o tem, izobraževanju odločevalcev v teh organizacijah, a jim sploh damo dovolj možnosti, a so sploh dovolj dobri sogovorniki, lahko sploh pušajo neke agende, da
+
+695
+00:53:31,600 --> 00:53:38,559
+za spremen bo, a sploh imamo to kapaciteto, ali gremo res samo za gašenje požarov, ker glede na output, ki ga kot
+
+696
+00:53:38,559 --> 00:53:44,000
+kot juzer vidim, imam občutek, da sam gosi o požare. Zdaj, ne vem, kaj pa te mislite?
+
+697
+00:53:44,000 --> 00:53:51,919
+No, jaz lahko govorim za novogoriško sceno, tam lahko rečem, da je posluh za to izjemen, že več kot deset let.
+
+698
+00:53:52,559 --> 00:54:00,240
+In, da se izobražuje uporabnike vsako leto, kar je super, da
+
+699
+00:54:00,720 --> 00:54:06,399
+se vsaj postavlja vprašanja, lahko tudi, če vodstvo ni toliko tehnično usposobljeno, ker itak ni,
+
+700
+00:54:06,399 --> 00:54:12,399
+ma, se vsaj postavlja vprašanja, se o njih diskutira in tako naprej. Jaz sem na to
+
+701
+00:54:13,360 --> 00:54:17,040
+dost kato pozarjal, ravno to, ko je rekel Andraž,
+
+702
+00:54:18,000 --> 00:54:25,040
+ne pošiljajte na Gmail, ne, ali pa ne pošiljajte na svoj, ali pa ne z WhatsAppom slikati iz vide, pa ga pošiljati, ne.
+
+703
+00:54:25,040 --> 00:54:32,959
+Pač ne delajmo tega, ne, ker na to nimamo več vpliva. To, kar enkrat naredimo, nima več pustiti to end-to-end enkryption, ne vem kaj, vse nam obljublja te platforme,
+
+704
+00:54:32,959 --> 00:54:36,399
+ampak te platforme niso naše, nič nimamo mi z njimi.
+
+705
+00:54:36,399 --> 00:54:42,000
+In enkrat poslano je fine, dela storja, to je zdaj šlo in nič nima več vpliva.
+
+706
+00:54:42,959 --> 00:54:50,000
+Jaz to posebej povdarjam pri mlajših uporabnikih, ker zdaj pač nastopajo v službe že tako mladi ljudje, ki
+
+707
+00:54:50,559 --> 00:54:57,279
+težko ločijo med službenim in osebnim, kar se tiče tudi uporabe tehnologiji, ne, to je za njih tako vse,
+
+708
+00:54:58,320 --> 00:55:00,320
+bom rekel, se pretaka, ne.
+
+709
+00:55:00,320 --> 00:55:06,239
+In jih je treba na to opozoriti, pa ne strašiti, jaz jih ne strašim, ampak jih opozarjam, ne, če lejte, dejte.
+
+710
+00:55:07,119 --> 00:55:07,679
+Ne.
+
+711
+00:55:08,720 --> 00:55:14,480
+Te aplikacije niso primerne za to počet, imamo druge poti, da jim se tistih posluževa, tudi če jih daj malo težje,
+
+712
+00:55:14,480 --> 00:55:21,040
+pač boš tisto dva klika ali pa tisto 30 sekund več porabil, ker to je z nekaka komforta pršlo, ne,
+
+713
+00:55:21,040 --> 00:55:25,600
+vse v času Covid-a, bodte prepričani, da je, po mojem, vsega boga letelo čez te platforme,
+
+714
+00:55:25,600 --> 00:55:31,040
+ampak ok, razumem, je neko izredno stanje v državi, nobeden točno ne ve, kako upravljati,
+
+715
+00:55:31,119 --> 00:55:39,519
+ok, pa so ljudje nekaj samo organizirajo, naredijo v ne grupe, pač ok, razumljivo, ampak zdaj smo spet v neki normalnosti in dajmo,
+
+716
+00:55:40,799 --> 00:55:46,640
+vrnimo se, ne, da idemo te protokole spet popraviti nazaj, no in jaz tam s tem nimam nekih težav,
+
+717
+00:55:47,200 --> 00:55:49,600
+sem pa opozoril na eno stvar, da
+
+718
+00:55:50,959 --> 00:55:56,079
+pomembne službe, kot so zdravstveni domovi, komunale in podobno,
+
+719
+00:55:56,320 --> 00:55:59,600
+in po mojem mnenju, tudi če delamo v računalništvu, bi mogli imeti en
+
+720
+00:56:01,600 --> 00:56:04,720
+mali plan B, v primeru, da računalništvo ne deluje,
+
+721
+00:56:05,839 --> 00:56:06,399
+ker
+
+722
+00:56:06,959 --> 00:56:13,679
+ne moremo mi zdaj toliko se obesiti na to, da ne moremo, da nismo sposobni več ena analiza krvi narediti v računalni, ki ne delajo, ne,
+
+723
+00:56:14,079 --> 00:56:16,239
+v skrajnem primeru in v nekem
+
+724
+00:56:16,640 --> 00:56:21,440
+prehodnem obdobju se, to ne bo zdaj forever, ampak recimo, da smo sposobni en teden
+
+725
+00:56:21,920 --> 00:56:28,000
+na nek način ohromljen, ampak še vedno zadostan delovati tudi v primer, da računalništvo ne dela, ker
+
+726
+00:56:28,399 --> 00:56:29,920
+jaz sem neko, lejte, jaz sem,
+
+727
+00:56:30,239 --> 00:56:36,959
+meni me to všeč, jaz to zelo rad delam, se trudim po najboljših močeh, ampak napadavci imaš 24 turi, jaz pa grem spati, ne, v mes.
+
+728
+00:56:38,079 --> 00:56:39,200
+In ga ni
+
+729
+00:56:39,440 --> 00:56:41,920
+na tem svetu, da je toliko
+
+730
+00:56:42,720 --> 00:56:47,119
+prepričan vas, da lahko reče, nič se ne bo nikoli zgodilo. Jaz na ta scenarij
+
+731
+00:56:47,920 --> 00:56:50,799
+sicer oddaljeno, ampak računam, lahko se zgodi, ne.
+
+732
+00:56:51,040 --> 00:56:53,040
+Lahko se zgodi in je po mojem,
+
+733
+00:56:54,000 --> 00:56:55,519
+treba me tudi en tak,
+
+734
+00:56:55,920 --> 00:57:00,079
+sej ni, da ono, zdaj bomo ši naročne pumpe za vodo, pa ne vem kaj, ampak
+
+735
+00:57:00,720 --> 00:57:05,600
+malo moramo tudi o takih stvarih razmišljati, še posebej, če gledamo globalno, kaj se dogaja na svetu,
+
+736
+00:57:07,359 --> 00:57:09,920
+končni fazi, kaj se je zgodilo pred kratkim,
+
+737
+00:57:10,320 --> 00:57:11,359
+najbolj
+
+738
+00:57:12,320 --> 00:57:14,079
+v Gartnerju, najboljšim
+
+739
+00:57:14,480 --> 00:57:17,119
+softerjem za protekčno načunalniko,
+
+740
+00:57:17,359 --> 00:57:20,079
+kaj se lahko zgodi in itak, je firma, ne, se lahko zgodi, ne.
+
+741
+00:57:20,880 --> 00:57:24,880
+In kje sem potem jaz, ne, v tem celem Gartnerju?
+
+742
+00:57:25,119 --> 00:57:30,239
+Zame, jaz predvsem vidim, jaz predvsem vidim vsega teh naših javnih ustanovah,
+
+743
+00:57:30,959 --> 00:57:32,000
+da
+
+744
+00:57:32,959 --> 00:57:35,519
+počas vse to zavedenje dogaja,
+
+745
+00:57:35,920 --> 00:57:38,399
+a ne, sploh skozi te neke
+
+746
+00:57:38,559 --> 00:57:44,559
+zgodbe, ko, ne vem, pa smo imeli, ne vem, v ljubljanskem, v lekarni in podobno, se pravi,
+
+747
+00:57:44,880 --> 00:57:50,880
+te neke zgodbe, ko se je nekaj tazga zgodil, so dejansko požgali neke alarme, da, ej,
+
+748
+00:57:51,200 --> 00:57:53,920
+mi pa rabimo nek disaster recovery plan,
+
+749
+00:57:54,720 --> 00:57:56,160
+kaj ne, na zadnje, tudi
+
+750
+00:57:56,399 --> 00:58:01,440
+tudi, če hočeš, ne vem, svoj, ne vem, posel zavarovati, a ne, pa nek kontinjus
+
+751
+00:58:01,679 --> 00:58:08,160
+ne, ne, zavarovalen, zaborekla, ja, vredilo, ampak, ali boste bi podpravili tudi pač nek scenarij, ali ste na to tudi podpravili.
+
+752
+00:58:08,480 --> 00:58:09,600
+Tako da jaz mislim, da
+
+753
+00:58:11,119 --> 00:58:11,600
+da
+
+754
+00:58:12,160 --> 00:58:15,920
+koliko si rekel, vse neko zavedanje počasi
+
+755
+00:58:16,000 --> 00:58:20,000
+premika, stvari se mogoče dajajo na nek road map.
+
+756
+00:58:21,760 --> 00:58:27,040
+Vprašanje je pa, če smo že tam, da smo, da smo redi, oziroma da se aktivno,
+
+757
+00:58:27,279 --> 00:58:28,799
+aktivno nad tem dela.
+
+758
+00:58:29,279 --> 00:58:34,640
+Ampak, če, ne vem, mogoče uporabim ta segway, a ne,
+
+759
+00:58:37,280 --> 00:58:40,000
+ti si tudi aktivno osodoboval na Lock, Shield, Swipe, a ne.
+
+760
+00:58:43,840 --> 00:58:47,599
+Kaj ti je, kaj ti je ta vaja, tako, v bistvu, dala
+
+761
+00:58:48,159 --> 00:58:52,159
+v smislu, da si, da si rekel, ej, to so pa neke zelo dobre prakse,
+
+762
+00:58:52,400 --> 00:58:54,239
+ker sem jih pa začel tudi sam
+
+763
+00:58:54,559 --> 00:59:00,719
+uporabljati, ker pač, tako, vsi, ki smo tja prišli, smo bili tako, ne bom rekel ful zjegoto, mi to vše vse znamo,
+
+764
+00:59:01,039 --> 00:59:04,799
+ampak tako dejansko smo imeli priliko nek environment videti
+
+765
+00:59:05,119 --> 00:59:09,840
+in za marsikej smo bili dobro podpravljeni, pa še se na stvari presenetljajo.
+
+766
+00:59:10,080 --> 00:59:14,719
+A ne, kaj je neka stvar, ko si jo tako izvlekl, pa rekel, ej,
+
+767
+00:59:14,960 --> 00:59:20,239
+jaz sem pa zdaj začel za moje stranke, pač, ne vem, avtomatično nike take dobre prakse furat.
+
+768
+00:59:20,320 --> 00:59:21,760
+In preden odgovoriš
+
+769
+00:59:22,080 --> 00:59:22,799
+EPP.
+
+770
+00:59:25,119 --> 00:59:35,280
+Dejmo se zahvaliti torej našim sponzorjom, 3FSAjo, Humelfrogu, Kaldijo, pa vsem Patreonu, ki nas podpirajo na Patreonu in s tem tudi dobijo malo prej vse epizode.
+
+771
+00:59:36,320 --> 00:59:40,000
+Preden še v Lockshield zglečem,
+
+772
+00:59:41,440 --> 00:59:46,000
+povej še kaj je Lockshield, prosim, za tiste, ki ne vejo kaj je Lockshield, samo to, hvala.
+
+773
+00:59:46,000 --> 00:59:48,000
+Se nekdo ne bo, ne bi bilo, okej.
+
+774
+00:59:48,239 --> 00:59:49,359
+Andraž boš pomagal.
+
+775
+00:59:50,000 --> 00:59:52,000
+To je sicer, to je vaja
+
+776
+00:59:52,960 --> 00:59:55,200
+kibernetske zaščite, kjer se
+
+777
+00:59:56,159 --> 00:59:58,159
+v bistvu trenira na
+
+778
+00:59:59,840 --> 01:00:03,200
+okolju, ki je pravzaprav že kompromitirano.
+
+779
+01:00:04,719 --> 01:00:07,599
+To okolje se poskuša spraviti k sebi in ga obraniti pred
+
+780
+01:00:07,840 --> 01:00:10,000
+bodočjimi napade, ki se tam zgodijo.
+
+781
+01:00:11,200 --> 01:00:14,960
+To sodeluje en kup držav, če se namotim, 24-25 držav.
+
+782
+01:00:15,520 --> 01:00:20,000
+V glavnem članice Zveze NATO, pa tudi neke pridružene članice ali pa neke kandidatke.
+
+783
+01:00:20,559 --> 01:00:22,559
+No, kakorkoli,
+
+784
+01:00:23,200 --> 01:00:25,200
+izjemna izkušnja,
+
+785
+01:00:25,840 --> 01:00:27,359
+ki
+
+786
+01:00:27,359 --> 01:00:32,159
+meni je prvič bilo fascinantno, koliko strokov ljako za različne področja Slovenija ima
+
+787
+01:00:32,799 --> 01:00:35,440
+in koliko je mladih ljudi, zelo, zelo
+
+788
+01:00:36,299 --> 01:00:38,299
+usposobljenih in
+
+789
+01:00:38,559 --> 01:00:40,960
+bom rekel, strokovno potkovanih je tam.
+
+790
+01:00:42,000 --> 01:00:47,919
+Je pa tako, da vsak dan, kres prvo leto sem se vračal domov po vaji, nisem spal v Ljubljani in sem vsakič, ko sem šel
+
+791
+01:00:48,640 --> 01:00:53,840
+z one vojašnice domov, sem rekel, joj, še to moramo, to moramo nujno, da je to, kar smo danes, to pa moramo nujno.
+
+792
+01:00:56,640 --> 01:01:01,440
+Jaz sem iz te vaje pripravljal eno predavanje, ki sem ga lanil na vseh konferencah,
+
+793
+01:01:02,400 --> 01:01:04,400
+na katerih sem bil v bistvu ponavljal.
+
+794
+01:01:06,640 --> 01:01:08,000
+Nasplošno
+
+795
+01:01:08,000 --> 01:01:14,400
+je dogovor, da o vsebini te vaje ne govorimo preveč, pač kar je javno objavljeno, je objavljeno.
+
+796
+01:01:14,960 --> 01:01:20,479
+Preveč v detalje ne gremo in jaz s tem predavanjem dejansko se nisem dotikal vličesar,
+
+797
+01:01:21,840 --> 01:01:27,679
+kar bi se dotikalo vsebine, pač pa samo neke mehanizme, ki smo jih mi upeljali in mi je bilo v bistvu
+
+798
+01:01:28,799 --> 01:01:30,159
+žal, da
+
+799
+01:01:30,159 --> 01:01:32,559
+jih v podjetjih ne videvamo sicer.
+
+800
+01:01:33,359 --> 01:01:39,840
+Jaz določene sem že me upeljane, določene sem, me je pa spodbudila ta vaja še posebej, ker sem videl, kako prav pride,
+
+801
+01:01:40,320 --> 01:01:44,960
+ko se začne dogajati nek resen problem ali pa varnostni incident, napad, kakor hočete,
+
+802
+01:01:46,479 --> 01:01:52,159
+da takrat nisi slep bossingov, da takrat vidiš malce, kaj se gre na vseh področjih in tle.
+
+803
+01:01:52,960 --> 01:01:54,960
+Z tega vidika mi je bila res
+
+804
+01:01:56,239 --> 01:01:58,239
+uveliko koristno, da sem,
+
+805
+01:01:58,320 --> 01:01:59,760
+ker
+
+806
+01:01:59,760 --> 01:02:04,799
+lepota te vaje je, da tam so res živi napadavci, torej tudi tim, ki napadajo, so
+
+807
+01:02:05,280 --> 01:02:09,840
+dejansko ljudje, ki to počnejo. Ni to nekaj tam simulirano ali pa nekaj od nek
+
+808
+01:02:10,640 --> 01:02:17,599
+neka skripta se tam odvrti pa blablabla, ampak te ljudje v različnih hurah, različne stvari počnejo, lahko večkrat ponovijo in tako naprej. Skratka,
+
+809
+01:02:21,039 --> 01:02:26,159
+se na takem okolju učit, ko res vidiš, da se začnejo stvari dogajati in takrat moraš ti reagirati
+
+810
+01:02:26,640 --> 01:02:29,599
+skladno s svojimi možnostmi, ki jih imaš, ker tudi to je lepo,
+
+811
+01:02:30,400 --> 01:02:35,359
+da se na to vajo ne moraš prenesti celega tvojega škatljica z orodjem, vsega svojega
+
+812
+01:02:35,840 --> 01:02:38,719
+najbolj dragih produktov, ki jih imaš, ampak delaš z naborom,
+
+813
+01:02:39,119 --> 01:02:41,520
+ki je na voljo in to je meni v bistvu ful ušeč,
+
+814
+01:02:42,159 --> 01:02:46,559
+da se probamo pol znajdeti res nekim izkušnjam in znanjem in
+
+815
+01:02:48,140 --> 01:02:50,159
+sodelovanjem v končni fazi med tem in timi.
+
+816
+01:02:51,359 --> 01:02:52,960
+Tako da to je
+
+817
+01:02:52,960 --> 01:02:55,599
+zelo dobra izkušnja z moje strani.
+
+818
+01:02:56,400 --> 01:03:02,559
+Če je konkretno tisto tvoje predavljanje vzameš v parih,
+
+819
+01:03:03,119 --> 01:03:08,880
+pa če kaj tisto, ki bi izpostavljali, pa ki so taki mehni prijemni, ki ful izboljšajo,
+
+820
+01:03:09,760 --> 01:03:16,080
+v redu, ti si pač bil na tej Windows desktop sistemi, ampak kaj je dokažno taka stvar?
+
+821
+01:03:17,039 --> 01:03:23,039
+Mislim, vse je zelo banalno in boš rekel, ampak še vedno po firmah tega ne vidimo.
+
+822
+01:03:23,599 --> 01:03:29,039
+Recimo ena stvar je, da smo Windows Firewall, oboje smerni Windows Firewall na odjemavcih,
+
+823
+01:03:29,440 --> 01:03:33,520
+res poskušali zašraufati do konca, tako da ni izjem, da jih ne more nišče narediti,
+
+824
+01:03:33,919 --> 01:03:38,559
+da so res samo tiste politike, ki prihajajo iz centralnega manažmenta, torej iz Group Policy-a,
+
+825
+01:03:39,440 --> 01:03:41,280
+se lahko aplicirajo in že to
+
+826
+01:03:42,239 --> 01:03:44,080
+potencijalnemu napadavcu drastično
+
+827
+01:03:45,440 --> 01:03:51,599
+drastično omejuje, kam lahko s tistimi svojimi napadi lateral movements pa te stvari sploh gre.
+
+828
+01:03:52,080 --> 01:03:53,599
+Druga stvar je logging.
+
+829
+01:03:54,880 --> 01:03:59,200
+Govorimo o Microsoftu zato, ker sem glavni na Microsoftovih konferencah oziroma teh konferencah,
+
+830
+01:03:59,200 --> 01:04:01,760
+ki so derivat Microsoftovih konferenc v poregiji bil.
+
+831
+01:04:02,320 --> 01:04:06,559
+Skratka, tudi stališča logginga. Microsoft ima v bistvu ful dober
+
+832
+01:04:07,679 --> 01:04:11,599
+sistem logiranja, centralnega logiranja, ki ga tudi redko kje zaslediš,
+
+833
+01:04:12,479 --> 01:04:14,960
+na katerem lahko pol zgradiš nek sistem alertinga.
+
+834
+01:04:15,840 --> 01:04:20,000
+Nemogoče je, da nek modern IT ne ve, da je nastavno uporabnik v Active Directory-u,
+
+835
+01:04:20,719 --> 01:04:24,400
+da ni v tem obveščen. Vse to bo še eko banalen primjer, ampak
+
+836
+01:04:24,880 --> 01:04:27,919
+dejansko kolegi, ki delajo penteste, ti bojo povedali, da ori, ko
+
+837
+01:04:28,239 --> 01:04:34,719
+pride na lokacijo, vprašajo veste, da smo v Amuse-e naredili v AD-ju in zame, če IT danes, leta 2024, ne ve,
+
+838
+01:04:35,359 --> 01:04:40,719
+da je nastal user v AD-ju in da niti enega ... Pazi, to so zastonski rešitve,
+
+839
+01:04:41,039 --> 01:04:45,599
+torej že v samem sistemu. Da tega ne obvladuje oddelak IT,
+
+840
+01:04:45,599 --> 01:04:52,799
+ki se mi zdi, da mu dosti manjka. No in če ... Zdaj sem izpostavil dve stvari, so minimalni, je še kup drugih,
+
+841
+01:04:53,599 --> 01:04:59,440
+ampak dejmo s tem izačeti. Back to basics. Daj Windows Fire ali maš od Windows viste na voljo, oboje smerni,
+
+842
+01:05:00,799 --> 01:05:04,799
+dejmo to zašaljfati do konca, dejmo na serverih, na klientih to narediti, boste videli, da
+
+843
+01:05:05,760 --> 01:05:13,679
+se bomo dost boljši počutili. Da, ko bo nekdo hoto izjemo, da bo mogo potrkat na IT in reče, ej, mi pa bi danes to ne rabili, pa dejte nam to narediti,
+
+844
+01:05:13,679 --> 01:05:19,599
+da boš tako, kot ga ne treba, kot se šika to naredil. Ne pa, da so firewall-i eni-eni ali pa celo ugasneni po podjetjih,
+
+845
+01:05:19,599 --> 01:05:21,599
+kar se dost kacrečujemo.
+
+846
+01:05:21,599 --> 01:05:27,280
+Ker nekako, ljudje še vedno kar mislijo, da, jama, vse to je notar, vse tle, kaj imamo firewall-e. Če izklopimo, bomo imeli manj težav,
+
+847
+01:05:27,280 --> 01:05:33,520
+ker bo vse delovalo, seveda, no, treba se s tem ukvarjati, ampak s tem spuščaš en kup drugih problemov.
+
+848
+01:05:33,520 --> 01:05:36,719
+Firewall je to, Firewall in style, kljugca.
+
+849
+01:05:37,280 --> 01:05:43,280
+Jaz bi rad to vprašanje, tebi vrno, ker me je tudi zanima, ti si tudi sodeloval na Logšiljci, zdaj že parkrat,
+
+850
+01:05:43,280 --> 01:05:46,799
+kaj si pa ti, recimo, odnesel na par takih lekcij?
+
+851
+01:05:46,799 --> 01:05:53,359
+Vem, da nisi delal na Windows desktopih, ampak si bil bolj v malo drugačne loge.
+
+852
+01:05:53,359 --> 01:05:56,159
+Ja, sem v tem, netko, netko, kih se pravi,
+
+853
+01:05:58,799 --> 01:06:01,919
+hu, zdaj smo malo, zdaj smo tako off-guard, dubo, s tem, s tem.
+
+854
+01:06:02,000 --> 01:06:06,080
+Vem, tol mor je bil zadnjo let, pa to, ki človek, samo vem, ampak.
+
+855
+01:06:06,080 --> 01:06:11,520
+Sploh za to, to smo še zelo v preteklosti, že parkrat pogovarjali, da bi se nekaj podobno.
+
+856
+01:06:11,520 --> 01:06:14,960
+Seveda sem hočen, da on the record slišimo, kaj od tem.
+
+857
+01:06:14,960 --> 01:06:16,960
+Neki malega, samo nam dej.
+
+858
+01:06:16,960 --> 01:06:18,960
+Neki malega,
+
+859
+01:06:20,960 --> 01:06:22,960
+predvsem,
+
+860
+01:06:23,520 --> 01:06:29,919
+ena stvar, tako, moja, recimo, taka, full izkušnja,
+
+861
+01:06:30,479 --> 01:06:36,320
+ki je potem tudi srečan, pa če se vrnem to nazaj na komunikacijo v IT-u,
+
+862
+01:06:36,320 --> 01:06:41,520
+koliko v bistvu premal, v bistvu, rezumeno delovanje interneta.
+
+863
+01:06:42,400 --> 01:06:46,960
+Se pravi, da tudi ljudje, ki upravljajo z sistemi,
+
+864
+01:06:46,960 --> 01:06:52,640
+pa zdaj govorim, pa nočem slabo luč, da rečem, na poredeljalce Windows sistema,
+
+865
+01:06:52,640 --> 01:06:56,960
+ker je pač isti problem tudi z ljudmi, ki upravljajo, ne vem,
+
+866
+01:06:57,200 --> 01:07:00,799
+Linux server je pa, ko brnete se in podobne zadeve,
+
+867
+01:07:00,799 --> 01:07:03,200
+koliko premal je tist, kar rečeš,
+
+868
+01:07:03,200 --> 01:07:09,439
+kaj si rekel, pač segmentacija, segmentacija oziroma pač pisati neka firewall pravila,
+
+869
+01:07:09,439 --> 01:07:11,439
+kaj je dovoljeno kam, ne.
+
+870
+01:07:12,479 --> 01:07:16,079
+Včasih je tist, a znajo te ljudje napisati,
+
+871
+01:07:16,079 --> 01:07:20,319
+ne vem, to je izvor s tem IP-om,
+
+872
+01:07:20,880 --> 01:07:27,520
+z tem, z tega porta, z ta tip prometa in to je ponov, ne.
+
+873
+01:07:27,520 --> 01:07:34,079
+In koliko, kako v bistvu ugotoviš, da so, ne vem, zamešani od portov,
+
+874
+01:07:34,079 --> 01:07:40,400
+UDP, TCP, to vse je isto, ne, od tega, da, ne vem, so IP naslovi
+
+875
+01:07:40,400 --> 01:07:43,920
+z nekimi takimi zelo wildcard maskami, ne.
+
+876
+01:07:45,199 --> 01:07:47,760
+To je recimo neka stvar, ki je,
+
+877
+01:07:48,479 --> 01:07:53,439
+pa kot mogoče reku, ne vem, mogoče smo ljudje, ki delamo v netvrku premal
+
+878
+01:07:53,439 --> 01:07:59,520
+na zelo slab način izbržujemo ali pa podajamo, a ne, da
+
+879
+01:07:59,520 --> 01:08:04,000
+nekaj uporabniki ali pa administratori to še vedno ne znajo.
+
+880
+01:08:04,000 --> 01:08:09,680
+Vse isto je, ne vem, to, kar smo se neki epizodi nazaj pogovarjali, ne, da
+
+881
+01:08:09,680 --> 01:08:12,640
+kako developerji, a ne,
+
+882
+01:08:12,640 --> 01:08:15,439
+še vedno ne razumejo, kako deluje internet,
+
+883
+01:08:15,520 --> 01:08:20,400
+ne, pa pa so neki hardcode-eni naslovi noter, pa podobne zadeve, a ne.
+
+884
+01:08:20,400 --> 01:08:24,319
+To je ena zadeva, da
+
+885
+01:08:24,319 --> 01:08:27,920
+se pravi, če ta del vsvojiš, kako pa
+
+886
+01:08:27,920 --> 01:08:31,359
+ker, da se ti nekdo, ki
+
+887
+01:08:32,319 --> 01:08:39,280
+upravlja za požarnimi pregradami, pa more pa spisati neka privila za nek traffic engineering,
+
+888
+01:08:39,599 --> 01:08:47,040
+meni je bistveno lažje delov, če mi nekdo pride in reče, e, glej, to je moj tip prometa, ki je legit,
+
+889
+01:08:47,040 --> 01:08:50,239
+to mora biti odprto, tako odzgleda promet.
+
+890
+01:08:50,239 --> 01:08:58,079
+Se pravi, s te prihaja, tja gre in jaz pa pač nekaj dena napravo lahko pač pripravim ostrezna privila, a ne.
+
+891
+01:08:58,079 --> 01:09:02,479
+Če pa nekdo prije do mene, pa ej, jaz imam tam nek servis,
+
+892
+01:09:02,479 --> 01:09:06,959
+veš, more komunicirati s satelitom na drugi strani, je moje,
+
+893
+01:09:07,119 --> 01:09:17,520
+ok, Keta satelit, s kašnim protokolom, a lahko mi, veš, predstavlja, predstavlja mene v neko vlogo, da jaz moram pa besedeti tisti, ki morajo pa vse razumeti.
+
+894
+01:09:17,520 --> 01:09:20,000
+In včasih pač, a ne,
+
+895
+01:09:20,000 --> 01:09:23,839
+jaz sem vse eni in eno, da imaš na drugi strani uporabnika, ki pa ti bo,
+
+896
+01:09:23,839 --> 01:09:27,359
+bo on razumel, pač nekdo v rigi mora razumeti.
+
+897
+01:09:27,760 --> 01:09:36,160
+Nekako je tako, da nekdo, ki je upravljalec ali pa mentejner nekega servisa, neke stvaritve, ki teče,
+
+898
+01:09:36,160 --> 01:09:41,439
+more razumeti, kako saj na tem network nivoju stvari tečajo,
+
+899
+01:09:41,439 --> 01:09:48,079
+kaj mora biti otprto, kje so te zadeve, da stvari funkcionirajo.
+
+900
+01:09:48,079 --> 01:09:50,479
+In se mi zdi, da
+
+901
+01:09:50,479 --> 01:09:59,920
+to kljub temu, da mogoče spet tisti, meni je to jasen, ampak ne morem pričakovati, da bo to tepj jasen, da bo tepj jasen,
+
+902
+01:09:59,920 --> 01:10:02,719
+ampak na tem,
+
+903
+01:10:02,719 --> 01:10:04,640
+to je ena taka zadeva, ki
+
+904
+01:10:04,640 --> 01:10:12,319
+imam feeling, da smo prvo leto probali, pa smo mislili, da smo uspeli, pa smo drugo leto probali, pa vidimo, da pač je treba še in še.
+
+905
+01:10:12,319 --> 01:10:14,319
+Ampak to, ta,
+
+906
+01:10:14,319 --> 01:10:21,760
+se mi zdi, da je kaj dost vlajša, vlajša pal neko pripravo.
+
+907
+01:10:21,760 --> 01:10:25,599
+A veš, pa pa, kaj ti je Luka rekel, pač,
+
+908
+01:10:25,599 --> 01:10:32,079
+če začneš logirati, pa v bistvu nastaveš neke centralne loge, pa imaš tudi nek tak
+
+909
+01:10:32,079 --> 01:10:37,839
+point of reference, kamar pač lahko začne se iskati, ko se je nekaj izgodilo.
+
+910
+01:10:38,400 --> 01:10:44,560
+Če nimaš nič za vroke prijeti, je zelo teško, oziroma prvici, a veš, blindsided, ki ne veš, da se je pa izgodil,
+
+911
+01:10:44,560 --> 01:10:47,760
+a ne, ne moreš z ničemer povezati.
+
+912
+01:10:47,760 --> 01:10:49,439
+Tako da,
+
+913
+01:10:49,439 --> 01:10:54,719
+tako, tisto, kar lahko povem, to so take zadeve, ki se
+
+914
+01:10:54,719 --> 01:11:00,000
+vedno na novo očimo, pa vedno na novo spoznajemo, koliko so take
+
+915
+01:11:00,000 --> 01:11:02,880
+dost basic stvari, a ne,
+
+916
+01:11:02,880 --> 01:11:05,439
+pa so še vedno, a ne,
+
+917
+01:11:05,520 --> 01:11:08,640
+da ne govorim, a veš, taka stvar, kad
+
+918
+01:11:10,400 --> 01:11:12,719
+gesla, a ne, veš, pa,
+
+919
+01:11:12,719 --> 01:11:18,719
+a veš, ti imaš naprave, ki pridajo pač z nekimi uporabniškimi
+
+920
+01:11:18,719 --> 01:11:20,640
+računi, ki so že ali
+
+921
+01:11:20,640 --> 01:11:24,400
+default, a ne, ali pa pač pride tovarniško, a ne,
+
+922
+01:11:24,400 --> 01:11:30,560
+ne, to so take stvari, ki pač jih je fajn prenastaviti, a ne, te uporabnike izbrisati, a ne,
+
+923
+01:11:30,560 --> 01:11:34,160
+a ne, sej, veš, tukaj bi bilo moje vprašanje te, pa ne,
+
+924
+01:11:34,160 --> 01:11:36,479
+a vidiš, da,
+
+925
+01:11:36,479 --> 01:11:41,199
+ne vem, pred leti je bilo ono, veš, test, ki si ga naredil, a ne,
+
+926
+01:11:41,199 --> 01:11:47,520
+naredil si clean install Windows serverja, ga preklopil na internet in si štopil, koliko časa
+
+927
+01:11:47,520 --> 01:11:52,400
+traja, da pač ga je nekaj polnil, oziroma, veš, si govoril v minutah, a ne,
+
+928
+01:11:52,400 --> 01:11:56,640
+pa ista forja je bila, ne vem, si vzel Red Hat Linux, ga je instaliral, brez firewalla,
+
+929
+01:11:56,640 --> 01:11:58,959
+slajka prej je nekdo bil že gor, a ne,
+
+930
+01:11:58,959 --> 01:12:04,000
+a vidiš, da, ne vem, je že strni, ne vem,
+
+931
+01:12:04,000 --> 01:12:07,599
+Windowsu precizkega sistema se ta stanje izboljša, da so te
+
+932
+01:12:07,599 --> 01:12:10,640
+default nastavitve že
+
+933
+01:12:10,640 --> 01:12:13,839
+tako zelo, ne vem, kako hardened, da, hej,
+
+934
+01:12:13,839 --> 01:12:17,520
+da ti pa, da ti pa nekaj dela, veš, moraš pa
+
+935
+01:12:17,520 --> 01:12:19,199
+poklukati, ne vem, tako zdaj
+
+936
+01:12:19,199 --> 01:12:23,839
+imam priliko, ker delam z naračnikom, ker mi je pač dol
+
+937
+01:12:23,839 --> 01:12:27,119
+meka, a ne, oziroma, pač delam na meko kolju,
+
+938
+01:12:28,079 --> 01:12:34,719
+in tako, jaz, če Zoomu nisem delal pravic, da šera zaslon,
+
+939
+01:12:34,719 --> 01:12:39,760
+pač ta moj Zoom ni mogel šerati zaslon, a ne, ker pomeni, da po defaultu je bilo več
+
+940
+01:12:39,760 --> 01:12:43,359
+na meni več stosobljivi lockdown stvari,
+
+941
+01:12:43,359 --> 01:12:48,239
+a upažal, da se pač, ne vem, Windowsu kolju to kaj izboljšal,
+
+942
+01:12:48,239 --> 01:12:50,000
+ali ne.
+
+943
+01:12:50,000 --> 01:12:52,000
+Ja, gotovo.
+
+944
+01:12:52,000 --> 01:12:54,959
+Mislim, v zadnjem času
+
+945
+01:12:54,959 --> 01:12:59,920
+Microsoft ogromno na to daje in res ta že default namestitve
+
+946
+01:12:59,920 --> 01:13:04,400
+so pravzaprav zaprte, če govorimo prav o firewallu,
+
+947
+01:13:04,400 --> 01:13:06,880
+in vse je treba
+
+948
+01:13:06,880 --> 01:13:10,560
+odpreti potem nakonadno na podlagi tega, kaj želiš, ne.
+
+949
+01:13:10,560 --> 01:13:15,280
+Obstajena smer umetniška, mislim, imamo en festival tam v Goreci,
+
+950
+01:13:15,280 --> 01:13:20,000
+kjer je pred leti bil en tip, ki je zagovarjal smer defaultizam. On pravi, da
+
+951
+01:13:20,000 --> 01:13:23,599
+telefon je najbolj še nastavljen, ko prideš v
+
+952
+01:13:23,599 --> 01:13:29,439
+trgovino z telefon in da ga vzameš. Najboljše zvonjenje ima in najboljše mora postaviti vsega, ker ta default
+
+953
+01:13:29,439 --> 01:13:33,359
+so sigurno preštudirali, da je tak, da je najbolj appealing.
+
+954
+01:13:33,359 --> 01:13:38,239
+In on je pač zagovornik tega defaultizma, on je pač vse imel defaultje.
+
+955
+01:13:38,239 --> 01:13:43,040
+Facebook akant je dovolil, da mu ljudje hodijo v Facebook akant, je pustu kar odprt,
+
+956
+01:13:43,040 --> 01:13:45,359
+nek default geslil kar v
+
+957
+01:13:45,359 --> 01:13:50,319
+cover pictured out, ko da so mu ljudje lahko hodili noter in tam ustvarili tak zanimiv princip.
+
+958
+01:13:50,319 --> 01:13:54,239
+No, včasih je bilo to katastrofa v Windowsih,
+
+959
+01:13:54,239 --> 01:13:56,239
+zelo malo, fulj slabše, kot zdaj.
+
+960
+01:13:56,239 --> 01:14:03,119
+Zdaj pa imaš en kup mehanizmov, ki so že vključeni pri vzeto, ali pa so prišli s kažnjo posodobitvjo, recimo na
+
+961
+01:14:03,119 --> 01:14:05,920
+zadnji različnici serverja, ravno tako, da
+
+962
+01:14:05,920 --> 01:14:08,880
+se ti zdaj loka, če je izpostavljen RDP
+
+963
+01:14:08,880 --> 01:14:12,319
+brute force napad, ose ti bo zalokao akant, tako da
+
+964
+01:14:12,319 --> 01:14:17,280
+te bo vsaj to opozorilo, kar se nož mogo več prijaviti, dokar se nož prekonzole dejansko prijavijo gor,
+
+965
+01:14:18,239 --> 01:14:21,199
+da moraš to odkljeniti in da se ti nekaj očitno dogaja. Tako da
+
+966
+01:14:21,199 --> 01:14:26,079
+te stvari tudi Microsoft če dalje bo res najemlja, mislim se, pa ni stajali logično glede na to
+
+967
+01:14:26,079 --> 01:14:30,640
+velikost in tudi impakt teh napadov, ki jo škodijo pravzaprav
+
+968
+01:14:30,640 --> 01:14:35,520
+celotno ekonomijo, celotno ekonomijo lahko zašejkajo takšne stvari.
+
+969
+01:14:35,520 --> 01:14:37,520
+Če se vrneva hodim dvem stvarem,
+
+970
+01:14:37,520 --> 01:14:41,680
+lock, shield, še ena poantica je, naredimo stvari,
+
+971
+01:14:41,680 --> 01:14:44,000
+prekot jih bomo rabili.
+
+972
+01:14:44,079 --> 01:14:49,680
+Kaj namreč, ko šti pod napadom, ti nož deplojev monitoring sistema, večkrat bo malo too late za to in
+
+973
+01:14:49,680 --> 01:14:51,680
+verjetno še surce druge trošo.
+
+974
+01:14:52,959 --> 01:14:56,959
+To je ena stvar, druga stvar, pa kar tiče Windows sistemcev in networkinga, to je tudi ena taka zanimiva
+
+975
+01:14:56,959 --> 01:15:00,000
+reč, jaz kam imam kakšna predavanja za Windows, predvsem Windows sistemce, no.
+
+976
+01:15:00,000 --> 01:15:15,600
+Enkrat sem enega mojega kolega dobrega, malo sem ga pohecal, na ta način sem ga naviva v oče poklical in se nekaj ej, a se da serverju naštima ta IP 192.168.1.0.0?
+
+977
+01:15:15,600 --> 01:15:29,200
+A reku, ne, ni šans. Kaj pa, se nekaj 192.168.0.0.0? A reku, ne, to ni šans. Do take stvari pridemo, ko smo razlagali sabnete, pa se nekaj, se to sta čisto dva legitimna IP-a, zakaj jih ne bi mogu nastaviti, ne?
+
+978
+01:15:29,200 --> 01:15:52,400
+Ampak za Windows sistemce je to fulj tabu. Vse tudi verjetno na Linuxu, če to, ko mu rečeš, dej nulo na koncu IP-a, bo po mojem čudno gledal, ampak, ja, takrat sem se z njega pohecal in sem rekel, po svojem prekinovanju sem rekel, evo, z 192.168.0.0.0 to je senior IT-ovec, Windows okolju zna postaviti, kar hočete, samo vidite, network nam je pa šipka točka, ne?
+
+979
+01:15:52,400 --> 01:16:12,000
+To je tudi ena, po mojem, taka, to je pa med nami, nekaj, ta network klapa je bila vedno malo bolj pročna. Jaz imam občutek, da network ne bi bil, oziroma internet kot tak, verjetno ne bi bil toliko uspešen, kot je uspešen, če bi bil
+
+980
+01:16:12,000 --> 01:16:33,599
+bolj varn, že v začetku. Prva vprašanja, če bi se uspel tako hitro raširiti, če bi imel tako adoption, če bi imel tako user-jo, če bi ga tako videl. Se nismo vedeli, da je nevarn. Ni bila reč. Vsa je zgrajeno na trustu, maili, včasih si pošilil mail, jaz sem šel na drug SMPD, pa si tam poslal, pa onega, pa si tam poslal.
+
+981
+01:16:33,599 --> 01:16:39,199
+Če se vrnemo v prvi začetek, čisti entuzjazem in neka dobra namera. V bistvu fulj dobra reč, ne?
+
+982
+01:16:41,000 --> 01:17:00,800
+Jaz sem bilo hotešo izveden takim vprašanjem obasta senior IT-ovca. Zanič sem videl na Twitterju enega zelo senior IT človeka in je prelepo screenshot nekega disk managera za nek rajt in pač vse je faking rdeče.
+
+983
+01:17:01,199 --> 01:17:13,199
+Vidi se iz barve, da je šičal, da pač tam piše, ne vem, da od tistih diskovih je že, ne vem, dve tretine šlo v kurac. Šičal je ena.
+
+984
+01:17:13,199 --> 01:17:28,399
+Ne, bodo moralni, a hočete, da ga razgovarjam moralno, ne? Ok. Vredno imam veliko naših kolegov, to kar ste povedali je fulj lepo, pa se strinjam, odlično je, ampak dajte mi probati rešiti ta realen kes.
+
+985
+01:17:28,399 --> 01:17:52,199
+Kako skomunicirati to s svojimi stakeholderjevi v organizacijah, da je nekaj resno, pa že zdaj vemo, da bo rekli, ni časa, ni denarja, la, la, la, la, la. Vrednosta bi bila v teh podobnih zadevah, nekaj kar bi bilo že zdaj treba upokojiti, nekaj kar bi bilo že zdaj treba upgredati, nekaj kar,
+
+986
+01:17:53,199 --> 01:18:10,000
+Tule bomo v 100% vsi razumeli, da je velika težava. Dajte mi malo še povedati, prosim, o tem, kako komunicirati z stakeholderjima zgorno, kako rešiti te neke probleme, ker vem, da jih imajo naši audiens, pa vem, da imate skušni s tem.
+
+987
+01:18:10,000 --> 01:18:39,399
+Zdaj pa pade ena zgodba zagorno, oziroma z nekim norečnikom smo v tem nekem securityju. Zapravo znotraj securityja smo imeli enkopenih projektov, ki kot security ekipa hočemo početi, zapravo kaj od pelat v pelat, ne vem, od nekih idearjev na klientih do nekih požarnih zidov oziroma nekih te kaj,
+
+988
+01:18:40,000 --> 01:18:56,000
+velikih požarnih zidov, ki jih imaš pred endpointi in podobne zadeve. V glavnem, kako imam rekel, projektov, ki bi jih lahko naslovili znotraj securityja, je bilo tako veliko, pa na nek način zelo,
+
+989
+01:18:56,000 --> 01:19:18,000
+zapravo te neki odločovalce, oziroma stakeholdersi, ki so dajali, kot da oni to razumejo, pa dajajo tem podarka, ampak potem kaj pa treba, mi bi pa zdaj to je treba kupiti, pa to je treba zameniti, pa s tem bi to rešila, pa ni več tega posluha, oziroma tega denarja se pa potem nekak ne najde.
+
+990
+01:19:18,000 --> 01:19:34,000
+In smo v bistvu strategijo okolo Brlni, ki me je bila tako zelo, v neki fazi se mi je zdelo, dober, pa se malo ne tegujemo vse skrpa, v bistvu smo vse zapakirali v ta ransomware readiness,
+
+991
+01:19:34,000 --> 01:19:55,000
+ker namreč se strinjamo, da pač ni šlo vse zato, pa da mi naredimo nek web application security, pa poskrbimo neke penteste, tukaj naše strežniki ne bojo pač nobenega ransomware, ampak zato smo vse to pod to streho dal, da so odločovalci razumeli,
+
+992
+01:19:56,000 --> 01:20:21,000
+ko se zgodi to vrstno napad, da enostavno so vsi računalnike zaklenjeni, da v bistvu ti imaš celo podjetje, ne moreš nič v roke vzeti, prideš na prve stranice itango, na 24h oziroma na nevelke medijske, se pravi, glavna zgodba, takrat se pa pač ne hakeca.
+
+993
+01:20:22,000 --> 01:20:41,000
+Kdo bo zdaj tisti, ki bo stopil pred kamero in rekel, nismo na to računalni, nismo li pripravljeni, tudi backupa nismo imeli. Na nek način smo obrali neko tako strategijo, ker to je bil en način, da so te ljudje razumeli ta scale, ko bo prišlo do nekega incidenta, pa so različni incidenti.
+
+994
+01:20:42,000 --> 01:21:01,000
+Ren som ver, napad je samo en tip incidenta, ki se ti lahko zgodijo. Pustimo ne vem, nekih likidžov, nekih podatkov tega, da pač nekdo ne je pobljuščen dostop do tvojih sistemov, pa mogoče podatkov tvojih uporabnikov in podobno.
+
+995
+01:21:02,000 --> 01:21:28,000
+To je bila neka taka zadeva, da smo začeli premikati stvari v isto smer in smo tudi pač na bordo uspeli stvari, se pravi, dobiti dovolj posluha, dovolj resursov. Pustimo, da so se stvari še vedno počas premikale, ampak ljudje na drugi strani so dejansko razumeli razsežnost,
+
+996
+01:21:29,000 --> 01:21:33,000
+ki jo nek varnostni incident lahko za sabo povzroči.
+
+997
+01:21:33,000 --> 01:21:36,000
+In ko?
+
+998
+01:22:03,000 --> 01:22:20,000
+To je zoprno v vsakem pogledu. Ni pa neka huda reč, ampak mi je bila tako lekcija zame, da res moram biti bolj ustrajen in kad je nekaj res kritičnega, da moram res pač bolj težiti. Tudi če ne gre zame v končni fazi, ker jaz
+
+999
+01:22:20,000 --> 01:22:37,000
+sem me včrno nabeljen poslano je bilo, prosil sem vas, dvakrat sem vas opomnil, meseci so šli mimo, dokaj ni prišel dan, ko je ravno ta stvar, mislim konkretno se je šlo za neko pes, malo večji, res ne je šlo za devo, ki je totalno blaže avt
+
+1000
+01:22:37,000 --> 01:22:45,000
+in je tri mesece životarla, tako da je prišel serviser in je ugotovil, da se nekaj pač pregreva, skratka, v srdeček, kot bi rekli ti.
+
+1001
+01:22:45,000 --> 01:23:05,000
+Tako da je svojem ventilator dali pred njega, da ga je hladil, na tak način smo mi živeli in seveda jaz sem rekel, lejte, to je kritična stvar za celo našo infrastrukturo, ne se hecat, no, potem se je skazalo, da še poleg tega, je bila še pač slabo dokumentirana in slabo povezane stvari, tako da je iz tega UPS-a bilo vezano še na en UPS.
+
+1002
+01:23:05,000 --> 01:23:28,000
+Skratka, vse narobe, ok? In na dan tega izpada elektrike, nek četrtek je to bil, oziroma petek je to bil, pardon, bil je petek, treba popovdne in to vse odleti in pač me ne kliče, ej, tle vse tiho, so neko ni šans, da vse tiho, vse sta dva UPS-a.
+
+1003
+01:23:29,000 --> 01:23:55,000
+Ja, ne, vse je tiho, se je rekel, ma si zihar, še ta faktor je bil, da sem bil boljan takrat in sem imel neko že zniženo vročino, je zgledalo že, da bom za vikend, ok, in nisem bil bolj, zato, ker mi je takoj po tem klicu šla vročina na 40 od vsega hudga, res sem dvojno videl, no, skratka, šlo se je za ta UPS in takrat sem si rekel, ma, ej, zakaj im nisi bolj težil, zakaj im nisi bolj težil, no, ker to je enostavno šlo mimo in potem, ok,
+
+1004
+01:23:55,000 --> 01:24:20,000
+to je bila za me predvsem, nekcero se tudi za njih, ne, ker pač lako smo se vrnili samo na stanje z četrtka po noči, ker pač ta storič tega ni preživel, je bilo vse skoraptano, skratka, rdeče, in takrat sem se zavedel, da včasih je treba, pač, kad res čutiš, da je stvar kritična, je treba bolj kričatno.
+
+1005
+01:24:20,000 --> 01:24:38,000
+In sem zdaj dost bolj glasen pri teh stvarih, oziroma sem dost bolj ekspliciten, ko napišem mail, rečem, lejte, od tega trenutka dali je nič, nobene odgovornosti ne morem za to preuzeti, ker je to res tako kritičen element, da je pač res problem, če ga ne bo, ne, v sistemu kot delujočega, ne.
+
+1006
+01:24:39,000 --> 01:24:58,000
+To vprašanje je, si kdaj uspel kakšnemu naročniku ali pa s kakšnim podjetjem, da so bile nekaj drili, da so bile nekaj te drili, ko se je izklapljali, ker jaz v Sloveniji sem uspešno to spisal, ne, dokumente, ne,
+
+1007
+01:24:58,000 --> 01:25:09,000
+pol, ker pa imi vodstvo, pač jaz tudi pravim, kdaj pa bomo mi ta dril naredil, ne, da jaz bi pa zdaj te UPS-e vgasnil, ne.
+
+1008
+01:25:10,000 --> 01:25:21,000
+Mislim, jaz imam za to eno podjetje, ki je ful hvaležno, ker ima redni remont trafo postaje enkrat letno in takrat, to je ponavadi neka sobota, in takrat res
+
+1009
+01:25:22,000 --> 01:25:34,000
+gremo skoz to, ker ni druge, ne, in dokr ne so imeli agregata, smo dejansko še opazovali, če te skripte za shut down res delujo tako, kot morejo, kakr imaš kompleksne še sisteme, klastre in podobno,
+
+1010
+01:25:34,000 --> 01:25:45,000
+je treba poskrbeti za neko sosledje vgašanja in seveda pol tudi prižiganja, ni kar vseeno, random, kaj poklikaš, ampak more biti neko sosledje, če želiš, da so stvari zdrave in da ne pol se to 100 let ribilda in ne vem kaj, vseeno, skratka.
+
+1011
+01:25:46,000 --> 01:25:59,000
+In včasih smo to pol praznovali tako, da smo to uspešno shut down naredili, pa smo šli na ene dobre čevapčiče in kdaj bi konečno remonce vrnili in pol po proceduri pržgali in pol z veseljem na zdravlji to preživeti.
+
+1012
+01:25:59,000 --> 01:26:14,000
+Zdaj, ker je agregat, pa itak se ta agregat testira skoraj teden, skoraj če 14 dnevno in smo ga zanelaždali, torej tak dogovor je tam, da ga res med produkcijskim časom testiramo, se pravi, da to kar enkrat ob deveti zjutraj naredimo.
+
+1013
+01:26:15,000 --> 01:26:26,000
+Vn, tri faze vn, agregat štarta, dvigne tri faze, napaja naprej in seveda monitoriramo, kaj se dogaja, zdokr pač smo rekli, to je realen scenarij, no oben drugi scenarij ni realen in pač moramo probati tako.
+
+1014
+01:26:26,000 --> 01:26:32,000
+Tako da ja, si pa ne drznemo, niti ne poskušamo prav pa vso od tega.
+
+1015
+01:26:33,000 --> 01:26:52,000
+Ja, ker dostkrat je tako, dost pač vse je v klaudo, če imaš nek data center, pa je pač večje manj vse nekaj virtualizirano, pač tukaj govorimo še zmero o nekih vrtljivih delih oziroma nekih in časih je pač problem, da pal ko se shutdown zgodi in gre nazaj, se pač stvar več ne vrti.
+
+1016
+01:26:52,000 --> 01:27:08,000
+Oziroma pač se stvar več, ne vem, nek update se vmeč zgodi, stvar se več ne zbuta, ne vem, ne najde več nekega storiča, pa ti nič ne ljudi, ta virtualiziran data center prijat nazaj.
+
+1017
+01:27:08,000 --> 01:27:24,000
+Tako da zato še vedno v tem okolju prevečkrat vidim, da so v bistvu te drili, so več imen ta realni scenarij, ki se nam je zgodil in zdaj mi rešujemo, ker znamo rešiti.
+
+1018
+01:27:24,000 --> 01:27:49,000
+Koliko slovenskih firm, javnih, zasebnih, ima neke lebe ali pa neke kapacitete, da se lahko njihovi zaposleni v IT-u recimo učijo, vadijo, testirajo? Vem, da veliko naših poslušalcev ima home lebe, vidi, da so lepe slikice, imajo doma svega in svašta. Vprašanje je, če si to legalno, ampak ok.
+
+1019
+01:27:49,000 --> 01:27:53,000
+Koliko moja firma tega, ne zanima me to.
+
+1020
+01:27:53,000 --> 01:27:54,000
+Ne zanima me to.
+
+1021
+01:28:23,000 --> 01:28:30,000
+Nimaš nekega leba ali pa nekega okolja, kjer določene stvari lahko stestiraš, pogledaš in podobno.
+
+1022
+01:28:53,000 --> 01:29:10,000
+Naredi to, pa boste videli, kako stvari odreagirajo, tukaj ne morete računičiti in vedno jim rečem, če kdorkoli, kajkoli, rabi kajkoli testirati ali karkoli, lej, pošli mi en mail, lej, če bom imel proste resurse, kar pa navadi je, so vedno pripravljen kaj postaviti, pa da se tam lahko poigrajo.
+
+1023
+01:29:10,000 --> 01:29:21,000
+A bojo lahko še eno vprašanje? Vem, da je to malo večje vprašanje. Lok ima fulj ubezen do wi-fi-ja. In mislim, da si ti tudi en tak človek, ki ima fulj ubezen do wi-fi-ja.
+
+1024
+01:29:21,000 --> 01:29:29,000
+In zelo specifičnega wi-fi-ja, ne tega home wi-fi-ja, ko si hod malo postaviš točkice in pa ok.
+
+1025
+01:29:29,000 --> 01:29:44,000
+Vidva sta se odločila oba v neki točki, da ti preko študentov, če prav razumem, kaj od novosti preko časa, sem se nisem zabil o to, ampak oba sta v nekem trenutku se odločila, da bota postavila citywide wireless access.
+
+1026
+01:29:44,000 --> 01:29:54,000
+A lahko še oba mi malo več poveta o tem, zakaj sta hotla postaviti svoj wireless na tem dosegu, kaj sta se recimo tudi z tega navčila.
+
+1027
+01:29:54,000 --> 01:30:08,000
+Ker to se mi zdi, danes ne vem, če kdo še to dela, mogoče me bo ta popravila, ne vem, ali je to, bila nova tehnologija, pa pa je zanimala, ampak zakaj sta mestom dala wi-fi?
+
+1028
+01:30:08,000 --> 01:30:32,000
+Sem tukaj, jaz sem imel ta, jaz sem bil in prest, ko sem na nizozemskem, sem pač videl te skvotarje, ki v bistvu zaskvotajo neke stare hiše, in pač navadno ali ta hiša brez vode, elektrike in pa kakršenakoli interneta,
+
+1029
+01:30:32,000 --> 01:30:43,000
+in pa tako si te ljudje pač rašujajo ta problema in pač prepelajo ali neke agregate ali neko elektriko potegnajo, potem pa kje je zdaj internet dobijo.
+
+1030
+01:30:43,000 --> 01:31:00,000
+In ta sharing, ker v bistvu ni samo tisto, da se ti preklopiš na neko dostupno točko nekega soseda, pa tam začneš internet skrat, ampak to, da so v bistvu te neke vrste community, ki so pač po mestu, obstaja se čem necavo povezati.
+
+1031
+01:31:00,000 --> 01:31:14,000
+In meni se takrat zadeva tako zelo zanimiva sploh zato, ker je bila tukaj uporabljena zelo enostavna oprema, tukaj predvsem takrat je bil ta Linksy 54GL.
+
+1032
+01:31:14,000 --> 01:31:17,000
+A to je neka za domačo uporabljeno?
+
+1033
+01:31:17,000 --> 01:31:46,000
+To je bilo nekaj tako, kot da bi šel kruh kupiti. Teh routerčkov v Linksy so tam alih je bilo ful, dobro si jih lahko poflesal in gor je lahko pač Linux in te fantje oziroma tam pač nastal en kup enih teh Linkstate routing protokolov, ki so ti omogočali, da v bistvu si naredil neke vrste mesh, ki so se med sabo povezali in delžili dovolj veliko deljeno routing tabelov,
+
+1034
+01:31:46,000 --> 01:31:56,000
+da so v bistvu ti z enega konca se pravi na nekem objektu, ki so se povezali na access point lahko dostopno na drug konc mesta in podobno.
+
+1035
+01:31:56,000 --> 01:32:03,000
+To se pravi samo, v bistvu mesh si naredil samo s temi domačimi prekanjimi.
+
+1036
+01:32:03,000 --> 01:32:22,000
+Sveda, tukaj ne govorimo, modificirati se je lahko anteno, da je pač nekaj osmerjeno anteno, da je pač imela boljši domet. Tukaj je tudi ta DIY scena, kjer si si lahko učil delati antene in malo radio materstva zraven.
+
+1037
+01:32:22,000 --> 01:32:34,000
+Ampak tak dost podsen in ustaven pristop je bil, kako v bistvu spraviš signal oziroma pač povezljivo z enega konca na drug konc.
+
+1038
+01:32:34,000 --> 01:32:57,000
+Pa tako, malo je bilo to. Gremo se malo te revolucije, mi zdaj šeramo ta internet nekomu na drug konc mesta in to se mi je takrat zdel tak super projekt, ki sem ga pač štartil tudi v Ljubljani.
+
+1039
+01:32:57,000 --> 01:33:19,000
+Dobil dovolj entuziastov, ki je plezal po strehah in to je montiral. Drugi časi so bili, takrat treba predvsem razumet, da nekega tega LTE-a ni bilo, se pravi, da bi ti na svojem mobilnem telefonu pač nek broadband internet se šel.
+
+1040
+01:33:19,000 --> 01:33:28,000
+Na zadnje je tudi, ne vem, za tisto čaj, ok, so bile že neke prve optike, ki so imeli ljudje nek broadband internet.
+
+1041
+01:33:28,000 --> 01:33:32,000
+Ali jih so potem zravtali, ta trefik sebe do domačega?
+
+1042
+01:33:32,000 --> 01:33:51,000
+Ja, ti si pač imel možnost imeti interneta, tam si pač nek router si postavil poleg tega dostopne točke in si v bistvu na nek način šeral svoj internet in nekomu omogočil dostop do interneta.
+
+1043
+01:33:51,000 --> 01:34:11,000
+Danes je to tako zelo nepredstavljivo, spohaj še rabimo ta nek wireless, ker pač tam stegneš telefon ven, več ljubezen so vsi parateri, ti daja neke, se pravi, prenos podatkov z dovolj kapacitete, da skoraj več tega ne rabiš.
+
+1044
+01:34:11,000 --> 01:34:19,000
+Se pa predstavljam, da pač v nekih ruralnih obnočjih, ki pa imaš pol več izkušenja s tem, pa to še vedno pije vodo.
+
+1045
+01:34:20,000 --> 01:34:36,000
+Veš kaj, jaz sem za ta njihov projekt volan Ljubljana oziroma volan Slovenija, pa tudi verjetno tiste kiberpipi sem slišal na to temo, mi smo tudi začeli na isti način, NVRT 54G je bil na kljubu študentov,
+
+1046
+01:34:36,000 --> 01:34:49,000
+pa se mi je zdelo dobro, pa sem rekel, počakaj, pa damo še eno mostovno, to je nekaj podobnega kot Meteljkova v Novi Gorici, z njim je še ta, tam smo imeli nek multimedijski centr, pa pa studenti so imeli en bar, pa smo dali še en bar, pa skratka pa smo začeli to širiti.
+
+1047
+01:34:50,000 --> 01:35:05,000
+Mal drugače kot omrežje v Ljubljani, mi nismo toliko hekali tega Linuxa, ampak smo dejansko priključevali te točke na obstoječe priključke, kljub temu, da so te točke bila potem čez en vpn povezana neko centralno točko, kjer so šle dejansko v internet.
+
+1048
+01:35:06,000 --> 01:35:23,000
+To pa zaradi tega, ker takrat smo se bali, da če bi kdo naredil neumnost v nekem baru, tipa ne vem, kakšna zelo namerno aktivnost, da bi potem eventualno imel ta lastnik bara težave in sigurno bi točko pol vrgu usmetil in bi rekel, kaj ste mi to, mulci, prinesli.
+
+1049
+01:35:24,000 --> 01:35:34,000
+Zato so mulci se odločili, da gremo skozi eno centralno točko ven, kjer bomo mi nasrkali, čeprav moram reči, da ULAN Nova Gorica praznuje letos 20 let.
+
+1050
+01:35:34,000 --> 01:35:35,000
+Čestitke.
+
+1051
+01:35:35,000 --> 01:35:53,000
+In je 500 teh točk, 500 teh ruterčkov v okrog, kar je res ful. Jaz sem se ogromno naučil z tega. Približno 17 tisoč devajsov na dan je konektanih. Seveda, nenamjerno, ampak gdje imajo to shranjeno, pa se jim samo konekta in tako naprej, ampak to je še vedno impresivna številka.
+
+1052
+01:35:53,000 --> 01:36:09,000
+In približno 100-150 megabitov, nekje varjeramo na sekundo, je pretoka v vsakem trenutku čez to centralno točko. Šekarno. In vidiš to, zdaj, ko smo imeli dan tehnične kulture, so prišli eni dijaki, pa so bili prepričani, da je to neko mestni Wi-Fi.
+
+1053
+01:36:09,000 --> 01:36:30,000
+Meni je to bila izjemna izkušnja, 20 let, malo se mi zdi, da bi lahko zdaj nekdo preuzel to ali pa da ugasnemo, ampak ogromno sem se naučil. Network, kjer je 17 tisoč userjev gor, če nisi operater, ga nimaš.
+
+1054
+01:36:31,000 --> 01:36:34,000
+Ampak vi ste že tako, nekaj vrsta operaterski status?
+
+1055
+01:36:34,000 --> 01:36:55,000
+Ma ne, se je to bi bilo treba sigurno v nekaj momentu nekako zregulirati. Čeprav resnica je, da nikoli ni noben segled tega nič obregnu, ali pa nobenih težav ni bilo enako kot vi. Čeprav, sej pravi, no, skratka, bi bilo fino, da bi proizveli mladi, no te mladi so rekli, maja, ma se mi uporabljamo.
+
+1056
+01:36:55,000 --> 01:37:10,000
+In zdaj, da se vrnem k temu, ne, jaz sem bil prepričan, da, ko bojo paketi se pocenili, pa tako, da bo to obsolitno, ampak ni tako, ne, ni tako. Tudi te dijaki so mi rekli, maja, ma jaz imam samo dva giga ali ne vem, nekaj, ne, in sem fulkat na Wi-Fi-u, ne.
+
+1057
+01:37:10,000 --> 01:37:31,000
+Ok, ne. In jaz verjamem, da en segment populacije ne uporablja teh mobilnih podatkov na ta način, kot verjetno ti pa jaz, pa oto, kot profesionalci z tega področja, da ljudje malo vse eno gledajo tudi na ceno teh paketov. Še posebej bolj unarkovajih, ali pa ne unarkovajih, hranljive še skupine, tipo pokojenci, mladi in tako, veš kaj, ne.
+
+1058
+01:37:32,000 --> 01:37:35,000
+Skratka, uporabi je šekar, tako, da me to veseli.
+
+1059
+01:37:36,000 --> 01:37:42,000
+A pa to, da nič ne plača, je čist open ali moraš imeti geslo?
+
+1060
+01:37:42,000 --> 01:38:09,000
+Ne, čisto open je, leta 2012, 2013, do 2013 smo imeli Captive Portal, ki te na začetku pozdravili, pozdravili niste na volanu Novogorica, lepo se obnašate in tukaj nadaljujete, ne. Ampak, ko so začeli ljudje uporabljati te messenger platforme, sem rekel v enem momentu, daj skinem to, ker zdaj, veš, ljudje so konektani, pa niso klikani, I agree, in zdaj mu oni messenger tam stoji zaklenjen, ne.
+
+1061
+01:38:09,000 --> 01:38:28,000
+Nekaj časa sem se trudil to whitelistati, ma to je pravzaprav ne mogoče whitelistati. Al pa recimo s tehnologijami, ki so bili meni tako dostopni leta 2013, je bilo to zelo težko, mogoče danes nekimi next generation firewalli bi to celo šlo, ampak jaz moram vse eno skrbeti, da to se ne prav zajeda v moj življenski prav račun do tem jre, ne.
+
+1062
+01:38:29,000 --> 01:38:32,000
+Ženju pravičiš, da imate 500 devicev.
+
+1063
+01:38:33,000 --> 01:38:49,000
+Veš kaj mi reče včasih, ne vem, zadnjič se mi je zgodilo, da se je naš access point doma, imamo dva access pointa in en se je staknul neki santantikov in pa je rekla, veš kaj, vsem dajaš internet le po gorici, nam ne dela wi-fi doma, ne, to ni ok, ne.
+
+1064
+01:38:49,000 --> 01:39:10,000
+Je pa tudi tako, da jaz imam na obeh straneh, na obeh oknih, imam še access point proti ven, usmerjen v ether, v javnost, zaradi tega, ker se mi zdi cool, da ohranjam ta duh neke skupnosti in da ljudje, ki jo mogoče ali si ne morejo privočiti ali pa si lahko privočijo, pa vseeno se na to pošlepajo, pač ne vse, ne.
+
+1065
+01:39:11,000 --> 01:39:14,000
+A te devicev ti flašeš, pripraviš ali kako?
+
+1066
+01:39:15,000 --> 01:39:16,000
+Ja, ja.
+
+1067
+01:39:16,000 --> 01:39:18,000
+Ali imate neko skupinico, ki ti pomaga?
+
+1068
+01:39:18,000 --> 01:39:23,000
+Enkrat sem bil na enem tem, kako je ta naš?
+
+1069
+01:39:24,000 --> 01:39:25,000
+Sinok.
+
+1070
+01:39:25,000 --> 01:39:32,000
+Sinok, ja, in sem rekel, veš kaj, jaz govorim mimo, v bistvu sem samo jaz, ne, sam zgleda pa hudo, kdor je si full, ne.
+
+1071
+01:39:33,000 --> 01:39:43,000
+Včasih so bili celo ene par kolegov, ki so, ne vem kaj, zdaj predavateli smo na začetku v tem mnogim kljubu študentov, skupaj to računalništvo malo delali in pa potem sem na koncu ostal sam s tem.
+
+1072
+01:39:43,000 --> 01:39:49,000
+Izjemno, daj nam več povej v teh napravicah, kakšni, to je nek low-end router?
+
+1073
+01:39:50,000 --> 01:39:51,000
+Ja, večinoma gre za...
+
+1074
+01:39:51,000 --> 01:39:56,000
+In kaj, daš ga nekomu domov, potem ga pa skonekteš na neko anteno nekam ali kaj, imate te...
+
+1075
+01:39:57,000 --> 01:40:00,000
+Zelo različno, zdaj, večinoma gre za neke mikrotike.
+
+1076
+01:40:00,000 --> 01:40:04,240
+smerjevalnike, ki so imeli Wi-Fi že noter, večina točk je takšnih.
+
+1077
+01:40:04,240 --> 01:40:06,960
+In recimo sem jo nesel v bar, sam nekoli, le vi to samo preklopite,
+
+1078
+01:40:06,960 --> 01:40:10,720
+tukaj vam bodo dajo ulan, širali bomo, ne vem. Včasih sem jih celo vprašal,
+
+1079
+01:40:10,720 --> 01:40:14,240
+koliko imate pasovne širine, pa so rekli, ne vem, 20 mega, pa sem rekel,
+
+1080
+01:40:14,240 --> 01:40:19,920
+ok, mi bomo 10 mega QoS opalili gor, pa ljudje bojo imeli 10 mega za surfati.
+
+1081
+01:40:19,920 --> 01:40:22,959
+In tako so te točke počasi rasle, ena tle, ena tem, ena tem.
+
+1082
+01:40:22,959 --> 01:40:27,719
+Sej teh routerjev je enkup tudi šlo potem faliti, ne vem, kajšen bar je zaprl,
+
+1083
+01:40:27,719 --> 01:40:31,879
+pa oni tam je odneso vse ven, pa oni so nekaj prenavljali, pa so v njo vrglju smeti,
+
+1084
+01:40:31,879 --> 01:40:36,759
+niso vedi za kaj je, kaj oni kajšni, te mikrotiki, ki so malo grši bili včasih,
+
+1085
+01:40:36,759 --> 01:40:43,000
+zgleda kot kajšen protipožarni sistem, no ampak anyway, ostalo jih je
+
+1086
+01:40:43,000 --> 01:40:48,040
+približno 500, ki jih še danes dela, eno so te mikrotiki, pol pa sem kasneje
+
+1087
+01:40:48,040 --> 01:40:52,520
+začel dodajati še neke second hand cisco access pointe na ta router,
+
+1088
+01:40:52,520 --> 01:40:56,119
+zato da sem imel boljši radio, kaj mikrotiki je sicer cool routing device,
+
+1089
+01:40:56,119 --> 01:41:01,160
+vpn in vse to špila ko os, ni problem, je pa malo šibkejši na radio delu,
+
+1090
+01:41:01,160 --> 01:41:06,760
+še posebej te starejši naprave, in pol sem začel kupovati
+
+1091
+01:41:06,760 --> 01:41:13,000
+second hand ciscote, ki so pa radi skozi daleko boljši od tega in sem začel te dodajati zraven,
+
+1092
+01:41:13,000 --> 01:41:16,360
+in je to tudi tako, pol že kar res sem radi, no.
+
+1093
+01:41:16,360 --> 01:41:22,120
+Pa čisto kot tehnično, se pravi ti, se pravi to se nek vpn se vzpostavlja,
+
+1094
+01:41:22,120 --> 01:41:24,519
+vpn uporabljaš, pa čakaš en tip.
+
+1095
+01:41:24,519 --> 01:41:27,320
+Vse sorte, glavno, da je prevrtamo ven.
+
+1096
+01:41:27,320 --> 01:41:30,360
+Se pravi, pač, you support everything, vse, kaj greš.
+
+1097
+01:41:30,360 --> 01:41:35,080
+Ja, mislim, točko imamo na lokalnem ponudniku KT Nova Gorica,
+
+1098
+01:41:35,080 --> 01:41:40,680
+s katerim tudi jaz sodelujem, in so mi pač pripravljeni tisto poslovno širino tam dat,
+
+1099
+01:41:40,680 --> 01:41:45,959
+in tale router je tam, sprejema te vpn-oje z vseh koncev,
+
+1100
+01:41:45,959 --> 01:41:49,559
+in pač potem tat promet, glede ten čest, ne.
+
+1101
+01:41:49,559 --> 01:41:52,040
+Ne vem zakaj, ampak jaz imam ful ta neki feeling,
+
+1102
+01:41:52,120 --> 01:41:54,279
+faking, to se sliši kot bad idea.
+
+1103
+01:41:54,279 --> 01:42:00,040
+Mislim, v tem času, mislim, folk prv srfa svašta, ne vem,
+
+1104
+01:42:00,040 --> 01:42:02,519
+ti kupujejo, ne vem, droge, whatever.
+
+1105
+01:42:02,519 --> 01:42:05,639
+Tam prej smo bili eno epizodo, ko je nekdo postavil tor,
+
+1106
+01:42:05,639 --> 01:42:09,479
+ker je hotel svoj internet deliti, ansko kot ex,
+
+1107
+01:42:09,479 --> 01:42:12,119
+torej ex-espon, in je imel ful težav s tem, a ne.
+
+1108
+01:42:12,119 --> 01:42:14,119
+Tega, ker se pač nego IP potem po...
+
+1109
+01:42:14,119 --> 01:42:14,839
+Absolutno.
+
+1110
+01:42:14,839 --> 01:42:16,199
+A ne, jaz...
+
+1111
+01:42:16,199 --> 01:42:19,639
+Tot vegan je, sigurno obstaja, ampak veš,
+
+1112
+01:42:20,600 --> 01:42:23,960
+tudi v obju je kup orodja, ki je tvegano,
+
+1113
+01:42:23,960 --> 01:42:25,320
+ampak ne moramo zdaj zaradi tega,
+
+1114
+01:42:25,320 --> 01:42:28,039
+kaj, ne bomo prodajali orodja več ali pa v Merkurju, ne.
+
+1115
+01:42:28,039 --> 01:42:32,679
+Mislim, računam na dobroto ljudi, in da pač...
+
+1116
+01:42:32,679 --> 01:42:37,960
+Lej, se pravi, ne beležeš nekih incidentov, ki bi, lej.
+
+1117
+01:42:37,960 --> 01:42:42,039
+V te dvajstih letih, mogoče je bilo dvakrat,
+
+1118
+01:42:42,039 --> 01:42:44,600
+ima še takrat se izkazalo za neke bolj...
+
+1119
+01:42:44,600 --> 01:42:45,639
+Spaving.
+
+1120
+01:42:45,639 --> 01:42:48,279
+Maja, bolj take stvari, tipa nekdo je šel na nek forum
+
+1121
+01:42:48,520 --> 01:42:51,720
+in nekoga je imel država v avtom in potem so se tam nekaj preganjali.
+
+1122
+01:42:51,720 --> 01:42:53,559
+Ma, skratka, take bolj stvari, ne.
+
+1123
+01:42:53,559 --> 01:42:58,759
+Sej pravim, to postaja sigurno bolj tvegano, kot nekoč.
+
+1124
+01:42:58,759 --> 01:43:05,160
+In vprašanje, če bo to lahko sploh v bodoče živelo na tak način, ne.
+
+1125
+01:43:05,160 --> 01:43:09,399
+Pa tudi, če ne bo, neko svojo epizodo je dalo čez.
+
+1126
+01:43:09,399 --> 01:43:13,399
+Mislim, dvajst let je, pa gledam do sreka, sto megabitov še vedno.
+
+1127
+01:43:13,399 --> 01:43:14,440
+Ja, ja.
+
+1128
+01:43:14,440 --> 01:43:20,919
+To ni nekaj, ne, lahko zdaj odrežiš, pa nihče ne bo upazil.
+
+1129
+01:43:20,919 --> 01:43:26,759
+A so ljudje tukaj zahvaljili? Ljudje vejo, da preko tebe ta sredebo doloje?
+
+1130
+01:43:26,759 --> 01:43:30,839
+Ma, tisti, ki vejo, sem prepričan, da so hvaležni.
+
+1131
+01:43:30,839 --> 01:43:35,399
+Te dijaki so zadnjič to zvedli in so rekli, res, in ti to dereš?
+
+1132
+01:43:35,399 --> 01:43:38,199
+In kako, veš kaj, drugi cajti so.
+
+1133
+01:43:38,199 --> 01:43:39,080
+Ja, ja, ja.
+
+1134
+01:43:39,080 --> 01:43:45,000
+Danes nekomu reči, da kaj on je tam tip, tam on ima svojo službo, ima otroka, nekaj tam,
+
+1135
+01:43:45,000 --> 01:43:49,960
+kaj on to, kaj je to, zastojno to nekaj dela, mislim, to je fulj nenavadno v današnjem svetu.
+
+1136
+01:43:49,960 --> 01:43:56,759
+Samo, veš kaj, ima tudi ta svet možnost, da bo en dan to čisto normalno in okej in da se ne bomo spraševali.
+
+1137
+01:43:56,759 --> 01:44:05,880
+No, pa se rekli, se si tudi pač, a ne, koliko si rekel, veliko naučil zraven, da ti je pač to dejansko bil tudi ta nek playground,
+
+1138
+01:44:05,880 --> 01:44:08,919
+kje si pač vse naučil, pa jaz ga stavljam, da pač
+
+1139
+01:44:08,919 --> 01:44:15,080
+verjetno si si pač tudi en kup stvaritele zaobotiziral, da pač moraš tudi dosti hitro pregledati, kaj dela, kaj ne dela.
+
+1140
+01:44:15,080 --> 01:44:17,880
+Absolutno, absolutno, to oboje.
+
+1141
+01:44:17,880 --> 01:44:21,640
+Je pa še ena poanta, se mi da tudi tako,
+
+1142
+01:44:21,640 --> 01:44:23,799
+če delaš v nekem okolju,
+
+1143
+01:44:23,799 --> 01:44:27,079
+mi je okolj, da v to okolje tudi nekaj vračaš, ne.
+
+1144
+01:44:27,079 --> 01:44:32,119
+Sej, tako je boljši za vse, se mi zdi, no.
+
+1145
+01:44:32,119 --> 01:44:35,160
+Ja, ja, sej, to je tudi ta
+
+1146
+01:44:35,160 --> 01:44:41,640
+ena od zadev, kaj je Oto dodal v ta manifest tega podkesta.
+
+1147
+01:44:41,640 --> 01:44:48,440
+A ne, smo tle ljudje, ker smo dovolj časa v tej industriji, da bi pač nekaj vrli nazaj, ne.
+
+1148
+01:44:48,440 --> 01:44:54,519
+Mislim, najverjetno lahko je pristopiti do ljudi, ki so zelo izkušeni, pa jem reči,
+
+1149
+01:44:54,519 --> 01:45:01,559
+naša vzija vzija ogrodje je, da poskušamo biti ogrodje, preko katerega bomo lahko prenesli znanje na neke nasledne generacije,
+
+1150
+01:45:01,559 --> 01:45:07,480
+pa bomo mogoče to zapisali na nekaj obliku, da bodo od let časa preživelo, pa bodo lahko ljudje videli.
+
+1151
+01:45:07,480 --> 01:45:17,160
+In če so senior ljudje, jim je jasno, je no-brainer, je pač želijo sodelovati, razumejo, zakaj
+
+1152
+01:45:17,160 --> 01:45:21,880
+sam čas jih potrebuje v platformu, kot sam, da lahko to prenesemo naprej in tako dalje.
+
+1153
+01:45:21,880 --> 01:45:28,920
+Voto, jaz mislim, da bomo mogli počasi nekako priadrati za to našo epizodo do cilja.
+
+1154
+01:45:29,079 --> 01:45:33,399
+Jaz sem sicer imel še vprašanje, zakaj za Boga ima Loki eno tako ogromno anteno,
+
+1155
+01:45:33,399 --> 01:45:45,079
+pa je dal, ne vem kaj mi je dal, ampak včasih je imel podmizo noter anteno in tako je, ko si prišel noter, pisarno se vidi tisto anteno in ta je bila za cvret neki.
+
+1156
+01:45:45,079 --> 01:45:51,320
+Loki, mislim, da je bila na Ljubljanskem gradu, ne vem kaj mi je bilo osmerjeno, ampak…
+
+1157
+01:45:51,320 --> 01:46:00,600
+Ampak je bila na Ljubljanskem gradu in pa je bil vedno pač problem, kaj so bile soboto poroke in tam je ena vtičenca, da so le poroke pač ugasljeni Exaspoint in pa je bil problem,
+
+1158
+01:46:00,600 --> 01:46:02,279
+da smo… Na najboljši lokacije.
+
+1159
+01:46:02,279 --> 01:46:05,559
+…klicati, klicati, a zdaj je konc poroke, zdaj pa radite nazaj pri žgata, ne.
+
+1160
+01:46:05,559 --> 01:46:10,279
+Pa ni se, pa pa si pač mogu fizično iti, ja, pač nazaj pri žgata, ampak, ja.
+
+1161
+01:46:10,279 --> 01:46:16,279
+Jaz bi zdaj se še sam naredil zadnji EPP, pa boš pa ti zaključil misel.
+
+1162
+01:46:16,279 --> 01:46:20,839
+Zadnji EPP. Jaz sem pač lih hotel še to.
+
+1163
+01:46:20,839 --> 01:46:21,320
+Kaj?
+
+1164
+01:46:21,320 --> 01:46:33,239
+Zadnjo, a veš, da ti se, ti tolk enega, reku, tega community worka oziroma tega, tolk enih stvari vračaš, a ne, na eno zadnje.
+
+1165
+01:46:33,239 --> 01:46:40,679
+Ful sem bil, ful sem bil impresioniran pač, ko na LinkedIn objavljaš to, da imaš delavnico, a ne, to za vtroke, a ne.
+
+1166
+01:46:40,679 --> 01:46:45,720
+Kje je ti ta strast? Jaz bi rekel, okej, imaš svojega vtroka in na nek način…
+
+1167
+01:46:46,279 --> 01:46:58,839
+Željiš tudi pač svojem vtrokom na nek način priblijati, ampak to, veš, dela z mladimi, pa to nek prenost naprej, a ne, kje ti, kje tolko energije?
+
+1168
+01:47:00,279 --> 01:47:10,359
+Ma dobro, vse te ljudje mladi tudi ful vračajo in tako kot primer rečem, da meni mi je zakon, da smo jih naučili, da zdaj ena sedmošolka
+
+1169
+01:47:10,920 --> 01:47:19,959
+reče, ma jaz se to smo zadnjič v dokerju postavili, to je meni top, jaz sem, ali pa da, jaz se smo z konzolnim kablom, potem mi reče en fant, jaz se v nevelanje,
+
+1170
+01:47:19,959 --> 01:47:25,799
+se smo že zadnjič v nevelanje, z ono konzolo smo se preklopili, ne. Tak je reči, da, da otroci vejo, vsej
+
+1171
+01:47:26,200 --> 01:47:36,040
+te delavnice površinsko se dotikajo v vseh teh stvari, ampak se z njimi obnašamo, ko da so veliki, ko da so odrasli te ljudje in delamo na resnih upremih
+
+1172
+01:47:36,040 --> 01:47:47,640
+in če bo iz tega pet inženijorjev pršlo, bo to super. Jaz bi samo rad, da so to računalničari širokih nazorov, da vejo, da ni samo umevno, kako pride,
+
+1173
+01:47:47,640 --> 01:47:55,559
+oziroma, da vejo, kako pride internet k njim domov, da smo šli pogledati kanalizacijo, da smo šli pogledati datacentr, da smo šli na oddajnik RTV Slovenija,
+
+1174
+01:47:55,559 --> 01:48:04,040
+da smo jim pokazali, da ni to kar tako, da obstajajo neke tete instrici, ki to menedžirajo, da če hočeš neki, mora neki neki teč,
+
+1175
+01:48:04,040 --> 01:48:11,959
+datacentr smo nesli server, smo tam dvigali neke monitoring sisteme, oni so nesli domov neka tipala, pol so tam grafirali tiste njihove temperature,
+
+1176
+01:48:11,959 --> 01:48:19,239
+pol smo postavili VoIP centralo, so nesli domov telefone, so se zvečer klicali med sabo, so zvonili, da to mora neki obstajati, če hočeš to dela.
+
+1177
+01:48:19,239 --> 01:48:27,559
+Jaz vem, da oni niso zdaj mojstri za SIP, niti mojstri za Cisco, niti mojstri za MikroTik, mojstri niso, ampak so pa poznajo, so videli
+
+1178
+01:48:27,559 --> 01:48:38,520
+in tega ne moremo več zbrisati, to zdaj vejo doker, razumeš. Oni so mu je Hyper-V toliko drajsali, da oni zdaj sploh več ne gledajo, kako virtualko kreirajo, tak, tak, tak, tak, pa jaz krejera,
+
+1179
+01:48:38,520 --> 01:48:47,640
+in pa zdaj, on, ki ve, kaj je to virtualizacija, on lahko dela na VMVR-u, na Proxmox-u, na Hyper-V, na whatever, ampak zdaj on to ve, nikoli več ne bo pozabil.
+
+1180
+01:48:47,640 --> 01:48:53,000
+Menim je to cool in oni ful vračajo, to je ful doro, nisi zmatran.
+
+1181
+01:48:53,080 --> 01:49:07,559
+Kaj pa, kaj pa, ko, da zdaj zaključimo, kaj pa najdeš, a ne, znaš, kaj, tako imam občutek, da tisti, ki se srečamo dones z to neko mlado generacijo, ki vstopa v našo industrijo, a ne,
+
+1182
+01:49:07,559 --> 01:49:18,039
+in ono, jih nič ne zanima, oni ne znajo, oni bi veliko plačo, oni bi pač, ne, bili na direktorskih pozicijah, a ne,
+
+1183
+01:49:18,599 --> 01:49:25,000
+ki je ta, veš, tako, nimajo tega nekega zagona, nekega tega, da časih treba skršno stvar tako grindati, kaj treba pač
+
+1184
+01:49:25,000 --> 01:49:35,239
+raditi, a ne, a ti to isto upažiš ali s tem, kaj si imaš, ne vem, ali je to pač ta, mogoče, goriški konc, da je mladina bolj,
+
+1185
+01:49:35,239 --> 01:49:38,280
+bolj, da jih bolj te stvari zanimajo.
+
+1186
+01:49:38,520 --> 01:49:46,280
+Ne, dva momenta sta tle. Prvič, starši, ki so videli, da jaz to objavljam, me poznajo in vejo, kaj delam, in vejo, da delam s tem entuzjazmom reči,
+
+1187
+01:49:46,280 --> 01:49:51,479
+in tudi oni malo so te otroke porekli, dej, bežte v tem ustricu, ta vam bo neke fore pokazal, ne.
+
+1188
+01:49:52,280 --> 01:49:58,679
+Zdaj sem pa, jaz pa porabil tudi njih, danes so oni malo bolj instantari, ne, oni hočejo to vse instant, ne.
+
+1189
+01:49:59,320 --> 01:50:07,479
+In zato sem jaz tudi koncepiral program tako from zero to hero, oni pridejo ob treh, ne vejo nič o cisku, ob petih pa je že v konzoli neki kliko in nekje mu je tam
+
+1190
+01:50:07,479 --> 01:50:17,000
+naredilo, kar smo se mi zmenili. In on je pol nagrajen s tem uspehom. In to delamo, to probamo vse, vse te stvari narediti tako, da so
+
+1191
+01:50:17,320 --> 01:50:24,919
+modularne in da prepeljajo od zero to hero. In ko on je awarded s tem, da mu je uspelo, ga to motivira za naprej.
+
+1192
+01:50:24,919 --> 01:50:34,679
+Sem pač uporabil ta isti njihov princip, ki jim dogaja, ne. Zdaj, če jim ti celo leto CCNA razlagaš, stari, do konca leta bo lih enostav, ne.
+
+1193
+01:50:35,239 --> 01:50:37,239
+To bojo šli domov in ne bojo več hodili.
+
+1194
+01:50:37,239 --> 01:50:47,000
+Ja, razumeš, pač je logično, ne. Ampak če pa probaš to na ta način zapeljati, ne, da rečeš, gledajte, mi bomo danes naredili tako kot na letališčih, hotspot.
+
+1195
+01:50:47,000 --> 01:50:53,559
+Kaj je hotspot? Ja, da ko boš šel na wi-fi, ljudje, da se jim odprnem portalček. Kaj je v zakon? Zdaj naredimo prvo wi-fi, ok?
+
+1196
+01:50:53,559 --> 01:50:59,799
+Prve dvajset minut naredimo wi-fi. Imamo vsi svojo točko, imamo. Gremo z telefonim gor, srfamo zakon, ok. Zdaj pa dejmo hotspot narediti.
+
+1197
+01:50:59,880 --> 01:51:08,119
+Naredimo hotspot. Pa dej zdaj napiši ti tvoje ime, pa ono, pa dobrodošli. In potem bi mi rečel, maj, jaz bi bil tudi doma, da ko pride v prijateljih meni. Ok, super, jih že imaš, razumeš.
+
+1198
+01:51:08,119 --> 01:51:14,599
+In zdaj on tistega mikrotikca svojega nese domov in zdaj ima preklopilnega doma in ima hotspot za svoje frende, ko pride v k njemu. Top, ne.
+
+1199
+01:51:14,599 --> 01:51:19,799
+In zdaj se on nauči hotspot. Zdaj on štega, kako hotspot deluje, kaj je na letališču tisti hotspot, ne.
+
+1200
+01:51:19,799 --> 01:51:29,000
+Zdaj on zdi, aha, tam so eni strici montirali nek mikrotik, govorim, in tam so odvigali hotspot in zdaj to lovili. Če jih na ta način peljaš, im je žur, ne.
+
+1201
+01:51:29,880 --> 01:51:33,400
+Če jih na ta peljaš in so potem tudi motivirani, im je ok, ne.
+
+1202
+01:51:33,960 --> 01:51:44,760
+Pa to si, odnegdaj, mislim ta, veš, kaj je to tako nek tak skill, kako delati, veš, v nekog povčovanja, ne, da, veš, kako
+
+1203
+01:51:45,640 --> 01:51:57,559
+uljit, pa kako biti, odmeti ta engažment. A si to, a veš, šel ta trajen ero, a v bistvu ugotovil, aha, to je zdaj neki kapalija, ne, ali kako.
+
+1204
+01:51:57,559 --> 01:52:08,599
+In točno tako je, kot praviš, in še dve stvari so, še menja se zgodovinski kontekst, kodr smo to enkrat delali na klubu študentov, letavdej so čest, je bilo to čisto druga, druga publika, čisto drugi ljudje.
+
+1205
+01:52:08,599 --> 01:52:21,000
+Mednem kot danes so otroci čisto neki drugi forje, ne. Ampak se jih da, se jih da zmotivirati in eni hodijo k nam že pet let in jaz mu rečem, ej, stari, ti si drugi letnik, ti boš zdaj naš mentor, ratuj, jaz te nimam kaj naučiti več.
+
+1206
+01:52:21,000 --> 01:52:33,159
+Mislim, lahko začnemo res, resne stvari delati, ampak ti boš mentor, ti začni zdaj učiti tam, pa boš, počasi ti hodi k nam, raziskuj sam te stvari, ne, in furej dalje, ne.
+
+1207
+01:52:33,159 --> 01:52:49,320
+Kaj bi tudi rada, rada, to ena, meni ni interesu to zdaj delati do konca life-a, opa, mi je interesu, da mentorje vzgojimo z tega in začne tudi samo ciklati dalje, ne, pa tudi začne od nove tehnologije, nove reči, ne, programirati, ne vem kaj vse, ne, to smo na module razbili letos,
+
+1208
+01:52:49,320 --> 01:52:52,919
+tako da imamo različne module, različna področja in je super, no.
+
+1209
+01:52:52,919 --> 01:52:53,880
+Super.
+
+1210
+01:52:53,880 --> 01:53:05,159
+Jaz, jaz nimam kaj dodati, jaz samo, ti želim, da ohraniš energijo, pa to iskrico, ki jo definitivno imaš, pa v imenu skupnosti hvala, da se trudiš, teda.
+
+1211
+01:53:05,159 --> 01:53:14,599
+Hvala tudi vam, meni je veliko čas, da sem bil vaš gost v Ogrodju, ki ga res poštujem in res veliko delo delate, tako da vam, se ven res zahvaljujem, no.
+
+1212
+01:53:15,559 --> 01:53:33,400
+Ja, tako da na tej točki hvala ti, Luka, za tvoj čas, pa da, ne, da nas tukaj posvoje, nas gostiš tukaj, ne, in pa se ti res zahvaljujem, ne, da pač jaz mislim, da res velik daješ, ne,
+
+1213
+01:53:33,400 --> 01:53:48,200
+velik, v bistvu, tako z nekim tem žarom, ki imam občutek, da ljudi v tej industriji, naši branži, tako posvoje manjka, ne, tako velike tega nekega cinizma,
+
+1214
+01:53:48,200 --> 01:53:56,200
+tega nekaj negativosti, nekaj nepozvanja, to, kaj smo se načetku pojali, in sem zdi, da pa tako res istopaš in hvala.
+
+1215
+01:53:57,000 --> 01:54:07,000
+Če vam je bilo všeč, pripeljajte in delujte, podprite nas na Patreonu, pa hvala vsem, ki ste z nami, in se vidimo naslednjič.
+
+1216
+01:54:07,000 --> 01:54:09,799
+Če ne prej, pa potem ne vem, kaj, ob 30 letka.
+
+1217
+01:54:09,799 --> 01:54:11,799
+Ja, pa drugo leto, ob 30 letka.
+
+1218
+01:54:11,799 --> 01:54:12,799
+Ja, vsi vabljeni.
+
+1219
+01:54:12,799 --> 01:54:14,799
+U, nekaj bi mogel predavati, a?
+
+1220
+01:54:14,799 --> 01:54:15,799
+Oba dva.
+
+1221
+01:54:15,799 --> 01:54:16,799
+Hvala.
+
+1222
+01:54:16,799 --> 01:54:17,799
+Več držim za besedo.
+
+1223
+01:54:17,799 --> 01:54:18,799
+Vredo, hvala.
+
+1224
+01:54:26,200 --> 01:54:27,799
+Hvala.

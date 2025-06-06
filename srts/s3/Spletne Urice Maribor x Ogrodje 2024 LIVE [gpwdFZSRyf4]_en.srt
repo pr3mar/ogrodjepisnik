@@ -1,0 +1,9087 @@
+1
+00:00:00,000 --> 00:00:18,000
+Welcome to Split Horses Maribor. Today we have a wonderful team of podcasters from Grodno.
+
+2
+00:00:18,000 --> 00:00:29,000
+Welcome to Split Horses Maribor. Welcome to the first… Today we have a lot of firsts.
+
+3
+00:00:29,000 --> 00:00:39,000
+Today we have the first Split Horses in a wonderful KGB club, mostly in the underground square with microphones and lights in Maribor.
+
+4
+00:00:39,000 --> 00:00:44,000
+Today is also the first recording of a podcast about Grodno live.
+
+5
+00:00:44,000 --> 00:00:51,000
+For example. We have already tried it. Qualifying in such clothes and with such colors.
+
+6
+00:00:51,000 --> 00:00:53,000
+We didn't go that big.
+
+7
+00:00:53,000 --> 00:00:55,000
+Oh, you didn't go that big.
+
+8
+00:00:55,000 --> 00:01:00,000
+Let's say the first recording of a podcast episode this summer.
+
+9
+00:01:00,000 --> 00:01:01,000
+Absolutely.
+
+10
+00:01:01,000 --> 00:01:02,000
+That's right.
+
+11
+00:01:02,000 --> 00:01:09,000
+And the first recording of a podcast live on Split Horses. I already mentioned that.
+
+12
+00:01:09,000 --> 00:01:10,000
+I didn't.
+
+13
+00:01:10,000 --> 00:01:13,000
+So, yes.
+
+14
+00:01:13,000 --> 00:01:19,000
+Quickly, for those of you who are the first in Split Horses, because I always say that as a moderator of Split Horses.
+
+15
+00:01:19,000 --> 00:01:25,000
+Split Horses are events about technology, the world and everything in between.
+
+16
+00:01:25,000 --> 00:01:31,000
+Once a month we get together in our favorite city of Maribor.
+
+17
+00:01:31,000 --> 00:01:37,000
+We used to get together more often, but look, now we've grown up and we all have an adult life.
+
+18
+00:01:37,000 --> 00:01:41,000
+We don't have to go somewhere for two weeks, because it already looks so strange.
+
+19
+00:01:41,000 --> 00:01:49,000
+But yes, I talk a lot, so maybe it would be cool if Andraža could join us.
+
+20
+00:01:49,000 --> 00:01:58,000
+No, no. I mean, first of all, the fact that we are all in this new merch, and maybe even that.
+
+21
+00:01:58,000 --> 00:02:03,000
+I would like to thank Erne Gračner, who is also...
+
+22
+00:02:03,000 --> 00:02:13,000
+Not only does he help us to make the city look as professional as it looks,
+
+23
+00:02:13,000 --> 00:02:19,000
+he is also one of those who are very deserving that Split Horses has been around for 13 years.
+
+24
+00:02:19,000 --> 00:02:23,000
+So, also for that, Erne, thank you for that.
+
+25
+00:02:23,000 --> 00:02:25,000
+Thank you for working hard.
+
+26
+00:02:28,000 --> 00:02:30,000
+Do I have to hold this?
+
+27
+00:02:30,000 --> 00:02:35,000
+No, no. You know what, I'll just tell you about the technical briefing.
+
+28
+00:02:35,000 --> 00:02:38,000
+We have some more points.
+
+29
+00:02:38,000 --> 00:02:43,000
+One is that it is satisfactory, it is not regrettable.
+
+30
+00:02:43,000 --> 00:02:44,000
+Great.
+
+31
+00:02:44,000 --> 00:02:47,000
+We will try to convey this live.
+
+32
+00:02:47,000 --> 00:02:50,000
+Now, Kadar, we talk to each other.
+
+33
+00:02:50,000 --> 00:02:54,000
+Sometimes I ask very stupid questions.
+
+34
+00:02:54,000 --> 00:02:58,000
+Not because we don't know, but because we are stupid.
+
+35
+00:02:58,000 --> 00:03:00,000
+He is simulating the audience.
+
+36
+00:03:00,000 --> 00:03:02,000
+I am not stupid, so you don't have to ask.
+
+37
+00:03:02,000 --> 00:03:04,000
+To bring the audience closer.
+
+38
+00:03:04,000 --> 00:03:06,000
+That's what I heard.
+
+39
+00:03:06,000 --> 00:03:11,000
+We have such a high level of audience that...
+
+40
+00:03:13,000 --> 00:03:14,000
+Yeah.
+
+41
+00:03:14,000 --> 00:03:15,000
+Yeah.
+
+42
+00:03:15,000 --> 00:03:17,000
+That's how it is.
+
+43
+00:03:18,000 --> 00:03:20,000
+Audience in Grodno.
+
+44
+00:03:21,000 --> 00:03:24,000
+I don't know. Do you have a structure?
+
+45
+00:03:24,000 --> 00:03:28,000
+At first, I wanted to start with some kind of a rant.
+
+46
+00:03:28,000 --> 00:03:32,000
+How everything went in Tri Krasne after Covid.
+
+47
+00:03:32,000 --> 00:03:35,000
+But I said no, we are not there yet.
+
+48
+00:03:35,000 --> 00:03:37,000
+You will continue.
+
+49
+00:03:37,000 --> 00:03:38,000
+Yes, definitely.
+
+50
+00:03:38,000 --> 00:03:39,000
+I don't want to...
+
+51
+00:03:39,000 --> 00:03:40,000
+No, no.
+
+52
+00:03:40,000 --> 00:03:41,000
+Not from the start.
+
+53
+00:03:41,000 --> 00:03:42,000
+A little.
+
+54
+00:03:42,000 --> 00:03:43,000
+Slowly, but surely.
+
+55
+00:03:43,000 --> 00:03:44,000
+So they don't run away.
+
+56
+00:03:44,000 --> 00:03:45,000
+No, no.
+
+57
+00:03:45,000 --> 00:03:46,000
+They don't.
+
+58
+00:03:46,000 --> 00:03:47,000
+Where to run?
+
+59
+00:03:47,000 --> 00:03:48,000
+Up the hill.
+
+60
+00:03:48,000 --> 00:03:49,000
+No, no, no.
+
+61
+00:03:49,000 --> 00:03:51,000
+It won't turn out like that.
+
+62
+00:03:51,000 --> 00:03:55,000
+For all the listeners, viewers, podcasters in Grodno,
+
+63
+00:03:55,000 --> 00:03:58,000
+I would like to give you a little background
+
+64
+00:03:58,000 --> 00:04:01,000
+about the connected streets in Maribor.
+
+65
+00:04:01,000 --> 00:04:04,000
+All of you who live in Ljubljana,
+
+66
+00:04:04,000 --> 00:04:06,000
+you are probably very happy,
+
+67
+00:04:06,000 --> 00:04:09,000
+because a lot is happening in Ljubljana,
+
+68
+00:04:09,000 --> 00:04:12,000
+when it comes to technological events.
+
+69
+00:04:12,000 --> 00:04:15,000
+There is not enough of them in Maribor.
+
+70
+00:04:15,000 --> 00:04:18,000
+But there are connected streets here.
+
+71
+00:04:18,000 --> 00:04:21,000
+We are here as a connected member
+
+72
+00:04:21,000 --> 00:04:24,000
+of the technological community in general.
+
+73
+00:04:24,000 --> 00:04:28,000
+These are not just topics of pure software development,
+
+74
+00:04:28,000 --> 00:04:30,000
+but also topics of design,
+
+75
+00:04:30,000 --> 00:04:32,000
+project, product management.
+
+76
+00:04:32,000 --> 00:04:34,000
+And yes, the players,
+
+77
+00:04:34,000 --> 00:04:36,000
+who are hiding in the back,
+
+78
+00:04:36,000 --> 00:04:38,000
+are already writing.
+
+79
+00:04:38,000 --> 00:04:40,000
+They are 13 years old,
+
+80
+00:04:40,000 --> 00:04:42,000
+and they are already working.
+
+81
+00:04:42,000 --> 00:04:44,000
+As if they don't see it.
+
+82
+00:04:44,000 --> 00:04:47,000
+But yes, a lot of volunteer work,
+
+83
+00:04:47,000 --> 00:04:50,000
+and we are very enthusiastic about it.
+
+84
+00:04:50,000 --> 00:04:52,000
+I also like to make shoes,
+
+85
+00:04:52,000 --> 00:04:54,000
+so I am front-facing.
+
+86
+00:04:56,000 --> 00:04:58,000
+If you would like to,
+
+87
+00:04:58,000 --> 00:05:00,000
+you would move to Ljubljana,
+
+88
+00:05:00,000 --> 00:05:02,000
+to the connected streets.
+
+89
+00:05:02,000 --> 00:05:03,000
+You survived.
+
+90
+00:05:03,000 --> 00:05:04,000
+We survived, yes.
+
+91
+00:05:04,000 --> 00:05:06,000
+And what about the connected streets?
+
+92
+00:05:06,000 --> 00:05:08,000
+They started in Ljubljana, right?
+
+93
+00:05:08,000 --> 00:05:09,000
+Yes, yes.
+
+94
+00:05:09,000 --> 00:05:13,000
+And is the connected street brand still there?
+
+95
+00:05:14,000 --> 00:05:16,000
+As far as I know,
+
+96
+00:05:16,000 --> 00:05:18,000
+it is a connected side.
+
+97
+00:05:18,000 --> 00:05:21,000
+I don't know if there are still events.
+
+98
+00:05:21,000 --> 00:05:24,000
+There was a revival a few years ago,
+
+99
+00:05:24,000 --> 00:05:26,000
+in 2014 or 2014,
+
+100
+00:05:26,000 --> 00:05:28,000
+I can't remember.
+
+101
+00:05:28,000 --> 00:05:31,000
+I am interested in the community.
+
+102
+00:05:31,000 --> 00:05:34,000
+How does a community develop,
+
+103
+00:05:34,000 --> 00:05:37,000
+how does a community sustain itself?
+
+104
+00:05:37,000 --> 00:05:39,000
+What is this thing?
+
+105
+00:05:39,000 --> 00:05:41,000
+How did the garden develop?
+
+106
+00:05:41,000 --> 00:05:44,000
+Why did the garden sustain itself?
+
+107
+00:05:44,000 --> 00:05:46,000
+How it sustains itself,
+
+108
+00:05:46,000 --> 00:05:48,000
+we will talk about that later.
+
+109
+00:05:48,000 --> 00:05:50,000
+But how it develops,
+
+110
+00:05:50,000 --> 00:05:52,000
+we already talked about it.
+
+111
+00:05:52,000 --> 00:05:54,000
+Then you grow up,
+
+112
+00:05:54,000 --> 00:05:56,000
+there are other priorities.
+
+113
+00:05:56,000 --> 00:05:58,000
+Do you succeed as a young person,
+
+114
+00:05:58,000 --> 00:06:00,000
+or as a connected member,
+
+115
+00:06:00,000 --> 00:06:02,000
+that will pull you forward?
+
+116
+00:06:02,000 --> 00:06:05,000
+If not, everything ends at some point.
+
+117
+00:06:05,000 --> 00:06:07,000
+And then you conclude.
+
+118
+00:06:07,000 --> 00:06:09,000
+Do you conclude?
+
+119
+00:06:10,000 --> 00:06:11,000
+OK.
+
+120
+00:06:11,000 --> 00:06:14,000
+We are talking about the community as a whole,
+
+121
+00:06:14,000 --> 00:06:16,000
+or specifically?
+
+122
+00:06:18,000 --> 00:06:19,000
+In Grodje,
+
+123
+00:06:19,000 --> 00:06:21,000
+I will talk about Grodje,
+
+124
+00:06:21,000 --> 00:06:24,000
+but I think we are somewhat similar.
+
+125
+00:06:25,000 --> 00:06:26,000
+In Grodje,
+
+126
+00:06:27,000 --> 00:06:29,000
+we somehow agreed that
+
+127
+00:06:29,000 --> 00:06:32,000
+if you want to do something in Sibinje,
+
+128
+00:06:32,000 --> 00:06:35,000
+it is good to have your own audience,
+
+129
+00:06:35,000 --> 00:06:38,000
+to know your target audience well,
+
+130
+00:06:38,000 --> 00:06:40,000
+to know who they are,
+
+131
+00:06:40,000 --> 00:06:42,000
+to understand their ambitions,
+
+132
+00:06:42,000 --> 00:06:44,000
+to understand their problems,
+
+133
+00:06:44,000 --> 00:06:46,000
+what they are facing,
+
+134
+00:06:46,000 --> 00:06:48,000
+what they are thinking about,
+
+135
+00:06:48,000 --> 00:06:50,000
+what works, what doesn't,
+
+136
+00:06:50,000 --> 00:06:52,000
+what language they speak,
+
+137
+00:06:52,000 --> 00:06:54,000
+to get to know the people
+
+138
+00:06:54,000 --> 00:06:56,000
+for whom you are doing this.
+
+139
+00:06:59,000 --> 00:07:02,000
+We tried to make a pool
+
+140
+00:07:02,000 --> 00:07:04,000
+through which we can now
+
+141
+00:07:04,000 --> 00:07:06,000
+celebrate this audience,
+
+142
+00:07:06,000 --> 00:07:09,000
+so that we can gather as many people
+
+143
+00:07:09,000 --> 00:07:11,000
+as possible on one channel,
+
+144
+00:07:11,000 --> 00:07:14,000
+so that we can get this feedback
+
+145
+00:07:14,000 --> 00:07:16,000
+as soon as possible,
+
+146
+00:07:16,000 --> 00:07:19,000
+so that we know who we are working for,
+
+147
+00:07:19,000 --> 00:07:21,000
+so that people tell us
+
+148
+00:07:21,000 --> 00:07:24,000
+whether we did a good job or not,
+
+149
+00:07:24,000 --> 00:07:27,000
+and so that they grow together with us.
+
+150
+00:07:27,000 --> 00:07:29,000
+This helps us a lot,
+
+151
+00:07:29,000 --> 00:07:31,000
+also in the selection in Sibinje,
+
+152
+00:07:31,000 --> 00:07:33,000
+in the promotion in Sibinje,
+
+153
+00:07:33,000 --> 00:07:35,000
+and in everything else.
+
+154
+00:07:37,000 --> 00:07:39,000
+We are working on the pool
+
+155
+00:07:39,000 --> 00:07:41,000
+for two purposes.
+
+156
+00:07:41,000 --> 00:07:44,000
+One is that we are doing it for ourselves,
+
+157
+00:07:44,000 --> 00:07:47,000
+and the other is that we are doing it
+
+158
+00:07:47,000 --> 00:07:49,000
+for this audience,
+
+159
+00:07:49,000 --> 00:07:51,000
+which I hope we understand
+
+160
+00:07:51,000 --> 00:07:54,000
+and which I hope will grow together with us.
+
+161
+00:07:54,000 --> 00:07:56,000
+Can we go on?
+
+162
+00:07:57,000 --> 00:07:59,000
+There is more.
+
+163
+00:07:59,000 --> 00:08:01,000
+This thing with this audience
+
+164
+00:08:01,000 --> 00:08:03,000
+is always interesting to me.
+
+165
+00:08:03,000 --> 00:08:05,000
+In my relatively short career,
+
+166
+00:08:05,000 --> 00:08:08,000
+I have done a lot of different things,
+
+167
+00:08:08,000 --> 00:08:11,000
+but I always deal with people again,
+
+168
+00:08:11,000 --> 00:08:14,000
+although a little more in the technical sense,
+
+169
+00:08:14,000 --> 00:08:16,000
+but also with people
+
+170
+00:08:16,000 --> 00:08:18,000
+who are not purely technical.
+
+171
+00:08:18,000 --> 00:08:21,000
+And I always deal with how to translate
+
+172
+00:08:21,000 --> 00:08:24,000
+an idea into something else,
+
+173
+00:08:24,000 --> 00:08:27,000
+so that everyone can understand it.
+
+174
+00:08:27,000 --> 00:08:29,000
+What we did very well,
+
+175
+00:08:29,000 --> 00:08:31,000
+in my opinion,
+
+176
+00:08:31,000 --> 00:08:34,000
+haters, you don't have to vote now,
+
+177
+00:08:34,000 --> 00:08:36,000
+but what we did very well
+
+178
+00:08:36,000 --> 00:08:38,000
+in all these years,
+
+179
+00:08:38,000 --> 00:08:41,000
+is that we managed to bring together
+
+180
+00:08:41,000 --> 00:08:44,000
+complex or perhaps technically demanding
+
+181
+00:08:44,000 --> 00:08:47,000
+concepts in a much broader way.
+
+182
+00:08:47,000 --> 00:08:50,000
+This is what we are doing now.
+
+183
+00:08:50,000 --> 00:08:53,000
+We are trying to bring together
+
+184
+00:08:53,000 --> 00:08:56,000
+some concepts in a much broader population,
+
+185
+00:08:56,000 --> 00:08:58,000
+even those who don't need
+
+186
+00:08:58,000 --> 00:09:00,000
+a technical background.
+
+187
+00:09:00,000 --> 00:09:02,000
+I have said it many times,
+
+188
+00:09:02,000 --> 00:09:04,000
+and I will probably say it again,
+
+189
+00:09:04,000 --> 00:09:06,000
+but I have been dealing with URIC
+
+190
+00:09:06,000 --> 00:09:08,000
+throughout my career.
+
+191
+00:09:08,000 --> 00:09:10,000
+If it were not for URIC
+
+192
+00:09:10,000 --> 00:09:12,000
+and other events in Maribor,
+
+193
+00:09:12,000 --> 00:09:15,000
+I would not know what Ruby on Rails is,
+
+194
+00:09:15,000 --> 00:09:17,000
+and I would not have published
+
+195
+00:09:17,000 --> 00:09:19,000
+a book about URIC.
+
+196
+00:09:20,000 --> 00:09:22,000
+On the other hand,
+
+197
+00:09:22,000 --> 00:09:24,000
+if it were not for URIC,
+
+198
+00:09:24,000 --> 00:09:26,000
+I would not have been in a cage,
+
+199
+00:09:26,000 --> 00:09:28,000
+and I would probably have been
+
+200
+00:09:28,000 --> 00:09:30,000
+in a more fancy place.
+
+201
+00:09:34,000 --> 00:09:37,000
+I can give you an answer to that.
+
+202
+00:09:37,000 --> 00:09:40,000
+We are moving to Odense.
+
+203
+00:09:42,000 --> 00:09:44,000
+We have learned that
+
+204
+00:09:44,000 --> 00:09:47,000
+doing too many accessible things
+
+205
+00:09:47,000 --> 00:09:49,000
+does not work.
+
+206
+00:09:50,000 --> 00:09:52,000
+We have learned that
+
+207
+00:09:52,000 --> 00:09:55,000
+everything we do in ourselves,
+
+208
+00:09:55,000 --> 00:09:58,000
+if you have a full-time employee,
+
+209
+00:09:58,000 --> 00:10:01,000
+for example, you are a full-time employee now,
+
+210
+00:10:01,000 --> 00:10:03,000
+coffee, is that a keyword?
+
+211
+00:10:03,000 --> 00:10:05,000
+I am definitely a full-time employee.
+
+212
+00:10:05,000 --> 00:10:07,000
+I am not a coffeemaker.
+
+213
+00:10:07,000 --> 00:10:09,000
+OK, I got carried away.
+
+214
+00:10:09,000 --> 00:10:12,000
+If I ask you something serious
+
+215
+00:10:12,000 --> 00:10:15,000
+or if you are going to start for a long time,
+
+216
+00:10:15,000 --> 00:10:18,000
+it will be really hard to explain.
+
+217
+00:10:18,000 --> 00:10:20,000
+On the other hand,
+
+218
+00:10:20,000 --> 00:10:23,000
+if people are interested in this,
+
+219
+00:10:23,000 --> 00:10:26,000
+they will find a lot of other content
+
+220
+00:10:26,000 --> 00:10:29,000
+that is specifically made for this purpose.
+
+221
+00:10:29,000 --> 00:10:31,000
+They will find more faith,
+
+222
+00:10:31,000 --> 00:10:33,000
+it will be better explained,
+
+223
+00:10:33,000 --> 00:10:35,000
+it will be explained better,
+
+224
+00:10:35,000 --> 00:10:37,000
+especially for you,
+
+225
+00:10:37,000 --> 00:10:40,000
+maybe with someone else in front of you.
+
+226
+00:10:40,000 --> 00:10:42,000
+So far we have learned
+
+227
+00:10:42,000 --> 00:10:45,000
+that we are not that intelligent,
+
+228
+00:10:45,000 --> 00:10:48,000
+but simplification does not work
+
+229
+00:10:48,000 --> 00:10:50,000
+for our example.
+
+230
+00:10:52,000 --> 00:10:54,000
+We then prepared,
+
+231
+00:10:54,000 --> 00:10:56,000
+maybe this can be a bit
+
+232
+00:10:56,000 --> 00:10:58,000
+for the younger ones,
+
+233
+00:10:58,000 --> 00:11:00,000
+we then prepared that,
+
+234
+00:11:00,000 --> 00:11:02,000
+for example,
+
+235
+00:11:02,000 --> 00:11:05,000
+we need a certain format
+
+236
+00:11:05,000 --> 00:11:07,000
+in the space for individuals,
+
+237
+00:11:07,000 --> 00:11:09,000
+for beginners.
+
+238
+00:11:09,000 --> 00:11:12,000
+We will make a series of individuals
+
+239
+00:11:12,000 --> 00:11:14,000
+under the banner of Zagon,
+
+240
+00:11:14,000 --> 00:11:17,000
+which is also created and run by our Sarah.
+
+241
+00:11:17,000 --> 00:11:20,000
+These individuals are made for beginners
+
+242
+00:11:20,000 --> 00:11:23,000
+and try to be individuals for beginners
+
+243
+00:11:23,000 --> 00:11:26,000
+who know how to find themselves
+
+244
+00:11:26,000 --> 00:11:28,000
+in this space,
+
+245
+00:11:28,000 --> 00:11:31,000
+but still with a local note,
+
+246
+00:11:31,000 --> 00:11:33,000
+how to prepare CVs,
+
+247
+00:11:33,000 --> 00:11:35,000
+how to pay,
+
+248
+00:11:35,000 --> 00:11:38,000
+how to connect and pay developers,
+
+249
+00:11:38,000 --> 00:11:41,000
+which is something we will investigate.
+
+250
+00:11:41,000 --> 00:11:44,000
+And this local note for beginners,
+
+251
+00:11:44,000 --> 00:11:46,000
+how to learn to program,
+
+252
+00:11:46,000 --> 00:11:48,000
+what does a programmer do,
+
+253
+00:11:48,000 --> 00:11:51,000
+these are topics that people are looking for
+
+254
+00:11:51,000 --> 00:11:54,000
+and I also see that the response is very good
+
+255
+00:11:54,000 --> 00:11:56,000
+and it works.
+
+256
+00:11:56,000 --> 00:11:58,000
+This is probably a bit different
+
+257
+00:11:58,000 --> 00:12:00,000
+for our use case.
+
+258
+00:12:00,000 --> 00:12:02,000
+Also community,
+
+259
+00:12:02,000 --> 00:12:04,000
+on this note,
+
+260
+00:12:04,000 --> 00:12:06,000
+on Discord we have
+
+261
+00:12:06,000 --> 00:12:08,000
+a channel called Zagon,
+
+262
+00:12:08,000 --> 00:12:10,000
+where more and more beginners
+
+263
+00:12:10,000 --> 00:12:12,000
+are being recruited
+
+264
+00:12:12,000 --> 00:12:14,000
+who experiment,
+
+265
+00:12:14,000 --> 00:12:16,000
+listen,
+
+266
+00:12:16,000 --> 00:12:18,000
+and need feedback or help.
+
+267
+00:12:18,000 --> 00:12:20,000
+Since so many people are already
+
+268
+00:12:20,000 --> 00:12:22,000
+helping each other,
+
+269
+00:12:22,000 --> 00:12:24,000
+it is also very interesting.
+
+270
+00:12:24,000 --> 00:12:26,000
+I think this is the thing.
+
+271
+00:12:26,000 --> 00:12:28,000
+If you take,
+
+272
+00:12:28,000 --> 00:12:30,000
+let's say,
+
+273
+00:12:30,000 --> 00:12:32,000
+the word community,
+
+274
+00:12:32,000 --> 00:12:34,000
+I would say that
+
+275
+00:12:34,000 --> 00:12:36,000
+a large majority of people
+
+276
+00:12:36,000 --> 00:12:38,000
+are regular visitors,
+
+277
+00:12:38,000 --> 00:12:40,000
+or through the fact
+
+278
+00:12:40,000 --> 00:12:42,000
+that they came or left,
+
+279
+00:12:42,000 --> 00:12:44,000
+maybe got drunk,
+
+280
+00:12:44,000 --> 00:12:46,000
+met new friends,
+
+281
+00:12:46,000 --> 00:12:48,000
+came to help,
+
+282
+00:12:48,000 --> 00:12:50,000
+as you said,
+
+283
+00:12:50,000 --> 00:12:52,000
+to careers,
+
+284
+00:12:52,000 --> 00:12:54,000
+or to some opportunities
+
+285
+00:12:54,000 --> 00:12:56,000
+that have opened up here.
+
+286
+00:12:56,000 --> 00:12:58,000
+That is what a community is.
+
+287
+00:12:58,000 --> 00:13:00,000
+In fact, it is not only
+
+288
+00:13:00,000 --> 00:13:02,000
+that you share a personality
+
+289
+00:13:02,000 --> 00:13:04,000
+but also that a community
+
+290
+00:13:04,000 --> 00:13:06,000
+of individuals is growing
+
+291
+00:13:06,000 --> 00:13:08,000
+where everyone starts
+
+292
+00:13:08,000 --> 00:13:10,000
+to create and work together.
+
+293
+00:13:10,000 --> 00:13:12,000
+So, I don't know,
+
+294
+00:13:12,000 --> 00:13:14,000
+in Grodno,
+
+295
+00:13:14,000 --> 00:13:16,000
+it is also important
+
+296
+00:13:16,000 --> 00:13:18,000
+that there is Discord.
+
+297
+00:13:18,000 --> 00:13:20,000
+It is probably
+
+298
+00:13:20,000 --> 00:13:22,000
+a physical space
+
+299
+00:13:22,000 --> 00:13:24,000
+and presence,
+
+300
+00:13:24,000 --> 00:13:26,000
+not only that people listen
+
+301
+00:13:26,000 --> 00:13:28,000
+to a lecture and ask questions,
+
+302
+00:13:28,000 --> 00:13:30,000
+but also that a debate
+
+303
+00:13:30,000 --> 00:13:32,000
+can develop there.
+
+304
+00:13:32,000 --> 00:13:34,000
+That is what is needed,
+
+305
+00:13:34,000 --> 00:13:36,000
+and that is probably
+
+306
+00:13:36,000 --> 00:13:38,000
+what Corona fucked up so well.
+
+307
+00:13:38,000 --> 00:13:40,000
+What we forgot
+
+308
+00:13:40,000 --> 00:13:42,000
+is the community.
+
+309
+00:13:42,000 --> 00:13:44,000
+Online,
+
+310
+00:13:44,000 --> 00:13:46,000
+I can't say that
+
+311
+00:13:46,000 --> 00:13:48,000
+in Grodno we notice
+
+312
+00:13:48,000 --> 00:13:50,000
+that
+
+313
+00:13:50,000 --> 00:13:52,000
+the younger generation
+
+314
+00:13:52,000 --> 00:13:54,000
+is doing it easier.
+
+315
+00:13:54,000 --> 00:13:56,000
+I don't know,
+
+316
+00:13:56,000 --> 00:13:58,000
+I am from the generation
+
+317
+00:13:58,000 --> 00:14:00,000
+of Šenoklet,
+
+318
+00:14:00,000 --> 00:14:02,000
+and people
+
+319
+00:14:02,000 --> 00:14:04,000
+needed to come there.
+
+320
+00:14:04,000 --> 00:14:06,000
+That was
+
+321
+00:14:06,000 --> 00:14:08,000
+the added value.
+
+322
+00:14:08,000 --> 00:14:10,000
+Not that a certain personality
+
+323
+00:14:10,000 --> 00:14:12,000
+was created there,
+
+324
+00:14:12,000 --> 00:14:14,000
+but that people
+
+325
+00:14:14,000 --> 00:14:16,000
+were actually
+
+326
+00:14:16,000 --> 00:14:18,000
+hanging out there.
+
+327
+00:14:18,000 --> 00:14:20,000
+One question here,
+
+328
+00:14:20,000 --> 00:14:22,000
+because the microphone
+
+329
+00:14:22,000 --> 00:14:24,000
+is a bit higher.
+
+330
+00:14:24,000 --> 00:14:26,000
+Is it better now?
+
+331
+00:14:26,000 --> 00:14:28,000
+Yes, it is a bit better,
+
+332
+00:14:28,000 --> 00:14:30,000
+isn't it?
+
+333
+00:14:30,000 --> 00:14:32,000
+One thing that interests me
+
+334
+00:14:32,000 --> 00:14:34,000
+at this point,
+
+335
+00:14:34,000 --> 00:14:36,000
+is that
+
+336
+00:14:36,000 --> 00:14:38,000
+Grodno is a community
+
+337
+00:14:38,000 --> 00:14:40,000
+that is a hybrid community,
+
+338
+00:14:40,000 --> 00:14:42,000
+if I may say so.
+
+339
+00:14:42,000 --> 00:14:44,000
+It is partly live,
+
+340
+00:14:44,000 --> 00:14:46,000
+through the conversations
+
+341
+00:14:46,000 --> 00:14:48,000
+you have,
+
+342
+00:14:48,000 --> 00:14:50,000
+every so often.
+
+343
+00:14:50,000 --> 00:14:52,000
+At the moment,
+
+344
+00:14:52,000 --> 00:14:54,000
+Grodno is not organized
+
+345
+00:14:54,000 --> 00:14:56,000
+in the form of meetups
+
+346
+00:14:56,000 --> 00:14:58,000
+or events like that.
+
+347
+00:14:58,000 --> 00:15:00,000
+Simply put,
+
+348
+00:15:00,000 --> 00:15:02,000
+at the end of the day,
+
+349
+00:15:02,000 --> 00:15:04,000
+we have other things,
+
+350
+00:15:04,000 --> 00:15:06,000
+but that is not our ambition.
+
+351
+00:15:06,000 --> 00:15:08,000
+I think that
+
+352
+00:15:08,000 --> 00:15:10,000
+Grodno should be exactly that,
+
+353
+00:15:10,000 --> 00:15:12,000
+Grodno.
+
+354
+00:15:12,000 --> 00:15:14,000
+There should be a framework
+
+355
+00:15:14,000 --> 00:15:16,000
+on which we can build things,
+
+356
+00:15:16,000 --> 00:15:18,000
+there should be a foundation,
+
+357
+00:15:18,000 --> 00:15:20,000
+there should be media and community,
+
+358
+00:15:20,000 --> 00:15:22,000
+and a channel of audience.
+
+359
+00:15:22,000 --> 00:15:24,000
+And then we have to
+
+360
+00:15:24,000 --> 00:15:26,000
+fully empower
+
+361
+00:15:26,000 --> 00:15:28,000
+the event organizers,
+
+362
+00:15:28,000 --> 00:15:30,000
+who organize meetings,
+
+363
+00:15:30,000 --> 00:15:32,000
+Open Blend,
+
+364
+00:15:32,000 --> 00:15:34,000
+Sektoke, B-sites,
+
+365
+00:15:34,000 --> 00:15:36,000
+and everything else.
+
+366
+00:15:36,000 --> 00:15:38,000
+Andras will tell you
+
+367
+00:15:38,000 --> 00:15:40,000
+the story of all those events,
+
+368
+00:15:40,000 --> 00:15:42,000
+there is always someone
+
+369
+00:15:42,000 --> 00:15:44,000
+who says, fuck, I know it better.
+
+370
+00:15:44,000 --> 00:15:46,000
+And he is right.
+
+371
+00:15:46,000 --> 00:15:48,000
+And then Slovenia...
+
+372
+00:15:48,000 --> 00:15:50,000
+Slovenian, I know it better.
+
+373
+00:15:50,000 --> 00:15:52,000
+I did it myself.
+
+374
+00:15:52,000 --> 00:15:54,000
+And then there are meetings,
+
+375
+00:15:54,000 --> 00:15:56,000
+and then we come to the point
+
+376
+00:15:56,000 --> 00:15:58,000
+where they say, hey,
+
+377
+00:15:58,000 --> 00:16:00,000
+Otto, what if you did a gift
+
+378
+00:16:00,000 --> 00:16:02,000
+and collected all the dates
+
+379
+00:16:02,000 --> 00:16:04,000
+so that we wouldn't organize the event
+
+380
+00:16:04,000 --> 00:16:06,000
+on the same day,
+
+381
+00:16:06,000 --> 00:16:08,000
+because that is already happening
+
+382
+00:16:08,000 --> 00:16:10,000
+in Ljubljana,
+
+383
+00:16:10,000 --> 00:16:12,000
+that you have very big, powerful events
+
+384
+00:16:12,000 --> 00:16:14,000
+on the same day.
+
+385
+00:16:14,000 --> 00:16:16,000
+I think that in Slovenia,
+
+386
+00:16:16,000 --> 00:16:18,000
+the space is for everything,
+
+387
+00:16:18,000 --> 00:16:20,000
+and if you look at it,
+
+388
+00:16:20,000 --> 00:16:22,000
+those scales are still small.
+
+389
+00:16:22,000 --> 00:16:24,000
+There is a gap
+
+390
+00:16:24,000 --> 00:16:26,000
+in how much these things can grow,
+
+391
+00:16:26,000 --> 00:16:28,000
+and that gap is not very big.
+
+392
+00:16:28,000 --> 00:16:30,000
+And I think
+
+393
+00:16:30,000 --> 00:16:32,000
+what we are aiming for
+
+394
+00:16:32,000 --> 00:16:34,000
+and what we are doing this year
+
+395
+00:16:34,000 --> 00:16:36,000
+is that we have
+
+396
+00:16:36,000 --> 00:16:38,000
+a couple of events
+
+397
+00:16:38,000 --> 00:16:40,000
+where we are connected with the organizers,
+
+398
+00:16:40,000 --> 00:16:42,000
+and they have events
+
+399
+00:16:42,000 --> 00:16:44,000
+that we publish on our channels,
+
+400
+00:16:44,000 --> 00:16:46,000
+and in this way we present it to our audience,
+
+401
+00:16:46,000 --> 00:16:48,000
+and it is a win-win situation
+
+402
+00:16:48,000 --> 00:16:50,000
+for the organizers and for our audience,
+
+403
+00:16:50,000 --> 00:16:52,000
+because we know that they are interested
+
+404
+00:16:52,000 --> 00:16:54,000
+in these things,
+
+405
+00:16:54,000 --> 00:16:56,000
+and it is logical that people come.
+
+406
+00:16:56,000 --> 00:16:58,000
+Also, for example,
+
+407
+00:16:58,000 --> 00:17:00,000
+I have a sponsor here, 3FSE,
+
+408
+00:17:00,000 --> 00:17:02,000
+they organize a Kubernetes meetup,
+
+409
+00:17:02,000 --> 00:17:04,000
+we promoted it,
+
+410
+00:17:04,000 --> 00:17:06,000
+and I think that tomorrow
+
+411
+00:17:06,000 --> 00:17:08,000
+about 18 people will come.
+
+412
+00:17:08,000 --> 00:17:10,000
+I think that is our role.
+
+413
+00:17:10,000 --> 00:17:12,000
+Last year we also partnered
+
+414
+00:17:12,000 --> 00:17:14,000
+with Dragonhack,
+
+415
+00:17:14,000 --> 00:17:16,000
+ADA,
+
+416
+00:17:16,000 --> 00:17:18,000
+and many other events.
+
+417
+00:17:18,000 --> 00:17:20,000
+We want to create
+
+418
+00:17:20,000 --> 00:17:22,000
+a community
+
+419
+00:17:22,000 --> 00:17:24,000
+and create a channel
+
+420
+00:17:24,000 --> 00:17:26,000
+for these events.
+
+421
+00:17:26,000 --> 00:17:28,000
+We are also present
+
+422
+00:17:28,000 --> 00:17:30,000
+at these events,
+
+423
+00:17:30,000 --> 00:17:32,000
+we also broadcast,
+
+424
+00:17:32,000 --> 00:17:34,000
+and we will come back,
+
+425
+00:17:34,000 --> 00:17:36,000
+because this is where
+
+426
+00:17:36,000 --> 00:17:38,000
+the offline happens,
+
+427
+00:17:38,000 --> 00:17:40,000
+as Andras said.
+
+428
+00:17:40,000 --> 00:17:42,000
+Do you think
+
+429
+00:17:42,000 --> 00:17:44,000
+that maybe
+
+430
+00:17:44,000 --> 00:17:46,000
+there is an expansion
+
+431
+00:17:46,000 --> 00:17:48,000
+and contraction of these events
+
+432
+00:17:48,000 --> 00:17:50,000
+and meetups?
+
+433
+00:17:50,000 --> 00:17:52,000
+For example, in Maribor,
+
+434
+00:17:52,000 --> 00:17:54,000
+I remember that a few years ago
+
+435
+00:17:54,000 --> 00:17:56,000
+we had a huge meetup.
+
+436
+00:17:56,000 --> 00:17:58,000
+It was this meetup,
+
+437
+00:17:58,000 --> 00:18:00,000
+and then at one point
+
+438
+00:18:00,000 --> 00:18:02,000
+people lost their way,
+
+439
+00:18:02,000 --> 00:18:04,000
+and they didn't have time,
+
+440
+00:18:04,000 --> 00:18:06,000
+and there were children,
+
+441
+00:18:06,000 --> 00:18:08,000
+and other services,
+
+442
+00:18:08,000 --> 00:18:10,000
+and then
+
+443
+00:18:10,000 --> 00:18:12,000
+people lost their way,
+
+444
+00:18:12,000 --> 00:18:14,000
+which is often the case
+
+445
+00:18:14,000 --> 00:18:16,000
+in our industry.
+
+446
+00:18:20,000 --> 00:18:22,000
+What can we do
+
+447
+00:18:22,000 --> 00:18:24,000
+to make it
+
+448
+00:18:24,000 --> 00:18:26,000
+as sustainable as possible?
+
+449
+00:18:26,000 --> 00:18:28,000
+I think that
+
+450
+00:18:28,000 --> 00:18:30,000
+the most you can do is
+
+451
+00:18:30,000 --> 00:18:32,000
+to go and see
+
+452
+00:18:32,000 --> 00:18:34,000
+who organizes it.
+
+453
+00:18:34,000 --> 00:18:36,000
+If you are an expert
+
+454
+00:18:36,000 --> 00:18:38,000
+in a topic,
+
+455
+00:18:38,000 --> 00:18:40,000
+if you go as a teacher,
+
+456
+00:18:40,000 --> 00:18:42,000
+it means a lot to people.
+
+457
+00:18:42,000 --> 00:18:44,000
+People organize,
+
+458
+00:18:44,000 --> 00:18:46,000
+and the more events,
+
+459
+00:18:46,000 --> 00:18:48,000
+the better.
+
+460
+00:18:48,000 --> 00:18:50,000
+People learn
+
+461
+00:18:50,000 --> 00:18:52,000
+how to organize.
+
+462
+00:18:52,000 --> 00:18:54,000
+It looks very simple on the surface,
+
+463
+00:18:54,000 --> 00:18:56,000
+but when you have three guys
+
+464
+00:18:56,000 --> 00:18:58,000
+with three microphones,
+
+465
+00:18:58,000 --> 00:19:00,000
+how much communication
+
+466
+00:19:00,000 --> 00:19:02,000
+is needed to happen?
+
+467
+00:19:02,000 --> 00:19:04,000
+I think we have to
+
+468
+00:19:04,000 --> 00:19:06,000
+move forward,
+
+469
+00:19:06,000 --> 00:19:08,000
+but it's better
+
+470
+00:19:08,000 --> 00:19:10,000
+if they are powerful,
+
+471
+00:19:10,000 --> 00:19:12,000
+because if people come together...
+
+472
+00:19:12,000 --> 00:19:14,000
+That's what I wanted to say.
+
+473
+00:19:14,000 --> 00:19:16,000
+It's more about
+
+474
+00:19:16,000 --> 00:19:18,000
+lack of cooperation.
+
+475
+00:19:18,000 --> 00:19:20,000
+If there was more
+
+476
+00:19:20,000 --> 00:19:22,000
+cooperation,
+
+477
+00:19:22,000 --> 00:19:24,000
+and I will say
+
+478
+00:19:24,000 --> 00:19:26,000
+that because of the fence
+
+479
+00:19:26,000 --> 00:19:28,000
+there is more cooperation,
+
+480
+00:19:28,000 --> 00:19:30,000
+but I see that
+
+481
+00:19:30,000 --> 00:19:32,000
+there is more cooperation.
+
+482
+00:19:32,000 --> 00:19:34,000
+If there was more cooperation,
+
+483
+00:19:34,000 --> 00:19:36,000
+there would be
+
+484
+00:19:36,000 --> 00:19:38,000
+more meetups,
+
+485
+00:19:38,000 --> 00:19:40,000
+and the community
+
+486
+00:19:40,000 --> 00:19:42,000
+would grow more.
+
+487
+00:19:42,000 --> 00:19:44,000
+There would be less burnout.
+
+488
+00:19:44,000 --> 00:19:46,000
+On the other hand,
+
+489
+00:19:46,000 --> 00:19:48,000
+when a meetup
+
+490
+00:19:48,000 --> 00:19:50,000
+starts,
+
+491
+00:19:50,000 --> 00:19:52,000
+maybe
+
+492
+00:19:52,000 --> 00:19:54,000
+the ego goes away.
+
+493
+00:19:54,000 --> 00:19:56,000
+I can do it,
+
+494
+00:19:56,000 --> 00:19:58,000
+I believe I can,
+
+495
+00:19:58,000 --> 00:20:00,000
+but we have seen
+
+496
+00:20:00,000 --> 00:20:02,000
+that if you do it once or twice,
+
+497
+00:20:02,000 --> 00:20:04,000
+you don't succeed.
+
+498
+00:20:04,000 --> 00:20:06,000
+It's more about
+
+499
+00:20:06,000 --> 00:20:08,000
+how to motivate
+
+500
+00:20:08,000 --> 00:20:10,000
+other people to help you.
+
+501
+00:20:10,000 --> 00:20:12,000
+How do you
+
+502
+00:20:12,000 --> 00:20:14,000
+motivate
+
+503
+00:20:14,000 --> 00:20:16,000
+someone
+
+504
+00:20:16,000 --> 00:20:18,000
+to help you?
+
+505
+00:20:18,000 --> 00:20:20,000
+It may not be perfect,
+
+506
+00:20:20,000 --> 00:20:22,000
+but it's
+
+507
+00:20:22,000 --> 00:20:24,000
+a learning process.
+
+508
+00:20:24,000 --> 00:20:26,000
+Let's start with Asano.
+
+509
+00:20:26,000 --> 00:20:28,000
+No, Asano is not for me.
+
+510
+00:20:28,000 --> 00:20:30,000
+I get a flashback
+
+511
+00:20:30,000 --> 00:20:32,000
+to Asano.
+
+512
+00:20:32,000 --> 00:20:34,000
+I'm glad you mentioned it,
+
+513
+00:20:34,000 --> 00:20:36,000
+because it's one thing
+
+514
+00:20:36,000 --> 00:20:38,000
+that we encounter
+
+515
+00:20:38,000 --> 00:20:40,000
+at meetups.
+
+516
+00:20:40,000 --> 00:20:42,000
+Maribor is not
+
+517
+00:20:42,000 --> 00:20:44,000
+a huge city.
+
+518
+00:20:44,000 --> 00:20:46,000
+Maribor has a tech community,
+
+519
+00:20:46,000 --> 00:20:48,000
+but it's not
+
+520
+00:20:48,000 --> 00:20:50,000
+as developed
+
+521
+00:20:50,000 --> 00:20:52,000
+as Ljubljana
+
+522
+00:20:52,000 --> 00:20:54,000
+or any other city.
+
+523
+00:20:54,000 --> 00:20:56,000
+I don't think
+
+524
+00:20:56,000 --> 00:20:58,000
+that's a problem.
+
+525
+00:20:58,000 --> 00:21:00,000
+If you think
+
+526
+00:21:00,000 --> 00:21:02,000
+that people will come to you
+
+527
+00:21:02,000 --> 00:21:04,000
+and ask for sponsorship,
+
+528
+00:21:04,000 --> 00:21:06,000
+it's hard.
+
+529
+00:21:06,000 --> 00:21:08,000
+There were times
+
+530
+00:21:08,000 --> 00:21:10,000
+when we had 4 sponsors
+
+531
+00:21:10,000 --> 00:21:12,000
+and everyone was fighting
+
+532
+00:21:12,000 --> 00:21:14,000
+who will get pizza, cookies,
+
+533
+00:21:14,000 --> 00:21:16,000
+caps, everything.
+
+534
+00:21:16,000 --> 00:21:18,000
+It was a way
+
+535
+00:21:18,000 --> 00:21:20,000
+to get
+
+536
+00:21:20,000 --> 00:21:22,000
+to that kind of people
+
+537
+00:21:22,000 --> 00:21:24,000
+and to support them
+
+538
+00:21:24,000 --> 00:21:26,000
+with business interests.
+
+539
+00:21:26,000 --> 00:21:28,000
+But now
+
+540
+00:21:28,000 --> 00:21:30,000
+everyone is fighting
+
+541
+00:21:30,000 --> 00:21:32,000
+and it's a crisis.
+
+542
+00:21:32,000 --> 00:21:34,000
+It's hard
+
+543
+00:21:34,000 --> 00:21:36,000
+to find someone
+
+544
+00:21:36,000 --> 00:21:38,000
+and a sponsor.
+
+545
+00:21:38,000 --> 00:21:40,000
+You can be disappointed.
+
+546
+00:21:40,000 --> 00:21:42,000
+We don't have a sponsor,
+
+547
+00:21:42,000 --> 00:21:44,000
+but we have supporters.
+
+548
+00:21:46,000 --> 00:21:48,000
+If you want
+
+549
+00:21:48,000 --> 00:21:50,000
+some organizational freedom,
+
+550
+00:21:50,000 --> 00:21:52,000
+and you want
+
+551
+00:21:52,000 --> 00:21:54,000
+to choose a topic yourself,
+
+552
+00:21:54,000 --> 00:21:56,000
+or if you will invite
+
+553
+00:21:56,000 --> 00:21:58,000
+some partners,
+
+554
+00:21:58,000 --> 00:22:00,000
+you can be careful
+
+555
+00:22:00,000 --> 00:22:02,000
+that they won't influence
+
+556
+00:22:02,000 --> 00:22:04,000
+the choice of guests,
+
+557
+00:22:04,000 --> 00:22:06,000
+so HR won't take
+
+558
+00:22:06,000 --> 00:22:08,000
+your event and
+
+559
+00:22:08,000 --> 00:22:10,000
+recruit you.
+
+560
+00:22:10,000 --> 00:22:12,000
+We witnessed that
+
+561
+00:22:12,000 --> 00:22:14,000
+many times.
+
+562
+00:22:14,000 --> 00:22:16,000
+There's no free money.
+
+563
+00:22:16,000 --> 00:22:18,000
+People who come
+
+564
+00:22:18,000 --> 00:22:20,000
+to events
+
+565
+00:22:20,000 --> 00:22:22,000
+don't have to pay
+
+566
+00:22:22,000 --> 00:22:24,000
+for a beer.
+
+567
+00:22:30,000 --> 00:22:32,000
+It's hard
+
+568
+00:22:32,000 --> 00:22:34,000
+to get funding
+
+569
+00:22:34,000 --> 00:22:36,000
+in Slovenia.
+
+570
+00:22:36,000 --> 00:22:38,000
+I think people are
+
+571
+00:22:38,000 --> 00:22:40,000
+more responsible than
+
+572
+00:22:40,000 --> 00:22:42,000
+in the past.
+
+573
+00:22:42,000 --> 00:22:44,000
+I agree.
+
+574
+00:22:44,000 --> 00:22:46,000
+It's a cycle of ups and downs.
+
+575
+00:22:46,000 --> 00:22:48,000
+There are times
+
+576
+00:22:48,000 --> 00:22:50,000
+when it's easier
+
+577
+00:22:50,000 --> 00:22:52,000
+to make a name for yourself,
+
+578
+00:22:52,000 --> 00:22:54,000
+or when it's already
+
+579
+00:22:54,000 --> 00:22:56,000
+done.
+
+580
+00:22:56,000 --> 00:22:58,000
+Then it's easier.
+
+581
+00:22:58,000 --> 00:23:00,000
+But then
+
+582
+00:23:00,000 --> 00:23:02,000
+you think you're
+
+583
+00:23:02,000 --> 00:23:04,000
+behind the wheel,
+
+584
+00:23:04,000 --> 00:23:06,000
+and next year
+
+585
+00:23:06,000 --> 00:23:08,000
+you're not
+
+586
+00:23:08,000 --> 00:23:10,000
+a part of it anymore.
+
+587
+00:23:10,000 --> 00:23:12,000
+The same people
+
+588
+00:23:12,000 --> 00:23:14,000
+don't give you money anymore.
+
+589
+00:23:14,000 --> 00:23:16,000
+It's interesting to me
+
+590
+00:23:16,000 --> 00:23:18,000
+that many events
+
+591
+00:23:18,000 --> 00:23:20,000
+from the 80s
+
+592
+00:23:20,000 --> 00:23:22,000
+to the 90s
+
+593
+00:23:22,000 --> 00:23:24,000
+were based on two principles.
+
+594
+00:23:24,000 --> 00:23:26,000
+Either it was purely
+
+595
+00:23:26,000 --> 00:23:28,000
+punk DIY,
+
+596
+00:23:28,000 --> 00:23:30,000
+where everyone gets
+
+597
+00:23:30,000 --> 00:23:32,000
+a beer every other Thursday
+
+598
+00:23:32,000 --> 00:23:34,000
+and we talk about
+
+599
+00:23:34,000 --> 00:23:36,000
+some topics,
+
+600
+00:23:36,000 --> 00:23:38,000
+or we go to
+
+601
+00:23:38,000 --> 00:23:40,000
+a formal structure,
+
+602
+00:23:40,000 --> 00:23:42,000
+an organization, etc.
+
+603
+00:23:42,000 --> 00:23:44,000
+Splitnavice is an example
+
+604
+00:23:44,000 --> 00:23:46,000
+of a punk DIY.
+
+605
+00:23:46,000 --> 00:23:48,000
+You say that,
+
+606
+00:23:48,000 --> 00:23:50,000
+but I didn't say no.
+
+607
+00:23:50,000 --> 00:23:52,000
+We are structured.
+
+608
+00:23:52,000 --> 00:23:54,000
+Yes, we are structured.
+
+609
+00:23:54,000 --> 00:23:56,000
+But that's punk.
+
+610
+00:23:56,000 --> 00:23:58,000
+We were very lucky
+
+611
+00:23:58,000 --> 00:24:00,000
+to have
+
+612
+00:24:00,000 --> 00:24:02,000
+very good friends
+
+613
+00:24:02,000 --> 00:24:04,000
+and supporters
+
+614
+00:24:04,000 --> 00:24:06,000
+in Kibla,
+
+615
+00:24:06,000 --> 00:24:08,000
+the National House.
+
+616
+00:24:08,000 --> 00:24:10,000
+They were always there
+
+617
+00:24:10,000 --> 00:24:12,000
+for us,
+
+618
+00:24:12,000 --> 00:24:14,000
+they promoted ZDV,
+
+619
+00:24:14,000 --> 00:24:16,000
+and for two weeks
+
+620
+00:24:16,000 --> 00:24:18,000
+we organized events.
+
+621
+00:24:18,000 --> 00:24:20,000
+It was insane.
+
+622
+00:24:20,000 --> 00:24:22,000
+The Splitnavice team
+
+623
+00:24:22,000 --> 00:24:24,000
+is here right now.
+
+624
+00:24:24,000 --> 00:24:26,000
+It was
+
+625
+00:24:26,000 --> 00:24:28,000
+machinery.
+
+626
+00:24:28,000 --> 00:24:30,000
+People went to Maribor
+
+627
+00:24:30,000 --> 00:24:32,000
+constantly,
+
+628
+00:24:32,000 --> 00:24:34,000
+everyone could see everything.
+
+629
+00:24:34,000 --> 00:24:36,000
+From specific events
+
+630
+00:24:36,000 --> 00:24:38,000
+like
+
+631
+00:24:38,000 --> 00:24:40,000
+coffee,
+
+632
+00:24:40,000 --> 00:24:42,000
+blockchain,
+
+633
+00:24:42,000 --> 00:24:44,000
+to some simple
+
+634
+00:24:44,000 --> 00:24:46,000
+topics,
+
+635
+00:24:46,000 --> 00:24:48,000
+I don't have to use the word
+
+636
+00:24:48,000 --> 00:24:50,000
+simple, because nothing is simple,
+
+637
+00:24:50,000 --> 00:24:52,000
+to some general topics
+
+638
+00:24:52,000 --> 00:24:54,000
+like how to find
+
+639
+00:24:54,000 --> 00:24:56,000
+your first job in IT,
+
+640
+00:24:56,000 --> 00:24:58,000
+or design topics.
+
+641
+00:24:58,000 --> 00:25:00,000
+Design topics are
+
+642
+00:25:00,000 --> 00:25:02,000
+very important.
+
+643
+00:25:00,000 --> 00:25:02,000
+for some reason, underrepresented
+
+644
+00:25:02,000 --> 00:25:04,000
+in general,
+
+645
+00:25:04,000 --> 00:25:06,000
+project, product management.
+
+646
+00:25:08,000 --> 00:25:10,000
+When we started
+
+647
+00:25:10,000 --> 00:25:12,000
+developing these tasks,
+
+648
+00:25:12,000 --> 00:25:14,000
+and when we started developing this program,
+
+649
+00:25:14,000 --> 00:25:16,000
+the DIY mindset,
+
+650
+00:25:16,000 --> 00:25:18,000
+the punk mindset,
+
+651
+00:25:18,000 --> 00:25:20,000
+got us to this point.
+
+652
+00:25:20,000 --> 00:25:22,000
+We had
+
+653
+00:25:22,000 --> 00:25:24,000
+low operating costs,
+
+654
+00:25:24,000 --> 00:25:26,000
+which were practically nothing,
+
+655
+00:25:26,000 --> 00:25:28,000
+a lot of people didn't get paid
+
+656
+00:25:28,000 --> 00:25:30,000
+or anything, so we hid
+
+657
+00:25:30,000 --> 00:25:32,000
+and it went through
+
+658
+00:25:32,000 --> 00:25:34,000
+for a long time.
+
+659
+00:25:34,000 --> 00:25:36,000
+Then came the corona,
+
+660
+00:25:36,000 --> 00:25:38,000
+then we all locked ourselves in our rooms.
+
+661
+00:25:38,000 --> 00:25:40,000
+But you had some
+
+662
+00:25:40,000 --> 00:25:42,000
+kind of flow as well.
+
+663
+00:25:42,000 --> 00:25:44,000
+It was very visible,
+
+664
+00:25:44,000 --> 00:25:46,000
+when Slovenia was closing down.
+
+665
+00:25:46,000 --> 00:25:48,000
+At the same time,
+
+666
+00:25:48,000 --> 00:25:50,000
+there were rare cases,
+
+667
+00:25:50,000 --> 00:25:52,000
+which were published daily,
+
+668
+00:25:52,000 --> 00:25:54,000
+you came, there was a channel, stream, talk,
+
+669
+00:25:54,000 --> 00:25:56,000
+very proper level.
+
+670
+00:25:56,000 --> 00:25:58,000
+Where are you at the same time?
+
+671
+00:25:58,000 --> 00:26:00,000
+There is also an archive in Spetni Hurice,
+
+672
+00:26:00,000 --> 00:26:02,000
+at the same time.
+
+673
+00:26:02,000 --> 00:26:04,000
+It's very interesting.
+
+674
+00:26:04,000 --> 00:26:06,000
+There are a lot of things.
+
+675
+00:26:06,000 --> 00:26:08,000
+But all of this takes a long time,
+
+676
+00:26:08,000 --> 00:26:10,000
+especially for people.
+
+677
+00:26:10,000 --> 00:26:12,000
+We took a break one day,
+
+678
+00:26:12,000 --> 00:26:14,000
+then we called him back,
+
+679
+00:26:14,000 --> 00:26:16,000
+and he was gone for a month.
+
+680
+00:26:16,000 --> 00:26:18,000
+And that was it?
+
+681
+00:26:18,000 --> 00:26:20,000
+That was it.
+
+682
+00:26:20,000 --> 00:26:22,000
+No, poor genetics.
+
+683
+00:26:22,000 --> 00:26:24,000
+Spetni Hurice.
+
+684
+00:26:24,000 --> 00:26:26,000
+But yes,
+
+685
+00:26:26,000 --> 00:26:28,000
+events like ours,
+
+686
+00:26:28,000 --> 00:26:30,000
+the basis is that
+
+687
+00:26:30,000 --> 00:26:32,000
+it's live,
+
+688
+00:26:32,000 --> 00:26:34,000
+with people in front of the audience.
+
+689
+00:26:34,000 --> 00:26:36,000
+And live events have their own dimension,
+
+690
+00:26:36,000 --> 00:26:38,000
+their own challenges,
+
+691
+00:26:38,000 --> 00:26:40,000
+and their own specifics.
+
+692
+00:26:40,000 --> 00:26:42,000
+Correct me if I'm wrong,
+
+693
+00:26:42,000 --> 00:26:44,000
+or I'm interested in your opinion,
+
+694
+00:26:44,000 --> 00:26:46,000
+what do you see as an advantage
+
+695
+00:26:46,000 --> 00:26:48,000
+of live events?
+
+696
+00:26:48,000 --> 00:26:50,000
+I see it like this.
+
+697
+00:26:50,000 --> 00:26:52,000
+What I've noticed in those meetups,
+
+698
+00:26:52,000 --> 00:26:54,000
+is that 40%
+
+699
+00:26:54,000 --> 00:26:56,000
+is a person,
+
+700
+00:26:56,000 --> 00:26:58,000
+60% is the audience.
+
+701
+00:27:00,000 --> 00:27:02,000
+And from the perspective of someone
+
+702
+00:27:02,000 --> 00:27:04,000
+who organizes the event,
+
+703
+00:27:04,000 --> 00:27:06,000
+you have to focus.
+
+704
+00:27:06,000 --> 00:27:08,000
+I see the guests,
+
+705
+00:27:08,000 --> 00:27:10,000
+everything has to be perfect.
+
+706
+00:27:10,000 --> 00:27:12,000
+Then the other 60%,
+
+707
+00:27:12,000 --> 00:27:14,000
+when the lights go out,
+
+708
+00:27:14,000 --> 00:27:16,000
+you have to find out who will
+
+709
+00:27:16,000 --> 00:27:18,000
+help organize the event,
+
+710
+00:27:18,000 --> 00:27:20,000
+who will speak,
+
+711
+00:27:20,000 --> 00:27:22,000
+who will delegate.
+
+712
+00:27:22,000 --> 00:27:24,000
+You have to work very actively
+
+713
+00:27:24,000 --> 00:27:26,000
+so that the next event
+
+714
+00:27:26,000 --> 00:27:28,000
+will happen while you're there.
+
+715
+00:27:28,000 --> 00:27:30,000
+He's laughing now.
+
+716
+00:27:30,000 --> 00:27:32,000
+Andras, can you tell us about
+
+717
+00:27:32,000 --> 00:27:34,000
+Sektok?
+
+718
+00:27:34,000 --> 00:27:36,000
+I can tell you,
+
+719
+00:27:36,000 --> 00:27:38,000
+I don't know how it is in CyberPipa,
+
+720
+00:27:38,000 --> 00:27:40,000
+but I have to
+
+721
+00:27:40,000 --> 00:27:42,000
+imagine
+
+722
+00:27:42,000 --> 00:27:44,000
+that CyberPipa
+
+723
+00:27:44,000 --> 00:27:46,000
+produced
+
+724
+00:27:46,000 --> 00:27:48,000
+only three events
+
+725
+00:27:48,000 --> 00:27:50,000
+a week.
+
+726
+00:27:50,000 --> 00:27:52,000
+That's a lot.
+
+727
+00:27:52,000 --> 00:27:54,000
+These are three events a week.
+
+728
+00:27:56,000 --> 00:27:58,000
+There were four,
+
+729
+00:27:58,000 --> 00:28:00,000
+so four days a week
+
+730
+00:28:00,000 --> 00:28:02,000
+were events.
+
+731
+00:28:02,000 --> 00:28:04,000
+And in one month
+
+732
+00:28:04,000 --> 00:28:06,000
+you had to know exactly what will happen
+
+733
+00:28:06,000 --> 00:28:08,000
+because the flyers were printed.
+
+734
+00:28:08,000 --> 00:28:10,000
+There was no internet.
+
+735
+00:28:10,000 --> 00:28:12,000
+How sick is that?
+
+736
+00:28:12,000 --> 00:28:14,000
+You could have
+
+737
+00:28:14,000 --> 00:28:16,000
+a salesperson,
+
+738
+00:28:16,000 --> 00:28:18,000
+you could have known
+
+739
+00:28:18,000 --> 00:28:20,000
+that you can print flyers
+
+740
+00:28:20,000 --> 00:28:22,000
+for the next month.
+
+741
+00:28:24,000 --> 00:28:26,000
+Andras, what are flyers?
+
+742
+00:28:26,000 --> 00:28:28,000
+I mean,
+
+743
+00:28:28,000 --> 00:28:30,000
+in an analog form,
+
+744
+00:28:30,000 --> 00:28:32,000
+a sheet of paper
+
+745
+00:28:32,000 --> 00:28:34,000
+on which the program
+
+746
+00:28:34,000 --> 00:28:36,000
+for the next month was written.
+
+747
+00:28:36,000 --> 00:28:38,000
+A flyer.
+
+748
+00:28:38,000 --> 00:28:40,000
+I was
+
+749
+00:28:40,000 --> 00:28:42,000
+actively
+
+750
+00:28:42,000 --> 00:28:44,000
+leading
+
+751
+00:28:44,000 --> 00:28:46,000
+these events.
+
+752
+00:28:46,000 --> 00:28:48,000
+What did I do
+
+753
+00:28:48,000 --> 00:28:50,000
+to make it possible?
+
+754
+00:28:50,000 --> 00:28:52,000
+I don't know.
+
+755
+00:28:52,000 --> 00:28:54,000
+I'm trying to put one meetup
+
+756
+00:28:54,000 --> 00:28:56,000
+a month in the hallway
+
+757
+00:28:56,000 --> 00:28:58,000
+and it really needs to be
+
+758
+00:28:58,000 --> 00:29:00,000
+postponed.
+
+759
+00:29:00,000 --> 00:29:02,000
+What is it?
+
+760
+00:29:02,000 --> 00:29:04,000
+I don't know.
+
+761
+00:29:04,000 --> 00:29:06,000
+The audience here
+
+762
+00:29:06,000 --> 00:29:08,000
+looks very simple.
+
+763
+00:29:08,000 --> 00:29:10,000
+They send e-mails.
+
+764
+00:29:10,000 --> 00:29:12,000
+The meetup will be there.
+
+765
+00:29:12,000 --> 00:29:14,000
+It's not that simple.
+
+766
+00:29:14,000 --> 00:29:16,000
+Even the copy
+
+767
+00:29:16,000 --> 00:29:18,000
+that needs to be printed
+
+768
+00:29:18,000 --> 00:29:20,000
+with 3-4 flyers
+
+769
+00:29:20,000 --> 00:29:22,000
+will take
+
+770
+00:29:22,000 --> 00:29:24,000
+one hour.
+
+771
+00:29:24,000 --> 00:29:26,000
+Then the image,
+
+772
+00:29:26,000 --> 00:29:28,000
+and so on.
+
+773
+00:29:28,000 --> 00:29:30,000
+You lose
+
+774
+00:29:30,000 --> 00:29:32,000
+some time.
+
+775
+00:29:32,000 --> 00:29:34,000
+It's not that simple.
+
+776
+00:29:34,000 --> 00:29:36,000
+I agree with what
+
+777
+00:29:36,000 --> 00:29:38,000
+the author said.
+
+778
+00:29:38,000 --> 00:29:40,000
+You probably
+
+779
+00:29:40,000 --> 00:29:42,000
+haven't noticed
+
+780
+00:29:42,000 --> 00:29:44,000
+but the idea is
+
+781
+00:29:44,000 --> 00:29:46,000
+that people are there.
+
+782
+00:29:46,000 --> 00:29:48,000
+What do you do with these people?
+
+783
+00:29:48,000 --> 00:29:50,000
+I'm from the generation
+
+784
+00:29:50,000 --> 00:29:52,000
+that says
+
+785
+00:29:52,000 --> 00:29:54,000
+that the video stream
+
+786
+00:29:54,000 --> 00:29:56,000
+kills the event.
+
+787
+00:30:00,000 --> 00:30:02,000
+In CyberPipa,
+
+788
+00:30:02,000 --> 00:30:04,000
+we were in a phase
+
+789
+00:30:04,000 --> 00:30:06,000
+where the stream was fine.
+
+790
+00:30:06,000 --> 00:30:08,000
+If someone had an idea,
+
+791
+00:30:08,000 --> 00:30:10,000
+how to stream
+
+792
+00:30:10,000 --> 00:30:12,000
+and the stream appeared,
+
+793
+00:30:12,000 --> 00:30:14,000
+but somehow
+
+794
+00:30:14,000 --> 00:30:16,000
+people got mad.
+
+795
+00:30:16,000 --> 00:30:18,000
+They were like,
+
+796
+00:30:18,000 --> 00:30:20,000
+how come there's no stream today?
+
+797
+00:30:20,000 --> 00:30:22,000
+It happened once
+
+798
+00:30:22,000 --> 00:30:24,000
+that we stopped people
+
+799
+00:30:24,000 --> 00:30:26,000
+on the street
+
+800
+00:30:26,000 --> 00:30:28,000
+and asked them
+
+801
+00:30:28,000 --> 00:30:30,000
+when the last stream will be.
+
+802
+00:30:30,000 --> 00:30:32,000
+It wasn't in Kibla
+
+803
+00:30:32,000 --> 00:30:34,000
+or in Kamesov Pisarnik
+
+804
+00:30:34,000 --> 00:30:36,000
+where we have events now.
+
+805
+00:30:36,000 --> 00:30:38,000
+I was working on something
+
+806
+00:30:38,000 --> 00:30:40,000
+and I was like,
+
+807
+00:30:40,000 --> 00:30:42,000
+sorry.
+
+808
+00:30:42,000 --> 00:30:44,000
+Streams are great
+
+809
+00:30:44,000 --> 00:30:46,000
+but there's one more level of complexity.
+
+810
+00:30:46,000 --> 00:30:48,000
+Especially that we set up
+
+811
+00:30:48,000 --> 00:30:50,000
+everything here.
+
+812
+00:30:50,000 --> 00:30:52,000
+At this point,
+
+813
+00:30:52,000 --> 00:30:54,000
+we wouldn't sell the audience
+
+814
+00:30:54,000 --> 00:30:56,000
+here.
+
+815
+00:30:56,000 --> 00:30:58,000
+But with the garden
+
+816
+00:30:58,000 --> 00:31:00,000
+and with the story
+
+817
+00:31:00,000 --> 00:31:02,000
+that Andras is telling,
+
+818
+00:31:02,000 --> 00:31:04,000
+it's very simple
+
+819
+00:31:04,000 --> 00:31:06,000
+to add features
+
+820
+00:31:06,000 --> 00:31:08,000
+and complexity
+
+821
+00:31:08,000 --> 00:31:10,000
+to the events
+
+822
+00:31:10,000 --> 00:31:12,000
+and to increase
+
+823
+00:31:12,000 --> 00:31:14,000
+the expectations
+
+824
+00:31:14,000 --> 00:31:16,000
+of the audience
+
+825
+00:31:16,000 --> 00:31:18,000
+and the people
+
+826
+00:31:18,000 --> 00:31:20,000
+who attend the events.
+
+827
+00:31:20,000 --> 00:31:22,000
+It's easier
+
+828
+00:31:22,000 --> 00:31:24,000
+to add lights
+
+829
+00:31:24,000 --> 00:31:26,000
+and cameras
+
+830
+00:31:26,000 --> 00:31:28,000
+when at some point
+
+831
+00:31:28,000 --> 00:31:30,000
+you say,
+
+832
+00:31:30,000 --> 00:31:32,000
+let's go back.
+
+833
+00:31:32,000 --> 00:31:34,000
+Now we had streaming
+
+834
+00:31:34,000 --> 00:31:36,000
+and we won't have it anymore.
+
+835
+00:31:38,000 --> 00:31:40,000
+Don't you have to
+
+836
+00:31:40,000 --> 00:31:42,000
+force yourself to go back
+
+837
+00:31:42,000 --> 00:31:44,000
+or do you have a feeling
+
+838
+00:31:44,000 --> 00:31:46,000
+that the audience won't
+
+839
+00:31:46,000 --> 00:31:48,000
+notice it?
+
+840
+00:31:48,000 --> 00:31:50,000
+What can we do
+
+841
+00:31:50,000 --> 00:31:52,000
+to make it a new standard
+
+842
+00:31:52,000 --> 00:31:54,000
+and to bring it back?
+
+843
+00:31:54,000 --> 00:31:56,000
+Because then you start thinking
+
+844
+00:31:56,000 --> 00:31:58,000
+that
+
+845
+00:31:58,000 --> 00:32:00,000
+it's at this level.
+
+846
+00:32:02,000 --> 00:32:04,000
+You have to realize
+
+847
+00:32:04,000 --> 00:32:06,000
+that we do this
+
+848
+00:32:06,000 --> 00:32:08,000
+to a large extent
+
+849
+00:32:08,000 --> 00:32:10,000
+because we like it.
+
+850
+00:32:10,000 --> 00:32:12,000
+We like it so much
+
+851
+00:32:12,000 --> 00:32:14,000
+that we do it freely.
+
+852
+00:32:14,000 --> 00:32:16,000
+In such a mindset,
+
+853
+00:32:16,000 --> 00:32:18,000
+people can be easily
+
+854
+00:32:18,000 --> 00:32:20,000
+exploited.
+
+855
+00:32:20,000 --> 00:32:22,000
+The whole music industry
+
+856
+00:32:22,000 --> 00:32:24,000
+works on this concept.
+
+857
+00:32:24,000 --> 00:32:26,000
+People are passionate
+
+858
+00:32:26,000 --> 00:32:28,000
+and are ready to commit
+
+859
+00:32:28,000 --> 00:32:30,000
+to anything.
+
+860
+00:32:30,000 --> 00:32:32,000
+This leads to
+
+861
+00:32:32,000 --> 00:32:34,000
+excitement,
+
+862
+00:32:34,000 --> 00:32:36,000
+to expectations
+
+863
+00:32:36,000 --> 00:32:38,000
+that you don't have to keep.
+
+864
+00:32:42,000 --> 00:32:44,000
+As you said,
+
+865
+00:32:44,000 --> 00:32:46,000
+we have a live event
+
+866
+00:32:46,000 --> 00:32:48,000
+in Grodno.
+
+867
+00:32:48,000 --> 00:32:50,000
+It would be an additional
+
+868
+00:32:50,000 --> 00:32:52,000
+part of everything
+
+869
+00:32:52,000 --> 00:32:54,000
+we have to do.
+
+870
+00:32:54,000 --> 00:32:56,000
+If we find someone
+
+871
+00:32:56,000 --> 00:32:58,000
+to delegate it,
+
+872
+00:32:58,000 --> 00:33:00,000
+we can't replace
+
+873
+00:33:00,000 --> 00:33:02,000
+or compensate for it.
+
+874
+00:33:02,000 --> 00:33:04,000
+What do you mean?
+
+875
+00:33:04,000 --> 00:33:06,000
+I mean,
+
+876
+00:33:06,000 --> 00:33:08,000
+it could be a shout-out.
+
+877
+00:33:08,000 --> 00:33:10,000
+If someone is interested
+
+878
+00:33:10,000 --> 00:33:12,000
+in experimenting
+
+879
+00:33:12,000 --> 00:33:14,000
+and would like to
+
+880
+00:33:14,000 --> 00:33:16,000
+get involved
+
+881
+00:33:16,000 --> 00:33:18,000
+and stream live,
+
+882
+00:33:18,000 --> 00:33:20,000
+we won't.
+
+883
+00:33:20,000 --> 00:33:22,000
+Will you complain?
+
+884
+00:33:23,000 --> 00:33:25,000
+What if there were...
+
+885
+00:33:25,000 --> 00:33:27,000
+You see, that's where it starts.
+
+886
+00:33:27,000 --> 00:33:29,000
+What if there were...
+
+887
+00:33:29,000 --> 00:33:31,000
+You know what you could do?
+
+888
+00:33:31,000 --> 00:33:33,000
+That's pure Maribor.
+
+889
+00:33:33,000 --> 00:33:35,000
+You know what you could do?
+
+890
+00:33:35,000 --> 00:33:37,000
+You could switch to Turkish.
+
+891
+00:33:37,000 --> 00:33:39,000
+Those who don't visit you
+
+892
+00:33:39,000 --> 00:33:41,000
+and don't listen to you
+
+893
+00:33:41,000 --> 00:33:43,000
+always tell you that.
+
+894
+00:33:43,000 --> 00:33:45,000
+They didn't follow you,
+
+895
+00:33:45,000 --> 00:33:47,000
+but they suggest what to do.
+
+896
+00:33:47,000 --> 00:33:49,000
+You could have headphones,
+
+897
+00:33:49,000 --> 00:33:51,000
+even better microphones,
+
+898
+00:33:51,000 --> 00:33:53,000
+you could stream,
+
+899
+00:33:53,000 --> 00:33:55,000
+you could...
+
+900
+00:33:55,000 --> 00:33:57,000
+You know Patreon?
+
+901
+00:33:57,000 --> 00:33:59,000
+Oh, you know,
+
+902
+00:33:59,000 --> 00:34:01,000
+I have a low salary in Switzerland.
+
+903
+00:34:05,000 --> 00:34:07,000
+Some of those initiatives,
+
+904
+00:34:07,000 --> 00:34:09,000
+like Grodno,
+
+905
+00:34:09,000 --> 00:34:11,000
+Spletna Urica,
+
+906
+00:34:11,000 --> 00:34:13,000
+various meet-ups,
+
+907
+00:34:13,000 --> 00:34:15,000
+are only for those
+
+908
+00:34:15,000 --> 00:34:17,000
+who come from common enthusiasm
+
+909
+00:34:17,000 --> 00:34:19,000
+and common interest.
+
+910
+00:34:19,000 --> 00:34:21,000
+It grows.
+
+911
+00:34:21,000 --> 00:34:23,000
+It grows a lot.
+
+912
+00:34:23,000 --> 00:34:25,000
+I would say that everything
+
+913
+00:34:25,000 --> 00:34:27,000
+comes from one individual
+
+914
+00:34:27,000 --> 00:34:29,000
+who is crazy enough
+
+915
+00:34:29,000 --> 00:34:31,000
+to do it.
+
+916
+00:34:31,000 --> 00:34:33,000
+Yeah, definitely.
+
+917
+00:34:33,000 --> 00:34:35,000
+Andras Raga.
+
+918
+00:34:37,000 --> 00:34:39,000
+Those social activities
+
+919
+00:34:39,000 --> 00:34:41,000
+are forming a lot
+
+920
+00:34:41,000 --> 00:34:43,000
+and we are finding them now.
+
+921
+00:34:43,000 --> 00:34:45,000
+You still need some space
+
+922
+00:34:45,000 --> 00:34:47,000
+to organize an event,
+
+923
+00:34:47,000 --> 00:34:49,000
+you need a way
+
+924
+00:34:49,000 --> 00:34:51,000
+to communicate with people.
+
+925
+00:34:53,000 --> 00:34:55,000
+I would go back a bit.
+
+926
+00:34:55,000 --> 00:34:57,000
+I often use
+
+927
+00:34:57,000 --> 00:34:59,000
+this Slovenian proverb
+
+928
+00:34:59,000 --> 00:35:01,000
+and it goes like this.
+
+929
+00:35:01,000 --> 00:35:03,000
+A good farmer
+
+930
+00:35:03,000 --> 00:35:05,000
+finds a good heir.
+
+931
+00:35:05,000 --> 00:35:07,000
+It's a very deep
+
+932
+00:35:07,000 --> 00:35:09,000
+thought.
+
+933
+00:35:09,000 --> 00:35:11,000
+We are not good at that.
+
+934
+00:35:11,000 --> 00:35:13,000
+We are not good at that.
+
+935
+00:35:13,000 --> 00:35:15,000
+We are still working on that.
+
+936
+00:35:15,000 --> 00:35:17,000
+That's a theory
+
+937
+00:35:17,000 --> 00:35:19,000
+about the Slovenian proverb.
+
+938
+00:35:19,000 --> 00:35:21,000
+We are not good at that.
+
+939
+00:35:21,000 --> 00:35:23,000
+If we want
+
+940
+00:35:23,000 --> 00:35:25,000
+Grodno to survive
+
+941
+00:35:25,000 --> 00:35:27,000
+5-10 years,
+
+942
+00:35:27,000 --> 00:35:29,000
+we need to
+
+943
+00:35:29,000 --> 00:35:31,000
+structure it in such a way
+
+944
+00:35:31,000 --> 00:35:33,000
+that it will be resilient.
+
+945
+00:35:33,000 --> 00:35:35,000
+If I am sick today,
+
+946
+00:35:35,000 --> 00:35:37,000
+or Andras is sick,
+
+947
+00:35:37,000 --> 00:35:39,000
+we need to rotate
+
+948
+00:35:39,000 --> 00:35:41,000
+and take care of him.
+
+949
+00:35:41,000 --> 00:35:43,000
+We need to think
+
+950
+00:35:43,000 --> 00:35:45,000
+about that.
+
+951
+00:35:45,000 --> 00:35:47,000
+We are also working on
+
+952
+00:35:47,000 --> 00:35:49,000
+how to
+
+953
+00:35:49,000 --> 00:35:51,000
+mix different parts,
+
+954
+00:35:51,000 --> 00:35:53,000
+so the torch
+
+955
+00:35:53,000 --> 00:35:55,000
+will be
+
+956
+00:35:55,000 --> 00:35:57,000
+thrown forward.
+
+957
+00:35:57,000 --> 00:35:59,000
+But it's not like
+
+958
+00:35:59,000 --> 00:36:01,000
+here are the keys.
+
+959
+00:36:01,000 --> 00:36:03,000
+You need to somehow...
+
+960
+00:36:03,000 --> 00:36:05,000
+I would say yes.
+
+961
+00:36:07,000 --> 00:36:09,000
+That's a nice
+
+962
+00:36:09,000 --> 00:36:11,000
+proverb.
+
+963
+00:36:11,000 --> 00:36:13,000
+I would add
+
+964
+00:36:13,000 --> 00:36:15,000
+that I allow
+
+965
+00:36:15,000 --> 00:36:17,000
+anyone to take
+
+966
+00:36:17,000 --> 00:36:19,000
+the torch
+
+967
+00:36:19,000 --> 00:36:21,000
+and turn it
+
+968
+00:36:21,000 --> 00:36:23,000
+in a different direction.
+
+969
+00:36:23,000 --> 00:36:25,000
+I mean,
+
+970
+00:36:25,000 --> 00:36:27,000
+whether it's a wedding
+
+971
+00:36:27,000 --> 00:36:29,000
+or a meet-up,
+
+972
+00:36:29,000 --> 00:36:31,000
+whether it's in Grodno,
+
+973
+00:36:31,000 --> 00:36:33,000
+those who
+
+974
+00:36:33,000 --> 00:36:35,000
+carry it forward,
+
+975
+00:36:35,000 --> 00:36:37,000
+they carry it with their vision.
+
+976
+00:36:37,000 --> 00:36:39,000
+They keep the skeleton
+
+977
+00:36:39,000 --> 00:36:41,000
+and decide
+
+978
+00:36:41,000 --> 00:36:43,000
+whether to change
+
+979
+00:36:43,000 --> 00:36:45,000
+specific content
+
+980
+00:36:45,000 --> 00:36:47,000
+or just change the torch.
+
+981
+00:36:47,000 --> 00:36:49,000
+That's something
+
+982
+00:36:49,000 --> 00:36:51,000
+that is a bit
+
+983
+00:36:51,000 --> 00:36:53,000
+purely Slovenian.
+
+984
+00:36:53,000 --> 00:36:55,000
+I remembered it,
+
+985
+00:36:55,000 --> 00:36:57,000
+it's my project,
+
+986
+00:36:57,000 --> 00:36:59,000
+and the successor would like
+
+987
+00:36:59,000 --> 00:37:01,000
+it a bit differently,
+
+988
+00:37:01,000 --> 00:37:03,000
+so I won't let it go.
+
+989
+00:37:03,000 --> 00:37:05,000
+We need to leave the ego aside.
+
+990
+00:37:05,000 --> 00:37:07,000
+Someone calmed down,
+
+991
+00:37:07,000 --> 00:37:09,000
+someone thought
+
+992
+00:37:09,000 --> 00:37:11,000
+to turn it in a different direction.
+
+993
+00:37:13,000 --> 00:37:15,000
+It sounds much simpler,
+
+994
+00:37:15,000 --> 00:37:17,000
+but to build
+
+995
+00:37:17,000 --> 00:37:19,000
+a climate
+
+996
+00:37:19,000 --> 00:37:21,000
+where
+
+997
+00:37:21,000 --> 00:37:23,000
+you can screw up.
+
+998
+00:37:23,000 --> 00:37:25,000
+We'll do something
+
+999
+00:37:25,000 --> 00:37:27,000
+we'll screw up,
+
+1000
+00:37:27,000 --> 00:37:29,000
+it'll be a disaster,
+
+1001
+00:37:29,000 --> 00:37:31,000
+but we'll learn
+
+1002
+00:37:31,000 --> 00:37:33,000
+and turn it in a different direction.
+
+1003
+00:37:33,000 --> 00:37:35,000
+Yes, but here's the problem.
+
+1004
+00:37:35,000 --> 00:37:37,000
+If you screw up and learn...
+
+1005
+00:37:37,000 --> 00:37:39,000
+Are you talking about me?
+
+1006
+00:37:39,000 --> 00:37:41,000
+Maybe, maybe.
+
+1007
+00:37:43,000 --> 00:37:45,000
+Then it becomes
+
+1008
+00:37:45,000 --> 00:37:47,000
+that no matter how much
+
+1009
+00:37:47,000 --> 00:37:49,000
+you learn,
+
+1010
+00:37:49,000 --> 00:37:51,000
+we've learned something.
+
+1011
+00:37:51,000 --> 00:37:53,000
+A person has to go through
+
+1012
+00:37:53,000 --> 00:37:55,000
+the same mistakes
+
+1013
+00:37:55,000 --> 00:37:57,000
+and learn something new
+
+1014
+00:37:57,000 --> 00:37:59,000
+again.
+
+1015
+00:37:59,000 --> 00:38:01,000
+Yes, that's why
+
+1016
+00:38:01,000 --> 00:38:03,000
+in Grodno we don't have
+
+1017
+00:38:03,000 --> 00:38:05,000
+a recording studio.
+
+1018
+00:38:05,000 --> 00:38:07,000
+We've organized a recording
+
+1019
+00:38:07,000 --> 00:38:09,000
+in a cafe.
+
+1020
+00:38:09,000 --> 00:38:11,000
+You learn from some things.
+
+1021
+00:38:11,000 --> 00:38:13,000
+Maybe that's also
+
+1022
+00:38:13,000 --> 00:38:15,000
+important,
+
+1023
+00:38:15,000 --> 00:38:17,000
+if we've ever organized
+
+1024
+00:38:17,000 --> 00:38:19,000
+anything like that,
+
+1025
+00:38:19,000 --> 00:38:21,000
+the reflection after the event
+
+1026
+00:38:21,000 --> 00:38:23,000
+is very important.
+
+1027
+00:38:23,000 --> 00:38:25,000
+When we record,
+
+1028
+00:38:25,000 --> 00:38:27,000
+we talk about what was good,
+
+1029
+00:38:27,000 --> 00:38:29,000
+what wasn't.
+
+1030
+00:38:29,000 --> 00:38:31,000
+Maybe it's not like that,
+
+1031
+00:38:31,000 --> 00:38:33,000
+but we've learned
+
+1032
+00:38:33,000 --> 00:38:35,000
+what suits us.
+
+1033
+00:38:35,000 --> 00:38:37,000
+That reflection,
+
+1034
+00:38:37,000 --> 00:38:39,000
+retro,
+
+1035
+00:38:39,000 --> 00:38:41,000
+is very important
+
+1036
+00:38:41,000 --> 00:38:43,000
+because you need a point
+
+1037
+00:38:43,000 --> 00:38:45,000
+to say,
+
+1038
+00:38:45,000 --> 00:38:47,000
+is this what we're fighting for?
+
+1039
+00:38:47,000 --> 00:38:49,000
+If you have those points,
+
+1040
+00:38:49,000 --> 00:38:51,000
+it's less likely
+
+1041
+00:38:51,000 --> 00:38:53,000
+that you'll lose
+
+1042
+00:38:53,000 --> 00:38:55,000
+what you're fighting for.
+
+1043
+00:38:55,000 --> 00:38:57,000
+I like that, because
+
+1044
+00:38:57,000 --> 00:38:59,000
+it could be applied
+
+1045
+00:38:59,000 --> 00:39:01,000
+to everything.
+
+1046
+00:39:01,000 --> 00:39:03,000
+We do everything
+
+1047
+00:39:03,000 --> 00:39:05,000
+based on what we've already done.
+
+1048
+00:39:05,000 --> 00:39:07,000
+What did Loki do in CyberPip?
+
+1049
+00:39:07,000 --> 00:39:09,000
+What did the players do in Design?
+
+1050
+00:39:09,000 --> 00:39:11,000
+What did we do?
+
+1051
+00:39:13,000 --> 00:39:15,000
+And then we learn a lot.
+
+1052
+00:39:17,000 --> 00:39:19,000
+Certain things can be re-recorded,
+
+1053
+00:39:19,000 --> 00:39:21,000
+certain things
+
+1054
+00:39:21,000 --> 00:39:23,000
+don't exist anymore
+
+1055
+00:39:23,000 --> 00:39:25,000
+in 2020,
+
+1056
+00:39:25,000 --> 00:39:27,000
+but you have to try different things.
+
+1057
+00:39:27,000 --> 00:39:29,000
+That's true.
+
+1058
+00:39:29,000 --> 00:39:31,000
+I see that
+
+1059
+00:39:31,000 --> 00:39:33,000
+even when there are live events,
+
+1060
+00:39:33,000 --> 00:39:35,000
+we have to try
+
+1061
+00:39:35,000 --> 00:39:37,000
+to keep people on their toes
+
+1062
+00:39:37,000 --> 00:39:39,000
+and to develop the debate.
+
+1063
+00:39:39,000 --> 00:39:41,000
+A few years ago,
+
+1064
+00:39:41,000 --> 00:39:43,000
+it was something normal.
+
+1065
+00:39:45,000 --> 00:39:47,000
+I had this forum
+
+1066
+00:39:47,000 --> 00:39:49,000
+at Pipini Expert
+
+1067
+00:39:49,000 --> 00:39:51,000
+where we know
+
+1068
+00:39:51,000 --> 00:39:53,000
+that the Slovenian audience
+
+1069
+00:39:53,000 --> 00:39:55,000
+didn't stop asking questions.
+
+1070
+00:39:55,000 --> 00:39:57,000
+There was a good flow of people
+
+1071
+00:39:57,000 --> 00:39:59,000
+who invested a lot of time
+
+1072
+00:39:59,000 --> 00:40:01,000
+and in the end,
+
+1073
+00:40:01,000 --> 00:40:03,000
+zero questions.
+
+1074
+00:40:03,000 --> 00:40:05,000
+Or there's always
+
+1075
+00:40:05,000 --> 00:40:07,000
+one person who asks
+
+1076
+00:40:07,000 --> 00:40:09,000
+the most fucking questions
+
+1077
+00:40:09,000 --> 00:40:11,000
+and the most discussion in the world.
+
+1078
+00:40:11,000 --> 00:40:13,000
+That's what I did.
+
+1079
+00:40:13,000 --> 00:40:15,000
+I had a lot of questions
+
+1080
+00:40:15,000 --> 00:40:17,000
+and I provoked
+
+1081
+00:40:17,000 --> 00:40:19,000
+the audience and someone
+
+1082
+00:40:19,000 --> 00:40:21,000
+so that in the end
+
+1083
+00:40:21,000 --> 00:40:23,000
+I put a lot of questions
+
+1084
+00:40:23,000 --> 00:40:25,000
+in front of the audience
+
+1085
+00:40:25,000 --> 00:40:27,000
+because they said
+
+1086
+00:40:27,000 --> 00:40:29,000
+that they would ask me
+
+1087
+00:40:29,000 --> 00:40:31,000
+the same questions.
+
+1088
+00:40:31,000 --> 00:40:33,000
+Just because I provoked
+
+1089
+00:40:33,000 --> 00:40:35,000
+the audience to start asking
+
+1090
+00:40:35,000 --> 00:40:37,000
+questions.
+
+1091
+00:40:37,000 --> 00:40:39,000
+A little trick of a great master.
+
+1092
+00:40:41,000 --> 00:40:43,000
+Are we going to include
+
+1093
+00:40:43,000 --> 00:40:45,000
+questions from the audience?
+
+1094
+00:40:45,000 --> 00:40:47,000
+We will.
+
+1095
+00:40:47,000 --> 00:40:49,000
+You know what,
+
+1096
+00:40:49,000 --> 00:40:51,000
+we could tell our sponsors
+
+1097
+00:40:51,000 --> 00:40:53,000
+and supporters.
+
+1098
+00:40:53,000 --> 00:40:55,000
+Is that you?
+
+1099
+00:40:55,000 --> 00:40:57,000
+No, that's your part.
+
+1100
+00:40:57,000 --> 00:40:59,000
+Here we have in Grodno
+
+1101
+00:40:59,000 --> 00:41:01,000
+we thank the 3FSE
+
+1102
+00:41:01,000 --> 00:41:03,000
+and Human Frog
+
+1103
+00:41:03,000 --> 00:41:05,000
+who support us
+
+1104
+00:41:05,000 --> 00:41:07,000
+in this story.
+
+1105
+00:41:07,000 --> 00:41:09,000
+We thank all the Patreons
+
+1106
+00:41:09,000 --> 00:41:11,000
+who support us.
+
+1107
+00:41:11,000 --> 00:41:13,000
+Patreonite, besides
+
+1108
+00:41:13,000 --> 00:41:15,000
+getting a person before
+
+1109
+00:41:15,000 --> 00:41:17,000
+also got a merch
+
+1110
+00:41:17,000 --> 00:41:19,000
+which was also made by Mr. Gračan.
+
+1111
+00:41:19,000 --> 00:41:21,000
+Thank you for your support.
+
+1112
+00:41:21,000 --> 00:41:23,000
+EPP.
+
+1113
+00:41:23,000 --> 00:41:25,000
+Now we have
+
+1114
+00:41:25,000 --> 00:41:27,000
+a few more questions.
+
+1115
+00:41:27,000 --> 00:41:29,000
+It would be cool to include them.
+
+1116
+00:41:29,000 --> 00:41:31,000
+Are you ready?
+
+1117
+00:41:31,000 --> 00:41:33,000
+Did he choose me?
+
+1118
+00:41:33,000 --> 00:41:35,000
+Ok.
+
+1119
+00:41:35,000 --> 00:41:37,000
+Did you choose the first question?
+
+1120
+00:41:37,000 --> 00:41:39,000
+Why don't we have a 8K
+
+1121
+00:41:39,000 --> 00:41:41,000
+video podcast?
+
+1122
+00:41:43,000 --> 00:41:45,000
+Jan,
+
+1123
+00:41:45,000 --> 00:41:47,000
+are you going to start
+
+1124
+00:41:47,000 --> 00:41:49,000
+We don't have a disk.
+
+1125
+00:41:49,000 --> 00:41:51,000
+We don't have a storage disk.
+
+1126
+00:41:51,000 --> 00:41:53,000
+Yes, that's a problem.
+
+1127
+00:41:53,000 --> 00:41:55,000
+Yes, those SD cards.
+
+1128
+00:41:55,000 --> 00:41:57,000
+We are fully limited,
+
+1129
+00:41:57,000 --> 00:41:59,000
+so it's better to have episodes
+
+1130
+00:41:59,000 --> 00:42:01,000
+after 20 minutes.
+
+1131
+00:42:01,000 --> 00:42:03,000
+If we would do it in 8K,
+
+1132
+00:42:03,000 --> 00:42:05,000
+if I'm right,
+
+1133
+00:42:05,000 --> 00:42:07,000
+Jan's answer is that
+
+1134
+00:42:07,000 --> 00:42:09,000
+there would be an episode
+
+1135
+00:42:09,000 --> 00:42:11,000
+of 100 GB.
+
+1136
+00:42:11,000 --> 00:42:13,000
+I think that would be
+
+1137
+00:42:13,000 --> 00:42:15,000
+too much.
+
+1138
+00:42:15,000 --> 00:42:17,000
+A lot of people are using the internet,
+
+1139
+00:42:17,000 --> 00:42:19,000
+so they don't have a problem with 100 GB.
+
+1140
+00:42:21,000 --> 00:42:23,000
+I already have
+
+1141
+00:42:23,000 --> 00:42:25,000
+a portable SSD disk
+
+1142
+00:42:25,000 --> 00:42:27,000
+M-tera for 90 euros.
+
+1143
+00:42:27,000 --> 00:42:29,000
+You can put it in your pocket
+
+1144
+00:42:29,000 --> 00:42:31,000
+and save it.
+
+1145
+00:42:35,000 --> 00:42:37,000
+I think there are
+
+1146
+00:42:37,000 --> 00:42:39,000
+some other technical issues.
+
+1147
+00:42:39,000 --> 00:42:41,000
+Jan said that
+
+1148
+00:42:41,000 --> 00:42:43,000
+if you are interested in why we don't have a 8K
+
+1149
+00:42:43,000 --> 00:42:45,000
+in the back,
+
+1150
+00:42:45,000 --> 00:42:47,000
+the audience is waiting for you.
+
+1151
+00:42:47,000 --> 00:42:49,000
+We will discuss the details of that in a bit.
+
+1152
+00:42:55,000 --> 00:42:57,000
+Video production
+
+1153
+00:42:57,000 --> 00:42:59,000
+costs $1 and $1.00 per hour.
+
+1154
+00:42:59,000 --> 00:43:01,000
+To make it look
+
+1155
+00:43:01,000 --> 00:43:03,000
+and sound proper
+
+1156
+00:43:03,000 --> 00:43:05,000
+is absolutely one thing.
+
+1157
+00:43:05,000 --> 00:43:07,000
+Thank you, Jan, for everything.
+
+1158
+00:43:07,000 --> 00:43:09,000
+It also means that we can
+
+1159
+00:43:09,000 --> 00:43:11,000
+get along with everyone else.
+
+1160
+00:43:11,000 --> 00:43:13,000
+Tomaš should also join us,
+
+1161
+00:43:13,000 --> 00:43:15,000
+because Lightning is also important.
+
+1162
+00:43:15,000 --> 00:43:17,000
+Yes.
+
+1163
+00:43:17,000 --> 00:43:19,000
+Tomaš Zaman is the bringer of light.
+
+1164
+00:43:21,000 --> 00:43:23,000
+Tomaš Zaman is the bringer of light
+
+1165
+00:43:23,000 --> 00:43:25,000
+from Kobilje.
+
+1166
+00:43:25,000 --> 00:43:27,000
+We thank him a lot.
+
+1167
+00:43:27,000 --> 00:43:29,000
+He is the real YouTuber
+
+1168
+00:43:29,000 --> 00:43:31,000
+from all of us.
+
+1169
+00:43:31,000 --> 00:43:33,000
+A random interlude.
+
+1170
+00:43:33,000 --> 00:43:35,000
+If any of you
+
+1171
+00:43:35,000 --> 00:43:37,000
+are involved in event organization,
+
+1172
+00:43:37,000 --> 00:43:39,000
+you know that the person
+
+1173
+00:43:39,000 --> 00:43:41,000
+who forms the light
+
+1174
+00:43:41,000 --> 00:43:43,000
+usually sits behind the table and watches.
+
+1175
+00:43:43,000 --> 00:43:45,000
+Those who are involved in event organization
+
+1176
+00:43:45,000 --> 00:43:47,000
+are like,
+
+1177
+00:43:47,000 --> 00:43:49,000
+oh no, there is a photo,
+
+1178
+00:43:49,000 --> 00:43:51,000
+and physicists are jumping around.
+
+1179
+00:43:59,000 --> 00:44:01,000
+Shall we move on?
+
+1180
+00:44:01,000 --> 00:44:03,000
+Yes, let's move on.
+
+1181
+00:44:03,000 --> 00:44:05,000
+Because people could go crazy.
+
+1182
+00:44:05,000 --> 00:44:07,000
+They can go.
+
+1183
+00:44:07,000 --> 00:44:09,000
+We still have some problems.
+
+1184
+00:44:09,000 --> 00:44:11,000
+We have to deal with them.
+
+1185
+00:44:11,000 --> 00:44:13,000
+You can go crazy,
+
+1186
+00:44:13,000 --> 00:44:15,000
+but technically speaking,
+
+1187
+00:44:15,000 --> 00:44:17,000
+they are recording everything.
+
+1188
+00:44:19,000 --> 00:44:21,000
+How long does it take you
+
+1189
+00:44:21,000 --> 00:44:23,000
+post-production or video editing?
+
+1190
+00:44:23,000 --> 00:44:25,000
+How do you publish a new video
+
+1191
+00:44:25,000 --> 00:44:27,000
+on all platforms? Do you have your app
+
+1192
+00:44:27,000 --> 00:44:29,000
+or do you use a third party app?
+
+1193
+00:44:29,000 --> 00:44:31,000
+This is a really interesting question.
+
+1194
+00:44:31,000 --> 00:44:33,000
+How long does it take us
+
+1195
+00:44:33,000 --> 00:44:35,000
+video editing?
+
+1196
+00:44:35,000 --> 00:44:37,000
+We will record this,
+
+1197
+00:44:37,000 --> 00:44:39,000
+I have it all on a disk,
+
+1198
+00:44:39,000 --> 00:44:41,000
+and I will bring it home,
+
+1199
+00:44:41,000 --> 00:44:43,000
+and when I have time, I will edit it.
+
+1200
+00:44:43,000 --> 00:44:45,000
+It usually takes 7 days.
+
+1201
+00:44:45,000 --> 00:44:47,000
+It depends on how busy you are.
+
+1202
+00:44:49,000 --> 00:44:51,000
+We don't press any buttons.
+
+1203
+00:44:51,000 --> 00:44:53,000
+It is an artistic work.
+
+1204
+00:44:53,000 --> 00:44:55,000
+It is an artistic work.
+
+1205
+00:44:55,000 --> 00:44:57,000
+It is an artistic work.
+
+1206
+00:44:57,000 --> 00:44:59,000
+It is an artistic work.
+
+1207
+00:44:59,000 --> 00:45:01,000
+We send it, and then we publish it.
+
+1208
+00:45:01,000 --> 00:45:03,000
+You said that it is fully post-production.
+
+1209
+00:45:03,000 --> 00:45:05,000
+Post-production is...
+
+1210
+00:45:05,000 --> 00:45:07,000
+Post-production is
+
+1211
+00:45:07,000 --> 00:45:09,000
+just putting in
+
+1212
+00:45:09,000 --> 00:45:11,000
+this audio program, normalizing it
+
+1213
+00:45:11,000 --> 00:45:13,000
+to minus 3 decibels.
+
+1214
+00:45:13,000 --> 00:45:15,000
+No, no, no. Hired.
+
+1215
+00:45:15,000 --> 00:45:17,000
+Hired?
+
+1216
+00:45:19,000 --> 00:45:21,000
+We have already learned
+
+1217
+00:45:21,000 --> 00:45:23,000
+that this doesn't work.
+
+1218
+00:45:23,000 --> 00:45:25,000
+We have Jan, who knows this.
+
+1219
+00:45:25,000 --> 00:45:27,000
+Once we had AI tools.
+
+1220
+00:45:27,000 --> 00:45:29,000
+You put this in, and then AI tools.
+
+1221
+00:45:29,000 --> 00:45:31,000
+Then you say, now it will be a perfect sound.
+
+1222
+00:45:31,000 --> 00:45:33,000
+No.
+
+1223
+00:45:33,000 --> 00:45:35,000
+I would say, everything is fine.
+
+1224
+00:45:35,000 --> 00:45:37,000
+He said, no.
+
+1225
+00:45:37,000 --> 00:45:39,000
+A YouTube commenter once said,
+
+1226
+00:45:39,000 --> 00:45:41,000
+when you put it in AI tools,
+
+1227
+00:45:41,000 --> 00:45:43,000
+it doesn't work.
+
+1228
+00:45:43,000 --> 00:45:45,000
+Jan looked at it and said,
+
+1229
+00:45:45,000 --> 00:45:47,000
+fans, before you put it in AI tools,
+
+1230
+00:45:47,000 --> 00:45:49,000
+you should worry about stereo recording,
+
+1231
+00:45:49,000 --> 00:45:51,000
+not mono.
+
+1232
+00:45:51,000 --> 00:45:53,000
+Why do you publish it?
+
+1233
+00:45:53,000 --> 00:45:55,000
+OK, the publisher of the podcast
+
+1234
+00:45:55,000 --> 00:45:57,000
+is Fordhamis.
+
+1235
+00:45:57,000 --> 00:45:59,000
+There is a platform
+
+1236
+00:45:59,000 --> 00:46:01,000
+called Podcaster,
+
+1237
+00:46:01,000 --> 00:46:03,000
+which was bought by Spotify.
+
+1238
+00:46:03,000 --> 00:46:05,000
+You put a file on top,
+
+1239
+00:46:05,000 --> 00:46:07,000
+and then it does an RSS feed.
+
+1240
+00:46:07,000 --> 00:46:09,000
+Then we have it posted
+
+1241
+00:46:09,000 --> 00:46:11,000
+on all the other platforms,
+
+1242
+00:46:11,000 --> 00:46:13,000
+like Apple and Insta,
+
+1243
+00:46:13,000 --> 00:46:15,000
+and from that RSS,
+
+1244
+00:46:15,000 --> 00:46:17,000
+YouTube chooses.
+
+1245
+00:46:17,000 --> 00:46:19,000
+Then you publish it on top,
+
+1246
+00:46:19,000 --> 00:46:21,000
+and that's it.
+
+1247
+00:46:21,000 --> 00:46:23,000
+On those two channels,
+
+1248
+00:46:23,000 --> 00:46:25,000
+we publish the audio recordings.
+
+1249
+00:46:25,000 --> 00:46:27,000
+We also have a developer, CMS,
+
+1250
+00:46:27,000 --> 00:46:29,000
+technical.
+
+1251
+00:46:31,000 --> 00:46:33,000
+You can see that this is a technological podcast,
+
+1252
+00:46:33,000 --> 00:46:35,000
+because someone has always been developing
+
+1253
+00:46:35,000 --> 00:46:37,000
+their own CMS.
+
+1254
+00:46:37,000 --> 00:46:39,000
+Integrate, integrate, integrate.
+
+1255
+00:46:39,000 --> 00:46:41,000
+That's how it started.
+
+1256
+00:46:41,000 --> 00:46:43,000
+Maybe it sounds stupid,
+
+1257
+00:46:43,000 --> 00:46:45,000
+but that's how it is today.
+
+1258
+00:46:45,000 --> 00:46:47,000
+From CMS, we have a page generated,
+
+1259
+00:46:47,000 --> 00:46:49,000
+and everything is stretched and structured,
+
+1260
+00:46:49,000 --> 00:46:51,000
+and thumbnails can also be created.
+
+1261
+00:46:51,000 --> 00:46:53,000
+So, stay tuned
+
+1262
+00:46:53,000 --> 00:46:55,000
+on our GitHub and open source.
+
+1263
+00:46:55,000 --> 00:46:57,000
+If anyone is interested in this technological aspect,
+
+1264
+00:46:57,000 --> 00:46:59,000
+we are on Skriberi.
+
+1265
+00:47:01,000 --> 00:47:03,000
+On the other hand,
+
+1266
+00:47:03,000 --> 00:47:05,000
+what we are most successful at
+
+1267
+00:47:05,000 --> 00:47:07,000
+is getting people to use it themselves.
+
+1268
+00:47:07,000 --> 00:47:09,000
+We were at that point
+
+1269
+00:47:09,000 --> 00:47:11,000
+where we needed a ticketing system.
+
+1270
+00:47:11,000 --> 00:47:13,000
+And then,
+
+1271
+00:47:13,000 --> 00:47:15,000
+Slovenia decided to write their own.
+
+1272
+00:47:15,000 --> 00:47:17,000
+Yes, yes.
+
+1273
+00:47:17,000 --> 00:47:19,000
+And then I said,
+
+1274
+00:47:19,000 --> 00:47:21,000
+there are a lot of them,
+
+1275
+00:47:21,000 --> 00:47:23,000
+but not Jira, but something else.
+
+1276
+00:47:23,000 --> 00:47:25,000
+I get PTSD every two seconds.
+
+1277
+00:47:25,000 --> 00:47:27,000
+Only if it's integrated.
+
+1278
+00:47:27,000 --> 00:47:29,000
+Only if it's integrated, right?
+
+1279
+00:47:29,000 --> 00:47:31,000
+Yes, that would interest them.
+
+1280
+00:47:31,000 --> 00:47:33,000
+On GitHub,
+
+1281
+00:47:33,000 --> 00:47:35,000
+we have everything written.
+
+1282
+00:47:35,000 --> 00:47:37,000
+If anyone is interested,
+
+1283
+00:47:37,000 --> 00:47:39,000
+if anyone wants to clone,
+
+1284
+00:47:39,000 --> 00:47:41,000
+they can make their own podcast.
+
+1285
+00:47:41,000 --> 00:47:43,000
+Yes, go for it.
+
+1286
+00:47:43,000 --> 00:47:45,000
+In the community,
+
+1287
+00:47:45,000 --> 00:47:47,000
+we touched on everything.
+
+1288
+00:47:47,000 --> 00:47:49,000
+Questions for the older generation.
+
+1289
+00:47:49,000 --> 00:47:51,000
+Oh, my God.
+
+1290
+00:47:51,000 --> 00:47:53,000
+What are the current meetups,
+
+1291
+00:47:53,000 --> 00:47:55,000
+conferences and similar events
+
+1292
+00:47:55,000 --> 00:47:57,000
+starting better than the previous ones,
+
+1293
+00:47:57,000 --> 00:47:59,000
+for example, 10 years ago?
+
+1294
+00:47:59,000 --> 00:48:01,000
+What are we doing better today?
+
+1295
+00:48:05,000 --> 00:48:07,000
+Definitely,
+
+1296
+00:48:07,000 --> 00:48:09,000
+more omnipresent
+
+1297
+00:48:09,000 --> 00:48:11,000
+on the Internet.
+
+1298
+00:48:11,000 --> 00:48:13,000
+On all possible channels,
+
+1299
+00:48:13,000 --> 00:48:15,000
+but also,
+
+1300
+00:48:15,000 --> 00:48:17,000
+as you said,
+
+1301
+00:48:17,000 --> 00:48:19,000
+there are all these different tools
+
+1302
+00:48:19,000 --> 00:48:21,000
+that are being generated,
+
+1303
+00:48:21,000 --> 00:48:23,000
+sent, etc.
+
+1304
+00:48:23,000 --> 00:48:25,000
+What is being done worse?
+
+1305
+00:48:25,000 --> 00:48:27,000
+That might be more interesting to me.
+
+1306
+00:48:27,000 --> 00:48:29,000
+There is less honest contact
+
+1307
+00:48:29,000 --> 00:48:31,000
+between people on events.
+
+1308
+00:48:31,000 --> 00:48:33,000
+I don't know.
+
+1309
+00:48:33,000 --> 00:48:35,000
+I mean,
+
+1310
+00:48:35,000 --> 00:48:37,000
+if I go to our side,
+
+1311
+00:48:37,000 --> 00:48:39,000
+we started collaborating
+
+1312
+00:48:39,000 --> 00:48:41,000
+with Laro Kozbek this year.
+
+1313
+00:48:41,000 --> 00:48:43,000
+If it wasn't in Portuguese,
+
+1314
+00:48:43,000 --> 00:48:45,000
+it would probably be with us.
+
+1315
+00:48:45,000 --> 00:48:47,000
+And now we have
+
+1316
+00:48:47,000 --> 00:48:49,000
+a member in our team
+
+1317
+00:48:49,000 --> 00:48:51,000
+who manages to distribute
+
+1318
+00:48:51,000 --> 00:48:53,000
+the gifts on TikTok,
+
+1319
+00:48:53,000 --> 00:48:55,000
+YouTube, Reels
+
+1320
+00:48:55,000 --> 00:48:57,000
+and Instagram.
+
+1321
+00:48:57,000 --> 00:48:59,000
+We can see that there are
+
+1322
+00:48:59,000 --> 00:49:01,000
+a lot of audiences
+
+1323
+00:49:01,000 --> 00:49:03,000
+and we have to be present.
+
+1324
+00:49:03,000 --> 00:49:05,000
+It's our format,
+
+1325
+00:49:05,000 --> 00:49:07,000
+so if you see the clips,
+
+1326
+00:49:07,000 --> 00:49:09,000
+Laro does it all by himself
+
+1327
+00:49:09,000 --> 00:49:11,000
+and spreads it.
+
+1328
+00:49:11,000 --> 00:49:13,000
+We make sure that people
+
+1329
+00:49:13,000 --> 00:49:15,000
+who don't know us see us.
+
+1330
+00:49:15,000 --> 00:49:17,000
+Facebook is for old people
+
+1331
+00:49:17,000 --> 00:49:19,000
+and LinkedIn is for business.
+
+1332
+00:49:19,000 --> 00:49:21,000
+What if I say I don't have a Facebook?
+
+1333
+00:49:23,000 --> 00:49:25,000
+You have to do it,
+
+1334
+00:49:25,000 --> 00:49:27,000
+but if you really want
+
+1335
+00:49:27,000 --> 00:49:29,000
+to be present
+
+1336
+00:49:29,000 --> 00:49:31,000
+on LinkedIn and Facebook,
+
+1337
+00:49:31,000 --> 00:49:33,000
+you will be able to do it.
+
+1338
+00:49:33,000 --> 00:49:35,000
+You will be able to buy ads
+
+1339
+00:49:35,000 --> 00:49:37,000
+and then come back
+
+1340
+00:49:37,000 --> 00:49:39,000
+to it quickly.
+
+1341
+00:49:39,000 --> 00:49:41,000
+You can do it today
+
+1342
+00:49:41,000 --> 00:49:43,000
+as an event organizer.
+
+1343
+00:49:43,000 --> 00:49:45,000
+In our case,
+
+1344
+00:49:45,000 --> 00:49:47,000
+we built
+
+1345
+00:49:47,000 --> 00:49:49,000
+all this presence
+
+1346
+00:49:49,000 --> 00:49:51,000
+for nothing.
+
+1347
+00:49:51,000 --> 00:49:53,000
+We never bought
+
+1348
+00:49:53,000 --> 00:49:55,000
+new ads or anything.
+
+1349
+00:49:55,000 --> 00:49:57,000
+Everything through our own networks
+
+1350
+00:49:57,000 --> 00:49:59,000
+and that was enough.
+
+1351
+00:50:00,000 --> 00:50:03,280
+How far can we go with this effect?
+
+1352
+00:50:03,280 --> 00:50:20,240
+You definitely get to know each other before 2-8 events and after that you have a chance to get an audience.
+
+1353
+00:50:20,240 --> 00:50:24,799
+You can try a little bit, but you have social networks, you have a lot of things,
+
+1354
+00:50:24,799 --> 00:50:30,000
+as I said before, airplanes, press of airplanes, there was nothing else.
+
+1355
+00:50:30,000 --> 00:50:36,400
+On the other hand, if there was RSS, it was already a step forward, there were very few aggregators,
+
+1356
+00:50:36,400 --> 00:50:43,200
+there were no Facebooks, Myspace existed, and that was it.
+
+1357
+00:50:43,200 --> 00:50:48,160
+In fact, this word is not a lie today.
+
+1358
+00:50:48,160 --> 00:50:50,639
+But it's not a lie either, is it?
+
+1359
+00:50:50,720 --> 00:50:56,080
+It's not a lie because you can work harder for the attention of those people.
+
+1360
+00:50:56,080 --> 00:51:04,879
+It's not enough to launch something, but in some smart way you will launch it so that you will target the right people.
+
+1361
+00:51:05,839 --> 00:51:21,519
+But I would say that this part of honest contact, or actually building a community with people who really come to the event,
+
+1362
+00:51:21,519 --> 00:51:26,320
+to shake hands a little bit, or to get to know each other, that's what it's all about.
+
+1363
+00:51:27,040 --> 00:51:39,120
+I see that everyone you meet at such an event and you get to onboard them by hand, stays there forever.
+
+1364
+00:51:39,120 --> 00:51:48,080
+One of the things in our Discord is that people who came in, if we onboarded them by hand,
+
+1365
+00:51:48,080 --> 00:51:53,680
+they are full of passion and they felt it today because they understand these issues.
+
+1366
+00:51:54,639 --> 00:52:05,360
+So, this personal touch, communities are people, we can all have some titles, techniques, voices and everything,
+
+1367
+00:52:05,360 --> 00:52:08,479
+but that's the touch you build with people.
+
+1368
+00:52:08,479 --> 00:52:11,520
+And also, if you want to, I have a question here,
+
+1369
+00:52:11,520 --> 00:52:17,679
+bring some commercial business, because you will work with people.
+
+1370
+00:52:17,759 --> 00:52:26,800
+I think it's all the same, the level is higher or different, but you will probably be able to maintain the business,
+
+1371
+00:52:26,800 --> 00:52:32,000
+and it's not enough to do it once and then hope that you got it all.
+
+1372
+00:52:33,600 --> 00:52:36,399
+Ok, I have one here, who wrote this to me?
+
+1373
+00:52:37,520 --> 00:52:47,279
+How to motivate young people who will help maintain and continue the Smiley Face community in Switzerland?
+
+1374
+00:52:47,759 --> 00:52:54,240
+One of the debates we had last year with Blengorjev, where do you find young people?
+
+1375
+00:52:54,240 --> 00:53:01,119
+In cafés, at basketball courts, so random that we get together in Maribor for a few years.
+
+1376
+00:53:04,399 --> 00:53:11,839
+I prepare one thing, I work a lot with young people and I'm in some different initiatives,
+
+1377
+00:53:12,399 --> 00:53:18,880
+I'm not a stand-up comedian, I'm not an improviser, I'm not an economist,
+
+1378
+00:53:18,880 --> 00:53:20,880
+Ok, that's enough.
+
+1379
+00:53:20,880 --> 00:53:35,199
+I see that a lot of young people have a desire to be part of a story, something bigger,
+
+1380
+00:53:35,759 --> 00:53:42,080
+but they often have a problem because they don't know how to take the first step,
+
+1381
+00:53:42,080 --> 00:53:48,639
+how to join an initiative, a lot of times there is no onboarding,
+
+1382
+00:53:48,639 --> 00:53:55,199
+you come, you find someone, and if you are lucky, someone will take you under their wing and show you things,
+
+1383
+00:53:55,199 --> 00:54:01,679
+and then you start to learn, you meet new people,
+
+1384
+00:54:01,759 --> 00:54:08,240
+but a lot of times it's a problem because people don't have a structured approach.
+
+1385
+00:54:10,240 --> 00:54:15,759
+For example, in Urec, we had a lot of students who came to help us,
+
+1386
+00:54:15,759 --> 00:54:20,239
+they helped with filming, photographing, organizing events,
+
+1387
+00:54:20,239 --> 00:54:26,640
+and it's not hard to start an event like that, you need a space where people will gather,
+
+1388
+00:54:26,720 --> 00:54:33,040
+you need a topic to talk about, you need someone who will say something about that topic,
+
+1389
+00:54:33,040 --> 00:54:41,040
+and you just need to make sure that the conditions for dissemination of information are as comfortable as possible.
+
+1390
+00:54:41,040 --> 00:54:46,799
+Yes, there is a light, maybe a microphone, or that everything is so quiet that you can hear it, and so on.
+
+1391
+00:54:46,799 --> 00:54:51,440
+Nobody sees all the other things that are happening.
+
+1392
+00:54:51,519 --> 00:54:57,839
+You need to prepare tables, you need to prepare cables on the left and right,
+
+1393
+00:54:57,839 --> 00:55:01,359
+and there is a lot of hidden work.
+
+1394
+00:55:01,359 --> 00:55:07,279
+A lot of young people are under the impression that this is ready-made,
+
+1395
+00:55:07,279 --> 00:55:11,760
+I come, I sit down, and suddenly things start to work on their own.
+
+1396
+00:55:14,000 --> 00:55:17,519
+Where do I find young people who have so many desires?
+
+1397
+00:55:18,399 --> 00:55:23,920
+It's very hard to find them, and when you do, you have to do everything in your power to keep them.
+
+1398
+00:55:23,920 --> 00:55:31,119
+Which is a big problem, because young people, or people who have some special characteristics,
+
+1399
+00:55:31,119 --> 00:55:34,079
+or predispositions, characteristics,
+
+1400
+00:55:34,079 --> 00:55:39,279
+they are very curious, and they do six different things at the same time.
+
+1401
+00:55:39,279 --> 00:55:43,760
+And you compete now for these six other interests in their lives.
+
+1402
+00:55:44,160 --> 00:55:48,559
+Sometimes you succeed, sometimes you don't, and then people move,
+
+1403
+00:55:48,559 --> 00:55:51,760
+then they have jobs, then they have children, and so on.
+
+1404
+00:55:51,760 --> 00:55:57,440
+I don't know if you like to have a structured approach to looking for these young people,
+
+1405
+00:55:57,440 --> 00:56:01,920
+great, but it takes a lot of resources.
+
+1406
+00:56:01,920 --> 00:56:03,920
+If you don't have cash, time and energy.
+
+1407
+00:56:03,920 --> 00:56:06,799
+If you don't have time and energy, you can supplement it with cash.
+
+1408
+00:56:06,799 --> 00:56:12,559
+It's not a simple answer, it's a very difficult topic.
+
+1409
+00:56:12,640 --> 00:56:17,839
+Who is this guy? I can talk to him for three hours, I don't know who he is.
+
+1410
+00:56:22,640 --> 00:56:26,720
+If I remember correctly, at the beginning of Cyberpipa,
+
+1411
+00:56:26,720 --> 00:56:32,239
+there was a period when the broadband wasn't very widespread.
+
+1412
+00:56:32,239 --> 00:56:39,600
+So if you had a good ISD at home, or the beginning of some kind of XDSL, great.
+
+1413
+00:56:40,399 --> 00:56:48,239
+But in reality, we had the most equipment available at the time.
+
+1414
+00:56:48,239 --> 00:56:52,959
+So there was a lot of interest, people had fast internet,
+
+1415
+00:56:52,959 --> 00:56:56,399
+and there was a lot of equipment that you don't have at home.
+
+1416
+00:56:56,399 --> 00:57:02,640
+So you got a group of people who could hang out there.
+
+1417
+00:57:02,640 --> 00:57:04,640
+Now the question is, how did you...
+
+1418
+00:57:04,640 --> 00:57:07,679
+Yes, a lot of people became very motivated because of that,
+
+1419
+00:57:07,760 --> 00:57:09,760
+and they wanted to do something.
+
+1420
+00:57:09,760 --> 00:57:11,760
+Today we have this problem,
+
+1421
+00:57:11,760 --> 00:57:13,760
+when generations come and say,
+
+1422
+00:57:13,760 --> 00:57:15,760
+look, we have faster internet at home,
+
+1423
+00:57:15,760 --> 00:57:17,760
+I have a powerbook at home,
+
+1424
+00:57:17,760 --> 00:57:19,760
+which you don't have here.
+
+1425
+00:57:19,760 --> 00:57:21,760
+Why would I go to you?
+
+1426
+00:57:21,760 --> 00:57:23,760
+When there was a period,
+
+1427
+00:57:23,760 --> 00:57:25,760
+I don't know, 3D printers,
+
+1428
+00:57:25,760 --> 00:57:27,760
+we had a 3D printer, great.
+
+1429
+00:57:27,760 --> 00:57:29,760
+Today you have a 3D printer at home,
+
+1430
+00:57:29,760 --> 00:57:31,760
+why would you hang out with someone?
+
+1431
+00:57:31,760 --> 00:57:33,760
+But this hasn't changed from...
+
+1432
+00:57:33,760 --> 00:57:35,760
+I don't know,
+
+1433
+00:57:35,839 --> 00:57:37,839
+before 2008.
+
+1434
+00:57:37,839 --> 00:57:39,839
+In Ljubljana, for example,
+
+1435
+00:57:39,839 --> 00:57:41,839
+Ljubljana Tech Hub,
+
+1436
+00:57:41,839 --> 00:57:43,839
+events there...
+
+1437
+00:57:43,839 --> 00:57:45,839
+Ljubljana Tech Hub, what's that?
+
+1438
+00:57:45,839 --> 00:57:47,839
+You have old news.
+
+1439
+00:57:47,839 --> 00:57:49,839
+It's not Ljubljana Tech Hub anymore?
+
+1440
+00:57:49,839 --> 00:57:51,839
+I mean, that news hasn't come from Trojana yet.
+
+1441
+00:57:51,839 --> 00:57:53,839
+No, I didn't...
+
+1442
+00:57:53,839 --> 00:57:55,839
+You'll have more beer then.
+
+1443
+00:57:55,839 --> 00:57:57,839
+Ah, OK.
+
+1444
+00:57:57,839 --> 00:57:59,839
+The last time I was at an event there,
+
+1445
+00:57:59,839 --> 00:58:01,839
+it was more equipped than the Marsekater Hall
+
+1446
+00:58:01,839 --> 00:58:03,839
+in Prijeditven Prostor in Slovenia.
+
+1447
+00:58:03,920 --> 00:58:05,920
+That's what we were talking about earlier.
+
+1448
+00:58:05,920 --> 00:58:07,920
+It's very simple,
+
+1449
+00:58:07,920 --> 00:58:09,920
+it's hard to be consistent
+
+1450
+00:58:09,920 --> 00:58:11,920
+through time.
+
+1451
+00:58:11,920 --> 00:58:13,920
+If you start at a high level,
+
+1452
+00:58:13,920 --> 00:58:15,920
+you can't...
+
+1453
+00:58:15,920 --> 00:58:17,920
+It's not sustainable.
+
+1454
+00:58:17,920 --> 00:58:19,920
+In Grodno,
+
+1455
+00:58:19,920 --> 00:58:21,920
+it's a third or fourth attempt
+
+1456
+00:58:21,920 --> 00:58:23,920
+to have a technical podcast
+
+1457
+00:58:23,920 --> 00:58:25,920
+or a tech-deo podcast
+
+1458
+00:58:25,920 --> 00:58:27,920
+in Slovenia.
+
+1459
+00:58:27,920 --> 00:58:29,920
+People have
+
+1460
+00:58:29,920 --> 00:58:31,920
+even better microphones
+
+1461
+00:58:32,000 --> 00:58:34,000
+than we have.
+
+1462
+00:58:34,000 --> 00:58:36,000
+They're just microphones
+
+1463
+00:58:36,000 --> 00:58:38,000
+because
+
+1464
+00:58:38,000 --> 00:58:40,000
+you need a lot of other things
+
+1465
+00:58:40,000 --> 00:58:42,000
+that are important
+
+1466
+00:58:42,000 --> 00:58:44,000
+and you need continuity.
+
+1467
+00:58:44,000 --> 00:58:46,000
+Exactly.
+
+1468
+00:58:46,000 --> 00:58:48,000
+It's easy
+
+1469
+00:58:48,000 --> 00:58:50,000
+to buy gear
+
+1470
+00:58:50,000 --> 00:58:52,000
+because of the equipment.
+
+1471
+00:58:52,000 --> 00:58:54,000
+But
+
+1472
+00:58:54,000 --> 00:58:56,000
+if I just go forward,
+
+1473
+00:58:56,000 --> 00:58:58,000
+it's more likely
+
+1474
+00:58:58,000 --> 00:59:00,000
+that if you create
+
+1475
+00:59:00,080 --> 00:59:02,080
+comfortable physical conditions
+
+1476
+00:59:02,080 --> 00:59:04,080
+for an initiative,
+
+1477
+00:59:04,080 --> 00:59:06,080
+you'll attract people's attention.
+
+1478
+00:59:06,080 --> 00:59:08,080
+But it's not necessary
+
+1479
+00:59:08,080 --> 00:59:10,080
+to attract people's attention.
+
+1480
+00:59:10,080 --> 00:59:12,080
+I won't go too deep
+
+1481
+00:59:12,080 --> 00:59:14,080
+into details,
+
+1482
+00:59:14,080 --> 00:59:16,080
+but the cyberpipa
+
+1483
+00:59:16,080 --> 00:59:18,080
+that lost its space
+
+1484
+00:59:18,080 --> 00:59:20,080
+somehow
+
+1485
+00:59:20,080 --> 00:59:22,080
+sank or disappeared.
+
+1486
+00:59:26,080 --> 00:59:28,080
+People started to say
+
+1487
+00:59:28,159 --> 00:59:30,159
+that they don't have space
+
+1488
+00:59:30,159 --> 00:59:32,159
+or a place to start.
+
+1489
+00:59:32,159 --> 00:59:34,159
+Then they realized
+
+1490
+00:59:34,159 --> 00:59:36,159
+that in order to have
+
+1491
+00:59:36,159 --> 00:59:38,159
+their own existence,
+
+1492
+00:59:38,159 --> 00:59:40,159
+they need space.
+
+1493
+00:59:40,159 --> 00:59:42,159
+Then they found
+
+1494
+00:59:42,159 --> 00:59:44,159
+an unoccupied space.
+
+1495
+00:59:44,159 --> 00:59:46,159
+But these people
+
+1496
+00:59:46,159 --> 00:59:48,159
+didn't have a place
+
+1497
+00:59:48,159 --> 00:59:50,159
+to start.
+
+1498
+00:59:50,159 --> 00:59:52,159
+Then they went there
+
+1499
+00:59:52,159 --> 00:59:54,159
+and nothing happened.
+
+1500
+00:59:54,159 --> 00:59:56,159
+The infrastructure
+
+1501
+00:59:56,239 --> 00:59:58,239
+was too small
+
+1502
+00:59:58,239 --> 01:00:00,239
+and people thought
+
+1503
+01:00:00,239 --> 01:00:02,239
+that's it.
+
+1504
+01:00:02,239 --> 01:00:04,239
+If there is
+
+1505
+01:00:04,239 --> 01:00:06,239
+motivation in people
+
+1506
+01:00:06,239 --> 01:00:08,239
+or passion that these people
+
+1507
+01:00:08,239 --> 01:00:10,239
+will find,
+
+1508
+01:00:10,239 --> 01:00:12,239
+they will do what they need.
+
+1509
+01:00:12,239 --> 01:00:14,239
+People said
+
+1510
+01:00:14,239 --> 01:00:16,239
+that they wanted space
+
+1511
+01:00:16,239 --> 01:00:18,239
+and then nothing happened.
+
+1512
+01:00:18,239 --> 01:00:20,239
+It means
+
+1513
+01:00:20,239 --> 01:00:22,239
+that space is not what you want.
+
+1514
+01:00:22,239 --> 01:00:24,239
+It sounds like a cliché
+
+1515
+01:00:24,320 --> 01:00:26,320
+but everything is important
+
+1516
+01:00:26,320 --> 01:00:28,320
+for the team.
+
+1517
+01:00:30,320 --> 01:00:32,320
+When you organize
+
+1518
+01:00:32,320 --> 01:00:34,320
+events,
+
+1519
+01:00:34,320 --> 01:00:36,320
+do you really need 350 people?
+
+1520
+01:00:36,320 --> 01:00:38,320
+Is it enough
+
+1521
+01:00:38,320 --> 01:00:40,320
+to have one, two, three?
+
+1522
+01:00:40,320 --> 01:00:42,320
+For example
+
+1523
+01:00:42,320 --> 01:00:44,320
+Ruby Meetup
+
+1524
+01:00:44,320 --> 01:00:46,320
+has seven people
+
+1525
+01:00:46,320 --> 01:00:48,320
+sometimes five.
+
+1526
+01:00:48,320 --> 01:00:50,320
+Now there are more,
+
+1527
+01:00:50,320 --> 01:00:52,320
+but these are people
+
+1528
+01:00:52,400 --> 01:00:54,400
+who have been doing Ruby for 15 years
+
+1529
+01:00:54,400 --> 01:00:56,400
+and they all know each other.
+
+1530
+01:00:56,400 --> 01:00:58,400
+People organize events
+
+1531
+01:00:58,400 --> 01:01:00,400
+for people,
+
+1532
+01:01:00,400 --> 01:01:02,400
+don't forget that.
+
+1533
+01:01:02,400 --> 01:01:04,400
+Now,
+
+1534
+01:01:04,400 --> 01:01:06,400
+if CyberPipa is mentioned again...
+
+1535
+01:01:08,400 --> 01:01:10,400
+CyberPipa is great.
+
+1536
+01:01:12,400 --> 01:01:14,400
+CyberPipa is important
+
+1537
+01:01:14,400 --> 01:01:16,400
+historically.
+
+1538
+01:01:16,400 --> 01:01:18,400
+You know what's fascinating?
+
+1539
+01:01:18,400 --> 01:01:20,400
+I will mention it again.
+
+1540
+01:01:20,479 --> 01:01:22,479
+When people come
+
+1541
+01:01:22,479 --> 01:01:24,479
+and say
+
+1542
+01:01:24,479 --> 01:01:26,479
+that it was great
+
+1543
+01:01:26,479 --> 01:01:28,479
+but I have never been there
+
+1544
+01:01:28,479 --> 01:01:30,479
+because I was so confused.
+
+1545
+01:01:30,479 --> 01:01:32,479
+Everyone told me
+
+1546
+01:01:32,479 --> 01:01:34,479
+that something really started there.
+
+1547
+01:01:36,479 --> 01:01:38,479
+It definitely made an impact.
+
+1548
+01:01:38,479 --> 01:01:40,479
+Definitely.
+
+1549
+01:01:40,479 --> 01:01:42,479
+There are a lot of such things.
+
+1550
+01:01:42,479 --> 01:01:44,479
+People always talk about
+
+1551
+01:01:44,479 --> 01:01:46,479
+how it was in the past.
+
+1552
+01:01:46,479 --> 01:01:48,479
+Now we are working
+
+1553
+01:01:48,559 --> 01:01:50,559
+and we don't know how long it will be.
+
+1554
+01:01:52,559 --> 01:01:54,559
+Let's make this episode
+
+1555
+01:01:54,559 --> 01:01:56,559
+in order.
+
+1556
+01:01:56,559 --> 01:01:58,559
+Let's make this episode
+
+1557
+01:01:58,559 --> 01:02:00,559
+now.
+
+1558
+01:02:00,559 --> 01:02:02,559
+Maybe we can discuss
+
+1559
+01:02:02,559 --> 01:02:04,559
+CyberPipa with Šanko.
+
+1560
+01:02:04,559 --> 01:02:06,559
+Are you afraid that it will be the last one?
+
+1561
+01:02:06,559 --> 01:02:08,559
+My attitude is always like that.
+
+1562
+01:02:08,559 --> 01:02:10,559
+When I look at it,
+
+1563
+01:02:10,559 --> 01:02:12,559
+it doesn't matter.
+
+1564
+01:02:12,559 --> 01:02:14,559
+Now we have to do it.
+
+1565
+01:02:14,559 --> 01:02:16,559
+Everything has to be done well.
+
+1566
+01:02:16,640 --> 01:02:18,640
+You always worry that it won't be.
+
+1567
+01:02:18,640 --> 01:02:20,640
+I always think about it.
+
+1568
+01:02:20,640 --> 01:02:22,640
+But now you talk
+
+1569
+01:02:22,640 --> 01:02:24,640
+as if it's a dream.
+
+1570
+01:02:24,640 --> 01:02:26,640
+Yes, it's a dream.
+
+1571
+01:02:26,640 --> 01:02:28,640
+We are here, in space, in time.
+
+1572
+01:02:28,640 --> 01:02:30,640
+I don't own the field.
+
+1573
+01:02:30,640 --> 01:02:32,640
+No.
+
+1574
+01:02:32,640 --> 01:02:34,640
+Let's talk about it.
+
+1575
+01:02:34,640 --> 01:02:36,640
+We have
+
+1576
+01:02:36,640 --> 01:02:38,640
+a strategy.
+
+1577
+01:02:38,640 --> 01:02:40,640
+It's a document.
+
+1578
+01:02:40,640 --> 01:02:42,640
+If you go to ogrodi.si
+
+1579
+01:02:42,640 --> 01:02:44,640
+you will get a new design.
+
+1580
+01:02:44,719 --> 01:02:46,719
+There is a tab called strategy.
+
+1581
+01:02:46,719 --> 01:02:48,719
+It's written there.
+
+1582
+01:02:48,719 --> 01:02:50,719
+We have one document.
+
+1583
+01:02:50,719 --> 01:02:52,719
+You can see it by the links in ogrodi.si.
+
+1584
+01:02:52,719 --> 01:02:54,719
+Yes, everything is in ogrodi.si.
+
+1585
+01:02:54,719 --> 01:02:56,719
+I don't know if people have changed it.
+
+1586
+01:02:56,719 --> 01:02:58,719
+It's the only document
+
+1587
+01:02:58,719 --> 01:03:00,719
+that exists in Grodno.
+
+1588
+01:03:00,719 --> 01:03:02,719
+We have written it.
+
+1589
+01:03:02,719 --> 01:03:04,719
+It's a manifesto.
+
+1590
+01:03:04,719 --> 01:03:06,719
+We are keeping it.
+
+1591
+01:03:06,719 --> 01:03:08,719
+We have updated it.
+
+1592
+01:03:08,719 --> 01:03:10,719
+But
+
+1593
+01:03:10,719 --> 01:03:12,719
+it's very important.
+
+1594
+01:03:12,799 --> 01:03:14,799
+Because
+
+1595
+01:03:14,799 --> 01:03:16,799
+it's a contract
+
+1596
+01:03:16,799 --> 01:03:18,799
+between us.
+
+1597
+01:03:18,799 --> 01:03:20,799
+Why do we do it?
+
+1598
+01:03:20,799 --> 01:03:22,799
+What are the values?
+
+1599
+01:03:22,799 --> 01:03:24,799
+Where are we together?
+
+1600
+01:03:24,799 --> 01:03:26,799
+For whom
+
+1601
+01:03:26,799 --> 01:03:28,799
+will we do it?
+
+1602
+01:03:28,799 --> 01:03:30,799
+Where does it go?
+
+1603
+01:03:30,799 --> 01:03:32,799
+Now we have to update it
+
+1604
+01:03:32,799 --> 01:03:34,799
+because the vest is getting older.
+
+1605
+01:03:34,799 --> 01:03:36,799
+But
+
+1606
+01:03:36,799 --> 01:03:38,799
+it's changing.
+
+1607
+01:03:38,799 --> 01:03:40,799
+It's growing.
+
+1608
+01:03:40,880 --> 01:03:42,880
+If you can say
+
+1609
+01:03:42,880 --> 01:03:44,880
+what you are proposing
+
+1610
+01:03:44,880 --> 01:03:46,880
+it's not related to
+
+1611
+01:03:46,880 --> 01:03:48,880
+values or strategies
+
+1612
+01:03:48,880 --> 01:03:50,880
+that we have established.
+
+1613
+01:03:50,880 --> 01:03:52,880
+Now we will evolve
+
+1614
+01:03:52,880 --> 01:03:54,880
+against those values
+
+1615
+01:03:54,880 --> 01:03:56,880
+or we will go somewhere else.
+
+1616
+01:03:56,880 --> 01:03:58,880
+Or we will change the strategy.
+
+1617
+01:03:58,880 --> 01:04:00,880
+But it's good
+
+1618
+01:04:00,880 --> 01:04:02,880
+that you have the same people.
+
+1619
+01:04:02,880 --> 01:04:04,880
+After this episode
+
+1620
+01:04:04,880 --> 01:04:06,880
+we will record something a bit different.
+
+1621
+01:04:06,880 --> 01:04:08,880
+A bit different?
+
+1622
+01:04:08,960 --> 01:04:10,960
+It's easy
+
+1623
+01:04:10,960 --> 01:04:12,960
+to do it.
+
+1624
+01:04:12,960 --> 01:04:14,960
+It looks like
+
+1625
+01:04:14,960 --> 01:04:16,960
+you are a Zen monster.
+
+1626
+01:04:16,960 --> 01:04:18,960
+But
+
+1627
+01:04:18,960 --> 01:04:20,960
+this is
+
+1628
+01:04:20,960 --> 01:04:22,960
+a strategy.
+
+1629
+01:04:22,960 --> 01:04:24,960
+This is a reward for doing a reward.
+
+1630
+01:04:24,960 --> 01:04:26,960
+So this is
+
+1631
+01:04:26,960 --> 01:04:28,960
+a Zen monster.
+
+1632
+01:04:28,960 --> 01:04:30,960
+Next question.
+
+1633
+01:04:30,960 --> 01:04:32,960
+Jan told me
+
+1634
+01:04:32,960 --> 01:04:34,960
+how much time we have left.
+
+1635
+01:04:34,960 --> 01:04:36,960
+Do we have SD cards again?
+
+1636
+01:04:37,039 --> 01:04:39,039
+I don't know.
+
+1637
+01:04:39,039 --> 01:04:41,039
+We have people locked in a cage.
+
+1638
+01:04:41,039 --> 01:04:43,039
+They can order
+
+1639
+01:04:43,039 --> 01:04:45,039
+or get married.
+
+1640
+01:04:45,039 --> 01:04:47,039
+Ok.
+
+1641
+01:04:47,039 --> 01:04:49,039
+Ok.
+
+1642
+01:04:49,039 --> 01:04:51,039
+This question is still in the chat
+
+1643
+01:04:51,039 --> 01:04:53,039
+and it says
+
+1644
+01:04:53,039 --> 01:04:55,039
+Do you think that
+
+1645
+01:04:55,039 --> 01:04:57,039
+a community funded way of support
+
+1646
+01:04:57,039 --> 01:04:59,039
+is possible in Slovenia?
+
+1647
+01:04:59,039 --> 01:05:01,039
+Yes.
+
+1648
+01:05:01,039 --> 01:05:03,039
+Are you a community funded?
+
+1649
+01:05:03,039 --> 01:05:05,039
+Are you?
+
+1650
+01:05:05,119 --> 01:05:07,119
+No.
+
+1651
+01:05:07,119 --> 01:05:09,119
+We are not a community funded.
+
+1652
+01:05:09,119 --> 01:05:11,119
+Did you think about it?
+
+1653
+01:05:11,119 --> 01:05:13,119
+We are.
+
+1654
+01:05:13,119 --> 01:05:15,119
+More than once.
+
+1655
+01:05:15,119 --> 01:05:17,119
+More than once
+
+1656
+01:05:17,119 --> 01:05:19,119
+we were locked in a cage.
+
+1657
+01:05:19,119 --> 01:05:21,119
+Maybe more time for pressure
+
+1658
+01:05:21,119 --> 01:05:23,119
+or that so many things happened in our lives
+
+1659
+01:05:23,119 --> 01:05:25,119
+that we didn't take a step forward
+
+1660
+01:05:25,119 --> 01:05:27,119
+and formalize it.
+
+1661
+01:05:27,119 --> 01:05:29,119
+You have Patreon.
+
+1662
+01:05:29,119 --> 01:05:31,119
+Community funded.
+
+1663
+01:05:31,119 --> 01:05:33,119
+We needed a lot of time
+
+1664
+01:05:33,200 --> 01:05:35,200
+for that.
+
+1665
+01:05:35,200 --> 01:05:37,200
+We had to talk about it.
+
+1666
+01:05:37,200 --> 01:05:39,200
+For a long time.
+
+1667
+01:05:39,200 --> 01:05:41,200
+Struggles.
+
+1668
+01:05:41,200 --> 01:05:43,200
+But if you are a community funded
+
+1669
+01:05:43,200 --> 01:05:45,200
+then you can be a community funded.
+
+1670
+01:05:45,200 --> 01:05:47,200
+Exactly.
+
+1671
+01:05:47,200 --> 01:05:49,200
+It sounds trivial
+
+1672
+01:05:49,200 --> 01:05:51,200
+but
+
+1673
+01:05:51,200 --> 01:05:53,200
+then it means
+
+1674
+01:05:53,200 --> 01:05:55,200
+that from someone
+
+1675
+01:05:55,200 --> 01:05:57,200
+for the story you produce
+
+1676
+01:05:57,200 --> 01:05:59,200
+you get something.
+
+1677
+01:05:59,200 --> 01:06:01,200
+And before that
+
+1678
+01:06:01,280 --> 01:06:03,280
+it is
+
+1679
+01:06:03,280 --> 01:06:05,280
+very important
+
+1680
+01:06:05,280 --> 01:06:07,280
+because it validates
+
+1681
+01:06:07,280 --> 01:06:09,280
+that what we do today
+
+1682
+01:06:09,280 --> 01:06:11,280
+brings so much value
+
+1683
+01:06:11,280 --> 01:06:13,280
+that people are ready to pay for it.
+
+1684
+01:06:13,280 --> 01:06:15,280
+From a product perspective.
+
+1685
+01:06:15,280 --> 01:06:17,280
+You can see
+
+1686
+01:06:17,280 --> 01:06:19,280
+that it is not so much value
+
+1687
+01:06:19,280 --> 01:06:21,280
+but just for you to start
+
+1688
+01:06:21,280 --> 01:06:23,280
+people are ready to support you.
+
+1689
+01:06:23,280 --> 01:06:25,280
+Yes.
+
+1690
+01:06:25,280 --> 01:06:27,280
+I can imagine
+
+1691
+01:06:27,280 --> 01:06:29,280
+when people say
+
+1692
+01:06:29,359 --> 01:06:31,359
+that they are just starting
+
+1693
+01:06:31,359 --> 01:06:33,359
+but I will give them more.
+
+1694
+01:06:33,359 --> 01:06:35,359
+And they are not so unprepared
+
+1695
+01:06:35,359 --> 01:06:37,359
+but they do what they do
+
+1696
+01:06:37,359 --> 01:06:39,359
+and I think it is a good thing.
+
+1697
+01:06:39,359 --> 01:06:41,359
+That it brings so much value.
+
+1698
+01:06:41,359 --> 01:06:43,359
+You have a lot of disposable income
+
+1699
+01:06:43,359 --> 01:06:45,359
+so why not give it to them
+
+1700
+01:06:45,359 --> 01:06:47,359
+and ask for it.
+
+1701
+01:06:47,359 --> 01:06:49,359
+I always think
+
+1702
+01:06:49,359 --> 01:06:51,359
+that just before I publish an episode
+
+1703
+01:06:51,359 --> 01:06:53,359
+and before I press send, upload, publish
+
+1704
+01:06:53,359 --> 01:06:55,359
+it would be great
+
+1705
+01:06:55,359 --> 01:06:57,359
+if someone else did it
+
+1706
+01:06:57,440 --> 01:06:59,440
+just for 5 euros.
+
+1707
+01:06:59,440 --> 01:07:01,440
+If I was just
+
+1708
+01:07:01,440 --> 01:07:03,440
+a subscriber,
+
+1709
+01:07:03,440 --> 01:07:05,439
+someone else would do it
+
+1710
+01:07:05,439 --> 01:07:07,439
+and I would just subscribe.
+
+1711
+01:07:07,439 --> 01:07:09,439
+Then it would be great.
+
+1712
+01:07:09,439 --> 01:07:11,439
+Who wouldn't?
+
+1713
+01:07:11,439 --> 01:07:13,439
+But
+
+1714
+01:07:15,439 --> 01:07:17,439
+I think
+
+1715
+01:07:17,439 --> 01:07:19,439
+there are
+
+1716
+01:07:19,439 --> 01:07:21,439
+5 of us
+
+1717
+01:07:21,439 --> 01:07:23,439
+in this story
+
+1718
+01:07:23,439 --> 01:07:25,439
+and if in the beginning we were minus
+
+1719
+01:07:25,520 --> 01:07:27,520
+we were working
+
+1720
+01:07:27,520 --> 01:07:29,520
+in our own way
+
+1721
+01:07:29,520 --> 01:07:31,520
+and then we came a bit closer
+
+1722
+01:07:31,520 --> 01:07:33,520
+to nothing
+
+1723
+01:07:33,520 --> 01:07:35,520
+we are not over nothing yet.
+
+1724
+01:07:35,520 --> 01:07:37,520
+A lot of the equipment
+
+1725
+01:07:37,520 --> 01:07:39,520
+is disposable
+
+1726
+01:07:39,520 --> 01:07:41,520
+we drive on our own gas
+
+1727
+01:07:41,520 --> 01:07:43,520
+we have our own electricity
+
+1728
+01:07:43,520 --> 01:07:45,520
+a lot of that.
+
+1729
+01:07:45,520 --> 01:07:47,520
+So
+
+1730
+01:07:47,520 --> 01:07:49,520
+if you want to have
+
+1731
+01:07:49,520 --> 01:07:51,520
+equipment production
+
+1732
+01:07:51,520 --> 01:07:53,520
+you will pay a lot
+
+1733
+01:07:53,599 --> 01:07:55,599
+so
+
+1734
+01:07:55,599 --> 01:07:57,599
+this production costs
+
+1735
+01:07:57,599 --> 01:07:59,599
+we don't work for free
+
+1736
+01:07:59,599 --> 01:08:01,599
+we don't pay for anything
+
+1737
+01:08:01,599 --> 01:08:03,599
+even if it looks like a top sheet
+
+1738
+01:08:05,599 --> 01:08:07,599
+that part is very expensive
+
+1739
+01:08:07,599 --> 01:08:09,599
+especially if you don't
+
+1740
+01:08:09,599 --> 01:08:11,599
+count the time we put in
+
+1741
+01:08:11,599 --> 01:08:13,599
+and the energy
+
+1742
+01:08:13,599 --> 01:08:15,599
+and the waste.
+
+1743
+01:08:15,599 --> 01:08:17,599
+That's an interesting factor
+
+1744
+01:08:17,599 --> 01:08:19,599
+because we know how to calculate
+
+1745
+01:08:19,599 --> 01:08:21,599
+the time and we didn't count our own
+
+1746
+01:08:21,680 --> 01:08:23,680
+because that's a lot of money.
+
+1747
+01:08:23,680 --> 01:08:25,680
+The streets
+
+1748
+01:08:25,680 --> 01:08:27,680
+work according to the same principle
+
+1749
+01:08:27,680 --> 01:08:29,680
+we have been volunteering for 14 years
+
+1750
+01:08:29,680 --> 01:08:31,680
+so
+
+1751
+01:08:31,680 --> 01:08:33,680
+once a street vendor
+
+1752
+01:08:33,680 --> 01:08:35,680
+didn't get a salary
+
+1753
+01:08:35,680 --> 01:08:37,680
+once one of us didn't pay the salary
+
+1754
+01:08:37,680 --> 01:08:39,680
+those burgers that you all eat at the end of the season
+
+1755
+01:08:39,680 --> 01:08:41,680
+we cover
+
+1756
+01:08:41,680 --> 01:08:43,680
+our own pockets
+
+1757
+01:08:43,680 --> 01:08:45,680
+we paid a lot
+
+1758
+01:08:45,680 --> 01:08:47,680
+for a few things
+
+1759
+01:08:47,680 --> 01:08:49,680
+we have very nice supporters
+
+1760
+01:08:49,760 --> 01:08:51,760
+friends
+
+1761
+01:08:51,760 --> 01:08:53,760
+that help us
+
+1762
+01:08:53,760 --> 01:08:55,760
+pay for the space
+
+1763
+01:08:55,760 --> 01:08:57,760
+we have our own equipment
+
+1764
+01:08:57,760 --> 01:08:59,760
+time and energy
+
+1765
+01:08:59,760 --> 01:09:01,760
+are the things that
+
+1766
+01:09:01,760 --> 01:09:03,760
+drive the initiative forward
+
+1767
+01:09:03,760 --> 01:09:05,760
+yes,
+
+1768
+01:09:05,760 --> 01:09:07,760
+there could be community funded
+
+1769
+01:09:07,760 --> 01:09:09,760
+options
+
+1770
+01:09:09,760 --> 01:09:11,760
+but it requires a lot
+
+1771
+01:09:11,760 --> 01:09:13,760
+of administrative and bureaucratic work
+
+1772
+01:09:13,760 --> 01:09:15,760
+especially
+
+1773
+01:09:15,760 --> 01:09:17,760
+the mental pressure
+
+1774
+01:09:17,839 --> 01:09:19,839
+the pressure to deliver
+
+1775
+01:09:19,839 --> 01:09:21,839
+I know
+
+1776
+01:09:21,839 --> 01:09:23,839
+you probably go back to
+
+1777
+01:09:23,839 --> 01:09:25,839
+the commitment
+
+1778
+01:09:25,839 --> 01:09:27,839
+if you eat yourself
+
+1779
+01:09:27,839 --> 01:09:29,839
+DIY
+
+1780
+01:09:29,839 --> 01:09:31,839
+concept
+
+1781
+01:09:31,839 --> 01:09:33,839
+help us
+
+1782
+01:09:33,839 --> 01:09:35,839
+what will you deliver
+
+1783
+01:09:35,839 --> 01:09:37,839
+we will try our best
+
+1784
+01:09:37,839 --> 01:09:39,839
+it can be a war
+
+1785
+01:09:39,839 --> 01:09:41,839
+and if that's the expectation
+
+1786
+01:09:41,839 --> 01:09:43,839
+that can happen
+
+1787
+01:09:43,839 --> 01:09:45,839
+you probably don't give a fuck
+
+1788
+01:09:45,920 --> 01:09:47,839
+we will constantly
+
+1789
+01:09:47,839 --> 01:09:49,839
+work on that level
+
+1790
+01:09:49,839 --> 01:09:51,839
+and if you realize
+
+1791
+01:09:51,839 --> 01:09:53,839
+that it's the bare minimum
+
+1792
+01:09:53,839 --> 01:09:55,839
+and you expect
+
+1793
+01:09:55,839 --> 01:09:57,839
+that it will be constant
+
+1794
+01:09:57,839 --> 01:09:59,839
+then it's not a problem
+
+1795
+01:09:59,839 --> 01:10:01,839
+we already had those difficulties
+
+1796
+01:10:01,839 --> 01:10:03,839
+when we were filming
+
+1797
+01:10:03,839 --> 01:10:05,839
+during the pandemic
+
+1798
+01:10:05,839 --> 01:10:07,839
+when we had Zoom calls
+
+1799
+01:10:07,839 --> 01:10:09,839
+and then everyone
+
+1800
+01:10:09,839 --> 01:10:11,839
+was watching
+
+1801
+01:10:11,839 --> 01:10:13,839
+a little before the pandemic
+
+1802
+01:10:13,839 --> 01:10:15,839
+if you remember
+
+1803
+01:10:15,839 --> 01:10:17,839
+correct me if I'm wrong
+
+1804
+01:10:17,839 --> 01:10:19,839
+a couple of months
+
+1805
+01:10:19,839 --> 01:10:21,839
+5-6 months before the pandemic
+
+1806
+01:10:21,839 --> 01:10:23,839
+we started with some
+
+1807
+01:10:23,839 --> 01:10:25,839
+streams
+
+1808
+01:10:25,839 --> 01:10:27,839
+and some
+
+1809
+01:10:27,839 --> 01:10:29,839
+uploads
+
+1810
+01:10:29,839 --> 01:10:31,839
+but it was very simple
+
+1811
+01:10:31,839 --> 01:10:33,839
+we had one old phone
+
+1812
+01:10:33,839 --> 01:10:35,839
+that no one used
+
+1813
+01:10:35,839 --> 01:10:37,839
+one cheap tripod
+
+1814
+01:10:37,839 --> 01:10:39,839
+we put it in the toilet
+
+1815
+01:10:39,839 --> 01:10:41,839
+the toilet had
+
+1816
+01:10:41,839 --> 01:10:43,839
+no sound
+
+1817
+01:10:43,839 --> 01:10:45,839
+so we just
+
+1818
+01:10:45,839 --> 01:10:47,839
+put a cable in the phone
+
+1819
+01:10:47,839 --> 01:10:49,839
+and it was editing
+
+1820
+01:10:49,839 --> 01:10:51,839
+and uploading
+
+1821
+01:10:51,839 --> 01:10:53,839
+and then everyone
+
+1822
+01:10:53,839 --> 01:10:55,839
+wanted to have
+
+1823
+01:10:55,839 --> 01:10:57,839
+a production
+
+1824
+01:10:57,839 --> 01:10:59,839
+and we were thinking
+
+1825
+01:10:59,839 --> 01:11:01,839
+what if we make a company
+
+1826
+01:11:01,839 --> 01:11:03,839
+and get some money
+
+1827
+01:11:03,839 --> 01:11:05,839
+then we can get a better phone
+
+1828
+01:11:05,839 --> 01:11:07,839
+or a camera
+
+1829
+01:11:07,839 --> 01:11:09,839
+microphones
+
+1830
+01:11:09,839 --> 01:11:11,839
+a mini setup
+
+1831
+01:11:11,839 --> 01:11:13,839
+so we can film
+
+1832
+01:11:13,839 --> 01:11:15,839
+it's not because
+
+1833
+01:11:15,839 --> 01:11:17,839
+we are serving
+
+1834
+01:11:17,839 --> 01:11:19,839
+because we haven't been serving
+
+1835
+01:11:19,839 --> 01:11:21,839
+for 13 years
+
+1836
+01:11:21,839 --> 01:11:23,839
+it's because we want
+
+1837
+01:11:23,839 --> 01:11:25,839
+people who come
+
+1838
+01:11:25,839 --> 01:11:27,839
+and take time
+
+1839
+01:11:27,839 --> 01:11:29,839
+we want to give them
+
+1840
+01:11:29,839 --> 01:11:31,839
+something good
+
+1841
+01:11:31,839 --> 01:11:33,839
+a good product
+
+1842
+01:11:33,839 --> 01:11:35,839
+to have some value
+
+1843
+01:11:35,839 --> 01:11:37,839
+I think
+
+1844
+01:11:37,839 --> 01:11:39,839
+it's very important
+
+1845
+01:11:39,839 --> 01:11:41,839
+if one of those
+
+1846
+01:11:41,839 --> 01:11:43,839
+people
+
+1847
+01:11:43,839 --> 01:11:45,839
+if it's a passion
+
+1848
+01:11:45,839 --> 01:11:47,839
+that interests them
+
+1849
+01:11:47,839 --> 01:11:49,839
+to stream
+
+1850
+01:11:49,839 --> 01:11:51,839
+for you it's 8k
+
+1851
+01:11:51,839 --> 01:11:53,839
+if it's for you
+
+1852
+01:11:53,839 --> 01:11:55,839
+then yes
+
+1853
+01:11:55,839 --> 01:11:57,839
+it's not like
+
+1854
+01:11:57,839 --> 01:11:59,839
+we'll do it
+
+1855
+01:11:59,839 --> 01:12:01,839
+because the audience expects it
+
+1856
+01:12:01,839 --> 01:12:03,839
+it kills
+
+1857
+01:12:03,839 --> 01:12:05,839
+the part
+
+1858
+01:12:05,839 --> 01:12:07,839
+that you are working on
+
+1859
+01:12:07,839 --> 01:12:09,839
+if it's for you
+
+1860
+01:12:09,839 --> 01:12:11,839
+it's probably for you
+
+1861
+01:12:11,839 --> 01:12:13,839
+because you saw the shape
+
+1862
+01:12:13,839 --> 01:12:15,839
+of the people
+
+1863
+01:12:15,839 --> 01:12:17,839
+to continue the story
+
+1864
+01:12:17,839 --> 01:12:19,839
+to be happy
+
+1865
+01:12:19,839 --> 01:12:21,839
+to get some topics
+
+1866
+01:12:21,839 --> 01:12:23,839
+and that's it
+
+1867
+01:12:23,839 --> 01:12:25,839
+if it's for you
+
+1868
+01:12:25,839 --> 01:12:27,839
+to have a 8k live stream
+
+1869
+01:12:27,839 --> 01:12:29,839
+then it would be
+
+1870
+01:12:29,839 --> 01:12:31,839
+it would be our duty
+
+1871
+01:12:31,839 --> 01:12:33,839
+to have a live stream
+
+1872
+01:12:33,839 --> 01:12:35,839
+I can now
+
+1873
+01:12:35,839 --> 01:12:37,839
+for the last few questions
+
+1874
+01:12:37,839 --> 01:12:39,839
+because we'll finish in a while
+
+1875
+01:12:39,839 --> 01:12:41,839
+is it cool for you?
+
+1876
+01:12:41,839 --> 01:12:43,839
+easy
+
+1877
+01:12:45,839 --> 01:12:47,839
+sometimes I have wet wishes
+
+1878
+01:12:47,839 --> 01:12:49,839
+and sometimes wet dreams
+
+1879
+01:12:49,839 --> 01:12:51,839
+wet dreams and questions
+
+1880
+01:12:51,839 --> 01:12:53,839
+for both
+
+1881
+01:12:53,839 --> 01:12:55,839
+this question is for you
+
+1882
+01:12:55,839 --> 01:12:57,839
+no, I'll serve it to you
+
+1883
+01:12:57,839 --> 01:12:59,839
+warm
+
+1884
+01:12:59,839 --> 01:13:01,839
+wet dreams and questions for you
+
+1885
+01:13:01,839 --> 01:13:03,839
+what would you like to see in Grodje in a few years?
+
+1886
+01:13:07,839 --> 01:13:09,839
+I don't know if it's written like that
+
+1887
+01:13:09,839 --> 01:13:11,839
+wet dreams
+
+1888
+01:13:13,839 --> 01:13:15,839
+here it's so clear
+
+1889
+01:13:15,839 --> 01:13:17,839
+maybe more from myself
+
+1890
+01:13:17,839 --> 01:13:19,839
+not from the whole team
+
+1891
+01:13:19,839 --> 01:13:21,839
+in Grodje
+
+1892
+01:13:21,839 --> 01:13:23,839
+but I especially see
+
+1893
+01:13:23,839 --> 01:13:25,839
+from that
+
+1894
+01:13:25,839 --> 01:13:27,839
+manifest
+
+1895
+01:13:27,839 --> 01:13:29,839
+that
+
+1896
+01:13:29,839 --> 01:13:31,839
+it's
+
+1897
+01:13:31,839 --> 01:13:33,839
+a connection
+
+1898
+01:13:33,839 --> 01:13:35,839
+that helps
+
+1899
+01:13:35,839 --> 01:13:37,839
+the individuals
+
+1900
+01:13:37,839 --> 01:13:39,839
+in Slovenia
+
+1901
+01:13:39,839 --> 01:13:41,839
+to do something good
+
+1902
+01:13:41,839 --> 01:13:43,839
+and write those stories
+
+1903
+01:13:43,839 --> 01:13:45,839
+that
+
+1904
+01:13:45,839 --> 01:13:47,839
+we can be something else
+
+1905
+01:13:47,839 --> 01:13:49,839
+in some other year
+
+1906
+01:13:49,839 --> 01:13:51,839
+or that year
+
+1907
+01:13:51,839 --> 01:13:53,839
+or in some other beer
+
+1908
+01:13:53,839 --> 01:13:55,839
+and say
+
+1909
+01:13:55,839 --> 01:13:57,839
+10-15 years ago
+
+1910
+01:13:57,839 --> 01:13:59,839
+it was good
+
+1911
+01:13:59,839 --> 01:14:01,839
+I think that
+
+1912
+01:14:01,839 --> 01:14:03,839
+it's
+
+1913
+01:14:03,839 --> 01:14:05,839
+I never
+
+1914
+01:14:05,839 --> 01:14:07,839
+never
+
+1915
+01:14:07,839 --> 01:14:09,839
+in meetups and events
+
+1916
+01:14:09,839 --> 01:14:11,839
+that I do now
+
+1917
+01:14:11,839 --> 01:14:13,839
+I value more
+
+1918
+01:14:13,839 --> 01:14:15,839
+quality of content
+
+1919
+01:14:15,839 --> 01:14:17,839
+than quantity
+
+1920
+01:14:17,839 --> 01:14:19,839
+how many people watched
+
+1921
+01:14:19,839 --> 01:14:21,839
+how many people came to watch
+
+1922
+01:14:21,839 --> 01:14:23,839
+it doesn't matter to me
+
+1923
+01:14:23,839 --> 01:14:25,839
+and I think that
+
+1924
+01:14:25,839 --> 01:14:27,839
+if it will
+
+1925
+01:14:27,839 --> 01:14:29,839
+leave a mark
+
+1926
+01:14:29,839 --> 01:14:31,839
+that it was
+
+1927
+01:14:31,839 --> 01:14:33,839
+a good event
+
+1928
+01:14:33,839 --> 01:14:35,839
+we connected
+
+1929
+01:14:35,839 --> 01:14:37,839
+I don't know
+
+1930
+01:14:37,839 --> 01:14:39,839
+if we connected
+
+1931
+01:14:39,839 --> 01:14:41,839
+two people at the other end
+
+1932
+01:14:41,839 --> 01:14:43,839
+of Slovenia
+
+1933
+01:14:43,839 --> 01:14:45,839
+two different communities
+
+1934
+01:14:45,839 --> 01:14:47,839
+to find
+
+1935
+01:14:47,839 --> 01:14:49,839
+a new startup
+
+1936
+01:14:49,839 --> 01:14:51,839
+a new company
+
+1937
+01:14:51,839 --> 01:14:53,839
+or a new community
+
+1938
+01:14:53,839 --> 01:14:55,839
+Thank you very much, Ilona
+
+1939
+01:14:57,839 --> 01:14:59,839
+Yes
+
+1940
+01:15:00,000 --> 01:15:06,000
+Same question for you, for Spletna Urica.
+
+1941
+01:15:06,000 --> 01:15:08,000
+I thought you were going to say it for Grodje.
+
+1942
+01:15:08,000 --> 01:15:10,000
+No, for Grodje.
+
+1943
+01:15:10,000 --> 01:15:12,000
+Let's try it one at a time.
+
+1944
+01:15:12,000 --> 01:15:18,000
+When I see Spletna Urica in a couple of years, 5, 10, 15, how old are we?
+
+1945
+01:15:18,000 --> 01:15:20,000
+It says wet dreams.
+
+1946
+01:15:20,000 --> 01:15:22,000
+Wet dreams.
+
+1947
+01:15:22,000 --> 01:15:24,000
+It's easy even today.
+
+1948
+01:15:24,000 --> 01:15:40,000
+I see Spletna Urica not as a physical space, but a space that gives young people opportunities.
+
+1949
+01:15:40,000 --> 01:15:52,000
+I always ask myself, if there was no Urica and no space for a young, ambitious,
+
+1950
+01:15:52,000 --> 01:16:00,000
+with a head full of hair, Blinder, I wouldn't have a career in IT, I wouldn't have met these people.
+
+1951
+01:16:00,000 --> 01:16:06,000
+A lot of stories have been born before and after Shank.
+
+1952
+01:16:06,000 --> 01:16:16,000
+To have a space, an independent space, where anyone interested in technology,
+
+1953
+01:16:16,000 --> 01:16:22,000
+and in the world of technology, can satisfy their curiosity.
+
+1954
+01:16:22,000 --> 01:16:24,000
+That's what I see.
+
+1955
+01:16:24,000 --> 01:16:26,000
+In what form?
+
+1956
+01:16:26,000 --> 01:16:28,000
+We'll see.
+
+1957
+01:16:28,000 --> 01:16:32,000
+It's a living organism, it's constantly changing.
+
+1958
+01:16:32,000 --> 01:16:34,000
+So, that's it.
+
+1959
+01:16:34,000 --> 01:16:36,000
+Great.
+
+1960
+01:16:36,000 --> 01:16:38,000
+I hope...
+
+1961
+01:16:40,000 --> 01:16:42,000
+Do you have a tip for wet dreams?
+
+1962
+01:16:44,000 --> 01:16:48,000
+I told you, choose a strategy from what you wrote.
+
+1963
+01:16:48,000 --> 01:16:50,000
+Ah, that's it.
+
+1964
+01:16:50,000 --> 01:16:52,000
+Strategies for wet dreams.
+
+1965
+01:16:52,000 --> 01:16:54,000
+Strategies for wet dreams.
+
+1966
+01:16:58,000 --> 01:17:00,000
+That's it.
+
+1967
+01:17:00,000 --> 01:17:06,000
+Be this layer, this framework, so we can sustainably build these stories,
+
+1968
+01:17:06,000 --> 01:17:08,000
+so we can pass them on,
+
+1969
+01:17:08,000 --> 01:17:14,000
+so we can build a strong community of people with similar ambitions,
+
+1970
+01:17:14,000 --> 01:17:16,000
+who work in this space,
+
+1971
+01:17:16,000 --> 01:17:18,000
+and who can tell their stories,
+
+1972
+01:17:18,000 --> 01:17:20,000
+and who can tell their stories,
+
+1973
+01:17:20,000 --> 01:17:22,000
+so that someone from across the world,
+
+1974
+01:17:22,000 --> 01:17:24,000
+from some village,
+
+1975
+01:17:24,000 --> 01:17:26,000
+can come and work in Google,
+
+1976
+01:17:26,000 --> 01:17:28,000
+and in your phone,
+
+1977
+01:17:28,000 --> 01:17:30,000
+and in the whole world,
+
+1978
+01:17:30,000 --> 01:17:34,000
+so that we have good engineering in Slovenia,
+
+1979
+01:17:34,000 --> 01:17:38,000
+so that we know how to build products in Slovenia,
+
+1980
+01:17:38,000 --> 01:17:42,000
+so that we are as good as anywhere else,
+
+1981
+01:17:42,000 --> 01:17:46,000
+so that we can do this in any form,
+
+1982
+01:17:46,000 --> 01:17:50,000
+where media is not important,
+
+1983
+01:17:50,000 --> 01:17:52,000
+so that we can do this,
+
+1984
+01:17:52,000 --> 01:17:54,000
+because it will be fun,
+
+1985
+01:17:54,000 --> 01:17:56,000
+because we will be happy,
+
+1986
+01:17:56,000 --> 01:17:58,000
+because we will have some satisfaction from this,
+
+1987
+01:17:58,000 --> 01:18:00,000
+so that it will be good for us,
+
+1988
+01:18:00,000 --> 01:18:02,000
+and if it doesn't,
+
+1989
+01:18:02,000 --> 01:18:04,000
+then we will be OK.
+
+1990
+01:18:04,000 --> 01:18:06,000
+But, yeah...
+
+1991
+01:18:06,000 --> 01:18:12,000
+I don't know why we do this,
+
+1992
+01:18:12,000 --> 01:18:14,000
+and why we choose ourselves,
+
+1993
+01:18:14,000 --> 01:18:16,000
+but I always have this in my head,
+
+1994
+01:18:16,000 --> 01:18:18,000
+I don't know,
+
+1995
+01:18:18,000 --> 01:18:20,000
+you go to events,
+
+1996
+01:18:20,000 --> 01:18:24,000
+and then a shy first-year student comes up to you,
+
+1997
+01:18:24,000 --> 01:18:26,000
+and says, hey, I listened to all your episodes,
+
+1998
+01:18:26,000 --> 01:18:28,000
+it's great, I didn't know it was growing,
+
+1999
+01:18:28,000 --> 01:18:30,000
+and then you see,
+
+2000
+01:18:30,000 --> 01:18:32,000
+you show them,
+
+2001
+01:18:32,000 --> 01:18:34,000
+hey, we are the same people,
+
+2002
+01:18:34,000 --> 01:18:36,000
+and then you see,
+
+2003
+01:18:36,000 --> 01:18:38,000
+it's a very reliable thing,
+
+2004
+01:18:38,000 --> 01:18:40,000
+I hope we can do it,
+
+2005
+01:18:40,000 --> 01:18:42,000
+something like that.
+
+2006
+01:18:42,000 --> 01:18:44,000
+I know, it's a lot of fun.
+
+2007
+01:18:46,000 --> 01:18:48,000
+Will you have any last questions?
+
+2008
+01:18:48,000 --> 01:18:50,000
+I don't know,
+
+2009
+01:18:50,000 --> 01:18:52,000
+what is the last question?
+
+2010
+01:18:52,000 --> 01:18:54,000
+Pepperoni or chili?
+
+2011
+01:18:56,000 --> 01:18:58,000
+That came up right away.
+
+2012
+01:18:58,000 --> 01:19:00,000
+And then there's the,
+
+2013
+01:19:00,000 --> 01:19:02,000
+let's stay away from the wet ones.
+
+2014
+01:19:02,000 --> 01:19:04,000
+So,
+
+2015
+01:19:04,000 --> 01:19:06,000
+content creation
+
+2016
+01:19:06,000 --> 01:19:08,000
+was probably
+
+2017
+01:19:08,000 --> 01:19:10,000
+a little bit more for us,
+
+2018
+01:19:10,000 --> 01:19:12,000
+but it's all connected.
+
+2019
+01:19:14,000 --> 01:19:16,000
+How important is the creation
+
+2020
+01:19:16,000 --> 01:19:18,000
+of a person, blog, video,
+
+2021
+01:19:18,000 --> 01:19:20,000
+for an individual programmer,
+
+2022
+01:19:20,000 --> 01:19:22,000
+or for his career?
+
+2023
+01:19:24,000 --> 01:19:26,000
+And then we can connect it somehow.
+
+2024
+01:19:26,000 --> 01:19:28,000
+How important is
+
+2025
+01:19:28,000 --> 01:19:30,000
+the creation of a person today?
+
+2026
+01:19:30,000 --> 01:19:32,000
+And content, and video,
+
+2027
+01:19:32,000 --> 01:19:34,000
+and tutorials, and everything.
+
+2028
+01:19:34,000 --> 01:19:36,000
+I think that
+
+2029
+01:19:36,000 --> 01:19:38,000
+everything that
+
+2030
+01:19:38,000 --> 01:19:40,000
+relates to content,
+
+2031
+01:19:40,000 --> 01:19:42,000
+if you want to prosper
+
+2032
+01:19:42,000 --> 01:19:44,000
+somewhere,
+
+2033
+01:19:44,000 --> 01:19:46,000
+at the beginning of your career,
+
+2034
+01:19:46,000 --> 01:19:48,000
+you already gained some knowledge,
+
+2035
+01:19:48,000 --> 01:19:50,000
+probably because
+
+2036
+01:19:50,000 --> 01:19:52,000
+people call you,
+
+2037
+01:19:52,000 --> 01:19:54,000
+so you can sell yourself.
+
+2038
+01:19:54,000 --> 01:19:56,000
+Try to sell as much as possible at conferences,
+
+2039
+01:19:56,000 --> 01:19:58,000
+show up as much as possible,
+
+2040
+01:19:58,000 --> 01:20:00,000
+try to transfer
+
+2041
+01:20:00,000 --> 01:20:02,000
+that knowledge forward,
+
+2042
+01:20:02,000 --> 01:20:04,000
+because in this way
+
+2043
+01:20:04,000 --> 01:20:06,000
+you increase your credibility,
+
+2044
+01:20:06,000 --> 01:20:08,000
+you learn more,
+
+2045
+01:20:08,000 --> 01:20:10,000
+even if they tell you
+
+2046
+01:20:10,000 --> 01:20:12,000
+that you're not good enough.
+
+2047
+01:20:12,000 --> 01:20:14,000
+It's also a kind of learning.
+
+2048
+01:20:14,000 --> 01:20:16,000
+Definitely,
+
+2049
+01:20:16,000 --> 01:20:18,000
+to participate in the teaching.
+
+2050
+01:20:20,000 --> 01:20:22,000
+And if you're so good
+
+2051
+01:20:22,000 --> 01:20:24,000
+that you know what to write,
+
+2052
+01:20:24,000 --> 01:20:26,000
+and have your own personal blog,
+
+2053
+01:20:26,000 --> 01:20:28,000
+that's great.
+
+2054
+01:20:28,000 --> 01:20:30,000
+But if you're an influencer,
+
+2055
+01:20:30,000 --> 01:20:32,000
+and you need YouTube,
+
+2056
+01:20:32,000 --> 01:20:34,000
+I'm afraid that young people
+
+2057
+01:20:34,000 --> 01:20:36,000
+are lying to me,
+
+2058
+01:20:36,000 --> 01:20:38,000
+that they are used to
+
+2059
+01:20:38,000 --> 01:20:40,000
+being in front of the camera,
+
+2060
+01:20:40,000 --> 01:20:42,000
+and talking to themselves.
+
+2061
+01:20:42,000 --> 01:20:44,000
+I don't know.
+
+2062
+01:20:44,000 --> 01:20:46,000
+Can I have a hot take on this topic?
+
+2063
+01:20:46,000 --> 01:20:48,000
+Yes, go ahead.
+
+2064
+01:20:48,000 --> 01:20:50,000
+I don't know,
+
+2065
+01:20:50,000 --> 01:20:52,000
+sometimes I say something
+
+2066
+01:20:52,000 --> 01:20:54,000
+and people look at me strangely.
+
+2067
+01:20:54,000 --> 01:20:56,000
+I think that we collectively
+
+2068
+01:20:56,000 --> 01:20:58,000
+brainwashed people
+
+2069
+01:20:58,000 --> 01:21:00,000
+with the idea
+
+2070
+01:21:00,000 --> 01:21:02,000
+that everything has to become
+
+2071
+01:21:02,000 --> 01:21:04,000
+a content production machine.
+
+2072
+01:21:04,000 --> 01:21:06,000
+Anyway,
+
+2073
+01:21:06,000 --> 01:21:08,000
+as anyone who works in IT,
+
+2074
+01:21:08,000 --> 01:21:10,000
+not just a developer,
+
+2075
+01:21:10,000 --> 01:21:12,000
+you spend a lot of time
+
+2076
+01:21:12,000 --> 01:21:14,000
+and brain energy
+
+2077
+01:21:14,000 --> 01:21:16,000
+to break down complex problems
+
+2078
+01:21:16,000 --> 01:21:18,000
+into smaller ones,
+
+2079
+01:21:18,000 --> 01:21:20,000
+and then put them
+
+2080
+01:21:20,000 --> 01:21:22,000
+together in a mosaic.
+
+2081
+01:21:22,000 --> 01:21:24,000
+And now,
+
+2082
+01:21:24,000 --> 01:21:26,000
+I think it's not fair
+
+2083
+01:21:26,000 --> 01:21:28,000
+to expect that
+
+2084
+01:21:28,000 --> 01:21:30,000
+you'll have your own blog
+
+2085
+01:21:30,000 --> 01:21:32,000
+and produce a certain amount of content.
+
+2086
+01:21:32,000 --> 01:21:34,000
+Let's collectively
+
+2087
+01:21:34,000 --> 01:21:36,000
+not put
+
+2088
+01:21:36,000 --> 01:21:38,000
+any pressure
+
+2089
+01:21:38,000 --> 01:21:40,000
+on young people
+
+2090
+01:21:40,000 --> 01:21:42,000
+who are starting on this path.
+
+2091
+01:21:42,000 --> 01:21:44,000
+Self-pace.
+
+2092
+01:21:44,000 --> 01:21:46,000
+Do a good project,
+
+2093
+01:21:46,000 --> 01:21:48,000
+document it well,
+
+2094
+01:21:48,000 --> 01:21:50,000
+and post it
+
+2095
+01:21:50,000 --> 01:21:52,000
+so that it becomes
+
+2096
+01:21:52,000 --> 01:21:54,000
+a constant
+
+2097
+01:21:54,000 --> 01:21:56,000
+production for the content.
+
+2098
+01:21:58,000 --> 01:22:00,000
+You probably have to ask yourself
+
+2099
+01:22:00,000 --> 01:22:02,000
+what the endgame is.
+
+2100
+01:22:02,000 --> 01:22:04,000
+What would you achieve?
+
+2101
+01:22:04,000 --> 01:22:06,000
+Or would you just
+
+2102
+01:22:06,000 --> 01:22:08,000
+restrain yourself?
+
+2103
+01:22:08,000 --> 01:22:10,000
+I have the feeling
+
+2104
+01:22:10,000 --> 01:22:12,000
+that a lot happens
+
+2105
+01:22:12,000 --> 01:22:14,000
+when you look at bloggers,
+
+2106
+01:22:14,000 --> 01:22:16,000
+who are huge bloggers,
+
+2107
+01:22:16,000 --> 01:22:18,000
+until they reached
+
+2108
+01:22:18,000 --> 01:22:20,000
+the next level.
+
+2109
+01:22:20,000 --> 01:22:22,000
+Was it because they got a job?
+
+2110
+01:22:22,000 --> 01:22:24,000
+I remember
+
+2111
+01:22:24,000 --> 01:22:26,000
+a blogger
+
+2112
+01:22:26,000 --> 01:22:28,000
+who was very popular
+
+2113
+01:22:28,000 --> 01:22:30,000
+in Second Life.
+
+2114
+01:22:30,000 --> 01:22:32,000
+He got a shift
+
+2115
+01:22:32,000 --> 01:22:34,000
+in Second Life
+
+2116
+01:22:34,000 --> 01:22:36,000
+because he wrote
+
+2117
+01:22:36,000 --> 01:22:38,000
+the experience of Second Life,
+
+2118
+01:22:38,000 --> 01:22:40,000
+his blog, and so on.
+
+2119
+01:22:40,000 --> 01:22:42,000
+At the moment,
+
+2120
+01:22:42,000 --> 01:22:44,000
+there was not much
+
+2121
+01:22:44,000 --> 01:22:46,000
+in that blog.
+
+2122
+01:22:46,000 --> 01:22:48,000
+His endgame was
+
+2123
+01:22:48,000 --> 01:22:50,000
+how to get there.
+
+2124
+01:22:52,000 --> 01:22:54,000
+If someone
+
+2125
+01:22:54,000 --> 01:22:56,000
+was a super engineer
+
+2126
+01:22:56,000 --> 01:22:58,000
+and wanted to
+
+2127
+01:22:58,000 --> 01:23:00,000
+get to Google,
+
+2128
+01:23:00,000 --> 01:23:02,000
+maybe he would write
+
+2129
+01:23:02,000 --> 01:23:04,000
+a blog in algorithms
+
+2130
+01:23:04,000 --> 01:23:06,000
+and try to build
+
+2131
+01:23:06,000 --> 01:23:08,000
+his credibility
+
+2132
+01:23:08,000 --> 01:23:10,000
+so that he could
+
+2133
+01:23:10,000 --> 01:23:12,000
+talk to Google for a job.
+
+2134
+01:23:12,000 --> 01:23:14,000
+I don't know.
+
+2135
+01:23:14,000 --> 01:23:16,000
+Even if you are
+
+2136
+01:23:16,000 --> 01:23:18,000
+a good,
+
+2137
+01:23:18,000 --> 01:23:20,000
+top-notch programmer,
+
+2138
+01:23:20,000 --> 01:23:22,000
+you don't need to know how to write articles.
+
+2139
+01:23:22,000 --> 01:23:24,000
+Exactly! That's what I said earlier.
+
+2140
+01:23:24,000 --> 01:23:26,000
+You don't need to.
+
+2141
+01:23:30,000 --> 01:23:32,000
+Maybe
+
+2142
+01:23:32,000 --> 01:23:34,000
+step one is to document
+
+2143
+01:23:34,000 --> 01:23:36,000
+all your side projects.
+
+2144
+01:23:36,000 --> 01:23:38,000
+Document
+
+2145
+01:23:38,000 --> 01:23:40,000
+in the style
+
+2146
+01:23:40,000 --> 01:23:42,000
+of whatever I do
+
+2147
+01:23:42,000 --> 01:23:44,000
+on GitHub.
+
+2148
+01:23:44,000 --> 01:23:46,000
+You work as a repository
+
+2149
+01:23:46,000 --> 01:23:48,000
+of your projects.
+
+2150
+01:23:48,000 --> 01:23:50,000
+That's a minimal step.
+
+2151
+01:23:50,000 --> 01:23:52,000
+Whatever I play, whatever I experiment,
+
+2152
+01:23:52,000 --> 01:23:54,000
+just snippet codes,
+
+2153
+01:23:54,000 --> 01:23:56,000
+just a toy project,
+
+2154
+01:23:56,000 --> 01:23:58,000
+just to get used
+
+2155
+01:23:58,000 --> 01:24:00,000
+to the routine of publishing
+
+2156
+01:24:00,000 --> 01:24:02,000
+and publishing.
+
+2157
+01:24:02,000 --> 01:24:04,000
+Also,
+
+2158
+01:24:04,000 --> 01:24:06,000
+if you see that someone
+
+2159
+01:24:06,000 --> 01:24:08,000
+made a book,
+
+2160
+01:24:08,000 --> 01:24:10,000
+if you see that
+
+2161
+01:24:10,000 --> 01:24:12,000
+you used someone's book
+
+2162
+01:24:12,000 --> 01:24:14,000
+and you found a bug,
+
+2163
+01:24:14,000 --> 01:24:16,000
+just tell them
+
+2164
+01:24:16,000 --> 01:24:18,000
+that you found a bug,
+
+2165
+01:24:18,000 --> 01:24:20,000
+open it and report it.
+
+2166
+01:24:20,000 --> 01:24:22,000
+That's also considered
+
+2167
+01:24:22,000 --> 01:24:24,000
+an active thing,
+
+2168
+01:24:24,000 --> 01:24:26,000
+I'm interested in things,
+
+2169
+01:24:26,000 --> 01:24:28,000
+I'm ready to take the next step,
+
+2170
+01:24:28,000 --> 01:24:30,000
+I know how to use these tools,
+
+2171
+01:24:30,000 --> 01:24:32,000
+I'm aware of them,
+
+2172
+01:24:32,000 --> 01:24:34,000
+and you discover
+
+2173
+01:24:34,000 --> 01:24:36,000
+that there are other people
+
+2174
+01:24:36,000 --> 01:24:38,000
+on the other side
+
+2175
+01:24:38,000 --> 01:24:40,000
+of the online community.
+
+2176
+01:24:42,000 --> 01:24:44,000
+Whatever you give,
+
+2177
+01:24:44,000 --> 01:24:46,000
+it's better than nothing.
+
+2178
+01:24:46,000 --> 01:24:48,000
+Most people in this space
+
+2179
+01:24:48,000 --> 01:24:50,000
+consume,
+
+2180
+01:24:50,000 --> 01:24:52,000
+contribute,
+
+2181
+01:24:52,000 --> 01:24:54,000
+and if you write an article,
+
+2182
+01:24:54,000 --> 01:24:56,000
+if you write a blog post,
+
+2183
+01:24:56,000 --> 01:24:58,000
+if you come to a meeting,
+
+2184
+01:24:58,000 --> 01:25:00,000
+it's much more
+
+2185
+01:25:00,000 --> 01:25:02,000
+than anyone else did.
+
+2186
+01:25:02,000 --> 01:25:04,000
+Then a few meetings,
+
+2187
+01:25:04,000 --> 01:25:06,000
+a few smaller meetups,
+
+2188
+01:25:06,000 --> 01:25:08,000
+and then you have
+
+2189
+01:25:08,000 --> 01:25:10,000
+the experience
+
+2190
+01:25:10,000 --> 01:25:12,000
+of how to register
+
+2191
+01:25:12,000 --> 01:25:14,000
+for a conference,
+
+2192
+01:25:14,000 --> 01:25:16,000
+what are the other disadvantages.
+
+2193
+01:25:16,000 --> 01:25:18,000
+For example, people don't know
+
+2194
+01:25:18,000 --> 01:25:20,000
+that if you register
+
+2195
+01:25:20,000 --> 01:25:22,000
+for a bigger international conference,
+
+2196
+01:25:22,000 --> 01:25:24,000
+they usually have
+
+2197
+01:25:24,000 --> 01:25:26,000
+a speaker dinner,
+
+2198
+01:25:26,000 --> 01:25:28,000
+and that means
+
+2199
+01:25:28,000 --> 01:25:30,000
+that you are at an international conference
+
+2200
+01:25:30,000 --> 01:25:32,000
+together with
+
+2201
+01:25:32,000 --> 01:25:34,000
+the biggest entrepreneurs
+
+2202
+01:25:34,000 --> 01:25:36,000
+and you get
+
+2203
+01:25:36,000 --> 01:25:38,000
+access to a network
+
+2204
+01:25:38,000 --> 01:25:40,000
+of top people,
+
+2205
+01:25:40,000 --> 01:25:42,000
+and you can build
+
+2206
+01:25:42,000 --> 01:25:44,000
+your name
+
+2207
+01:25:44,000 --> 01:25:46,000
+over time.
+
+2208
+01:25:46,000 --> 01:25:48,000
+You start with smaller events
+
+2209
+01:25:48,000 --> 01:25:50,000
+to gain more experience.
+
+2210
+01:25:52,000 --> 01:25:54,000
+What you said is true,
+
+2211
+01:25:54,000 --> 01:25:56,000
+it can be overwhelming.
+
+2212
+01:25:56,000 --> 01:25:58,000
+Let's start with Kodo,
+
+2213
+01:25:58,000 --> 01:26:00,000
+with a little correction.
+
+2214
+01:26:00,000 --> 01:26:02,000
+If I may,
+
+2215
+01:26:02,000 --> 01:26:04,000
+Kodo is a platform
+
+2216
+01:26:04,000 --> 01:26:06,000
+where you can
+
+2217
+01:26:06,000 --> 01:26:08,000
+connect with people
+
+2218
+01:26:08,000 --> 01:26:10,000
+and use it as an app.
+
+2219
+01:26:10,000 --> 01:26:12,000
+Maribor is always open
+
+2220
+01:26:12,000 --> 01:26:14,000
+for new teachers,
+
+2221
+01:26:14,000 --> 01:26:16,000
+so if any of you
+
+2222
+01:26:16,000 --> 01:26:18,000
+want to come
+
+2223
+01:26:18,000 --> 01:26:20,000
+and say something,
+
+2224
+01:26:20,000 --> 01:26:22,000
+just call us.
+
+2225
+01:26:22,000 --> 01:26:24,000
+We are here.
+
+2226
+01:26:24,000 --> 01:26:26,000
+Sometimes we are downstairs,
+
+2227
+01:26:26,000 --> 01:26:28,000
+sometimes we are on the floor.
+
+2228
+01:26:28,000 --> 01:26:30,000
+Don't panic.
+
+2229
+01:26:30,000 --> 01:26:32,000
+We are big.
+
+2230
+01:26:32,000 --> 01:26:34,000
+But we already got people
+
+2231
+01:26:34,000 --> 01:26:36,000
+to come and say something.
+
+2232
+01:26:36,000 --> 01:26:38,000
+Yes, yes.
+
+2233
+01:26:38,000 --> 01:26:40,000
+Like, hey,
+
+2234
+01:26:40,000 --> 01:26:42,000
+from the marketing department,
+
+2235
+01:26:42,000 --> 01:26:44,000
+our boss came to say something.
+
+2236
+01:26:44,000 --> 01:26:46,000
+It's full.
+
+2237
+01:26:46,000 --> 01:26:48,000
+I don't know
+
+2238
+01:26:48,000 --> 01:26:50,000
+if it will work.
+
+2239
+01:26:50,000 --> 01:26:52,000
+I can explain why,
+
+2240
+01:26:52,000 --> 01:26:54,000
+because we are ready
+
+2241
+01:26:54,000 --> 01:26:56,000
+that it won't work.
+
+2242
+01:26:56,000 --> 01:26:58,000
+It's better to have
+
+2243
+01:26:58,000 --> 01:27:00,000
+an engineer in their team
+
+2244
+01:27:00,000 --> 01:27:02,000
+to say something.
+
+2245
+01:27:02,000 --> 01:27:04,000
+We are more interested in that.
+
+2246
+01:27:04,000 --> 01:27:06,000
+But yes.
+
+2247
+01:27:06,000 --> 01:27:08,000
+What did you do?
+
+2248
+01:27:08,000 --> 01:27:10,000
+I don't know.
+
+2249
+01:27:10,000 --> 01:27:12,000
+I married,
+
+2250
+01:27:12,000 --> 01:27:14,000
+and we got closer.
+
+2251
+01:27:14,000 --> 01:27:16,000
+Blender.
+
+2252
+01:27:16,000 --> 01:27:18,000
+That was it.
+
+2253
+01:27:18,000 --> 01:27:20,000
+You listened
+
+2254
+01:27:20,000 --> 01:27:22,000
+and watched
+
+2255
+01:27:22,000 --> 01:27:24,000
+Spletna Urica with Ogrodje
+
+2256
+01:27:24,000 --> 01:27:26,000
+live.
+
+2257
+01:27:26,000 --> 01:27:28,000
+3rd season,
+
+2258
+01:27:28,000 --> 01:27:30,000
+4th episode.
+
+2259
+01:27:30,000 --> 01:27:32,000
+That's it.
+
+2260
+01:27:32,000 --> 01:27:34,000
+Where can they find you?
+
+2261
+01:27:34,000 --> 01:27:36,000
+On all podcasting platforms.
+
+2262
+01:27:36,000 --> 01:27:38,000
+And on YouTube.
+
+2263
+01:27:38,000 --> 01:27:40,000
+That's when they can say
+
+2264
+01:27:40,000 --> 01:27:42,000
+write it down
+
+2265
+01:27:42,000 --> 01:27:44,000
+and tell us.
+
+2266
+01:27:44,000 --> 01:27:46,000
+Like and subscribe.
+
+2267
+01:27:46,000 --> 01:27:48,000
+If you are on Patreon,
+
+2268
+01:27:48,000 --> 01:27:50,000
+you got this episode
+
+2269
+01:27:50,000 --> 01:27:52,000
+before the others.
+
+2270
+01:27:52,000 --> 01:27:54,000
+That's it.
+
+2271
+01:27:54,000 --> 01:27:56,000
+I think that's it.
+
+2272
+01:27:56,000 --> 01:27:58,000
+Exit.

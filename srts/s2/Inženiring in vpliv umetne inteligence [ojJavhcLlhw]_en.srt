@@ -1,0 +1,10687 @@
+1
+00:00:00,000 --> 00:00:15,000
+Let's start. Welcome to the new episode of Eugrodija.
+
+2
+00:00:15,000 --> 00:00:18,000
+This is the 20th episode.
+
+3
+00:00:18,000 --> 00:00:19,000
+21th.
+
+4
+00:00:19,000 --> 00:00:20,000
+21th episode.
+
+5
+00:00:20,000 --> 00:00:23,000
+The second episode with video support.
+
+6
+00:00:23,000 --> 00:00:25,000
+If you read the first one, it was an experiment.
+
+7
+00:00:25,000 --> 00:00:30,000
+The first one was an experiment, but it was so good that it wasn't exactly a pure experiment.
+
+8
+00:00:30,000 --> 00:00:35,000
+So today we will try to succeed with video support,
+
+9
+00:00:35,000 --> 00:00:43,000
+and we will be more reliable to our co-producers on sound, so we respect that too.
+
+10
+00:00:43,000 --> 00:00:48,000
+Today we have a new guest with us, Dr. C. R. Goll.
+
+11
+00:00:48,000 --> 00:00:56,000
+We will talk about Artificial Intelligence, Artificial Intelligence from the perspective of engineering.
+
+12
+00:00:56,000 --> 00:01:03,000
+We will try to go deeper into how Artificial Intelligence changes our world,
+
+13
+00:01:03,000 --> 00:01:07,000
+how it changes the planet, how we will lose services.
+
+14
+00:01:07,000 --> 00:01:11,000
+We talked a little about those topics that are related to it.
+
+15
+00:01:11,000 --> 00:01:16,000
+I won't talk anymore, because then Andraža won't like it, because I have too many secrets.
+
+16
+00:01:16,000 --> 00:01:22,000
+No problem, you will tell a lot of things, and listeners and viewers will be disappointed,
+
+17
+00:01:22,000 --> 00:01:25,000
+because we won't touch those things, because we will run out of time.
+
+18
+00:01:25,000 --> 00:01:26,000
+Yes.
+
+19
+00:01:26,000 --> 00:01:29,000
+We don't know how long this episode will be.
+
+20
+00:01:29,000 --> 00:01:33,000
+If it's too long, we will split it into two parts.
+
+21
+00:01:33,000 --> 00:01:39,000
+Now, Boris, can I introduce you?
+
+22
+00:01:39,000 --> 00:01:40,000
+You can try.
+
+23
+00:01:40,000 --> 00:01:42,000
+I can try.
+
+24
+00:01:42,000 --> 00:01:50,000
+Boris is a master that I have been training for years,
+
+25
+00:01:50,000 --> 00:01:56,000
+and he positions himself very well in Artificial Intelligence, in the use of Artificial Intelligence,
+
+26
+00:01:56,000 --> 00:02:02,000
+and is a part of the product of the use of Artificial Intelligence and machine learning.
+
+27
+00:02:02,000 --> 00:02:09,000
+You also have a very interesting career path, so I will ask you a few questions about that.
+
+28
+00:02:09,000 --> 00:02:17,000
+So, today you are in charge of Artificial Intelligence, data, and data science, if I understand correctly.
+
+29
+00:02:17,000 --> 00:02:25,000
+Yes, I lead the data discipline, and everything that is related to data falls into it.
+
+30
+00:02:25,000 --> 00:02:31,000
+Data engineering, machine learning, data analytics.
+
+31
+00:02:32,000 --> 00:02:40,000
+Now, when we last talked in person, I think we talked in Porto Rojo,
+
+32
+00:02:40,000 --> 00:02:45,000
+and you said you were going to the Slovenian Entry Festival, and you will be the headliner there.
+
+33
+00:02:45,000 --> 00:02:49,000
+How did you present yourself there?
+
+34
+00:02:49,000 --> 00:02:56,000
+Actually, I remember well, because I focused so much on what I was going to say, or show,
+
+35
+00:02:56,000 --> 00:03:03,000
+that I had the idea that half of it was just talking about slides, and the other half was demo examples,
+
+36
+00:03:03,000 --> 00:03:10,000
+and that's a lot of art, so you can really prepare me well if I want to sing in a short time.
+
+37
+00:03:10,000 --> 00:03:22,000
+Now, let's first find out how you tried to create such a serious business that deals with Artificial Intelligence.
+
+38
+00:03:22,000 --> 00:03:26,000
+Or we will first find out what Artificial Intelligence is.
+
+39
+00:03:26,000 --> 00:03:31,000
+Or we will first find out what Buzzword is, and what it really is.
+
+40
+00:03:31,000 --> 00:03:37,000
+Well, okay, let's start with that.
+
+41
+00:03:37,000 --> 00:03:44,000
+I mean, I don't know if we're going to go back now.
+
+42
+00:03:44,000 --> 00:03:54,000
+Now, tell me, why do you believe so much in Artificial Intelligence, that you and your friends decided to establish Ektimo,
+
+43
+00:03:54,000 --> 00:04:03,000
+and why do you think it's time to do some sub-ethnic business in this area?
+
+44
+00:04:03,000 --> 00:04:09,000
+Well, first of all, I want to say that it was all part of a big strategic plan.
+
+45
+00:04:09,000 --> 00:04:14,000
+It wasn't like that in the beginning.
+
+46
+00:04:14,000 --> 00:04:20,000
+At the very beginning, I thought I was doing things related to finance,
+
+47
+00:04:20,000 --> 00:04:27,000
+quantitative finance, fascinating algorithms, the idea that you can make better decisions
+
+48
+00:04:27,000 --> 00:04:31,000
+if you look at the data at the top, and so on.
+
+49
+00:04:31,000 --> 00:04:38,000
+We established this business at a very interesting time,
+
+50
+00:04:38,000 --> 00:04:47,000
+when in the Slovenian area, the financial industry was at its peak in the 1920s,
+
+51
+00:04:47,000 --> 00:04:50,000
+ready to invest.
+
+52
+00:04:50,000 --> 00:04:56,000
+So, I started to think a lot about how we could expand what we were doing with algorithms,
+
+53
+00:04:56,000 --> 00:05:03,000
+and so I quickly realized that what I was starting to gain in terms of data knowledge,
+
+54
+00:05:03,000 --> 00:05:08,000
+there was no reason to limit it to just one industry.
+
+55
+00:05:08,000 --> 00:05:13,000
+I was even younger at the time, and a bit more naive.
+
+56
+00:05:13,000 --> 00:05:20,000
+Then, when I looked at what was happening in the United States in this area in the late 1990s,
+
+57
+00:05:21,000 --> 00:05:28,000
+I had a feeling that everything was already done, that I could start a business here.
+
+58
+00:05:28,000 --> 00:05:36,000
+Later on, I learned that we were probably Slovenia, five years ago, maybe even more.
+
+59
+00:05:36,000 --> 00:05:42,000
+But you positioned yourself as a company that would work in Slovenia,
+
+60
+00:05:42,000 --> 00:05:48,000
+did you say Slovenian market, or whoever comes?
+
+61
+00:05:48,000 --> 00:05:53,000
+Yes, you're right, maybe it wasn't so strategically thought out.
+
+62
+00:05:53,000 --> 00:05:59,000
+In practice, we were a company that worked mostly in the Slovenian area,
+
+63
+00:05:59,000 --> 00:06:03,000
+more because of intelligence than because of strategy.
+
+64
+00:06:03,000 --> 00:06:10,000
+What I later saw was that it was crucial to find a way to talk to people in the markets,
+
+65
+00:06:10,000 --> 00:06:14,000
+where there was enough capital for investment in this area,
+
+66
+00:06:14,000 --> 00:06:19,000
+maybe there was also a greater market development, and later on,
+
+67
+00:06:19,000 --> 00:06:22,000
+the transition to these markets.
+
+68
+00:06:22,000 --> 00:06:27,000
+If I were to go back in time, I would try to make it so that in six months of my life,
+
+69
+00:06:27,000 --> 00:06:32,000
+somewhere in the suburbs of London, I would show up at some meetups,
+
+70
+00:06:32,000 --> 00:06:35,000
+and I would get in touch with people.
+
+71
+00:06:35,000 --> 00:06:42,000
+Now, let's explain what this business is about, what problems do you have,
+
+72
+00:06:42,000 --> 00:06:45,000
+what do you solve, to make it clearer.
+
+73
+00:06:45,000 --> 00:06:47,000
+We're still talking about ECT.
+
+74
+00:06:47,000 --> 00:06:48,000
+Yes, yes.
+
+75
+00:06:48,000 --> 00:06:51,000
+It's a bit of a blast from the past, as you would say.
+
+76
+00:06:51,000 --> 00:06:54,000
+That's how you put it.
+
+77
+00:06:54,000 --> 00:06:57,000
+It's good that we started with that.
+
+78
+00:06:57,000 --> 00:07:01,000
+What kind of artificial intelligence was there in the 18th century?
+
+79
+00:07:01,000 --> 00:07:04,000
+Or a little earlier.
+
+80
+00:07:04,000 --> 00:07:15,000
+The idea was to help companies build systems where data science was a key element.
+
+81
+00:07:15,000 --> 00:07:18,000
+But as some kind of advanced BI?
+
+82
+00:07:18,000 --> 00:07:19,000
+No, no, no.
+
+83
+00:07:19,000 --> 00:07:24,000
+I mean, to set up models of machine learning that would make predictions,
+
+84
+00:07:24,000 --> 00:07:28,000
+which would then be used by companies.
+
+85
+00:07:29,000 --> 00:07:34,000
+But in a very generic way, do you mean a different type of data,
+
+86
+00:07:34,000 --> 00:07:38,000
+or is it a specific type?
+
+87
+00:07:38,000 --> 00:07:41,000
+It was more generic.
+
+88
+00:07:41,000 --> 00:07:46,000
+Generic in the sense that we didn't move to an industrial vertical,
+
+89
+00:07:46,000 --> 00:07:52,000
+but more niche in the sense that we targeted data science.
+
+90
+00:07:53,000 --> 00:07:56,000
+We didn't offer data engineering students,
+
+91
+00:07:56,000 --> 00:07:59,000
+software development by hand, and so on.
+
+92
+00:07:59,000 --> 00:08:04,000
+Now, one topic that we will somehow discuss a little later.
+
+93
+00:08:06,000 --> 00:08:10,000
+People have come, and even today,
+
+94
+00:08:10,000 --> 00:08:14,000
+companies that implement artificial intelligence,
+
+95
+00:08:14,000 --> 00:08:17,000
+that solve problems with artificial intelligence,
+
+96
+00:08:17,000 --> 00:08:21,000
+because they are looking for a solution that will be based on artificial intelligence.
+
+97
+00:08:21,000 --> 00:08:24,000
+Is this knowledge available on the market?
+
+98
+00:08:24,000 --> 00:08:26,000
+Or do people come and say,
+
+99
+00:08:26,000 --> 00:08:29,000
+we have such a big problem that we can't solve it any other way,
+
+100
+00:08:29,000 --> 00:08:31,000
+can you help us?
+
+101
+00:08:31,000 --> 00:08:34,000
+Is this knowledge available on the market?
+
+102
+00:08:34,000 --> 00:08:37,000
+I think it can be divided into two categories.
+
+103
+00:08:37,000 --> 00:08:41,000
+I think that many of the problems that companies have,
+
+104
+00:08:41,000 --> 00:08:45,000
+they don't realize that with the right model of artificial intelligence,
+
+105
+00:08:45,000 --> 00:08:47,000
+they could solve it today.
+
+106
+00:08:47,000 --> 00:08:50,000
+I think that people on the market will be looking for people
+
+107
+00:08:50,000 --> 00:08:53,000
+to help them implement this thing,
+
+108
+00:08:53,000 --> 00:08:56,000
+because they simply don't realize that it can be solved in this way.
+
+109
+00:08:56,000 --> 00:08:59,000
+But I think there is a lot of it.
+
+110
+00:08:59,000 --> 00:09:03,000
+In the last 10 years, we have invested a little too little in this,
+
+111
+00:09:03,000 --> 00:09:05,000
+we don't have an internal team.
+
+112
+00:09:05,000 --> 00:09:09,000
+Can someone on the market help us put this together quickly?
+
+113
+00:09:09,000 --> 00:09:12,000
+Because we are a little behind, for example.
+
+114
+00:09:13,000 --> 00:09:15,000
+You are old-fashioned.
+
+115
+00:09:17,000 --> 00:09:20,000
+I went a little further.
+
+116
+00:09:20,000 --> 00:09:26,000
+You went from Ektima to Comtrade, Digital Services,
+
+117
+00:09:26,000 --> 00:09:30,000
+and now you are developing these things in Endavit.
+
+118
+00:09:30,000 --> 00:09:33,000
+With a larger reach, in a larger company, with a larger budget,
+
+119
+00:09:33,000 --> 00:09:36,000
+everything together has become more serious.
+
+120
+00:09:36,000 --> 00:09:39,000
+I haven't thought about it yet.
+
+121
+00:09:39,000 --> 00:09:42,000
+Actually, it was quite a leap from Ektima
+
+122
+00:09:42,000 --> 00:09:48,000
+to one of the larger IT companies in Slovenia, in Riga at the time.
+
+123
+00:09:50,000 --> 00:09:54,000
+It was an interesting experience.
+
+124
+00:09:54,000 --> 00:09:59,000
+I think that someone who is used to living in a small company
+
+125
+00:09:59,000 --> 00:10:03,000
+and constantly working on innovation
+
+126
+00:10:03,000 --> 00:10:06,000
+can bring a lot to a larger company.
+
+127
+00:10:07,000 --> 00:10:10,000
+It is difficult, because it is very rare in 10 years
+
+128
+00:10:10,000 --> 00:10:15,000
+that someone makes a leap from a small management company
+
+129
+00:10:15,000 --> 00:10:19,000
+to a larger company.
+
+130
+00:10:21,000 --> 00:10:24,000
+My experience was very positive.
+
+131
+00:10:24,000 --> 00:10:28,000
+Then, a little later, I moved to a foreign company,
+
+132
+00:10:28,000 --> 00:10:31,000
+which has an even larger system.
+
+133
+00:10:32,000 --> 00:10:35,000
+We will talk about this a little later,
+
+134
+00:10:35,000 --> 00:10:38,000
+about Artificial Intelligence.
+
+135
+00:10:38,000 --> 00:10:41,000
+Do you think that the size of the company
+
+136
+00:10:41,000 --> 00:10:45,000
+that deals with these technologies has a role?
+
+137
+00:10:45,000 --> 00:10:50,000
+Can we say that these are tools that Andraž Zdelek
+
+138
+00:10:50,000 --> 00:10:54,000
+from SP can take and start working with?
+
+139
+00:10:54,000 --> 00:10:57,000
+Do you need a larger engineering team?
+
+140
+00:10:58,000 --> 00:11:02,000
+Do you think that this is an experience?
+
+141
+00:11:02,000 --> 00:11:07,000
+This is something that has changed a lot
+
+142
+00:11:07,000 --> 00:11:11,000
+in the last few months or years.
+
+143
+00:11:11,000 --> 00:11:17,000
+Actually, for applications of Artificial Intelligence,
+
+144
+00:11:17,000 --> 00:11:20,000
+when it was five years ago,
+
+145
+00:11:20,000 --> 00:11:24,000
+there was a tendency for larger teams to implement it easier.
+
+146
+00:11:25,000 --> 00:11:29,000
+Now, with the arrival of new models,
+
+147
+00:11:29,000 --> 00:11:33,000
+pre-learned, with huge amounts of data,
+
+148
+00:11:33,000 --> 00:11:38,000
+with better tooling that helps these things in production,
+
+149
+00:11:38,000 --> 00:11:42,000
+it seems to me that it is more even ground.
+
+150
+00:11:42,000 --> 00:11:45,000
+Perhaps a larger company can cope
+
+151
+00:11:45,000 --> 00:11:49,000
+with greater difficulties in implementation,
+
+152
+00:11:49,000 --> 00:11:52,000
+because there is no need for limitations
+
+153
+00:11:52,000 --> 00:11:55,000
+when it comes to technological solutions.
+
+154
+00:11:55,000 --> 00:11:59,000
+But there can be limitations in how to change business processes
+
+155
+00:11:59,000 --> 00:12:02,000
+so that this technology can reach its goal.
+
+156
+00:12:02,000 --> 00:12:08,000
+Change management in large companies is really difficult.
+
+157
+00:12:09,000 --> 00:12:11,000
+OK.
+
+158
+00:12:11,000 --> 00:12:14,000
+Watch this segway, Andraž.
+
+159
+00:12:17,000 --> 00:12:21,000
+Now that I've prepared for this episode,
+
+160
+00:12:21,000 --> 00:12:25,000
+I've read some books about Artificial Intelligence,
+
+161
+00:12:25,000 --> 00:12:29,000
+Artificial Intelligence for Engineers,
+
+162
+00:12:29,000 --> 00:12:32,000
+and I've read some different books.
+
+163
+00:12:32,000 --> 00:12:37,000
+One book that I will refer to later in the notes
+
+164
+00:12:37,000 --> 00:12:40,000
+is this one, How Machines Think.
+
+165
+00:12:40,000 --> 00:12:45,000
+In this book, there are very illustrative
+
+166
+00:12:45,000 --> 00:12:48,000
+algorithms that are used,
+
+167
+00:12:48,000 --> 00:12:52,000
+from what should be done to drive a smart car,
+
+168
+00:12:52,000 --> 00:12:58,000
+to how smart video recognition is,
+
+169
+00:12:58,000 --> 00:13:01,000
+various concepts.
+
+170
+00:13:01,000 --> 00:13:04,000
+The introduction is like this,
+
+171
+00:13:04,000 --> 00:13:10,000
+let's talk about how machines think,
+
+172
+00:13:10,000 --> 00:13:13,000
+how machines are prepared to be smarter,
+
+173
+00:13:13,000 --> 00:13:16,000
+and what algorithms are behind it.
+
+174
+00:13:16,000 --> 00:13:19,000
+In the introduction of this book,
+
+175
+00:13:19,000 --> 00:13:22,000
+a very good example is that in 1737,
+
+176
+00:13:22,000 --> 00:13:29,000
+a French artist made a robot,
+
+177
+00:13:29,000 --> 00:13:33,000
+an automaton, that could play the piano.
+
+178
+00:13:33,000 --> 00:13:37,000
+It could play 12 different melodies,
+
+179
+00:13:37,000 --> 00:13:40,000
+12 different songs.
+
+180
+00:13:40,000 --> 00:13:43,000
+It had a mechanism like those old clocks,
+
+181
+00:13:43,000 --> 00:13:48,000
+and it was very popular.
+
+182
+00:13:48,000 --> 00:13:52,000
+It was seen by the majority of people
+
+183
+00:13:52,000 --> 00:13:57,000
+as a crazy thing for gamers and entertainment.
+
+184
+00:13:57,000 --> 00:14:02,000
+He made it, and then a group of skeptics
+
+185
+00:14:02,000 --> 00:14:06,000
+started asking themselves how this thing works.
+
+186
+00:14:06,000 --> 00:14:11,000
+King Ludwig, who was the boss at the time,
+
+187
+00:14:11,000 --> 00:14:14,000
+said that it was a fake, that it couldn't be.
+
+188
+00:14:14,000 --> 00:14:16,000
+There was a little girl inside,
+
+189
+00:14:16,000 --> 00:14:18,000
+who knew how to play it, 5 years old,
+
+190
+00:14:18,000 --> 00:14:20,000
+and she knew the melodies.
+
+191
+00:14:20,000 --> 00:14:22,000
+They totally rejected him.
+
+192
+00:14:22,000 --> 00:14:25,000
+The church also said that it was a blasphemy,
+
+193
+00:14:25,000 --> 00:14:28,000
+that the machine couldn't be smarter.
+
+194
+00:14:28,000 --> 00:14:32,000
+Then he wrote that he presented his idea,
+
+195
+00:14:32,000 --> 00:14:37,000
+how his machine works in front of an academy of science,
+
+196
+00:14:37,000 --> 00:14:40,000
+and he explained the mechanisms,
+
+197
+00:14:40,000 --> 00:14:44,000
+how the hands move, and how the machine works.
+
+198
+00:14:44,000 --> 00:14:47,000
+He got a recognition from the Science Board,
+
+199
+00:14:47,000 --> 00:14:51,000
+that it was a legit machine.
+
+200
+00:14:51,000 --> 00:14:55,000
+But society saw all the problems
+
+201
+00:14:55,000 --> 00:14:58,000
+through what was done,
+
+202
+00:14:58,000 --> 00:15:01,000
+and they didn't understand what to do,
+
+203
+00:15:01,000 --> 00:15:03,000
+how the machine works,
+
+204
+00:15:03,000 --> 00:15:06,000
+and why it was made.
+
+205
+00:15:06,000 --> 00:15:10,000
+I'd like to dig deeper into these things,
+
+206
+00:15:10,000 --> 00:15:13,000
+and see how these algorithms work today,
+
+207
+00:15:13,000 --> 00:15:16,000
+what is needed for things to work,
+
+208
+00:15:16,000 --> 00:15:20,000
+and how we develop them in the future.
+
+209
+00:15:20,000 --> 00:15:23,000
+Here we're probably...
+
+210
+00:15:23,000 --> 00:15:25,000
+Okay, go ahead.
+
+211
+00:15:25,000 --> 00:15:26,000
+Great.
+
+212
+00:15:26,000 --> 00:15:30,000
+Here we're probably talking about something
+
+213
+00:15:30,000 --> 00:15:33,000
+that was learned in advance.
+
+214
+00:15:33,000 --> 00:15:36,000
+The algorithm only works once,
+
+215
+00:15:36,000 --> 00:15:39,000
+for those 15 minutes, and so on.
+
+216
+00:15:39,000 --> 00:15:41,000
+When we talk about AI,
+
+217
+00:15:41,000 --> 00:15:44,000
+the parameters can change.
+
+218
+00:15:44,000 --> 00:15:48,000
+The decision-making tree is much bigger.
+
+219
+00:15:48,000 --> 00:15:50,000
+I can put it this way.
+
+220
+00:15:50,000 --> 00:15:53,000
+The algorithm is a whole procedure
+
+221
+00:15:53,000 --> 00:15:56,000
+to solve a specific problem.
+
+222
+00:15:56,000 --> 00:16:00,000
+And that's true when we talk about this system.
+
+223
+00:16:01,000 --> 00:16:05,000
+I agree that this is a definition of the algorithm.
+
+224
+00:16:05,000 --> 00:16:08,000
+But I think that...
+
+225
+00:16:08,000 --> 00:16:11,000
+I guess it depends on how broadly
+
+226
+00:16:11,000 --> 00:16:14,000
+and extensively you define the problem.
+
+227
+00:16:14,000 --> 00:16:17,000
+In the beginning,
+
+228
+00:16:17,000 --> 00:16:21,000
+the path this technology chose
+
+229
+00:16:21,000 --> 00:16:24,000
+was always more against the system,
+
+230
+00:16:24,000 --> 00:16:27,000
+because the same system can solve
+
+231
+00:16:27,000 --> 00:16:30,000
+a lot of different problems.
+
+232
+00:16:30,000 --> 00:16:33,000
+And I think that in the end,
+
+233
+00:16:33,000 --> 00:16:36,000
+it will go in that direction,
+
+234
+00:16:36,000 --> 00:16:39,000
+with a system that is always more complex.
+
+235
+00:16:39,000 --> 00:16:43,000
+We can then debate where this complexity ends.
+
+236
+00:16:43,000 --> 00:16:46,000
+This is a topic that is often separated
+
+237
+00:16:46,000 --> 00:16:49,000
+when people say, for example,
+
+238
+00:16:49,000 --> 00:16:52,000
+complex artificial intelligence.
+
+239
+00:16:52,000 --> 00:16:54,000
+What does that mean?
+
+240
+00:16:54,000 --> 00:16:59,000
+It means that people are not entirely AI,
+
+241
+00:16:59,000 --> 00:17:02,000
+because there are a lot of problems
+
+242
+00:17:02,000 --> 00:17:05,000
+that we don't have and don't know.
+
+243
+00:17:05,000 --> 00:17:08,000
+We are not biologically well-constructed
+
+244
+00:17:08,000 --> 00:17:11,000
+to be able to solve them entirely.
+
+245
+00:17:15,000 --> 00:17:17,000
+I agree.
+
+246
+00:17:17,000 --> 00:17:21,000
+The operating system knows everything.
+
+247
+00:17:21,000 --> 00:17:24,000
+And then you have programs
+
+248
+00:17:24,000 --> 00:17:27,000
+that are specifically designed
+
+249
+00:17:27,000 --> 00:17:30,000
+to solve a specific problem.
+
+250
+00:17:30,000 --> 00:17:33,000
+Can you imagine that?
+
+251
+00:17:33,000 --> 00:17:35,000
+Yes.
+
+252
+00:17:35,000 --> 00:17:38,000
+You have a whole core...
+
+253
+00:17:38,000 --> 00:17:41,000
+You are going to skip the whole story,
+
+254
+00:17:41,000 --> 00:17:44,000
+but I think that the systems
+
+255
+00:17:44,000 --> 00:17:47,000
+that are still at the beginning,
+
+256
+00:17:47,000 --> 00:17:50,000
+but are still accessible enough
+
+257
+00:17:50,000 --> 00:17:53,000
+for us to start working with them today.
+
+258
+00:17:53,000 --> 00:17:56,000
+We can work on such a system.
+
+259
+00:17:56,000 --> 00:17:59,000
+We have an orchestrator that gets tasks
+
+260
+00:17:59,000 --> 00:18:02,000
+and then decides for an individual task
+
+261
+00:18:02,000 --> 00:18:04,000
+that came up.
+
+262
+00:18:04,000 --> 00:18:07,000
+Which other sub-system is best suited
+
+263
+00:18:07,000 --> 00:18:09,000
+to solve that task.
+
+264
+00:18:09,000 --> 00:18:12,000
+It sends that task to the sub-system,
+
+265
+00:18:12,000 --> 00:18:14,000
+it is already present,
+
+266
+00:18:14,000 --> 00:18:17,000
+and it needs to solve that task even more,
+
+267
+00:18:17,000 --> 00:18:20,000
+or it can solve it by itself
+
+268
+00:18:20,000 --> 00:18:23,000
+and send it back to the orchestrator as a solution.
+
+269
+00:18:23,000 --> 00:18:26,000
+That is one such system.
+
+270
+00:18:26,000 --> 00:18:29,000
+Most artificial intelligence systems
+
+271
+00:18:29,000 --> 00:18:32,000
+are not like that today.
+
+272
+00:18:32,000 --> 00:18:35,000
+Most systems are not like that.
+
+273
+00:18:35,000 --> 00:18:38,000
+Maybe it would be good to take a step back
+
+274
+00:18:38,000 --> 00:18:41,000
+because of these differences,
+
+275
+00:18:41,000 --> 00:18:44,000
+because now we have more to change.
+
+276
+00:18:44,000 --> 00:18:47,000
+Most artificial intelligence systems
+
+277
+00:18:47,000 --> 00:18:50,000
+functioned in such a way
+
+278
+00:18:50,000 --> 00:18:53,000
+that they solved one exact,
+
+279
+00:18:53,000 --> 00:18:56,000
+very precisely defined problem.
+
+280
+00:18:56,000 --> 00:18:59,000
+To solve such a problem,
+
+281
+00:18:59,000 --> 00:19:02,000
+it was necessary to learn the model again.
+
+282
+00:19:02,000 --> 00:19:05,000
+Most of the time it meant
+
+283
+00:19:05,000 --> 00:19:08,000
+to get the data,
+
+284
+00:19:08,000 --> 00:19:11,000
+to get the information,
+
+285
+00:19:11,000 --> 00:19:14,000
+to get the data that was taken very precisely
+
+286
+00:19:14,000 --> 00:19:17,000
+with that specific problem.
+
+287
+00:19:17,000 --> 00:19:20,000
+To mark that data, for example.
+
+288
+00:19:20,000 --> 00:19:23,000
+If we wanted to classify things,
+
+289
+00:19:23,000 --> 00:19:26,000
+we could first mark it,
+
+290
+00:19:26,000 --> 00:19:29,000
+learn the model,
+
+291
+00:19:29,000 --> 00:19:32,000
+then put that model into production,
+
+292
+00:19:32,000 --> 00:19:35,000
+see how well it works,
+
+293
+00:19:35,000 --> 00:19:38,000
+and as soon as there were
+
+294
+00:19:38,000 --> 00:19:41,000
+more noticeable changes in the distribution of those examples,
+
+295
+00:19:41,000 --> 00:19:44,000
+we went out of the distribution
+
+296
+00:19:44,000 --> 00:19:47,000
+where it was learned,
+
+297
+00:19:47,000 --> 00:19:50,000
+the problem was no longer working well,
+
+298
+00:19:50,000 --> 00:19:53,000
+then the whole art was to find out when it happens,
+
+299
+00:19:53,000 --> 00:19:56,000
+to give new data,
+
+300
+00:19:56,000 --> 00:19:59,000
+to give a new designation.
+
+301
+00:19:59,000 --> 00:20:02,000
+Problems are very, very difficult,
+
+302
+00:20:02,000 --> 00:20:05,000
+and subsequently also difficult
+
+303
+00:20:05,000 --> 00:20:08,000
+in an unusual way.
+
+304
+00:20:08,000 --> 00:20:11,000
+Even if the system, as it was learned,
+
+305
+00:20:11,000 --> 00:20:14,000
+knew how to solve that problem relatively well,
+
+306
+00:20:14,000 --> 00:20:17,000
+if we then think through the whole life cycle,
+
+307
+00:20:17,000 --> 00:20:20,000
+what expenses will there be,
+
+308
+00:20:20,000 --> 00:20:23,000
+how many people will be able to keep some distance,
+
+309
+00:20:23,000 --> 00:20:26,000
+it's not a pile of water.
+
+310
+00:20:26,000 --> 00:20:29,000
+What started to change
+
+311
+00:20:29,000 --> 00:20:32,000
+with those pre-learned models,
+
+312
+00:20:33,000 --> 00:20:36,000
+a few years ago,
+
+313
+00:20:36,000 --> 00:20:39,000
+was the concept that if we take a model
+
+314
+00:20:39,000 --> 00:20:42,000
+and really learn it
+
+315
+00:20:42,000 --> 00:20:45,000
+in a huge amount of data,
+
+316
+00:20:45,000 --> 00:20:48,000
+which includes a lot of different problems,
+
+317
+00:20:48,000 --> 00:20:51,000
+we can imagine
+
+318
+00:20:51,000 --> 00:20:54,000
+how a pile of different distributions
+
+319
+00:20:54,000 --> 00:20:57,000
+would mix together
+
+320
+00:20:57,000 --> 00:21:00,000
+and thus learn,
+
+321
+00:21:00,000 --> 00:21:03,000
+then we come to a model
+
+322
+00:21:03,000 --> 00:21:06,000
+that is able to solve
+
+323
+00:21:06,000 --> 00:21:09,000
+different problems
+
+324
+00:21:09,000 --> 00:21:12,000
+in the same model
+
+325
+00:21:12,000 --> 00:21:15,000
+and is also somewhat more robust
+
+326
+00:21:15,000 --> 00:21:18,000
+because it was not in such a singular distribution at all.
+
+327
+00:21:18,000 --> 00:21:21,000
+But what you're talking about now,
+
+328
+00:21:21,000 --> 00:21:24,000
+is that something you've already used?
+
+329
+00:21:24,000 --> 00:21:27,000
+Yes, yes.
+
+330
+00:21:27,000 --> 00:21:30,000
+Let's put it this way,
+
+331
+00:21:30,000 --> 00:21:33,000
+the architecture of transformers
+
+332
+00:21:33,000 --> 00:21:36,000
+was the driving force
+
+333
+00:21:36,000 --> 00:21:39,000
+for the development of this trend.
+
+334
+00:21:39,000 --> 00:21:42,000
+I think it was in 2017,
+
+335
+00:21:42,000 --> 00:21:45,000
+somewhere around that time.
+
+336
+00:21:51,000 --> 00:21:54,000
+An important thing here was
+
+337
+00:21:54,000 --> 00:21:57,000
+the need for a change
+
+338
+00:21:57,000 --> 00:22:00,000
+in the classical system.
+
+339
+00:22:00,000 --> 00:22:03,000
+The data had to be rewritten.
+
+340
+00:22:03,000 --> 00:22:06,000
+One interesting solution was the so-called
+
+341
+00:22:06,000 --> 00:22:09,000
+self-supervised learning,
+
+342
+00:22:09,000 --> 00:22:12,000
+where we can take unmarked data
+
+343
+00:22:12,000 --> 00:22:15,000
+and imagine,
+
+344
+00:22:15,000 --> 00:22:18,000
+or rather say it in pictures,
+
+345
+00:22:18,000 --> 00:22:21,000
+that we have a picture,
+
+346
+00:22:21,000 --> 00:22:24,000
+and give it an analog model
+
+347
+00:22:24,000 --> 00:22:27,000
+on the basis of the remains of the picture
+
+348
+00:22:27,000 --> 00:22:30,000
+to tell us which cube we took out.
+
+349
+00:22:30,000 --> 00:22:33,000
+And we can do the same for the text.
+
+350
+00:22:33,000 --> 00:22:36,000
+But if you only chose one
+
+351
+00:22:36,000 --> 00:22:39,000
+out of the whole set,
+
+352
+00:22:39,000 --> 00:22:42,000
+would that be enough?
+
+353
+00:22:42,000 --> 00:22:45,000
+No, no. Imagine you take
+
+354
+00:22:45,000 --> 00:22:48,000
+100 million pictures,
+
+355
+00:22:48,000 --> 00:22:51,000
+each of which you take out a cube,
+
+356
+00:22:51,000 --> 00:22:54,000
+and then you say...
+
+357
+00:22:54,000 --> 00:22:57,000
+Oh, you mean a subset of 100,000.
+
+358
+00:22:57,000 --> 00:23:00,000
+No, no. You take 100 million pictures,
+
+359
+00:23:00,000 --> 00:23:03,000
+each of which you take out a cube,
+
+360
+00:23:03,000 --> 00:23:06,000
+you use the rest of the cubes,
+
+361
+00:23:06,000 --> 00:23:09,000
+and you give it an analog model
+
+362
+00:23:09,000 --> 00:23:12,000
+to tell you what's missing.
+
+363
+00:23:12,000 --> 00:23:15,000
+Because at one point you don't need
+
+364
+00:23:15,000 --> 00:23:18,000
+to know what's missing.
+
+365
+00:23:18,000 --> 00:23:21,000
+You try to learn from the context,
+
+366
+00:23:21,000 --> 00:23:24,000
+from the remains of the picture.
+
+367
+00:23:24,000 --> 00:23:27,000
+It's the same with speech.
+
+368
+00:23:27,000 --> 00:23:30,000
+I'll give you some examples.
+
+369
+00:23:30,000 --> 00:23:33,000
+For example, let's talk about language.
+
+370
+00:23:33,000 --> 00:23:36,000
+Language was the driver
+
+371
+00:23:36,000 --> 00:23:39,000
+of the development of new methods.
+
+372
+00:23:39,000 --> 00:23:42,000
+For example,
+
+373
+00:23:45,000 --> 00:23:48,000
+basic sentences.
+
+374
+00:23:48,000 --> 00:23:51,000
+An apple fell out.
+
+375
+00:23:51,000 --> 00:23:54,000
+But then there was a tree,
+
+376
+00:23:54,000 --> 00:23:57,000
+but that word is missing now.
+
+377
+00:23:57,000 --> 00:24:00,000
+When a model sees enough sentences,
+
+378
+00:24:00,000 --> 00:24:03,000
+if it wants to become better
+
+379
+00:24:03,000 --> 00:24:06,000
+when it tells you
+
+380
+00:24:06,000 --> 00:24:09,000
+what word is missing,
+
+381
+00:24:09,000 --> 00:24:12,000
+it probably forms a representation
+
+382
+00:24:12,000 --> 00:24:15,000
+instead of an apple growing on a tree.
+
+383
+00:24:15,000 --> 00:24:18,000
+If it falls from a tree,
+
+384
+00:24:18,000 --> 00:24:21,000
+it's more likely to fall from a tree
+
+385
+00:24:21,000 --> 00:24:24,000
+than from a shelf.
+
+386
+00:24:24,000 --> 00:24:27,000
+It can also fall from a shelf.
+
+387
+00:24:27,000 --> 00:24:30,000
+We'll get to that later.
+
+388
+00:24:30,000 --> 00:24:33,000
+You need a huge amount of data
+
+389
+00:24:33,000 --> 00:24:36,000
+to be able to...
+
+390
+00:24:36,000 --> 00:24:39,000
+To work with solutions.
+
+391
+00:24:40,000 --> 00:24:43,000
+It must cost a lot.
+
+392
+00:24:43,000 --> 00:24:46,000
+It's a huge cost.
+
+393
+00:24:46,000 --> 00:24:49,000
+To some extent, it's true.
+
+394
+00:24:49,000 --> 00:24:52,000
+But it's not the same concept.
+
+395
+00:24:52,000 --> 00:24:55,000
+Trash in, trash out.
+
+396
+00:24:55,000 --> 00:24:58,000
+You can help your neighbors.
+
+397
+00:24:58,000 --> 00:25:01,000
+For example, if you have some data trust.
+
+398
+00:25:00,000 --> 00:25:07,000
+For example, Wikipedia, or books, for example.
+
+399
+00:25:07,000 --> 00:25:12,000
+And then you can look at some of the basic properties of the text in those high-quality sources.
+
+400
+00:25:12,000 --> 00:25:15,000
+Then you go through everything you've scraped down from the Internet,
+
+401
+00:25:15,000 --> 00:25:19,000
+and then you protect those things that are a little more similar to those high-quality sources,
+
+402
+00:25:19,000 --> 00:25:21,000
+and the rest goes to the side.
+
+403
+00:25:21,000 --> 00:25:28,000
+So, in fact, if you've calculated it all, it took you some money and time,
+
+404
+00:25:28,000 --> 00:25:33,000
+but in the sense of programming, you don't have to deal with it much,
+
+405
+00:25:33,000 --> 00:25:36,000
+because those things fall out on their own.
+
+406
+00:25:36,000 --> 00:25:38,000
+And we have a lot of that data.
+
+407
+00:25:38,000 --> 00:25:40,000
+So those models...
+
+408
+00:25:40,000 --> 00:25:42,000
+We have a lot, who has a lot?
+
+409
+00:25:42,000 --> 00:25:44,000
+Well, you can have a lot of them.
+
+410
+00:25:44,000 --> 00:25:47,000
+At the beginning there is this Common Crawl,
+
+411
+00:25:47,000 --> 00:25:53,000
+which is actually a collection of what scrapers pick up from the Internet.
+
+412
+00:25:53,000 --> 00:25:55,000
+It's available, although it's huge.
+
+413
+00:25:55,000 --> 00:26:00,000
+So maybe you need a little more money to be able to do something with it,
+
+414
+00:26:00,000 --> 00:26:03,000
+but at the beginning those data are there, you can use them.
+
+415
+00:26:03,000 --> 00:26:09,000
+Now, I'm going to tell you about a project we started,
+
+416
+00:26:09,000 --> 00:26:13,000
+and I'm going to tell you about the problems you've already solved in some way,
+
+417
+00:26:13,000 --> 00:26:17,000
+and you're going to tell me what the next generation of such a system would be like,
+
+418
+00:26:17,000 --> 00:26:19,000
+so that it can be done better.
+
+419
+00:26:19,000 --> 00:26:21,000
+Are you ready for that?
+
+420
+00:26:21,000 --> 00:26:23,000
+What?
+
+421
+00:26:23,000 --> 00:26:25,000
+Are you going to tell me your pet project?
+
+422
+00:26:25,000 --> 00:26:27,000
+No, no, no.
+
+423
+00:26:27,000 --> 00:26:29,000
+I'm going to be stupid in consulting.
+
+424
+00:26:29,000 --> 00:26:31,000
+No, no, no.
+
+425
+00:26:31,000 --> 00:26:33,000
+I'll pay you later.
+
+426
+00:26:33,000 --> 00:26:35,000
+Okay, so the problem was this.
+
+427
+00:26:35,000 --> 00:26:39,000
+We developed a technology for massively inquiring people.
+
+428
+00:26:39,000 --> 00:26:42,000
+More languages around the world.
+
+429
+00:26:42,000 --> 00:26:45,000
+People come in and you ask them questions,
+
+430
+00:26:45,000 --> 00:26:47,000
+you put a chat bot,
+
+431
+00:26:47,000 --> 00:26:49,000
+you ask them questions,
+
+432
+00:26:49,000 --> 00:26:51,000
+people give you answers,
+
+433
+00:26:51,000 --> 00:26:55,000
+they get a reward.
+
+434
+00:26:55,000 --> 00:27:00,000
+Which in theory is a very good way to get very interesting data,
+
+435
+00:27:00,000 --> 00:27:02,000
+you can do it massively, great.
+
+436
+00:27:02,000 --> 00:27:08,000
+The problem is that this concept of giving people a reward for participating on the Internet
+
+437
+00:27:08,000 --> 00:27:11,000
+attracts a lot of off-roaders, logically.
+
+438
+00:27:11,000 --> 00:27:17,000
+And the challenge we had was how to develop a system
+
+439
+00:27:17,000 --> 00:27:21,000
+that would ensure that those who answer the question
+
+440
+00:27:21,000 --> 00:27:23,000
+would answer honestly,
+
+441
+00:27:23,000 --> 00:27:25,000
+not just click,
+
+442
+00:27:25,000 --> 00:27:28,000
+and as soon as they come to the reward, they pay.
+
+443
+00:27:28,000 --> 00:27:32,000
+We needed a system that would give a score,
+
+444
+00:27:32,000 --> 00:27:34,000
+or an indicator,
+
+445
+00:27:34,000 --> 00:27:39,000
+if the answer really belongs to the person or not.
+
+446
+00:27:39,000 --> 00:27:41,000
+And what did we do?
+
+447
+00:27:41,000 --> 00:27:47,000
+We created a system that recorded all the small micro-interactions
+
+448
+00:27:47,000 --> 00:27:53,000
+that a person did on the control room,
+
+449
+00:27:53,000 --> 00:27:57,000
+and then we combined them with the answers.
+
+450
+00:27:57,000 --> 00:28:00,000
+For example, how you moved the mouse,
+
+451
+00:28:00,000 --> 00:28:03,000
+how you moved the hoverboard to an element,
+
+452
+00:28:03,000 --> 00:28:06,000
+how you changed your mind.
+
+453
+00:28:07,000 --> 00:28:09,000
+For example, you asked him,
+
+454
+00:28:09,000 --> 00:28:11,000
+is the moon the sun?
+
+455
+00:28:11,000 --> 00:28:13,000
+And then you asked him the other question,
+
+456
+00:28:13,000 --> 00:28:15,000
+is the moon still the sun?
+
+457
+00:28:15,000 --> 00:28:18,000
+And if these two answers were correct, it was a logical task.
+
+458
+00:28:18,000 --> 00:28:23,000
+Anyway, we collected a huge amount of data and parameters,
+
+459
+00:28:23,000 --> 00:28:25,000
+we formed some 12 features,
+
+460
+00:28:25,000 --> 00:28:27,000
+and then we said,
+
+461
+00:28:27,000 --> 00:28:32,000
+okay, a combination of micrometrics and answers,
+
+462
+00:28:32,000 --> 00:28:34,000
+we can label and make a label,
+
+463
+00:28:34,000 --> 00:28:36,000
+this is legit, this is not legit.
+
+464
+00:28:36,000 --> 00:28:39,000
+And we labeled the dataset,
+
+465
+00:28:39,000 --> 00:28:43,000
+and we had a relatively good system to prepare it,
+
+466
+00:28:43,000 --> 00:28:45,000
+whether it was in a file or not.
+
+467
+00:28:45,000 --> 00:28:47,000
+The task was great,
+
+468
+00:28:47,000 --> 00:28:49,000
+but there was a problem,
+
+469
+00:28:49,000 --> 00:28:53,000
+when the user changed,
+
+470
+00:28:53,000 --> 00:28:56,000
+the interactions started to change,
+
+471
+00:28:56,000 --> 00:28:59,000
+then there were problems,
+
+472
+00:29:00,000 --> 00:29:04,000
+for example, the number of questions changed,
+
+473
+00:29:04,000 --> 00:29:06,000
+and it affected...
+
+474
+00:29:06,000 --> 00:29:08,000
+Whatever we changed,
+
+475
+00:29:08,000 --> 00:29:11,000
+it was actually not robust enough,
+
+476
+00:29:11,000 --> 00:29:13,000
+we had to train it again,
+
+477
+00:29:13,000 --> 00:29:15,000
+learn it again.
+
+478
+00:29:15,000 --> 00:29:18,000
+This will prepare the life cycle,
+
+479
+00:29:18,000 --> 00:29:21,000
+how the scoring works,
+
+480
+00:29:21,000 --> 00:29:23,000
+whether it is still relevant or not,
+
+481
+00:29:23,000 --> 00:29:26,000
+because it started to affect us.
+
+482
+00:29:27,000 --> 00:29:30,000
+This is an example of what we were doing,
+
+483
+00:29:30,000 --> 00:29:32,000
+and we solved the problem.
+
+484
+00:29:32,000 --> 00:29:36,000
+I wonder how we could do it more robustly,
+
+485
+00:29:36,000 --> 00:29:40,000
+in the context where you put it first.
+
+486
+00:29:40,000 --> 00:29:42,000
+Is it possible?
+
+487
+00:29:42,000 --> 00:29:44,000
+It is possible,
+
+488
+00:29:44,000 --> 00:29:46,000
+but on the other side,
+
+489
+00:29:46,000 --> 00:29:48,000
+on the front side,
+
+490
+00:29:48,000 --> 00:29:50,000
+capabilities are improving.
+
+491
+00:29:50,000 --> 00:29:51,000
+Absolutely.
+
+492
+00:29:51,000 --> 00:29:53,000
+I would like to ask,
+
+493
+00:29:53,000 --> 00:29:55,000
+why did you need to collect data?
+
+494
+00:29:55,000 --> 00:29:59,000
+Do you mean data for fraud prevention,
+
+495
+00:29:59,000 --> 00:30:01,000
+or just data?
+
+496
+00:30:01,000 --> 00:30:03,000
+No, just data.
+
+497
+00:30:03,000 --> 00:30:07,000
+Data was used for market research,
+
+498
+00:30:07,000 --> 00:30:10,000
+on a global scale,
+
+499
+00:30:10,000 --> 00:30:12,000
+we were interested in
+
+500
+00:30:12,000 --> 00:30:14,000
+whether people use YouTube,
+
+501
+00:30:14,000 --> 00:30:16,000
+TikTok,
+
+502
+00:30:16,000 --> 00:30:18,000
+how long they are on TikTok,
+
+503
+00:30:18,000 --> 00:30:20,000
+mobile banking,
+
+504
+00:30:20,000 --> 00:30:22,000
+we were interested in everything
+
+505
+00:30:22,000 --> 00:30:24,000
+people do in the digital space.
+
+506
+00:30:24,000 --> 00:30:26,000
+These data were very important
+
+507
+00:30:26,000 --> 00:30:28,000
+for global corporations,
+
+508
+00:30:28,000 --> 00:30:31,000
+they have to allocate a global budget
+
+509
+00:30:31,000 --> 00:30:33,000
+for product development,
+
+510
+00:30:33,000 --> 00:30:35,000
+marketing,
+
+511
+00:30:35,000 --> 00:30:37,000
+and so on.
+
+512
+00:30:37,000 --> 00:30:39,000
+These are very important data
+
+513
+00:30:39,000 --> 00:30:41,000
+on what people do.
+
+514
+00:30:41,000 --> 00:30:43,000
+The problem is that
+
+515
+00:30:43,000 --> 00:30:45,000
+when you give a bounty
+
+516
+00:30:45,000 --> 00:30:47,000
+for someone to solve it,
+
+517
+00:30:47,000 --> 00:30:49,000
+then you have a question,
+
+518
+00:30:49,000 --> 00:30:51,000
+people click on the question,
+
+519
+00:30:51,000 --> 00:30:53,000
+if you click on the question,
+
+520
+00:30:53,000 --> 00:30:55,000
+then it is something
+
+521
+00:30:55,000 --> 00:30:58,000
+that is quite easy to automate.
+
+522
+00:30:58,000 --> 00:31:00,000
+Oh yes.
+
+523
+00:31:00,000 --> 00:31:02,000
+Or if it is for some simple
+
+524
+00:31:02,000 --> 00:31:04,000
+text input and so on,
+
+525
+00:31:04,000 --> 00:31:06,000
+it is not difficult to do.
+
+526
+00:31:06,000 --> 00:31:08,000
+With these new approaches,
+
+527
+00:31:08,000 --> 00:31:10,000
+I would probably say
+
+528
+00:31:10,000 --> 00:31:12,000
+that the fraud detection part
+
+529
+00:31:12,000 --> 00:31:14,000
+has changed the way
+
+530
+00:31:14,000 --> 00:31:16,000
+data is collected.
+
+531
+00:31:16,000 --> 00:31:20,000
+Why not have a proactive bot,
+
+532
+00:31:20,000 --> 00:31:22,000
+which would find people
+
+533
+00:31:22,000 --> 00:31:24,000
+in a carefully selected
+
+534
+00:31:24,000 --> 00:31:26,000
+natural habitat,
+
+535
+00:31:26,000 --> 00:31:28,000
+and talk to them
+
+536
+00:31:28,000 --> 00:31:30,000
+in a free-flow chat,
+
+537
+00:31:30,000 --> 00:31:32,000
+which is then
+
+538
+00:31:32,000 --> 00:31:34,000
+a little harder
+
+539
+00:31:34,000 --> 00:31:36,000
+to swallow.
+
+540
+00:31:36,000 --> 00:31:38,000
+I can say that
+
+541
+00:31:38,000 --> 00:31:40,000
+I was very hijacked
+
+542
+00:31:40,000 --> 00:31:42,000
+in the whole debate,
+
+543
+00:31:42,000 --> 00:31:44,000
+but the next thing
+
+544
+00:31:44,000 --> 00:31:46,000
+I described was text.
+
+545
+00:31:46,000 --> 00:31:48,000
+People write text
+
+546
+00:31:48,000 --> 00:31:50,000
+or click buttons.
+
+547
+00:31:50,000 --> 00:31:52,000
+The next generation of this system
+
+548
+00:31:52,000 --> 00:31:54,000
+was sound.
+
+549
+00:31:54,000 --> 00:31:56,000
+These questions were written,
+
+550
+00:31:56,000 --> 00:31:58,000
+those questions were processed
+
+551
+00:31:58,000 --> 00:32:00,000
+through sound,
+
+552
+00:32:00,000 --> 00:32:02,000
+and then it went into
+
+553
+00:32:02,000 --> 00:32:04,000
+listen mode,
+
+554
+00:32:04,000 --> 00:32:06,000
+and when you answered,
+
+555
+00:32:06,000 --> 00:32:08,000
+part of the real-time
+
+556
+00:32:08,000 --> 00:32:10,000
+speech-to-text transition
+
+557
+00:32:10,000 --> 00:32:12,000
+took place.
+
+558
+00:32:12,000 --> 00:32:14,000
+And what you are doing
+
+559
+00:32:14,000 --> 00:32:16,000
+quickly showed
+
+560
+00:32:16,000 --> 00:32:18,000
+what was happening
+
+561
+00:32:18,000 --> 00:32:20,000
+in the space.
+
+562
+00:32:20,000 --> 00:32:22,000
+Then it turned out
+
+563
+00:32:22,000 --> 00:32:24,000
+that people solve it
+
+564
+00:32:24,000 --> 00:32:26,000
+in an underground railway
+
+565
+00:32:26,000 --> 00:32:28,000
+or on a bus.
+
+566
+00:32:28,000 --> 00:32:30,000
+On the other hand,
+
+567
+00:32:30,000 --> 00:32:32,000
+you collected emotions,
+
+568
+00:32:32,000 --> 00:32:34,000
+people answered very gently,
+
+569
+00:32:34,000 --> 00:32:36,000
+or when they realized
+
+570
+00:32:36,000 --> 00:32:38,000
+that the microphones
+
+571
+00:32:38,000 --> 00:32:40,000
+were about to turn off.
+
+572
+00:32:40,000 --> 00:32:42,000
+It turned out that
+
+573
+00:32:42,000 --> 00:32:44,000
+through a lot of scripting,
+
+574
+00:32:44,000 --> 00:32:46,000
+a lot of people today
+
+575
+00:32:46,000 --> 00:32:48,000
+make fun of writing
+
+576
+00:32:48,000 --> 00:32:50,000
+buttons for the microphone,
+
+577
+00:32:50,000 --> 00:32:52,000
+and that the script
+
+578
+00:32:52,000 --> 00:32:54,000
+started to fail
+
+579
+00:32:54,000 --> 00:32:56,000
+because they didn't have a microphone.
+
+580
+00:32:56,000 --> 00:32:58,000
+So, yes,
+
+581
+00:32:58,000 --> 00:33:00,000
+this aspect can be improved,
+
+582
+00:33:00,000 --> 00:33:02,000
+but then comes
+
+583
+00:33:02,000 --> 00:33:04,000
+the scale.
+
+584
+00:33:04,000 --> 00:33:06,000
+Textually,
+
+585
+00:33:06,000 --> 00:33:08,000
+interacting with people
+
+586
+00:33:08,000 --> 00:33:10,000
+is really expensive,
+
+587
+00:33:10,000 --> 00:33:12,000
+because sound and infrastructure
+
+588
+00:33:12,000 --> 00:33:14,000
+are different things.
+
+589
+00:33:14,000 --> 00:33:16,000
+Privacy is also important.
+
+590
+00:33:16,000 --> 00:33:18,000
+Yes, I agree.
+
+591
+00:33:18,000 --> 00:33:20,000
+It's a waste of time and money.
+
+592
+00:33:20,000 --> 00:33:22,000
+Yes.
+
+593
+00:33:22,000 --> 00:33:24,000
+Okay, I'm done.
+
+594
+00:33:26,000 --> 00:33:28,000
+As far as
+
+595
+00:33:28,000 --> 00:33:30,000
+Frodo is concerned,
+
+596
+00:33:30,000 --> 00:33:32,000
+there is a constant
+
+597
+00:33:32,000 --> 00:33:34,000
+war, a competition
+
+598
+00:33:34,000 --> 00:33:36,000
+between...
+
+599
+00:33:36,000 --> 00:33:38,000
+What is a cat-and-mouse game?
+
+600
+00:33:38,000 --> 00:33:40,000
+The only thing that is clear
+
+601
+00:33:40,000 --> 00:33:42,000
+is that you can't
+
+602
+00:33:42,000 --> 00:33:44,000
+use artificial intelligence
+
+603
+00:33:44,000 --> 00:33:46,000
+in this game,
+
+604
+00:33:46,000 --> 00:33:48,000
+and let others
+
+605
+00:33:48,000 --> 00:33:50,000
+have the advantage.
+
+606
+00:33:50,000 --> 00:33:52,000
+I think it quickly
+
+607
+00:33:52,000 --> 00:33:54,000
+fell apart.
+
+608
+00:33:54,000 --> 00:33:56,000
+When we looked at the data
+
+609
+00:33:56,000 --> 00:33:58,000
+in this system,
+
+610
+00:33:58,000 --> 00:34:00,000
+when we activated our system,
+
+611
+00:34:00,000 --> 00:34:02,000
+it fell apart
+
+612
+00:34:02,000 --> 00:34:04,000
+very quickly.
+
+613
+00:34:04,000 --> 00:34:06,000
+But then
+
+614
+00:34:06,000 --> 00:34:08,000
+a few people
+
+615
+00:34:08,000 --> 00:34:10,000
+got to know
+
+616
+00:34:10,000 --> 00:34:12,000
+the tools you use
+
+617
+00:34:12,000 --> 00:34:14,000
+against the ones you use,
+
+618
+00:34:14,000 --> 00:34:16,000
+and then they started simulating
+
+619
+00:34:16,000 --> 00:34:18,000
+how the mouse moves to make it work better.
+
+620
+00:34:18,000 --> 00:34:20,000
+And it really is a cat-and-mouse game.
+
+621
+00:34:20,000 --> 00:34:22,000
+Frodo completely.
+
+622
+00:34:22,000 --> 00:34:24,000
+Yes,
+
+623
+00:34:24,000 --> 00:34:26,000
+when you have money in your pocket,
+
+624
+00:34:26,000 --> 00:34:28,000
+on the other hand,
+
+625
+00:34:28,000 --> 00:34:30,000
+there is a lot of interest in it.
+
+626
+00:34:32,000 --> 00:34:34,000
+I'll give you
+
+627
+00:34:34,000 --> 00:34:36,000
+an example,
+
+628
+00:34:36,000 --> 00:34:38,000
+I wouldn't call it a fraud,
+
+629
+00:34:38,000 --> 00:34:40,000
+but a dark pattern.
+
+630
+00:34:40,000 --> 00:34:42,000
+For example,
+
+631
+00:34:42,000 --> 00:34:44,000
+a company
+
+632
+00:34:44,000 --> 00:34:46,000
+offers you an order,
+
+633
+00:34:46,000 --> 00:34:48,000
+it's very easy to make an order,
+
+634
+00:34:48,000 --> 00:34:50,000
+but if you want
+
+635
+00:34:50,000 --> 00:34:52,000
+to cancel it,
+
+636
+00:34:52,000 --> 00:34:54,000
+it's very difficult.
+
+637
+00:34:54,000 --> 00:34:56,000
+You have to go through all the steps,
+
+638
+00:34:56,000 --> 00:34:58,000
+and for them,
+
+639
+00:34:58,000 --> 00:35:00,000
+it may not be
+
+640
+00:35:00,000 --> 00:35:02,000
+the most moral
+
+641
+00:35:02,000 --> 00:35:04,000
+or so on,
+
+642
+00:35:04,000 --> 00:35:06,000
+but it's understandable.
+
+643
+00:35:06,000 --> 00:35:08,000
+They have even less
+
+644
+00:35:08,000 --> 00:35:10,000
+of their own systems,
+
+645
+00:35:10,000 --> 00:35:12,000
+because you are
+
+646
+00:35:12,000 --> 00:35:14,000
+allowed to do it
+
+647
+00:35:14,000 --> 00:35:16,000
+in an unoptimal way.
+
+648
+00:35:16,000 --> 00:35:18,000
+What happens
+
+649
+00:35:18,000 --> 00:35:20,000
+is that
+
+650
+00:35:20,000 --> 00:35:22,000
+as you
+
+651
+00:35:22,000 --> 00:35:24,000
+imagine
+
+652
+00:35:24,000 --> 00:35:26,000
+and imagine,
+
+653
+00:35:26,000 --> 00:35:28,000
+one thing that will
+
+654
+00:35:28,000 --> 00:35:30,000
+slowly raise the cost
+
+655
+00:35:30,000 --> 00:35:32,000
+for this dark pattern
+
+656
+00:35:32,000 --> 00:35:34,000
+is that
+
+657
+00:35:34,000 --> 00:35:36,000
+the logic
+
+658
+00:35:36,000 --> 00:35:38,000
+on their side looks completely different.
+
+659
+00:35:38,000 --> 00:35:40,000
+For example,
+
+660
+00:35:40,000 --> 00:35:42,000
+if you have a bot
+
+661
+00:35:42,000 --> 00:35:44,000
+that can automatically
+
+662
+00:35:44,000 --> 00:35:46,000
+go through all those
+
+663
+00:35:46,000 --> 00:35:48,000
+strange steps and cancel the order,
+
+664
+00:35:48,000 --> 00:35:50,000
+they may now have
+
+665
+00:35:50,000 --> 00:35:52,000
+on their side
+
+666
+00:35:52,000 --> 00:35:54,000
+some expense
+
+667
+00:35:54,000 --> 00:35:56,000
+that goes
+
+668
+00:35:56,000 --> 00:35:58,000
+for the interaction
+
+669
+00:35:58,000 --> 00:36:00,000
+with your bot.
+
+670
+00:36:00,000 --> 00:36:02,000
+It can be very expensive for you,
+
+671
+00:36:02,000 --> 00:36:04,000
+but they have to be in an interaction
+
+672
+00:36:04,000 --> 00:36:06,000
+with millions of bots,
+
+673
+00:36:06,000 --> 00:36:08,000
+and
+
+674
+00:36:08,000 --> 00:36:10,000
+these things can
+
+675
+00:36:10,000 --> 00:36:12,000
+turn upside down.
+
+676
+00:36:12,000 --> 00:36:14,000
+I think we'll see some of that
+
+677
+00:36:14,000 --> 00:36:16,000
+in this area.
+
+678
+00:36:16,000 --> 00:36:18,000
+These quite obvious
+
+679
+00:36:18,000 --> 00:36:20,000
+dark patterns may not work anymore,
+
+680
+00:36:20,000 --> 00:36:22,000
+because there will be some level of
+
+681
+00:36:22,000 --> 00:36:24,000
+intelligence on both sides,
+
+682
+00:36:24,000 --> 00:36:26,000
+not just on one.
+
+683
+00:36:26,000 --> 00:36:28,000
+But that's good.
+
+684
+00:36:28,000 --> 00:36:30,000
+One more
+
+685
+00:36:30,000 --> 00:36:32,000
+similar example.
+
+686
+00:36:32,000 --> 00:36:34,000
+For example,
+
+687
+00:36:34,000 --> 00:36:36,000
+in law,
+
+688
+00:36:36,000 --> 00:36:38,000
+not all people have
+
+689
+00:36:38,000 --> 00:36:40,000
+laws for everything,
+
+690
+00:36:40,000 --> 00:36:42,000
+but people have
+
+691
+00:36:42,000 --> 00:36:44,000
+very different access
+
+692
+00:36:44,000 --> 00:36:46,000
+to people who can help them
+
+693
+00:36:46,000 --> 00:36:48,000
+navigate these laws.
+
+694
+00:36:48,000 --> 00:36:50,000
+And of course,
+
+695
+00:36:50,000 --> 00:36:52,000
+this is very much needed.
+
+696
+00:36:52,000 --> 00:36:54,000
+A company that has a lot of money for its employees
+
+697
+00:36:54,000 --> 00:36:56,000
+may have a lot of money
+
+698
+00:36:56,000 --> 00:36:58,000
+and manage to do something.
+
+699
+00:36:58,000 --> 00:37:00,000
+Now, if you
+
+700
+00:37:00,000 --> 00:37:02,000
+introduce
+
+701
+00:37:02,000 --> 00:37:04,000
+an extra-priced service,
+
+702
+00:37:04,000 --> 00:37:06,000
+legal aid,
+
+703
+00:37:06,000 --> 00:37:08,000
+that
+
+704
+00:37:08,000 --> 00:37:10,000
+reduces the gap
+
+705
+00:37:10,000 --> 00:37:12,000
+between what the weak
+
+706
+00:37:12,000 --> 00:37:14,000
+and the powerful have,
+
+707
+00:37:14,000 --> 00:37:16,000
+I think this can change
+
+708
+00:37:16,000 --> 00:37:18,000
+the whole dynamic.
+
+709
+00:37:18,000 --> 00:37:20,000
+Which is good again.
+
+710
+00:37:20,000 --> 00:37:22,000
+I mean, I believe
+
+711
+00:37:22,000 --> 00:37:24,000
+that...
+
+712
+00:37:24,000 --> 00:37:26,000
+Why are you avoiding me?
+
+713
+00:37:26,000 --> 00:37:28,000
+Let's move on
+
+714
+00:37:28,000 --> 00:37:30,000
+to the topics that are weak.
+
+715
+00:37:30,000 --> 00:37:32,000
+No, no, I'm trying, but...
+
+716
+00:37:34,000 --> 00:37:36,000
+What has become,
+
+717
+00:37:36,000 --> 00:37:38,000
+I see it as evolutionarily good,
+
+718
+00:37:38,000 --> 00:37:40,000
+and at the same time,
+
+719
+00:37:40,000 --> 00:37:42,000
+this gap is decreasing.
+
+720
+00:37:42,000 --> 00:37:44,000
+So,
+
+721
+00:37:44,000 --> 00:37:46,000
+a company that doesn't have these opportunities
+
+722
+00:37:46,000 --> 00:37:48,000
+is now coming to some opportunities,
+
+723
+00:37:48,000 --> 00:37:50,000
+while a company that needs it a lot
+
+724
+00:37:50,000 --> 00:37:52,000
+is now,
+
+725
+00:37:52,000 --> 00:37:54,000
+its position is now a bit different.
+
+726
+00:37:54,000 --> 00:37:56,000
+Let's be specific,
+
+727
+00:37:56,000 --> 00:37:58,000
+for those who may be more interested.
+
+728
+00:37:58,000 --> 00:38:00,000
+A company that deals with such things
+
+729
+00:38:00,000 --> 00:38:02,000
+is Do Not Pay.
+
+730
+00:38:02,000 --> 00:38:04,000
+They have become
+
+731
+00:38:04,000 --> 00:38:06,000
+quite well-known in this area,
+
+732
+00:38:06,000 --> 00:38:08,000
+and it's worth looking at
+
+733
+00:38:08,000 --> 00:38:10,000
+what is the last thing they have.
+
+734
+00:38:10,000 --> 00:38:12,000
+This Do Not Pay,
+
+735
+00:38:12,000 --> 00:38:14,000
+I understood,
+
+736
+00:38:14,000 --> 00:38:16,000
+they are fighting
+
+737
+00:38:16,000 --> 00:38:18,000
+against you paying
+
+738
+00:38:18,000 --> 00:38:20,000
+those subscriptions,
+
+739
+00:38:20,000 --> 00:38:22,000
+that you don't pay anything.
+
+740
+00:38:22,000 --> 00:38:24,000
+No, I think they are positioning themselves
+
+741
+00:38:24,000 --> 00:38:26,000
+as some kind of
+
+742
+00:38:26,000 --> 00:38:28,000
+small consumer
+
+743
+00:38:28,000 --> 00:38:30,000
+average person advocate.
+
+744
+00:38:30,000 --> 00:38:32,000
+In various interactions
+
+745
+00:38:32,000 --> 00:38:34,000
+with the system.
+
+746
+00:38:34,000 --> 00:38:36,000
+It can be about cancelling orders,
+
+747
+00:38:36,000 --> 00:38:38,000
+it can be about some kind of
+
+748
+00:38:38,000 --> 00:38:40,000
+basic legal aid, and so on.
+
+749
+00:38:40,000 --> 00:38:42,000
+But I think that
+
+750
+00:38:42,000 --> 00:38:44,000
+just a few weeks ago,
+
+751
+00:38:44,000 --> 00:38:46,000
+they challenged
+
+752
+00:38:46,000 --> 00:38:48,000
+to give some kind of award
+
+753
+00:38:48,000 --> 00:38:50,000
+to an artificial intelligence
+
+754
+00:38:50,000 --> 00:38:52,000
+that will be able to win
+
+755
+00:38:52,000 --> 00:38:54,000
+in court in some cases.
+
+756
+00:38:54,000 --> 00:38:56,000
+Yes, in Germany,
+
+757
+00:38:56,000 --> 00:38:58,000
+I think it will be in Germany,
+
+758
+00:38:58,000 --> 00:39:00,000
+there will be a trial,
+
+759
+00:39:00,000 --> 00:39:02,000
+although I think it will still be
+
+760
+00:39:02,000 --> 00:39:04,000
+for some parking lot,
+
+761
+00:39:04,000 --> 00:39:06,000
+some high stakes.
+
+762
+00:39:06,000 --> 00:39:08,000
+And the party
+
+763
+00:39:08,000 --> 00:39:10,000
+will represent itself,
+
+764
+00:39:10,000 --> 00:39:12,000
+because it has the opportunity,
+
+765
+00:39:12,000 --> 00:39:14,000
+and it will have a hearing,
+
+766
+00:39:14,000 --> 00:39:16,000
+where the model will decide
+
+767
+00:39:16,000 --> 00:39:18,000
+But they also offered
+
+768
+00:39:18,000 --> 00:39:20,000
+for one million dollars
+
+769
+00:39:20,000 --> 00:39:22,000
+an award to someone who would be prepared
+
+770
+00:39:22,000 --> 00:39:24,000
+to go to a similar trial,
+
+771
+00:39:24,000 --> 00:39:26,000
+but in front of the US Constitutional Court.
+
+772
+00:39:26,000 --> 00:39:28,000
+Which would be hard to do,
+
+773
+00:39:28,000 --> 00:39:30,000
+because people commented
+
+774
+00:39:30,000 --> 00:39:32,000
+that you can't do that
+
+775
+00:39:32,000 --> 00:39:34,000
+at all.
+
+776
+00:39:34,000 --> 00:39:36,000
+But
+
+777
+00:39:36,000 --> 00:39:38,000
+I believe they are quite confident
+
+778
+00:39:38,000 --> 00:39:40,000
+in what they currently have,
+
+779
+00:39:40,000 --> 00:39:42,000
+what is currently possible.
+
+780
+00:39:42,000 --> 00:39:44,000
+For example, I saw a video
+
+781
+00:39:44,000 --> 00:39:46,000
+where they were talking
+
+782
+00:39:46,000 --> 00:39:48,000
+with a representative
+
+783
+00:39:48,000 --> 00:39:50,000
+of a charity
+
+784
+00:39:50,000 --> 00:39:52,000
+about lowering the age limit,
+
+785
+00:39:52,000 --> 00:39:54,000
+and it was broadcasted.
+
+786
+00:39:54,000 --> 00:39:56,000
+I think
+
+787
+00:39:56,000 --> 00:39:58,000
+it was for Comcast,
+
+788
+00:39:58,000 --> 00:40:00,000
+to lower the age limit.
+
+789
+00:40:02,000 --> 00:40:04,000
+And that's just
+
+790
+00:40:04,000 --> 00:40:06,000
+the tip of the iceberg
+
+791
+00:40:06,000 --> 00:40:08,000
+where it will go.
+
+792
+00:40:10,000 --> 00:40:12,000
+I think you can see
+
+793
+00:40:12,000 --> 00:40:14,000
+even more of this
+
+794
+00:40:14,000 --> 00:40:16,000
+in the meat industry.
+
+795
+00:40:16,000 --> 00:40:18,000
+Will it always be
+
+796
+00:40:18,000 --> 00:40:20,000
+affordable?
+
+797
+00:40:20,000 --> 00:40:22,000
+I look at it
+
+798
+00:40:22,000 --> 00:40:24,000
+as a usable perspective
+
+799
+00:40:24,000 --> 00:40:26,000
+when it comes to
+
+800
+00:40:26,000 --> 00:40:28,000
+new products.
+
+801
+00:40:28,000 --> 00:40:30,000
+For example,
+
+802
+00:40:30,000 --> 00:40:32,000
+what are the products
+
+803
+00:40:32,000 --> 00:40:34,000
+that people would like
+
+804
+00:40:34,000 --> 00:40:36,000
+to have and use?
+
+805
+00:40:36,000 --> 00:40:38,000
+One option is to look at
+
+806
+00:40:38,000 --> 00:40:40,000
+what rich people use
+
+807
+00:40:40,000 --> 00:40:42,000
+and try to
+
+808
+00:40:42,000 --> 00:40:44,000
+imagine what it would look like
+
+809
+00:40:44,000 --> 00:40:46,000
+if you did it a thousand times cheaper.
+
+810
+00:40:46,000 --> 00:40:48,000
+Would things change or not?
+
+811
+00:40:48,000 --> 00:40:50,000
+Of course it would be cheaper.
+
+812
+00:40:50,000 --> 00:40:52,000
+I think that things
+
+813
+00:40:52,000 --> 00:40:54,000
+like an assistant
+
+814
+00:40:54,000 --> 00:40:56,000
+who instead of you
+
+815
+00:40:56,000 --> 00:40:58,000
+handles
+
+816
+00:40:58,000 --> 00:41:00,000
+offering telecommunications,
+
+817
+00:41:00,000 --> 00:41:02,000
+or I don't know, you make
+
+818
+00:41:02,000 --> 00:41:04,000
+various reservations,
+
+819
+00:41:04,000 --> 00:41:06,000
+something together with which you want to engage,
+
+820
+00:41:06,000 --> 00:41:08,000
+I think there is a lot of potential here.
+
+821
+00:41:08,000 --> 00:41:10,000
+I think that
+
+822
+00:41:10,000 --> 00:41:12,000
+this year will be the same
+
+823
+00:41:12,000 --> 00:41:14,000
+when these types of agents
+
+824
+00:41:14,000 --> 00:41:16,000
+will move forward.
+
+825
+00:41:16,000 --> 00:41:18,000
+Now I would like to
+
+826
+00:41:18,000 --> 00:41:20,000
+try to talk
+
+827
+00:41:20,000 --> 00:41:22,000
+a little more about these concepts.
+
+828
+00:41:22,000 --> 00:41:24,000
+What we could do at the beginning.
+
+829
+00:41:24,000 --> 00:41:26,000
+What we could do at the beginning.
+
+830
+00:41:26,000 --> 00:41:28,000
+Can you explain to us
+
+831
+00:41:28,000 --> 00:41:30,000
+the concept
+
+832
+00:41:30,000 --> 00:41:32,000
+of artificial intelligence,
+
+833
+00:41:32,000 --> 00:41:34,000
+machine learning and deep learning?
+
+834
+00:41:34,000 --> 00:41:36,000
+What are the
+
+835
+00:41:36,000 --> 00:41:38,000
+connections and where
+
+836
+00:41:38,000 --> 00:41:40,000
+does it lead us?
+
+837
+00:41:40,000 --> 00:41:42,000
+What is the buzzword?
+
+838
+00:41:42,000 --> 00:41:44,000
+What is the marketing buzzword?
+
+839
+00:41:44,000 --> 00:41:46,000
+What is Hollywood?
+
+840
+00:41:46,000 --> 00:41:48,000
+What is sci-fi?
+
+841
+00:41:48,000 --> 00:41:50,000
+What is the business
+
+842
+00:41:50,000 --> 00:41:52,000
+we are talking about in this term?
+
+843
+00:41:52,000 --> 00:41:54,000
+Let's start with artificial intelligence.
+
+844
+00:41:54,000 --> 00:41:56,000
+The most
+
+845
+00:41:56,000 --> 00:41:58,000
+adored word here.
+
+846
+00:42:00,000 --> 00:42:02,000
+This is a very
+
+847
+00:42:02,000 --> 00:42:04,000
+complex thing.
+
+848
+00:42:04,000 --> 00:42:06,000
+A lot of things
+
+849
+00:42:06,000 --> 00:42:08,000
+can fall into it.
+
+850
+00:42:08,000 --> 00:42:10,000
+I personally
+
+851
+00:42:10,000 --> 00:42:12,000
+see it like this.
+
+852
+00:42:12,000 --> 00:42:14,000
+A system that
+
+853
+00:42:14,000 --> 00:42:16,000
+produces outputs
+
+854
+00:42:16,000 --> 00:42:18,000
+based on some inputs
+
+855
+00:42:18,000 --> 00:42:20,000
+that are consistent
+
+856
+00:42:20,000 --> 00:42:22,000
+with some
+
+857
+00:42:22,000 --> 00:42:24,000
+optimization function.
+
+858
+00:42:28,000 --> 00:42:30,000
+This is the subsequent point
+
+859
+00:42:30,000 --> 00:42:32,000
+that we can almost
+
+860
+00:42:32,000 --> 00:42:34,000
+talk about. For example,
+
+861
+00:42:34,000 --> 00:42:36,000
+a system that looks
+
+862
+00:42:36,000 --> 00:42:38,000
+at the value
+
+863
+00:42:38,000 --> 00:42:40,000
+of a temperature sensor
+
+864
+00:42:40,000 --> 00:42:42,000
+and then
+
+865
+00:42:42,000 --> 00:42:44,000
+gives you an output
+
+866
+00:42:44,000 --> 00:42:46,000
+based on the value
+
+867
+00:42:46,000 --> 00:42:48,000
+is a kind of intelligence.
+
+868
+00:42:48,000 --> 00:42:50,000
+It sounds like
+
+869
+00:42:50,000 --> 00:42:52,000
+an if
+
+870
+00:42:52,000 --> 00:42:54,000
+or case clause.
+
+871
+00:42:54,000 --> 00:42:56,000
+It can be.
+
+872
+00:42:56,000 --> 00:42:58,000
+I do not exclude them
+
+873
+00:42:58,000 --> 00:43:00,000
+automatically
+
+874
+00:43:00,000 --> 00:43:02,000
+.
+
+875
+00:43:04,000 --> 00:43:06,000
+This is purely
+
+876
+00:43:06,000 --> 00:43:08,000
+official.
+
+877
+00:43:08,000 --> 00:43:10,000
+In practice, people use it like this.
+
+878
+00:43:10,000 --> 00:43:12,000
+Artificial intelligence is all
+
+879
+00:43:12,000 --> 00:43:14,000
+that we don't know how to do yet.
+
+880
+00:43:16,000 --> 00:43:18,000
+Subsequently, it also directs
+
+881
+00:43:18,000 --> 00:43:20,000
+the whole
+
+882
+00:43:20,000 --> 00:43:22,000
+discussion.
+
+883
+00:43:22,000 --> 00:43:24,000
+For example, one company says it uses
+
+884
+00:43:24,000 --> 00:43:26,000
+artificial intelligence.
+
+885
+00:43:26,000 --> 00:43:28,000
+It uses some three inputs.
+
+886
+00:43:28,000 --> 00:43:30,000
+Then you get a lot of money.
+
+887
+00:43:30,000 --> 00:43:32,000
+Maybe.
+
+888
+00:43:32,000 --> 00:43:34,000
+But people will say
+
+889
+00:43:34,000 --> 00:43:36,000
+that this is not artificial intelligence.
+
+890
+00:43:36,000 --> 00:43:38,000
+Artificial intelligence is just that.
+
+891
+00:43:38,000 --> 00:43:40,000
+Then we go forward.
+
+892
+00:43:42,000 --> 00:43:44,000
+Do you want to say that
+
+893
+00:43:44,000 --> 00:43:46,000
+artificial intelligence is what is massively
+
+894
+00:43:46,000 --> 00:43:48,000
+needed in marketing purposes?
+
+895
+00:43:48,000 --> 00:43:50,000
+In any case,
+
+896
+00:43:50,000 --> 00:43:52,000
+it is needed.
+
+897
+00:43:54,000 --> 00:43:56,000
+I see that
+
+898
+00:43:56,000 --> 00:43:58,000
+you added a bunch of products
+
+899
+00:43:58,000 --> 00:44:00,000
+with new names, which are actually old products.
+
+900
+00:44:02,000 --> 00:44:04,000
+Now we have some kind of artificial intelligence
+
+901
+00:44:04,000 --> 00:44:06,000
+inside.
+
+902
+00:44:06,000 --> 00:44:08,000
+Probably similar to what you said before.
+
+903
+00:44:08,000 --> 00:44:10,000
+A couple of ifs that are now smartly decided.
+
+904
+00:44:12,000 --> 00:44:14,000
+I think this is an example.
+
+905
+00:44:14,000 --> 00:44:16,000
+As far as ifs are concerned,
+
+906
+00:44:16,000 --> 00:44:18,000
+this moment,
+
+907
+00:44:18,000 --> 00:44:20,000
+maybe the last two years, is quite harmful.
+
+908
+00:44:20,000 --> 00:44:22,000
+Because, for example,
+
+909
+00:44:22,000 --> 00:44:24,000
+people use it as an excuse.
+
+910
+00:44:24,000 --> 00:44:26,000
+Oh, this is not
+
+911
+00:44:26,000 --> 00:44:28,000
+really smart.
+
+912
+00:44:28,000 --> 00:44:30,000
+These are just if-inputs.
+
+913
+00:44:30,000 --> 00:44:32,000
+We are now very deep
+
+914
+00:44:32,000 --> 00:44:34,000
+in a period when
+
+915
+00:44:34,000 --> 00:44:36,000
+we have gone relatively far away
+
+916
+00:44:36,000 --> 00:44:38,000
+from any kind of if-inputs.
+
+917
+00:44:38,000 --> 00:44:40,000
+But then,
+
+918
+00:44:40,000 --> 00:44:42,000
+no one is offended
+
+919
+00:44:42,000 --> 00:44:44,000
+because we all
+
+920
+00:44:44,000 --> 00:44:46,000
+saw those memes
+
+921
+00:44:46,000 --> 00:44:48,000
+where it says up and down,
+
+922
+00:44:48,000 --> 00:44:50,000
+and then there are if-inputs.
+
+923
+00:44:50,000 --> 00:44:52,000
+But we are no longer the same.
+
+924
+00:44:52,000 --> 00:44:54,000
+Yes, but I mean,
+
+925
+00:44:54,000 --> 00:44:56,000
+if we go back,
+
+926
+00:44:56,000 --> 00:44:58,000
+what kind of machine do you think
+
+927
+00:44:58,000 --> 00:45:00,000
+at the end of the day
+
+928
+00:45:00,000 --> 00:45:02,000
+there is a machine
+
+929
+00:45:02,000 --> 00:45:04,000
+that works on some
+
+930
+00:45:04,000 --> 00:45:06,000
+zeros?
+
+931
+00:45:06,000 --> 00:45:08,000
+Yes, I don't know.
+
+932
+00:45:08,000 --> 00:45:10,000
+It is true that we have built more abstractions,
+
+933
+00:45:10,000 --> 00:45:12,000
+especially in mathematics.
+
+934
+00:45:12,000 --> 00:45:14,000
+I mean, the counter-argument
+
+935
+00:45:14,000 --> 00:45:16,000
+for this kind of argument
+
+936
+00:45:16,000 --> 00:45:18,000
+is always that
+
+937
+00:45:18,000 --> 00:45:20,000
+you are not some kind of machine.
+
+938
+00:45:20,000 --> 00:45:22,000
+If they would look deep enough at you,
+
+939
+00:45:22,000 --> 00:45:24,000
+what would they see? Some molecules?
+
+940
+00:45:24,000 --> 00:45:26,000
+Where is the magic?
+
+941
+00:45:26,000 --> 00:45:28,000
+He says he has a soul,
+
+942
+00:45:28,000 --> 00:45:30,000
+and he has free will.
+
+943
+00:45:30,000 --> 00:45:32,000
+Yes, but all machines now also say they have.
+
+944
+00:45:32,000 --> 00:45:34,000
+Only the right to work can be at the beginning.
+
+945
+00:45:34,000 --> 00:45:36,000
+Sooner or later, you won't even need that anymore.
+
+946
+00:45:36,000 --> 00:45:38,000
+But if we go back
+
+947
+00:45:38,000 --> 00:45:40,000
+a little bit,
+
+948
+00:45:40,000 --> 00:45:42,000
+if the concept of artificial intelligence is so complex,
+
+949
+00:45:42,000 --> 00:45:44,000
+then what is machine learning?
+
+950
+00:45:44,000 --> 00:45:46,000
+A lot of people use it just like that,
+
+951
+00:45:46,000 --> 00:45:48,000
+as a nickname.
+
+952
+00:45:48,000 --> 00:45:50,000
+Machine learning is
+
+953
+00:45:50,000 --> 00:45:52,000
+the process of
+
+954
+00:45:52,000 --> 00:45:54,000
+teaching something to the model,
+
+955
+00:45:54,000 --> 00:45:56,000
+or the machine
+
+956
+00:45:56,000 --> 00:45:58,000
+is teaching something.
+
+957
+00:45:58,000 --> 00:46:00,000
+So,
+
+958
+00:46:00,000 --> 00:46:02,000
+we are a bit more complicated here.
+
+959
+00:46:02,000 --> 00:46:04,000
+We are not
+
+960
+00:46:04,000 --> 00:46:06,000
+decision-makers,
+
+961
+00:46:06,000 --> 00:46:08,000
+we don't have any
+
+962
+00:46:08,000 --> 00:46:10,000
+functions, but this is
+
+963
+00:46:10,000 --> 00:46:12,000
+just a learning process.
+
+964
+00:46:12,000 --> 00:46:14,000
+But machine learning is
+
+965
+00:46:14,000 --> 00:46:16,000
+key to artificial intelligence?
+
+966
+00:46:16,000 --> 00:46:18,000
+Yes.
+
+967
+00:46:18,000 --> 00:46:20,000
+In the beginning...
+
+968
+00:46:20,000 --> 00:46:22,000
+I mean, you can
+
+969
+00:46:22,000 --> 00:46:24,000
+accept...
+
+970
+00:46:24,000 --> 00:46:26,000
+You will have examples when you can
+
+971
+00:46:26,000 --> 00:46:28,000
+accept some decisions,
+
+972
+00:46:28,000 --> 00:46:30,000
+or produce some output,
+
+973
+00:46:30,000 --> 00:46:32,000
+without having to have a very powerful component of some learning.
+
+974
+00:46:32,000 --> 00:46:34,000
+Most of the things that interest you
+
+975
+00:46:34,000 --> 00:46:36,000
+are necessary learning.
+
+976
+00:46:36,000 --> 00:46:38,000
+And if we go
+
+977
+00:46:38,000 --> 00:46:40,000
+to deep learning,
+
+978
+00:46:40,000 --> 00:46:42,000
+deep learning is a special
+
+979
+00:46:42,000 --> 00:46:44,000
+branch of machine
+
+980
+00:46:44,000 --> 00:46:46,000
+learning,
+
+981
+00:46:46,000 --> 00:46:48,000
+which is based on many
+
+982
+00:46:48,000 --> 00:46:50,000
+neural networks,
+
+983
+00:46:50,000 --> 00:46:52,000
+as some basic
+
+984
+00:46:52,000 --> 00:46:54,000
+architecture.
+
+985
+00:46:54,000 --> 00:46:56,000
+Probably,
+
+986
+00:46:56,000 --> 00:46:58,000
+some other architectures could
+
+987
+00:46:58,000 --> 00:47:00,000
+implement this concept, but
+
+988
+00:47:00,000 --> 00:47:02,000
+this is a paradigm
+
+989
+00:47:02,000 --> 00:47:04,000
+that has been
+
+990
+00:47:04,000 --> 00:47:06,000
+implemented
+
+991
+00:47:06,000 --> 00:47:08,000
+for the last 10 years,
+
+992
+00:47:08,000 --> 00:47:10,000
+and still exists.
+
+993
+00:47:10,000 --> 00:47:12,000
+Of course,
+
+994
+00:47:12,000 --> 00:47:14,000
+the question is, what now?
+
+995
+00:47:14,000 --> 00:47:16,000
+Is this it?
+
+996
+00:47:16,000 --> 00:47:18,000
+I don't think so yet.
+
+997
+00:47:18,000 --> 00:47:20,000
+I think there is still a long way
+
+998
+00:47:20,000 --> 00:47:22,000
+to go for
+
+999
+00:47:22,000 --> 00:47:24,000
+improvement.
+
+1000
+00:47:24,000 --> 00:47:26,000
+I like
+
+1001
+00:47:26,000 --> 00:47:28,000
+this definition.
+
+1002
+00:47:28,000 --> 00:47:30,000
+I can say that it was
+
+1003
+00:47:30,000 --> 00:47:32,000
+a period of deep learning.
+
+1004
+00:47:32,000 --> 00:47:34,000
+Then we switched to
+
+1005
+00:47:34,000 --> 00:47:36,000
+big learning.
+
+1006
+00:47:36,000 --> 00:47:38,000
+I like it, because
+
+1007
+00:47:38,000 --> 00:47:40,000
+it's a great buzzword,
+
+1008
+00:47:40,000 --> 00:47:42,000
+deep learning and big data combined.
+
+1009
+00:47:42,000 --> 00:47:44,000
+If you can't sell anything with it,
+
+1010
+00:47:44,000 --> 00:47:46,000
+then you really can't do anything.
+
+1011
+00:47:48,000 --> 00:47:50,000
+But the point is,
+
+1012
+00:47:50,000 --> 00:47:52,000
+models that require
+
+1013
+00:47:52,000 --> 00:47:54,000
+so much computational power,
+
+1014
+00:47:54,000 --> 00:47:56,000
+and are trained on such huge amounts of data,
+
+1015
+00:47:56,000 --> 00:47:58,000
+that you can't
+
+1016
+00:47:58,000 --> 00:48:00,000
+transfer them to a smaller laboratory,
+
+1017
+00:48:00,000 --> 00:48:02,000
+but only big tech
+
+1018
+00:48:02,000 --> 00:48:04,000
+or very well-funded startups
+
+1019
+00:48:04,000 --> 00:48:06,000
+can do it.
+
+1020
+00:48:06,000 --> 00:48:08,000
+That's what we've seen in the last few years.
+
+1021
+00:48:08,000 --> 00:48:10,000
+The models that are
+
+1022
+00:48:10,000 --> 00:48:12,000
+talked about the most today
+
+1023
+00:48:12,000 --> 00:48:14,000
+are typical examples of that.
+
+1024
+00:48:16,000 --> 00:48:18,000
+With those cutting-edge
+
+1025
+00:48:18,000 --> 00:48:20,000
+products,
+
+1026
+00:48:20,000 --> 00:48:22,000
+and then we'll talk more about those products,
+
+1027
+00:48:22,000 --> 00:48:24,000
+is there
+
+1028
+00:48:24,000 --> 00:48:26,000
+a way of deep learning
+
+1029
+00:48:26,000 --> 00:48:28,000
+or
+
+1030
+00:48:28,000 --> 00:48:30,000
+an evolution of deep learning,
+
+1031
+00:48:30,000 --> 00:48:32,000
+or is it a hybrid approach?
+
+1032
+00:48:32,000 --> 00:48:34,000
+Is it a secret?
+
+1033
+00:48:34,000 --> 00:48:36,000
+The reason why
+
+1034
+00:48:36,000 --> 00:48:38,000
+we're here,
+
+1035
+00:48:38,000 --> 00:48:40,000
+why we're talking about it today,
+
+1036
+00:48:40,000 --> 00:48:42,000
+is deep learning.
+
+1037
+00:48:42,000 --> 00:48:44,000
+If that didn't happen,
+
+1038
+00:48:44,000 --> 00:48:46,000
+and if we didn't have those things,
+
+1039
+00:48:46,000 --> 00:48:48,000
+then I wouldn't be talking about it.
+
+1040
+00:48:48,000 --> 00:48:50,000
+Maybe I'd be talking about it in CryptoCon.
+
+1041
+00:48:50,000 --> 00:48:52,000
+No, I wouldn't.
+
+1042
+00:48:52,000 --> 00:48:54,000
+I still have a few lists.
+
+1043
+00:48:54,000 --> 00:48:56,000
+Those two things are definitely connected.
+
+1044
+00:48:56,000 --> 00:48:58,000
+Crypto and AI
+
+1045
+00:48:58,000 --> 00:49:00,000
+are definitely connected.
+
+1046
+00:49:00,000 --> 00:49:02,000
+No, let's move on.
+
+1047
+00:49:02,000 --> 00:49:04,000
+We'll cut that part.
+
+1048
+00:49:08,000 --> 00:49:10,000
+What was really important
+
+1049
+00:49:10,000 --> 00:49:12,000
+within deep learning
+
+1050
+00:49:12,000 --> 00:49:14,000
+was the point, I think I already mentioned it,
+
+1051
+00:49:14,000 --> 00:49:16,000
+the architecture of transformers.
+
+1052
+00:49:18,000 --> 00:49:20,000
+I think it's better to
+
+1053
+00:49:20,000 --> 00:49:22,000
+do it with a few slides.
+
+1054
+00:49:22,000 --> 00:49:24,000
+But the mechanism
+
+1055
+00:49:24,000 --> 00:49:26,000
+that's behind it
+
+1056
+00:49:26,000 --> 00:49:28,000
+is attention.
+
+1057
+00:49:28,000 --> 00:49:30,000
+That was very, very
+
+1058
+00:49:30,000 --> 00:49:32,000
+important.
+
+1059
+00:49:32,000 --> 00:49:34,000
+Roughly speaking, it's because
+
+1060
+00:49:34,000 --> 00:49:36,000
+you get a context,
+
+1061
+00:49:36,000 --> 00:49:38,000
+and then you take
+
+1062
+00:49:38,000 --> 00:49:40,000
+the whole context,
+
+1063
+00:49:40,000 --> 00:49:42,000
+and you weigh the parts
+
+1064
+00:49:42,000 --> 00:49:44,000
+in the context
+
+1065
+00:49:44,000 --> 00:49:46,000
+that deserve more attention.
+
+1066
+00:49:46,000 --> 00:49:48,000
+But that process is
+
+1067
+00:49:48,000 --> 00:49:50,000
+human interaction,
+
+1068
+00:49:50,000 --> 00:49:52,000
+when it decides,
+
+1069
+00:49:52,000 --> 00:49:54,000
+or is it built
+
+1070
+00:49:54,000 --> 00:49:56,000
+based on what?
+
+1071
+00:49:56,000 --> 00:49:58,000
+As much as it can
+
+1072
+00:49:58,000 --> 00:50:00,000
+pay attention to. That's the beauty of it.
+
+1073
+00:50:00,000 --> 00:50:11,000
+So this paradigm, when it started, is now being applied to all possible examples of use.
+
+1074
+00:50:11,000 --> 00:50:25,000
+At the beginning, they were words, then they were pictures, then they are now multimodal models that can take colors out, connect those colors, and so on.
+
+1075
+00:50:25,000 --> 00:50:33,000
+Can I ask about deep learning? Is it about neural networks that are connected to each other?
+
+1076
+00:50:33,000 --> 00:50:45,000
+What do you mean by deep? What is meant by deep? Layers that you can put together, neurons that you can put together?
+
+1077
+00:50:45,000 --> 00:51:03,000
+Imagine that you have layers made up of many neurons, and the signal travels through those layers, and those layers are typically large.
+
+1078
+00:51:03,000 --> 00:51:06,000
+What is it, 100,000, 10,000,000?
+
+1079
+00:51:06,000 --> 00:51:09,000
+No, no, I don't mean 100,000,000.
+
+1080
+00:51:09,000 --> 00:51:11,000
+Just a feeling?
+
+1081
+00:51:11,000 --> 00:51:19,000
+Well, let me put it this way, basic things. We talk a lot about parameters in these models.
+
+1082
+00:51:19,000 --> 00:51:29,000
+Here, a parameter is, let's say, the weight of each connection between two neurons.
+
+1083
+00:51:29,000 --> 00:51:32,000
+How many connections are there?
+
+1084
+00:51:32,000 --> 00:51:44,000
+At the moment, let's say, I don't know, the model used by PTTRI has 175 billion connections.
+
+1085
+00:51:45,000 --> 00:51:56,000
+Now, in fact, there are also more complex models that go against billions, or maybe we are already somewhere above that.
+
+1086
+00:51:56,000 --> 00:52:06,000
+But is that a parameter that you add when you learn the network?
+
+1087
+00:52:06,000 --> 00:52:11,000
+No, no, that's the same thing that the network learns. The network learns how it should be.
+
+1088
+00:52:11,000 --> 00:52:18,000
+But the number that you mentioned, billions, is that a limit that you want to train?
+
+1089
+00:52:18,000 --> 00:52:21,000
+Not more, but is that the consequence?
+
+1090
+00:52:21,000 --> 00:52:23,000
+Yes, you define that.
+
+1091
+00:52:23,000 --> 00:52:30,000
+At the beginning, when you set up the architecture of the network, you know how many layers to choose, how many connections to choose, and so on.
+
+1092
+00:52:30,000 --> 00:52:35,000
+But what are the values ​​of each of these, the network then learns by itself.
+
+1093
+00:52:36,000 --> 00:52:38,000
+I don't know.
+
+1094
+00:52:38,000 --> 00:52:40,000
+Did you learn anything?
+
+1095
+00:52:40,000 --> 00:52:46,000
+That's the whole point. Well, not just me, I hope there will be people who will learn and listen to us here.
+
+1096
+00:52:46,000 --> 00:53:01,000
+Now, we have a question, can you tell us a little more about the projects you are doing in NDAVI with these technologies?
+
+1097
+00:53:02,000 --> 00:53:09,000
+Then I can ask you more about AI products, and maybe we can talk a little about how they work for you.
+
+1098
+00:53:09,000 --> 00:53:18,000
+I would really like to hear what kind of day-to-day project you are working on, so that people can get a sense of what the industry is doing.
+
+1099
+00:53:18,000 --> 00:53:21,000
+I know you work with 4GTP, so you can say.
+
+1100
+00:53:22,000 --> 00:53:29,000
+Maybe it would be like this, what is this moment?
+
+1101
+00:53:29,000 --> 00:53:34,000
+If we make a time lapse, what are the problems that are being solved?
+
+1102
+00:53:34,000 --> 00:53:36,000
+Are they really real?
+
+1103
+00:53:37,000 --> 00:53:48,000
+We can detect some things in the pictures for the purposes of production or medicine.
+
+1104
+00:53:48,000 --> 00:53:58,000
+We can tell some prices, we can tell the amount of inventory that is needed.
+
+1105
+00:53:58,000 --> 00:54:02,000
+These are things that are already known to people.
+
+1106
+00:54:02,000 --> 00:54:09,000
+But at the same time, we are still actively developing internally.
+
+1107
+00:54:10,000 --> 00:54:16,000
+Now we can go for things that use the latest technologies as much as possible.
+
+1108
+00:54:16,000 --> 00:54:34,000
+For example, coding assistants, systems for optimally managing knowledge in companies, various bots for answering questions, and so on.
+
+1109
+00:54:35,000 --> 00:54:42,000
+When you go to a job interview, they always ask you what your pet projects are.
+
+1110
+00:54:42,000 --> 00:54:45,000
+Do you want to say what your pet project is?
+
+1111
+00:54:45,000 --> 00:54:51,000
+I'm working a little more on how you play.
+
+1112
+00:54:51,000 --> 00:54:53,000
+I can also sum it up.
+
+1113
+00:54:54,000 --> 00:55:04,000
+Sometimes there are some things that I do and they are so interesting that I can say about my pet project.
+
+1114
+00:55:04,000 --> 00:55:15,000
+One thing that I do in my free time is a semantic scanner for tweets.
+
+1115
+00:55:15,000 --> 00:55:24,000
+This is such a functionality that a person would like to be productive on their own.
+
+1116
+00:55:24,000 --> 00:55:27,000
+What do I mean by that?
+
+1117
+00:55:27,000 --> 00:55:32,000
+For example, I like a bunch of tweets.
+
+1118
+00:55:32,000 --> 00:55:40,000
+Then there comes a moment when someone grabs me and I would like to touch on some topics that have come to my radar.
+
+1119
+00:55:40,000 --> 00:55:42,000
+But how do you find this now?
+
+1120
+00:55:43,000 --> 00:55:51,000
+Now I'm doing this, for example, I'm going to take this tweet, then I'm going to take some tweets that are contextually related to it.
+
+1121
+00:55:51,000 --> 00:55:58,000
+Then you take a picture that someone has pasted, and then you look at what the personality of that picture is.
+
+1122
+00:55:58,000 --> 00:56:03,000
+Then you look at what people wrote in that tweet when they quoted it or tweeted it.
+
+1123
+00:56:03,000 --> 00:56:10,000
+Then you take it all together, put it in GPT-3 to summarize it carefully.
+
+1124
+00:56:11,000 --> 00:56:20,000
+Then you put all these things in a vector database, and in the end, it's not over yet.
+
+1125
+00:56:20,000 --> 00:56:28,000
+The idea is to write a topic that interests you and automatically attracts those tweets that are the most relevant.
+
+1126
+00:56:28,000 --> 00:56:38,000
+In other words, you have to understand the nature of tweets, you have to know how to connect with the broader context of what people are saying.
+
+1127
+00:56:38,000 --> 00:56:42,000
+But also on the other hand, when you ask a question, you can ...
+
+1128
+00:56:42,000 --> 00:56:48,000
+Yes, but the biggest thing is, for example, this was a project that would be like ...
+
+1129
+00:56:48,000 --> 00:56:59,000
+Five years ago, the research department and I don't know how many different engineers, now I often do it myself as a hobby.
+
+1130
+00:57:00,000 --> 00:57:06,000
+Because simply with the models of GPT-3, the context is automatically pre-learned.
+
+1131
+00:57:06,000 --> 00:57:11,000
+To actually make a user, more like a researcher.
+
+1132
+00:57:11,000 --> 00:57:14,000
+I mean, yes, plus it helps me write code.
+
+1133
+00:57:14,000 --> 00:57:16,000
+If I need something ...
+
+1134
+00:57:16,000 --> 00:57:25,000
+So you described it as something that someone can come in quite quickly and start using quite quickly.
+
+1135
+00:57:25,000 --> 00:57:33,000
+Yes, if I wanted people to take something away from this conversation, it is that time has really changed.
+
+1136
+00:57:33,000 --> 00:57:37,000
+And technology has really become more accessible.
+
+1137
+00:57:37,000 --> 00:57:48,000
+Instead of talking about some academic articles that you can study, let's talk about the fact that they are simply tools that you just start using and are completely no-code.
+
+1138
+00:57:48,000 --> 00:57:56,000
+You know what, a big challenge is that sometimes it happens in front of juniors.
+
+1139
+00:57:56,000 --> 00:57:58,000
+Andraš will probably confirm this.
+
+1140
+00:57:58,000 --> 00:58:05,000
+That people pick up an article, watch a YouTube tutorial, put themselves in the subject.
+
+1141
+00:58:05,000 --> 00:58:09,000
+Then they come to the service.
+
+1142
+00:58:09,000 --> 00:58:16,000
+Then you realize that more than that tutorial, people don't have context, background, depth.
+
+1143
+00:58:16,000 --> 00:58:25,000
+And when these challenges begin, when they start, you have to know how to put them together somehow.
+
+1144
+00:58:25,000 --> 00:58:34,000
+Here is the part where you say that these people need a little self-interest in the problem and self-research.
+
+1145
+00:58:34,000 --> 00:58:40,000
+Yes, just self-research and go, for example, look at how the JavaScript library works.
+
+1146
+00:58:40,000 --> 00:58:47,000
+It's probably a magnitude more simple than understanding all these exercises.
+
+1147
+00:58:47,000 --> 00:58:48,000
+It's probably.
+
+1148
+00:58:48,000 --> 00:58:49,000
+It's pretty much the same here.
+
+1149
+00:58:49,000 --> 00:58:51,000
+It's pretty much the same.
+
+1150
+00:58:51,000 --> 00:58:58,000
+I mean, no, we just came into an era where these are products.
+
+1151
+00:58:58,000 --> 00:59:00,000
+Where products are used.
+
+1152
+00:59:00,000 --> 00:59:06,000
+You use a product to help you optimize a part of your work or beginning, whatever.
+
+1153
+00:59:06,000 --> 00:59:09,000
+I don't think there are any such examples here.
+
+1154
+00:59:09,000 --> 00:59:11,000
+Maybe I would say this here.
+
+1155
+00:59:11,000 --> 00:59:20,000
+When it comes to the use of artificial intelligence, I think that in the past we have focused a lot on the use of examples that are really not exemplary for this.
+
+1156
+00:59:20,000 --> 00:59:26,000
+And to some extent, if we look at the amount of investment that went into the car itself.
+
+1157
+00:59:26,000 --> 00:59:36,000
+This is a kind of newscast, where the car is driven in almost the entire world at high speed.
+
+1158
+00:59:36,000 --> 00:59:39,000
+At any moment, human lives are at risk.
+
+1159
+00:59:39,000 --> 00:59:41,000
+And one mistake and life is over.
+
+1160
+00:59:41,000 --> 00:59:42,000
+High stakes, totally.
+
+1161
+00:59:42,000 --> 00:59:44,000
+Yes, it's full of high stakes.
+
+1162
+00:59:44,000 --> 00:59:46,000
+It could be even worse, but okay.
+
+1163
+00:59:46,000 --> 00:59:53,000
+And of course, then you do something and it's 99.99%, but that's way too little.
+
+1164
+00:59:53,000 --> 00:59:59,000
+And every next decimal becomes a billion, or a tenth of a billion, or whatever.
+
+1165
+00:59:59,000 --> 01:00:09,000
+For once, I would say that the best examples for use are those that can help you do something many times a day.
+
+1166
+01:00:09,000 --> 01:00:13,000
+And if you do it wrong, you can catch it pretty quickly.
+
+1167
+01:00:13,000 --> 01:00:18,000
+And then pressing Generate again is not a problem.
+
+1168
+01:00:18,000 --> 01:00:22,000
+And then you get used to the fact that the system must always be correct.
+
+1169
+01:00:22,000 --> 01:00:28,000
+And these systems, for the most part, are available today and you can start using them.
+
+1170
+01:00:28,000 --> 01:00:37,000
+So for people who are thinking about what would be a good starting product for artificial intelligence,
+
+1171
+01:00:37,000 --> 01:00:43,000
+or for machine learning, choose some products that are not so high stakes,
+
+1172
+01:00:43,000 --> 01:00:47,000
+and that do not endanger your life.
+
+1173
+01:00:48,000 --> 01:00:50,000
+Imagine a company.
+
+1174
+01:00:50,000 --> 01:00:53,000
+For example, a company that has never done a lot of data science,
+
+1175
+01:00:53,000 --> 01:00:55,000
+and then it goes into the water.
+
+1176
+01:00:55,000 --> 01:00:59,000
+And they decide where they're going to apply it.
+
+1177
+01:00:59,000 --> 01:01:01,000
+That's going to cost us a lot.
+
+1178
+01:01:01,000 --> 01:01:04,000
+And then we're going to go into the most high-stakes part,
+
+1179
+01:01:04,000 --> 01:01:06,000
+because we want to improve those investments.
+
+1180
+01:01:06,000 --> 01:01:08,000
+That's going to cost us the most, that's going to hurt the most.
+
+1181
+01:01:08,000 --> 01:01:12,000
+And then they try to solve this very difficult, very high-stakes problem.
+
+1182
+01:01:12,000 --> 01:01:14,000
+Every step is painful.
+
+1183
+01:01:14,000 --> 01:01:20,000
+And at the end of the day, artificial intelligence didn't really get us to the fourth decimal point.
+
+1184
+01:01:20,000 --> 01:01:22,000
+We were completely disappointed.
+
+1185
+01:01:22,000 --> 01:01:26,000
+At the same time, they have someone in the back office,
+
+1186
+01:01:26,000 --> 01:01:29,000
+who actually has a lot of time and his own life,
+
+1187
+01:01:29,000 --> 01:01:33,000
+to start a completely unoptimized process,
+
+1188
+01:01:33,000 --> 01:01:37,000
+so he could totally, simply optimize it,
+
+1189
+01:01:37,000 --> 01:01:42,000
+but he doesn't think it's high stakes, and then he doesn't go into it.
+
+1190
+01:01:43,000 --> 01:01:44,000
+Now that's it.
+
+1191
+01:01:44,000 --> 01:01:48,000
+When people talk about digital transformation in the industry,
+
+1192
+01:01:48,000 --> 01:01:52,000
+I don't know, our industry is out of date, it needs to be transformed,
+
+1193
+01:01:52,000 --> 01:01:56,000
+let's first divide what processes you have,
+
+1194
+01:01:56,000 --> 01:02:00,000
+and maybe start automating those low-hanging fruits,
+
+1195
+01:02:00,000 --> 01:02:02,000
+such projects,
+
+1196
+01:02:02,000 --> 01:02:05,000
+not first take your favorite artificial intelligence,
+
+1197
+01:02:05,000 --> 01:02:08,000
+and then go to the most hardcore problem you have.
+
+1198
+01:02:08,000 --> 01:02:10,000
+Maybe that's how you start.
+
+1199
+01:02:10,000 --> 01:02:13,000
+I would like them to have a positive attitude towards it,
+
+1200
+01:02:13,000 --> 01:02:15,000
+to ask them what they want from life.
+
+1201
+01:02:15,000 --> 01:02:17,000
+And that's where it starts.
+
+1202
+01:02:17,000 --> 01:02:22,000
+Can we make this system so that there will be less life with artificial intelligence?
+
+1203
+01:02:25,000 --> 01:02:28,000
+Now I have this...
+
+1204
+01:02:29,000 --> 01:02:31,000
+Jesus, how am I going to connect this, Andras?
+
+1205
+01:02:31,000 --> 01:02:34,000
+I don't know, you imagined it.
+
+1206
+01:02:35,000 --> 01:02:40,000
+Maybe we should talk a little about the products
+
+1207
+01:02:40,000 --> 01:02:42,000
+that use artificial intelligence,
+
+1208
+01:02:42,000 --> 01:02:46,000
+and then we'll go there and look for a source and connect it.
+
+1209
+01:02:46,000 --> 01:02:50,000
+Now I've written down a few of those more well-known,
+
+1210
+01:02:50,000 --> 01:02:56,000
+more current products, and some of them may be less well-known.
+
+1211
+01:02:56,000 --> 01:03:00,000
+I think you know everything, if you don't know anything, we'll be sorry.
+
+1212
+01:03:00,000 --> 01:03:03,000
+But I think you know everything.
+
+1213
+01:03:04,000 --> 01:03:10,000
+The first product that changed this whole part of the space,
+
+1214
+01:03:10,000 --> 01:03:14,000
+and that really made such a pump,
+
+1215
+01:03:14,000 --> 01:03:17,000
+I mean, lift for security.
+
+1216
+01:03:17,000 --> 01:03:19,000
+Lift for security, yes.
+
+1217
+01:03:19,000 --> 01:03:22,000
+It's GitHub Copilot.
+
+1218
+01:03:22,000 --> 01:03:26,000
+This is a plugin that you get for your IDE,
+
+1219
+01:03:26,000 --> 01:03:31,000
+and this plugin prepares a code that you write, I think in the comments,
+
+1220
+01:03:31,000 --> 01:03:36,000
+and when you write a comment, it offers you a snippet of the solution,
+
+1221
+01:03:36,000 --> 01:03:39,000
+you click Tab or Enter, and it fills it out for you.
+
+1222
+01:03:39,000 --> 01:03:44,000
+This part is taught on GitHub's repository,
+
+1223
+01:03:44,000 --> 01:03:46,000
+that is, all the code that GitHub has.
+
+1224
+01:03:46,000 --> 01:03:49,000
+Do we know publicly or privately?
+
+1225
+01:03:49,000 --> 01:03:53,000
+I mean, I know this product pretty well,
+
+1226
+01:03:53,000 --> 01:03:57,000
+so it's taught on Mars,
+
+1227
+01:03:57,000 --> 01:04:01,000
+it's used in its core,
+
+1228
+01:04:01,000 --> 01:04:05,000
+these are GPT-3 codec models.
+
+1229
+01:04:05,000 --> 01:04:10,000
+These were actually models that were taught both on the top of the code,
+
+1230
+01:04:10,000 --> 01:04:13,000
+and in plain language.
+
+1231
+01:04:13,000 --> 01:04:16,000
+Then, when it was already taught,
+
+1232
+01:04:16,000 --> 01:04:21,000
+it was only slightly adapted to work better with code.
+
+1233
+01:04:21,000 --> 01:04:26,000
+But yes, basically, this is a GPT-3 model.
+
+1234
+01:04:26,000 --> 01:04:29,000
+It started as a GPT-3 model,
+
+1235
+01:04:29,000 --> 01:04:31,000
+and then it was fine-tuned.
+
+1236
+01:04:31,000 --> 01:04:34,000
+You described it as quite simple,
+
+1237
+01:04:34,000 --> 01:04:36,000
+quite trivial,
+
+1238
+01:04:36,000 --> 01:04:39,000
+more of a marketing tool,
+
+1239
+01:04:39,000 --> 01:04:42,000
+nothing special, you could have done it at home.
+
+1240
+01:04:42,000 --> 01:04:44,000
+I mean, practically...
+
+1241
+01:04:44,000 --> 01:04:47,000
+100 dollars a year, or 10 dollars a month.
+
+1242
+01:04:47,000 --> 01:04:50,000
+You can do it yourself for that kind of money.
+
+1243
+01:04:50,000 --> 01:04:53,000
+No, Oto, do you use it now?
+
+1244
+01:04:53,000 --> 01:04:54,000
+No, I don't.
+
+1245
+01:04:54,000 --> 01:04:56,000
+Do you write code with this system?
+
+1246
+01:04:56,000 --> 01:04:58,000
+No, I have a lot of...
+
+1247
+01:04:58,000 --> 01:05:00,000
+You know, it's a bit like this.
+
+1248
+01:05:00,000 --> 01:05:06,000
+I have almost 200 open-source repositories on my GitHub,
+
+1249
+01:05:06,000 --> 01:05:08,000
+and in there you can find everything,
+
+1250
+01:05:08,000 --> 01:05:12,000
+examples, prototypes, whatever.
+
+1251
+01:05:12,000 --> 01:05:16,000
+And when I was given those snippets, those cores,
+
+1252
+01:05:16,000 --> 01:05:19,000
+it meant that I had my own archive,
+
+1253
+01:05:19,000 --> 01:05:22,000
+or that I was giving it to the community,
+
+1254
+01:05:22,000 --> 01:05:25,000
+so that people could use it.
+
+1255
+01:05:25,000 --> 01:05:27,000
+I don't know if I,
+
+1256
+01:05:27,000 --> 01:05:29,000
+when I had those 200 repositories,
+
+1257
+01:05:29,000 --> 01:05:31,000
+and the pull requests,
+
+1258
+01:05:31,000 --> 01:05:33,000
+when I gave them all out,
+
+1259
+01:05:33,000 --> 01:05:35,000
+I don't know if I knew at the time
+
+1260
+01:05:35,000 --> 01:05:37,000
+that someone would use it,
+
+1261
+01:05:37,000 --> 01:05:40,000
+and that someone would use the GitHub Copilot
+
+1262
+01:05:40,000 --> 01:05:42,000
+and take my snippets out.
+
+1263
+01:05:42,000 --> 01:05:44,000
+Do you know what I mean?
+
+1264
+01:05:44,000 --> 01:05:46,000
+It's a part of it.
+
+1265
+01:05:46,000 --> 01:05:48,000
+It's a part of you.
+
+1266
+01:05:48,000 --> 01:05:51,000
+If I write a brutal scale there,
+
+1267
+01:05:51,000 --> 01:05:53,000
+my example will be very unique,
+
+1268
+01:05:53,000 --> 01:05:55,000
+and someone will write,
+
+1269
+01:05:55,000 --> 01:05:57,000
+I need this brutal example.
+
+1270
+01:05:57,000 --> 01:06:00,000
+Ultimately, they will take my code.
+
+1271
+01:06:00,000 --> 01:06:02,000
+Or they will pay and then...
+
+1272
+01:06:02,000 --> 01:06:04,000
+Not in that way, maybe.
+
+1273
+01:06:04,000 --> 01:06:06,000
+No, what...
+
+1274
+01:06:06,000 --> 01:06:09,000
+Should we go to the picture?
+
+1275
+01:06:09,000 --> 01:06:12,000
+No, I'm here with the same problem.
+
+1276
+01:06:12,000 --> 01:06:15,000
+Maybe it's easier to explain it like this.
+
+1277
+01:06:15,000 --> 01:06:18,000
+Also, those models for generated pictures
+
+1278
+01:06:18,000 --> 01:06:21,000
+were taught on a whole set of
+
+1279
+01:06:21,000 --> 01:06:23,000
+such and different pictures.
+
+1280
+01:06:23,000 --> 01:06:26,000
+People gave them very different names,
+
+1281
+01:06:26,000 --> 01:06:28,000
+and they didn't think,
+
+1282
+01:06:28,000 --> 01:06:30,000
+almost none of them,
+
+1283
+01:06:30,000 --> 01:06:33,000
+that an AI would learn it.
+
+1284
+01:06:33,000 --> 01:06:37,000
+If the AI looks at all those sets of pictures,
+
+1285
+01:06:37,000 --> 01:06:40,000
+it learns some representation.
+
+1286
+01:06:40,000 --> 01:06:44,000
+Those pictures are not stored inside it.
+
+1287
+01:06:44,000 --> 01:06:46,000
+Only those in the weight
+
+1288
+01:06:46,000 --> 01:06:48,000
+are stabilized,
+
+1289
+01:06:48,000 --> 01:06:51,000
+or then learned in such a way.
+
+1290
+01:06:51,000 --> 01:06:54,000
+Then, when you write a text inside,
+
+1291
+01:06:54,000 --> 01:06:57,000
+that text is translated into a picture,
+
+1292
+01:06:57,000 --> 01:07:01,000
+but it's actually on the basis of those representations
+
+1293
+01:07:01,000 --> 01:07:04,000
+of visual concepts that were learned.
+
+1294
+01:07:04,000 --> 01:07:06,000
+They are not code now.
+
+1295
+01:07:06,000 --> 01:07:09,000
+No, no, that's not the basis.
+
+1296
+01:07:09,000 --> 01:07:11,000
+No, that's not the basis.
+
+1297
+01:07:11,000 --> 01:07:13,000
+I think, for example,
+
+1298
+01:07:13,000 --> 01:07:15,000
+for a generated picture,
+
+1299
+01:07:15,000 --> 01:07:18,000
+the size went down to 4 gigabytes.
+
+1300
+01:07:18,000 --> 01:07:20,000
+You know, with those models,
+
+1301
+01:07:20,000 --> 01:07:22,000
+stable diffusion...
+
+1302
+01:07:22,000 --> 01:07:25,000
+I mean, where in those 4 gigabytes
+
+1303
+01:07:25,000 --> 01:07:29,000
+are the preserved works of art from all over the world?
+
+1304
+01:07:29,000 --> 01:07:31,000
+Now, if you happen to find
+
+1305
+01:07:31,000 --> 01:07:33,000
+that a snippet came out,
+
+1306
+01:07:33,000 --> 01:07:35,000
+which is really very similar to something
+
+1307
+01:07:35,000 --> 01:07:37,000
+that you worked on...
+
+1308
+01:07:37,000 --> 01:07:39,000
+It's beautiful, exactly.
+
+1309
+01:07:39,000 --> 01:07:41,000
+You can find examples.
+
+1310
+01:07:41,000 --> 01:07:43,000
+That's enough for you.
+
+1311
+01:07:43,000 --> 01:07:47,000
+If you imagine a distribution of codes,
+
+1312
+01:07:47,000 --> 01:07:51,000
+if you happen to know each other in one box,
+
+1313
+01:07:51,000 --> 01:07:53,000
+you have a very large company
+
+1314
+01:07:53,000 --> 01:07:56,000
+that works on the same problem,
+
+1315
+01:07:56,000 --> 01:07:58,000
+most of your representations
+
+1316
+01:07:58,000 --> 01:08:00,000
+in that model of distribution
+
+1317
+01:08:00,000 --> 01:08:04,000
+were taken out of what you contributed.
+
+1318
+01:08:04,000 --> 01:08:06,000
+And the rest will be the same.
+
+1319
+01:08:06,000 --> 01:08:08,000
+Maybe the next generation
+
+1320
+01:08:08,000 --> 01:08:10,000
+that you will generate
+
+1321
+01:08:10,000 --> 01:08:12,000
+will be a little different
+
+1322
+01:08:12,000 --> 01:08:14,000
+than the one you wrote.
+
+1323
+01:08:14,000 --> 01:08:16,000
+It's a real problem.
+
+1324
+01:08:16,000 --> 01:08:18,000
+There are also models
+
+1325
+01:08:18,000 --> 01:08:20,000
+that were strictly learned
+
+1326
+01:08:20,000 --> 01:08:23,000
+on codes that have a permissive license.
+
+1327
+01:08:23,000 --> 01:08:25,000
+If you published something
+
+1328
+01:08:25,000 --> 01:08:27,000
+under an MIT license,
+
+1329
+01:08:27,000 --> 01:08:29,000
+I think it's hard to convince
+
+1330
+01:08:29,000 --> 01:08:31,000
+someone to find a way
+
+1331
+01:08:31,000 --> 01:08:33,000
+to use what you don't like.
+
+1332
+01:08:34,000 --> 01:08:36,000
+But do you think that...
+
+1333
+01:08:40,000 --> 01:08:42,000
+Maybe at the beginning,
+
+1334
+01:08:42,000 --> 01:08:45,000
+when you open a GitHub project,
+
+1335
+01:08:45,000 --> 01:08:47,000
+when you upload it,
+
+1336
+01:08:47,000 --> 01:08:49,000
+there could be a checkbox
+
+1337
+01:08:49,000 --> 01:08:51,000
+that would say
+
+1338
+01:08:51,000 --> 01:08:53,000
+how to use the code for Copilot
+
+1339
+01:08:53,000 --> 01:08:55,000
+and you could have the possibility
+
+1340
+01:08:55,000 --> 01:08:57,000
+to do that.
+
+1341
+01:08:57,000 --> 01:08:59,000
+In some phases, it will appear.
+
+1342
+01:08:59,000 --> 01:09:02,000
+But not now, when we've already done it.
+
+1343
+01:09:02,000 --> 01:09:04,000
+Let me give you an example
+
+1344
+01:09:04,000 --> 01:09:06,000
+from art.
+
+1345
+01:09:06,000 --> 01:09:08,000
+I think it could be like that.
+
+1346
+01:09:08,000 --> 01:09:10,000
+I don't know much about art
+
+1347
+01:09:10,000 --> 01:09:12,000
+and I believe it will go in that direction.
+
+1348
+01:09:12,000 --> 01:09:14,000
+For example, in art,
+
+1349
+01:09:14,000 --> 01:09:16,000
+some...
+
+1350
+01:09:16,000 --> 01:09:18,000
+not so many organizations,
+
+1351
+01:09:18,000 --> 01:09:20,000
+but a team
+
+1352
+01:09:20,000 --> 01:09:22,000
+that works on one of those
+
+1353
+01:09:22,000 --> 01:09:24,000
+big datasets of pictures
+
+1354
+01:09:24,000 --> 01:09:26,000
+gave the artist the opportunity
+
+1355
+01:09:26,000 --> 01:09:28,000
+to say,
+
+1356
+01:09:28,000 --> 01:09:31,000
+I don't want to be involved in this.
+
+1357
+01:09:31,000 --> 01:09:33,000
+What will be the result?
+
+1358
+01:09:33,000 --> 01:09:35,000
+A lot of artists
+
+1359
+01:09:35,000 --> 01:09:37,000
+will say,
+
+1360
+01:09:37,000 --> 01:09:39,000
+can you please include me?
+
+1361
+01:09:39,000 --> 01:09:41,000
+Because a hundred people
+
+1362
+01:09:41,000 --> 01:09:43,000
+is a hundred miracles.
+
+1363
+01:09:43,000 --> 01:09:45,000
+And that model will learn that.
+
+1364
+01:09:45,000 --> 01:09:47,000
+And then,
+
+1365
+01:09:47,000 --> 01:09:49,000
+someone will realize
+
+1366
+01:09:49,000 --> 01:09:51,000
+that if he writes
+
+1367
+01:09:51,000 --> 01:09:53,000
+the prompt that leads
+
+1368
+01:09:53,000 --> 01:09:55,000
+the model to do something,
+
+1369
+01:09:55,000 --> 01:09:57,000
+he can say,
+
+1370
+01:09:57,000 --> 01:09:59,000
+give me a combination
+
+1371
+01:09:59,000 --> 01:10:01,000
+of this, this, this, and this artist.
+
+1372
+01:10:01,000 --> 01:10:03,000
+From those who
+
+1373
+01:10:03,000 --> 01:10:05,000
+gave permission,
+
+1374
+01:10:05,000 --> 01:10:07,000
+the result will be so
+
+1375
+01:10:07,000 --> 01:10:09,000
+that it will look indistinguishable
+
+1376
+01:10:09,000 --> 01:10:11,000
+from what he would produce
+
+1377
+01:10:11,000 --> 01:10:13,000
+if he said he doesn't want to be included.
+
+1378
+01:10:13,000 --> 01:10:15,000
+And...
+
+1379
+01:10:15,000 --> 01:10:17,000
+That's the problem.
+
+1380
+01:10:17,000 --> 01:10:19,000
+In the end, a lot of people
+
+1381
+01:10:19,000 --> 01:10:21,000
+moved one step forward,
+
+1382
+01:10:21,000 --> 01:10:23,000
+because they didn't
+
+1383
+01:10:23,000 --> 01:10:25,000
+directly contribute to the learning.
+
+1384
+01:10:25,000 --> 01:10:27,000
+But when the model,
+
+1385
+01:10:27,000 --> 01:10:29,000
+the visual or coding learning,
+
+1386
+01:10:29,000 --> 01:10:31,000
+will be able to
+
+1387
+01:10:31,000 --> 01:10:33,000
+reproduce the same code
+
+1388
+01:10:33,000 --> 01:10:35,000
+in the end,
+
+1389
+01:10:35,000 --> 01:10:37,000
+it will be very similar to what they did.
+
+1390
+01:10:37,000 --> 01:10:39,000
+Well,
+
+1391
+01:10:39,000 --> 01:10:41,000
+if that's a problem
+
+1392
+01:10:41,000 --> 01:10:43,000
+that will happen,
+
+1393
+01:10:43,000 --> 01:10:45,000
+I imagine that this thing
+
+1394
+01:10:45,000 --> 01:10:47,000
+can end up in a court.
+
+1395
+01:10:47,000 --> 01:10:49,000
+It already ended up in a court.
+
+1396
+01:10:49,000 --> 01:10:51,000
+How did it end up?
+
+1397
+01:10:51,000 --> 01:10:53,000
+A project
+
+1398
+01:10:53,000 --> 01:10:55,000
+like GitHub
+
+1399
+01:10:55,000 --> 01:10:57,000
+or Copilot,
+
+1400
+01:10:57,000 --> 01:10:59,000
+Antitrust,
+
+1401
+01:10:59,000 --> 01:11:01,000
+something like that.
+
+1402
+01:11:01,000 --> 01:11:03,000
+I don't hope to speculate,
+
+1403
+01:11:03,000 --> 01:11:05,000
+because it's more of a question
+
+1404
+01:11:05,000 --> 01:11:07,000
+than it really is.
+
+1405
+01:11:07,000 --> 01:11:09,000
+Look,
+
+1406
+01:11:09,000 --> 01:11:11,000
+what would happen to this industry
+
+1407
+01:11:11,000 --> 01:11:13,000
+if,
+
+1408
+01:11:13,000 --> 01:11:15,000
+let's say,
+
+1409
+01:11:15,000 --> 01:11:17,000
+Europe, full privacy
+
+1410
+01:11:17,000 --> 01:11:19,000
+heavy,
+
+1411
+01:11:19,000 --> 01:11:21,000
+if you want
+
+1412
+01:11:21,000 --> 01:11:23,000
+to make those data sets
+
+1413
+01:11:23,000 --> 01:11:25,000
+that we will train on,
+
+1414
+01:11:25,000 --> 01:11:27,000
+and if, let's say,
+
+1415
+01:11:27,000 --> 01:11:29,000
+Copilot or any AI,
+
+1416
+01:11:29,000 --> 01:11:31,000
+you have to explicitly
+
+1417
+01:11:31,000 --> 01:11:33,000
+get permission from people
+
+1418
+01:11:33,000 --> 01:11:35,000
+to be in that data set.
+
+1419
+01:11:35,000 --> 01:11:37,000
+Because now it's the other way around.
+
+1420
+01:11:37,000 --> 01:11:39,000
+Now we download everything,
+
+1421
+01:11:39,000 --> 01:11:41,000
+the whole internet, Wikipedia,
+
+1422
+01:11:41,000 --> 01:11:43,000
+if you say otherwise,
+
+1423
+01:11:43,000 --> 01:11:45,000
+everyone has to give permission,
+
+1424
+01:11:45,000 --> 01:11:47,000
+you have a lot of problems in this industry.
+
+1425
+01:11:47,000 --> 01:11:49,000
+Because you don't have a data set.
+
+1426
+01:11:49,000 --> 01:11:51,000
+Now I see
+
+1427
+01:11:51,000 --> 01:11:53,000
+how are you going to prove
+
+1428
+01:11:53,000 --> 01:11:55,000
+that he's in the data set?
+
+1429
+01:11:55,000 --> 01:11:57,000
+Yeah, I don't know.
+
+1430
+01:11:57,000 --> 01:11:59,000
+Like you said,
+
+1431
+01:11:59,000 --> 01:12:01,000
+in the end it's all about the weight.
+
+1432
+01:12:01,000 --> 01:12:03,000
+He said,
+
+1433
+01:12:03,000 --> 01:12:05,000
+it's not the database,
+
+1434
+01:12:05,000 --> 01:12:07,000
+it's the TV channel.
+
+1435
+01:12:07,000 --> 01:12:09,000
+How are you going to prove
+
+1436
+01:12:09,000 --> 01:12:11,000
+that I'm here?
+
+1437
+01:12:11,000 --> 01:12:13,000
+It's the same picture you post on Facebook,
+
+1438
+01:12:13,000 --> 01:12:15,000
+it's not yours anymore.
+
+1439
+01:12:15,000 --> 01:12:17,000
+Let's put it this way,
+
+1440
+01:12:17,000 --> 01:12:19,000
+in practice,
+
+1441
+01:12:19,000 --> 01:12:21,000
+how many examples
+
+1442
+01:12:21,000 --> 01:12:23,000
+where you write a code
+
+1443
+01:12:23,000 --> 01:12:25,000
+but don't get a license?
+
+1444
+01:12:25,000 --> 01:12:27,000
+Then at the other end of the world
+
+1445
+01:12:27,000 --> 01:12:29,000
+there's a programmer
+
+1446
+01:12:29,000 --> 01:12:31,000
+who looks at your code
+
+1447
+01:12:31,000 --> 01:12:33,000
+and writes his own.
+
+1448
+01:12:33,000 --> 01:12:35,000
+Maybe he's a little biased,
+
+1449
+01:12:35,000 --> 01:12:37,000
+a little changed,
+
+1450
+01:12:37,000 --> 01:12:39,000
+but in reality,
+
+1451
+01:12:39,000 --> 01:12:41,000
+your code was his main belief.
+
+1452
+01:12:41,000 --> 01:12:43,000
+You won't even know it.
+
+1453
+01:12:43,000 --> 01:12:45,000
+It's not easy to prove these things.
+
+1454
+01:12:45,000 --> 01:12:47,000
+Sometimes it's so obvious
+
+1455
+01:12:47,000 --> 01:12:49,000
+that it hurts your head.
+
+1456
+01:12:49,000 --> 01:12:51,000
+But it's the same art.
+
+1457
+01:12:51,000 --> 01:12:53,000
+People looking at pictures
+
+1458
+01:12:53,000 --> 01:12:55,000
+and making their own versions
+
+1459
+01:12:55,000 --> 01:12:57,000
+or covers in music,
+
+1460
+01:12:57,000 --> 01:12:59,000
+it's like a war in progress.
+
+1461
+01:12:59,000 --> 01:13:01,000
+It can happen.
+
+1462
+01:13:01,000 --> 01:13:03,000
+If we go with strict regulations,
+
+1463
+01:13:03,000 --> 01:13:05,000
+it can also
+
+1464
+01:13:05,000 --> 01:13:07,000
+lead to
+
+1465
+01:13:07,000 --> 01:13:09,000
+this kind of abuse.
+
+1466
+01:13:09,000 --> 01:13:11,000
+Then people would say,
+
+1467
+01:13:11,000 --> 01:13:13,000
+wait a minute,
+
+1468
+01:13:13,000 --> 01:13:15,000
+I can't draw almost
+
+1469
+01:13:15,000 --> 01:13:17,000
+the same thing,
+
+1470
+01:13:17,000 --> 01:13:19,000
+because each of them
+
+1471
+01:13:19,000 --> 01:13:21,000
+will be similar to the existing author.
+
+1472
+01:13:23,000 --> 01:13:25,000
+Can this also be used
+
+1473
+01:13:25,000 --> 01:13:27,000
+as a counter?
+
+1474
+01:13:27,000 --> 01:13:29,000
+In the sense of proof,
+
+1475
+01:13:29,000 --> 01:13:31,000
+that you can use
+
+1476
+01:13:31,000 --> 01:13:33,000
+artificial intelligence to prove
+
+1477
+01:13:33,000 --> 01:13:35,000
+that this is a copy.
+
+1478
+01:13:35,000 --> 01:13:37,000
+Yes, I think
+
+1479
+01:13:37,000 --> 01:13:39,000
+to some extent it can.
+
+1480
+01:13:39,000 --> 01:13:41,000
+It's hard to do it
+
+1481
+01:13:41,000 --> 01:13:43,000
+with any kind of readiness.
+
+1482
+01:13:43,000 --> 01:13:45,000
+How do you look for similarities?
+
+1483
+01:13:45,000 --> 01:13:47,000
+Semantic or...
+
+1484
+01:13:49,000 --> 01:13:51,000
+Ok, next product.
+
+1485
+01:13:51,000 --> 01:13:53,000
+Now we'll go to products
+
+1486
+01:13:53,000 --> 01:13:55,000
+from OpenAI.
+
+1487
+01:13:55,000 --> 01:13:57,000
+It's a startup company.
+
+1488
+01:13:57,000 --> 01:13:59,000
+Is it still a startup?
+
+1489
+01:13:59,000 --> 01:14:01,000
+What did you do it for?
+
+1490
+01:14:01,000 --> 01:14:03,000
+When I was doing research,
+
+1491
+01:14:03,000 --> 01:14:05,000
+Microsoft said
+
+1492
+01:14:05,000 --> 01:14:07,000
+they would invest 10 billion dollars
+
+1493
+01:14:07,000 --> 01:14:09,000
+in the company that made
+
+1494
+01:14:09,000 --> 01:14:11,000
+ChatGTP.
+
+1495
+01:14:11,000 --> 01:14:13,000
+These are chats.
+
+1496
+01:14:13,000 --> 01:14:15,000
+Very expensive chats.
+
+1497
+01:14:15,000 --> 01:14:17,000
+I think they invested
+
+1498
+01:14:17,000 --> 01:14:19,000
+before that.
+
+1499
+01:14:19,000 --> 01:14:21,000
+Some incorrect data shows
+
+1500
+01:14:21,000 --> 01:14:23,000
+that they already invested 3 billion.
+
+1501
+01:14:23,000 --> 01:14:25,000
+Microsoft puts a lot
+
+1502
+01:14:25,000 --> 01:14:27,000
+on OpenAI.
+
+1503
+01:14:29,000 --> 01:14:31,000
+Clips will always be used.
+
+1504
+01:14:31,000 --> 01:14:33,000
+Then you'll open Office
+
+1505
+01:14:33,000 --> 01:14:35,000
+and say, hey, I need
+
+1506
+01:14:35,000 --> 01:14:37,000
+to import my books.
+
+1507
+01:14:37,000 --> 01:14:39,000
+The thing will happen.
+
+1508
+01:14:39,000 --> 01:14:41,000
+The main thing is
+
+1509
+01:14:41,000 --> 01:14:43,000
+that they have
+
+1510
+01:14:43,000 --> 01:14:45,000
+some data
+
+1511
+01:14:45,000 --> 01:14:47,000
+on how to work with Microsoft
+
+1512
+01:14:47,000 --> 01:14:49,000
+and how to connect,
+
+1513
+01:14:49,000 --> 01:14:51,000
+how to share profits,
+
+1514
+01:14:51,000 --> 01:14:53,000
+and so on.
+
+1515
+01:14:53,000 --> 01:14:55,000
+One thing that a lot of people
+
+1516
+01:14:55,000 --> 01:14:57,000
+probably didn't hear.
+
+1517
+01:14:57,000 --> 01:14:59,000
+Again,
+
+1518
+01:14:59,000 --> 01:15:01,000
+it's an agreement
+
+1519
+01:15:01,000 --> 01:15:03,000
+that you can't
+
+1520
+01:15:03,000 --> 01:15:05,000
+break.
+
+1521
+01:15:05,000 --> 01:15:07,000
+You can't
+
+1522
+01:15:00,000 --> 01:15:07,000
+If they deserve more than 250 billion, it's all theirs.
+
+1523
+01:15:07,000 --> 01:15:09,000
+Yes, yes.
+
+1524
+01:15:09,000 --> 01:15:13,000
+I chose that 75% is paid.
+
+1525
+01:15:13,000 --> 01:15:18,000
+If you are interested in the research of the company,
+
+1526
+01:15:18,000 --> 01:15:22,000
+google it, it's interesting to know how it works.
+
+1527
+01:15:22,000 --> 01:15:27,000
+Now, Andras has researched the 4GTP a lot,
+
+1528
+01:15:27,000 --> 01:15:30,000
+because he was on some other day,
+
+1529
+01:15:30,000 --> 01:15:32,000
+and he thought about it.
+
+1530
+01:15:32,000 --> 01:15:37,000
+But when I saw the 4GTP and what OpenAI does,
+
+1531
+01:15:37,000 --> 01:15:42,000
+and when you look at it from a different perspective,
+
+1532
+01:15:42,000 --> 01:15:47,000
+I have a feeling that in the first 15-20 years,
+
+1533
+01:15:47,000 --> 01:15:53,000
+google is starting to take care of their core business,
+
+1534
+01:15:53,000 --> 01:15:56,000
+which is search and advertising.
+
+1535
+01:15:56,000 --> 01:16:02,000
+There are a lot of things that we can talk about in more detail,
+
+1536
+01:16:02,000 --> 01:16:09,000
+but I have a feeling that maybe there will be a revolution in this space.
+
+1537
+01:16:09,000 --> 01:16:12,000
+And also when you started that semantic search,
+
+1538
+01:16:12,000 --> 01:16:16,000
+to open up those topics.
+
+1539
+01:16:16,000 --> 01:16:25,000
+Do you have a feeling that the guys have stopped a trend
+
+1540
+01:16:25,000 --> 01:16:29,000
+that we simply don't have to ignore anymore?
+
+1541
+01:16:29,000 --> 01:16:32,000
+I mean, looking at the fact that it's only in the media,
+
+1542
+01:16:32,000 --> 01:16:36,000
+that it's the hottest topic in the last two months.
+
+1543
+01:16:36,000 --> 01:16:40,000
+I mean, they're sour cucumbers anyway.
+
+1544
+01:16:40,000 --> 01:16:42,000
+It's interesting to me.
+
+1545
+01:16:42,000 --> 01:16:45,000
+Maybe it's interesting to OpenAI too.
+
+1546
+01:16:45,000 --> 01:16:47,000
+It's the beginning of GPT.
+
+1547
+01:16:47,000 --> 01:16:53,000
+It's a very slow modification of the GPT-3 model.
+
+1548
+01:16:53,000 --> 01:17:00,000
+I started using GPT-3 in the summer of 2020,
+
+1549
+01:17:00,000 --> 01:17:02,000
+and that's when I experienced it,
+
+1550
+01:17:02,000 --> 01:17:04,000
+I think, because now there are a lot of people.
+
+1551
+01:17:04,000 --> 01:17:08,000
+Then after the best efforts for the last two years,
+
+1552
+01:17:08,000 --> 01:17:10,000
+I was not impressed,
+
+1553
+01:17:10,000 --> 01:17:13,000
+and a large part of that time was already available.
+
+1554
+01:17:14,000 --> 01:17:18,000
+I won't say that I didn't manage to impress anyone,
+
+1555
+01:17:18,000 --> 01:17:22,000
+but a lot of people didn't even look at it.
+
+1556
+01:17:22,000 --> 01:17:26,000
+It wasn't a big undertaking to try to implement something with it.
+
+1557
+01:17:26,000 --> 01:17:27,000
+So I would say...
+
+1558
+01:17:27,000 --> 01:17:28,000
+More.
+
+1559
+01:17:28,000 --> 01:17:30,000
+More.
+
+1560
+01:17:30,000 --> 01:17:36,000
+That chat, GPT, is a great example of what can be done with user experience.
+
+1561
+01:17:36,000 --> 01:17:38,000
+It's a better example of user experience,
+
+1562
+01:17:38,000 --> 01:17:41,000
+and not an achievement, as for Artificial Intelligence.
+
+1563
+01:17:41,000 --> 01:17:43,000
+What was Artificial Intelligence on this topic,
+
+1564
+01:17:43,000 --> 01:17:45,000
+it was done two years ago.
+
+1565
+01:17:45,000 --> 01:17:47,000
+But when you use it,
+
+1566
+01:17:47,000 --> 01:17:49,000
+chatbots like this,
+
+1567
+01:17:49,000 --> 01:17:53,000
+and those online assistants,
+
+1568
+01:17:53,000 --> 01:17:58,000
+we have now experienced two big leaps.
+
+1569
+01:17:58,000 --> 01:18:02,000
+When the scientific world came,
+
+1570
+01:18:02,000 --> 01:18:07,000
+around 2000, when all the videos first started,
+
+1571
+01:18:07,000 --> 01:18:13,000
+and then when Facebook gave support for chatbots in its messenger platform,
+
+1572
+01:18:13,000 --> 01:18:17,000
+and now we have this chat interface again.
+
+1573
+01:18:17,000 --> 01:18:20,000
+I don't see that it would be that different.
+
+1574
+01:18:20,000 --> 01:18:25,000
+Chatbots were a total flop, I think.
+
+1575
+01:18:25,000 --> 01:18:27,000
+They were.
+
+1576
+01:18:27,000 --> 01:18:33,000
+The problem was simply the methodology they used.
+
+1577
+01:18:33,000 --> 01:18:38,000
+It wasn't mature enough for what UX designers wanted it to be.
+
+1578
+01:18:38,000 --> 01:18:43,000
+So Zadeva tried to understand what IT was,
+
+1579
+01:18:43,000 --> 01:18:48,000
+and then she wanted to dive into some of those pre-prepared conversation tracks.
+
+1580
+01:18:48,000 --> 01:18:50,000
+And we don't talk to people like that.
+
+1581
+01:18:50,000 --> 01:18:52,000
+You wrote a track about how it wouldn't work,
+
+1582
+01:18:52,000 --> 01:18:54,000
+so I think you're a bit ahead now.
+
+1583
+01:18:54,000 --> 01:18:59,000
+Yes, but for a call center, that's exactly it.
+
+1584
+01:19:00,000 --> 01:19:02,000
+Of course, it's not.
+
+1585
+01:19:02,000 --> 01:19:05,000
+But on the other side of the phone,
+
+1586
+01:19:05,000 --> 01:19:07,000
+there's a diagram that says,
+
+1587
+01:19:07,000 --> 01:19:09,000
+OK, he's asking about this, we have to answer that,
+
+1588
+01:19:09,000 --> 01:19:11,000
+we have to ask him that.
+
+1589
+01:19:11,000 --> 01:19:14,000
+If we link it to the product we mentioned earlier,
+
+1590
+01:19:14,000 --> 01:19:16,000
+that we massively agitate people,
+
+1591
+01:19:16,000 --> 01:19:18,000
+and we're looking for these Zadeva.
+
+1592
+01:19:18,000 --> 01:19:21,000
+You know, today people are already used to it.
+
+1593
+01:19:21,000 --> 01:19:24,000
+They have an icon on their phones, on their computers,
+
+1594
+01:19:24,000 --> 01:19:26,000
+and they know that if they press that button,
+
+1595
+01:19:26,000 --> 01:19:28,000
+an action will take place.
+
+1596
+01:19:28,000 --> 01:19:30,000
+You don't know what's going to happen,
+
+1597
+01:19:30,000 --> 01:19:32,000
+you don't know what he knows,
+
+1598
+01:19:32,000 --> 01:19:34,000
+you don't know where he's going to chase you,
+
+1599
+01:19:34,000 --> 01:19:36,000
+you don't know what he's up to,
+
+1600
+01:19:36,000 --> 01:19:38,000
+you don't know anything,
+
+1601
+01:19:38,000 --> 01:19:41,000
+and you just can't get them to do something.
+
+1602
+01:19:41,000 --> 01:19:43,000
+For me, that's what triggers them,
+
+1603
+01:19:43,000 --> 01:19:45,000
+that they don't know,
+
+1604
+01:19:45,000 --> 01:19:47,000
+and then they start talking,
+
+1605
+01:19:47,000 --> 01:19:49,000
+and then we believe that...
+
+1606
+01:19:49,000 --> 01:19:51,000
+Yes, they're fully self-confident,
+
+1607
+01:19:51,000 --> 01:19:54,000
+and they need two hours to talk to the same button.
+
+1608
+01:19:54,000 --> 01:19:56,000
+Wait, wait, wait.
+
+1609
+01:19:56,000 --> 01:19:58,000
+I don't know what that button is capable of.
+
+1610
+01:19:58,000 --> 01:19:59,000
+Yes, that's right.
+
+1611
+01:19:59,000 --> 01:20:01,000
+And you're going to be one of them.
+
+1612
+01:20:01,000 --> 01:20:03,000
+Do you know what that woman, or man,
+
+1613
+01:20:03,000 --> 01:20:05,000
+is capable of?
+
+1614
+01:20:05,000 --> 01:20:06,000
+I don't know.
+
+1615
+01:20:06,000 --> 01:20:07,000
+Is that possible?
+
+1616
+01:20:07,000 --> 01:20:08,000
+You ask yourself,
+
+1617
+01:20:08,000 --> 01:20:10,000
+what if they start talking about something
+
+1618
+01:20:10,000 --> 01:20:12,000
+that I'm not prepared to talk about?
+
+1619
+01:20:12,000 --> 01:20:13,000
+That's a good point.
+
+1620
+01:20:13,000 --> 01:20:15,000
+I believe that for some people it's a problem.
+
+1621
+01:20:15,000 --> 01:20:17,000
+For some people, conversations are stressful,
+
+1622
+01:20:17,000 --> 01:20:18,000
+and they're worried.
+
+1623
+01:20:18,000 --> 01:20:20,000
+You know what else?
+
+1624
+01:20:20,000 --> 01:20:22,000
+If I don't know what he knows,
+
+1625
+01:20:22,000 --> 01:20:24,000
+there's a person there,
+
+1626
+01:20:24,000 --> 01:20:26,000
+and if he doesn't know,
+
+1627
+01:20:26,000 --> 01:20:28,000
+maybe he'll ask,
+
+1628
+01:20:28,000 --> 01:20:32,000
+maybe he'll give you the best possible answer.
+
+1629
+01:20:32,000 --> 01:20:34,000
+People will be able to interpolate
+
+1630
+01:20:34,000 --> 01:20:36,000
+from incomplete data.
+
+1631
+01:20:36,000 --> 01:20:37,000
+You see?
+
+1632
+01:20:37,000 --> 01:20:40,000
+Exactly, those systems are capable of that now.
+
+1633
+01:20:40,000 --> 01:20:42,000
+That's why we're going to talk again
+
+1634
+01:20:42,000 --> 01:20:44,000
+in a new era of chatbots.
+
+1635
+01:20:44,000 --> 01:20:46,000
+I actually think that
+
+1636
+01:20:46,000 --> 01:20:49,000
+a different term will probably be used
+
+1637
+01:20:49,000 --> 01:20:51,000
+to make a little breakthrough
+
+1638
+01:20:51,000 --> 01:20:53,000
+in what happened.
+
+1639
+01:20:53,000 --> 01:20:57,000
+I don't know if it's an assistant or an agent.
+
+1640
+01:20:57,000 --> 01:20:59,000
+So a bot has a negative...
+
+1641
+01:20:59,000 --> 01:21:01,000
+I mean, like a chatbot.
+
+1642
+01:21:01,000 --> 01:21:03,000
+That's bullshit.
+
+1643
+01:21:03,000 --> 01:21:04,000
+Space.
+
+1644
+01:21:04,000 --> 01:21:05,000
+Yes.
+
+1645
+01:21:05,000 --> 01:21:07,000
+They'll use the argument,
+
+1646
+01:21:07,000 --> 01:21:09,000
+we've already created chatbots as a company,
+
+1647
+01:21:09,000 --> 01:21:11,000
+and they were a total fail.
+
+1648
+01:21:11,000 --> 01:21:13,000
+And then when one thing fails,
+
+1649
+01:21:13,000 --> 01:21:15,000
+and something better comes up,
+
+1650
+01:21:15,000 --> 01:21:17,000
+it's hard to reintroduce it,
+
+1651
+01:21:17,000 --> 01:21:19,000
+because there's already a bone there.
+
+1652
+01:21:19,000 --> 01:21:21,000
+I think marketing will dig it up
+
+1653
+01:21:22,000 --> 01:21:25,000
+In the end, it doesn't matter.
+
+1654
+01:21:25,000 --> 01:21:28,000
+Maybe if we just go back to OpenAI,
+
+1655
+01:21:28,000 --> 01:21:30,000
+as we introduced it.
+
+1656
+01:21:32,000 --> 01:21:35,000
+OpenAI is really
+
+1657
+01:21:37,000 --> 01:21:39,000
+the main player,
+
+1658
+01:21:39,000 --> 01:21:41,000
+this moment in this area.
+
+1659
+01:21:41,000 --> 01:21:43,000
+And now, why?
+
+1660
+01:21:43,000 --> 01:21:45,000
+What was the thing that differentiated them
+
+1661
+01:21:45,000 --> 01:21:47,000
+from the others?
+
+1662
+01:21:47,000 --> 01:21:49,000
+They were very comfortable
+
+1663
+01:21:49,000 --> 01:21:51,000
+putting all their chips
+
+1664
+01:21:51,000 --> 01:21:53,000
+on the hypothesis of scaling.
+
+1665
+01:21:55,000 --> 01:21:57,000
+And now they're experiencing a payoff
+
+1666
+01:21:57,000 --> 01:21:59,000
+for putting it on.
+
+1667
+01:21:59,000 --> 01:22:01,000
+Because, for example, in 2019,
+
+1668
+01:22:01,000 --> 01:22:04,000
+people were laughing at everything.
+
+1669
+01:22:04,000 --> 01:22:07,000
+For example, the GPT-2 model came out,
+
+1670
+01:22:07,000 --> 01:22:09,000
+I was already very fascinated by it.
+
+1671
+01:22:11,000 --> 01:22:14,000
+And people simply didn't believe,
+
+1672
+01:22:14,000 --> 01:22:16,000
+I mean, when I say people,
+
+1673
+01:22:16,000 --> 01:22:18,000
+I mean experts in the field,
+
+1674
+01:22:18,000 --> 01:22:20,000
+that if we scale it up a bit more,
+
+1675
+01:22:20,000 --> 01:22:24,000
+we'll achieve much more impressive results.
+
+1676
+01:22:24,000 --> 01:22:26,000
+And that's exactly what happened.
+
+1677
+01:22:31,000 --> 01:22:33,000
+Because it can go further.
+
+1678
+01:22:33,000 --> 01:22:36,000
+I mean, with this push forward,
+
+1679
+01:22:36,000 --> 01:22:39,000
+does what they're starting to do
+
+1680
+01:22:39,000 --> 01:22:41,000
+still escalate even more,
+
+1681
+01:22:41,000 --> 01:22:43,000
+or is there some limit
+
+1682
+01:22:43,000 --> 01:22:45,000
+to which we'll reach?
+
+1683
+01:22:45,000 --> 01:22:47,000
+I mean, as far as I can see,
+
+1684
+01:22:47,000 --> 01:22:49,000
+we don't know.
+
+1685
+01:22:49,000 --> 01:22:51,000
+But if I wanted to bet on something,
+
+1686
+01:22:51,000 --> 01:22:53,000
+I would say that we still have
+
+1687
+01:22:53,000 --> 01:22:55,000
+plenty of room for scaling.
+
+1688
+01:22:59,000 --> 01:23:01,000
+I don't see us running anywhere.
+
+1689
+01:23:01,000 --> 01:23:03,000
+Because, for example,
+
+1690
+01:23:03,000 --> 01:23:05,000
+in the previous methodology,
+
+1691
+01:23:05,000 --> 01:23:07,000
+let's say this deep learning
+
+1692
+01:23:07,000 --> 01:23:09,000
+without big learning,
+
+1693
+01:23:09,000 --> 01:23:11,000
+it started to show up.
+
+1694
+01:23:11,000 --> 01:23:13,000
+For example, in computer vision,
+
+1695
+01:23:13,000 --> 01:23:16,000
+there wasn't much drastic improvement.
+
+1696
+01:23:16,000 --> 01:23:19,000
+I mean, you get up to 98% accuracy,
+
+1697
+01:23:19,000 --> 01:23:23,000
+but then every tenth percent
+
+1698
+01:23:23,000 --> 01:23:25,000
+is very difficult.
+
+1699
+01:23:25,000 --> 01:23:28,000
+But here, it's going pretty well.
+
+1700
+01:23:30,000 --> 01:23:32,000
+I wrote to myself,
+
+1701
+01:23:32,000 --> 01:23:34,000
+this chat GTP,
+
+1702
+01:23:34,000 --> 01:23:36,000
+I wrote a couple of problems,
+
+1703
+01:23:36,000 --> 01:23:38,000
+or challenges that I see
+
+1704
+01:23:38,000 --> 01:23:40,000
+with this thing.
+
+1705
+01:23:40,000 --> 01:23:42,000
+And if you're going to investigate
+
+1706
+01:23:42,000 --> 01:23:44,000
+these problems yourself,
+
+1707
+01:23:44,000 --> 01:23:46,000
+you'll see them.
+
+1708
+01:23:46,000 --> 01:23:48,000
+One of the problems is that
+
+1709
+01:23:48,000 --> 01:23:50,000
+when they were training
+
+1710
+01:23:50,000 --> 01:23:52,000
+these models,
+
+1711
+01:23:52,000 --> 01:23:54,000
+it took some time
+
+1712
+01:23:54,000 --> 01:23:56,000
+to build all those models.
+
+1713
+01:23:56,000 --> 01:23:58,000
+Actually, one.
+
+1714
+01:23:58,000 --> 01:24:00,000
+And then
+
+1715
+01:24:00,000 --> 01:24:02,000
+you have a snapshot
+
+1716
+01:24:02,000 --> 01:24:04,000
+of the current world
+
+1717
+01:24:04,000 --> 01:24:06,000
+of those models.
+
+1718
+01:24:06,000 --> 01:24:08,000
+And he doesn't know, for example,
+
+1719
+01:24:08,000 --> 01:24:10,000
+who is the current president
+
+1720
+01:24:10,000 --> 01:24:12,000
+of the United States,
+
+1721
+01:24:12,000 --> 01:24:14,000
+he doesn't know these current things.
+
+1722
+01:24:14,000 --> 01:24:16,000
+Do you think that if they
+
+1723
+01:24:16,000 --> 01:24:18,000
+increase the size,
+
+1724
+01:24:18,000 --> 01:24:20,000
+they still won't have
+
+1725
+01:24:20,000 --> 01:24:22,000
+the up-to-date world,
+
+1726
+01:24:22,000 --> 01:24:24,000
+do you think it will be incorporated somehow,
+
+1727
+01:24:24,000 --> 01:24:26,000
+that it will be more alive?
+
+1728
+01:24:26,000 --> 01:24:28,000
+When will this be visible?
+
+1729
+01:24:28,000 --> 01:24:30,000
+I miss that, I have to learn that.
+
+1730
+01:24:32,000 --> 01:24:34,000
+I think that's
+
+1731
+01:24:34,000 --> 01:24:36,000
+a key question.
+
+1732
+01:24:36,000 --> 01:24:38,000
+So if anyone fell asleep,
+
+1733
+01:24:38,000 --> 01:24:40,000
+thank you.
+
+1734
+01:24:40,000 --> 01:24:42,000
+Yes, really.
+
+1735
+01:24:42,000 --> 01:24:44,000
+The current model, I think
+
+1736
+01:24:44,000 --> 01:24:46,000
+they all say that it's
+
+1737
+01:24:46,000 --> 01:24:48,000
+from 2021,
+
+1738
+01:24:48,000 --> 01:24:50,000
+in the fall,
+
+1739
+01:24:50,000 --> 01:24:52,000
+autumn,
+
+1740
+01:24:52,000 --> 01:24:54,000
+so the data they saw
+
+1741
+01:24:54,000 --> 01:24:56,000
+are static.
+
+1742
+01:24:56,000 --> 01:24:58,000
+And you can't
+
+1743
+01:24:58,000 --> 01:25:00,000
+solve it just by scaling.
+
+1744
+01:25:00,000 --> 01:25:02,000
+I mean,
+
+1745
+01:25:02,000 --> 01:25:04,000
+if something happened
+
+1746
+01:25:04,000 --> 01:25:06,000
+that hasn't happened yet,
+
+1747
+01:25:06,000 --> 01:25:08,000
+you have to know.
+
+1748
+01:25:08,000 --> 01:25:10,000
+If you solve it by scaling,
+
+1749
+01:25:10,000 --> 01:25:12,000
+it would be interesting.
+
+1750
+01:25:12,000 --> 01:25:14,000
+But there are other solutions,
+
+1751
+01:25:14,000 --> 01:25:16,000
+which are quite simple.
+
+1752
+01:25:16,000 --> 01:25:18,000
+So he doesn't need
+
+1753
+01:25:18,000 --> 01:25:20,000
+to have all the knowledge of the world
+
+1754
+01:25:20,000 --> 01:25:22,000
+written in his notes.
+
+1755
+01:25:22,000 --> 01:25:24,000
+That's why it's good
+
+1756
+01:25:24,000 --> 01:25:26,000
+to put it in a context,
+
+1757
+01:25:26,000 --> 01:25:28,000
+what is the knowledge in the notes,
+
+1758
+01:25:28,000 --> 01:25:30,000
+and how can we draw
+
+1759
+01:25:30,000 --> 01:25:32,000
+some kind of analogy
+
+1760
+01:25:32,000 --> 01:25:34,000
+for how people work.
+
+1761
+01:25:34,000 --> 01:25:36,000
+I will put this analogy,
+
+1762
+01:25:36,000 --> 01:25:38,000
+and then it will be easier to talk about it.
+
+1763
+01:25:38,000 --> 01:25:40,000
+For example, let's take a person.
+
+1764
+01:25:40,000 --> 01:25:42,000
+You have a short-term memory.
+
+1765
+01:25:42,000 --> 01:25:44,000
+For example, if you solve a task,
+
+1766
+01:25:44,000 --> 01:25:46,000
+you have to know
+
+1767
+01:25:46,000 --> 01:25:48,000
+what you are doing.
+
+1768
+01:25:50,000 --> 01:25:52,000
+If you write a code for a function,
+
+1769
+01:25:52,000 --> 01:25:54,000
+you probably know
+
+1770
+01:25:54,000 --> 01:25:56,000
+what function it is.
+
+1771
+01:25:56,000 --> 01:25:58,000
+That's a short-term memory.
+
+1772
+01:25:58,000 --> 01:26:00,000
+Then you have a long-term memory.
+
+1773
+01:26:00,000 --> 01:26:02,000
+You can think
+
+1774
+01:26:02,000 --> 01:26:04,000
+that you remember them,
+
+1775
+01:26:04,000 --> 01:26:06,000
+but you can attach them.
+
+1776
+01:26:08,000 --> 01:26:10,000
+You can simply
+
+1777
+01:26:10,000 --> 01:26:12,000
+use that knowledge.
+
+1778
+01:26:14,000 --> 01:26:16,000
+But it's not easy.
+
+1779
+01:26:16,000 --> 01:26:18,000
+You can either not remember something,
+
+1780
+01:26:18,000 --> 01:26:20,000
+or you remember something,
+
+1781
+01:26:20,000 --> 01:26:22,000
+or you mix it up with another memory.
+
+1782
+01:26:22,000 --> 01:26:24,000
+A human memory
+
+1783
+01:26:24,000 --> 01:26:26,000
+is not necessarily the easiest.
+
+1784
+01:26:26,000 --> 01:26:28,000
+Then
+
+1785
+01:26:28,000 --> 01:26:30,000
+you have the knowledge
+
+1786
+01:26:30,000 --> 01:26:32,000
+of yourself.
+
+1787
+01:26:32,000 --> 01:26:34,000
+You can go to Google,
+
+1788
+01:26:34,000 --> 01:26:36,000
+search for a book,
+
+1789
+01:26:36,000 --> 01:26:38,000
+and so on.
+
+1790
+01:26:38,000 --> 01:26:40,000
+How does this look
+
+1791
+01:26:40,000 --> 01:26:42,000
+in language models?
+
+1792
+01:26:42,000 --> 01:26:44,000
+Language models have
+
+1793
+01:26:44,000 --> 01:26:46,000
+a prompt.
+
+1794
+01:26:46,000 --> 01:26:48,000
+I think a lot of people
+
+1795
+01:26:48,000 --> 01:26:50,000
+have experimented with it.
+
+1796
+01:26:50,000 --> 01:26:52,000
+It's a guide
+
+1797
+01:26:52,000 --> 01:26:54,000
+that you give to the model,
+
+1798
+01:26:54,000 --> 01:26:56,000
+and then it continues
+
+1799
+01:26:56,000 --> 01:26:58,000
+the text from the guide.
+
+1800
+01:26:58,000 --> 01:27:00,000
+The guide has a short-term memory
+
+1801
+01:27:00,000 --> 01:27:02,000
+logo.
+
+1802
+01:27:02,000 --> 01:27:04,000
+That's what the model
+
+1803
+01:27:04,000 --> 01:27:06,000
+has in front of it,
+
+1804
+01:27:06,000 --> 01:27:08,000
+so it can work the easiest.
+
+1805
+01:27:08,000 --> 01:27:10,000
+The role of a long-term memory
+
+1806
+01:27:10,000 --> 01:27:12,000
+in models is played
+
+1807
+01:27:12,000 --> 01:27:14,000
+by
+
+1808
+01:27:14,000 --> 01:27:16,000
+neurons or weights.
+
+1809
+01:27:16,000 --> 01:27:18,000
+The entire neural network of the model
+
+1810
+01:27:18,000 --> 01:27:20,000
+is actually
+
+1811
+01:27:20,000 --> 01:27:22,000
+some kind of long-term memory.
+
+1812
+01:27:24,000 --> 01:27:26,000
+But that doesn't mean
+
+1813
+01:27:26,000 --> 01:27:28,000
+that models don't have to use
+
+1814
+01:27:28,000 --> 01:27:30,000
+other forms of memory.
+
+1815
+01:27:30,000 --> 01:27:32,000
+Models can
+
+1816
+01:27:32,000 --> 01:27:34,000
+connect to the prompt,
+
+1817
+01:27:34,000 --> 01:27:36,000
+they can look at the database,
+
+1818
+01:27:36,000 --> 01:27:38,000
+they can look at some repository
+
+1819
+01:27:38,000 --> 01:27:40,000
+of texts, and then
+
+1820
+01:27:40,000 --> 01:27:42,000
+from there, in a short-term memory,
+
+1821
+01:27:42,000 --> 01:27:44,000
+they attach
+
+1822
+01:27:44,000 --> 01:27:46,000
+information that is relevant
+
+1823
+01:27:46,000 --> 01:27:48,000
+for solving the problem they are working on.
+
+1824
+01:27:48,000 --> 01:27:50,000
+This is now a mechanism
+
+1825
+01:27:50,000 --> 01:27:52,000
+that will support a lot of
+
+1826
+01:27:52,000 --> 01:27:54,000
+solutions, but at the moment
+
+1827
+01:27:54,000 --> 01:27:56,000
+there is not enough focus on it.
+
+1828
+01:27:56,000 --> 01:27:58,000
+People expect that this neural network,
+
+1829
+01:27:58,000 --> 01:28:00,000
+if all the information is stored,
+
+1830
+01:28:00,000 --> 01:28:02,000
+is not a base.
+
+1831
+01:28:02,000 --> 01:28:04,000
+I see these models
+
+1832
+01:28:04,000 --> 01:28:06,000
+as some kind of glue,
+
+1833
+01:28:06,000 --> 01:28:08,000
+because they are complex enough
+
+1834
+01:28:08,000 --> 01:28:10,000
+to quickly capture the context
+
+1835
+01:28:10,000 --> 01:28:12,000
+and you can put them together.
+
+1836
+01:28:12,000 --> 01:28:14,000
+For example, between the problem
+
+1837
+01:28:14,000 --> 01:28:16,000
+you have and the data you need,
+
+1838
+01:28:16,000 --> 01:28:18,000
+this problem is solved.
+
+1839
+01:28:18,000 --> 01:28:20,000
+I wrote
+
+1840
+01:28:20,000 --> 01:28:22,000
+integration
+
+1841
+01:28:22,000 --> 01:28:24,000
+as a problem.
+
+1842
+01:28:24,000 --> 01:28:26,000
+Today,
+
+1843
+01:28:26,000 --> 01:28:28,000
+if you put a table inside
+
+1844
+01:28:28,000 --> 01:28:30,000
+and make some connections
+
+1845
+01:28:30,000 --> 01:28:32,000
+from that table,
+
+1846
+01:28:32,000 --> 01:28:34,000
+probably in such a concept
+
+1847
+01:28:34,000 --> 01:28:36,000
+you will connect
+
+1848
+01:28:36,000 --> 01:28:38,000
+with other models,
+
+1849
+01:28:38,000 --> 01:28:40,000
+with other systems, and
+
+1850
+01:28:40,000 --> 01:28:42,000
+extrapolate knowledge from that.
+
+1851
+01:28:42,000 --> 01:28:44,000
+This is the kind of integration
+
+1852
+01:28:44,000 --> 01:28:46,000
+we see.
+
+1853
+01:28:46,000 --> 01:28:48,000
+In a way.
+
+1854
+01:28:48,000 --> 01:28:50,000
+I'll give you an example,
+
+1855
+01:28:50,000 --> 01:28:52,000
+it's quite simple.
+
+1856
+01:28:52,000 --> 01:28:54,000
+For example, these models are not
+
+1857
+01:28:54,000 --> 01:28:56,000
+good at arithmetic.
+
+1858
+01:28:56,000 --> 01:28:58,000
+It's a bit strange, but it is.
+
+1859
+01:28:58,000 --> 01:29:00,000
+If you multiply
+
+1860
+01:29:00,000 --> 01:29:02,000
+two six-digit numbers,
+
+1861
+01:29:02,000 --> 01:29:04,000
+it will probably work.
+
+1862
+01:29:06,000 --> 01:29:08,000
+But you can tell this model
+
+1863
+01:29:08,000 --> 01:29:10,000
+in a short-term memory.
+
+1864
+01:29:10,000 --> 01:29:12,000
+You can tell it,
+
+1865
+01:29:12,000 --> 01:29:14,000
+you are not good at arithmetic.
+
+1866
+01:29:14,000 --> 01:29:16,000
+If the user
+
+1867
+01:29:16,000 --> 01:29:18,000
+asks a question
+
+1868
+01:29:18,000 --> 01:29:20,000
+when you think he is
+
+1869
+01:29:20,000 --> 01:29:22,000
+exceeding his ability,
+
+1870
+01:29:22,000 --> 01:29:24,000
+then you write a Python code
+
+1871
+01:29:24,000 --> 01:29:26,000
+that will
+
+1872
+01:29:26,000 --> 01:29:28,000
+look for a solution to that question
+
+1873
+01:29:28,000 --> 01:29:30,000
+and
+
+1874
+01:29:30,000 --> 01:29:32,000
+calculate the result and return it.
+
+1875
+01:29:32,000 --> 01:29:34,000
+You can tell this model.
+
+1876
+01:29:34,000 --> 01:29:36,000
+If you ask him
+
+1877
+01:29:36,000 --> 01:29:38,000
+what 2 plus 3 is,
+
+1878
+01:29:38,000 --> 01:29:40,000
+then he answers
+
+1879
+01:29:40,000 --> 01:29:42,000
+from his long-term memory.
+
+1880
+01:29:44,000 --> 01:29:46,000
+He will answer correctly.
+
+1881
+01:29:46,000 --> 01:29:48,000
+If you give him to multiply
+
+1882
+01:29:48,000 --> 01:29:50,000
+two six-digit numbers,
+
+1883
+01:29:50,000 --> 01:29:52,000
+he will write a
+
+1884
+01:29:52,000 --> 01:29:54,000
+mini Python function
+
+1885
+01:29:54,000 --> 01:29:56,000
+and he will give you the answer.
+
+1886
+01:29:58,000 --> 01:30:00,000
+I could very vehemently say
+
+1887
+01:30:00,000 --> 01:30:02,000
+that you are now
+
+1888
+01:30:02,000 --> 01:30:04,000
+a machine for neurosymbolic
+
+1889
+01:30:04,000 --> 01:30:06,000
+computing.
+
+1890
+01:30:08,000 --> 01:30:10,000
+Then there are
+
+1891
+01:30:10,000 --> 01:30:12,000
+use cases
+
+1892
+01:30:12,000 --> 01:30:14,000
+where you can monetize
+
+1893
+01:30:14,000 --> 01:30:16,000
+GTP and PNA products
+
+1894
+01:30:16,000 --> 01:30:18,000
+so that
+
+1895
+01:30:18,000 --> 01:30:20,000
+companies will use
+
+1896
+01:30:20,000 --> 01:30:22,000
+GTP
+
+1897
+01:30:22,000 --> 01:30:24,000
+and
+
+1898
+01:30:24,000 --> 01:30:26,000
+GTP3 as
+
+1899
+01:30:26,000 --> 01:30:28,000
+a core.
+
+1900
+01:30:28,000 --> 01:30:30,000
+Then they will
+
+1901
+01:30:30,000 --> 01:30:32,000
+access
+
+1902
+01:30:32,000 --> 01:30:34,000
+their specific data,
+
+1903
+01:30:34,000 --> 01:30:36,000
+their
+
+1904
+01:30:36,000 --> 01:30:38,000
+use case, or
+
+1905
+01:30:38,000 --> 01:30:40,000
+train for their domain
+
+1906
+01:30:40,000 --> 01:30:42,000
+that is specific
+
+1907
+01:30:42,000 --> 01:30:44,000
+finance or
+
+1908
+01:30:44,000 --> 01:30:46,000
+accounting. I think that the most
+
+1909
+01:30:46,000 --> 01:30:48,000
+simple use cases in companies
+
+1910
+01:30:48,000 --> 01:30:50,000
+will come
+
+1911
+01:30:50,000 --> 01:30:52,000
+from this title,
+
+1912
+01:30:52,000 --> 01:30:54,000
+in a similar setting.
+
+1913
+01:30:54,000 --> 01:30:56,000
+You will use it as a member
+
+1914
+01:30:56,000 --> 01:30:58,000
+because you will make one process
+
+1915
+01:30:58,000 --> 01:31:00,000
+simpler.
+
+1916
+01:31:00,000 --> 01:31:02,000
+You will be able to
+
+1917
+01:31:02,000 --> 01:31:04,000
+pull out full value
+
+1918
+01:31:04,000 --> 01:31:06,000
+from the automation of certain processes.
+
+1919
+01:31:08,000 --> 01:31:10,000
+For example,
+
+1920
+01:31:10,000 --> 01:31:12,000
+a company has a lot of
+
+1921
+01:31:12,000 --> 01:31:14,000
+internal rules and documents.
+
+1922
+01:31:14,000 --> 01:31:16,000
+Everyone has to follow
+
+1923
+01:31:16,000 --> 01:31:18,000
+all of this.
+
+1924
+01:31:18,000 --> 01:31:20,000
+This is complicated.
+
+1925
+01:31:20,000 --> 01:31:22,000
+If something happens and you as an employee
+
+1926
+01:31:22,000 --> 01:31:24,000
+have to react to it,
+
+1927
+01:31:24,000 --> 01:31:26,000
+you are not sure what to do.
+
+1928
+01:31:26,000 --> 01:31:28,000
+In companies it looks like
+
+1929
+01:31:28,000 --> 01:31:30,000
+you start asking around
+
+1930
+01:31:30,000 --> 01:31:32,000
+if you know how to do it,
+
+1931
+01:31:32,000 --> 01:31:34,000
+and then they ask you.
+
+1932
+01:31:36,000 --> 01:31:38,000
+Such things can be
+
+1933
+01:31:38,000 --> 01:31:40,000
+solved in such a way that
+
+1934
+01:31:40,000 --> 01:31:42,000
+when you ask for a point,
+
+1935
+01:31:42,000 --> 01:31:44,000
+it will not weigh you down.
+
+1936
+01:31:44,000 --> 01:31:46,000
+No, it will do
+
+1937
+01:31:46,000 --> 01:31:48,000
+semantic search of all internal rules,
+
+1938
+01:31:48,000 --> 01:31:50,000
+search for relevant
+
+1939
+01:31:50,000 --> 01:31:52,000
+problems, and on the basis of this
+
+1940
+01:31:52,000 --> 01:31:54,000
+it will give you an answer
+
+1941
+01:31:54,000 --> 01:31:56,000
+to what is the right thing to do.
+
+1942
+01:31:56,000 --> 01:31:58,000
+But you just said
+
+1943
+01:31:58,000 --> 01:32:00,000
+that you will ask for a point.
+
+1944
+01:32:00,000 --> 01:32:02,000
+Yes, I know.
+
+1945
+01:32:02,000 --> 01:32:04,000
+Again, the use case
+
+1946
+01:32:04,000 --> 01:32:06,000
+will be a point
+
+1947
+01:32:06,000 --> 01:32:08,000
+and you will ask
+
+1948
+01:32:08,000 --> 01:32:10,000
+and the database
+
+1949
+01:32:10,000 --> 01:32:12,000
+will not be static,
+
+1950
+01:32:12,000 --> 01:32:14,000
+it will go through and on the basis of this
+
+1951
+01:32:14,000 --> 01:32:16,000
+they will find the best answer.
+
+1952
+01:32:16,000 --> 01:32:18,000
+And maybe this is what ...
+
+1953
+01:32:18,000 --> 01:32:20,000
+Yes, but from the point of view
+
+1954
+01:32:20,000 --> 01:32:22,000
+of user experience,
+
+1955
+01:32:22,000 --> 01:32:24,000
+I think the difference is
+
+1956
+01:32:24,000 --> 01:32:26,000
+that a private car and a tank
+
+1957
+01:32:26,000 --> 01:32:28,000
+are both vehicles.
+
+1958
+01:32:28,000 --> 01:32:30,000
+I agree that
+
+1959
+01:32:30,000 --> 01:32:32,000
+user experience is better,
+
+1960
+01:32:32,000 --> 01:32:34,000
+but
+
+1961
+01:32:34,000 --> 01:32:36,000
+it's just that maybe
+
+1962
+01:32:36,000 --> 01:32:38,000
+you should ask for a point.
+
+1963
+01:32:38,000 --> 01:32:40,000
+Yes, yes, yes.
+
+1964
+01:32:40,000 --> 01:32:42,000
+It's hard for people
+
+1965
+01:32:42,000 --> 01:32:44,000
+to understand
+
+1966
+01:32:44,000 --> 01:32:46,000
+how important
+
+1967
+01:32:46,000 --> 01:32:48,000
+this improvement is
+
+1968
+01:32:48,000 --> 01:32:50,000
+that they have their own
+
+1969
+01:32:50,000 --> 01:32:52,000
+hands-on experience interaction with these systems.
+
+1970
+01:32:52,000 --> 01:32:54,000
+You have to
+
+1971
+01:32:54,000 --> 01:32:56,000
+try to see.
+
+1972
+01:32:58,000 --> 01:33:00,000
+Ok, I think
+
+1973
+01:33:00,000 --> 01:33:02,000
+I will connect two things here.
+
+1974
+01:33:02,000 --> 01:33:04,000
+In machine learning,
+
+1975
+01:33:06,000 --> 01:33:08,000
+when we evolve the quality
+
+1976
+01:33:08,000 --> 01:33:10,000
+of models, we break
+
+1977
+01:33:10,000 --> 01:33:12,000
+the basic inputs
+
+1978
+01:33:12,000 --> 01:33:14,000
+on a test dataset,
+
+1979
+01:33:14,000 --> 01:33:16,000
+then on a real dataset,
+
+1980
+01:33:16,000 --> 01:33:18,000
+and then we look at how much we have
+
+1981
+01:33:18,000 --> 01:33:20,000
+done today. And then you have
+
+1982
+01:33:20,000 --> 01:33:22,000
+metrics, accuracy,
+
+1983
+01:33:22,000 --> 01:33:24,000
+recall, precision,
+
+1984
+01:33:24,000 --> 01:33:26,000
+which actually describe how good
+
+1985
+01:33:26,000 --> 01:33:28,000
+and high quality these models are.
+
+1986
+01:33:28,000 --> 01:33:30,000
+And when we
+
+1987
+01:33:30,000 --> 01:33:32,000
+talk about machine learning systems,
+
+1988
+01:33:32,000 --> 01:33:34,000
+this is very important,
+
+1989
+01:33:34,000 --> 01:33:36,000
+because you know,
+
+1990
+01:33:36,000 --> 01:33:38,000
+if you have a well-trained model
+
+1991
+01:33:38,000 --> 01:33:40,000
+or not so well-trained,
+
+1992
+01:33:40,000 --> 01:33:42,000
+it will work differently than you think.
+
+1993
+01:33:42,000 --> 01:33:44,000
+And now,
+
+1994
+01:33:44,000 --> 01:33:46,000
+when I used
+
+1995
+01:33:46,000 --> 01:33:48,000
+this 4GTP,
+
+1996
+01:33:48,000 --> 01:33:50,000
+when you put
+
+1997
+01:33:50,000 --> 01:33:52,000
+some problems in it,
+
+1998
+01:33:52,000 --> 01:33:54,000
+which are maybe a little more
+
+1999
+01:33:54,000 --> 01:33:56,000
+fringe or a little more on the edge,
+
+2000
+01:33:56,000 --> 01:33:58,000
+because there is not much knowledge about it,
+
+2001
+01:33:58,000 --> 01:34:00,000
+it still responds very
+
+2002
+01:34:00,000 --> 01:34:02,000
+self-assuredly.
+
+2003
+01:34:02,000 --> 01:34:04,000
+It responds very
+
+2004
+01:34:04,000 --> 01:34:06,000
+well,
+
+2005
+01:34:06,000 --> 01:34:08,000
+it takes action.
+
+2006
+01:34:08,000 --> 01:34:10,000
+For example, I don't know, you give it a code,
+
+2007
+01:34:10,000 --> 01:34:12,000
+you say, make me a code review,
+
+2008
+01:34:12,000 --> 01:34:14,000
+then it writes you 7 points of code review
+
+2009
+01:34:14,000 --> 01:34:16,000
+and what you need to improve.
+
+2010
+01:34:16,000 --> 01:34:18,000
+And then 3 points are real,
+
+2011
+01:34:18,000 --> 01:34:20,000
+but the other 4 are total nonsense.
+
+2012
+01:34:20,000 --> 01:34:22,000
+But
+
+2013
+01:34:22,000 --> 01:34:24,000
+it doesn't say that anywhere.
+
+2014
+01:34:24,000 --> 01:34:26,000
+There is no warning anywhere,
+
+2015
+01:34:26,000 --> 01:34:28,000
+no confidence,
+
+2016
+01:34:28,000 --> 01:34:30,000
+but now I see that people take, for example,
+
+2017
+01:34:30,000 --> 01:34:32,000
+the output of these tools,
+
+2018
+01:34:32,000 --> 01:34:34,000
+generate, I don't know,
+
+2019
+01:34:34,000 --> 01:34:36,000
+a marketing newsletter,
+
+2020
+01:34:36,000 --> 01:34:38,000
+or I don't know, a podcast script,
+
+2021
+01:34:38,000 --> 01:34:40,000
+I don't know,
+
+2022
+01:34:40,000 --> 01:34:42,000
+and sell it as a solution.
+
+2023
+01:34:42,000 --> 01:34:44,000
+And then
+
+2024
+01:34:44,000 --> 01:34:46,000
+they push so far
+
+2025
+01:34:46,000 --> 01:34:48,000
+for you to take it,
+
+2026
+01:34:48,000 --> 01:34:50,000
+that it's amazing,
+
+2027
+01:34:50,000 --> 01:34:52,000
+that it's not far from it.
+
+2028
+01:34:52,000 --> 01:34:54,000
+Definitely not.
+
+2029
+01:34:54,000 --> 01:34:56,000
+That's why it's right.
+
+2030
+01:34:56,000 --> 01:34:58,000
+There are some warnings.
+
+2031
+01:34:58,000 --> 01:35:00,000
+Yes, there are, but I agree.
+
+2032
+01:35:00,000 --> 01:35:02,000
+This is really needed in some way
+
+2033
+01:35:02,000 --> 01:35:04,000
+of this model.
+
+2034
+01:35:04,000 --> 01:35:06,000
+It is not in the spirit of use.
+
+2035
+01:35:06,000 --> 01:35:08,000
+Yes, people find very creative ways
+
+2036
+01:35:08,000 --> 01:35:10,000
+to exploit these technologies.
+
+2037
+01:35:12,000 --> 01:35:14,000
+The key,
+
+2038
+01:35:14,000 --> 01:35:16,000
+successful way of using it
+
+2039
+01:35:16,000 --> 01:35:18,000
+is in integration.
+
+2040
+01:35:18,000 --> 01:35:20,000
+If you need
+
+2041
+01:35:20,000 --> 01:35:22,000
+symbolic capability,
+
+2042
+01:35:22,000 --> 01:35:24,000
+for example, now you have an interaction with Wolfram Alpha.
+
+2043
+01:35:24,000 --> 01:35:26,000
+You can
+
+2044
+01:35:26,000 --> 01:35:28,000
+use a natural language
+
+2045
+01:35:28,000 --> 01:35:30,000
+task that comes in your model,
+
+2046
+01:35:30,000 --> 01:35:32,000
+and then
+
+2047
+01:35:32,000 --> 01:35:34,000
+it gets the output
+
+2048
+01:35:34,000 --> 01:35:36,000
+and communicates it.
+
+2049
+01:35:36,000 --> 01:35:38,000
+The same goes for these tools.
+
+2050
+01:35:38,000 --> 01:35:40,000
+When you give it a guide
+
+2051
+01:35:40,000 --> 01:35:42,000
+at the beginning, it is very helpful for you.
+
+2052
+01:35:42,000 --> 01:35:44,000
+The answer is
+
+2053
+01:35:44,000 --> 01:35:46,000
+based on the things
+
+2054
+01:35:46,000 --> 01:35:48,000
+that came from
+
+2055
+01:35:48,000 --> 01:35:50,000
+those memories.
+
+2056
+01:35:50,000 --> 01:35:52,000
+It can't answer your problem
+
+2057
+01:35:52,000 --> 01:35:54,000
+with those snippets
+
+2058
+01:35:54,000 --> 01:35:56,000
+and tell you that it doesn't have
+
+2059
+01:35:56,000 --> 01:35:58,000
+concrete information.
+
+2060
+01:35:58,000 --> 01:36:00,000
+This can be solved
+
+2061
+01:36:00,000 --> 01:36:02,000
+to some extent with prompt engineering.
+
+2062
+01:36:02,000 --> 01:36:04,000
+You can't use it
+
+2063
+01:36:04,000 --> 01:36:06,000
+as a chatbot for launching
+
+2064
+01:36:06,000 --> 01:36:08,000
+fucking rockets.
+
+2065
+01:36:08,000 --> 01:36:10,000
+You said that
+
+2066
+01:36:10,000 --> 01:36:12,000
+you can also write a prompt
+
+2067
+01:36:12,000 --> 01:36:14,000
+on your own.
+
+2068
+01:36:14,000 --> 01:36:16,000
+Then it becomes
+
+2069
+01:36:16,000 --> 01:36:18,000
+some kind of art.
+
+2070
+01:36:18,000 --> 01:36:20,000
+That's right.
+
+2071
+01:36:22,000 --> 01:36:24,000
+ChatGPT
+
+2072
+01:36:24,000 --> 01:36:26,000
+has some art
+
+2073
+01:36:26,000 --> 01:36:28,000
+where it doesn't go
+
+2074
+01:36:28,000 --> 01:36:30,000
+and what it won't answer.
+
+2075
+01:36:30,000 --> 01:36:32,000
+But
+
+2076
+01:36:32,000 --> 01:36:34,000
+there are people who
+
+2077
+01:36:34,000 --> 01:36:36,000
+went to research how to write
+
+2078
+01:36:36,000 --> 01:36:38,000
+a prompt so that everyone gets
+
+2079
+01:36:38,000 --> 01:36:40,000
+a prompt injection.
+
+2080
+01:36:40,000 --> 01:36:42,000
+Maybe because
+
+2081
+01:36:42,000 --> 01:36:44,000
+it's about prompt engineering.
+
+2082
+01:36:44,000 --> 01:36:46,000
+When these models first came out in 2020,
+
+2083
+01:36:46,000 --> 01:36:48,000
+everything was in prompt engineering.
+
+2084
+01:36:48,000 --> 01:36:50,000
+You could ask
+
+2085
+01:36:50,000 --> 01:36:52,000
+in the right way
+
+2086
+01:36:52,000 --> 01:36:54,000
+to get what you wanted.
+
+2087
+01:36:54,000 --> 01:36:56,000
+But now
+
+2088
+01:36:56,000 --> 01:36:58,000
+reinforcement learning
+
+2089
+01:36:58,000 --> 01:37:00,000
+with human feedback is being done
+
+2090
+01:37:00,000 --> 01:37:02,000
+in these models.
+
+2091
+01:37:02,000 --> 01:37:04,000
+We have a model that was learned
+
+2092
+01:37:04,000 --> 01:37:06,000
+unsupervised.
+
+2093
+01:37:06,000 --> 01:37:08,000
+If we give it
+
+2094
+01:37:08,000 --> 01:37:10,000
+a task, it gives a result.
+
+2095
+01:37:10,000 --> 01:37:12,000
+Then we have people
+
+2096
+01:37:12,000 --> 01:37:14,000
+who grade
+
+2097
+01:37:14,000 --> 01:37:16,000
+whether the answer is good or not.
+
+2098
+01:37:16,000 --> 01:37:18,000
+On the basis of this grading
+
+2099
+01:37:18,000 --> 01:37:20,000
+the second model is learned
+
+2100
+01:37:20,000 --> 01:37:22,000
+to tell us
+
+2101
+01:37:22,000 --> 01:37:24,000
+how a person would
+
+2102
+01:37:24,000 --> 01:37:26,000
+evaluate the answer given by the first model.
+
+2103
+01:37:26,000 --> 01:37:28,000
+Once
+
+2104
+01:37:28,000 --> 01:37:30,000
+we have both models,
+
+2105
+01:37:30,000 --> 01:37:32,000
+the first one gives
+
+2106
+01:37:32,000 --> 01:37:34,000
+the results, the second one tells
+
+2107
+01:37:34,000 --> 01:37:36,000
+if it was good or not.
+
+2108
+01:37:36,000 --> 01:37:38,000
+Reinforcement learning happens.
+
+2109
+01:37:38,000 --> 01:37:40,000
+This leads to a model
+
+2110
+01:37:40,000 --> 01:37:42,000
+that follows the driver
+
+2111
+01:37:42,000 --> 01:37:44,000
+who gave it to you.
+
+2112
+01:37:44,000 --> 01:37:46,000
+A large part of
+
+2113
+01:37:46,000 --> 01:37:48,000
+prompt engineering does this
+
+2114
+01:37:48,000 --> 01:37:50,000
+because
+
+2115
+01:37:50,000 --> 01:37:52,000
+the way the model is
+
+2116
+01:37:52,000 --> 01:37:54,000
+constructed is
+
+2117
+01:37:54,000 --> 01:37:56,000
+to simplify it as much as possible.
+
+2118
+01:37:56,000 --> 01:37:58,000
+OK.
+
+2119
+01:37:58,000 --> 01:38:00,000
+Phew.
+
+2120
+01:38:00,000 --> 01:38:02,000
+Vlade, do you have anything else?
+
+2121
+01:38:02,000 --> 01:38:04,000
+Do you want to go to the bathroom?
+
+2122
+01:38:04,000 --> 01:38:06,000
+No, no, no.
+
+2123
+01:38:06,000 --> 01:38:08,000
+I have a few more questions
+
+2124
+01:38:08,000 --> 01:38:10,000
+and then we'll wrap up.
+
+2125
+01:38:12,000 --> 01:38:14,000
+Now I will
+
+2126
+01:38:14,000 --> 01:38:16,000
+step out of
+
+2127
+01:38:16,000 --> 01:38:18,000
+these products
+
+2128
+01:38:18,000 --> 01:38:20,000
+and ask
+
+2129
+01:38:20,000 --> 01:38:22,000
+the field of artificial intelligence,
+
+2130
+01:38:22,000 --> 01:38:24,000
+machine learning, deep learning,
+
+2131
+01:38:24,000 --> 01:38:26,000
+the product we have
+
+2132
+01:38:26,000 --> 01:38:28,000
+now changed,
+
+2133
+01:38:28,000 --> 01:38:30,000
+does this field grow exponentially?
+
+2134
+01:38:30,000 --> 01:38:32,000
+The things we saw
+
+2135
+01:38:32,000 --> 01:38:34,000
+at the beginning of the year 2021
+
+2136
+01:38:34,000 --> 01:38:36,000
+and 2020,
+
+2137
+01:38:36,000 --> 01:38:38,000
+and now
+
+2138
+01:38:38,000 --> 01:38:40,000
+it's boom.
+
+2139
+01:38:40,000 --> 01:38:42,000
+Does it really grow?
+
+2140
+01:38:42,000 --> 01:38:44,000
+Or is it just media talk?
+
+2141
+01:38:44,000 --> 01:38:46,000
+I went specifically
+
+2142
+01:38:46,000 --> 01:38:48,000
+to look for an answer to this question,
+
+2143
+01:38:48,000 --> 01:38:50,000
+but the number of
+
+2144
+01:38:50,000 --> 01:38:52,000
+research papers published,
+
+2145
+01:38:52,000 --> 01:38:54,000
+the number of articles published,
+
+2146
+01:38:54,000 --> 01:38:56,000
+the number of codes published,
+
+2147
+01:38:56,000 --> 01:38:58,000
+the number of projects published,
+
+2148
+01:38:58,000 --> 01:39:00,000
+the activity within this space,
+
+2149
+01:39:00,000 --> 01:39:02,000
+everything grows exponentially.
+
+2150
+01:39:02,000 --> 01:39:04,000
+And also the tools,
+
+2151
+01:39:04,000 --> 01:39:06,000
+their quality
+
+2152
+01:39:06,000 --> 01:39:08,000
+is improving almost exponentially.
+
+2153
+01:39:08,000 --> 01:39:10,000
+Things like today,
+
+2154
+01:39:10,000 --> 01:39:12,000
+when we film this,
+
+2155
+01:39:12,000 --> 01:39:14,000
+are interesting,
+
+2156
+01:39:14,000 --> 01:39:16,000
+but by the end of the year
+
+2157
+01:39:16,000 --> 01:39:18,000
+they will be much, much, much better
+
+2158
+01:39:18,000 --> 01:39:20,000
+than they are now, because again
+
+2159
+01:39:20,000 --> 01:39:22,000
+we have this exponential growth.
+
+2160
+01:39:22,000 --> 01:39:24,000
+I have some charts here
+
+2161
+01:39:24,000 --> 01:39:26,000
+and all the charts go up quickly.
+
+2162
+01:39:26,000 --> 01:39:28,000
+And now my question will be
+
+2163
+01:39:28,000 --> 01:39:30,000
+ok, let's say
+
+2164
+01:39:30,000 --> 01:39:32,000
+this hypothesis holds,
+
+2165
+01:39:32,000 --> 01:39:34,000
+that growth is really fast and
+
+2166
+01:39:34,000 --> 01:39:36,000
+exponential.
+
+2167
+01:39:36,000 --> 01:39:38,000
+But now, how does it grow?
+
+2168
+01:39:38,000 --> 01:39:40,000
+Is it because
+
+2169
+01:39:40,000 --> 01:39:42,000
+it's such an interesting
+
+2170
+01:39:42,000 --> 01:39:44,000
+opportunity to make
+
+2171
+01:39:44,000 --> 01:39:46,000
+a big leap, to really put
+
+2172
+01:39:46,000 --> 01:39:48,000
+a lot of money in it?
+
+2173
+01:39:48,000 --> 01:39:50,000
+Or is it software
+
+2174
+01:39:50,000 --> 01:39:52,000
+that enables us to do this?
+
+2175
+01:39:52,000 --> 01:39:54,000
+Or is it hardware that enables us to do this?
+
+2176
+01:39:54,000 --> 01:39:56,000
+Or is it hardware prices that enable us to do this?
+
+2177
+01:39:56,000 --> 01:39:58,000
+What is the reason
+
+2178
+01:39:58,000 --> 01:40:00,000
+for this exponential growth?
+
+2179
+01:40:00,000 --> 01:40:17,000
+In the end, Richard Sutton wrote a short essay entitled The Bitter Lesson,
+
+2180
+01:40:17,000 --> 01:40:22,000
+where he said some time ago that if we look through the art of intelligence,
+
+2181
+01:40:22,000 --> 01:40:25,000
+what has been achieved, what has not been, then we draw a line,
+
+2182
+01:40:25,000 --> 01:40:31,000
+why did all this happen? It is because all these achievements, in a way,
+
+2183
+01:40:31,000 --> 01:40:37,000
+were supported by hardware and so much more computational power.
+
+2184
+01:40:37,000 --> 01:40:40,000
+And I think this is still true.
+
+2185
+01:40:40,000 --> 01:40:50,000
+When we talk about scaling, of course, we will always need more computational power for scaling.
+
+2186
+01:40:50,000 --> 01:40:57,000
+And in order to overcome this, if we count on hardware becoming more capable,
+
+2187
+01:40:57,000 --> 01:40:59,000
+it is not just hardware.
+
+2188
+01:40:59,000 --> 01:41:04,000
+I will also talk about ways to optimize things with better software and so on.
+
+2189
+01:41:04,000 --> 01:41:06,000
+But that is the basis.
+
+2190
+01:41:06,000 --> 01:41:11,000
+And here, to say that we have a powerful cut-off on the horizon,
+
+2191
+01:41:11,000 --> 01:41:13,000
+to see it now, no, no.
+
+2192
+01:41:13,000 --> 01:41:17,000
+Because no, not only in the individual processor core.
+
+2193
+01:41:17,000 --> 01:41:26,000
+I am currently very confident that in the next three years,
+
+2194
+01:41:26,000 --> 01:41:28,000
+in terms of hardware, we will still grow.
+
+2195
+01:41:28,000 --> 01:41:32,000
+Unless there is an exogenous event, like a war or something like that.
+
+2196
+01:41:32,000 --> 01:41:37,000
+But other than that, in the next three years we will still grow.
+
+2197
+01:41:37,000 --> 01:41:40,000
+Three years of computing is…
+
+2198
+01:41:40,000 --> 01:41:42,000
+Ten years.
+
+2199
+01:41:42,000 --> 01:41:45,000
+Fifteen years in some other words.
+
+2200
+01:41:45,000 --> 01:41:48,000
+And do you hope to tell us where we will grow?
+
+2201
+01:41:48,000 --> 01:41:55,000
+I mean, let's say, what will happen at the end of this year for AI?
+
+2202
+01:41:55,000 --> 01:41:59,000
+What do you hope to say, where will we be?
+
+2203
+01:41:59,000 --> 01:42:03,000
+One thing that is already highly anticipated is the arrival of GPT-4.
+
+2204
+01:42:03,000 --> 01:42:11,000
+I think that when it happens, it will be much bigger than what it was at the beginning of GPT.
+
+2205
+01:42:11,000 --> 01:42:14,000
+It's hard to say what the functionality will be like.
+
+2206
+01:42:14,000 --> 01:42:20,000
+My expectation is that the model will be more connected to the Internet.
+
+2207
+01:42:20,000 --> 01:42:26,000
+It will enable delegating tasks, which I could manage independently.
+
+2208
+01:42:26,000 --> 01:42:32,000
+Then I expect, when it comes to generating videos,
+
+2209
+01:42:32,000 --> 01:42:37,000
+I expect a drastic improvement by the end of this year.
+
+2210
+01:42:37,000 --> 01:42:43,000
+I think we will reach the point where you can generate an entire evening with one shot.
+
+2211
+01:42:43,000 --> 01:42:49,000
+It won't be the most valuable thing until the end of this year, but look, the next year…
+
+2212
+01:42:49,000 --> 01:42:55,000
+But here, the video is again about deepfake.
+
+2213
+01:42:55,000 --> 01:42:59,000
+Yes, you know, when it comes to deepfakes,
+
+2214
+01:42:59,000 --> 01:43:06,000
+we have to find a solution that won't be connected to detecting it,
+
+2215
+01:43:06,000 --> 01:43:08,000
+because it's a losing battle.
+
+2216
+01:43:08,000 --> 01:43:12,000
+I suggest that the solution be more in the sense of cryptography.
+
+2217
+01:43:13,000 --> 01:43:19,000
+So, if you have a cryptographically verified channel
+
+2218
+01:43:19,000 --> 01:43:22,000
+through which someone gives information,
+
+2219
+01:43:22,000 --> 01:43:26,000
+then you can assume that if the information came from that channel,
+
+2220
+01:43:26,000 --> 01:43:29,000
+and I hope so, if not, then not.
+
+2221
+01:43:29,000 --> 01:43:32,000
+No matter how you try to detect something,
+
+2222
+01:43:32,000 --> 01:43:36,000
+some time goes by, then a better meme comes and it doesn't work anymore.
+
+2223
+01:43:36,000 --> 01:43:41,000
+When we were talking earlier, Miska and Mucka…
+
+2224
+01:43:41,000 --> 01:43:43,000
+Yes, that's true.
+
+2225
+01:43:43,000 --> 01:43:49,000
+What people have shown is that it is possible to manipulate deepfakes quite well.
+
+2226
+01:43:49,000 --> 01:43:55,000
+So, what is the added value of being able to include deepfakes in a healthy way,
+
+2227
+01:43:55,000 --> 01:43:57,000
+is an important question.
+
+2228
+01:43:57,000 --> 01:44:00,000
+But I think that more like those media deepfakes,
+
+2229
+01:44:00,000 --> 01:44:07,000
+which would worry me, is when an agent calls you
+
+2230
+01:44:07,000 --> 01:44:10,000
+and has a pleasant conversation with you on the phone,
+
+2231
+01:44:10,000 --> 01:44:13,000
+or you have a video call with him.
+
+2232
+01:44:13,000 --> 01:44:18,000
+To some extent, voice already exists.
+
+2233
+01:44:18,000 --> 01:44:20,000
+To some extent.
+
+2234
+01:44:20,000 --> 01:44:22,000
+It's a kind of a scheme, right?
+
+2235
+01:44:22,000 --> 01:44:24,000
+Or should I say, they're already here.
+
+2236
+01:44:24,000 --> 01:44:27,000
+Yes, but what's the point if you won't be able to hear anymore?
+
+2237
+01:44:27,000 --> 01:44:31,000
+I'm more interested in whether something is being done against it,
+
+2238
+01:44:31,000 --> 01:44:36,000
+that is, whether you will know or detect that it is an output
+
+2239
+01:44:36,000 --> 01:44:41,000
+that was generated through an AI system,
+
+2240
+01:44:41,000 --> 01:44:45,000
+that on the other hand, it is really a bot,
+
+2241
+01:44:45,000 --> 01:44:48,000
+and then record the voice.
+
+2242
+01:44:48,000 --> 01:44:50,000
+The Chinese have a great solution now.
+
+2243
+01:44:50,000 --> 01:44:53,000
+Everything that is generated with artificial intelligence,
+
+2244
+01:44:53,000 --> 01:44:55,000
+all images and all photos must have water,
+
+2245
+01:44:55,000 --> 01:44:57,000
+it must be generated.
+
+2246
+01:44:57,000 --> 01:44:58,000
+They solved the problem.
+
+2247
+01:44:58,000 --> 01:45:00,000
+Yes, they solved it.
+
+2248
+01:45:00,000 --> 01:45:03,000
+You know, it's a new technology, radical,
+
+2249
+01:45:03,000 --> 01:45:08,000
+some kind of crop picture, you know.
+
+2250
+01:45:08,000 --> 01:45:10,000
+Okay.
+
+2251
+01:45:10,000 --> 01:45:16,000
+Now I have two or three more questions here,
+
+2252
+01:45:16,000 --> 01:45:18,000
+and then we'll wrap up.
+
+2253
+01:45:18,000 --> 01:45:27,000
+You asked this question, but what is the role of a data scientist
+
+2254
+01:45:27,000 --> 01:45:33,000
+or a machine learning engineer in this whole aspect?
+
+2255
+01:45:33,000 --> 01:45:40,000
+I think that we will now fight against artificial intelligence.
+
+2256
+01:45:40,000 --> 01:45:42,000
+I don't know, probably a lost battle.
+
+2257
+01:45:42,000 --> 01:45:45,000
+We probably have to learn how to work with it.
+
+2258
+01:45:45,000 --> 01:45:52,000
+I mean, what is the role of a modern engineer in this area?
+
+2259
+01:45:52,000 --> 01:45:54,000
+You see, this question is a bit about the role,
+
+2260
+01:45:54,000 --> 01:45:57,000
+what people are doing, and a bit about AI safety.
+
+2261
+01:45:57,000 --> 01:45:59,000
+But it's done, it's been mixed.
+
+2262
+01:45:59,000 --> 01:46:02,000
+What will you do when you start programming on some scale?
+
+2263
+01:46:02,000 --> 01:46:04,000
+We'll write a podcast host.
+
+2264
+01:46:04,000 --> 01:46:06,000
+You'll say that today.
+
+2265
+01:46:06,000 --> 01:46:08,000
+If you have an idea for today's show,
+
+2266
+01:46:08,000 --> 01:46:10,000
+you can generate it.
+
+2267
+01:46:11,000 --> 01:46:15,000
+The guy who does OpenAI has a contract for,
+
+2268
+01:46:15,000 --> 01:46:17,000
+what did you say?
+
+2269
+01:46:17,000 --> 01:46:22,000
+For that, how do you say, universal income,
+
+2270
+01:46:22,000 --> 01:46:25,000
+and through that he will give back to people
+
+2271
+01:46:25,000 --> 01:46:27,000
+who will no longer have a job because of it.
+
+2272
+01:46:27,000 --> 01:46:30,000
+But let's go back to that.
+
+2273
+01:46:30,000 --> 01:46:32,000
+Let's go back to those vlogs.
+
+2274
+01:46:32,000 --> 01:46:34,000
+Yes, to the vlogs.
+
+2275
+01:46:34,000 --> 01:46:36,000
+Well, a data scientist,
+
+2276
+01:46:36,000 --> 01:46:39,000
+who was so attracted to the title,
+
+2277
+01:46:39,000 --> 01:46:41,000
+I mean, still is,
+
+2278
+01:46:41,000 --> 01:46:43,000
+but when people join Data Science,
+
+2279
+01:46:43,000 --> 01:46:46,000
+they expect to be able to build models,
+
+2280
+01:46:46,000 --> 01:46:49,000
+and to be able to get to know a lot of different architectures,
+
+2281
+01:46:49,000 --> 01:46:51,000
+which they will use creatively, and so on.
+
+2282
+01:46:51,000 --> 01:46:54,000
+But that part is a bit boring.
+
+2283
+01:46:54,000 --> 01:46:56,000
+Because, for example, in the usual Data Science,
+
+2284
+01:46:56,000 --> 01:46:59,000
+the problems in the field are well understood,
+
+2285
+01:46:59,000 --> 01:47:02,000
+and the models that solve it are well known and documented,
+
+2286
+01:47:02,000 --> 01:47:05,000
+but they don't really need that creativity.
+
+2287
+01:47:05,000 --> 01:47:08,000
+Because a lot of those people are the happiest when they say
+
+2288
+01:47:08,000 --> 01:47:10,000
+that they won't actually do that.
+
+2289
+01:47:10,000 --> 01:47:14,000
+Plus, there are various AutoML methods,
+
+2290
+01:47:14,000 --> 01:47:16,000
+which, even if you have to do it,
+
+2291
+01:47:16,000 --> 01:47:18,000
+it's fully automated.
+
+2292
+01:47:18,000 --> 01:47:21,000
+And consequently, the role of Data Science
+
+2293
+01:47:21,000 --> 01:47:24,000
+is now at two ends.
+
+2294
+01:47:24,000 --> 01:47:27,000
+The first is understanding which data we need,
+
+2295
+01:47:27,000 --> 01:47:29,000
+and are those data okay,
+
+2296
+01:47:29,000 --> 01:47:32,000
+and it's very clean.
+
+2297
+01:47:32,000 --> 01:47:35,000
+Marsik doesn't really care if you promise
+
+2298
+01:47:35,000 --> 01:47:37,000
+that you will learn some sophisticated models,
+
+2299
+01:47:37,000 --> 01:47:39,000
+but that's an essential part of it.
+
+2300
+01:47:39,000 --> 01:47:41,000
+On the other hand, there is communication.
+
+2301
+01:47:41,000 --> 01:47:45,000
+Constantly, aha, now we got something out of those models,
+
+2302
+01:47:45,000 --> 01:47:50,000
+and now we need to show it to the stakeholders,
+
+2303
+01:47:50,000 --> 01:47:53,000
+why, and what would be good to do with it.
+
+2304
+01:47:53,000 --> 01:47:55,000
+And again, there is also a field where
+
+2305
+01:47:55,000 --> 01:47:58,000
+Marsik is not really looking for that.
+
+2306
+01:47:58,000 --> 01:48:01,000
+He would rather develop models.
+
+2307
+01:48:01,000 --> 01:48:05,000
+Well, now, in Machine Learning Engineering,
+
+2308
+01:48:05,000 --> 01:48:09,000
+I think that this engineer part came from
+
+2309
+01:48:09,000 --> 01:48:11,000
+building something,
+
+2310
+01:48:11,000 --> 01:48:15,000
+because a builder of a system that works continuously
+
+2311
+01:48:15,000 --> 01:48:17,000
+and has to work really smoothly,
+
+2312
+01:48:17,000 --> 01:48:20,000
+and verified, and so on.
+
+2313
+01:48:20,000 --> 01:48:23,000
+Here it is more about setting,
+
+2314
+01:48:23,000 --> 01:48:25,000
+I would say, a pipeline,
+
+2315
+01:48:25,000 --> 01:48:28,000
+which will go from, let's say,
+
+2316
+01:48:28,000 --> 01:48:31,000
+a business problem or a query,
+
+2317
+01:48:31,000 --> 01:48:33,000
+to the final implementation,
+
+2318
+01:48:33,000 --> 01:48:35,000
+in accordance with the entire verification that must take place,
+
+2319
+01:48:35,000 --> 01:48:37,000
+so that everything flows smoothly.
+
+2320
+01:48:37,000 --> 01:48:40,000
+In short, building and maintaining such systems.
+
+2321
+01:48:42,000 --> 01:48:48,000
+So, in a way, these are roles that are always more divergent.
+
+2322
+01:48:48,000 --> 01:48:50,000
+Again, it's like that.
+
+2323
+01:48:50,000 --> 01:48:52,000
+Even a Machine Learning Engineer
+
+2324
+01:48:52,000 --> 01:48:55,000
+will not need to spend a lot of time
+
+2325
+01:48:55,000 --> 01:48:57,000
+on learning models.
+
+2326
+01:48:57,000 --> 01:49:00,000
+For example, what is happening now,
+
+2327
+01:49:00,000 --> 01:49:03,000
+where new architectures are being used,
+
+2328
+01:49:03,000 --> 01:49:06,000
+whether you are in the universities,
+
+2329
+01:49:06,000 --> 01:49:09,000
+where the budget for calculating is very financially limited,
+
+2330
+01:49:09,000 --> 01:49:12,000
+and in those development departments,
+
+2331
+01:49:12,000 --> 01:49:15,000
+companies that have decided to invest a lot of money in it.
+
+2332
+01:49:15,000 --> 01:49:17,000
+And then they have a role,
+
+2333
+01:49:17,000 --> 01:49:19,000
+which is now decided again,
+
+2334
+01:49:19,000 --> 01:49:21,000
+not only by a Machine Learning Engineer,
+
+2335
+01:49:21,000 --> 01:49:23,000
+but by a Research Scientist.
+
+2336
+01:49:24,000 --> 01:49:30,000
+But also for,
+
+2337
+01:49:30,000 --> 01:49:33,000
+let's say, for ordinary engineers,
+
+2338
+01:49:33,000 --> 01:49:35,000
+because it sounds very stupid,
+
+2339
+01:49:35,000 --> 01:49:37,000
+but let's say you are a web developer,
+
+2340
+01:49:37,000 --> 01:49:40,000
+that you are, I don't know, a front-end developer,
+
+2341
+01:49:40,000 --> 01:49:44,000
+that is, you are not a Data Science or Machine Learning Engineer.
+
+2342
+01:49:44,000 --> 01:49:50,000
+It seems to me that it is smart to be in touch with this technology,
+
+2343
+01:49:50,000 --> 01:49:54,000
+because now you have to use it,
+
+2344
+01:49:54,000 --> 01:49:57,000
+or it turns into a non-functional thing.
+
+2345
+01:49:57,000 --> 01:50:02,000
+I can give you an example.
+
+2346
+01:50:02,000 --> 01:50:05,000
+For example, someone had an example,
+
+2347
+01:50:05,000 --> 01:50:09,000
+that is, he had a plugin that was written in jQuery,
+
+2348
+01:50:09,000 --> 01:50:13,000
+and he had some other template,
+
+2349
+01:50:13,000 --> 01:50:15,000
+and he put it inside gtp,
+
+2350
+01:50:15,000 --> 01:50:18,000
+and he said, write me a React component out of it.
+
+2351
+01:50:18,000 --> 01:50:20,000
+And the React component was executed,
+
+2352
+01:50:20,000 --> 01:50:22,000
+you fix it a little, boom, and it worked.
+
+2353
+01:50:22,000 --> 01:50:24,000
+These are some examples,
+
+2354
+01:50:24,000 --> 01:50:27,000
+where you have to build a little knowledge,
+
+2355
+01:50:27,000 --> 01:50:31,000
+that now this tool will help you improve it.
+
+2356
+01:50:31,000 --> 01:50:33,000
+You don't have to be a ML Engineer,
+
+2357
+01:50:33,000 --> 01:50:36,000
+but these tools can help you, or what, I don't know.
+
+2358
+01:50:36,000 --> 01:50:39,000
+Yes, maybe a little personal perspective,
+
+2359
+01:50:39,000 --> 01:50:41,000
+which can be a little boring.
+
+2360
+01:50:41,000 --> 01:50:43,000
+One thing I definitely noticed,
+
+2361
+01:50:43,000 --> 01:50:46,000
+when it comes to implementing some such tools,
+
+2362
+01:50:46,000 --> 01:50:48,000
+which is GPT,
+
+2363
+01:50:48,000 --> 01:50:53,000
+I noticed that people who work in marketing,
+
+2364
+01:50:53,000 --> 01:50:57,000
+people development, managers, sales,
+
+2365
+01:50:57,000 --> 01:51:01,000
+in short, such people are much faster
+
+2366
+01:51:01,000 --> 01:51:04,000
+in using these technologies.
+
+2367
+01:51:04,000 --> 01:51:07,000
+For example, I don't know, I show it to them once,
+
+2368
+01:51:07,000 --> 01:51:09,000
+and then we sit down in two months
+
+2369
+01:51:09,000 --> 01:51:12,000
+and casually change it so that they use it every day.
+
+2370
+01:51:12,000 --> 01:51:15,000
+It seems to me that for people
+
+2371
+01:51:15,000 --> 01:51:18,000
+who are more focused on development,
+
+2372
+01:51:18,000 --> 01:51:20,000
+it's not always like that,
+
+2373
+01:51:20,000 --> 01:51:23,000
+but often you can feel some kind of resistance,
+
+2374
+01:51:23,000 --> 01:51:25,000
+and a very strong skepticism
+
+2375
+01:51:25,000 --> 01:51:28,000
+about what we can do with these tools.
+
+2376
+01:51:28,000 --> 01:51:31,000
+I mean, my recommendation is
+
+2377
+01:51:31,000 --> 01:51:34,000
+to pay attention to this,
+
+2378
+01:51:34,000 --> 01:51:37,000
+not necessarily only for tools that are for development,
+
+2379
+01:51:37,000 --> 01:51:39,000
+but also for other things.
+
+2380
+01:51:39,000 --> 01:51:41,000
+For example, one side is,
+
+2381
+01:51:41,000 --> 01:51:43,000
+which is very useful,
+
+2382
+01:51:43,000 --> 01:51:45,000
+Future Tools,
+
+2383
+01:51:45,000 --> 01:51:47,000
+which is really worth looking at,
+
+2384
+01:51:47,000 --> 01:51:51,000
+because it is such a carefully selected set of products
+
+2385
+01:51:51,000 --> 01:51:53,000
+that can be used today
+
+2386
+01:51:53,000 --> 01:51:55,000
+for solving various things.
+
+2387
+01:51:55,000 --> 01:51:57,000
+I don't know, I would say banal,
+
+2388
+01:51:57,000 --> 01:51:59,000
+how to increase the resolution of the image,
+
+2389
+01:51:59,000 --> 01:52:01,000
+and of course, there is also such a tool
+
+2390
+01:52:01,000 --> 01:52:03,000
+when the GPTs are up and down.
+
+2391
+01:52:05,000 --> 01:52:08,000
+I think it will go in that direction,
+
+2392
+01:52:08,000 --> 01:52:11,000
+and there will also be senior developers
+
+2393
+01:52:11,000 --> 01:52:13,000
+who will use these tools
+
+2394
+01:52:13,000 --> 01:52:15,000
+to make them even better.
+
+2395
+01:52:15,000 --> 01:52:17,000
+Also, if I look at Twitter,
+
+2396
+01:52:17,000 --> 01:52:19,000
+I will say that people
+
+2397
+01:52:19,000 --> 01:52:22,000
+who I know are pretty good developers,
+
+2398
+01:52:22,000 --> 01:52:25,000
+then after a few months of using these tools,
+
+2399
+01:52:25,000 --> 01:52:28,000
+they recommend that they make them
+
+2400
+01:52:28,000 --> 01:52:30,000
+not only very effective,
+
+2401
+01:52:30,000 --> 01:52:33,000
+but also that more than a hundred of their codes
+
+2402
+01:52:33,000 --> 01:52:36,000
+are created by using these tools.
+
+2403
+01:52:37,000 --> 01:52:39,000
+Okay, last question.
+
+2404
+01:52:39,000 --> 01:52:41,000
+Are you ready?
+
+2405
+01:52:41,000 --> 01:52:44,000
+I was a little shy about that.
+
+2406
+01:52:45,000 --> 01:52:47,000
+I would also like to know
+
+2407
+01:52:47,000 --> 01:52:50,000
+what management is doing,
+
+2408
+01:52:50,000 --> 01:52:52,000
+how to connect
+
+2409
+01:52:54,000 --> 01:52:57,000
+this part of artificial intelligence and management,
+
+2410
+01:52:57,000 --> 01:53:01,000
+or is management now making more different decisions
+
+2411
+01:53:01,000 --> 01:53:03,000
+on these tools,
+
+2412
+01:53:03,000 --> 01:53:06,000
+or is there a better distance
+
+2413
+01:53:10,000 --> 01:53:15,000
+and still deciding the way we have decided so far?
+
+2414
+01:53:16,000 --> 01:53:19,000
+That's a bit of a shopping question.
+
+2415
+01:53:21,000 --> 01:53:24,000
+But what would you say today,
+
+2416
+01:53:24,000 --> 01:53:27,000
+for example, to technological companies
+
+2417
+01:53:27,000 --> 01:53:30,000
+and their management?
+
+2418
+01:53:31,000 --> 01:53:34,000
+The first thing that I think is most useful,
+
+2419
+01:53:34,000 --> 01:53:36,000
+if everything is clear,
+
+2420
+01:53:36,000 --> 01:53:39,000
+is to get a hands-on experience
+
+2421
+01:53:39,000 --> 01:53:42,000
+with these tools for all people in management.
+
+2422
+01:53:42,000 --> 01:53:44,000
+You don't have to generate codes,
+
+2423
+01:53:44,000 --> 01:53:46,000
+but start using them,
+
+2424
+01:53:46,000 --> 01:53:48,000
+take an hour, ask questions,
+
+2425
+01:53:48,000 --> 01:53:50,000
+see what you get back.
+
+2426
+01:53:50,000 --> 01:53:53,000
+I think that this one-hour experience
+
+2427
+01:53:53,000 --> 01:53:56,000
+will be worth more than a group of consultants
+
+2428
+01:53:56,000 --> 01:53:58,000
+with one-hour posts,
+
+2429
+01:53:58,000 --> 01:54:01,000
+to see what can be done.
+
+2430
+01:54:05,000 --> 01:54:08,000
+As far as management is concerned,
+
+2431
+01:54:08,000 --> 01:54:11,000
+and how it will be applied to companies,
+
+2432
+01:54:11,000 --> 01:54:13,000
+I think they will be at a point
+
+2433
+01:54:13,000 --> 01:54:16,000
+that is not too far away from that.
+
+2434
+01:54:16,000 --> 01:54:18,000
+Companies will start to appear
+
+2435
+01:54:18,000 --> 01:54:21,000
+that will entrust a part of their responsibilities
+
+2436
+01:54:21,000 --> 01:54:23,000
+to a dedicated agent.
+
+2437
+01:54:23,000 --> 01:54:26,000
+For example, the company Antropic,
+
+2438
+01:54:26,000 --> 01:54:29,000
+which is one of the most important players
+
+2439
+01:54:29,000 --> 01:54:31,000
+in large models,
+
+2440
+01:54:31,000 --> 01:54:33,000
+recently published an article,
+
+2441
+01:54:33,000 --> 01:54:36,000
+I think it was titled Constitutional AI,
+
+2442
+01:54:36,000 --> 01:54:38,000
+where they investigated
+
+2443
+01:54:38,000 --> 01:54:41,000
+how you can give a model some rules,
+
+2444
+01:54:41,000 --> 01:54:43,000
+or directions, or values,
+
+2445
+01:54:43,000 --> 01:54:46,000
+so that it doesn't neglect them.
+
+2446
+01:54:46,000 --> 01:54:49,000
+Then it transplants other models
+
+2447
+01:54:49,000 --> 01:54:51,000
+that are consistent with it,
+
+2448
+01:54:51,000 --> 01:54:53,000
+and trains them through it
+
+2449
+01:54:53,000 --> 01:54:56,000
+and automatically becomes more synchronous
+
+2450
+01:54:56,000 --> 01:54:58,000
+with those directions.
+
+2451
+01:54:58,000 --> 01:55:01,000
+I think that the company will start,
+
+2452
+01:55:01,000 --> 01:55:04,000
+when it investigates new business models,
+
+2453
+01:55:04,000 --> 01:55:07,000
+to form an infrastructure as code.
+
+2454
+01:55:07,000 --> 01:55:10,000
+We will have a company as code.
+
+2455
+01:55:10,000 --> 01:55:13,000
+You can have an orchestrator,
+
+2456
+01:55:13,000 --> 01:55:15,000
+in the sense of a COO,
+
+2457
+01:55:15,000 --> 01:55:19,000
+who will then assign tasks under the manager,
+
+2458
+01:55:19,000 --> 01:55:22,000
+and then he will process them,
+
+2459
+01:55:22,000 --> 01:55:24,000
+and in some of those tasks,
+
+2460
+01:55:24,000 --> 01:55:26,000
+he will hire people,
+
+2461
+01:55:26,000 --> 01:55:28,000
+in others, maybe not at all.
+
+2462
+01:55:28,000 --> 01:55:31,000
+In short, I think it will all work
+
+2463
+01:55:31,000 --> 01:55:33,000
+more closely together.
+
+2464
+01:55:33,000 --> 01:55:35,000
+And now, I mean,
+
+2465
+01:55:35,000 --> 01:55:37,000
+you can see where...
+
+2466
+01:55:37,000 --> 01:55:41,000
+I mean, if we go into the engineering world,
+
+2467
+01:55:41,000 --> 01:55:44,000
+or some companies,
+
+2468
+01:55:44,000 --> 01:55:46,000
+are there some...
+
+2469
+01:55:46,000 --> 01:55:48,000
+Can there already be
+
+2470
+01:55:48,000 --> 01:55:51,000
+a certain part of the workplace threatened?
+
+2471
+01:55:51,000 --> 01:55:54,000
+Let's say that AI, for example,
+
+2472
+01:55:54,000 --> 01:55:57,000
+will replace or halve
+
+2473
+01:55:57,000 --> 01:55:59,000
+a person's job.
+
+2474
+01:55:59,000 --> 01:56:02,000
+At the moment, my assessment is that
+
+2475
+01:56:02,000 --> 01:56:07,000
+this is an extremely unused technology.
+
+2476
+01:56:07,000 --> 01:56:09,000
+In the sense that,
+
+2477
+01:56:09,000 --> 01:56:12,000
+through most of the history of artificial intelligence,
+
+2478
+01:56:12,000 --> 01:56:14,000
+we had these illusions,
+
+2479
+01:56:14,000 --> 01:56:16,000
+what would be given,
+
+2480
+01:56:16,000 --> 01:56:18,000
+then you tried it, and it didn't work.
+
+2481
+01:56:18,000 --> 01:56:20,000
+Or it wasn't there yet.
+
+2482
+01:56:20,000 --> 01:56:23,000
+Then, relatively quickly,
+
+2483
+01:56:23,000 --> 01:56:25,000
+we jumped into a period
+
+2484
+01:56:25,000 --> 01:56:27,000
+when a lot of things can be done,
+
+2485
+01:56:27,000 --> 01:56:29,000
+but nobody knows about it.
+
+2486
+01:56:29,000 --> 01:56:31,000
+Or even if they know, they are sceptical,
+
+2487
+01:56:31,000 --> 01:56:33,000
+oh, that's not possible yet.
+
+2488
+01:56:33,000 --> 01:56:35,000
+And we have...
+
+2489
+01:56:35,000 --> 01:56:36,000
+Inefficiency.
+
+2490
+01:56:36,000 --> 01:56:37,000
+Yes.
+
+2491
+01:56:37,000 --> 01:56:38,000
+Incorrect.
+
+2492
+01:56:38,000 --> 01:56:40,000
+And even if we're talking about
+
+2493
+01:56:40,000 --> 01:56:42,000
+general artificial intelligence,
+
+2494
+01:56:42,000 --> 01:56:45,000
+it always seems to me
+
+2495
+01:56:45,000 --> 01:56:48,000
+that at some point we will have these systems at will,
+
+2496
+01:56:48,000 --> 01:56:50,000
+but they won't be used,
+
+2497
+01:56:50,000 --> 01:56:53,000
+which will be tragicomic,
+
+2498
+01:56:53,000 --> 01:56:55,000
+but it will happen.
+
+2499
+01:56:55,000 --> 01:56:56,000
+So,
+
+2500
+01:56:56,000 --> 01:56:59,000
+when we're talking about opportunities for people,
+
+2501
+01:56:59,000 --> 01:57:01,000
+you have to realize
+
+2502
+01:57:01,000 --> 01:57:03,000
+that what will be struggling
+
+2503
+01:57:03,000 --> 01:57:05,000
+is this communication and awareness
+
+2504
+01:57:05,000 --> 01:57:07,000
+of how to spread among people.
+
+2505
+01:57:07,000 --> 01:57:10,000
+Let's say that GPT has done a lot here,
+
+2506
+01:57:10,000 --> 01:57:12,000
+but still,
+
+2507
+01:57:12,000 --> 01:57:15,000
+in a way, very, very little.
+
+2508
+01:57:15,000 --> 01:57:18,000
+So, people who are worried
+
+2509
+01:57:18,000 --> 01:57:21,000
+about what the foundations are doing now,
+
+2510
+01:57:21,000 --> 01:57:23,000
+that it will be automated,
+
+2511
+01:57:23,000 --> 01:57:25,000
+they can think about it,
+
+2512
+01:57:25,000 --> 01:57:27,000
+and they can, when they start,
+
+2513
+01:57:27,000 --> 01:57:29,000
+focus more on the communication direction.
+
+2514
+01:57:29,000 --> 01:57:31,000
+To be that connection element
+
+2515
+01:57:31,000 --> 01:57:34,000
+that helps people
+
+2516
+01:57:34,000 --> 01:57:37,000
+to fill in those gaps.
+
+2517
+01:57:42,000 --> 01:57:43,000
+Scary.
+
+2518
+01:57:43,000 --> 01:57:44,000
+Oh yeah?
+
+2519
+01:57:44,000 --> 01:57:46,000
+Did you think about it?
+
+2520
+01:57:46,000 --> 01:57:48,000
+I also wrote here
+
+2521
+01:57:48,000 --> 01:57:50,000
+the risk of questions.
+
+2522
+01:57:53,000 --> 01:57:55,000
+Risk, opportunity,
+
+2523
+01:57:55,000 --> 01:57:56,000
+it's connected.
+
+2524
+01:57:56,000 --> 01:57:57,000
+Yeah.
+
+2525
+01:57:57,000 --> 01:57:59,000
+Maybe that's also
+
+2526
+01:57:59,000 --> 01:58:01,000
+the timeline situation.
+
+2527
+01:58:01,000 --> 01:58:04,000
+We've already implemented chat twice in our company,
+
+2528
+01:58:04,000 --> 01:58:06,000
+and it was a fail twice.
+
+2529
+01:58:06,000 --> 01:58:08,000
+People still call the call center,
+
+2530
+01:58:08,000 --> 01:58:10,000
+and we hired 60 people in the call center.
+
+2531
+01:58:10,000 --> 01:58:13,000
+Why, for God's sake, would we have a third or fourth GTP?
+
+2532
+01:58:13,000 --> 01:58:15,000
+But technology is probably like that.
+
+2533
+01:58:15,000 --> 01:58:18,000
+Now you will have a bot, now you will have an agent.
+
+2534
+01:58:18,000 --> 01:58:20,000
+But technology is developing,
+
+2535
+01:58:20,000 --> 01:58:22,000
+it's getting better and better.
+
+2536
+01:58:23,000 --> 01:58:26,000
+Yeah, that's what I wanted to say.
+
+2537
+01:58:26,000 --> 01:58:29,000
+For example, when we work on those announcements,
+
+2538
+01:58:29,000 --> 01:58:31,000
+where we are, and how long
+
+2539
+01:58:31,000 --> 01:58:33,000
+it will take us to get there.
+
+2540
+01:58:33,000 --> 01:58:35,000
+I'm currently working on Metacolus,
+
+2541
+01:58:35,000 --> 01:58:37,000
+which is a kind of prediction market.
+
+2542
+01:58:38,000 --> 01:58:40,000
+It's a specific question.
+
+2543
+01:58:40,000 --> 01:58:42,000
+When will it be publicly known,
+
+2544
+01:58:42,000 --> 01:58:44,000
+or I think it will be announced
+
+2545
+01:58:44,000 --> 01:58:46,000
+that it is not yet available.
+
+2546
+01:58:46,000 --> 01:58:48,000
+For example, artificial intelligence,
+
+2547
+01:58:48,000 --> 01:58:50,000
+and then in this question,
+
+2548
+01:58:50,000 --> 01:58:52,000
+they say it's a mistake.
+
+2549
+01:58:52,000 --> 01:58:54,000
+Artificial intelligence,
+
+2550
+01:58:54,000 --> 01:58:56,000
+which is only defined that it will
+
+2551
+01:58:56,000 --> 01:58:58,000
+reach a certain level of performance
+
+2552
+01:58:58,000 --> 01:59:00,000
+on one of the four benchmarks.
+
+2553
+01:59:01,000 --> 01:59:03,000
+For example, this year,
+
+2554
+01:59:03,000 --> 01:59:05,000
+in January,
+
+2555
+01:59:06,000 --> 01:59:08,000
+there was this announcement,
+
+2556
+01:59:09,000 --> 01:59:11,000
+which is usually done by people
+
+2557
+01:59:11,000 --> 01:59:13,000
+who know something about it.
+
+2558
+01:59:14,000 --> 01:59:16,000
+It was in 2042.
+
+2559
+01:59:18,000 --> 01:59:20,000
+A few days ago I looked at it,
+
+2560
+01:59:21,000 --> 01:59:23,000
+and now it's 2027.
+
+2561
+01:59:28,000 --> 01:59:30,000
+We're getting there.
+
+2562
+01:59:30,000 --> 01:59:32,000
+No, this prediction may only give
+
+2563
+01:59:32,000 --> 01:59:34,000
+an illustration of how much
+
+2564
+01:59:34,000 --> 01:59:36,000
+expectations have changed
+
+2565
+01:59:36,000 --> 01:59:38,000
+over the course of a year,
+
+2566
+01:59:38,000 --> 01:59:40,000
+and I find it interesting
+
+2567
+01:59:40,000 --> 01:59:42,000
+to look at companies that make
+
+2568
+01:59:42,000 --> 01:59:44,000
+plans, for example,
+
+2569
+01:59:44,000 --> 01:59:46,000
+plans for 10 years in the future.
+
+2570
+01:59:51,000 --> 01:59:53,000
+I don't hope to make plans
+
+2571
+01:59:53,000 --> 01:59:55,000
+for 10 years in the future.
+
+2572
+01:59:56,000 --> 01:59:58,000
+We're getting there.
+
+2573
+02:00:01,000 --> 02:00:03,000
+Let's tell people that
+
+2574
+02:00:03,000 --> 02:00:05,000
+they should learn more
+
+2575
+02:00:05,000 --> 02:00:07,000
+in machine learning.
+
+2576
+02:00:07,000 --> 02:00:09,000
+They should find out
+
+2577
+02:00:09,000 --> 02:00:11,000
+what these models are.
+
+2578
+02:00:11,000 --> 02:00:13,000
+They should be more open
+
+2579
+02:00:13,000 --> 02:00:15,000
+to these technologies.
+
+2580
+02:00:15,000 --> 02:00:17,000
+We can tell them that
+
+2581
+02:00:17,000 --> 02:00:19,000
+there is a lot of documentation,
+
+2582
+02:00:19,000 --> 02:00:21,000
+a lot of examples,
+
+2583
+02:00:21,000 --> 02:00:23,000
+and that they should not use
+
+2584
+02:00:23,000 --> 02:00:25,000
+these tasks too often,
+
+2585
+02:00:25,000 --> 02:00:27,000
+that they should become
+
+2586
+02:00:27,000 --> 02:00:29,000
+more ergonomic,
+
+2587
+02:00:29,000 --> 02:00:31,000
+that there are fewer tasks
+
+2588
+02:00:31,000 --> 02:00:33,000
+and that they should be more
+
+2589
+02:00:33,000 --> 02:00:35,000
+alert and aware of these technologies,
+
+2590
+02:00:35,000 --> 02:00:37,000
+that they are most prepared for tasks,
+
+2591
+02:00:37,000 --> 02:00:39,000
+and that it's probably a good time
+
+2592
+02:00:39,000 --> 02:00:41,000
+to get rid of these things.
+
+2593
+02:00:41,000 --> 02:00:43,000
+Yes, I think the time is now
+
+2594
+02:00:43,000 --> 02:00:45,000
+the best,
+
+2595
+02:00:45,000 --> 02:00:47,000
+it would be even better
+
+2596
+02:00:47,000 --> 02:00:49,000
+a day ago.
+
+2597
+02:00:49,000 --> 02:00:51,000
+Maybe one such
+
+2598
+02:00:51,000 --> 02:00:53,000
+general thing.
+
+2599
+02:00:53,000 --> 02:00:55,000
+Neural networks have
+
+2600
+02:00:55,000 --> 02:00:57,000
+a kind of easiness,
+
+2601
+02:00:57,000 --> 02:00:59,000
+catastrophic forgetting,
+
+2602
+02:00:59,000 --> 02:01:01,000
+or something like that.
+
+2603
+02:01:01,000 --> 02:01:03,000
+When you train a network,
+
+2604
+02:01:03,000 --> 02:01:05,000
+it adds healthy data,
+
+2605
+02:01:05,000 --> 02:01:07,000
+and then you start to train it
+
+2606
+02:01:07,000 --> 02:01:09,000
+on a slightly different problem,
+
+2607
+02:01:09,000 --> 02:01:11,000
+and it forgets quickly.
+
+2608
+02:01:11,000 --> 02:01:13,000
+I have the feeling that
+
+2609
+02:01:13,000 --> 02:01:15,000
+a lot of people have this
+
+2610
+02:01:15,000 --> 02:01:17,000
+catastrophic remembering problem.
+
+2611
+02:01:17,000 --> 02:01:19,000
+People start to build
+
+2612
+02:01:19,000 --> 02:01:21,000
+some expertise in a field,
+
+2613
+02:01:21,000 --> 02:01:23,000
+they draw some value,
+
+2614
+02:01:23,000 --> 02:01:25,000
+self-value from it,
+
+2615
+02:01:25,000 --> 02:01:27,000
+and it's very difficult for them
+
+2616
+02:01:27,000 --> 02:01:29,000
+to accidentally come across a technology
+
+2617
+02:01:29,000 --> 02:01:31,000
+that makes that skill less useful.
+
+2618
+02:01:33,000 --> 02:01:35,000
+Yes, because I didn't learn it,
+
+2619
+02:01:35,000 --> 02:01:37,000
+I didn't know it.
+
+2620
+02:01:37,000 --> 02:01:39,000
+Part of it is that people
+
+2621
+02:01:39,000 --> 02:01:41,000
+don't program into our habits,
+
+2622
+02:01:41,000 --> 02:01:43,000
+and we build
+
+2623
+02:01:43,000 --> 02:01:45,000
+a whole mindset around it,
+
+2624
+02:01:45,000 --> 02:01:47,000
+and then it's hard
+
+2625
+02:01:47,000 --> 02:01:49,000
+to come up with something new
+
+2626
+02:01:49,000 --> 02:01:51,000
+if we don't deprogram
+
+2627
+02:01:51,000 --> 02:01:53,000
+or start using
+
+2628
+02:01:53,000 --> 02:01:55,000
+these new tasks.
+
+2629
+02:01:55,000 --> 02:01:57,000
+Yes, but
+
+2630
+02:01:57,000 --> 02:01:59,000
+there's something special
+
+2631
+02:01:59,000 --> 02:02:01,000
+about our industry,
+
+2632
+02:02:01,000 --> 02:02:03,000
+that things happen really fast,
+
+2633
+02:02:03,000 --> 02:02:05,000
+and if
+
+2634
+02:02:05,000 --> 02:02:07,000
+you don't invest
+
+2635
+02:02:07,000 --> 02:02:09,000
+your time and
+
+2636
+02:02:09,000 --> 02:02:11,000
+money in development
+
+2637
+02:02:11,000 --> 02:02:13,000
+and acquiring your knowledge,
+
+2638
+02:02:13,000 --> 02:02:15,000
+you get stuck.
+
+2639
+02:02:17,000 --> 02:02:19,000
+I don't know, I won't have much to say
+
+2640
+02:02:19,000 --> 02:02:21,000
+if we don't talk about these things.
+
+2641
+02:02:21,000 --> 02:02:23,000
+These are the experiences
+
+2642
+02:02:23,000 --> 02:02:25,000
+that teach you
+
+2643
+02:02:25,000 --> 02:02:27,000
+that you shouldn't fall asleep.
+
+2644
+02:02:27,000 --> 02:02:29,000
+Yes, OK.
+
+2645
+02:02:29,000 --> 02:02:31,000
+Well, I think
+
+2646
+02:02:31,000 --> 02:02:33,000
+we should go and eat
+
+2647
+02:02:33,000 --> 02:02:35,000
+or something.
+
+2648
+02:02:35,000 --> 02:02:37,000
+Why are you laughing?
+
+2649
+02:02:37,000 --> 02:02:39,000
+What about the viewers and listeners?
+
+2650
+02:02:41,000 --> 02:02:43,000
+If you're hungry, eat.
+
+2651
+02:02:43,000 --> 02:02:45,000
+If you're hungry, eat.
+
+2652
+02:02:45,000 --> 02:02:47,000
+If you're in a hurry, wait a little longer.
+
+2653
+02:02:47,000 --> 02:02:49,000
+Boris, thank you very much
+
+2654
+02:02:49,000 --> 02:02:51,000
+for your time and views.
+
+2655
+02:02:51,000 --> 02:02:53,000
+Last words?
+
+2656
+02:02:53,000 --> 02:02:55,000
+Thank you for everything.
+
+2657
+02:02:57,000 --> 02:02:59,000
+I also told you
+
+2658
+02:02:59,000 --> 02:03:01,000
+to watch Endavo,
+
+2659
+02:03:01,000 --> 02:03:03,000
+and Karirse,
+
+2660
+02:03:03,000 --> 02:03:05,000
+who also has some interesting roles.
+
+2661
+02:03:05,000 --> 02:03:07,000
+Brendan from Steklanička.
+
+2662
+02:03:07,000 --> 02:03:09,000
+Yes, Steklanička.
+
+2663
+02:03:09,000 --> 02:03:11,000
+So watch Endavo.
+
+2664
+02:03:11,000 --> 02:03:13,000
+Andraž, thank you
+
+2665
+02:03:13,000 --> 02:03:15,000
+for your time.
+
+2666
+02:03:15,000 --> 02:03:17,000
+Jan, thank you too.
+
+2667
+02:03:17,000 --> 02:03:19,000
+So,
+
+2668
+02:03:19,000 --> 02:03:21,000
+listen to us more,
+
+2669
+02:03:21,000 --> 02:03:23,000
+share this with your colleagues,
+
+2670
+02:03:23,000 --> 02:03:25,000
+give us some feedback,
+
+2671
+02:03:25,000 --> 02:03:27,000
+and see you next time.
+
+2672
+02:03:27,000 --> 02:03:29,000
+Bye.
